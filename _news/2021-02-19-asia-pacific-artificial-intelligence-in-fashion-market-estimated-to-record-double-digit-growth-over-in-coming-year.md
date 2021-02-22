@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2245072/asia-pacific-artificial-intelligenc
 ampWebUrl: "https://www.openpr.com/amp/2245072/asia-pacific-artificial-intelligence-in-fashion-market"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245072/asia-pacific-artificial-intelligence-in-fashion-market"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/U/2/U218916006_g.jpg"

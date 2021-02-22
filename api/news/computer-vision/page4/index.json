@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-01-23-a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming.md",
-      "title": "A scary proposal to use facial recognition and AI by an Indian state has experts fuming",
-      "excerpt": "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
-      "originalUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/photo/80422279/Master.jpg",
-          "width": 500,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
-      "publishedDateTime": "2021-01-23T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
       "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
       "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",

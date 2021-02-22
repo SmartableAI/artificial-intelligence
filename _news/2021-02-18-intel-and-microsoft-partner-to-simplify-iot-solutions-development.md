@@ -9,7 +9,7 @@ ampWebUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-par
 cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
+    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
+    publishedDateTime: 2021-02-22T15:05:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 49
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
     excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
     publishedDateTime: 2021-02-19T07:23:00Z

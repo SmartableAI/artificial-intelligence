@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg"

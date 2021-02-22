@@ -2,29 +2,19 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T21:20:00Z
-originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+publishedDateTime: 2021-02-11T16:20:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg"
-    width: 1619
-    height: 1060
-    isCached: true
-
-secured: "ckC29yx3rqE1c7DBZ4B1pwTP0LP6qFgC+N6VVQx+DqC/P8gMwLH66Tj3O9mEKV1GxnJ1ocWhAou/NvbBjJfTggJT+kBIV1gw9uzs/SG5+gdzBEDrpzCYUr840QkfKiHhlUKnpbV2wN7suZ+zNJkNN1/ifKk2rVKdISU8nRnO7cbD2B9EPwt+yY4u5CFonJ1fD3gEHT/+V8ggxP9C41JO0/bytZVOxa3tm7uwzaMpEQ1kWKLnNUdd4+MUGKQRowfkRXty5S80DreXPE3vJxJT/oS/AAsH7q69hifZ+NJEC5lAIfv6X5c6WXLq2/IxqUYgZ6SqHMOMWZZ3ZVeoHD7JeCplgGB76tsCbbyKiV/nn80=;2Ws0Sz2CmaFsMl8jMH2vYQ=="
+secured: "QLYKLT63G4MkHgmzKHiBYrBogJGh7ij74vMRJWRsmlJ/uTaJrh66M6AZBYjH9jLaFbXPMnwCjlrb1bWhzojsOz8oN6nMbq0jkinrs/oVhdxPYlKazMlhd8rRKixP4qROjXliZ+lFLav9xdfkWDtQhp8UAZdzX1Txbg4MdNBjtCn4RnfaWQ2FTtO3HgGKwfvK7F9bzT0xhn4kd/LllCX8b4/1pqjP0MUqaTFt9khQ6VtFbMkaoEekwOAhvyFNwdKbf7VG5MLPCzz14KUwll/+9Hx8Iq4vzuVjhqGwrwchlnJw81gT0U2U7C8Ns+76DGz3xhUDI18IUQlPGzgiW8E324qNM0ZNHCoBd4fQHMMDZO8=;6/laKlowmMtkn8em3QTjZg=="
 ---
 

@@ -2,6 +2,91 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-20-a-robotics-revolution-unpacking-the-actively-managed-arkq.md",
+      "title": "A Robotics Revolution? Unpacking the Actively Managed ‘ARKQ’",
+      "excerpt": "Robotics is one of the more rapidly evolving various disruptive technology themes. Investors can join the party with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ). The actively managed ARKQ invests in companies that stand to benefit from the increased adoption and utilization of robotics and artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "originalUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "publishedDateTime": "2021-02-19T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-google-ai-chief-apologizes-for-researchers-acrimonious-exit.md",
+      "title": "Google AI Chief Apologizes for Researcher’s Acrimonious Exit",
+      "excerpt": "Google plans to make changes to executive compensation and increase human resources staffing, acknowledging fault in its acrimonious split with Timnit Gebru, a prominent former employee who is Black,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 357,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3FV3vpWMGCk/v1/1200x900.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T11:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-googles-model-search-automatically-optimizes-and-identifies-ai-models.md",
       "title": "Google’s Model Search automatically optimizes and identifies AI models",
       "excerpt": "Google open-sourced Model Search, a tool that automatically optimizes and identifies AI models given a dataset and task.",
@@ -692,15 +777,15 @@
       ]
     },
     {
-      "path": "_news/2021-02-19-artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025.md",
-      "title": "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025",
-      "excerpt": "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025.",
+      "path": "_news/2021-02-19-voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast.md",
+      "title": "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast",
+      "excerpt": "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19",
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -716,7 +801,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T22:50:00-08:00",
+      "publishedDateTime": "2021-02-18T23:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -739,6 +824,7 @@
         "news"
       ],
       "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1121,111 +1207,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-a-better-customer-experience-is-important-but-its-just-one-way-ai-and-machine-learning-can-transform-the-enterprise.md",
-      "title": "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise",
-      "excerpt": "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2",
-      "originalUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602457d867d1e300113c5696?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp",
-      "publishedDateTime": "2021-02-18T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-why-developing-ai-to-defeat-us-may-be-humanitys-only-hope.md",
-      "title": "Why developing AI to defeat us may be humanity’s only hope",
-      "excerpt": "One glance at the state of things and it’s evident humanity’s evolved itself into a corner. On the one hand, we’re smart enough to create machines that learn. On the other, people are dying in Texas because elected officials want to keep the government out of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/poorrobot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "publishedDateTime": "2021-02-18T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

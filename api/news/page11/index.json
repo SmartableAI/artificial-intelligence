@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
+      "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.md",
+      "title": "How to use facial recognition from your Photos library with Apple HomeKit Secure Video",
+      "excerpt": "Apple lets you know who is at the door or another camera when used in conjunction with its secure video system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.html",
+      "originalUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/12/mac911-homekit-face-rec-config-100872057-medium.jpg",
+          "width": 300,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.amp.html",
+      "publishedDateTime": "2021-02-11T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-can-privacy-coexist-with-technology-that-reads-and-changes-brain-activity.md",
       "title": "Can privacy coexist with technology that reads and changes brain activity?",
       "excerpt": "An onslaught of new technology aims to listen to — and maybe even change — your brain activity. Readers, scientists and ethicists grapple with the ethical implications of new ways to get inside the skull.",
@@ -150,49 +245,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-nhl-takes-big-stride-on-data-and-analytics-with-aws-deal.md",
-      "title": "NHL takes big stride on data and analytics with AWS deal",
-      "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/",
-      "originalUrl": "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/740a207bbec9f89126631fd62b1d0320f2e9bc83/c=0-157-3000-1845/local/-/media/2021/02/10/USATODAY/usatsports/ead979f8cbf645d5951e429adda246c4.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/115459788",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115459788",
-      "publishedDateTime": "2021-02-11T01:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-sdls-intelligent-language-solution-enables-alteryx-to-manage-and-translate-any-type-of-content-across-the-business.md",
       "title": "SDL’s Intelligent Language Solution Enables Alteryx to Manage and Translate Any Type of Content Across the Business",
       "excerpt": "SDL helps support Alteryx’s translation strategy MAIDENHEAD, England--(BUSINESS WIRE)--SDL, part of RWS Holdings plc, today announced that it is providing the industry's only end-to-end intelligent translation management solution to Alteryx,",
@@ -232,6 +284,49 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-nhl-takes-big-stride-on-data-and-analytics-with-aws-deal.md",
+      "title": "NHL takes big stride on data and analytics with AWS deal",
+      "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/5720b382cc681c7db9e7c871513456b8",
+      "originalUrl": "https://apnews.com/5720b382cc681c7db9e7c871513456b8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/047ba679d814498c92b53054b8eced0b/2480.jpeg",
+          "width": 2480,
+          "height": 1653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T23:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1037,102 +1132,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-cye-raises-120-million-for-security-using-hackers-and-ai.md",
-      "title": "CYE raises $ 120 million for security using hackers and AI",
-      "excerpt": "CYE raises $ 120 million for security using hackers and AI The rising number of cyber attacks in recent years has led to a massive",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
-      "originalUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/CYE-raises-120-million-for-security-using-hackers-and.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
-      "publishedDateTime": "2021-02-10T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-self-driving-trucking-startup-taps-us-chinese-investors.md",
-      "title": "Self-Driving Trucking Startup Taps U.S., Chinese Investors",
-      "excerpt": "Self-driving trucking startup PlusAI raised $200 million in fresh capital from investors including several top-tier Silicon Valley venture-capital firms as well as a Chinese investment firm and automotive companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297255/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
-      "publishedDateTime": "2021-02-10T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

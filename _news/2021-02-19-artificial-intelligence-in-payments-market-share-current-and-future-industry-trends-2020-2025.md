@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,26 +28,62 @@ images:
     isCached: true
 
 related:
-  - title: "Global Smart Robots Market (2020to 2026) - by Component, Mobility, Operating Environment, End-user and Region"
-    excerpt: "The global smart robots market size is expected to reach $25 billion by 2026, rising at a market growth of 27.2% CAGR during the forecast period. Smart robots are considered as artificial intelligence system that provides optimum management of an environment with the combined work of human operators and robots."
-    publishedDateTime: 2021-02-18T19:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-smart-robots-market-2020to-2026-by-component-mobility-operating-environment-end-user-and-region-1030098788"
+  - title: "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast"
+    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019."
+    publishedDateTime: 2021-02-19T07:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
-  - title: "Emerging Gesture Recognition Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2025"
-    excerpt: "Gesture Recognition Market report analyse the manufacturers with profile, main business, news, sales, price, revenue and market share. Gesture Recognition report displays the"
-    publishedDateTime: 2021-02-19T05:56:00Z
-    webUrl: "https://www.wboc.com/story/43377642/emerging-gesture-recognition-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2025"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Industry Report 2027 | Opportunity, Challenges, Rising Trends and Forecast"
+    excerpt: "The Detailed Market intelligence report on the Artificial Intelligence in Manufacturing Market applies the most effective"
+    publishedDateTime: 2021-02-19T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-industry-report-2027-opportunity-challenges-rising-trends-and-forecast-2021-02-19"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
+    publishedDateTime: 2021-02-22T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
+    excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
+    publishedDateTime: 2021-02-18T03:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-2021-cagr-value-size-top-key-venders-market-segmentation-growth-factor-trends-types-to-2024-2021-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ldqI9p22hs7Z0c7LxbXytWIOusKg/4ECnGSrxEy7Hq3/L+eGoAf2aUiPGLkAwa1HPeDk+RuFkCG4b/inI4EE5/8mWqxgJK/+kCzn8Pn4+gjFTgYQpLrTglERouGsApA278+IcapIr+/MZPWjEgjppLR2tkKWdOHxwShHeUtl2GDCSUqaRuJxFPMUYDj4x99z9KEZXZth1gpesCd4oWUsB2qROCbU87rf31mpVqHzxmQiVGagfwWlT5AQ9CjxPBrqELM1pZt3ZY45xJjK9vQeiPtsKifAbA4PcLLIsNxQD6gRNXYTOrWqyH/D+lzRF4PWGp/W9jjQHJZMlcxc6iunxdUzi/63DobElxcEoTf5J/I=;kHDFZEPRVh2KtIr3UHF7eQ=="
 ---

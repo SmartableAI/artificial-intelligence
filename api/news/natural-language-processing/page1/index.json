@@ -101,21 +101,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-19-civil-rights-groups-want-biden-to-halt-government-use-of-facial-recognition.md",
-      "title": "Civil rights groups want Biden to halt government use of facial recognition",
-      "excerpt": "President Biden is facing pressure from civil rights and tech advocacy groups to halt the use of facial recognition by the government.",
+      "path": "_news/2021-02-19-voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast.md",
+      "title": "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast",
+      "excerpt": "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/biden-facial-recognition-pressure/",
-      "originalUrl": "https://www.dailydot.com/debug/biden-facial-recognition-pressure/",
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://uploads.dailydot.com/2021/02/Joe-Biden-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -123,14 +123,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/biden-facial-recognition-pressure/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/biden-facial-recognition-pressure/?amp",
-      "publishedDateTime": "2021-02-18T08:13:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T23:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -140,8 +149,7 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "Computer Vision"
+        "AI"
       ]
     },
     {
@@ -358,8 +366,8 @@
       "title": "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver.",
       "excerpt": "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software.",
       "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
-      "originalUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "webUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "originalUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -378,11 +386,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T02:36:00-08:00",
+      "publishedDateTime": "2021-02-15T02:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
         "images": null,
         "publishers": null,
         "authors": null

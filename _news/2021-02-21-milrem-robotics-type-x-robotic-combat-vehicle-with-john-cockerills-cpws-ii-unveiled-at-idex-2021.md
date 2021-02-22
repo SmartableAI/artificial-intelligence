@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Milrem Robotics’ Type-X Robotic Combat Vehicle with John Cockerill’s CPWS II unveiled at IDEX 2021"
+    excerpt: "The Type-X provides means to engage the enemy with minimal risk to own troops. Replacing a lost RCV instead of trained soldiers is purely a logistical nuance"
+    publishedDateTime: 2021-02-22T15:27:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=16323"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 20
+
 secured: "v37jgJTieBPYKxlUzHXq2fGx0pIOjeVdZXHYoc+3eT+bACO69G/MumwqVjaKlemxv9D/Ap+YkIEnRq0pypOh2s2Vcsd4VF4yisiYEvvMHraBu4wRVkoBZcfa+tnp3KbYgRHIALM02h8Kaup/rO6tEKw4lSCbZJNRsC0zN5MYi85btHVDLnt5Zy6FvourFBERSvQAsfIfnU1B19kdD6TqCyHwHc2qs+QdVWxEFrm7FuqCp2WMKcrgyTNAgByfdLVVfUZyR4LkRCZL4rhbJ2EFeyiCnvUeDEAGemsl+tWkHaUYj7jASXmLvcTzqFr5aszEZtiX/fZhQ+c5pae+MIyhik7xUczY3BFQSoPufbcSjvUDG7uH7E2Xf9H2IhZ2PLQUgguNWc94xgSZUJ46CYQmosznA6VpSA/cf4pjY97LL5jiDrF65Mbm/Yqh0OhtWdsOZICKNcp8cR6FVYvy9yW818ikYUre6z2pbHOSI2JbQ6StW3eG3kiBdThUezjGaelxi+I0WY0VwQxvjvm4hzEYxg==;G82T8Xs0jsKPBhaoAOOarw=="
 ---
 

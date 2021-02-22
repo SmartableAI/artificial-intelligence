@@ -25,6 +25,24 @@ images:
     height: 582
     isCached: true
 
+related:
+  - title: "Israeli startup Torii scores $10M to automate SaaS management"
+    excerpt: "Torii helps your organization understand how much of the budget is going towards SaaS spend, and simplifies SaaS management by adding AI into the"
+    publishedDateTime: 2021-02-22T15:41:00Z
+    webUrl: "https://www.geektime.com/israeli-startup-torii-scores-10m-to-automate-saas-management/"
+    ampWebUrl: "https://www.geektime.com/israeli-startup-torii-scores-10m-to-automate-saas-management/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/israeli-startup-torii-scores-10m-to-automate-saas-management/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 42
+    images:
+      - url: "https://www.geektime.com/content/images/2021/02/----------------------------------------------------------------Torii.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "zVQw2aP/+FWfgi8AUexlwH5e89bUjZ25/gZ+G3H4/Ub9UVwZCkNWClcRTEJauSeCsNxfSNOE0SKt3bwQ7RS2OO7wryhYSMuToudEIdI7o/m75Nj0xoRFuJNYDy0pu/whr3megwGxM5jTCrXDIgHws2v4zbxbsJjlPTqGasQOU0hn5F0r9/qi6aBPwzJ7W/DTZFWwpEJcBnrbFvyYuQ1c9YW4qWgALuit5g5HAwws86xc84+jO9FHwMFn6f2e2/G51hP8DZP+wj6/yNiXzYjRrezfXMYP3KDBnIc4ceXvVXJ1HAxOtEgmDisRhinK5f4+dgYTstu9qU2oDWGv4HBC254GC5rfZp+xMVvu0htqdtVXzTlDj0AT94cU6x7gSFZSsZ0w2br/o6w/oEoS/bSxWc3L/gRzNTSZJbE7CiSk0s/KvCV0buNpGn2PyOdtSAQk436JtMuP9btUxrVh+MqWg9QiWytl6sbw43GvueuSriRBu+DlyeMzrQQDkBXpxNOMvcfBXcQmE/qUg4POtaOucw==;bK73dn4ITojtYm1CohgdBw=="
 ---
 

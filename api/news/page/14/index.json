@@ -2,6 +2,100 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-09-bengaluru-airport-bags-voice-of-the-customer-global-recognition.md",
+      "title": "Bengaluru airport bags 'Voice of the Customer' global recognition",
+      "excerpt": "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
+      "originalUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/02/09/600x338/Bangalore_International_Airport_Limited_1612853485727_1612853517355.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
+      "publishedDateTime": "2021-02-08T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-artificial-intelligence-software-detects-ocean-plastics-from-the-air.md",
+      "title": "Artificial intelligence software detects ocean plastics from the air",
+      "excerpt": "As millions of tons of plastic wash into the ocean everyday, scientists have their work cut out for them in trying to keep tabs on its whereabouts, but they may soon have a useful new tool at the their disposal.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
+      "originalUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/518a071/2147483647/strip/true/crop/531x354+95+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F33%2F15%2Fe832521e480ab36b0212d149d76a%2F255516-web.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
+      "publishedDateTime": "2021-02-08T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-22-million-seed-round.md",
       "title": "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round",
       "excerpt": "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2.",
@@ -52,49 +146,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-it-veterans-launch-15-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-salesforce-needs.md",
-      "title": "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs.",
-      "excerpt": "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot , soon available on the Salesforce AppExchange. BiQ Robot deep-cleans and updates Salesforce contact files' details autonomously through the application of AI and other innovative technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs",
-      "originalUrl": "https://menafn.com/1101567043/IT-Veterans-launch-15-million-artificial-intelligence-Startup-BiQ-Robot-in-response-to-evolving-Salesforce-needs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -729,6 +780,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-it-veterans-launch-15-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-salesforce-needs.md",
+      "title": "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs.",
+      "excerpt": "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot, soon available on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19543999",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19543999",
+      "publishedDateTime": "2021-02-08T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
       "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
       "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
@@ -1123,110 +1208,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-artificial-intelligence-in-the-corporate-boardroom.md",
-      "title": "Artificial Intelligence In The Corporate Boardroom",
-      "excerpt": "We live in a new technological era, one where board members have to be prepared for situations where artificial i (AI) affects and maybe even disrupts their deliberations, with regards to both shareholders and stakeholder groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
-      "originalUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60213a6694af6361fcb98437%2F0x0.jpg%3FcropX1%3D153%26cropX2%3D9341%26cropY1%3D0%26cropY2%3D5168",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anatalonbeck/2021/02/08/artificial-intelligence-in-the-corporate-boardroom/amp/",
-      "publishedDateTime": "2021-02-08T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles.md",
-      "title": "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles",
-      "excerpt": "LIZHI INC. (\"LIZHI\" or the \"Company\") (NASDAQ: LIZI), a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles-2021-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

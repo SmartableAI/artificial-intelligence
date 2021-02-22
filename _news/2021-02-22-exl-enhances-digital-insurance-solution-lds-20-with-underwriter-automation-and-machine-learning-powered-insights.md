@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/exl-enhances-digital-in
 ampWebUrl: "https://markets.businessinsider.com/amp/news/EXL-enhances-digital-insurance-solution-LDS-2-0-with-underwriter-automation-and-machine-learning-powered-insights-1030107551"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/EXL-enhances-digital-insurance-solution-LDS-2-0-with-underwriter-automation-and-machine-learning-powered-insights-1030107551"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 secured: "eUzAjnQh2qsogMmKOHUUX6W+RlXAugPiI5hXOCWJHp0B8vjK/JHB6/c80TpQuLTZTPopSRHxDyYQQs4rep2KcJjVGtxns7+vg+doHIAEhXlC5a/2OtPqB5s9h5GH3oNQYelGVWnYGn1IXeVWSbH8Jx7qAlfUmrCtt0bdxt1ZD1kqSL9HjUvpuUCrvJhORcPusnX26qfKuTA7BUX99BBdWqZsYVQ3r5ve3cz2mDWToxQJRblhXVkt0M62fcLkPcElNyYKRYUSAKB0DaoAl1NaTcd7VlKXocHLwk95fZpylajQ/EbqLNd1Mld4DoMeXtFMMoIpcWO6PaB9bqpOlBnqFW9NKp5Znwr2zyh1np6MFnw=;oNIpBPlUxPM0dpJ9rh29UA=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: MarketWatch
@@ -29,29 +29,57 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing (NLP) Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2024"
-    excerpt: "Selbyville, Delaware. The report on Cloud Natural Language Processing (NLP) market is a comprehensive evaluation"
-    publishedDateTime: 2021-02-18T00:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
+  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
+    publishedDateTime: 2021-02-19T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Manufacturing Industry Report 2027 | Opportunity, Challenges, Rising Trends and Forecast"
+    excerpt: "The Detailed Market intelligence report on the Artificial Intelligence in Manufacturing Market applies the most effective"
+    publishedDateTime: 2021-02-19T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-industry-report-2027-opportunity-challenges-rising-trends-and-forecast-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
+    publishedDateTime: 2021-02-22T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
+    excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
+    publishedDateTime: 2021-02-18T03:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-2021-cagr-value-size-top-key-venders-market-segmentation-growth-factor-trends-types-to-2024-2021-02-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

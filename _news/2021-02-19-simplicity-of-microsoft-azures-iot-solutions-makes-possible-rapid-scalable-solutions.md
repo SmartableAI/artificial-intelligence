@@ -41,6 +41,20 @@ related:
         width: 800
         height: 360
         isCached: true
+  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
+    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
+    publishedDateTime: 2021-02-22T15:05:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 49
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
     excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
     publishedDateTime: 2021-02-21T19:56:00Z
