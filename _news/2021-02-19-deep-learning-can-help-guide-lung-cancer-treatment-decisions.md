@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning may help doctors choose better lung cancer treatments"
-    excerpt: "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers."
-    publishedDateTime: 2021-02-17T14:08:00Z
-    webUrl: "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/1-deeplearning.jpg"
-        width: 730
-        height: 476
-        isCached: true
   - title: "Machine learning model may guide treatment decisions for lung cancer patients"
     excerpt: "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers."
     publishedDateTime: 2021-02-18T02:05:00Z
@@ -66,6 +50,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
+  - title: "Intelligent models for smarter decision-making"
+    excerpt: "Organizations are looking to artificial intelligence to bolster how they do simulations, leading to faster innovation and ultimately better products."
+    publishedDateTime: 2021-02-18T16:10:00Z
+    webUrl: "https://www.technologyreview.com/2021/02/18/1018650/intelligent-models-for-smarter-decision-making/"
+    ampWebUrl: "https://www.technologyreview.com/2021/02/18/1018650/intelligent-models-for-smarter-decision-making/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/02/18/1018650/intelligent-models-for-smarter-decision-making/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/02/MIT_Siemens_AISimulation.png?w=2362"
+        width: 2362
+        height: 1116
+        isCached: true
 
 secured: "I4HTy5KrpNsgd3FRqGRFSpJMXEBS+WHp4ObFSJVzTIGHpvSTMUO0oiZfWlPhBbNmsirbGUKd+VwZVMShr50wOhqtK0SgFVvsGlKJOgMh52j0JSvDkqAewWaUBHPmUSWdyb8tb4ZVvvehXESrePbzW5WHhKPqBMQ37xrZHkmgKxdkZ2elvMJ5GlpwZ4a8FcqYdeRdK6B3kVMKSPECKL9E6jhQ2IrFeZSFsrEJMYIXTtYbe+SUqOwjrAl/9fjZc9H8Is3xuxbmV/xGaJWMqipoxIgfeje4r+Qa9sr3e0nnAFZ0QIoIbJfsgp/zm9ERV6VqIkQmd/zT7Rq830u9im7EtaD0q//Z8ombdSYU6jQGD8E=;ce+Cie3p4K1+4nbz0qE19g=="
 ---

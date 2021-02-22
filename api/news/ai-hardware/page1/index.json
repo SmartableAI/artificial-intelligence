@@ -212,6 +212,93 @@
       ]
     },
     {
+      "path": "_news/2021-02-18-smart-machines-ai-technologys-impact-on-floridas-business-sectors.md",
+      "title": "Smart Machines: AI technology’s impact on Florida’s business sectors",
+      "excerpt": "AI can’t replace humans, but the technology is making inroads in more and more business sectors. In an oft-quoted interview with Life magazine in 1970, Marvin Minsky, an MIT researcher and pioneer in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/",
+      "originalUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/utyknz4ZES4gecWGUel9wrw-fh8=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/JQLH2WUYRJHPRI63JKOFIHE5DA.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp",
+      "publishedDateTime": "2021-02-18T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-samsung-creates-ram-with-integrated-ai-processing-hardware.md",
+      "title": "Samsung creates RAM with integrated AI processing hardware",
+      "excerpt": "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php",
+      "originalUrl": "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg",
+          "width": 1220,
+          "height": 526,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php",
+      "publishedDateTime": "2021-02-17T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-recogni-raises-489-million-for-ai-powered-perception-chips.md",
       "title": "Recogni raises $48.9 million for AI-powered perception chips",
       "excerpt": "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital.",
@@ -578,8 +665,8 @@
       "title": "How to manage your power bill while adopting AI",
       "excerpt": "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates.",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1",
+      "webUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
+      "originalUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -598,7 +685,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T17:57:00-08:00",
+      "publishedDateTime": "2021-02-11T17:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ARN",
@@ -1351,110 +1438,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems.md",
-      "title": "Who needs a supercomputer? Your desktop PC and a GPU might be enough to solve some of the largest problems",
-      "excerpt": "A new method significantly reduces the amount of memory needed for brain simulations, freeing some AI models from the need for a supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "originalUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/02/43f7be8f-9cba-4383-86c1-dd00d73b639a/james-knight-and-thomas-nowotny.jpg",
-          "width": 1154,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "publishedDateTime": "2021-02-03T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-xiaomi-founder-lei-jun-acquires-controlling-stake-in-ai-chip-developer-cvitek.md",
-      "title": "Xiaomi Founder Lei Jun acquires controlling stake in AI chip developer CVITEK",
-      "excerpt": "Earlier today (3rd February 2021), a new report surfaced that revealed that the Founder and CEO of Xiaomi has acquired stakes in a Chinese artificial intelligence development based firm called CVITEK.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
-      "originalUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/abt-b.4202f298-e1612343206607.png",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T01:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

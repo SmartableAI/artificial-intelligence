@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power"
-    excerpt: "PIM’ will deliver over twice the system performance and reduce energy consumption"
-    publishedDateTime: 2021-02-17T14:14:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 62
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Samsung creates RAM with integrated AI processing hardware"
     excerpt: "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads."
     publishedDateTime: 2021-02-17T17:50:00Z
@@ -144,20 +130,6 @@ related:
       - url: "https://www.kitguru.net/wp-content/uploads/2021/02/JaFBrGHH2VoBVxxz-732x330.jpg"
         width: 732
         height: 330
-        isCached: true
-  - title: "Samsung's New HBM-PIM Memory Doubles Performance, Packs AI Brainpower For Data Centers"
-    excerpt: "Samsung has developed the world's HBM solution with integrated AI processing power, capable of 1.2 TFLOPs of performance."
-    publishedDateTime: 2021-02-17T14:54:00Z
-    webUrl: "https://hothardware.com/news/samsung-hbm-pim-memory-doubles-performance-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54294/content/small_samsung-hbm-pim.jpg"
-        width: 708
-        height: 337
         isCached: true
 
 secured: "cD6jrX2LI/CBwzIU0qLsQxTVgkAU/KUoIWmRZuidUDvTVf1A9TEKKxgpL/26x2v8MNIGbA7h6EeBotxtvk1Jfo1VHw+nFc7CQ4oznEmU6ZvEpInXDbnTGAoZUEzfhKZUOHj6Rbh3+6qCsha7zBBMDWubPAoLmE5MSH7Je5TZWpbsT/P1bqcYJuMHgaLJO9yN8gfmPg1q8qUJRlmNcFbftsj9ruJa4jYmeL86eslcFGY3GWnunmWmnR1mUVsRdQQCCGss5kwHEf2Mcgvuwasf3j3t8TrSrrrVOqqBbgO9FGiTGAAKizalOMCiDHcpAODJQ/GVCsMxKqHDLshPY/GIiSb62o8yEDyBThg+Vf2vqx4=;BUffPxCzJwfTmAkMoa5WEQ=="

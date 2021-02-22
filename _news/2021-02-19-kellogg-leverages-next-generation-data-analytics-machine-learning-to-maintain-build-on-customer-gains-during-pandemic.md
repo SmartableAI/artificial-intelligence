@@ -39,20 +39,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Databricks To Offer Its Big Data Analytics System On Google Cloud"
-    excerpt: "Databricks’ Unified Data Platform will now support the Google Cloud Platform for running big data and data lakehouse applications in the cloud."
-    publishedDateTime: 2021-02-17T14:40:00Z
-    webUrl: "https://www.crn.com/news/applications-os/databricks-to-offer-its-big-data-analytics-system-on-google-cloud"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
-        width: 611
-        height: 343
-        isCached: true
   - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
     excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
     publishedDateTime: 2021-02-19T06:48:00Z

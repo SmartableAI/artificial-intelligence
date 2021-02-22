@@ -25,51 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Fintech Mirato, which Uses AI and Natural Language Processing for its Risk Management Solution, Secures $9M in Capital"
-    excerpt: "Israeli Fintech Mirato, which uses AI and natural language processing for its risk nanagement solution, secures $9M in capital."
-    publishedDateTime: 2021-02-17T13:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
+  - title: "Compete or Partner: Banks See Rise of FinTech Solutions"
+    excerpt: "Banks See Rise of FinTech Solutions By Christopher Kennedy, VP-Quantitative Finance Manager, BankUnited [NYSE:BKU] - FinTech—or simply financial technology—is moving at the speed of innovation. FinTech originally represented"
+    publishedDateTime: 2021-02-19T03:42:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/compete-or-partner-banks-see-rise-of-fintech-solutions-nid-24862-cid-189.html"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
+      - url: "https://www.cioreview.com/newsimages/special/7d8L61sU.jpeg"
         width: 300
-        height: 260
-        isCached: true
-  - title: "Can AI handle risk management? Israeli startup Mirato says yes, and scores $9 million to prove so"
-    excerpt: "Mirato, an Israeli startup developing risk management technologies, adds $9M to its piggy bank deploying AI at risk"
-    publishedDateTime: 2021-02-18T04:34:00Z
-    webUrl: "https://www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/"
-    ampWebUrl: "https://www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 44
-    images:
-      - url: "https://www.geektime.com/content/images/2021/02/Screenshot_1-1613463133-768x582.jpg"
-        width: 768
-        height: 582
-        isCached: true
-  - title: "Israeli Fintech Company Earnix to Become Israeli Tech’s Newest Unicorn With $75 Million Funding"
-    excerpt: "Israeli fintech company Earnix has announced a $75 million funding round at a pre-money valuation of $1 billion, making it the newest member of the Israeli unicorn club. The round was led by Insight Partners,"
-    publishedDateTime: 2021-02-21T14:39:00Z
-    webUrl: "https://www.algemeiner.com/2021/02/21/israeli-fintech-company-earnix-to-become-israeli-techs-newest-unicorn-with-75-million-funding/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 12
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2018/10/israel-money-shekels-534236.jpg"
-        width: 720
-        height: 360
+        height: 300
         isCached: true
 
 secured: "7G7reuJ2kneNaPKeFQOHOzCCu/Wa41J3zOxCqk1KAcNvO73740y8cABQjPVFZ92ebm2e6HjMmQaQBDBgeyKaq848McCTzSVIZFrfUEbyhXC+0k6Mq2RJw5UexnxRURVOBfBLyMxGaCxx7PmsN3hGIp8R4SmOXEKMklCUouStLWE29mFJIbqrHd/UQFgpT3UyoKiBhnGXzOQSHp8lLrOvT443cNMD7RONKpMRDGdGXplgyYQXaLfAniDGsB9KjSc/4uqRpXOVCMt+YrL+ATHgR2BbR1W3z0eY7VeDTJauhCW7WT+H/HuzBNhOi/3J8eC5falUSJ2Q5R7VEqQD2hXYcJCqH2oPJ47RELK1P2Mm+4flIQt0DQNmBjIzpF+azGJsnXUReAuvJvqlBfyeDFl/vNKHvqwSlFC4ECwQzFZKFpA5kjXNTFx84J9Faf4UupGa2VEjPK622rjdLAm4KVSBuWwS7jMxKafJ5/HrvBhMCEaau9QswpoA0EGgiFCQZJG+GkOsHCgCTyjkV+dxHJ5Rog==;15A5qib5XVnZO++PUH3ZYw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/"
 type: article
 quality: 117
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602c94f69131fa882940f830%2F0x0.jpg"
         width: 1200
         height: 663
-        isCached: true
-  - title: "Edgybees raises $9.5 million for AI that augments drone camera footage"
-    excerpt: "Edgybees, a startup developing a platform that augments drone camera footage using AI, has raised $9.5 million."
-    publishedDateTime: 2021-02-17T14:04:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/edgybees-raises-9-5-million-for-ai-that-augments-drone-camera-footage/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/04/drones.jpg?w=1200&strip=all"
-        width: 1200
-        height: 722
         isCached: true
 
 secured: "kDsxBhavEODN2NDQ6N87xmjTgIVylxo6gsB69P2t3Xh1Sd56cwRY/y28Gv5QOkRLlZ0n0Z6aK+qgUiLu4ig/FnjWLm385GqOhPMs7Y6rU6B6XX0wT9dxTDpSRiUEvpzx60k+ZjXwYjQqNlnSkyc2dXiLJRRSA72i2K14+kAHNYeYDssZpWzbCRwDFG6biIE8wvD5V17qITN4JnCNCLdl+Jwl4ewQzsAp0HxT6PujqyyLahjFw1/DqvrsfSmomgd6DUzSHGoKblr0ZJHVkzpKBH1eNbQ4wge9rN5sEIz2Mgrh5batEZzXddA9JdNPeWkP4nlk1yJSEP6tfN83nh8Np08LhVIpb26gMcaD3mGPF/eURhjMgPT0S5mC/mmeoXVZvFcWSVIrnQemNC+Qc+frUXP5pwl8btP6CRf+RjfBORGq5gy3eo9SojmgYOofIyfJKkhxjoWn4xeGEd9hZCZj5/z3OEy0B7bdNctrRj/mz1QB9GnOfccrCjSR2wW+auSAcJHkjUb/QygefLq7DtAvyA==;U8paokksphxmkg6McohRiQ=="

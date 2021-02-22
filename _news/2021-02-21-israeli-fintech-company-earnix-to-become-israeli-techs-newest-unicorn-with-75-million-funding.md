@@ -25,52 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli Fintech Mirato, which Uses AI and Natural Language Processing for its Risk Management Solution, Secures $9M in Capital"
-    excerpt: "Israeli Fintech Mirato, which uses AI and natural language processing for its risk nanagement solution, secures $9M in capital."
-    publishedDateTime: 2021-02-17T13:35:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172323-israeli-fintech-mirato-which-uses-ai-and-natural-language-processing-for-its-risk-management-solution-secures-9m-in-capital/amp/"
+  - title: "Fintech co Earnix raises $75m, at $1b valuation"
+    excerpt: "Israeli fintech company Earnix has announced the completion of a $75 million financing round led by Insight Partners, with the participation of previous investors JVP, Vintage Partners and Israel Growth Partners."
+    publishedDateTime: 2021-02-21T13:50:00Z
+    webUrl: "https://en.globes.co.il/en/article-fintech-co-earnix-raises-75m-at-1b-valuation-1001361454"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 48
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/09/Azrieli-Center-Tel-Aviv-Israel-300x260.jpeg"
-        width: 300
-        height: 260
+      - url: "https://res.cloudinary.com/globes/image/upload/t_desktop_article_content_header_800*392/v1613915575/one%20time%20use%20only/150_iiltui.jpg"
+        width: 800
+        height: 392
         isCached: true
-  - title: "Can AI handle risk management? Israeli startup Mirato says yes, and scores $9 million to prove so"
-    excerpt: "Mirato, an Israeli startup developing risk management technologies, adds $9M to its piggy bank deploying AI at risk"
-    publishedDateTime: 2021-02-18T04:34:00Z
-    webUrl: "https://www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/"
-    ampWebUrl: "https://www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/can-ai-handle-risk-management-israeli-startup-mirato-says-yes-and-scores-9-million-in-funding/amp/"
+  - title: "Fintech Startup Earnix Raises $75M At Valuation of $1.5B"
+    excerpt: "Earnix is a global provider of advanced AI-powered rating, pricing, and product personalization solutions for insurance and banking."
+    publishedDateTime: 2021-02-21T22:41:00Z
+    webUrl: "https://nocamels.com/2021/02/fintech-startup-earnix-raises-75m-at-valuation-of-1-5b/"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 44
-    images:
-      - url: "https://www.geektime.com/content/images/2021/02/Screenshot_1-1613463133-768x582.jpg"
-        width: 768
-        height: 582
-        isCached: true
-  - title: "How UK-Israel collaborations are transforming fintech"
-    excerpt: "The pandemic has increased our reliance on innovation. Candice Krieger looks at UK-Israel partnerships and companies revolutionising the finance technology sector"
-    publishedDateTime: 2021-02-19T08:59:00Z
-    webUrl: "https://jewishnews.timesofisrael.com/how-uk-israel-collaborations-are-transforming-fintech/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 24
-    images:
-      - url: "https://static.timesofisrael.com/jewishndev/uploads/2021/02/GettyImages-834792042-1024x640.jpg"
-        width: 1024
-        height: 640
-        isCached: true
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 19
 
 secured: "zxjWn3e1u6y2MxLNybYnqSpoIPinFYnAeR1dJpkR31XPM76CzaBzI5iqCXrnP9J3grECgx7mqh3wRIEVBFs9KT1sao7l62qYJmKMouUeOHdFrrQfs0bxY881ye/xPc+ueki5RetBnKhbOKwFxojPVE1cHTXh/Dp7LddF4p67xntMxvj7ib/xmc8BDgEh9fpdl3Jj5gwi+jSbsQktq2dD/UiaHkU4UVCdh51hcTFk+pJRrbWv/FACJBsB9dEY+LSld0+z5puGeOhGPbEKWzz6yxO4MrKZN+419GwTZoV54vsYupeVmXbxUFLr5hROdl6K/AAU1zefHjSjO4GS2tSwM1qruVMr23zrWhazttIABsI=;DGBFyHek3OWkJu8MQYBgIg=="
 ---

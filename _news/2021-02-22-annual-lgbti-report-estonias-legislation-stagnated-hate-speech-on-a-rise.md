@@ -39,20 +39,6 @@ related:
         width: 900
         height: 510
         isCached: true
-  - title: "‘Stark rise’ in abuse and hate speech directed at LGBT+ people across Europe, report warns"
-    excerpt: "Europe has seen a “stark rise” in abuse and hate speech directed at LGBT+ people over the last year, a campaign group has warned. ILGA-Europe said in its annual report that progress which human rights advocates had taken for granted was now “increasingly fragile”."
-    publishedDateTime: 2021-02-17T13:57:00Z
-    webUrl: "https://www.independent.co.uk/news/world/europe/lgbt-abuse-hate-europe-ilga-b1803383.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 14
-    images:
-      - url: "https://static.independent.co.uk/2021/02/17/11/PRI162691807.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "atbCUP45WsfCzmGiM8SwhNbnT2kAOpxIekQ8hgd5XHZJQhPWq72NViKNApE07ZPq76/rSAJVcqFXscO/oWM/Dz0bkVqseDBvHrg+dpK+rha4XAmLiLwG5F9z/umIOhQR5TH4W8AoZD0rxt4rVopXAJvgu03LxXYV9T5riqnSdNnobohzvtiL24wvQNhLUga158+KU6qYmz2hjx5B59/gEnFXMfTnsV/WAt5Thy2aqkjOJAllF9+JlXuIQcqx6iJuOvgN9QePyhkoJmEknXB8U5m5Mn7UA0E/EmlCFwwq4fNfgpljIhWGIDIOqZDoLXH7AqPwDFTpalPAWxBGPXOCxSXx/pHuSuSGQVLmsVXjaNJp6THOoE07eJocdNu6m7PEfvdfY9L7ii3jWbWYvsLkrTweQhYTId0u3MTqURLW+awap+yJNOwcDDKywI7hlAs9b6tjLWJD35Yooba9a9Cwgp3GX9wHeX0FIobBvmvoZDqOBZVZ0blrZsL+T95wkqnlkML2bAKouOeyJtmlcDhL9g==;uHlosMq1SXy7SxElstYXxQ=="
 ---

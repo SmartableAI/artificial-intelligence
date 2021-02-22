@@ -118,17 +118,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Artificial Intelligence in Healthcare Diagnosis Market Opportunity Analysis, Trends, Overview and Forecast 2019-2027: Covid-19 Impact and Recovery"
-    excerpt: "The artificial intelligence AI in healthcare diagnosis market was valued at US 3 639 02million in 2019 and is projected to reach US 66 811 97 million by 2027 it is expected to grow at a CAGR of 44 0"
-    publishedDateTime: 2021-02-17T14:02:00Z
-    webUrl: "https://www.openpr.com/news/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
-    ampWebUrl: "https://www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "GfcEHcG37TEROnu7tUFNwKra7p4euFTIgUS7qrd1FS/brYAfaQSx4maDxkMO+aAxGKEG1PjjLVSAK1+SNUCPGSygAqmDNeb2q8EPsF3JeqBA/0SgJ2q9vqlyMsFc4Ms45Qy0qgDiBXWC4Pv48fssu/qA0rv5MJUbD59ALLyquDcrpoRpo2cxPHCjuy52T6Ey2jZ2xBxCoRRQhS/j7NOBWB5OMiQ2F20DPO43i/LxagTf1KbMkn53Z+hIyvWBWqrUPxelJ4R0dcn/KZEczSxc3KYt5M0KpEPf36/Eeyj+rd2ZQD60sTwgA3OF560TNMUVNdGQgHYF2Rilke2q5by/Nxd9fTN+yQXgTPilx5rk6W4=;WpNYgQhN4pjimOnndSqSgA=="
 ---

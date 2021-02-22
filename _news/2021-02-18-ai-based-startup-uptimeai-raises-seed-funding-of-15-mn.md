@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-f
 cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ai-based-startup-uptimeai-raises-seed-funding-of-15-mn-news-topnews-vcshxfejijebg.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Sify.com
@@ -26,45 +26,34 @@ images:
     isCached: true
 
 related:
-  - title: "Recogni raises $48.9 million for AI-powered perception chips"
-    excerpt: "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital."
-    publishedDateTime: 2021-02-17T14:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/"
-    ampWebUrl: "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/"
+  - title: "Boast.AI Secures $100M to Fuel R&D Tax Credit-Based Financing for Startups"
+    excerpt: "Boast.ai, a software innovator whose flagship product automates the complex process of applying for R&D tax credits, has secured a $100 million credit facility from Brevet Capital, a leading alternative credit investment and specialty finance firm,"
+    publishedDateTime: 2021-02-17T17:47:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-government-business-and-finance-products-and-services-government-taxation-and-revenue-f56c516c76f65585d5fadd2a27304eaa"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/e728073b-d9dd-4a6a-b6e8-6ff14821da0a-e1613450016151.png?w=1200&strip=all"
-        width: 900
-        height: 450
-        isCached: true
-  - title: "AI hardware startup Recogni raises $48.9M for its autonomous driving module"
-    excerpt: "Recogni Inc., a startup developing artificial intelligence hardware for autonomous vehicles, today announced that it has closed a $48.9 million funding round from a group of investment firms and auto industry players."
-    publishedDateTime: 2021-02-17T14:24:00Z
-    webUrl: "https://siliconangle.com/2021/02/17/ai-hardware-startup-recogni-raises-48-9m-autonomous-driving-module/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: Associated Press
+      domain: apnews.com
     quality: 35
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/unsplash-2.png"
-        width: 718
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Venture, auto investors pour $48.9M into San Jose AI hardware startup Recogni"
-    excerpt: "SanJose-based #startup #Recogni has yet to make a sale, but has now raised about $74M from investors that include big auto industry players. #SiliconValley #autotech #autonomousvehicle #sensors #ventu"
-    publishedDateTime: 2021-02-19T14:32:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
+  - title: "AI-based Asset & Plant Monitoring Startup UptimeAI raises seed funding of $1.5M"
+    excerpt: "UptimeAI, a company specializing in AI-based predictive maintenance software for heavy industries, announced that it is raising a total of $1.5M SEED funding"
+    publishedDateTime: 2021-02-18T06:45:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-based-asset-plant-monitoring-startup-uptimeai-raises-seed-funding-of-1-5m/article_7a44a9f4-5963-5be0-9bf6-df283a904319.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "4aFX/nAqBrRPI6LQejMZigPY2AmN5SKvE68YKdaqNp9OdEW99csmLPYEKHmUrNXVd59WyTd3ou0Ilku7y5LLx7NH9ZXRCjNpUbIf49t4+0GSfKAsV4RR8brCeyM85QcsauBx4uegt8yhAFnXjdi3Ax3RLrv3B34xMl7yznprKCfRYDlNZyrsqQqtjrTveUs13E+W1OZC/vhBaGHZEhhIDD7Qrkq0d0LLVhWE8oGuH/x8cLZaLu6I8IJBie/WOe2gwoVxeUo6a89zGsYwydlMvoAdt+7ItJdFahr1EBrxFp6rT0YRbOOuuohU8oopCkYU1XHzGGDuNLKsUP8IsEX5hnKMezd32EWznPhTQeb2YA3/lbnccC1W/wsjCvMyOeeSKJGFcTHPvQX114tSVJ7xAl1G1HcA82CbyMQtoniDvhTgzt4EibxkVK4jlbyPhNm8v8Cv/vVY09uvzk19D67KzRPP3GF7oYudnzCIcKucJVlrHTWOGzgkk2MBIP/0SuiRRT8m4TMF8r7Hn9ABX7AnIA==;GqQfpGPKiZmAQai6BfNYtQ=="
 ---

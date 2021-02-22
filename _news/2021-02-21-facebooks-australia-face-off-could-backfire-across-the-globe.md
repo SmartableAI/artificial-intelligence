@@ -55,6 +55,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Local Facebook rival soars as boycott grows"
+    excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."
+    publishedDateTime: 2021-02-22T06:15:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/google-fires-ai-ethics-researcher/live-coverage/d9a32a81f13b466c1c9055737ff7f36b"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "N41PNf9cfh36LfWBUTNVRljsfx4qTtjDjvjmw1KFCarVoZx2P9Q4w6Gzd8woQJuL18nJ3ZjFIXXv8elWcL/7yP8rcf3bq524vhZ9mJCmqaXT9IovBVriJB0sEM33Ga301oqqbwhcPSGrXJG3b3fEwtBqw6wf5uLtjuYfqYYPZiFUq5v0Rffsvev7mEitAEE+cL645haOArSY6RadpdjwqDMhER0T1OzpBPIM7Olq3rPGQJObsbbTXy5CXxJE/MhDW9vWAdUEpEp46tuuU9Yo+E7F0WsQSIhQ2NWBNjNC9EhOMRCQP9GK0Jy6W7AbgfpxgnD40bURN2zlksw5wvw18xrmQ0OeX22kJBNREN+ggFGW1lo9BWOxIYlQIiG2OV2mw96Vu2hS/UFfUi8Apzz3LN8IQAcA7hU5+3LnMuRNvkBy/KWgJCNTIVka6ob6vKxLSP2Fm3qUvRSLojc//IOML/su8Kz3e50u4amrNgqDeM7IkhPnEI4DPnQrgrzdVl8i1/jBOEKdv0R/sA4wQ8D6Wg==;C29fXAU7v+N6nUlOsd/4Sg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/uk-wales-56130226"
 webUrl: "https://www.bbc.com/news/uk-wales-56130226"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/02/21/1044988.jpg"
         width: 1240
         height: 824
-        isCached: true
-  - title: "Could drones use facial recognition? We could be one step closer to that happening."
-    excerpt: "The U.S. Patent Office has just published a patent application for ‘Adaptive positioning of drones for enhanced face recognition’ filed by AnyVision."
-    publishedDateTime: 2021-02-17T13:47:00Z
-    webUrl: "https://www.usatoday.com/videos/tech/2021/02/17/could-drones-use-facial-recognition-were-close-happening/6778648002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 33
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/e6ec16bb-bd36-48ac-8b9a-5fbca6ef2d27-a30a6fbf-cfe2-42c1-93ee-bdeb9895b20c_thumbnail.png?quality=10"
-        width: 852
-        height: 480
         isCached: true
   - title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
     excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."

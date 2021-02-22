@@ -66,20 +66,6 @@ related:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
     quality: 1
-  - title: "Hospitals use virtual rehabilitation kits provided by company Evolv to treat patients at home during COVID-19 pandemic"
-    excerpt: "Medical device company Evolv, with the support of Microsoft and hardware manufacturer ZOTAC, has donated its virtual rehabilitation technology to three leading hospitals"
-    publishedDateTime: 2021-02-17T14:09:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/hospitals-use-virtual-rehabilitation-kits-provided-by-company-evolv-to-treat-patients-at-home-during/article_158fb7e9-e67d-5872-beb8-8a6fba825fcb.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/d8/9d86a550-5142-5239-8caf-d99cc67e01ab/6030cee64acc3.image.jpg?resize=1200%2C555"
-        width: 1200
-        height: 555
-        isCached: true
 
 secured: "PygauamI3Pxuv1Ly5f5IwIZbkLLAyPuF5MUutHRDpz7s8RlsYfCgz8F+Jk5S0szo7jx9vHoj/eoYG+nmeWzYaVSo8WaYw3X2dI85j89ON9t8/Tk93n70IGc8YEMX9hLjGc75jRe4f7gD6uvze0WWw1O+WWJYz0b8z+0GkdGJPPwvIkP3FMN9HR+abL533ozlDUzLwKoROqpHzAGjRR01u9ghIlstwCigdgFizFYNWmFic1OGZXwSjvvnYnb+cqpsNFuM7iigcME1MnBUK1jFxDd98/JiQ4asDTQy8Ow3muv7xc4MOPTyS89NvmeOU1mm3Jynu3ve9qFUnmjN5OmcUe7rEeqgL0WMx1zebKFUGXugCnVPtTnM4m07qVTm6V23nfE+dscy4GruhQmae816Ww/NG1LeoSvt8t13S+VMfu3rZEawAG1JrjHW/Wh/zV481kbCUTMsR4+ftruFvvN5viDHDLxSN5JV+nh548iFhOh3CpEk+JNPb4zAb5q3sShU2MLmFpvub2zWpaTSNYGGZQ==;MXaD8QFm+Um2H442LKJyxA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/wearable-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19"
 type: article
 quality: 73
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -123,17 +123,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 17
-  - title: "Artificial Intelligence in Healthcare Diagnosis Market Opportunity Analysis, Trends, Overview and Forecast 2019-2027: Covid-19 Impact and Recovery"
-    excerpt: "The artificial intelligence AI in healthcare diagnosis market was valued at US 3 639 02million in 2019 and is projected to reach US 66 811 97 million by 2027 it is expected to grow at a CAGR of 44 0"
-    publishedDateTime: 2021-02-17T14:02:00Z
-    webUrl: "https://www.openpr.com/news/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
-    ampWebUrl: "https://www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2244146/artificial-intelligence-in-healthcare-diagnosis-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 16
 
 secured: "8rbYbwn5xrwdUx7XZ11bDYP4xRY+jo/rfuBDMUrJFIflfrubc6FgtcP9TF7UxEXIyR6tXKTscFjSUxT+YFuU9HvQXChwdvT1f/U1ci+S3EgGm6ls6w8sg9Yn5gYzJM+wM3WyRAy5dTMx9JFi7bk8JGH6RGpUEiwwwIF+22VK51ELH2/3L9sPWpc1PyppDWTL+5FRXfdsd/oOt8hvfsBbMnpLaX2/Mo0wesns5TRzpnqTemNUsP8EvRfm4uDNu7qXWY6aEkdPuWz3EK7c0U/WgdEaR7mO4jYKsprvLBSYIva1O77/NP+yVD4ejk7Cmn62aTi6B/VnSQwYS6LjRJ24iFVC4s/Zl53OKtOF1WnhLjQ=;58ak9fgn8tfOpWWximoEzw=="
 ---

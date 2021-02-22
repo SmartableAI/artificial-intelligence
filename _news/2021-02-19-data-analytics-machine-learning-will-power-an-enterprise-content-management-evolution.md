@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Databricks To Offer Its Big Data Analytics System On Google Cloud"
-    excerpt: "Databricks’ Unified Data Platform will now support the Google Cloud Platform for running big data and data lakehouse applications in the cloud."
-    publishedDateTime: 2021-02-17T14:40:00Z
-    webUrl: "https://www.crn.com/news/applications-os/databricks-to-offer-its-big-data-analytics-system-on-google-cloud"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
-        width: 611
-        height: 343
-        isCached: true
   - title: "Kellogg leverages ‘next-generation data & analytics,’ machine-learning to maintain, build on customer gains during pandemic"
     excerpt: "As the pandemic nears the one-year mark, food and beverage companies face increased pressure to maintain new consumers gained during the pandemic while also engaging additional shoppers over record household penetration increases in the last year – a challenge that Kellogg is meeting with improved use of data and analytics that allow for enhanced targeting,"
     publishedDateTime: 2021-02-19T13:53:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "What Does It Take To Operationalize AI?"
-    excerpt: "Software development processes and team structures have evolved a lot over the years, from waterfall and agile to DevOps and beyond."
-    publishedDateTime: 2021-02-17T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/"
+  - title: "Optimizing AI for embedded applications"
+    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
+    publishedDateTime: 2021-02-18T21:16:00Z
+    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Embedded
+      domain: embedded.com
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
+        width: 1280
+        height: 810
         isCached: true
+  - title: "Institutionalizing ethics in AI through broader impact requirements"
+    excerpt: "The Conference on Neural Information Processing Systems (NeurIPS) introduced a new requirement in 2020 that submitting authors must include a statement on the broader impacts of their research. Prunkl and colleagues discuss challenges and benefits of this requirement and propose suggestions to address the challenges."
+    publishedDateTime: 2021-02-17T22:43:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00298-y"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 34
 
 secured: "SzKrMnKWcmcGxy2ANGer6D2FK/CiKYIQZnE9EuVJdJ40UFWPTklt94mItTzulsKUeIepJA7wcWpCQc+z89wc4wv60V+fr1tk1l7CskJWep8kuxQKKMTCaDurmLGaE/LGlcujuIeMne1L4DkcmQhAA4FV2Kv7HUq8tn6lz0RDQrkIvDugDx5JgLGRqvl4Mv4eh6cgUqBI92UceG9CFOLX1hU3swwOgSEs6XyRUULd2WcHUNFaBCcE8CEminEXQ8epmnBfcxXfwE9uowSvbo7QbBP4QGIZPBrBA9t8fISSIhwEyRSydCM8CGQS1r8N33HTu04QJVCzPjJDgDO09i2+PhmfJ7KV04hmJP+Ke4zwa/tPAq8MJ/ukI3xVQDhYFwz1IVXbRKkLUeNlIVz+2T3OHyNsDXMQlcupX+No/JppMgJxlv7EeVpNCgSYhW+nJzjABi4C71/o5QFtNfeQamQEdZYRYSgoko1qeSRmEjLFiutXLtCil6odJuqyTBTtw1n9GQa3mqvfk15t32xKAdUBBg==;nHI7r/XhdSa8Uru8a9Tw3Q=="
 ---

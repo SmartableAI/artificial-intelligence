@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power"
-    excerpt: "PIM’ will deliver over twice the system performance and reduce energy consumption"
-    publishedDateTime: 2021-02-17T14:14:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 62
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Samsung creates RAM with integrated AI processing hardware"
     excerpt: "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads."
     publishedDateTime: 2021-02-17T17:50:00Z
@@ -144,20 +130,6 @@ related:
       - url: "https://www.kitguru.net/wp-content/uploads/2021/02/JaFBrGHH2VoBVxxz-732x330.jpg"
         width: 732
         height: 330
-        isCached: true
-  - title: "Samsung's New HBM-PIM Memory Doubles Performance, Packs AI Brainpower For Data Centers"
-    excerpt: "Samsung has developed the world's HBM solution with integrated AI processing power, capable of 1.2 TFLOPs of performance."
-    publishedDateTime: 2021-02-17T14:54:00Z
-    webUrl: "https://hothardware.com/news/samsung-hbm-pim-memory-doubles-performance-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54294/content/small_samsung-hbm-pim.jpg"
-        width: 708
-        height: 337
         isCached: true
 
 secured: "A60+hy+pn8LXA/C+P/NgBT6QDy052GbksxOWBCLeH87/U1cOdphHYJ26My4Gmc+xrufbQWuWf/T8NGcMr/G/67737kk0hXVAZDnuq87bkvGS9eesB+Spx2DWaDeKTlUMw6VmO+K0rM97n6WfiSUB1CQdJ+vDkHJBtj5GECXrRAx8hUsMXNokH8bUA5TfNRAVGgzu0PsnTkXracfwL/LLriQZwqEzHhB+HMOMr4Dttk8RBgRjW8NDHaSbNYTw7x7M7yqsUY7WdSfR5/h6bpKTCtYjrbBfGCTn/zZQcv3tgfV3zN4MptgLfxIri5mkYUunuOos1WZzNjCZ/+pKCWaZV665m3IZhvkT5gbJwSml6WqM6TBqv27GRfiWlC/uK+6Umer7lFDghUVCfMzmXf85RVZ8Dfk4AEHwQRkf1A5rjpbod7b0ww6vg5qbnDE8WKJLWH0JissUGgaDi7MwDvzcqYCMGHx+34EV7uYBt1es/3nvTWWkkl6XCwu1Z/ufLFO2a7iFR0rQMQWEdzRpRu9O/Q==;3+KVob2DL9L0HqWo2TX7CQ=="

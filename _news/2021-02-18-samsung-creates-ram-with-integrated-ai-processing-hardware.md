@@ -9,8 +9,8 @@ ampWebUrl: "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_proces
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: GSM Arena
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power"
-    excerpt: "PIM’ will deliver over twice the system performance and reduce energy consumption"
-    publishedDateTime: 2021-02-17T14:14:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 62
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Samsung Introduces World’s First HB RAM With Integrated AI Processing"
     excerpt: "Samsung Electronics announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI)"
     publishedDateTime: 2021-02-18T08:41:00Z
@@ -144,20 +130,6 @@ related:
       - url: "https://www.kitguru.net/wp-content/uploads/2021/02/JaFBrGHH2VoBVxxz-732x330.jpg"
         width: 732
         height: 330
-        isCached: true
-  - title: "Samsung's New HBM-PIM Memory Doubles Performance, Packs AI Brainpower For Data Centers"
-    excerpt: "Samsung has developed the world's HBM solution with integrated AI processing power, capable of 1.2 TFLOPs of performance."
-    publishedDateTime: 2021-02-17T14:54:00Z
-    webUrl: "https://hothardware.com/news/samsung-hbm-pim-memory-doubles-performance-data-centers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 31
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/54294/content/small_samsung-hbm-pim.jpg"
-        width: 708
-        height: 337
         isCached: true
 
 secured: "apyS4f9kFfmBAe+D4NyZ0uzQaR4cn3bXoiW/nzcA3WUIuWx+bEUAuDEoJQlp25MMdRQkSevu8SSWKTAEhIBzZEE9vX9zuLjOCVmsSDUWn+NA0x5kcjBcm7+XB9O0yLBnUUFAzvJHsUwihcq/6886VmrZFc2U6Ml4eZJhs/RZc8gQv0ClJI7ec8EP7Nl6Y5QroJscLG6r9bXS5BIo20i7jIJdfkdjjxD3kTdkzNUp1pJ7/7ZoV4tqU+HXXT8TyGHVPyjNSAezfLzOl5gW4nnMuDlCU6eHXe5sCwfbSSPTdUoU2xAQx42Ooop2LTtNFIDNZvw7iftPOfY2k/4Y0TZX1CzZ44P29iPtu68g6rq3rrPbFVGEGszT6Vszv91h8JAz04Rbp6TYYR179iFKBhYkyVhvX3VKJwR8b4NOoS1JVb5rZgI7AVp2NXnEHpGkUTjYa/84IL6UxGc7zzGt2lVR9Wpb6+dt/AOZEI58LjweApNTb6T2osUwKiLtZDBc9xgRFix+uUt7EaeLT8VCMcSETg==;tg+l4ETOux9CNeV7wg48ZA=="

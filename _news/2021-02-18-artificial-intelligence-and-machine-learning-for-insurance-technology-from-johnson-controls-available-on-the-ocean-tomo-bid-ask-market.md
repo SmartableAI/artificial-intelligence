@@ -7,7 +7,7 @@ originalUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-and-
 webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-and-machine-learning-for-insurance-technology-from-johnson-controls-available-on-the-ocean-tomo-bid-ask-market"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning for Insurance Technology from Johnson Controls Available on the Ocean Tomo Bid-Ask™ Market"
-    excerpt: "Ocean Tomo Transactions, LLC will auction a portfolio of six U.S. patents and applications from Johnson Controls for Artificial Intelligence (AI) and Machine Learning"
-    publishedDateTime: 2021-02-17T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-and-machine-learning-for-insurance-technology-from-johnson-controls-available-on-the-ocean/article_aa2761ca-10f3-5c70-a889-cb4e578bab24.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Artificial Intelligence and Machine Learning for Insurance Technology from Johnson Controls Available on the Ocean Tomo Bid-Asktm Market"
     excerpt: "Ocean Tomo Transactions, LLC will auction a portfolio of six U.S. patents and applications from Johnson Controls for Artificial Intelligence (AI) and Machine Learning (ML) for the insurance industry which connects and analyzes data to aid"
     publishedDateTime: 2021-02-17T15:32:00Z

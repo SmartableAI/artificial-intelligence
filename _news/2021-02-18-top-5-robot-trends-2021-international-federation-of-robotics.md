@@ -33,20 +33,6 @@ related:
         width: 1920
         height: 960
         isCached: true
-  - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
-    excerpt: "The International Federation of Robotics shows top 5 trends shaping industries around the globe. “The mission to combine traditional production with ´go digital strategies´ puts robots in a pole position,"
-    publishedDateTime: 2021-02-17T14:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-robotics-computing-and-information-technology-industrial-technology-2337d95e00c24f3f9852a7b1caea535c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Top 5 Robot Trends 2021 Robots Learn New Tricks and Help to Reduce Carbon Footprint"
     excerpt: "Annual installations of industrial robots more than tripled within ten years (2010-2019) reaching 381 thousand units in factories around the world. The International Federation of Robotics shows top 5 trends shaping industries around the globe."
     publishedDateTime: 2021-02-17T17:32:00Z

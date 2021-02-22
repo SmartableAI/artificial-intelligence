@@ -34,6 +34,20 @@ related:
       name: NoCamels - Israeli Innovation News
       domain: nocamels.com
     quality: 19
+  - title: "Israeli Fintech Company Earnix to Become Israeli Tech’s Newest Unicorn With $75 Million Funding"
+    excerpt: "Israeli fintech company Earnix has announced a $75 million funding round at a pre-money valuation of $1 billion, making it the newest member of the Israeli unicorn club. The round was led by Insight Partners,"
+    publishedDateTime: 2021-02-21T14:39:00Z
+    webUrl: "https://www.algemeiner.com/2021/02/21/israeli-fintech-company-earnix-to-become-israeli-techs-newest-unicorn-with-75-million-funding/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 12
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2018/10/israel-money-shekels-534236.jpg"
+        width: 720
+        height: 360
+        isCached: true
 
 secured: "bUbYvgrYkClamKsNOzGDAU7kkMhNQYX1rfprvugfHm+jTXuL4QXKjXJj0eTd8xJe6w5YMiqALQRRGMtzDbKr9pFt1+9jDGpgkwggmZN14EztYCVtXnnbA5oFKkbSHrNviQILlTF9WYeEBFClLDObgiejXYF80pr0HQ4Kn9oQZBRyQ30xRrCdId3rzVUEsqpDT5KyQ0sygY+kECHvyPNYtjWmMdkhNRkzN+m1KUX9mE+3y5uKwcQKJSpkjk+RrEQMNv/QzXSJTdixA7ROzLaP18eDz0+pYhRjJvKdOasVhURIJJmlR8vwOoZgivsoibdJyJyroVYpUQrNOMsV6FBJUPmaAOWgqN4vsWNdCUQTwVrIQAvsEfAEAjrc9bKMhM2XvgZJMxDkrnhIvL5YKTJpRSKFSnPDAw5lI/jQixdCxv0BJFEmSNACrw+XD6HVkxBq38YBw9xazvla/o3hJHXVNMHtsmVijH4bh2yTdG5PCe3A905Lt3F+26AkwsyoOkN7H6f4O4Ivh9K4nFOKBgKnMQ==;Ihqbf4yhIS8ceXq4kyJs/Q=="
 ---

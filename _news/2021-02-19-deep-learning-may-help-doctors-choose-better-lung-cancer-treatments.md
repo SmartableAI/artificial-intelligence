@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Deep learning may help doctors choose better lung cancer treatments"
-    excerpt: "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers."
-    publishedDateTime: 2021-02-17T14:08:00Z
-    webUrl: "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/1-deeplearning.jpg"
-        width: 730
-        height: 476
-        isCached: true
   - title: "Machine learning model may guide treatment decisions for lung cancer patients"
     excerpt: "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers."
     publishedDateTime: 2021-02-18T02:05:00Z
@@ -54,6 +38,22 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
         width: 620
         height: 480
+        isCached: true
+  - title: "Intelligent models for smarter decision-making"
+    excerpt: "Organizations are looking to artificial intelligence to bolster how they do simulations, leading to faster innovation and ultimately better products."
+    publishedDateTime: 2021-02-18T16:10:00Z
+    webUrl: "https://www.technologyreview.com/2021/02/18/1018650/intelligent-models-for-smarter-decision-making/"
+    ampWebUrl: "https://www.technologyreview.com/2021/02/18/1018650/intelligent-models-for-smarter-decision-making/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/02/18/1018650/intelligent-models-for-smarter-decision-making/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 44
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2021/02/MIT_Siemens_AISimulation.png?w=2362"
+        width: 2362
+        height: 1116
         isCached: true
   - title: "Deep Learning Can Help Guide Lung Cancer Treatment Decisions"
     excerpt: "A deep learning algorithm could help providers predict survival expectancy in patients with lung cancer, which could help guide treatment decisions."
