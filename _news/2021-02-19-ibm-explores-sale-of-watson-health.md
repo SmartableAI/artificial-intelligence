@@ -240,6 +240,20 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "IBM's retreat from health business spotlights AI challenges in healthcare: 4 things to know"
+    excerpt: "With IBM's recent exploration to sell off its health business unit IBM Watson Health, The Wall Street Journal highlighted several issues with AI in healthcare that can hinder tech companies' innovation efforts. Despite spending several billion dollars on ..."
+    publishedDateTime: 2021-02-22T17:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ibm-s-retreat-from-health-business-spotlights-ai-challenges-in-healthcare-4-things-to-know.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 46
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Will IBM’s reported desire to sell Watson cast a shadow over big tech’s healthcare ambitions?"
     excerpt: "IBM is reportedly looking to sell its Watson Health business. If true, it would be another stumble in a much-hyped healthcare project by a technology company."
     publishedDateTime: 2021-02-20T02:03:00Z

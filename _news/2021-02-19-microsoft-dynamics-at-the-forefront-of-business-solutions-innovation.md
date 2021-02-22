@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft is adding AI-powered text predictions to Word"
+    excerpt: "The features uses machine learning to make writing suggestions based on the text that a Microsoft Word user has already typed."
+    publishedDateTime: 2021-02-22T18:50:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 104
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-5-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Natural Language Processing Market is Going to Boom with IBM, Microsoft, Google, Amazon Web Services"
     excerpt: "Latest released the research study on Global Natural Language Processing Market offers a detailed overview of the factors influencing the global business scope Natural Language Processing Market research report shows the latest market insights current situation analysis with upcoming trends"
     publishedDateTime: 2021-02-19T15:05:00Z
@@ -73,6 +89,36 @@ related:
         width: 1680
         height: 946
         isCached: true
+  - title: "Intel and Microsoft partner to simplify IoT solutions development"
+    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+    publishedDateTime: 2021-02-18T08:38:00Z
+    webUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/"
+    ampWebUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
+    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 59
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
+        width: 800
+        height: 360
+        isCached: true
+  - title: "The head of Cisco's Webex explains how it's using AI to innovate and compete with newer rivals like Zoom and Microsoft Teams"
+    excerpt: "Cisco's Webex has seen growth like rivals Zoom and Microsoft Teams, but it challenge is proving it's not the same company it was 10 years ago."
+    publishedDateTime: 2021-02-21T12:40:00Z
+    webUrl: "https://www.businessinsider.com/cisco-webex-keeping-up-the-pace-of-innovation-jeetu-patel-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 57
+    images:
+      - url: "https://i.insider.com/603064f5bed5c50011a2bb20?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Microsoft Azure and the Trends That Will Drive its Future"
     excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
     publishedDateTime: 2021-02-19T07:19:00Z
@@ -86,6 +132,34 @@ related:
       - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
+    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
+    publishedDateTime: 2021-02-19T07:23:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 46
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
+    excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
+    publishedDateTime: 2021-02-21T19:56:00Z
+    webUrl: "https://www.crn.com.au/news/microsoft-warns-on-prem-customers-to-protect-own-identity-infrastructure-561306"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 38
+    images:
+      - url: "https://i.nextmedia.com.au/News/20201216122139_crn-14_microsoft_iStock-1191485295.jpg"
+        width: 1400
+        height: 900
         isCached: true
   - title: "VW partners with Microsoft to build computing platform for autonomous vehicles"
     excerpt: "Volkswagen says it is further strengthening its capabilities in the development of autonomous or highly automated driving (AD) solutions with a new partnership with Microsoft. The Group’s software"

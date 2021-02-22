@@ -41,6 +41,17 @@ related:
         width: 1000
         height: 392
         isCached: true
+  - title: "UK government set to offer fintech visa"
+    excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
+    publishedDateTime: 2021-02-22T17:13:00Z
+    webUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa"
+    ampWebUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
 
 secured: "kabT2fpSfiMB4/k0QcunIpJdlcZTJYegY9BD6c2AdQZARhhR4uBXEtQaDmSvKMwQYPrLTM3m/HsXqtFM9Q894hyKC+s5bq/GV01jS5+iFDGsepx7kRDoIkEFgE5ZrC2vdo9BknBZ1qvJY/XtJerhjmWcMcuTcBo6bC3YQm1rCZ3rvBf020/+zxhDsaWopjO3b/TUzvHBZnHrHCDjSF4uVKcLPkrahAuGvALFJQxgyx0cYafOXExx56O95nIZoROaP8KD79MzTUfEzVtRR5Z6Gkk7+kawle0do95NETs0P5lezuzrtzUkW/d5gjSaIteEyZUBU+qxBgSZkc+6lvSA5x5skM4aYokml0kIJckucf0=;l2k+BHvWR7jteHrB6FUh+g=="
 ---

@@ -244,6 +244,20 @@ related:
         width: 412
         height: 275
         isCached: true
+  - title: "IBM's retreat from health business spotlights AI challenges in healthcare: 4 things to know"
+    excerpt: "With IBM's recent exploration to sell off its health business unit IBM Watson Health, The Wall Street Journal highlighted several issues with AI in healthcare that can hinder tech companies' innovation efforts. Despite spending several billion dollars on ..."
+    publishedDateTime: 2021-02-22T17:23:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/ibm-s-retreat-from-health-business-spotlights-ai-challenges-in-healthcare-4-things-to-know.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 46
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Will IBM’s reported desire to sell Watson cast a shadow over big tech’s healthcare ambitions?"
     excerpt: "IBM is reportedly looking to sell its Watson Health business. If true, it would be another stumble in a much-hyped healthcare project by a technology company."
     publishedDateTime: 2021-02-20T02:03:00Z
@@ -390,6 +404,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "qtBeVRtCDKjTq+/gHLPiKZyORAXU8zIBQiUbFk8SIcjlD15/ejlmiiM6/efxU9yYX8ELYMYO92ntYLEqfhUiUSuDhREX7xmDXrzzjEPiEhGNakYjJ4KgxXi6XTETM9nldUbjgx8eMBUOD2+mR8ZyyLhy7C2xO4d/EgUiaaBF8uaQZnWbVum1nqFecPgfbpid3l+BJHDb4/kdKgF9JSMqemW890zRwZIQhGZW6IcSC9sAPzPI6f4tTimEDPQiAtkmyY51uT0BUFA4+7y8oIspi1G7b/D3RmVBWDhLDwh+C615sq4aGLWnyoy+l9pKZns2rL7LMMPTXVsOmcgSz0lynbhz92Ro/kaNYu2iuXIH+3w=;idboc4gP7FEDQocUcDujKQ=="
+secured: "u7JO7Ko2I2ihdCC7uEce1p7uxpJJcL9x9oDzx5WDdwkFC2sLBnMNGa8603jn0o4hcR56WrjiZGcpdbfvqWPomsSss2M0ZVeXcNc7taVKBmX9dNXt4XWV02HcBPUH1TRWMno8m0R66kk+iOnJpIvufr6jV57Nz/AIqwUGjQDfFfsYPq0ZAIC+dLtsPXilZ4yPgUjYD8t61GKZkV01vbmHxDa9jxUtQk/isSkw+3iRkPMprz6aBV6FMXvLHnhgc6BPgsG1RbfGHo9Aa2NgJQ856vq68FjphVL55G0Wmh4665fG9DGRHWKALEt5a4mKlBTgOn48qy+PtuPtk+/yMfhcYiWngjCCjEeWALDE/4jWF5S8AiU1xuVTTKk29Ovr3fQbr+Ch05Lhl0/jmw0ci9jDEjLwa5WcJUxy4YLzbqCWyiUM/kelPzg32kaSSthPGYVoppgd5Ye21sPQ4WH8ktyZfPCLH5x6N7ysO6SqVYw77/9W1XnxTX4GTJGKWtWhMR5jDaiEeRUxg4rEKhsKW4AdCQ==;NBnxqpMUF5FXBSOxPKr+ng=="
 ---
 

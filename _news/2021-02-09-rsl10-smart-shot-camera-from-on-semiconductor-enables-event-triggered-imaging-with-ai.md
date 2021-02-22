@@ -1,29 +1,26 @@
 ---
 category: news
 title: "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI"
-excerpt: "The RSL10 Smart Shot Camera adds the power of AI-based image recognition to ultra-low-power IoT endpoints, such as surveillance cameras, restricted areas, factory automation, smart agriculture and smart homes."
-publishedDateTime: 2021-02-09T05:28:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-technology-consumer-products-and-services-camaron-marvel-ochs-computer-components-b6fe5ab1dc844306b7aa02d9a39db105"
-webUrl: "https://apnews.com/press-release/business-wire/business-technology-consumer-products-and-services-camaron-marvel-ochs-computer-components-b6fe5ab1dc844306b7aa02d9a39db105"
+excerpt: "A companion smartphone application provides a user interface for the platform and acts as the gateway to cloud-based, AI-enabled object recognition services. The platform brings together a number of ON Semiconductor innovations, including the RSL10 SIP ..."
+publishedDateTime: 2021-02-08T17:05:00Z
+originalUrl: "https://www.eejournal.com/industry_news/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/"
+webUrl: "https://www.eejournal.com/industry_news/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
     isCached: true
 
-secured: "b8rnmb05XhJeXMUj2ZzEmHNsgpRXoDIiYQGGWs0m/1L5uGjTTfqfrHlgzL5b4grdVyJ3qNjzKhYSxMvm+DSGUHAB39UQ1QY2du33rHip3tckO6uukbT5N4rf6lLlI/9greYbedD3ygQAYjnG6bnmyK/EsG8ezZ+ry0AsW502ZZ+xcfWgstObsdzyQtGGzT0FwM4cv+jKJ9GGmHR2vYTLcbeqj1bftyZsc0W4lOLZSn6vuC/VDMqh0ggm/ky2ZCp5KsCqricEGs1m2WxngbZ34X1EJqPo1kSeJMwvHQrjTGDyPJXoECVRHBs8IMczAG2p6Zi6hyukpp6i7E298lu+AnJu12uHTKKUmUeuOAF7SSc=;u+f8BHZaQfoEU14j6yOXKQ=="
+secured: "n4Gwq8dzCfSXFQg20U168h5+QhDZ/RyhvM+gA3lXNxxoLCyqCthl4eX3+Sr9Rn9zbiDL/9vhU+ujnhyrEWbsgrYVAvwrNm2Rhpjwoy7zalGuoEZVLA4Tbpobz/R8UrU5UVE9tSU+wN7VvAiq9nudyq0bAI94HpMra4xweb4iGwyNtXdrmwckBAHD22L9LfHgV+mXxQOVXcPePZ376f5MS8blCUAM0LBXRyvnRGJwtGXbdJEj/ldvMJVmLBEHGfYdjqGkao8bhF0iTOlRDE2yrrMJ5DlY75mF5Mhp2KhgwyEwUAIi407oJUDcdpwtMuinOfAXgKwdIaXAt4PhfovPFpHIXATQAYTXRb76/f7kb2g=;MylMP6MHcrgVMoAbuuh4MA=="
 ---
 

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "QCB planning to launch regulatory sandbox for entities to test fintech solutions"
+    excerpt: "The Qatar Central Bank (QCB) is planning to launch its regulatory sandbox this year, which offers a safe and controlled space for entities to test out their fintech solutions under relaxed regulatory requirements."
+    publishedDateTime: 2021-02-22T18:40:00Z
+    webUrl: "https://www.gulf-times.com/story/685266/QCB-planning-to-launch-regulatory-sandbox-for-enti"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/2202122214050832215144.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Nilanjan Sengupta Named Applied Intelligence CTO for Accenture Federal Arm"
     excerpt: "Nilanjan Sengupta, a managing director at Accenture (NYSE: ACN), has been promoted as chief technology officer of the applied intelligence practice within the company’s federal services subsidiary, G2Xchange FedCiv reported Friday."
     publishedDateTime: 2021-02-22T10:25:00Z
