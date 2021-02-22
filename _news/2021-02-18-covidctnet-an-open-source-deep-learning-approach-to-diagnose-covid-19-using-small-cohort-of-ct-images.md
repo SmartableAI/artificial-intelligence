@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 546
         isCached: true
+  - title: "A remedy for COVID-19 learning loss?"
+    excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
+    publishedDateTime: 2021-02-22T20:41:00Z
+    webUrl: "https://msutoday.msu.edu/news/2021/remedy-covid-learning-loss"
+    type: article
+    provider:
+      name: Michigan State University
+      domain: msu.edu
+    quality: 24
+    images:
+      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/winstons-six-treys-push-msu-women-past-iowa-86-82/o/0/online-learning-1.jpg"
+        width: 1024
+        height: 605
+        isCached: true
   - title: "Early risk assessment for COVID-19 patients from emergency department data using machine learning | Scientific Reports"
     excerpt: "While epidemiological and clinical characteristics of COVID-19 have been reported, risk factors underlying the transition from mild to severe disease among patients remain poorly understood. In this retrospective study,"
     publishedDateTime: 2021-02-18T10:18:42Z

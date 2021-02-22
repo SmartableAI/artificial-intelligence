@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch NASA’s Perseverance rover landing on Mars in HD"
+    excerpt: "NASA on Monday released stunning, high-definition footage of its car-sized rover landing on the Martian surface last week, the first-time that a spacecraft’s landing on Mars has been recorded in video."
+    publishedDateTime: 2021-02-22T20:46:00Z
+    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "XjARN9d7hSlzTn7/YKzzaSHU29C2TkwE3WGWEchwedfdNVqQ3MMejvp6NElZml7cyasgzucqVHDdw2VcSCkiSsqsQw1sI8ulIrvBCk7gUOERG6aZf+rMjfztEF5+1FtBqoM9iPkrEUaMY0eaycLAyJANkO9jPEsO6tnoASV8Is6GWWL/q6qseDgCDy9EW51yM0PRbdXXV6pChFtE3PoQyt1KUwEZCOpeDx7gj2FHFoupdLMPlLI8tl2Tq8+61H8IL3qOIDv4RJTk5kE6DHi0/kzeogxquMxIVr9qvimPlcF9kKCsPq+4GpoKlBAw5NFTmnxsjkGZZ6kRa4TzAhXGZIyvNf4Gswa8slUDvy2ZryumYNV7ULy4HM5shEAi0BMEbxxLV0NjPD55X3GJ5Nnl0bB5BbPnjKEeLg1xwhCFd/fSv8PybD4NAthxSTnM/b9/hibu9sNc++enVmPli0vhcFRt9Juj90J9nGNBu1jKQUZJzfgqqUUf9CTgjqwp9R6SM0grmAG1FaYJ6IBSr8fR+A823X66dkg3T0f18LH0cEs=;Py3vIAejZphUFCGt0m3aJQ=="
 ---

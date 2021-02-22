@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
     images:
       - url: "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg"
         width: 1200
+        height: 800
+        isCached: true
+  - title: "COVID's Impact on AI, IoT, Edge Computing, and Analytics"
+    excerpt: "We saw particular growth in emerging technologies such as AI, IoT, edge computing, and analytics. As business leaders sought ways to remain resilient, they brainstormed innovation possibilities that might help them keep up with ever-evolving technology trends and customer needs."
+    publishedDateTime: 2021-02-22T19:48:00Z
+    webUrl: "https://www.designnews.com/automation/covids-impact-ai-iot-edge-computing-and-analytics"
+    type: article
+    provider:
+      name: Design News
+      domain: designnews.com
+    quality: 37
+    images:
+      - url: "https://www.designnews.com/sites/designnews.com/files/edge_0.jpg"
+        width: 1540
         height: 800
         isCached: true
 

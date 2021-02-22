@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Market Share 2021 CAGR Value, Size Top Key Venders, Market Segmentation, Growth Factor, Trends, Types to 2024"
-    excerpt: "Facial Recognition Market” research report conveys an essential review of the Facial Recognition market including"
-    publishedDateTime: 2021-02-18T03:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-share-2021-cagr-value-size-top-key-venders-market-segmentation-growth-factor-trends-types-to-2024-2021-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "FS6Uztz6Ua9+p15KRgRmlyrRGGAZesDBsAShQLJbv7tWpTc6inWaOPiyUJcfEnW3j8EuUkpU38nkDUblele9+snbP9R6WaADCH8Ql19SmiItZhgGsusq+HP2NilAlGfRqSIFYzlgTWwslkZ6iUri5Z8dPkRv+DO/PYsqTxesIZLFQMCx//6wySQ4AujvornM2zR5y+Bstmjay+bAgGRx3eYnSTBXfYV+KKVV3JuCxtvWvoRUcFyEjSCtElwcHcDxDC59Dbw+DICuQjZU7SCP6QLIV1g+Ia1ygsdWt8T8dcDtO6roZoNdeF75wLE97258QqDNWgmKjdqpkUpgp7hbTqPzbok8rtvKE1TFiCibiJo=;yRCfnM1hgpzbJ4OvrWAZmQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaltrends.com/news/how-to-watch-perserverance-land
 webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
 type: article
 quality: 152
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 152
+    images:
+      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Watch NASA’s Perseverance rover landing on Mars in HD"
+    excerpt: "NASA on Monday released stunning, high-definition footage of its car-sized rover landing on the Martian surface last week, the first-time that a spacecraft’s landing on Mars has been recorded in video."
+    publishedDateTime: 2021-02-22T20:46:00Z
+    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
     images:
       - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
         width: 1200

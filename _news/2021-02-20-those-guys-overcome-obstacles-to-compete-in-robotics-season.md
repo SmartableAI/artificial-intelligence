@@ -41,6 +41,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Top 5 Robot Trends in 2021"
+    excerpt: "The group offers some predictions on trends happening in 2021: Robots help to secure supply chains: The pandemic situation has made the weakness of globalized supply chains visible. Manufacturers have the opportunity to rethink supply with a completely different outlook."
+    publishedDateTime: 2021-02-22T20:21:00Z
+    webUrl: "https://www.mhlnews.com/technology-automation/article/21155725/top-5-robot-trends-in-2021"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2021/02/Robot_Trends.603015ccd6ec3.png?auto=format&fit=max&w=1200"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "TVW9vbTprZ2U6Jh+oxHwCOimByKkg9URDxQfHnLPxKVS9cBT+ZdV0RUfk6u6OjPEyWE12f30L9g7eQip7WCK2MGrMASZgoofBrNJdw8JC3nnxzv87jIvfh+qqpvA0pcQhM+Vx9KA8qhHQzUHh4CXeAAlHCXOGL9BHYEKQ5jpUqhAxIZwB/tWhzklHxT1RLys9nks6izGdQW9CVdwQ+2MiXf7xNgv7b48SKLS54YjJ2F2MSqwe6GAp0nqj6EqdMMBneSn4//Yv3mzLHeZM3JartQqSgfAynT13z6yGL7gnfsJGKP3/IA0rZ542LKBSMKxSZLaWZD9N4Y0ZXajSwaVpsIJo/AgMnD28B8RMqOcWfVrt3oDiAZ5d1IAKLz+QpMym8l0zk0zUU/CqHuV+QTo6XJcWAsZ5oxdll3KleWbahzFTSQNTBl47glN4hq0F1L92BbkJbBjCPkfw+FXT3oxB3eZiaZBDpDuGta0Gzg9pF2yJzWsm07Q1JtuVlrUWNulgI2g/mKjmYZ2YB5wERyLzA==;qG/KqPsuXxMIV8gm9LSHGA=="
 ---

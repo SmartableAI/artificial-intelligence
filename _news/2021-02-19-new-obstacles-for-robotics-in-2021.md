@@ -9,7 +9,7 @@ ampWebUrl: "https://thebossmagazine.com/new-obstacles-for-robotics/amp/"
 cdnAmpWebUrl: "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/new-obstacles-for-robotics/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://patch.com/img/cdn20/users/quickpost/20210218/094117/styles/raw/public/img-5347-1jpg-20210218094119-68244200.jpg"
         width: 1200
         height: 735
+        isCached: true
+  - title: "Top 5 Robot Trends in 2021"
+    excerpt: "The group offers some predictions on trends happening in 2021: Robots help to secure supply chains: The pandemic situation has made the weakness of globalized supply chains visible. Manufacturers have the opportunity to rethink supply with a completely different outlook."
+    publishedDateTime: 2021-02-22T20:21:00Z
+    webUrl: "https://www.mhlnews.com/technology-automation/article/21155725/top-5-robot-trends-in-2021"
+    type: article
+    provider:
+      name: Material Handling & Logistics
+      domain: mhlnews.com
+    quality: 39
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/mhlnews/image/2021/02/Robot_Trends.603015ccd6ec3.png?auto=format&fit=max&w=1200"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "QCwP93dL3iNSHjbdM2VS6/zOhcLtRxGWBaISQY0hJVsVa9HGJCvUOaLEGLzjZwNnvVv79dpNs4xQqcYRgDaCBqLvLlTp0gBPt3mS3oEU6SfS0bG67GoZfirGBoSqnENaRJfejWguup02M+IfWFVhcLwx68DFiNd1ASoPnVG4TJa9FqlH9Pn14kaZaQQjCNtFth8Yjd2GJPEJfV8dysyyGIOIqWy9qY6zB9e85dbmCx7hNJVstfPbKJ6wwrN+vDlOWfX4xMZdKWE7qLTNR5HZ07EMT3tU91UHEUgjab+ZumOoj73DdVwTPcaHY9YVizJvbpFpdeq+qX1ZDIwHK+chAA1Wmn0PGybOR9d87MXpOgcft79OPg1onIgJCKc5qgIzuAlvn3RkboxYzRkOjTgaNb+X3/LkUow77E1riZbZDUUh67BeinsGBH3wEthxZ1/DYKnlyXmdt9rEqQg37bgyk09ByE1B/JXocXVhnE+2aUpDWsd0/qg3f7FlPyDMhTcaYAEg6BfljZOwxstPf0UZdg==;Jm3GM+uPdej03LXPGiCSrg=="
