@@ -72,22 +72,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Putting artificial intelligence to work"
-    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
-    publishedDateTime: 2021-02-18T12:24:00Z
-    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
-    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    type: article
-    provider:
-      name: Construction Index
-      domain: theconstructionindex.co.uk
-    quality: 57
-    images:
-      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
     excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
     publishedDateTime: 2021-02-19T03:42:00Z

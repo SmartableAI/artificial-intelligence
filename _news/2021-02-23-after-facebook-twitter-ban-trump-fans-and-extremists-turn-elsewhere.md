@@ -1,27 +1,29 @@
 ---
 category: news
-title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
-excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-publishedDateTime: 2021-02-23T01:33:00Z
-originalUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
-webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
+title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
+excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of"
+publishedDateTime: 2021-02-23T04:15:00Z
+originalUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere"
+webUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere"
+ampWebUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
+cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Philippine Daily Inquirer
+  domain: inquirer.net
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-    width: 1024
-    height: 682
+  - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/06/computerizing-bar-exams-leonen-06252020-e1593084112954-300x225.jpeg"
+    width: 300
+    height: 225
     isCached: true
 
 related:
@@ -79,6 +81,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "Z8JyNQUJvwcAyla+Hvl09lZB3jt0/KcsJCvKvyYDsOM+uKBKiGFqvAD5vx1m8VrKl9vXCwTtACbf+7Pg05bRwUPazboV7xoX35yab0Xc1r3nXo0Qw0OCY1Ai0/V16Nhx8pZSfa+8kYu+Xwe6TNMul0k0NJ2S04En/H8vpEhP4nxCUKoZ4heG+s7fIg42y6UKareBMJKpVSq/Sw+DO0JF4uGV8fP5uHcUlm4sUHAX476AKdFozoP8CdQlMrAZtxVeUugUZRRb8Phz0jgzrO4NaLK2PR/FT97yORUebRmQac2HxsVhtaap5wAwqKXszQTchW2JELYtKbepISTwG7Zrb124DL5eVAs+Jjw1D0OOUPQ=;va+jpP/ZaHEM7++HfJkfqw=="
+secured: "3nfg7CIJOtwyJIb5ZQI72ms/2TY03sPuMlBQLokr/QKnOCFQEm9WPLjS2k11Mrqz2ee0Eycv84Q1UxdggYoghakHLTkfmYeWrawcGg40gTSvUbX1K//IDi2LAeQwsBYEXMy/r4+T56sPtMITkBG+xhqRDct5GnfuUV8CI0cqouFRwykYbBusOXfJmMZIUIJUMSuBbJB9WGQXsHdppJiyrrdHkWf+8LHow6FxSVeSZKpNsvia8o2jfXwWnDxTh2dNbZvsV48eP14Q5B3etXlR3puOYZLM+9UqZ6Aheow9tAEZzRviKWbdKYzbO2VjcDn/X/hMc3rV3F8j6xIN5DfKp5Jz9MlzY7ZuBaci9PlXw9o=;Y/DKvvT1PIUTh7olwa1omA=="
 ---
 

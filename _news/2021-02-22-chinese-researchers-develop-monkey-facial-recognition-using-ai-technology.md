@@ -7,8 +7,8 @@ originalUrl: "https://www.globaltimes.cn/page/202102/1216119.shtml"
 webUrl: "https://www.globaltimes.cn/page/202102/1216119.shtml"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: Global Times
@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Machines: AI technology’s impact on Florida’s business sectors"
-    excerpt: "AI can’t replace humans, but the technology is making inroads in more and more business sectors. In an oft-quoted interview with Life magazine in 1970, Marvin Minsky, an MIT researcher and pioneer in artificial intelligence,"
-    publishedDateTime: 2021-02-18T11:09:00Z
-    webUrl: "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/"
-    ampWebUrl: "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp"
+  - title: "Hyundai Motor to equip cars with AI voice recognition technology in 2H"
+    excerpt: "Hyundai Motor Group will equip mass-produced cars beginning the second half of this year with its new artificial intelligence-powered voice recognition technology. According to the director of Hyundai Motor"
+    publishedDateTime: 2021-02-18T23:58:00Z
+    webUrl: "https://www.econotimes.com/Hyundai-Motor-to-install-cars-with-AI-voice-recognition-technology-in-2H-1602628"
     type: article
     provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 61
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 39
     images:
-      - url: "https://www.tampabay.com/resizer/utyknz4ZES4gecWGUel9wrw-fh8=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/JQLH2WUYRJHPRI63JKOFIHE5DA.jpg"
+      - url: "https://s1.econotimes.com/assets/uploads/2021021821c5fccdc57f75fb7_th_1024x0.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Face recognition tech for golden monkeys under development"
+    excerpt: "Chinese scientists are developing a face recognition technology for golden snub-nosed monkeys, an indigenous species on China’s top protection list living in the Qinling Mountains."
+    publishedDateTime: 2021-02-22T07:35:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/22/face-recognition-tech-for-golden-monkeys-under-development"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/22/1052858.jpg"
+        width: 1240
+        height: 845
         isCached: true
 
 secured: "I3qGiNXxozfbmz7NPrknOOsgRGr8x3KItZYE3Fc6GDltO6Qi37AfpugTZlGYIgLjvoxuz9fKOmw+np3Nj0n2wHUsFlD3xp8kb/qJEbQ9Brbv71JWO4CdoHSlp7ngpItV45UUAGmD6utiWA4t/92GcH5YKLoHkRfBBgtfKdCzaGWEo0mp8UdPx5ppr7rcXAypwNZ328DBoq7oy7apKEtoTIdJSPGtUVAW9fK/rNb0qhJ0MnWkqYT0K2qC0yB5Ja8A4LngpxmPPUKD0sGqhEhwyrRZm2ZV1uhDQZpR1U9PI4l8cpdP9vraeVep95fIQ0TSX0KiDocglfJtNpm2OTOxD8uSi8aPEIYWWu/SV+GZFdo=;V9qRDxj9mymtXy8qmm2CXQ=="

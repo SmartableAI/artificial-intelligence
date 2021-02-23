@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
 type: article
 quality: 121
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
         width: 300
         height: 300
-        isCached: true
-  - title: "Putting artificial intelligence to work"
-    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
-    publishedDateTime: 2021-02-18T12:24:00Z
-    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
-    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    type: article
-    provider:
-      name: Construction Index
-      domain: theconstructionindex.co.uk
-    quality: 57
-    images:
-      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
-        width: 750
-        height: 500
         isCached: true
   - title: "Artificial Intelligence and Machine Learning-Are We There Yet?"
     excerpt: "Artificial Intelligence and Machine Learning-Are We There Yet? By Barry Barlow, SVP & CTO, Vencore, Inc - “Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has"

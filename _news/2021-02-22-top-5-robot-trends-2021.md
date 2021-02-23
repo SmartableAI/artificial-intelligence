@@ -7,7 +7,7 @@ originalUrl: "https://www.mhlnews.com/technology-automation/article/21155725/top
 webUrl: "https://www.mhlnews.com/technology-automation/article/21155725/top-5-robot-trends-2021"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top five latest industrial robotics trends explained"
-    excerpt: "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world."
-    publishedDateTime: 2021-02-18T11:05:00Z
-    webUrl: "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/"
-    type: article
-    provider:
-      name: pesmedia
-      domain: pesmedia.com
-    quality: 69
-    images:
-      - url: "https://www.pesmedia.com/wp-content/uploads/2021/02/KUKA-smart-production-18022021.jpg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
     excerpt: "Robots learn new tricks: Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks. One such task is bin picking, that in the past was only feasible for a human hand. New generations of ..."
     publishedDateTime: 2021-02-18T15:15:00Z
@@ -48,6 +34,20 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 34
+  - title: "The Top Enterprise IT Trends To Watch In 2021: The Channel Angle"
+    excerpt: "CRN contributor Mir Ali of 2nd Watch breaks down the top enterprise IT trends you should keep an eye on in 2021."
+    publishedDateTime: 2021-02-22T20:19:00Z
+    webUrl: "https://www.crn.com/news/channel-programs/the-top-enterprise-it-trends-to-watch-in-2021-the-channel-angle"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 26
+    images:
+      - url: "https://www.crn.com/resources/0266-11a3d96077a1-f9c10308ed38-1000/mir-ali.jpg"
+        width: 610
+        height: 457
+        isCached: true
 
 secured: "WZmPAT/aJLHRJkLbuTMfXyZF7yaI9XWYc3wBakmKQNuu7ip0yTaR10v2H753LHVOjacotE57i8yZ5ju8mm2KnJcArBfLma3o6NDBTROUMZQzhmOhhPVCSbZv6WzO7uLa1G6+3UbP4u/bj5OmPvcqE+IucCs0u67aR4wW90Jeeh8F1vKQVGp+1me7cgb03MoZKeyS0lZV3JDrWSgDu40eLgZAyPMMS5y/W+T3GYXt2DWvVU3kHhSo2sjpNYlTszceU2Bd/9copjOb3YnIyyOO1RE0Y37/kCVompthTTosECMBiXP2ZoStBwseg9CFYqsgl/Y/cWEkSLmyDMAwUa+Y26oNOOBiefzq5+174MRdKhLgAyL6Ka4K8n/DkDsFVMAoqff0WWLw+wSK/EjSgwNBhhp4p1Q0vlRAx4J+DRP6GcV6hAvL7/AoniWW3o6pM5gLaRsCtmZE4ApmmQ7gxY5NfPTwQXlyZBXZGgqZuUgbLw/vieSHp8keQjsLEbft2w/V3TUARw28WS9/c/OIV21phQ==;bqIW1yBoJOb1MhywIr3LYA=="
 ---

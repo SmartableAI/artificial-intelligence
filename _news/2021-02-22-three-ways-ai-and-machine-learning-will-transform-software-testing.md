@@ -71,22 +71,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Putting artificial intelligence to work"
-    excerpt: "Artificial intelligence systems are increasingly being given key roles in site teams. Lisa Russell looks at how Winvic is bringing in AI to boost site safety"
-    publishedDateTime: 2021-02-18T12:24:00Z
-    webUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work"
-    ampWebUrl: "https://www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    cdnAmpWebUrl: "https://www-theconstructionindex-co-uk.cdn.ampproject.org/c/s/www.theconstructionindex.co.uk/news/view/putting-artificial-intelligence-to-work?amp=1"
-    type: article
-    provider:
-      name: Construction Index
-      domain: theconstructionindex.co.uk
-    quality: 57
-    images:
-      - url: "https://www.theconstructionindex.co.uk/img-cache/19e1556fe05a9cf224398bb4735bcb9d/750x500_top_1613113044_winvic-pic-5.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Artificial Intelligence and Machine Learning-Are We There Yet?"
     excerpt: "Artificial Intelligence and Machine Learning-Are We There Yet? By Barry Barlow, SVP & CTO, Vencore, Inc - “Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has"
     publishedDateTime: 2021-02-19T03:47:00Z
@@ -186,6 +170,6 @@ related:
         height: 450
         isCached: true
 
-secured: "i0McsAevUFMrz4OEGw1Z7Aqjn5aYKLV6HU/pbFlxYKg4mCneH/+YhIHuQ2mjtvFqhCo32TE6Jr/cK6Hrf5AwiRWj61jvCWN0g9Tqfx5BDFUnA5YP9PpvgHA65r3KvMrCgF5oQz7TPGUyxumw3COn1OvBaJE1lzMfeTrauG/L+PA7/PCNLj5qAAkBbiSg/VkNmgOFHMZtjIldsRTcgnzdWycYGeyT4hNXfteo1LxpyDK9ITgdl3klA6V+2gXXYfuGdFAJp3eAjhWw/0j98I+vvoJNAnlGxLGymUAacSgWI0Te+iU1vtsgzM5ocL3ZLwHQhDtHvKMCjZaCDTzGbLLyVhMpNJYEBG0Jz2FyAb545q8=;hV6OFCK7rxjv8u8+tJmw4w=="
+secured: "tu7kaibHJmpgQ1YbgM172hIeCCO3qrQOJKp8pTH+tJxddLIJt4sfv8YDj6ypVTAiPf2oCHDNcXoCiyNzi13hwuOY4byJOvijR5OBithgJfZmCdWUU3Qd78zGrw0AD8KYouZgwnkMl+Wtd0vqZkApqW4jZQ+2p9a99+oAA5hp57Q3Ka/VnSL2LJXalLeYZsKTXFBbYvxi4RM65ebSslPdHDsNPQMsmIqWWwhowCPIzvfgW6D+sOpE0Zk6a+ndKVh6rlqQy8qYyzavziiR+HeETyKNUgP5e2IUu6cZknZ1AgXDguCcg1Pglb8wB9aiNgf7lBlewALVP+CoC1dYXVJ2nRLDramqXbDFaw444x5CMXf99M/H0fCQwz9X+mYdQoNb+iFZAgLFAMHClx8rnAsTKYtva3kJyPHReUPjErp7JUDWdugmW1aap5OjjA12ePfIb111izavNSGO6eMsAxgGveoCwfBBMRwtglrYHhj2Ef7tO05H9BbiIAEf6Vvixks8ikW3T7jdGuDcGbWHwnewmw==;reQiVCD2aG4AVJoO7aesIA=="
 ---
 

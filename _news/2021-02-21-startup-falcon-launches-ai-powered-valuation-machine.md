@@ -23,6 +23,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Oracle Launches Construction AI Advisor for Its Cloud Services"
+    excerpt: "As more firms store their project data in the cloud, it offers the chance to dig through that data for new insights. Oracle has already offered some limited business intelligence dashboards for its cloud service,"
+    publishedDateTime: 2021-02-23T04:32:00Z
+    webUrl: "https://www.enr.com/articles/51250-oracle-launches-construction-ai-advisor-for-its-cloud-services"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 37
+    images:
+      - url: "https://www.enr.com/ext/resources/News/2021/02-Feb/ENR0222Oracle.png?height=635&t=1613947902&width=1200"
+        width: 900
+        height: 550
+        isCached: true
+
 secured: "MTe7+UTZoH1jfNUGqMFuDb0tE6WMKqZ25qWql5xDywy6FTMoTclEoyz4FgtfSvLKvV2UydIzL+AoD9LNFv2KqbbWIIUCmDJOCMFDYigIi2Uoj4Kt8S2erYHv+9q1kyaZwdFPs8Fq0HDXUuJr8YkI17En1tQXsS2HpnDYamyVnII+9Bs6TH6NkSv/RiHktBTBWc8eRSN7G3bagB3ELqCACZW1d+7amwJnQ9q10gEP+5AHSPm2bxH/cJikWxf0zzWZsk6s0uI8VAL1KPXiCMyFIVvBYCH5MKq1BihqNPgARj80tHCyzfJ6E0vVq3hxB9fag/FHFZs19IbVeUJxPT5wrjpR2YmVlc6PFAkJIrvIgm7DfHPESsiywKedsGTw7O1ANPWzs9I7l0HyeVWeDwyJJM/NWPIVuRRQ8NmRgsBlr8qo4JxyLozYw7afgX5oFTQLH6QZB4z+o0YmUdqOtexMbAAgL5yxRq5TCongHkIfT2QeM3+z5GmUe1+cqnd4EGDruen79RH5PAiopkcOVjCvIQ==;Pa0gU7CQWiwMGCl/q1V/YQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41467-021-21352-8"
 webUrl: "https://www.nature.com/articles/s41467-021-21352-8"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 685
     height: 456
     isCached: true
-
-related:
-  - title: "Molecular function recognition by supervised projection pursuit machine learning"
-    excerpt: "Identifying mechanisms that control molecular function is a significant challenge in pharmaceutical science and molecular engineering. Here, we present a novel projection pursuit recurrent neural network to identify functional mechanisms in the context of iterative supervised machine learning for discovery-based design optimization."
-    publishedDateTime: 2021-02-19T17:08:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-83269-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 34
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83269-y/MediaObjects/41598_2021_83269_Fig1_HTML.png"
-        width: 685
-        height: 374
-        isCached: true
 
 secured: "p9zDY9gKWj3oiDELYJSr2M+DDFGQfYeHu28uIQZQubKvy0Ss7mg57Tdttj3+tFmFGUbDrou7HE55+3mVnk4qIo30wgcIaoZvtihhLuw4kJnb2le2x6SjFkDHr31xUoWQyDgfOyUx7yki3ohDt427BntUAJsK2hIiFEIPO1/UhB2YTP8Czy6AwMsBWi5kb3p0fz5btz6rBw9y3ehBjW8S5rVbK7WenrkFO1RxaXlpYO7YU0oWD95QsFkn3us0bM5zhEB1ZgP8C585U9E+4IaN4RYaK2dzfAt4lWAtl9PssPjHdcD+/7wHhNurFk8OFcQNirSIw30BcsAoVKc/CRhuYeFS/oDuLEESvVITIfYXNnmetXGuLQdPxmmGA+nNCp4nwy2jTmCNp2cUPxJxCg9VZIKZoeTra5Pr4kw5z1hzC4xZRsUI8c0dESGZ2O2U9/I5oCEyIUi8DPm2jYGAt+jXiStFTaiq/Zp+Jiwnbsong7oyalEQgAG6PYDJU/DIz93UAyxqfgpiOcVq28RVVRD0NQ==;0lPdt2oJbmU7uI9meZn/Qw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reache
 webUrl: "https://www.bloomberg.com/press-releases/2021-02-18/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
-    excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr."
-    publishedDateTime: 2021-02-18T12:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 56
   - title: "Breaking News: MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company"
     excerpt: "MindMed (OTCQB: MMEDF) (NEO: MMED) (DE: MMQ), a leading psychedelic medicine biotech company, announced that it will acquire HealthMode, a digital medicine and therapeutics startup that uses Artificial Intelligence (AI)-enabled digital measurement to increase the precision and speed of clinical research and patient monitoring."
     publishedDateTime: 2021-02-18T14:17:00Z

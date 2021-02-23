@@ -35,6 +35,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
+    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of"
+    publishedDateTime: 2021-02-23T04:15:00Z
+    webUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere"
+    ampWebUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 44
+    images:
+      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/06/computerizing-bar-exams-leonen-06252020-e1593084112954-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Facebook's faceoff with Australia could backfire"
     excerpt: "Facebook Inc.’s dramatic move to block Australian news-sharing escalated a broader battle against global regulation. That gambit looks likely to backfire."
     publishedDateTime: 2021-02-20T11:00:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://media.timesfreepress.com/img/photos/2020/10/29/1604029850_101639583-892943397bbc48b6ab64e50ef76d5d61_gs_t1070_h7ba15c6f7b410476703a9590128538e0f080ea4d.jpg"
         width: 1070
         height: 713
-        isCached: true
-  - title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-    publishedDateTime: 2021-02-23T01:33:00Z
-    webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-        width: 1024
-        height: 682
         isCached: true
 
 secured: "lV3PW1KJptLnv3rMjNbCwRSrWfSs3ERsOFh5bBojKEh39gKgzWYThAUUDb/9/qd1RZrjoOaFldj+fbhVqUP1yd7v90vHQV3JF8FAIDMLmzl2wX9flIl4CrUq5EgcSbMWpkmUsdA/mpcKZZBVIUG+RDzM5xiNxg3FcycEld5E+ZBe621Ygb+MVm8MOG8TyudykavybrpikxmdNO20TaQlqrUI91z4i+FEweXquZqZjnL3BA7npzp18iYXtET2SDht7ZhcCvOUQWT1tsSB/BhD30J3M0hWPs/F0qqfHJZRT3IscpDblR4WcLou9+HCsQPTMy3RZVcVg02QF72Qt9g5NJ7HUGB9UH11n7k/DCxINusHn0jJtJelg1iQgFOw5VMHzN3+vpis3CuH+YF0Z4h54W4q+HiwMSUBfsq1P441EQJEPbxvHa1S3/XECPE1XffZ+QvVHIi2dTtQ2YyYwQvSXsXzVqDFXR5VCVkYWd7if/bcN1zrRMDXtmGuICKTvzs1mBfhnmzsb+C2NpNpzLlx4g==;iujoIJZ450kUYBAEC9UVSQ=="

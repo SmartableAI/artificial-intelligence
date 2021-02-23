@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cdn.openpr.com/U/2/U219826638_g.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "Microsoft Azure Get Asynchronous Document Translation Tool"
-    excerpt: "Document Translation in Azure Translator can translate batches of documents while maintaining the original layout and format."
-    publishedDateTime: 2021-02-18T12:02:00Z
-    webUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 76
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Document-Translation-Azure-Translator-Microsoft.jpg"
-        width: 1162
-        height: 612
         isCached: true
   - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
     excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"

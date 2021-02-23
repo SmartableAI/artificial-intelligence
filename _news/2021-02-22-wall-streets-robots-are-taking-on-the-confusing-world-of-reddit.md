@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-r
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Robots on Wall Street wrestle with confusing world of Reddit"
+    excerpt: "Reddit forum WallStreetBets is hard for humans to follow at the best of times. But spare a thought for the machines. After the retail stock frenzy last month caused unprecedented havoc, hedge funds trawling the platform with algorithms have a renewed sense of purpose in their mission to figure out the next market craze."
+    publishedDateTime: 2021-02-23T04:08:00Z
+    webUrl: "https://www.nationthailand.com/edandtech/30402938"
+    type: article
+    provider:
+      name: nationthailand
+      domain: nationthailand.com
+    quality: 39
+    images:
+      - url: "https://media.nationthailand.com/images/news/2021/02/23/30402938/800_0f964738b794624.jpg?v=1614042214"
+        width: 799
+        height: 450
+        isCached: true
 
 secured: "wDmrit0BzpFvg+VgEBktv3QiYnkgtO2KNK09E2PZ2eF4fQbvL+Mq9j9VioIm0rr32IcsIDcy9Gif8MVk6oppVosMQKmNfZis3KZkZNlnOzPH2oJzee2ysB348FCNR30w7gN5yRrXQFdYa6E8v1lPLeetthI1+rnFqYPLH6Z4laaEJGoa61Cq3UvrqF5ETo4nhRZ0lyqBdMDstiwez+5ddRQBLxurfQZGaY1xVfgpskjgtUzdEnVoacc+isENSmol8Cb//165rCJJmm6sJqF2YzQvJL4bQ8glvwYfaSXyEQbP0BaSjnWDIJIUlzFfK5hY4U+Xzev3F7ceT9TTzY3YLwmrbIQb5mJ4FJlL4MDAQOo=;pppRSDiI3hpq/IUmYZ1aoQ=="
 ---

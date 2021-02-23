@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wate.com/living-east-tennessee/would-you-trust-a-robot-t
 cdnAmpWebUrl: "https://www-wate-com.cdn.ampproject.org/c/s/www.wate.com/living-east-tennessee/would-you-trust-a-robot-to-manage-your-money-many-americans-say-they-would/amp/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "COVID-19 has made Americans lonelier than ever – here’s how artificial intelligence can help"
-    excerpt: "How does that make you feel?” In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing back to you?"
-    publishedDateTime: 2021-02-18T12:49:00Z
-    webUrl: "https://www.stgeorgeutah.com/news/archive/2021/02/18/prc-the-conversation-covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help/"
-    type: article
-    provider:
-      name: St. George News
-      domain: stgeorgeutah.com
-    quality: 28
-    images:
-      - url: "https://www.stgeorgeutah.com/wp-content/uploads/2021/02/alex-ivashenko-RLdcScGQEJ4-unsplash-STGnews-1290x726.jpg"
-        width: 1290
-        height: 726
-        isCached: true
 
 secured: "01I6ZV2eUjaGcF2ZsQrHlhPVwUibMEARGfZMFm42MBhXmSsBHecyMkMDB/hvF6JMQJ/BG+66bPMkWqk42M+eqh/796sRZn3F+fkSWyi3wU4TlQ50uiBUmV87qTxVLu/Vkikq8z6el+G3PWxuLKwxAAWn9N/nRUYRJ9wguMrG6Wy06OPB5MScnpIiY2YOBbyf0SYOGfRfKkg0R2jr+6vjmjpMzndGEQeVUUBBcrfhRNUyUzsXLd6Pxxl46VNnstJ/QhNJjfq0rRTDiVnCQ5g5tq3KcnFX99NIJRE8uxFK0bt3Pv3CkmDJWsLmVrrhdteLz42dYIT4EolJepB66PpaT+3mHoFvPKjLFU0fE5K/df0TzA7+pI7yNdICWf+kUro8b9a//qTitw9IKIpN+AI5htVOAAOZsLFKCc7B2FHWi9nYj69LIVxPlcVbH2p2mckYQLfI1uUjrS2zzun4m6i9p8uDVbxFUw/lj0H7GAYdvNSr2Yaw4QpCeh89Nvi48qAjjAUk6wDAHNBsMened1gs7Q==;oePFyQSZMEHvnIW8qoiD0w=="
 ---

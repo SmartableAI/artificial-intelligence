@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/02/ac19780757/opportunities-f
 ampWebUrl: "https://amp.benzinga.com/amp/content/19780757"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19780757"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.accesswire.com/users/newswire/images/630968/image-20210222160809-2.png"
@@ -25,6 +26,6 @@ images:
     height: 375
     isCached: true
 
-secured: "G2C+FZ6ACHC4Drd/mPFrQ+LqlYkrXbhR7K6M+QMWblKbED8Sr0GcxobSC3QugQK9NFfzQLXjKtSbcG9uzz63BNbc5MfPHsyuOZYdW25lb705hkhWT/Pr5dEngDcejdc1zMYH5TIa0amfaTTjKYpoPptp3CLlzdi1ArxDMBXiUsx3K3dftBZex7lsEVMMJ6gnZ25dzAAKfP57RShv3hSJDvFkipTHNji/HWV/U21dHA2hOLf8f5wAsgQ95mSQq/UrdFDxTZ+BTIeNlLVlI8T1uhDUD/D4Ca+cxl1dsWDspJxzXL5bw1Gupd2801xBCO+h6BX9LkxfHQ2V/RSx5lk+N5Wqkq1/wxJClHv/MlqCAF0=;tvd3cgv+vFqff3iue28l3g=="
+secured: "NeZgo1FUukX29zrUA21aNtZ8NX4Cd9VeP5jLk4sFBNvTERYCt11Sx5ssTutFnxI/232SSE15Q6S6zSUNZ6q9xTW6XlodsUjaf/tDHVF4S2/Bjie0yCtejnT+hIOPEYIdNpy1WR2bB5mt5O+JmiqX2X682oY5P89tWfYvooNRJkgsrsYx0OVRW7LR8gxRTEYcSaJKYV4JHDIaORHmfawHdk7/v7P+hs+/NOAcMj6CEtBCLlORjyYJdCVHdPJVEj5Hx4IYUe/89X7Qq93Qi1obd4BK/2VXYLztAI2M3odNK4q/i3MubPt6xKxQkJCZ+W6yJ2IoZs8PrxlJmOIiHQUyfnesZbMPXohTgMW+cpUKldUc/Q7W77f4fBW2h2kgHzWoGBx7cQiMvZwtgXWTjhA5LkQHg9CZQfop18xHfSKtK7eKXElcSdAsur4uIb3zYQVUa4/bZtPq5rz2KMBrw01GCLatIBboouoIVxzjNl7h3uolM9Zfjvy+J7Mwn2lEXR9Jc4yAo+K4k2/nK/77Quo42Q==;AwxMx2pCg8O0KF5VTgGcyw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210222/Applications-of-Artif
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "COVID-19 has made Americans lonelier than ever – here’s how AI can help | Opinion"
-    excerpt: "Therapeutic bots have improved users’ mental health for decades. Now, psychiatrists are studying how these AI companions can improve mental wellness during the pandemic and beyond."
-    publishedDateTime: 2021-02-18T12:45:00Z
-    webUrl: "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html"
-    ampWebUrl: "https://www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/opinion/2021/02/covid-19-has-made-americans-lonelier-than-ever-heres-how-ai-can-help-opinion.html?outputType=amp"
-    type: article
-    provider:
-      name: Penn Live
-      domain: pennlive.com
-    quality: 56
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MSIRECICK5BNBJ5ZXERRNT6EYY.jpg"
-        width: 754
-        height: 487
-        isCached: true
-
-secured: "UKx247Wntfiyit9oj8+p59ZQMGXjesFQ/6jJKn2H0uLkbqMQQJrP/ef0soH6KluwmrlMNisDiJ60GDuvy186Fhbe2A0mx4qElhu/jbV3N+uPGK7tkIr7MZzb6AM7oKvm93XaO+VtLwbuXN57u0WpcJ+Ak2ClGo2kTG+MzL0FvOYiORCIgjUE+gSAthN0g7G6HTsBlI84+mnbzKo9FLQPIDbeAkxDJoPliT738Fc2VgStskzRMzHyhZPzj0PV4Y1lspCZoA4NQ6ZK3UOubbG6NtijU1uXqItgEuXPjb/YnB0eomBWTh9rMmDBOdMfInVmtM2Jmue//qBJkmqmxoQJkYHIuXpnHa4aZmTPdoxgnlw=;mGMT3/Ult/M+iuYBQ4hCJg=="
+secured: "pnqo11sLQ4AgDJccbBj12hz6IY9vAFRe/6rHt9dnl5WZuThhI8gL8NeATLJ+smPZtv6faBW36TV/CoLO8ozf1Yio+iAgvt9WWd45w96iOadSL96t9qpZWs2PzIdOpd1rJmYaOUGiYms5zdLDd1qiVJlrZAQRXi2/OgqE4splJ2SQOkyQ17wuewGhpsX23hW1WJ2SOHvpyQeKJ2ic/39tBc0XL1caM+FJXLHKeECZa+sUfb/yEkcuEhoWtQOKv8cY4ikF0oms9cd/paeKiDteim9/+X+4ZyH16FX6CtAAvElH94HPP4l8Gt6rKefavPJJIH0a8RSA8YofkKt2jp371Fq6EzrXN7nfff+KLXMfapkbEKZSiOiTB04e2qKtiVIHuLCU564VQS8p80ls2twOYzJLrcHWFxcmkKh3RwyPYTGajG1ygtq1vT2MywCvJMinVrVp9whwv3yBeoNwpD0GK1WF3RV7vHCMla+LinXnbfCspAUabLRcTCR9HCNB1xpuv2lszb/NTNzwbcGX885IYw==;cnh3yAellpZYLAtANl4K0w=="
 ---
 

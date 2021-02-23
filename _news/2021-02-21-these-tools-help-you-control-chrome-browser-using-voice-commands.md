@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/blog/these-tools-help-you-control-chrome-br
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/blog/these-tools-help-you-control-chrome-browser-using-voice-commands/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 340
     height: 237
     isCached: true
-
-related:
-  - title: "How to Track All Google Voice Com­mands Giv­en"
-    excerpt: "This article is about How to Track All Google Voice Com­mands Giv­en. So read this free guide, How to Track All Google Voice Com­mands Giv­en step by"
-    publishedDateTime: 2021-02-18T12:39:00Z
-    webUrl: "https://www.compsmag.com/blog/how-to-track-all-google-voice-commands-given/"
-    ampWebUrl: "https://www.compsmag.com/blog/how-to-track-all-google-voice-commands-given/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/blog/how-to-track-all-google-voice-commands-given/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/wp-content/uploads/2021/02/1613651771_579_How-to-Track-All-Google-Voice-Com­mands-Giv­en.png"
-        width: 340
-        height: 225
-        isCached: true
-  - title: "How to Delete Voice Search His­to­ry on Google Echo and Home"
-    excerpt: "This article is about How to Delete Voice Search His­to­ry on Google Echo and Home. So read this free guide, How to Delete Voice Search His­to­ry on"
-    publishedDateTime: 2021-02-19T12:48:00Z
-    webUrl: "https://www.compsmag.com/blog/how-to-delete-voice-search-history-on-google-echo-and-home/"
-    ampWebUrl: "https://www.compsmag.com/blog/how-to-delete-voice-search-history-on-google-echo-and-home/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/blog/how-to-delete-voice-search-history-on-google-echo-and-home/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/wp-content/uploads/2021/02/How-to-Delete-Voice-Search-His­to­ry-on-Google-Echo-and-Home.png"
-        width: 340
-        height: 237
-        isCached: true
 
 secured: "30vaIwLxIwwvUYN6rKp8sQN+12nFyrfaH/cbifBZ6o8fYt36TM3Y+OJx1oDyyaoCx1n9JVidT5VZukfoaPwNVwLZy7PnGNmNHmCdpm6V9HO85A2Wp2nz9VK9+RA09Ez9HWN2LlCD9syJ/rv+VjZGWN687OrLgjYwoPIYBY1ZVl8gIgAG4/1U2E1voTU5jmjf4UdTZXfrpg+OhggUW6Y5wMWZeAxzKeJe5udRmuWvTEOZwCqhcFYzbexDnz/Ec0N3aXcDExrtlT8m3qyCW60vvG/k+WWzJOFX/FaKB9sm8dUGJtMChjoRPaIXOUwupx3FqZhoVSavoNlmkfygoNhlGo+FW+53o5Q7ZNxOJ7nGP9Tq1VPkUan4WSp4E84w0tZjVaa7+ycQtil+vaNv1HSM+tPI8oZ8iqbW4VsRWJStAtgld1kG+cUBaAGFn/Y3rHZS2Mrrqye38bQfDqHshWop7VNzj5WVbu/1Qz+7nKAzedqfMyHQcB+9XH3raafbfhh2cJx6BsxwByhHlML6BWwocg==;HiNC9qgzeal5UMFaYa4L2Q=="
 ---

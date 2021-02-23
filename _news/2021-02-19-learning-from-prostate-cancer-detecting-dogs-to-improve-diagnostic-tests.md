@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/02/210217151130.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/02/210217151130.htm"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Prostate Cancer-Detecting Dogs’ Olfactory Capacity Trains Neural Network for Combination Diagnostic Approach"
-    excerpt: "Researchers concluded, \"We've shown it is possible to replicate the dog's performance as sensors and brains, it is now time to put this technology in every smartphone.\""
-    publishedDateTime: 2021-02-18T13:00:00Z
-    webUrl: "https://www.genengnews.com/news/prostate-cancer-detecting-dogs-olfactory-capacity-trains-neural-network-for-combination-diagnostic-approach/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 35
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2021/02/MDD-Prostate-low-res-7.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Old dogs teaching us new tricks in the detection of prostate cancer"
     excerpt: "Researchers have used medical detection dogs to improve the assessment of prostate cancer to develop better detection tools."
     publishedDateTime: 2021-02-18T14:51:00Z

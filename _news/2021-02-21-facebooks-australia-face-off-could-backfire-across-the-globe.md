@@ -41,6 +41,22 @@ related:
         width: 796
         height: 545
         isCached: true
+  - title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
+    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of"
+    publishedDateTime: 2021-02-23T04:15:00Z
+    webUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere"
+    ampWebUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 44
+    images:
+      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/06/computerizing-bar-exams-leonen-06252020-e1593084112954-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Facebook's faceoff with Australia could backfire"
     excerpt: "Facebook Inc.’s dramatic move to block Australian news-sharing escalated a broader battle against global regulation. That gambit looks likely to backfire."
     publishedDateTime: 2021-02-20T11:00:00Z
@@ -54,20 +70,6 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/7/d1/7d1b4ebf-08c3-57ec-b562-8679e2b62912/603037b34f097.image.jpg?resize=945%2C630"
         width: 945
         height: 630
-        isCached: true
-  - title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-    publishedDateTime: 2021-02-23T01:33:00Z
-    webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Local Facebook rival soars as boycott grows"
     excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."

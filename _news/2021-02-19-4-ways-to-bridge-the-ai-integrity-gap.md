@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 129
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to bridge the language gap"
-    excerpt: "International Mother Language Day, celebrated annually on 21 February, aims to promote awareness around linguistic and cultural diversity, promoting the preservation and protection of all languages. Through Natural Language Processing (NLP),"
-    publishedDateTime: 2021-02-18T12:26:00Z
-    webUrl: "https://www.engineeringnews.co.za/article/using-ai-to-bridge-the-language-gap-2021-02-18"
-    ampWebUrl: "https://m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
-    cdnAmpWebUrl: "https://m-engineeringnews-co-za.cdn.ampproject.org/c/s/m.engineeringnews.co.za/article.php?a_id=577017&rep_id=5581"
-    type: article
-    provider:
-      name: Engineering News
-      domain: engineeringnews.co.za
-    quality: 59
-    images:
-      - url: "https://www.engineeringnews.co.za/template/en2016/images/en_default_large.jpg"
-        width: 1022
-        height: 575
-        isCached: true
   - title: "Using AI to Bridge the Language Gap"
     excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
     publishedDateTime: 2021-02-21T07:31:00Z
@@ -78,20 +62,6 @@ related:
       - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/02/SNOW-ELECTRIC-SUBSTATION.jpg?w=1280"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How the hybrid cloud is key to enterprise AI infrastructure strategies"
-    excerpt: "Few resources are as readily available and easy to use as the cloud, and this easy access to infrastructure extends to AI workloads."
-    publishedDateTime: 2021-02-18T12:23:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/feb/18/how-the-hybrid-cloud-is-key-to-enterprise-ai-infrastructure-strategies/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 41
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/atom-in-hands-picture-id187059090.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Three keys to AI success in the enterprise"
     excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"

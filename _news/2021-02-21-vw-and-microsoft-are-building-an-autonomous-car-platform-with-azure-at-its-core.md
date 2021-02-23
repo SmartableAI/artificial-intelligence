@@ -59,22 +59,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Microsoft Azure Get Asynchronous Document Translation Tool"
-    excerpt: "Document Translation in Azure Translator can translate batches of documents while maintaining the original layout and format."
-    publishedDateTime: 2021-02-18T12:02:00Z
-    webUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 76
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Document-Translation-Azure-Translator-Microsoft.jpg"
-        width: 1162
-        height: 612
-        isCached: true
   - title: "The head of Cisco's Webex explains how it's using AI to innovate and compete with newer rivals like Zoom and Microsoft Teams"
     excerpt: "Cisco's Webex has seen growth like rivals Zoom and Microsoft Teams, but it challenge is proving it's not the same company it was 10 years ago."
     publishedDateTime: 2021-02-21T12:40:00Z

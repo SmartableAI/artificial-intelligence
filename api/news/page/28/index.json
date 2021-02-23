@@ -2,6 +2,118 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-29-fintech-2020-while-the-world-waits-we-work.md",
+      "title": "FinTech 2020: While The World Waits, We Work",
+      "excerpt": "A world-wide health crisis leaves a trail of destruction that moves through space and time. Beyond the horrible loss of life, people are stuck away from their family",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/fintech/21/01/19391085/fintech-2020-while-the-world-waits-we-work",
+      "originalUrl": "https://www.benzinga.com/fintech/21/01/19391085/fintech-2020-while-the-world-waits-we-work",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/pexels-vlada-karpovich-4050296.jpg",
+          "width": 6121,
+          "height": 4081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19391085",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19391085",
+      "publishedDateTime": "2021-01-29T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-artificial-intelligence-in-cybersecurity-market.md",
+      "title": "Artificial Intelligence in Cybersecurity Market...",
+      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence in Cybersecurity Market Research Report",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19390804/artificial-intelligence-in-cybersecurity-market-research-report-by-function-by-type-by-technology-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19390804/artificial-intelligence-in-cybersecurity-market-research-report-by-function-by-type-by-technology-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19390804",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19390804",
+      "publishedDateTime": "2021-01-29T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-global-deep-learning-in-computer-vision-market-segmentation-key-development-geographical-outlook-recent-developments-and-industry-outlook.md",
+      "title": "Global Deep Learning in Computer Vision Market Segmentation, Key Development, Geographical Outlook, Recent Developments And Industry Outlook",
+      "excerpt": "Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer vision market provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2233265/global-deep-learning-in-computer-vision-market-segmentation",
+      "originalUrl": "https://www.openpr.com/news/2233265/global-deep-learning-in-computer-vision-market-segmentation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2233265/global-deep-learning-in-computer-vision-market-segmentation",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2233265/global-deep-learning-in-computer-vision-market-segmentation",
+      "publishedDateTime": "2021-01-29T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-globex-data-engages-austria-based-ir-worldcom-finanzkommunikation-to-disseminate-all-of-its-press-releases-in-german-language.md",
       "title": "GlobeX Data engages Austria-based IR-WORLD.com Finanzkommunikation to disseminate all of its press releases in German language",
       "excerpt": "Alain Ghiai, CEO of GlobeX Data commented: \"It is in the interest of all our German-speaking investors, present and future, that following our",
@@ -1005,162 +1117,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-baidu-secures-license-for-full-driverless-road-tests-in-california.md",
-      "title": "Baidu secures license for full driverless road tests in California",
-      "excerpt": "The California Department of Motor Vehicles has granted Baidu permission to test its ... and Chrysler Pacifica vehicles loaded with its self-driving technology within Sunnyvale in Santa Clara ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/baidu-full-driverless-road-tests-california-121025542.html",
-      "originalUrl": "https://www.engadget.com/baidu-full-driverless-road-tests-california-121025542.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F5efd98f0-6153-11eb-bdb5-bb0a6df2a8b9&client=amp-blogside-v2&signature=e0844b161a7e6026ce16dbdab92150acc7258337",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/baidu-full-driverless-road-tests-california-121025542.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-full-driverless-road-tests-california-121025542.html",
-      "publishedDateTime": "2021-01-28T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-cognitiveartificial-intelligence-systems-market-2021-2027-business-analysis-future-opportunities-leading-companies-and-more.md",
-      "title": "Cognitive/Artificial Intelligence Systems Market 2021-2027, Business Analysis, Future Opportunities, Leading Companies and more…",
-      "excerpt": "Cognitive/Artificial Intelligence Systems MarketArtificial intelligence has received an overwhelming attention globally",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-2021-2027-business-analysis-future-opportunities-leading-companies-and-more-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitiveartificial-intelligence-systems-market-2021-2027-business-analysis-future-opportunities-leading-companies-and-more-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-the-ethics-of-the-metaverse.md",
-      "title": "The ethics of the metaverse",
-      "excerpt": "Into the Metaverse online event with Hendrik Lesser, CEO of Remote Control Productions, about the ethics of the metaverse, the universe of virtual worlds that are all interconnected, like in novels such as Snow Crash and Ready Player One.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/richard-bartle.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/the-ethics-of-the-metaverse/amp/",
-      "publishedDateTime": "2021-01-28T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

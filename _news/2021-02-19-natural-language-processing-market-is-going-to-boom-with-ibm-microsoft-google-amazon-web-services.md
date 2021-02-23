@@ -45,22 +45,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Microsoft Azure Get Asynchronous Document Translation Tool"
-    excerpt: "Document Translation in Azure Translator can translate batches of documents while maintaining the original layout and format."
-    publishedDateTime: 2021-02-18T12:02:00Z
-    webUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/"
-    ampWebUrl: "https://winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
-    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/02/18/microsoft-azure-get-asynchronous-document-translation-tool-xcxwbn/?amp"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 76
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2021/02/Document-Translation-Azure-Translator-Microsoft.jpg"
-        width: 1162
-        height: 612
-        isCached: true
   - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
     excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
     publishedDateTime: 2021-02-20T19:12:00Z

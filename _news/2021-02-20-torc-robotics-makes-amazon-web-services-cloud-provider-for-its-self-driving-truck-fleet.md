@@ -7,8 +7,8 @@ originalUrl: "https://www.fleetequipmentmag.com/torc-robotics-aws-cloud-provider
 webUrl: "https://www.fleetequipmentmag.com/torc-robotics-aws-cloud-provider-self-driving-truck-fleet/"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: Fleet Equipment Magazine
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider"
-    excerpt: "Torc Robotics, the self-driving truck startup majority-owned by automotive giant Daimler, plans to use Amazon Web Services as its preferred cloud provider. The company, which operates as a semi-independent subsidiary,"
-    publishedDateTime: 2021-02-18T11:51:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 79
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/Torc_Robotics.2e16d0ba.fill-1200x630.jpg"
-        width: 1024
-        height: 538
-        isCached: true
   - title: "Mercedes’ autonomous truck developer Torc Robotics selects AWS as preferred cloud provider for self-driving truck fleet"
     excerpt: "Autonomous truck developer Torc Robotics, part of automotive giant Daimler Mercedes-Benz, has selected Amazon Web Services as its preferred cloud provider to handle the scale and speed needed for"
     publishedDateTime: 2021-02-19T16:30:00Z

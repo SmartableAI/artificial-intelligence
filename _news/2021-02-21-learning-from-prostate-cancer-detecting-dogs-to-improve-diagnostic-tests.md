@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Prostate Cancer-Detecting Dogs’ Olfactory Capacity Trains Neural Network for Combination Diagnostic Approach"
-    excerpt: "Researchers concluded, \"We've shown it is possible to replicate the dog's performance as sensors and brains, it is now time to put this technology in every smartphone.\""
-    publishedDateTime: 2021-02-18T13:00:00Z
-    webUrl: "https://www.genengnews.com/news/prostate-cancer-detecting-dogs-olfactory-capacity-trains-neural-network-for-combination-diagnostic-approach/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 35
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2021/02/MDD-Prostate-low-res-7.jpg"
-        width: 960
-        height: 640
-        isCached: true
   - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
     excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network could learn from this olfactory ability, with an eye toward replicating it in novel detection tools."
     publishedDateTime: 2021-02-19T02:23:00Z

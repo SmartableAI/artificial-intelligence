@@ -46,20 +46,6 @@ related:
         width: 1024
         height: 605
         isCached: true
-  - title: "CovidCTNet: an open-source deep learning approach to diagnose covid-19 using small cohort of CT images"
-    excerpt: "Early and accurate diagnosis of Covid-19 is crucial in reducing the spread of the disease and its accompanied mortality. Currently, detection by reverse transcriptase-polymerase chain reaction (RT-PCR) is the gold standard of outpatient and inpatient detection of Covid-19."
-    publishedDateTime: 2021-02-18T12:26:00Z
-    webUrl: "https://www.nature.com/articles/s41746-021-00399-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 23
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-021-00399-3/MediaObjects/41746_2021_399_Fig1_HTML.png"
-        width: 685
-        height: 514
-        isCached: true
 
 secured: "7WuxbPYzCJueqTH1BTidnBzBMpr6OOIYVbbQuS68S7CxxH7mSKIj9nYgFJaVgECWkvkZ/VD7cbb5UkbLWNZF+7i1DHnlBRJB/B1i+4VIzd/4JtYhg1dpbIbr+m8k3/hFleluwK8JiQGvC0NwU9iy1y4ZEfZ4Zl7hoenb2GGROzOpO764XtH9lyH9OlpkftfZZ5W1TUeOHLNqhHavB5t7zDZEQ8OshzENFKMnnZxMMgu60vKP5lzm16FZXpGBdFxXeholBMZQm3ujmTRK0SW6V0aJSWogQ9LLWWSZU46fFWaCx1/zmxSP0i5X+JnDsb+miH3edvCBSkIRBy8Z8Cs5LpioirKJkUZlYRZLLYfQ4iPH9pg5ZVAdXp4rP8ZhuZVf5jk/izZHBU5Ce7+vl77q2cXqtKkZAbLse+bsJSoLTD+7qyzVcJICk0EqNA+sG+ljj0HmR243VE6HHsD++NX4Pg60LecDAtiGScELpitgT9BRN50aPJqImnW22htEL8K8XSnJ/4xdIYuSfsBm3KkIEg==;P0VeYqRSj1SPcK5vNtIMZg=="
 ---
