@@ -17,7 +17,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 523111
+        "followers": 523343
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -41,7 +41,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 480,
+      "heat": 475,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -67,7 +67,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 566049
+        "followers": 565996
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -102,7 +102,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 328,
+      "heat": 301,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -127,7 +127,7 @@
       "twitter": {
         "username": "demishassabis",
         "url": "https://twitter.com/demishassabis",
-        "followers": 221072
+        "followers": 221088
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
@@ -142,73 +142,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 307,
+      "heat": 290,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Demis Hassabis",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/fei-fei-li.md",
-      "title": "Fei-Fei Li",
-      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/fei-fei-li/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/fei-fei-li/",
-      "type": "profile",
-      "name": "Fei-Fei Li",
-      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "location": "Stanford, CA, U.S.A.",
-      "website": "https://profiles.stanford.edu/fei-fei-li",
-      "twitter": {
-        "username": "drfeifei",
-        "url": "https://twitter.com/drfeifei",
-        "followers": 378513
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 120026
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Healthcare"
-      ],
-      "heat": 299,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Fei-Fei Li",
           "isCached": true
         }
       ],
@@ -248,67 +188,13 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 286,
+      "heat": 260,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Yann LeCun",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jeff-dean.md",
-      "title": "Jeff Dean",
-      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jeff-dean/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/jeff-dean/",
-      "type": "profile",
-      "name": "Jeff Dean",
-      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "website": "https://t.co/ajoSG5g4Rn",
-      "twitter": {
-        "username": "jeffdean",
-        "url": "https://twitter.com/jeffdean",
-        "followers": 186601
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
-        "citations": 169849
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 284,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jeff Dean",
           "isCached": true
         }
       ],
@@ -326,7 +212,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 109358
+        "followers": 109359
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -344,7 +230,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 250,
+      "heat": 248,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -404,7 +290,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 250,
+          "heat": 248,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -428,7 +314,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 286,
+          "heat": 260,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
@@ -441,7 +327,7 @@
         }
       ],
       "size": 3,
-      "heat": 250,
+      "heat": 248,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -449,6 +335,120 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/fei-fei-li.md",
+      "title": "Fei-Fei Li",
+      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/fei-fei-li/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/fei-fei-li/",
+      "type": "profile",
+      "name": "Fei-Fei Li",
+      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "location": "Stanford, CA, U.S.A.",
+      "website": "https://profiles.stanford.edu/fei-fei-li",
+      "twitter": {
+        "username": "drfeifei",
+        "url": "https://twitter.com/drfeifei",
+        "followers": 378501
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+        "citations": 120026
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Healthcare"
+      ],
+      "heat": 240,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Fei-Fei Li",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jeff-dean.md",
+      "title": "Jeff Dean",
+      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/jeff-dean/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/jeff-dean/",
+      "type": "profile",
+      "name": "Jeff Dean",
+      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "website": "https://t.co/ajoSG5g4Rn",
+      "twitter": {
+        "username": "jeffdean",
+        "url": "https://twitter.com/jeffdean",
+        "followers": 186587
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
+        "citations": 169849
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 228,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jeff Dean",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -467,7 +467,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 78338
+        "followers": 78330
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -497,7 +497,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 238,
+      "heat": 212,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -523,7 +523,7 @@
       "twitter": {
         "username": "soumithchintala",
         "url": "https://twitter.com/soumithchintala",
-        "followers": 86074
+        "followers": 86067
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/soumith"
@@ -539,7 +539,7 @@
         "Facebook AI",
         "PyTorch"
       ],
-      "heat": 234,
+      "heat": 196,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
@@ -563,7 +563,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 63412
+        "followers": 63410
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -581,7 +581,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 230,
+      "heat": 178,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1361039655068663812/Ih0FuBdc_400x400.jpg",
@@ -607,7 +607,7 @@
       "twitter": {
         "username": "NandoDF",
         "url": "https://twitter.com/NandoDF",
-        "followers": 83050
+        "followers": 83045
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=nzEluBwAAAAJ",
@@ -622,57 +622,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 157,
+      "heat": 127,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1338407584370462720/WVbG5sqw_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Nando de Freitas",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/oren-etzioni.md",
-      "title": "Oren Etzioni",
-      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/oren-etzioni/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/oren-etzioni/",
-      "type": "profile",
-      "name": "Oren Etzioni",
-      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
-      "location": "Seattle",
-      "website": "https://allenai.org/team/orene/",
-      "twitter": {
-        "username": "etzioni",
-        "url": "https://twitter.com/etzioni",
-        "followers": 25808
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 41180
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Allen Institute for AI (AI2)",
-        "domain": "allenai.org"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 124,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Oren Etzioni",
           "isCached": true
         }
       ],
@@ -692,7 +648,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 22066
+        "followers": 22065
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -703,7 +659,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 122,
+      "heat": 110,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1288330700752482304/BfXxtH9Q_400x400.jpg",
@@ -745,13 +701,53 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 118,
+      "heat": 102,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Alexandr Wang",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/bernhard-scholkopf.md",
+      "title": "Bernhard Schölkopf",
+      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/bernhard-scholkopf/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/bernhard-scholkopf/",
+      "type": "profile",
+      "name": "Bernhard Schölkopf",
+      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "twitter": {
+        "username": "bschoelkopf",
+        "url": "https://twitter.com/bschoelkopf",
+        "followers": 6493
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
+        "citations": 165458
+      },
+      "affiliation": {
+        "path": "",
+        "name": "tuebingen.mpg.de",
+        "domain": "tuebingen.mpg.de"
+      },
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bernhard Schölkopf",
           "isCached": true
         }
       ],
@@ -771,7 +767,7 @@
       "twitter": {
         "username": "smolix",
         "url": "https://twitter.com/smolix",
-        "followers": 16629
+        "followers": 16630
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=Tb0ZrYwAAAAJ",
@@ -795,13 +791,49 @@
         "AWS AI",
         "Machine Learning"
       ],
-      "heat": 104,
+      "heat": 83,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1168185464420892672/nxFMdN95_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Alex Smola",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/andrew-moore.md",
+      "title": "Andrew Moore",
+      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrew-moore/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/andrew-moore/",
+      "type": "profile",
+      "name": "Andrew Moore",
+      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
+      "location": "Pittsburgh, PA",
+      "website": "http://www.cs.cmu.edu/~awm/",
+      "twitter": {
+        "username": "awmcmu",
+        "url": "https://twitter.com/awmcmu",
+        "followers": 5974
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
+      },
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Andrew Moore",
           "isCached": true
         }
       ],
@@ -821,7 +853,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 9819
+        "followers": 9820
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -837,13 +869,62 @@
         "Math for AI",
         "Machine Learning"
       ],
-      "heat": 87,
+      "heat": 83,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/378800000065241474/e47527eed661a899d666329eb2774477_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Kyle Cranmer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/christopher-m-bishop.md",
+      "title": "Christopher M. Bishop",
+      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-m-bishop/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/christopher-m-bishop/",
+      "type": "profile",
+      "name": "Christopher M. Bishop",
+      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
+      "location": "Cambridge, England",
+      "website": "https://t.co/qaAoprog1k",
+      "twitter": {
+        "username": "chrisbishopmsft",
+        "url": "https://twitter.com/chrisbishopmsft",
+        "followers": 5476
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
+        "citations": 121255
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Christopher M. Bishop",
           "isCached": true
         }
       ],
@@ -897,7 +978,7 @@
         "Machine Learning",
         "TensorFlow"
       ],
-      "heat": 87,
+      "heat": 72,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732267151277481984/gMRijPzT_400x400.jpg",
@@ -910,166 +991,83 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/bernhard-scholkopf/",
+      "path": "_people/oren-etzioni.md",
+      "title": "Oren Etzioni",
+      "excerpt": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/oren-etzioni/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/oren-etzioni/",
       "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
+      "name": "Oren Etzioni",
+      "bio": "Oren Etzioni is an American entrepreneur, professor of computer science, and CEO of the Allen Institute for Artificial Intelligence.",
+      "location": "Seattle",
+      "website": "https://allenai.org/team/orene/",
       "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 6493
+        "username": "etzioni",
+        "url": "https://twitter.com/etzioni",
+        "followers": 25805
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 165458
+        "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
+        "citations": 41180
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
       },
       "affiliation": {
         "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
+        "name": "Allen Institute for AI (AI2)",
+        "domain": "allenai.org"
       },
       "topics": [
         "AI",
-        "Math for AI",
         "Machine Learning"
       ],
-      "heat": 82,
+      "heat": 65,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1196070309943627778/4C6ssaJN_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Bernhard Schölkopf",
+          "title": "Oren Etzioni",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/christopher-m-bishop/",
+      "path": "_people/francisco-matorras.md",
+      "title": "Francisco Matorras",
+      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/francisco-matorras/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/francisco-matorras/",
       "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
+      "name": "Francisco Matorras",
+      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
       "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5477
+        "username": "fmatorras",
+        "url": "https://twitter.com/fmatorras",
+        "followers": 281
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 121255
+        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
+        "citations": 240134
       },
       "affiliation": {
         "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "unican.es",
+        "domain": "unican.es"
       },
       "topics": [
         "AI",
         "Machine Learning"
       ],
-      "heat": 64,
+      "heat": 58,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
           "width": 400,
           "height": 400,
-          "title": "Christopher M. Bishop",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/javier-m-duarte.md",
-      "title": "Javier M. Duarte",
-      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/javier-m-duarte/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/javier-m-duarte/",
-      "type": "profile",
-      "name": "Javier M. Duarte",
-      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "location": "San Diego, CA",
-      "website": "https://t.co/Z06UY9gVRv",
-      "twitter": {
-        "username": "jmgduarte",
-        "url": "https://twitter.com/jmgduarte",
-        "followers": 268
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 134302
-      },
-      "affiliation": {
-        "path": "",
-        "name": "fnal.gov",
-        "domain": "fnal.gov"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Javier M. Duarte",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/andrew-moore.md",
-      "title": "Andrew Moore",
-      "excerpt": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/andrew-moore/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/andrew-moore/",
-      "type": "profile",
-      "name": "Andrew Moore",
-      "bio": "Vice President, Google and head of Google Cloud AI. I love Algorithms, Systems, Machine Learning, AI.",
-      "location": "Pittsburgh, PA",
-      "website": "http://www.cs.cmu.edu/~awm/",
-      "twitter": {
-        "username": "awmcmu",
-        "url": "https://twitter.com/awmcmu",
-        "followers": 5974
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/andrew-moore-016b751"
-      },
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/626157691828875264/tDZ-TLBp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Andrew Moore",
+          "title": "Francisco Matorras",
           "isCached": true
         }
       ],
@@ -1106,45 +1104,6 @@
           "height": 121,
           "title": "Anil K. Jain",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/daniele-bonacorsi.md",
-      "title": "Daniele Bonacorsi",
-      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/daniele-bonacorsi/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/daniele-bonacorsi/",
-      "type": "profile",
-      "name": "Daniele Bonacorsi",
-      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "twitter": {
-        "username": "DBonacorsi",
-        "url": "https://twitter.com/DBonacorsi",
-        "followers": 682
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 145090
-      },
-      "affiliation": {
-        "path": "",
-        "name": "infn.it",
-        "domain": "infn.it"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Daniele Bonacorsi",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1262,27 +1221,29 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/francisco-matorras.md",
-      "title": "Francisco Matorras",
-      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/francisco-matorras/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/francisco-matorras/",
+      "path": "_people/javier-m-duarte.md",
+      "title": "Javier M. Duarte",
+      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/javier-m-duarte/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/javier-m-duarte/",
       "type": "profile",
-      "name": "Francisco Matorras",
-      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "name": "Javier M. Duarte",
+      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
+      "location": "San Diego, CA",
+      "website": "https://t.co/Z06UY9gVRv",
       "twitter": {
-        "username": "fmatorras",
-        "url": "https://twitter.com/fmatorras",
-        "followers": 281
+        "username": "jmgduarte",
+        "url": "https://twitter.com/jmgduarte",
+        "followers": 268
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
-        "citations": 240134
+        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
+        "citations": 134302
       },
       "affiliation": {
         "path": "",
-        "name": "unican.es",
-        "domain": "unican.es"
+        "name": "fnal.gov",
+        "domain": "fnal.gov"
       },
       "topics": [
         "AI",
@@ -1291,10 +1252,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
+          "url": "https://pbs.twimg.com/profile_images/1561586632/backpackshort_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Francisco Matorras",
+          "title": "Javier M. Duarte",
           "isCached": true
         }
       ],
@@ -1364,6 +1325,54 @@
           "width": 96,
           "height": 128,
           "title": "Jonathan Hays",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/josh-cogan.md",
+      "title": "Josh Cogan",
+      "excerpt": "PhD Physics, Stanford University",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/josh-cogan/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/josh-cogan/",
+      "type": "profile",
+      "name": "Josh Cogan",
+      "bio": "PhD Physics, Stanford University",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=_EPCKe0AAAAJ",
+        "citations": 194991
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=_EPCKe0AAAAJ&citpid=2",
+          "width": 128,
+          "height": 84,
+          "title": "Josh Cogan",
           "isCached": false
         }
       ],

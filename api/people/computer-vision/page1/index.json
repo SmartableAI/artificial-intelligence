@@ -4,66 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_people/fei-fei-li.md",
-      "title": "Fei-Fei Li",
-      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/fei-fei-li/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/people/fei-fei-li/",
-      "type": "profile",
-      "name": "Fei-Fei Li",
-      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
-      "location": "Stanford, CA, U.S.A.",
-      "website": "https://profiles.stanford.edu/fei-fei-li",
-      "twitter": {
-        "username": "drfeifei",
-        "url": "https://twitter.com/drfeifei",
-        "followers": 378513
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 120026
-      },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Stanford",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Healthcare"
-      ],
-      "heat": 299,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Fei-Fei Li",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/yann-lecun.md",
       "title": "Yann LeCun",
       "excerpt": "Yann LeCun is a French-American computer scientist working primarily in the fields of machine learning, computer vision, mobile robotics, and computational neuroscience.",
@@ -97,13 +37,73 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 286,
+      "heat": 260,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/2387565623/7gew8nz1z7ik1ch148so_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Yann LeCun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/fei-fei-li.md",
+      "title": "Fei-Fei Li",
+      "excerpt": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/people/fei-fei-li/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/people/fei-fei-li/",
+      "type": "profile",
+      "name": "Fei-Fei Li",
+      "bio": "Prof (CS @Stanford), Co-Director Stanford Human-Centered AI Institute @StanfordHAI, CoFounder/Chair @ai4allorg, Researcher #AI #computervision #ML AI+healthcare",
+      "location": "Stanford, CA, U.S.A.",
+      "website": "https://profiles.stanford.edu/fei-fei-li",
+      "twitter": {
+        "username": "drfeifei",
+        "url": "https://twitter.com/drfeifei",
+        "followers": 378501
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
+        "citations": 120026
+      },
+      "wikipedia": {
+        "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Stanford",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/stanford.edu-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Healthcare"
+      ],
+      "heat": 240,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Fei-Fei Li",
           "isCached": true
         }
       ],
@@ -139,7 +139,7 @@
         "Computer Vision",
         "AI in Autos"
       ],
-      "heat": 118,
+      "heat": 102,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/775445981034795008/R3D5PQLN_400x400.jpg",
@@ -310,7 +310,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17531
+        "followers": 17530
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -337,7 +337,7 @@
         "Microsoft AI",
         "Computer Vision"
       ],
-      "heat": 0,
+      "heat": 3,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
