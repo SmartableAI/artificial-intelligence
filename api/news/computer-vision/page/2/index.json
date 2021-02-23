@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
+      "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
+      "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
+      "publishedDateTime": "2021-02-09T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai.md",
+      "title": "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI",
+      "excerpt": "A companion smartphone application provides a user interface for the platform and acts as the gateway to cloud-based, AI-enabled object recognition services. The platform brings together a number ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210208005117/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210208005117/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-diversity.md",
       "title": "Researchers find that labels in computer vision datasets poorly capture racial diversity",
       "excerpt": "In a study, researchers at Northeastern University find evidence that lables in computer vision datasets poorly reflect racial diversity.",
@@ -1299,101 +1385,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-paxton-unveils-paxton10-access-control-system-that-combines-access-events-and-video-footage-in-one-single-system.md",
-      "title": "Paxton unveils Paxton10 access control system that combines access events and video footage in one single system",
-      "excerpt": "IR illumination and traditional thermal security cameras, after all, are only able to provide black-and-white images, whereas object recognition software often identifies objects based on their color. White light illuminators installed alongside AI-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/paxton-paxton10-access-control-system-events-video-footage-single-sysetm-co-1283-ga-npr.1612255488.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/paxton-paxton10-access-control-system-events-video-footage-single-sysetm-co-1283-ga-npr.1612255488.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/paxton-net2-thermal-scan-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/paxton-paxton10-access-control-system-events-video-footage-single-sysetm-co-1283-ga-npr.1612255488.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/paxton-paxton10-access-control-system-events-video-footage-single-sysetm-co-1283-ga-npr.1612255488.html",
-      "publishedDateTime": "2021-02-02T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-ios-145-apple-just-revealed-brilliant-new-face-id-feature.md",
-      "title": "iOS 14.5: Apple Just Revealed Brilliant New Face ID Feature",
-      "excerpt": "The next version of iOS is coming soon, and today’s developer beta release lets slip a timely and important security feature.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "originalUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6018415e9f9059ef357afd41%2F0x0.jpg",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
-      "publishedDateTime": "2021-02-01T10:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

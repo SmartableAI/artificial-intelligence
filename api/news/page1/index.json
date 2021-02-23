@@ -2,6 +2,247 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-23-uconn-startup-stemify-improves-math-education-with-ai.md",
+      "title": "UConn Startup Stemify Improves Math Education With AI",
+      "excerpt": "New AI-powered startup Stemify, created by UConn professor, helps make math education less intimidating for students.",
+      "sourceUrl": null,
+      "webUrl": "https://today.uconn.edu/2021/02/uconn-startup-stemify-improves-math-education-with-ai/",
+      "originalUrl": "https://today.uconn.edu/2021/02/uconn-startup-stemify-improves-math-education-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2015/10/Savkar150918b042cropped-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UConn Today",
+        "domain": "uconn.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-a-trusty-robot-to-carry-farms-into-the-future.md",
+      "title": "A trusty robot to carry farms into the future",
+      "excerpt": "To feed 10 billion by 2050, the world’s farmers will need to increase food production by up to 70%. Bring in the robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/af8a66be-a00d-4526-b1cd-b401c71fdada/future-acres.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "publishedDateTime": "2021-02-23T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis.md",
+      "title": "Artificial Intelligence Market Size, Industry Share and COVID-19 Impact Analysis",
+      "excerpt": "The global “ Artificial Intelligence Market Size ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-youtuber-asks-an-ai-for-video-ideas-gets-a-surprising-response.md",
+      "title": "YouTuber asks an AI for video ideas, gets a surprising response",
+      "excerpt": "British YouTuber Tom Scott has such a distinctive style to his videos that they can — and have — lent themselves quite well to parody in the past, both from humans and AIs alike. But for his latest video,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas/",
+      "originalUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F02%252F23%252Fa7%252Fafc388130de0401ea4aaa9a02a605fcb.25912.png%252F1200x630.png?signature=ScPGsVbMbPWsqaSrgHcW4O5dKH8=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.amp",
+      "publishedDateTime": "2021-02-23T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-zte-reveals-improved-under-display-selfie-camera-under-display-3d-face-unlock.md",
+      "title": "ZTE reveals improved under-display selfie camera, under-display 3D face unlock",
+      "excerpt": "The first phone with an under-display selfie camera didn't deliver great results, but hopefully we see improvements here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
+      "originalUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/ZTE-Axon-20-5G-front-display-cutout-macro-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
+      "publishedDateTime": "2021-02-23T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni-bets-on-future-of-autonomous-vehicles.md",
       "title": "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles",
       "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
@@ -141,6 +382,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-computer-vision-market-latest-innovations-and-trends-2021-2026.md",
+      "title": "Computer Vision Market Latest Innovations and Trends 2021-2026",
+      "excerpt": "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "originalUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U223648370_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "publishedDateTime": "2021-02-22T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
       "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
       "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
@@ -180,49 +464,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-appier-shares-ai-predictions-and-trends-to-watch-in-2021.md",
-      "title": "Appier Shares AI Predictions and Trends to Watch in 2021",
-      "excerpt": "For example, a student may take content from one language and translate it to another. This is harder to detect, but AI is being developed to solve this problem. Similarly, image interpretation AI is being developed to find instances where arts students ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021",
-      "originalUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/Appier-blue-logo_2.jpg?itok=yIEiypcr",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp",
-      "publishedDateTime": "2021-02-22T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -416,6 +657,58 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027.md",
+      "title": "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027",
+      "excerpt": "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -781,7 +1074,7 @@
       "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -919,310 +1212,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
-      "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
-      "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
-      "originalUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
-      "publishedDateTime": "2021-02-20T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-researchers-propose-ethically-correct-ai-for-smart-guns-that-locks-out-mass-shooters.md",
-      "title": "Researchers propose ‘ethically correct AI’ for smart guns that locks out mass shooters",
-      "excerpt": "A trio of computer scientists from the Rensselaer Polytechnic Institute in New York recently published research detailing a potential AI intervention for murder: an ethical lockout. The big idea here is to stop mass shootings and other ethically incorrect uses for firearms through the development of an AI that can recognize intent,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cybersecurity1200-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
-      "publishedDateTime": "2021-02-20T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-googles-treatment-of-ai-ethics-researchers-continues-to-stir-up-controversy.md",
-      "title": "Google’s treatment of AI ethics researchers continues to stir up controversy",
-      "excerpt": "You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/",
-      "originalUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/",
-      "publishedDateTime": "2021-02-20T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
-      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
-      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 374,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-302017/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "publishedDateTime": "2021-02-20T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
-      "title": "Salesforce Research wields AI to study medicine, economics, and speech",
-      "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
-      "originalUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
-      "publishedDateTime": "2021-02-20T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars.md",
-      "title": "Humans Drive Too Fast In The Rain And Are Making Life Darned Hard For Self-Driving Cars",
-      "excerpt": "When it rains, human drivers get zany, and the question arises as to how self-driving cars can cope with both the rain and the antics of human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602751e6c254164f50f2d2ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D35%26cropY2%3D4175",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/",
-      "publishedDateTime": "2021-02-20T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

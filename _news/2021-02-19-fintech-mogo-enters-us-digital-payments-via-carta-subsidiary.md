@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Payments to Participate in KBW Fintech Payments Conference"
-    excerpt: "Global Payments Inc. (NYSE: GPN), a leading worldwide provider of payment technology and software solutions, announced today that Paul Todd, Senior Executive Vice President & Chief Financial Officer,"
-    publishedDateTime: 2021-02-18T20:06:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=424517"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "UK government set to offer fintech visa"
     excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
     publishedDateTime: 2021-02-22T17:13:00Z

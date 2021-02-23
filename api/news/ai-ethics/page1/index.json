@@ -108,49 +108,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim.md",
-      "title": "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim",
-      "excerpt": "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "originalUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "publishedDateTime": "2021-02-19T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-google-fires-ethical-ai-lead-margaret-mitchell.md",
       "title": "Google fires Ethical AI lead Margaret Mitchell",
       "excerpt": "Margaret Mitchell was fired today weeks after Google fired Timnit Gebru. A restructure of Google's AI ethics efforts was announced Thursday.",
@@ -200,6 +157,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-second-google-ai-ethics-leader-fired-she-says-amid-staff-protest.md",
+      "title": "Second Google AI ethics leader fired, she says amid staff protest",
+      "excerpt": "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2",
+      "originalUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp",
+      "publishedDateTime": "2021-02-19T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {

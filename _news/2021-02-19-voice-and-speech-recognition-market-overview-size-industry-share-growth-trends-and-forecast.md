@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
 type: article
 quality: 57
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,36 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market Size, Industry Share and COVID-19 Impact Analysis"
+    excerpt: "The global “ Artificial Intelligence Market Size ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-02-23T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Applications of Artificial Intelligence in COVID-19 ICU and ER situations"
+    excerpt: "The overwhelming increase in critically ill COVID-19 patients, who urgently require intensive care units (ICU) and emergency departments (ED), has challenged healthcare systems worldwide."
+    publishedDateTime: 2021-02-23T01:32:00Z
+    webUrl: "https://www.news-medical.net/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 58
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/2/shutterstock_1698736867.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
     publishedDateTime: 2021-02-19T06:50:00Z
@@ -43,10 +73,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
+  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
+    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-02-23T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
     type: article
     provider:
       name: MarketWatch
@@ -57,10 +87,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic"
-    publishedDateTime: 2021-02-22T17:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
+  - title: "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19"
+    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-02-23T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SCARA Industrial Robot Market Present And Upcoming Trends With COVID 19 Impact Study | Adept, Epson Robots"
+    excerpt: "A consciously conceived and designed business intelligence report titled Global SCARA Industrial Robot market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.biz discloses a succinct analysis of the regional spectrum,"
+    publishedDateTime: 2021-02-23T10:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/scara-industrial-robot-market-present-and-upcoming-trends-with-covid-19-impact-study-adept-epson-robots-2021-02-23"
     type: article
     provider:
       name: MarketWatch
@@ -71,43 +115,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing Market Share, Growth, Size 2021, Vendors,Trends, Challenges with Forecast to 2024"
-    excerpt: "Global Cloud Natural Language Processing Market Report 2021 -2024 contains systematic and point to point information regarding to Cloud Natural Language Processing Market Size. The report contains brief Introduction,"
-    publishedDateTime: 2021-02-23T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-growth-size-2021-vendorstrends-challenges-with-forecast-to-2024-2021-02-22"
+  - title: "Agriculture Robots Market Size, Global Analysis, Business Strategy, Sales Revenue, Future Prospects, Company Profile, Developments and Forecast 2026"
+    excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
+    publishedDateTime: 2021-02-23T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/agriculture-robots-market-size-global-analysis-business-strategy-sales-revenue-future-prospects-company-profile-developments-and-forecast-2026-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Industry Report 2027 | Opportunity, Challenges, Rising Trends and Forecast"
-    excerpt: "The Detailed Market intelligence report on the Artificial Intelligence in Manufacturing Market applies the most effective"
-    publishedDateTime: 2021-02-19T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-industry-report-2027-opportunity-challenges-rising-trends-and-forecast-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
-    publishedDateTime: 2021-02-22T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

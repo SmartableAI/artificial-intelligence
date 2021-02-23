@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/the-future-of-ai-and-what-customer-exper
 webUrl: "https://customerthink.com/the-future-of-ai-and-what-customer-experience-leaders-can-learn-from-it/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1280
     height: 960
     isCached: true
-
-related:
-  - title: "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise"
-    excerpt: "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike."
-    publishedDateTime: 2021-02-18T20:34:00Z
-    webUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-    images:
-      - url: "https://i.insider.com/602457d867d1e300113c5696?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How Automation and Artificial Intelligence are Changing Customer Experience Game?"
-    excerpt: "How Automation and Artificial Intelligence are Changing Customer Experience Game? By Matt Rocco, President & CEO, Etech Global Services, LLC - Science fiction and Hollywood have long polluted the perception of artificial intelligence with doomsday prophecies and"
-    publishedDateTime: 2021-02-19T03:43:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/how-automation-and-artificial-intelligence-are-changing-customer-experience-game-nid-30056-cid-225.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 32
-    images:
-      - url: "https://www.cioreview.com/ck_images/IzuOoU8f.jpeg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "wgjFIwablz5xel+DsEMVWaicD6uMBhcluY8gAGcq5zr0XkfX27B0MNnLBw9Y///LFSZbuVmFfcyZOa84dh/XTime/x5/uNTpmyhBWiIo5k3DE0ey2UBq5v4kfEVSfX21aSe+K77IA0ZiUmJfS0nHcborOPpvlsq/TMCjngzUqksgU0b4SWWcwgS12GMwD/PgUjpIAu0S0CVq22JXsKlJDDOdYJYXURjccVSPKrcYXh0V53E8K2Ul5kVIWw5KNrVLGdW3R7tJ/5TP+qP2fgufvewlXTIxcNQoRl4zNBLYHqkjkx7a5fuf4thm4/5sp7/l44s3iiUxj0Xw2ANc7ZRo9Jbebd7K/F4qXQdyjk8ioSxSTyB2kcnMbR10RL58wvREMu/0fN8Pj3sz1COlu8o0jCc7gL2eAK93Z0iGiD4UTaZmanFIVo0Kt0hdXoIUvi3DKtlIculGHprP5wOjSz4UQxK8yIvc24LA/1iBV1URKnVa2UC6/+CdZVJ5VYU2WlRxfWEta8UR9cXrGdZIEB/V7w==;YEzszUefH5vqQw3AFOA+Ag=="
 ---

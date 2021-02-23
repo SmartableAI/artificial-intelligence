@@ -43,7 +43,7 @@ related:
     provider:
       name: Automotive World
       domain: automotiveworld.com
-    quality: 19
+    quality: 21
 
 secured: "94+QiMtjukrCmXS73V9ElfOPzqTU0N/IrMa5BCqRWk4vEgVa8jFNGApTsEYQ8Bc+ROzzxImHTweDWgpYFiDhGkDNUbZtHvQwYLgGB1ClUu1VExDFNu1GccgB7HasMATrA3Nx+EPRU+AXdfcRDaADLoLSJS02VpxmwYLfT2TZBi1mkDDY57msxVPRY5yH2j2zxVJUlqsXCe0N9VCLB5HcpHGIuq7ktiZkhqdWRy5i9pOhm3miuKHqxtranvjE0wDc9oDCOqW21wYrvDWW0x0an3LQUVuFZdmO64v7UkYWsCNaSeGjBcPI/A2e2eti5kjQFgma2AQwzXjqZYJjPlymisZ16Y3/2F1vdEeeLQ1VuWpSS0YR8YSOo+h8thP/zwxWa1x1MSvkki65uxxSQ3dFJKed4/6psxXdst9H+1qHlqa8Hr1JtFUoKlduEdawuoZbeY7TKdYgvDRl6s9nMEyik0qxy8gF3yXVW7BMSUT9nAvHzzv/9VPHQyzkV+PwpQSt7g0MNWKPCKYw1reVLB7eXg==;bncRwg9wW3AawWE18ObKdQ=="
 ---

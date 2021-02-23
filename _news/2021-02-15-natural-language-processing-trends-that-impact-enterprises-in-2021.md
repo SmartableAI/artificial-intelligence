@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Natural Language Processing Trends That Impact Enterprises in 2021"
-excerpt: "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues."
+excerpt: "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable."
 publishedDateTime: 2021-02-15T06:38:00Z
-originalUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
-webUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
+originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
+webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 1280
     isCached: true
 
-secured: "48UPN7FQ+uea0cVqy3WTRGqzVuS2atSCzOW27Dj/exiQdSWLQx3Cu/opHlRRfVbsHNE5GWvFfIOY8C3jwGLK9+dznIlYf7oa5N+fElqIgKHHYl3oCNZVtYUtW8bb4qBHGmLooAroBgmUr9sstqaWm6AKx+si3VSuZSzDXmauo9j/1SREPd+rtKAza+edNf3laB84H2KK/whlUXIvBArxXhi6+cRY6GVY64uI/yXvXiRC4W4ShHMHeG22pzh0ZRnlDRNME195jDzY7ZGnpn+hIkjrw3ZbcUUdEwsSJX5nUOnt0wDSCTKeJJyHjkCDarqDiOohUAqtFj6PAUYKoCfvqlbGmnVehKTdJ6aTMacu7VQ=;Fiy+pRBVJOSdLAuadA24lg=="
+secured: "9lUbGWwuZnHYIHysAFE2JCtP7zbJ9T1s17VeTK+z4mdwoYnWk+/GxXxbDtAwFhGL+UX3AJkgSV3mlUQ/EtHKAj1eUi0OU/J+FdbMxE7Ws6aclOHaltwwhimp/N4E1wIRtPYQOqwz3ZFdwuS0AGUcOncTutQBAQDCHHF8xBWDFKGsWXfCdUAqg6SKHUoVvQg6UP1vR25NfL8zTUVlP2XD0OiYEcGEnaky4DPxM6TP1pbRZA5emdjTZZt2ZWijpjvd0AZV2uZXQJb/fiZAUbL4CrCtkkW/hKTlkPO/mbhkFQ+g5IVgeQX+DPzZDCLzuYkMxHy1Y1e8g/IYKNuh6ujiQ9gQ445O4UzuWeCv5pNKRDM=;f3UVT+o7RYVRMaFwoNoJDg=="
 ---
 

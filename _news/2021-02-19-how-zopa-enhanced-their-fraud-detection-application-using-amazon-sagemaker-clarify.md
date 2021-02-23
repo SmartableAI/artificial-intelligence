@@ -43,6 +43,20 @@ related:
         width: 800
         height: 326
         isCached: true
+  - title: "Training machine learning models to be future-ready"
+    excerpt: "As digital innovation continues to accelerate, we explore the premise of machine learning models being trained to be future-ready"
+    publishedDateTime: 2021-02-23T12:46:00Z
+    webUrl: "https://www.information-age.com/training-machine-learning-models-future-ready-123493865/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/training-machine-learning-models-future-ready.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
 
 secured: "tvOSPm925DWIk8AWe1Twd0dnonflB32034V360ZXfEyFQLF6OFnJ2GWnmuN1o1A908pzUPWpR8R2O0BCncqQuKAsEa0EY5radoS8pDJifqWiqCuGewfbxwKe4lf20nOIgzCXzN7n53RVVvkuf6B/ec8Z5ceOvZ0Vrv3eYrWzSmg6haLKMh3ZoXZRQxV5YWNsTNEJHaWg82i19XlmG5zD6iCg0GAVFalMONBQs5h9uGm5Z1Sd6D2DpJKlFLSmlgPBb45gtHi3Uu1mDs6gYFjcG5kmH3Do5LhGbQEtbbLG2Z7OTkXGVCHWijJTclym1isLRQLXq54rrfWexyPB6N/O/UYkeExU8aKmjoqOCTk43Tk=;x91AO4aoLTG3Qe4qpDolVg=="
 ---

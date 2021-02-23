@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google fires AI manager who protested her peer’s departure"
+    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
+    publishedDateTime: 2021-02-20T01:16:00Z
+    webUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
+    ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    type: article
+    provider:
+      name: abc27.com
+      domain: abc27.com
+    quality: 59
+    images:
+      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2019/06/cropped-abc27FavIcon.jpg"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Google fires AI manager who protested her peer's departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
     publishedDateTime: 2021-02-20T16:53:00Z
@@ -46,17 +62,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Google fires AI manager who protested her peer’s departure"
-    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:17:00Z
-    webUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    type: article
-    provider:
-      name: KSEE
-      domain: yourcentralvalley.com
-    quality: 39
 
 secured: "E/3FO2cCHePks4RWTXD37GIsegdupR5+DRDCrtGKBTN84f9KCXoD1XU8e/Xn6HW/bpdFxHBaqcaY5gRYi49tMVEKUPeo9rqxD+VCeAGSF/3YjXoR4/VUZlfRTvM/T9hqGvC+w6A3eeEkULerzW2JKKzU4WJSmLVx+FE97Vi0yAmMEuH9DA1lt1m4aV2+ga3N5FiPIuTtxyb92Q0vPFSeU2Qf+qKJpy8S3doFkdOjGPjWiKWiR40HgWXYfBrRX1XFCfJRQ9ABe0yeCKsYGSlHqcRGZs08HK1yfmTfePbehJei5VpeG5ioUrlqJpusBmq1bxccdZFzKAWTiMwnzMGPxq8f72mrnNIyUK1Wr86FyIhIs2/lNRmqaajeIq9fkj1WGxDOeILwqWoCAb16XygBUgtMPSildnLXchutf5RBlqW3btawrqRKu8RXI5gSDJ/RvZ8WTTPYUG+/7TAYQa3obyMLCd5k1vOUb42rC0tWOjoSoB6RJEuD+tzPxWq1r6781/7tIQd4C+XU70MCx0T0eQ==;AcFL1P7NJfxG8wTInjpl4g=="
 ---

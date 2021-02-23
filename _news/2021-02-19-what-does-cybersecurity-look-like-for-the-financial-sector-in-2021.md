@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/what-does-cybersecurity-look
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/what-does-cybersecurity-look-like-for-the-financial-sector-in-2021/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How This Bangalore-based Cybersecurity Startup Is Using AI To Automate Ethical Hacking"
+    excerpt: "FireCompass helps organisations discover and test their entire attack surface continuously by automating Red Teaming."
+    publishedDateTime: 2021-02-23T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-bangalore-based-cybersecurity-startup-is-using-ai-to-automate-ethical-hacking/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 46
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/2021-02-23-1.jpg"
+        width: 512
+        height: 296
+        isCached: true
   - title: "Chief Legal Officers face mounting compliance, privacy and cybersecurity obligations"
     excerpt: "Chief Legal Officers and legal department play a critical role in ensuring that increasing regulatory compliance obligations are met."
     publishedDateTime: 2021-02-23T06:31:00Z

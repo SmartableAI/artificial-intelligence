@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-23T09:18:00Z
 originalUrl: "https://www.automotiveworld.com/news-releases/continental-invests-in-the-future-of-chips-for-autonomous-vehicles/"
 webUrl: "https://www.automotiveworld.com/news-releases/continental-invests-in-the-future-of-chips-for-autonomous-vehicles/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 related:
   - title: "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles"

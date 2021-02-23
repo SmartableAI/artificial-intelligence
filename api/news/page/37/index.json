@@ -2,6 +2,306 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-01-26-ibm-bringing-ai-to-programmatic-ecosystem-with-new-partnerships.md",
+      "title": "IBM Bringing AI to Programmatic Ecosystem with New Partnerships",
+      "excerpt": "The division of IBM leverages the company's Watson intelligence engine on advertising use cases. In this video interview with Beet.TV, Hlavacek explains how AI could make a step-change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/video/view/5f865b3d15b0222ad9f996cb/",
+      "originalUrl": "https://www.aol.com/video/view/5f865b3d15b0222ad9f996cb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T15:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-how-ai-can-make-the-world-more-fair-for-gifted-kids.md",
+      "title": "How AI can make the world more fair for ‘gifted’ kids",
+      "excerpt": "A team of researchers from Las Vegas recently developed an AI model capable of judging a human pianist’s skill level. On the surface, it might not sound like the kind of breakthrough research that could change the world overnight.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2016/06/vintage-robot-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/how-ai-can-make-the-world-more-fair-for-gifted-kids/amp/",
+      "publishedDateTime": "2021-01-25T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world.md",
+      "title": "Hyundai DAL-E Is A Robot Salesperson For A Covid World",
+      "excerpt": "Some automakers are offering contactless drop-off services, but Hyundai is going all-in with a robot approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/",
+      "originalUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600f3a54417b9cd2875689f2%2F0x0.jpg",
+          "width": 1200,
+          "height": 761,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sebastianblanco/2021/01/25/hyundai-dal-e-is-a-robot-salesperson-for-a-covid-world/amp/",
+      "publishedDateTime": "2021-01-25T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails.md",
+      "title": "Governance: Companies mature in their use of AI know that it needs guardrails",
+      "excerpt": "Quality governance ensures responsible data models and AI execution, as well as helps the data models stay true to the business objectives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "originalUrl": "https://www.techrepublic.com/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/06/12/8e1d6f91-444f-48f0-9ca3-63f372177fca/resize/1200x/575c039bb49d89ee4e7c9a4c55fc6480/istock-1216236910.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/governance-companies-mature-in-their-use-of-ai-know-that-it-needs-guardrails/",
+      "publishedDateTime": "2021-01-25T13:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms.md",
+      "title": "Researchers propose LEAF, a frontend for developing AI classification algorithms",
+      "excerpt": "Researchers at Google propose LEAF, a frontend that provides superior audio classification results compared with previous techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
+      "originalUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-clock.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/25/researchers-propose-leaf-a-frontend-for-developing-ai-classification-algorithms/amp/",
+      "publishedDateTime": "2021-01-25T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think.md",
+      "title": "Gartner: The future of AI is not as rosy as some might think",
+      "excerpt": "A Gartner report predicts that the second-order consequences of widespread AI will have massive societal impacts, to the point of making us unsure if and when we can trust our own eyes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "originalUrl": "https://www.techrepublic.com/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/15/0bc8e7f5-39d1-49a8-be07-f3db2e40f43b/resize/1200x/68fd21b9b4138bea071e9d1c1e4253f2/istock-1135819437.jpg",
+          "width": 1200,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/gartner-the-future-of-ai-is-not-as-rosy-as-some-might-think/",
+      "publishedDateTime": "2021-01-25T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-computer-vision-researchers-develop-city-scale-smart-tracking-platform.md",
       "title": "Computer vision researchers develop city-scale smart tracking platform",
       "excerpt": "Unlike existing bespoke multi-camera analysis platforms, which are built solely for specific hardware and software, Anveshak allows users to employ custom tracking strategies, computer vision ...",
@@ -928,307 +1228,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue.md",
-      "title": "Skyrim modders are using AI to generate new spoken dialogue",
-      "excerpt": "A new AI app called VASynth that lets Skyrim modders turn text into speech has already produced an impressive fan-made trailer.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T102150.637-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/amp/",
-      "publishedDateTime": "2021-01-25T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-hyundai-dal-e-ai-powered-robot-provides-automated-customer-service.md",
-      "title": "Hyundai DAL-e AI-powered robot provides automated customer service",
-      "excerpt": "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
-      "originalUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/kia-robot-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/hyundai-dal-e-ai-powered-robot-provides-automated-customer-service-25656524/amp/",
-      "publishedDateTime": "2021-01-25T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract.md",
-      "title": "From Zero To Mach 2 In Months, How HPC In The Cloud Helped Startup Sensatek Land An Air Force Contract",
-      "excerpt": "Sensatek, in need of high-performance computing, turned to Rescale, whose platform mixes and matches HPC resources from the major cloud providers, taking the research – and guesswork – out of picking the right high-performance computing cluster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/",
-      "originalUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c9e565b22606620120b09%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3024%26cropY1%3D875%26cropY2%3D3143",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/craigsmith/2021/01/25/from-zero-to-mach-2-in-months-how-hpc-in-the-cloud-helped-startup-sensatek-land-an-air-force-contract/amp/",
-      "publishedDateTime": "2021-01-25T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-new-algorithms-could-reduce-racial-disparities-in-health-care.md",
-      "title": "New Algorithms Could Reduce Racial Disparities in Health Care",
-      "excerpt": "Machine learning programs trained with patient reports, rather than doctors', find problems that doctors miss—especially in Black people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
-      "originalUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/600b52ec4c976bdf61ac2b78/master/pass/Business-AI-Doctor-Bias-151032869.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-algorithms-reduce-racial-disparities-health-care/amp",
-      "publishedDateTime": "2021-01-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-100-years-later-the-future-of-robots-still-lies-in-science-fiction.md",
-      "title": "100 Years Later, The Future Of Robots Still Lies In Science Fiction",
-      "excerpt": "Every year there is some version of this remembrance on the internet, dated January 25th and full of science fiction references and doom-saying. This is the 2021 version. Today marks the 100th anniversary of the first use of the term \"robot\" to describe a non-human,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
-      "originalUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600da4573c6f05ba1eaa23c9%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/curtissilver/2021/01/25/100-years-later-the-future-of-robots-still-lies-in-science-fiction/amp/",
-      "publishedDateTime": "2021-01-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-chinese-self-driving-startup-nets-154m-in-investment-from-state-backed-fund.md",
-      "title": "Chinese self-driving startup nets $154m in investment from state-backed fund",
-      "excerpt": "With the new funds, Uisee will further develop its autonomous driving technology and accelerate its monetization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561",
-      "originalUrl": "https://www.techinasia.com/chinese-selfdriving-startup-uisee-nets-154m-investment-statebacked-fund?ref=recommender-671561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

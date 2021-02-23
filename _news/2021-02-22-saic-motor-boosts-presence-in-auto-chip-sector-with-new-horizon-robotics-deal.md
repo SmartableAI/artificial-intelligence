@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-aut
 webUrl: "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "SAIC Motor in tech tie-up with Horizon Robotics"
+    excerpt: "SAIC Motor Corporation has signed an agreement with Chinese artificial intelligence (AI) and semiconductor startup company Horizon Robotics to develop new connected services for smart cars."
+    publishedDateTime: 2021-02-23T11:27:00Z
+    webUrl: "https://www.just-auto.com/news/saic-motor-in-tech-tie-up-with-horizon-robotics_id200411.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 69
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Horizon, SAIC form auto chip alliance"
     excerpt: "[Photo/Xinhua] Chinese automobile giant SAIC Motor Corp Ltd will join hands with smart chip company Horizon Robotics to further ... to build a brand-new collaborative model in automotive AI development, and for intelligentization of the automobile industry ..."
     publishedDateTime: 2021-02-23T09:26:00Z

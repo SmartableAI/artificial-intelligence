@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-26-this-ai-could-go-from-art-to-steering-a-self-driving-car.md",
+      "title": "This AI Could Go From ‘Art’ to Steering a Self-Driving Car",
+      "excerpt": "DALL-E drew laughs for creating images of a daikon radish in a tutu. But it builds on an important advance in computer vision with serious applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "originalUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/600f51cd4774061ec087b7da/master/pass/Business-OpenAI-Spaghetti-Knights.jpg",
+          "width": 2057,
+          "height": 1029,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-go-art-steering-self-driving-car/amp",
+      "publishedDateTime": "2021-01-26T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla.md",
       "title": "Chinese electric carmaker Xpeng rolls out autonomous highway driving features in challenge to Tesla",
       "excerpt": "Xpeng Motors' Navigation Guided Pilot or NGP is rolling out to eligible customers of its P7 sedan in a challenge to Tesla's own software.",
@@ -1381,59 +1434,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
-      "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
-      "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
-      "originalUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/01/Cruise-Track-3-in-Seattle-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
-      "publishedDateTime": "2021-01-19T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

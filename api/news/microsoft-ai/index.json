@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027.md",
+      "title": "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027",
+      "excerpt": "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york.md",
       "title": "Indigenous knowledge and AI help protect baby turtles from predators on Australia’s remote Cape York",
       "excerpt": "This prolonged isolation spells big trouble for the survival chances of some tiny residents on the western shores of Cape York Peninsula – endangered baby turtles. Unless teams of Indigenous rangers find and protect them first,",
@@ -1393,58 +1445,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020.md",
-      "title": "Cloud services spending jumps by $10 billion in final quarter of 2020",
-      "excerpt": "Driven by demand from remote workers and students as well as content streaming and online gaming, cloud services took in $40 billion in sales last quarter, says Canalys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
-      "originalUrl": "https://www.techrepublic.com/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-services-spending-jumps-by-10-billion-in-final-quarter-of-2020/",
-      "publishedDateTime": "2021-02-03T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

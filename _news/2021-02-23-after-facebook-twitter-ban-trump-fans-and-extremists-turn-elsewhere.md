@@ -1,27 +1,27 @@
 ---
 category: news
-title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
+title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
 excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-publishedDateTime: 2021-02-23T01:41:00Z
-originalUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
-webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
+publishedDateTime: 2021-02-23T11:01:00Z
+originalUrl: "https://guardian.ng/news/world/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/"
+webUrl: "https://guardian.ng/news/world/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: The Guardian Nigeria
+  domain: guardian.ng
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-    width: 1024
-    height: 682
+  - url: "https://guardian.ng/wp-content/uploads/2020/07/Social-Media.-Photo-Econsultancy.jpg"
+    width: 1254
+    height: 837
     isCached: true
 
 related:
@@ -95,6 +95,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "7VJT9fRimHgIGwUPHdijK36r07MCn9QDOQCLsZB399SoZqQomI160MmEFgwPVVNnor9BxBw+SU5mbGPGTq0BJsWI696eUdnfSBdTbf6T95ms8hUUTHTyRYuC7kWN8+8R0QVDd6QoQkBiRaSenFW09t1Ec6LyEkPyN4szg+SO0EsZ1t2kBNgepHeGBRbGeb0+A6oryndY1HX9xJYdVM/dt8xiAp1CmsDqjqTRFTJb9L/wd4WeMr4qHE5N8qAtrZ6h/8dCROzpVdiJWkBnKGahDy8nsFhK9m9FF9HVBg0lxz3W1SbocC0iMws1mngGEi9ypY4FgpldzxlzVFvMTf7v+shKrYWKinnuvmPcPHF5JF+9/6OKinosWMrWdWJRb1HQ5FaIcK0xGeqZFbov8ryEP9Yqu+A8tRT1hvWs4ePrRgPqadvxKcXV2bXJQ8xb0AjY8x0N3UgwvFjx/4iKBtR/Cf30rUFVYo5nzCA4gLInfmMOWRcvkczfD8QNcaEKn1Ou5DNVNjv1zLZO68s82h2IHQ==;ljuXAmfmI3203f/1iMCGlg=="
+secured: "w/rG+PmlBBuLSF7n+GIT1KG9PIrZLNPqhGC6XAUrAOnwEvUo+1D4PQfGEfegLxTlgkQ0uwGB+8CaESuMFGP4bG3vTziegsOR6HwN8dhirpLJSh/L2ALqaoOvu1x628VKdEhsvAF5oMXu6/tDHfgXEbMSG/42rRdO7AgYDVN8Kr/4CxsDN0dUOorBFBIJk2womQ/ba2F4c8XyLDFyspRHnAc0ELKEdVIzypnD9bS95bJMQ+tJkENO7C576c8KaySj9HkSv+kG9UlxdmG1C/YxcDj15BbSa+FVqW5PqH4XUHyy8HwHE4eKF11lMCFJs8vvahyvxmKNamHKDZmyyONIclPYb1ZkwnfmDtzyOVH3nU8=;9NeKFHy4nsuOURlZ8YMbUg=="
 ---
 

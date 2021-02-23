@@ -39,20 +39,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Marinus Analytics anti-human trafficking biometrics selected for finals of IBM AI competition"
-    excerpt: "CMU biometrics and big data spinoff Marinus Analytics has been selected as the lone American finalist for the $5M IBM Watson AI XPRIZE Competition."
-    publishedDateTime: 2021-02-18T19:08:00Z
-    webUrl: "https://www.biometricupdate.com/202102/marinus-analytics-anti-human-trafficking-biometrics-selected-for-finals-of-ibm-ai-competition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Kellogg leverages ‘next-generation data & analytics,’ machine-learning to maintain, build on customer gains during pandemic"
     excerpt: "As the pandemic nears the one-year mark, food and beverage companies face increased pressure to maintain new consumers gained during the pandemic while also engaging additional shoppers over record household penetration increases in the last year – a challenge that Kellogg is meeting with improved use of data and analytics that allow for enhanced targeting,"
     publishedDateTime: 2021-02-19T13:53:00Z

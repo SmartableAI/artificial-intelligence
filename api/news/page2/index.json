@@ -2,6 +2,310 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
+      "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
+      "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "originalUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "publishedDateTime": "2021-02-20T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-researchers-propose-ethically-correct-ai-for-smart-guns-that-locks-out-mass-shooters.md",
+      "title": "Researchers propose ‘ethically correct AI’ for smart guns that locks out mass shooters",
+      "excerpt": "A trio of computer scientists from the Rensselaer Polytechnic Institute in New York recently published research detailing a potential AI intervention for murder: an ethical lockout. The big idea here is to stop mass shootings and other ethically incorrect uses for firearms through the development of an AI that can recognize intent,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cybersecurity1200-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "publishedDateTime": "2021-02-20T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-googles-treatment-of-ai-ethics-researchers-continues-to-stir-up-controversy.md",
+      "title": "Google’s treatment of AI ethics researchers continues to stir up controversy",
+      "excerpt": "You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/",
+      "originalUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/",
+      "publishedDateTime": "2021-02-20T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
+      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 354,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-302017/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "publishedDateTime": "2021-02-20T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
+      "title": "Salesforce Research wields AI to study medicine, economics, and speech",
+      "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
+      "originalUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
+      "publishedDateTime": "2021-02-20T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars.md",
+      "title": "Humans Drive Too Fast In The Rain And Are Making Life Darned Hard For Self-Driving Cars",
+      "excerpt": "When it rains, human drivers get zany, and the question arises as to how self-driving cars can cope with both the rain and the antics of human drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602751e6c254164f50f2d2ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D35%26cropY2%3D4175",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-02-20T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-role-of-artificial-intelligence-chatbots-in-ensuring-access-to-mental-healthcare.md",
       "title": "Role of artificial intelligence chatbots in ensuring access to mental healthcare",
       "excerpt": "Mental well-being is fundamental to living an optimal life. Everyone should have access to quality mental healthcare and technology has to be used",
@@ -93,49 +397,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim.md",
-      "title": "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim",
-      "excerpt": "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "originalUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "publishedDateTime": "2021-02-19T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     },
@@ -292,6 +553,49 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-second-google-ai-ethics-leader-fired-she-says-amid-staff-protest.md",
+      "title": "Second Google AI ethics leader fired, she says amid staff protest",
+      "excerpt": "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2",
+      "originalUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp",
+      "publishedDateTime": "2021-02-19T14:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -491,7 +795,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-debugging-and-running-time-series-forecasting-models-with-the-gluonts-toolkit-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -588,7 +892,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -933,298 +1237,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief.md",
-      "title": "DNA fingerprints, facial recognition used to probe riots cases, says Delhi Police chief",
-      "excerpt": "Commissioner S N Shrivastava said 231 accused were arrested on the basis of CCTV footage, 137 identified through Facial Recognition System & 94 through driving license photographs.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
-      "originalUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2020/03/cars.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
-      "publishedDateTime": "2021-02-19T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-how-to-watch-nasas-perseverance-rover-land-on-mars-today.md",
-      "title": "How to watch NASA’s Perseverance rover land on Mars today",
-      "excerpt": "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/",
-      "originalUrl": "https://www.digitaltrends.com/news/how-to-watch-perserverance-landing-mars-livestream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-operationalizing-enterprise-ai-at-scale.md",
-      "title": "Operationalizing Enterprise AI At Scale",
-      "excerpt": "Especially after your first AI use case has been successfully operationalized and scaled, make sure that others in your company hear about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
-      "publishedDateTime": "2021-02-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-alexa-what-does-the-smart-home-teach-us-about-ai.md",
-      "title": "Alexa, What Does The Smart Home Teach Us About AI?",
-      "excerpt": "We don’t often get a real glimpse of the future before it happens, but I believe that's what the smart home grants business leaders for the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ebe9ecc4962fb6150f91a%2F0x0.jpg",
-          "width": 752,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "publishedDateTime": "2021-02-19T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
-      "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
-      "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "originalUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "publishedDateTime": "2021-02-19T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "This time problems arose after disputes between panel members and Google-owned DeepMind over access to information, the WSJ reports citing unnamed sources. Panel members were also unhappy about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

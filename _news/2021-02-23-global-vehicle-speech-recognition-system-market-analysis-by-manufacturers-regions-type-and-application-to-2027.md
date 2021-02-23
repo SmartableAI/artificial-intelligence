@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
+    publishedDateTime: 2021-02-22T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global $5 Billion Text-to-Speech Market Forecast to 2026 by Offering, Vertical, Deployment, Language, Organization Size, Voice Type"
     excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
     publishedDateTime: 2021-02-19T17:22:00Z

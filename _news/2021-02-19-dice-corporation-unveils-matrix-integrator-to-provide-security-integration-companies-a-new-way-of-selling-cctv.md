@@ -44,22 +44,6 @@ related:
         width: 875
         height: 504
         isCached: true
-  - title: "Explainable AI for decoding genome biology"
-    excerpt: "Researchers at the Stowers Institute for Medical Research, in collaboration with colleagues at Stanford University and Technical University of Munich have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA."
-    publishedDateTime: 2021-02-18T20:52:00Z
-    webUrl: "https://phys.org/news/2021-02-ai-decoding-genome-biology.html"
-    ampWebUrl: "https://phys.org/news/2021-02-ai-decoding-genome-biology.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-ai-decoding-genome-biology.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/explainablea.jpg"
-        width: 1440
-        height: 1432
-        isCached: true
 
 secured: "6USaUX8041xz5y4YZMkLA63YzyWrvuoojQLTEDS5Ki0JU+uOV7YKXwQvykxH9YNSNVvjui00vusAWoDSdzmjrdxkoscA8cgEMz8/BTncZ5lHc3ULymAnClnc/yqrtuJCwtAbnVhSa/v+4pNaxmoiNd0BZu/Gt+u7iLz9u7i+Ym58T3bgWHJjCx643dr/UYHi9p6k35prCR5drzAjAEf0okiImUnUf149TqF9Yst3t7LH6HjXe+rv4rarCnOPII01a9WMRQDVS6DCncc+coeUef6J+g9d08o7mLkWObZJn1TeeVlj5v56WnBRNz3sNfs/17QLeYQV+7es0tM1e+hvOd4ADb1juqH9L6/RQDSIboE=;2ssr/da8bpMnqtlL2mlxsQ=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
 publishedDateTime: 2021-02-20T00:48:00Z
-originalUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
-webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
+originalUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
+webUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
 type: article
 quality: 54
 heat: -1
@@ -210,20 +210,6 @@ related:
         width: 960
         height: 420
         isCached: true
-  - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
-    excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
-    publishedDateTime: 2021-02-18T19:11:00Z
-    webUrl: "https://betakit.com/aifred-health-among-top-three-finalists-in-ibm-watson-ai-xprize-competition/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 52
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/02/Aifred-Health-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
     excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
     publishedDateTime: 2021-02-20T03:37:00Z
@@ -363,15 +349,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "IBM Explores Sale of IBM Watson Health — Update"
-    excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
-    publishedDateTime: 2021-02-18T19:36:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2021021816650/ibm-explores-sale-of-ibm-watson-health-update"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z
@@ -400,6 +377,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "t8IXWNUCcI9VlPts8bpjq6+bTwosKF0Rkyx27F/zcj/b8B3pnzIPppO5xNzDzIq79tfviqTF1xZOEMGU0CKhWqYyfzDhtDH3mnZUkcfp9vMLFCf1+hAlCkJNgrjrjqDEYh4SuSGW33N1c4R4e43nHMTS+p9kfGfTb55RGlKTlSXpRajeGl7mEm9AeBoGZjfsTs3fYAoMaK0hN1RR3v1g3uQsF3GEfYqLdBNoLkARTcWNRGLdnTXkvR1WFinMAYKcL8HMT5n7SxBNhp2mlmqk2uxWohIT1TiZ9LExH3xMNdFdKg6PpcgKtduACkGokDhff4pU4FMgWxV8H5pDL3QW8IEytyKojdVRvFt+WvNMFc2oBlEAlR4+b7n2otG9/mltvnFnhQZ5KuBbxdZrXXfUfScqrrqvu3RwGTVQqNdWzOoffWEc6jmWtFYrtVgMvgpYdxtMTf1zojbF4PTmpP4L7EEMVGKvoSj6aPWV8YzeM860xmCrWPVSFPTux82o+50YT+yHajupTHFgswjQjwMiig==;Jnj7ULQlo22k3PQLY4aJVA=="
+secured: "5AkXC5tPtsxHfIBUcUawCEPNokkO6IbAKoXkTXUB4HR46hSxP+H8zg7iZEj4Jd/YXddeFNBL76HIYtC4xZ5MyZuH9glGIx7M3CmOWM2BS32ntUEm5lnTOC5Le3c+js6fw1oz3Z3m/6FJJS7dPf/UdWAsHWY6RLGgpkn30/mE3qCIzxkooDCs/f2L3ulfPaRJdHnicONiFnJL5O+t0edqX39huXXXGshC7elqtPznhuTA25sP7SEl9IXzPhPYAFl3LYr9cyM4dbQ+S5vakYAZsLtVk27oAopw5pDIXD24h8AQIUMfUN2BkJWdt4NCUaI1U322gqFUR2FJG+lXLq1i1+V/FyRBId3GfUMpBCLgFdQ=;7x+QPYUqfme649/JshJmzA=="
 ---
 

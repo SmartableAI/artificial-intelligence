@@ -39,6 +39,20 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "SAIC Motor in tech tie-up with Horizon Robotics"
+    excerpt: "SAIC Motor Corporation has signed an agreement with Chinese artificial intelligence (AI) and semiconductor startup company Horizon Robotics to develop new connected services for smart cars."
+    publishedDateTime: 2021-02-23T11:27:00Z
+    webUrl: "https://www.just-auto.com/news/saic-motor-in-tech-tie-up-with-horizon-robotics_id200411.aspx"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 69
+    images:
+      - url: "https://www.just-auto.com/images/just-auto-share.jpg"
+        width: 1200
+        height: 799
+        isCached: true
 
 secured: "/08E34CKmuFyreEDdfBVi63Ke9lua6dILpnkYzEfWuN0WJJ8Y9cTXTdZ4HujFSeAFo12Uu8HQuy3Lp/gKRdc5xv5CtFiioOb7K9qQLnmGQqLmovYQxpKsuGoCdNZxUpBGaPlfhp5AKmApX+PMGwRk7MGPOUc2ua242j9aE+rR3SprrgoGlMLv8SSgxugJBIfo/UkSnS2g5Oaxqx9ltoSAvEkxYMEwdZmxVvnWoMYZih/1g5x8bMM4Q6BP93/tttJV/oiICT66/TV7dsnbubEoELB5ZYCXRYti+NZW3R5Cmc9Zd6xvMm5TaD76Loorrb08B8BjucatHa02uwlpU8CAmgvsKV/1nlHzlpMybV4J4A=;KHiAkDXLI+t30iTnqUzd+Q=="
 ---

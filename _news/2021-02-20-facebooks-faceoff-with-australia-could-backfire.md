@@ -71,19 +71,19 @@ related:
         width: 1070
         height: 713
         isCached: true
-  - title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
+  - title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
     excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-    publishedDateTime: 2021-02-23T01:41:00Z
-    webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
+    publishedDateTime: 2021-02-23T11:01:00Z
+    webUrl: "https://guardian.ng/news/world/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: The Guardian Nigeria
+      domain: guardian.ng
     quality: 24
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-        width: 1024
-        height: 682
+      - url: "https://guardian.ng/wp-content/uploads/2020/07/Social-Media.-Photo-Econsultancy.jpg"
+        width: 1254
+        height: 837
         isCached: true
   - title: "Local Facebook rival soars as boycott grows"
     excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."

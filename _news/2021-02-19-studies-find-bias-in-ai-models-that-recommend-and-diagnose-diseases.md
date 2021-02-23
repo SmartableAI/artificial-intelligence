@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Google Introduces Model Search, An Open Source Platform To Automatically Find Optimal ML Models"
+    excerpt: "The search algorithm in the Model Search system imitates the ‘explore and exploit’ principle of RL algorithms."
+    publishedDateTime: 2021-02-23T11:32:00Z
+    webUrl: "https://analyticsindiamag.com/google-introduces-model-search-an-open-source-platform-to-automatically-find-optimal-ml-models/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/ModelSearch_AIM.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "cGMACCrkwvH7SD9f3IWMgu65sgMaNllX6UesOnt39C4mCFjI7/wAYPUDP3YDP4AdDubvQnfp0gapxj2k7xcmH0sq0ZMGAdVvLlAJKqXg0HE5lCHAEdH6GsB7qKJfNm3cRW1Dl/zQnXgWf9wGOZyjCmGAfQCttw582fjc0EgSQE86KXnGP6CEd0qAUsOBloKBvi8maVWEbD7bzsS66P3t9CSUBdc6y2r2vx+//X9PNtvU9Zypjnl0O56CAvGfLhwBssNG/eAFPgVs+0o8AEzIvl79OF3rqZ44P+TjBuKA/6JEGzILB9F3FQXOLlZFo8hXiCwKHXBS6X0zTr5QnRzuuGAEE+uSL5JPqVfDw/sjDRMf72+ENKd9CmHomwQZAMjx+L9/xMSRZMAsA18bLkobZGh0bKYrlGCKvRqJzxgF3VuC1n3TGEIfHIhaCmdE6MOqmNX7GL2UWHUr3ZGymYShF/VRAXUjlaJgSjKi13E9oGj8TzDeS1z21GTGk83hl3lQfHZWDklGT5G31MJDzAEPwA==;RPz0LYO4S88Xum9Grf7Qug=="
 ---

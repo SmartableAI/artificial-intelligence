@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1613592356-skynet1.jpeg?width=600&crop=16:9"

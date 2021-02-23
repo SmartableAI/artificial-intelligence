@@ -211,9 +211,9 @@ related:
         height: 420
         isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z
-    webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
+    webUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
     type: article
     provider:
       name: Supply Chain Digital
@@ -223,20 +223,6 @@ related:
       - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akld1lvrn200220212751.jpeg"
         width: 1000
         height: 563
-        isCached: true
-  - title: "Aifred Health among top three finalists in IBM Watson AI XPRIZE competition"
-    excerpt: "AI XPrize is a five-year competition with three judging rounds. Montréal-based Aifred Health was one of more than 700 applicants for the competition."
-    publishedDateTime: 2021-02-18T19:11:00Z
-    webUrl: "https://betakit.com/aifred-health-among-top-three-finalists-in-ibm-watson-ai-xprize-competition/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 52
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2021/02/Aifred-Health-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
     excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
@@ -363,15 +349,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM Explores Sale of IBM Watson Health — Update"
-    excerpt: "IBM Watson Health business, according to people familiar with the matter, as the technology giant's new chief executive moves to streamline the company and become more competitive in cloud computing."
-    publishedDateTime: 2021-02-18T19:36:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/2021021816650/ibm-explores-sale-of-ibm-watson-health-update"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z

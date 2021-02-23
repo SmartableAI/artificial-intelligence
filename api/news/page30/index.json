@@ -2,6 +2,263 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-29-robust-artificial-intelligence-tools-to-predict-future-cancer.md",
+      "title": "Robust artificial intelligence tools to predict future cancer",
+      "excerpt": "MIT researchers have improved their machine learning system, Mirai, developed to predict cancer risk from mammogram images, and validated their effectiveness with studies across several hospitals.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
+      "originalUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202101/MIT-Mirai_0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-googles-updated-voice-access-leverages-ai-to-detect-in-app-icons.md",
+      "title": "Google’s updated Voice Access leverages AI to detect in-app icons",
+      "excerpt": "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "publishedDateTime": "2021-01-28T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-artificial-intelligence-in-epidemiology-market-by-ai-type-infrastructure-deployment-model-and-services-global-forecast-to-2026-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services - Global Forecast to 2026 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This global AI epidemiology and public health market report provides a comprehensive evaluation of the positive impact that AI technology will produce with respect to healthcare informatics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-kitovai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual-inspection-solutions.md",
+      "title": "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions",
+      "excerpt": "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19379252",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19379252",
+      "publishedDateTime": "2021-01-28T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
+      "title": "Facial recognition now used for border screenings at MSP Airport",
+      "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
+      "sourceUrl": null,
+      "webUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "originalUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg",
+          "width": 620,
+          "height": 411,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
+      "publishedDateTime": "2021-01-28T11:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bring Me The News",
+        "domain": "bringmethenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.md",
+      "title": "NVIDIA Expands vGPU Software To Accelerate Workstations, AI Compute Workloads",
+      "excerpt": "Support for NVIDIA A40 gives remote users best-in-class RTX graphics performance; NVIDIA GPU Operator support streamlines management of containerised AI workloads. SINGAPORE—January 28, 2021—Designers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
       "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
       "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
@@ -890,283 +1147,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-starship-raises-17-million-to-develop-driverless-delivery-robots.md",
-      "title": "Starship Raises $17 Million To Develop Driverless Delivery Robots",
-      "excerpt": "Starship has raised $17 million to keep working on autonomous deliveries, a post on Medium from the company says. The company has also added two new service campuses, UCLA and Bridgewater State ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "originalUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/01/starship-delivery-robots-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "publishedDateTime": "2021-01-28T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-carlyle-invests-in-ai-startup-after-year-as-client.md",
-      "title": "Carlyle Invests in AI Startup After Year as Client",
-      "excerpt": "Carlyle Group Inc. is converting from a client of SESAMm SAS to an investor in the French developer of artificial intelligence-powered analytical software used by investment managers and banks to crunch through large data sets and analyze reams of text to identify investment opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000",
-      "originalUrl": "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-291450/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-envision-ai-glasses-a-game-changer-in-helping-blind-people-master-their-environment.md",
-      "title": "Envision AI Glasses – A Game-Changer In Helping Blind People Master Their Environment",
-      "excerpt": "Envision AI glasses are a game-changer for blind people. In addition to advanced audio rendition of scenes, text and objects, the device offers a unique video calling feature. This enables blind people to receive effective sighted guidance from friends and family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60129a7e6b3b784671f1ce9c%2F0x0.jpg%3FcropX1%3D181%26cropX2%3D1738%26cropY1%3D0%26cropY2%3D730",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/amp/",
-      "publishedDateTime": "2021-01-28T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "Click here to subscribe for free.) Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/6dgq1r/article33526855.ece/ALTERNATES/LANDSCAPE_615/baidu-reutersjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "publishedDateTime": "2021-01-28T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-global-computer-vision-in-healthcare-market-swot-analysis-key-indicators-forecast-2027-nvidia-corporation-microsoft.md",
-      "title": "Global Computer Vision in Healthcare Market SWOT Analysis, Key Indicators, Forecast 2027 : NVIDIA Corporation, Microsoft",
-      "excerpt": "The market research report titled \" Computer Vision in Healthcare Market by Product Type (Software (On premise, Cloud), Hardware (CPU, GPU, FPGA, ASICs), Memory, Network), Application (Medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "originalUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "publishedDateTime": "2021-01-28T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap.md",
-      "title": "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap",
-      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

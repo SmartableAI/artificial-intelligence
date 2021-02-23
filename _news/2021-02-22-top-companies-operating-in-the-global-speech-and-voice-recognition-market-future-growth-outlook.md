@@ -29,90 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019."
-    publishedDateTime: 2021-02-19T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
+  - title: "Global Vehicle Speech Recognition System Market Analysis by Manufacturers, Regions, Type and Application to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 23, 2021 (The Expresswire) -- The global “Vehicle Speech Recognition System Market” Report deliver comprehensive analysis of the market structure along with forecast ..."
+    publishedDateTime: 2021-02-23T08:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-analysis-by-manufacturers-regions-type-and-application-to-2027-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
-    publishedDateTime: 2021-02-19T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
+  - title: "Global $5 Billion Text-to-Speech Market Forecast to 2026 by Offering, Vertical, Deployment, Language, Organization Size, Voice Type"
+    excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
+    publishedDateTime: 2021-02-19T17:22:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic"
-    publishedDateTime: 2021-02-22T17:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market Share, Growth, Size 2021, Vendors,Trends, Challenges with Forecast to 2024"
-    excerpt: "Global Cloud Natural Language Processing Market Report 2021 -2024 contains systematic and point to point information regarding to Cloud Natural Language Processing Market Size. The report contains brief Introduction,"
-    publishedDateTime: 2021-02-23T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-growth-size-2021-vendorstrends-challenges-with-forecast-to-2024-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Manufacturing Industry Report 2027 | Opportunity, Challenges, Rising Trends and Forecast"
-    excerpt: "The Detailed Market intelligence report on the Artificial Intelligence in Manufacturing Market applies the most effective"
-    publishedDateTime: 2021-02-19T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-industry-report-2027-opportunity-challenges-rising-trends-and-forecast-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 24
 
 secured: "HJJq07er9iDwAnTHqle651+gcS0qMKtsUEB45GH66LEQmUw2RQpkqzLp/oTFJRhgnUipqDMs6ZJvQeaBLghVJRWDl6kYGemQv17YMG68xBvB5cXrqIfFXsy6pc+jODfdFGw0tm2VSLJBSpM1Kz8WGOJLq6acOU9dyrhpUqBBm6pe/j8XhDW2RJr3Gk81rdtCvHb7CajQqyneSY3RbJaXkbJMAjUuoYs+WqMZ2osnD7b/vfjbcnwahHkl7HLD0JRwFhhE7ifhCCYcvjHvW4L/UttpGw3xJumu4oINMuANSng7SQYKArsaKXfqoAuQ0Z0WZ3b+jE51DY9rgrH8k1eSgDXbBpzOHV8ebm61RBxC1bU=;NapoLaKB9FRN5wCCvIC3HQ=="
 ---

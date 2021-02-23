@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How This Bangalore-based Cybersecurity Startup Is Using AI To Automate Ethical Hacking"
+    excerpt: "FireCompass helps organisations discover and test their entire attack surface continuously by automating Red Teaming."
+    publishedDateTime: 2021-02-23T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/how-this-bangalore-based-cybersecurity-startup-is-using-ai-to-automate-ethical-hacking/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 46
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/2021-02-23-1.jpg"
+        width: 512
+        height: 296
+        isCached: true
   - title: "What does cybersecurity look like for the financial sector in 2021?"
     excerpt: "Smith, managing director at CIS The landscape is changing incredibly fast, with cybercriminals using the most up-to-date technology to hack systems. Here are the six areas those in finance should be watching out"
     publishedDateTime: 2021-02-19T12:02:00Z

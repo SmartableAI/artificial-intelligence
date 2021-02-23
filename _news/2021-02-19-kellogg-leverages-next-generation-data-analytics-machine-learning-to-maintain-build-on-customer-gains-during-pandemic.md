@@ -53,20 +53,6 @@ related:
         width: 750
         height: 563
         isCached: true
-  - title: "Marinus Analytics anti-human trafficking biometrics selected for finals of IBM AI competition"
-    excerpt: "CMU biometrics and big data spinoff Marinus Analytics has been selected as the lone American finalist for the $5M IBM Watson AI XPRIZE Competition."
-    publishedDateTime: 2021-02-18T19:08:00Z
-    webUrl: "https://www.biometricupdate.com/202102/marinus-analytics-anti-human-trafficking-biometrics-selected-for-finals-of-ibm-ai-competition"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
-        width: 640
-        height: 260
-        isCached: true
   - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
     excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
     publishedDateTime: 2021-02-19T06:48:00Z

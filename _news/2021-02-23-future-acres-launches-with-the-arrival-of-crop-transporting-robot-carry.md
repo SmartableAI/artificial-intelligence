@@ -33,19 +33,16 @@ images:
 related:
   - title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
     excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
-    publishedDateTime: 2021-02-23T10:53:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
+    publishedDateTime: 2021-02-23T10:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1442578/Future_Acres_product.jpg"
-        width: 400
-        height: 225
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
 
-secured: "JngWV9/DL7J3ONvBsi7ORL30Rj/rVn5gLAps0TnXHTt5obUbwwblmvNFgQFQdjBPjXKOHyyWratxSOWx5lL7lPfyZO6ljIxqCYQgowaWtQlKxBe5nZMlDqny608/9b/3UznQB8OyhK4h2FjCMkGbFWWnYcdzxkPe6ZFfmr0qbvqCravM1F6sEvUTVFs/RSjbA9/ci2JOWi/5tJvhXfWqAAMWEO4ajf+CsHRjWu7Z0Isuzz//OZX4SmrUYBnGan905PxBZY+9QmdvQUNUxWlFNz2gfRjnaK4bqoIJkO75WMzZwyBh3hiYQxQazTl+suA07VOMYhtG06A7EWf7Y8nKlmEi4k/5I2i/jWfjlYxcw5c=;0QpAm2cl3acb7slf96RS+A=="
+secured: "B8OHx2LYxHSMjpfReTmviVB/vX03b72Z7MeLyp2/lca2nRu85AgaSYfnXb29/7O1dNJO6ckb+KunD77lu+AwWD0kJnzpfltCInMI5gLxO7bo/7iFv+cGmit//y8OyBQOuK5alhlqjPSFmk9nWPgwGBidZs2PQPDLh4mdA2q0T5dpUCFJXvSx3xZ3S0+wMwkq/ixwfG+wGCmTB5QCBZpAQFunhkF6q/DpOOdR2CY53l2poByoWrHdDNI81sypav7HlJYAiHw5kSNwA7df9ktS7wF4/hesOF7KuFfT66Q9zExYlVZNYomG9AzJBmIoRIbD2nmOCrq2ZAUegGOcJXDTUZR4y7USRwWAYI26kQ+6hhPIThhRxN2jMG5vD1Ye6kQBaCRwVGY9KgpZTK616NC6kl4+Db1qe1iQRItduKqh34tg7x8TsowUwapU4HbOXXsVCZEh+xfDKl6HNQ9n+EiKC3o6Jw5TIP1qV/ib1wh6StZNrvKkp8eths1AXPt1+vtXUEkUBd5S3/UPQdmBjjUgHg==;spHP3SwbQq3+B/8TEPjSyQ=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "The AI research paper was real. The “co-author” wasn’t"
 excerpt: "The name Cox isn’t uncommon, so he figured there must be another David Cox doing AI research. “Then I opened up the PDF and saw my own picture looking back at me,” Cox says. “It was unbelievable.” It isn’t clear how prevalent this kind of academic fraud may be or why someone would list as a co-author someone not involved in the research."
-publishedDateTime: 2021-02-21T11:50:00Z
-originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
-webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
+publishedDateTime: 2021-02-21T11:54:00Z
+originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1&start=80"
+webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1&start=80"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "DlGsWQjZuYt0DK4gPdt9BGPjqKeAkxTYMx00cpYCArSBbDI79+RtrRe8AkrcOEr+jzrloNWeyoR44qT0MYOExDT1EMzoFcmDbxpZVcLEEVQuzdn4IXNe1x+so6RHK/0rDu1TjtyDVgKLYn1hHy/MxZvFpU9KkQffhW+I848OhWM/7rwr2LsZoT5nt3p49s1074J+OredxrEmiHke4iAL9Rhhx8XWn6r0bWvxwlv+OJCenW+BBTHW3EySeSBZ4wWke7n3yDDV3cFTvr0kNLVxIEjfgkDKgytp0YmaOqvrzIA8nqSHtxM5kVmsNKfFlbKjcLdd3xW6Kx/+u+nC3W8qERVODwxBcrD3hIoQaBhPw6h5TPbaXQe21S7guKo9uHZ7El+aWc/W4C2ug0N96vRpRakAC/ws5zpQ1lKG2U2hhF/OM5G0c6akYOPPx/hgodFg0hWPT8Xim4nsDEq7B7FOANlDhjT4bhPpWdRX/Q+gxbxJcOXlN1U0c+51S8Lk39ihstbvq0lgV4If+8vuJSGrDQ==;dk1DnSaHaxeKK4BHz9wHdA=="
+secured: "VHKM0Ppj03nVUHlWLefpRAx3f9y6fmqyPtgPuyBzCROZ5lO44H/2OdJytGh2cUSpzksZJ++2JVBOwuqFXxZsUo2Zz+vW6yXEm9WjKm8i2cS5TiiZwWDj6AJP+5nvb79iXR5RzMd2esXqyORN8W6e6tOyTBKM9FYXYc9vlw8m/f5a3kEt9MkAWC/jNqg+Clz+uXLSygVM/qMPxfPuWjMDWqxKAeiY/Q0KNhuQRwCHho8AHoCpJjf4Ptw6/CLcsZ7lDpkstO+MM1yTqB8dOEtCmiyuE5wDTNXz1XVPKGzNRLd8VdyJmtTmZH2K68k7Nv3Dv5owobVxh6sTdp42zuU4EoZXvViiaaysRaRp7k1xp8Q=;HsfnglR4YBWj6eyth9qOsA=="
 ---
 

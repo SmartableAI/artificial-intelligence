@@ -2,6 +2,282 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-12-self-driving-car-market-trend-and-forecast.md",
+      "title": "Self-Driving Car Market Trend and Forecast",
+      "excerpt": "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-artificial-intelligence-ai-in-education-market-analysis-status-business-outlook-2020-to-2026.md",
+      "title": "Artificial Intelligence (AI) in Education Market Analysis, Status, Business Outlook 2020 to 2026",
+      "excerpt": "The up to date research report on Global Artificial Intelligence AI in Education Market illustrate a detailed fundamental market overview which is fueled by deep research to accustomed the users with latest Artificial Intelligence AI in Education market trends current",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "originalUrl": "https://www.openpr.com/news/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U212881831_g.jpg",
+          "width": 800,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2241354/artificial-intelligence-ai-in-education-market-analysis",
+      "publishedDateTime": "2021-02-12T01:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers.md",
+      "title": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers",
+      "excerpt": "Artificial Intelligence Robot Writes Valentines Cards For Shy Lovers Who Are Stuck For Words. ARTIFICIAL INTELLIGENCE ROBOTS are writing Valentines Day",
+      "sourceUrl": null,
+      "webUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "originalUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.euroweeklynews.com/wp-content/uploads/2021/02/AMP-1_6026235b81806.jpg?x22228",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "cdnAmpWebUrl": "https://www-euroweeklynews-com.cdn.ampproject.org/c/s/www.euroweeklynews.com/2021/02/12/artificial-intelligence-robot-writes-valentines-cards-for-shy-lovers/",
+      "publishedDateTime": "2021-02-12T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euro Weekly News",
+        "domain": "euroweeklynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-news24com-watch-vw-taps-microsoft-cloud-for-self-driving-cars.md",
+      "title": "News24.com | WATCH | VW taps Microsoft cloud for self driving cars",
+      "excerpt": "Volkswagen will tap into Microsoft's cloud computing services to help develop software for self-driving cars.Read more on 'fin24'",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/news24-com--watch--vw-taps-microsoft-cloud-for-self-driving-cars-9805734",
+      "publishedDateTime": "2021-02-11T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock.md",
+      "title": "Valentine’s Day Your Hotel Might Have This AI Bed Funded By Adobe Founder John Warnock",
+      "excerpt": "As Elon Musk, Larry Ellison and Peter Thiel flee California in the tech exodus, Adobe co-founder John Warnock remains unfazed. He shares how his legendary deal with Apple co-founder Steve Jobs prompted him to fund the Bryte AI bed and why Silicon Valley will always be home to tech innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60205d3765f7e00da62d90d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D98%26cropY2%3D638",
+          "width": 959,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/amp/",
+      "publishedDateTime": "2021-02-11T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge.md",
+      "title": "IOTech edge software platform to support Computer Vision and AI at the IoT edge",
+      "excerpt": "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/",
+      "originalUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IOTech-edge-software-platform-to-support-Computer-Vision-and-AI.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/",
+      "publishedDateTime": "2021-02-11T21:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
       "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
       "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the recipient of a large increase in short interest during the month of January. As of January 29th, there was short interest totalling 15,",
@@ -432,58 +708,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg",
-          "width": 1619,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -927,106 +1151,12 @@
       ]
     },
     {
-      "path": "_news/2021-02-12-microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge.md",
-      "title": "Microsoft to support HPE's Spaceborne Computer with Azure connectivity, AI processing at the edge",
-      "excerpt": "Microsoft and HPE are partnering to bring together Azure and the Spaceborne Computer-2 supercomputer, making it the ultimate edge-computing device.",
+      "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
+      "title": "2 Self-Driving Car Stocks to Buy in 2021",
+      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-support-hpes-spaceborne-computer-with-azure-connectivity-ai-processing-at-the-edge/",
-      "publishedDateTime": "2021-02-11T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands.md",
-      "title": "Nvidia: Researchers train AI to reward dogs for responding to commands",
-      "excerpt": "Researchers Jason Stock and Tom Cavey have published a paper on an AI system that rewards dogs for doing tricks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/",
-      "originalUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/dog.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/amp/",
-      "publishedDateTime": "2021-02-11T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
-      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
-      "excerpt": "Keysight Technologies, Inc., a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence platform that enables organizations to automate the testing of high-speed applications",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with",
-      "originalUrl": "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with",
+      "webUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1036,7 +1166,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T08:00:00-08:00",
+      "publishedDateTime": "2021-02-11T08:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
@@ -1050,146 +1180,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-hear-this-kandinsky-painting-with-googles-psychedelic-ai-tool.md",
-      "title": "‘Hear’ this Kandinsky painting with Google’s psychedelic AI tool",
-      "excerpt": "Google Arts & Culture's latest machine learning experiment explores the artist's synesthesia and the connections between music and painting.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-11T124053.154-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/amp/",
-      "publishedDateTime": "2021-02-11T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-fieldfisher-launches-new-financial-services-advisory-firm.md",
-      "title": "Fieldfisher launches new financial services advisory firm",
-      "excerpt": "European law firm, Fieldfisher LLP, has announced the launch of its new financial services advisory firm, Fieldfisher Capital LLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
-      "originalUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fieldfisher",
-        "domain": "fieldfisher.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming.md",
-      "title": "Bowery CTO Injong Rhee on the grand challenge of AI for indoor farming",
-      "excerpt": "Bowery has opened what it calls ones of the largest indoor farming R&D operations in the world to tackle challenges using machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
-      "originalUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Bowery-Farming_LEDS_Photo-Cred-Courtesy-of-Bowery-Farming.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
-      "publishedDateTime": "2021-02-11T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
