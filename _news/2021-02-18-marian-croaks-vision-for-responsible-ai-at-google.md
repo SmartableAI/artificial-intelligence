@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/marian-croak-responsible-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-responsible-ai/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Syrian student comes first at international innovation competition for artificial intelligence"
+    excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
+    publishedDateTime: 2021-02-23T07:51:00Z
+    webUrl: "https://sana.sy/en/?p=223350"
+    type: article
+    provider:
+      name: S A N A
+      domain: sana.sy
+    quality: 5
 
 secured: "gdSccixya6mX4sZMgtelEDEIYwEffTBk/o3c0l8gZbFkKqJHxna2oKIRu3OAgtJ+RvKgQp8AFzhGVoLDwQUKQcLnIhNKK3gFYDLShiGpPcGrTzH4GTS9seLmj9z21Gt4+EwKRLjoehHd5atMriDgYmvd+CHuZE0KnT6x9FjwWiWsJPoPVqx8xtz81A1dGqTM+iGvrkY/tQurWqKytbzDmCwu/ATKea14yEf11TDyKEH7SfxZe07DedXrFeVv7K7s+PSgXgiE2prLWIhbwZ9uGqOg54ka4GTIxyx3C7mQ058B7ha93tUamPGWjmKrAUCEzbBjUn4ReIS8t60N29ClaQyNqeU3UE8nn9Xz7/8DMlg=;+Pv2xyllIxnAFa/ibLaNcA=="
 ---

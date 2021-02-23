@@ -9,7 +9,7 @@ ampWebUrl: "https://m.vietreader.com/business/media-outreach/34334-appier-shares
 cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,66 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "SbX8Yr+KtQj0av/1/ryBrA5kh8Afprpq5p4K9EcN8pBIxwJpiqLReCHA6tn7F/hjK5+YS7jiicVmi9DuMIAU7n4mTyM4jHAQWo3wBitXi+iqXC4FT8IBZuSR6xbEbTgX1KmEh2ndYSl5hJ6K+T416tqoYjsiNaMgsJ/DDnMLsM6zaX0uZdzGEhjQsP1klymPs/J116eBSGbHUGU/1mugfand3E59Ahpl9421BSxfNSH/387LvIqxkYUnCoXLq0SukDcbiD9AHNPPk5+tH0MufJZx2l7QaZ8D2MX5d52hoSP4BVWAThdBJSQT61l1rg+S1IW6/PVYij4V11fvB4WaGF4pogwFvatMkzRn6yTYrns=;UYTBTItUoY7xQwIwE0UTWQ=="
+related:
+  - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
+    excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
+    publishedDateTime: 2021-02-23T07:14:00Z
+    webUrl: "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/2/U223648370_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
+    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
+    publishedDateTime: 2021-02-19T06:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-02-19T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
+    publishedDateTime: 2021-02-22T17:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "XND1xh8uFkWVX4nKG5JdieVwz/bxLUqcUeCcrP3EQ8hHtbtisJuIZwUzJVhCtDyQ7vi/DVobXpPMDJAq69mYkpKJvYBGoD+ZizCj9Er2yToA5xluSb4ZlxiuLcYBiX8aEZKqaHkcYZRIH3VA1879LE0z1mKGdx12LrktCbsMEaKZxlMYHikrWeCgDzcaUxMVrtO6NNgOBAaSfBpdzNRVGmI7I9Ds7nH7PU65fiBCY/4KiPo72f8yGRcTxzDByYzkhxC8KCLqMvVKgcQShnkfAqp3u0FoF0gLccTWW/fiz9btGDiN9SwKqSLXWPH/9NkOB0fNKLlnFhUd4saeBb69l75bFYaHyFoho6dpq3Z57FU=;rvygmqo1MS/b+VN8/rxIqA=="
 ---
 

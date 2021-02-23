@@ -61,6 +61,15 @@ related:
         width: 570
         height: 367
         isCached: true
+  - title: "Syrian student comes first at international innovation competition for artificial intelligence"
+    excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
+    publishedDateTime: 2021-02-23T07:51:00Z
+    webUrl: "https://sana.sy/en/?p=223350"
+    type: article
+    provider:
+      name: S A N A
+      domain: sana.sy
+    quality: 5
 
 secured: "U/MsRA5Lm1ThACptejKuop2li9Ldum7ncrWwGP/R6uc+8ValhvFS22pXaR93EVSVFGSJG/E3Ai6nZFrIcbMqZaOe51op2Y28aXVl/ury1V0a/ySl+nsZlAs60jsGmX11M2ea51OQA961wPPxPcV1Esaca1mKIMuqhtl16Q8alO6RdPQZ2IxjlMedsLZRCI+o3hPtitNRqDCT4bYg+cBNXnGm1txwI7gmK33LIT/jcctwfTckIQ/4GI4W8aLizNT+WPI92fGKXTEhDYLjTtgxZtNC+7/UJbN7mFwgJXFTFBeTeHTfFJCqbnQTWQ10QGjObYMt9Yff8bbwnxq5KqdBFWC68jKJm0XJwLua13efZTTT2ikxJ0qBpPIO0Z9mxA+AaoQnxV6vzaoBrnAWwDX/b2+L9bfXPxOivq4ZdfKFajBv6lBKNHHYnFB6NdG4Hq5oMRuNfLcdhLjyiycJbd0/OzwsR+yCD4d4AO8j8jQicL/65OA4DzAuC47Wbn8mJ1KQCSyCTCRg+SDT4+hCHccTWw==;G6oxELtc/QbjvbsQaOstaw=="
 ---

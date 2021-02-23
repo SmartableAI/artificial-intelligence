@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/accesswire/science-business-techn
 webUrl: "https://apnews.com/press-release/accesswire/science-business-technology-public-health-government-regulations-0b52f59f596faaf39676631741de8d24"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Enzolytics Announces the Discovery and Patenting of Eleven Newly Identified Conserved Target Sites on the SARS-CoV-2 Virus (Coronavirus) - MarketWatch"
+    excerpt: "(OTC Markets \"ENZC\" or the \"Company\") today announced it has identified eleven conserved, expectedly immutable sites (epitopes) on the Coronavirus against which it is producing targeted anti-SARS-CoV-2 monoclonal antibodies."
+    publishedDateTime: 2021-02-22T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enzolytics-announces-the-discovery-and-patenting-of-eleven-newly-identified-conserved-target-sites-on-the-sars-cov-2-virus-coronavirus-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 14
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EcryVji2MFtVpDHnYmMKzFRrXdHM0P9VTowBDz3/LGBZYlJc3D3l8FDGIMkNjnTQvrbFFm4emAxR9QFef74eqmr63TxZG6QdKrfcUrK/i9Jw5wyfXOX09xXJ4muCKhc/TOxmYkeyqVQgT+A3fIhwbxGQw69I+sY4MJhijm6IAAnconww6QzKTvWpS0uFUD0UAH0aLV8HreeKlTfzYkvWCKdt6CqKUR5Qrii3HxgEIw6tUF1kCgR+dvwsrIs5KVl7dimTM/RttJCZJegWnnIM2ACadorjKjcN3ln1/9okacCquoBXVHCF/hPTXRJLc6gac8/HxewRvzVS0ZFVB8pfF/LhFtIwV95NMB01fAPUY4I=;cbFNqUstB1wm73p8tXF9JA=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 456
     isCached: true
 
+related:
+  - title: "Genus AI - among Top Startups Globally Selected to Participate at SXSW Pitch 2021"
+    excerpt: "Genus AI, an artificial intelligence company focused on scaling emotional intelligence in interactions between brands and customers to drive business growth, was selected as an alternate in the Artificial Intelligence,"
+    publishedDateTime: 2021-02-23T07:43:00Z
+    webUrl: "https://www.lelezard.com/en/news-19661678.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 34
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
 secured: "QnpKW1gINzmkiJ9t3XGCgEyTT+IUWEDAgra1VrsFNJgHC0KHoV84OilzIIdkA+0REvHwrQjNaV7DGgPY1Rkjf1oNvfbmBt7N7Ap0VcLX6pDAjf+oxDkI1ZBgFSxeMeBrlOGeD5sHIvtxXxEXdxw2diGMwa3xZggz/+jJJ65LDCfUpSlb/RbVQoSgQZVTGF0yVifuxk6KU+yyKqwnbdeulIgrslLpRdbyeWmAixR7cwiAqqXYuzdvuZu5UoRwZJ40N8wRXy6nkf+aROi/c5/P9vvd5EoKIct/+tyyTNUNA4MUJhtgY9753Ay1rpvNJfWmDgsLSEcYRDrJ6xhi+4bpUOVP+NsyBtF/bD2j94QqxJs=;tlBozltqQeEQsZFk1TIQyA=="
 ---
 

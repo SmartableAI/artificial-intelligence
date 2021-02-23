@@ -9,8 +9,8 @@ ampWebUrl: "https://indiaeducationdiary.in/technical-university-of-munich-artifi
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/technical-university-of-munich-artificial-intelligence-deciphers-genetic-instructions/amp/"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: India Education Diary
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence deciphers genetic instructions"
-    excerpt: "With the help of artificial intelligence (AI) a German-American team of scientists deciphered some of the more elusive instructions encoded in DNA."
-    publishedDateTime: 2021-02-18T16:06:00Z
-    webUrl: "https://www.miragenews.com/artificial-intelligence-deciphers-genetic-516252/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/2021-02-13-ziga_2100.jpg"
-        width: 2100
-        height: 900
-        isCached: true
   - title: "Artificial intelligence deciphers genetic instructions: Deep learning algorithms reveal rules of gene regulation"
     excerpt: "With the help of artificial intelligence (AI) a German-American team of scientists deciphered some of the more elusive instructions encoded in DNA. Their neural network trained on high-resolution maps of protein-DNA interactions uncovers subtle DNA sequence patterns throughout the genome,"
     publishedDateTime: 2021-02-18T17:52:00Z

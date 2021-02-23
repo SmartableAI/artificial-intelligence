@@ -2,29 +2,23 @@
 category: news
 title: "Google fires AI manager who protested her peer’s departure"
 excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-publishedDateTime: 2021-02-20T01:19:00Z
-originalUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
-webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
-ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+publishedDateTime: 2021-02-20T01:17:00Z
+originalUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
+webUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
+ampWebUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CBS17 Raleigh
-  domain: cbs17.com
+  name: KSEE
+  domain: yourcentralvalley.com
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
-    width: 512
-    height: 512
-    isCached: true
 
 related:
   - title: "Google’s restructuring of its AI teams sparks further criticism"
@@ -43,20 +37,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Google plans to reshuffle its AI teams after weeks of turmoil within the company"
-    excerpt: "Google plans to centralize its work in responsible AI under a single leader, as it hopes to quell weeks of internal chaos, a source tells Insider."
-    publishedDateTime: 2021-02-18T16:46:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-reshuffle-under-marian-croak-amid-ongoing-turmoil-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://i.insider.com/602e817542b84000192f42c9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google fires AI manager who protested her peer's departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
     publishedDateTime: 2021-02-20T16:53:00Z
@@ -74,6 +54,6 @@ related:
         height: 681
         isCached: true
 
-secured: "uIxfqz4vi4NFTDSQKucL2YTVhLaaWvoxNP+tQegh23TfUweTH4fsFJjP+0E8ukKdZtT23QZqGY3hjFVly1IHbg36wtxmh37h60/qDvJrATkAraT435hZanqfusdf9J3RcepgnVQRMfjoj6MQFQRDB+9I7tlyUoID6fnP3vFovxQ+aBFBPkI+YUf+l8L2fZuiyAC1Rm1eApITjHboY/KYXC9fAVhrqm4FHkUPQCitUsK+fh9IhthANFruZW23Bw/thnhGGKR1WYEX6QlDMw+aSoOPXrWEzzrT+nReRW+cRon8JeLTZ+cjW5JOZkGvobhzhzLMspqEpgRxW4FObQtfHJUKyHHbpElrWNpUfMOJUpU=;y6ZvmSQ3Jt75oT1lZjBckA=="
+secured: "i1DwdDUiAE0pZkuN/ghy91d/MMELdVq3inCmUmHlrANUTew+3FeJLzjc2dfdPAPDwFmEMMeSG4J4bvuxBv4K3IiLT/4T79ouvhTk4cM1WL/7pL8XF2zujIoNLJoKi+wPUr50Rw0DiUMnhNja9wZbXQFwmjeNKh3dIeh2waANcOM98MGte7+IR+pPtB7NAIywWHvjGZo/Ce3CcBa48mLE16kR30gRiBnQhMU8kyA2QnNyDRHxwmYOfZlYxX6Dma5snRJcN3RQe6y9Ox1tqDi1pe1Lp8bFks1+MLkIosVZKSKfPIlXPyaBQKi+DfmjSsw83Blu9nkbUlafjmmpUFCpemNlW2NLYoviZJ4QEequTyo=;61/ZQ6tfcwB0ypt6z73Agg=="
 ---
 

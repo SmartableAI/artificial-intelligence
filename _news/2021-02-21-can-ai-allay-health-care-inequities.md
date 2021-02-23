@@ -43,22 +43,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "AHIP, technology companies are creating a new AI standard for healthcare as the industry strives for more crash barriers"
-    excerpt: "AHIP, technology companies are creating a new AI standard for healthcare as the industry strives for more crash barriers Major health"
-    publishedDateTime: 2021-02-18T15:40:00Z
-    webUrl: "https://www.compsmag.com/news/technology/ahip-technology-companies-are-creating-a-new-ai-standard-for-healthcare-as-the-industry-strives-for-more-crash-barriers/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/ahip-technology-companies-are-creating-a-new-ai-standard-for-healthcare-as-the-industry-strives-for-more-crash-barriers/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/ahip-technology-companies-are-creating-a-new-ai-standard-for-healthcare-as-the-industry-strives-for-more-crash-barriers/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 49
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/AHIP-technology-companies-are-creating-a-new-AI-standard-for.jpg"
-        width: 2560
-        height: 1161
-        isCached: true
 
 secured: "fMgbrB2LxOPrVJeoWRcNkZBYu8yC84iFE6IQ+99geSTxyVyjJ/FmvYs6zh075P5dzwnGVq3PabZizLauwfoPNfLuNsrvAYQchf0LFWWbiNC4VFcwhcPH3PeIy3ig2wIOmAYF1NqYTY4EGaC+qhQ6fjgsdCaooxrKrBnQ4LCnK9j0k8C8Y7KdEZt5KL9uypaysKyGwp3T12hGypTAGpeneASlEY+C1C5eVHc0qbhRLRAfcjk8ALqVMTwq8KLjjl7VtUHNDwc+YHNkhqcqhtEC4SZM0TNXCOTsvkzQpVRJeLEuu/6UlhF1VYPp0xwyGSFrnsQ61xr/Sb1uGdP/tawciyZHev1QHP52fx5n3FXEU+3QD1c2U3YHIjUantCqA9PddfGvlkzXyENCs7u9oh+JHfPVwTjINupqU86WgbhPeHl9HX1OwB+DZr0x/Fw5D7ObtYtdEPNvhmKN4bXJvwnrg6aI25kBgWUnUrKsC6aMhpZUoVnVoMKn8pLyrLo9j5tpQCB1K6QUaOqSxJJ1hg6eLA==;+QMexhZtToMwmaO9ptRSXQ=="
 ---

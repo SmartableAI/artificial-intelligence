@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top 5 Robot Trends 2021 – International Federation of Robotics"
-    excerpt: "Robots learn new tricks: Artificial intelligence software in combination with vision and other sensing systems, allow robots to master difficult tasks. One such task is bin picking, that in the past was only feasible for a human hand. New generations of ..."
-    publishedDateTime: 2021-02-18T15:15:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=16293"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 34
   - title: "The Top Enterprise IT Trends To Watch In 2021: The Channel Angle"
     excerpt: "CRN contributor Mir Ali of 2nd Watch breaks down the top enterprise IT trends you should keep an eye on in 2021."
     publishedDateTime: 2021-02-22T20:19:00Z

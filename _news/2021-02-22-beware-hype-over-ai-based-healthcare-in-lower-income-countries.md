@@ -7,8 +7,8 @@ originalUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010?vi
 webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010?via=indexdotco"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Financial Times
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AHIP, technology companies are creating a new AI standard for healthcare as the industry strives for more crash barriers"
-    excerpt: "AHIP, technology companies are creating a new AI standard for healthcare as the industry strives for more crash barriers Major health"
-    publishedDateTime: 2021-02-18T15:40:00Z
-    webUrl: "https://www.compsmag.com/news/technology/ahip-technology-companies-are-creating-a-new-ai-standard-for-healthcare-as-the-industry-strives-for-more-crash-barriers/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/ahip-technology-companies-are-creating-a-new-ai-standard-for-healthcare-as-the-industry-strives-for-more-crash-barriers/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/ahip-technology-companies-are-creating-a-new-ai-standard-for-healthcare-as-the-industry-strives-for-more-crash-barriers/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 49
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/AHIP-technology-companies-are-creating-a-new-AI-standard-for.jpg"
-        width: 2560
-        height: 1161
-        isCached: true
   - title: "Can AI allay health care inequities?"
     excerpt: "COVID-19 has highlighted racial disparities in the U.S. health care system. And one doctor writes in Forbes what he believes is the solution: artificial intelligence."
     publishedDateTime: 2021-02-21T03:00:00Z
@@ -56,6 +40,6 @@ related:
         height: 248
         isCached: true
 
-secured: "gdV1GEr6chjSnWmWtNlMF4FP95R0agXLDTkNyvY8Y+1M4dvr5jxFejRzzbxAI/4jqQVqsg5Sa2tj/Szj9qWhl7qPYqWcapPpjdXkMyTpmMVIgRjxXRDOjTj6/9vuVi+DNkXM9FubbB1+FjT6FIfazf2bd1IvsxWksYQ2riPQeboE6kPRKpsB/NbFCSxrB96CvPCgCjLHvCvlRhyoToJRxjpdYXg8VT7q84qREgwAEuTM7D7Xcd5XtC+R8pUlYb3C+QRZ5ripLlz63CbtGXdixgImcklXyv/aiFEGrSIiu+GUxHduzbd95I+06/UMgUgv5SWKc5H2/2A46q6fCKZtGQl98H05k00k1fS+QnGb/VY=;rVe2693wq9geYV48H6HDaQ=="
+secured: "B7z3oVui8lMKeS5k2a1gIdP+b+LdP3faxia49H43tqmbGJir+EwOfMirzBZcF0l2sJLEkjc7d8vtgmdFxUmWroJkFDNMoKiBLy9nnZAUxG7NQZVgMBcf4/Ul9mz+T3f9txRwpKl2CPoLiSotwzbfKtxRcfELQcVbJeZkdQeS/BwKjIojPufcZyZzSADwV2dvhw0hwY5AnsDJTXjNgysItYHnfDidsbS7anPaA8fwSb8f5YpYv317mDVFib5hfIcrLCB0o8rIaeBBBrzC2Kf3rMKe9uayAQm5RFDeQ+7Pz6iOjWPhSxmXKEEhW3d7VDb9M6GwB4Z3xSTHMmIsxpY4g3PI/vxxok0HFcyloOB7/4QOxJL+MXgqQjFyYqCdhk+1NspBd0W+/0CGQXRp2x5O97BnqtbqF2kybr6XAqwEIqhk48EFfLc8YmmnkhevD9fHx/1APt/4PyMIhGv3nCdR9Ui3WWVIORizzz/OsmjfJKciyH/rERsdTHc4UgbRuaJ3U5o/dY375dXIAGUxnNzI/A==;8J0/xXFLzkzLyal3RhT36g=="
 ---
 

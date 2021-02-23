@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI: IBM showcases new energy-efficient chip to power deep learning"
-    excerpt: "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,"
-    publishedDateTime: 2021-02-18T15:35:00Z
-    webUrl: "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/"
+  - title: "IBM unveils the world’s first quad-core AI accelerator chip"
+    excerpt: "IBM has unveiled the world’s first quad-core, artificial intelligence (AI) accelerator chip, built using seven-nanometer (7nm) MOSFET technology. IBM optimized the novel chip for low-precision workloads with support for many AI models."
+    publishedDateTime: 2021-02-19T16:17:00Z
+    webUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip"
+    ampWebUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/02/18/11b45681-8657-434c-80e1-31ea97d3626d/ibm-new-chip.jpg"
-        width: 768
-        height: 781
+      - url: "https://media.itpro.co.uk/image/upload/v1570816148/itpro/2016/07/ibm.jpg"
+        width: 1000
+        height: 564
+        isCached: true
+  - title: "Google’s Voice AI accelerator launches 12 startups"
+    excerpt: "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,"
+    publishedDateTime: 2021-02-22T21:01:00Z
+    webUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/"
+    ampWebUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all"
+        width: 1197
+        height: 601
         isCached: true
   - title: "An Inside Look At IBM’s Energy Efficient AI Chip"
     excerpt: "IBM wants to develop an entirely new class of energy-efficient AI hardware accelerators that will significantly increase compute power without requiring exorbitant energy."

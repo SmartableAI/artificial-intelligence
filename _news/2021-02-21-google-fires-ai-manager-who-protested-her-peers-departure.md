@@ -43,36 +43,17 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Google plans to reshuffle its AI teams after weeks of turmoil within the company"
-    excerpt: "Google plans to centralize its work in responsible AI under a single leader, as it hopes to quell weeks of internal chaos, a source tells Insider."
-    publishedDateTime: 2021-02-18T16:46:00Z
-    webUrl: "https://www.businessinsider.com/google-ai-teams-reshuffle-under-marian-croak-amid-ongoing-turmoil-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 64
-    images:
-      - url: "https://i.insider.com/602e817542b84000192f42c9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google fires AI manager who protested her peer’s departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:19:00Z
-    webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    publishedDateTime: 2021-02-20T01:17:00Z
+    webUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
+    ampWebUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
     type: article
     provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 59
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
-        width: 512
-        height: 512
-        isCached: true
+      name: KSEE
+      domain: yourcentralvalley.com
+    quality: 39
 
 secured: "708Lx4m3Kf9OeMGUlQmkIKOOzlAMJanayM2uyUL9NmN/ONrVbylMFzIplfa9zowKuLwRzAa29gsawl6nbR4NCuNRCpmORe8DtwltEZhxGpoFxeovrpKfGdurjOFjlAxt4icyxi5d00Sy5jMbstNa+ASWnSeXM2RMqI4a46aRlkC50wuJkyZ82iwaKgyUeKtBXXxOxE/WIaNndLy6QHHgh6eLiIEnUfWIHO0XElIl5V3/QFhyQeojh8XpUTgLlw9RxbaIOD/k9Ss6ROB/9sReQGK8ayQChTRJjW7d9TcpnVdYf6L3A8HLuhDCyrc4SB3vO+GJ80JQm0JJWUUDlSYfsegFdYM56Q1HBCyVqByXZVY=;EJtjrkkN2SubDRvULxmw5Q=="
 ---

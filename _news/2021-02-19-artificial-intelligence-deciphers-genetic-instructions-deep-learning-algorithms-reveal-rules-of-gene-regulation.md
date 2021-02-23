@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 918
         isCached: true
-  - title: "Artificial intelligence deciphers genetic instructions"
-    excerpt: "With the help of artificial intelligence (AI) a German-American team of scientists deciphered some of the more elusive instructions encoded in DNA."
-    publishedDateTime: 2021-02-18T16:06:00Z
-    webUrl: "https://www.miragenews.com/artificial-intelligence-deciphers-genetic-516252/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.tum.de/fileadmin/w00bfo/www/Presse/Headerbilder/2021-02-13-ziga_2100.jpg"
-        width: 2100
-        height: 900
-        isCached: true
 
 secured: "NECkjU3L72GebQZ8t9vq6IzbRdnyJVKIv34XDO+9YVko7lV3WsHC5CyeTVe9B0l1YuN5sSVg8QdNEMDuuemmvLgGYW5j+HeYhk5/75akYnAMGlOZzmWlkrVVFATjVRfGNAA1eHF2HaglszVhRafodmgSkDPHItLfhBowVIm2bEY9VYlLuYtudsWAy5yMfQycg3ljD/gD7WpAHs00OY8oo4OsyfO1+FOrj13XukZK2XQ8hKYZrw/NpMy/JBqqsJr4ForAp1VPTIzNTg2Tkv3soWyJyufHx3u38G38p3WogNgw5sQeK11eNWSVIL/5bZTJdWoiHonZePZXIy2M8WqlAyRnZGGGElES7zfYsilSP0s=;M/29b5qOrmZNF81RKGU++A=="
 ---

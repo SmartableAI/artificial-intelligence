@@ -73,20 +73,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Global Industry Analysis, Size, Share, Growth, Trends, and Forecasts 2020-2027"
-    excerpt: "The global Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028, and register a significantly high CAGR, according to latest analysis by Emergen Research."
-    publishedDateTime: 2021-02-18T16:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-global-industry-analysis-size-share-growth-trends-and-forecasts-2020-2027-2021-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Neural Networks Market Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2020 - 2027"
     excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
     publishedDateTime: 2021-02-22T13:28:00Z

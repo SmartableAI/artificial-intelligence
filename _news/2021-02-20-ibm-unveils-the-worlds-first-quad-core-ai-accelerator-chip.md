@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
 type: article
 quality: 104
-heat: 114
+heat: 134
 published: true
 
 provider:
@@ -46,6 +46,34 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all"
         width: 1197
         height: 601
+        isCached: true
+  - title: "An Inside Look At IBM’s Energy Efficient AI Chip"
+    excerpt: "IBM wants to develop an entirely new class of energy-efficient AI hardware accelerators that will significantly increase compute power without requiring exorbitant energy."
+    publishedDateTime: 2021-02-19T09:31:00Z
+    webUrl: "https://analyticsindiamag.com/an-inside-look-at-ibms-energy-efficient-ai-chip/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/IBM_AIM-1.jpg"
+        width: 595
+        height: 347
+        isCached: true
+  - title: "IBM claims 'world's first energy efficient AI accelerator chip' based on 7nm technology"
+    excerpt: "A team of researchers at IBM claims to have created the world's first artificial intelligence (AI). The new chip, which features four cores, was unveiled at the 2021 International Solid-State Circuits Conference held virtually earlier this month."
+    publishedDateTime: 2021-02-19T11:28:00Z
+    webUrl: "https://www.computing.co.uk/news/4027440/ibm-claims-world-energy-efficient-ai-accelerator-chip-7nm-technology"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 46
+    images:
+      - url: "https://www.computing.co.uk/api/v1/wps/84da39a/2097445c-3222-45e9-82e3-bf5409b10d58/4/ibm-chip-370x229.jpg"
+        width: 370
+        height: 229
         isCached: true
 
 secured: "hGFCdjmW/73MkOqTzxbzEL3m7S7Hr2v1VQNmHzpgpoKjpACGCCm9eg5CcN2yIdybGKFTZose8TWss2lDBS0fT2ejzeYskFQBY7/aSbN/8y8AzkPG/hEzUMBpex/OcpTTMRnVUP7xPphIP+Hh78EBrdJGKp3BS/KCxRADkI+zVj5BWQucpSKWWjDv0A4cHJMQ9FRixFt4ZyF7jLQGiGMRfgTRCeSKQcDwyzp36kMscBV0gVWYduhwee7/M48tqWENvGDt1igRTusIKiERE+rw4qckGwArM0//3M6cTtLwYWzXOcYDXlmdxwM7r2gsGpUS95Rn7omv/VqWS+eCJ7xArVGJqJ74VcMCYydXTWbv6f+aui+OWuFqERjoXuSOq8jbJlxOgaBKEfFif4w7A9h1zqlbcKeX2dlJ5me7p4sKd0CefjviA1bxgVVVivjXScdTX4i6pPQHYTOqy2uXxkqeyBy+RT54UBv8knUON/ykkf+5TNWHpTwFQ/l9pyy82nVi07M4oa6ceKhNgNwyPGOdoQ==;O1x/PIEYn6wO1f+66T0eLg=="

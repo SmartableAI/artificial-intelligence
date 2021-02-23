@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why Tech Companies Are Limiting Police Use of Facial Recognition"
-    excerpt: "Mutale Nkonde talks with NPR about facial recognition technology, how it works, and her reaction to companies banning its use by law enforcement."
-    publishedDateTime: 2021-02-18T16:24:00Z
-    webUrl: "https://cyber.harvard.edu/story/2021-02/why-tech-companies-are-limiting-police-use-facial-recognition"
+  - title: "US city passes restrictive ban on facial recognition use by police, others"
+    excerpt: "Citing concerns about its reliability and potential to harm communities of colour, the Minneapolis City Council voted Friday to ban the use of facial recognition technology by police and other city agencies."
+    publishedDateTime: 2021-02-23T06:26:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/23/us-state-passes-restrictive-ban-on-facial-recognition-use-by-police-others"
     type: article
     provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
     images:
-      - url: "https://cyber.harvard.edu/modules/custom/bkc_home/images/bkc_logo_social_share_default.jpg"
-        width: 1000
-        height: 500
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/23/1053499.jpeg"
+        width: 720
+        height: 480
         isCached: true
   - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
     excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
@@ -54,15 +54,6 @@ related:
         width: 763
         height: 509
         isCached: true
-  - title: "US city passes restrictive ban on facial recognition use by police, others"
-    excerpt: "Citing concerns about its reliability and potential to harm communities of colour, the Minneapolis City Council voted Friday to ban the use of facial recognition technology by police and other city agencies."
-    publishedDateTime: 2021-02-23T06:26:00Z
-    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/23/us-state-passes-restrictive-ban-on-facial-recognition-use-by-police-others"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 17
 
 secured: "ug7dxUA6CS9QeFleAdmJVDQD2+wkpjQuV3fefv5EXL5qQX7C0mHc+l0j0JmHbqQHYg0ZRF6r64wR6RNm3UMZ4UQMJGw6RLu/0R9x92PnGO3c06NDPPMR9+5OcBCDuiaQUwhCWz8AcSoskLXDDYRujzOiHqiFjP0uQU8XbuPsNfKA5c7VSY3YhpWhIa2xgnnZqTuH7LXwFLkc9BNArZneju2iSov3KEXfE9Q+BirvQpHA5fcrJUVUGoIZUXrNVDabuCzS4wZ43MYnw0axLDemS6yS9RmOKdw2QasOZPBDMQp5QT5lAHzhhks4qlQ0A6Lme1snpjEWnK/hnjB4hFsp+YIhpvI+9LWN+sGBXP5DN5Pj/4k2In7t4iZthrOtqv+JJqPtEtaN2btgDQr6SPKwK3mRhb//8vV/1i9ZcJ/xOznVjAtecujSMPk3XZ7yp6LZoJFSEyiJAQhAn0cHdFCVYnR545fSu/hSwzWqIgvZPCN5Y39lesod1OUz4RkDP4MjhDREC2utoyRSVkF5oZHl8Q==;xVW2ZWUe/wbQQI4QPWPVQQ=="
 ---
