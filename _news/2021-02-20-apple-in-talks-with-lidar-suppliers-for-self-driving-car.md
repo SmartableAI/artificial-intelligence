@@ -25,53 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "Humans Drive Too Fast In The Rain And Are Making Life Darned Hard For Self-Driving Cars"
-    excerpt: "When it rains, human drivers get zany, and the question arises as to how self-driving cars can cope with both the rain and the antics of human drivers."
-    publishedDateTime: 2021-02-20T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/"
+  - title: "Apple In Talks With Multiple Lidar Sensor Suppliers For Self-Driving Vehicle : Report"
+    excerpt: "Apple is in discussions with multiple suppliers of lidar sensors that will be appropriate for a self-driving vehicle, Bloomberg reported citing people familiar with the matter. The technology giant is in active talks with a number of potential suppliers for the laser-based sensors that allow a car's computer to \"see\" its surroundings,"
+    publishedDateTime: 2021-02-20T16:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/apple-in-talks-with-multiple-lidar-sensor-suppliers-for-self-driving-vehicle-%3A-report-2021"
+    ampWebUrl: "https://www.nasdaq.com/articles/apple-in-talks-with-multiple-lidar-sensor-suppliers-for-self-driving-vehicle-%3A-report-2021?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-in-talks-with-multiple-lidar-sensor-suppliers-for-self-driving-vehicle-%3A-report-2021?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
+  - title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
+    excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
+    publishedDateTime: 2021-02-19T17:11:00Z
+    webUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/"
+    ampWebUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 42
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602751e6c254164f50f2d2ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D35%26cropY2%3D4175"
+      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/apple-car-project-titan-lidar-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Tesla Full Self-Driving Beta Drives To Service Center Unassisted"
-    excerpt: "For people indecisive about investing in a Tesla due to reports of mounting service visits, at least your car can help drive itself to the service center."
-    publishedDateTime: 2021-02-19T14:51:00Z
-    webUrl: "https://insideevs.com/news/489380/video-tesla-fsd-drives-model-x-service-center/"
-    ampWebUrl: "https://insideevs.com/news/489380/video-tesla-fsd-drives-model-x-service-center/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/489380/video-tesla-fsd-drives-model-x-service-center/amp/"
+  - title: "Apple in talks to buy self-driving sensors, a key step in autonomous-car plan"
+    excerpt: "As it’s done with the iPhone, Apple is looking to outside vendors to supply critical hardware for a planned autonomous vehicle."
+    publishedDateTime: 2021-02-19T17:21:00Z
+    webUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan"
+    ampWebUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
     type: article
     provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 41
     images:
-      - url: "https://cdn.motor1.com/images/mgl/nJOXx/s1/tesla-full-self-driving-to-service-center.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
-    excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
-    publishedDateTime: 2021-02-19T22:43:00Z
-    webUrl: "https://www.thestreet.com/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/7EvaZZzT-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/199bf7f/2147483647/strip/true/crop/5000x3266+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2Fd1%2F3b625d0541e1a7adeb980b3071a2%2Faustralia-digital-platforms-77751.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
@@ -103,33 +98,33 @@ related:
         width: 2500
         height: 1406
         isCached: true
-  - title: "Are Self-Driving Electric Cars The Next Big Thing?"
-    excerpt: "Are Self-Driving Electric Cars The Next Big Thing? By Karl Popham, Manager of Emerging Technologies, Austin Energy - Austin hosted a self-driving electric bus demonstration this year. One of the very first passengers was a centenarian"
-    publishedDateTime: 2021-02-19T03:52:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/are-selfdriving-electric-cars-the-next-big-thing-nid-25994-cid-41.html"
+  - title: "Apple in talks with suppliers for AV sensors, report says"
+    excerpt: "Apple is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T11:50:00Z
+    webUrl: "https://europe.autonews.com/automakers/apple-talks-suppliers-av-sensors-report-says"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://www.cioreview.com/newsimages/special/2GTa69fu.jpeg"
-        width: 300
-        height: 300
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web_1.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Self-Driving Cars are Already Changing the Automotive Industry"
-    excerpt: "Self-Driving Cars are Already Changing the Automotive Industry By David Silver, Head of Self-Driving Cars, Udacity - The growth and potential of autonomous vehicles is leading new entrants to the automotive industry,"
-    publishedDateTime: 2021-02-19T05:45:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/selfdriving-cars-are-already-changing-the-automotive-industry-nid-30124-cid-4.html"
+  - title: "Apple in Discussions With Suppliers for Lidar"
+    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T18:45:00Z
+    webUrl: "https://www.ttnews.com/articles/apple-discussions-suppliers-lidar"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
+      name: Transport Topics
+      domain: ttnews.com
     quality: 24
     images:
-      - url: "https://www.cioreview.com/newsimages/special/71I6D5RL.jpeg"
-        width: 300
-        height: 300
+      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/apple-1200.jpg?itok=QBUNIs5X"
+        width: 470
+        height: 246
         isCached: true
   - title: "Apple in talks to buy self-driving sensors, key step in car plan"
     excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
@@ -145,61 +140,19 @@ related:
         width: 1240
         height: 827
         isCached: true
-  - title: "For self-driving vehicles, a little cooperation may go a long way"
-    excerpt: "Self-driving vehicles hold the potential to deliver a safer and more efficient era of transportation, but merely replacing human drivers with automated ones only takes progress so far. Although autonomous vehicles are engineered to function largely without reliance on the outside world,"
-    publishedDateTime: 2021-02-20T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-vehicles-little-cooperation-may-go-long-way"
+  - title: "Apple in talks with suppliers for AV sensors, report says"
+    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-19T16:50:00Z
+    webUrl: "https://www.autonews.com/mobility-report/apple-talks-suppliers-av-sensors-report-says"
     type: article
     provider:
       name: Automotive News
       domain: autonews.com
     quality: 24
     images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/ARGO1-MAIN_i.jpg"
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Self-Driving Cars Are Now Cruising Through The Yards"
-    excerpt: "Self-driving cars from Optimus Ride are now navigating DC’s waterfront, available for pick-ups in the Yards with access to Barracks Row and Capitol Hill. Rides are currently limited to a select group of tenants in waterfront apartment buildings,"
-    publishedDateTime: 2021-02-19T17:37:00Z
-    webUrl: "https://www.washingtonian.com/2021/02/19/self-driving-cars-are-now-cruising-through-the-yards/"
-    type: article
-    provider:
-      name: Washingtonian
-      domain: washingtonian.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonian.com/wp-content/uploads/2021/02/3-optimus-ride-nationals-park-e1613748365342-1024x616.jpg"
-        width: 1024
-        height: 616
-        isCached: true
-  - title: "Apple in Talks to Buy Self-Driving Sensors for Apple car"
-    excerpt: "Apple Car- . is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter"
-    publishedDateTime: 2021-02-21T00:25:00Z
-    webUrl: "https://techstory.in/apple-car-in-talks-to-buy-self-driving-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2018/07/applecar-800x450.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Analysis: Will intelligent roads finally move self-driving cars into fast lane?"
-    excerpt: "Disillusioned by the limited progress of in-car technology, companies are shifting their attention from self-driving vehicles to the roads they will drive on. The goal is to accelerate the time taken to bring AVs to market – perhaps dramatically."
-    publishedDateTime: 2021-02-22T00:09:00Z
-    webUrl: "https://www.autocar.co.uk/car-news/industry-news-technology/analysis-will-intelligent-roads-finally-move-self-driving-cars"
-    type: article
-    provider:
-      name: Autocar
-      domain: autocar.co.uk
-    quality: 20
-    images:
-      - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/lead_36.jpg"
-        width: 1600
-        height: 1066
         isCached: true
   - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"

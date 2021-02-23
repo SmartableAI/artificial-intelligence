@@ -2,6 +2,216 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-qualcomm-and-sophos-strike-cybersecurity-deal-that-highlights-benefits-of-5g-and-ai-in-pcs.md",
+      "title": "Qualcomm and Sophos strike cybersecurity deal that highlights benefits of 5G and AI in PCs",
+      "excerpt": "The two companies announced that an Arm-compatible version of the Sophos Intercept X cybersecurity software application will be available on Snapdragon-powered PCs in the second half of 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
+      "originalUrl": "https://www.techspot.com/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-23-image-7.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
+      "publishedDateTime": "2021-02-23T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
+      "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
+      "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176838131%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8400%26cropY1%3D642%26cropY2%3D5367",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-02-23T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-how-reinforcement-learning-chooses-the-ads-you-see.md",
+      "title": "How reinforcement learning chooses the ads you see",
+      "excerpt": "RL models seek to maximize rewards. In the case of online ads, the model will try to find the ad that users are more likely to click on.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/how-reinforcement-learning-chooses-the-ads-you-see/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/how-reinforcement-learning-chooses-the-ads-you-see/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/ad-optimization-reinforcement-learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/how-reinforcement-learning-chooses-the-ads-you-see/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/how-reinforcement-learning-chooses-the-ads-you-see/amp/",
+      "publishedDateTime": "2021-02-23T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
+      "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
+      "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T07:13:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast.md",
       "title": "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast",
       "excerpt": "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,",
@@ -263,7 +473,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -306,6 +516,48 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
+      "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
+      "excerpt": "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
+      "publishedDateTime": "2021-02-23T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-youtuber-asks-an-ai-for-video-ideas-gets-a-surprising-response.md",
       "title": "YouTuber asks an AI for video ideas, gets a surprising response",
       "excerpt": "British YouTuber Tom Scott has such a distinctive style to his videos that they can — and have — lent themselves quite well to parody in the past, both from humans and AIs alike. But for his latest video,",
@@ -314,7 +566,7 @@
       "originalUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -539,6 +791,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-computer-vision-market-latest-innovations-and-trends-2021-2026.md",
+      "title": "Computer Vision Market Latest Innovations and Trends 2021-2026",
+      "excerpt": "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "originalUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U223648370_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "publishedDateTime": "2021-02-22T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
       "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
       "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
@@ -578,49 +873,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-appier-shares-ai-predictions-and-trends-to-watch-in-2021.md",
-      "title": "Appier Shares AI Predictions and Trends to Watch in 2021",
-      "excerpt": "For example, a student may take content from one language and translate it to another. This is harder to detect, but AI is being developed to solve this problem. Similarly, image interpretation AI is being developed to find instances where arts students ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021",
-      "originalUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/Appier-blue-logo_2.jpg?itok=yIEiypcr",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp",
-      "publishedDateTime": "2021-02-22T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -686,7 +938,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -817,6 +1069,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027.md",
+      "title": "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027",
+      "excerpt": "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-nanit-raises-another-25m-for-its-ai-powered-baby-monitor.md",
       "title": "Nanit raises another $25M for its AI-powered baby monitor",
       "excerpt": "Nanit’s nursery camera pairs computer vision with specially-patterned clothing to help answer the question that most new parents ask themselves roughly every 90 seconds: “Is my baby still breathing?” This morning the company is announcing that it has raised an additional $25",
@@ -825,7 +1129,7 @@
       "originalUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -917,301 +1221,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-wall-streets-robots-are-taking-on-the-confusing-world-of-reddit.md",
-      "title": "Wall Street’s Robots Are Taking on the Confusing World of Reddit",
-      "excerpt": "Reddit forum WallStreetBets is hard for humans to follow at the best of times. But spare a thought for the machines. After the retail stock frenzy last month caused unprecedented havoc, hedge funds trawling the platform with algorithms have a renewed sense of purpose in their mission to figure out the next market craze.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP05Z8gOcuVo/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-behind-the-scenes-of-ai-iot-and-5g-advancement.md",
-      "title": "Behind The Scenes Of AI, IoT And 5G Advancement",
-      "excerpt": "On the bright side, such disruptive innovation dynamics and marketing wars will stimulate ongoing technological progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
-      "publishedDateTime": "2021-02-22T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-bank-of-america-earns-most-patents-in-its-history-in-2020-with-a-focus-on-ai-and-security.md",
-      "title": "Bank of America earns most patents in its history in 2020 with a focus on AI and security",
-      "excerpt": "Bank of America was granted 444 patents in 2020—the concentration of its patent applications indicates a focus on use and protection of customer data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "originalUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f16471cf34d050dad0c5172?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-the-real-value-of-open-source-in-the-cloud.md",
-      "title": "The real value of open source in the cloud",
-      "excerpt": "It’s a mistake to believe that running open source in the cloud will protect you from vendor lock-in. But open source certainly offers freedom and independence to developers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
-      "originalUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
-      "publishedDateTime": "2021-02-22T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process.md",
-      "title": "This flying AI robot can pick fruit – preventing waste in the process",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Douglas Broom, Senior Writer, Formative Content There’s a",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
-      "originalUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/02/robots-flying-1.jpeg?w=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
-      "publishedDateTime": "2021-02-22T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal.md",
-      "title": "SAIC Motor Boosts Presence in Auto Chip Sector With New Horizon Robotics Deal",
-      "excerpt": "A unit of SAIC Motor has signed a cooperation deal with vehicle chip unicorn Horizon Robotics to address the scarcity of semiconductors the Chinese carmaker has been facing amid a global shortage of the key component,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal/11561475324248064.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

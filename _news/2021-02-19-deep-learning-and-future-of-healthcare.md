@@ -7,7 +7,7 @@ originalUrl: "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-h
 webUrl: "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Training machine learning models to be future-ready"
+    excerpt: "As digital innovation continues to accelerate, we explore the premise of machine learning models being trained to be future-ready"
+    publishedDateTime: 2021-02-23T12:46:00Z
+    webUrl: "https://www.information-age.com/training-machine-learning-models-future-ready-123493865/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/training-machine-learning-models-future-ready.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "Machine Learning is Not the Future- It's Here!"
     excerpt: "Machine Learning is Not the Future- It's Here! By Cecilia Pizzurro, Senior Director of Data Science, SolarWinds - As with every New Year, the annual tradition of predicting that year’s technology trends is as eagerly anticipated as"
     publishedDateTime: 2021-02-19T06:52:00Z

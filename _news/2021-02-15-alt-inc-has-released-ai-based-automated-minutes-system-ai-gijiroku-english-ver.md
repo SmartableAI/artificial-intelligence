@@ -2,14 +2,14 @@
 category: news
 title: "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver."
 excerpt: "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software."
-publishedDateTime: 2021-02-15T10:34:00Z
-originalUrl: "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
-webUrl: "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
+publishedDateTime: 2021-02-15T10:36:00Z
+originalUrl: "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
+webUrl: "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver"
 type: article
 
 provider:
-  name: FOX 40 WICZ TV
-  domain: wicz.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - Natural Language Processing
@@ -21,6 +21,6 @@ images:
     height: 473
     isCached: true
 
-secured: "B5LoEL+MF6OJABmftCmqlbNFqPeAOMgJ5N1/BTeAAFsp8RaU3Bp6W1Uy1r9iusRhMzxYVAZ7r5BSAY/+lBEGGbf7j8LkhmPZfrne0QMdPMUorHHRR/4rzmaP7iwGcz7QIaRQReSQCjNyXPGzIWoGq5hFCfsg7Uohx7tZ4CuGzwybNIXiohcfWYEVRxH+UFWIJS7ny+ZUpCmxpKQl0yR7C7gneki9PmHCut2bdBvr3cwtLnl2yTiYZWW4JqtD4PKghigfu5WP2RaC9TzKX3Z/fRxJobOrB3C3EheiNl+WYmqMmzsiwrDW4nSzI4tHTyOveQ5CcHPdpc3RPAzzjk1mKTyVu3jPHS0LNRUvpBrjgug=;gcJ1Jn73GbBGJxKWpQx8Bg=="
+secured: "/KjhXCigvkn73DS/vhftV3gfYBkAik2NLnOQzpeDAyxlhBICZbPb7uejRou2tar+QXqovLMRAtXoUVq/1CHlbEhfP0xuk0NdL0vD8t+Zdc2zb/NqQMbl2X9o9C1n3HMAqHaPmzQv/DGGmPUFguhamhTp8HYFrZ2zI2itLAhD2Fiigs208qsUDtEhVaATY56OD6omGLo250ro8bgYxO2X70uyg+I/cXVJ4/oIzuAKXtOTPt2RAhfsf9Cb9RrTQCyrfEX9eDsiL5iashfkO6cKJsYmidPAyKkswlxs3DO99+z/VzqUx/VJGxlqbWSMBaK7AU/jQ3US1tJvUrPWHjuu0N8HxdUkfVec8WcyEWO6KTo=;1bM/gKXHkZ9tISud0z/21Q=="
 ---
 

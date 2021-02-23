@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech App Development Trends For 2021 You Should Know About"
+    excerpt: "Finance technology is popularly known as Fintech. It is an integration of finance and technology to support the financial jargons"
+    publishedDateTime: 2021-02-22T13:29:00Z
+    webUrl: "https://www.techbooky.com/fintech-app-trends-2021/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 24
+    images:
+      - url: "https://www.techbooky.com/wp-content/uploads/2021/02/Fintech-App-Development-Trends-For-2021.png"
+        width: 770
+        height: 385
+        isCached: true
   - title: "Fintech Industry in Israel Acquired Nearly 25% of Technology Sector Funding in Country, Driven by Speculative Valuations"
     excerpt: "Fintech industry in Israel acquired nearly 25% of technology sector funding in country, driven by speculative valuations."
     publishedDateTime: 2021-02-21T20:13:00Z

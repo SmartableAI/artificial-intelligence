@@ -3,8 +3,8 @@ category: news
 title: "Baidu’s share price bounces back ahead of earnings"
 excerpt: "On 18 March, Baidu’s share price fell to $83.62 on the stock’s worst day of trading — its lowest close since 2013. Over the following months, Baidu’s share price had a lacklustre performance and didn’t return to the green until 4 November,"
 publishedDateTime: 2021-02-16T18:13:00Z
-originalUrl: "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings"
-webUrl: "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings"
+originalUrl: "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings"
+webUrl: "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 576
     isCached: true
 
-secured: "R6+gulKVGB1a+W2ZpR8+pbudQ+oqy198nWPwzO9B3sBA7lf/6fJYj93V5RR8+IokG1xJi7jixZmR0XOSFhlktQeztbkN5MV8lFSeAc5oJpHt4IxJxV5vgJJkSEv+vRrNp2qfDi6DF/OwRzZDknZiKxZRzl2PyWFgqsWKurkTf8zKXwFiuGK0CLhyQRH9G+guYuMLtLHLMmXoDJZzYRVBM1xTG5bGLa+q/ax3UmGO2FFYlL1lHocRRAxg63izopNlT3H5FQHA+nCB/7B10puCDU/avI54q+RQY8DwZywy2UXOSdqOrlJFesEs96hEgIXiqPu93Uo64AGrKIdA6w+e81DBhzJjasx4tDEYIKlPnGEk6Y2aNxDrvO4EGJ4r6bPRijLT1kqsMNPhtlLnpKmSC79yPUw0fPdNtuV243Vk4AqGHdABhubo3czMtHJD+D1Si7FFAXvuW2EW3pJ5YhLgqhJgcaECQuM7yZHuVc05V6A7ZJdslmYu9ZJ12Gd0HHT5E5gSzYWH7SQBKiMLkGsM7g==;3A3kGAYFokLTSY1Q/xub5g=="
+secured: "9Q4COTwNQN2We8h8O1lkvBhqaeDtzPSY6Zy2hOY/hXNUyGf06a8D8Juq7vtF7k5RFgxTWwg+i4E1Gr2v9eJRgWHHSo3UWG2phIOUNukepL5RsLB0Ziajv+mvihk1DXm5iJb6ig0PY3M0QVwnmEx+gnkUO2MpCmXKrpu+65rRkQTXjNIhTgjloxhNqD39Ce1Q7f9upQzfnbybJ/z3azkqJ5+aOH8cyGA9vuFkDn4P3RYJIZj3psl/YGbl1PA5YsBRc7vzuxtb8V5Yf4oO65Ak6NLEI9hle5WKFEh8JCX8ArM8ZudU8ZgAoZcdPC029K0xH2Jmw571A2lUzJ3ClpWY7TKEHrYTJNBlTE0RsJ5dRhs=;T24Yi60os+kXz3Ya1Hndnw=="
 ---
 

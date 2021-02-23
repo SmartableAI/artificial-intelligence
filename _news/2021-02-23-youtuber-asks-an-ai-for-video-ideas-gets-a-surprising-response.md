@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.am
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.amp"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

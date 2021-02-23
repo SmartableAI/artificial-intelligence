@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo"
+    excerpt: "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to"
+    publishedDateTime: 2021-02-23T15:13:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg"
+        width: 800
+        height: 453
+        isCached: true
   - title: "Training, debugging and running time series forecasting models with the GluonTS toolkit on Amazon SageMaker"
     excerpt: "Time series forecasting is an approach to predict future data values by analyzing the patterns and trends in past observations over time. Organizations across industries require time series forecasting for a variety of use cases, including seasonal sales prediction, demand forecasting, stock price forecasting,"
     publishedDateTime: 2021-02-19T19:47:59Z
@@ -42,20 +56,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/17/ML-2290-1.jpg"
         width: 800
         height: 326
-        isCached: true
-  - title: "Training machine learning models to be future-ready"
-    excerpt: "As digital innovation continues to accelerate, we explore the premise of machine learning models being trained to be future-ready"
-    publishedDateTime: 2021-02-23T12:46:00Z
-    webUrl: "https://www.information-age.com/training-machine-learning-models-future-ready-123493865/"
-    type: article
-    provider:
-      name: Information Age
-      domain: information-age.com
-    quality: 54
-    images:
-      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/training-machine-learning-models-future-ready.jpeg"
-        width: 1013
-        height: 675
         isCached: true
 
 secured: "tvOSPm925DWIk8AWe1Twd0dnonflB32034V360ZXfEyFQLF6OFnJ2GWnmuN1o1A908pzUPWpR8R2O0BCncqQuKAsEa0EY5radoS8pDJifqWiqCuGewfbxwKe4lf20nOIgzCXzN7n53RVVvkuf6B/ec8Z5ceOvZ0Vrv3eYrWzSmg6haLKMh3ZoXZRQxV5YWNsTNEJHaWg82i19XlmG5zD6iCg0GAVFalMONBQs5h9uGm5Z1Sd6D2DpJKlFLSmlgPBb45gtHi3Uu1mDs6gYFjcG5kmH3Do5LhGbQEtbbLG2Z7OTkXGVCHWijJTclym1isLRQLXq54rrfWexyPB6N/O/UYkeExU8aKmjoqOCTk43Tk=;x91AO4aoLTG3Qe4qpDolVg=="

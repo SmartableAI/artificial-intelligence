@@ -16,7 +16,7 @@ provider:
   name: Wall Street Journal
   domain: wsj.com
   images:
-    - url: "/assets/images/organizations/wsj.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -404,6 +404,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "JyTCHz0VTWcvOJD4WMWPLoh6iVDuRgWa12J225K83GMCiM1gxds1BAa7/zp7WobbwQAQJioV9xGd/jfqvkYAERct+Ue6yXE9B0g8mflkyeJsfQtNdjYn+4qMkhAQAJJxsKUTOmLmPMX4iPYlk40yEZ5prUOtPfl/9YroxfBHbhaaQBT8R0AOSRijDuJ7GjPDGwIkMOJuS7bufTS3NgNqD0eVUPGe+cx9RKcgqo5pOIbBIaloar4Kenuf7YSSKt8ygQJMlWSyaORVFGF6Q/42etA6krVd6gZP3ooINMkQS4KJnPcykbSS9uMP4guI5dmXxBow4iU9e+tvemLuTW8rWwNZEbfPiC1XAy1Ax7aB3nw=;FIxqHig7O7gSmBlKZVIeqQ=="
+secured: "6gDsi8ROTtyVpNmmnqzeWLvzYoud2IuGYwHpZRMNQwXsC4rvg0eo4G7bJp3dmBGLLbpg60zIMEE3gnp/+exdK9FpGsmYb+Ql0f6T7ZR0WQ7dgFKY+20a+8xZeYWa+zng4mQOIVwuBgmTcAL8XMyWBGRG5TxKRmaM4ThbtzpKWJ6OeAai3Of6pdDzpoSsVS7u4TqxRxQfIW5kmrz1A4GO+KROrtz0gEd7tW4Xb21mbcdbcp2D2e34xHNtZ007X+VtthaGGpXFWviFHYqLRblq533uEs0/T5Me9Ns3CMuuXxaxsZcQqBqo7xmHfirrEEcZyyX1SzBkF8aT9VRdR5CwW1ZbD8YqOWKJZ6IggpVXYYzBc7BxnVSrIOmxrWHnKNaOwciY07u3eidhAphZ9cdELR85wYRZl+vs32lC1EwOI3413uWeP2Wi/XDCNOUjeKXVmoR0vi1KcvF/cW5gULYHO2w6Xa2UNAQrxTV99XRwN71wv7fIsVAZcUJpANeML+EcuiPRSEhHVMySzVvfgs6rqEaekxRfLGwASC/2LyoksVs=;Fp0wk1uqZqIEqFWSgNHt1A=="
 ---
 

@@ -168,22 +168,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Google revamps AI teams in wake of researcher’s departure"
-    excerpt: "Croak, a vice president of engineering, will be the Lead for the Responsible AI Research and Engineering Center of Expertise, she said in a YouTube video announcing her appointment Thursday."
-    publishedDateTime: 2021-02-18T23:15:00Z
-    webUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325.html"
-    ampWebUrl: "https://www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/world-news/google-revamps-ai-teams-in-wake-of-researcher-s-departure-101613689805325-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/02/18/550x309/AFP_93942A_1613689939985_1613690006848.jpg"
-        width: 549
-        height: 309
-        isCached: true
   - title: "Google Fires Another Lead AI Ethics Researcher"
     excerpt: "Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
     publishedDateTime: 2021-02-20T02:35:00Z

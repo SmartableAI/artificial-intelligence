@@ -77,20 +77,15 @@ related:
         isCached: true
   - title: "Google fires AI manager who protested her peer’s departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:19:00Z
-    webUrl: "https://www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    publishedDateTime: 2021-02-20T01:17:00Z
+    webUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
+    ampWebUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
     type: article
     provider:
-      name: KRQE
-      domain: krqe.com
-    quality: 59
-    images:
-      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2019/06/512x512-favicon-krqe.png"
-        width: 511
-        height: 513
-        isCached: true
+      name: KSEE
+      domain: yourcentralvalley.com
+    quality: 39
 
 secured: "7xDXab5X8o77ij5QlbcB0gyKbl9NUEc5YzmBkHrV4gXbDJTPKiXUXV4DgsmkQvnFm9Hdg/15ER5d1lnm54vKmOZ/8qQ74vFbbMEvOwmxs1z3LKihVhveWZEmNyTMql09QcHpLY470bR5jdh+r7igmrQTsFTxuZQEZn9SbxR17sjdkyqaW+kfi5/NRGzKM844ofPP50ZakWECqFHCsKbFpBmob697ZXwgR5RFaHcFcnWmcATm/Qt1pRt/g/U2sKGa4LUMYBsWDjtJyqx6oLwwF2QeSsjOA+envosTTm0Vyj7vLF2tUV3u23zErm6mPxs27/99SM2rEJpmjeFBTxdFLC1zMAQYV3PFMNSZZO1Bqdc=;qhntSFYD+TxSq+qvIuRa3w=="
 ---

@@ -41,7 +41,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Five Companies Chosen to Participate in Startup Accelerator Focused on Accounting Innovation"
+    excerpt: "Program Developed by Global Accounting Group and CPA.com Fosters Emerging Technologies that Aid the ProfessionNEW YORK--(BUSINESS WIRE)--Five early-stage companies pursuing a variety of solutions in finance,"
+    publishedDateTime: 2021-02-23T14:52:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=426447"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 11
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
-secured: "NluDYm+huhQ+56GYRfCVDJvnTeEQ/iXdjHC4+QxdySZdvoyd7Il5GrVCbHI8cMBoOPsUJK+vbH/FxGRQ5rmNg2CHH3YzgveEb71S8xDNy8Fq6+nWUy3FQRgCt+5KRyMggiyYF5r6BASPmS+hL1IvYOIK5odG6SBeEy7O5q/xXVicUxwBClO29idNqNeoUMMn4rPk8EPYMDzgJNs46c/1LonGMT9qFyo7q2oyLE2+KSi/KOedb/6VRugZ89McWiVjEbxFMDaS371docNXJlR9fYehuvFB+Cuh1AupJrKe5aozqD/emyl6ZM+UzfUcDzmKJ3wShxl6rFyMr1Y2yuqUN8PLRVhZn0dcjjuUPRa1uz0=;+2dU6oFhjSvaJK/WO33/QA=="
+secured: "eEhohlN5eQeDiyfaADGIF7x6u4gfxlc1gWsplGLkYTsI5HvfbMLG0yqmQdmzkOS8XdNFUspp3ynN+PMKfj4MH47J2Va7ank0Nfahg96Pnzy8n/3UYMBCeNEVsg5MQ5yU7jG1ftP7VfXQ15Oe/QndLAPZktf8022w0v02gjZ8QRU8YFJvA3VkjMlhP9pz9wgki1TXjoinIBFXJGilWlcEAMTLIlUN/Vse2LzJCp+/c4r5uQRWy8OCMZGTT6xmtBrfnpkbZhqkPS2I3Gsf5VtkYZ07gELghesNwNiass9xa82oTGs2iqpIL6scUdXh+pUocVwyGgpha1nTcszNnOxLOFGX1sm4ToIt05AXS6gEADJjSanz8ocD6OREmVaEnnWFZJzJev0OflEF/vr1ZAUl8DLMPSyPFs6oIgwpsD8NGOQeszACMg6S0AG/4TvSkhlZE6x2xpWChW8rgz6/0JJJDI3XCTdMdsO4wWCv+cBKcd4F/dtX5ExYbncPn4+wk8XMQaekordVyAHyOOh96vd2aw==;/w4eE2BXu+Um2LNHzHNAIA=="
 ---
 

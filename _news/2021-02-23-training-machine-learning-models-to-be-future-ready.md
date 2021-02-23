@@ -25,33 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Training, debugging and running time series forecasting models with the GluonTS toolkit on Amazon SageMaker"
-    excerpt: "Time series forecasting is an approach to predict future data values by analyzing the patterns and trends in past observations over time. Organizations across industries require time series forecasting for a variety of use cases, including seasonal sales prediction, demand forecasting, stock price forecasting,"
-    publishedDateTime: 2021-02-19T19:47:59Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/training-debugging-and-running-time-series-forecasting-models-with-the-gluonts-toolkit-on-amazon-sagemaker/"
+  - title: "Deep Learning and Future of Healthcare"
+    excerpt: "Deep Learning and Future of Healthcare By Sanjib Basak, Former Director of Data Science & Artificial Intelligence, Carlson Wagonlit Travel - As Artificial Intelligence (AI) gains popularity in the industry,"
+    publishedDateTime: 2021-02-19T02:59:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 86
+      name: CIOReview
+      domain: cioreview.com
+    quality: 56
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/17/ML-2290-1.jpg"
-        width: 800
-        height: 326
+      - url: "https://www.cioreview.com/newsimages/special/BYa6ufyT.jpeg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "How Zopa enhanced their fraud detection application using Amazon SageMaker Clarify"
-    excerpt: "This post is co-authored by Jiahang Zhong, Head of Data Science at Zopa.&nbsp; Zopa is a UK-based digital bank and peer to peer (P2P) lender. In 2005, Zopa launched the first ever P2P lending company to give people access to simpler, better-value loans and investments. In 2020, Zopa received a full bank"
-    publishedDateTime: 2021-02-19T19:59:33Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-zopa-enhanced-their-fraud-detection-application-using-amazon-sagemaker-clarify/"
+  - title: "Machine Learning is Not the Future- It's Here!"
+    excerpt: "Machine Learning is Not the Future- It's Here! By Cecilia Pizzurro, Senior Director of Data Science, SolarWinds - As with every New Year, the annual tradition of predicting that year’s technology trends is as eagerly anticipated as"
+    publishedDateTime: 2021-02-19T06:52:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/machine-learning-is-not-the-future-its-here-nid-23374-cid-119.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/Zopa-Diagram.jpg"
-        width: 700
-        height: 472
+      - url: "https://www.cioreview.com/newsimages/special/L6k0U4rh.jpeg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Future of healthcare shaping up before our eyes"
+    excerpt: "The future of healthcare is shaping up in front of our very eyes with advances in digital healthcare technologies, such as artificial intelligence, 3D-printing, robotics and inventory management. With the need for digital acceleration to support the healthcare landscape since the onset of the Covid-19 global pandemic,"
+    publishedDateTime: 2021-02-23T06:55:00Z
+    webUrl: "https://gadget.co.za/future-of-healthcare-shaping-up-before-our-eyes/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/doctor-laptop-computer-medical-health.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "qcPssk0HRl/pNWedMXJrDILdA+z6Laoy8rrzRjbxwPxp+DQNTBwkEoXjyFReiBIPJhXeLaUEwpcGd5u0MwTmRuc1C7mk/i8ZK4C2AZw0PwLdwJbvk/oAGST2OnfBFtGmVdWAyUkNevJqHGZwYoEsF1EhWDP742KPuaga5vskXMFjX/Sfm+BRLhmRSTzDTOttvlT2s2vL6MaROZ95tiMHXSLQJHQx4k/8riXRUW3vBVJuPcvvkitr0mbCgul8Wuk/gTW22n/OkvVJNwi1WOfQiz4/zQutwO6pTleHJBYp1QWuwTG5oyvXyr4E7Tbp3Orsrxj2GU7oLy14nGx4yJWsk/qYRGQus3kHOfaQIIbOb4SrY/aeV1qDI9TOijCzwDEAlAtdfRJa6pLZirngsGycgPCOmVqz6K6rokRw9uaFnGf2oPkspU5v8zaJB1lsg+JIFJsWWCfBpo621KcBZXg4DXGHoIe9C5V9VC1lbURKRUAk+qvL4hhOB9b0/cLQXm6LVKQgJV6ZWtF1aCjQ37o/Tw==;WOtv1ukEB1dUVfM6mJqePw=="

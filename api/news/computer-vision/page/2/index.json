@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-10-dahua-facial-recognition-praises-real-time-uyghur-warnings.md",
+      "title": "Dahua facial recognition praises ‘real-time Uyghur warnings’",
+      "excerpt": "Dahua facial recognition praises 'real-time Uyghur warnings' Facial recognition software developed by China-based Dahua, one of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/",
+      "originalUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Dahua-facial-recognition-praises-real-time-Uyghur-warnings.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/amp/",
+      "publishedDateTime": "2021-02-09T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
       "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
       "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
@@ -1333,58 +1376,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-the-iphones-face-id-will-soon-work-with-a-maskif-you-have-an-apple-watch.md",
-      "title": "The iPhone's Face ID Will Soon Work With a Mask—If You Have an Apple Watch",
-      "excerpt": "Apple is facing our face-masked future. This week, the company started testing some new software for the iPhone that will let device owners unlock the handset while wearing a. There’s a catch though,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/iphone-face-id-mask-ios-beta/",
-      "originalUrl": "https://www.wired.com/story/iphone-face-id-mask-ios-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6018a6413453f789506008b6/master/pass/Gear-iPhone-Mask-1211881889.jpg",
-          "width": 2400,
-          "height": 1605,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/iphone-face-id-mask-ios-beta/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/iphone-face-id-mask-ios-beta/amp",
-      "publishedDateTime": "2021-02-02T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

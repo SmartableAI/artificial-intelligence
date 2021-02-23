@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-t
 webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: MarketWatch
@@ -29,56 +29,42 @@ images:
     isCached: true
 
 related:
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
+  - title: "Artificial Intelligence in Manufacturing Industry Report 2027 | Opportunity, Challenges, Rising Trends and Forecast"
+    excerpt: "The Detailed Market intelligence report on the Artificial Intelligence in Manufacturing Market applies the most effective"
+    publishedDateTime: 2021-02-19T05:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-industry-report-2027-opportunity-challenges-rising-trends-and-forecast-2021-02-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
-    publishedDateTime: 2021-02-22T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+  - title: "Artificial Intelligence (AI) Market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2027"
+    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
+    publishedDateTime: 2021-02-23T10:07:00Z
+    webUrl: "https://menafn.com/1101643207/Artificial-Intelligence-AI-Market-Manufacturers-Research-Methodology-Competitive-Landscape-and-Business-Opportunities-by-2027"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 23
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?267395"
+        width: 375
+        height: 250
         isCached: true
   - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
     excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
-    publishedDateTime: 2021-02-23T14:40:00Z
-    webUrl: "https://www.lelezard.com/en/news-19664385.html"
+    publishedDateTime: 2021-02-23T14:21:00Z
+    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
-        isCached: true
-  - title: "Emerging Gesture Recognition Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2025"
-    excerpt: "Gesture Recognition Market report analyse the manufacturers with profile, main business, news, sales, price, revenue and market share. Gesture Recognition report displays the"
-    publishedDateTime: 2021-02-19T05:56:00Z
-    webUrl: "https://www.wboc.com/story/43377642/emerging-gesture-recognition-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2025"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 0
 
 secured: "jLzkJeB72nS+n9Ylsqk746fLas4losUO55hlNanIj1NJvHmKggi/K2+oaMaBSY4EeHVbJM9abseCSnh4o14CkizkKDZBZFwU6Yk2LCD64zjPlfaI+tb5jMOKymxkEkaYkd5yLTea60ey2ZeesHQhMqtozZWyZSzuW+uLgXlQ7f8QyjLeWzd++7vQXolxg+ud2HH54QQTbGBkd8jeaY+HZfylDNCh7kAHVXS6PLn+8rd+jZGPfvqoruCebZ1m2QbfdLDXE0y267xE5HgYm/vLdJf3H3hJWaYvVN9a0V5Esn5PYsuP0RaWd7lMy+QEdMoTiYmv0iCnyiUB3SXLvJ19tXZN6f6kq3o7X2jaqHzkWvA=;8zqI3MBc6ksMMwAKBoZSVg=="

@@ -53,6 +53,36 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
+    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+    publishedDateTime: 2021-02-20T01:39:00Z
+    webUrl: "https://www.theedgemarkets.com/article/apple-said-be-talks-buy-selfdriving-sensors-key-step-car-plan"
+    type: article
+    provider:
+      name: The Edge
+      domain: theedgemarkets.com
+    quality: 37
+    images:
+      - url: "https://assets.theedgemarkets.com/Apple_20210206101732_bloomberg_0.jpg?zn6Z_C0P2dUr8ednsshTHcg_RqToJP9b"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Apple Reportedly in Active Talks With Multiple LiDAR Sensor Suppliers for Self-Driving Vehicle"
+    excerpt: "Apple is in discussions with multiple suppliers of LiDAR sensors appropriate for a self-driving vehicle, according to Bloomberg. The"
+    publishedDateTime: 2021-02-19T16:31:00Z
+    webUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/"
+    ampWebUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 32
+    images:
+      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
   - title: "Apple in talks with suppliers for AV sensors, report says"
     excerpt: "Apple is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-19T11:50:00Z
@@ -81,6 +111,34 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Apple in talks to buy self-driving sensors, key step in car plan"
+    excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
+    publishedDateTime: 2021-02-20T00:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg"
+        width: 1240
+        height: 827
+        isCached: true
+  - title: "Apple in-talks with LiDAR suppliers for self-driving car"
+    excerpt: "Apple is reportedly in discussions with LiDAR sensor suppliers for its self-driving car project. The report is by Bloomberg, and it states that the"
+    publishedDateTime: 2021-02-20T06:56:00Z
+    webUrl: "https://www.ilounge.com/news/apple-car-lidar-supplier-talks"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 24
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2020/12/Apple-Car-1.png"
+        width: 2296
+        height: 1498
+        isCached: true
   - title: "Apple in talks with suppliers for AV sensors, report says"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-19T16:50:00Z
@@ -94,6 +152,34 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
+    publishedDateTime: 2021-02-19T16:02:00Z
+    webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Shares of lidar companies are trading higher following a Bloomberg report suggesting Apple is in talks with lidar suppliers for self-driving cars."
+    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
+    publishedDateTime: 2021-02-19T16:50:00Z
+    webUrl: "https://www.benzinga.com/wiim/21/02/19751770/shares-of-lidar-companies-are-trading-higher-following-a-bloomberg-report-suggesting-apple-is-in-tal"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QbkDIxRIKwno28Lxumad99+N+P/3EeqZq8P48dvd6NsUsWwCDntN4WLOSQtA4tzt6K1MoIwzZwBqvcSkIMYSXv3yMGTBVlRqdKOpPmYTsRJsprPTQ5kleF8yBB4AWx1h7g/UQI0umyZKcAXx7d6T7sucnK+wC51AUS7Zjavc6GVfgl6S3XVV7URh3HJDDsusp2irdHHryK4gsRztIXe1KXSNcyfvId5iB1lNV0FfAtcjaRbOnRrtz5Kn6p7oemb8noAYMuqVASAJqLwuJKyeuYOu0/danu2pBzuNL21rP3I3f6tHALx3JKvih4Fb8AqooPxjB74EXeBZtC4G32FP1BQzyQ/0mnxk5auH5GMIjpg=;1WXZerh8mrPpsas2xGNMew=="

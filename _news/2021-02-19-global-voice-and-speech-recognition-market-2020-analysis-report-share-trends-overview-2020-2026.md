@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-
 webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
 type: article
 quality: 55
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,57 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
-    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic"
-    publishedDateTime: 2021-02-22T17:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
+  - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
+    excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
+    publishedDateTime: 2021-02-23T07:14:00Z
+    webUrl: "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/2/U223648370_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Appier Shares AI Predictions and Trends to Watch in 2021"
+    excerpt: "TAIPEI, TAIWAN - Media OutReach - 23 February 2021 - Appier, a leading artificial intelligence (AI) company, today shares AI Predictions and Trends to Watch in 2021. Artificial intelligence (AI) and machine learning (ML) have moved from the backrooms of computer science into the mainstream."
+    publishedDateTime: 2021-02-23T01:59:00Z
+    webUrl: "https://vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021.html"
+    ampWebUrl: "https://m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
+    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
+    type: article
+    provider:
+      name: vietreader.com
+      domain: vietreader.com
+    quality: 39
+  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
+    publishedDateTime: 2021-02-22T17:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
-    publishedDateTime: 2021-02-22T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
-    publishedDateTime: 2021-02-23T14:40:00Z
-    webUrl: "https://www.lelezard.com/en/news-19664385.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/theme/lezard2.png"
-        width: 500
-        height: 414
-        isCached: true
-  - title: "Emerging Gesture Recognition Market Aiming to Capture Largest Market Share with Developed Economies during 2021-2025"
-    excerpt: "Gesture Recognition Market report analyse the manufacturers with profile, main business, news, sales, price, revenue and market share. Gesture Recognition report displays the"
-    publishedDateTime: 2021-02-19T05:56:00Z
-    webUrl: "https://www.wboc.com/story/43377642/emerging-gesture-recognition-market-aiming-to-capture-largest-market-share-with-developed-economies-during-2021-2025"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
 
 secured: "otjFJqih6WYnLkmbV2O1g1nRil+3maxfO87a30N1U1OVYsPGZDNPqXKEvSP10Rt5CD/AKbNQ73eq/KQAxWkANqeMumHeZrF+sUoE5DvaE3wZEqpEDT7f9N330IhKDnnwKF2GSmsahOItuvLekdpdTTuGB1+0BvtFMkx87OB0wEU/B+6a6ABQ6nQ6QlpuTzctCrCstvXHywKH/a0ojowqXy7rCy8mSC6esUOdowmbi7H9zAQ/n0y/+NxIK4G27O44V+nf7mn+7wZMtNP/VHs2M7R+UIYf24PApJt0oHOdgJa/ucUC/6cofqwQGaO6XbJMtgKV4m/tL6+wRmjTsmPSiVqa9lomN7cBPA2YaqSAPyA=;3JzfZNXwEBdUSYnD98GpPQ=="
 ---

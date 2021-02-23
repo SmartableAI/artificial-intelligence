@@ -85,7 +85,7 @@
         "domain": "wsj.com",
         "images": [
           {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

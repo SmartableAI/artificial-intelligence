@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/european-space-agency-selects
 webUrl: "https://www.nasdaq.com/press-release/european-space-agency-selects-cgi-to-develop-services-combining-artificial"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,15 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "European Space Agency selects CGI to develop services combining artificial intelligence and earth observation for wildfire mapping"
-    excerpt: "CGI was awarded a contract to develop a new wildfire mapping service to help better map and monitor the impact of wildfires."
-    publishedDateTime: 2021-02-23T12:36:00Z
-    webUrl: "https://www.preventionweb.net/english/professional/news/v.php?id=76188"
+  - title: "Wundermart will implement AiFi computer vision technology at its European stores"
+    excerpt: "Wundermart will implement AiFi's computer vision technology into existing stores in Europe to remove friction at checkout, improve inventory management and deliver in-depth consumer insights, according to a joint press release."
+    publishedDateTime: 2021-02-23T16:32:00Z
+    webUrl: "https://www.vendingmarketwatch.com/technology/news/21211375/wundermart-will-implement-aifi-computer-vision-technology-at-its-european-stores"
     type: article
     provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 0
+      name: VendingMarketWatch
+      domain: vendingmarketwatch.com
+    quality: 49
+    images:
+      - url: "https://img.vendingmarketwatch.com/files/base/cygnus/vmw/image/2021/02/16x9/Wundermart_snapshot.60352cfec9ae6.png?auto=format&fit=max&w=1200"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "ASaNDYbpxMt8BAxgfb/jMJWjjxGEaN1GtAlaky3xpLf6TEcyCiGB7Fw4KjhV3yIApBcEih9ns/gOkfpLfmLN4PKzZUv4+Pna6OraQFXSYYVsMXUEg8GUCcsQYcHqrpLUoqwyXgtHyEKYZuM3J7vVTt3eJN3CF+FDemqsMhHixQ/dzYKzd8RUEE+040Qs7l5TYBbLo07SOVp+qJBwYa0WP3uATPlLldB2nVwddUVg97AQU6NFc9sDd15ay2ivOplLJc3FdS/VN3A9E2cIlMcNyujLVSChfVi7XB9jQ7hR1v/BfRqK77GhbcJ2HSVJhAI1phqYcyq7LbyQgrzpr967t0DvrQMAPea3FcE9+uk79uY=;BFrViBeBR5hFUTqLPN+h0Q=="
 ---

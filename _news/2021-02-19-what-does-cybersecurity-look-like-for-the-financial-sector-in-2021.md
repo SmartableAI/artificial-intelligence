@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm and Sophos strike cybersecurity deal that highlights benefits of 5G and AI in PCs"
+    excerpt: "The two companies announced that an Arm-compatible version of the Sophos Intercept X cybersecurity software application will be available on Snapdragon-powered PCs in the second half of 2021."
+    publishedDateTime: 2021-02-23T16:51:00Z
+    webUrl: "https://www.techspot.com/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 77
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-23-image-7.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "How This Bangalore-based Cybersecurity Startup Is Using AI To Automate Ethical Hacking"
     excerpt: "FireCompass helps organisations discover and test their entire attack surface continuously by automating Red Teaming."
     publishedDateTime: 2021-02-23T12:30:00Z

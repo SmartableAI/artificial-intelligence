@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Zenoss Brings Together World Experts on Modern Monitoring and Artificial Intelligence at GalaxZ21"
-excerpt: "Zenoss Inc., the leader in AI-driven full-stack monitoring, today announced that GalaxZ21 will be held virtually on April 22. The"
-publishedDateTime: 2021-02-23T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21-301233607.html"
-webUrl: "https://www.prnewswire.com/news-releases/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21-301233607.html"
+excerpt: "Zenoss Inc., the leader in AI-driven full-stack monitoring, today announced that GalaxZ21 will be held virtually on April 22. The one-day online conference will offer attendees a fully immersive interactive experience with free access to"
+publishedDateTime: 2021-02-23T14:47:00Z
+originalUrl: "https://www.lelezard.com/en/news-19664406.html"
+webUrl: "https://www.lelezard.com/en/news-19664406.html"
 type: article
-quality: 26
-heat: 26
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1442662/1200x627_GZ21_Social_lava_bus.jpg?p=facebook"
-    width: 2154
-    height: 1128
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "wVcafHOO5ioUayVdtYYs7Ow0vSdf5+hMiC7oPp7RfO6fufVMjQ4FoNmcmD+oXJk9AzezYheYQxG6X7t00rQCMygr+PcPYJ3FBQRCNARd635p7peZoxGxDDcAPYqKa4bdSWELGeVBbR9x7btPmlztA6uPAWUuaiCX9D8NIOAMghx7DSZfaCw/06mPN9uZs8SqvwzVcxsdTC4g7790nz2bY2rdt/W8yZhdGsJYM0/H4sWdc8vfYJSK+6jHLHDI2Wlk/a7pkSLK3C9ZTaHm8JQ1ovECVvMPcvnuCatcAqcfOYKn9wZTKa5yGljdYpFwgiB//YqWz15wWt+rhFnUCgh/WWrSZgT4Vm21iUuxEDle1hA=;Xw6gbmwZyhBiAq8sLzbDMg=="
+secured: "17kxAQI6q3NeGA/DUd49+JcFtOjUCMWaGDQfmn/QPu2thncGsv/iClE4yQLlynNOOC/dDgpqcCcB3zSwnVf7KdBUPikhSCEJpwd4J8/E0CwTWkMrYryS2GFjB0ZqgmK1rTmG295wWOJD3twg207yW4Cfbt55hLKIEWiIHmS4P7PBJZEivfwAdx6sXIbsISB4K/uxPEJQckSN6fg31sf66+k+V+Ny+vk3dkGfzp5q9d48pCGZIGq6C4lr7/3m+xPkOn1QT09V0FFAg4NgU5N6E4O5Xkx37olCgUmSwWrcxy2Yhsgv5CxRosx/4MqpbvU/Vz1TMFuBwiia30YjotUlk7f49yGWnRd1yB6dQfFJJMc=;SEkxsFNlDGjGEzWgXUVWKA=="
 ---
 

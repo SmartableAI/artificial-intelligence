@@ -39,6 +39,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Training machine learning models to be future-ready"
+    excerpt: "As digital innovation continues to accelerate, we explore the premise of machine learning models being trained to be future-ready"
+    publishedDateTime: 2021-02-23T12:46:00Z
+    webUrl: "https://www.information-age.com/training-machine-learning-models-future-ready-123493865/"
+    type: article
+    provider:
+      name: Information Age
+      domain: information-age.com
+    quality: 54
+    images:
+      - url: "https://s27389.pcdn.co/wp-content/uploads/2021/02/training-machine-learning-models-future-ready.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "Future of healthcare shaping up before our eyes"
     excerpt: "The future of healthcare is shaping up in front of our very eyes with advances in digital healthcare technologies, such as artificial intelligence, 3D-printing, robotics and inventory management. With the need for digital acceleration to support the healthcare landscape since the onset of the Covid-19 global pandemic,"
     publishedDateTime: 2021-02-23T06:55:00Z

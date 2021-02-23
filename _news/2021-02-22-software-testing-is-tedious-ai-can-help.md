@@ -9,7 +9,7 @@ ampWebUrl: "https://hbr.org/amp/2021/02/software-testing-is-tedious-ai-can-help"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/02/software-testing-is-tedious-ai-can-help"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How insurance can help build trust in artificial intelligence"
-    excerpt: "From transport networks to utility companies, insurance for AIs could unlock huge benefits for big industry and consumers alike"
-    publishedDateTime: 2021-02-19T00:07:00Z
-    webUrl: "https://www.wired.co.uk/article/hitachi-artificial-intelligence"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 37
-    images:
-      - url: "https://wi-images.condecdn.net/image/ZKp469QGmo3/crop/1440/0.5235602094240838/f/andrewjoyce_final_3-cms.jpg"
-        width: 1440
-        height: 753
-        isCached: true
 
 secured: "Am2vJTjbUu6+cbGoMmFpJHmhLhLLjV96iXyBpFqUV2qcPDjqYsizrEIAdLHcQ10BXnXYPfWI9mMCbcrsBoQMfWLg8MT8YgmzTuAohyWts7bU097ou7fC//py3iAOXG1vHmuJvTFu/JPprra5pHpcu8bVu/1BGAGMrcb0UWHMsCBLPtz3GY8nDptyWvnKjkY7AM0zEEDrpImgi4nVa7ExnxTSnD7NPHCSJIy94fUt67CYEybgi6bJMP3WkEVlThoV1GNSG68xTu95gv68WyBSiVJcOXB+RfvXMoIEmA9uPK/JJgS2OmuaQAzreyjs5EmQkVYcuzwbyaXcWtSL7TFySLkBAevLU4LlYEuEgwAgRm9a7vsyiezCXRObd4uT+9a/9al04U52k8c7mZP3Y+jnUpkcU/ZgYHSDg92TiaLCD5Q7e7ExDVXchEAV+hxmGafd0ezjzqsA6VJl7Hsmt1dwjrPq2ezZMPPE35+lAykGRK4kIjYTeJfu2085UpunfAIBtz61tFHaCg/kjMHrtkCW6g==;Yte4UgY/73kWPAc8foddWA=="
 ---

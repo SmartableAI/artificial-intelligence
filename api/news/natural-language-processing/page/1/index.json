@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-23-appier-shares-ai-predictions-and-trends-to-watch-in-2021.md",
-      "title": "Appier Shares AI Predictions and Trends to Watch in 2021",
-      "excerpt": "For example, a student may take content from one language and translate it to another. This is harder to detect, but AI is being developed to solve this problem. Similarly, image interpretation AI is being developed to find instances where arts students ...",
+      "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
+      "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
+      "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
       "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021",
-      "originalUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/Appier-blue-logo_2.jpg?itok=yIEiypcr",
-          "width": 763,
-          "height": 509,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176838131%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8400%26cropY1%3D642%26cropY2%3D5367",
+          "width": 1200,
+          "height": 623,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp",
-      "publishedDateTime": "2021-02-22T16:31:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
+      "publishedDateTime": "2021-02-23T08:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,8 +49,10 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
       ]
     },
     {
@@ -149,58 +160,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026.md",
-      "title": "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026",
-      "excerpt": "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -417,8 +376,8 @@
       "title": "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver.",
       "excerpt": "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software.",
       "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
-      "originalUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "webUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "originalUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -437,11 +396,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T02:34:00-08:00",
+      "publishedDateTime": "2021-02-15T02:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
+        "name": "WBOC",
+        "domain": "wboc.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1458,6 +1417,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-gomoxies-see-ai-wins-industry-accolades.md",
+      "title": "goMoxie’s SEE (AI) Wins Industry Accolades",
+      "excerpt": "Moxie®, the leading provider of customer guidance solutions, today announced that its solution, SEETM , an AI solution that delivers actionable insi",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "originalUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

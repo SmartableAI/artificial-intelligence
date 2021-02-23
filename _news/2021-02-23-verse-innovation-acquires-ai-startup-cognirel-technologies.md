@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/business/india-business/verse-innovation-
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: India Times
@@ -39,6 +39,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/aim_dailyhunt.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Five Companies Chosen to Participate in Startup Accelerator Focused on Accounting Innovation"
+    excerpt: "Program Developed by Global Accounting Group and CPA.com Fosters Emerging Technologies that Aid the ProfessionNEW YORK--(BUSINESS WIRE)--Five early-stage companies pursuing a variety of solutions in finance,"
+    publishedDateTime: 2021-02-23T14:52:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=426447"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 11
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "HmzGzHhjEX8WrWrggh6skRdHk2KOFRfC9gHzsd86g7ich9MR1s083UMDDXMH7Yr2xuij5ztcop8Nbumksru4yrOGcDEggc8IC9rtOuNhSWibHLDTKDiYPhbx7F3Wlzj3Y2xvQIxwNh1KWbL5kkcK4j9KM20ye5z0u2XCgb1tVFfBzR+WXoxkN8FtTSEqybh0GV0LekWm49HKdCQJcNOE62SpbGDXnX2DFYruQq6sGZEK/QohSY9Fyztbp0riLEel39WnshjyEcnS7lRiIMHBRZO/I7BI2ZfbK+w3fagh+0C32l4MunrfVaXikn2mYeil92BgouqSMyVWVe75BKcZEzzLx1segesRe86broEJxPo=;3dYn3CmOO8qZntFz9bCSAw=="
