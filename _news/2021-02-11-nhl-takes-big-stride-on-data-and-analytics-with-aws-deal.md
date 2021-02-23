@@ -1,20 +1,28 @@
 ---
 category: news
 title: "NHL takes big stride on data and analytics with AWS deal"
-excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on"
-publishedDateTime: 2021-02-11T07:18:00Z
-originalUrl: "https://apnews.com/5720b382cc681c7db9e7c871513456b8"
-webUrl: "https://apnews.com/5720b382cc681c7db9e7c871513456b8"
+excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+publishedDateTime: 2021-02-11T09:18:00Z
+originalUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
+webUrl: "https://www.usatoday.com/story/sports/nhl/2021/02/10/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/115459788/"
+ampWebUrl: "https://amp.usatoday.com/amp/115459788"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/115459788"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: USA Today
+  domain: usatoday.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "QlXVOewCLZnWu+vEZtWJmbt499eEkzeV2HHnRqhpUt2+U7omnVAoyoy4GAFnQY97OcFaUXFgIWjnUTzj1Yo51nIHMLYWTkPLaF1SBSpiavdCMfVqZepTwA5H8gi/FStYbMhopMFp9PooRNn3suA/9ZeS3Kb6yOz9WKOOA8SehxTrTF7HA4gi7ndeGFGK7D6XbIgSZgvGX39FsjdDFWDNMQLihzQdr4ltwakLr1mEw5ENzXQH9mb3IFA1c1QIggd40xvbY3zEXLDNS+jU0IgCPbA+zzi6vWikdaqZZPaHwgx0edfeql4X//dQhpfEKcPzCNnEcYD1b8XsxEy18h/I93eAKoEKWefMT6BU6kSB0GtrtQVXWZ4i+qhVWy2fxs5oh+x8fV+oMylMbeWFTlkpSykHEoUUDD7RJGei8p861zYQSoHnSPMFJCzLhkZVu9t+Ss7t+Z2mrNtnH9kT0jozyDkShUHrqiQBCgJ6aIXtxzYbTEA5lku6QsM/ZE2C18BE9uw0B+OJFPn6bpA/oco94g==;NzUZqSjr3tB01LArX7h/4A=="
+images:
+  - url: "https://www.gannett-cdn.com/-mm-/740a207bbec9f89126631fd62b1d0320f2e9bc83/c=0-157-3000-1845/local/-/media/2021/02/10/USATODAY/usatsports/ead979f8cbf645d5951e429adda246c4.jpg?auto=webp&format=pjpg&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "MVbo2iBz6B7c/iGtkWST5HNq1Sk15u2kyn3SCTfV32kWYbbn3cvhj9kIbw5bgmv1rlrkNxIXOD5a/E5h+L8a5+pF4vXYD3v9O7aPTtn6T+vMIrOkaPbWkPd++8lRfHAaJns89ATxIAXG2IaDVfubrYKdXjO4fXRAJvvigzQH5zcxuTU//NbR7ZjshucRwUf8vpgmw7Uq6TUXMfeoFdXsQw2RVJZ3VGO4hvTKcBJ9zAyuTTA4IzSCVNNzz8a6djknJxQrU5tAE5Wmj7pi/H5TQLg4W3EVFFj/ZpLWbXX/EusW5KotcvofjC0juald1ngiURFQ9G8FgUf7teUltf4QeY888TqjWLdbvoPCY1icu44=;6+mFGxvB7DAEm91M+eoenA=="
 ---
 

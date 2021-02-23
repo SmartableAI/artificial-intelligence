@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Quantifind Introduces Chinese Language Support for Truly Global Financial Crimes Investigations Automation"
-excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it"
-publishedDateTime: 2021-02-23T16:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-301232822.html"
-webUrl: "https://www.prnewswire.com/news-releases/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-301232822.html"
+excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has added support for search and analysis of Chinese-language data sources to its Graphyte™ platform."
+publishedDateTime: 2021-02-23T16:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-1030114178"
+webUrl: "https://markets.businessinsider.com/news/stocks/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-1030114178"
 type: article
-quality: 6
-heat: 6
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1442248/Picture1_Infographic.jpg?p=facebook"
-    width: 1070
-    height: 560
+  - url: "https://mma.prnewswire.com/media/1442248/Picture1_Infographic.jpg"
+    width: 400
+    height: 305
     isCached: true
 
-secured: "RsrW6GLDr+PTGSy60CUB9kTl+ysX1LPlyKcfQiXp5kLmHzL7EtaSqTTWdRUJOYaUfcq3gzPFSZ+2NLiM+29shH9xkuj6aMWxo3vfeHzK/VsAWbJkVuVyvhK0aAi0Rv9l8cy9YC63fRoyEr84dYNdoZo7swCUMGPbK6LL6xo/NTqw4bw1v5qeUDBw7+pQVFCEWsKGm+AMbocmjII0bDmdwdnUMie3IrTLvKju+Gz88YpXr4LtCRrsWM7QMrFAW+UsuaRpxAty/ABNZhHm/dLEu7e6wkMsPTBRH/1AWiYY7FLIbQ/NocxKz7ZVWf3hO9xapfukTsrJGR3lFM1Uuia8qzjwm81PDFfF4zbzGS3QtLs=;munGTunHoJ+jmtWewalkbA=="
+secured: "z5Blk96Bvddx7mOF96H403iIFw3O0VsTEoOnfN106faVprKSeHPuxDBRwDNiv80J8zfuXhcMrkf6OJPzgNyVE+n15txeV/ikQkW623yr7JkuvoYFO26XsEygcbHDOumxnEtqHPUTCvo+guKXocjl/0C79s+3v67wIsus7bZOHxUua0ShBY7grfEQauZYJBBGKIaZ7QK6+pjEzMIra/3rdXi324r0brjCtnJMnFdT7vFXH7cSosxOvQkDwnd4x/gCc7R2WASWoLe9mEd2qOsDjpnQsUzg3ZK7AMPcY4qpHciFlvpYmRiPiHHwcCsYX2RwoknX8hN4MPloM91eful39nH9fvImGSNi7ZV6Wzzr5xc=;uvKhEisBTcsy4gaxhYMkpQ=="
 ---
 

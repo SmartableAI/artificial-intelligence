@@ -41,6 +41,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks"
+    excerpt: "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost."
+    publishedDateTime: 2021-02-23T17:28:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 52
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Unleashing the Potential of Fintech"
     excerpt: "Unleashing the Potential of Fintech By Todd Nelson, SVP Strategic Partnerships Mike Petanovitch, Head of Technology, LightStream - What are the current market trends you see shaping the fintech space?"
     publishedDateTime: 2021-02-19T06:29:00Z

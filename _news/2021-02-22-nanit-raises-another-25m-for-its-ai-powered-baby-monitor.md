@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/health/news/learning-prostate-cancer-de
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/health/news/learning-prostate-cancer-detecting-dogs-improve-diagnostic-tests-2048589?amp"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -19,17 +19,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
-    excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network could learn from this olfactory ability, with an eye toward replicating it in novel detection tools."
-    publishedDateTime: 2021-02-19T02:23:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210217151130.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 33
 
 secured: "HK0Nl9wC7uyr80JY0fJCQ+76TUXGOc6Izjr/uTNdyIqR/n4iMAFGZ3U1eeBG2wmjzyts48DhTMfOr5eyLPmLpUxHES6C6fuP8dN8CTtXEen35Q5VFJxSCLyQXYmjfSk5D6AGZjSK2iylrQCwTfJLPj17ZYRdS8OtpnHusEsKuibCjoito8oWtx4uU3zOb1wwTzde7cMKvJ1qp5X6JAxnfivR1kWwEVh0Wqnm4zo9wK0thxyk9xWCgAlRG5cK3Qcqm2yf3u+rQXCIZEQKgFTqDJKPboDx33iVFthIxhTadoEAo5HBkzuizZ6/qEn0vu8ndTYMxtdGTW6HZSO6bXTpEivJ2YdReU5q0PdvgQSICf0=;AowjFsumR+KMWDH7P/J0AQ=="
 ---

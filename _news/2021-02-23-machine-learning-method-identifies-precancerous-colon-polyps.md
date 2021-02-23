@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning method identifies precancerous colon polyps"
+    excerpt: "A machine learning algorithm helps accurately differentiate benign and premalignant colorectal polyps on CT colonography scans, according to a study published in the journal Radiology."
+    publishedDateTime: 2021-02-23T17:59:00Z
+    webUrl: "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/16-machinelearn.jpg"
+        width: 1440
+        height: 1440
+        isCached: true
   - title: "Study: Machine learning method accurately spots premalignant colon polyps"
     excerpt: "A machine learning algorithm accurately identifies premalignant colorectal polyps on CT scans, according to a study published Tuesday by the journal Radiology."
     publishedDateTime: 2021-02-23T15:44:00Z

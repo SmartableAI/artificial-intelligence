@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-com
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://static.seekingalpha.com/uploads/2021/2/18/36303466-1613665289226179_origin.png"
         width: 687
         height: 244
-        isCached: true
-  - title: "Changing Technology Paradigms - Machine Learning in the Hospital Setting"
-    excerpt: "Changing Technology Paradigms - Machine Learning in the Hospital Setting By Dustin Roller, VP, Innovation Technology, ASD Healthcare, a part of AmerisourceBergen - As consumer technology continues to progress at an incredible rate,"
-    publishedDateTime: 2021-02-19T02:37:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/changing-technology-paradigms-machine-learning-in-the-hospital-setting-nid-25159-cid-36.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 38
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/1Jzu2ON4.jpeg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "06wYojtJvt5nGLPONlDM8BjZVuTDWAZIQ74uZ3y2ryrrbAZ0VsfeH76qG662by9JdEb9cEZgQgdK83rym2gMr1EnZs5e3bgb9M83KyB4t+Ai0I5ZoGo4ugsRvlxCPs0PV/VsARbQxWstNrvylkYjEEakEgKT3f7CzkwpRxsWxB1Zs+F3h9LZscGc+2g3HVryv7lbn/8vOXcO8UlNhwl/B27eYDm0jcqbZhlVd3iiCrRkJP1lVY9O1QAGATJ8c09rFlHdLV0Nc9wYVG18Qn3+dc3huTGlQrPi/UYwzEwAhEfC9lRIUm4zwNovoFe0KSESM4rwP8XVgs+6rCF0pUt6HvuDfCjggLNM8vp3LfCpIVI=;tg7ndLNMda75mYZwKgA+uw=="

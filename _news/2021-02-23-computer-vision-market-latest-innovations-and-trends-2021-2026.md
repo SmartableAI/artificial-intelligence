@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-inn
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
 type: article
 quality: 59
-heat: 89
+heat: 90
 published: true
 
 provider:

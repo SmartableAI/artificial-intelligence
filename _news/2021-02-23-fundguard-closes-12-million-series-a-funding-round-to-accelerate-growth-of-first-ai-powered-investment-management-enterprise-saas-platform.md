@@ -41,6 +41,15 @@ related:
         width: 657
         height: 657
         isCached: true
+  - title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
+    excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series"
+    publishedDateTime: 2021-02-23T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210223005106/en/FundGuard-Closes-12-Million-Series-A-Funding-Round-to-Accelerate-Growth-of-First-AI-Powered-Investment-Management-Enterprise-SaaS-Platform"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "X/p8z9u7Xo0PdUENs6ePXE7yoC0mVmp5NndzvLHH4RcIk+6QRR7vV1zHn+Fg2GS5bMiknDHMar7k5dc94EMDdBdyyljnNflk4nnD+OJM3wpcpqT6D9ewJtLQEt7YVgAHTiLkeVbinS7cOBPbc0bO4oQW68GksEL81/MBK82kD10GXXVcx0eYb4tbDEOlSYHVJDcO7l3FSvCmdhVHxyU1WmeeOOwhrIZcsAGZhBspM1uY76GmZkLK2VqBItBKcm4uzYK6+w1dbeSxVCLn4mfeEt14AzI9lomkO7U18EJ9EwD71NhIeQIE3n9FZNGXSWK5ScsZlxEBxoCy5z/ZrN0AESQ7n+WtdPG8XC9woblc7q0=;0h3TtzOiGsv6OR3dwiEjAw=="
 ---

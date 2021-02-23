@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-27-lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million.md",
+      "title": "Lynk, a “knowledge-as-a-service” platform with more than 840,000 experts, raises $24 million",
+      "excerpt": "Lynk, a “knowledge-as-a-service” platform that connects clients with over 840,000 experts in a wide range of fields, announced today it has raised $24 million led by Brewer Lane Ventures and MassMutual Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/",
+      "originalUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Peggy-Choi_Image-4.jpg",
+          "width": 2982,
+          "height": 1989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/amp/",
+      "publishedDateTime": "2021-01-27T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis.md",
       "title": "Japanese giant Nikko Global builds on Fintica AI success for market analysis",
       "excerpt": "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,",

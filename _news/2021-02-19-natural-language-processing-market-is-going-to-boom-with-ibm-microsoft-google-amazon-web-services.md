@@ -45,6 +45,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Microsoft CEO harps on data privacy, AI ethics"
+    excerpt: "Microsoft CEO Satya Nadella on Tuesday underscored the need for tech firms to develop products that ensure privacy of data, are secure and conform to AI ethics as well as fundamental internet safety."
+    publishedDateTime: 2021-02-23T18:28:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 91
+    images:
+      - url: "https://www.thehindu.com/news/cities/Hyderabad/4kp406/article33917323.ece/ALTERNATES/LANDSCAPE_615/hy23-nadella"
+        width: 615
+        height: 384
+        isCached: true
   - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
     excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
     publishedDateTime: 2021-02-20T19:12:00Z

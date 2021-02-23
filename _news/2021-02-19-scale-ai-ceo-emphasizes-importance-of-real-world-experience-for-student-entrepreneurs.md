@@ -7,7 +7,7 @@ originalUrl: "https://www.stanforddaily.com/2021/02/18/scale-ai-ceo-emphasizes-i
 webUrl: "https://www.stanforddaily.com/2021/02/18/scale-ai-ceo-emphasizes-importance-of-real-world-experience-for-student-entrepreneurs/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 2560
     height: 1697
     isCached: true
-
-related:
-  - title: "Google announces new head for centre on responsible AI"
-    excerpt: "Google announces new head for centre on responsible AI - Google has hired a prominent Black executive Marian Croak to lead its new centre of expertise on responsible"
-    publishedDateTime: 2021-02-19T09:27:00Z
-    webUrl: "https://www.siliconindia.com/news/general/google-announces-new-head-for-centre-on-responsible-ai-nid-215351-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 39
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/D2xhdZB8.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "ntB3I9D1/XaH0h/p5JuIuBarKN5B/8upyHSmXwXsTVDHlxNVYFFufEKk8B4htRmdZPKnKnGYz3Sc0YM39GMwh/JCNNEPcMIkZxliIf4ItWyDLWwZfjufXlYxaogcIF+MFjkCrPns9Xisa1MJZ3IDx0obpAEPoX5TBXT+b2gqEb7inTxwN1go2sbo2mfuwcDBdU2IcAjUdDiq2guIc9xSXl05AZg7+x7G0lNB14GcslCBGkz//lnvds9fFsIr2ikae2GPylT18qCt6J35Xu3bI4zxq46TRdQ8RwxliA7BKmjiDnDKHd33EedU0P9tGqLV1WoYQuSzvnx1cctfqQ/9dXVfqDvWzk9Iwia6BNrqNxLFUH/gL8V/6d1ZaqZojyOtVHvc+V1m2b7UXIKwHcc194LxFZWubNVS+faCPYaioC4pE5QywdIGP2nk36/nZE+hsSSm6qaOVNMaTngMbRPMqTnMbqKsF0xIG+qwAvMDOPraWaMfdpVb9T4EKvi0VEk7wGNsfns2CvrO11gU0/u/wg==;nvX/j5K3vGKjlsKxyFBYIw=="
 ---

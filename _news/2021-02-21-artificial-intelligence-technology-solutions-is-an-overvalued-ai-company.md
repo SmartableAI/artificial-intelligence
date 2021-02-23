@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Changing Technology Paradigms - Machine Learning in the Hospital Setting"
-    excerpt: "Changing Technology Paradigms - Machine Learning in the Hospital Setting By Dustin Roller, VP, Innovation Technology, ASD Healthcare, a part of AmerisourceBergen - As consumer technology continues to progress at an incredible rate,"
-    publishedDateTime: 2021-02-19T02:37:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/changing-technology-paradigms-machine-learning-in-the-hospital-setting-nid-25159-cid-36.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 38
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/1Jzu2ON4.jpeg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "SblG0G7qLB1zKc7YAwvsafNnHVvURSPE9nsc9rqASlncjvW1qihza20rorWN72aU0imPcN3Vz5j9zgvCUbuSXw6nKvkZSHmd3Lx/HisXvCdnIvE5b4nqTlfRPWczjeH/lOojhN/rQ/w0zXOK8toLbCehhybPga/96zLolhtZOtLWQjjfys8ET3TawUTR+jKVqMPf8Bt62SgDQpTe/dqtHV5SW7FrYjqLtN7pgr9LsO13wGUt704rWJCun8AuvIpxGJtU2PSVEh5T9UTxWylaw3maBN7szEZPnbVakbF6FcHvKsSbdr8JIYlbzgyxul75oxW2YZZ9ck+lp/+nxfjWnxesK8jz8jFuljIIsgA2LIcOJlZcs/mpKwDOC+Y6ic3uyXRiItWZ48uQrjPh9chGVYDDYYyIsztGCw2gdgNYhmRWhvPFO6rAIOdtgnxET/u2rBOJmRTTmWMfaQ5VWMN05RsbOHtYHM+/ckcNcFhmj3/JdqB1EWq4bNLSj6LV3nErloe0SRx4nGc+NnMcpPDBig==;B6YFBdDBC+OSHdbiVFi/5g=="
 ---

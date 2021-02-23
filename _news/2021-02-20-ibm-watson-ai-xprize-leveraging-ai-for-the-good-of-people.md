@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
 publishedDateTime: 2021-02-20T00:48:00Z
-originalUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
-webUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
+originalUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
+webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
 type: article
 quality: 54
 heat: -1
@@ -73,20 +73,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "IBM exploring sale of its Watson Health unit"
-    excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
-    publishedDateTime: 2021-02-19T01:41:00Z
-    webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://images.mktw.net/im-244594/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "IBM Looking To Sell Watson Health Business Unit – Report"
     excerpt: "I BM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that include a sale to a private equity firm, another industry player,"
     publishedDateTime: 2021-02-19T08:41:00Z
@@ -113,22 +99,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Considers-Selling-Watson-Health-Division-Report.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "IBM explores sale of Watson Health"
-    excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter."
-    publishedDateTime: 2021-02-19T02:10:00Z
-    webUrl: "https://www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health"
-    ampWebUrl: "https://www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/healthcare/ibm-explores-sale-of-watson-health.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 59
-    images:
-      - url: "https://media.foxbusiness.com/BrightCove/854081161001/202003/435/854081161001_6145981503001_6145981661001-vs.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "IBM Investigates Sale of IBM Watson Health"
     excerpt: "IBM Investigates Sale of IBM Watson Health International Business Machines Corp. is investigating a possible sale of its IBM Watson"
@@ -400,6 +370,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "MHFG233wWMAxfinBa3pivZhMLjwIp0Y/hyrXVM47qS9Z4KXFPNz4wlDrDO5Vvmh4jUZ0/5eLPJb++5BqcmxdUG4zpubNcUQav920YSnM/vAJKLn/UFy3ziGnMtFgAh/qUkx6l9AZlCFT08B9Ie4Vk2xVkDPA8AqWFjhuFeFQ6DP1PeOy7HmLMiuW5bBX2kcx1RyjY7lCofgH1IOq8R1EWbDMD4w4r1Atjf6W7Dq3DD//ssXREhBsyCTvkv3fPu52q2+mgV30fJaDHCdGIclNfYoS4WyJOUMkFO8nZASk6OlK/UvWw7Sb+kZID1PdXrIF0dcQQI83T1yGR2hWitrnIPUOzTinXg6aC4Q92ldk7ffBbkuoyX87DxqKiUYM39+UmTzb0F/9dzJoP96jKOxQagRQStxKmTMk+keFAdcygOGbM2Kdd11cOySWd2M2NhYLo/pMZokyrJUMvWyEGm26VYmyMQyeEWt1Ccz6mh9CQ8lla7ZqZNAHuFuHuP+xPLT86MsDceq75yAq9PLf0SIgrA==;45kACi9HQeLOmRLxpY/g7A=="
+secured: "gpGQZj9lh+osy8IWBzI3OP/fPP3s2e/P+vu2NCMrGjrkGH+HXzXYTWDcS/L7eqbA+TyB9iPyy2qr+5u6nDqm0Z/vsm2pi2hedgEn0KTm5RN1aLITFPq0CnOLKve4CjEDdfm71LhPAK/6Sj/1m0LSW3eKo/p4zEo5rnBUTGOnibC9wBUiSFVegVni+AkbwqK7TyKaItMyPyxXflU7H0+sOa60eq0jq3QTAN+2r5ehY2PhmbvRt7C2MeBWzAiqcJ6c1DwEWjKI98Rn/MDyyZ9vh/Th4bm1vdS8T4x5HrGuZ7BnNlJMLsxzTcBR1k2nqaHRL1hnJx4bodgoNBVyLQwz6CO/i6ns4CQeFqfY00/x/bI=;mRhhQE20IiVHjGEwP3I6wg=="
 ---
 
