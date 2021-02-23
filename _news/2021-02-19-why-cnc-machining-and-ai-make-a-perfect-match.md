@@ -68,34 +68,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning-Are We There Yet?"
-    excerpt: "Artificial Intelligence and Machine Learning-Are We There Yet? By Barry Barlow, SVP & CTO, Vencore, Inc - “Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has"
-    publishedDateTime: 2021-02-19T03:47:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/artificial-intelligence-and-machine-learningare-we-there-yet-nid-25067-cid-217.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/hYHO17PB.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
-    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
-    publishedDateTime: 2021-02-19T03:42:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Three Ways AI and Machine Learning Will transform Software Testing"
     excerpt: "Large and small businesses are searching for ways to reduce costs and increase testing coverage and reliability while providing software that meets consumer standards and deadlines. Testers are gradually turning to artificial intelligence and machine learning under these stresses to augment their research processes."
     publishedDateTime: 2021-02-22T00:00:00Z

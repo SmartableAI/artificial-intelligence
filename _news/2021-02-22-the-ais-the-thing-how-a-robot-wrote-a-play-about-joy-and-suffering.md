@@ -3,8 +3,8 @@ category: news
 title: "The AI’s the thing: How a robot wrote a play about joy and suffering"
 excerpt: "To mark the centenary of Karel Capek’s play RUR, Czech artists and scientists are collaborating on a work written using artificial intelligence. They tell Fergus Morgan about the process of turning ro"
 publishedDateTime: 2021-02-22T15:54:00Z
-originalUrl: "https://www.thestage.co.uk/features/the-ais-the-thing-how-a-robot-wrote-a-play-about-joy-and-suffering"
-webUrl: "https://www.thestage.co.uk/features/the-ais-the-thing-how-a-robot-wrote-a-play-about-joy-and-suffering"
+originalUrl: "https://www.thestage.co.uk/features/features/the-ais-the-thing-how-a-robot-wrote-a-play-about-joy-and-suffering"
+webUrl: "https://www.thestage.co.uk/features/features/the-ais-the-thing-how-a-robot-wrote-a-play-about-joy-and-suffering"
 type: article
 quality: 54
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 666
         isCached: true
 
-secured: "ektbyWOuPsSLDNpsP4RgLuiftvcSEn/4rnwo8gUTu393g9AS9Ou9m5xLe49faqNKvCp3KyTadLXuBaSVIYm1q7ueqLgjhqPSAu+a9r6PZEn+oEEMKk9KQYH3eKrgOE5rIkg8zJc8oCwXMyWslJbscbVudyxv27nzjSn4ISsEKdLChL7N+3PXpfwTaBgEoe2q0gRvA8KMAe9PWF6oM/p3gIHiJH+LN1nJDOQfAkVBrE0dUFQhHpJ6JLIGAmzKhP5e4IXppOCYH8o7WUlwz9y00XMQq0d4eDAKMhtoYz223eYGbEih1CJJ76C/rAn5nv/bb4eweKZlQYTo3XNvf+8NfgpQuZO0IRvXhTTg+wGsNkc=;3kNNuFOOYsQIPh2GepGTww=="
+secured: "Nl96SOef/6gntTZX1+CgP0J1EgQcLbD2IbtCnVj7bf6iXXeqZvcEBKZMJqvbsSAZJ8J4Yee0BZowEcjYpPl6zXxPJP+JnVXS5sVf7UeIpdoljjsa9YHzps59o26fEkIE9qFR6UajzjwqqcQ5H3Lfl/mEQiTw9T1REBy1pbc2jNy6VLPSdHg6RDUygPStXDRgrocIdSNCT5KYSDRzc0KpeVC0MvqbP0h+/uNk4HFqYj0wmueRD3Q9ZZqnKOu2hMr7Ss085uRYq7dq0t6Vaj03b8xfrQBBQm9QHJcxf8vLgG7IQKdaFjtv6uXrAticy/JYsdKI/O/4cHhB6/T7RkxB8MPzarkDnVIM0k2ZhiI8knY=;hTDO876r1KNYZue7Jp2YlA=="
 ---
 

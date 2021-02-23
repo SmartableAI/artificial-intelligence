@@ -69,34 +69,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning-Are We There Yet?"
-    excerpt: "Artificial Intelligence and Machine Learning-Are We There Yet? By Barry Barlow, SVP & CTO, Vencore, Inc - “Let me put it this way, Mr. Amor. The 9000 series is the most reliable computer ever made. No 9000 computer has"
-    publishedDateTime: 2021-02-19T03:47:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/artificial-intelligence-and-machine-learningare-we-there-yet-nid-25067-cid-217.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/hYHO17PB.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Transforming the Supply Chain Landscape with AI and Machine Learning"
-    excerpt: "Transforming the Supply Chain Landscape with AI and Machine Learning By Mark Welch, Senior Vice President, Supply Chain, Novant Health - The healthcare industry is evolving rapidly thanks to years of investment in foundational technologies and processes,"
-    publishedDateTime: 2021-02-19T03:42:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/transforming-the-supply-chain-landscape-with-ai-and-machine-learning-nid-28723-cid-256.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 56
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/YFq4E2Hi.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Embracing artificial intelligence to preserve dying languages"
     excerpt: "As more language preservation initiatives inspired by artificial intelligence emerge, researchers argue that while they cannot fully capture the essence of language, they are a crucial aspect of preserving what is now deemed to be a global linguistic catastrophe."
     publishedDateTime: 2021-02-19T10:17:00Z

@@ -6,9 +6,9 @@ publishedDateTime: 2021-02-23T18:30:00Z
 originalUrl: "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/"
 webUrl: "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/"
 type: article
-quality: 45
-heat: 45
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: insideHPC
@@ -18,6 +18,15 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI in Finance
+  - AI Hardware
+  - Google AI
+
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+    width: 325
+    height: 325
+    isCached: true
 
 related:
   - title: "Google announces new head for centre on responsible AI"

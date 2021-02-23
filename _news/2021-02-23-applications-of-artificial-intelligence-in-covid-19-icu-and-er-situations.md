@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size, Industry Share and COVID-19 Impact Analysis"
-    excerpt: "The global “ Artificial Intelligence Market Size ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23"
+  - title: "T-Cell Screening Launched to Detect Prior Covid Infections"
+    excerpt: "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n"
+    publishedDateTime: 2021-02-23T20:56:07Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: Microsoft
+      domain: microsoft.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg"
         width: 1200
-        height: 630
+        height: 788
         isCached: true
   - title: "The World Is Going To Hire Robots After Covid-19"
     excerpt: "After we come out of this pandemic, we could see a lot of jobs replaced by robots. Machines have always been predicted to take over the workplace way before the global pandemic. Oxford Economics predicted that by 2030,"
@@ -57,89 +57,19 @@ related:
         width: 900
         height: 563
         isCached: true
-  - title: "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast"
-    excerpt: "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019."
-    publishedDateTime: 2021-02-19T07:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19"
+  - title: "A remedy for COVID-19 learning loss?"
+    excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
+    publishedDateTime: 2021-02-22T20:41:00Z
+    webUrl: "https://msutoday.msu.edu/news/2021/remedy-covid-learning-loss"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: Michigan State University
+      domain: msu.edu
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
-    publishedDateTime: 2021-02-19T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
-    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SCARA Industrial Robot Market Present And Upcoming Trends With COVID 19 Impact Study | Adept, Epson Robots"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global SCARA Industrial Robot market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.biz discloses a succinct analysis of the regional spectrum,"
-    publishedDateTime: 2021-02-23T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/scara-industrial-robot-market-present-and-upcoming-trends-with-covid-19-impact-study-adept-epson-robots-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Agriculture Robots Market Size, Global Analysis, Business Strategy, Sales Revenue, Future Prospects, Company Profile, Developments and Forecast 2026"
-    excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
-    publishedDateTime: 2021-02-23T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/agriculture-robots-market-size-global-analysis-business-strategy-sales-revenue-future-prospects-company-profile-developments-and-forecast-2026-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/winstons-six-treys-push-msu-women-past-iowa-86-82/o/0/online-learning-1.jpg"
+        width: 1024
+        height: 605
         isCached: true
 
 secured: "pnqo11sLQ4AgDJccbBj12hz6IY9vAFRe/6rHt9dnl5WZuThhI8gL8NeATLJ+smPZtv6faBW36TV/CoLO8ozf1Yio+iAgvt9WWd45w96iOadSL96t9qpZWs2PzIdOpd1rJmYaOUGiYms5zdLDd1qiVJlrZAQRXi2/OgqE4splJ2SQOkyQ17wuewGhpsX23hW1WJ2SOHvpyQeKJ2ic/39tBc0XL1caM+FJXLHKeECZa+sUfb/yEkcuEhoWtQOKv8cY4ikF0oms9cd/paeKiDteim9/+X+4ZyH16FX6CtAAvElH94HPP4l8Gt6rKefavPJJIH0a8RSA8YofkKt2jp371Fq6EzrXN7nfff+KLXMfapkbEKZSiOiTB04e2qKtiVIHuLCU564VQS8p80ls2twOYzJLrcHWFxcmkKh3RwyPYTGajG1ygtq1vT2MywCvJMinVrVp9whwv3yBeoNwpD0GK1WF3RV7vHCMla+LinXnbfCspAUabLRcTCR9HCNB1xpuv2lszb/NTNzwbcGX885IYw==;cnh3yAellpZYLAtANl4K0w=="

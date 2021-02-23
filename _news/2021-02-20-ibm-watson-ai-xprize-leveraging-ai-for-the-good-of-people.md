@@ -1,10 +1,10 @@
 ---
 category: news
 title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health \"THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
+excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
 publishedDateTime: 2021-02-20T00:48:00Z
-originalUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
-webUrl: "https://www.supplychaindigital.com/sustainability-7/ibm-watson-ai-xprize-leveraging-ai-good-people"
+originalUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
+webUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
 type: article
 quality: 54
 heat: -1
@@ -180,6 +180,20 @@ related:
         width: 960
         height: 420
         isCached: true
+  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
+    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
+    publishedDateTime: 2021-02-23T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
     excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
     publishedDateTime: 2021-02-20T03:37:00Z
@@ -252,17 +266,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM explores sale of IBM Watson Health - WSJ"
-    excerpt: "IBM]] is exploring a potential sale of its IBM Watson Health business, WSJ reports, as new CEO Arvind Krishna moves to streamline the company and become more competitive"
-    publishedDateTime: 2021-02-19T03:39:00Z
-    webUrl: "https://seekingalpha.com/news/3663793-ibm-explores-sale-of-ibm-watson-health-wsj"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3663793-ibm-explores-sale-of-ibm-watson-health-wsj"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3663793-ibm-explores-sale-of-ibm-watson-health-wsj"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
   - title: "IBM reportedly looking to sell or spin off its Watson Health business"
     excerpt: "IBM, which already is planning to split into two companies, is considering the sale of its high-profile Watson Health unit to further streamline the company, according to a report in The Wall Street J"
     publishedDateTime: 2021-02-19T11:44:00Z
@@ -370,6 +373,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "gpGQZj9lh+osy8IWBzI3OP/fPP3s2e/P+vu2NCMrGjrkGH+HXzXYTWDcS/L7eqbA+TyB9iPyy2qr+5u6nDqm0Z/vsm2pi2hedgEn0KTm5RN1aLITFPq0CnOLKve4CjEDdfm71LhPAK/6Sj/1m0LSW3eKo/p4zEo5rnBUTGOnibC9wBUiSFVegVni+AkbwqK7TyKaItMyPyxXflU7H0+sOa60eq0jq3QTAN+2r5ehY2PhmbvRt7C2MeBWzAiqcJ6c1DwEWjKI98Rn/MDyyZ9vh/Th4bm1vdS8T4x5HrGuZ7BnNlJMLsxzTcBR1k2nqaHRL1hnJx4bodgoNBVyLQwz6CO/i6ns4CQeFqfY00/x/bI=;mRhhQE20IiVHjGEwP3I6wg=="
+secured: "9sfiDHiD/levceokzq9+XI4H7sJ8KerYAPxuCHId4eAignctMvZt3UzuvGnzQAiTzapG2asROimpasi8k6o2tPhfinRh6lnkij2avUH7zxZFFKDeqEbo2LS8ImXqYJhdZQ7vWCwBRh6y1AHSCL5Xz5Y6mjAs1UGu9G368Z9O/a6gzdFfwb8kqDGVH18NVpoEg05f0/AoN0WFuRTBfn1UjWUpFAnjoNDzzf04GBcXVEluQ/hOrHT/JrjP5FjbBFrNgE7CANVbh67PPvyxLdhkz22o2JJxJiezYDc399SytbEaiAuDi5mCyYhGl7OMJ5mdRBImSb/ZjiIHPMUnQQVFs2dAO7amsH7h7DJUa847UlQ=;M2VFHFIvZfCm1fa+3Ka48Q=="
 ---
 

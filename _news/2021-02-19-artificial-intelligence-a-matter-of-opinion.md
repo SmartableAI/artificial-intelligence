@@ -7,7 +7,7 @@ originalUrl: "https://norfolkdailynews.com/select/artificial-intelligence-a-matt
 webUrl: "https://norfolkdailynews.com/select/artificial-intelligence-a-matter-of-opinion/article_91afbef8-72d4-11eb-804f-472a682129b4.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,17 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI Is Changing CX, but Human Intelligence Still Matters"
-    excerpt: "AI Is Changing CX, but Human Intelligence Still Matters By Mike de la Cruz, CEO, Directly - Artificial intelligence is radically reshaping the modern customer experience, powering sophisticated support"
-    publishedDateTime: 2021-02-19T04:44:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/ai-is-changing-cx-but-human-intelligence-still-matters-nid-31323-cid-118.html"
+  - title: "Can your Investment Manager be both fundamentally and artificially intelligent?"
+    excerpt: "Can your Investment Manager be both fundamentally and artificially intelligent? By Patrick Dugnolle, U.S. Head of Multi-Asset and Quantitative Solutions, BNP Paribas Asset Management - Today from a marketing perspective,"
+    publishedDateTime: 2021-02-19T06:30:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/can-your-investment-manager-be-both-fundamentally-and-artificially-intelligent-nid-31256-cid-218.html"
     type: article
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 37
+    quality: 20
     images:
-      - url: "https://www.cioreview.com/newsimages/special/SPx8prnc.jpeg"
+      - url: "https://www.cioreview.com/newsimages/special/RxK1zX0g.jpeg"
         width: 300
         height: 300
         isCached: true

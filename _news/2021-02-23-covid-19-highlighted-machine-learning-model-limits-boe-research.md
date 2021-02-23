@@ -24,22 +24,6 @@ images:
     height: 234
     isCached: true
 
-related:
-  - title: "A remedy for COVID-19 learning loss?"
-    excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
-    publishedDateTime: 2021-02-22T20:41:00Z
-    webUrl: "https://msutoday.msu.edu/news/2021/remedy-covid-learning-loss"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 24
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/winstons-six-treys-push-msu-women-past-iowa-86-82/o/0/online-learning-1.jpg"
-        width: 1024
-        height: 605
-        isCached: true
-
 secured: "yQBtnNooYSKBgjMzWO3Q78vjlFAtajZs/Ll8W7u8b2oSfIaTdZCGjJALJAODWFaix0iYhOs87LvoL73l/mnYlFF573neSsYjCdXE3tuvJUg9DQvb1TWOId9z55zFYXANw7zIy+KAQHmBABi7bNn1m7WOZL/203RNgK+w7+dBZ1r39gD2n0oxTVw16m1S2nGsWxAbtO0mA09I8DDL8+RuOVjxtbNEvLO6adIo1zEGrrEOCa6n57vp+TRHDqUYp9nolKUhHK/6QeBoLAC+C2kvbhre+Gz+xHvn2cms8g+FKsxyKl0pPx/OLcVT7HI2MDkmtP9ciqt8fiIvzwfoC1Q9okdum2xabgdlDNwhKz1HsFA=;Ih7GrM3sZ9AOijRPQmFeBQ=="
 ---
 

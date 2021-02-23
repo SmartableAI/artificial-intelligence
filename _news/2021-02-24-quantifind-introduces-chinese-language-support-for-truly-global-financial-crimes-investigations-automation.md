@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Quantifind Introduces Chinese Language Support for Truly Global Financial Crimes Investigations Automation"
-excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has added support for search and analysis of Chinese-language data sources to its Graphyte™ platform."
-publishedDateTime: 2021-02-23T16:16:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-1030114178"
-webUrl: "https://markets.businessinsider.com/news/stocks/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-1030114178"
+excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has"
+publishedDateTime: 2021-02-23T16:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation/article_4b590db2-ee06-50e9-8b32-93854315ae83.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation/article_4b590db2-ee06-50e9-8b32-93854315ae83.html"
 type: article
-quality: 36
-heat: 36
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Finance
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1442248/Picture1_Infographic.jpg"
-    width: 400
-    height: 305
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ae/7aed76b4-fdb8-5ee8-b82f-6dc6c4368b39/6035635722f15.image.jpg?resize=826%2C630"
+    width: 826
+    height: 630
     isCached: true
 
-secured: "z5Blk96Bvddx7mOF96H403iIFw3O0VsTEoOnfN106faVprKSeHPuxDBRwDNiv80J8zfuXhcMrkf6OJPzgNyVE+n15txeV/ikQkW623yr7JkuvoYFO26XsEygcbHDOumxnEtqHPUTCvo+guKXocjl/0C79s+3v67wIsus7bZOHxUua0ShBY7grfEQauZYJBBGKIaZ7QK6+pjEzMIra/3rdXi324r0brjCtnJMnFdT7vFXH7cSosxOvQkDwnd4x/gCc7R2WASWoLe9mEd2qOsDjpnQsUzg3ZK7AMPcY4qpHciFlvpYmRiPiHHwcCsYX2RwoknX8hN4MPloM91eful39nH9fvImGSNi7ZV6Wzzr5xc=;uvKhEisBTcsy4gaxhYMkpQ=="
+secured: "gI49isNP3Rbm21QOj2d9xJQbg6yFPExnVa9bqZzAsq8DJc5omVDd5rBp/K7CDa31EhfVUDQjvuBuGqy1BChBSm+ep3sABft/7/nvjKDyrrrb7F4w6qrh0Bv2o8mBxeDKbsKeyzbcHQcRsky89b7VZqjiI4xI5tNSJDQ2Nunc0+ZNRepi8pt8PNdM7lez6SEWO6AHOt4VClKXxAmMcnN+94o5XduEYVPeQ2HgbztI3ZirxDtrnD+Pxp1gOcKOhwXLTybglwuV8vz5AMadOJxVl1r3HwLZ22RWdwAJCI43Zx0HwQ+rsEi3MGNgGjhxx0jySv3dCWb2AFsPgMTlV1Rjjkz8GofhmrA+Lr9FDw6n3RQ=;G3/o6GqDGjtGTdOtWWBvJw=="
 ---
 

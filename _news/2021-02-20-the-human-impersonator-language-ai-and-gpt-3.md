@@ -28,6 +28,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "AI Experts Discuss Implications of GPT-3"
+    excerpt: "GPT-3 took the internet by storm. The massive 175 billion-parameter autoregressive language model, developed by OpenAI, showed a startling"
+    publishedDateTime: 2021-02-23T19:55:00Z
+    webUrl: "https://www.datanami.com/2021/02/23/ai-experts-discuss-implications-of-gpt-3/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/brain_shutterstock_CNStock.jpg"
+        width: 1000
+        height: 707
+        isCached: true
+
 secured: "zIWP5J/JFjTZ0YbkN2TfyEMayrfSn/5ZeWIjn27o2OP/tqHTDWkJotfD8FgOZUPYgtIou22gRR81p6QrZWW4YO7yJvN04BO3WpVXbwS5wYb2APEuNyq4F9IWbL95MD3FqMVDh5/9yfi3zhGhoqDn+JrEwP4oJczVFOzHXT4WHMU0OBu7PBLzbDlesjqiQY9xCKzSQufiOTMa7nhzBsH0e29ieuG0TzF5+U8jciciQpc/vbIqWiHGvRS5/SZ1xefz455YT/xFqs2JSdUNf6xE3B9g4pTBBykIZ08lh8UTqCtepeyzCtyhH0A3TY0wM582KQ42Y9r+bfkLq2wdY7M4y5w81oDWyyUTP8PslmvuwadKIVV/UYT+NjzL4g4/XZ4rMy77UyGLGg48koxA41t9qJ9NDRNxuO9+PUQ8K7fmUvkOd9lXXkIV98sdZPpxkqHBmLSOHZC5VRkNHQzOu2OWV94ToQ9nPbfByEUvfXaS9WsLerLDmczyORXU8r5YCYBuJhTy7TDibVgJH9zkBvRnIA==;y6BIefY0vUEMyPwpmEjjSg=="
 ---
 

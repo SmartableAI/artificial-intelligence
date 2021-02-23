@@ -33,7 +33,12 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
-    quality: 45
+    quality: 71
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+        width: 325
+        height: 325
+        isCached: true
 
 secured: "a/1EGrcMyut1mZWz6uNEGqhFgby4FrqEhp/TZlkVuqvEj6BfSwhpf1UcDq20fQXAwFbSI1qfYmhbdoq6DQjZLMTefEtU/9eLg6Ohi/MAR6wV2zPgUv8QWEWQDMoqw5ecUOb7+jGFik8++4i5vbxX/xUQBPoOA0sgsniFEsrW5471hT/ysrT0Qppcb0bHl6PSMlTvaR0eRqTStToooVpFfjXuVi5SHCalafX0X6iKiIVpDlwKbUi7582GdW99xOa4NYKkA13BwsvpFQUBXRb5cjf5ahjNrJlXTIXaH7ImRiKMvd4PoKSTrtI3U3BNCYg+RCPje2cEFEEH/+uInXu7c8LihDhIoG9/tx4Bby/xIiI=;MUWxmNs4EkgBMuaCOoITLg=="
 ---

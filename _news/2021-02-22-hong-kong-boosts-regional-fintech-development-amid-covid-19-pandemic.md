@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/presented/business/banking-finance/topics/rd-
 webUrl: "https://www.scmp.com/presented/business/banking-finance/topics/rd-driven-innovations/article/3122207/hong-kong-boosts"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment"
-    excerpt: "How Recent Tech Developments and Transformations in Fintech have Impacted your Business Environment By Guillaume Wong-So, Director of Trade & Treasury Solutions – Product Management Americas, BNP Paribas - It innovation is currently having one of its golden ages."
-    publishedDateTime: 2021-02-19T03:05:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/how-recent-tech-developments-and-transformations-in-fintech-have-impacted-your-business-environment-nid-28633-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 10
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/T3ODdQs8.jpeg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "OW5gW7AqVz+xvegcu5mrts6YzO9sd+xv7HLHwo+mFehqwDLcMUghkgyV/DRuU9gjJTeu/lbEfsP/4w99iLXU9CCk+4ZMRXdN2khyefMk4PVqQPtP7w+MCsTokzh/1L/fOLzGZ5eFQIvKPtGBrW/x6wnOBZLyEZkgarnbrfuu2y9cQ/1WRP9E955BLDAq81riFrU60BSidrhjfSEjBNQpcbMlGD4YbeJY14VjUloPS8vARHpEL9NkHw/wLvU+dP23Dvuf0xpMj1yDfqInDZEDKaZwnfbpDsWTWBU0NnXUwFnn54YThbMhi1uIZ3tp4LmZEBnosn7nJoOfyO8+53ZX557ZDHyKA8+/3SjOQmCxFbs=;jLGllJQ/TKgv4gY8IjFTCw=="
 ---

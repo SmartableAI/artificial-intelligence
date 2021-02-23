@@ -43,38 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The World Is Going To Hire Robots After Covid-19"
-    excerpt: "After we come out of this pandemic, we could see a lot of jobs replaced by robots. Machines have always been predicted to take over the workplace way before the global pandemic. Oxford Economics predicted that by 2030,"
-    publishedDateTime: 2021-02-23T15:38:00Z
-    webUrl: "https://www.business2community.com/business-innovation/the-world-is-going-to-hire-robots-after-covid-19-02388135"
-    ampWebUrl: "https://www.business2community.com/business-innovation/the-world-is-going-to-hire-robots-after-covid-19-02388135/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-world-is-going-to-hire-robots-after-covid-19-02388135/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
-    images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/02/success-2917048_1920-900x563.jpg"
-        width: 900
-        height: 563
-        isCached: true
-  - title: "Applications of Artificial Intelligence in COVID-19 ICU and ER situations"
-    excerpt: "The overwhelming increase in critically ill COVID-19 patients, who urgently require intensive care units (ICU) and emergency departments (ED), has challenged healthcare systems worldwide."
-    publishedDateTime: 2021-02-23T01:32:00Z
-    webUrl: "https://www.news-medical.net/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 58
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/2/shutterstock_1698736867.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
     excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
     publishedDateTime: 2021-02-19T06:50:00Z

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "VerSe Innovation acquires AI-startup Cognirel Technologies"
+    excerpt: "Local language technology platform VerSe Innovation on Tuesday announced that it has acquired Cognirel Technologies, a Bengaluru-based"
+    publishedDateTime: 2021-02-23T19:13:00Z
+    webUrl: "https://www.dailyexcelsior.com/verse-innovation-acquires-ai-startup-cognirel-technologies/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 17
   - title: "Five Companies Chosen to Participate in Startup Accelerator Focused on Accounting Innovation"
     excerpt: "Program Developed by Global Accounting Group and CPA.com Fosters Emerging Technologies that Aid the ProfessionNEW YORK--(BUSINESS WIRE)--Five early-stage companies pursuing a variety of solutions in finance,"
     publishedDateTime: 2021-02-23T14:52:00Z

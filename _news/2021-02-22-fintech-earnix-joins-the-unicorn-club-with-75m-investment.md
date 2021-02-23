@@ -39,6 +39,20 @@ related:
         width: 800
         height: 392
         isCached: true
+  - title: "How UK-Israel collaborations are transforming fintech"
+    excerpt: "The pandemic has increased our reliance on innovation. Candice Krieger looks at UK-Israel partnerships and companies revolutionising the finance technology sector"
+    publishedDateTime: 2021-02-19T08:59:00Z
+    webUrl: "https://jewishnews.timesofisrael.com/how-uk-israel-collaborations-are-transforming-fintech/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 24
+    images:
+      - url: "https://static.timesofisrael.com/jewishndev/uploads/2021/02/GettyImages-834792042-1024x640.jpg"
+        width: 1024
+        height: 640
+        isCached: true
   - title: "Fintech Startup Earnix Raises $75M At Valuation of $1.5B"
     excerpt: "Earnix is a global provider of advanced AI-powered rating, pricing, and product personalization solutions for insurance and banking."
     publishedDateTime: 2021-02-21T22:41:00Z

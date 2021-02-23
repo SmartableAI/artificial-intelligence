@@ -60,6 +60,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Microsoft Translator gains text support for 9 more languages"
+    excerpt: "Microsoft recently announced support for nine additional languages for Microsoft Translator. The newly supported languages are spoken by over 170 million people around the world."
+    publishedDateTime: 2021-02-23T19:04:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 74
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-2018-2.jpg"
+        width: 800
+        height: 598
+        isCached: true
   - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
     excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
     publishedDateTime: 2021-02-20T19:12:00Z
@@ -219,6 +235,6 @@ related:
         height: 616
         isCached: true
 
-secured: "8m4NY5F2a6LwFuXWHxmdiAA9ordtY6Z0y55U2UCKEV36dkvNsFIbZv+ZX7SgHEiMxs8JBQXrW3nqzzsuyRC2MDp3HujJKYYO8f2aNCetGui281+Wwn1iIn8zT87L0gqJWJ7g8eUF+dUvCctF1Ak4A0vEbk+JsGDsA1WLLX5g4MlEXSr2ViHYDZ1soEbOLZ/4xyjiw3uqiRBIUcHY+k9d/38XwYpj4nclpu2TL6G/ZEN0w1qNGrYpuqQsy+Q9T2zaIsiE4M1+P+NscPfXGHviPnafoR6iLGfwz6F3B7MoKbERSMixDVvWvLxrclR/v9FSkSuEJDttpCY69un/6J5uWtS8ZNPGVTqfzJA5aRfHpWM=;4Esg7nlG7kBXzPY9d4IDAg=="
+secured: "mwpOgYvfG2gAKp2jkTdIgRiqlpuJ4UuFssZPTXufhnyavmoFi2ftnCe7x4SY9NEmisTNBCen35SZy3n0wJ5oayw9BOEnMMprUMAyJPFD6b1afZCgLzqgzxjZCRC2G7m8NJOLIcQSug+/QUXM8oYfKcLPklRvpQl7o1VooXq68Lb2kvi45AMdZdxx9V2mr5AOShyONV7tMMcxV7s2bII35/RJppvUmVyquUo+j+DcPzaplHdlv9lCYoFnjZeunwfbTynPxlOLGjeV1XyXp/jiDRsAYrkPgnvS8JTvERE+ddusKtUz9U/3hEEV84/tBbK9R7jFT31SmaDNrq6kVqiPKwi8by7eZeD2Qd3xqbd9VEF06YviH1E+vHSpbG/bdwzD5wG57HK992e5/UqHm6YJd3TBF7Q2+6i/H/jhjxaf7kPGJcKAqty1xh08ScMeXemBWxkb28lenS4WksKxph6k6FXfBHecGd09s6GyWVa9jYINMm66GzejmuGdUANpoE9RWZvA9xnCLJ5Mi0FlRC+EHw==;MaRj2ALrrkIWELs/+LIIlA=="
 ---
 

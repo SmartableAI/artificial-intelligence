@@ -61,6 +61,22 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Microsoft Translator gains text support for 9 more languages"
+    excerpt: "Microsoft recently announced support for nine additional languages for Microsoft Translator. The newly supported languages are spoken by over 170 million people around the world."
+    publishedDateTime: 2021-02-23T19:04:00Z
+    webUrl: "https://www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages"
+    ampWebUrl: "https://www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages?amp"
+    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages?amp"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 74
+    images:
+      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-2018-2.jpg"
+        width: 800
+        height: 598
+        isCached: true
   - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
     excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
     publishedDateTime: 2021-02-20T19:12:00Z

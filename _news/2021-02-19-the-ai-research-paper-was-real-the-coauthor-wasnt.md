@@ -32,8 +32,8 @@ images:
 related:
   - title: "The AI research paper was real. The “co-author” wasn’t"
     excerpt: "The name Cox isn’t uncommon, so he figured there must be another David Cox doing AI research. “Then I opened up the PDF and saw my own picture looking back at me,” Cox says. “It was unbelievable.” It isn’t clear how prevalent this kind of academic fraud may be or why someone would list as a co-author someone not involved in the research."
-    publishedDateTime: 2021-02-21T11:50:00Z
-    webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
+    publishedDateTime: 2021-02-21T11:54:00Z
+    webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1&start=80"
     type: article
     provider:
       name: Ars Technica
