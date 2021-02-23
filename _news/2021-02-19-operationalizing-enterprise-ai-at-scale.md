@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Optimizing AI for embedded applications"
-    excerpt: "In my previous blog I talked about how demand for AI-based interfaces has become almost unavoidable—and that adding an AI-based interface like face-id to"
-    publishedDateTime: 2021-02-18T21:16:00Z
-    webUrl: "https://www.embedded.com/optimizing-ai-for-embedded-applications/"
+  - title: "BMW Creates 67000 sqft digitalization electrification artificial intelligence and autonomous driving center"
+    excerpt: "Groundbreaking Held During Internal Ceremony with SC Secretary of Commerce Bobby Hitt. New 67,000 Square Foot Building Will Open in Summer of 2022. Spartanburg, S.C. (February 22, 2021)… Officials of BMW Manufacturing,"
+    publishedDateTime: 2021-02-23T13:40:00Z
+    webUrl: "https://www.totalmotorcycle.com/bmw-creates-67000-sqft-digitalization-electrification-artificial-intelligence-and-autonomous-driving-center"
     type: article
     provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 41
+      name: Total Motorcycle
+      domain: totalmotorcycle.com
+    quality: 19
     images:
-      - url: "https://www.embedded.com/wp-content/uploads/2021/02/ceva_light_image.jpg"
-        width: 1280
-        height: 810
+      - url: "https://www.totalmotorcycle.com/wp-content/uploads/2020/11/2021-BMW-Definition-CE04d-1024x682.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "SzKrMnKWcmcGxy2ANGer6D2FK/CiKYIQZnE9EuVJdJ40UFWPTklt94mItTzulsKUeIepJA7wcWpCQc+z89wc4wv60V+fr1tk1l7CskJWep8kuxQKKMTCaDurmLGaE/LGlcujuIeMne1L4DkcmQhAA4FV2Kv7HUq8tn6lz0RDQrkIvDugDx5JgLGRqvl4Mv4eh6cgUqBI92UceG9CFOLX1hU3swwOgSEs6XyRUULd2WcHUNFaBCcE8CEminEXQ8epmnBfcxXfwE9uowSvbo7QbBP4QGIZPBrBA9t8fISSIhwEyRSydCM8CGQS1r8N33HTu04QJVCzPjJDgDO09i2+PhmfJ7KV04hmJP+Ke4zwa/tPAq8MJ/ukI3xVQDhYFwz1IVXbRKkLUeNlIVz+2T3OHyNsDXMQlcupX+No/JppMgJxlv7EeVpNCgSYhW+nJzjABi4C71/o5QFtNfeQamQEdZYRYSgoko1qeSRmEjLFiutXLtCil6odJuqyTBTtw1n9GQa3mqvfk15t32xKAdUBBg==;nHI7r/XhdSa8Uru8a9Tw3Q=="

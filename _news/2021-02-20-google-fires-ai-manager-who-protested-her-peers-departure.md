@@ -2,64 +2,96 @@
 category: news
 title: "Google fires AI manager who protested her peer’s departure"
 excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-publishedDateTime: 2021-02-20T01:16:00Z
-originalUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
-webUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
-ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+publishedDateTime: 2021-02-20T01:19:00Z
+originalUrl: "https://www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+webUrl: "https://www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+ampWebUrl: "https://www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: abc27.com
-  domain: abc27.com
+  name: KRQE
+  domain: krqe.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://www.abc27.com/wp-content/uploads/sites/55/2019/06/cropped-abc27FavIcon.jpg"
-    width: 512
-    height: 512
+  - url: "https://www.krqe.com/wp-content/uploads/sites/12/2019/06/512x512-favicon-krqe.png"
+    width: 511
+    height: 513
     isCached: true
 
 related:
-  - title: "Google’s restructuring of its AI teams sparks further criticism"
-    excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
-    publishedDateTime: 2021-02-18T22:00:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+  - title: "Google has fired another AI ethics researcher for what it says were 'multiple violations' of its rules"
+    excerpt: "Google has fired Margaret Mitchell, former co-lead of its ethical AI team and colleague of Timnit Gebru."
+    publishedDateTime: 2021-02-19T22:40:00Z
+    webUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png"
-        width: 796
-        height: 417
+      - url: "https://i.insider.com/603036c1623bd30012bcc557?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "Google fires AI manager who protested her peer's departure"
-    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T16:53:00Z
-    webUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.html"
-    ampWebUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
+  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim"
+    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
+    publishedDateTime: 2021-02-20T04:51:00Z
+    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
+      name: Sky
+      domain: sky.com
+    quality: 76
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/googlehasfir.jpg"
-        width: 1024
-        height: 681
+      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims"
+    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
+    publishedDateTime: 2021-02-20T07:39:00Z
+    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349"
+    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+    type: article
+    provider:
+      name: Sky
+      domain: sky.com
+    quality: 70
+    images:
+      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Google fires ANOTHER AI ethics researcher amid row over ‘censorship & racism,’ as team member accuses company of ‘smear campaign’"
+    excerpt: "Google has terminated the head researcher on its AI ethics team over what the tech giant deemed a violation of its “code of conduct,” as the company faces an internal revolt over a previous firing of a black data scientist."
+    publishedDateTime: 2021-02-20T01:59:00Z
+    webUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/"
+    ampWebUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 45
+    images:
+      - url: "https://cdni.rt.com/files/2021.02/xxl/60306a1f20302750662557d7.JPG"
+        width: 1240
+        height: 697
         isCached: true
 
-secured: "NdL23E2pjHy666OfJv/EEq8cJZAlS+V+B2z/UvlMPAvWvCT5rJveaqBSk6COhqQRXoCOWZPqc9XWpi5rvHSFQLbqPNAEOYP+/2lqTmigEakjAtjWKzdE8pQp0GsfX6Mbvn3TCXP2/HTEu6lR/Qo8wXZilQisKuXEoCDNCEK4bdpwgYOdZx8HAcogihgYAebQdNjy1IDcaerrqKPlWzW9yk5JRMjF4ed2bNjRoVjAmVGNWHeUSOsMGaVcFM7BUHgPq0TGAIB5NOOsqYSyfICnjMOo9DW4tXwSDcJOpyaNJz+z19lX7DbK2X9a5zQ3FWXypGj7TQLSSEtGW1XbJ7UjiM0MCoW/iMZsA08MNSqtbsk=;G4nhKc78B19j0BdIavGdww=="
+secured: "9iM82sw0kDhxmMwVa/RtmTIbCTFn5j4wsLcvKx0ZWYVAUtAs73ji7Li7bCb+SSvNijvV1lR4TRp/+FYSF1jimMwkDaJ1PoGlrFonHGDJBvI8ms7mw7ZyDQDU6ABgdSkbtGyhneL70kIcbvGtAEZbGkTVV96nAspW2ol1z8bqe57IHtf47n3poMdK1rwvGiDjBnNiJv5tQnfx4c3eznrov3LUuxO1zWe2FiHyvHSobNF/+1mZa5jKa6USfoYeAZY7NvBDYGlSK7ahA1If+opz2ivbcvUV9Ii5Fg2K46pNBblP6vl82MK0hVkFwG9PlRdfBECWCdZ/Dyezmnl2mVkGe70bteTMVpENTr6iZs3QD6U=;x8V38eXzhfQtqj/sNude0A=="
 ---
 

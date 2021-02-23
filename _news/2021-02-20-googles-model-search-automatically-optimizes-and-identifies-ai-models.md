@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/19/googles-model-search-automaticall
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Studies find bias in AI models that recommend and diagnose diseases"
-    excerpt: "New research shows that AI models designed for health care settings can exhibit bias against certain ethnic and gender groups."
-    publishedDateTime: 2021-02-18T21:50:00Z
-    webUrl: "https://venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/"
-    ampWebUrl: "https://venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/healthcare-imaging-2x1-1.jpg?w=1200&strip=all"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Google Introduces Model Search, An Open Source Platform To Automatically Find Optimal ML Models"
     excerpt: "The search algorithm in the Model Search system imitates the ‘explore and exploit’ principle of RL algorithms."
     publishedDateTime: 2021-02-23T11:32:00Z

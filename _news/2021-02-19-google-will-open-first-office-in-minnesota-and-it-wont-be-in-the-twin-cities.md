@@ -7,7 +7,7 @@ originalUrl: "https://www.startribune.com/google-will-open-first-office-in-minne
 webUrl: "https://www.startribune.com/google-will-open-first-office-in-minnesota-and-it-won-t-be-in-the-twin-cities/600024555/"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Google opening office in Minnesota to advance Mayo Clinic partnership: 5 details"
-    excerpt: "Google is planning to open its first office in Minnesota as part of its ongoing health partnership with Rochester-based Mayo Clinic, according to a Feb. 18 Star Tribune report. Five details: 1. Google and Mayo Clinic partnered in September 2019 on a 10-year cloud computing,"
-    publishedDateTime: 2021-02-18T21:28:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-transformation/google-opening-office-in-minnesota-to-advance-mayo-clinic-partnership-5-details.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/7.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "ETQ4yYXCyxDNhHUtb/Q/PvILc7dqdgNyxb8qSGZOSUhH6Et1IF9dC+WEHErathiJ6YDrbh00tshyshH2CCvXRBvkUt+H/+EXRI2wpj7A0CGRNx6WCSyepABR7ecH1j8TUKo3XNjMS7v4b2zgfR7rnc5eBvPvDj9f1D9eOqeUzonBaf1fsDTCg8+2poa8DO0JF0Xe10wIQ/tLMQBVVv3CJ1ihf/8mPH4d9s/E6A5ZYTNuBY8npE0kmZJImANrUZ+3Humywqxeuq1XHB3bBpKJE2gmcHNLyVRtWWxkf3i6//YiXh8UrWeGgW+DBFOkLJE+4lRu/6YQqwXD4U+X4ova7Lxbt/2L1imcYAgTdJmw0OZMcQ/zdZngsmbR0s7zA1zyRcPuGxf7h25dVkBWX3eDYEYjlOVZw3x9Q9+4KOF5NL9vE5Ecobyuc+VRBpIuwvc9dbVYM8/zqeGnsPXqPftkQyZt+gIwPDQEiseVRrpC6a+uj2aWNNoMvZUz1moBL9q7RgU5nwjAcETfQymgiOD32A==;M9my/1q0qT7N7qbR/6AaEQ=="
 ---

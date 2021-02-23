@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41598-021-82771-7"
 webUrl: "https://www.nature.com/articles/s41598-021-82771-7"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 685
     isCached: true
 
-related:
-  - title: "A remedy for COVID-19 learning loss?"
-    excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
-    publishedDateTime: 2021-02-22T20:41:00Z
-    webUrl: "https://msutoday.msu.edu/news/2021/remedy-covid-learning-loss"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 24
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/winstons-six-treys-push-msu-women-past-iowa-86-82/o/0/online-learning-1.jpg"
-        width: 1024
-        height: 605
-        isCached: true
-
-secured: "6J1md0qRS8gOs8mG04vIrWmw7P2DykrXPOW4Nzt4NC+zHuW48bNrq+QAB3GxdkPwTzPs7coWea70rPD1qpRorLVwtil6A5FRtGEm+ZwzxwhX/z75AVD2NIZ4wcLEYo1VtICABp+lae7+A1w+W1kIWINuQEF/fmy6lqktDWaxJqOOc+00WQ2j9YvempbfgCEdatG40kHcWq4grvBLYcA5eqpGKCn05VcWx60Yhn4oy/m4aVntmm1IpvvfxELqEXpQGgSt9YXqXSdjs+cmhcI2UVi9nSOM/MdE9fgq7qVCDnQOa+O2Q4YOULWXxOxq185xOzwQ5laOv92J9jjjyS47lfBZaV4zVn8zlDxONHaSKyU=;Nqgvk5uUF+cOpSE/OirA9w=="
+secured: "pbqiUJRjYSbNu5Wlph4wNubTvny3LHsK9N8bTm1Gzlu4F+ugzbBVlMNOISEN7V0WjLrw9RXuKqVA83cQpxsX7D0mcRQNO2eHU6YlVgbuI4h3LEqfEoaf6OX2A5b8DYCMOmb46TN1xOSkuigJocSbihanrzJOKFAunaCqG51kqAh2GqEFI2sg54rBuAhaN+Xq0GaMnKyXtJmMIVQYHQqm8R7K9jxRQIL2DnObrg3m0egZQSnertQBpIGkTATLJCqQYBJfIOMPxEx7OpXzPKoEDwLsZulGIf2opSNrI4bkBk+W2gjlQVThYDa1NW0LVKpSDCr6IVdcCXeqnP43qiPbZtx7rvqN2UjJ8H8rIZKo8SzaqpqVmXiTYnGoqENtsSmqf6GMTX3dfUN6mXKAoTbyhC6N/ClifiKxd7+wBxF/OHVixwua7DnLpFBuvZL5f3hcGJamX/xPC8OcDbDNIatdiqVyxIlBBtYsopM+Xt/aPSDiOY4H8lixYKE3dG425aa8nVrvs3i3Khy9AoXfhRQ92w==;agktBAfY9KI1hdunVbWZCQ=="
 ---
 

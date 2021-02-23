@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Fires AI Ethics Co-Lead For Questioning the Company’s Ethics"
+    excerpt: "Margaret Mitchell, the former co-lead on the AI ethics team, tweeted on Friday evening that she’d been fired by the internet giant."
+    publishedDateTime: 2021-02-19T23:43:00Z
+    webUrl: "https://observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/"
+    ampWebUrl: "https://observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 74
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/07/GettyImages-1071952206.jpg?quality=80&strip"
+        width: 5048
+        height: 3366
+        isCached: true
   - title: "Google fires top AI ethicist"
     excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
     publishedDateTime: 2021-02-20T02:14:00Z
@@ -124,6 +140,20 @@ related:
       - url: "https://www.myjoyonline.com/wp-content/uploads/2021/02/117095662_7c1e1076-acc3-49f2-b2a5-900bb9a9f42b.jpg"
         width: 976
         height: 549
+        isCached: true
+  - title: "Google fires second AI ethics leader"
+    excerpt: "Google fired staff scientist Margaret Mitchell on Saturday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal. Google said in a statement Mitchell violated the company's code of conduct and security policies by moving electronic files outside the company."
+    publishedDateTime: 2021-02-22T00:46:00Z
+    webUrl: "https://www.itnews.com.au/news/google-fires-second-ai-ethics-leader-561325"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2021-02-20T022428Z_1_LYNXMPEH1J017_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
     excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."

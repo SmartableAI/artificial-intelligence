@@ -117,6 +117,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
+    excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"
+    publishedDateTime: 2021-02-23T14:35:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-is-hosting-a-virtual-gaming-and-ai-research-summit-starting-today-until-24th-february"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 44
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/phil-spencer-kareem.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
     excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
     publishedDateTime: 2021-02-19T06:35:00Z
@@ -145,6 +159,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Microsoft Translator now offers text translation in nine additional languages"
+    excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"
+    publishedDateTime: 2021-02-23T14:34:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-translator-now-offers-text-translation-in-nine-additional-languages"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 36
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Microsoft-logo-on-building.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "VW partners with Microsoft to build computing platform for autonomous vehicles"
     excerpt: "Volkswagen says it is further strengthening its capabilities in the development of autonomous or highly automated driving (AD) solutions with a new partnership with Microsoft. The Group’s software"
     publishedDateTime: 2021-02-19T16:45:00Z
@@ -158,6 +186,20 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/VW-Automated-Driving-Platform_Microsoft-2.jpg"
         width: 800
         height: 395
+        isCached: true
+  - title: "Microsoft, BBC, and Adobe Start Coalition to Stop Fake News and Misinformation"
+    excerpt: "Microsoft’s efforts to combat fake news now include the Coalition for Content Provenance and Authenticity, which aims to offer"
+    publishedDateTime: 2021-02-23T13:30:00Z
+    webUrl: "https://winbuzzer.com/2021/02/23/microsoft-bbc-and-adobe-start-coalition-to-stop-fake-news-and-misinformation-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 35
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/06/Microsoft-News-Microsoft.jpg"
+        width: 1024
+        height: 616
         isCached: true
 
 secured: "t868gJj4cPEjbXunvbdxIlUoGtIG5TJggMWu52ETM7r36ka715kXgjbIrX13Fuh8nsDT4NbNHBcNFiJqn3XyAnkX95fNNV6NKVfR7csEAmip7fK3FZJ4BkYdnhlreEldyz0ZdbHsa2xsem2eZF2MNxTH/XRkhfIPugAhYrkJWRYgh8s9jc6GikjVAiDk1rq0VDX/1+Q/4iGRMMCnk+CZhh0w7gn47Yynah1DcFtLC94viH6GhOvIOMqPN1rO4F2Rt9oo6aHY/Ggids1aHBwmms0HJylpHNcn3i6plD3ePlOxalMIOnqVpQf6wHA2Q/8LFU0hQFRCh+MniLbmvO4pZ2OXHzdJRrSaQFlX1Ukje81s42eTJwEXnY2xRgRirYBfY81LJj0XvYM5rzP+f4wc4DcSpJ2Yby1FW3SWx8e2k0N7ECg8J97Roer2/m20lfeazb2kwKeLEwAe1TGRZ8f8xm5V86epolN8uoLwnSM2ZNWNxgUWDGM5lG+sFw5qadMZa1CbEJdPDwtyss270uk+Qw==;lT/L09kdyPV8Mk4wKja7Iw=="

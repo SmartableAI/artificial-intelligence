@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
 type: article
 quality: 104
-heat: 194
+heat: 224
 published: true
 
 provider:
@@ -121,6 +121,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
+    excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"
+    publishedDateTime: 2021-02-23T14:35:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-is-hosting-a-virtual-gaming-and-ai-research-summit-starting-today-until-24th-february"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 44
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/phil-spencer-kareem.png"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
     excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
     publishedDateTime: 2021-02-19T06:35:00Z
@@ -149,6 +163,20 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Microsoft Translator now offers text translation in nine additional languages"
+    excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"
+    publishedDateTime: 2021-02-23T14:34:00Z
+    webUrl: "https://www.onmsft.com/news/microsoft-translator-now-offers-text-translation-in-nine-additional-languages"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 36
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Microsoft-logo-on-building.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "VW partners with Microsoft to build computing platform for autonomous vehicles"
     excerpt: "Volkswagen says it is further strengthening its capabilities in the development of autonomous or highly automated driving (AD) solutions with a new partnership with Microsoft. The Group’s software"
     publishedDateTime: 2021-02-19T16:45:00Z
@@ -162,6 +190,20 @@ related:
       - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/VW-Automated-Driving-Platform_Microsoft-2.jpg"
         width: 800
         height: 395
+        isCached: true
+  - title: "Microsoft, BBC, and Adobe Start Coalition to Stop Fake News and Misinformation"
+    excerpt: "Microsoft’s efforts to combat fake news now include the Coalition for Content Provenance and Authenticity, which aims to offer"
+    publishedDateTime: 2021-02-23T13:30:00Z
+    webUrl: "https://winbuzzer.com/2021/02/23/microsoft-bbc-and-adobe-start-coalition-to-stop-fake-news-and-misinformation-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 35
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/06/Microsoft-News-Microsoft.jpg"
+        width: 1024
+        height: 616
         isCached: true
 
 secured: "bUiKMhvPbyGKeBkbnRmmQ2cDsFPCpP4bG/4z+03LeJOfVygF9fJ6E6cmFzsXPzXkQ7eL4uRZmYL5lWdy03EKH5lHABS900SogVcQ3U+jGyHness0DRvvv+yCPIh0dM6gHiFmslgX0yTdaI/caYw4DNN0l3gzzWCnDPkLDnoZ7PaoFU1+1qYN1g6EVM/W88AC8OfAo20uk47Rbv5tFQIvAY6YKnoxdfBQdLEXupiJonUSzQP3uWoJ/7Ni94/Ztd01kFvmYH2Zu+7M4KC2oDVA8cM80mdWq15l7HeCbSpbtFQBlUSJO7EB8ZhjLulE4AlNcX9OSmt82cNlM95X1xeUt1p2Nq7C8MHJhrU5oyq+NOtbXOuln+UIr6jHWgbJRFYmHWLoCwQaasl7twMdR25BZ9+Wow5Ez4K5cgVJwqlLk8YtviS0NdFvgVDhvwnM6kx0Lh2el4RDZmbrd4LLAnpXUxAG+lYlAbY8UD/bm77I3i771WLk6Ja5fGmmPqWDBeelTWOePDgON1/ZJwfUzaT8Sg==;hrYjjq9a0pLEsVXDcQOSUQ=="

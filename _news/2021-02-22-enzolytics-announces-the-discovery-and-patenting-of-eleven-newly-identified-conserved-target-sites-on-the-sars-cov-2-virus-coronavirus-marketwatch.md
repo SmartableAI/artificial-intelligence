@@ -30,19 +30,14 @@ images:
 
 related:
   - title: "Enzolytics Announces the Discovery and Patenting of Eleven Newly Identified Conserved Target Sites on the SARS-CoV-2 Virus (Coronavirus)"
-    excerpt: "Production of Monoclonal Antibodies Targeting These Sites Is in Process in the Company’s Texas Lab COLLEGE STATION, TX / ACCESSWIRE / February 22, 2021 / Enzolytics, Inc. (OTC Markets “ENZC” or the “Company”) today announced it has identified eleven conserved,"
-    publishedDateTime: 2021-02-22T15:45:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/science-business-technology-public-health-government-regulations-0b52f59f596faaf39676631741de8d24"
+    excerpt: "Enzolytics, Inc. today announced it has identified eleven conserved, expectedly immutable sites on the Coronavirus against which it is producing targeted anti-SARS-CoV-2 monoclonal antibodies. This initial application has been filed in the U."
+    publishedDateTime: 2021-02-22T15:30:00Z
+    webUrl: "https://www.nasdaq.com/press-release/enzolytics-announces-the-discovery-and-patenting-of-eleven-newly-identified-conserved"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 1
 
 secured: "1GM1BdS1QkpnnYxPBw26egdjZFbw2Ispjj3QrG8JMfjbn1HkPO8QmlqXoMxp5YUQndlnJDT8mAIcMP/K3Ss4gBSKKQn/ynGJbiEIujW2drMQGiSC6B3rUEOPW7+IKpREEcFhZPTOAW6JLFTtNtvcU4qsQczie1jwEjrRp0riILykB2QuSLUhqHS7gLxA111kIKfPPIUzMI51jEP2WE/cAjWBZMFhM2up7ivySV4qoSnzwXJ5zAzIQw/1Z+CrOPtfseata16ZDf5TqKdfeD5tCr/Wi0G+6VLHW8x6f50m2jM73DeDkk6W5+rrllSq5DwKbKXLsGQDFIyDaBRWvu7bT7AtRCQa8faqclu2OSn+kas=;VI2fMrpDMW5KRH2y2Hfu7A=="
 ---

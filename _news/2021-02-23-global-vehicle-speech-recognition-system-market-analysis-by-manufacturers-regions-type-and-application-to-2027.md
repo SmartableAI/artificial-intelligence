@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-re
 webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-analysis-by-manufacturers-regions-type-and-application-to-2027-2021-02-23"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -29,31 +29,34 @@ images:
     isCached: true
 
 related:
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
-    publishedDateTime: 2021-02-22T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
+    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
+    publishedDateTime: 2021-02-23T14:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global $5 Billion Text-to-Speech Market Forecast to 2026 by Offering, Vertical, Deployment, Language, Organization Size, Voice Type"
-    excerpt: "The \"Global Text-to-Speech Market with COVID-19 Impact Analysis by Offering (Software, Services), Vertical (Enterprise, Consumer Electronics, Education, Retail), Deployment, Language, Organization Size,"
-    publishedDateTime: 2021-02-19T17:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-5-billion-text-to-speech-market-forecast-to-2026-by-offering-vertical-deployment-language-organization-size-voice-type-1030102742"
+  - title: "Cloud Natural Language Processing Market Share, Growth, Size 2021, Vendors,Trends, Challenges with Forecast to 2024"
+    excerpt: "Global Cloud Natural Language Processing Market Report 2021 -2024 contains systematic and point to point information regarding to Cloud Natural Language Processing Market Size. The report contains brief Introduction,"
+    publishedDateTime: 2021-02-23T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-growth-size-2021-vendorstrends-challenges-with-forecast-to-2024-2021-02-22"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Cj/2OaJeXHIDTw6kgT6bZlu05gRZlBdvfzYzxt/J7x5PkwDMCzdnrEzy+XOk7OWbyeZjgny4ixnONTm3kLQ6I6xUgE4SFKzTjxfc5Oshf/dDzXb25yyAucw1wMED/Mt1J4velrjV2FaQ2bwspc6R2YrgIbbJcVJiTI5g6hGOzrRqME32IqduYvVsM/Qkj7nze9wGihfUAp6MTzy6GHxpJukUJuDWVzOW7dA1qCljQqUzJbAi2kQTM5OTj2BtL1RQPn4U5EGp8Ik9LyrZL35RGQmQirZFJK0MHFZqR35Nbc4IksGBdvqTkLUOst6wITxnzrTNot3UofUx9RmpcR69ux29CmLugZ7tlWROG0sQ21k=;Sl+uVLCFugeIw+i1MAT1kQ=="
 ---

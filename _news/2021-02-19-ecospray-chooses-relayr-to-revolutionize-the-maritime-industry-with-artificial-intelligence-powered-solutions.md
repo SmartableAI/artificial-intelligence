@@ -40,6 +40,20 @@ related:
         width: 740
         height: 400
         isCached: true
+  - title: "RoboSolucio LLC Partners with Computer Mainstream Corporation (CMC) to Offer AI Puppy Robot COVID Symptom Detection"
+    excerpt: "RoboSolucio, an innovator in artificial intelligence (AI) solutions for mobile robot companions, announced today that it has signed an agreement with Computer Mainstream Corporation (CMC), an Atlanta-based company specializing in serving government agencies and municipalities with IT,"
+    publishedDateTime: 2021-02-23T12:30:00Z
+    webUrl: "https://www.djournal.com/news/nation-world/robosolucio-llc-partners-with-computer-mainstream-corporation-cmc-to-offer-ai-puppy-robot-covid-symptom/article_b16b92d4-27a6-54e8-bb3a-58230420e44b.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 32
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "f5ixDnGTwq9P4DF2vwNH2jaWo0qyJytgxFNFwJ5JIgP0Ru1/DPWBR1bXIk4KzsqLVXBdxUbAczoKoyPT3mBzsuNDsD9CJqsJvuIntrjTDG2eF5GDPXyOJrCZ9HiH9MOTtxcaiktHVHJ39xBsgGLk1z6/GgaNbWt0qxeGGO7n/mQWyZeSmDJzB2Lrnf16Ts4c3SQtQUDaCgE3XS2JlE9XJXYpGv4afM75xN5fbxVNOOoZyBfavgbbfmpYimvdXCAVmkZctSw58Oqf8mDjMWb8hLcrks5N+voHLvVh/0TMAhd2RS1EW3azjlnSXVWmRkANvlrmD+wCOzwCO6654MRNGIKBfkddkneCcP6JPL6UKaA=;qeMLLxhiKjclsm52Ota8tw=="
 ---

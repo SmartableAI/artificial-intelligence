@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Enzolytics Announces the Discovery and Patenting of Eleven Newly Identified Conserved Target Sites on the SARS-CoV-2 Virus (Coronavirus)"
-excerpt: "Production of Monoclonal Antibodies Targeting These Sites Is in Process in the Company’s Texas Lab COLLEGE STATION, TX / ACCESSWIRE / February 22, 2021 / Enzolytics, Inc. (OTC Markets “ENZC” or the “Company”) today announced it has identified eleven conserved,"
-publishedDateTime: 2021-02-22T15:45:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/science-business-technology-public-health-government-regulations-0b52f59f596faaf39676631741de8d24"
-webUrl: "https://apnews.com/press-release/accesswire/science-business-technology-public-health-government-regulations-0b52f59f596faaf39676631741de8d24"
+excerpt: "Enzolytics, Inc. today announced it has identified eleven conserved, expectedly immutable sites on the Coronavirus against which it is producing targeted anti-SARS-CoV-2 monoclonal antibodies. This initial application has been filed in the U."
+publishedDateTime: 2021-02-22T15:30:00Z
+originalUrl: "https://www.nasdaq.com/press-release/enzolytics-announces-the-discovery-and-patenting-of-eleven-newly-identified-conserved"
+webUrl: "https://www.nasdaq.com/press-release/enzolytics-announces-the-discovery-and-patenting-of-eleven-newly-identified-conserved"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Enzolytics Announces the Discovery and Patenting of Eleven Newly Identified Conserved Target Sites on the SARS-CoV-2 Virus (Coronavirus) - MarketWatch"
@@ -40,6 +34,6 @@ related:
         height: 630
         isCached: true
 
-secured: "EcryVji2MFtVpDHnYmMKzFRrXdHM0P9VTowBDz3/LGBZYlJc3D3l8FDGIMkNjnTQvrbFFm4emAxR9QFef74eqmr63TxZG6QdKrfcUrK/i9Jw5wyfXOX09xXJ4muCKhc/TOxmYkeyqVQgT+A3fIhwbxGQw69I+sY4MJhijm6IAAnconww6QzKTvWpS0uFUD0UAH0aLV8HreeKlTfzYkvWCKdt6CqKUR5Qrii3HxgEIw6tUF1kCgR+dvwsrIs5KVl7dimTM/RttJCZJegWnnIM2ACadorjKjcN3ln1/9okacCquoBXVHCF/hPTXRJLc6gac8/HxewRvzVS0ZFVB8pfF/LhFtIwV95NMB01fAPUY4I=;cbFNqUstB1wm73p8tXF9JA=="
+secured: "aGhFh3hynqsf7Zu8F3YCeu0uhnMbk2rVjHLBY5+xIZBsEfVZXYP99ultn1559tnEsHJPL/+DzDnaHt+3AjZcSTy10P+hfg+wFFu85GCCFdm5Tm6QqVVcUFR/GA6h8gsZhngIGASkFvR9cdq1cHJo/n7N9ndDA/Yl2710KbEY2uZwV1CFHXcQYMKPtTb4VBple52nxU5zthkzlHd+Qh7BKUm7Y9JH8+Pxowc6dhMuAzbsSZvXHif72XRYKrmJHLJlfRRUwlxr8q55s3FyGXCsp42oW0dB/hAc6tKDcZp1xlH2rnYh++30ftzvdeq4dc1ooR9VPZZCcptOj0I7gKUo5qhZCvovtqolqEnI8d5DQJE=;bwQW6bhZwSWp9C74Ko1pSw=="
 ---
 

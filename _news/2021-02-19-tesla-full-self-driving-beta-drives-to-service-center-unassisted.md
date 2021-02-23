@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan"
-    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-    publishedDateTime: 2021-02-19T17:32:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
     excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
     publishedDateTime: 2021-02-19T22:43:00Z
@@ -130,6 +116,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/71I6D5RL.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Apple in talks to buy self-driving sensors, key step in car plan"
+    excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
+    publishedDateTime: 2021-02-20T00:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg"
+        width: 1240
+        height: 827
         isCached: true
   - title: "Apple in-talks with LiDAR suppliers for self-driving car"
     excerpt: "Apple is reportedly in discussions with LiDAR sensor suppliers for its self-driving car project. The report is by Bloomberg, and it states that the"

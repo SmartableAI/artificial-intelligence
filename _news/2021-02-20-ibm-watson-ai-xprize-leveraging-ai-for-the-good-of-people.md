@@ -28,16 +28,16 @@ related:
   - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
     excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
     publishedDateTime: 2021-02-20T16:46:00Z
-    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 104
+    quality: 204
     images:
-      - url: "https://images.wsj.net/im-302017/social"
+      - url: "https://images.wsj.net/im-301391/social"
         width: 1280
         height: 640
         isCached: true
@@ -349,6 +349,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "IBM wants to flog Watson Health"
+    excerpt: "No longer elementary IBM is exploring a potential sale of its IBM Watson Health business according to the Wall Street Journal. The move is part of Big Blue’s moves to streamline the company and become more competitive in cloud computing."
+    publishedDateTime: 2021-02-22T00:00:00Z
+    webUrl: "https://www.fudzilla.com/news/52403-ibm-wants-to-flog-watson-health"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/959e1957ab760b8f64d1e6a9793b2ab4_L.jpg"
+        width: 620
+        height: 432
+        isCached: true
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z
@@ -358,6 +372,15 @@ related:
       name: Canindia.com
       domain: canindia.com
     quality: 19
+  - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
+    excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
+    publishedDateTime: 2021-02-23T13:16:00Z
+    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
+    type: article
+    provider:
+      name: Advisory Board
+      domain: advisory.com
+    quality: 12
   - title: "Will IBM sell Watson Health? Maybe it should, analyst says – but how would it impact Red Hat?"
     excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
     publishedDateTime: 2021-02-21T16:12:00Z
@@ -377,6 +400,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "5AkXC5tPtsxHfIBUcUawCEPNokkO6IbAKoXkTXUB4HR46hSxP+H8zg7iZEj4Jd/YXddeFNBL76HIYtC4xZ5MyZuH9glGIx7M3CmOWM2BS32ntUEm5lnTOC5Le3c+js6fw1oz3Z3m/6FJJS7dPf/UdWAsHWY6RLGgpkn30/mE3qCIzxkooDCs/f2L3ulfPaRJdHnicONiFnJL5O+t0edqX39huXXXGshC7elqtPznhuTA25sP7SEl9IXzPhPYAFl3LYr9cyM4dbQ+S5vakYAZsLtVk27oAopw5pDIXD24h8AQIUMfUN2BkJWdt4NCUaI1U322gqFUR2FJG+lXLq1i1+V/FyRBId3GfUMpBCLgFdQ=;7x+QPYUqfme649/JshJmzA=="
+secured: "MHFG233wWMAxfinBa3pivZhMLjwIp0Y/hyrXVM47qS9Z4KXFPNz4wlDrDO5Vvmh4jUZ0/5eLPJb++5BqcmxdUG4zpubNcUQav920YSnM/vAJKLn/UFy3ziGnMtFgAh/qUkx6l9AZlCFT08B9Ie4Vk2xVkDPA8AqWFjhuFeFQ6DP1PeOy7HmLMiuW5bBX2kcx1RyjY7lCofgH1IOq8R1EWbDMD4w4r1Atjf6W7Dq3DD//ssXREhBsyCTvkv3fPu52q2+mgV30fJaDHCdGIclNfYoS4WyJOUMkFO8nZASk6OlK/UvWw7Sb+kZID1PdXrIF0dcQQI83T1yGR2hWitrnIPUOzTinXg6aC4Q92ldk7ffBbkuoyX87DxqKiUYM39+UmTzb0F/9dzJoP96jKOxQagRQStxKmTMk+keFAdcygOGbM2Kdd11cOySWd2M2NhYLo/pMZokyrJUMvWyEGm26VYmyMQyeEWt1Ccz6mh9CQ8lla7ZqZNAHuFuHuP+xPLT86MsDceq75yAq9PLf0SIgrA==;45kACi9HQeLOmRLxpY/g7A=="
 ---
 

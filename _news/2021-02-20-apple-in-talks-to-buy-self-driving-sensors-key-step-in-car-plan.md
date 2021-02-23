@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan"
-excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-publishedDateTime: 2021-02-19T17:32:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
-webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
+title: "Apple in talks to buy self-driving sensors, key step in car plan"
+excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
+publishedDateTime: 2021-02-20T00:02:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg"
+    width: 1240
+    height: 827
     isCached: true
 
 related:
@@ -234,6 +230,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lKmVfS0Ui3CLhGmzOgFQ97QE8F3zxUdFnEaGXPglblONY8giiHbYVCnODgDoOttmwcoZPwOU1n3+QuCbU/aj1+p7t5NPMAW8SLgfySFVehgKhgGpJ9TMck8b7y2wSsJoEPM7S3xFJUMd1onZ9QQH0EZdaZ7zcQF1F1MA5RRDRNuM18GFZToMBSN0UkjeXYmd1UW6V97YolCBigc4skyyf0YtEQ3CI0GNHgfDAOH7LgkbntZGzv0go/6Go+nec+5Wy/uzaIefJoVWhiedsaMXnG1plYxAcajZC6RVeP5XLASDUDZXzNZ9K3xfJF3V2dOBp0jg6uxMZFmFerwN63PvxVzaHwYyOj0lSedarDmdT55EE5JD68L5VRwOmtZULg91X3qW0u83dpnhkz7D4kjUqQ/IRBYt2HVZx3tsIcjbrtHOwBVMniKVtBxwEx9QBKu0CCDHh+PzOgWgnDyOcJ0a5H7aBdqe+FbQdF0LpBPQb09N9YZSWasnyqPz1O0Uv2FetB0CcnGQsXSbk87ZGQluqA==;InwizHOB+GuX1Uf5VoLRFQ=="
+secured: "iab3FdJ90yX8BDmBLIcZqkpty6q3P29tlTdKJgBuBUWlvHch4Qc0NWCwLgKuWKsrHeNQHZM/BISpm7VUVc7gu83NN9UU4isKpFkc1lxZxmlA0ljn1I2lf5ku274TmAiWzXdiemDjL0f4WGjG2/43cZB1+SdPIQs0SVxwCBhddpAKU5FmDZzzFZ3SXrNuMzhES13ihp2kfLg74GUGAxO86g7GFAWDyjBHzainuwg9+/v7rQiVlNdRKjyumlKw53H1s0C3ozZSEiINd37Q9N4M2ECKYtgXQRM8eEbHfv1qH+umgbtnuqAQHrbwfZl9ZXJZdAaqo1DXPT4I/auaAxkgnc9yLFs+PgFmtlHl85QyCNA=;CjQBIilcnSW3gRWMQwfVtA=="
 ---
 

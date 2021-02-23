@@ -1,27 +1,27 @@
 ---
 category: news
-title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
+title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
 excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-publishedDateTime: 2021-02-23T11:01:00Z
-originalUrl: "https://guardian.ng/news/world/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/"
-webUrl: "https://guardian.ng/news/world/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/"
+publishedDateTime: 2021-02-23T01:41:00Z
+originalUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
+webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: The Guardian Nigeria
-  domain: guardian.ng
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://guardian.ng/wp-content/uploads/2020/07/Social-Media.-Photo-Econsultancy.jpg"
-    width: 1254
-    height: 837
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -85,6 +85,20 @@ related:
         width: 1070
         height: 713
         isCached: true
+  - title: "After Facebook, Twitter ban, Trump supporters, extremists turn elsewhere"
+    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders; banned from mainstream platforms, US conspiracy theorist and white supremacist movements, many of whom support Donald Trump,"
+    publishedDateTime: 2021-02-23T13:00:00Z
+    webUrl: "https://www.globaltimes.cn/page/202102/1216319.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 23
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-23/9bd16d7f-f4fa-4290-ae78-69703365e84a.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Local Facebook rival soars as boycott grows"
     excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."
     publishedDateTime: 2021-02-22T06:15:00Z
@@ -95,6 +109,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "w/rG+PmlBBuLSF7n+GIT1KG9PIrZLNPqhGC6XAUrAOnwEvUo+1D4PQfGEfegLxTlgkQ0uwGB+8CaESuMFGP4bG3vTziegsOR6HwN8dhirpLJSh/L2ALqaoOvu1x628VKdEhsvAF5oMXu6/tDHfgXEbMSG/42rRdO7AgYDVN8Kr/4CxsDN0dUOorBFBIJk2womQ/ba2F4c8XyLDFyspRHnAc0ELKEdVIzypnD9bS95bJMQ+tJkENO7C576c8KaySj9HkSv+kG9UlxdmG1C/YxcDj15BbSa+FVqW5PqH4XUHyy8HwHE4eKF11lMCFJs8vvahyvxmKNamHKDZmyyONIclPYb1ZkwnfmDtzyOVH3nU8=;9NeKFHy4nsuOURlZ8YMbUg=="
+secured: "N6e/b/G+QE8FPGP3P/7JuUkiK7juwWF3vi17z05/9Gb7wvCTP1Z9va+fxVz3gijAg1oVQJhxOeUsN4nTkCJAL1f+4Dv0FCe5Zonoawx032+Qjw4YfhcJReBiInPBwHYogKGY1PLaCXrLkysj+UbtpKSk/BG/dGH28W8JhuMKcEwnFujxfKTT8Gk1aGa6m0S3Has2HwpCD76FYHGKiTnGqZnDp6KU56vh3po5NXKoSRP3QXJNuWch+ytW1u/o7/MKB2W4eGAv8nLbTpcfFiVTSuPUzQOhoqTUp2UfEQ7XRkt+ex4/lPGqUDFIZZDRIc4SBa2MfFUnRj9pc7pKhqSxGcteKgzFs31us344g8enGzA=;eVokpmePZLSd+OsfMNt5ZA=="
 ---
 

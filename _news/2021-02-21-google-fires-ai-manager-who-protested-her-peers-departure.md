@@ -27,37 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s restructuring of its AI teams sparks further criticism"
-    excerpt: "Google has reorganized its ethical AI teams in the wake of Timnit Gebru's firing, sparking further anger from the researcher and her supporters."
-    publishedDateTime: 2021-02-18T22:00:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/googles-restructuring-of-its-ai-teams-sparks-further-criticism/amp/"
+  - title: "Second Google AI ethics leader fired, she says amid staff protest"
+    excerpt: "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
+    publishedDateTime: 2021-02-19T22:21:00Z
+    webUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-18T210326.083-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Google fires AI manager who protested her peer’s departure"
-    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:16:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
+  - title: "Tech Digest daily round up: Google fires head of AI ethics unit"
+    excerpt: "Share Google has fired the founder and co-head of its artificial intelligence ethics unit, claiming she violated the company’s code of conduct. In a statement, Google said an investigation found […]"
+    publishedDateTime: 2021-02-20T13:55:00Z
+    webUrl: "https://www.techdigest.tv/2021/02/tech-digest-daily-round-up-google-fires-head-of-ai-ethics-unit.html"
     type: article
     provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
+      name: Tech Digest
+      domain: techdigest.tv
+    quality: 54
     images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2019/06/cropped-abc27FavIcon.jpg"
-        width: 512
-        height: 512
+      - url: "https://i2.wp.com/www.techdigest.tv/wp-content/uploads/2019/10/Google-1024x576-1024x576-1024x576-1024x576.jpg?fit=1024%2C576&#038;ssl=1"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "708Lx4m3Kf9OeMGUlQmkIKOOzlAMJanayM2uyUL9NmN/ONrVbylMFzIplfa9zowKuLwRzAa29gsawl6nbR4NCuNRCpmORe8DtwltEZhxGpoFxeovrpKfGdurjOFjlAxt4icyxi5d00Sy5jMbstNa+ASWnSeXM2RMqI4a46aRlkC50wuJkyZ82iwaKgyUeKtBXXxOxE/WIaNndLy6QHHgh6eLiIEnUfWIHO0XElIl5V3/QFhyQeojh8XpUTgLlw9RxbaIOD/k9Ss6ROB/9sReQGK8ayQChTRJjW7d9TcpnVdYf6L3A8HLuhDCyrc4SB3vO+GJ80JQm0JJWUUDlSYfsegFdYM56Q1HBCyVqByXZVY=;EJtjrkkN2SubDRvULxmw5Q=="

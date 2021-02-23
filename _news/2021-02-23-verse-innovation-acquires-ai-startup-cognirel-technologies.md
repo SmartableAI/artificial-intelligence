@@ -1,31 +1,46 @@
 ---
 category: news
 title: "VerSe Innovation acquires AI startup Cognirel Technologies"
-excerpt: "With this acquisition, VerSe brings on board Cognirel Founder Ram Prakash to head its newly instituted AI Lab."
-publishedDateTime: 2021-02-23T07:59:00Z
-originalUrl: "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies"
-webUrl: "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies"
-ampWebUrl: "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp"
-cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp"
+excerpt: "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions."
+publishedDateTime: 2021-02-23T11:23:00Z
+originalUrl: "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms"
+webUrl: "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms"
+ampWebUrl: "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
 type: article
-quality: 59
-heat: 59
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Your Story
-  domain: yourstory.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/shutterstock414162808-1587643214924.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-    width: 800
-    height: 400
+  - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "cuZzrpuIbdvvhlu5RFrDKkVel0bSr8m3rdwNae+/RiLbchetp+7mC6i/OWkyB+CzNrFmhaXNB8mPLJ7rWq8RWIdsvBnCtbTy2q457uKBOLdpG4+/kcLEfWUMUiahOXK1IwTYPQW+7U6nP1q8N6eQUS/1uV2A+5aLMyVEqmRi/lp1f8znjYFX1ZC9OERpHHT07p1XfX3nk/KzzOG43X4WeBr9WMp8tTsKKzFfql1+D27VnyNsCZU1a3PkNW2lCwjgat6b6Ay7RKtT0IlkYdP6ERTi9VLt06sGqzZdgOMEGDM0WoTsTBzySi0cDG1eZKdgXUzAJWaF6GSyNkLveiQt15IT0QiSyqs803UlWDOImYwgThagYB+xzuw/TKzCYQiT4rfig09mI6Hn2tzZ4B/14b7jEm3tZWDdZAX0IgSzvWIF8GyCN4oeIwJOV309Yi6+XTQyyH8Pk9AxGiRNpSSpTwcmyPI/U++12IDhnetbkv72RnNO7iHEG3+1N/yKZnh1WqIXtJXTNFymnGaqnwW0uQ==;Uc/YqA3qe7r/fYTPN6Myog=="
+related:
+  - title: "DailyHunt Parent Acquires Cognirel Technologies To Develop Computer Vision Models"
+    excerpt: "VerSe Innovation announced the acquision of Bangalore-based AI startup Cognirel Technologies for AI and deep learning-based research."
+    publishedDateTime: 2021-02-23T13:04:00Z
+    webUrl: "https://analyticsindiamag.com/dailyhunt-parent-acquires-cognirel-technologies-to-develop-computer-vision-models/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 49
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/aim_dailyhunt.png"
+        width: 800
+        height: 600
+        isCached: true
+
+secured: "HmzGzHhjEX8WrWrggh6skRdHk2KOFRfC9gHzsd86g7ich9MR1s083UMDDXMH7Yr2xuij5ztcop8Nbumksru4yrOGcDEggc8IC9rtOuNhSWibHLDTKDiYPhbx7F3Wlzj3Y2xvQIxwNh1KWbL5kkcK4j9KM20ye5z0u2XCgb1tVFfBzR+WXoxkN8FtTSEqybh0GV0LekWm49HKdCQJcNOE62SpbGDXnX2DFYruQq6sGZEK/QohSY9Fyztbp0riLEel39WnshjyEcnS7lRiIMHBRZO/I7BI2ZfbK+w3fagh+0C32l4MunrfVaXikn2mYeil92BgouqSMyVWVe75BKcZEzzLx1segesRe86broEJxPo=;3dYn3CmOO8qZntFz9bCSAw=="
 ---
 

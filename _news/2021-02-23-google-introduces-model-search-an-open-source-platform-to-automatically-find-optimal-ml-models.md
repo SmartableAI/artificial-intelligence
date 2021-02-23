@@ -42,23 +42,7 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Studies find bias in AI models that recommend and diagnose diseases"
-    excerpt: "New research shows that AI models designed for health care settings can exhibit bias against certain ethnic and gender groups."
-    publishedDateTime: 2021-02-18T21:50:00Z
-    webUrl: "https://venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/"
-    ampWebUrl: "https://venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/studies-find-racial-and-gender-bias-in-ai-models-that-recommend-ventilator-usage-and-diagnose-diseases/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/healthcare-imaging-2x1-1.jpg?w=1200&strip=all"
-        width: 1000
-        height: 500
-        isCached: true
 
-secured: "sxR3CVRMLyQi2Z6O8xDFbOaHKQ3ZOYCkuqqUH2fpZJe4VJO+0ennHcwfq74ERebjTXX/0kYTq8Jphd6HRHm5IPgKD8a5fo5ky5YvxTEkGid0PJm0xjgCn3n2piEG4sjTUrL766TIg8c14Y4UCjtW/LPwUfHkDgdpkcqIIXTRoEalbofZHetw5WM6IQKmNqSaSEWD/2wn+Yu6SlsBLSPYz8+lZR8Ai/mX7gw58fGbEujHjJNz64s/6+I8CoEyX4Hpobu4vFqIrWVrIakQa3K0aiIqXwzaoT2zD9fDn9kAbKh+oe6BoV/TPoznfE49BlJAi/lB/6YJZbEc+IATVI5HJFjkPRJ65rtFGG2hyZoGfGI=;xuJEpXi+XQkv4InuJE3BWA=="
+secured: "3QThqZ/UcUCEVabctQ2czy4OYqR6mTRsMeSHuVE0XnpeKvVZZEkeffYRpY8uP2qoOxmr1/KKBBMYFrRYhGj0TWb4IaXmgr5wle5C7zFhofsxMErC1kUn+oEdQD8TWEzSJ1WGtyC7pkkOlg7MxO2KHOswch7F4FtHhcA9i8VI8tgf0hc/mnrF2edKJNtQqO/Lpv4NKb1iKLNswsUogzkvLcJCoNCb6VCoBJ9vTaghcuVU/gA9HWl2lY7QdHVNgqhTtKgdJLuPFRdmQYhAyx+OwLZUL7fZ+lKEYOBCfR9JSnjcam1bOHTfdpOpqGvBDTko1Wj/d9fsROcl9EfgYdsNNQ+b/4BM0Vi3aJ0Inm/+tp7uUSdFtGY2rpXrP3j7OwfpUkPCenODr77CMiBL2bbz4bWHupj/cbIPUnGwsEV3HT9nuWbiZ1gP4oZ30NmQpbRm5m7A/XBpIudrBkkYeyQ9ea2a4sOR924dt04Dew/LpFZyOEWxM43q72fXblhCR0TlQa246pa1DxIds/olRlEM0A==;x3+sZaCvR0BO393vXF+dBA=="
 ---
 

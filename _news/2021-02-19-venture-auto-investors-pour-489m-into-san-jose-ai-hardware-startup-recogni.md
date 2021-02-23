@@ -35,6 +35,17 @@ related:
         width: 735
         height: 490
         isCached: true
+  - title: "Autonomous driving: Continental acquires minority stake in AI chip start-up Recogni"
+    excerpt: "Need for high-performance processors is growing, with increasing requirements for networked, automated and autonomous driving Production rollout of new ch"
+    publishedDateTime: 2021-02-23T13:00:00Z
+    webUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/"
+    ampWebUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
+    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
+    type: article
+    provider:
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 48
   - title: "Continental invests in the future of chips for autonomous vehicles"
     excerpt: "Without faster chips, there will be no networking, no automation and no autonomous driving,” emphasizes Frank Petznick, head of the Advanced Driver Assistance Systems business unit at Continental. “Through our own research in the area of new chip designs,"
     publishedDateTime: 2021-02-23T09:18:00Z

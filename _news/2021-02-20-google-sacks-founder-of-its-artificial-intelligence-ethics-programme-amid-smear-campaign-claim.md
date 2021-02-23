@@ -27,17 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Second Google AI ethics leader fired, she says amid staff protest"
-    excerpt: "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
-    publishedDateTime: 2021-02-19T22:21:00Z
-    webUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest-2021-2?amp"
+  - title: "Google has fired another AI ethics researcher for what it says were 'multiple violations' of its rules"
+    excerpt: "Google has fired Margaret Mitchell, former co-lead of its ethical AI team and colleague of Timnit Gebru."
+    publishedDateTime: 2021-02-19T22:40:00Z
+    webUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 84
+    quality: 88
+    images:
+      - url: "https://i.insider.com/603036c1623bd30012bcc557?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims"
     excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
     publishedDateTime: 2021-02-20T07:39:00Z
@@ -54,19 +59,37 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tech Digest daily round up: Google fires head of AI ethics unit"
-    excerpt: "Share Google has fired the founder and co-head of its artificial intelligence ethics unit, claiming she violated the company’s code of conduct. In a statement, Google said an investigation found […]"
-    publishedDateTime: 2021-02-20T13:55:00Z
-    webUrl: "https://www.techdigest.tv/2021/02/tech-digest-daily-round-up-google-fires-head-of-ai-ethics-unit.html"
+  - title: "Google fires AI manager who protested her peer’s departure"
+    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
+    publishedDateTime: 2021-02-20T01:19:00Z
+    webUrl: "https://www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+    ampWebUrl: "https://www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    cdnAmpWebUrl: "https://www-krqe-com.cdn.ampproject.org/c/s/www.krqe.com/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
     type: article
     provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 54
+      name: KRQE
+      domain: krqe.com
+    quality: 59
     images:
-      - url: "https://i2.wp.com/www.techdigest.tv/wp-content/uploads/2019/10/Google-1024x576-1024x576-1024x576-1024x576.jpg?fit=1024%2C576&#038;ssl=1"
-        width: 1024
-        height: 576
+      - url: "https://www.krqe.com/wp-content/uploads/sites/12/2019/06/512x512-favicon-krqe.png"
+        width: 511
+        height: 513
+        isCached: true
+  - title: "Google fires ANOTHER AI ethics researcher amid row over ‘censorship & racism,’ as team member accuses company of ‘smear campaign’"
+    excerpt: "Google has terminated the head researcher on its AI ethics team over what the tech giant deemed a violation of its “code of conduct,” as the company faces an internal revolt over a previous firing of a black data scientist."
+    publishedDateTime: 2021-02-20T01:59:00Z
+    webUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/"
+    ampWebUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
+    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
+    type: article
+    provider:
+      name: RT
+      domain: rt.com
+    quality: 45
+    images:
+      - url: "https://cdni.rt.com/files/2021.02/xxl/60306a1f20302750662557d7.JPG"
+        width: 1240
+        height: 697
         isCached: true
 
 secured: "4EbHdqtFZBLEil7KALwvwNyzV7Y1+QFp3/NU9Z5M6ajDYC90N+OukGDOz9G+LkkGCdpnij3R6TMmzVOB578rJqQBLjJRr4OWAMefTHAYfqD9b97b7kORjZPTrKY+rz1yQEx6nMhBWbbwXrsgcPT46+9U4uNlCxLz1Zhq7WxFi3nhD9Hz/d5wamDXoWfixcuxkiDRMCyLZVd/wY/6gdqV2jPN1letmmO0G4QF9w/lUy/ykWlFYYppN/dtnyR3+2s5LY1iFBzEbR4mLlYH/0wZZmLVPOaLjP69CElOCvliEUr8sj0kP1uz3F38fLZcrMk4G+itTEjVQ2z5S+6QhVSNPNSB64XbCbJYc3+1e+TGvAEwL67atMefoikcZ4YWFxTFCCrjP0sDHhaGfdERby+3VWDCI/VVBNe+tewswG/wQH2mJl7XQGnM8GP9FXO0HcbU0OnTre8I62KFXkYsIpKEJ7R3eTCAb1oEvVxAD7XGO/a9p1Taz0pA3RAEcIVBsx3MnY0odoosEt9QMtSAr0qvlA==;cVthaQtY3wkmGZ3VNCniNA=="

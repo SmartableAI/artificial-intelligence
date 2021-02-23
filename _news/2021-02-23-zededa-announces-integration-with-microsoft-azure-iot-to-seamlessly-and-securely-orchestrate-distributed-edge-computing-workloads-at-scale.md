@@ -1,29 +1,23 @@
 ---
 category: news
 title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
-excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers with full lifecycle management capabilities (edge hardware,"
-publishedDateTime: 2021-02-23T12:24:00Z
-originalUrl: "https://www.lelezard.com/en/news-19663291.html"
-webUrl: "https://www.lelezard.com/en/news-19663291.html"
+excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
+publishedDateTime: 2021-02-23T13:07:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
 type: article
-quality: 20
-heat: 20
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "qu+YIqq23qDeWl2ZWMMew9W1+nKUKtlhGISFcke9LZ2u3xhc0CW4HB+7ljg0cCXxWDYTa1h0OvSnm5oUla/6wWg/j+e6AuGjJft5ARBcSpV7CJWOpHEhgEeCYAGrEyRyXg3g3LIrWqbm6hXMMFJDWN4x5b4F6XYoDGU6tAHDDBpuAOpvkgWASBKa2a4JnK+9RzZVRgKvjLduGFvGCLPGY9EZa/1ysb9Siigz9wOngjLpMri8PlUhsJe0ZXp4QjunBSHxkinNEm2PuufNddIfUAdWLI0H8iIrCfPg9EJkLF16GA7iORBy5Zf6DHGldWMFDUbTDASse30MhCdNiU/5Mh/DxBN9lrqLg6t242ol/sQ=;sQK7ZxRSWTijirDOS+QsAw=="
+secured: "ccuTJmQAQBIVISOXtVT1d4Cj0Ut2yNLuK5JiIWShm3fB5FTu2v/D1wVmutcy+n49SXfb8UIoewpWvstyUo99QIvJ8jKE7nVarR888DvZSVYm5cAJlwZ2lkrzJx9JvtSGg7dv+HvkTfQxQF8WvGdR/5UJHrmNVw8Zl3GcJ2Bp3gBu1ns5RLLnDSmJkd5tFB4gahmc8e87z4/jpn5t2XE/1zJv5yAOrqe1ZL99hCqZehB2kbNQrx9oBz7sRYQHZmYx5BD65U2ay7yVeHnu1ZTjrMXhmcgXldgEK6dW4REK3vON0CXEB4smpeLP7Ka6OQOdiUDJMHiOW7A9HxSAQUu5EoTd7i2/bcjAik1OTWqjTI0=;ndUeffqdAvOfxxhEfgvUMg=="
 ---
 

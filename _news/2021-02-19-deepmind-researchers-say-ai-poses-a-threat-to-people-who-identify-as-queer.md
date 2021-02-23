@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/deepmind-researchers-sa
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
 type: article
 quality: 82
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -24,6 +24,22 @@ topics:
   - Google AI
   - AI
 
-secured: "yMXYsfeuY+n7QJhOhSQA/lemap/uK/LayKmnebPps/xbktKetksqnnONc63Bsk2BIXCyQiJKKDHhv9AOG0NYlpkI5mFXPjIobRD5cK7qx8SavSYBNdKl9pCMGs7b7xmpD/H3mT9bFyP4xWBiTq21xr6cg20anUsgOs2nW2KYj/asMPFhlhdQG0ZfH3518xgwIcPWuLxIWMYx2g+WEnT7hRVz2yEIDMSgHozGqJKE9aMK7QN/+spo0fI0n7TW8JKYgTmA6PcQmaF/HRuK/t5TA58tkKrnMjrijuGCP9pW2JTqwlB5gR2EyBecldyk195UGMCWEnUxcsknzGVB4WHPVU0cSFTO2N5BEA1NPhhU+UQ=;P8jpwLlaNIL7bOINsmKrVg=="
+related:
+  - title: "DeepMind funding diversity in AI with new scholarship program"
+    excerpt: "A new scholarship program funded by DeepMind is helping to foster diversity in artificial intelligence research at the University of Alberta. The program, which will support two master’s students in the U of A’s Department of Computing Science,"
+    publishedDateTime: 2021-02-23T13:10:00Z
+    webUrl: "https://troymedia.com/technology/deepmind-champions-diversity-in-ai-with-new-scholarship-program-at-u-of-a/"
+    type: article
+    provider:
+      name: Troy Media
+      domain: troymedia.com
+    quality: 54
+    images:
+      - url: "https://troymedia.com/wp-content/uploads/sites/6/2017/12/robot-artificial-intellegence697.jpg"
+        width: 697
+        height: 376
+        isCached: true
+
+secured: "27/YqaVuFBtIWSKrJ9Qfz/JCWA4F7xQOpMfyNCuY1K5CxS+K7epah+SLdoqOPWzieUg5gzS8SBQ48TVBqzp/RIB/0ZDft7jRNwcO0eCLVbTZJBTkxqTz0o5wz45/qC4Ww9DjCgPoE1nV09/l6K30q5D2oUTt2ewI89ZZ2li/kzQBjCFiWj3ThgrVFqf3K/fdTgei+8/kQYoJtMHE133EMP87OQ9JseP1E3mjrZyAqFYAer8cCViDQTh3var8/EGuWt4ngNjqNN7BuFEIfHutN+eXbx+bCiTX0JRoWoz75lKsJRXgYRBDzTRFllok8vjyNgj38wIXkPJN1BSjEZjPWGLSSAw2pkhjWsSMjHsV8vw=;66GSErE+PGijzv7cmmIeQw=="
 ---
 

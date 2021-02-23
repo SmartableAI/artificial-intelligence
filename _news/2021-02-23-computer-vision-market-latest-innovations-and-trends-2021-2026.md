@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-inn
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -27,31 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Appier Shares AI Predictions and Trends to Watch in 2021"
-    excerpt: "TAIPEI, TAIWAN - Media OutReach - 23 February 2021 - Appier, a leading artificial intelligence (AI) company, today shares AI Predictions and Trends to Watch in 2021. Artificial intelligence (AI) and machine learning (ML) have moved from the backrooms of computer science into the mainstream."
-    publishedDateTime: 2021-02-23T01:59:00Z
-    webUrl: "https://vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021.html"
-    ampWebUrl: "https://m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
-    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
+    excerpt: "For example, a student may take content from one language and translate it to another. This is harder to detect, but AI is being developed to solve this problem. Similarly, image interpretation AI is being developed to find instances where arts students ..."
+    publishedDateTime: 2021-02-23T00:31:00Z
+    webUrl: "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021"
+    ampWebUrl: "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp"
     type: article
     provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 39
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/Appier-blue-logo_2.jpg?itok=yIEiypcr"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
     excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
     publishedDateTime: 2021-02-22T17:19:00Z

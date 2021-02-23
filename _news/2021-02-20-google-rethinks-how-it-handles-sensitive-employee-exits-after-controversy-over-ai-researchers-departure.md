@@ -267,20 +267,6 @@ related:
         width: 800
         height: 514
         isCached: true
-  - title: "Google reshuffles AI team leadership after researcher’s controversial departure"
-    excerpt: "Google is making changes to the leadership of its responsible artificial intelligence efforts months after the contentious departure of prominent Black artificial intelligence researcher Timnit Gebru rattled the company."
-    publishedDateTime: 2021-02-18T22:18:00Z
-    webUrl: "https://localnews8.com/money/2021/02/18/google-reshuffles-ai-team-leadership-after-researchers-controversial-departure/"
-    type: article
-    provider:
-      name: Local News 8
-      domain: localnews8.com
-    quality: 35
-    images:
-      - url: "https://localnews8.b-cdn.net/2021/02/hypatia-h_a2bdb3e67b0c07fec9cb18fcda301e5b-h_83217445954976654cb586409dc3df89_preview.jpg"
-        width: 500
-        height: 333
-        isCached: true
 
 secured: "6RTjDYd66HRmlnGOynGUix7yIfGw0Lh9pfIWC3UXbua/biqCb14PX36ATZbiGMBgTrbjPiyl8/xzifWITmqX3HwP3Vy7teUp83/9HG9VVEPbB4xC4m4UZyUupGYkVNIARQ9VfQ14mUBJWLGa61xuJa/2CanV1mp9Euf3/CL5TTHihfYUuHtTxxT/bhpWSYyYHNzSWQ7ccKBBQ0XxzK/7p6LXPdSGnWimiENy3v0BCt4YemFwI0AVVeFV3bsy9LcdrTKD4evLY6tsaqfzhLocqKlkmknxsYvmi3AAHK4rxHHqo+QXjaWXPvCJ9xOo43aqbeWdp0F3q0znSo6msdrIXbca9pPtuFOgi+5pMguDVl4=;8S/UtfGAMFYerJ7cUbefpg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.wicz.com/story/43381615/startup-falcon-launches-ai-pow
 webUrl: "https://www.wicz.com/story/43381615/startup-falcon-launches-ai-powered-valuation-machine"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Digitization, AI Provide Control on Construction Sites"
+    excerpt: "BIM enables control room-type management of projects through 3D modeling, artificial intelligence and scheduling."
+    publishedDateTime: 2021-02-20T06:56:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/project-management/article/21283875/buildots-how-digitization-ai-provide-control-on-construction-sites"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 37
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2021/02/16x9/Buildots_Side_by_side__2_.602e91a4cdac3.602e92e3755f0.602e992393bbe.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 673
+        isCached: true
   - title: "Oracle Launches Construction AI Advisor for Its Cloud Services"
     excerpt: "As more firms store their project data in the cloud, it offers the chance to dig through that data for new insights. Oracle has already offered some limited business intelligence dashboards for its cloud service,"
     publishedDateTime: 2021-02-23T04:32:00Z
@@ -38,6 +52,15 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Syrian student comes first at international innovation competition for artificial intelligence"
+    excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
+    publishedDateTime: 2021-02-23T07:51:00Z
+    webUrl: "https://sana.sy/en/?p=223350"
+    type: article
+    provider:
+      name: S A N A
+      domain: sana.sy
+    quality: 5
 
 secured: "MTe7+UTZoH1jfNUGqMFuDb0tE6WMKqZ25qWql5xDywy6FTMoTclEoyz4FgtfSvLKvV2UydIzL+AoD9LNFv2KqbbWIIUCmDJOCMFDYigIi2Uoj4Kt8S2erYHv+9q1kyaZwdFPs8Fq0HDXUuJr8YkI17En1tQXsS2HpnDYamyVnII+9Bs6TH6NkSv/RiHktBTBWc8eRSN7G3bagB3ELqCACZW1d+7amwJnQ9q10gEP+5AHSPm2bxH/cJikWxf0zzWZsk6s0uI8VAL1KPXiCMyFIVvBYCH5MKq1BihqNPgARj80tHCyzfJ6E0vVq3hxB9fag/FHFZs19IbVeUJxPT5wrjpR2YmVlc6PFAkJIrvIgm7DfHPESsiywKedsGTw7O1ANPWzs9I7l0HyeVWeDwyJJM/NWPIVuRRQ8NmRgsBlr8qo4JxyLozYw7afgX5oFTQLH6QZB4z+o0YmUdqOtexMbAAgL5yxRq5TCongHkIfT2QeM3+z5GmUe1+cqnd4EGDruen79RH5PAiopkcOVjCvIQ==;Pa0gU7CQWiwMGCl/q1V/YQ=="
 ---
