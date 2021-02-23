@@ -25,19 +25,14 @@ topics:
 
 related:
   - title: "European Space Agency selects CGI to develop services combining Artificial Intelligence and Earth Observation for Wildfire Mapping"
-    excerpt: "PRNewswire/ - CGI (NYSE: GIB) (TSX: GIB.A) was awarded by the European Space Agency (ESA) a contract to develop a new wildfire mapping service that"
+    excerpt: "CGI and its project partner, the University of Leicester, is working with nationally mandated user organisations from Australia and France to implement and demonstrate EO services based on their requirements for improved wildfire risk management."
     publishedDateTime: 2021-02-22T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/european-space-agency-selects-cgi-to-develop-services-combining-artificial-intelligence-and-earth-observation-for-wildfire-mapping-301232154.html"
+    webUrl: "https://www.nasdaq.com/press-release/european-space-agency-selects-cgi-to-develop-services-combining-artificial"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 7
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 17
 
 secured: "14hB51lJ6TK5e3i3/cLt8o7CgHxTUKK3gI0g2yVzpZCiQERIWPHQO2tVC5dRDAqixr/KnYvj8mjTNCnsZZzIA9vTot5njXbl0jXIVVpWIysCDVMnivrFgBW68UJRiJAEnaRa/gRmJp83R9KUfLCcF7aQdIHW/FRQr7atcSc+sYuvleBatKUvCLVN3tGBofD5LQi5e3N/JEaxbbaGMBn4AEQArfmXer4UGNy41/mARwUkR5AdhvVPyXhZii/QbHmazFj5VrYHBcf0NVlDY6EYeK9Cjy7phmKgEC+f33rI57nU4XWX+w8Q/2fC2zp8Ye1LaNmLLonpM7LlA07WKCDi+d00pbNATaoAl2cX5cEwBtE=;wZSjRwK1PlTIZ/4BVjDxMw=="
 ---

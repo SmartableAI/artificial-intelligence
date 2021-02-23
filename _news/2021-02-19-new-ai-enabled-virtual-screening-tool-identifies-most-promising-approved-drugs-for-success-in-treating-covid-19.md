@@ -40,21 +40,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Four Ways AI And Machine Learning Will Drive Future Innovation And Change"
-    excerpt: "AI and ML technologies are more than buzzwords or simple predictions: They offer businesses limitless possibilities to evolve use cases to improve productivity, expand their customer base, boost ROI and grow their bottom line."
-    publishedDateTime: 2021-02-18T13:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/four-ways-ai-and-machine-learning-will-drive-future-innovation-and-change/amp/"
+  - title: "Use AI to sort through market-moving news"
+    excerpt: "Bloomberg helps you sort through this enormous amount of information in a manageable and comprehensive way with a tool called Key Themes."
+    publishedDateTime: 2021-02-22T21:19:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 107
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabe26daa1946a71defd95f%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fusanews.png&width=800"
+        width: 800
+        height: 483
         isCached: true
   - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
     excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."

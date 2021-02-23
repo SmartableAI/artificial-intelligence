@@ -53,6 +53,15 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "US city passes restrictive ban on facial recognition use by police, others"
+    excerpt: "Citing concerns about its reliability and potential to harm communities of colour, the Minneapolis City Council voted Friday to ban the use of facial recognition technology by police and other city agencies."
+    publishedDateTime: 2021-02-23T06:26:00Z
+    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/23/us-state-passes-restrictive-ban-on-facial-recognition-use-by-police-others"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 17
 
 secured: "e4tIhhMxWayIZkYSaJi0yKjfa8M11+Yu8A7XiBpd56ar97le+opuzfRCOQpoSy1PyaPpYvSve8wMimh6bCO3jHFsUgxJ6njFn923DEcJIUKuymZpx/obvXlEFapC6375d5EMJks0ImtGuau41luzprgNcc+EvbWb3BB9NAHGj8VYxUDLoHR6YKQlEShz2tS2lTGxBgwZibvdKmYXO2VkDriaKxcpYEpfwHS03KEI1G90iNwqporIO46coyOu9HFBf/w5MW5Vc3HsIoEQZCLNeXtFEx09SN1YbL7i6qIQgCCaCyfvb60GLkN0KqwiVuYuo+2IrqvSAwi3CceA7fLbLwnLYniO4Xh3hLGv/3g2hNk=;9t0Ha353jrWnaBbcVUgtog=="
 ---

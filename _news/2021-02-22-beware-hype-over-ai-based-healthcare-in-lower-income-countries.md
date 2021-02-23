@@ -3,8 +3,8 @@ category: news
 title: "Beware hype over AI-based healthcare in lower-income countries"
 excerpt: "While there is great potential for artificial intelligence to improve cancer care in low- and middle-income countries, there is also great hype surrounding the technology. Terms such as “game-changer”,"
 publishedDateTime: 2021-02-22T04:06:00Z
-originalUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
-webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
+originalUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010?via=indexdotco"
+webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010?via=indexdotco"
 type: article
 quality: 54
 heat: 74
@@ -19,7 +19,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb874a637-b8a6-4c51-9ce8-8d321a4dd070.jpg?source=next-opengraph&fit=scale-down&width=900"
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c6b6d98-fdf9-4c92-98fe-de13be88a63c.jpg?source=next-opengraph&fit=scale-down&width=900"
     width: 900
     height: 506
     isCached: true
@@ -56,6 +56,6 @@ related:
         height: 248
         isCached: true
 
-secured: "3Qg7GvN1HOgObWz0yryUlu4YyRoTROJRYrNy0hptkEu9kMAcDysf8EMb3R9VS+PsrqBm01+dKhSV9VrRP3DGzkhVcRcz+R7uCRLLld5yPjsAOB7RlRZE1nYjPOzsmiyf5pbvyQI1RX1i6++q85JC9/y1SxBcXfi0Uz+qosSvTuDymt1UeHSuZNubbVgPS1gpE+O3yAQW/Dvz6q6LeN+RgE16v8BQN5muX3my8JM+qM55VAfHnPzPv5oT5bBAhouWGD/6/ftSONwBfYHV7J5TCwrB1O9f03XIQMYF8RWDTgMYYy0+qtPUwklu82NuWkl4EeEtLcDnb57895asPjr/1NzHY3bIZFL4mf2DsPYwCZ0xbEy1R2R85cskM0i7QbMDyfhpuydnG2wVjvgzc06Ztb5QPZbO400a1DpnbBIbTx6U6PCRUNVh9Etj7dab0WcADIvMlMOMWw9h+yV+bI3/ClMxwnKoZ57VxY9oaZyLEVhxjnLKYZ3bkRGtwqN0+1f7tD34knjeO2NV1o/5QBT0CA==;pCaOlJb9DYiN09/crUpw6Q=="
+secured: "gdV1GEr6chjSnWmWtNlMF4FP95R0agXLDTkNyvY8Y+1M4dvr5jxFejRzzbxAI/4jqQVqsg5Sa2tj/Szj9qWhl7qPYqWcapPpjdXkMyTpmMVIgRjxXRDOjTj6/9vuVi+DNkXM9FubbB1+FjT6FIfazf2bd1IvsxWksYQ2riPQeboE6kPRKpsB/NbFCSxrB96CvPCgCjLHvCvlRhyoToJRxjpdYXg8VT7q84qREgwAEuTM7D7Xcd5XtC+R8pUlYb3C+QRZ5ripLlz63CbtGXdixgImcklXyv/aiFEGrSIiu+GUxHduzbd95I+06/UMgUgv5SWKc5H2/2A46q6fCKZtGQl98H05k00k1fS+QnGb/VY=;rVe2693wq9geYV48H6HDaQ=="
 ---
 

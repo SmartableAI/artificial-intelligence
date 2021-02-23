@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/"
 type: article
 quality: 81
-heat: 231
+heat: 221
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://content.jwplatform.com/thumbs/7EvaZZzT-720.jpg"
         width: 720
         height: 406
-        isCached: true
-  - title: "Top 5 Self Driving Car Companies to Watch Out in 2021"
-    excerpt: "A self-driving vehicle or autonomous car is a vehicle that uses a combination of sensors, cameras, radar and artificial intelligence (AI) to navigate between locations without a human driver. Here are the top 5 self driving car companies to watch out in 2021."
-    publishedDateTime: 2021-02-18T14:02:00Z
-    webUrl: "https://www.analyticsinsight.net/top-5-self-driving-car-companies-to-watch-out-in-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Self-Driving-Car.jpg"
-        width: 900
-        height: 500
         isCached: true
   - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."

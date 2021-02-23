@@ -1,27 +1,21 @@
 ---
 category: news
 title: "European Space Agency selects CGI to develop services combining Artificial Intelligence and Earth Observation for Wildfire Mapping"
-excerpt: "PRNewswire/ - CGI (NYSE: GIB) (TSX: GIB.A) was awarded by the European Space Agency (ESA) a contract to develop a new wildfire mapping service that"
+excerpt: "CGI and its project partner, the University of Leicester, is working with nationally mandated user organisations from Australia and France to implement and demonstrate EO services based on their requirements for improved wildfire risk management."
 publishedDateTime: 2021-02-22T12:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/european-space-agency-selects-cgi-to-develop-services-combining-artificial-intelligence-and-earth-observation-for-wildfire-mapping-301232154.html"
-webUrl: "https://www.prnewswire.com/news-releases/european-space-agency-selects-cgi-to-develop-services-combining-artificial-intelligence-and-earth-observation-for-wildfire-mapping-301232154.html"
+originalUrl: "https://www.nasdaq.com/press-release/european-space-agency-selects-cgi-to-develop-services-combining-artificial"
+webUrl: "https://www.nasdaq.com/press-release/european-space-agency-selects-cgi-to-develop-services-combining-artificial"
 type: article
-quality: 7
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "European Space Agency selects CGI to develop services combining Artificial Intelligence and Earth Observation for Wildfire Mapping"
@@ -36,6 +30,6 @@ related:
       domain: businessinsider.com
     quality: 37
 
-secured: "s9dXtQ/kgp2GO50WuKKrS7ArAbM8AXc3l1+TzNIJ4V8HMRzUcdhax3jruWfhPSNpirvOkWPK9GWvS9wvqh7P9az+d6eU/CFg0wQFsLJ8/OR9sm8HzMD2gEh3qkP3IDp20Irxaa9I7r0eKazTqb0fA6gzvCatfnmUI7IEoyG+XsBGRF7BAd2t77G9ExkuPvXtvS5VIlJrtftDzq2pn4InJj6GUOS2EL9K+5GoYCrXOZJPTnjzkTgPZHiX/JbvLoqoUJ8Ih0XKjqR3KWPR998EdFY0ut00qYkUa/6HeB3a9GG0eWiFNdIoz8y+d4SjbaI4I2USCQwlDqAQWwJFpeQom826afJBHnfCCJNZ7JD1jdU=;u9E0vkkYbYVwxvdjq8H8Uw=="
+secured: "ASaNDYbpxMt8BAxgfb/jMJWjjxGEaN1GtAlaky3xpLf6TEcyCiGB7Fw4KjhV3yIApBcEih9ns/gOkfpLfmLN4PKzZUv4+Pna6OraQFXSYYVsMXUEg8GUCcsQYcHqrpLUoqwyXgtHyEKYZuM3J7vVTt3eJN3CF+FDemqsMhHixQ/dzYKzd8RUEE+040Qs7l5TYBbLo07SOVp+qJBwYa0WP3uATPlLldB2nVwddUVg97AQU6NFc9sDd15ay2ivOplLJc3FdS/VN3A9E2cIlMcNyujLVSChfVi7XB9jQ7hR1v/BfRqK77GhbcJ2HSVJhAI1phqYcyq7LbyQgrzpr967t0DvrQMAPea3FcE9+uk79uY=;BFrViBeBR5hFUTqLPN+h0Q=="
 ---
 

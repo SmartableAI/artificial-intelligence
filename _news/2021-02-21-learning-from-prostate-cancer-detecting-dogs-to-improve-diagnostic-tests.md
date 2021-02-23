@@ -30,20 +30,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 33
-  - title: "Old dogs teaching us new tricks in the detection of prostate cancer"
-    excerpt: "Researchers have used medical detection dogs to improve the assessment of prostate cancer to develop better detection tools."
-    publishedDateTime: 2021-02-18T14:51:00Z
-    webUrl: "https://www.biotechniques.com/diagnostics-preclinical/old-dogs-teaching-us-new-tricks-in-the-detection-of-prostate-cancer/"
-    type: article
-    provider:
-      name: BioTechniques
-      domain: biotechniques.com
-    quality: 24
-    images:
-      - url: "https://www.biotechniques.com/wp-content/uploads/2021/02/BTN-700x300-feature-images-6.png"
-        width: 700
-        height: 300
-        isCached: true
 
 secured: "HK0Nl9wC7uyr80JY0fJCQ+76TUXGOc6Izjr/uTNdyIqR/n4iMAFGZ3U1eeBG2wmjzyts48DhTMfOr5eyLPmLpUxHES6C6fuP8dN8CTtXEen35Q5VFJxSCLyQXYmjfSk5D6AGZjSK2iylrQCwTfJLPj17ZYRdS8OtpnHusEsKuibCjoito8oWtx4uU3zOb1wwTzde7cMKvJ1qp5X6JAxnfivR1kWwEVh0Wqnm4zo9wK0thxyk9xWCgAlRG5cK3Qcqm2yf3u+rQXCIZEQKgFTqDJKPboDx33iVFthIxhTadoEAo5HBkzuizZ6/qEn0vu8ndTYMxtdGTW6HZSO6bXTpEivJ2YdReU5q0PdvgQSICf0=;AowjFsumR+KMWDH7P/J0AQ=="
 ---

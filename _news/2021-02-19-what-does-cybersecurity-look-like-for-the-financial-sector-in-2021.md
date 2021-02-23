@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "MetTel Customer Innovation Labs Engages with Raytheon and Cybraics to Prove AI-Behavior Based Cybersecurity Service"
-    excerpt: "MetTel, a communications and digital transformation leader, today announced a joint development program with Cybraics, a unique AI-directed security platform, to validate and refine powerful new AI-enhanced security capabilities for MetTel customers."
-    publishedDateTime: 2021-02-18T14:40:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-communication-technology-8c39e008b3cfafe37dafccc398808f86"
+  - title: "Chief Legal Officers face mounting compliance, privacy and cybersecurity obligations"
+    excerpt: "Chief Legal Officers and legal department play a critical role in ensuring that increasing regulatory compliance obligations are met."
+    publishedDateTime: 2021-02-23T06:31:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/02/23/chief-legal-officers-obligations/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 17
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/17172120/lock-green-connect.jpg"
+        width: 1400
+        height: 1002
         isCached: true
 
 secured: "y+ucth3y1T1CWnuDdesHwxA0PV2Xz06ZqN7JpxNBDgIErk24sUFuc2Subgu8/z2VdxzRxFPY4WOQorrTNEM0CQAsQ252Aps5D/EjRxtYKEHP6TC0TsgM+sLX2TxL/0Tp/+QqaBLHGFTh30FGNMTlY+JKz9PjK8CIKajnEABntDmOb0boAIIYsiL7msaep5fJtRD/3s2WTTyZlsOPvB0ecggT2HA4ugKF0/1xWFIdXVOsGIV2OZmjKDftFF3jkBvwyRwFmH9GJelU3Ea0omvglp50P3FuuWMcqeWjr7v6sIGfqy5uD6G2KHS7KrGi8t1chv5oeus1I8dL4dGO/vHjzVwZ8J3uUf22Wsymm5WyRzE=;JqdoPeoOXKiKoS2zMey72Q=="

@@ -26,6 +26,19 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Facial-recognition replaces need for passports at Dubai International"
+    excerpt: "Dubai International Airport (DXB) has installed new biometric technology designed to speed up the passport control experience for out-bound passengers opting to use the service. The General Directorate of Residency and Foreigners Affairs in Dubai’s (GDRFA-Dubai) new fast-track passport control service uses face and iris-recognition technologies."
+    publishedDateTime: 2021-02-23T06:10:00Z
+    webUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl"
+    ampWebUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
+    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
+    type: article
+    provider:
+      name: aviationbusinessme.com
+      domain: aviationbusinessme.com
+    quality: 39
+
 secured: "u1bw4vEevk/oMI9A6rdO3qwfVE6rRj2QDvlliA9AZrxo6c0Kp8X5DK1kaOVPdllaczbFm2jhaH1Risk6NJRoD3zsUD6dH1qp3xhPGkfdLlUo/I4sNlZne1SmSxOqOdADGWdF7jgbcUT7S9ooXI2m4PRn6t2hbqvTjweO78NZlyw0igM30P64fun26/0vNouFaMMqPazZf9//0H263VSkWlhyYaDM90ACwqJUugR6fcC3/tPA3srSDqo5ZI/u1LjqjixvZa3eSC2jsa6iSXhoSumaaBwBedRmPn4gELbKnJu6t14/IIZBt84rxlQ8Nu6DiENLxzMeNlUPacJq//DxysAj5eYtKLtO1w+NA8QWrBU=;Z/lLFySHO0czKC1Cw3y3Cg=="
 ---
 

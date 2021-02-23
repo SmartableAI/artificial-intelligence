@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Old dogs teaching us new tricks in the detection of prostate cancer"
-    excerpt: "Researchers have used medical detection dogs to improve the assessment of prostate cancer to develop better detection tools."
-    publishedDateTime: 2021-02-18T14:51:00Z
-    webUrl: "https://www.biotechniques.com/diagnostics-preclinical/old-dogs-teaching-us-new-tricks-in-the-detection-of-prostate-cancer/"
-    type: article
-    provider:
-      name: BioTechniques
-      domain: biotechniques.com
-    quality: 24
-    images:
-      - url: "https://www.biotechniques.com/wp-content/uploads/2021/02/BTN-700x300-feature-images-6.png"
-        width: 700
-        height: 300
-        isCached: true
   - title: "Learning from prostate cancer-detecting dogs to improve diagnostic tests"
     excerpt: "New research demonstrates the ability of dogs to detect aggressive prostate cancer from urine samples and suggests that an artificial neural network"
     publishedDateTime: 2021-02-20T22:48:00Z

@@ -2,23 +2,29 @@
 category: news
 title: "Google fires AI manager who protested her peer’s departure"
 excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-publishedDateTime: 2021-02-20T01:17:00Z
-originalUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
-webUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
-ampWebUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+publishedDateTime: 2021-02-20T01:19:00Z
+originalUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KSEE
-  domain: yourcentralvalley.com
+  name: CBS17 Raleigh
+  domain: cbs17.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "Google’s restructuring of its AI teams sparks further criticism"
@@ -68,6 +74,6 @@ related:
         height: 681
         isCached: true
 
-secured: "S6nJeY/Qas9W2NCz9rGcwH0ZVX3IUCyKHDI3+xiLbRIWvRcerFDGNRRx6GYkPl+rjj81siT/h/XbbV04sz1oDfWmpg2XghuoT4rbLPv3kcjPx4dIGqvIRZdWhuoCsnaEEcylVyJfpq1y/S8ar1EbiBYsr4ykfYSWs5Og3e0bDP5mQcekGOHTPLUylzfyzfQC5vNjbY96s1otMREciSnDxU61rVcyBCbIwDOqmePilDrlqpStREuKYf/5e2TKAs9DanXGuNBLEVOivlibh5UYv9h5ecg9toF3kOo4TUDfZC6qR8+BG9/1Y8QPci5g3SUcYfHXyPRwb9SleK9lEzL752qpOQ8fb3caRPJyP1bUrDw=;ml0xmEYXR+De+YK1FFnu7g=="
+secured: "uIxfqz4vi4NFTDSQKucL2YTVhLaaWvoxNP+tQegh23TfUweTH4fsFJjP+0E8ukKdZtT23QZqGY3hjFVly1IHbg36wtxmh37h60/qDvJrATkAraT435hZanqfusdf9J3RcepgnVQRMfjoj6MQFQRDB+9I7tlyUoID6fnP3vFovxQ+aBFBPkI+YUf+l8L2fZuiyAC1Rm1eApITjHboY/KYXC9fAVhrqm4FHkUPQCitUsK+fh9IhthANFruZW23Bw/thnhGGKR1WYEX6QlDMw+aSoOPXrWEzzrT+nReRW+cRon8JeLTZ+cjW5JOZkGvobhzhzLMspqEpgRxW4FObQtfHJUKyHHbpElrWNpUfMOJUpU=;y6ZvmSQ3Jt75oT1lZjBckA=="
 ---
 

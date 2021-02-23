@@ -41,21 +41,21 @@ related:
         width: 796
         height: 545
         isCached: true
-  - title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of"
-    publishedDateTime: 2021-02-23T04:15:00Z
-    webUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere"
-    ampWebUrl: "https://technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/107974/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere/amp"
+  - title: "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans"
+    excerpt: "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes."
+    publishedDateTime: 2021-02-23T06:25:00Z
+    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
+    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 44
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 60
     images:
-      - url: "https://newsinfo.inquirer.net/wp-content/blogs.dir/10/files/2020/06/computerizing-bar-exams-leonen-06252020-e1593084112954-300x225.jpeg"
-        width: 300
-        height: 225
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook's faceoff with Australia could backfire"
     excerpt: "Facebook Inc.’s dramatic move to block Australian news-sharing escalated a broader battle against global regulation. That gambit looks likely to backfire."
@@ -70,6 +70,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/7/d1/7d1b4ebf-08c3-57ec-b562-8679e2b62912/603037b34f097.image.jpg?resize=945%2C630"
         width: 945
         height: 630
+        isCached: true
+  - title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
+    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
+    publishedDateTime: 2021-02-23T01:41:00Z
+    webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Local Facebook rival soars as boycott grows"
     excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."

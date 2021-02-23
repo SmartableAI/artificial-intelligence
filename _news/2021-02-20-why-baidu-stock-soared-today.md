@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Baidu (BIDU) Trading Lower Despite Strong Quarter"
-    excerpt: "( BIDU) is trading lower by less than 1% in Thursday's pre-market session after meeting fourth quarter 2020 revenue guidance and beating profit estimates by a small margin. The Chinese search engine giant earned RMB 20."
-    publishedDateTime: 2021-02-18T14:36:00Z
-    webUrl: "https://www.investopedia.com/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    ampWebUrl: "https://www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    cdnAmpWebUrl: "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 59
-    images:
-      - url: "https://www.investopedia.com/thmb/PnDkDkBe_cAP2ID4PANMsMYOEF8=/680x440/filters:fill(auto,1)/baidu_shutterstock_363519476-ecee364f0fd544808e72b2db66e15b0e.jpg"
-        width: 680
-        height: 440
-        isCached: true
   - title: "In China, AI and cloud boost Baidu revenues by 52%"
     excerpt: "China's search giant Baidu beat revenue estimates after its AI and cloud efforts started paying off. Its non-advertising revenues, from areas such as AI and cloud, rocketed 52%. Sales overall rose by a respectable 4."
     publishedDateTime: 2021-02-18T17:23:00Z

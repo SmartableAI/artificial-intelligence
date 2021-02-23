@@ -8,8 +8,8 @@ webUrl: "https://tribune.com.pk/story/2285598/alvi-calls-for-adopting-artificial
 ampWebUrl: "https://tribune.com.pk/story/2285598/alvi-calls-for-adopting-artificial-intelligence?amp=1"
 cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2285598/alvi-calls-for-adopting-artificial-intelligence?amp=1"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: " https://i.tribune.com.pk/media/images/president-alvi-file1612625555-0/president-alvi-file1612625555-0.jpg  "
@@ -25,6 +26,6 @@ images:
     height: 480
     isCached: true
 
-secured: "NKmoUDySDlyNoVZZb8G+0clqjHk539ZV7e3fFGPs4dHncZzXsfoXdbQ4270wQ5u0i+buM6yHbHPP/kqEU7hD0kLobH+VXksCmyIfSDoPJTplzukLItve77RnQ5s3q1CI/fFpO1nGyPMtDuwrdGBAcfzi5K7G9Bf7+ckGAid9oosiMVbzCiCNjyLKwFilYeWUa2AXZ3bS75JEJIFuvmg9YOZRyq/pdlhscGf9XKDZfkNTDgVCSeJGmDU0OlGpf3buTt+iO1HXwG6Cqu6lKuLJ8jsoUYEHAl6ArfYEaWeY72ZtvVvGILulaykQhkfoSNkHuz7uOlr7XQWqQIXsPtgZe+zg6UwUHJ8eCs5KTtEsR+Y=;kEDuJ0ejdf1hNO7wXk/3Hw=="
+secured: "B9CCPrlN/n/3Jss3trE+I1oofiDHY4IyvSzQUiY0I0qpzzWaXFy7f0EEd+LxFPVnrhalyLiBXDPn6jO0Ouv3DSHqhAMKzC26qY8gNPa4y4mds45ueXHR/VxlpBRPtD0cvqtNwlqVHeP6AzinggTcGGTRNXgYKrcwtxJ14Ytpa02+lpH1WB3YtshbBzBDYmnVgBF5yg+JXQ6LjuIrq+c6LQQXaommnMzFXP/G+RcSOL/qWQFSEf2GYV3JdW2+uO5VZD2Bx0dIWaP7Y0d2wRoqJ7HjK2Ii/i/+V9iBknFchZmg80l35Y+cCCwP3cyERiTW6SZLtFLU6vGpWUUjxE8NwV/VQ59rNWOsLn1Zba9xReUfLKjpotpxF4qmq4H2MPzvWwNDuNVVAlWuo6maC3NFKB7N7tl7GsCj9ALqmifIHUW/x/DJsfguqTY+jCBlF9L3r0NsAAQUqEkkZPaM+MQLN9oT+XyOxhy4rmKj623X2Eu8QXcNdlGT2l5luJav+jfE0qwCc+MCfuVcf/Z36ZD4WQ==;8nK62rSPeB11nkd3eYYYWQ=="
 ---
 

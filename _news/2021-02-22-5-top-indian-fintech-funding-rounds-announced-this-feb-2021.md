@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 1055
         isCached: true
+  - title: "VC Investment in Fintech More Than Doubles in Second Half of 2020 – Expected to Remain Strong Into 2021, According to KPMG’s Pulse of Fintech"
+    excerpt: "Global fintech investment was US$105 billion in 2020 – the third highest annual total ever thanks to strong VC investment throughout the yearUS$71.9 billion in fintech investment (M&A, PE, and VC) in H2’20,"
+    publishedDateTime: 2021-02-23T05:14:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=425938"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 4
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "ZkRaq3xrQ67vEqsK1jd+HfSGHiXEpWKw9BR7fd/IK9VCtsMze/ownwUFq8+Nseit6aeVdjdA1JfmTqCZ/utaXJyMh5fIdWnG2xeUNQJDFKWQpgfUQGPsP2iBbuEbp8zGkPecj4X5Q4+gxUNzSStim3E3DdMMTg2lHaiQbc4NQyd9rTHHBpK1V6xXEuZUuCkoizIYWHx9d3GUARc5CzhnSM2PpCfmqGOU3qBm5TVF7MjqWyAOJLIbi5TfqgL+HhR9OsI4MWoMEZl5j+Qxs8sKTrUo8+ASzyv6UpmD77ToR+eZcEHK5CSMvNOpIMloWRkpn8nMoYsAh4nZQCmQpmRZIb6JEVp8rlIfbwpdmUj35p6JEwAeDUIba1il8KrdMVVZFXhfEh/mIhCp6dK8BzXb78ByE30cQ568WdvkKOWGU5KxyC1VYcZUnucxR/O91Q2wjG8KkZwLYxvFGjCxCCLpxdXqXEgEjLWdSfjDiVOl+HrmNHZshh5E/lUQZkiJ3Y2aLii6ZHJG+lLbdPH18vmPxA==;BRQyKnVn7oxlXEBGUHt9GA=="
 ---

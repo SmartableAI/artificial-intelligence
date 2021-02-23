@@ -37,22 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Baidu (BIDU) Trading Lower Despite Strong Quarter"
-    excerpt: "( BIDU) is trading lower by less than 1% in Thursday's pre-market session after meeting fourth quarter 2020 revenue guidance and beating profit estimates by a small margin. The Chinese search engine giant earned RMB 20."
-    publishedDateTime: 2021-02-18T14:36:00Z
-    webUrl: "https://www.investopedia.com/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    ampWebUrl: "https://www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    cdnAmpWebUrl: "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
-    type: article
-    provider:
-      name: Investopedia
-      domain: investopedia.com
-    quality: 59
-    images:
-      - url: "https://www.investopedia.com/thmb/PnDkDkBe_cAP2ID4PANMsMYOEF8=/680x440/filters:fill(auto,1)/baidu_shutterstock_363519476-ecee364f0fd544808e72b2db66e15b0e.jpg"
-        width: 680
-        height: 440
-        isCached: true
 
 secured: "p7ML1FLU6M7z0iyHlJWJU6gStuflagnB2kLmztOfpf9rEiqP2Bmp3zhL8jDgaue2ON2BivO3Bs+L0lDDXrs0j+7LS2CyzbByZ1kxjUN4M377ZaPDlPICWJVuSQKuzwIYB3LgSskkRkd0Fpyf/L4GkYcg5P7xZs2DTOMYv+h4Cf6Wubh+NC/9OivE0V2OzVyqPrRJ2Wb8I3dUd/zp1OifZQgbwMfMCI1Okc6reHHsU892q2L5xoOhhNItvZM8cSTShspktwgOEx7zuuB1YbteRc00uOGegWmjgoHKS1Q4ybpRLWS9Zav9fGgRluEYdGQNWwEisrB80+I1vB+Q+ETVpMVyeKS0ND38ClIZJYBV1rE=;/ZlXyXOcAuYYfQOD5++skQ=="
 ---

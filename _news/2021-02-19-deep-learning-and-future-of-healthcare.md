@@ -7,8 +7,8 @@ originalUrl: "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-h
 webUrl: "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: CIOReview
@@ -39,6 +39,20 @@ related:
       - url: "https://www.cioreview.com/newsimages/special/L6k0U4rh.jpeg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Future of healthcare shaping up before our eyes"
+    excerpt: "The future of healthcare is shaping up in front of our very eyes with advances in digital healthcare technologies, such as artificial intelligence, 3D-printing, robotics and inventory management. With the need for digital acceleration to support the healthcare landscape since the onset of the Covid-19 global pandemic,"
+    publishedDateTime: 2021-02-23T06:55:00Z
+    webUrl: "https://gadget.co.za/future-of-healthcare-shaping-up-before-our-eyes/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/doctor-laptop-computer-medical-health.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "ghgZe1QqKj1Q/COP4oi8pUPZQBGsB+47y1NajVZHlQsT1OEurz4j1fC8FGnE4mHG+FNJkLFYA/zDwoWBqx27/ohpO8xb9MsjCHM19aPbAHflykJT0mZ/Sryy7Q9FuXtFUkwFlys7grRIdGeDaIIQRcqOl3GxKTCa0+N9cYXHBfkkzXfVxsCgnvku/owUX+GMcPGZgj9d0pfXfFAn+p5r/ySjm8ZcYcgC0VI+y0pjUWMZb4zlopFJuaDH9CmwLPInD8OlriFhw6z/Bxr3EC/f/xteIjHslDm73vfy6r7aElLrErIx1RIyVVwNOQucU7GWExtBhUDvJ5zPrZE74/2dPbTPybKfRJu+ZvsgR0bb6es=;OLa/s6gQHpCKhx73MXCUFQ=="

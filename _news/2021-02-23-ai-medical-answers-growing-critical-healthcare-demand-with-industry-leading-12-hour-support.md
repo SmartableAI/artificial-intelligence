@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/newswire/business-public-health-c
 webUrl: "https://apnews.com/press-release/newswire/business-public-health-corporate-news-pharmaceutical-manufacturing-health-4c594c6aee46c36ce0ca04e3e3766511"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Artificial intelligence supports medical prognoses"
-    excerpt: "Estimating the risk of patients dying is arguably one of the most difficult and stressful challenges physicians face. This has been especially true in the midst of the global COVID-19 pandemic, with doctors around the world repeatedly confronted with difficult decisions."
-    publishedDateTime: 2021-02-18T13:55:00Z
-    webUrl: "https://medicalxpress.com/news/2021-02-artificial-intelligence-medical-prognoses.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-02-artificial-intelligence-medical-prognoses.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-artificial-intelligence-medical-prognoses.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/9-artificialin.jpg"
-        width: 1200
-        height: 805
-        isCached: true
 
 secured: "MJoy0T20d38o0zKAcjo1/kxBPTxnilinsm1+o1jjgLUT8na/7k1ytIhLHJ5zKUPJXtioBoVhUBGZ38mTPfquEuEBYXm9LWvtrA4/PkZogcrBAAKxudATvdh4/qd4htnDgMJpP421OjNPd+R+shD0spnXL2XvazLF1fZ9O2LIYjBDmWla8Mo5V2ECm42F+l+Lnr0oBanJT/yOloEMDl8oefY/zp3nAK1RM9mJ4vzK0mn8OGb7JChusTiBoHc/ru7isygksKqV6DBtAeqCE3rUDxE5atVWzBPZsoE8oRGDGn5n+tgb/bsOce5yBDNC2vce/EHS2PYIfSFsgQj5tvPcmMCAJCw65X0UfADs+19AkZQ=;fAXr8paSx8nFJuzBs8+wDg=="
 ---
