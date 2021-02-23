@@ -7,7 +7,7 @@ originalUrl: "https://troymedia.com/technology/deepmind-champions-diversity-in-a
 webUrl: "https://troymedia.com/technology/deepmind-champions-diversity-in-ai-with-new-scholarship-program-at-u-of-a/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 697
     height: 376
     isCached: true
-
-related:
-  - title: "DeepMind researchers say AI poses a threat to people who identify as queer"
-    excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2021-02-19T06:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
 
 secured: "reKpcxrHWZHN8/HYaxNBlu0QaJLRvgtTCRmUnX/W6UEOhMi9nLhis7RC5QHvtI30P2AgY4+IXLix1W3C6W+KYRqTklIPA0mWNy2yI8CoZCZeeAE7LUbO/oxTthcT0eTLNKXECwSDvmsISDuFBSqwfVG1YGXHe4+nuftCafoju6mCUxj2gz3u/Kgebg1X0tkC52HC8Jl6etL+7NaipzUU14o4mRVZyi/JwrTNUd9AIPUXtPCZM7z6cKJe7bj0XLnfo/ghb/TEgn73l2o75Hrf6D5aPQR9+D3cc+y4lD3WWUaL26tIshU7VpwQOdzJInY/rpSELLEXvpJ9vBYIq1p4jNp+0gL5LwzQh67lwwEDXuG/EuqHyIXKGCfQhl2kq5IwBBGA81rcHPaGeDzZoaVl8bhkxAqHauQ4TiqB7o3Li9AKZxuvrJ6vVHVUfpLqFt0zlkjEMtPUYrdSJbHBn+LYGq7pSd6HMnhw+d/9sfmqo6qZwdHtHOJu/nqZJ02DZm7co7jyQmLL549jqmzLR5N/ww==;tjzoICJBCObfBvIaTrIuPw=="
 ---

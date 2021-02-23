@@ -3,8 +3,8 @@ category: news
 title: "Dynamic Yield Improves eCommerce Sales with Deep Learning-Based Personalized Listing Pages"
 excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the introduction of its deep learning-based Ranking engine,"
 publishedDateTime: 2021-02-23T19:00:00Z
-originalUrl: "https://www.prnewswire.com/sv/pressmeddelanden/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-861587407.html"
-webUrl: "https://www.prnewswire.com/sv/pressmeddelanden/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-861587407.html"
+originalUrl: "https://www.prnewswire.com/fi/lehdistotiedotteet/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-861587407.html"
+webUrl: "https://www.prnewswire.com/fi/lehdistotiedotteet/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-861587407.html"
 type: article
 quality: 46
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 315
         isCached: true
 
-secured: "UPXgpbvCEWxH0jHk4TSMELAnJkWtfYUz9L/v96r12DgvxHdBBOMC/KNpmeiTzuatLseQM0+L4lcb4ehuHUgs9yNicFM2+KiQFCPh1VaiTWCP4OOnfbgNpeJAa3pnlQO9UT8BOJVNnAxNXIBZCGQ+3EpFo43suA8tBspu4SOldw4mjF0UKhMwR71yb6QkpVS3ru+kAPbCsavYBsnbETZL3uQUfPLqU6SPw/o1gmbu/roDjHwBHY1wg1MCN6KWcRoJ7Xzivss1jNtba2YxL78E8mhWm29ElxFD1LiGU2xhgc2VqesrV95+ErGDKLWvk52HArZLcj2ZMnMIz+iFoa+1ypMDwzVGkaqZqu7ObanGUOc=;fLaHvpmN3HeHMq1gNpuw4Q=="
+secured: "HpcduHeaZ2G9/W0TBpEji5ZfEKp3lkchh0kAGK4HvPEN61i69vBY/gjpmo9z5uYDUe2wBEMSmoFtYoxHp6N0Pu+Y3ijxvxetay63vVzr3oH8TcNmUEixyWwey5WQf89LAHTaNTi4yYYKNoRUfGXSCRDhkPxN72uU+G9b+0aC+O2dyDU8b2wuvyvzPrscqUIrrmyiQDB5eJPp4/MvBqDm6XfkgSD26MrgtJ9R2G1WJZvLXLYZ4Bv8l1wWP0abSUSFq1wVDgQJe4Vh/8W7cL15dlT2QeYGcFw4nB5YaCsGFZLFY3E773fGV6IYVA3BGBxxdedWvZQJ+mTHkiVgPcts/lqojhR2NFliBl1JFgCeahY=;Rhr9hBMIh3RKca1qNmJDAQ=="
 ---
 

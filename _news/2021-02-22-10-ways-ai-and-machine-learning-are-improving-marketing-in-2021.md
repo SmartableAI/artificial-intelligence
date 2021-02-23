@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
 type: article
 quality: 121
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fusanews.png&width=800"
         width: 800
         height: 483
-        isCached: true
-  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
-    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
-    publishedDateTime: 2021-02-19T06:11:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 58
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
-        width: 300
-        height: 300
         isCached: true
   - title: "Three Ways AI and Machine Learning Will transform Software Testing"
     excerpt: "Large and small businesses are searching for ways to reduce costs and increase testing coverage and reliability while providing software that meets consumer standards and deadlines. Testers are gradually turning to artificial intelligence and machine learning under these stresses to augment their research processes."

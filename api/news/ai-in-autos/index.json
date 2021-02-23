@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -454,8 +454,8 @@
       "title": "Baidu’s share price bounces back ahead of earnings",
       "excerpt": "On 18 March, Baidu’s share price fell to $83.62 on the stock’s worst day of trading — its lowest close since 2013. Over the following months, Baidu’s share price had a lacklustre performance and didn’t return to the green until 4 November,",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "webUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -740,6 +740,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
+      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
+      "excerpt": "The \"Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19634522/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportuniti",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19634522/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportuniti",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19634522",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19634522",
+      "publishedDateTime": "2021-02-12T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1427,58 +1461,6 @@
         "name": "Albuquerque Journal",
         "domain": "abqjournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-toyota-and-aurora-craft-deal-to-develop-self-driving-taxis.md",
-      "title": "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis",
-      "excerpt": "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
-      "originalUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/02/Aurora-Sienna-1200px.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
-      "publishedDateTime": "2021-02-09T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

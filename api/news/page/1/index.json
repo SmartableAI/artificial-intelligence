@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers.md",
+      "title": "Enterprises customize Clinc’s conversational AI to connect with their customers",
+      "excerpt": "Clinc's conversational AI platform uses NLP to streamline customer queries and collect related data for financial enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1614002657936.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "publishedDateTime": "2021-02-23T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-t-cell-screening-launched-to-detect-prior-covid-infections.md",
       "title": "T-Cell Screening Launched to Detect Prior Covid Infections",
       "excerpt": "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n",
@@ -337,6 +389,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-the-5-things-everyone-should-know-about-cloud-ai-according-to-a-sequoia-capital-partner.md",
+      "title": "The 5 things everyone should know about cloud AI, according to a Sequoia Capital partner",
+      "excerpt": "Sequoia Capital investor Konstantine Buhler discusses how the impact of artificial intelligence will unfold over the next decade in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
+      "originalUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603465e9d920880018591685?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
+      "publishedDateTime": "2021-02-23T09:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience.md",
       "title": "Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience",
       "excerpt": "This is a guest post authored by Ben Rigby, the VP, Global Head of Product &amp; Engineering, Artificial Intelligence and Machine Learning at Talkdesk. Talkdesk broadens contact center machine learning capabilities with AWS Contact Center Intelligence. At Talkdesk, we’re driven to reduce friction in",
@@ -448,7 +552,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -860,7 +964,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1130,93 +1234,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
-      "title": "SAIC taps Chinese chip startup for self-driving cars",
-      "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "originalUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1",
-          "width": 820,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "publishedDateTime": "2021-02-23T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-computer-vision-market-latest-innovations-and-trends-2021-2026.md",
-      "title": "Computer Vision Market Latest Innovations and Trends 2021-2026",
-      "excerpt": "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "originalUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U223648370_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "publishedDateTime": "2021-02-22T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

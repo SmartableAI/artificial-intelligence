@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
 type: article
 quality: 104
-heat: 244
+heat: 234
 published: true
 
 provider:
@@ -166,20 +166,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2021/02/phil-spencer-kareem.png"
         width: 1024
         height: 768
-        isCached: true
-  - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
-    excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
-    publishedDateTime: 2021-02-19T06:35:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-dynamicsat-the-forefront-of-business-solutions-innovation-nid-15012-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/ck_images/sJQrX49z.gif"
-        width: 300
-        height: 300
         isCached: true
   - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
     excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"

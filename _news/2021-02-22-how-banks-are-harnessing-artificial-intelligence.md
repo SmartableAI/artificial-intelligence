@@ -55,20 +55,6 @@ related:
         width: 800
         height: 483
         isCached: true
-  - title: "The Emerging Role of AI and Machine Learning in the Enterprise"
-    excerpt: "The Emerging Role of AI and Machine Learning in the Enterprise By Martin Longo, CTO, TeleTech Growth Services - Artificial intelligence (AI) and machine learning have advanced significantly in recent years."
-    publishedDateTime: 2021-02-19T06:11:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/the-emerging-role-of-ai-and-machine-learning-in-the-enterprise-nid-15037-cid-72.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 58
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/l7yUfx5Z.gif"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Three Ways AI and Machine Learning Will transform Software Testing"
     excerpt: "Large and small businesses are searching for ways to reduce costs and increase testing coverage and reliability while providing software that meets consumer standards and deadlines. Testers are gradually turning to artificial intelligence and machine learning under these stresses to augment their research processes."
     publishedDateTime: 2021-02-22T00:00:00Z

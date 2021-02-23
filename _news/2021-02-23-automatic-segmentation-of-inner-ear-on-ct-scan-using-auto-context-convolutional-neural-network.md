@@ -74,20 +74,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Self-Driving Cars are Already Changing the Automotive Industry"
-    excerpt: "Self-Driving Cars are Already Changing the Automotive Industry By David Silver, Head of Self-Driving Cars, Udacity - The growth and potential of autonomous vehicles is leading new entrants to the automotive industry,"
-    publishedDateTime: 2021-02-19T05:45:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/selfdriving-cars-are-already-changing-the-automotive-industry-nid-30124-cid-4.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/71I6D5RL.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "For self-driving vehicles, a little cooperation may go a long way"
     excerpt: "Self-driving vehicles hold the potential to deliver a safer and more efficient era of transportation, but merely replacing human drivers with automated ones only takes progress so far. Although autonomous vehicles are engineered to function largely without reliance on the outside world,"
     publishedDateTime: 2021-02-20T05:00:00Z

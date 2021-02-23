@@ -3,27 +3,27 @@ category: news
 title: "Ontario Systems Acquires Pairity to Embed the Power of Machine Learning in Its Industry-Leading Collections Technology"
 excerpt: "Ontario Systems, a leading provider of enterprise software that automates complex workflows, accelerates revenue recovery and simplifies the payment process for healthcare, accounts"
 publishedDateTime: 2021-02-23T13:36:00Z
-originalUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/ontario-systems-acquires-pairity-to-embed-the-power-of-machine-learning-in-its-industry-leading/article_06f8e436-a904-5ba2-871d-bba258cce074.html"
-webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/ontario-systems-acquires-pairity-to-embed-the-power-of-machine-learning-in-its-industry-leading/article_06f8e436-a904-5ba2-871d-bba258cce074.html"
+originalUrl: "https://www.kpcnews.com/news/state/article_5184519b-8248-5f6a-b382-9d6a06309c2a.html"
+webUrl: "https://www.kpcnews.com/news/state/article_5184519b-8248-5f6a-b382-9d6a06309c2a.html"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Marietta Daily Journal
-  domain: mdjonline.com
+  name: KPCNews
+  domain: kpcnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/assets/v3/editorial/e/ab/eabeb5dd-b6a1-59e1-b94e-cb06d9efd2ac/60350b99539c7.image.jpg?resize=630%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/kpcnews.com/content/tncms/assets/v3/editorial/a/ef/aefb5f43-b38c-5261-8ee4-c3e21a5a183a/60350bb63e052.image.jpg?resize=630%2C630"
     width: 630
     height: 630
     isCached: true
 
-secured: "+1UIgpebZQ3w7UxOa5OeID+516IWdI8892NUhAVz1a2kQp8yRhihM6oNjdL5v44IgqyAf0TlwtrYwbUwU2U1u+rLEI8Z6I+e2dvhHYem3iHPqy/gYZNjVelKFnT2FkGZy3zZNZz9U9AcS5pR/G+iUJizUsivAkt+h60FyVYjT8Qe41mL0UsFiJIsf9fhqg+7McEmEENnfvYcLCPCGl5BvDZqyJ5tR+rG8yhdjYI1tZRl5Qx7odojpku0ocvZkgF26kfMIe+jOFWoeTXolq4+3xVv/OqbmCK+aH2eDUFZlaxiOoQwthgf7CKqPmvZLNAghDy4+BVxCoOFBnYU3j+/53v1m1YP83eu1zMzdEguOvA=;hlRQHxN584VEZfRRaM8DFA=="
+secured: "PfyWIOR94Szhz56Sl20UxOZnzsBswpEpusdKVdnv/9hBw2lGQm5gy8Ipqy9wVpLA44wLUZlPMONaesk8B0/r+Ym+Z+T+AA3mB6WPLTeZW9g9BAcyft7dCX2Sbo/aQIwkjfW0WHeGGgDSN6NjHE9a+lPIu4l7hhxv7G2enurIGsGgoZwzg2LrG9s5/m1M8lG+tLsw8eknrIIxriX6iMMP+h3CGUho4hrOUP0lq8c27Xok6YOdgaaT1MxrP0Iewd4VS7AzLAKLTI2MTpJ2TgsyRqvShySVlHZG6IrGdb2ODKSM/1MDnr41YNTa0vMlmUVaXfqi/y9xdGcrw6VV1niAUOO9YY/FBDM0yeaRjilXbN0=;NLF+ZB1NyiZarJRQ3iHslA=="
 ---
 

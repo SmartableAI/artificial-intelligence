@@ -2,6 +2,402 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-01-29-globex-data-engages-austria-based-ir-worldcom-finanzkommunikation-to-disseminate-all-of-its-press-releases-in-german-language.md",
+      "title": "GlobeX Data engages Austria-based IR-WORLD.com Finanzkommunikation to disseminate all of its press releases in German language",
+      "excerpt": "Alain Ghiai, CEO of GlobeX Data commented: \"It is in the interest of all our German-speaking investors, present and future, that following our",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/939862/globex-data-engages-austria-based-ir-worldcom-finanzkommunikation-to-disseminate-all-of-its-press-releases-in-german-language-939862.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/939862/globex-data-engages-austria-based-ir-worldcom-finanzkommunikation-to-disseminate-all-of-its-press-releases-in-german-language-939862.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/939862",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/939862",
+      "publishedDateTime": "2021-01-29T04:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai.md",
+      "title": "US, China or Europe? Here's who is really winning the global race for AI",
+      "excerpt": "A new report shows that in the ever-more competitive race for AI, the US has a strong lead that China is catching up with, while the EU is falling behind little by little.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "originalUrl": "https://www.zdnet.com/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/12/08/d2cda70e-e16c-48b0-b7cd-8321360bd6e5/woman-surrounded-by-high-tech-600-x-337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-china-or-europe-heres-who-is-really-winning-the-global-race-for-ai/",
+      "publishedDateTime": "2021-01-29T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-firm-leverages-artificial-intelligence-to-help-retailers.md",
+      "title": "Firm leverages artificial intelligence to help retailers",
+      "excerpt": "Southwest Florida startup has big plans to make progress with major retailers, using advanced technology to solve an age-old problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers",
+      "originalUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessobserverfl.com/sites/default/files/323677_standard.jpeg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp",
+      "cdnAmpWebUrl": "https://www-businessobserverfl-com.cdn.ampproject.org/c/s/www.businessobserverfl.com/article/firm-leverages-artificial-intelligence-to-help-retailers?amp",
+      "publishedDateTime": "2021-01-29T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Observer",
+        "domain": "businessobserverfl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-top-5-fintech-trends-that-will-shape-financial-markets-in-2021.md",
+      "title": "Top 5 Fintech Trends That Will Shape Financial Markets in 2021",
+      "excerpt": "The popularity of fintech has spiked in recent times. Here's how FinTech will shape the global financial market in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362981",
+      "originalUrl": "https://www.entrepreneur.com/article/362981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611768140-GettyImages-1180543383.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362981",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362981",
+      "publishedDateTime": "2021-01-29T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-robot-empowerment-a-viable-alternative-to-asimovs-three-laws-of-robotics.md",
+      "title": "Robot empowerment - a viable alternative to Asimov's three laws of robotics?",
+      "excerpt": "Human-robot interaction is upon us - we're in dire need of a framework that makes sense. Asimov's three laws of robotics are one model, but is it applicable to today's robots? An alternative based on robot \"empowerment\" is worth a close look.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "originalUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-06/shutterstock-pathdoc-1076106332.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-empowerment-viable-alternative-asimovs-three-laws-robotics?amp",
+      "publishedDateTime": "2021-01-29T02:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-machine-learning-tool-may-streamline-or-scheduling.md",
+      "title": "Machine Learning Tool May Streamline OR Scheduling",
+      "excerpt": "The use of a machine learning model may aid in accurately predicting surgical procedure time, according to the results from a randomized clinical trial. Researchers found that improving planned surgery duration accuracy reduced the use of presurgical resources,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "originalUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "publishedDateTime": "2021-01-29T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
+      "title": "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
+      "excerpt": "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-ibm-tririga-capabilities-to-help-support-organizations-return-to-work-with-ai-driven-space-planning.md",
+      "title": "New IBM TRIRIGA Capabilities to Help Support Organizations’ Return to Work with AI-Driven Space Planning",
+      "excerpt": "IBM, (NYSE: IBM) today introduced capabilities in its IBM TRIRIGA integrated workplace management system that is designed to use artificial intelligence and near real-time insights to help organizations create a safe,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-lifestyle-business-diseases-and-conditions-lung-disease-d42fee5dcfd4f71d394895118090a09f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence.md",
+      "title": "Taylor’s Robotics programme prepares students for an era of artificial intelligence",
+      "excerpt": "C3-PO, RoboCop, Transformers, Baymax and the Terminator are characters that make the top lists in best movies of all time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "originalUrl": "https://www.thestar.com.my/news/education/2021/01/29/taylors-robotics-programme-prepares-students-for-an-era-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/29/1025592.jpg",
+          "width": 1240,
+          "height": 826,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-29T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-academic-city-university-college-launches-bsc-robotics-engineering-programme.md",
       "title": "Academic City University College launches BSc Robotics Engineering Programme",
       "excerpt": "He revealed that in the Robotics programme, emphasis is placed on design, analysis and modeling, programming, integration of Artificial Intelligence (AI) and manufacturing. \"Additionally, the need to industrialise has been effectively articulated by the ...",
@@ -766,412 +1162,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-the-role-of-ai-social-media-marketers-in-a-b2b-marketing-campaign.md",
-      "title": "The role of AI & social media marketers in a B2B marketing campaign",
-      "excerpt": "The alignment between advanced technologies and B2B marketing has evolved. Artificial Intelligence (AI) has the potential and capabilities to push B2B marketing to new heights. In past AI was just a thing of sci-fi movies and scientific laboratories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign",
-      "originalUrl": "https://www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.clickz.com/wp-content/uploads/2021/01/B2B-Marketing-Campaign.png",
-          "width": 768,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign/264854/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign/264854/amp/",
-      "publishedDateTime": "2021-01-28T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
-      "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
-      "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg",
-          "width": 800,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T13:48:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-robust-artificial-intelligence-tools-to-predict-future-cancer.md",
-      "title": "Robust artificial intelligence tools to predict future cancer",
-      "excerpt": "MIT researchers have improved their machine learning system, Mirai, developed to predict cancer risk from mammogram images, and validated their effectiveness with studies across several hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
-      "originalUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202101/MIT-Mirai_0.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-googles-updated-voice-access-leverages-ai-to-detect-in-app-icons.md",
-      "title": "Google’s updated Voice Access leverages AI to detect in-app icons",
-      "excerpt": "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
-      "publishedDateTime": "2021-01-28T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-artificial-intelligence-in-epidemiology-market-by-ai-type-infrastructure-deployment-model-and-services-global-forecast-to-2026-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services - Global Forecast to 2026 - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This global AI epidemiology and public health market report provides a comprehensive evaluation of the positive impact that AI technology will produce with respect to healthcare informatics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-kitovai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual-inspection-solutions.md",
-      "title": "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions",
-      "excerpt": "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19379252",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19379252",
-      "publishedDateTime": "2021-01-28T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
-      "title": "Facial recognition now used for border screenings at MSP Airport",
-      "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
-      "sourceUrl": null,
-      "webUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "originalUrl": "https://bringmethenews.com/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTcxODMyMjYyNjQ2NTcyMzU0/1024px-msp_airport_-_view_from_the_observation_deck_8487245657.jpg",
-          "width": 620,
-          "height": 411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-lifestyle/facial-recognition-now-used-for-border-screenings-at-msp-airport",
-      "publishedDateTime": "2021-01-28T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bring Me The News",
-        "domain": "bringmethenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.md",
-      "title": "NVIDIA Expands vGPU Software To Accelerate Workstations, AI Compute Workloads",
-      "excerpt": "Support for NVIDIA A40 gives remote users best-in-class RTX graphics performance; NVIDIA GPU Operator support streamlines management of containerised AI workloads. SINGAPORE—January 28, 2021—Designers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-4-ways-ai-and-ml-enhance-the-b2b-buyers-journey.md",
-      "title": "4 Ways AI And ML Enhance The B2B Buyers’ Journey",
-      "excerpt": "Just as consumer marketing teams have found AI-driven martech to help them reach their buyers where they are, B2B marketing teams are starting to realize that AI can do similar things to enhance their business customers’ journeys.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012fb7404112e7aa8e50214%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2021/01/28/4-ways-ai-and-ml-enhance-the-b2b-buyers-journey/amp/",
-      "publishedDateTime": "2021-01-28T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

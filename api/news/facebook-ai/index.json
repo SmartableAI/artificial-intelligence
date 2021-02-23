@@ -107,6 +107,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
+      "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
+      "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "publishedDateTime": "2021-02-22T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-disrupting-tech-hiring-how-ai-connects-companies-to-talent.md",
       "title": "Disrupting tech hiring: How AI connects companies to talent",
       "excerpt": "AI and big data technology are spearheading the evolution in recruitment technology -- taking hiring far beyond LinkedIn.",
@@ -304,6 +356,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-facebook-has-tentatively-friended-us-again-australia-says.md",
+      "title": "Facebook has 'tentatively friended' us again, Australia says",
+      "excerpt": "Facebook Inc is back at the negotiating table, Australian Prime Minister Scott Morrison said on Saturday after the tech giant this week blocked news o",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-81121800/81121800.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
+      "publishedDateTime": "2021-02-19T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1429,110 +1524,6 @@
         "AI in Marketing",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-ai-holds-the-key-to-even-better-ai.md",
-      "title": "AI holds the key to even better AI",
-      "excerpt": "The task of creating effective deep learning models has become too much of a challenge for humans to tackle alone.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/ai-holds-the-key-to-even-better-ai/amp/",
-      "publishedDateTime": "2021-01-28T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-snap-looks-to-enhance-augmented-reality-features-with-acquisition-of-british-research-lab-ariel-ai.md",
-      "title": "Snap looks to enhance augmented reality features with acquisition of British research lab Ariel AI",
-      "excerpt": "Snap, the parent company of Snapchat, has acquired a British artificial intelligence start-up called Ariel AI which focuses on augmented reality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104318447-GettyImages-647204978.jpg?v=1588764817",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/snap-acquires-ariel-ai-to-boost-snapchat-augmented-reality-features.html",
-      "publishedDateTime": "2021-01-26T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

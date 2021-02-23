@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-supp
 webUrl: "https://www.prnewswire.com/il/news-releases/octopai-announces-support-of-snowflake-continuing-to-empower-bi--analytics-groups-with-advanced-intelligence-in-hybrid-and-complex-bi-environments-301232461.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
-    excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
-    publishedDateTime: 2021-02-19T06:48:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/platform-convergence-analytics-and-mobility-drives-disruptive-business-models-in-government-nid-2894-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 13
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/hz4OtL2K.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "GZ6G Technologies Announces Development of Innovative Artificial Intelligence Analytics platform VenuTrax for launch by Green Zebra Smart Labs"
     excerpt: "This is an exciting time for GZ6G Technologies and our recently formed Green Zebra Smart Labs division. VenuTrax has been developed to revolutionize how cities and venues operate, providing access to in venue data in real-time,"
     publishedDateTime: 2021-02-23T12:47:00Z

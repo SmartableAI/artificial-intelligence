@@ -2,6 +2,437 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-04-amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles.md",
+      "title": "Amazon plans to install AI-powered cameras in delivery vehicles",
+      "excerpt": "Amazon said Wednesday it plans to equip its delivery vans with cameras powered by artificial intelligence in an effort The internet retailer said it had recently started rolling out technology across its delivery fleet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
+      "originalUrl": "https://www.cnet.com/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/fS83UzG25a-76KAqWp20Oyc6ycU=/1200x630/2021/02/04/35d80178-a496-462f-a268-0a74948f3cb0/gettyimages-1230935623.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-plans-to-install-ai-powered-cameras-in-delivery-vehicles/",
+      "publishedDateTime": "2021-02-03T19:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-wafer-scale-chip-to-power-ai-supercomputers.md",
+      "title": "Wafer-Scale Chip to Power AI Supercomputers",
+      "excerpt": "Wafer-scale AI chip startup Cerebras will supply its technology to EPCC, the supercomputing center at the University of Edinburgh, UK. The new hardware, designed specifically to accelerate huge AI workloads,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
+      "originalUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/02/Cerebras_WLC.jpg",
+          "width": 1024,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
+      "publishedDateTime": "2021-02-03T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eetindia.co.in",
+        "domain": "eetindia.co.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-is-the-ai-ethics-issue-hindering-innovation.md",
+      "title": "Is the AI ethics issue hindering innovation?",
+      "excerpt": "There are too many cases of discrimination in AI and, in some cases, organizations are even shelving plans to adopt it altogether Beneath the exciting",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "originalUrl": "https://techwireasia.com/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2017/05/brain.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
+      "publishedDateTime": "2021-02-03T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish.md",
+      "title": "Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish",
+      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 Console and APIs make it easier to build, deploy, and manage bots. In this post, you will learn about about the 3 main benefits of Amazon Lex V2 Console and API, basic bot building concepts, and",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2423-NEW-1.jpg",
+          "width": 800,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:37:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-speech-and-voice-recognition-market-revenue-future-growth-top-key-players-trend-insights-and-investment-opportunities-forecast-to-2026.md",
+      "title": "Speech and Voice Recognition Market Revenue, Future Growth, Top Key Players, Trend Insights and Investment Opportunities Forecast to 2026",
+      "excerpt": "The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-future-growth-top-key-players-trend-insights-and-investment-opportunities-forecast-to-2026-2021-02-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-revenue-future-growth-top-key-players-trend-insights-and-investment-opportunities-forecast-to-2026-2021-02-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models.md",
+      "title": "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models",
+      "excerpt": "As AI applications are exploding ... We've seen how vendors like GreenWaves or Blaize support ONNX. ONNX came out of Facebook originally, and Sparks noted the reason ONNX was developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/03/9101c150-c8ae-49c6-8dec-abbebf3c35ab/xenonstack-onnx-overview-advantages.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "publishedDateTime": "2021-02-03T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-clearview-ais-facial-recognition-app-ruled-illegal-in-canada.md",
+      "title": "Clearview AI’s Facial-Recognition App Ruled Illegal in Canada",
+      "excerpt": "Canadian authorities declared that the company needed citizens’ consent to use their biometric information, and ordered the firm to delete facial images from its database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
+      "publishedDateTime": "2021-02-03T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-15-examples-of-how-telcos-are-moving-to-the-public-cloud.md",
+      "title": "15 examples of how telcos are moving to the public cloud",
+      "excerpt": "I’m the world’s expert when it comes to moving to the public cloud. I’ve been talking with hundreds of telco execs and the flywheel is starting to turn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
+      "originalUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
+      "publishedDateTime": "2021-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-etihad-airways-transforms-operations-with-microsoft-ai-capabilities.md",
+      "title": "Etihad Airways transforms operations with Microsoft AI capabilities",
+      "excerpt": "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services. The move will ensure that the process of identifying fraudulent or incorrect payments to suppliers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/Etihad_Airways_transforms_operations_with_Microsoft_AI_capabilities-SNG_199629494/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/201122084121FMQX.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_199629494/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_199629494/",
+      "publishedDateTime": "2021-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-incorporating-intrinsic-suppression-in-deep-neural-networks-captures-dynamics-of-adaptation-in-neurophysiology-and-perception.md",
       "title": "Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception",
       "excerpt": "When trained to classify natural images, these models describe the stages of ventral visual stream processing of brief stimulus presentations with unprecedented accuracy (28–33), while capturing essential aspects of object recognition behavior and ...",
@@ -762,443 +1193,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-microsoft-launches-custom-neural-voice-in-limited-access.md",
-      "title": "Microsoft launches Custom Neural Voice in limited access",
-      "excerpt": "Microsoft today launched Custom Neural Voice in limited preview, a service that allows customers to create custom voices using AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/microsoft-launches-custom-neural-voice-in-limited-access/amp/",
-      "publishedDateTime": "2021-02-03T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-are-you-talking-to-me-azure-ai-brings-iconic-characters-to-life-with-custom-neural-voice.md",
-      "title": "Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice",
-      "excerpt": "The post Are you talking to me? Azure AI brings iconic characters to life with Custom Neural Voice appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai-for-business/?p=3039",
-      "originalUrl": "https://blogs.microsoft.com/ai-for-business/?p=3039",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/171/2020/08/headshot-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T09:00:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-the-future-of-work-now-ai-driven-policing-in-wilmington-nc.md",
-      "title": "The Future Of Work Now: AI-Driven Policing In Wilmington, NC",
-      "excerpt": "Police officers in Wilmington, NC now use two AI-based tools from ShotSpotter for gunshot detection and patrol recommendations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/",
-      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601ad258dfd08e5e88bc7a7a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/02/03/the-future-of-work-now-ai-driven-policing-in-wilmington-nc/amp/",
-      "publishedDateTime": "2021-02-03T08:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-self-driving-cars-and-parallels-to-minecraft.md",
-      "title": "Self-Driving Cars And Parallels To Minecraft",
-      "excerpt": "Minecraft is big business. This quite revered and now over a decade old video game has reportedly attained more than 126 million monthly active players and has sold well beyond 200 million copies of the gaming software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6019e6282fe1ee9cfc355e07%2F0x0.jpg%3FcropX1%3D766%26cropX2%3D2715%26cropY1%3D276%26cropY2%3D1178",
-          "width": 1199,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
-      "publishedDateTime": "2021-02-03T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform.md",
-      "title": "Reverie Labs raises $25 million for its AI drug discovery platform",
-      "excerpt": "Reverie Labs, a startup using AI to develop new medicines, today announced the closure of its $25 million series A round. The company says the capital will be used to advance its internal and partnered drug discovery program,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/",
-      "originalUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/03/reverie-labs-raises-25-million-for-its-ai-drug-discovery-platform/amp/",
-      "publishedDateTime": "2021-02-03T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-image-recognition-market-worth-9847-billion-globally-by-2027-at-1824-cagr-verified-market-research.md",
-      "title": "Image Recognition Market Worth $ 98.47 Billion, Globally, by 2027 at 18.24% CAGR: Verified Market Research",
-      "excerpt": "\"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital Image Processing, Code Recognition, and Others), By Application (Security & Surveillance, Scanning ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "publishedDateTime": "2021-02-03T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-how-to-safeguard-students-mental-health-while-learning-from-home.md",
-      "title": "How To Safeguard Students’ Mental Health While Learning From Home",
-      "excerpt": "It’s no secret that students do their best work when they can fully concentrate on their education. But, thanks to the various lockdowns and learning from home, this tends to be a lot easier said than done, creating a huge number of other home-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
-      "originalUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/josefa-ndiaz-IzmdWT2lW5Q-unsplash-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eLearningInside News",
-        "domain": "elearninginside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-court-denies-motion-for-class-certification-in-employee-w-2-data-breach-litigation.md",
-      "title": "Court Denies Motion for Class Certification in Employee W-2 Data Breach Litigation",
-      "excerpt": "asserting several torts and state consumer protection violations. The plaintiff claimed as a result of the data breach the class suffered damages due to: unauthorized use and misuse of their PII ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.governor.ny.gov/news/governor-cuomo-announces-proposal-safeguard-data-security-rights-part-2021-state-state",
-      "originalUrl": "https://www.natlawreview.com/article/court-denies-motion-class-certification-employee-w-2-data-breach-litigation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.governor.ny.gov/sites/governor.ny.gov/files/thumbnails/image/Computer_Cyber_Technology_hero.jpg",
-          "width": 2122,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier.md",
-      "title": "If You Have A Luxury Handbag To Sell, Rebag’s New Clair AI Makes It Easier",
-      "excerpt": "In an effort to further distinguish itself amid the increasingly competitive luxury resale channel, Rebag is launching Clair AI image recognition technology for luxury products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/",
-      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601a32875504fa3f560800f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 1016,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2021/02/03/if-you-have-a-luxury-handbag-to-sell-rebags-new-clair-ai-makes-it-easier/amp/",
-      "publishedDateTime": "2021-02-03T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

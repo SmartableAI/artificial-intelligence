@@ -196,7 +196,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -451,7 +451,7 @@
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -686,6 +686,49 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
+      "title": "The Power of Artificial Intelligence (AI)",
+      "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "originalUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/7ZAitg5M.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1424,50 +1467,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-how-saas-startup-credgenics-is-helping-banks-nbfcs-and-fintechs-recover-their-bad-debts-through-aiml.md",
-      "title": "How SaaS startup Credgenics is helping banks, NBFCs, and fintechs recover their bad debts through AI/ML",
-      "excerpt": "Credgenics is an end-to-end, SaaS-based, collection management tool, which delivers customised strategies and recommends optimal legal routes to facilitate faster resolution of stressed assets.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
-      "originalUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagew5qh-1613396698748.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
-      "publishedDateTime": "2021-02-15T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

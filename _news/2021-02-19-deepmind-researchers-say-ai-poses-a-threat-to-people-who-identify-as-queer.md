@@ -8,9 +8,6 @@ webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-researchers-sa
 ampWebUrl: "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
 type: article
-quality: 82
-heat: 92
-published: true
 
 provider:
   name: Business Insider
@@ -24,22 +21,6 @@ topics:
   - Google AI
   - AI
 
-related:
-  - title: "DeepMind funding diversity in AI with new scholarship program"
-    excerpt: "A new scholarship program funded by DeepMind is helping to foster diversity in artificial intelligence research at the University of Alberta. The program, which will support two master’s students in the U of A’s Department of Computing Science,"
-    publishedDateTime: 2021-02-23T13:10:00Z
-    webUrl: "https://troymedia.com/technology/deepmind-champions-diversity-in-ai-with-new-scholarship-program-at-u-of-a/"
-    type: article
-    provider:
-      name: Troy Media
-      domain: troymedia.com
-    quality: 54
-    images:
-      - url: "https://troymedia.com/wp-content/uploads/sites/6/2017/12/robot-artificial-intellegence697.jpg"
-        width: 697
-        height: 376
-        isCached: true
-
-secured: "jqDIk/GWkWm5WLU29ulhq1gll1T0Y/XoGYy6/aLkaNa8sxU6HfhrZ9pcKCl18AIBkbola+UX3CsMYvUJQk5lfRuss67TNQYu1stLvqeWFpMIaK5Cpl1ep9kCsMxYeUUoc/kyuiZP5MPSG08A3hScDhPXhzsMxmQ1OfRvsNuQKnuJlQZ86UJmqEmRP8KlM61Ee47cJa94KlHMs5g31q1fL53lBIWTL5KwGKqetJw96ltOmMLNznUz/sfWCNXcrjiA9fmIDjg9J7ISaoMQMKWFlIKl2EyfQxVjUbKakvufUqirLF84Suq54ze3rcAHqgp/e/vZ6kA0ea7CK5HMI5YI9obHE+1pKIxkkD11zNyYYkI=;elaxheZEQsEhO/r9tbSNDA=="
+secured: "b6Y+yUo511uloSb7DiZ/Jt/6BUe1e0wQkgfO/d2C0Vd2BCQrgGiBOIs9PNVJyXFZOcIxpEsktqr4kCkVGjXPR5YOi2kxKMObVuyCfQu50tpKSyK4khgO5RWZC4gGzi4oj6WahmXkPuwx3uCKgf6bfMTQ7Y7/ttr9bnugZjelbYSwHfopfOfNOqQS2o8IBzhXeWNSbqjR8hXDrgc/O+QmVJ01kxHEyKyV0H88KmrxFCdE+7Z+7IDFmW++8pbZnFS/VfyFWWROY7YXOqjNW2KUGA7ITGjNfr7I+/rIgyahxZqlnKYggea6FgoIvaos+nhds0ijBzocexDwryJEeP6uM1wv6c/99vE18cn0/hil4Ok=;h/6FcFRLxJorWXuSE+PvgQ=="
 ---
 

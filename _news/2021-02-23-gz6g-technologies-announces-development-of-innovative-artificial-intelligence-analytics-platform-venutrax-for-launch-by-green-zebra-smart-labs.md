@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government"
-    excerpt: "Platform Convergence, Analytics, and Mobility Drives Disruptive Business Models in Government By Niten Malik, Director, US Public Service, Microsoft - The efforts to build sophisticated cloud or on premises solutions are often complicated by inflexible technology."
-    publishedDateTime: 2021-02-19T06:48:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/platform-convergence-analytics-and-mobility-drives-disruptive-business-models-in-government-nid-2894-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 13
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/hz4OtL2K.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Octopai Announces Support of Snowflake, Continuing to Empower BI & Analytics Groups with Advanced Intelligence in Hybrid and Complex BI Environments"
     excerpt: "This follows a recent announcement of its support of Microsoft Azure Data Factory ... The company was recognized as a Gartner Cool Vendor for Data Science and Machine Learning in 2018 and has been recognized in 2019 and 2020 as one of the top companies ..."
     publishedDateTime: 2021-02-22T12:46:00Z

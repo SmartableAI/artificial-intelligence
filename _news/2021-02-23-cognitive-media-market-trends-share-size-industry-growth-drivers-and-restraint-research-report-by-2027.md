@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-t
 webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Industry Report 2027 | Opportunity, Challenges, Rising Trends and Forecast"
-    excerpt: "The Detailed Market intelligence report on the Artificial Intelligence in Manufacturing Market applies the most effective"
-    publishedDateTime: 2021-02-19T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-industry-report-2027-opportunity-challenges-rising-trends-and-forecast-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2027"
     excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
     publishedDateTime: 2021-02-23T10:07:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/books-education/artificial-intelligence
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/books-education/artificial-intelligence-future-power-grim-wake-call-india-1502953122.html/amp"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "‘Artificial Intelligence and the Future of Power’ a grim wake-up call for India (Book Review) (Repeating, correcting intro)"
-    excerpt: "With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with"
-    publishedDateTime: 2021-02-19T06:38:00Z
-    webUrl: "https://www.canindia.com/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india-book-review-repeating-correcting-intro/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 0
 
 secured: "1zW6x0G8lqF6QuhwBn997WaUNLeslXc6UnYi7CxLgECh9hgZGivsZlrOv7x0eOzFaYLgAxCgZjILtI6WwWIgCBKuCjDOBHrNElMTmxHFYBvic3E3OKW/08/c2igrX/VgMDMiHcyD00gVYlLnP77ne2YN2edGebT+bOV06tS2fp4aYYuxrGbQCEWqhQvFOdHYd/Nr4xLAw+FluFJz7yp+u1asLbuJ9v3Y365aCPN1RGp4/cioeLcQVX40TPmpsd/e8aPr8rizbiMpwV8mdvlczOKfuFzLbhqz8N67kEzJmG4Hc4yqFjdZROzotVbBGZ84wfLZVUrI4LOPzjZxJJi8/x0cDvU0EtpaVitr/BujgFdtH15u/8M/MMuhwC9WZAXO8BOKkxUQORAFP/06q9mvxNjpmmRgwWM8O9ie+TrG1n0r1d7zyYe4RCSfemiE6grbSFbMokSF5F4sT0cMfvZyeAhEc24icAIUsUVgCI8WbxrihorSvGz2gWvXydwEBzFEoFyrDo8RSUegGgqDx7LAIA==;BlSO/GqOR0RfJuDl1SyBJw=="
 ---

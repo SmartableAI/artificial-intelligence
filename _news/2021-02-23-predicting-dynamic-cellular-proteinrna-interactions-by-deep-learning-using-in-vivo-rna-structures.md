@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41422-021-00476-y"
 webUrl: "https://www.nature.com/articles/s41422-021-00476-y"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 472
     height: 685
     isCached: true
+
+related:
+  - title: "Machine learning aids in simulating dynamics of interacting atoms"
+    excerpt: "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal."
+    publishedDateTime: 2021-02-23T21:39:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/danl-mla022321.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/257253_web.jpg"
+        width: 720
+        height: 804
+        isCached: true
 
 secured: "2l+yjszUlpvrnwT+1s9CYukoccAlretadOe3axdODlnefW4nxoA7AAG6H9sqqlpSHt/l3Fg6IuF0UiCS7J77zPNKVSLL6zB37JM9iagujWznfqaVkQw7OWObZTd98XHd5b3vI/6kl+ZuDfaM5ybzixJulekoXzOjDlIx/1d6yBfwRWxfgZz3weAsX9PT/BqMOtXF8FyT72pGzJzfaGUD8ImExsMcfuLIgyasL5pAZmUBzktCBa4lyXAl1cFoTO7DVT51KMB4rKJ4PI5fsyaN2zD0F7GBI7m1iIadIh+Edfwe/Iz0WEE42x1Hvw/YUX2TEsjaAUHBrd6B2uGrSHnPhFbU9EVwW2jsD1j6mw02aqA=;MX21E6VUa86JoPjk8zKQjA=="
 ---

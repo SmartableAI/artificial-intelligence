@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Unleashing the Potential of Fintech"
-    excerpt: "Unleashing the Potential of Fintech By Todd Nelson, SVP Strategic Partnerships Mike Petanovitch, Head of Technology, LightStream - What are the current market trends you see shaping the fintech space?"
-    publishedDateTime: 2021-02-19T06:29:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/unleashing-the-potential-of-fintech-nid-28629-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/xEL48qus.jpeg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "+T6kKedeYBCxZPGFdjWoz3Ox5BS2xdeXYkcCyjXcOxKBvrk4/N0I6QonYTPZs5q5xl8C2TsE6ptFby/9uHh5x5KybOgfBWV85Zh7NsJAV6ib5PNHFfYDZLfZOwU1RAq9Zsi7NlI5oIGGbOtYleRZRUhiby4ovhpHLaafcaOdUXL8FjUKSoIs5MxzhzvlWPSyoy63NFfMbphfyI3faV+9fJAuLfW6UClwGmEm8zqv6xu2bspLGky1ekPb00q/o8v+n6MSQrnwBwrXRhMRW8RVFm27ZzHBZcSTD87KynZ0eZ5EgPpCAzCdYvuj6LL6NEvrL2uUZZJlP4i2YXn8MlsNfGHkUbHiCMktYYtEffeYWbnpRFi7FRsspZcDFusfVEv3hDDSqMSqOlQKlZzhzgRNX3eAXeNxatpLnIAbqm6EWOd9lnFloj8E073kRJb7b7ngt0eexzT2roKxjw+l1CigwA1KOoeHSVoqw6BPj3SOgVRtAFXWymYmJsL4wII2+Ul852oJNm8IwvD4RwetbauINA==;sElKkNcvQ9u4tl/mNNPVQA=="

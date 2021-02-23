@@ -2,6 +2,197 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-03-vw-group-will-handle-self-driving-car-development-in-house-report-says.md",
+      "title": "VW Group will handle self-driving car development in-house, report says",
+      "excerpt": "Not only is developing self-driving car technology incredibly difficult, but it's also expensive. That has led many car companies to partner up with smaller, self-driving car-specific startups. Ford and Argo or Honda and Cruise,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/mHimEO5D4t57G21MdHwHA29Gl_U=/2019/08/30/b94c197b-f23c-4c0b-8248-a67c9d9108ef/ogi-vw.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
+      "publishedDateTime": "2021-02-02T17:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-4-tech-stocks-that-may-be-worth-more-in-pieces.md",
+      "title": "4 Tech Stocks That May Be Worth More in Pieces",
+      "excerpt": "The Waymo self-driving car subsidiary alone ... and is also a player in sectors as diverse as cloud computing and artificial intelligence. It still makes PC operating systems and still has its ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/",
+      "originalUrl": "https://investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/techstock1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/amp/",
+      "publishedDateTime": "2021-02-02T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
+      "title": "Artificial intelligence isn’t as smart as it thinks",
+      "excerpt": "Digital personal assistants, software that can trounce board game champions, algorithms serving up customized online advertising — wherever you turn, artificial intelligence appears to be taking over the world. But look past the self-driving cars and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/03/AIwebcrop-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "publishedDateTime": "2021-02-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open.md",
+      "title": "Get ready to roll! AWS DeepRacer pre-season racing is now open",
+      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. Pre-season qualifying",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2252-1-Thumbnail.jpg",
+          "width": 568,
+          "height": 329,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-01T14:39:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-baidu-green-light-to-test-driverless-autonomous-vehicles-in-california.md",
       "title": "Baidu green light to test driverless autonomous vehicles in California",
       "excerpt": "Baidu’s autonomous vehicles can now drive alongside those from Cruise, Waymo, Nuro, Zoox and AutoX in California. The Chinese company has just received approval to operate its autonomous driverless vehicles from the US state.",
@@ -1274,196 +1465,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-tesla-rival-xpeng-p7-gets-significant-self-driving-software-updates.md",
-      "title": "Tesla rival XPeng P7 gets significant self-driving software updates",
-      "excerpt": "China's closest Tesla Model 3 competitor, the XPeng P7, launched in April last year, loaded to the gills with enough self-driving sensors and computers to achieve full autonomy once the software is ready.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/",
-      "originalUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/fb141fa/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F5a%2Faf%2F069a73894762b1ee09fff403f676%2Fxpengp7otaupgrade2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true",
-      "publishedDateTime": "2021-01-26T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-tesla-will-never-achieve-full-self-driving-capabilities-waymo-ceo-says.md",
-      "title": "Tesla will never achieve full self-driving capabilities, Waymo CEO says",
-      "excerpt": "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "publishedDateTime": "2021-01-26T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-blackberry-will-power-baidu-technology-for-future-chinese-evs.md",
-      "title": "BlackBerry will power Baidu technology for future Chinese EVs",
-      "excerpt": "It's another step for BlackBerry to plant roots in China after it closed a deal with Baidu to provide its software to the search engine giant's Apollo self-driving car program. While the software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/S-Z43U4b_D-rADVN2T8YyVI7K3I=/2021/01/26/de4d16c2-cbea-412d-871e-2bc50534edd2/bb.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/blackberry-will-power-baidu-technology-for-future-chinese-evs/",
-      "publishedDateTime": "2021-01-26T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-artificial-intelligence-revolution-will-make-many-jobs-obsolete.md",
-      "title": "Artificial Intelligence Revolution Will Make Many Jobs Obsolete",
-      "excerpt": "From personal digital assistants to self-driving cars, artificial intelligence is quickly gaining ground with the technology promising increased productivity, efficiency and safety. Kiet Do reports.",
-      "sourceUrl": null,
-      "webUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
-      "originalUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS SF BayArea",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

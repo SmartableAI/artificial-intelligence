@@ -177,20 +177,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
-    excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
-    publishedDateTime: 2021-02-19T06:35:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-dynamicsat-the-forefront-of-business-solutions-innovation-nid-15012-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/ck_images/sJQrX49z.gif"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft Translator now offers text translation in nine additional languages"
     excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"
     publishedDateTime: 2021-02-23T14:34:00Z

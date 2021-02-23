@@ -25,37 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Canada vows to be next country to go after Facebook to pay for news"
-    excerpt: "Canada vowed on Thursday to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia."
-    publishedDateTime: 2021-02-19T05:56:00Z
-    webUrl: "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AI349"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AI349"
+  - title: "Facebook has 'tentatively friended' us again, Australia says"
+    excerpt: "Facebook Inc is back at the negotiating table, Australian Prime Minister Scott Morrison said on Saturday after the tech giant this week blocked news o"
+    publishedDateTime: 2021-02-20T04:33:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552079740&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I006"
-        width: 796
-        height: 545
-        isCached: true
-  - title: "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans"
-    excerpt: "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes."
-    publishedDateTime: 2021-02-23T06:25:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
-    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 60
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588"
+      - url: "https://static.toiimg.com/photo/msid-81121800/81121800.jpg"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
   - title: "Facebook's faceoff with Australia could backfire"
     excerpt: "Facebook Inc.’s dramatic move to block Australian news-sharing escalated a broader battle against global regulation. That gambit looks likely to backfire."
@@ -71,43 +55,6 @@ related:
         width: 945
         height: 630
         isCached: true
-  - title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-    publishedDateTime: 2021-02-23T01:41:00Z
-    webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "After Facebook, Twitter ban, Trump supporters, extremists turn elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders; banned from mainstream platforms, US conspiracy theorist and white supremacist movements, many of whom support Donald Trump,"
-    publishedDateTime: 2021-02-23T13:00:00Z
-    webUrl: "https://www.globaltimes.cn/page/202102/1216319.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 23
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-23/9bd16d7f-f4fa-4290-ae78-69703365e84a.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Local Facebook rival soars as boycott grows"
-    excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."
-    publishedDateTime: 2021-02-22T06:15:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/google-fires-ai-ethics-researcher/live-coverage/d9a32a81f13b466c1c9055737ff7f36b"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
 
 secured: "N41PNf9cfh36LfWBUTNVRljsfx4qTtjDjvjmw1KFCarVoZx2P9Q4w6Gzd8woQJuL18nJ3ZjFIXXv8elWcL/7yP8rcf3bq524vhZ9mJCmqaXT9IovBVriJB0sEM33Ga301oqqbwhcPSGrXJG3b3fEwtBqw6wf5uLtjuYfqYYPZiFUq5v0Rffsvev7mEitAEE+cL645haOArSY6RadpdjwqDMhER0T1OzpBPIM7Olq3rPGQJObsbbTXy5CXxJE/MhDW9vWAdUEpEp46tuuU9Yo+E7F0WsQSIhQ2NWBNjNC9EhOMRCQP9GK0Jy6W7AbgfpxgnD40bURN2zlksw5wvw18xrmQ0OeX22kJBNREN+ggFGW1lo9BWOxIYlQIiG2OV2mw96Vu2hS/UFfUi8Apzz3LN8IQAcA7hU5+3LnMuRNvkBy/KWgJCNTIVka6ob6vKxLSP2Fm3qUvRSLojc//IOML/su8Kz3e50u4amrNgqDeM7IkhPnEI4DPnQrgrzdVl8i1/jBOEKdv0R/sA4wQ8D6Wg==;C29fXAU7v+N6nUlOsd/4Sg=="
 ---

@@ -44,20 +44,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Appier Shares AI Predictions and Trends to Watch in 2021"
     excerpt: "TAIPEI, TAIWAN - Media OutReach - 23 February 2021 - Appier, a leading artificial intelligence (AI) company, today shares AI Predictions and Trends to Watch in 2021. Artificial intelligence (AI) and machine learning (ML) have moved from the backrooms of computer science into the mainstream."
     publishedDateTime: 2021-02-23T01:59:00Z

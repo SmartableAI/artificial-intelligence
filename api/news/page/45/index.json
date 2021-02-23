@@ -2,6 +2,446 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-01-20-zim-cooperation-network-on-ai-based-agricultural-robotics-launched-artificial-intelligence-for-sustainable-agriculture.md",
+      "title": "ZIM cooperation network on AI-based agricultural robotics launched: Artificial intelligence for sustainable agriculture",
+      "excerpt": "Zentrum für Agrarlandschaftsforschung (ZALF) e.V. The recently approved ZIM cooperation network \"DeepFarmbots\" met virtually for its official kick-off on November 25. The central goal of the network is to develop and disseminate new agricultural robotics solutions for efficient and sustainable agriculture.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news761539",
+      "originalUrl": "https://idw-online.de/de/news761539",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/corona_idw.png",
+          "width": 615,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users.md",
+      "title": "Facebook AI Gets Better at Describing Photos for Visually Impaired Users",
+      "excerpt": "The feature, introduced in 2016 (and granted the Helen Keller Achievement Award from the American Foundation for the Blind in 2018), relies on object recognition to generate descriptions of photos ...",
+      "sourceUrl": null,
+      "webUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
+      "originalUrl": "https://in.pcmag.com/social-media/140372/facebook-ai-gets-better-at-describing-photos-for-visually-impaired-users",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_in/news/f/facebook-a/facebook-ai-gets-better-at-describing-photos-for-visually-im_zvtd.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired.md",
+      "title": "Facebook uses AI to improve photo descriptions for the visually impaired",
+      "excerpt": "One of the most common types of content shared on Facebook, and other social media platforms are photographs. While most social media users can look at an image and see what it represents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
+      "originalUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/ai-img-desc.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-uses-ai-to-improve-photo-descriptions-for-the-visually-impaired-20655881/amp/",
+      "publishedDateTime": "2021-01-20T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-wimi-wins-2020-award-for-leadership-in-computer-vision-holographic-cloud-services.md",
+      "title": "WiMi Wins 2020 Award for Leadership in Computer Vision Holographic Cloud Services",
+      "excerpt": "To date, WiMi has developed the world's leading 3D computer vision and SAAS platform technologies. WiMi has also made significant progress in its ability to transform ordinary images into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/wimi-wins-2020-award-for-leadership-in-computer-vision-holographic-cloud-services-301211579.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/wimi-wins-2020-award-for-leadership-in-computer-vision-holographic-cloud-services-301211579.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T04:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-beware-the-ai-death-spiral.md",
+      "title": "Beware The AI Death Spiral",
+      "excerpt": "Companies caught in the death spiral have an AI that’s very accurate, but that's also accurately wrong -- and downright dangerous -- for their business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/beware-the-ai-death-spiral/amp/",
+      "publishedDateTime": "2021-01-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-alphaics-raises-8-million-for-ai-at-the-edge-processors.md",
+      "title": "AlphaICs raises $8 million for AI-at-the-edge processors",
+      "excerpt": "AlphaICs has raised $8 million in funding for artificial intelligence processors for edge computing applications such as cars and wearables.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alpha-2.jpg?w=1200&strip=all",
+          "width": 1190,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/alphaics-raises-8-million-for-ai-at-the-edge-processors/amp/",
+      "publishedDateTime": "2021-01-20T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-chatbots-the-great-evolution-to-conversational-ai.md",
+      "title": "Chatbots: The Great Evolution To Conversational AI",
+      "excerpt": "The outcome of the chatbot evolution is to dramatically diminish or even eliminate the need for historical data, experts and data scientists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/20/chatbots-the-great-evolution-to-conversational-ai/amp/",
+      "publishedDateTime": "2021-01-20T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
+      "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
+      "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/86988.html",
+      "originalUrl": "https://www.technewsworld.com/story/86988.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-cruise-msft-gm-1.jpg",
+          "width": 620,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski.md",
+      "title": "Trump pardons former Google self-driving car engineer Anthony Levandowski",
+      "excerpt": "Donald Trump has given a full pardon to Anthony Levandowski, a former Google engineer who stole trade secret on self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
+      "originalUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1176871826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/20/trump-pardons-former-google-self-driving-car-engineer-anthony-levandowski/amp/",
+      "publishedDateTime": "2021-01-20T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-artificial-divide-how-europe-and-america-could-clash-over-ai.md",
       "title": "Artificial divide: How Europe and America could clash over AI",
       "excerpt": "Artificial intelligence is a rapidly advancing field that policymakers everywhere are struggling to keep up with",
@@ -738,433 +1178,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-how-to-train-a-robot-using-ai-and-supercomputers.md",
-      "title": "How to train a robot (using AI and supercomputers)",
-      "excerpt": "Computer scientists developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/01/210119194329.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T17:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-self-driving-startup-aurora-partners-with-heavy-truck-company-paccar.md",
-      "title": "Self-driving startup Aurora partners with heavy truck company Paccar",
-      "excerpt": "Aurora -- a company probably best known for buying up Uber's ill-fated self-driving vehicle division -- is hard at work trying to bring autonomy to the world of trucking. To facilitate this, Aurora announced its partnership with Paccar (maker of Peterbilt and Kenworth trucks) on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/ddCJEW3LnbLxA4_0Y_6-Y_5n3go=/2021/01/19/080d0a1e-4592-46cd-942b-9a64f4cea9e8/e2d68bdc-cd79-4fb2-a700-756261f55f32-blog-truck-freeway-1260x700.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-startup-aurora-partners-with-heavy-truck-company-paccar/",
-      "publishedDateTime": "2021-01-19T16:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-cruise-gm-partner-with-microsoft-to-ramp-up-self-driving-vehicles.md",
-      "title": "Cruise, GM partner with Microsoft to ramp up self-driving vehicles",
-      "excerpt": "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to accelerate the commercialization of driverless vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548348568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I0YQ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29O1MO",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O1MO",
-      "publishedDateTime": "2021-01-19T16:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-2021-year-of-fintech-product-opportunities.md",
-      "title": "2021: Year of Fintech Product Opportunities",
-      "excerpt": "It is no secret that the COVID-19 outbreak has boosted the acceptance of some of the fintech technology developments that are most exciting. Shifting to a digital-only format was essential for stability for some financial industry players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/2021-year-fintech-product-opportunities-rick-shah",
-      "originalUrl": "https://www.linkedin.com/pulse/2021-year-fintech-product-opportunities-rick-shah",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGuQNAK71M15A/article-cover_image-shrink_600_2000/0/1611136368089?e=1617840000&v=beta&t=KpxRT7Viedla0Z_bel_0zm-Jq58uyTZBvbKitXdvaEk",
-          "width": 1080,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-oracle-packs-oracle-database-21c-with-more-than-200-innovations.md",
-      "title": "Oracle Packs Oracle Database 21c with More Than 200 Innovations",
-      "excerpt": "The new release contains more than 200 new innovations, including immutable blockchain tables, in-database JavaScript, native JSON binary data type, AutoML for in-database machine learning (ML), and persistent memory store, as well as enhancements for in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Oracle-Packs-Oracle-Database-21c-with-More-Than-200-Innovations-144764.aspx",
-      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Oracle-Packs-Oracle-Database-21c-with-More-Than-200-Innovations-144764.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dbta.com/images/social-logo-2019.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dbta.com",
-        "domain": "dbta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines.md",
-      "title": "Building, automating, managing, and scaling ML workflows using Amazon SageMaker Pipelines",
-      "excerpt": "We recently announced Amazon SageMaker Pipelines, the first purpose-built, easy-to-use continuous integration and continuous delivery (CI/CD) service for machine learning (ML). SageMaker Pipelines is a native workflow orchestration tool for building ML pipelines that take advantage of direct Amazon SageMaker",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-automating-managing-and-scaling-ml-workflows-using-amazon-sagemaker-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/07/ML-1682-1.jpg",
-          "width": 800,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T15:51:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions.md",
-      "title": "ABBYY Emerged as the Clear Technology Leader in the SPARK Matrix: Intelligent Document Processing, 2020 by Quadrant Knowledge Solutions",
-      "excerpt": "ABBYY, a leading digital intelligence company, has been ranked by global advisory and consulting firm Quadrant Knowledge Solutions as the Technology Leader in its report titled SPARK Matrix™: Intelligent Document Processing Platform (IDP),",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-1029980841",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-1029980841",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-1029980841",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-1029980841",
-      "publishedDateTime": "2021-01-19T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-gm-cruise-partner-with-microsoft-to-speed-up-self-driving-ev-technology.md",
-      "title": "GM, Cruise partner with Microsoft to speed up self-driving EV technology",
-      "excerpt": "General Motors and its self-driving car subsidiary Cruise will partner with Microsoft to accelerate the commercialization of self-driving vehicles, the companies said Tuesday. Additionally ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freep.com/story/money/cars/general-motors/2021/01/19/gm-cruise-microsoft-self-driving-ev/4209641001/",
-      "originalUrl": "https://www.freep.com/story/money/cars/general-motors/2021/01/19/gm-cruise-microsoft-self-driving-ev/4209641001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/19/PDTF/df2e0e4a-2fe6-4753-b561-7f6b75e03fa5-Cruise-Photography-AV-02-Smaller-Size.jpg?auto=webp&crop=2989,1681,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.freep.com/amp/4209641001",
-      "cdnAmpWebUrl": "https://amp-freep-com.cdn.ampproject.org/c/s/amp.freep.com/amp/4209641001",
-      "publishedDateTime": "2021-01-19T14:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit Free Press",
-        "domain": "freep.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream.md",
-      "title": "Microsoft Teaming With GM to Bring Driverless Cars Into ‘Mainstream’",
-      "excerpt": "Microsoft is throwing the dice and betting that General Motors’ driverless car and electric vehicles technology will soon be “mainstream.” In an announcement Tuesday, the software giant said it’s teaming up with GM and its self-driving car subsidiary Cruise to speed up the commercialization of autonomous cars,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/",
-      "originalUrl": "https://www.kabc.com/news/microsoft-teaming-with-gm-to-bring-driverless-cars-into-mainstream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newsmax.com/Newsmax/files/d4/d482a16e-94a4-49ca-a7ed-6592d675f779.jpg",
-          "width": 600,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KABC",
-        "domain": "kabc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

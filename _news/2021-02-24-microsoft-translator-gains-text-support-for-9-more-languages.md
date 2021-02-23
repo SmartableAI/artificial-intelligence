@@ -163,20 +163,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation"
-    excerpt: "Microsoft Dynamics-At the Forefront of Business Solutions Innovation By Manpreet Kalsi, VP, AKA Enterprise Solutions, Inc. - In Step with the Latest Trends Microsoft Dynamics provides business solutions for all aspects of"
-    publishedDateTime: 2021-02-19T06:35:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-dynamicsat-the-forefront-of-business-solutions-innovation-nid-15012-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/ck_images/sJQrX49z.gif"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
     excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
     publishedDateTime: 2021-02-21T19:56:00Z
@@ -234,6 +220,6 @@ related:
         height: 616
         isCached: true
 
-secured: "DYrMtP/qDIb66aAM1uMYbwEZ45hBnc82XyDSX/gsnudf7LIgaTLhSZ5uxb658Fp7sxPyyrxRdPY40CnGyFMbZ6QjKmtlTDNCF+cjQJbmlpc7wXzODbjylJKyhbRE+3mYNRrEKxNvf+jSlwtloAFeE/EE+opqc1AMXvCNO3oFwarYulq+1Z5HADCu6zG9nt91RiUmkNgk5QYfF/isYK5kvHe/nWBLLepvU/o/+5qll4wMnaxRbgd5OfPKlZ5OswfGeCn0xXg7Nhovs8JaPqAJpzGWrxrDuNsCZVp2OwlblRtajv0KAHSjmrpVPQBQ0t5KAqMr2CpGWxPz4U4F3vWrNEZMgBJ40pD34npxYiQJppI=;iZ91d8Z0jjUHt8VGkTRTtw=="
+secured: "zBxSSSPUlX1GoT4eNASz0PPXYF2Jx6BnIj94bpJfPvyppc4lDzs9MVaKvK8ETFM3Xt0ouH+pImbJXLwSL18b67rSDZHDIy5AJP6UAEqxBMS0BXEy6JEzlG98AdGFmA4pZ7n2+atSwjfhuSu455P1dzU8FLgNoWPD7ToUU9Ar+ILXXCOYIlwsD4ezcX6EGiqu9YEeYRB8SAmc9DJDqVfpB05KBQqJiFionhV2gcmxBEsmGDW4bL8X2WwY0J+5YhHM1xfAlfEm5+/zbI/ld7ys1YfF1MzVhoJ/YhZDGlPKrUplDnlvns9jyr2SmokqkZY3wWmgCW/FFrJ5AmqsoZG8vZDNvqH5jnsRfoyMvLJi2KxuJY+BQ36Moci9YZLOKZWl54IdY1+jH47OdJmC60+GZp74Mg3Te+FmJTkfJD/u5kbxN9oTKAOyoBokDxHuK25fk3NlnYa9xAF2OLVTjJToBwtVx8S5Dyue5tVA0eUc5AjhvESTKvIh/5dNT/MjdK3c4IQ17m51rzkfcxhu7SwiMA==;a7uZf7MK+Zm1s2hxhIpMrg=="
 ---
 

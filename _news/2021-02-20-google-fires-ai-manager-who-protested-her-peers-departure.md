@@ -2,23 +2,29 @@
 category: news
 title: "Google fires AI manager who protested her peer’s departure"
 excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-publishedDateTime: 2021-02-20T01:17:00Z
-originalUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
-webUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
-ampWebUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+publishedDateTime: 2021-02-20T01:19:00Z
+originalUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
+ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KSEE
-  domain: yourcentralvalley.com
+  name: CBS17 Raleigh
+  domain: cbs17.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
+    width: 512
+    height: 512
+    isCached: true
 
 related:
   - title: "Google has fired another AI ethics researcher for what it says were 'multiple violations' of its rules"
@@ -85,7 +91,21 @@ related:
         width: 1240
         height: 697
         isCached: true
+  - title: "Google fires another ethics scientist"
+    excerpt: "Battle of Essex ethics Google appears to have fired scientist Margaret Mitchell after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
+    publishedDateTime: 2021-02-23T22:37:00Z
+    webUrl: "https://www.fudzilla.com/news/52401-googles-fires-another-ethics-scientist"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/01b41bc70cd698d6a5ba960b9c460f60_L.jpg"
+        width: 620
+        height: 415
+        isCached: true
 
-secured: "vDQDFtqDiThXc/hjjmfE5UZtIH2egPliO+wnWGy40KcSY2ym8gC7FYrZWbieqag/PIseYgPsyIsM4tn3UQHz4JTIrsDar17xa4IsGOR3pd7oeTD25c7uy8TFyGNcRc81GxMJpMVq+ytcAhi2YsciHhUmsNz9bvVqkIXMqfo8VxlHV8vkTuuQKIAqMAN0PXoyUOlCR+oUlw0GHt1skTcfQf5uQBc/UBLkc1yMXFUOXojm842MpOkMHTv2zWrwm0J9nzu9Tquhx2jSqT9Q6I19TlcZ0EKxKzM+SwXWsFQMPdR0rX6LC68TvP+FPQxAW0CSENiznyI9HB5DSE977/URFFneqRnYHWxu4sPBht0uIYM=;A7auNaL5Wzpjl3rgtgWMZw=="
+secured: "hWp7TGZPGnLlAfSVTRgbhBgFLP4neZeamwiuL/HVTQwCSoqKFlxOlO276H/75jgPdYqyKis59L6ozVkWI0b9Ay1HXGR//6DN7/asYwYdBdka/0qrL06yhZ3OIUx3BZ4p/37i3VcxSquqO6CDbQTyF0ZdQoTou0eh9lWsKMnzSXhhSyqo5UfyiXicne2sRoM+f9DQBl9qrXbTdxgj+XsdHK871W5lpkc6mO87xTmJltBkhYzQPVOa7+/ujwGvWHcaed4r0Ki6O4ewqIMglYkEBa5UwJ3pwTttM2AiX9shRgNRDcE0zkm00QvLoVopEXQmW3WbIRk7GfWaN1TKaQ1d73+NRbtYtKqOFc1O1R91B9s=;TmwIGezya/ZWgB5oNQlSOg=="
 ---
 

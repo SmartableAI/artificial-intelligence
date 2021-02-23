@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Melax Technologies, Inc., Launches Turn Key LANN Software for Text Annotation"
-excerpt: "Melax Technologies recently announced the release of LANN, a text annotation, natural language processing (NLP) product for AI-assisted, team-based projects. Based on award-winning NLP and artificial intelligence (AI) technology,"
+excerpt: "Melax Technologies recently announced the release of LANN, a text annotation, natural language processing (NLP) product for AI-assisted, team-based projects. Based on award-winning NLP"
 publishedDateTime: 2021-02-23T19:17:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/melax-technologies-inc-launches-turn-key-lann-software-for-text-annotation-1030114868"
-webUrl: "https://markets.businessinsider.com/news/stocks/melax-technologies-inc-launches-turn-key-lann-software-for-text-annotation-1030114868"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/melax-technologies-inc-launches-turn-key-lann-software-for-text-annotation-1030114868"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/melax-technologies-inc-launches-turn-key-lann-software-for-text-annotation-1030114868"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/melax-technologies-inc-launches-turn-key-lann-software-for-text-annotation/article_3d61c6d9-abf4-5c81-b933-03d072c3f767.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/melax-technologies-inc-launches-turn-key-lann-software-for-text-annotation/article_3d61c6d9-abf4-5c81-b933-03d072c3f767.html"
 type: article
-quality: 51
-heat: 51
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "uKAJga05m1MD3wBGZ9zAjck4Nim8rpt/bzbIVTG4Hp8Do5JkIqRa7Q4PJz+Kuqivq+oZR1f3fP/1M3TJF5619HJ6yUg/AgTvk4Pw3K5T2R8JsxVaydFejcK9kb/A/SpPfm2bpbjUf3rEWGpbJJ1inppHTtJDcdqEupLEcsi1LnsZ9q1uYK0Z6v94M1hXU14F8MvnoGJqedV57UucRDeTF3nGFEl3kfwyCDVITDcUXlyRSxvdVr0xq1YsYMTPQhqS6XWXvApxUupftZGZYj1MNN/i0DGOkgf5JkaU8V1XazjLCFPCd/kPTbFzqYG52SkfC7HwfTu9nb9NZAaZDDviibzk7g0gVQDQySU9nfqfSE8=;NqGNN3kivAKyCV10T2/aEg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "GmRLkpjXaOTSAcEwbzZ9sCABNHzyLOVgf4qarfWphQ3I9i3GAkVFQKwBiRBUSnFtfhXpan5/0pee4uqWIWCYiswx7Lt8YwbCviGEMBCqESDWJ6nuI4WKadSFSI6nYT0Wu9ZtPJCYySVPcEj9S/VKCdo9oTXzWPIYw9anP4A8Eqlw8Tj12RpVfwuyoUoURRs8RQpHMOrxWK40vXSVTVSeUYWdvQI1oNf5SAkpXqcsGSHkWwNtf95rz7DgD6j/SwR8FyC6sc7qY7OiEVFzmdRF4VCzZjWQm+hZ+7i1dRNovdcko/ou9Cecq6OCmKFUItpGkWioJpaJOFkysL+BcYxUAJZF5gjL61KaCE2d7wFhLas=;uVm3zsK1qlyOXx7NZU9Kxw=="
 ---
 

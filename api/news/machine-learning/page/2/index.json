@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-how-saas-startup-credgenics-is-helping-banks-nbfcs-and-fintechs-recover-their-bad-debts-through-aiml.md",
+      "title": "How SaaS startup Credgenics is helping banks, NBFCs, and fintechs recover their bad debts through AI/ML",
+      "excerpt": "Credgenics is an end-to-end, SaaS-based, collection management tool, which delivers customised strategies and recommends optimal legal routes to facilitate faster resolution of stressed assets.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
+      "originalUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagew5qh-1613396698748.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
+      "publishedDateTime": "2021-02-15T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.md",
       "title": "Pediatric brain tumors can be classified using diffusion weighted imaging and machine learning",
       "excerpt": "Diffusion weighted imaging and machine learning can successfully classify the diagnosis and characteristics of common types of pediatric brain tumors a UK-based multi-center study, including WMG at the University of Warwick has found.",
@@ -1363,40 +1407,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-deep-learning-for-steep-gains-the-ever-popular-arkq-etf.md",
-      "title": "Deep Learning for Steep Gains: The Ever-Popular ARKQ ETF",
-      "excerpt": "Deep learning, widely viewed as the next technological revolution, carries with it an array of investment implications. Investors can tap into that theme with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04",
-      "originalUrl": "https://www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/deep-learning-for-steep-gains%3A-the-ever-popular-arkq-etf-2021-02-04?amp",
-      "publishedDateTime": "2021-02-04T08:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-publishedDateTime: 2021-02-23T20:04:00Z
-originalUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
-webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board"
+publishedDateTime: 2021-02-23T19:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-301233877.html"
+webUrl: "https://www.prnewswire.com/news-releases/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-301233877.html"
 type: article
-quality: 57
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1429058/Banjo_Health_Logo.jpg?p=facebook"
+    width: 1587
+    height: 831
     isCached: true
 
 related:
@@ -40,22 +36,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 204
-    images:
-      - url: "https://images.wsj.net/im-301391/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "IBM Explores Sale of IBM Watson Health"
-    excerpt: "IBM is studying alternatives for the unit that could include a sale to a private-equity firm or industry player, or a merger with a blank-check company, as the technology giant moves to streamline and become more competitive in cloud computing."
-    publishedDateTime: 2021-02-19T06:21:00Z
-    webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
     images:
       - url: "https://images.wsj.net/im-301391/social"
         width: 1280
@@ -242,20 +222,6 @@ related:
         width: 619
         height: 416
         isCached: true
-  - title: "IBM Considering Sale of Watson Health Division: Report"
-    excerpt: "Get Report is considering selling its unprofitable Watson Health division, according to a published report late Thursday. The company’s potential move comes as it lags far behind rivals Amazon.com  (AMZN) - Get Report,"
-    publishedDateTime: 2021-02-19T06:52:00Z
-    webUrl: "https://www.thestreet.com/investing/ibm-considering-sale-of-watson-health-division-report"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 39
-    images:
-      - url: "https://www.thestreet.com/.image/t_share/MTY4NjUxNjAzOTQ3MTA0MTUx/ibm-beats-on-top-and-bottom-lines-cloud-sales-rise.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM considers selling IBM Watson Health: 5 notes"
     excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
     publishedDateTime: 2021-02-19T15:48:00Z
@@ -377,6 +343,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "JXa+03Yp+kXCHXvHKU/jDPZAWvmb0D6mdHnJlzRIEp62V92TvMv9Ebbv/XCogqXc5MypdUMeaXyXX5F9WK4+Tx1tMa5PX1uvDs0/YHII5h9MNB9tgwyRvsE5rnMgc/Uz6z/UTe3Dqh1gp8b+HCQCCoHfUgFobeKEmCKPE1zRwSZQYA3sx9O7IPUvW7Zu3To3nZTdplpI/NvF2SEFDmngc29PkjW6cCxpvDuHY5CLIEk0bhUY1BK8Pqd+D02kTlt2FYFNz3VjHcMh9N1YfKFgPNECcWTbYODfJgAVmOyB4Lv1iLHb6SLz0fwfv9Kx4s+UM8eTf1of2tuAiHTSWB7i8mzddGlf7LWW2G5/+oUHZt0=;UnPa4BGLd978ZqbDr6RPGw=="
+secured: "luDRgp5QVYNbHWzSukia4BWsFOboPqOcxjz728xP6mXSxqYU7hXBn67LBVcWqzLY5iTu0ZFIDSs9BbsfePYy1L2oUWqR3/EiVL0Vy8A+nnLnpauUR6sWqSYig5CAFaZ9wEXtLuK3tgFsQxHTwMDgXt7wuN83IJaCUb+4z6s3sn7L8Zi39NVP0yceLDFllmPAQamUCAmEnwrITbcSEEF/CGtycaBXtsm4auAEMtOUT0XZf6QcsJObOp4FmRjIfA2t2Rqk9RuXXu/uVyz8G70EiAllyPYfcgnxzzIR7+yVLk8MMQhKGrZaOpOQKtvLssD0V+IWH2AJDb7L+LfW1Oj4Q+fzd5YFBm95YkNSB3dx/9I=;nN9IBtDePrAhROfIJk23Vg=="
 ---
 

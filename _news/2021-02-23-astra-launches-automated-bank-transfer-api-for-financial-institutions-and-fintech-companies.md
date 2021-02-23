@@ -57,20 +57,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Unleashing the Potential of Fintech"
-    excerpt: "Unleashing the Potential of Fintech By Todd Nelson, SVP Strategic Partnerships Mike Petanovitch, Head of Technology, LightStream - What are the current market trends you see shaping the fintech space?"
-    publishedDateTime: 2021-02-19T06:29:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/unleashing-the-potential-of-fintech-nid-28629-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/xEL48qus.jpeg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "iY71UVcsNp2G7snWNWDZQqSIGsAvYq07f4VFnohB5StKaMz6v0YB0fKfyuFHU8ZnYp25IQKeQAb2tBLp5/1dFi72mYAf5bgfFbJto6WPAOCQ8dw/KSklgHayOJdhvuL8rp3QwpwG53w7ra36VG3CM1R3fSJp5sRIVcLLW5edYSBQTBpLP2rwNrzREtTAQMsCJQ92OdRAye3HfF9+H3+7vYN0NCGZik3BxML59pb90XnwgBi6eXszLpCyapMCVX/NFm4zIF5XAnfFDF9O61JSSmpptX2KWY6cesXOv2fHdbqrRFdDcZWvunn935CnFT584owgIEOWEvJD1TfROG9LGE3WAPZpQhwkr+Xzfqh3pyI=;zvzq9e/RFg7KalRGjkMIww=="
 ---

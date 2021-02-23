@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
-    publishedDateTime: 2021-02-19T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
     excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
     publishedDateTime: 2021-02-23T12:02:00Z

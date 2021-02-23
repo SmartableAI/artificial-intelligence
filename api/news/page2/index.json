@@ -2,6 +2,145 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
+      "title": "SAIC taps Chinese chip startup for self-driving cars",
+      "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "originalUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1",
+          "width": 820,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "publishedDateTime": "2021-02-23T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-computer-vision-market-latest-innovations-and-trends-2021-2026.md",
+      "title": "Computer Vision Market Latest Innovations and Trends 2021-2026",
+      "excerpt": "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "originalUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U223648370_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
+      "publishedDateTime": "2021-02-22T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
+      "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
+      "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "publishedDateTime": "2021-02-22T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
       "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
       "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
@@ -193,7 +332,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 244,
+      "heat": 234,
       "tags": null,
       "images": [
         {
@@ -245,7 +384,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -695,7 +834,7 @@
       "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -946,7 +1085,7 @@
       "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
       "featuredContent": null,
       "highlight": null,
-      "heat": 454,
+      "heat": 434,
       "tags": null,
       "images": [
         {
@@ -1083,153 +1222,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon.md",
-      "title": "The Pro’s and Con’s of AI and Robo Wealth Management Solutions Discussed by Robert Cannon",
-      "excerpt": "The new age of AI and Robo Management Solutions has dawned. In a post-pandemic world, predictions point towards more sophisticated applications of artificial intelligence (AI) across industries, which includes financial services,",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/",
-      "originalUrl": "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2017/02/global-wealth-management-market.jpg",
-          "width": 740,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/",
-      "publishedDateTime": "2021-02-19T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc.md",
-      "title": "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC",
-      "excerpt": "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-cloud-platform-a-cheat-sheet.md",
-      "title": "Google Cloud Platform: A cheat sheet",
-      "excerpt": "Some of the latest products added to Google Cloud Platform are Cloud Inference API, allowing developers to run large-scale correlations over datasets, Shielded VMs, Cloud Tasks, Cloud IoT Edge, Cloud AutoML, and the AI Hub, allowing developers to share and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/03/21/57a279f5-6449-4ef6-8b0e-af00e3801dee/thumbnail/1200x675/58add3a5bec78b015fd9d832b6cca61d/google-cloud-platform.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "publishedDateTime": "2021-02-19T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

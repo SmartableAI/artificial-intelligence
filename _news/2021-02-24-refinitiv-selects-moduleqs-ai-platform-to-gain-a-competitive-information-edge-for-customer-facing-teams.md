@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Refinitiv Selects ModuleQ's AI Platform to Gain a Competitive Information Edge for Customer-Facing Teams"
-    excerpt: "ModuleQ, the AI solutions company that empowers professionals with business-relevant timely insights, announced today that Refinitiv, part"
-    publishedDateTime: 2021-02-23T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/refinitiv-selects-moduleqs-ai-platform-to-gain-a-competitive-information-edge-for-customer-facing-teams-301232863.html"
+  - title: "Enterprises customize Clinc’s conversational AI to connect with their customers"
+    excerpt: "Clinc's conversational AI platform uses NLP to streamline customer queries and collect related data for financial enterprises."
+    publishedDateTime: 2021-02-23T21:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/"
+    ampWebUrl: "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 22
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1614002657936.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "eBoavHbRAxIF6V8ELoPhYGyk42OgyZ81UFq9NLlkoQm0GUylRAEuKdSmWZMDiz8tJzZ9c7sq/UTXVClLGwV8nqBDtVBv6R20GXmarv0xLwasRCl0i+R/lO2WA4rs15YB9/vACdOXKs+GbprozsP4Gpkz3L3xEArJYKwZTFlYfhsUNxMgx/vML9mkznON0MboCbJSsP0FEusZknyS1DCtXVQ4I+4LVM692Q4v+gxm5P3QxRS5sgDI9hZGlpmTzuLfuQFN8nhSqxbJdmFixKhzmwYcwQW6rPBFXnLs3xebCWfUCzF2dgtWLgoHBEKHkQP9kqqAUZbw8TVjfclBqBRr6pq5Beu0S3opARr6cl0sTaA=;BLhytM98nehv4a64a06cpw=="

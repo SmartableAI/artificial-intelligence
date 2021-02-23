@@ -2,21 +2,21 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2021-01-06-sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience.md",
-      "title": "Sensiple Announces the Launch of Tryvium Desk to Enhance the Microsoft Teams Experience",
-      "excerpt": "\"With Microsoft Teams driving better collaboration ... built on trending technologies such as computer vision, cognitive services, big data, and data science. Our continuous effort to align ...",
+      "path": "_news/2021-01-18-artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030.md",
+      "title": "Artificial Intelligence likely to replace humans in cybersecurity space by 2030",
+      "excerpt": "New Delhi: As Artificial Intelligence (AI) becomes all-pervasive, a new report has forecast that technology would replace humans by 2031 in the field of cybersecurity, as hackers use more sophisticated tools.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/sensiple-announces-the-launch-of-tryvium-desk-to-enhance-the-microsoft-teams-experience-301200748.html",
+      "webUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
+      "originalUrl": "https://www.freepressjournal.in/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1394257/4fcab888c88e2c139b1294493222_Logo.jpg?p=facebook",
-          "width": 1460,
-          "height": 766,
+          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/3b2dd1c1-ba9f-430b-98c0-bd68bdfa8c0c/etc_lead_jan_17.jpg",
+          "width": 760,
+          "height": 507,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T08:00:00-08:00",
+      "ampWebUrl": "https://m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/technology/artificial-intelligence-likely-to-replace-humans-in-cybersecurity-space-by-2030/9626ec89-6519-4310-9bc2-bfc07ca58e36",
+      "publishedDateTime": "2021-01-17T09:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,26 +40,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2021-01-05-the-best-facial-recognition-security-cameras-of-2021.md",
-      "title": "The best facial recognition security cameras of 2021",
-      "excerpt": "Some home security cameras have facial recognition, an advanced option that lets you make a database of people who regularly come to your house. Then, when the camera sees a face, it determines whether or not it belongs to someone in your list of known faces.",
+      "path": "_news/2021-01-18-how-data-and-ai-can-help-create-a-mobility-renaissance.md",
+      "title": "How Data And AI Can Help Create A Mobility Renaissance",
+      "excerpt": "Evangelos Simoudis’ latest book Transportation Transformation: How Autonomous Mobility Will Fuel New Value Chains, meticulously presents the case for redefining mobility value chains globally.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2021/",
-      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2021/",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 266,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60045ed8592ed21731f31ce5%2F0x0.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 799,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -67,210 +66,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2021/",
-      "publishedDateTime": "2021-01-05T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though.md",
-      "title": "Watch this amazing AI-enhanced montage of Lumière films — historians will hate it though",
-      "excerpt": "YouTuber Denis Shiryaev used a controversial technique of AI video restoration to colorize, upscale, and enhance films by the French pioneers.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-05T122756.834-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/05/watch-this-amazing-ai-enhanced-montage-of-lumiere-films-historians-will-hate-it-though/amp/",
-      "publishedDateTime": "2021-01-05T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-zytronic-gets-designed-into-large-interactive-displays.md",
-      "title": "Zytronic gets designed into large interactive displays",
-      "excerpt": "The table is set to register 80 touch points, and the capacitive sensor and controller also support Ideum’s proprietary ‘Tangible Engine’ object recognition software – which enables users of the display to place a (specially designed) physical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsweekly.com/news/business/manufacturing/763919-2021-01/",
-      "originalUrl": "https://www.electronicsweekly.com/news/business/manufacturing/763919-2021-01/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/01/05143226/Zytronic-ZYTC035-touch-tabe-for-ideum.jpg",
-          "width": 667,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics Weekly",
-        "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023.md",
-      "title": "Artificial Intelligence (AI) in Marketing Market Will Generate New Growth Opportunities in Upcoming Year 2023",
-      "excerpt": "According to Market Research Future, the Artificial Intelligence (AI) in marketing market has been segmented into",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023-2021-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-marketing-market-will-generate-new-growth-opportunities-in-upcoming-year-2023-2021-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-ai-adoption-is-accelerating-getting-it-right-has-never-been-more-important.md",
-      "title": "AI Adoption Is Accelerating: Getting It Right Has Never Been More Important",
-      "excerpt": "Tomorrow's world is an AI world, and as business leaders, we all share the responsibility to make the best of it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/ai-adoption-is-accelerating-getting-it-right-has-never-been-more-important/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/ai-adoption-is-accelerating-getting-it-right-has-never-been-more-important/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/ai-adoption-is-accelerating-getting-it-right-has-never-been-more-important/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/05/ai-adoption-is-accelerating-getting-it-right-has-never-been-more-important/amp/",
-      "publishedDateTime": "2021-01-05T05:50:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/01/17/how-data-and-ai-can-help-create-a-mobility-renaissance/amp/",
+      "publishedDateTime": "2021-01-17T08:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -297,21 +95,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-deep-learning-harnessed-to-suggest-new-purposes-for-drugs.md",
-      "title": "Deep learning harnessed to suggest new purposes for drugs",
-      "excerpt": "These factors, which include age, sex, race, disease severity, and comorbidities, function as parameters in the deep-learning algorithm on which the method is based. The algorithm is capable of accounting for the passage of time in each patient’s ...",
+      "path": "_news/2021-01-17-powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience.md",
+      "title": "Powered by Microsoft Azure and developed by CoRover, IRCTC’s AI chatbot AskDISHA enhances user experience",
+      "excerpt": "Powered by Microsoft Azure, Indian Railway Catering and Tourism Corporation’s (IRCTC) AI-powered chatbot AskDISHA has helped improve satisfaction of customer interactions by 70%.",
       "sourceUrl": null,
-      "webUrl": "https://eandt.theiet.org/content/articles/2021/01/deep-learning-harnessed-to-suggest-new-purposes-for-drugs/",
-      "originalUrl": "https://eandt.theiet.org/content/articles/2021/01/deep-learning-harnessed-to-suggest-new-purposes-for-drugs/",
+      "webUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
+      "originalUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://eandt.theiet.org/media/7028/hospital-corridor.jpg?crop=0,0.4400584795321637,0,0.064875730994152128&cropmode=percentage&width=1200&height=450&rnd=131836400890000000",
-          "width": 1200,
-          "height": 450,
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2017/05/microsoft_headquarters-800x533.jpg?fit=800%2C533&ssl=1",
+          "width": 800,
+          "height": 533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -319,303 +117,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T05:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IET",
-        "domain": "theiet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-microsoft-azure-helps-irctc-chatbot-boost-user-experience-by-70.md",
-      "title": "Microsoft Azure helps Irctc chatbot boost user experience by 70%",
-      "excerpt": "Microsoft said on Tuesday that its Azure Cloud platform has helped Indian Railway Catering and Tourism Corporations (Irctc) AI-powered chatbot AskDISHA improve satisfaction of customer interactions by 70 per cent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imdb.com/news/ni63147427/",
-      "originalUrl": "https://www.imdb.com/news/ni63147427/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IMDb",
-        "domain": "imdb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-here-are-the-robots-taking-the-virtual-stage-at-ces-2021.md",
-      "title": "Here are the robots taking the virtual stage at CES 2021",
-      "excerpt": "This story is part of CES, where our editors will bring you the latest news and the hottest gadgets of the entirely virtual CES 2021. This year's all-digital CES is going to be a tough one for everyone involved,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "originalUrl": "https://www.cnet.com/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JGUzgEzR4jP1EdJeaQKYKvFiIXI=/1200x630/2019/01/09/6851653c-d1df-4274-a1ef-1d4125740260/yukai-bocco-emo-product-photos-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/here-are-the-robots-taking-the-virtual-stage-at-ces-2021/",
-      "publishedDateTime": "2021-01-05T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human.md",
-      "title": "Watch a Robot Dog Learn How to Deftly Fend Off a Human",
-      "excerpt": "Kick over this robot and it’ll quickly right itself—not because someone told it how, but because it taught itself to overcome the embarrassment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
-      "originalUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ff4814762dc9f2effae9942/master/pass/Science_yang7HR.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/watch-a-robot-dog-learn-how-to-deftly-fend-off-a-human/amp",
-      "publishedDateTime": "2021-01-05T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language.md",
-      "title": "Consumer-Like Employee Self-Help Requires A Bridge Between AI And The Semantics Of Human Language",
-      "excerpt": "Whether completely remote, in the office with an abundance of safety precautions or a hybrid of the two, employees require immediate, personalized help 24/7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f184032107158000722cf84%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/05/consumer-like-employee-self-help-requires-a-bridge-between-ai-and-the-semantics-of-human-language/amp/",
-      "publishedDateTime": "2021-01-05T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design.md",
-      "title": "Jarvis Meets Automotive: How Artificial Intelligence Is Remodeling Computer-Aided Design",
-      "excerpt": "The world of computer-aided design is transforming from a visual, drafting tool to an artificial intelligence agent that uses feedback and weighted goals to design an integrated system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fce6fad7d46dc2167aa1ac4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2021/01/05/jarvis-meets-automotive-how-artificial-intelligence-is-remodeling-computer-aided-design/amp/",
-      "publishedDateTime": "2021-01-05T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group.md",
-      "title": "TCS a Leader in System Integrator Capabilities on Microsoft Azure: Everest Group",
-      "excerpt": "New Delhi: Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has been recognized as a Leader in the Everest",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
-      "originalUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/09/TCS.jpg?fit=400%2C400&ssl=1",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/tcs-a-leader-in-system-integrator-capabilities-on-microsoft-azure-everest-group/?amp",
-      "publishedDateTime": "2021-01-05T03:53:00-08:00",
+      "ampWebUrl": "https://indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/powered-by-microsoft-azure-and-developed-by-corover-irctcs-ai-chatbot-askdisha-enhances-user-experience/?amp",
+      "publishedDateTime": "2021-01-16T20:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "India Education Diary",
@@ -634,21 +138,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots.md",
-      "title": "Microsoft wants to use AI to turn your friends and family into 3D chatbots",
-      "excerpt": "A patent published by Microsoft describes the process of creating an AI chatbot based on a real-life person using their social data, photos, and even voice recordings.",
+      "path": "_news/2021-01-17-neurala-with-more-cash-advances-ai-for-drones-self-driving-cars.md",
+      "title": "Neurala, With More Cash, Advances A.I. for Drones, Self-Driving Cars",
+      "excerpt": "Artificial intelligence software firm Neurala cut its ... For example, Google’s experimental self-driving vehicles (now spun off as Waymo) handle at least some of the processing of their ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
+      "webUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "originalUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2016/12/06160304/Neurala-e1484428109959.jpg",
+          "width": 1480,
+          "height": 987,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -656,16 +160,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-wants-to-use-ai-to-turn-your-friends-and-family-into-3d-chatbots/",
-      "publishedDateTime": "2021-01-05T03:50:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-16T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society.md",
+      "title": "Incoming White House science and technology leader on AI, diversity, and society",
+      "excerpt": "Incoming White House science and technology leader Dr. Alondra Nelson addressed the relationship between AI development an inclusion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "originalUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alondra-nelson.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "publishedDateTime": "2021-01-16T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -682,26 +229,25 @@
       ],
       "topics": [
         "AI",
-        "Microsoft AI",
         "AI Ethics"
       ]
     },
     {
-      "path": "_news/2021-01-05-learn-about-nvidia-in-cambridge-and-its-plans-for-a-global-ai-research-centre.md",
-      "title": "Learn about NVIDIA in Cambridge and its plans for a global AI research centre",
-      "excerpt": "NVIDIA recently announced its acquisition of Arm and its intention to develop a new global centre of excellence in AI research in Cambridge. Join Cambridge Network for a special online event on Thursday 28 January,",
+      "path": "_news/2021-01-17-startups-look-beyond-lidar-for-autonomous-vehicle-perception.md",
+      "title": "Startups look beyond lidar for autonomous vehicle perception",
+      "excerpt": "Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing,",
       "sourceUrl": null,
-      "webUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
-      "originalUrl": "https://www.cambridgenetwork.co.uk/news/learn-about-nvidia-cambridge-and-its-plans-global-ai-research-centre",
+      "webUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
+      "originalUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cambridgenetwork.co.uk/sites/default/files/styles/large/public/Blog%20Advert%20%28News%29.png?itok=XJens5pZ",
-          "width": 300,
-          "height": 250,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/foresight-place.gif",
+          "width": 800,
+          "height": 448,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -709,102 +255,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T03:25:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "publishedDateTime": "2021-01-16T09:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cambridge Network",
-        "domain": "cambridgenetwork.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-apple-work-podcast-deep-learning-with-osmo.md",
-      "title": "Apple @ Work Podcast: Deep learning with Osmo",
-      "excerpt": "In this episode of the Apple @ Work podcast, Bradley is joined by Pramod Sharma who is CEO of Osmo to talk about the founding of the company, how Osmo promotes deep learning with children, and more. Sponsor: If you’re a business of school looking to find a trusted repair partner for your Apple devices,",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2021/01/05/deep-learning-with-osmo/",
-      "originalUrl": "https://9to5mac.com/2021/01/05/deep-learning-with-osmo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2019/07/AppleAtWork.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2021/01/05/deep-learning-with-osmo/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/01/05/deep-learning-with-osmo/amp/",
-      "publishedDateTime": "2021-01-05T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-qualcomms-snapdragon-480-chip-promises-5g-for-all.md",
-      "title": "Qualcomm's Snapdragon 480 chip promises 5G for all",
-      "excerpt": "The 8nm Qualcomm Snapdragon 480 5G is the latest chip in the entry-level 4-series and the first to feature a Snapdragon X51 5G Modem-RF System, which can support mmWave and Sub-6GHz 5G. This is in addition to 2x2 dual Wi-Fi antennas to support key Wi-Fi 6 features,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
-      "originalUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1609842346/itpro/2021/01/shutterstock_smartphone%20users.jpg",
-          "width": 636,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358224/qualcomm-snapdragon-480-chip-promises-5g-for-all?amp",
-      "publishedDateTime": "2021-01-05T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -812,345 +272,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-renalytixai-to-present-at-the-39th-annual-jp-morgan-healthcare-conference.md",
-      "title": "RenalytixAI to Present at the 39th Annual J.P. Morgan Healthcare Conference",
-      "excerpt": "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-computing-and-information-technology-artificial-intelligence-360c63e89aa483632213378c60e96b2d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast.md",
-      "title": "Natural Language Processing (NLP) Market 2020 – 2025 | Development, News and significant Growth With Regional Trends By Forecast",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. The key players included in this market are [[24]7.ai, Inc., 3M, Abe AI Inc., Amazon Web Services, Inc., Apple Inc., Aylien Ltd., Cortical.io, DigitalGenius, Dolbey, Expert ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2020-2025-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-why-diversity-is-key-to-a-successful-ai-strategy.md",
-      "title": "Why diversity is key to a successful AI strategy",
-      "excerpt": "However, AI bias isn’t an issue limited to big-name companies and high-profile scandals. A recent report from Capgemini that surveyed 800 organisations and 2,900 consumers has revealed 90% of organisations are aware of at least one instance where an AI system had resulted in ethical issues for their business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1609837385/itpro/2021/01/shuttterstock_diversity.jpg",
-          "width": 1312,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358223/why-diversity-is-key-to-a-successful-ai-strategy?amp",
-      "publishedDateTime": "2021-01-05T01:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights.md",
-      "title": "How Artificial Intelligence (AI) Chipsets Market Booming Worldwide? Fortune Business Insights",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights-2021-01-05",
-      "originalUrl": "https://www.marketwatch.com/press-release/how-artificial-intelligence-ai-chipsets-market-booming-worldwide-fortune-business-insights-2021-01-05",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-05T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-mlops-the-missing-piece-in-the-enterprise-ai-puzzle.md",
-      "title": "MLOps - The Missing Piece In The Enterprise AI Puzzle",
-      "excerpt": "MLOps brings the best of iterative development involved in training machine learning models and scalable and manageable model deployment. It is currently the missing piece of the puzzle in the enterprise AI strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff412ef2693833243b358ad%2F0x0.jpg",
-          "width": 1051,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/05/mlopsthe-missing-piece-in-the-enterprise-ai-puzzle/amp/",
-      "publishedDateTime": "2021-01-04T23:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price.md",
-      "title": "How Machine Learning, Artificial Intelligence Anticipate Cryptocurrency Price?",
-      "excerpt": "The popularity of cryptocurrencies skyrocketed in 2017 due to a few continuous months of an exponential development of their showcase capitalization. The",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
-      "originalUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2021/01/images-2021-01-05T062604.468.jpeg",
-          "width": 739,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/how-machine-learning-artificial-intelligence-anticipate-cryptocurrency-price/amp/",
-      "publishedDateTime": "2021-01-04T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-05-should-we-fear-facial-recognition-technology.md",
-      "title": "Should we fear facial recognition technology?",
-      "excerpt": "The growing use of facial recognition technology has prompted calls for bans and stricter regulation around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/",
-      "originalUrl": "https://techwireasia.com/2021/01/the-irresolute-future-of-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/01/000_1A94WQ.jpg",
-          "width": 8194,
-          "height": 5463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/01/the-irresolute-future-of-facial-recognition/",
-      "publishedDateTime": "2021-01-04T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1164,21 +285,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-05-kiromic-announces-the-filing-of-key-european-patents-for-its-chimeric-pd-1-chpd1-target.md",
-      "title": "Kiromic Announces the Filing of Key European Patents for Its Chimeric PD-1 (chPD1) Target",
-      "excerpt": "Kiromic Biopharma, Inc. (Nasdaq: KRBP), a target discovery and gene-editing company utilizing artificial intelligence and proprietary neural network platform with a therapeutic focus on immuno-oncology,",
+      "path": "_news/2021-01-13-machine-learning-is-helping-high-performance-computing-go-mainstream.md",
+      "title": "Machine Learning Is Helping High-Performance Computing Go Mainstream",
+      "excerpt": "This has partly been brought about by the mainstreaming of machine learning (a subset of artificial intelligence), which generally operates at a snail's pace ... like Fugaku. Related: En Route to Exascale, Cray Designs a Supercomputer Enterprises Can ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/science-business-government-regulations-coronavirus-pandemic-ovarian-cancer-fd1147f580d54e34b67ae7eb6f2ebcb4",
-      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-government-regulations-coronavirus-pandemic-ovarian-cancer-fd1147f580d54e34b67ae7eb6f2ebcb4",
+      "webUrl": "https://www.datacenterknowledge.com/supercomputers/top500-japan-s-fugaku-still-world-s-fastest-supercomputer",
+      "originalUrl": "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/supercomputer%20fugaku.jpg",
+          "width": 614,
+          "height": 409,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1188,11 +309,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-04T18:42:00-08:00",
+      "publishedDateTime": "2021-01-13T07:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1202,10 +323,10 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
-  "nextPage": 51
+  "nextPage": null
 }

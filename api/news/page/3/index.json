@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-20-the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon.md",
+      "title": "The Pro’s and Con’s of AI and Robo Wealth Management Solutions Discussed by Robert Cannon",
+      "excerpt": "The new age of AI and Robo Management Solutions has dawned. In a post-pandemic world, predictions point towards more sophisticated applications of artificial intelligence (AI) across industries, which includes financial services,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/",
+      "originalUrl": "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2017/02/global-wealth-management-market.jpg",
+          "width": 740,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/",
+      "publishedDateTime": "2021-02-19T22:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc.md",
+      "title": "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC",
+      "excerpt": "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-facebook-has-tentatively-friended-us-again-australia-says.md",
+      "title": "Facebook has 'tentatively friended' us again, Australia says",
+      "excerpt": "Facebook Inc is back at the negotiating table, Australian Prime Minister Scott Morrison said on Saturday after the tech giant this week blocked news o",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-81121800/81121800.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
+      "publishedDateTime": "2021-02-19T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-google-cloud-platform-a-cheat-sheet.md",
+      "title": "Google Cloud Platform: A cheat sheet",
+      "excerpt": "Some of the latest products added to Google Cloud Platform are Cloud Inference API, allowing developers to run large-scale correlations over datasets, Shielded VMs, Cloud Tasks, Cloud IoT Edge, Cloud AutoML, and the AI Hub, allowing developers to share and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/03/21/57a279f5-6449-4ef6-8b0e-af00e3801dee/thumbnail/1200x675/58add3a5bec78b015fd9d832b6cca61d/google-cloud-platform.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
+      "publishedDateTime": "2021-02-19T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets.md",
       "title": "AI Weekly: The challenges of creating open source AI training datasets",
       "excerpt": "Creating open source AI training datasets is a process that must be undertaken thoughtfully, according to experts.",
@@ -61,7 +251,7 @@
       "originalUrl": "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -589,7 +779,7 @@
       "originalUrl": "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -1033,180 +1223,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "This time problems arose after disputes between panel members and Google-owned DeepMind over access to information, the WSJ reports citing unnamed sources. Panel members were also unhappy about ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T01:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-new-project-investigates-artificial-intelligence-for-sustainable-energy-integration.md",
-      "title": "New project investigates artificial intelligence for sustainable energy integration",
-      "excerpt": "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
-      "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hydrogenfuelnews.com/wp-content/uploads/2021/02/Artificial-intelligence-for-sustainable-energy-Businesss-Research-AI.jpg",
-          "width": 875,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
-      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
-      "publishedDateTime": "2021-02-19T01:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrogen Fuel News",
-        "domain": "hydrogenfuelnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
-      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "publishedDateTime": "2021-02-18T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-robot-proof-higher-education-in-the-age-of-artificial-intelligence.md",
-      "title": "Robot-Proof: Higher Education in the Age of Artificial Intelligence",
-      "excerpt": "Robot-Proof: Higher Education in the Age of Artificial Intelligence By Joseph E. Aoun, President, Northeastern University - As advanced machines and computers become more and more proficient at picking investments,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cxoinsight/robotproof-higher-education-in-the-age-of-artificial-intelligence-nid-26425-cid-75.html",
-      "originalUrl": "https://www.cioreview.com/cxoinsight/robotproof-higher-education-in-the-age-of-artificial-intelligence-nid-26425-cid-75.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/HnPaOy2U.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T22:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

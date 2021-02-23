@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Industry Report 2027 | Opportunity, Challenges, Rising Trends and Forecast"
-    excerpt: "The Detailed Market intelligence report on the Artificial Intelligence in Manufacturing Market applies the most effective"
-    publishedDateTime: 2021-02-19T05:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-industry-report-2027-opportunity-challenges-rising-trends-and-forecast-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
     excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
     publishedDateTime: 2021-02-23T14:21:00Z
