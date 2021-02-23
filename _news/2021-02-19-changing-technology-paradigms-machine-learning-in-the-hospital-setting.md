@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence Technology Solutions Is An Overvalued AI Company"
+    excerpt: "The company has developed a security robot named ROAMEO and is valued at more than $700 million as of time of writing."
+    publishedDateTime: 2021-02-21T15:21:00Z
+    webUrl: "https://seekingalpha.com/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 73
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/2/18/36303466-1613665289226179_origin.png"
+        width: 687
+        height: 244
+        isCached: true
 
 secured: "m2OKJ0K7k5zitodtI+ywhcT4/ajWbyknOLnNTveNeK8xfDGnl5SUUD7y4DNxFuNKKVBPhOJ6JTnT7gSO8/WXzYLGd+D+ytABiTCtb0p2sXrWHReGuBdu1xLS+mxL7iAbK+l223TrA+yBSiDi9avrIcJXwMbhigun2Lil890mKU12R41Xyrs0zS7Ypc89x1wH3QkGo6q6/2nz4gtZEy0EvonTwVfAuKBVbWpDVskGK3mc6qYBZtAmlRYUFZ8aajQufS0wpNMMwbRO9zUSkUPobbPPcLKAkUz824F+IuO7CW1DAcX1zE2CO2grPrnsJr3eeuboh9AtaXdy7ilVesQGGPQIsmDYUf6DJhUJhZtmi9PdKcupQQdv0DMXnFGYy9Spj9lvo9fxqLnkpresMGHryKMv+32WJuH459XqbzSx3Bi2hK5hH6mwHNL48lJTbVucYuA5Sg19ZGLrYJxWAdaGyc4FnjEjqOgZVNViA2y7nub4LpcyjWXEypsMpIfD/tVLYxhR0EgEYNpRYaOHCQoKNw==;IM5b+WMYqfnOmLdcBDEvmw=="
 ---

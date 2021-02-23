@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestatesman.com/books-education/artificial-intelligence
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/books-education/artificial-intelligence-future-power-grim-wake-call-india-1502953122.html/amp"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Artificial Intelligence and the Future of Power' a grim wake-up call for India"
-    excerpt: "New Delhi, Feb 18 : With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with \"the battle between algorithm and being\" writes Rajiv Malhotra, one of the most ..."
-    publishedDateTime: 2021-02-18T09:36:00Z
-    webUrl: "https://www.prokerala.com/news/articles/a1132144.html"
-    ampWebUrl: "https://www.prokerala.com/news/articles/a1132144.html?amp=1"
-    cdnAmpWebUrl: "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1132144.html?amp=1"
-    type: article
-    provider:
-      name: Prokerala
-      domain: prokerala.com
-    quality: 55
-    images:
-      - url: "https://www.prokerala.com/news/photos/imgs/450/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-1151753.jpg"
-        width: 375
-        height: 250
-        isCached: true
   - title: "‘Artificial Intelligence and the Future of Power’ a grim wake-up call for India (Book Review) (Repeating, correcting intro)"
     excerpt: "With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with"
     publishedDateTime: 2021-02-19T06:38:00Z

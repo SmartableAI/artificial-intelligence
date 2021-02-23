@@ -81,20 +81,6 @@ related:
         width: 1240
         height: 824
         isCached: true
-  - title: "Could Drones Use Facial Recognition? We Could Be Just One Step Closer to That Actually Happening"
-    excerpt: "The U.S. Patent and Trademark Office has just published a patent application for 'Adaptive positioning of drones for enhanced face recognition' filed by AnyVision. Veuer's Chandra Lanier has the story."
-    publishedDateTime: 2021-02-18T10:53:00Z
-    webUrl: "https://www.wtsp.com/video/syndication/veuer/could-drones-use-facial-recognition-we-could-be-just-one-step-closer-to-that-actually-happening/602-b71fef64-2438-41b6-90f2-664e9a85344e"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 26
-    images:
-      - url: "https://media.wtsp.com/assets/VEUER/images/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae/4b0aa9ac-f151-48ac-84ae-17bd5ba346ae_1140x641.jpeg"
-        width: 1140
-        height: 641
-        isCached: true
 
 secured: "KgdnUsAQiGNsVqUmYBpgHPW1dsrxaNCBH55dP8/RNF030dnI0dCfFBd2qBZEFUzHdPS9qO9JxHxXix8KQw2mAZ1sQuzL5O9w1/xJYBjwV0Zl5duJBILVGcp7AuOgKYWzv3R9giUn2AcOxjDNeb87I8tzfAmly9hndIPmpfKVtPSOlJTb8+/P0Hb6hvcm1kpwVEYwFsGEXIRzsCzjGt8uy6lp4+3mUZgxM1uI7rvSvvHoxeJ5A2hMZEs4Xeik4C/jhhfuLp9O1Kmapg9jpIJi8bk/D28++VqbgO9GLDu0decK3B2lOGKneStw2trJ7kG7zNVoku6u2M8XcMndP/r0JW2dQuWA7IVp4RmDFlva69c=;VYSxgfEWEVWiHNI60PbvSA=="
 ---

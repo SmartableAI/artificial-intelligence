@@ -32,7 +32,7 @@ related:
     provider:
       name: Actu IA
       domain: actuia.com
-    quality: 27
+    quality: 29
     images:
       - url: "https://www.actuia.com/wp-content/uploads/2021/02/Universite-Evry-MSF-CEA-CNRS-Google.jpg"
         width: 800

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-com
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Technology Solutions Is An Overvalued AI Company"
+    excerpt: "The company has developed a security robot named ROAMEO and is valued at more than $700 million as of time of writing."
+    publishedDateTime: 2021-02-21T15:21:00Z
+    webUrl: "https://seekingalpha.com/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 73
+    images:
+      - url: "https://static.seekingalpha.com/uploads/2021/2/18/36303466-1613665289226179_origin.png"
+        width: 687
+        height: 244
+        isCached: true
   - title: "Changing Technology Paradigms - Machine Learning in the Hospital Setting"
     excerpt: "Changing Technology Paradigms - Machine Learning in the Hospital Setting By Dustin Roller, VP, Innovation Technology, ASD Healthcare, a part of AmerisourceBergen - As consumer technology continues to progress at an incredible rate,"
     publishedDateTime: 2021-02-19T02:37:00Z

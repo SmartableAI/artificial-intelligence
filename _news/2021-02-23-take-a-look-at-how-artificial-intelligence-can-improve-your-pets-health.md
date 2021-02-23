@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-ho
 ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/"
 type: article
-quality: 88
-heat: 88
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603437d924ef803c1c8288c4%2F0x0.jpg"
@@ -30,6 +31,6 @@ images:
     height: 595
     isCached: true
 
-secured: "eP03JymOivixPEqqjsbquMYjjBM0TxZDBNUnZweobSzodB7uMRj2/tKU9Z2/+Ew2WNRlGvY4dL1i9dgmksF+T9FJF7HmS+HpnFCA8tNyko7u7FfrvNeUoq5aLYVmxI9blR6ij2qphmkf/HkBsMIyiyn6RGYRe1Xh/QZPgiSqMbcgdIYYZ79nyMDyACELjQrL0oBGkM9yYHCKzAO46lf5t0r4mlZy09j/eWIaUV4h2AkQ3B1kkzL5ljfaw9pp+qxuBSGK7QXxokYw8XVNp4qqZkqutKYA6RO7MgGU76Lp83cgWSMRYlqf2oJahpv5Tzr+VS6VEPBtOkJ1fmSvlcUUEka1eE1Q9gqEpgXM/98CSO0=;5pc9bEDPm+Fd0uIUmFhCzQ=="
+secured: "Z64P7D66vgCNoa8cPj3CLsmf/XV7uchUiHNiybDkAPI6uu0ICpeMec+Tw4IMz93DYyridX4T2HI7pwxDYzkXJFR1k7VuI5FI8mMKuF/0n94/ONDJ6Pvv/VYy4zQ7XXJ1iRRxUmYlN5CmiCc5ZIY+RiPSOhYAa4bYlgSTdP3D1iOKBbov4XCZaKktMR1whVem4DXMNsU6nwv9R2MBbHN8DgGGBykVw4Lu4wFdn3UyVYzzp2F3THv5fUzx3e72GaeOllPtOfi+I+wTzQhUd4DlbXO/zYDip7TWe560pDqKahFhS87vTx43G9Vpfq50g+wxonrkcFpQiTaDaTZ4RGuS3c6en6NuxOFcw/K6Vk/yKE/JlaJAECu22MuDBIeScnjK3vl4kJkGZbNs8sPfzY426CpFRegSPtdHNGyhAcZm9h4RaBgUEzRw3Elm5+3SXYPcDLvpB5U0xCSn7DgZJi8rK3ZcKz3kHgKhWjwbcd5eRO/cH8PuUSqRkNu3V9vfibaAgUiN9NW/vnlLJTuBfAeLkg==;w6LcIzDKIe3zECQYCnHrYQ=="
 ---
 

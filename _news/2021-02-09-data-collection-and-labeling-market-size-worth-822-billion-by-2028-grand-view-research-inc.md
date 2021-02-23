@@ -3,10 +3,10 @@ category: news
 title: "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc."
 excerpt: "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute."
 publishedDateTime: 2021-02-09T10:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
-webUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414"
+originalUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
+webUrl: "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059415"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "8efcKnlaxVVzxPEjaRAdT1RoneU/gej17d6vda4zOQDRpF/M4hfr14j42hiRKlhARY8iLfqfwSLmnViBCRl7z+U9UHM6BpCwO+gQDCLkFJdQCtSs3mps0McadakCw7rCyzekUYaQPJVQyIdrlwGMzeGTdqJTsit9LWl22fyHRpS9HMy0qZhN6vest6hYbeQHy6CQHOV1UcI7aaVOiJ1QdNqg3GDTepKWjyIZlBhEjEP3AAKBKpHGyif82iLzrTkLymLAJR4iMuY9QNwz8bQfdY8psjbQ7jSiGQdLO5gxW4ez1bY3bOmqjbHOahNFW3M+bGUluYFLEH04j5ATpiQsQRufjcPQzmsS+fLnRysToag=;xPFCjHRwkG/Xe4Nnxn/1HA=="
+secured: "6Amv1jtCdJvoz1/KixKYGQVljNdIQC68HjZvgxBz4xUw512A8oAjpdiidXkYpcpbzBlGArsQjAO9xnCE8MdPEaprYeVSM3nz8j8TqWL85YNrTiSg5nurwYCo/wXG/tg997dpf/3QLuoXPYSBoanQ0sIYzKwah5y7wtE5Pln5RhcwH03b6cdR9O42r7P+UmjEo2OLdL/Iz+bH9dMtGtxXoYsaLhRIXAoVNtAYwRC0YbMbVDjsvk6qIxQDAw9+4Gfi3t/9QdXNr9Mxv4/4r+aZazgZbCqOK0QzLTBo6G60Z25ZMalO1apbdmUWHW1oskTCptZQ8cZyL/3XHnt6zVveDR4+kdZBznqj+pKV7E4cnxo=;R2fiaOzANj2Iqx0XfswGoA=="
 ---
 

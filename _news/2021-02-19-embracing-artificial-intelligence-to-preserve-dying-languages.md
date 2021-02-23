@@ -117,6 +117,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Three Ways AI and Machine Learning Will transform Software Testing"
+    excerpt: "Large and small businesses are searching for ways to reduce costs and increase testing coverage and reliability while providing software that meets consumer standards and deadlines. Testers are gradually turning to artificial intelligence and machine learning under these stresses to augment their research processes."
+    publishedDateTime: 2021-02-22T00:00:00Z
+    webUrl: "https://www.cioapplications.com/news/three-ways-ai-and-machine-learning-will-transform-software-testing--nid-7245.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 54
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/900fx450.jpg"
+        width: 450
+        height: 308
+        isCached: true
   - title: "Overcoming 7 AI Challenges in 2021"
     excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
     publishedDateTime: 2021-02-19T13:57:00Z

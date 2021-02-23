@@ -30,35 +30,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered math tutoring app Photomath raises $23 million"
-    excerpt: "AI-powered math tutoring app Photomath today announced that it raised $23 million in series B funding. The company says the proceeds will be used to grow headcount, invest in AI, and scale both product and marketing development."
-    publishedDateTime: 2021-02-18T11:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/"
-    ampWebUrl: "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/"
+  - title: "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise"
+    excerpt: "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike."
+    publishedDateTime: 2021-02-18T20:34:00Z
+    webUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/01-photomath-formula-scan-android-e1613491006395.jpg?w=1200&strip=all"
+      - url: "https://i.insider.com/602457d867d1e300113c5696?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Photomath, the World's Most Popular Math Learning App, Secures $23 Million in Series B Funding"
-    excerpt: "Photomath, the #1 math learning app with over 220 million downloads, announced it had secured $23 million in Series B funding led by"
-    publishedDateTime: 2021-02-18T11:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/photomath-the-worlds-most-popular-math-learning-app-secures-23-million-in-series-b-funding/article_c75b89fc-f01c-5df5-96fa-66d6e042e07b.html"
+  - title: "The future of AI and what Customer Experience leaders can learn from it"
+    excerpt: "He gave the impressive but almost invisible (to the public) example of quality control for French fries, where these extremely fast scanning AI systems spot and cut away black spots on fries. It reminded me of a case from one of my customers,"
+    publishedDateTime: 2021-02-19T20:40:00Z
+    webUrl: "https://customerthink.com/the-future-of-ai-and-what-customer-experience-leaders-can-learn-from-it/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 29
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/67/b670e041-50ba-5d0c-87ea-9d5b754ee3af/602e5e4d7be7f.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "How Automation and Artificial Intelligence are Changing Customer Experience Game?"
+    excerpt: "How Automation and Artificial Intelligence are Changing Customer Experience Game? By Matt Rocco, President & CEO, Etech Global Services, LLC - Science fiction and Hollywood have long polluted the perception of artificial intelligence with doomsday prophecies and"
+    publishedDateTime: 2021-02-19T03:43:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/how-automation-and-artificial-intelligence-are-changing-customer-experience-game-nid-30056-cid-225.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 32
+    images:
+      - url: "https://www.cioreview.com/ck_images/IzuOoU8f.jpeg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "6PAWmqtNSNQaCqHSk7zWbKy6A9RIyBJSEnIdO57IF5YjRX6ucBJ7o6kFo5RGCiX76Q0Xf3rJhosUTRH+UQhVlG0p+gmf6DdHFsB2/q5EduBYOtOR+fKcrqnsDjT72QoYBCEyb88L4n3jFoQNqoV67JDEBpo8hhPkura94Ux/qtZ0qnQm3rON7sXG1uaOZkE0Pn9cLJwC3+IakliXp73/SUclo+kJNkZESrxImvSN7zikn3aEm3BPdz974U16AHe7WaYrnZO7Oz0VxwKYOQYbtN+a0J2M5TxzGAE7c4j89UmHlOIS5y5lT+Ltp5/dubB5HWNcxD/R65ZNeBN52g6NLSBBo27s+CNnu0ibHtFIlsgx2JYnb1buhYcwotZCli5nI63e2+ULdK7lEayYgraeXhujeHkDoLCbVfEUJNQc2SZOS2TO+lPcvddjOldnyZdfjJ0Giu0LAiKGNMcV98i/EQTvqP8+OfmrUKwZL2Ip7d/HayrhjpZ6XH3nZnX0DkKouKGmHKlo3+pnmTwBkfwEyw==;a8FfKDEFjlzdZqBdmMHjUg=="

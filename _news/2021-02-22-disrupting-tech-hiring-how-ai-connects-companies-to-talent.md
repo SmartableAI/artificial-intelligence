@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-con
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:
@@ -34,7 +34,7 @@ related:
   - title: "The AI’s the thing: How a robot wrote a play about joy and suffering"
     excerpt: "To mark the centenary of Karel Capek’s play RUR, Czech artists and scientists are collaborating on a work written using artificial intelligence. They tell Fergus Morgan about the process of turning ro"
     publishedDateTime: 2021-02-22T15:54:00Z
-    webUrl: "https://www.thestage.co.uk/features/the-ais-the-thing-how-a-robot-wrote-a-play-about-joy-and-suffering"
+    webUrl: "https://www.thestage.co.uk/features/features/the-ais-the-thing-how-a-robot-wrote-a-play-about-joy-and-suffering"
     type: article
     provider:
       name: The Stage

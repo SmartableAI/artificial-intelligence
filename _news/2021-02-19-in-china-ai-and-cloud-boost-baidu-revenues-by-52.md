@@ -26,28 +26,32 @@ images:
     isCached: true
 
 related:
-  - title: "Baidu Tops 4Q Estimates Driven By Strong AI Demand; Shares Gain"
-    excerpt: "B aidu reported better-than-expected 4Q results driven by the strong adoption of its artificial intelligence (AI) tools across cloud services, smart transportation, and autonomous driving end markets."
-    publishedDateTime: 2021-02-18T09:32:00Z
-    webUrl: "https://www.nasdaq.com/articles/baidu-tops-4q-estimates-driven-by-strong-ai-demand-shares-gain-2021-02-18"
+  - title: "Why Baidu Stock Soared Today"
+    excerpt: "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company."
+    publishedDateTime: 2021-02-20T02:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 49
-  - title: "Baidu reports better-than-expected Q4 results, driven by AI business"
-    excerpt: "Baidu reported a better-than-expected fourth-quarter (Q4) result on Thursday with its business revenue, ending December 31, hitting 30.3 billion yuan ($4.64 billion), beating Wall Street's expectations for four quarters in a row."
-    publishedDateTime: 2021-02-18T09:35:00Z
-    webUrl: "https://www.globaltimes.cn/page/202102/1215823.shtml"
+    quality: 69
+  - title: "Baidu (BIDU) Trading Lower Despite Strong Quarter"
+    excerpt: "( BIDU) is trading lower by less than 1% in Thursday's pre-market session after meeting fourth quarter 2020 revenue guidance and beating profit estimates by a small margin. The Chinese search engine giant earned RMB 20."
+    publishedDateTime: 2021-02-18T14:36:00Z
+    webUrl: "https://www.investopedia.com/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
+    ampWebUrl: "https://www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
+    cdnAmpWebUrl: "https://www-investopedia-com.cdn.ampproject.org/c/s/www.investopedia.com/amp/baidu-bidu-trading-lower-despite-strong-quarter-5113098"
     type: article
     provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 39
+      name: Investopedia
+      domain: investopedia.com
+    quality: 59
     images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-18/83469d36-61d7-49af-ab3a-43cf51b20fda.jpeg"
-        width: 800
-        height: 480
+      - url: "https://www.investopedia.com/thmb/PnDkDkBe_cAP2ID4PANMsMYOEF8=/680x440/filters:fill(auto,1)/baidu_shutterstock_363519476-ecee364f0fd544808e72b2db66e15b0e.jpg"
+        width: 680
+        height: 440
         isCached: true
 
 secured: "p7ML1FLU6M7z0iyHlJWJU6gStuflagnB2kLmztOfpf9rEiqP2Bmp3zhL8jDgaue2ON2BivO3Bs+L0lDDXrs0j+7LS2CyzbByZ1kxjUN4M377ZaPDlPICWJVuSQKuzwIYB3LgSskkRkd0Fpyf/L4GkYcg5P7xZs2DTOMYv+h4Cf6Wubh+NC/9OivE0V2OzVyqPrRJ2Wb8I3dUd/zp1OifZQgbwMfMCI1Okc6reHHsU892q2L5xoOhhNItvZM8cSTShspktwgOEx7zuuB1YbteRc00uOGegWmjgoHKS1Q4ybpRLWS9Zav9fGgRluEYdGQNWwEisrB80+I1vB+Q+ETVpMVyeKS0ND38ClIZJYBV1rE=;/ZlXyXOcAuYYfQOD5++skQ=="

@@ -59,20 +59,15 @@ related:
         isCached: true
   - title: "Google fires AI manager who protested her peer’s departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:16:00Z
-    webUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    publishedDateTime: 2021-02-20T01:17:00Z
+    webUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/"
+    ampWebUrl: "https://www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
+    cdnAmpWebUrl: "https://www-yourcentralvalley-com.cdn.ampproject.org/c/s/www.yourcentralvalley.com/news/tech-news/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
     type: article
     provider:
-      name: abc27.com
-      domain: abc27.com
-    quality: 59
-    images:
-      - url: "https://www.abc27.com/wp-content/uploads/sites/55/2019/06/cropped-abc27FavIcon.jpg"
-        width: 512
-        height: 512
-        isCached: true
+      name: KSEE
+      domain: yourcentralvalley.com
+    quality: 39
 
 secured: "708Lx4m3Kf9OeMGUlQmkIKOOzlAMJanayM2uyUL9NmN/ONrVbylMFzIplfa9zowKuLwRzAa29gsawl6nbR4NCuNRCpmORe8DtwltEZhxGpoFxeovrpKfGdurjOFjlAxt4icyxi5d00Sy5jMbstNa+ASWnSeXM2RMqI4a46aRlkC50wuJkyZ82iwaKgyUeKtBXXxOxE/WIaNndLy6QHHgh6eLiIEnUfWIHO0XElIl5V3/QFhyQeojh8XpUTgLlw9RxbaIOD/k9Ss6ROB/9sReQGK8ayQChTRJjW7d9TcpnVdYf6L3A8HLuhDCyrc4SB3vO+GJ80JQm0JJWUUDlSYfsegFdYM56Q1HBCyVqByXZVY=;EJtjrkkN2SubDRvULxmw5Q=="
 ---

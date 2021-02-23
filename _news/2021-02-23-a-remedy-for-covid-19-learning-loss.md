@@ -53,20 +53,6 @@ related:
         width: 685
         height: 514
         isCached: true
-  - title: "Early risk assessment for COVID-19 patients from emergency department data using machine learning | Scientific Reports"
-    excerpt: "While epidemiological and clinical characteristics of COVID-19 have been reported, risk factors underlying the transition from mild to severe disease among patients remain poorly understood. In this retrospective study,"
-    publishedDateTime: 2021-02-18T10:18:42Z
-    webUrl: "https://www.nature.com/articles/s41598-021-83784-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 15
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83784-y/MediaObjects/41598_2021_83784_Fig1_HTML.png"
-        width: 632
-        height: 685
-        isCached: true
   - title: "Sheba Tests Israeli Startup’s Respiratory Treatment On COVID-19 Patients"
     excerpt: "Inspira's Augmented Respiration Technology (ART) will be tested in the intensive care unit (ICU) of Sheba's Department of Cardiac Surgery."
     publishedDateTime: 2021-02-21T11:07:00Z

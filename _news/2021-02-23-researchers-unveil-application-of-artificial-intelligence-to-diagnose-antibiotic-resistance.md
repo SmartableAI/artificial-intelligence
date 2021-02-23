@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-23T00:19:00Z
 originalUrl: "https://www.actuia.com/english/researchers-unveil-application-of-artificial-intelligence-to-diagnose-antibiotic-resistance/"
 webUrl: "https://www.actuia.com/english/researchers-unveil-application-of-artificial-intelligence-to-diagnose-antibiotic-resistance/"
 type: article
-quality: 27
+quality: 29
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.actuia.com/wp-content/uploads/2021/02/Universite-Evry-MSF-CEA-CNRS-Google.jpg"
@@ -39,6 +40,6 @@ related:
         height: 501
         isCached: true
 
-secured: "FVr4lNQMWO+gX5TZOWMH+2z17T2n0y9KjDOMs+Rp3ZoGwPCfHr9wv2eG3kq5agcQXPXY0MRSO2orzm+blXyaPeMocJS6WzoozIyCNvOrpUFMJCvrDEHvOtV5ErElMdGcyz8G8YIZkqvusGrtBmjlqYb+YosW927AUPpc0Ey/JEW6XwtG8ekWk9J+QgBFW1OIOi1eXE5goMHc9yy/Sjlx+JstFiorj9rzuDVWwhDeFlD8qJVzy2X2OCYoMONnaNaBB4y6IFKMxc4DkRIpT/Ic3M3LetJ6PQ+rykxb+iOyouRojj94RzKhgPLUCdJ/rQDdMXv5gKSdzsCQxNwROGvn7YPhlL33DMESavkQcbER78c=;ZbgptOMuBDamVCsqmyixAQ=="
+secured: "XczwYw+LIAD/F6qHd3F/RLW3x1QST0Z6KmdWRJb0NaqLCafB9v7rUM5skkOHkFKToKqf5dYJ0A76ClLGvWa6heskue5ZamMY3hoKVd5a5OkQ3mKAXA7hnnMC8Go1K/hs8KsrR5EHDKiHJJXDEZ28HFsI+A0nmGvtjgulB0lVXx011BA4RRY7HB3JCFICouKTTRj7MnedFDyg/Dtg9B5gINoaCVkvT2WmZ5PU1fR0UEUbl3j1EFp7IvUZtFYjJVR3ri1IPhmfiVVUL1huatVARnwgvJAb9NSS8M8ALuFB7z3FrWUm1mrQo+DH2ZfTJwIKek9rBL93/cFBtE5Ppr5ySZ01vSzrB9hOX/aJLtXiOy8JOsFzPDqckBTzDMBf6GeaX4dEbTDF7PDPJAF97z+DrCeF7z/kNZDFhIQoIaWXzbbmMIOONu5hZrQLOs/xwq8aL9use9K2YKI3wcs1tISxI/+fq8HOOsVmyVTD+7xlq5pagaxjz5g59RhMXAui2UvSYfN15muElUssfidkSyo/jQ==;OwPjHOjx4T7EvznGIE7DRg=="
 ---
 
