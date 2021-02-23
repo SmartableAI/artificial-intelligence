@@ -10,7 +10,7 @@ website: https://sougwen.com/
 twitter:
   username: sougwen
   url: https://twitter.com/sougwen
-  followers: 8659
+  followers: 8660
 
 linkedin:
   url: https://www.linkedin.com/in/sougwenchung/
