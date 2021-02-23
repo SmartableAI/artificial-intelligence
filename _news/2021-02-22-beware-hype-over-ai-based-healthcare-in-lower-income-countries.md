@@ -3,8 +3,8 @@ category: news
 title: "Beware hype over AI-based healthcare in lower-income countries"
 excerpt: "While there is great potential for artificial intelligence to improve cancer care in low- and middle-income countries, there is also great hype surrounding the technology. Terms such as “game-changer”,"
 publishedDateTime: 2021-02-22T04:06:00Z
-originalUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010?via=indexdotco"
-webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010?via=indexdotco"
+originalUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
+webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
 type: article
 quality: 54
 heat: 64
@@ -40,6 +40,6 @@ related:
         height: 248
         isCached: true
 
-secured: "B7z3oVui8lMKeS5k2a1gIdP+b+LdP3faxia49H43tqmbGJir+EwOfMirzBZcF0l2sJLEkjc7d8vtgmdFxUmWroJkFDNMoKiBLy9nnZAUxG7NQZVgMBcf4/Ul9mz+T3f9txRwpKl2CPoLiSotwzbfKtxRcfELQcVbJeZkdQeS/BwKjIojPufcZyZzSADwV2dvhw0hwY5AnsDJTXjNgysItYHnfDidsbS7anPaA8fwSb8f5YpYv317mDVFib5hfIcrLCB0o8rIaeBBBrzC2Kf3rMKe9uayAQm5RFDeQ+7Pz6iOjWPhSxmXKEEhW3d7VDb9M6GwB4Z3xSTHMmIsxpY4g3PI/vxxok0HFcyloOB7/4QOxJL+MXgqQjFyYqCdhk+1NspBd0W+/0CGQXRp2x5O97BnqtbqF2kybr6XAqwEIqhk48EFfLc8YmmnkhevD9fHx/1APt/4PyMIhGv3nCdR9Ui3WWVIORizzz/OsmjfJKciyH/rERsdTHc4UgbRuaJ3U5o/dY375dXIAGUxnNzI/A==;8J0/xXFLzkzLyal3RhT36g=="
+secured: "UXJTM02/YtQpqE+wT5EM1sv8jL4HC5AvcQp+3TIcx6MxS+SlUgJ3KkOTBalqgD8ntQ04hn/lO3G2M2qepEGCmub4isPsKgox/oaxyZQ/D0zECj21a8NHG1nkUtwMV1kGBOjgkzMGIdSpcsUtUqqPFKmdJN3Kd7tmTouHXIrVwr4k2/hlIiG7kAImQNIjDVkqad4spGMDk3jZgJCFmLaDEO7VK70BihBTIrOW0Qkolszfzzz2wDy4xabounBYrEufxI4dvf7xysNurmXgWFLcPZxLaITWzaNxlrI+W7zw8xhZnU7zTrJWPVyi+o/qvJwgbMzrLZIru/5II200eDdXchdef0OJDNoGk29GxjylRtE=;b2+1Ee6VT5oe+0CE4coz2w=="
 ---
 

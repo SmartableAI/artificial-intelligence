@@ -19,67 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "4 Ways To Bridge The AI-Integrity Gap"
-    excerpt: "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,"
-    publishedDateTime: 2021-02-18T17:18:00Z
-    webUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/"
-    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
+  - title: "Intelligent Present & Future: Artificial Intelligence Is Changing Our Daily Lives For The Better"
+    excerpt: "Artificial Intelligence is changing human life and making it better. AI’s impact is in many aspects of life like work, education, healthcare, and leisure & games like gambling. Here’s how you are a part of this intelligent change."
+    publishedDateTime: 2021-02-22T10:57:00Z
+    webUrl: "https://www.analyticsinsight.net/intelligent-present-future-artificial-intelligence-is-changing-our-daily-lives-for-the-better/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 41
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg"
-        width: 588
-        height: 392
-        isCached: true
-  - title: "Using AI to Bridge the Language Gap"
-    excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
-    publishedDateTime: 2021-02-21T07:31:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
-    type: article
-    provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
-    images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
-        width: 800
-        height: 527
-        isCached: true
-  - title: "RPI students work with engineering company to integrate AI into power grids"
-    excerpt: "Winter weather shocked people across Texas, many still recovering after days-long blackouts. At last check Friday afternoon, some 150,000 are still without power, down"
-    publishedDateTime: 2021-02-19T22:14:00Z
-    webUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/"
-    ampWebUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
-    type: article
-    provider:
-      name: WTEN
-      domain: news10.com
-    quality: 57
-    images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/02/SNOW-ELECTRIC-SUBSTATION.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Three keys to AI success in the enterprise"
-    excerpt: "Three keys to AI success in the enterprise By Vikram Mahidhar, business leader of AI solutions, Genpact - Many CIOs have artificial intelligence (AI) on their radar. A recent survey by Genpact and Fortune Knowledge Group of"
-    publishedDateTime: 2021-02-19T08:32:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/three-keys-to-ai-success-in-the-enterprise-nid-25917-cid-117.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/paTSGe91.gif"
-        width: 300
-        height: 300
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/02/Artificial-Intelligence-13.jpg"
+        width: 1388
+        height: 755
         isCached: true
 
 secured: "2NsNqciZ8W4Ro5rpVAXF/HWNbzlTUFzFyIP9u7igUoaJmA8iuyb/i+8duVOjEjQfhAEAmqAi+MfI42+MyK2R9pH6GnHsvSdfI0RBu6Fes8ty7XO0WDgWNu4SKtG9E/AWubwAzXDbDCe6j5BNSXBe8r6k1ergDSeafvpxgn9Uq8UXkdss5YTvSPagWgHM8e6jSyjJbKXqLpBO4JIe83eUAlVJ0zJ772CEWP7UrRz58eS7hz2cfYmYtz1takHEKkRyBG1auppfYMVuMn9P6uyqD6JfFpXuI8t+HsVdXsmJySLULKVfwvmraKGjkqCFuEwVVX/RWW9URwKGLY/WeAAHSYVWsPj4YOgscuMXLAYCwIIQT2wFDo/L7tdp1l33rq7L1cqyRyRqimTLBK1j4TNFx4YX1dD5P1SnRGMIxnIGx4IvOn5J9tjLnpRsWARvwN+Rwci5bRHeVTOUrUqynDDr9hQiUpRbWF2wS7yLLJkD9mjG4vbVLpXB9/ZkjvWNu3bErbo10HzdeoaQLWnIiDkJrA==;x1ttfH9cSGJubyEB4/fVzg=="

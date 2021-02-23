@@ -2,6 +2,344 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-10-baidu-in-talks-to-raise-money-for-a-stand-alone-ai-chip-company.md",
+      "title": "Baidu in talks to raise money for a stand-alone A.I. chip company",
+      "excerpt": "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425",
+          "width": 3000,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
+      "publishedDateTime": "2021-02-10T05:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-how-ai-helps-create-the-adaptive-customer-service-response-2021-needs.md",
+      "title": "How AI Helps Create The Adaptive Customer Service Response 2021 Needs",
+      "excerpt": "Business in 2021 is challenging, particularly in a customer service sense, as customers are demanding more from brands than ever.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6022c5d99a2c4cba93a64982%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/",
+      "publishedDateTime": "2021-02-10T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale.md",
+      "title": "NeuReality emerges from stealth to accelerate AI workloads at scale",
+      "excerpt": "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/",
+      "originalUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/shutterstock_102001114.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/",
+      "publishedDateTime": "2021-02-10T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal.md",
+      "title": "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'",
+      "excerpt": "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
+      "publishedDateTime": "2021-02-10T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center.md",
+      "title": "Linode Expands Commitment to APAC Users With Addition of GPU Instances to Singapore Data Center",
+      "excerpt": "Availability of Linode's virtual machine GPU instances in Singapore gives growing APAC customer base a cost-competitive alternative to hyperscale cloud providers in the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19583315",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19583315",
+      "publishedDateTime": "2021-02-10T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-doctors-track-covids-spread.md",
+      "title": "This cutting-edge cloud-computing service is helping doctors track COVID's spread",
+      "excerpt": "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "originalUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "publishedDateTime": "2021-02-10T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-indian-healthcare-companies-bet-big-on-artificial-intelligence-report.md",
+      "title": "Indian healthcare companies bet big on artificial intelligence: Report",
+      "excerpt": "Around 90% of C-level executives in healthcare companies already have an AI strategy in place from a moderate to very large extent. For 54% of the participants covid-19 played a part in driving up AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/02/10/600x338/AI-kkGH--621x414@LiveMint_1612946535600.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
+      "publishedDateTime": "2021-02-10T01:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-global-wearable-healthcare-devices-market-forecasts-to-2026.md",
       "title": "Global Wearable Healthcare Devices Market - Forecasts to 2026",
       "excerpt": "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise",
@@ -257,8 +595,8 @@
       "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
       "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -283,6 +621,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.md",
+      "title": "Ford to invest $1 billion in artificial intelligence for your car",
+      "excerpt": "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "originalUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -811,367 +1183,6 @@
         "name": "India Times",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-alpha-health-publishes-comprehensive-buyers-guide-to-healthcare-revenue-cycle-automation.md",
-      "title": "Alpha Health Publishes Comprehensive \"Buyer's Guide to Healthcare Revenue Cycle Automation\"",
-      "excerpt": "Today, Alpha Health, the first Unified Automation™ company for revenue cycle management in healthcare, published its \"Buyer's Guide to Healthcare Revenue Cycle Automation.\" The free, 28-page booklet is meant to serve as a thoughtful guide to purchasing and deploying effective automation solutions within healthcare revenue cycle operations - from industry best practices to the variables that may be unique to individual organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/alpha-health-publishes-comprehensive-buyer-s-guide-to-healthcare-revenue-cycle-automation-1030060328",
-      "publishedDateTime": "2021-02-09T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-sony-ais-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery.md",
-      "title": "Sony AI's Dr. Peter Stone Named Fellow by the Association for Computing Machinery",
-      "excerpt": "Dr. Peter Stone, Executive Director, Sony AI America Inc., has been named a Fellow by the Association for Computing Machinery (ACM), the premier professional organization in the field of computer science.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/sony-ai-s-dr-peter-stone-named-fellow-by-the-association-for-computing-machinery-1030061095",
-      "publishedDateTime": "2021-02-09T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-the-queens-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.md",
-      "title": "The Queen's Gambit helped Square Off see huge uptake in robot chess sales",
-      "excerpt": "Square Off released its first robotic chess board a couple of years ago. It's now on the brink of introducing a new model. We speak to the co-founder.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
-      "originalUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/155658-homepage-news-feature-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales-image1-hecqczp5xz.JPG",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/155658-the-queen-s-gambit-helped-square-off-see-huge-uptake-in-robot-chess-sales.amphtml",
-      "publishedDateTime": "2021-02-09T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-the-artificial-intelligence-in-healthcare-market-is-expected-to-reach-361-billion-by-2025-with-cagr-of-502.md",
-      "title": "The Artificial Intelligence in Healthcare Market is Expected to Reach $ 36.1 Billion by 2025 with CAGR of 50.2%",
-      "excerpt": "DALLAS, TX / ACCESSWIRE / February 9, 2021 / According to new report added in Report Banana offerings, there are significant money making opportunities available in the artificial intelligence in healthcare market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-business-north-america-dallas-information-technology-560d0f4c6c19bf8bf9e35505a9817bee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe.md",
-      "title": "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe",
-      "excerpt": "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg",
-          "width": 600,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
-      "publishedDateTime": "2021-02-09T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
-      "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
-      "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/theator-raises-15-5-million-to-analyze-surgical-footage-with-computer-vision/amp/",
-      "publishedDateTime": "2021-02-09T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-major-camera-company-can-sort-people-by-race-alert-police-when-it-spots-uighurs.md",
-      "title": "Major camera company can sort people by race, alert police when it spots Uighurs",
-      "excerpt": "Facial recognition software developed by Dahua, a Chinese video surveillance firm sanctioned by the U.S., purports to detect the race of individuals caught on camera and offers to alert police clients when it identifies members of the Turkic ethnic group Uighurs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur",
-      "originalUrl": "https://www.msn.com/en-us/autos/other/race-detection-and-real-time-uighur-warnings-e2-80-94-inside-dahuas-facial-recognition-technology/ar-BB1dx6Ar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/11ae915/2147483647/strip/true/crop/2190x1430+0+15/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2F57%2F37ef76df0d35ee47f73e8fe3cc9a%2Ffe770af465d049feaff428400f0db4f0",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur?_amp=true",
-      "publishedDateTime": "2021-02-09T06:00:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur",
-        "domain": "latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy.md",
-      "title": "New AI tool predicts who’ll die from COVID-19 with 90% accuracy",
-      "excerpt": "Scientists say the system could help identify who to prioritize for COVID-19 vaccines and predict respirator demand at hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-09T125345.436-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/",
-      "publishedDateTime": "2021-02-09T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

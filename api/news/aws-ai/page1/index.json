@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-training-debugging-and-running-time-series-forecasting-models-with-the-gluonts-toolkit-on-amazon-sagemaker.md",
+      "title": "Training, debugging and running time series forecasting models with the GluonTS toolkit on Amazon SageMaker",
+      "excerpt": "Time series forecasting is an approach to predict future data values by analyzing the patterns and trends in past observations over time. Organizations across industries require time series forecasting for a variety of use cases, including seasonal sales prediction, demand forecasting, stock price forecasting,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-debugging-and-running-time-series-forecasting-models-with-the-gluonts-toolkit-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-debugging-and-running-time-series-forecasting-models-with-the-gluonts-toolkit-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/17/ML-2290-1.jpg",
+          "width": 800,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T11:47:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-torc-robotics-makes-amazon-web-services-cloud-provider-for-its-self-driving-truck-fleet.md",
       "title": "Torc Robotics makes Amazon Web Services cloud provider for its self-driving truck fleet",
       "excerpt": "Inc. as its preferred cloud provider to handle the scale and speed needed for data transfer, storage, and compute capacity as the company prepares to deploy its fleet of next-generation self-driving test trucks in New Mexico and Virginia.",
@@ -1386,59 +1438,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives.md",
-      "title": "AI Weekly: What Andy Jassy’s ascension to CEO means for Amazon’s AI initiatives",
-      "excerpt": "VentureBeat examines how Andy Jassy's ascention to Amazon CEO could impact the company's AI initiatives and sales of facial recognition tech.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/",
-      "originalUrl": "https://venturebeat.com/2021/02/05/ai-weekly-what-andy-jassys-ascension-to-ceo-means-for-amazons-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

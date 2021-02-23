@@ -25,15 +25,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Text-to-Speech (Software, Services) Market 2021-2026 - Growing Inclination Toward Cloud-Based Deployment Mode"
-    excerpt: "... Large enterprises are the leading adopters of text-to-speech software and services with the increasing need for speech recognition, virtual assistants, and chatbots. Hence, large enterprises accounted for significant share in 2020. SMEs have been ..."
-    publishedDateTime: 2021-02-18T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-text-to-speech-software-services-market-2021-2026---growing-inclination-toward-cloud-based-deployment-mode-2021-02-18"
+  - title: "Global Vehicle Speech Recognition System Market Analysis by Manufacturers, Regions, Type and Application to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 23, 2021 (The Expresswire) -- The global “Vehicle Speech Recognition System Market” Report deliver comprehensive analysis of the market structure along with forecast ..."
+    publishedDateTime: 2021-02-23T08:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-analysis-by-manufacturers-regions-type-and-application-to-2027-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

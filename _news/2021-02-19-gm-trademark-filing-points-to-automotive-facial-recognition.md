@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "US city passes restrictive ban on facial recognition use by police, others"
-    excerpt: "Citing concerns about its reliability and potential to harm communities of colour, the Minneapolis City Council voted Friday to ban the use of facial recognition technology by police and other city agencies."
-    publishedDateTime: 2021-02-23T06:26:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/23/us-state-passes-restrictive-ban-on-facial-recognition-use-by-police-others"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/23/1053499.jpeg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
     excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
     publishedDateTime: 2021-02-23T04:55:00Z

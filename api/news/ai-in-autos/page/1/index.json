@@ -98,40 +98,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
-      "title": "Why Baidu Stock Soared Today",
-      "excerpt": "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
-      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "publishedDateTime": "2021-02-19T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-torc-robotics-makes-amazon-web-services-cloud-provider-for-its-self-driving-truck-fleet.md",
       "title": "Torc Robotics makes Amazon Web Services cloud provider for its self-driving truck fleet",
       "excerpt": "Inc. as its preferred cloud provider to handle the scale and speed needed for data transfer, storage, and compute capacity as the company prepares to deploy its fleet of next-generation self-driving test trucks in New Mexico and Virginia.",
@@ -881,6 +847,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
+      "title": "2 Self-Driving Car Stocks to Buy in 2021",
+      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg",
+          "width": 1619,
+          "height": 1060,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-the-nine-ground-rules-for-a-driving-robot-that-can-drive-a-non-driverless-car.md",
       "title": "The Nine Ground Rules For A Driving Robot That Can Drive A Non-Driverless Car",
       "excerpt": "These are the nine key ground rules for devising a driving robot that will turn any car into essentially a self-driving car.",
@@ -931,40 +949,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
-      "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
-      "originalUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -1334,6 +1318,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-10-ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.md",
+      "title": "Ford to invest $1 billion in artificial intelligence for your car",
+      "excerpt": "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "originalUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-toyota-and-aurora-craft-deal-to-develop-self-driving-taxis.md",
       "title": "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis",
       "excerpt": "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,",
@@ -1440,34 +1458,34 @@
     {
       "path": "_news/2021-02-09-data-collection-and-labeling-market-size-worth-822-billion-by-2028-grand-view-research-inc.md",
       "title": "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc.",
-      "excerpt": "The global data collection and labeling market size is expected to reach USD 8.22 billion by 2028, according to a new report by Grand V",
+      "excerpt": "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc--896282267.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc--896282267.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
+          "width": 1400,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-1030059414",
-      "publishedDateTime": "2021-02-09T02:21:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T02:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },

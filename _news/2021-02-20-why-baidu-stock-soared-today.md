@@ -1,41 +1,29 @@
 ---
 category: news
 title: "Why Baidu Stock Soared Today"
-excerpt: "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company."
-publishedDateTime: 2021-02-20T02:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
-webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
-ampWebUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
+excerpt: "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ..."
+publishedDateTime: 2021-02-20T05:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/why-baidu-stock-soared-today-9833558"
+webUrl: "https://markets.businessinsider.com/news/stocks/why-baidu-stock-soared-today-9833558"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/why-baidu-stock-soared-today-9833558"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/why-baidu-stock-soared-today-9833558"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "In China, AI and cloud boost Baidu revenues by 52%"
-    excerpt: "China's search giant Baidu beat revenue estimates after its AI and cloud efforts started paying off. Its non-advertising revenues, from areas such as AI and cloud, rocketed 52%. Sales overall rose by a respectable 4."
-    publishedDateTime: 2021-02-18T17:23:00Z
-    webUrl: "https://www.lightreading.com/aiautomation/in-china-ai-and-cloud-boost-baidu-revenues-by-52/d/d-id/767495"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 41
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
-
-secured: "AnmzOdkrnc7kuv/jIobCO5bJM4OWaiT6KwejSzKQwL911W6r/I8TUxXj8xWmLhvkUyWaZpQM9DRsVeqHzjjsUb5xvLKWFl8FVwkVkl2n7lMnixcHg5//h91zzZo8IVSvQNpCJIRU2xs/+f51wrQlUYWrl2K3kkRn7aiyCsV2JfasYLO31t+LkuXfsyqyrRJq9Lz20JS30a6y6xTFhQJG+EO0O8Vqd1vp/+RlKipHQSC2uUWBuMsdqAPkxHCijrZCcFt4oM0JqMqhHB5f97kgw+2YO62UaZ7jrHy3TnKbzweMjHZmzmC6jOqkQX81LMev6w26WVDVe/aG/iG1pqEG7vKk2ec39e3OjUj4ldoD8ao=;f+Z+nRO008GbT6ru8U+JZw=="
+secured: "Ar8ps0N8k6+A/RPfXGXTZ8JcB6d4KqorKpGf0wghHJ0qf/Ta1SWo3YT3VXQQmMHvMm2Oo5pMEcm6yTDsWdXHK4p2btrP6ZTfvxAipyq8+L86ryp07rMBi63EEm4CrWBeQ/dji5RJGomqv2fTxU01dJratlKHzaI1TxMQT4KmtBqIbmcndYkLgpZ4lFvig3kSP2TtQ4xyNyukFuCvtAnqXxQlzM59reCoRPQt5S9jyMQDBKTPyRZBxB8tPHGnTflpRehpng79SxLzrkJjXINBai9C+rOaUUxNkR7VKVSOoFmlVfAYmzqr4m76T9AadubMH871esjbYZzpRUKanF+AJkkCIVB0qB+vpjwPIuEHZBk=;LzLq0z+2Syl16sOjL+Wl1Q=="
 ---
 

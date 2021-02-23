@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Appier Shares AI Predictions and Trends to Watch in 2021"
+    excerpt: "For example, a student may take content from one language and translate it to another. This is harder to detect, but AI is being developed to solve this problem. Similarly, image interpretation AI is being developed to find instances where arts students ..."
+    publishedDateTime: 2021-02-23T00:31:00Z
+    webUrl: "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021"
+    ampWebUrl: "https://www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/appier-shares-ai-predictions-and-trends-watch-2021?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Feb2021/Appier-blue-logo_2.jpg?itok=yIEiypcr"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
     excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
     publishedDateTime: 2021-02-23T07:14:00Z
@@ -44,45 +60,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Artificial Intelligence in Payments Market Share Current and Future Industry Trends, 2020-2025"
-    excerpt: "Selbyville, Delaware According to the research report titled 'Global Artificial Intelligence in Payments Market Analysis, 2020', available with Market Study Report LLC, global artificial intelligence in payments market size is projected to expand at a decent CAGR during 2020-2025."
-    publishedDateTime: 2021-02-19T06:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-share-current-and-future-industry-trends-2020-2025-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Voice and Speech Recognition Market: 2020 Analysis Report, Share, Trends, Overview 2020-2026"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-02-19T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-and-speech-recognition-market-2020-analysis-report-share-trends-overview-2020-2026-2021-02-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Appier Shares AI Predictions and Trends to Watch in 2021"
-    excerpt: "TAIPEI, TAIWAN - Media OutReach - 23 February 2021 - Appier, a leading artificial intelligence (AI) company, today shares AI Predictions and Trends to Watch in 2021. Artificial intelligence (AI) and machine learning (ML) have moved from the backrooms of computer science into the mainstream."
-    publishedDateTime: 2021-02-23T01:59:00Z
-    webUrl: "https://vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021.html"
-    ampWebUrl: "https://m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
-    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
-    type: article
-    provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 39
 
 secured: "FS6Uztz6Ua9+p15KRgRmlyrRGGAZesDBsAShQLJbv7tWpTc6inWaOPiyUJcfEnW3j8EuUkpU38nkDUblele9+snbP9R6WaADCH8Ql19SmiItZhgGsusq+HP2NilAlGfRqSIFYzlgTWwslkZ6iUri5Z8dPkRv+DO/PYsqTxesIZLFQMCx//6wySQ4AujvornM2zR5y+Bstmjay+bAgGRx3eYnSTBXfYV+KKVV3JuCxtvWvoRUcFyEjSCtElwcHcDxDC59Dbw+DICuQjZU7SCP6QLIV1g+Ia1ygsdWt8T8dcDtO6roZoNdeF75wLE97258QqDNWgmKjdqpkUpgp7hbTqPzbok8rtvKE1TFiCibiJo=;yRCfnM1hgpzbJ4OvrWAZmQ=="
 ---

@@ -41,15 +41,20 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
-    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-    publishedDateTime: 2021-02-18T18:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+  - title: "Facial recognition is the tip of the spear in the assault on your privacy"
+    excerpt: "Facial recognition is the tip of the spear in the assault on your privacy By Harvey Boulter, Chairman, Communication Security Group - Clearview AI, a US company specializing in facial recognition software is under fire for infringing on personal privacy"
+    publishedDateTime: 2021-02-19T02:53:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/facial-recognition-is-the-tip-of-the-spear-in-the-assault-on-your-privacy-nid-31482-cid-145.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 42
+      name: CIOReview
+      domain: cioreview.com
+    quality: 40
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/qiWC67af.jpeg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Ci6zt/ccx9QVrHEopHP1RYwXnEqSj7f69gnqsGXVlNRSjW2rvhUWHOUdnC1ULuTdI2vcI5oJDy2jWrpij6hRAyoXTF4jmK3vpYHb4JJBV7H+R2t39hs309/4pI7MFPLe0K04BfBAgbCA40PRKDxCZ/XpfIJLClMt7iAm9rSK8xJv+kPhFaM3HLrXuzxrFMqFPWPLfZhfz32kKA3WlZKU02/i2HRnCGBIfUq5qw4Non94hTPcWygAo8wvk9E7AS1f84KZNeJs3SVc/RvqqK3ofTaA7F5P19rNaqag08LA6Nq69/QV3+iIWGTbU1C7Jz9bl3xh8kfMBGEC3YDyeuHr4Z6uvFGWw2MMYw/jEWz5ud8=;1TcmagnVRuQhWMtIyX1idg=="
 ---

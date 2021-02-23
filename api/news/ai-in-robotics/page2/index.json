@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-new-hyundai-tiger-concept-combines-robotics-with-transportation-comes-up-with-walking-car.md",
+      "title": "New Hyundai TIGER concept combines robotics with transportation, comes up with walking car",
+      "excerpt": "aka the transforming intelligent ground excursion robot. Branded as the company’s first uncrewed ultimate mobility vehicle (UMV), TIGER is meant to transform from a four-wheel drive vehicle to a four-legged walking machine. “Vehicles like TIGER ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
+      "originalUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/02/large-44915-hyundaimotorgroupunveilstigeruncrewedultimatemobilityvehicleconcept.jpg?offset-y=0",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
+      "publishedDateTime": "2021-02-10T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-cye-raises-120-million-for-security-using-hackers-and-ai.md",
       "title": "CYE raises $ 120 million for security using hackers and AI",
       "excerpt": "CYE raises $ 120 million for security using hackers and AI The rising number of cyber attacks in recent years has led to a massive",
@@ -199,8 +285,8 @@
       "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
       "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -270,6 +356,40 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-legal-tech-artificial-intelligence-market-outlook-2021-big-things-are-happening-judicata-legal-robot-inc-justia.md",
+      "title": "Legal Tech Artificial Intelligence Market Outlook 2021: Big Things are Happening | Judicata, Legal Robot Inc., Justia",
+      "excerpt": "This report elaborates the market size, market characteristics, and market growth of the Legal Tech Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Legal Tech Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/02/09/legal-tech-artificial-intelligence-market-outlook-2021-big-things-are-happening-judicata-legal-robot-inc-justia/",
+      "originalUrl": "https://ipsnews.net/business/2021/02/09/legal-tech-artificial-intelligence-market-outlook-2021-big-things-are-happening-judicata-legal-robot-inc-justia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1183,144 +1303,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-canon-powershot-pick-robot-uses-ai-to-automatically-take-photos.md",
-      "title": "Canon PowerShot PICK robot uses AI to automatically take photos",
-      "excerpt": "AI and machine learning can be found in almost every consumer electronics product these days, whether directly or indirectly. Often, the goal is to make offload some of the decision-making duties",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
-      "originalUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/02/detail_14551_1611879493.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/canon-powershot-pick-robot-uses-ai-to-automatically-take-photos-02657664/amp/",
-      "publishedDateTime": "2021-02-01T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-scientists-developing-quantum-brain-for-human-thinking-robots.md",
-      "title": "Scientists Developing \"Quantum Brain\" for Human-Thinking Robots",
-      "excerpt": "It was but a matter of time before robots roam the land with a processing unit similar to that of a human brain, and according to researchers from Radboud University, that time could be now. In a new journal entry in Nature Nanotechnology,",
-      "sourceUrl": null,
-      "webUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "originalUrl": "https://comicbook.com/irl/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.comicbook.com/files/images/default.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/irl/amp/news/scientists-quantum-brain-device-revealed-artificial-intelligence/",
-      "publishedDateTime": "2021-02-01T18:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Comicbook.com",
-        "domain": "comicbook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek.md",
-      "title": "Women in Robotics Update: Andra Keay, Nguyen Sao Mai and Selin Alara Örnek",
-      "excerpt": "Here’s a Women in Robotics Spotlight, where we share stories from women who are working on all sorts of interesting projects who haven’t yet been featured in our Annual Showcase. We hope these stories provide inspiration to everyone to join us working in the field of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
-      "originalUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://robohub.org/wp-content/uploads/2021/02/WIR-Update-15_10-for-Robohub-2-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robohub",
-        "domain": "robohub.org",
         "images": null,
         "publishers": null,
         "authors": null

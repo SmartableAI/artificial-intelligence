@@ -25,35 +25,23 @@ images:
     isCached: true
 
 related:
-  - title: "GM Trademark Filing Points to Automotive Facial Recognition"
-    excerpt: "General Motors has filed a new trademark that points to it releasing a new facial recognition system in the North American market"
-    publishedDateTime: 2021-02-18T21:35:00Z
-    webUrl: "https://mobileidworld.com/gm-trademark-filing-points-automotive-facial-recognition-021805/"
+  - title: "Anviz releases AI-based biometric facial recognition terminals to facilitate safe return to offices post COVID-19 lockdown"
+    excerpt: "Understanding access control technology has surpassed its core application as a security tool and is helping protect individuals from infection, Anviz has announced the release of a strategic"
+    publishedDateTime: 2021-02-23T10:47:00Z
+    webUrl: "https://www.sourcesecurity.com/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 41
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 48
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
-        width: 359
-        height: 400
-        isCached: true
-  - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
-    excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-23T04:55:00Z
-    webUrl: "https://www.straitstimes.com/business/banking/smes-can-now-use-facial-recognition-to-apply-for-dbs-online-banking-accounts"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 36
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/23/af_dbs_2302.jpg?itok=-bxg7okT"
-        width: 763
-        height: 509
+      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/widespread-use-of-biometrics-and-facial-recognition-technology-in-industries-920x533.jpg"
+        width: 612
+        height: 355
         isCached: true
 
-secured: "uKbL+uWVO7KIdUbv7Nd8axoutPwoHx7sqdj51Yu2QwrWdPhH/WHTveLvxLGVWQskgHRL83FoHjJZ+DJD6LJ5vpWrRC2i9wDZzPGkVMs8AhBg3cVHT7v7tNvgbrMuyncSybIpokzuwLgeroYYxW91fEtGMXDmdRtEJAJ68FZNWT46+QsIo9Pw6mXcCiS0sS6eCdceQitH/nB8eOAcoKAIZ07ziTYD+YQp5csE8fVzS7BWcV/XXYKsKO6eVd2jHM8Ei1ag8Dti6PBUlM5XuZljjUpOBfb+perUxJWw6I3vPfvUDYAI7WxzHfaEeAF5Oh7LDIVdQWO/Lf2fZIUgJa/pW5HgAkVXR1fPnI1+rZXofJ8=;Q3ZZbN8APCslSM8ZyPTGJg=="
+secured: "kjC0I39thXntlwX/zwc0yCxiOGoe15+VnfSeqfPsKKodj9ml0ZgtmfXcDXMU0FdXQ2teor7NbOmI4vY+NeWSJevQAPnyWcK0kWAQKAVY/CW5EEAwd7oL2JgRQklSEHE37j38UPBQnOs74Hiv1C+uuCpCmYhan6nxmLueMZgHB1V7sj2lbFC+nTSpkZb1BR+O04/zeV9tVhnyAfX/uVdMxKRn9IxYcF92oXTETlcO8td8798cCkOSuDw+3E6/nSnriJaX7plaR4cqPlG76JgwBCIVt/8YooM6C3NkbVgL9HinGPu0MjlvD3LdgYdanguijzWgNNG57P1vO24aFgYpF6VzmRv1rPazb9ho25AZZWr+6C+7r3l2/1LYmXa23Juaq25JxkswaLF7Si7CWFgg6+wFKanHexvylyVt7H1p2bnIZlKq2tYRF32m1C7cIbNC+sPoiMrIosUw0qZpuWe16tKIhnED0FqdHgEzVpTthGIdTfwxd5REdANIniUW+dwfkZLNZ/UQqvG9wPNMQkdgLw==;iWH8dgz/GIopwh80yGy/cg=="
 ---
 

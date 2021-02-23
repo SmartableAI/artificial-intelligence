@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition executive talks vaccine passports, data privacy, and surveillance"
-    excerpt: "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security."
-    publishedDateTime: 2021-02-18T17:23:00Z
-    webUrl: "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/"
+  - title: "Privacy Tip #272 – To Get Up to Speed on Facial Recognition Technology Read This"
+    excerpt: "It’s called This is how we lost control of our faces in the February 5, 2021 edition of MIT Technology Review, written by Karen Hao.  The article outlines a study rec"
+    publishedDateTime: 2021-02-18T22:58:00Z
+    webUrl: "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read"
+    ampWebUrl: "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 82
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 54
     images:
-      - url: "https://tr3.cbsistatic.com/hub/i/r/2021/02/18/ea971936-7d75-4771-9a21-38255a37a3e0/resize/1200x/292a86bce86937a351a3cc9d50bd66e6/metamorworks.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
-  - title: "White House, EU pressured to put facial recognition surveillance under tight controls"
-    excerpt: "Privacy advocates are telling their governments that they do not trust officials to use facial recognition surveillance in the best interest of society."
-    publishedDateTime: 2021-02-18T17:53:00Z
-    webUrl: "https://www.biometricupdate.com/202102/white-house-eu-pressured-to-put-facial-recognition-surveillance-under-tight-controls"
+  - title: "Minneapolis becomes latest city to ban use of facial recognition technology"
+    excerpt: "Last week, the Minneapolis City Council passed an ordinance that prohibits the city from buying facial recognition technology or using any data derived from it. Notably, however, the ordinance does include an exception for providing access control and security for employees in workplaces."
+    publishedDateTime: 2021-02-18T21:45:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21210937/minneapolis-becomes-latest-city-to-ban-use-of-facial-recognition-technology"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 32
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/07/25183012/Chincotech-facial-recognition.png"
-        width: 623
-        height: 432
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/02/bigstock_Face_Detection_And_Recognition_380721568.602edf5b1bf93.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Tg1mMEdB82wqsfJCFhPeQzbFg0m8zwc4pGuIc+p9Kd2TTdhW+hhj4U7mHOTTkhdvxquWCzl0YL6MQOj87MSknY+z88kHwqkws5eNy8dBg14VraqSthedOTppTf8OnAIPEWWzlzHIQKpc6ArY5msMjnhpon+mXvaq7FZNPfnXOKhZMyEBbAvkWL2qVtA7un0ZoYRcJH2xZjiF3mAlQl5vqbr8YdcobUUg4EaJz1Ia+fYsdL+G3l2vx1kzA0qSTCrHMkhJ6yVoDQGv7MqzQCnRbdJPuDUIFcS2+yHDc2Q5DonMffbg+2jKUwKysjHAoC5vjf/06mSeVnU42ftsVWq9gDclgzZiMw5I3kEYjyY6U8Yri19gOZq1t0TW631hxOh/rg44tUeKWI2OQ4hbE0zS/NooFVUq7v/TQf87qd2xG/P9TqaIK0z+5DXElTtOw7HXHcFC64Bx5cGyWFP0pCNG2+BF1bUcS0xJch+YcINnXVT7KpQeDvMLewZSYe8wvMyRZIZKL4iR8/lfnPEcF8b2YQ==;h0sS5JlxNnd8Pde/R1d/eA=="

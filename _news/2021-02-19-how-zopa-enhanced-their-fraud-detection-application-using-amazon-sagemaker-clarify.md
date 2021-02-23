@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate"
-    excerpt: "As businesses around the world are embarking on building innovative solutions, we’re seeing a growing trend adopting data science workloads across various industries. Recently, we’ve seen a greater push towards reducing the friction between data engineers and data scientists. Data scientists are now"
-    publishedDateTime: 2021-02-18T17:44:30Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 119
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/22/ML-1156-1.jpg"
-        width: 800
-        height: 531
-        isCached: true
   - title: "Training, debugging and running time series forecasting models with the GluonTS toolkit on Amazon SageMaker"
     excerpt: "Time series forecasting is an approach to predict future data values by analyzing the patterns and trends in past observations over time. Organizations across industries require time series forecasting for a variety of use cases, including seasonal sales prediction, demand forecasting, stock price forecasting,"
     publishedDateTime: 2021-02-19T19:47:59Z

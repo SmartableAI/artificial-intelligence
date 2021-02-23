@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-09-bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-22-million-seed-round.md",
+      "title": "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round",
+      "excerpt": "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/",
+      "originalUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/29.jpg?w=1024",
+          "width": 1024,
+          "height": 845,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/",
+      "publishedDateTime": "2021-02-08T18:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-nuance-acquires-seattle-digital-health-startup-saykara-to-boost-healthcare-ai-products.md",
       "title": "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products",
       "excerpt": "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its",
@@ -1371,50 +1424,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
-      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
-      "excerpt": "Ehave, Inc. (OTC Pink: EHVVF) (the “Company”), a provider of digital therapeutics for the psychedelic and mental health sectors, announced today plans to continue to address the needs of big data management in mental healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-1029999161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Ehave-Inc-Utilizes-Artificial-Intelligence-and-Machine-Learning-for-Big-Data-Management-in-Mental-Healthcare-1029999161",
-      "publishedDateTime": "2021-01-25T05:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI",
         "AI in Healthcare"
       ]

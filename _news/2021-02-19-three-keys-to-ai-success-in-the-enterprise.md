@@ -25,63 +25,48 @@ images:
     isCached: true
 
 related:
-  - title: "4 Ways To Bridge The AI-Integrity Gap"
-    excerpt: "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,"
-    publishedDateTime: 2021-02-18T17:18:00Z
-    webUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/"
-    ampWebUrl: "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/"
+  - title: "Artificial Intelligence-Journey towards the Center of the Enterprise"
+    excerpt: "Artificial Intelligence-Journey towards the Center of the Enterprise By Raman Mehta, SVP & CIO, Fabrinet [NYSE: FN] - Marc Andreessen had famously said software is eating the world. He probably had Artificial Intelligence (AI) in the back of"
+    publishedDateTime: 2021-02-19T03:20:00Z
+    webUrl: "https://www.cioreview.com/cioviewpoint/artificial-intelligencejourney-towards-the-center-of-the-enterprise-nid-23785-cid-175.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: CIOReview
+      domain: cioreview.com
+    quality: 43
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg"
-        width: 588
-        height: 392
+      - url: "https://www.cioreview.com/ck_images/6g0PH3cy.jpeg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "Using AI to Bridge the Language Gap"
-    excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
-    publishedDateTime: 2021-02-21T07:31:00Z
-    webUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
-    ampWebUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
-    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
+  - title: "Enterprise AI: How to Meet the Challenges"
+    excerpt: "How to Meet the Challenges By Dr. Anand S. Rao, Global AI Leader, PwC - As artificial intelligence (AI) moves from consumer to business uses, companies will face significant challenges. Here are"
+    publishedDateTime: 2021-02-19T06:54:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/enterprise-ai-how-to-meet-the-challenges-nid-27233-cid-175.html"
     type: article
     provider:
-      name: IT News Africa
-      domain: itnewsafrica.com
-    quality: 59
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
     images:
-      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
-        width: 800
-        height: 527
+      - url: "https://www.cioreview.com/newsimages/special/t0vx98MG.jpeg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "RPI students work with engineering company to integrate AI into power grids"
-    excerpt: "Winter weather shocked people across Texas, many still recovering after days-long blackouts. At last check Friday afternoon, some 150,000 are still without power, down"
-    publishedDateTime: 2021-02-19T22:14:00Z
-    webUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/"
-    ampWebUrl: "https://www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
-    cdnAmpWebUrl: "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/news/local-news/rpi-students-work-with-engineering-company-to-integrate-ai-into-power-grids/amp/"
+  - title: "Machine Learning Will Power the Next Decade of Enterprise Software"
+    excerpt: "Machine Learning Will Power the Next Decade of Enterprise Software By Jesus Rodriguez, Managing Partner, Tellago, Inc - Machine learning is rapidly becoming one of the most important trends in the enterprise."
+    publishedDateTime: 2021-02-19T05:21:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/machine-learning-will-power-the-next-decade-of-enterprise-software-nid-12791-cid-260.html"
     type: article
     provider:
-      name: WTEN
-      domain: news10.com
-    quality: 57
+      name: CIOReview
+      domain: cioreview.com
+    quality: 39
     images:
-      - url: "https://www.news10.com/wp-content/uploads/sites/64/2021/02/SNOW-ELECTRIC-SUBSTATION.jpg?w=1280"
-        width: 1280
-        height: 720
+      - url: "https://www.cioreview.com/newsimages/special/zXd954g0.jpeg"
+        width: 300
+        height: 300
         isCached: true
-  - title: "My Robot Brings All the Boys to the Yard, Its AI is Better than Yours"
-    excerpt: "In this special guest feature, Aviran Yaacov, CEO, and Co-founder of EcoPlant, believes that both AI and ML technologies are making impactful strides in manufacturing, and there is no time like the present for manufacturers to get on board and explore ways to transform their processes to benefit across all fronts."
-    publishedDateTime: 2021-02-21T14:02:00Z
-    webUrl: "https://insidebigdata.com/2021/02/21/my-robot-brings-all-the-boys-to-the-yard-its-ai-is-better-than-yours/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
 
 secured: "unJA+exoAmX/ykUOqQVjeWamVyh0fFYYZnaUXOxOp52PnF/gWCNX0Jv6aoNT3GiU4dxWkeFIREM4dKczE8Rr9c8pybk6rRgmfde4dJkTQCVrjZx/L6bSA6A8TEKs2PYxYQIz23WhCYIKRePCxvdTYWrdZd+2Xrf+jN/3K/8D/y6TJOP1Gat/Glr/CFo1hMvBK7g19xbmEHkR9ol8h5OeaOmt1XIJcFH9REbypJIQ1ecRTJPruBy8n7p21vpTR1PDd9Mh+lhI6NNYiIYT3GjLFYCbGvGMKd+8mHyMleWrOnkBxXTQmMA8ihMe+rWNE1htm8LLgb4DiK+krkwx0MOSFyk4SiaC6kjLJcV3A5MnS4sqFzD8I55/yZgetuM6gWKsiLtzbENvbSOr3HuETRkSDnvjnASPqLYFhC6G2LlN81KfqKTAYGDyafpJxdcKHL9Zf9QvFj2kUyo0AuXkwxi8bDujPjQM+HIQvrDquF5xJvwU3BoxWoFsx0OWJ1RUS8jhCZ/Q81GKBgMRMId6CkLrBw==;CCYLvecpXArrWEv/qBVYSg=="
 ---

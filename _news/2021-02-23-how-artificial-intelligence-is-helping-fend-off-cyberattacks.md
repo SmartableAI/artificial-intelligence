@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/artificial-intelligence-helping-fend-off-cyb
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-helping-fend-off-cyberattacks/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 418
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Is Not the Best Defence Against Cyberattacks"
-    excerpt: "As technology is evolving in the fourth industrial revolution, cybercriminals are coming with sophisticated ways of cyberattacks. Are artificial intelligence and machine learning tools enough to counter these business risks?"
-    publishedDateTime: 2021-02-18T17:52:00Z
-    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-is-not-the-best-defence-against-cyberattacks/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 52
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Ai-and-cyber.jpeg"
-        width: 1600
-        height: 1066
-        isCached: true
-
-secured: "Z3Luni5FUn8CcH+uMLyw8Ka4gm635idn9eRiltrPD+k4nmpcUcgCznv2mAFqI/iHUJF/DhLj3qjPSHmmNPr+zHJC8wikD0mHu7nW6QSvzpQrj+bdGJJBWE7TlUyaTxaL8vx3NMebfDxGcKJs5IDQ5H1/891Suc0d4I4GvSvWezE2WKObahtdw0M2APiudbbtKIX6Y/Hp/uZztdSvtrPNi9YL4dcZeDNCCMbvgidxd5w76/YCmH5TR5VAGPjComxlqr2aXGALif4n6jRiliUSu7+3jlaUCVFFqZ1ZpiNM0YKgu8Lqobjy94gT/QPtxRm9xF86XUGyik57qlC5SAUBUomSFI+nfhVn1zWTieI5hfU=;zS3E5bQsnoLKh1LtTP5Tdg=="
+secured: "WSAscfTHdDhFmr+FphBBYzzn7yLXtoEOrCJWO7u4X05Jm3QCY0rsRRpuQeYfFy9AywpCsgGULMgQS/HANgDtFVhC+8qnprYW1Ug3XBdXVmOxstwN1J+zHG09GfOj8ezL5hGMN94oCjoCPRnGGLA3lEXODwqcsIjKKGDD5jDUiSX8VL5+rxN3scccxXQNSLnwENR0jKcZXv5dATtt2jhKL8akkrtnF2U42RqlPtQpGtB0s+RvSK0ddVuXp0Zsm37o3i0A6kb9Yp5x4tMRlqDdl53RJQFPpDw4AbP/ZYvL53y0jhuRUrBk6+/EqboAivSsTj85T2hqHtsuAp30LNS105KBn2MuGG26WgBGqrhJsV2vNhmg5MnVPfJAM0+jZVxQu9YoR7LkYXsnKdL/H1kd1ZG7rgD6XEP92bryDgGkV4SsovR58mJO1O3Uutoqhk1p4KhT4QIYvmr3CSkD5S0SwZUwGZubktQ6HR+P48fIt0+wK8H0BEEbc9QFbAlLBYeCm8gb26l1BT7FKkYPfL1jTQ==;pk0VKE3KfopdYxGPHLTh+A=="
 ---
 

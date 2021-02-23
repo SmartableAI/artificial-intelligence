@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni-bets-on-future-of-autonomous-vehicles.md",
+      "title": "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles",
+      "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554",
+      "originalUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg",
+          "width": 735,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1",
+      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1",
+      "publishedDateTime": "2021-02-23T02:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autocar Pro",
+        "domain": "autocarpro.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
       "title": "SAIC taps Chinese chip startup for self-driving cars",
       "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
@@ -54,7 +97,7 @@
       "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -753,8 +796,8 @@
       "title": "How to manage your power bill while adopting AI",
       "excerpt": "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates.",
       "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/?fp=2&fpid=1",
+      "webUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
+      "originalUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -773,7 +816,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T17:57:00-08:00",
+      "publishedDateTime": "2021-02-11T17:43:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ARN",
@@ -1379,58 +1422,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-data-drought-slows-advance-of-ai-in-cybersecurity.md",
-      "title": "Data Drought Slows Advance of AI in Cybersecurity",
-      "excerpt": "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "originalUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-294669/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

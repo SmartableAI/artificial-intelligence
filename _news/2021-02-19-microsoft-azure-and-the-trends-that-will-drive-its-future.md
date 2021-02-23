@@ -87,6 +87,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Adds Optical Character Recognition Support for Afrikaans and Zulu"
+    excerpt: "Microsoft has added, in public preview, OCR support for two of South Africa’s official languages, Afrikaans and isiZulu."
+    publishedDateTime: 2021-02-23T09:21:00Z
+    webUrl: "https://www.techfinancials.co.za/2021/02/23/microsoft-adds-optical-character-recognition-support-for-afrikaans-and-zulu/"
+    ampWebUrl: "https://www.techfinancials.co.za/2021/02/23/microsoft-adds-optical-character-recognition-support-for-afrikaans-and-zulu/amp/"
+    cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/02/23/microsoft-adds-optical-character-recognition-support-for-afrikaans-and-zulu/amp/"
+    type: article
+    provider:
+      name: techfinancials
+      domain: techfinancials.co.za
+    quality: 57
+    images:
+      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/02/Microsoft-SA.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
     excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
     publishedDateTime: 2021-02-19T07:23:00Z

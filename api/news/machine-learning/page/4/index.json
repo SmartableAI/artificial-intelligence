@@ -2,6 +2,93 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-28-machine-learning-technique-helps-predict-covid-19-outcomes.md",
+      "title": "Machine Learning Technique Helps Predict COVID-19 Outcomes",
+      "excerpt": "Mount Sinai researchers used a machine learning technique called 'federated learning' to predict outcomes of COVID-19 patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "originalUrl": "https://www.medindia.net/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/pollen-allergy-women-cold.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/machine-learning-technique-to-enhance-predictions-of-covid-19-outcomes-199595-1.htm",
+      "publishedDateTime": "2021-01-28T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning.md",
+      "title": "Pinecone leaves stealth with $10M, launches first serverless vector database for machine learning",
+      "excerpt": "Built by the team behind Amazon SageMaker and founded by scientist and former AWS Director Edo Liberty, Pinecone makes large-scale real-time inference as simple as querying a database. It is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/pinecone-leaves-stealth-with-10m-launches-first-serverless-vector-database-for-machine-learning-301216240.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-27T20:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-neural-network-software-market-is-booming-worldwide-neurala-ibm-microsoft.md",
       "title": "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft",
       "excerpt": "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends",
@@ -1249,93 +1336,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-deep-learning-based-detection-of-dental-prostheses-and-restorations.md",
-      "title": "Deep learning-based detection of dental prostheses and restorations",
-      "excerpt": "The purpose of this study is to develop a method for recognizing dental prostheses and restorations of teeth using a deep learning. A dataset of 1904 oral photographic images of dental arches (maxilla: 1084 images;",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-81202-x",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-81202-x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81202-x/MediaObjects/41598_2021_81202_Fig1_HTML.png",
-          "width": 685,
-          "height": 391,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory.md",
-      "title": "Artificial Intelligence may outsmart our brain in chess, but not in memory",
-      "excerpt": "Artificial Intelligence has shown to be very good at achieving exceptional goals in several fields. Oslo (Norway): A new research has shown that the brain strategy for storing memories is more efficient than that of Artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
-      "originalUrl": "https://www.freepressjournal.in/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/freepressjournal/2021-01/09292545-ba55-4833-ad45-78c3e2364357/etc_3rd_lead_jan_20.jfif",
-          "width": 1920,
-          "height": 1311,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
-      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/tech/artificial-intelligence-may-outsmart-our-brain-in-chess-but-not-in-memory/242b9a6a-6093-45ac-a09b-968757a53489",
-      "publishedDateTime": "2021-01-20T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,541 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-05-synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry.md",
+      "title": "Synthetic Biology Startup Acquires AI Platform To Disrupt The Drug Industry",
+      "excerpt": "Synthetic biology company AbSci’s recent acquisition of the artificial intelligence platform, Denovium, could help get novel therapeutics to patients more quickly",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
+      "originalUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c5138d6243b1002155f1f%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johncumbers/2021/02/04/synthetic-biology-startup-acquires-ai-platform-to-disrupt-the-drug-industry/amp/",
+      "publishedDateTime": "2021-02-04T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners.md",
+      "title": "IBM rolls out an all-new Elite Hybrid Cloud Build team for AI partners",
+      "excerpt": "IBM today announced the formation of its Elite Hybrid Cloud Build Team. According to Big Blue, this group of AI and cloud computing experts was assembled to help bring its partners into the cutting edge of hybrid solution systems.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/08/ibm-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/ibm-rolls-out-an-all-new-elite-hybrid-cloud-build-team-for-ai-partners/amp/",
+      "publishedDateTime": "2021-02-04T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-two-google-engineers-quit-over-firing-of-ethical-ai-leader-timnit-gebru.md",
+      "title": "Two Google engineers quit over firing of ethical AI leader Timnit Gebru",
+      "excerpt": "Two Google engineers have quit over the treatment of Timnit Gebru, former co-lead of the ethical AI team. David Baker, an engineering director, said Gebru’s dismissal “extinguished” his desire to remain at the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
+      "originalUrl": "https://www.theverge.com/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/rIIhMta1h8Vp1UlVVbgtVJAp0nU=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68770010/acastro_180130_1777_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/4/22266513/google-engineers-quit-timnit-gebru-ethical-ai-april-christina-curley-firing",
+      "publishedDateTime": "2021-02-04T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-ex-google-organizer-says-biden-and-the-pentagon-need-more-than-an-ethics-paper-to-win-back-tech-workers.md",
+      "title": "Ex-Google organizer says Biden and the Pentagon need more than an ethics paper to win back tech workers",
+      "excerpt": "Here's what she told Insider about the Pentagon's efforts around AI ethics, the urgency of the tech worker movement for AI, and encouraging signs from the Biden team: Pentagon spending big on AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/meredith-whittaker-google-ai-says-pentagon-needs-ai-accountability-2021-2",
+      "originalUrl": "https://www.businessinsider.com/meredith-whittaker-google-ai-says-pentagon-needs-ai-accountability-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/601b5b51ee136f00183aa367?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-gomoxies-see-ai-wins-industry-accolades.md",
+      "title": "goMoxie’s SEE (AI) Wins Industry Accolades",
+      "excerpt": "Moxie®, the leading provider of customer guidance solutions, today announced that its solution, SEETM , an AI solution that delivers actionable insi",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "originalUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos.md",
+      "title": "Canada (politely) asks Clearview AI to stop scraping citizens’ photos",
+      "excerpt": "The country's regulators said Clearview violated Canada's privacy laws by scraping photos of citizens from the internet without permission.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-04T164520.518-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/04/canada-politely-asks-clearview-ai-to-stop-scraping-citizens-photos/amp/",
+      "publishedDateTime": "2021-02-04T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-using-genetic-algorithms-on-aws-for-optimization-problems.md",
+      "title": "Using genetic algorithms on AWS for optimization problems",
+      "excerpt": "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/ML-1235-4.jpg",
+          "width": 728,
+          "height": 296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T09:59:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-fears-raised-over-facial-recognition-use-at-moscow-protests.md",
+      "title": "Fears raised over facial recognition use at Moscow protests",
+      "excerpt": "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
+      "originalUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2KA54T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T",
+      "publishedDateTime": "2021-02-04T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-ai-dungeon-maker-latitude-raises-33m-to-build-games-with-infinite-story-possibilities.md",
+      "title": "AI Dungeon-maker Latitude raises $3.3M to build games with ‘infinite’ story possibilities",
+      "excerpt": "Latitude, a startup building games with stories are generated by artificial intelligence, is announcing that it has raised $3.3 million in seed funding. The idea of an AI-generated story might make you think of hilariously nonsensical experiments like “Sunspring,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/AID-Gameplay-Edit-AI-Output.jpg?w=680",
+          "width": 680,
+          "height": 356,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
+      "publishedDateTime": "2021-02-04T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
+      "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
+      "excerpt": "MARLBOROUGH, Mass., Feb. 4, 2021 /PRNewswire-PRWeb/ -- Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
+      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
+      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
+          "width": 603,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
+      "publishedDateTime": "2021-02-04T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-deep-learning-for-steep-gains-the-ever-popular-arkq-etf.md",
       "title": "Deep Learning for Steep Gains: The Ever-Popular ARKQ ETF",
       "excerpt": "Deep learning, widely viewed as the next technological revolution, carries with it an array of investment implications. Investors can tap into that theme with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ).",
@@ -637,558 +1172,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-this-is-crazy-tesla-recalls-100k-cars-stock-goes-up.md",
-      "title": "This Is Crazy: Tesla Recalls 100K+ Cars, Stock Goes Up!",
-      "excerpt": "Tesla will recall about 135k Model S and Model Y luxury vehicles due to some touch-screen related issues, making it one of the electric vehicle bellwether’s largest recalls to date. However, despite the news Tesla stock actually jumped by about 4% in Tuesday’s trading.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f193cce4da8f6e9a2215488%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
-      "publishedDateTime": "2021-02-04T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-artificial-intelligence-helping-to-prevent-disinformation-for-investors.md",
-      "title": "Artificial Intelligence Helping to Prevent Disinformation for Investors",
-      "excerpt": "That’s further proof investors have turned to chat rooms for investing ideas. Unfortunately, not all information gathered in such chat rooms is truthful information. However, with a good deal of rampant disinformation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-ai-and-the-list-of-dirty-naughty-obscene-and-otherwise-bad-words.md",
-      "title": "AI and the List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
-      "excerpt": "It started as a way to restrict autocompletes on Shutterstock. Now it grooms search suggestions on Slack and influences Google's artificial intelligence research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/",
-      "originalUrl": "https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/601b20bbd18be3330afe51f4/master/pass/bad-words-ai-72432895.jpg",
-          "width": 1974,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-list-dirty-naughty-obscene-bad-words/amp",
-      "publishedDateTime": "2021-02-04T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-how-data-and-ai-will-continue-to-change-healthcare-in-2021.md",
-      "title": "How Data And AI Will Continue To Change Healthcare In 2021",
-      "excerpt": "The growth of data, artificial intelligence (AI) and machine learning (ML) has had a particularly strong impact on healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f0db1df72fadb0007edeed4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/02/04/how-data-and-ai-will-continue-to-change-healthcare-in-2021/amp/",
-      "publishedDateTime": "2021-02-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs.md",
-      "title": "Noida Girl Designs Machine Learning Project to Identify Down Syndrome Through Photographs",
-      "excerpt": "Designed as part of a project submitted to Google India Code to Learn contest 2020, this tool has the potential of saving more than 20,000 children's lives annually in India alone",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
-      "originalUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2021/02/11-2.jpg",
-          "width": 613,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/viral/noida-girl-designs-machine-learning-project-to-identify-down-syndrome-through-photographs-4397923/amp/",
-      "publishedDateTime": "2021-02-04T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-data-drought-slows-advance-of-ai-in-cybersecurity.md",
-      "title": "Data Drought Slows Advance of AI in Cybersecurity",
-      "excerpt": "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "originalUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-294669/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
-      "title": "AI in Retail - Ocado goes bananas for robot food pickers",
-      "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
-      "originalUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2021-02/OcadoRobots.jpg",
-          "width": 1702,
-          "height": 1328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
-      "publishedDateTime": "2021-02-04T02:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-clearview-ai-surveillance-ruled-illegal-in-canada.md",
-      "title": "Clearview AI Surveillance Ruled Illegal In Canada",
-      "excerpt": "The Canadian privacy watchdog has ruled that the use of Clearview's AI surveillance technology is illegal, and is demanding that it stop offering its services in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/",
-      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601bcd83af0c1ecebb845422%2F0x0.jpg",
-          "width": 1200,
-          "height": 1074,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/",
-      "publishedDateTime": "2021-02-04T02:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025.md",
-      "title": "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025",
-      "excerpt": "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
-      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
-      "excerpt": "Artificial Intelligence: 101 Things You Must Know Today About Our Future contains many timely topics related to AI, including: Self-driving cars, robots, chatbots, as well as how AI will impact ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
-          "width": 603,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "publishedDateTime": "2021-02-04T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-amazon-plans-ai-powered-cameras-in-delivery-vans-to-improve-driver-safety.md",
-      "title": "Amazon plans AI-powered cameras in delivery vans to improve driver safety",
-      "excerpt": "Amazon.com has revealed plans to install AI-powered video cameras in its branded delivery vans, in a move that the world's largest e-commerce firm says would improve safety of both drivers and the communities in which they deliver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/amazon-com-delivery-idINKBN2A406W",
-      "originalUrl": "https://www.reuters.com/article/amazon-com-delivery-idINKBN2A406W",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550254162&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH13003",
-          "width": 768,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2A406W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A406W",
-      "publishedDateTime": "2021-02-03T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

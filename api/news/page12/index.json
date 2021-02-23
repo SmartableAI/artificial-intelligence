@@ -2,6 +2,293 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-11-facial-recognition-has-come-a-long-way-its-problems-have-a-long-way-to-go.md",
+      "title": "Facial recognition has come a long way. Its problems have a long way to go.",
+      "excerpt": "Over the last 80 years, facial recognition tech has gone from pen and paper to large-scale automation. But at what cost?",
+      "sourceUrl": null,
+      "webUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "originalUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehustle.co/wp-content/uploads/2021/02/News-Brief-Midroll-Images_2021-02-11T012507.977Z.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/02112021-facial-recognition/",
+      "publishedDateTime": "2021-02-10T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hustle",
+        "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey.md",
+      "title": "AWS and NHL partner to turn game data into new ways of experiencing hockey",
+      "excerpt": "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "originalUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/11/e12be20c-fc14-4f39-a5c7-2b6bd2de23c1/nhl-aws.jpg",
+          "width": 2089,
+          "height": 1183,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "publishedDateTime": "2021-02-10T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-building-secure-machine-learning-environments-with-amazon-sagemaker.md",
+      "title": "Building secure machine learning environments with Amazon SageMaker",
+      "excerpt": "As businesses and IT leaders look to accelerate the adoption of machine learning (ML) and artificial intelligence (AI), there is a growing need to understand how to build secure and compliant ML environments that meet enterprise requirements. One major challenge you may face is integrating ML workflows",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/ML-1341-1.jpg",
+          "width": 800,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:53:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-ibm-and-palantir-debut-no-code-platform-for-open-ai-applications.md",
+      "title": "IBM and Palantir debut no-code platform for open AI applications",
+      "excerpt": "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
+      "originalUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg",
+          "width": 2252,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "publishedDateTime": "2021-02-10T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
+      "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
+      "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "originalUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals.md",
       "title": "Artificial intelligence can influence human decision-making, new Data61 study reveals",
       "excerpt": "A new study by researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, in partnership with the Australian National University and researchers from Germany,",
@@ -236,6 +523,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-new-hyundai-tiger-concept-combines-robotics-with-transportation-comes-up-with-walking-car.md",
+      "title": "New Hyundai TIGER concept combines robotics with transportation, comes up with walking car",
+      "excerpt": "aka the transforming intelligent ground excursion robot. Branded as the company’s first uncrewed ultimate mobility vehicle (UMV), TIGER is meant to transform from a four-wheel drive vehicle to a four-legged walking machine. “Vehicles like TIGER ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
+      "originalUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/02/large-44915-hyundaimotorgroupunveilstigeruncrewedultimatemobilityvehicleconcept.jpg?offset-y=0",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
+      "publishedDateTime": "2021-02-10T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -873,344 +1203,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-baidu-in-talks-to-raise-money-for-a-stand-alone-ai-chip-company.md",
-      "title": "Baidu in talks to raise money for a stand-alone A.I. chip company",
-      "excerpt": "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 246,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105365414-1533059009324gettyimages-527564346.jpeg?v=1612946425",
-          "width": 3000,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/10/baidu-in-talks-to-raise-money-for-a-standalone-ai-chip-company-.html",
-      "publishedDateTime": "2021-02-10T05:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-how-ai-helps-create-the-adaptive-customer-service-response-2021-needs.md",
-      "title": "How AI Helps Create The Adaptive Customer Service Response 2021 Needs",
-      "excerpt": "Business in 2021 is challenging, particularly in a customer service sense, as customers are demanding more from brands than ever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6022c5d99a2c4cba93a64982%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/how-ai-helps-create-the-adaptive-customer-service-response-2021-needs/amp/",
-      "publishedDateTime": "2021-02-10T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale.md",
-      "title": "NeuReality emerges from stealth to accelerate AI workloads at scale",
-      "excerpt": "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/",
-      "originalUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/shutterstock_102001114.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/",
-      "publishedDateTime": "2021-02-10T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal.md",
-      "title": "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'",
-      "excerpt": "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
-      "publishedDateTime": "2021-02-10T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center.md",
-      "title": "Linode Expands Commitment to APAC Users With Addition of GPU Instances to Singapore Data Center",
-      "excerpt": "Availability of Linode's virtual machine GPU instances in Singapore gives growing APAC customer base a cost-competitive alternative to hyperscale cloud providers in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19583315",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19583315",
-      "publishedDateTime": "2021-02-10T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-doctors-track-covids-spread.md",
-      "title": "This cutting-edge cloud-computing service is helping doctors track COVID's spread",
-      "excerpt": "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "originalUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "publishedDateTime": "2021-02-10T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-indian-healthcare-companies-bet-big-on-artificial-intelligence-report.md",
-      "title": "Indian healthcare companies bet big on artificial intelligence: Report",
-      "excerpt": "Around 90% of C-level executives in healthcare companies already have an AI strategy in place from a moderate to very large extent. For 54% of the participants covid-19 played a part in driving up AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/02/10/600x338/AI-kkGH--621x414@LiveMint_1612946535600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
-      "publishedDateTime": "2021-02-10T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

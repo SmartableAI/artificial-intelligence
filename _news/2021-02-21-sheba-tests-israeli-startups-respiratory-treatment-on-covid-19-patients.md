@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2021/02/sheba-medical-center-inspira-technolo
 webUrl: "https://nocamels.com/2021/02/sheba-medical-center-inspira-technologies-covid-19-patients-respiratory/"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -16,36 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Essential IT: How Providence uses data to care for COVID-19 patients"
-    excerpt: "Could cloud data detect early signs of the virus? Could that same data predict where COVID would surge next? Turns out, it could."
-    publishedDateTime: 2021-02-18T17:41:00Z
-    webUrl: "https://news.microsoft.com/transform/how-providence-uses-data-to-care-for-covid-19-patients/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 24
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2021/02/08-BJ-Moore_Crop-1024x546.jpg"
-        width: 1024
-        height: 546
-        isCached: true
-  - title: "A remedy for COVID-19 learning loss?"
-    excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
-    publishedDateTime: 2021-02-22T20:41:00Z
-    webUrl: "https://msutoday.msu.edu/news/2021/remedy-covid-learning-loss"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
-    quality: 24
-    images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/winstons-six-treys-push-msu-women-past-iowa-86-82/o/0/online-learning-1.jpg"
-        width: 1024
-        height: 605
-        isCached: true
 
 secured: "7WuxbPYzCJueqTH1BTidnBzBMpr6OOIYVbbQuS68S7CxxH7mSKIj9nYgFJaVgECWkvkZ/VD7cbb5UkbLWNZF+7i1DHnlBRJB/B1i+4VIzd/4JtYhg1dpbIbr+m8k3/hFleluwK8JiQGvC0NwU9iy1y4ZEfZ4Zl7hoenb2GGROzOpO764XtH9lyH9OlpkftfZZ5W1TUeOHLNqhHavB5t7zDZEQ8OshzENFKMnnZxMMgu60vKP5lzm16FZXpGBdFxXeholBMZQm3ujmTRK0SW6V0aJSWogQ9LLWWSZU46fFWaCx1/zmxSP0i5X+JnDsb+miH3edvCBSkIRBy8Z8Cs5LpioirKJkUZlYRZLLYfQ4iPH9pg5ZVAdXp4rP8ZhuZVf5jk/izZHBU5Ce7+vl77q2cXqtKkZAbLse+bsJSoLTD+7qyzVcJICk0EqNA+sG+ljj0HmR243VE6HHsD++NX4Pg60LecDAtiGScELpitgT9BRN50aPJqImnW22htEL8K8XSnJ/4xdIYuSfsBm3KkIEg==;P0VeYqRSj1SPcK5vNtIMZg=="
 ---

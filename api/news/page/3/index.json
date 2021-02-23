@@ -2,6 +2,239 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-19-new-project-investigates-artificial-intelligence-for-sustainable-energy-integration.md",
+      "title": "New project investigates artificial intelligence for sustainable energy integration",
+      "excerpt": "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
+      "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hydrogenfuelnews.com/wp-content/uploads/2021/02/Artificial-intelligence-for-sustainable-energy-Businesss-Research-AI.jpg",
+          "width": 875,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
+      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
+      "publishedDateTime": "2021-02-19T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrogen Fuel News",
+        "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast.md",
+      "title": "Voice and Speech Recognition Market Overview, Size, Industry Share, Growth, Trends and Forecast",
+      "excerpt": "As per the latest report by IMARC Group, titled \"Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global voice and speech recognition market experienced robust growth during 2014-2019.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-overview-size-industry-share-growth-trends-and-forecast-2021-02-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
+      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "publishedDateTime": "2021-02-18T22:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-robot-proof-higher-education-in-the-age-of-artificial-intelligence.md",
+      "title": "Robot-Proof: Higher Education in the Age of Artificial Intelligence",
+      "excerpt": "Robot-Proof: Higher Education in the Age of Artificial Intelligence By Joseph E. Aoun, President, Northeastern University - As advanced machines and computers become more and more proficient at picking investments,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/robotproof-higher-education-in-the-age-of-artificial-intelligence-nid-26425-cid-75.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/robotproof-higher-education-in-the-age-of-artificial-intelligence-nid-26425-cid-75.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/HnPaOy2U.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T22:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-canada-vows-to-be-next-country-to-go-after-facebook-to-pay-for-news.md",
+      "title": "Canada vows to be next country to go after Facebook to pay for news",
+      "excerpt": "Canada vowed on Thursday to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349",
+      "originalUrl": "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552079740&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I006",
+          "width": 796,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2AI349",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AI349",
+      "publishedDateTime": "2021-02-18T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-deep-learning-and-future-of-healthcare.md",
       "title": "Deep Learning and Future of Healthcare",
       "excerpt": "Deep Learning and Future of Healthcare By Sanjib Basak, Former Director of Data Science & Artificial Intelligence, Carlson Wagonlit Travel - As Artificial Intelligence (AI) gains popularity in the industry,",
@@ -488,6 +721,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-google-has-a-new-responsible-ai-lead.md",
+      "title": "Google has a new responsible AI lead",
+      "excerpt": "Google has appointed Dr. Marian Croak to lead its responsible artificial intelligence division within Google Research, Bloomberg reported earlier today. Croak was previously the vice president of engineering at the company.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
+      "originalUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
+      "publishedDateTime": "2021-02-18T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-marian-croaks-vision-for-responsible-ai-at-google.md",
       "title": "Marian Croak’s vision for responsible AI at Google",
       "excerpt": "Dr. Marian Croak has spent decades working on groundbreaking technology, with over 200 patents in areas such as Voice over IP, which laid the foundation for the calls we all use to get things done and stay in touch during the pandemic. For the past six years she’s been a VP at Google working on everything",
@@ -694,60 +979,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
-      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
-      "excerpt": "Researchers say the impact of AI on people who identify as queer is underexplored, which poses a threat to their health and privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1148800397.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "publishedDateTime": "2021-02-18T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     },
     {
@@ -976,236 +1207,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mit-csail-taps-ai-to-reduce-sheet-metal-waste.md",
-      "title": "MIT CSAIL taps AI to reduce sheet metal waste",
-      "excerpt": "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have created a tool that taps AI to minimize sheet metal waste.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Fabricaides-packing-algorithm-can-arrange-parts-onto-sheets-in-an-optimally-efficient-way-in-real-time-e1612993356643.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/amp/",
-      "publishedDateTime": "2021-02-18T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-infosenseglobal-launches-new-artificial-intelligence-division.md",
-      "title": "Infosenseglobal Launches New Artificial Intelligence Division",
-      "excerpt": "Infosenseglobal is proud to announce its newest division, focusing exclusively on building innovative artificial intelligence solutions for businesses looking to accelerate digital transformation. With decades of experience in information technology,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai.md",
-      "title": "Selecting AI Solutions For Your Customer Journey Should Also Depend On Capabilities Beyond AI",
-      "excerpt": "The success of AI in the enterprise depends on the AI platform’s ability to solve a few core enterprise system challenges beyond what data scientists are hired for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
-      "publishedDateTime": "2021-02-18T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
-      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
-      "excerpt": "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "publishedDateTime": "2021-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-artificial-intelligence-can-bring-skynet-to-life-reality-or-myth.md",
-      "title": "Artificial intelligence can bring Skynet to life, reality or myth?",
-      "excerpt": "Is it possible that, like Skynet in the Terminator movie, the machines become aware of themselves and wage a war against humans to exterminate them? Should we fear artificial intelligence or is it just a myth?",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/365683",
-      "originalUrl": "https://www.entrepreneur.com/article/365683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613592356-skynet1.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365683",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365683",
-      "publishedDateTime": "2021-02-18T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

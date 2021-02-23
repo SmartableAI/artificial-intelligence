@@ -27,15 +27,20 @@ images:
     isCached: true
 
 related:
-  - title: "French watchdog warns sports club about unlawful use of facial recognition technology"
-    excerpt: "France's data privacy watchdog CNIL has warned a sports club about the unlawful use of facial recognition technology to stop people from attending matches and aid the fight against terrorism, it said on Thursday."
-    publishedDateTime: 2021-02-18T18:34:00Z
-    webUrl: "https://www.nasdaq.com/articles/french-watchdog-warns-sports-club-about-unlawful-use-of-facial-recognition-technology-2021"
+  - title: "Facial recognition is the tip of the spear in the assault on your privacy"
+    excerpt: "Facial recognition is the tip of the spear in the assault on your privacy By Harvey Boulter, Chairman, Communication Security Group - Clearview AI, a US company specializing in facial recognition software is under fire for infringing on personal privacy"
+    publishedDateTime: 2021-02-19T02:53:00Z
+    webUrl: "https://www.cioreview.com/cxoinsight/facial-recognition-is-the-tip-of-the-spear-in-the-assault-on-your-privacy-nid-31482-cid-145.html"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 42
+      name: CIOReview
+      domain: cioreview.com
+    quality: 40
+    images:
+      - url: "https://www.cioreview.com/newsimages/special/qiWC67af.jpeg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Minneapolis becomes latest city to ban use of facial recognition technology"
     excerpt: "Last week, the Minneapolis City Council passed an ordinance that prohibits the city from buying facial recognition technology or using any data derived from it. Notably, however, the ordinance does include an exception for providing access control and security for employees in workplaces."
     publishedDateTime: 2021-02-18T21:45:00Z
