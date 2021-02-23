@@ -75,22 +75,6 @@ related:
         width: 1162
         height: 612
         isCached: true
-  - title: "Intel and Microsoft partner to simplify IoT solutions development"
-    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2021-02-18T08:38:00Z
-    webUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/"
-    ampWebUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 59
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
-        width: 800
-        height: 360
-        isCached: true
   - title: "The head of Cisco's Webex explains how it's using AI to innovate and compete with newer rivals like Zoom and Microsoft Teams"
     excerpt: "Cisco's Webex has seen growth like rivals Zoom and Microsoft Teams, but it challenge is proving it's not the same company it was 10 years ago."
     publishedDateTime: 2021-02-21T12:40:00Z

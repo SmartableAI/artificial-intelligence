@@ -35,22 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Samsung Electronics Develops the Industry’s First Memory Integrated with Artificial Intelligence Called “HBM-PIM”"
-    excerpt: "Samsung Electronics has developed the world’s first memory semiconductor integrated with an AI (Artificial Intelligence) professor. This memory is able to read or store data just like memories and i"
-    publishedDateTime: 2021-02-18T08:59:00Z
-    webUrl: "https://english.etnews.com/20210218200001"
-    ampWebUrl: "https://english.etnews.com/amp/20210218200001"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210218200001"
-    type: article
-    provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 36
-    images:
-      - url: "https://img.etnews.com/news/article/2021/02/18/article_18105837133771.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "+t4AituAJNqcyJuA4E4vjYes2nZoUe9IalTDjs5ZqKOTqzcvvidLtMYg17sMszBeySxKmclNPhZ/MZhVWkcR5yD7h7N3tqc5H3yGRbmWpg4MKQsRYVZAPDgY5yN46F5d8Smxi0+HSiwhvVKM6GVVFVQK3tbgOQSBJIDd4hO4KypT0+MZnaM8DUyKm47W9nqZP3d5qXiJeeG+Pk6re+PGEhVO8QUkwdD0hzxdBbTKkuYbWCrJDEzMxrXwWmNE7o94UMZqw41aitdrZ6GVU/srPHIasAbK38zkfTN4W+YauSI+8AowHBdCWaXJIiPj3n3VidbcBKRKleOW6ZgnMYlG6cSZjltbBRTeWDrEh4W/DnU=;PiKMCL3ntW+Q6FXxe2hUkw=="
 ---

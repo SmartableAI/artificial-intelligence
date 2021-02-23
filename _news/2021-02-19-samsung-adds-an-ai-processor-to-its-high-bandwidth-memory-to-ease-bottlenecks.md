@@ -9,7 +9,7 @@ ampWebUrl: "https://www.networkworld.com/article/3608529/samsung-adds-an-ai-proc
 cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3608529/samsung-adds-an-ai-processor-to-its-high-bandwidth-memory-to-ease-bottlenecks.amp.html"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Samsung Introduces World’s First HB RAM With Integrated AI Processing"
-    excerpt: "Samsung Electronics announced that it has developed the industry’s first High Bandwidth Memory (HBM) integrated with artificial intelligence (AI)"
-    publishedDateTime: 2021-02-18T08:41:00Z
-    webUrl: "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/"
-    ampWebUrl: "https://propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/"
-    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/02/18/samsung-introduces-worlds-first-hbm-ram-with-integrated-ai-processing/amp/"
-    type: article
-    provider:
-      name: ProPakistani
-      domain: propakistani.pk
-    quality: 59
-    images:
-      - url: "https://propakistani.pk/wp-content/uploads/2021/02/Samsung-1.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "V74QEU2JiJMXwFfhJO7xK7pwS5obNDnRexsBmTT2f9XEZ0LHluFE0W/Z20S33neAvcdzukRUgpnI0CW3m2G7t09vv5jRHuUNyyy3HqQENBPd1KHGj+YFlckpzXDQLOo/cNlIBbkPIdXnqqRwco7Z1rQf7GexQqxiivfDYETki5rE1K26XfGAchr52Yi/4KR1pj5nNUhTLSn9PAiwR/NVDXdAf7qaZBYCJkmOYMdExQKsnvXcsWfEjYv8yasTlR3SgoFpBS+9wz7stPWYokkA4TJD6a0v0B0GAzXV5cFacNKhwe06NmVKbiZb6M3zbkxlXjdb38nT/0V2c+HiDwDVljr3zIGy/IFXT2ux/7QFt7o=;+HGKjwMARVZ+MPzArAFkwA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaltrends.com/news/how-to-watch-perserverance-land
 webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
 type: article
 quality: 152
-heat: 183
+heat: 182
 published: true
 
 provider:

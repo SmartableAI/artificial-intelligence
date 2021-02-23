@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
 type: article
 quality: 104
-heat: 116
+heat: 114
 published: true
 
 provider:

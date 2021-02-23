@@ -24,22 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Russia's Sberbank eyes introducing artificial intelligence technologies in Uzbek banking sector"
-    excerpt: "Azerbaijan increases gas exports via Baku-Tbilisi-Erzurum pipeline in January 2021 Oil&Gas 11:08"
-    publishedDateTime: 2021-02-18T07:16:00Z
-    webUrl: "https://en.trend.az/business/it/3382575.html"
-    type: article
-    provider:
-      name: Trend News Agency
-      domain: trend.az
-    quality: 25
-    images:
-      - url: "https://cdn.trend.az/2017/10/06/bank_albom_061017.jpg"
-        width: 570
-        height: 321
-        isCached: true
-
 secured: "SvkBeTVqaFEMD1VU02t0ZmqRZfsPbU2OhYYwAuugzukMP3FvfY1+NFaSjIFJ28lBcAwrVKuAJ+gi927+0cm2/MiExLieHIlMc2NQdXOJLL6URqN/LWfG+6+Oi0m3EKaSWxDMHtot8c6B8i0awHek4YYJAKlMMr9oGWKQrT7qRctYvA+yfg2MXrs+BYG2lTKEbawfROwWXdEQoP9yDFgIuvx6Ob0wt8VJ+bIUKC1KHggvu2+TWLjOHrDDOUxGRH7pB0PVyErtuJsdwW59qjIE/L8yDR9WrNgx/x6oFnTEuC2FBpLg7DLN67SMh9NMnoBccUS5pzDThx/76yvT9PVAWjfWV4F+oeAEn/VlLKDgG4QJ1WCmvT38yyLDmZBSZidlJ6gV5SP9hwN4FyI0fSuaJwfLE1sfXajCSCTT/iYtr3qhS8SE/LsoaZLYOXrWsNKa/DWOtJoAH73GBqSzHy4mRXrmFz1H/Vfr8HkggKUd2gA8pSuO6ixbyThoJz81OMO5VziW/if4wRBI6oc8pjLmnQ==;cu7EjtQaOinuzJ72G/dcmQ=="
 ---
 

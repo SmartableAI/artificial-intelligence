@@ -93,22 +93,6 @@ related:
         width: 1680
         height: 946
         isCached: true
-  - title: "Intel and Microsoft partner to simplify IoT solutions development"
-    excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2021-02-18T08:38:00Z
-    webUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/"
-    ampWebUrl: "https://iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/02/18/28021-intel-and-microsoft-partner-to-simplify-iot-solutions-development/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 59
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/partnership-iot.jpg"
-        width: 800
-        height: 360
-        isCached: true
   - title: "Microsoft Azure and the Trends That Will Drive its Future"
     excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
     publishedDateTime: 2021-02-19T07:19:00Z

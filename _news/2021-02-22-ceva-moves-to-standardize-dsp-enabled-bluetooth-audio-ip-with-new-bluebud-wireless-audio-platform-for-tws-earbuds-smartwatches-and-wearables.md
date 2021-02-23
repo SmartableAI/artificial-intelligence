@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/ceva-moves-to-standardize
 webUrl: "https://www.prnewswire.com/news-releases/ceva-moves-to-standardize-dsp-enabled-bluetooth-audio-ip-with-new-bluebud-wireless-audio-platform-for-tws-earbuds-smartwatches-and-wearables-301232195.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Ceva releases Bluebud wireless audio platform for wearables"
+    excerpt: "Ceva has unveiled Bluebud, a wireless audio platform aimed at standardising DSP-enabled Bluetooth audio IP for the Bluetooth audio markets, including True Wireless Stereo (TWS) earbuds, hearables, wireless speakers,"
+    publishedDateTime: 2021-02-23T00:19:00Z
+    webUrl: "https://www.telecompaper.com/news/ceva-releases-bluebud-wireless-audio-platform-for-wearables--1373302"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
   - title: "CEVA Moves to Standardize DSP-enabled Bluetooth® Audio IP with New Bluebud(TM) Wireless Audio Platform for TWS Earbuds, Smartwatches and Wearables"
     excerpt: "CEVA Moves to Standardize DSP-enabled Bluetooth® Audio IP with New Bluebud(TM) Wireless Audio Platform for TWS Earbuds, Smartwatches and Wearables"
     publishedDateTime: 2021-02-22T12:08:00Z
