@@ -107,20 +107,6 @@ related:
         width: 960
         height: 420
         isCached: true
-  - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
-    excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
-    publishedDateTime: 2021-02-20T00:48:00Z
-    webUrl: "https://www.supplychaindigital.com/technology-4/ibm-watson-ai-xprize-leveraging-ai-good-people"
-    type: article
-    provider:
-      name: Supply Chain Digital
-      domain: supplychaindigital.com
-    quality: 54
-    images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62akld1lvrn200220212751.jpeg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
     excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
     publishedDateTime: 2021-02-20T03:37:00Z
@@ -164,20 +150,6 @@ related:
       - url: "https://medcitynews.com/uploads/2018/09/GettyImages-871148930-1.jpg"
         width: 619
         height: 416
-        isCached: true
-  - title: "IBM reportedly mulling to spin off $1B Watson Health unit"
-    excerpt: "IBM Corp. is said to be looking at offloading its Watson Health healthcare technology unit, possibly through a sale or a merger with a special-purpose acquisition company. The Wall Street Journal reported on the discussions late Thursday,"
-    publishedDateTime: 2021-02-20T00:43:00Z
-    webUrl: "https://siliconangle.com/2021/02/19/ibm-reportedly-mulling-spin-off-1b-watson-health-unit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/IBM_ads_at_JFK.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Ibm considering to sell its $1B Watson Health business: Report"
     excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"

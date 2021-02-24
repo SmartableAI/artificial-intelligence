@@ -1,10 +1,10 @@
 ---
 category: news
 title: "SoftBank-backed Arlington driver safety startup to partner with GWU on software development"
-excerpt: "Moment AI, an Arlington-based automotive safety company, is working with George Washington University to develop software that could reduce traffic crashes caused by driver health problems."
-publishedDateTime: 2021-02-24T01:07:00Z
-originalUrl: "https://www.bizjournals.com/washington/news/2021/02/23/gwu-and-softbank-backed-moment-ai-partner.html"
-webUrl: "https://www.bizjournals.com/washington/news/2021/02/23/gwu-and-softbank-backed-moment-ai-partner.html"
+excerpt: "Moment AI, an Arlington-based automotive safety startup, is partnering with George Washington University to develop software that could reduce crashes caused by driver health emergencies, the two announced last week. The company will give the school $ ..."
+publishedDateTime: 2021-02-24T15:14:00Z
+originalUrl: "https://www.bizjournals.com/washington/inno/stories/news/2021/02/23/gwu-and-softbank-backed-moment-ai-partner.html"
+webUrl: "https://www.bizjournals.com/washington/inno/stories/news/2021/02/23/gwu-and-softbank-backed-moment-ai-partner.html"
 type: article
 quality: 0
 heat: 0
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "FciKp4sxKGC+J/nt3x74a9/vNutZWXxMCLlHRoyny7QLbUvssRw0a/cTiv3/cn2RF583/7FJAOT0r+RRIw1Fkb1XZ1GaiDvdghCDbTNsJxp+41TslLO+1uxZHetD0YVIQuJBccWlhBwqNfEd7W5QwCDIz8wDqzcJVZEpD0dQgtmxZJXY5xA+WpewnMTAK2Oz7kBgXimmQEv8DzpIIx7k9nc+TrdHobiCc1z1XcfUCq8lxu2MLcn07KUbDlkzPjolBywEBNjGZ2lrNJ9Yi91iUGb1VSgKAPncaQEijBcx3zR2CKbzPer/V2nQwXKm4+tFoRkzLRerq8AwRUDADaMTKcbfU77zsydjLNca3WF07McMqKzXEROMC2F4ffdfFbNXlbBvt47W8CnDoyuODrbS6e8MJqRLUo8A/rui8cCqtzzFFpKSuvgeemsitNah0Yjl961sqDK1bFvtNnGC8UirN+FVGH3/4auncLsI5OFT8wWdGERHJWWt7Wv+pZfxCvoRSATI4CaSW986qTdOs/b44Q==;OpjEjZGrF66vO2DOw36YAA=="
+secured: "n7HDm0etnCt7FxAdrKcBQ9SiV/hOF9hXOtHK0LGk6D0ANM/QxiK9vhD9NvqLrkl3PwBFG7ztZI4N+wxK7IbbB+2HtIKaSXw90gRbYp6D7RT54ClnlpNL4FZibKdJdLr2BGKI5gvzZnipYSfJEAsbqwhnNzf09SRTT95NUh/PPlOJf7Dh0/GGZo257KAmSD6Ts8kmA5smtTb4hPj14dZQEj8ZJCLqNlKPnrjRD7DLVFlKmsM5EQD1nTp2NTyVfyBjHafWZQxCW3bRBnOtz/l9KOnZ9d8ZNQ6xTWNBbmUrUQYMbJZCqaXpowcIKrwDyjfeR/Cd/ALsroZayVTV1B+Tu8Gp2r5mENSboCeAgJsICvUWGlJT0rR4Uf3WifwiFi7TGk1Qs/bPctYUr1UulWjjRDFY8IIMEtlw16ahn+Ev0cfSKYqCO8r3sFXPtzubFiVaPQQYjLvWI7NoLE2kDrWv/1BCjSAwbl3qrzTkF0/QtOj3HTRT50QTaQzXINaskjtcic+qKpftCf9zcTbqQTiwcA==;bKrVc0cNsAmQvTuKmH9OMg=="
 ---
 

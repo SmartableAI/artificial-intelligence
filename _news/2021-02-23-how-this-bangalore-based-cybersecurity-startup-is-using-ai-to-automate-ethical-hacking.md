@@ -41,6 +41,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "The Cybersecurity Tech Startup Defending Against Identity Fraud"
+    excerpt: "Stan Bounev, CEO of cybersecurity startup VeriClouds, discusses how his company is using “dark web” threat intelligence and AI to address a huge"
+    publishedDateTime: 2021-02-24T15:17:00Z
+    webUrl: "https://www.newsoneplace.com/8158282012/cybersecurity-tech-startup-defending-identity-fraud"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 37
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/603669741e004c8554fcbf2f/0x0.jpg?cropX1=0&cropX2=1001&cropY1=28&cropY2=592"
+        width: 1002
+        height: 668
+        isCached: true
   - title: "Chief Legal Officers face mounting compliance, privacy and cybersecurity obligations"
     excerpt: "Chief Legal Officers and legal department play a critical role in ensuring that increasing regulatory compliance obligations are met."
     publishedDateTime: 2021-02-23T06:31:00Z

@@ -3,12 +3,12 @@ category: news
 title: "Why driverless cars are paradise on wheels for some"
 excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
 publishedDateTime: 2021-02-24T09:59:00Z
-originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
-webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
+originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
+webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving companies are inching toward fully driverless service"
+    excerpt: "Motional, a joint venture of Hyundai and giant auto parts supplier Aptiv, has begun testing its self-driving vehicles in Las Vegas without anyone behind the wheel, the company announced in a Monday blog post."
+    publishedDateTime: 2021-02-22T17:54:00Z
+    webUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-begins-driverless-tests-eyes-2023-launch/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/motional-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Artificial cities could pave the way to driverless adoption"
     excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
     publishedDateTime: 2021-02-23T11:04:00Z
@@ -44,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "fYeUHJ/ZVW5mYfBhnxX3uexRU8/J8w4u1qucWNHwzOc4+ufylGm650wmZAPlfF0Z/PmawZ23e/7xXfrA3b2IAMtamKaTkUPb7BDJqGyS/aKP3Q2mZHxd4qoKd8QEoCHtPYjqKRN3k0SmqC0rroxQDXUVYhjwdZiMOgw8OqrZLI74yhg47gm1M796Lnau63xBnSWK/ePfiy5gBXc0DdmmBEGwbV3TpMTVCVtz89AU3WI0ssiyLvJSlPnkfOlyfDpUa6bxNSPY/8pKFV1HGMMsYcGLpGASt5C6Hk2BErund+rUgxPFWeRSPvJGm/KqZ4bAZuTKJQUJ7SfgnYHu6Mf7gIen1JI1WVqWPGCduDekhxc=;52Nec5W1JoNJvQOscWKMYA=="
+secured: "2UXGYlBDjvmGcBNwNY6jUFAV6e0pGdNp8kYY2oKxagjdipYrs9aCYaLBwocLJzFz6CPQXG9QX1MRDw/9JoAYlfZGtOruA+6nJbxxxJ7B8bT7G2cZpYjJFib1Vgall2geoigNdnWIFbGxSc7LT1qXM6i7X5cIvmj8ezoqkgtvizR34E+clPScMSAR7nBvKZ8eXlgocgJcyCFUWnk7NYMF+h1PrTrB0fCaTRpxz4htQbXZ7wHvztxt61Yb/P42G/Jd1hgoer8AVYLzjtHol0TZUX/CPyCGMVkqFHxLy5meme3IOJM6zwXmkFyIbyyYM/fA/+YOPHig5bwLzCQlGf6Kj3hiVMOBO73AWyYAs//7tns=;NJzA0NFRfZi/f8W0PYQjIw=="
 ---
 

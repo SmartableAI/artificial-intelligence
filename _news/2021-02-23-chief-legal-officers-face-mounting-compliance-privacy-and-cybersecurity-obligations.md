@@ -55,6 +55,20 @@ related:
         width: 512
         height: 296
         isCached: true
+  - title: "The Cybersecurity Tech Startup Defending Against Identity Fraud"
+    excerpt: "Stan Bounev, CEO of cybersecurity startup VeriClouds, discusses how his company is using “dark web” threat intelligence and AI to address a huge"
+    publishedDateTime: 2021-02-24T15:17:00Z
+    webUrl: "https://www.newsoneplace.com/8158282012/cybersecurity-tech-startup-defending-identity-fraud"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 37
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/603669741e004c8554fcbf2f/0x0.jpg?cropX1=0&cropX2=1001&cropY1=28&cropY2=592"
+        width: 1002
+        height: 668
+        isCached: true
 
 secured: "9S65WH+TIeoDINxXZKNXJwflF5MzsqQpROrNd5L4FFMU4cHoXgXiltB7c2NQHcDlp87aJqbEOPyamFZReVv3uV22ybFyWXjsaGLrUGY4Cf87UCGsfTBw9pYmwQXYDvnk8MQacQRiIZU0aRYNDigIk0+pOUawJtqyo6COmG609ehMVdnvaFoTyq/ks5PpVSh/8QRrXHcEd4eJZXXFCfysTiF4f6E1ExqxVweXtFAqYGRjW9jojyYO4HPemDyiwmSKyezg0EGi5Pu8mAHi+/sh5N2EmyxWJvEOwUMMobhYAuthWVXQAOMJpcAomoacoOeZaM+xZe16qMYUUC4yXTcvAEAqLOWHasCgwUuioDBKbFU=;Ib9wJvh6j/2WQkwVkRpD3g=="
 ---

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations"
-excerpt: "Zorroa Corp., one of the world's leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google's AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,"
-publishedDateTime: 2021-02-24T14:15:00Z
-originalUrl: "https://www.lelezard.com/en/news-19667110.html"
-webUrl: "https://www.lelezard.com/en/news-19667110.html"
+excerpt: "Zorroa Corp., one of the world’s leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google’s AI-"
+publishedDateTime: 2021-02-24T15:32:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210224005053/en/Zorroa-Launches-Boon-AI-No-code-Machine-Learning-for-Media-driven-Organizations"
+webUrl: "https://www.businesswire.com/news/home/20210224005053/en/Zorroa-Launches-Boon-AI-No-code-Machine-Learning-for-Media-driven-Organizations"
 type: article
-quality: 51
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
   - Machine Learning
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Zorroa Launches Boon AI to Unlock the ML API Ecosystem"
@@ -40,7 +34,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Zorroa Introduces Boon AI Platform to Make ML Accessible For Media"
+    excerpt: "Zorroa Corp. has launched Boon AI, its machine learning (ML) software-as-a-service (SaaS) platform, which cuts the cost of ML adoption and makes machine learning more accessible for media organizations."
+    publishedDateTime: 2021-02-24T16:34:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/zorroa-introduces-boon-ai-platform-to-make-ml-accessible-for-media"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 56
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/MRxEu4KEms2vyMYn4ZPjSj-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "kaXz8JQGP3+h0BpJQ+3pl5wkgXHcKv+kGoJBPugM6PpHLRbgcepBKSOmZGm59VAMaM7tv1JGYFIyNHL6Keq+yJ0BMZkAfpMtaiFF/B3mwVihAVCTRyLhUOrY8xeTtgOhuBvjhnpXMAtDyvz8Mo1v7Y/FlV990Hfdg5iBdt4RM6BjDmS32otltN4rdR8RTu6Ipkah04iDkqd+HTqCNqaGqJTqFTv6YhNq8FER9umPUETkgyq+T8oJX3Oh7YgdaQrNz9L5iVW0gJrbxUaGe9JcG7Aq0s+7yL2EbhdBSo5fyEhtXwpVWP7KFdQFIIj9GE/1HFLvyMlM9UHHgJfOufmyM7mzr7+caq9yJkUpSU/ESfs=;rLX2XbktkFxWbYIrp03hNA=="
+secured: "4HX9a9A9OHh2v21tEf/aGqKIn0d968vSnNjb9CUrlZ6FL7rGOHnPQdJqelCltjA6ykUQm4MGF/O3mnQwFXCU++4pqS+NcVeQvXl3KwYeJIPl7C1/F80U0VXqoY0OBjUG0uzpapc9xvZqQBmID7tJ2H5cvwbc2hqPFLeSZMBKhjwVLvrfR73SuqPye+eKooCBNJN/PQd6VXCDlzNkNvApyJuYiJ4HrHAFwwd9o9OUjqw1PcWq1zMwnOw+Ks6ttfEoPawF/KVXcSKehyvnyu4Ilf9qEoSk0sxlS2vKsNwrrvKkDlboJkdCp5G7nPZ2pkpAB9l9UIzQbIg2062mGuGkFOTSEp9RgiTvpin6v9FiWd8=;Fsq9K0+EPND4rUgVm0QhZA=="
 ---
 

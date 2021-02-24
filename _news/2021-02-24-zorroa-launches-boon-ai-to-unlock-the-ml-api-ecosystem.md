@@ -7,8 +7,8 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Zorroa-Launches-Boon-A
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Zorroa-Launches-Boon-AI-to-Unlock-the-ML-API-Ecosystem-145393.aspx"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: dbta.com
@@ -26,20 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations"
-    excerpt: "Zorroa Corp., one of the world's leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google's AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,"
-    publishedDateTime: 2021-02-24T14:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-19667110.html"
+  - title: "Zorroa Introduces Boon AI Platform to Make ML Accessible For Media"
+    excerpt: "Zorroa Corp. has launched Boon AI, its machine learning (ML) software-as-a-service (SaaS) platform, which cuts the cost of ML adoption and makes machine learning more accessible for media organizations."
+    publishedDateTime: 2021-02-24T16:34:00Z
+    webUrl: "https://www.tvtechnology.com/equipment/zorroa-introduces-boon-ai-platform-to-make-ml-accessible-for-media"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 51
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 56
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://cdn.mos.cms.futurecdn.net/MRxEu4KEms2vyMYn4ZPjSj-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations"
+    excerpt: "Zorroa Corp., one of the world’s leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google’s AI-"
+    publishedDateTime: 2021-02-24T15:32:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210224005053/en/Zorroa-Launches-Boon-AI-No-code-Machine-Learning-for-Media-driven-Organizations"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 31
 
 secured: "KfG4dBgbTiw8pbdTPWbsfU7cONbeYska1KjgzDMBuDKbByHmc5POVmgWzFfSv5+QTK+iEpl7tSRTTdrz2bRsK5Xuejj/ur4IDyRprUSiVt8tLW+xrF+EpWu9cVEm3fuzRUrwfEglPGEOD/AXQGzNyQ/zKSZ5Si4bPg/19D6DFnq7EzueM0myumlUiShoHBleHVT4fCEka5euM67xRWVtIjDbO2/yZxWhAg0JFc6ttJ9rWLHKEtQ9S/nCDnOy7LXYGn6yOOCEGRZFNMlOlBDtc82fbCzwa6+QzobV40NW5wj5iK+Yx5QrZxWTpawsMXAIJlxg+x743ni0MmMtT2yaINwFWoREZ25Un80ruvnQAXQ=;4yexoS6nb9/fDIQ8MMC6EQ=="
 ---

@@ -120,6 +120,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft Announces First Cloud for Healthcare Update"
+    excerpt: "Microsoft made the announcement while rolling out three new cloud offerings for financial services, manufacturing companies, and nonprofits."
+    publishedDateTime: 2021-02-24T15:30:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/microsoft-announces-first-cloud-healthcare-update"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 56
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/microsoft-logo-building-shutterstock_232670755.jpg"
+        width: 1920
+        height: 843
+        isCached: true
   - title: "Microsoft adds Armenian to Translator tool"
     excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
     publishedDateTime: 2021-02-24T07:26:00Z

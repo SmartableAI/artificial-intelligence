@@ -105,6 +105,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft Announces First Cloud for Healthcare Update"
+    excerpt: "Microsoft made the announcement while rolling out three new cloud offerings for financial services, manufacturing companies, and nonprofits."
+    publishedDateTime: 2021-02-24T15:30:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/microsoft-announces-first-cloud-healthcare-update"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 56
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/microsoft-logo-building-shutterstock_232670755.jpg"
+        width: 1920
+        height: 843
+        isCached: true
   - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
     excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"
     publishedDateTime: 2021-02-23T14:35:00Z
