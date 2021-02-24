@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/267913988/machine-learning-cou
 webUrl: "https://www.bignewsnetwork.com/news/267913988/machine-learning-could-aid-mental-health-diagnoses-study"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Way of using machine learning to aid mental health diagnoses developed"
+    excerpt: "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research ' Bulletin'."
+    publishedDateTime: 2021-02-24T08:52:00Z
+    webUrl: "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html"
+    ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/02/24/1600x900/photo-1553465528-5a213ccc0c7b_1614155850021_1614155860613.jfif"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "Researchers develop way of using machine learning to aid mental health diagnoses"
     excerpt: "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research were published in the journal 'Schizophrenia Bulletin'."
     publishedDateTime: 2021-02-24T04:13:00Z

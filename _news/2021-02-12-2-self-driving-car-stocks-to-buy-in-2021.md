@@ -2,19 +2,29 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T16:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+publishedDateTime: 2021-02-11T21:20:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "+pvLyLiBKGgUc98pO6Dk4UESzBTIeSxKdZESK9Qo8VW5uAONhw92I6erCTOMZqcRm2RkyZeEzt1p/wkb9b4wucOzj+9Eadi0UbVXRVehzzOcP3x3aT6ROC8IhXqHF5h5zFRu0kjOmUq09TpEGM/Ptt8p6ktCgqvIJmJb/a0etNC6mTLMyB6eOaUY7FWz13L7LRZxIKqGIbRPLNL95KdG04QYDgtuPnGw5V13+A9iBTPjc8Elsn5+bGw3fXzUXClDqI84mYYKzd+3YkCIsPs8sPp5aTPwnr4cSwai3WfvKRZt4dv3xnb+4L3OaoiY/BY/yBZCA9oTBIU5IUXvOaLtVnSXCKHGFXFuWeB+/ob1JLY=;N+QkYqGwgqkBt6Du/Kw/Qg=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg"
+    width: 1619
+    height: 1060
+    isCached: true
+
+secured: "+/b9CvVbToM3s3wi1HUjtJ0YzISWTIAMIa380XBjosxyLuENX3+AqSoVR62AD5+oqr/wG8VZgGNJacOsdPaER2xfipTxOgj3ryIbf1ch/Y3Z/EPn+pOzzQ1LBtTyA7BUL0OU/OgRfaGB0CqnO/tG/WC1I1FviXS6AmXdFWpZQiFQeFx4sbOL9VIn6/SEpFaronGdTnMFmKuZ7D+47paJCMrdytOgz/WzrylxavCAJZe7fziCjMU0AN50xTSLlGvFVDLmItJlFLc4dsp08yhLO3UpNln1lDpJA6n2IyCN/SmgJ0L36ZNIikbqtEUQh2yhKcwuDTU/Mi/A7nf4C/WITGhMSSvsffiCUZaQ5e69fW8=;GvlHtBbgARReIJvqAw2KOQ=="
 ---
 

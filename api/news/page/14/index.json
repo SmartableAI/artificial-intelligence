@@ -2,6 +2,261 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-11-israeli-cybersecurity-group-cye-raises-100-mln-from-eqt-83north.md",
+      "title": "Israeli cybersecurity group CYE raises $100 mln from EQT, 83North",
+      "excerpt": "Israeli cybersecurity company CYE said on Wednesday it had raised $100 million from Swedish private equity firm EQT and London-based venture capital firm 83North as it looks to expand in European and North American markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-10/israeli-cybersecurity-firm-cye-raises-100-million-for-expansion",
+      "originalUrl": "https://www.reuters.com/article/cye-funding/israeli-cybersecurity-group-cye-raises-100-mln-from-eqt-83north-idUSL4N2KG2Y0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTznGLhkTmeU/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-cye-raises-120-million-for-security-using-hackers-and-ai.md",
+      "title": "CYE raises $ 120 million for security using hackers and AI",
+      "excerpt": "CYE raises $ 120 million for security using hackers and AI The rising number of cyber attacks in recent years has led to a massive",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
+      "originalUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/CYE-raises-120-million-for-security-using-hackers-and.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/cye-raises-120-million-for-security-using-hackers-and-ai/amp/",
+      "publishedDateTime": "2021-02-10T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-self-driving-trucking-startup-taps-us-chinese-investors.md",
+      "title": "Self-Driving Trucking Startup Taps U.S., Chinese Investors",
+      "excerpt": "Self-driving trucking startup PlusAI raised $200 million in fresh capital from investors including several top-tier Silicon Valley venture-capital firms as well as a Chinese investment firm and automotive companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-297255/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-trucking-startup-taps-u-s-chinese-investors-11612954800",
+      "publishedDateTime": "2021-02-10T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-2004.md",
+      "title": "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04",
+      "excerpt": "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "publishedDateTime": "2021-02-10T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
+      "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
+      "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
+      "publishedDateTime": "2021-02-10T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
       "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
       "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
@@ -960,239 +1215,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-10-affordable-and-free-online-data-science-courses-from-mit-harvard-google-ibm-and-more.md",
-      "title": "10 affordable and free online data science courses from MIT, Harvard, Google, IBM, and more",
-      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.md",
-      "title": "Ford to invest $1 billion in artificial intelligence for your car",
-      "excerpt": "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
-      "originalUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-study-robots-are-trusted-more-than-people-when-it-comes-to-money-management.md",
-      "title": "Study: \"Robots\" are trusted more than people when it comes to money management",
-      "excerpt": "A new study takes a look at the sentiments regarding \"robots\" in the financial services ... to streamline processes and workflows with artificial intelligence (AI), machine learning, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "originalUrl": "https://www.techrepublic.com/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/09/0953d7ac-34bd-4885-8ee2-0a3efe7c43c7/resize/1200x/cfaea5f9d1536c37c7b9b37d60c96fa9/oracle.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-robots-are-trusted-more-than-people-when-it-comes-to-money-management/",
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-startup-that-taps-ai-to-boost-crop-yields-seeks-canadian-ipo.md",
-      "title": "Startup that Taps AI to Boost Crop Yields Seeks Canadian IPO",
-      "excerpt": "Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, is seeking to raise about C$100 million ($79 million) in an initial public offering to strengthen its finances and repay debt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVPLA9Vtm80/v1/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
-      "publishedDateTime": "2021-02-09T15:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

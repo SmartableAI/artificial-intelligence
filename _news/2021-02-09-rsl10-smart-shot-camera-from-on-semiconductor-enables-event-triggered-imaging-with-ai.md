@@ -1,26 +1,20 @@
 ---
 category: news
 title: "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI"
-excerpt: "A companion smartphone application provides a user interface for the platform and acts as the gateway to cloud-based, AI-enabled object recognition services. The platform brings together a number of ON Semiconductor innovations, including the RSL10 SIP ..."
-publishedDateTime: 2021-02-08T17:05:00Z
-originalUrl: "https://www.eejournal.com/industry_news/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/"
-webUrl: "https://www.eejournal.com/industry_news/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/"
+excerpt: "A companion smartphone application provides a user interface for the platform and acts as the gateway to cloud-based, AI-enabled object recognition services. The platform brings together a number ..."
+publishedDateTime: 2021-02-09T08:54:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210208005117/en/"
+webUrl: "https://www.businesswire.com/news/home/20210208005117/en/"
 type: article
 
 provider:
-  name: Electronic Engineering Journal
-  domain: eejournal.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-    width: 512
-    height: 512
-    isCached: true
-
-secured: "4e8+6d3XurIj16SdUS9Jg3U7Rwv2uLOlrJ/UR7YED2wobZbBaBlPJseMxYHrpynuZ8/3GiJ0cxOHrcWg1ZcCTvjV2Jv62zYwGdjduMeIqes3VhS49bnQF1JCFMyurAV5OsTrqkMAW5GYhJ2O5pnlFCYU5jNmvA3kVrWnVw3j1WKQo8Z9ICzwuGE4siHkJ27SeX8rSZ93jf14Ko+ksW+9O6UkcjaZJDzO5Nh4FF8SfpILif5aFkstj/rRdDpmS4NuDz6DUkWDUcck8i3SfqwdTJUXX8zESoCNvtJPkqZWE8vNlTXmEqVEWFPjTxT7kuwxpUgH/x+glTueT7wUaBkHAAxWFj9bC84HsW3b9mZZ42M=;2oEz+N9FThyWNuOvQJLT8g=="
+secured: "DIeDWtXCd/agyX2raSgHki3izAXgv/bCChZAMjKY3afe4ZGlzU8ayFMDXF9Fnm4MbViHmlqGu5vp3yBXC27Y0utfFYUmBNSZN3oOQeoDEiIPWnOFeMGEuyk9hk6/l43ZRaAulUJlhf/2IZ27Idmwx6UhFRYDZssl+jV9IoVjYgVk6YFAJiUJ97J0uJeOE6WuSqqnDXFXbnHyKbUwCgrLtjDeDRtvVVIbG1vFSZxi3eVvf43gn/bTNl/e73rlGrAofZk3SVjrGHCyWHZ3SRqFHwgf9UFXrexT25aTagr2yYyimCft0NlhoewghDESodGw2THh9Gpxh+BeBH0KcC7LI6937wMULK0BxmuQcWd3JfA=;iIhOHOTMdQ+c/350/2N4yQ=="
 ---
 

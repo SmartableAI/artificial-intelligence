@@ -206,20 +206,6 @@ related:
         width: 1800
         height: 756
         isCached: true
-  - title: "Google revamps AI teams after researcher’s departure"
-    excerpt: "Google on Thursday restructured its responsible artificial intelligence (AI) efforts to centralize teams under a single executive, Marian Croak, a move by the Internet giant to stabilize groups working on ethics research and products after months of chaos."
-    publishedDateTime: 2021-02-19T16:57:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2021/02/20/2003752528"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/images/2021/02/20/P10-210220-322.jpg"
-        width: 800
-        height: 514
-        isCached: true
   - title: "Google rethinks how it handles ‘sensitive’ employee exits after controversy over AI researcher’s departure"
     excerpt: "Google plans to change its approach for handling how certain employees leave the company after finishing a months-long review of the abrupt and"
     publishedDateTime: 2021-02-20T06:20:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-laun
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,21 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "IBM unveils the world’s first quad-core AI accelerator chip"
-    excerpt: "IBM has unveiled the world’s first quad-core, artificial intelligence (AI) accelerator chip, built using seven-nanometer (7nm) MOSFET technology. IBM optimized the novel chip for low-precision workloads with support for many AI models."
-    publishedDateTime: 2021-02-19T16:17:00Z
-    webUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip"
-    ampWebUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
+  - title: "Startup Falcon Launches AI-Powered Valuation Machine"
+    excerpt: "SAN FRANCISCO, CALIFORNIA, UNITED STATES, 2021 / EINPresswire.com / -- Startup Falcon is pleased to announce the launch of its innovative, AI-powered valuation machine - a tool designed to facilitate the fundraising process for early-stage startups,"
+    publishedDateTime: 2021-02-21T00:17:00Z
+    webUrl: "https://www.wicz.com/story/43381615/startup-falcon-launches-ai-powered-valuation-machine"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 104
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 37
     images:
-      - url: "https://media.itpro.co.uk/image/upload/v1570816148/itpro/2016/07/ibm.jpg"
-        width: 1000
-        height: 564
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Oracle Launches Construction AI Advisor for Its Cloud Services"
+    excerpt: "As more firms store their project data in the cloud, it offers the chance to dig through that data for new insights. Oracle has already offered some limited business intelligence dashboards for its cloud service,"
+    publishedDateTime: 2021-02-23T04:32:00Z
+    webUrl: "https://www.enr.com/articles/51250-oracle-launches-construction-ai-advisor-for-its-cloud-services"
+    type: article
+    provider:
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 37
+    images:
+      - url: "https://www.enr.com/ext/resources/News/2021/02-Feb/ENR0222Oracle.png?height=635&t=1613947902&width=1200"
+        width: 900
+        height: 550
         isCached: true
 
 secured: "ns9ReHDSlnorwHCqnm4DhMhgQB0O+EmNngBUfREFOs0G2BDZi9g4V9Hzp3VxmCwNRVhfock1Nz8gsAJ0ult/gtpxgce38PoGR0Qadr95UdLpLvy8cfJVFvszxFgFTxKz29b/s6S8SNOJ5uWtF6mGLytNSvmzoUigi6gOPPXtT/yon/c/5G8AeTNXj/ZhfESCoYRJrAFdXGUwlR/Kab6qnZ/IrmyV2QG2XmmIZ2BSA+JBVkwvESFugys0mpCR3rpPOl7gYJHIrO/yT5TuysS7T8grCN78evNQNHztoDoTUjZ4PwiSUCa1G7LybWqzZa+tcrNZPH+D7VEFlsymBM7Vdb1McaPMsQ8/VyXbRF1C+jpoyU+c8X7obzQXt82GO5FaKcXvJOnHbesqr2yauu4CL7O+9ljVu1v7oMTC2PF0K4P0ecTXH3fDitw9ifsCxYLDboa14VTPHJT6xHh+YNvDKY7L0IgY6e/dH6cDvaSlmKxdquWESzf4lslFe8/vr9CaheSVKkT+jhRp9x7EuAck4g==;wADCMcYXDC6Scln0zLuCSg=="

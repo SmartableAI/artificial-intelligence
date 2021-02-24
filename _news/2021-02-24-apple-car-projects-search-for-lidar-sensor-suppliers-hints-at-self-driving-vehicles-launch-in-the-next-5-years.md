@@ -82,22 +82,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Apple Reportedly in Active Talks With Multiple LiDAR Sensor Suppliers for Self-Driving Vehicle"
-    excerpt: "Apple is in discussions with multiple suppliers of LiDAR sensors appropriate for a self-driving vehicle, according to Bloomberg. The"
-    publishedDateTime: 2021-02-19T16:31:00Z
-    webUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/"
-    ampWebUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 32
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Apple in Discussions With Suppliers for Lidar"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-19T18:45:00Z
@@ -140,20 +124,6 @@ related:
         width: 2296
         height: 1498
         isCached: true
-  - title: "Apple in talks with suppliers for AV sensors, report says"
-    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-    publishedDateTime: 2021-02-19T16:50:00Z
-    webUrl: "https://www.autonews.com/mobility-report/apple-talks-suppliers-av-sensors-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple in Talks to Buy Self-Driving Sensors for Apple car"
     excerpt: "Apple Car- . is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter"
     publishedDateTime: 2021-02-21T00:25:00Z
@@ -168,35 +138,7 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2021-02-19T16:02:00Z
-    webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Shares of lidar companies are trading higher following a Bloomberg report suggesting Apple is in talks with lidar suppliers for self-driving cars."
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
-    publishedDateTime: 2021-02-19T16:50:00Z
-    webUrl: "https://www.benzinga.com/wiim/21/02/19751770/shares-of-lidar-companies-are-trading-higher-following-a-bloomberg-report-suggesting-apple-is-in-tal"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "m68thEwFm5sjsQFlC+2e+J5ZVMCB8ZEyrhYxt735haVyP59b9Z8KMpZ718L2UtC86kOD3lDOjHh4luAY7fAg5og+s0X6uvyXGCbsqfZap1eZHx0HLEvdEeA4mJtL5pTl5epS8bATntwt5BJ2DLdnonouf19WAaG9MA2cRbMGKAOg1DBrtZuhwURGtpttMjOxS6cIkthbXaPaO8KIOea7jWGoW4eeJYGC+WzEvgTjglBXIDzXFiVOiFmrLQGKT9s8a8XBH+9QnluqYjco+bUIryxwZHNqy11f4hDupl2MktVubhASDCi7R9ifTWFttbZpypENqmD7G/NKLsXVEBEHQZDE9WSUXnRyHMkm/26vf1Y=;iRXllwe6FpA1XpqD0GG6IA=="
+secured: "6eEgNU0dZ0ABOx7pi+MClZiUrXzBUkU0Yq7wEeCLfTorEqrY5T9Fu1QuZtpjKgpD6H1hDz83dfFLASz/MV5bF1xj2anqgIaf5P0H0oznY0GUfWKMGvsxMeqisHhoRAVQCewciFtxJx+vbBc5yW66/MkP2B3TSR+BP5cpuq3/KkQiKnuaNUZWhs7YHWajHZ/ajvfbJo+/k3tueh/8d5NZosHFHnYsNKh9tZglvoW9siccQPZCSEdojYj8M1v6RIhBROLna3oQlpER4FcTup0v0jxPS5QK3zKSS3/zGHic3IBlyfk4ww4le/NzwPonHIripMED8WFXOL/6Bbf7P9NrJ0Y2oGjzCpPLL0eSLjYk88WMwGfvOEBRQuu9Y2OgOvYfB1xcgUD1kKz9xc2vWlYao6G+8kW+ZdDds+4lE0EVmu37zOF0ab01gKch8jpu8n8KvM2akijSrkemWwD/AfGBUC4JeEOg8Q7evCl0VQEU77enylMOeIbus6NCYNtivhlwCWbLllqsy5maqYMbhs7caw==;Nir0HkUDKr7BlfEF8s9ovA=="
 ---
 

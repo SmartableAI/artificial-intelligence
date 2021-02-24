@@ -2,6 +2,239 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-05-meet-robby-megabyte-bosnias-first-robot-rock-band-musician.md",
+      "title": "Meet Robby Megabyte, Bosnia's first robot rock band musician",
+      "excerpt": "Bosnia's most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments - a humanoid robot called Robby Megabyte.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5",
+      "originalUrl": "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550324550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1314G",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2A41U5",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A41U5",
+      "publishedDateTime": "2021-02-04T17:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-amazon-adding-ai-equipped-cameras-to-delivery-vans-to-monitor-safety-sparking-privacy-concerns.md",
+      "title": "Amazon adding AI-equipped cameras to delivery vans to monitor safety, sparking privacy concerns",
+      "excerpt": "Amazon delivery drivers keeping their eyes on the road could have Amazon keeping an eye on them according to reports that the company is planning to use AI-equipped cameras inside vehicles to",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
+      "originalUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/amazonvan-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
+      "publishedDateTime": "2021-02-04T17:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-artificial-intelligence-yields-new-ways-to-combat-the-coronavirus.md",
+      "title": "Artificial intelligence yields new ways to combat the coronavirus",
+      "excerpt": "Countering COVID-19 mutations and designing updated vaccines could occur at lightning speeds thanks to a new AI framework. USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210205085745.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210205085745.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
+      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
+      "excerpt": "A short film featuring Cozmo. Cozmo implements AI for a lot of its functionality—particularly object recognition and machine vision for finding its cubes and recognizing people. But the emphasis is on using AI to give Cozmo the ability to convey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
+          "width": 6504,
+          "height": 3659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-global-ai-infrastructure-market-forecast-opportunities-to-2026.md",
+      "title": "Global AI Infrastructure Market Forecast & Opportunities to 2026",
+      "excerpt": "The global AI infrastructure market accounted for a value of 11.9 billion in 2019 and is projected to register growth at a CAGR of 18.3% during forecast period. <br /> <br /> COVID-19 has impacted the AI infrastructure market.",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101555741/Global-AI-Infrastructure-Market-Forecast-Opportunities-to-2026",
+      "originalUrl": "https://menafn.com/1101555741/Global-AI-Infrastructure-Market-Forecast-Opportunities-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-robots-and-artificial-intelligence.md",
       "title": "Robots and Artificial Intelligence",
       "excerpt": "Speakers discuss the intersection of technology, defense, and ethics, and the geopolitical competition for the future of innovation. The Malcolm and Carolyn Wiener Annual Lecture on Science and ...",
@@ -963,249 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-using-genetic-algorithms-on-aws-for-optimization-problems.md",
-      "title": "Using genetic algorithms on AWS for optimization problems",
-      "excerpt": "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-genetic-algorithms-on-aws-for-optimization-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/ML-1235-4.jpg",
-          "width": 728,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T09:59:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-fears-raised-over-facial-recognition-use-at-moscow-protests.md",
-      "title": "Fears raised over facial recognition use at Moscow protests",
-      "excerpt": "Russian authorities are deploying facial recognition cameras to identify protesters during rallies in support of Kremlin critic Alexei Navalny in Moscow, human rights groups said, warning that the technology is being used to stifle peaceful dissent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
-      "originalUrl": "https://www.reuters.com/article/russia-protests-tech/fears-raised-over-facial-recognition-use-at-moscow-protests-idUSL8N2KA54T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2KA54T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2KA54T",
-      "publishedDateTime": "2021-02-04T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ai-dungeon-maker-latitude-raises-33m-to-build-games-with-infinite-story-possibilities.md",
-      "title": "AI Dungeon-maker Latitude raises $3.3M to build games with ‘infinite’ story possibilities",
-      "excerpt": "Latitude, a startup building games with stories are generated by artificial intelligence, is announcing that it has raised $3.3 million in seed funding. The idea of an AI-generated story might make you think of hilariously nonsensical experiments like “Sunspring,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
-      "originalUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/AID-Gameplay-Edit-AI-Output.jpg?w=680",
-          "width": 680,
-          "height": 356,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/04/latitude-seed-funding/amp/",
-      "publishedDateTime": "2021-02-04T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation.md",
-      "title": "Quantiphi Recognized as a TensorFlow AI Service Partner for Machine Learning Led Enterprise Transformation",
-      "excerpt": "MARLBOROUGH, Mass., Feb. 4, 2021 /PRNewswire-PRWeb/ -- Quantiphi, an applied AI and data science company, has been selected by TensorFlow as an AI Service Partner to enable businesses across ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quantiphi-recognized-as-a-tensorflow-ai-service-partner-for-machine-learning-led-enterprise-transformation/article_4c4c7bb7-085f-5ba9-a361-6bc04201dd08.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
-      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
-      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
-          "width": 603,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "publishedDateTime": "2021-02-04T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

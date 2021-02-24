@@ -7,7 +7,7 @@ originalUrl: "https://www.bbc.com/news/uk-wales-56130226"
 webUrl: "https://www.bbc.com/news/uk-wales-56130226"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "Convicted sex attacker caught by facial recognition technology jailed for life"
-    excerpt: "Craig Walters followed his victim off a bus in Cardiff before attacking her - weeks after being released from prison for a similar offence."
-    publishedDateTime: 2021-02-19T15:54:00Z
-    webUrl: "https://www.itv.com/news/wales/2021-02-19/convicted-sex-attacker-caught-by-facial-recognition-technology-jailed-for-life"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 50
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/5x0PguEvu7nV4nk6tydB3R/bb28847e39ee093daa2546ee6a408add/Screen_Shot_2021-02-19_at_15.56.23.png"
-        width: 2836
-        height: 1620
         isCached: true
   - title: "Facial recognition: Sexual predator caught on CCTV"
     excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"

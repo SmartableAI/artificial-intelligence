@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Way of using machine learning to aid mental health diagnoses developed"
+    excerpt: "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research ' Bulletin'."
+    publishedDateTime: 2021-02-24T08:52:00Z
+    webUrl: "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html"
+    ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/img/2021/02/24/1600x900/photo-1553465528-5a213ccc0c7b_1614155850021_1614155860613.jfif"
+        width: 1599
+        height: 900
+        isCached: true
   - title: "Machine learning could aid mental health diagnoses: Study"
     excerpt: "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychoti"
     publishedDateTime: 2021-02-24T04:11:00Z

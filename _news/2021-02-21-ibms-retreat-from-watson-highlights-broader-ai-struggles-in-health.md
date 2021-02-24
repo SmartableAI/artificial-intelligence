@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-hea
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
 type: article
 quality: 204
-heat: 384
+heat: 374
 published: true
 
 provider:
@@ -166,20 +166,6 @@ related:
       - url: "https://medcitynews.com/uploads/2018/09/GettyImages-871148930-1.jpg"
         width: 619
         height: 416
-        isCached: true
-  - title: "IBM considers selling IBM Watson Health: 5 notes"
-    excerpt: "IBM is exploring the sale of its IBM Watson Health business as the company looks to ramp up its cloud computing division, according to a Feb. 19 Wall Street Journal report. Five notes: 1. IBM is looking into alternatives for the health unit,"
-    publishedDateTime: 2021-02-19T15:48:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ibm-considers-selling-ibm-watson-health-5-notes.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/11.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "IBM reportedly mulling spinoff of $1B Watson Health unit"
     excerpt: "The tipsters didn’t say what price IBM is targeting for the prospective sale. But they did share some financial information about the Watson Health unit itself, which is reportedly generating about $1 billion in annual revenues and currently isn’t profitable."

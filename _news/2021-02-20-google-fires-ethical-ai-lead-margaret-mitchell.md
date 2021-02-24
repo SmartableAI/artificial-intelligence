@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-marg
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603050bc948805e773cd566f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1277%26cropY1%3D67%26cropY2%3D785"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google fires top AI ethicist 2 months after co-leader's ousting, leaving its ethical AI team headless"
-    excerpt: "Both leaders of Google's ethical AI team, Margaret Mitchell and Timnit Gebru, were ousted within two months of each other."
-    publishedDateTime: 2021-02-19T16:03:00Z
-    webUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/603036c1623bd30012bcc557?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Google Fires AI Ethics Co-Lead For Questioning the Company’s Ethics"
     excerpt: "Margaret Mitchell, the former co-lead on the AI ethics team, tweeted on Friday evening that she’d been fired by the internet giant."

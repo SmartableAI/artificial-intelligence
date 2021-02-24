@@ -2,6 +2,266 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-14-washington-state-lawmakers-seek-to-ban-government-from-using-discriminatory-ai-tech.md",
+      "title": "Washington state lawmakers seek to ban government from using discriminatory AI tech",
+      "excerpt": "Washington state could become a national leader in regulating the technologies of the future, thanks in part to a bill up for debate that would establish new guardrails on government use of",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/",
+      "originalUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/07/bob-hasegawa-630x418.jpg",
+          "width": 630,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/amp/",
+      "publishedDateTime": "2021-02-13T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes.md",
+      "title": "AI Emerges as Crucial Tool for Groups Seeking Justice for Syria War Crimes",
+      "excerpt": "Rights groups are using machine learning to sort through a mammoth trove of video, photo and other evidence to build Syrian war-crimes cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "originalUrl": "https://www.wsj.com/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-296975/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "publishedDateTime": "2021-02-13T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy.md",
+      "title": "Thought-detection: AI has infiltrated our last bastion of privacy",
+      "excerpt": "Research from the UK and an update from Elon Musk on human trials at his brain interface company show software is now eating the mind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
+      "originalUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/crowd_electromagnetic.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
+      "publishedDateTime": "2021-02-13T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-a-new-artificial-intelligence-makes-mistakeson-purpose.md",
+      "title": "A New Artificial Intelligence Makes Mistakes—on Purpose",
+      "excerpt": "But one artificial intelligence program is taking a few steps backward, to appreciate how average humans play—blunders and all. The AI chess program, known as Maia, uses the kind of cutting-edge AI behind the best superhuman chess-playing programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/",
+      "originalUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/602711ff6c104aea63dc51d9/master/pass/business_chess-ai_1294495770.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/amp",
+      "publishedDateTime": "2021-02-13T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
+      "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
+      "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "originalUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-297635/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "publishedDateTime": "2021-02-13T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-self-driving-cars-wont-go-mainstream-until-we-solve-this-problem.md",
       "title": "Self-Driving Cars Won’t Go Mainstream Until We Solve This Problem",
       "excerpt": "There’s a major controversy that needs to be addressed before we can let our cars do all the driving for us, and it’s not a technical one. It’s ethical.",
@@ -976,232 +1236,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-qa-improving-access-to-government-services-through-inclusive-virtual-agents.md",
-      "title": "Q&A: Improving access to Government services through inclusive virtual agents",
-      "excerpt": "Dr Lea El Samarji, AI and IoT lead for EMEA at Avanade, discussed improving virtual agents and increasing accessibility to public services",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
-      "originalUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/qa-helping-government-singapore-improve-virtual-agents.jpg",
-          "width": 924,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-should-delhi-govt-schools-be-using-the-facial-recognition-technology.md",
-      "title": "Should Delhi govt schools be using the facial recognition technology?",
-      "excerpt": "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
-      "publishedDateTime": "2021-02-12T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-how-sterling-k-brown-became-the-voice-of-cnns-lincoln-divided-we-stand.md",
-      "title": "How Sterling K. Brown became the voice of CNN's 'Lincoln: Divided We Stand'",
-      "excerpt": "\"This Is Us\" star Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160921115945-sterkling-k-brown-this-is-us-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "publishedDateTime": "2021-02-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-machine-learning-used-to-generate-aav-capsids-for-gene-therapy.md",
-      "title": "Machine learning used to generate AAV capsids for gene therapy",
-      "excerpt": "A study has used artificial intelligence to reveal adeno-associated virus (AAV) capsid variants for use in gene therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
-      "originalUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.drugtargetreview.com/wp-content/uploads/Gene-therapy-7.jpg",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "drugtargetreview.com",
-        "domain": "drugtargetreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter.md",
-      "title": "Microsoft is going to have lots of clouds for industries. Here's why they matter",
-      "excerpt": "Industry clouds like healthcare and retail are there for Microsoft partners to build services on top of. Microsoft already has two vertical ' clouds for industry ' for healthcare and retail; expect more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "publishedDateTime": "2021-02-12T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

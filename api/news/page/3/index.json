@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-21-ai-isnt-yet-ready-to-pass-for-human-on-video-calls.md",
+      "title": "AI isn’t yet ready to pass for human on video calls",
+      "excerpt": "The idea of humanlike AI is deeply sexy, but the final key components of such a system won't be solved for another few years.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/",
+      "originalUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/video_call.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/amp/",
+      "publishedDateTime": "2021-02-21T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
+      "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
+      "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "originalUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "publishedDateTime": "2021-02-20T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-researchers-propose-ethically-correct-ai-for-smart-guns-that-locks-out-mass-shooters.md",
+      "title": "Researchers propose ‘ethically correct AI’ for smart guns that locks out mass shooters",
+      "excerpt": "A trio of computer scientists from the Rensselaer Polytechnic Institute in New York recently published research detailing a potential AI intervention for murder: an ethical lockout. The big idea here is to stop mass shootings and other ethically incorrect uses for firearms through the development of an AI that can recognize intent,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cybersecurity1200-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "publishedDateTime": "2021-02-20T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-googles-treatment-of-ai-ethics-researchers-continues-to-stir-up-controversy.md",
+      "title": "Google’s treatment of AI ethics researchers continues to stir up controversy",
+      "excerpt": "You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/",
+      "originalUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/",
+      "publishedDateTime": "2021-02-20T13:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
+      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770",
+      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 374,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-301391/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770",
+      "publishedDateTime": "2021-02-20T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
       "title": "Salesforce Research wields AI to study medicine, economics, and speech",
       "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
@@ -451,7 +701,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -640,7 +890,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/google-to-change-policies-after-review-of-ai-researcher-s-exit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 307,
+      "heat": 297,
       "tags": null,
       "images": [
         {
@@ -680,51 +930,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-torc-robotics-makes-amazon-web-services-cloud-provider-for-its-self-driving-truck-fleet.md",
-      "title": "Torc Robotics makes Amazon Web Services cloud provider for its self-driving truck fleet",
-      "excerpt": "Inc. as its preferred cloud provider to handle the scale and speed needed for data transfer, storage, and compute capacity as the company prepares to deploy its fleet of next-generation self-driving test trucks in New Mexico and Virginia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetequipmentmag.com/torc-robotics-aws-cloud-provider-self-driving-truck-fleet/",
-      "originalUrl": "https://www.fleetequipmentmag.com/torc-robotics-aws-cloud-provider-self-driving-truck-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s18391.pcdn.co/wp-content/uploads/2021/02/TORC-self-driving-fleet-AWS-1400-1000x563.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Equipment Magazine",
-        "domain": "fleetequipmentmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AWS AI"
       ]
     },
     {
@@ -832,7 +1037,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-wales-56130226",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1029,202 +1234,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.md",
-      "title": "Owlcam 5.0 is a premium dash cam with AI, voice control and more",
-      "excerpt": "Owlcam 5.0 is a premium dash cam that offers voice control, AI, and an LTE connection for uploading videos to the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
-      "originalUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/02/owlcam-5-front-and-back-cropped3-100877901-large.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
-      "publishedDateTime": "2021-02-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief.md",
-      "title": "DNA fingerprints, facial recognition used to probe riots cases, says Delhi Police chief",
-      "excerpt": "Commissioner S N Shrivastava said 231 accused were arrested on the basis of CCTV footage, 137 identified through Facial Recognition System & 94 through driving license photographs.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
-      "originalUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2020/03/cars.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
-      "publishedDateTime": "2021-02-19T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-how-to-watch-nasas-perseverance-rover-land-on-mars-today.md",
-      "title": "How to watch NASA’s Perseverance rover land on Mars today",
-      "excerpt": "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/",
-      "originalUrl": "https://www.digitaltrends.com/news/how-to-watch-perserverance-landing-mars-livestream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-operationalizing-enterprise-ai-at-scale.md",
-      "title": "Operationalizing Enterprise AI At Scale",
-      "excerpt": "Especially after your first AI use case has been successfully operationalized and scaled, make sure that others in your company hear about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
-      "publishedDateTime": "2021-02-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

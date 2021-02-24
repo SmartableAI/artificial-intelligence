@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-02-04-self-driving-cars-and-parallels-to-minecraft.md",
-      "title": "Self-Driving Cars And Parallels To Minecraft",
-      "excerpt": "Minecraft is big business. This quite revered and now over a decade old video game has reportedly attained more than 126 million monthly active players and has sold well beyond 200 million copies of the gaming software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6019e6282fe1ee9cfc355e07%2F0x0.jpg%3FcropX1%3D766%26cropX2%3D2715%26cropY1%3D276%26cropY2%3D1178",
-          "width": 1199,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/03/self-driving-cars-and-parallels-to-minecraft/amp/",
-      "publishedDateTime": "2021-02-03T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-03-scania-tests-self-driving-trucks-in-motorway-traffic.md",
       "title": "Scania tests self-driving trucks in motorway traffic",
       "excerpt": "SÖDERTÄLJE, Sweden, Feb. 3, 2021 /PRNewswire/ -- Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and ...",
@@ -1439,6 +1387,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-tesla-had-talks-with-other-automakers-about-licensing-its-self-driving-software-elon-musk-says.md",
+      "title": "Tesla had talks with other automakers about licensing its self-driving software, Elon Musk says",
+      "excerpt": "Tesla had “preliminary” discussions with other automakers about licensing its self-driving software, according to new comments by CEO Elon Musk. Tesla Licensing Software Today, Tesla released its Q4 2020 financial results and following the release,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
+      "originalUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/10/Tesla-Autopilot-hero-4-e1570845324247.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/01/27/tesla-talks-automakers-licensing-self-driving-software-elon-musk/amp/",
+      "publishedDateTime": "2021-01-27T17:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

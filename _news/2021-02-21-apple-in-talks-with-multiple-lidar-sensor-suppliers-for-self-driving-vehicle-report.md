@@ -67,22 +67,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Apple Reportedly in Active Talks With Multiple LiDAR Sensor Suppliers for Self-Driving Vehicle"
-    excerpt: "Apple is in discussions with multiple suppliers of LiDAR sensors appropriate for a self-driving vehicle, according to Bloomberg. The"
-    publishedDateTime: 2021-02-19T16:31:00Z
-    webUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/"
-    ampWebUrl: "https://www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/19/apple-car-lidar-sensors-active-talks/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 32
-    images:
-      - url: "https://images.macrumors.com/t/D62d9vSY9oVhZtKI88-ipNircXY=/2500x/https://images.macrumors.com/article-new/2020/12/Apple-car-wheel-icon-feature-yellow.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Apple in Discussions With Suppliers for Lidar"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-19T18:45:00Z
@@ -125,20 +109,6 @@ related:
         width: 2296
         height: 1498
         isCached: true
-  - title: "Apple in talks with suppliers for AV sensors, report says"
-    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-    publishedDateTime: 2021-02-19T16:50:00Z
-    webUrl: "https://www.autonews.com/mobility-report/apple-talks-suppliers-av-sensors-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Apple%20store%20New%20York%20rtrs%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Apple in Talks to Buy Self-Driving Sensors for Apple car"
     excerpt: "Apple Car- . is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter"
     publishedDateTime: 2021-02-21T00:25:00Z
@@ -166,34 +136,6 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/20210223f39e6aa9e4e0156c7_th_1024x0.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
-    publishedDateTime: 2021-02-19T16:02:00Z
-    webUrl: "https://www.benzinga.com/news/21/02/19750643/apple-mulling-options-on-sensors-may-highly-customize-them-co-in-talks-with-lidar-suppliers-for-self"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 2
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Shares of lidar companies are trading higher following a Bloomberg report suggesting Apple is in talks with lidar suppliers for self-driving cars."
-    excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst that could move the stocks you care about on Benzinga Pro, our flagship platform ..."
-    publishedDateTime: 2021-02-19T16:50:00Z
-    webUrl: "https://www.benzinga.com/wiim/21/02/19751770/shares-of-lidar-companies-are-trading-higher-following-a-bloomberg-report-suggesting-apple-is-in-tal"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "QbkDIxRIKwno28Lxumad99+N+P/3EeqZq8P48dvd6NsUsWwCDntN4WLOSQtA4tzt6K1MoIwzZwBqvcSkIMYSXv3yMGTBVlRqdKOpPmYTsRJsprPTQ5kleF8yBB4AWx1h7g/UQI0umyZKcAXx7d6T7sucnK+wC51AUS7Zjavc6GVfgl6S3XVV7URh3HJDDsusp2irdHHryK4gsRztIXe1KXSNcyfvId5iB1lNV0FfAtcjaRbOnRrtz5Kn6p7oemb8noAYMuqVASAJqLwuJKyeuYOu0/danu2pBzuNL21rP3I3f6tHALx3JKvih4Fb8AqooPxjB74EXeBZtC4G32FP1BQzyQ/0mnxk5auH5GMIjpg=;1WXZerh8mrPpsas2xGNMew=="

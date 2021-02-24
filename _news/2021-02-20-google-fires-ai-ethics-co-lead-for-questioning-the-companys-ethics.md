@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google fires top AI ethicist 2 months after co-leader's ousting, leaving its ethical AI team headless"
-    excerpt: "Both leaders of Google's ethical AI team, Margaret Mitchell and Timnit Gebru, were ousted within two months of each other."
-    publishedDateTime: 2021-02-19T16:03:00Z
-    webUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/603036c1623bd30012bcc557?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Google fires top AI ethicist"
     excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
     publishedDateTime: 2021-02-20T02:14:00Z

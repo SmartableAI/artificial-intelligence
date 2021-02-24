@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Machine learning aids in simulating dynamics of interacting atoms"
-excerpt: "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal."
-publishedDateTime: 2021-02-23T21:39:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/danl-mla022321.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-02/danl-mla022321.php"
+excerpt: "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal. This automated approach to \"interatomic potential development\" could transform the field of computational materials discovery."
+publishedDateTime: 2021-02-24T08:17:00Z
+originalUrl: "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html"
+webUrl: "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html"
+ampWebUrl: "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/257253_web.jpg"
-    width: 720
-    height: 804
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/1-19-machinelearn.jpg"
+    width: 1027
+    height: 1147
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 685
         isCached: true
 
-secured: "wwyRZ/yf2QedAxvjIX90LhZVBeBUNLgYTP/Sr4AFGkpMANR0kCxjVY+plUB9qYgiY8/eIsJRWQLKd84di0OolBoxQXnig2ASpnS+k7f+Vnyb/hUG+ZlGzouPei7R8Jzs9RcWEkxEItq2uybXgfLhctl0F/wippmkUTOrYpXOfrRERa0Ja9haAhmTB3sMsaqNVEWsid2SQ35BM2yRSJQXlPWx9VILe09OjdLzqb6WWYUN3D+3UeAoqOfgZ56jYDhr7BVvsTi3Vd9WuEZIV8SjJag6aWtLwzt0iUoXbSfTu9o936TUouOZW0xviyfOR4Ac02fCCrxQwEt8NYh01fhOplcEng1e7TzHFFJvj/kH1OA=;s/or5lq8KIsCRMDmU8VUQg=="
+secured: "ZeNGzbHOc/g6Jvd60kznqU2eG4DwEqN7wXIiD6ex1h5bPA7GIAUi8Sqg45IgsKPtkVu6yOnrvQKRHB1fBgUJAmAlOvNVCwFyUlimYdUz8f96Q3DsITcLcb+wUbEWzotHjuXGSWS50zaeO0jO91MzLvbDc2ssf4Ra3XvK2sHvUx87zflHgEorIyrLQq1zZuTbCxNg2feNuhTqJlknEiy38enMxGKnhDjdpGCY8hqd0aIRAlXUbsPCdLbgLYXYiayCPzLnFWKUPmY0iTtrWru9TrMDskm1ueM49UBgRcslhSA05PkYpbeX1NCAHmL9xlcaijnTU/pqm+/PeqcpJjxCz0rSsXQZB+NZJNJWtX8vs3g=;Yd2AbNC1Ev9Ir8CGCOxuVA=="
 ---
 

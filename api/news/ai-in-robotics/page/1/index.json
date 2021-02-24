@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027.md",
+      "title": "Nanorobotics Market Size Poised to Touch USD 12.72 billion by 2027",
+      "excerpt": "Global Nanorobotics Market to reach USD 12.72 billion by 2027. Global Nanorobotics Market is valued approximately USD 5.53 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition.md",
       "title": "Tech newsletter: Horrifying robot dog’s paintball rampage, Biden + facial recognition",
       "excerpt": "Welcome to the Tuesday edition of the Internet Insider, where we dissect tech and politics news unfolding online. Today: Pranksters show how horrifying Boston Dynamics’ police robot dog is by strapping a paintball gun to it Civil rights groups want Biden to halt government use of facial recognition No,",
@@ -354,51 +406,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-torc-robotics-makes-amazon-web-services-cloud-provider-for-its-self-driving-truck-fleet.md",
-      "title": "Torc Robotics makes Amazon Web Services cloud provider for its self-driving truck fleet",
-      "excerpt": "Inc. as its preferred cloud provider to handle the scale and speed needed for data transfer, storage, and compute capacity as the company prepares to deploy its fleet of next-generation self-driving test trucks in New Mexico and Virginia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fleetequipmentmag.com/torc-robotics-aws-cloud-provider-self-driving-truck-fleet/",
-      "originalUrl": "https://www.fleetequipmentmag.com/torc-robotics-aws-cloud-provider-self-driving-truck-fleet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s18391.pcdn.co/wp-content/uploads/2021/02/TORC-self-driving-fleet-AWS-1400-1000x563.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fleet Equipment Magazine",
-        "domain": "fleetequipmentmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AWS AI"
       ]
     },
     {

@@ -2,6 +2,198 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-19-facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance.md",
+      "title": "Facial recognition executive talks vaccine passports, data privacy, and surveillance",
+      "excerpt": "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "originalUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/18/ea971936-7d75-4771-9a21-38255a37a3e0/resize/1200x/292a86bce86937a351a3cc9d50bd66e6/metamorworks.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
+      "publishedDateTime": "2021-02-18T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-4-ways-to-bridge-the-ai-integrity-gap.md",
+      "title": "4 Ways To Bridge The AI-Integrity Gap",
+      "excerpt": "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
+      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg",
+          "width": 588,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
+      "publishedDateTime": "2021-02-18T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-the-cambrian-ai-landscape-intel.md",
+      "title": "The Cambrian AI Landscape: Intel",
+      "excerpt": "Domain Specific Architectures. Pat Gelsinger will likely double down in this field to increase the company's presence in AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e9ea0f929fbb1d0e6d1da%2F0x0.png%3FcropX1%3D0%26cropX2%3D864%26cropY1%3D37%26cropY2%3D524",
+          "width": 864,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
+      "publishedDateTime": "2021-02-18T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
+      "title": "Will the future of security be led by robots? AITX president says yes",
+      "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
+      "originalUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
+      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
+      "publishedDateTime": "2021-02-18T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Illinois Proud",
+        "domain": "centralillinoisproud.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-auto-supplier-visteon-sees-more-plant-closures-due-to-chip-shortage.md",
       "title": "Auto supplier Visteon sees more plant closures due to chip shortage",
       "excerpt": "Auto parts supplier Visteon Corp said on Thursday the global semiconductor chip shortage could hit global auto production by about 10% to 15% in the first half of 2021 and likely lead to additional plant closures.",
@@ -240,6 +432,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-orlando-police-testing-amazons-real-time-facial-recognition.md",
+      "title": "Orlando Police Testing Amazon's Real-Time Facial Recognition",
+      "excerpt": "which noticed that law enforcement customers were mentioned in the marketing of Amazon's \"Rekognition\" service. Until now, American police have used facial recognition primarily to compare still photos from crime scenes with mug shots. But now Amazon and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
+      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/7c2557d/2147483647/strip/true/crop/1064x550+0+0/resize/1064x550!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F2d%2F2e%2F42ef53b806b11e04f8d057f1ae93%2Famazonytscreengrab-custom-bd108a3518dfcadc437bffd9c0384a153f4f166b.jpg",
+          "width": 1064,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -960,247 +1196,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-electronic-nose-uses-machine-learning-to-mimic-a-dogs-sense-of-smell.md",
-      "title": "Electronic nose uses machine learning to mimic a dog's sense of smell",
-      "excerpt": "Inspired by the incredible olfactory senses of dogs, scientists have been developing and demonstrating different types of “electronic noses” that can sniff out things like cancer, nerve gases or even explosives.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
-      "originalUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/10bf896/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F56%2F8ab2b48c494b93ec9038369e0d47%2Fmit-artificial-dog-nose-01-press.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
-      "publishedDateTime": "2021-02-17T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-chinas-baidu-beats-revenue-estimates-on-strong-cloud-ai-demand.md",
-      "title": "China's Baidu beats revenue estimates on strong cloud, AI demand",
-      "excerpt": "China's Baidu Inc reported quarterly revenue above Wall Street expectations on Wednesday, helped by a recovery in advertising and an uptick in demand for its cloud services and artificial intelligence platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/technology-news/chinas-baidu-revenue-beats-expectations-on-rise-in-advertising-2421809",
-      "originalUrl": "https://www.reuters.com/article/uk-baidu-results-idUKKBN2AI0A3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.akamaized.net/news/LYNXMPED5Q0VX-ORUTP_L.jpg",
-          "width": 800,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T19:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-naver-along-with-seoul-national-university-present-naver-artificial-intelligence-ethics-principles.md",
-      "title": "Naver Along with Seoul National University Present Naver Artificial Intelligence Ethics Principles",
-      "excerpt": "Naver has prepared an opportunity for South Korean industries to remind themselves the importance of AI (Artificial Intelligence) ethics by introducing AI Ethics Principles. Many have been suggesting",
-      "sourceUrl": null,
-      "webUrl": "https://english.etnews.com/20210218200003",
-      "originalUrl": "https://english.etnews.com/20210218200003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etnews.com/news/article/2021/02/18/article_18110024234078.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.etnews.com/amp/20210218200003",
-      "cdnAmpWebUrl": "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210218200003",
-      "publishedDateTime": "2021-02-17T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Etnews.com",
-        "domain": "etnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.md",
-      "title": "Machine learning model may guide treatment decisions for lung cancer patients",
-      "excerpt": "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "publishedDateTime": "2021-02-17T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024.md",
-      "title": "Cloud Natural Language Processing (NLP) Market Analytical Overview, Growth Factors, Demand, Trends and Forecast to 2024",
-      "excerpt": "Selbyville, Delaware. The report on Cloud Natural Language Processing (NLP) market is a comprehensive evaluation",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analytical-overview-growth-factors-demand-trends-and-forecast-to-2024-2021-02-18?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T16:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

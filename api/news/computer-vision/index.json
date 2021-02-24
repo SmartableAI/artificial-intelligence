@@ -245,7 +245,7 @@
       "originalUrl": "https://www.bbc.com/news/uk-wales-56130226",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -424,6 +424,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-orlando-police-testing-amazons-real-time-facial-recognition.md",
+      "title": "Orlando Police Testing Amazon's Real-Time Facial Recognition",
+      "excerpt": "which noticed that law enforcement customers were mentioned in the marketing of Amazon's \"Rekognition\" service. Until now, American police have used facial recognition primarily to compare still photos from crime scenes with mug shots. But now Amazon and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
+      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgbh.brightspotcdn.com/dims4/default/7c2557d/2147483647/strip/true/crop/1064x550+0+0/resize/1064x550!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F2d%2F2e%2F42ef53b806b11e04f8d057f1ae93%2Famazonytscreengrab-custom-bd108a3518dfcadc437bffd9c0384a153f4f166b.jpg",
+          "width": 1064,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGBH",
+        "domain": "wgbh.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1088,24 +1132,33 @@
     {
       "path": "_news/2021-02-12-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
       "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
-      "excerpt": "Keysight Technologies, Inc., a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence platform that enables organizations to automate the testing of high-speed applications",
+      "excerpt": "Keysight Technologies, Inc. , a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with",
-      "originalUrl": "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with",
+      "webUrl": "https://www.lelezard.com/en/news-19647483.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19647483.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T08:00:00-08:00",
+      "publishedDateTime": "2021-02-11T08:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1115,8 +1168,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1351,50 +1405,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-facial-recognition-has-come-a-long-way-its-problems-have-a-long-way-to-go.md",
-      "title": "Facial recognition has come a long way. Its problems have a long way to go.",
-      "excerpt": "Over the last 80 years, facial recognition tech has gone from pen and paper to large-scale automation. But at what cost?",
-      "sourceUrl": null,
-      "webUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "originalUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehustle.co/wp-content/uploads/2021/02/News-Brief-Midroll-Images_2021-02-11T012507.977Z.jpg",
-          "width": 600,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/02112021-facial-recognition/",
-      "publishedDateTime": "2021-02-10T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hustle",
-        "domain": "thehustle.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

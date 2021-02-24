@@ -57,22 +57,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Natural Language Processing Market is Going to Boom with IBM, Microsoft, Google, Amazon Web Services"
-    excerpt: "Latest released the research study on Global Natural Language Processing Market offers a detailed overview of the factors influencing the global business scope Natural Language Processing Market research report shows the latest market insights current situation analysis with upcoming trends"
-    publishedDateTime: 2021-02-19T15:05:00Z
-    webUrl: "https://www.openpr.com/news/2245722/natural-language-processing-market-is-going-to-boom-with-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245722/natural-language-processing-market-is-going-to-boom-with-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 78
-    images:
-      - url: "https://cdn.openpr.com/U/2/U219826638_g.jpg"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Microsoft Translator gains text support for 9 more languages"
     excerpt: "Microsoft recently announced support for nine additional languages for Microsoft Translator. The newly supported languages are spoken by over 170 million people around the world."
     publishedDateTime: 2021-02-23T19:04:00Z
@@ -149,6 +133,20 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Microsoft adds Armenian to Translator tool"
+    excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
+    publishedDateTime: 2021-02-24T07:26:00Z
+    webUrl: "https://www.panarmenian.net/eng/news/290573/Microsoft_adds_Armenian_to_Translator_tool"
+    type: article
+    provider:
+      name: PanARMENIAN.Net
+      domain: panarmenian.net
+    quality: 39
+    images:
+      - url: "https://media.pn.am/media/issue/290/573/photo/339x226_thumb_photo_290573_b50c2a3ce.jpg"
+        width: 339
+        height: 226
+        isCached: true
   - title: "Microsoft Translator now offers text translation in nine additional languages"
     excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"
     publishedDateTime: 2021-02-23T14:34:00Z
@@ -162,20 +160,6 @@ related:
       - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Microsoft-logo-on-building.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "VW partners with Microsoft to build computing platform for autonomous vehicles"
-    excerpt: "Volkswagen says it is further strengthening its capabilities in the development of autonomous or highly automated driving (AD) solutions with a new partnership with Microsoft. The Group’s software"
-    publishedDateTime: 2021-02-19T16:45:00Z
-    webUrl: "https://roboticsandautomationnews.com/2021/02/19/vw-partners-with-microsoft-to-build-computing-platform-for-autonomous-vehicles/40841/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 35
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/VW-Automated-Driving-Platform_Microsoft-2.jpg"
-        width: 800
-        height: 395
         isCached: true
   - title: "Microsoft, BBC, and Adobe Start Coalition to Stop Fake News and Misinformation"
     excerpt: "Microsoft’s efforts to combat fake news now include the Coalition for Content Provenance and Authenticity, which aims to offer"

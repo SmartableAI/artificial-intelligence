@@ -53,20 +53,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Convicted sex attacker caught by facial recognition technology jailed for life"
-    excerpt: "Craig Walters followed his victim off a bus in Cardiff before attacking her - weeks after being released from prison for a similar offence."
-    publishedDateTime: 2021-02-19T15:54:00Z
-    webUrl: "https://www.itv.com/news/wales/2021-02-19/convicted-sex-attacker-caught-by-facial-recognition-technology-jailed-for-life"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 50
-    images:
-      - url: "https://images.ctfassets.net/pjshm78m9jt4/5x0PguEvu7nV4nk6tydB3R/bb28847e39ee093daa2546ee6a408add/Screen_Shot_2021-02-19_at_15.56.23.png"
-        width: 2836
-        height: 1620
-        isCached: true
   - title: "Facial recognition may help find US Capitol rioters, but at a cost"
     excerpt: "As facial recognition is increasingly used by authorities to nab lawbreakers from criminals to US Capitol rioters, experts warn it could harm many others."
     publishedDateTime: 2021-02-21T23:06:00Z

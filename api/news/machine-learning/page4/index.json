@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-29-machine-learning-tool-may-streamline-or-scheduling.md",
+      "title": "Machine Learning Tool May Streamline OR Scheduling",
+      "excerpt": "The use of a machine learning model may aid in accurately predicting surgical procedure time, according to the results from a randomized clinical trial. Researchers found that improving planned surgery duration accuracy reduced the use of presurgical resources,",
+      "sourceUrl": null,
+      "webUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "originalUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.physiciansweekly.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "cdnAmpWebUrl": "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/machine-learning-tool-may-streamline-or-scheduling/amp/",
+      "publishedDateTime": "2021-01-29T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Too Old to Operate",
+        "domain": "physiciansweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-new-machine-learning-model-predicts-covid-19-severity.md",
+      "title": "New machine learning model predicts COVID-19 severity",
+      "excerpt": "COVID-19 vaccine distribution has begun across the globe, while many countries are still struggling with the rampant rise of infections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/CT_machine_is_prepared_for_the_patient_shooting-sfam_photo_698c003ae3d54b69bf4c077708d403e4-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210128/New-machine-learning-model-predicts-COVID-19-severity.aspx",
+      "publishedDateTime": "2021-01-28T20:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
       "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
       "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
@@ -1297,85 +1383,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-morningstar.md",
-      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare | Morningstar",
-      "excerpt": "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8140900/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8140900/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market.md",
-      "title": "Here’s How Data and Machine Learning Startups Are Helping Pakistani Retail Market",
-      "excerpt": "Pakistan is primarily a consumption-driven economy and has one of the fastest-growing retail markets. Coupled with one of the youngest",
-      "sourceUrl": null,
-      "webUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
-      "originalUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://propakistani.pk/wp-content/uploads/2021/01/big_data_retail_igg_pp.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
-      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
-      "publishedDateTime": "2021-01-25T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ProPakistani",
-        "domain": "propakistani.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

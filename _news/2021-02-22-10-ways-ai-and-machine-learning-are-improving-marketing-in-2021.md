@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/900fx450.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "REVA University Invites Applications for Two Year Master’s Degree in Deep Learning and Artificial Intelligence"
+    excerpt: "REVA University in partnership with CloudxLab is offering a two-year Master of Science in Deep Learning and Artificial Intelligence for interested students"
+    publishedDateTime: 2021-02-24T07:11:00Z
+    webUrl: "https://www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/"
+    ampWebUrl: "https://www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 54
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/circuits-5896293_640.jpg"
+        width: 640
+        height: 401
         isCached: true
   - title: "How banks are harnessing artificial intelligence"
     excerpt: "Technology is everywhere in the financial services industry, and banks have been building their artificial intelligence (AI) bona fides in recent years. Components of AI include natural-language processing,"

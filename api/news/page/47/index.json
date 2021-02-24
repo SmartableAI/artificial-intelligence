@@ -2,6 +2,251 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-01-20-global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches.md",
+      "title": "Global Healthcare Artificial Intelligence Market, 2020-2027 - Growing Incorporation of AI in Clinical Trials to Accelerate New Drug Launches",
+      "excerpt": "The \"Healthcare Artificial Intelligence Market - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global healthcare artificial intelligence (AI) market is expected to grow at a CAGR of 41.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-healthcare-artificial-intelligence-market-2020-2027-growing-incorporation-of-ai-in-clinical-trials-to-accelerate-new-drug-launches-1029983009",
+      "publishedDateTime": "2021-01-19T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles.md",
+      "title": "Cruise, GM partner with Microsoft to commercialize self-driving vehicles",
+      "excerpt": "Self-driving car maker Cruise and majority shareholder General Motors Co said on Tuesday they would partner with Microsoft Corp to commercialize driverless autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org",
+      "originalUrl": "https://www.reuters.com/article/us-gm-microsoft-autonomous/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-idUSKBN29O1MO?source=techstories.org",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210119&t=2&i=1548348568&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I0YQ",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29O1MO",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O1MO",
+      "publishedDateTime": "2021-01-19T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-mission-healthcare-of-san-diego-adopts-muse-healthcares-machine-learning-tool.md",
+      "title": "Mission Healthcare of San Diego Adopts Muse Healthcare's Machine Learning Tool",
+      "excerpt": "ST. PAUL, Minn., Jan. 19, 2021 /PRNewswire/ -- San Diego-based Mission Healthcare, one of the largest home health, hospice, and palliative care",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mission-healthcare-of-san-diego-adopts-muse-healthcare-s-machine-learning-tool-1029980867",
+      "publishedDateTime": "2021-01-19T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-microsoft-joins-2b-investment-in-cruise-to-speed-commercialization-of-self-driving-vehicles.md",
+      "title": "Microsoft joins $2B investment in Cruise to speed commercialization of self-driving vehicles",
+      "excerpt": "The company had planned to launch a self-driving commercial taxi service in 2019, but missed that deadline. Microsoft previously partnered with Chinese tech giant Baidu as its cloud partner for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/01/Cruise-Track-3-in-Seattle-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-joins-2b-investment-cruise-speed-commercialization-self-driving-vehicles/amp/",
+      "publishedDateTime": "2021-01-19T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
+      "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
+      "excerpt": "Jvion uses Microsoft Azure to power CORE ... In April, Jvion used its artificial intelligence (AI) engine to build a map that shows which residents in a community are at highest risk for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
+      "publishedDateTime": "2021-01-19T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
       "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
       "excerpt": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official Delhi: Man held for operating 46 fake firms, helping businesses evade tax Calling all fitness ...",
@@ -935,256 +1180,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/where-ai-is-heading-in-2021-for-hr-departments/amp/",
       "publishedDateTime": "2021-01-19T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-trovataio-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai.md",
-      "title": "Trovata.io raises $20 million to aggregate enterprise bank accounts with AI",
-      "excerpt": "Trovata.io, a startup that aggregates enterprise bank accounts using AI, raised $20 million in a venture round.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/control.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/19/trovata-io-raises-20-million-to-aggregate-enterprise-bank-accounts-with-ai/amp/",
-      "publishedDateTime": "2021-01-19T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-nasa-is-training-an-ai-to-detect-fresh-craters-on-mars.md",
-      "title": "NASA Is Training an AI to Detect Fresh Craters on Mars",
-      "excerpt": "An algorithm discovered dozens of Martian craters. It’s a promising remote method for exploring our solar system and understanding planetary history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/",
-      "originalUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6001e176c94b3f9f2302d0c7/master/pass/Science_mars_pia21769.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/nasa-is-training-an-ai-to-detect-fresh-craters-on-mars/amp",
-      "publishedDateTime": "2021-01-19T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions.md",
-      "title": "ABBYY Emerged as the Clear Technology Leader in the SPARK Matrix: Intelligent Document Processing, 2020 by Quadrant Knowledge Solutions",
-      "excerpt": "ABBYY, a leading digital intelligence company, has been ranked by global advisory and consulting firm Quadrant Knowledge Solutions as",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-839745268.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/abbyy-emerged-as-the-clear-technology-leader-in-the-spark-matrix-intelligent-document-processing-2020-by-quadrant-knowledge-solutions-839745268.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/746706/Quadrant_Knowledge_Solutions_Logo.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others.md",
-      "title": "Intel Unit MobilEye’s Strategy To Win Self-Driving Is Very Different From Tesla, Waymo And Others",
-      "excerpt": "You may not see MobilEye named as a major contender in self-driving a lot, but their radical strategy takes interesting bets and makes them a top company to watch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006667bd1af2435b265762f%2F0x0.jpg",
-          "width": 1199,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/01/19/intel-unit-mobileyes-strategy-to-win-self-driving-is-very-different-from-tesla-waymo-and-others/amp/",
-      "publishedDateTime": "2021-01-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-will-ai-save-the-movie-consumer.md",
-      "title": "Will AI Save The Movie Consumer?",
-      "excerpt": "Any organization planning to use AI in their processes should collect a diverse and trusted set of data upon which to perform thorough back-testing to reach the necessary precision for their intended application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe0c5cc58f86207d3472bdb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/19/will-ai-save-the-movie-consumer/amp/",
-      "publishedDateTime": "2021-01-19T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
