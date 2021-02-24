@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board"
-publishedDateTime: 2021-02-23T19:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-301233877.html"
-webUrl: "https://www.prnewswire.com/news-releases/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-301233877.html"
+excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
+publishedDateTime: 2021-02-23T20:04:00Z
+originalUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
 type: article
-quality: 27
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1429058/Banjo_Health_Logo.jpg?p=facebook"
-    width: 1587
-    height: 831
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -57,17 +61,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "IBM Looking To Sell Watson Health Business Unit – Report"
-    excerpt: "I BM is looking to sell its IBM Watson Health business, the Wall Street Journal has learnt. The technology giant is looking at different alternatives that include a sale to a private equity firm, another industry player,"
-    publishedDateTime: 2021-02-19T08:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-looking-to-sell-watson-health-business-unit-report-2021-02-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "IBM Considers Selling Watson Health Division: Report"
     excerpt: "IBM Considers Selling Watson Health Division: Report International Business Machines (IBM) - Get report Watson Health is considering the"
     publishedDateTime: 2021-02-19T09:03:00Z
@@ -99,22 +92,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Investigates-Sale-of-IBM-Watson-Health.jpeg"
         width: 1280
         height: 640
-        isCached: true
-  - title: "IBM is investigating the sale of Watson Health"
-    excerpt: "IBM is investigating the sale of Watson Health Cameron Clayton, CEO of IBM's The Weather Company, on The Weather Channel's online tools"
-    publishedDateTime: 2021-02-19T07:31:00Z
-    webUrl: "https://www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/"
-    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-is-investigating-the-sale-of-watson-health/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-is-investigating-the-sale-of-Watson-Health.jpg"
-        width: 2560
-        height: 1712
         isCached: true
   - title: "App designed to combat malaria Finalist in IBM Watson XPRIZE contest"
     excerpt: "The app is designed to work even in environments in which internet is not always available, as well as on low-cost phones."
@@ -343,6 +320,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "luDRgp5QVYNbHWzSukia4BWsFOboPqOcxjz728xP6mXSxqYU7hXBn67LBVcWqzLY5iTu0ZFIDSs9BbsfePYy1L2oUWqR3/EiVL0Vy8A+nnLnpauUR6sWqSYig5CAFaZ9wEXtLuK3tgFsQxHTwMDgXt7wuN83IJaCUb+4z6s3sn7L8Zi39NVP0yceLDFllmPAQamUCAmEnwrITbcSEEF/CGtycaBXtsm4auAEMtOUT0XZf6QcsJObOp4FmRjIfA2t2Rqk9RuXXu/uVyz8G70EiAllyPYfcgnxzzIR7+yVLk8MMQhKGrZaOpOQKtvLssD0V+IWH2AJDb7L+LfW1Oj4Q+fzd5YFBm95YkNSB3dx/9I=;nN9IBtDePrAhROfIJk23Vg=="
+secured: "8jrc2sjcxztiN2QaKnElEHeMfqAvzdhMgC5KwuYnbJdcmvw2GnqMfP39DLIqd37iRqM8UejJa9Fr1sNXpRky8s6CcEDgF2YQZn02+wzazU+XWlNmp3WBhooMwFiRoDnX3cjyGEejRpHET+Dkv4iM7XWbucjumAEJ9qc13gnc4g6h2FhkAIUMaMNLOdCOy+mRCC0xDmDdqjIi1tIrz/PnlZDBR5yn98Y4U0oZGJZgYIG9r25QrC0y4Mwuz3aexwLJmfRP5r+4TWpTBoZOASGiDNxApwlbCDXJ4a+q0JnfoSdRgjBKULNKhRLLjsBplFbpcSTbIxDHlQ9kLtXru4SM4cpKgXHuMLCyR3PsuSWvQC8=;lV1KI10uTBasqTE9wFqDag=="
 ---
 

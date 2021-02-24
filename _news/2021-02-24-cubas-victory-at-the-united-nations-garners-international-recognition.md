@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "This Translation Device Streamlines International Communication"
+    excerpt: "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech."
+    publishedDateTime: 2021-02-23T16:24:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/This-Translation-Device-Streamlines-International-15971934.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/60/02/20644001/11/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "The two schools will face their Geelong rivals in recognition of International Women's Day"
     excerpt: "St Patrick's and Loreto College will play against St Joseph's and Sacred Heart College respectively next Tuesday at GMHBA Stadium, Geelong."
     publishedDateTime: 2021-02-23T06:00:00Z

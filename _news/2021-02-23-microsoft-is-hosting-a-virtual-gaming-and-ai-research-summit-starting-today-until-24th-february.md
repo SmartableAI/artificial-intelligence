@@ -136,34 +136,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Microsoft Azure and the Trends That Will Drive its Future"
-    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
-    publishedDateTime: 2021-02-19T07:19:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 54
-    images:
-      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
-    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
-    publishedDateTime: 2021-02-19T07:23:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 46
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
     excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
     publishedDateTime: 2021-02-21T19:56:00Z

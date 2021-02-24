@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arr
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -32,18 +32,32 @@ images:
 
 related:
   - title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
-    excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and"
-    publishedDateTime: 2021-02-23T10:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency/article_fd4fbeca-8713-5cc9-abe0-d32bdf3099dc.html"
+    excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
+    publishedDateTime: 2021-02-23T10:53:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Morningstar, Inc.
+      domain: morningstar.com
     quality: 41
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/48/548b1638-38ac-5988-9964-dee43394cd85/603515bd9098a.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1442578/Future_Acres_product.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Farm Tech Startup Future Acres Launches"
+    excerpt: "Future Acres, Inc., a Santa Monica-based food technology company, launched on Feb. 23 with the goal of raising $3 million in a seed funding round. Future Acres said it will use New York-based SeedInvest,"
+    publishedDateTime: 2021-02-23T23:10:00Z
+    webUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches-seeking-3-/"
+    type: article
+    provider:
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 24
+    images:
+      - url: "https://ocbj.media.clients.ellingtoncms.com/img/photos/2021/02/23/03_Carry_-_side_view_t670.jpg?b3f6a5d7692ccc373d56e40cf708e3fa67d9af9d"
+        width: 670
+        height: 376
         isCached: true
 
 secured: "B8OHx2LYxHSMjpfReTmviVB/vX03b72Z7MeLyp2/lca2nRu85AgaSYfnXb29/7O1dNJO6ckb+KunD77lu+AwWD0kJnzpfltCInMI5gLxO7bo/7iFv+cGmit//y8OyBQOuK5alhlqjPSFmk9nWPgwGBidZs2PQPDLh4mdA2q0T5dpUCFJXvSx3xZ3S0+wMwkq/ixwfG+wGCmTB5QCBZpAQFunhkF6q/DpOOdR2CY53l2poByoWrHdDNI81sypav7HlJYAiHw5kSNwA7df9ktS7wF4/hesOF7KuFfT66Q9zExYlVZNYomG9AzJBmIoRIbD2nmOCrq2ZAUegGOcJXDTUZR4y7USRwWAYI26kQ+6hhPIThhRxN2jMG5vD1Ye6kQBaCRwVGY9KgpZTK616NC6kl4+Db1qe1iQRItduKqh34tg7x8TsowUwapU4HbOXXsVCZEh+xfDKl6HNQ9n+EiKC3o6Jw5TIP1qV/ib1wh6StZNrvKkp8eths1AXPt1+vtXUEkUBd5S3/UPQdmBjjUgHg==;spHP3SwbQq3+B/8TEPjSyQ=="

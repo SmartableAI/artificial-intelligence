@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/business/banking/sme-owners-can-set-u
 webUrl: "https://www.straitstimes.com/business/banking/sme-owners-can-set-up-dbs-account-with-facial-recognition"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
-    excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-23T04:55:00Z
-    webUrl: "https://www.straitstimes.com/business/banking/smes-can-now-use-facial-recognition-to-apply-for-dbs-online-banking-accounts"
+  - title: "Facial Recognition Systems Scan 23 Million People at US Borders, Come up With Zero Imposters"
+    excerpt: "United States were subject to facial recognition scans in 2020. Of these, it appears not one was determined to be an imposter at any of the country's airports."
+    publishedDateTime: 2021-02-23T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-systems-scan-23-million-people-at-us-borders-come-up-with-zero-imposters/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-systems-scan-23-million-people-at-us-borders-come-up-with-zero-imposters/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-systems-scan-23-million-people-at-us-borders-come-up-with-zero-imposters/amp/"
     type: article
     provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 36
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 48
     images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/23/af_dbs_2302.jpg?itok=-bxg7okT"
-        width: 763
-        height: 509
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2021/02/facial-recognition-systems-scan-23-million-people-at-us-borders-come-up-with-zero-imposters-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "CBP face biometrics catch two imposters at airports in Canada"
+    excerpt: "A pair of imposters have been detected by the U.S. Customs and Border Protection face biometric technology at Preclearance locations in Canada."
+    publishedDateTime: 2021-02-19T20:33:00Z
+    webUrl: "https://www.biometricupdate.com/202102/cbp-face-biometrics-catch-two-imposters-at-airports-in-canada"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
 
-secured: "weSAKjNmv4FTH9Q4qgVBR1XAqzAurp6kdLO5JLdSl/PfseehcLWro/CbuVI0T4RzvHMjG5KN0bkZloyhWeHsrkuyjBjIJuf9cIPNp41t0fE7bFbO6z7itkO/9rYRoGVSItp+OQko34ZwPBqf80M5lnHNCBxIR14JrwVzEsN1aibveznFRNjJk4t+HFg87HKAUGszkMaa94jNiTrj+Pgv2sGrMIL0uJ2vbf0BmPCV8bqpJ7x+k0COpYNuEPVfVYXGMgC2AYWlekCjScnW/vdX90KnTcMIlBPc8KfjHI9Bg8GcfsAPgDDiTgu27dBgOZQlN8Vx1s/h+lUNxaeqCI0CocaOkFOKinuCXmfyA1h2vsk=;eKCE/rSwl67d9VO4eiZxGQ=="
+secured: "rFRhVAVyIKKG+E59qWS/ns3GIKcgMue0HqSwNsl8WhU+pTIOQN47QriWOihVMWcjCsMrA6hugBk59WKi/e4jM049FBcVUsyi84in9a4/C+5W+xDn/+S0yf3St4vz7OWmhNypUbUg1SMJp6GhdW4c5ASp7S5c2NF51vSozvXeD/+Udd/SmFNDY6D1yNSxBqKldREA4i42vHzN3hmMF0QkbEutoT0Vq6PcOPmsjTyT9/HGlbr9Q8Are1uC1SUdW/upVoycTkY+xLzODxvhx2WIYGtL66E9jnxV64KUf3TLEeEO8tYm6ouU8EHqU8UShZPHPAASvubif4USrIxJ8D/TGtynI4BvcJqo+outnGH1a8zzazIyjPwlYRV1s5qn+LR2J/lvUmyr7exxxvrv7GK6ShsGtGT73hbiDGbXKhD9VWQrOzfxIw8VGkj5W4U8do/C1ctGx6VBPQWg0L8gtsQbu7D/IWHvG3OoFxcquETPvVVj+meCAwGEVoSihgqYygSqnB6nFPZqaJXbGYLiJHwRiw==;h6VDLRSy7Wu8MPXmYjK6IQ=="
 ---
 

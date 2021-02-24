@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The French National Authority for Health unveils its classification of digital solutions used in healthcare"
-    excerpt: "Haute Autorité de Santé (HAS) in this first classification. This system has been developed in the context of the multiplication of digital tools that can be used in today’s health care. The solutions examined are classified according to their purpose of use,"
-    publishedDateTime: 2021-02-19T14:56:00Z
-    webUrl: "https://www.actuia.com/english/the-french-national-authority-for-health-unveils-its-classification-of-digital-solutions-used-in-healthcare/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 21
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/02/HAS-classification-solutions-numeriques.png"
-        width: 800
-        height: 400
-        isCached: true
-
 secured: "f1fSQsTLj+R3ao2jVdNLae1X/a0V1vZx8Q9iTmksN8EylnlUZcygwncXM3avbSfYSZ5dPDC1FvRIjwTeIRWRDTEyBjy9pDs7+IqlbYDOghyxoCS6lpu0W/IEA90mrR/k1Puvgvu+DF+xxuWX9t7V+IrjHGOWM8c1qUU29MXRZmMg7YlyklQmRdXxsTw3J8d+RNphSTwmcVt2aOl8aCHV33HjiZNUPelZmwm13uRhzue2vJIBJgleTzKRy6ijVMc6wz7jc3nsitPuNUUvy9HXfw6mPMqEe423S0UdS+GmXXaU5NXSVKI4u35JXzjW8LezH6G+/PpiRa+X6hYl+0dhhTV9rWizysxAvYXXY+Nod/s=;8a792m61FGrBa/gGvF7c2A=="
 ---
 

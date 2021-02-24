@@ -111,20 +111,6 @@ related:
         width: 720
         height: 479
         isCached: true
-  - title: "New AI-Enabled Virtual Screening Tool Identifies Most Promising Approved Drugs for Success in Treating COVID-19"
-    excerpt: "WorldQuant Predictive (WQP), an AI predictive products company, and CAS, a division of the American Chemical Society that specializes in scientific information solutions, have partnered to develop a groundbreaking methodology that can save time and lives by helping research teams rapidly prioritize the most promising drug candidates to treat COVID-19 and other critical diseases."
-    publishedDateTime: 2021-02-19T08:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-chemistry-6a43d4985262bc20925f45a5bca75298"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "rTXKJobMZ/RGCRxlS78d+3g80mraI643WKZppgLGQJrduJAwVwXns5VPtMUC+dfHN0tnHyL3rlMyslX3gstyfJZJCqynWzBzGRx6ciOL6cs6oq53jW9OF/XXZ96dU1SeL97yl9gxZeshw3LWV3dCXcnPq6azZYaPReKDoRx7lGLsBEJszP9RuypSgUtaCh2sB95rH/WD5a/wfhFYxFOQMxiiHfHk524FfvjImu4b5s4yI9/XyB3pS8MF7x+7XQNjUAvCznFn4HsbQGg4PbyGKoPIBtIAapK2w65EvVJmwBa+A4apmyJu/jot1io5ETDREatUAa7OVi3yBbh5S21DXWbpgzkO+DoCo+nmJiUYmvgtl6pLrP6G1pL5Uk6SkZluaJWg2jukU4UsDN9/cvqHO66k8DztRU8x8GyrCfs+e9dWGMK9r80Q01j6WpKcDY1yltmf3M3KPplJzsUrEBIGpuSpsVg8uJ3rYqrwTGlnfJvnvZTfM9iiWhHjsv8k5ZQxi8vgENyUmFXx8W59Fuhrdg==;xhlVJmS48aQOxjqwCw87pA=="
 ---

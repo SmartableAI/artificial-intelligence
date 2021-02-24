@@ -19,12 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.eweek.com/wp-content/uploads/2021/02/AdobeStock_245601545-scaled.jpeg"
-    width: 2560
-    height: 1280
-    isCached: true
-
-secured: "IqFyLPuRZuOqXTdJdLgZBjDwP3zHfKSS1eaYrhVi5x5+/eHBEFxznr34P1Y3APTPAvksKHf5rwOpikkue+PpyGESu3DJSTEGDt+YV1H3Wuv2bSeiPPgJn5qG+fJQ9176KOiWKpOfi0eNdAU/aHKu/5c9rl5XUYA15Yg2ABJDwuzH7CTu7eCtysPlvAPK3ZIUa8hYGoXKvGOfWVxODLoEduYwNA/7awNFc3oEHdbdl0NsGQHFK14L13IrI2z5YiRDd84h+zey4CxXpFL1LKvg/XBaJHGh3rBEnF/OPLTWtxnB8AAqK/As0KEFqhj+UaM87I4uf80trQN9JWzIvFy91f+FdaoPtmz/H9DQx0dxADM=;A0KK1vJSzGFvw0RUZYecEw=="
+secured: "ndpRcx1b9avnIDu6b/qSaGi53vEVeBPSFwrfA0RfM7zk0M3zeayCud4qB2vrdua74x0CjKZrviV2donRzgWQiAZHlCfh3ry2KqsVaF65KzHv4ga8g/HuY6/aAp/yhDCh4fVI6IItoc6o5/l9kF97/NAFiGdPaLX1lY6ksWLLlUsw6kfRTnkdEk8QfftAZv+uXH8V9Cuk4L4IEXx1hn99IXDaR/lohGGjROKXnCB9QZR7xxXINx2STMPh2n8Qlq4wMpIB9P2vdSC2W0OcpiC7dumsUXAQNwmvHZOZ2EIkA7oSwNxAqkPdHD071LvKFeQ3bnh23pe1/U+m+UlKUH70Up8zx8GqzZhI08FTMkJ8Z98=;UBS4PdyKmWEeyqLG2DDfxg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-f
 cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

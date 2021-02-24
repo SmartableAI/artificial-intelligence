@@ -2,19 +2,29 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T16:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+publishedDateTime: 2021-02-11T21:20:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "FZkqXADZQjNSp0Nb9xcaTp2cU+QBJKNt5xpdGqpwNzEiryVpy2eR93x8ZQvftbWhkOtZWImWOoEmq/7PpDyBJEy7Kaf6htNTwuxa97qwP4LTOQmCMPEOw/CiCyu8Pmm6Jq8jYZd0f4VijDs9Ovc41XZBeEDjwO6bp7jQKVcxTzevU6X8WMvM8XHmRpBFB4riOE+lG0/BqwQgc2zkGE2rtGCkFqigQ3+LHiqUhZ34Luu3YUxR/nJz43zWu5skkf5wdUZiO2nu0+RIJ6YmVEutd5exEvRF9xpPben5kZ0D8E7bAIdh7/1LwR46yGePekOxDdJ12UlKDwyLHAIFuz1fzSTTEzhAaAxy8XGcU6lO/Sk=;b7TOhjl0t0Gu6i4vlkNSZg=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg"
+    width: 1619
+    height: 1060
+    isCached: true
+
+secured: "lLqiIsgL7YfoUJfJBA1esTrS4Utik253amx0GQ247WrJdlZEiC5Rze7i0VfoBH15hQwZuL8lh2+0ffoHhvhGYMCfd21BMmI7xH9NuMHt3XthaWSe8BseoFnr3ET0x3m0qjaJLDkzWSytL071+uvL8U5pkii8gngggs3lAFnYkN0/mY7txTNcIKN43+VBR4W7lIEc0xdIAJs8pEmtuvw/b0hmXXHEBrdrMu92rprwPYVr3HMbmbIzmPj+DhBkj5EdjUgppIC9nC3zaUf9cgUABf21eeBBmjHO0RCDtfzOItkcIKAddr1QdimC8EXDOZZeT6/t3NcMpHDIsH54heUCHxQ/xPH2ivPhzJtKNFWWUpo=;FxVqoicoDV4UTZIOdo4PEA=="
 ---
 

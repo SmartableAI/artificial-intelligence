@@ -2,9 +2,9 @@
 category: news
 title: "The AI research paper was real. The “co-author” wasn’t"
 excerpt: "The name Cox isn’t uncommon, so he figured there must be another David Cox doing AI research. “Then I opened up the PDF and saw my own picture looking back at me,” Cox says. “It was unbelievable.” It isn’t clear how prevalent this kind of academic fraud may be or why someone would list as a co-author someone not involved in the research."
-publishedDateTime: 2021-02-21T11:54:00Z
-originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1&start=80"
-webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1&start=80"
+publishedDateTime: 2021-02-21T11:50:00Z
+originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
+webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
 type: article
 quality: 67
 heat: -1
@@ -45,6 +45,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "N3ktfjBJTwwQgtCIGF6gQdCaoB7SaZUDyU6sTwb+coWa1EEF5qaEVgrdZmjJx+8FuiVzz/3Vf6Ja7NPdMNMUA+b2B0JGwtgXnB/EcAP+SMsO/16LBIUtblXhscY9C1dskMwn9bWWSDP0lcw1tWzcm4MhjKFI2tT8FFabIChnhOH8zJ/sr3ktVscOy8XC6dCLp5J23Z7x7m+qy83sp3IQxg/oqzclbkVgNjaBwKYWEXbjB99+A6wJHOmQ5N4bwjSv2VB8otdCbYOFMbmwQppwnm0sVJNfuKGG/4G1/1MeRvEWwISEtOOeoiFZI1n8l+hEYG5PE7CqE/TVKqtAB5ZjA5eFenLGFKyl6WaejF38lj0Ixx6qxPWVRr7AbdRIguTNaE1Ehp/m670Kg8/NE24OBEnInEffSxXhZ7qXtgPSd6n6UiufSOXpdt+rQorD8rLEnBRkuWOX5YOf47LgDSqg94rOJv9b5ny6pBZp1YIk4ZyJkup4y6NsO1MSa7gZPEbKBfMygCkrV9ykHoSI0pRVtw==;mmAeHcTn81OPbtYTRTtjJg=="
+secured: "aqYfmDl7mWW50Ikt7CKjUmSZZqDO1EHvp8727Jws4S4fi+AKo0IKcBN3wGT3UY56sUyUHgDF28H7CXSwtROiMEuve4RmyH/zTocZn/ozcegf/EG5vw3T/Lj+/yW3tOKDgEX4ekwXKsxqRqX9a9bhzbUi2Or/qJsifzyQPpnw/3dOSq/93oADsLMbWK+YIbgMbOJax+IISnRSet8g+etV2895TnT9t/aLfFjUv+FCnVC4guwoaCwHicMAUc5MUK8+46IkW79+rlA4aqxfrriZenlWqCHWqF0zMEcjiYZcSs7MIIG9GQ0F4qPnBSTOUUSQGpL6J9b1L4a4w0gqASWyNYJt5jnIWIupLuhKfVG+N7M=;l+hZMA60WZE5o5MV3wG3pA=="
 ---
 

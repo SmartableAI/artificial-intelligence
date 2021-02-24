@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision"
-excerpt: "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence (DAI) platform that enables organizations to automate the testing of high-speed applications which optimizes the delivery and quality of digital products."
-publishedDateTime: 2021-02-11T16:22:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc"
+excerpt: "Keysight Technologies, Inc. , a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation"
+publishedDateTime: 2021-02-11T16:10:00Z
+originalUrl: "https://www.lelezard.com/en/news-19647483.html"
+webUrl: "https://www.lelezard.com/en/news-19647483.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Computer Vision
+  - AI in Healthcare
   - AI
+  - Computer Vision
 
-secured: "2uapLxxGctn8vqyHLLtj/inprVv23V9zGjtDioLfE+Wrv/cMdBYgTImoine1Dry0DgGBq4B5QJUVEx3sVN2oyZqX9w484gtqKvwzxaQ6Gqc2tviodfLOFN+7HKETvhEPgh2mMKOEqaDogt31DXWgh5sRkVEhDHHixJ2vRNhrloh9gS36fUfwpOpRg+XjlFN+VHRSHQiw+LesTiunI+jnerjk6LuoH2wwteZmfPIVkQu95VdgNlR68QNty7IJFyiCi+KNzbvVCj/6sAH+DU39L2LnN93kcQFZKF9vTEETl1crZxOXh1n5MHYL1jgB7cuvi1eQFMRz387qkubpAi16b9IBaKXQJtsDvhYOC0EmNno=;QCOJZZ2w2aWdL2KSaKTdww=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "4KHqNfKjwLZGedBj0PtgBqk47v5bjwH8u9ac9oH2ZAG7Y3xI94vu9bxjkbha9dL/YoDPNbcu/4RZdTOShbbAEVPP/AC27MKFZ9vyRARd9OX7xiwwujyEL2afpzwhkSQYa4MQXoxOk7hOuQKklAlsW5QLXyYJeiPqGwF3ItRHDCU10WJmy7Uk8w4TNpgi8LykXg3Df40lXVQIZqOH4smvnmiMKsa0rBDMocagZvCV2T2T/YzNQwVwM1QyMXmfXpNAy1vpLe0zIr9IOA9FjPBkqsBDL6J4nZzilxy9k8AcbpwK+eATVRwPIasrvkRb02Ou8JXcn+DjZEXXIc+0oLWCnwuS9O6yXRyS3Qsc1zbH79s=;bAxeznW96eUQ3u1w/csA8g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
 type: article
 quality: 104
-heat: 234
+heat: 214
 published: true
 
 provider:
@@ -124,34 +124,6 @@ related:
       - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/02/Microsoft-SA.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Microsoft Azure and the Trends That Will Drive its Future"
-    excerpt: "Microsoft Azure and the Trends That Will Drive its Future By Apollo Gonzalez, CTO, CATAPULT SYSTEMS, LLC - In a recent report, IDC predicts that cloud computing will be a 107-billion-dollar industry by 2017."
-    publishedDateTime: 2021-02-19T07:19:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/microsoft-azure-and-the-trends-that-will-drive-its-future--nid-23272-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 54
-    images:
-      - url: "https://www.cioreview.com/ck_images/DS3fM280.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions"
-    excerpt: "Simplicity of Microsoft Azure's IoT Solutions Makes Possible Rapid, Scalable Solutions By Rob Moyer, Senior Vice President, Cloud, Mobility and IoT for SYNNEX Corporation - The promise of IoT is an interconnected world of billions of devices at the edge that talk to each other in ways that"
-    publishedDateTime: 2021-02-19T07:23:00Z
-    webUrl: "https://www.cioreview.com/cxoinsight/simplicity-of-microsoft-azures-iot-solutions-makes-possible-rapid-scalable-solutions-nid-29134-cid-50.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 46
-    images:
-      - url: "https://www.cioreview.com/newsimages/special/9JDq6Py3.png"
-        width: 300
-        height: 300
         isCached: true
   - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
     excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"

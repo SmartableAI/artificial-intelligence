@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-mana
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-pros-and-cons-of-ai-and-robo-wealth-management-solutions-discussed-by-robert-cannon/amp/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Impacts
@@ -40,20 +40,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/custom/image/c4931bce-e1a3-11e6-b934-53284b68f006.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ecospray Chooses relayr to Revolutionize the Maritime Industry With Artificial Intelligence Powered Solutions"
-    excerpt: "Ecospray, a company specializing in the research and development of cutting-edge systems for controlling air and gas emissions in industrial applications for the Maritime industry, has chosen relayr,"
-    publishedDateTime: 2021-02-19T08:49:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-italy-government-regulations-western-europe-607e57c7916d4b1f98611579d5859637"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 18
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "9tE6PpagTaye22TfX/l+ydGuOQVa76qsH7h9WqgCtiuGjeQwwVXxADJTa2OCcNQFv8wmuMlRp4LcAXDutsQbqDdRcpMjPVUuPD3P3iz4JlbMGAnAdS8sxl/KTyvukoMiq+fq9UijzoJ8m6hu7RKDSZ8eVvICgfOK4XKjtso6pQT0+okQbCEpj5oUOpGm8DjB99Q8N7cj9cUEH9JL7afaBwF2PxNLb++1n1PWX6tO9aNl6qCTfQ+8W7m3NEq7m+LG0/cjK0PcxzpVsxa4FDQt0FmwP7gg9KleuyREYQTJD0IoUiyJIaHcTxtZ9r5PzP8LqeXaxK1uu9xtAmqBUw0EaXoMXMG41vtGFstLMRruBKNvUatPh7G1vLL/XBeBrhQ9ahCePOleOEyFURxtWXdeq4Pnhj/JIuMeO60GL+KwVNZQ5n8nRgzEmCCTwv+jP6+7Z4lgmUsYrv5ELXkHFdmGdTbvhwc0ctVzY8iBrIweL1EQ9fArertk+DM7JK3PhNZbVJC0CdG9f8ZS8xIczHL2rw==;qsBt9o4vm7yldje0N/hejw=="

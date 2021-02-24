@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
         width: 720
         height: 479
-        isCached: true
-  - title: "New AI-Enabled Virtual Screening Tool Identifies Most Promising Approved Drugs for Success in Treating COVID-19"
-    excerpt: "WorldQuant Predictive (WQP), an AI predictive products company, and CAS, a division of the American Chemical Society that specializes in scientific information solutions, have partnered to develop a groundbreaking methodology that can save time and lives by helping research teams rapidly prioritize the most promising drug candidates to treat COVID-19 and other critical diseases."
-    publishedDateTime: 2021-02-19T08:32:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-chemistry-6a43d4985262bc20925f45a5bca75298"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "teqVIatJHK/zmMWOrTPAZGP5RNHzIolYiOcFr22ePHtmdpw6vfvHS5bDShfJ5MQ1RbH51H7xCODvn3am91CPbu7PXVVNPbCiWk8MfZP+owrRDEu6fqvHLbcSv/Bm+V387YmVHvleGQKRR4gh3X02qT4r4SPiX40VmPe7HXXrj/Qe+80bealuR5aImU7vbewDqw8vz8VTdHDCRZWLKdmKguf0RY+1cjAZu4GMWRxrIXbKCQOsr0oeY+cReDqBpk2tRgDXASBh0h+Xh8rlup48OramzErXiuGalYIsPRRCbOPOwHz1b4dzMZ6Qg1K5Dv1i+rIgNQpiyWmRkVY7jcDDPJmHaOz4x1LEcBIoS/vXhFinH/EA6RtAw6u7nqlSUKf9GN2iQbaKOQ01u0CK5ZqZrO8nfGRW/Uki2XwhLP0E4YlHJTMVZDqHyUjzaZ18+PueYPiUi1oBTc9iUvMKzSlT6oGAV4g3u+JgmLa7Yxg3oJvM78SGUrdXMxG93XzaENn2HIai5MAZrDuXFvhP0nbwAg==;5MjqcOskFE8C3855TWxDrA=="

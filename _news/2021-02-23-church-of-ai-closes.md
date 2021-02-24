@@ -24,6 +24,22 @@ images:
     height: 465
     isCached: true
 
+related:
+  - title: "Three Things That Artificial Intelligence Changes in Games"
+    excerpt: "In gaming, the impact of artificial intelligence leads to more authentic experiences. Developers use information gathered through AI to create more realistic games. Artificial intelligence can fit the player’s skill level,"
+    publishedDateTime: 2021-02-23T19:44:00Z
+    webUrl: "https://ipsnews.net/business/2021/02/23/three-things-that-artificial-intelligence-changes-in-games/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 37
+    images:
+      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/photo-1511512578047-dfb367046420-1.jpg"
+        width: 751
+        height: 501
+        isCached: true
+
 secured: "yEv80G9woJdLvR2dkJYkmgqBY0QXVpssqqcJeq7iB+ye6nL8xRedyCSFUkfvm3NvlhXsHADp2xSeq9UJ5q4zFe2i1F4u+WJ52V6anumy33vwRJBiimxgf0x/tpUidBi79QNT0YTKllYh+a8nI5tUjPX/5I8j45PAtxX37l83jWPP7G60rPIwcT11ePGgjggcJzzRZnSw7FXFdut0XK9pFCr8dI3aPe3z0AZrw67VEIMDz/y+sPBCQeKOo4amPeAbyYHEp+3X22US0lhmlGHMHfqHn+RqpnlelZFamYK7++Q3nSQhsVHyhw/5q5MCAATe1Mwmn9zdL9qRq1c0UT/RfhSdC4MVYnMosaf6EXcASjWxnR6XfxlW0vFCLv1Fq7IektvYh+6JJHh2Cjj3/CWEagxP3Sb0S7IO4RzUcUKeWI79LY1ImMC0oP/EG7R91ySBo8zolVu7Bilqd3jDpefaVkmy92wFxsCl7yxMFz/4JuPOsa+GOLB7Jgn3LJJYkyO68nCPYvdzNJy9h8n7CT8IBw==;bpCfHjNkDVMuDzFnRHNxuA=="
 ---
 
