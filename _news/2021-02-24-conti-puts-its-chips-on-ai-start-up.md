@@ -25,36 +25,74 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s treatment of AI ethics researchers continues to stir up controversy"
-    excerpt: "You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber,"
-    publishedDateTime: 2021-02-20T21:21:00Z
-    webUrl: "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/"
-    ampWebUrl: "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/"
+  - title: "Continental picks up stake in AI chip start-up Recogni"
+    excerpt: "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI)."
+    publishedDateTime: 2021-02-23T00:00:00Z
+    webUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554"
+    ampWebUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1"
+    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
+      name: Autocar Pro
+      domain: autocarpro.in
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024"
-        width: 1024
-        height: 683
+      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg"
+        width: 735
+        height: 490
         isCached: true
-  - title: "Google is trying to end the controversy over its Ethical AI team. It’s not going well"
-    excerpt: "Hours after Google tried to turn the page on a months-long controversy over the abrupt departure of one leader of its Ethical AI team, the other leader said she was fired. The announcement quickly sent shockwaves through the artificial intelligence industry."
-    publishedDateTime: 2021-02-20T00:31:00Z
-    webUrl: "https://abc17news.com/money/2021/02/19/google-is-trying-to-end-the-controversy-over-its-ethical-ai-team-its-not-going-well/"
+  - title: "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles"
+    excerpt: "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI)."
+    publishedDateTime: 2021-02-23T10:33:00Z
+    webUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554"
+    ampWebUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1"
+    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1"
     type: article
     provider:
-      name: ABC 17 News
-      domain: abc17news.com
-    quality: 49
+      name: Autocar Pro
+      domain: autocarpro.in
+    quality: 63
     images:
-      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/Money-web-1024x576.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg"
+        width: 735
+        height: 490
         isCached: true
+  - title: "VerSe Innovation acquires AI startup Cognirel Technologies"
+    excerpt: "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions."
+    publishedDateTime: 2021-02-23T11:23:00Z
+    webUrl: "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms"
+    ampWebUrl: "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous driving: Continental acquires minority stake in AI chip start-up Recogni"
+    excerpt: "Need for high-performance processors is growing, with increasing requirements for networked, automated and autonomous driving Production rollout of new ch"
+    publishedDateTime: 2021-02-23T13:00:00Z
+    webUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/"
+    ampWebUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
+    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
+    type: article
+    provider:
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 48
+  - title: "VerSe Innovation acquires AI-startup Cognirel Technologies"
+    excerpt: "Local language technology platform VerSe Innovation on Tuesday announced that it has acquired Cognirel Technologies, a Bengaluru-based"
+    publishedDateTime: 2021-02-23T19:13:00Z
+    webUrl: "https://www.dailyexcelsior.com/verse-innovation-acquires-ai-startup-cognirel-technologies/"
+    type: article
+    provider:
+      name: Daily Excelsior
+      domain: dailyexcelsior.com
+    quality: 17
 
 secured: "6E8ON0ELbM+GbrUw+yrFOUxZ76GxJtffCZVjrXdScmz7CoKYCajnJYS7bxNk/uh83ZBku2EL/GB/WkbZq7QJYVr1KuwAbOKXB5Yy9GHvP4qYK3GLdypbBHOEHsp4ibnY56A5QTT9TJZX6JWrxWArhFcqo7itecVZG+lNfyfyQMNt5kCPNFpQ/8yXXg3JmDRhGMXAhYws5Vjx+jwq+lC9iQplHHD6TUXQ31HxG3gkfZnQM1JkOafOquIOene7AVZIicXsb6UZkO3VwinKK+A5XEthqFNXvQIHI23wU9mFfsnndc0ci+scpSwhZgG5LQNcXfeDKlRzl1nVv+paOKdkrW3yhkXEUJjTbN9YDU21OqKL2r6NmRekDcp64pTxTMA6LhFX0SfDjwdYel8BPqw0vkkD1gUX8TOzZr/AL1kU+B7sJcBpJWE7W/XR/FO/mQeoH43y4AsMjfaGkqW89I0OLfX9yDS57zqNlkqctiRoLyBKh1A0x1pCGsvPTYvMBNYL3yVEkFWj6P705Jk9UJD23A==;ie1w18yWMThe5jnVFt4L9g=="
 ---

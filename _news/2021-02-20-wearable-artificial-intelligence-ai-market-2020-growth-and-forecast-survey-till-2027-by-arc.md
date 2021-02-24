@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/wearable-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19"
 type: article
 quality: 73
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -54,6 +54,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-02-24T12:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence market and is anticipated to grow at a CAGR of around 49% in terms of revenue during the forecasting period 2019 to 2026"
+    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. Acumen Research and Consulting, Recently Published Report titled \"Artificial Intelligence (AI) Market Size,"
+    publishedDateTime: 2021-02-24T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-and-is-anticipated-to-grow-at-a-cagr-of-around-49-in-terms-of-revenue-during-the-forecasting-period-2019-to-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

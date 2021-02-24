@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "CBP face biometrics catch two imposters at airports in Canada"
-    excerpt: "A pair of imposters have been detected by the U.S. Customs and Border Protection face biometric technology at Preclearance locations in Canada."
-    publishedDateTime: 2021-02-19T20:33:00Z
-    webUrl: "https://www.biometricupdate.com/202102/cbp-face-biometrics-catch-two-imposters-at-airports-in-canada"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
   - title: "SME owners can set up DBS account with facial recognition"
     excerpt: "Small and medium-sized enterprise (SME) owners now simply need to face a camera to authenticate and verify their information while setting up a corporate account online with DBS.. Read more at straitstimes."
     publishedDateTime: 2021-02-23T21:58:00Z

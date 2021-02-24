@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-24T10:37:00Z
 originalUrl: "https://analyticsindiamag.com/6-state-startup-missions-in-india-focused-on-ai/"
 webUrl: "https://analyticsindiamag.com/6-state-startup-missions-in-india-focused-on-ai/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/austin-distel-wD1LRb9OeEo-unsplash.jpg"
@@ -39,6 +40,6 @@ related:
         height: 339
         isCached: true
 
-secured: "Gv79ElWVYEkrXQnZVnG5ayNAZHpfUjr7IG2f1N0K/OD1KgN7UWtXSJj2plO9BYBG8boOTORCCnlNsDbbBhUNlSEr7/0eZ7e/DlcyjGRGQE+w7Hf7SxQS/LkjE2iS6l1iaKlSO5j2AuPT1jnHBWjzOZHsqI2EB6Es8X4NW1dxCKv14nfkcsBLulhmH+99x2+qobAth0VVb5gp5qRdltZaImh6YXUR2i4wjr9Sbl7F8nob28vqAQiFXO72vvfkmIrzoFDFtvfAqR5rpBQ9Uz24rVvjVwEKVlhzjhcaBLlENQSJs3BcFJEqqb+2oO7hVMvBhr/HHeFpMvIgBJCcI0+UpHSFghJIeoROOGph2iXx64s=;wCU9J+iWL+Y9+Q3VkyVO7A=="
+secured: "2oiyd8/xyR/f4TozMOXdYy16d2yy73QUnTg9ScTz6fCc/NYgXsf9JzdW9bZLcDo65hl2w6v+y4YeRDuezySJ+1n7RKTZSo61qW0IBfvYCzowX62QKkXEt6OxjMQq96D5+NdRJQsbLzAr7NfUlSP1HirzgkSreZdDMpdgXAoaMAOY2q6vsaCwNDI67/4EzKAroZqJke7SO6QQPV533mZJ44C5TIYnEzYmaUSoc4ZXKmNaiMjMASTDkFCXgUxemvk9N5ckNDbS6wc0ZsXXQ8TCTIhjTReAXCFce6twU7m/jg+dvNp9xYDspzr3K+DIkUNkEkaqeRgh9vXuJpsNDJ7OFtoYZt/LGu0TBpGlS8UgwuLNLVOYQfeYY6p5wYTbTrXxDZWdMW3V2QuocrZyMVOHagSioJBtDw03W1XejWVPMJmJaGsxa2Z89OovoB0x9VGWHsfzfEQVG/nVsYio10Kfpn3v63FHsq2r/cjNw7wJkOqL00U8RwMw/hYYS1YHsQXX45d7Sz/Y+BA6cptbMbeIZA==;DrMZvu/Jr7YF/I2rPj9nbw=="
 ---
 

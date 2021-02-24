@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "Three Things That Artificial Intelligence Changes in Games"
-    excerpt: "In gaming, the impact of artificial intelligence leads to more authentic experiences. Developers use information gathered through AI to create more realistic games. Artificial intelligence can fit the player’s skill level,"
-    publishedDateTime: 2021-02-23T19:44:00Z
-    webUrl: "https://ipsnews.net/business/2021/02/23/three-things-that-artificial-intelligence-changes-in-games/"
+    excerpt: "ET <a href = target=_blank><br/><img src=' Width='751' Height='501'/><br/><br /> Artificial Intelligence is part of our daily lives. It's made its way into our m"
+    publishedDateTime: 2021-02-24T12:21:00Z
+    webUrl: "https://menafn.com/1101648470/Three-Things-That-Artificial-Intelligence-Changes-in-Games"
     type: article
     provider:
-      name: Inter Press Service
-      domain: ipsnews.net
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 37
     images:
-      - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/photo-1511512578047-dfb367046420-1.jpg"
+      - url: "https://menafn.com/updates/pr/2021-02/23/i_3728a7d8-4_Image_In_Body.jpg"
         width: 751
         height: 501
         isCached: true

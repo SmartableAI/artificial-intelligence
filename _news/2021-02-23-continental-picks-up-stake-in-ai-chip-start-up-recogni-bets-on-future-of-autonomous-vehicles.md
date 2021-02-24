@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conti puts its chips on AI start-up"
+    excerpt: "Continental has acquired a minority stake in Recogni, a German-US start-up working on a new chip architecture for AI-based object-recognition in real time. The San Jose, California-based tech firm’s chips are intended for use in Continental’s vehicle computers,"
+    publishedDateTime: 2021-02-24T01:02:00Z
+    webUrl: "https://www.european-rubber-journal.com/news/conti-puts-its-chips-ai-start"
+    type: article
+    provider:
+      name: European Rubber Journal
+      domain: european-rubber-journal.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.european-rubber-journal.com/styles/800x600/s3/800Contiental%20Artificial%20Intelligence.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Autonomous driving: Continental acquires minority stake in AI chip start-up Recogni"
     excerpt: "Need for high-performance processors is growing, with increasing requirements for networked, automated and autonomous driving Production rollout of new ch"
     publishedDateTime: 2021-02-23T13:00:00Z

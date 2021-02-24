@@ -59,6 +59,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-02-24T12:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence market and is anticipated to grow at a CAGR of around 49% in terms of revenue during the forecasting period 2019 to 2026"
+    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. Acumen Research and Consulting, Recently Published Report titled \"Artificial Intelligence (AI) Market Size,"
+    publishedDateTime: 2021-02-24T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-and-is-anticipated-to-grow-at-a-cagr-of-around-49-in-terms-of-revenue-during-the-forecasting-period-2019-to-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ct88wR6ooIhZ/XJbj/TnxDEeYiNcnKtyY3Nxk2+hFG+T7XqIwl99IZ+bZdgOLOiiDXdBxZkIYdQJR1HvHUqGk9b0TmEIGbFHZIfzFu7bHk/NSoq8It538V2Yhhjm0Ikr0N5+Rg/OmwZeVtgklS8s+vWDqEosNEpaD46gElvzRri85MlhXn63m5+jhRnzf/5HD+QMElCHCa3rzjqRa+LY7tjQi8Ly76yf/R/oawL7dgRtbKue2Fz85Q5yXQps4SLWrVIvz2Jacjqzp7yzdpngFMM9YysmcpoLoP44I3dGiayRj5Y6Rgl34TTjT9QVTk+gy+i2XOvmJj0j9fPTG7c62tMgatw49O+UHcCjCWayGIU=;bTghQiS+9coVhTgyd0Jw6Q=="
 ---

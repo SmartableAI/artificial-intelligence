@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "After Facebook and Twitter ban, Trump supporters and extremists turn elsewhere"
+    excerpt: "Banned from mainstream platforms, US conspiracy and supremacist movements have shifted to networks that are more confidential and harder to regulate."
+    publishedDateTime: 2021-02-24T12:41:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/after-facebook-and-twitter-ban-trump-supporters-and-extremists-turn-elsewhere-b5a76e3c-5d01-464e-92ca-626157da6174"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/after-facebook-and-twitter-ban-trump-supporters-and-extremists-turn-elsewhere-b5a76e3c-5d01-464e-92ca-626157da6174"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/after-facebook-and-twitter-ban-trump-supporters-and-extremists-turn-elsewhere-b5a76e3c-5d01-464e-92ca-626157da6174"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 40
+    images:
+      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/332601e2-cefb-5673-9ee4-3b91c2637d08"
+        width: 410
+        height: 230
+        isCached: true
   - title: "After Facebook, Twitter ban, Trump supporters, extremists turn elsewhere"
     excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders; banned from mainstream platforms, US conspiracy theorist and white supremacist movements, many of whom support Donald Trump,"
     publishedDateTime: 2021-02-23T13:00:00Z

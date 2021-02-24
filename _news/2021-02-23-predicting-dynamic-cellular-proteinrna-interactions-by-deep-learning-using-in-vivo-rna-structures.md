@@ -41,6 +41,20 @@ related:
         width: 1027
         height: 1147
         isCached: true
+  - title: "Development of a deep learning-based software for calculating cleansing score in small bowel capsule endoscopy"
+    excerpt: "A standardized small bowel (SB) cleansing scale is currently not available. The aim of this study was to develop an automated calculation software for SB cleansing score using deep learning. Consecutively performed capsule endoscopy cases were enrolled from three hospitals."
+    publishedDateTime: 2021-02-24T11:19:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-81686-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81686-7/MediaObjects/41598_2021_81686_Fig1_HTML.png"
+        width: 685
+        height: 505
+        isCached: true
 
 secured: "2l+yjszUlpvrnwT+1s9CYukoccAlretadOe3axdODlnefW4nxoA7AAG6H9sqqlpSHt/l3Fg6IuF0UiCS7J77zPNKVSLL6zB37JM9iagujWznfqaVkQw7OWObZTd98XHd5b3vI/6kl+ZuDfaM5ybzixJulekoXzOjDlIx/1d6yBfwRWxfgZz3weAsX9PT/BqMOtXF8FyT72pGzJzfaGUD8ImExsMcfuLIgyasL5pAZmUBzktCBa4lyXAl1cFoTO7DVT51KMB4rKJ4PI5fsyaN2zD0F7GBI7m1iIadIh+Edfwe/Iz0WEE42x1Hvw/YUX2TEsjaAUHBrd6B2uGrSHnPhFbU9EVwW2jsD1j6mw02aqA=;MX21E6VUa86JoPjk8zKQjA=="
 ---

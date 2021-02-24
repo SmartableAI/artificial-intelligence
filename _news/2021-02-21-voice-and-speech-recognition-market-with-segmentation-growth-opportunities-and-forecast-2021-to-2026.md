@@ -55,6 +55,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-02-24T12:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence market and is anticipated to grow at a CAGR of around 49% in terms of revenue during the forecasting period 2019 to 2026"
+    excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. Acumen Research and Consulting, Recently Published Report titled \"Artificial Intelligence (AI) Market Size,"
+    publishedDateTime: 2021-02-24T12:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-and-is-anticipated-to-grow-at-a-cagr-of-around-49-in-terms-of-revenue-during-the-forecasting-period-2019-to-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2QhLDFJGofCy6P6FAt0S+M0qt573Bnch1pEJbyHD2dYpcJ5BtBcD4Pwqz/SvPgupxnDFUlhE39DIt2Or9Q+Ryi9MiopW+0yPcOlqRdjPIVii5BA9lwPJ3R+xSAWU3kc3OiSlwX7A7Wg1AQ8QxbhzdOp672tu52SjAzkAG9ozU6r1D+xyce+cnaDs2aTl/P8Y16LItgg86Ki+0i2KE9T/JUZIIxqOgWxlFvI0BNMQEbgQaRPnoe+U/rJ69ahve1BltVHZykoCSsWkhMYuUGQBe0jDTHVWgRZ9bztQJHKjpTC7IL7Ke4LpNdeUKrZM3A61BE9Z/m0KKcgLvjTRDhzzBm93Mc8q1Aq+DwvABYKvgKrJUGqwKYlcRVj4Sj4XMW7iyeAyHFMr6Df8CTljOXs3EhRyGwOBALBVFkURdEGBk4R1QRVEjxKJ8dS2jGroODdpoKwcngkHP2jMkWY8idnRMPxPJMqy1H0MROS66+5EYz4mcDf7pjCeA2UUMnCdWpQbIXPmAa9TYqOaiTnzRQ8Fxg==;CYEO272ip6Fn3gzgc2OWFA=="
 ---

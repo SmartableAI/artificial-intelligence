@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
+    excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
+    publishedDateTime: 2021-02-23T12:24:00Z
+    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 104
+    images:
+      - url: "https://images.wsj.net/im-302017/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "IBM reportedly mulls sale of Watson Health business"
     excerpt: "IBM is reportedly considering a sale of Watson Health, its artificial intelligence-based medical data service, in order to further streamline its business. Talks are at an early stage, according to sources cited in The Wall Street Journal,"
     publishedDateTime: 2021-02-22T11:03:00Z
@@ -40,6 +56,22 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1613989145/itpro/IBMWatsonSign_shutterstock.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "Potential IBM Watson Health Sale Puts Focus on Data Challenges"
+    excerpt: "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems."
+    publishedDateTime: 2021-02-24T12:30:00Z
+    webUrl: "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807?mod=lead_feature_below_a_pos1"
+    ampWebUrl: "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 89
+    images:
+      - url: "https://images.wsj.net/im-302963/social"
+        width: 1280
+        height: 639
         isCached: true
   - title: "App designed to combat malaria Finalist in IBM Watson XPRIZE contest"
     excerpt: "The app is designed to work even in environments in which internet is not always available, as well as on low-cost phones."
@@ -88,20 +120,6 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2021/02/20170315_ibm_watson_health1.jpg"
         width: 960
         height: 420
-        isCached: true
-  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-    publishedDateTime: 2021-02-23T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
     excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
@@ -226,6 +244,20 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
+    excerpt: "Banjo Health , a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
+    publishedDateTime: 2021-02-24T11:31:00Z
+    webUrl: "https://menafn.com/1101648893/Shiva-Kumar-Former-Executive-at-IBMs-Watson-Health-Joining-Banjo-Healths-Board-of-Advisors"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?700397"
+        width: 458
+        height: 250
+        isCached: true
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z
@@ -263,6 +295,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "utBYSPpinrIZh3Xncbuez70bv/8GwsiODqaq9r6MQuYjqG3YE6uhdLeAt9EUoSKiQ/+vWZ3ROG93IeC+3iEAWPlU0WICflG4QHEp4RzZldVRy7IHQGt2xvJRCs11OPX/8vazGmfe70xeJ8cInlwEh00Ygv/4kxZFwxQsnqcf+CrqYcdute9ZIzlyeSH4xN9x5NLMe87V/y2Ir7c1IHXlrrCkRxwdUEpgqXC03rXyDNccgo+OQQQsW5a5oXmyvGEFg9knF05CeYKCuAbsXqblKe+OgObdytILoaFSWfnJnrxpz8RjPQ1CsxMw3U9Sx9FDLepPxX3HovmxbBbn8rtD+iKnfUwTasUIoy2zsotckPY=;FEUsMal3+A7IdYvB0B9k6w=="
+secured: "jnIJeDc5rZBcezXQqpKlqLTL6syXHcqnduE/SvUlQ9sZQ9TQRnHKCPS60WO/yKuEujo5/4Ti6A3bcUIAmjzPtJ/4QLSVIUafUSlkverHxKr3oAVl3K64erL+qfFNV5rjHaT0cvr6gXusvlWWMh78Nk7AWs6WF3f2Fnzd8i8HM3zwuD/gFSxbvpluEnUwET9ODel6QQ2G9d4v1/eB5thXPkgXBlrYIxFSptEJ1kVk8vGUQ6xYD/RNSdNaWPUR5pbuZ3M+mfW+wrdKonIU6cV9//tjYxvF+1XfdT3fU8oq8IvieSw/LEjhTT7FELgsl2YnpgrqxP+242QtBjLDSuZMVqNBj24ULfYsRqTllR+4v0L+V3bquPX3/ceAJh8kp8vmq8w0YcD/SLyOUvNuIIx4ncc71Ny5zOQvSk/ElB1X1PksYnBAcxPbjOvG0ybm7BtU8QaY8/K5cnQ70o3PF8i6+4u2Wo2c31bIfIODrUKMzxVY7eOgrvG2drlL498lRTWyFAW8Q8TvhP6m29jrFTgurQ==;5r3l2gLA3rNDOYFaU2kxeg=="
 ---
 

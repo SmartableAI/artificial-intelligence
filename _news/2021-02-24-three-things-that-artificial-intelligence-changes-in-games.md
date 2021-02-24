@@ -1,24 +1,24 @@
 ---
 category: news
 title: "Three Things That Artificial Intelligence Changes in Games"
-excerpt: "In gaming, the impact of artificial intelligence leads to more authentic experiences. Developers use information gathered through AI to create more realistic games. Artificial intelligence can fit the player’s skill level,"
-publishedDateTime: 2021-02-23T19:44:00Z
-originalUrl: "https://ipsnews.net/business/2021/02/23/three-things-that-artificial-intelligence-changes-in-games/"
-webUrl: "https://ipsnews.net/business/2021/02/23/three-things-that-artificial-intelligence-changes-in-games/"
+excerpt: "ET <a href = target=_blank><br/><img src=' Width='751' Height='501'/><br/><br /> Artificial Intelligence is part of our daily lives. It's made its way into our m"
+publishedDateTime: 2021-02-24T12:21:00Z
+originalUrl: "https://menafn.com/1101648470/Three-Things-That-Artificial-Intelligence-Changes-in-Games"
+webUrl: "https://menafn.com/1101648470/Three-Things-That-Artificial-Intelligence-Changes-in-Games"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Inter Press Service
-  domain: ipsnews.net
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://icrowdnewswire.com/wp-content/uploads/2021/02/photo-1511512578047-dfb367046420-1.jpg"
+  - url: "https://menafn.com/updates/pr/2021-02/23/i_3728a7d8-4_Image_In_Body.jpg"
     width: 751
     height: 501
     isCached: true
@@ -39,6 +39,6 @@ related:
         height: 465
         isCached: true
 
-secured: "kEbrKXlEPm6P5JXNg0bTmg2d1ysQva/V3sSlgpYeKQ2Gh1LZm4hbxyuzNYlLfDgL3uJZbLG54bh3cu6/uqqZ/wijk+NZeTHT/vpx6xYOE5E/F8bHQKhTynT6QE5mWa253pS4Qyz810gtddmVJ/aRfhoVArKW9ftW4nUwm4hnSY34kE6oX2kktcLwrcxcboonU6YLI9qzsOU9ng/aW+vYowJN/9fYuzhFR0GNtmJVmXOxsdeRiQNllPH9PCYHOT1p2Z8vUBaMUqPsYAnwUw0uDO7b2zzTK5TfrcYwLVxXdOSFZVFEHhWwE7ZwRMQI5oMn/Py4DqYZ6rbjZkcuk7pKMf5G03Hgc8K8hmgSvZORIaGElQxl+0h6NkW/InzS0TrJuweN0FqHej5BExbjXzIM6nwcsUcFfc7Uh5PBHbp6s0VS0jfC+S2/QkfqaSUexAhhyDvJcg9b+aP47xcnsMkGH3mEdczcAYcH1LueiB0GsqRIJq7AN96BxBDman6nh0mc7SR/vp05t4fVpxFY8Cqn7Q==;rwS8ts6osn45ivXlHwrNZg=="
+secured: "PxBUVLEjeXI2jF5h+3JN+YoIvJ7YZti9CmAmE43xMI/L0tXnJJ7lFYOGkrMLmcNB2AisV8TgD5dWZeHFq7jUBh8aUtbDvJWS5k+uVAEWEYdKrtx2Rx0aciLl4CJNH1J4U+NwP7jRAVAuwl7KsEcVa9brbpIesoUdtGQkxJhPhQMcwsWarBuPX5XPVSOoNKHgMDEP7ELndV6j95TGiR8LNSdHGs6DNhOjA2rRecPrsPolus64ZPveTGrCVhWRIDTpooAdhDDAIoa8ICPJbOzklvYAlTfIdV+9kCTOqJaSBWyqqERnq72fQZChjw7a0mtNTh692UO41IGkrAas48etUpBhFPRAqaonYtRUexEzqV4=;qmQxG5HEG27AZpNW+/58Dw=="
 ---
 

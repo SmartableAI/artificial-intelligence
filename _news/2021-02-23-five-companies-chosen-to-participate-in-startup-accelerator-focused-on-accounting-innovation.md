@@ -32,7 +32,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/austin-distel-wD1LRb9OeEo-unsplash.jpg"
         width: 1600

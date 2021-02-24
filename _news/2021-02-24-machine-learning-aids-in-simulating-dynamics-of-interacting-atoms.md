@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-inter
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41422-021-00476-y/MediaObjects/41422_2021_476_Fig1_HTML.png"
         width: 472
         height: 685
+        isCached: true
+  - title: "Development of a deep learning-based software for calculating cleansing score in small bowel capsule endoscopy"
+    excerpt: "A standardized small bowel (SB) cleansing scale is currently not available. The aim of this study was to develop an automated calculation software for SB cleansing score using deep learning. Consecutively performed capsule endoscopy cases were enrolled from three hospitals."
+    publishedDateTime: 2021-02-24T11:19:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-81686-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-81686-7/MediaObjects/41598_2021_81686_Fig1_HTML.png"
+        width: 685
+        height: 505
         isCached: true
 
 secured: "QyViZlTLqytq+0FWeV8pyV1ltE4fmklB0Y7abFDB3km2Uzlcg1I1GwHenI/mhQYJaMbV22zg5ll2gohgb3Huh900IHv5Ni8LDr9AkvZxsk83g1EXw/tcYskGw8KFzDdbJ3Db8F8pU/wmFwPWg0/PCiapyyhP3YbQWs2k+2RjO6nxn1gtKtbnMbmvZl2kneC1S6csw1ydpwYH7X9cUMgbFjEaTF7dqfx5t5O9qqueyk5Zk2NoSz7LSx7fmtsK44mbJaula6MqSAoC95g2utKrvgQllGbEklat739+NzMzhu5O2VJjXK7QYTs1meMKNSzXsWyX83xuB9kp0QxPnjodReBPrqGfERWsxXjf3jFYMY10djbDjMUdzIBVUE5R5YPXeCMGOhWPqazfc08wCb8KzrM5GRd6doixRB10PsSi322nPTWnAQHGsbBImVgP5D8W6RxStjeHrPZ7f6EP6IHqQzgmkSRnRIQEmdXEEql8p5aL7a4omdyUmjAp1Hq5aVMEaGhkBfz2Qkp8Fj9C/S3bPA==;2+c1HjuSQxvTesKbQdiHaA=="

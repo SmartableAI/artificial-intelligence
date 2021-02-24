@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/amp/"
 type: article
 quality: 96
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Forbes
@@ -31,137 +31,34 @@ images:
     isCached: true
 
 related:
-  - title: "Google fires Ethical AI lead Margaret Mitchell"
-    excerpt: "Margaret Mitchell was fired today weeks after Google fired Timnit Gebru. A restructure of Google's AI ethics efforts was announced Thursday."
-    publishedDateTime: 2021-02-19T22:35:00Z
-    webUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/"
-    ampWebUrl: "https://venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/google-fires-ethical-ai-lead-margaret-mitchell/amp/"
+  - title: "Google is trying to end the controversy over its Ethical AI team. It’s not going well"
+    excerpt: "Hours after Google tried to turn the page on a months-long controversy over the abrupt departure of one leader of its Ethical AI team, the other leader said she was fired. The announcement quickly sent shockwaves through the artificial intelligence industry."
+    publishedDateTime: 2021-02-20T00:31:00Z
+    webUrl: "https://abc17news.com/money/2021/02/19/google-is-trying-to-end-the-controversy-over-its-ethical-ai-team-its-not-going-well/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: ABC 17 News
+      domain: abc17news.com
+    quality: 49
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/Google_antitrust.jpg?w=1200&strip=all"
+      - url: "https://abc17news.b-cdn.net/abc17news.com/2019/10/Money-web-1024x576.jpg"
         width: 1024
-        height: 683
+        height: 576
         isCached: true
-  - title: "Google fires top AI ethics researcher Margaret Mitchell"
-    excerpt: "Google has fired Margaret Mitchell, the founder and former co-lead of the company’s ethical AI team. Mitchell announced the news via a tweet. Google confirmed Mitchell’s firing in a statement to TechCrunch,"
-    publishedDateTime: 2021-02-19T22:59:00Z
-    webUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/"
-    ampWebUrl: "https://techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/google-fires-top-ai-ethics-researcher-margaret-mitchell/amp/"
+  - title: "Google rethinks how it handles ‘sensitive’ employee exits after controversy over AI researcher’s departure"
+    excerpt: "Google plans to change its approach for handling how certain employees leave the company after finishing a months-long review of the abrupt and"
+    publishedDateTime: 2021-02-20T06:20:00Z
+    webUrl: "https://keyt.com/news/money-and-business/2021/02/19/google-rethinks-how-it-handles-sensitive-employee-exits-after-controversy-over-ai-researchers-departure/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: KEYT
+      domain: keyt.com
+    quality: 21
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/09/google-glitch1.jpg?w=1024"
+      - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
         width: 1024
-        height: 575
+        height: 576
         isCached: true
-  - title: "Google fires top ethical AI expert Margaret Mitchell"
-    excerpt: "Google has fired the co-lead of the company's ethical AI unit, Margaret Mitchell, on the heels of the removal of Timnit Gebru.  Mitchell, an ethical artificial intelligence (AI) expert who has previously worked on machine learning bias,"
-    publishedDateTime: 2021-02-22T11:27:00Z
-    webUrl: "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png"
-        width: 1600
-        height: 1069
-        isCached: true
-  - title: "Google Fires AI Ethics Co-Lead For Questioning the Company’s Ethics"
-    excerpt: "Margaret Mitchell, the former co-lead on the AI ethics team, tweeted on Friday evening that she’d been fired by the internet giant."
-    publishedDateTime: 2021-02-19T23:43:00Z
-    webUrl: "https://observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/"
-    ampWebUrl: "https://observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/amp/"
-    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/02/google-fires-margaret-mitchell-ai-ethics/amp/"
-    type: article
-    provider:
-      name: Observer
-      domain: observer.com
-    quality: 74
-    images:
-      - url: "https://observer.com/wp-content/uploads/sites/2/2020/07/GettyImages-1071952206.jpg?quality=80&strip"
-        width: 5048
-        height: 3366
-        isCached: true
-  - title: "Google fires top AI ethicist"
-    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
-    publishedDateTime: 2021-02-20T02:14:00Z
-    webUrl: "https://www.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
-    ampWebUrl: "https://amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08f11e90-9311-4283-aa5a-c77e685b599e.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Margaret Mitchell: Google fires AI ethics founder"
-    excerpt: "Google has fired the founder and co-head of its artificial intelligence ethics unit, claiming she violated the company's code of conduct."
-    publishedDateTime: 2021-02-20T03:58:00Z
-    webUrl: "https://www.myjoyonline.com/margaret-mitchell-google-fires-ai-ethics-founder/"
-    type: article
-    provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 54
-    images:
-      - url: "https://www.myjoyonline.com/wp-content/uploads/2021/02/117095662_7c1e1076-acc3-49f2-b2a5-900bb9a9f42b.jpg"
-        width: 976
-        height: 549
-        isCached: true
-  - title: "Google fires second AI ethics leader"
-    excerpt: "Google fired staff scientist Margaret Mitchell on Saturday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal. Google said in a statement Mitchell violated the company's code of conduct and security policies by moving electronic files outside the company."
-    publishedDateTime: 2021-02-22T00:46:00Z
-    webUrl: "https://www.itnews.com.au/news/google-fires-second-ai-ethics-leader-561325"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/2021-02-20T022428Z_1_LYNXMPEH1J017_RTROPTP_4_ALPHABET-GOOGLE-RESEARCH.JPG"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Google fires remaining Ethical AI team leader, months after abrupt departure of her colleague"
-    excerpt: "The remaining leader of Google’s Ethical AI team said she was fired on Friday, hours after the company’s top AI executive apologized for its handling of the abrupt departure of Timnit Gebru, her former fellow team leader."
-    publishedDateTime: 2021-02-19T23:42:00Z
-    webUrl: "https://kesq.com/money/2021/02/19/google-fires-remaining-ethical-ai-team-leader-months-after-abrupt-departure-of-her-colleague/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 45
-    images:
-      - url: "https://kesq.com/wp-content/themes/storymate-npg/assets/images/weather-icons/9000_clear_day.png"
-        width: 280
-        height: 360
-        isCached: true
-  - title: "Google fires top AI ethicist"
-    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
-    publishedDateTime: 2021-02-22T22:09:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/22/google-fires-top-ai-ethicist.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "DewW4tYBGFEJCxVA5cISRJ0hS4y0cAObMP6354LGK0DIRxX5Me11imClK/er6llttGPLbBP78I0oiKtxeQ+GY7rItQjtl+rumi2u2hfMD0A+FwmoubK99hsA+k5p9t1yrdEzzGrVGwkIjiMiySD9phx5Hp8fyzqrMmE0StHzsHkQ1xc/50Cyw8PsiKEa5KRnaUOHWJHX2Xsyb1bBCsJ0sppwrA0QYNPcpm9Z4YvfldhBLvWIKSnho/I0X6qsxYbVpgNEyQmkY2pvzxTZLhtfgeuqGlQmNAyx9bux6fLt4nHGqynL9GyfI8GoKYIno13c3nMeT9HL4t9nJRwZqpHqQ5I0rk/sr1kGwcMgdFhIZSVSdiRYYJEj9JPoW02ScJOKVnPGe+A9Incxzg12xF6qDFHUyNg6gHEX/+nIW1kM8HdKSfbHzp2ti0NQn+mma8/pT3Yi+P3ErihAzZpxXtjT2p0ePPCcotKbtrlAhTXJpE4IgwZwMewMTXCthr17E9c869zWq48xph0yOT85StdVjw==;9zsoa7IweJq2gQNnzKPgiw=="
 ---

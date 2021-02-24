@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "CBP face biometrics catch two imposters at airports in Canada"
-    excerpt: "A pair of imposters have been detected by the U.S. Customs and Border Protection face biometric technology at Preclearance locations in Canada."
-    publishedDateTime: 2021-02-19T20:33:00Z
-    webUrl: "https://www.biometricupdate.com/202102/cbp-face-biometrics-catch-two-imposters-at-airports-in-canada"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
-        width: 730
-        height: 499
-        isCached: true
 
 secured: "rFRhVAVyIKKG+E59qWS/ns3GIKcgMue0HqSwNsl8WhU+pTIOQN47QriWOihVMWcjCsMrA6hugBk59WKi/e4jM049FBcVUsyi84in9a4/C+5W+xDn/+S0yf3St4vz7OWmhNypUbUg1SMJp6GhdW4c5ASp7S5c2NF51vSozvXeD/+Udd/SmFNDY6D1yNSxBqKldREA4i42vHzN3hmMF0QkbEutoT0Vq6PcOPmsjTyT9/HGlbr9Q8Are1uC1SUdW/upVoycTkY+xLzODxvhx2WIYGtL66E9jnxV64KUf3TLEeEO8tYm6ouU8EHqU8UShZPHPAASvubif4USrIxJ8D/TGtynI4BvcJqo+outnGH1a8zzazIyjPwlYRV1s5qn+LR2J/lvUmyr7exxxvrv7GK6ShsGtGT73hbiDGbXKhD9VWQrOzfxIw8VGkj5W4U8do/C1ctGx6VBPQWg0L8gtsQbu7D/IWHvG3OoFxcquETPvVVj+meCAwGEVoSihgqYygSqnB6nFPZqaJXbGYLiJHwRiw==;h6VDLRSy7Wu8MPXmYjK6IQ=="
 ---

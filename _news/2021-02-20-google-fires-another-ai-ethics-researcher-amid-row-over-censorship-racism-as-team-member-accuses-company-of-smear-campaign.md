@@ -27,54 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google has fired another AI ethics researcher for what it says were 'multiple violations' of its rules"
-    excerpt: "Google has fired Margaret Mitchell, former co-lead of its ethical AI team and colleague of Timnit Gebru."
-    publishedDateTime: 2021-02-19T22:40:00Z
-    webUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-fires-ai-ethics-researcher-margaret-mitchell-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/603036c1623bd30012bcc557?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim"
-    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
-    publishedDateTime: 2021-02-20T04:51:00Z
-    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 76
-    images:
-      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims"
-    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
-    publishedDateTime: 2021-02-20T07:39:00Z
-    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349"
-    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    type: article
-    provider:
-      name: Sky
-      domain: sky.com
-    quality: 70
-    images:
-      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google fires AI manager who protested her peer’s departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
     publishedDateTime: 2021-02-20T01:19:00Z
@@ -91,19 +43,21 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Google fires another ethics scientist"
-    excerpt: "Battle of Essex ethics Google appears to have fired scientist Margaret Mitchell after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
-    publishedDateTime: 2021-02-23T22:37:00Z
-    webUrl: "https://www.fudzilla.com/news/52401-googles-fires-another-ethics-scientist"
+  - title: "Google fires AI manager who protested her peer's departure"
+    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
+    publishedDateTime: 2021-02-20T16:53:00Z
+    webUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.html"
+    ampWebUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01b41bc70cd698d6a5ba960b9c460f60_L.jpg"
-        width: 620
-        height: 415
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/googlehasfir.jpg"
+        width: 1024
+        height: 681
         isCached: true
 
 secured: "7xDXab5X8o77ij5QlbcB0gyKbl9NUEc5YzmBkHrV4gXbDJTPKiXUXV4DgsmkQvnFm9Hdg/15ER5d1lnm54vKmOZ/8qQ74vFbbMEvOwmxs1z3LKihVhveWZEmNyTMql09QcHpLY470bR5jdh+r7igmrQTsFTxuZQEZn9SbxR17sjdkyqaW+kfi5/NRGzKM844ofPP50ZakWECqFHCsKbFpBmob697ZXwgR5RFaHcFcnWmcATm/Qt1pRt/g/U2sKGa4LUMYBsWDjtJyqx6oLwwF2QeSsjOA+envosTTm0Vyj7vLF2tUV3u23zErm6mPxs27/99SM2rEJpmjeFBTxdFLC1zMAQYV3PFMNSZZO1Bqdc=;qhntSFYD+TxSq+qvIuRa3w=="

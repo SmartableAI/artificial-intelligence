@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-05-gomoxies-see-ai-wins-industry-accolades.md",
+      "title": "goMoxie’s SEE (AI) Wins Industry Accolades",
+      "excerpt": "Moxie®, the leading provider of customer guidance solutions, today announced that its solution, SEETM , an AI solution that delivers actionable insi",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "originalUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-speech-and-voice-recognition-market.md",
       "title": "Speech and Voice Recognition Market",
       "excerpt": "Verified Market Research offers a comprehensive analysis Report Study of the Global Speech and Voice Recognition market where users can benefit from market research reports complete with all ...",
@@ -1364,49 +1398,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-global-natural-language-processing-in-bfsi-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2025.md",
-      "title": "Global Natural Language Processing in BFSI Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2025",
-      "excerpt": "Wiseguyreports.Com Adds ' Natural Language Processing in BFSI - Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2025 To Its Research Database. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101496919/Global-Natural-Language-Processing-in-BFSI-Market-2020-Segmentation-Demand-Growth-Trend-Opportunity-and-Forecast-to-2025",
-      "originalUrl": "https://menafn.com/1101496919/Global-Natural-Language-Processing-in-BFSI-Market-2020-Segmentation-Demand-Growth-Trend-Opportunity-and-Forecast-to-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T15:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],
