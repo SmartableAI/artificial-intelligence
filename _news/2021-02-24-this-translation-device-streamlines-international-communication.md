@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/business/article/This-Translation
 webUrl: "https://www.stamfordadvocate.com/business/article/This-Translation-Device-Streamlines-International-15971934.php"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Cuba's victory at the United Nations garners international recognition"
-    excerpt: "Cuba´s overwhelming victory at the UN General Assembly with the passing of the resolution demanding the end of the US blockade, has elicited international recognition."
-    publishedDateTime: 2021-02-23T21:43:00Z
-    webUrl: "https://www.radiohc.cu/en/noticias/nacionales/207028-cubas-victory-at-the-united-nations-garners-international-recognition"
+  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
+    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
+    publishedDateTime: 2021-02-23T14:57:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
     type: article
     provider:
-      name: Radio Havana Cuba
-      domain: radiohc.cu
-    quality: 24
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
     images:
-      - url: "https://www.radiohc.cu/articles/1533-victoria-cuba.png"
-        width: 790
-        height: 400
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
         isCached: true
-  - title: "The two schools will face their Geelong rivals in recognition of International Women's Day"
-    excerpt: "St Patrick's and Loreto College will play against St Joseph's and Sacred Heart College respectively next Tuesday at GMHBA Stadium, Geelong."
-    publishedDateTime: 2021-02-23T06:00:00Z
-    webUrl: "https://www.thecourier.com.au/story/7138348/st-patricks-and-loreto-college-to-battle-geelong-schools-video/"
-    type: article
-    provider:
-      name: The Courier
-      domain: thecourier.com.au
-    quality: 0
 
 secured: "8jHgwqOuHwAS1L5vETYVKjYyytJ7hstTRRMasOSN58iJWwVqxXUhkNxEJqmAGp1Kj1G70CpGP7798fn7CzVn/EBMtpTZFzzqJ2v19ndWT34D98pCMSEmm/M8iStxD5NURFjdfyDn+86mYI8F+vNm7f1QCoeJCwhMjfZrA1k/Z8k/ftrga1PscsStkR0mpZUHWYqi7La8fYXYryViEzJzp1q97CBSY7Er3mU9f1ljVl82SlM5l9xQJ5Ptc33Mes2Z93kqmkTbExNLJ0Nq3bONnXcGD1iw2qZ6qZgitOTagzuezv47wy1zs+OKdTdjknsTuJT0q1gXhWfHfaNPveM1qZSBe7WiZvlVElcoIiY3qE9DYeV14lUE2sOwm/o1AG1L5PoN7kO+cvXEPMQY1KRcvk5oIXdb81GTyCpiQtzj+R3kv53LTRQrIAV5+E3gHCmj/Bi/Sc6TbSGO8CArO3YMyuPuI85YY4eYZKoFyCf+ptbaNYNlwCSEn/amCDBZguz3cNk+XDa8GrF/p2bKADWx5g==;90EzXq4YY2nBcLB2yeu2SQ=="
 ---

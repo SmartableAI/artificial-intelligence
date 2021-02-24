@@ -7,7 +7,7 @@ originalUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding
 webUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding-rounds-announced-this-feb-2021/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks"
+    excerpt: "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost."
+    publishedDateTime: 2021-02-23T17:28:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 52
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Astra Launches Automated Bank Transfer API for Financial Institutions and Fintech Companies"
+    excerpt: "Astra, a technology company that offers advanced bank-to-bank transfer solutions, today announced the official release of its transfer automation platform designed for financial institutions and fintech companies."
+    publishedDateTime: 2021-02-23T14:27:00Z
+    webUrl: "https://www.lelezard.com/en/news-19664367.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Fintech App Development Trends For 2021 You Should Know About"
     excerpt: "Finance technology is popularly known as Fintech. It is an integration of finance and technology to support the financial jargons"
     publishedDateTime: 2021-02-22T13:29:00Z
@@ -39,6 +69,17 @@ related:
         width: 770
         height: 385
         isCached: true
+  - title: "UK government set to offer fintech visa"
+    excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
+    publishedDateTime: 2021-02-22T17:13:00Z
+    webUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa"
+    ampWebUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
   - title: "Fintech Industry in Israel Acquired Nearly 25% of Technology Sector Funding in Country, Driven by Speculative Valuations"
     excerpt: "Fintech industry in Israel acquired nearly 25% of technology sector funding in country, driven by speculative valuations."
     publishedDateTime: 2021-02-21T20:13:00Z
@@ -55,6 +96,20 @@ related:
         width: 600
         height: 495
         isCached: true
+  - title: "QCB planning to launch regulatory sandbox for entities to test fintech solutions"
+    excerpt: "The Qatar Central Bank (QCB) is planning to launch its regulatory sandbox this year, which offers a safe and controlled space for entities to test out their fintech solutions under relaxed regulatory requirements."
+    publishedDateTime: 2021-02-22T18:40:00Z
+    webUrl: "https://www.gulf-times.com/story/685266/QCB-planning-to-launch-regulatory-sandbox-for-enti"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/2202122214050832215144.jpg"
+        width: 620
+        height: 355
+        isCached: true
   - title: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
     excerpt: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
     publishedDateTime: 2021-02-22T00:17:00Z
@@ -70,20 +125,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Fintech-industry-in-Israel-acquired-nearly-25-of-it-Technology.jpeg"
         width: 1280
         height: 1055
-        isCached: true
-  - title: "VC Investment in Fintech More Than Doubles in Second Half of 2020 – Expected to Remain Strong Into 2021, According to KPMG’s Pulse of Fintech"
-    excerpt: "Global fintech investment was US$105 billion in 2020 – the third highest annual total ever thanks to strong VC investment throughout the yearUS$71.9 billion in fintech investment (M&A, PE, and VC) in H2’20,"
-    publishedDateTime: 2021-02-23T05:14:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=425938"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 4
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "ZkRaq3xrQ67vEqsK1jd+HfSGHiXEpWKw9BR7fd/IK9VCtsMze/ownwUFq8+Nseit6aeVdjdA1JfmTqCZ/utaXJyMh5fIdWnG2xeUNQJDFKWQpgfUQGPsP2iBbuEbp8zGkPecj4X5Q4+gxUNzSStim3E3DdMMTg2lHaiQbc4NQyd9rTHHBpK1V6xXEuZUuCkoizIYWHx9d3GUARc5CzhnSM2PpCfmqGOU3qBm5TVF7MjqWyAOJLIbi5TfqgL+HhR9OsI4MWoMEZl5j+Qxs8sKTrUo8+ASzyv6UpmD77ToR+eZcEHK5CSMvNOpIMloWRkpn8nMoYsAh4nZQCmQpmRZIb6JEVp8rlIfbwpdmUj35p6JEwAeDUIba1il8KrdMVVZFXhfEh/mIhCp6dK8BzXb78ByE30cQ568WdvkKOWGU5KxyC1VYcZUnucxR/O91Q2wjG8KkZwLYxvFGjCxCCLpxdXqXEgEjLWdSfjDiVOl+HrmNHZshh5E/lUQZkiJ3Y2aLii6ZHJG+lLbdPH18vmPxA==;BRQyKnVn7oxlXEBGUHt9GA=="

@@ -1,34 +1,22 @@
 ---
 category: news
-title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
-excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
-publishedDateTime: 2021-02-20T16:46:00Z
-originalUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
+title: "IBM’s retreat from Watson highlights broader AI struggles in health"
+excerpt: "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ..."
+publishedDateTime: 2021-02-21T04:09:00Z
+originalUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48"
+webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48"
 type: article
-quality: 204
-heat: 374
-published: true
+quality: 34
+heat: -1
+published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
-  - AI
   - IBM AI
-
-images:
-  - url: "https://images.wsj.net/im-301391/social"
-    width: 1280
-    height: 640
-    isCached: true
+  - AI
 
 related:
   - title: "IBM reportedly mulls sale of Watson Health business"
@@ -223,6 +211,20 @@ related:
         width: 620
         height: 432
         isCached: true
+  - title: "Will IBM Sell Off Watson?"
+    excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."
+    publishedDateTime: 2021-02-24T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/will-ibm-sell-off-watson/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/carson-masterson-0mXw-dvuLok-unsplash.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z
@@ -260,6 +262,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "6gDsi8ROTtyVpNmmnqzeWLvzYoud2IuGYwHpZRMNQwXsC4rvg0eo4G7bJp3dmBGLLbpg60zIMEE3gnp/+exdK9FpGsmYb+Ql0f6T7ZR0WQ7dgFKY+20a+8xZeYWa+zng4mQOIVwuBgmTcAL8XMyWBGRG5TxKRmaM4ThbtzpKWJ6OeAai3Of6pdDzpoSsVS7u4TqxRxQfIW5kmrz1A4GO+KROrtz0gEd7tW4Xb21mbcdbcp2D2e34xHNtZ007X+VtthaGGpXFWviFHYqLRblq533uEs0/T5Me9Ns3CMuuXxaxsZcQqBqo7xmHfirrEEcZyyX1SzBkF8aT9VRdR5CwW1ZbD8YqOWKJZ6IggpVXYYzBc7BxnVSrIOmxrWHnKNaOwciY07u3eidhAphZ9cdELR85wYRZl+vs32lC1EwOI3413uWeP2Wi/XDCNOUjeKXVmoR0vi1KcvF/cW5gULYHO2w6Xa2UNAQrxTV99XRwN71wv7fIsVAZcUJpANeML+EcuiPRSEhHVMySzVvfgs6rqEaekxRfLGwASC/2LyoksVs=;Fp0wk1uqZqIEqFWSgNHt1A=="
+secured: "WE5b8bvF9pk5WiDnvuMzDSer9iLk60j6l5eo2+1eYpoLbHFc2fAZEr7X6T4HYxovO1u+rNpaUIAEmXUJ4Fq08MG3nUAq2JYqAx0mExZhbYwzdAKICictEOkW8q1oK7YMePcRej6unR5HXZ7ssKPz1to+tRzLeEdXWXuXaCrIELlUTF+hQIALSTw5vDOUD1zQ4GLoz2NdbDRUayMey32CHMrLmhQPEjEaebuZptYjEByzsQTTvU8wFU/LmNjdX2A1d6zyrmhikFpsx6fJ4MzKr42ZoYzCcRm+AHBAIix89ZSvhvYPLm8o02TQJdO4Wrkbh1MAC3xr8HbZjbbrPybUI2BMyHVbRUiY37zTd6ZaYVo=;uV41IbT70XgYDoD5aCP0eA=="
 ---
 

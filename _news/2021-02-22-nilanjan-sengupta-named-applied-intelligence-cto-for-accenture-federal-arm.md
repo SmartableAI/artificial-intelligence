@@ -34,31 +34,6 @@ related:
         width: 546
         height: 312
         isCached: true
-  - title: "UK government set to offer fintech visa"
-    excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
-    publishedDateTime: 2021-02-22T17:13:00Z
-    webUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa"
-    ampWebUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-  - title: "QCB planning to launch regulatory sandbox for entities to test fintech solutions"
-    excerpt: "The Qatar Central Bank (QCB) is planning to launch its regulatory sandbox this year, which offers a safe and controlled space for entities to test out their fintech solutions under relaxed regulatory requirements."
-    publishedDateTime: 2021-02-22T18:40:00Z
-    webUrl: "https://www.gulf-times.com/story/685266/QCB-planning-to-launch-regulatory-sandbox-for-enti"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 19
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/2202122214050832215144.jpg"
-        width: 620
-        height: 355
-        isCached: true
 
 secured: "Mg8VSvBleESgSaamHfkVleqxOibL1qm1ZUpcv5NlrdfG052e0QF8zZ5y9U7YrXbcAoaOsZ3wJVNcum03PtooBxDd/iUU3HjeS7eA4E0LSri9SAPIrVDrnsYrvgtyZ7NPqkCe/u3c60kHDbNZ7qG0kGifpvn4F1F3t1K+cmXCtcncIkbZwMQJ/0TDebY9+aqobXPqFhXVKF9hUoxHPQ79bhPwIOsiGW8gd5IkS3HV4QiUOUVURZNphm+pEwlnmhoHVss1LNblD9F4dOaG6SHFiM1ZFe7Evy+C2SHykZKxgkRE7pk1WXQvtN6znwcCHDMKfBuT7uiArqYF+ePsoB+KDpOvbU1nWagIJ4i4dD/o65Q=;2Wwbs9VeL8vsxHdAfQ5wyA=="
 ---

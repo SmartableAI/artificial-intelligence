@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Perseverance rover successfully lands on Mars, a key step in NASA’s search for signs of life"
-    excerpt: "NASA’s newest robotic explorer has landed safely on Mars after a nearly 300 million-mile journey that began on a Florida launch pad."
-    publishedDateTime: 2021-02-19T17:23:34Z
-    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
-    type: article
-    provider:
-      name: enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/
-      domain: enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/
-    quality: 111
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "P0mDKAfoaUfsPpPZY0aI9/Eu/HbQJ6OKygXb5c5T+QCIRYg4nv5OhmOuCgRFHUU1TZQ8TerQAVujI34DxJSNCPRYgaQnr0ejy5mfafFl27D5kkV897MNekjgfndf0fwUa9FNDVPV+ZhN7G3kSXSXJLqXVNtjpbx0T9sXvq0imr+YtQvnakRUWpTOQ9fjWz+gQvQW0gHpbGDtzZOPT+0QwcFKSbAYJ3/IEvot4BCB/nNRaM+BMlWTf8uhg8+A4ZVmEOfpFOMck2EKfkt7nbBA6AGuVAuDUwsG+ZYmJr7nMOShHzDC4b6F72zXQfyaw6Hns72meRiNVpNu7eyV1yRibNqa7EF9oNY4/MsavuMfbtE=;o8jLviD5+EpMODjS5MsxRA=="
 ---

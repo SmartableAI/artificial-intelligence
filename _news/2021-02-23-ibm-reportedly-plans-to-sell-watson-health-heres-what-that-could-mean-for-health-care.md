@@ -20,22 +20,6 @@ topics:
   - IBM AI
 
 related:
-  - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
-    excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
-    publishedDateTime: 2021-02-20T16:46:00Z
-    webUrl: "https://www.wsj.com/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 204
-    images:
-      - url: "https://images.wsj.net/im-301391/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "IBM reportedly mulls sale of Watson Health business"
     excerpt: "IBM is reportedly considering a sale of Watson Health, its artificial intelligence-based medical data service, in order to further streamline its business. Talks are at an early stage, according to sources cited in The Wall Street Journal,"
     publishedDateTime: 2021-02-22T11:03:00Z
@@ -228,6 +212,29 @@ related:
         width: 620
         height: 432
         isCached: true
+  - title: "Will IBM Sell Off Watson?"
+    excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."
+    publishedDateTime: 2021-02-24T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/will-ibm-sell-off-watson/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/carson-masterson-0mXw-dvuLok-unsplash.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "IBM’s retreat from Watson highlights broader AI struggles in health"
+    excerpt: "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ..."
+    publishedDateTime: 2021-02-21T04:09:00Z
+    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z

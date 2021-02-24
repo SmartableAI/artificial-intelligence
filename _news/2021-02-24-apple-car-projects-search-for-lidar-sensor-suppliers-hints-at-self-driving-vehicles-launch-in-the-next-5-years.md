@@ -36,38 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Bloomberg: Apple searching for next-gen LiDAR supplier for self-driving car"
-    excerpt: "As we continue to learn more about Apple Car progress, some fresh tidbits have been shared today in a Bloomberg report. Apple is working on the important step of finding a supplier for cutting-edge LiDAR sensors that will be key for the autonomous aspect of the company’s electric vehicle."
-    publishedDateTime: 2021-02-19T17:11:00Z
-    webUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/"
-    ampWebUrl: "https://9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/19/apple-looking-for-next-gen-lidar-for-autonomous-electric-vehicle/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 42
-    images:
-      - url: "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/04/apple-car-project-titan-lidar-2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Apple in talks to buy self-driving sensors, a key step in autonomous-car plan"
-    excerpt: "As it’s done with the iPhone, Apple is looking to outside vendors to supply critical hardware for a planned autonomous vehicle."
-    publishedDateTime: 2021-02-19T17:21:00Z
-    webUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan"
-    ampWebUrl: "https://www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-02-19/apple-talks-to-buy-self-driving-sensors-car-plan?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 41
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/199bf7f/2147483647/strip/true/crop/5000x3266+0+33/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff7%2Fd1%2F3b625d0541e1a7adeb980b3071a2%2Faustralia-digital-platforms-77751.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
     excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
     publishedDateTime: 2021-02-20T01:39:00Z
@@ -82,33 +50,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Apple in Discussions With Suppliers for Lidar"
-    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-    publishedDateTime: 2021-02-19T18:45:00Z
-    webUrl: "https://www.ttnews.com/articles/apple-discussions-suppliers-lidar"
+  - title: "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan"
+    excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence algorithms ... Alphabet Inc.’s Waymo unit and General Motors ..."
+    publishedDateTime: 2021-02-19T19:40:00Z
+    webUrl: "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
+      name: BloombergQuint
+      domain: bloombergquint.com
     quality: 24
     images:
-      - url: "https://h7f7z2r7.stackpathcdn.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/apple-1200.jpg?itok=QBUNIs5X"
-        width: 470
-        height: 246
-        isCached: true
-  - title: "Apple in talks to buy self-driving sensors, key step in car plan"
-    excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
-    publishedDateTime: 2021-02-20T00:02:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg"
-        width: 1240
-        height: 827
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Apple in-talks with LiDAR suppliers for self-driving car"
     excerpt: "Apple is reportedly in discussions with LiDAR sensor suppliers for its self-driving car project. The report is by Bloomberg, and it states that the"

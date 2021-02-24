@@ -257,19 +257,19 @@
     {
       "path": "_news/2021-02-05-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
       "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
-      "excerpt": "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ...",
+      "excerpt": "Jeff Bezos has been Amazon's CEO since its founding in 1995. He will remain as Amazon's executive chairman with AWS CEO Andy Jassy as his successor.",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
+      "webUrl": "https://www.waaytv.com/content/national/573729632.html",
+      "originalUrl": "https://www.waaytv.com/content/national/573729632.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210203034029-jeff-bezos-andy-jassy-split-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png",
+          "width": 640,
+          "height": 380,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -277,23 +277,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html",
-      "publishedDateTime": "2021-02-04T15:46:00-08:00",
+      "ampWebUrl": "http://www.waaytv.com/templates/AMP?contentID=573729632",
+      "cdnAmpWebUrl": "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=573729632",
+      "publishedDateTime": "2021-02-04T11:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WAAY-TV",
+        "domain": "waaytv.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

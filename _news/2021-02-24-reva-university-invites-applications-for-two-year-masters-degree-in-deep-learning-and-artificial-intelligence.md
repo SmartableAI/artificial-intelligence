@@ -8,7 +8,7 @@ webUrl: "https://www.dqindia.com/reva-university-invites-applications-two-year-m
 ampWebUrl: "https://www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/amp/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 
 images:
   - url: "https://www.dqindia.com/wp-content/uploads/2021/01/circuits-5896293_640.jpg"
@@ -86,6 +87,6 @@ related:
         height: 600
         isCached: true
 
-secured: "T3hMHECmgrBXGeirz9zLqEj/Z/Tps/qEoBOf1WW7d5gnRdY3QzRYEG4SFhdihQslArREFecrVU50qxLIdFtr1G6X+EU57luhkt4y3WzaTmK/YarrY27I6c7wniXmB9a7Qp+nyvfq1XjyzYiE82cHDxz833kl/XQpcFFoXT048SlwsQ9n4KYyuWIF80GBoPommTQkw2fvOMhKrMW1C2gAcWhrmYpFYU0OdJCVz7yp6ek8tzBO5UlQ7KMHKNYsfmy0R7U4MJosHZO4ySh/+YNqjhfOCjz5ugKEmD8RPxBCU3RQyqGWAWdV8gbkIoLGO3oqbMI3EBtrWsj8NgfDx8XjZnc83DBQ9R7sVdFmVgHjzFY=;CaNC0osZzfi37ddnF7qvWQ=="
+secured: "cCkonV7JnThZAVtedIw0wzzQJ/kfrq1J/F6xrmGggGFdK+d3mBbMe3IKDG3z4FZCkOJn7akMUNbziQwObatKVlYv0+MWTywfWYzFMaA1aE0k+KITbovvd3iC2ZaG9/4sclWZU7zV3z/FJWbvewGiAvMoJ/TzrXnx4CaIV7eI8w0GR+Ukp1yYbThoebS1MnYvzc9F2/Y/MCEyGRUH5bv3QJhdOw70+Q4k0Cpdpz6G1CFK6RAJxPlSVWOGaEl+s/jPX+6eCe3+yK+UJ3LB4/XqH2nwq1NcZIwLplO2t35q4FzKCmqCKPAnrdWZ9TgM7v/GzJcMHY8eB0cR/3aKFxWQa4TMq9BGeg7NfqujVL1ZLwk9N19x3IfBPU6M2kUy6c2GBPYRAIenj/tI2kOVChQTmjyK5hcrtknNWreQpAt2JCoijtkr2K0SIkU9AR3qv0cETZ2ZEbjp++AFNKI5tmLy+QKfiAYN4RmkYrVEVN/WdcHuj+ooQi71emjrXH3/KvTdo+zgGrRmVfVrVibW0Rayjw==;NbJjQp/Vvjv/+q2KVndg3g=="
 ---
 

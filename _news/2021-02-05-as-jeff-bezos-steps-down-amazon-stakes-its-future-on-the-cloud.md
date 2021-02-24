@@ -1,32 +1,28 @@
 ---
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
-excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-publishedDateTime: 2021-02-04T23:46:00Z
-originalUrl: "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
-webUrl: "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
+excerpt: "Jeff Bezos has been Amazon's CEO since its founding in 1995. He will remain as Amazon's executive chairman with AWS CEO Andy Jassy as his successor."
+publishedDateTime: 2021-02-04T19:11:00Z
+originalUrl: "https://www.waaytv.com/content/national/573729632.html"
+webUrl: "https://www.waaytv.com/content/national/573729632.html"
+ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=573729632"
+cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=573729632"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WAAY-TV
+  domain: waaytv.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203034029-jeff-bezos-andy-jassy-split-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
+    width: 640
+    height: 380
     isCached: true
 
-secured: "Ll47BL5IJPFMXqn6WUbT26ad3STr7Tc0znJWTYPUXvjhxun8varkvbBBcZIPneBdage4ftV7sB0B8hRq1DHLHhsHDnZjiBVLnE7Nl3jTq2qHLoWL3dECyY4VCh2f194MzqyPYIa+c7lVXxiS94rKhLiV8LogL/Hx2KZIKQVct7AUkjqEPmt5Yle+Z9ATZLd3k1tGswq/ZhSthCL4CjD+5sZdetAwpliCnl+vh+xj8SbWDbaWKliqAWuchMtu2mGoSZ0wMiCBiIl27Zy/BRDI29wO9p4JNX5IFw7kMsZrviM3MakeaKgED3OOuGBG4fpV1UagzYxBgGNEU+5OJ3WypLFiWcrzTDFm9pRHvrlhIkM=;5s2BvHmzHbLvjVIlyIDVEQ=="
+secured: "9jh49XJ9ZFqJxy+zHduLoObsB9OF3Jxxz6IZtW9bFViT8lkPIPS4LJMJW08YhmwUi88gn3djyU4m2VNS02RVnr93zBxN3H2dXujABCf7T09ZCww5D9jmaAS5GkK794CeFKs7tAsNTMCgfsxaVyMCx9rQ9bcQ+L9GPhVp0ASxLNUlOGa3+ZqP2vzRzH7LkHhx/GlhaBWz4TL/0wtRfqJCIdpKS6xwZMBSJMLj6oG3R5p+T/FOuP8MHDcQKftRH32hII6yy8S30neHs6rtGmpLpwhpUpi6FZhc2daK6ZTXhVAlgsDzIdGFO3bl8sgRaZfXWAc0m3SG1JfaM5W7ws6GxZKee15kDSDAAwpovjJo59c=;9n4ICgTX2AsOTKVbZduPxQ=="
 ---
 

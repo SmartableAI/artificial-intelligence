@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
+    excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-02-24T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-industry-size-business-opportunities-top-key-players-and-global-analysis-by-forecast-to-2027-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ZBWB9yojwVB+ZNS4nS/ugG6sKSJlpwcIlR9XXEAQDPr7ykWX6fhb+nDS/ZljhQ+YU+ALic4VQvFTbQB7OxaHS9t2vt256kVZpIhVFwKPKpsonVRjBGxQrMOnJQO8m7dqz3o/HpiC4pQJX7BU/eKuodaW4EZ5oTcBRvzxvhb53Pl65js3E1ZM5/CUtEsyFb3qXlzIhwRuENoRPz7SpzjBtH1G7mCasfh3sTFNH4CLiL5cal+ExXVEFBQGZl46FbrcnnoikeHISs41P6zW3vWI4IR3i4FaX8YgdIScWiSk3aQO3BGqGaKCiH6EO0bQ+17h3/I06UOHfs45nZWrZyUWEHAh+53Muy2BNcCV0GdmbCs=;3qiTOn9MHaFhPd54rfKgqg=="
 ---

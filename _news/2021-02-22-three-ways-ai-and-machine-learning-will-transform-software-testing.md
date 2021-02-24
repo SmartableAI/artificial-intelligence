@@ -65,7 +65,7 @@ related:
     provider:
       name: Dataquest
       domain: dqindia.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/01/circuits-5896293_640.jpg"
         width: 640

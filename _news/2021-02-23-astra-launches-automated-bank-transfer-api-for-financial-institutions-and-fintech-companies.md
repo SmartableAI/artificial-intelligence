@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech companies must balance the pursuit of profit against ethical data usage"
-    excerpt: "Big Tech has written the playbook for what not to do with our data, while also laying a framework for how to build exceptional experiences."
-    publishedDateTime: 2021-02-19T17:18:00Z
-    webUrl: "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/"
-    ampWebUrl: "https://techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/19/fintech-companies-must-balance-the-pursuit-of-profit-against-ethical-data-usage/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 102
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-172655016.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks"
     excerpt: "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost."
     publishedDateTime: 2021-02-23T17:28:00Z
@@ -56,6 +40,91 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg"
         width: 457
         height: 274
+        isCached: true
+  - title: "5 top Indian FinTech funding rounds announced this Feb 2021"
+    excerpt: "The Indian FinTech sector witnessed interesting funding announcements this 021. Digital payments have been instrumental."
+    publishedDateTime: 2021-02-22T12:19:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding-rounds-announced-this-feb-2021/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/fintech-malaysia-1-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Fintech App Development Trends For 2021 You Should Know About"
+    excerpt: "Finance technology is popularly known as Fintech. It is an integration of finance and technology to support the financial jargons"
+    publishedDateTime: 2021-02-22T13:29:00Z
+    webUrl: "https://www.techbooky.com/fintech-app-trends-2021/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 24
+    images:
+      - url: "https://www.techbooky.com/wp-content/uploads/2021/02/Fintech-App-Development-Trends-For-2021.png"
+        width: 770
+        height: 385
+        isCached: true
+  - title: "UK government set to offer fintech visa"
+    excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
+    publishedDateTime: 2021-02-22T17:13:00Z
+    webUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa"
+    ampWebUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+  - title: "Fintech Industry in Israel Acquired Nearly 25% of Technology Sector Funding in Country, Driven by Speculative Valuations"
+    excerpt: "Fintech industry in Israel acquired nearly 25% of technology sector funding in country, driven by speculative valuations."
+    publishedDateTime: 2021-02-21T20:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fintech-Calling-Tel-Aviv-Israel-Fintech-Week-600x495.jpeg"
+        width: 600
+        height: 495
+        isCached: true
+  - title: "QCB planning to launch regulatory sandbox for entities to test fintech solutions"
+    excerpt: "The Qatar Central Bank (QCB) is planning to launch its regulatory sandbox this year, which offers a safe and controlled space for entities to test out their fintech solutions under relaxed regulatory requirements."
+    publishedDateTime: 2021-02-22T18:40:00Z
+    webUrl: "https://www.gulf-times.com/story/685266/QCB-planning-to-launch-regulatory-sandbox-for-enti"
+    type: article
+    provider:
+      name: Gulf Times
+      domain: gulf-times.com
+    quality: 19
+    images:
+      - url: "https://img.gulf-times.com/Content/Upload/Slider/2202122214050832215144.jpg"
+        width: 620
+        height: 355
+        isCached: true
+  - title: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
+    excerpt: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
+    publishedDateTime: 2021-02-22T00:17:00Z
+    webUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 16
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Fintech-industry-in-Israel-acquired-nearly-25-of-it-Technology.jpeg"
+        width: 1280
+        height: 1055
         isCached: true
 
 secured: "iY71UVcsNp2G7snWNWDZQqSIGsAvYq07f4VFnohB5StKaMz6v0YB0fKfyuFHU8ZnYp25IQKeQAb2tBLp5/1dFi72mYAf5bgfFbJto6WPAOCQ8dw/KSklgHayOJdhvuL8rp3QwpwG53w7ra36VG3CM1R3fSJp5sRIVcLLW5edYSBQTBpLP2rwNrzREtTAQMsCJQ92OdRAye3HfF9+H3+7vYN0NCGZik3BxML59pb90XnwgBi6eXszLpCyapMCVX/NFm4zIF5XAnfFDF9O61JSSmpptX2KWY6cesXOv2fHdbqrRFdDcZWvunn935CnFT584owgIEOWEvJD1TfROG9LGE3WAPZpQhwkr+Xzfqh3pyI=;zvzq9e/RFg7KalRGjkMIww=="

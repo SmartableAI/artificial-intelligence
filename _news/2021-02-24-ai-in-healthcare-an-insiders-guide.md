@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/googl
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -69,15 +69,6 @@ related:
         width: 400
         height: 248
         isCached: true
-  - title: "Artificial intelligence in health care: Protect your IP assets"
-    excerpt: "Currently the law does not accept AI systems as inventors or authors of IP, so IP protection is not available for their output — but that day may be coming.”"
-    publishedDateTime: 2021-02-19T17:15:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2021/02/19/ai-in-health-care-protect-your-ip-assets.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
 
 secured: "/g6M5pLg74W1+0cmvF9x8shoWlu0Ga62uOA65BNOwecFoTiD/LqjcjPMzYLQYExCahWHIfs81q2Blq9RYcazrX4gmP0JwA668zzWgz8Dnf85mO7ybU1ZiH+17okflkLG3482xak6DOMqgsKCOG/NkzDZej+oTIY/HbNHZEhM+IBN/fPKTZXS1swBJgbiwa9x2C+i5npop0eD5N6u8riv6ls27w+P4vjwyJ6qV5tJ8ab9dftAFHA4aN1JsL4slQiMl7e2Rhwgow6fmZ801JaoDnukH8OnAvdqfimPVqz8MW08NPcdoUlbgU57NTn/LbPuebMyukzdNy4bmru8XCasEqa13GJkg1LqFf8i90Agnk8=;++i2csZEShPYQmW0r3dy6Q=="
 ---

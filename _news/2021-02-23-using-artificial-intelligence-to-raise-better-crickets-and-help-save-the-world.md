@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI can now farm crickets (and hopefully solve world hunger in the process)"
-    excerpt: "Deep learning will help farm sustainable and protein-packed crickets at the world's first fully automated insect manufacturing site."
-    publishedDateTime: 2021-02-19T17:14:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/"
+  - title: "Using AI to Bridge the Language Gap"
+    excerpt: "Through Natural Language Processing (NLP), a technology that allows computers to effectively understand the way humans speak and interact, companies can bridge the language gap between cultures, encouraging diversity within their industries."
+    publishedDateTime: 2021-02-21T07:31:00Z
+    webUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/"
+    ampWebUrl: "https://www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
+    cdnAmpWebUrl: "https://www-itnewsafrica-com.cdn.ampproject.org/c/s/www.itnewsafrica.com/2021/02/using-ai-to-bridge-the-language-gap/?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: IT News Africa
+      domain: itnewsafrica.com
+    quality: 59
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Screenshot-2021-02-19-at-14.51.17-796x407.png"
-        width: 796
-        height: 407
+      - url: "https://www.itnewsafrica.com/wp-content/uploads/2020/02/artificial-intelligence-AI.png"
+        width: 800
+        height: 527
         isCached: true
 
 secured: "F3SzuqWaepWokjPBchkgzqqnIzdSk9XcSmSomBqCVzzNS/lkUMqhvKSycVyIaSEzASXSMuFhwgQhE6PtDwsVQ0OZwdpySJ271prhorGyACg7xGKM+vwt2daQoQS22MkkOpKw+gdWUDCKm2la7r6URZUBiXjp4L3n5H2MaYa0Xfa4XjGgVLulIk3AxU+ZUMV6wJQ6E7q7zGaKDIMNUXjW+L4M/E47jhSeQ9y/mWUulZmGLnXMGIPFvwtsfti1Iazrd7cVUHGh/Z+vtGUgGOo0vo0jvs6Wc7GXeVKgQUfnfM6mD2/eeDONd/rHLA0r+1ZOAPYsjd7HvQYaqEE+jBEOCfJwwcvrW4cq01vKU/n4o3w=;JkHgeU5WZA28VWPK7O/LNA=="

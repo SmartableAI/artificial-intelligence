@@ -25,21 +25,63 @@ images:
     isCached: true
 
 related:
-  - title: "Accenture selects digital ID platform Nugget for FinTech accelerator"
-    excerpt: "Self-sovereign digital ID and payments platform Nuggets has been selected as part of Accenture’s FinTech Innovation Lab accelerator programme, in London."
-    publishedDateTime: 2021-02-22T04:43:00Z
-    webUrl: "https://www.consultancy.uk/news/27018/accenture-selects-digital-id-platform-nugget-for-fintech-accelerator"
-    ampWebUrl: "https://www.consultancy.uk/news/amp/27018/accenture-selects-digital-id-platform-nugget-for-fintech-accelerator"
-    cdnAmpWebUrl: "https://www-consultancy-uk.cdn.ampproject.org/c/s/www.consultancy.uk/news/amp/27018/accenture-selects-digital-id-platform-nugget-for-fintech-accelerator"
+  - title: "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks"
+    excerpt: "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost."
+    publishedDateTime: 2021-02-23T17:28:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
     type: article
     provider:
-      name: Consultancy
-      domain: consultancy.uk
-    quality: 44
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 52
     images:
-      - url: "https://www.consultancy.uk/illustrations/news/spotlight/2020-11-19-113153191-PwC-spins-off-its-fintech-arm-eBAM-as-LikeZero-spot.jpg"
-        width: 546
-        height: 312
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "Astra Launches Automated Bank Transfer API for Financial Institutions and Fintech Companies"
+    excerpt: "Astra, a technology company that offers advanced bank-to-bank transfer solutions, today announced the official release of its transfer automation platform designed for financial institutions and fintech companies."
+    publishedDateTime: 2021-02-23T14:27:00Z
+    webUrl: "https://www.lelezard.com/en/news-19664367.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 29
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "5 top Indian FinTech funding rounds announced this Feb 2021"
+    excerpt: "The Indian FinTech sector witnessed interesting funding announcements this 021. Digital payments have been instrumental."
+    publishedDateTime: 2021-02-22T12:19:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding-rounds-announced-this-feb-2021/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/fintech-malaysia-1-1.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Fintech App Development Trends For 2021 You Should Know About"
+    excerpt: "Finance technology is popularly known as Fintech. It is an integration of finance and technology to support the financial jargons"
+    publishedDateTime: 2021-02-22T13:29:00Z
+    webUrl: "https://www.techbooky.com/fintech-app-trends-2021/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 24
+    images:
+      - url: "https://www.techbooky.com/wp-content/uploads/2021/02/Fintech-App-Development-Trends-For-2021.png"
+        width: 770
+        height: 385
         isCached: true
   - title: "UK government set to offer fintech visa"
     excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
@@ -52,15 +94,38 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 24
-  - title: "Nilanjan Sengupta Named Applied Intelligence CTO for Accenture Federal Arm"
-    excerpt: "Nilanjan Sengupta, a managing director at Accenture (NYSE: ACN), has been promoted as chief technology officer of the applied intelligence practice within the company’s federal services subsidiary, G2Xchange FedCiv reported Friday."
-    publishedDateTime: 2021-02-22T10:25:00Z
-    webUrl: "https://www.govconwire.com/2021/02/nilanjan-sengupta-named-applied-intelligence-cto-for-accenture-federal-arm/"
+  - title: "Fintech Industry in Israel Acquired Nearly 25% of Technology Sector Funding in Country, Driven by Speculative Valuations"
+    excerpt: "Fintech industry in Israel acquired nearly 25% of technology sector funding in country, driven by speculative valuations."
+    publishedDateTime: 2021-02-21T20:13:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
     type: article
     provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 0
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 19
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fintech-Calling-Tel-Aviv-Israel-Fintech-Week-600x495.jpeg"
+        width: 600
+        height: 495
+        isCached: true
+  - title: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
+    excerpt: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
+    publishedDateTime: 2021-02-22T00:17:00Z
+    webUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 16
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Fintech-industry-in-Israel-acquired-nearly-25-of-it-Technology.jpeg"
+        width: 1280
+        height: 1055
+        isCached: true
 
 secured: "t4XaS3gLr/AxFDxXSBJlrrzXv2xFB3UyPajWPh2Lc8rONkzE9cfQi2eBXud5zq3ATLrKNQ0f14X7NjdINJizpLYpQUFIRZhOqJMhlL7+BiB1T16wy41dvjXrEEXBUq1vqHEnalgbR3PMHzy78mqou6aoh1eG7WMHGLdflI7rCtRtGSCHmBlcc/57qqciQJc0uN2IOP6XGaQHEAgLgz4Oo1xenCvCXbvCkU5eAmTExoq1yfCbMCRMHlhXmGXdrjElWg17fTmZjN56VoFs7HtFXsuq5h9Q1Skzzhk6RMh++CBkuYxZl8ceIIxYF7HvA0vl+GMy+psXm+d11vkXNasUsIc7hVi70QVknm3H8JAAGuUpCoA9spvENy2Lz4cZ0njAWRg57jlrIIpy/jow+jU684vJSnYUkfrZkYwDdVcgvvfaYFWqy1KG9kdpi2dA52FqDH6ke4mpfis+Bl6HOCsJFqN7rWkErALfReF9zObc41tZS9CK9Vy2f9XwbEHCNVehdFjacjOp+FF1AaRRRaQYkg==;k8wfRCz+79LTrhkD2KZ7RQ=="
 ---

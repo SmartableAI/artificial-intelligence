@@ -66,15 +66,6 @@ related:
         width: 400
         height: 248
         isCached: true
-  - title: "Artificial intelligence in health care: Protect your IP assets"
-    excerpt: "Currently the law does not accept AI systems as inventors or authors of IP, so IP protection is not available for their output — but that day may be coming.”"
-    publishedDateTime: 2021-02-19T17:15:00Z
-    webUrl: "https://www.bizjournals.com/nashville/news/2021/02/19/ai-in-health-care-protect-your-ip-assets.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 21
 
 secured: "jdo9FKboyhpPs8h5Zcg+GWWd2QYG4mDCNURXTDKfmdBg0f878cdaYvcNO/S0qLAXxJXmSYHB01RmJHv4ndQLYus8VeZ6axzCwyc6NHP2nIiqAYMaQfCbEOXfUtYgGg1uV/0bfQUY6280nu6wS32gvmb3Tva7ORDIrBmXJYI6SegN1Vt+hUAr8440nMqByQk4XrQLnrV02qY9YvrA8eO/XLu/HHrpJQ28MWJmUVQgAjOA1AGvXWqjmPi0Ny0rx9GnmQqve7Z/B8H8TAwSeFsQnZDu9HDlHwlmJjxPT7kaqesePaBT2ZqnINurKX1Dr1aXhkp2DKTttjdDpd9M5K/uYxPOD6uFADdxlTS3rwj+RNkQqanmtpcQmbwpsktKg+j0EqoKSYTWHf57Fmbo29HDDI8an5X73qORpPOlBp6Aw0EfddF2smHISM6lwCe4QULQ0A358QoB9r2ho0lsYSJrNb1BLy+LAwBOb4fjtETpZ4ZJ9//QqLyVKV6086d+U5vYHm3b+FyKeKRXgI/uc6MYog==;fzfGlEmho9aO4OjzlfrSYg=="
 ---

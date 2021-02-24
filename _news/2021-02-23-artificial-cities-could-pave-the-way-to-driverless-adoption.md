@@ -7,7 +7,7 @@ originalUrl: "https://www.americancityandcounty.com/2021/02/23/artificial-cities
 webUrl: "https://www.americancityandcounty.com/2021/02/23/artificial-cities-could-pave-the-way-to-driverless-adoption/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Why driverless cars are paradise on wheels for some"
+    excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
+    publishedDateTime: 2021-02-24T09:59:00Z
+    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://images.mktw.net/im-301724/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "To the list of places testing driverless cars, add Las Vegas"
     excerpt: "Last month, Chinese search giant Baidu received a permit from California to test vehicles ... Alphabet-owned Waymo and General Motors’ Cruise have kicked off similar self-driving ventures. Testing autonomous cars on public roads isn’t fail-proof."
     publishedDateTime: 2021-02-23T02:09:00Z
