@@ -69,34 +69,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Overcoming 7 AI Challenges in 2021"
-    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
-    publishedDateTime: 2021-02-19T13:57:00Z
-    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
-        width: 1920
-        height: 1118
-        isCached: true
-  - title: "Why CNC Machining and AI Make a Perfect Match"
-    excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."
-    publishedDateTime: 2021-02-19T13:36:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/story/2021/02/why-cnc-machining-and-ai-make-a-perfect-match/16503/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 37
-    images:
-      - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
-        width: 720
-        height: 479
-        isCached: true
 
 secured: "kps4QLkKu+NP4722ETqGSWFyMr0xh150iCdosBqK0rrcP8pTs8iF8xXpixbzxlaeHiRBLtffpwCmXZOPhoYckBs+omfChz97qoNSDO5an2sMxh/knSHMB2bFYCwybo8X26FDsQVzWJES8DrjcEeYN+jxS/4ttvYMdOQkjPPlBLgx2W3ASXjJD+O+mhN6dVk7liC0KOyICxYI7L/EKiXP0dz9IhEGjFqFMJTz91Mzru34/fe9NDrEKCMBA+Kq2wXnVE/FU6szNep4OC6pJz6JqB9wIX3HkGIz/LogKDLQji/NrpR+mYQS8u+CCVmXfXo2bl/Ea4yYajD+FXljau55HQo+VTdg1q5B3FeNYeRIIJf8wvTToFMjOQYUHMDAtw8wJAgxszys8F4mnyP+hTZeumpgJczTPewOw4o105WN0tcvrHFK26NhcnZTW/rCtNeb9tlXhy9pA/pfEidi6dWhB6PMO6xAKUF28A8Eihcp/x0yS2HOAUheQBDyiKsfpJ1qnybKN5WWd0nKFBEyJPdtGw==;IGJTgA9SssCQ8B+5iHTEBQ=="
 ---

@@ -78,15 +78,6 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 17
-  - title: "Venture, auto investors pour $48.9M into San Jose AI hardware startup Recogni"
-    excerpt: "SanJose-based #startup #Recogni has yet to make a sale, but has now raised about $74M from investors that include big auto industry players. #SiliconValley #autotech #autonomousvehicle #sensors #ventu"
-    publishedDateTime: 2021-02-19T14:32:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "HmzGzHhjEX8WrWrggh6skRdHk2KOFRfC9gHzsd86g7ich9MR1s083UMDDXMH7Yr2xuij5ztcop8Nbumksru4yrOGcDEggc8IC9rtOuNhSWibHLDTKDiYPhbx7F3Wlzj3Y2xvQIxwNh1KWbL5kkcK4j9KM20ye5z0u2XCgb1tVFfBzR+WXoxkN8FtTSEqybh0GV0LekWm49HKdCQJcNOE62SpbGDXnX2DFYruQq6sGZEK/QohSY9Fyztbp0riLEel39WnshjyEcnS7lRiIMHBRZO/I7BI2ZfbK+w3fagh+0C32l4MunrfVaXikn2mYeil92BgouqSMyVWVe75BKcZEzzLx1segesRe86broEJxPo=;3dYn3CmOO8qZntFz9bCSAw=="
 ---

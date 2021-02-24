@@ -2,27 +2,27 @@
 category: news
 title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
 excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
-publishedDateTime: 2021-02-23T10:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-webUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+publishedDateTime: 2021-02-23T10:53:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
 type: article
-quality: 71
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1442578/Future_Acres_product.jpg"
+    width: 400
+    height: 225
+    isCached: true
 
 related:
   - title: "Future Acres launches with the arrival of crop-transporting robot, Carry"
@@ -42,9 +42,9 @@ related:
         height: 576
         isCached: true
   - title: "Farm Tech Startup Future Acres Launches"
-    excerpt: "Future Acres Inc., a Santa Monica-based food technology company, launched on Feb. 23 with the goal of raising $3 million in a seed funding round. Future Acres said it will use New York-based SeedInvest,"
+    excerpt: "Future Acres, Inc., a Santa Monica-based food technology company, launched on Feb. 23 with the goal of raising $3 million in a seed funding round. Future Acres said it will use New York-based SeedInvest,"
     publishedDateTime: 2021-02-23T23:10:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches/"
+    webUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches-seeking-3-/"
     type: article
     provider:
       name: Los Angeles Business Journal
@@ -56,6 +56,6 @@ related:
         height: 376
         isCached: true
 
-secured: "fzGKiDuXFrRzkiQ5qiL6wrIUeT6S78GanMPxiuxzwHaGTwNaerZ4jdaSeiXunNasaZ+gj2pfSya69O5WcTrx33veuZRsZPC1oYjLHkp02pTJuoRYbO7xm0QqWh/8Gq8TggqIjVWDyDYNhK+FqknaOhhPH3oz3S82GFrrB3ck/ToWTG5KPG+wSpnyqk7mA7NSxB04Rl0Y8Pqvy37mASIzlV8SkqQlAhVT1Hx5acvZzN495R1aVdzfJ/SAb/JJ1hm+/KfFu92jLd6BOjsVYCJRtHr/W1lvg41QbpatN8cFAJ1B/mIeQoKF56bM+Hw/jo8BRfNl8YvcIIxgx2QCQ1w7eeg/1GEm2C/QARBfDEKq3NA=;Ho7NqUXjVzFq5/PvmuN5iw=="
+secured: "jbfocCl/TQ9M+KU1foRRumHAFNV3SQsrqHo+1QYgQe+WrUWzKAzr3aLOg5DJy/Xj2MRsc6K2OIhfA7ybdLMQywkLy84gfhov8DKAjNm0jg5CZopXjpkBHRKDoapdwUH+Ww5187WPQotaUW56wpwvxwL/HXJVVxtoL2Q6FuE53BS83WMrff9eBjVTCz40s9eThIA0j5qt+lh3bjOGl4BiepkHGnQUIy51BaELvZTknyJnm5eDsHMWYptNk0QpCXKj3EIFpBW0te6KQ4/3CawICJf+Tqrw5W02gXF8ZDZ0ed50mzDP5BeDa1nq0jwFfgBZLY+lxYBbcLBu+HKGF2Jm9C8jdPHhnfyjS6cHEE4WIkU=;1vdmZdxLcPQrDKpHbSl+TQ=="
 ---
 

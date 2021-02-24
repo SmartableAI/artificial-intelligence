@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care"
-excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of"
+excerpt: "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction"
 publishedDateTime: 2021-02-15T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19662614/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19662614/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19662614"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19662614"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "bYPJOZePAJ7nFnmkxi5qsJpsatqzhzKv0isjAbOe7iCohKMMnFXUzEfXIUGGtY1dGMUxU23kFCZxe2x6U6hI9noZvCb2CbiGI8W3Im0kDnkM4CD3coWpd6gf/KQMQ645pPSrjqgCFqMykIW8oTMWbxmORpnk8kpx+mEhdSIuoJl9aln9gibRjuInQ1i1LDKceKSLjN7OyeC/COogKXMg6CiG8rp9B1WWIn3fWvUlXJ/sTmTaOsYhQH2+fG0klWYX2uWWBwcSqjOooo6hrWqwwOyJJKDBvnlytC4q4tCewAo1xFPWGC25KcqS/cukNczJJ+GWyEwzYQ88+3fZDjdD7iOvTLVr1o+FymnPOti4HqI=;mUwVARGJUGZ6yWJeZQaWiA=="
+secured: "cO01w+HQmpbGTozSnpV7w//ooUzVD3DPVfaynQUgsF5AzlzqIt3M1Yh8tC+IENP9M17W6Mvw51cBNYVuubVNjxcuhrxF2mz2pHW7x75f1VfHCpiinOFqc2YX/M1QKvHCxJeDnrKhvbRqjVJpLwQHKZGPOBhGCkAk1/5uiK2PXqxFaAnDH+F1XZaSCTeplacmAJne/3dWhNqPGtzEWRpvDRkgYZuC+GU+7gThALPhfbs2IjwrJHXKQfDFJPnTTEYNQ4SYZGsvqepfyM6PVnDyGG1+fhjLwmFySaSrCyL3JohteZIjjLlX3AUq7uGl8BgtDIOpEJjkRcPYXMW6XCV/MP6oYSxyd/G9Y+Atk94CbxE=;DHHWk9bSspYsTk0m9XypUQ=="
 ---
 

@@ -988,33 +988,24 @@
     {
       "path": "_news/2021-02-15-mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person-centered-care.md",
       "title": "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care",
-      "excerpt": "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of",
+      "excerpt": "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/n19662614/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/n19662614/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19662614",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19662614",
       "publishedDateTime": "2021-02-15T07:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

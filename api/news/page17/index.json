@@ -140,26 +140,35 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us.md",
-      "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
-      "excerpt": "BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for ...",
+      "path": "_news/2021-02-09-rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai.md",
+      "title": "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI",
+      "excerpt": "A companion smartphone application provides a user interface for the platform and acts as the gateway to cloud-based, AI-enabled object recognition services. The platform brings together a number of ON Semiconductor innovations, including the RSL10 SIP ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
+      "webUrl": "https://www.eejournal.com/industry_news/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/",
+      "originalUrl": "https://www.eejournal.com/industry_news/rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19541879",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19541879",
-      "publishedDateTime": "2021-02-08T09:06:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T09:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Electronic Engineering Journal",
+        "domain": "eejournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -169,7 +178,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Computer Vision",
         "AI"
       ]
     },

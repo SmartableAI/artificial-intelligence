@@ -55,20 +55,6 @@ related:
         width: 800
         height: 483
         isCached: true
-  - title: "Overcoming 7 AI Challenges in 2021"
-    excerpt: "AI has become an indispensable resource for many businesses in 2020 amid the challenges of COVID-19. Despite economic stress, 61% of high-performing companies"
-    publishedDateTime: 2021-02-19T13:57:00Z
-    webUrl: "https://dataconomy.com/2021/02/overcoming-7-ai-challenges-2021/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 39
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2021/02/overcoming-7-ai-challenges-2021-e1613742677895.png"
-        width: 1920
-        height: 1118
-        isCached: true
   - title: "How banks are harnessing artificial intelligence"
     excerpt: "Technology is everywhere in the financial services industry, and banks have been building their artificial intelligence (AI) bona fides in recent years. Components of AI include natural-language processing,"
     publishedDateTime: 2021-02-22T08:49:00Z
@@ -82,20 +68,6 @@ related:
       - url: "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/02/iStock-1211725238-800x600px.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Why CNC Machining and AI Make a Perfect Match"
-    excerpt: "What’s next for the world of CNC operators? An increasing move to incorporate artificial intelligence, or AI, into operations. Over the next several years, CNC machining could see something of a revolution that includes machines that respond to Alexa-like voice commands."
-    publishedDateTime: 2021-02-19T13:36:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/story/2021/02/why-cnc-machining-and-ai-make-a-perfect-match/16503/"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 37
-    images:
-      - url: "https://www.manufacturingtomorrow.com/images/upload/images/Depositphotos_10054154_s-2019(2).jpg"
-        width: 720
-        height: 479
         isCached: true
 
 secured: "tu7kaibHJmpgQ1YbgM172hIeCCO3qrQOJKp8pTH+tJxddLIJt4sfv8YDj6ypVTAiPf2oCHDNcXoCiyNzi13hwuOY4byJOvijR5OBithgJfZmCdWUU3Qd78zGrw0AD8KYouZgwnkMl+Wtd0vqZkApqW4jZQ+2p9a99+oAA5hp57Q3Ka/VnSL2LJXalLeYZsKTXFBbYvxi4RM65ebSslPdHDsNPQMsmIqWWwhowCPIzvfgW6D+sOpE0Zk6a+ndKVh6rlqQy8qYyzavziiR+HeETyKNUgP5e2IUu6cZknZ1AgXDguCcg1Pglb8wB9aiNgf7lBlewALVP+CoC1dYXVJ2nRLDramqXbDFaw444x5CMXf99M/H0fCQwz9X+mYdQoNb+iFZAgLFAMHClx8rnAsTKYtva3kJyPHReUPjErp7JUDWdugmW1aap5OjjA12ePfIb111izavNSGO6eMsAxgGveoCwfBBMRwtglrYHhj2Ef7tO05H9BbiIAEf6Vvixks8ikW3T7jdGuDcGbWHwnewmw==;reQiVCD2aG4AVJoO7aesIA=="

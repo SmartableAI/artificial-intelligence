@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autocarpro.in/news-international/continental-picks-up-st
 cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -79,16 +79,7 @@ related:
       name: Daily Excelsior
       domain: dailyexcelsior.com
     quality: 17
-  - title: "Venture, auto investors pour $48.9M into San Jose AI hardware startup Recogni"
-    excerpt: "SanJose-based #startup #Recogni has yet to make a sale, but has now raised about $74M from investors that include big auto industry players. #SiliconValley #autotech #autonomousvehicle #sensors #ventu"
-    publishedDateTime: 2021-02-19T14:32:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
-secured: "nIaq1fTdg1qLfslL5u5LfqZD3KO4A9P8wlcpXGbWVvBbUtcK4XPO64nx6rRKGU1Q7yV+DQthVeZcDW6o3V9jrO2Ej5sp3eRMd84fv2xoVGVCyWHlbkoseczR81S5IFGdWtd5UT5V/A84vGgYqldCqn9OZnA6BIFKzcSG02vXCZJOqwVrep2tEQjZaaGxn8pvo3VHCc3UG6EyHRakpK8GQaKAMnZ2Er7/vRmsi21M8oUXVOYCmR8k5GedKPj6dZ+QBy/C65GmwF5fOS7DD3IFUcwQlGpKhLLnq/M1CGRV0OnfrlC/D3agYMZEvMi86N0nAFcndKUrEoI0YpbMCmQ1SgimsOLCv2ilGPbXnxVkq6g=;E8ZyV+drKW1jEr4lQ0+YWA=="
+secured: "FZ2UvvAE6wMXkQhPyFo7weJ5MGv8+UUdLKQk5i4STjqJE+4RCCwBV5vHJpnKs9Eu7+BY/ScGZ/6thcPjnQp24ADuSy5658hxB1GOeFszSae45BEP7w/BvdnYd9DzO+inZrG+EE9vD92yY7ey68fSFAzMjMoPPKKQr7bENbiCE65kbfYSbxdaoNmw0i0f3ZLYHSnYJfoSfNpW/k3cPgMH6mOBh18NC4d+leR1gsfcEZZZ2L3qCpU7/M0hpiBdZHshiLd7RlsIV+Av2JJw/+0C2fHC8tlgOiprF+mM6/A7r2bTZsBciDlLYx3b98/Xcj0TCCX5+yK5LLei9vSUnPWmgUN55Hp6GBrCZgVUtTxa8Adg5EtqI0Yx53YYzAT7srg+kpyePIQNkl3ChxNwoc3UlIeVVlFJXJqCilsqpLZMcFRPUr5DMnmXhM2H8JY1Ukpv3kM1PLb+RJ6opoyZQeYdL6heTpP4RmgDJfQOnhYLY3dMlIDccHBQrUUAGVM5Map8aDa8P+TTvcW4TiAjf191LQ==;IlXp+u4k8ry0Rwl3rjX5xA=="
 ---
 

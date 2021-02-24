@@ -140,6 +140,34 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Apple in Talks to Buy Self-Driving Sensors for Apple car"
+    excerpt: "Apple Car- . is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter"
+    publishedDateTime: 2021-02-21T00:25:00Z
+    webUrl: "https://techstory.in/apple-car-in-talks-to-buy-self-driving-sensors/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 24
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2018/07/applecar-800x450.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
+    excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
+    publishedDateTime: 2021-02-24T05:47:00Z
+    webUrl: "https://www.econotimes.com/Apple-Car-projects-search-for-LiDAR-sensor-suppliers-hints-at-self-driving-vehicles-launch-in-the-next-5-years-1602926"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 3
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210223f39e6aa9e4e0156c7_th_1024x0.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2021-02-19T16:02:00Z

@@ -33,19 +33,22 @@ images:
 related:
   - title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
     excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
-    publishedDateTime: 2021-02-23T10:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+    publishedDateTime: 2021-02-23T10:53:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1442578/Future_Acres_product.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Farm Tech Startup Future Acres Launches"
-    excerpt: "Future Acres Inc., a Santa Monica-based food technology company, launched on Feb. 23 with the goal of raising $3 million in a seed funding round. Future Acres said it will use New York-based SeedInvest,"
+    excerpt: "Future Acres, Inc., a Santa Monica-based food technology company, launched on Feb. 23 with the goal of raising $3 million in a seed funding round. Future Acres said it will use New York-based SeedInvest,"
     publishedDateTime: 2021-02-23T23:10:00Z
-    webUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches/"
+    webUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches-seeking-3-/"
     type: article
     provider:
       name: Los Angeles Business Journal

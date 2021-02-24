@@ -77,15 +77,6 @@ related:
       name: EuropaWire
       domain: europawire.eu
     quality: 48
-  - title: "Venture, auto investors pour $48.9M into San Jose AI hardware startup Recogni"
-    excerpt: "SanJose-based #startup #Recogni has yet to make a sale, but has now raised about $74M from investors that include big auto industry players. #SiliconValley #autotech #autonomousvehicle #sensors #ventu"
-    publishedDateTime: 2021-02-19T14:32:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/19/san-jose-ai-hardware-startup-recogni-scores-489m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 16
 
 secured: "72oAoyOWyywi1sHLfAY/6i9isndaXuQsDykYQnkplbc5Y4zHxPvgwQy+iRPdTgg+n1Nj5VvVKoeMGCCrqrFwKwHI4tFOpUd8yi1zFsaZ6wK1tdMTXLZW84fptlihN228P9R6mzQMtPihPoAYsatR+oGxOAmZsteuVPwkZgY3DQBUegFyV6UxXHO5ndPGzTcqZ5ctHGB6qo/4H+mr6sWfEVWQPqZHOlyzQkHzyXXD5PKk8lI1hqxhBnvRgAKiNo91N/rRJ3MG2UNXpK588fphnMcMozVk/b8MRGXv//0+PWBBPZjoNYIkPKxaAkowNb40OGPNXsmXEKUeXEgi7gmEcZS2eYsn5Qsl6c3q+4AGJiAuvY4zxMFQKdoWsRgabop0sjJz6vGaFr1NpUMr+NdfPsUBGshq9e0EHIoP8QJqxOOslu0Zq83zDVDSX3kRYB7UoDwU7I+xwMSOgOWcwTOkjAmVCQt+IJ6TM8T1WKIzMHn+oMrBQNoUmLNM4wVfrmmUlschKf2k1y0RKj3FW26piw==;BT/NrJqcQdOsLbx1xhYVTw=="
 ---

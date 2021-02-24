@@ -99,6 +99,20 @@ related:
         width: 960
         height: 420
         isCached: true
+  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
+    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
+    publishedDateTime: 2021-02-23T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
     excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z
@@ -227,15 +241,6 @@ related:
         width: 620
         height: 432
         isCached: true
-  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-    publishedDateTime: 2021-02-23T19:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shiva-kumar-former-executive-at-ibm-s-watson-health-joining-banjo-health-s-board-of-advisors-1030114898"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
     excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
     publishedDateTime: 2021-02-23T13:16:00Z

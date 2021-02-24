@@ -2,25 +2,31 @@
 category: news
 title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
 excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-publishedDateTime: 2021-02-23T19:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/shiva-kumar-former-executive-at-ibm-s-watson-health-joining-banjo-health-s-board-of-advisors-1030114898"
-webUrl: "https://markets.businessinsider.com/news/stocks/shiva-kumar-former-executive-at-ibm-s-watson-health-joining-banjo-health-s-board-of-advisors-1030114898"
+publishedDateTime: 2021-02-23T20:04:00Z
+originalUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
@@ -268,6 +274,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "0LprvG6HPMOhFnvl4Y1zbIM6f4tKRjdT9suR1WlCr0f4fCQPz/1tniLstTEDevP0EyYFXIvg/tJRfFCWywUsCHBycJWzjSGsYO6GpVodk/HXZ5EDkCSceoTHobqMpy4iHzgH9oYZ3JN3nS4bN/IH6qW7KKWutygrjNS6hoHB8GdGWwJg6ITW5S81OQs0YRCoyhtGt8XlK755OSFfCqwi6mpbGgVM18WNW+vk2v46fvqph1OSWnXAdlnLrLhsJIaxcZa1jsm2F27E5biVEeFnoUQGQZ4NJHR5ONIoUj5If/YwvQic8i01jJ8h1zE96ae58LPjdqGP3GGGI3QAqT/8u3v5QzQZgwSUgXy07/TU+OA=;yYh31daoun4yJi89SS0pwA=="
+secured: "64/Uys7ICKbavUieCmjejfpMo3vMwXWRqjSNnFvc5zkQnKqGe3RdrsopNotdcSDkfICv3rrFvEMj1JkgaUU94n+Rh+3jQIsZFeDwXhmHKs90EXcUK7K+fq97X2hMYkSPa5z2TG08SUNccES+XqN4b84P5cgTviIf9zAMJz7t6HL45esqG9NLDuCVbf/sOMABuH+H/ID0yWONRhRDBaZJhA98BjwiR394bXq3C5342BHfX2t79Ma1eRph3FtkajQp6TG1ukNgOLQZ5pMYtElxG+F9WVJi4UQ9092jbFNW/87MsPvTl/uYPJbGNpxwz8YnakeyHTlfazJcz3NfzEKiBL4sOFDKr/QpkijAG9ErLPg=;PhgfUiJneCpAIOGXInUPxA=="
 ---
 

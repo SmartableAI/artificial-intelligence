@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Quantifind Introduces Chinese Language Support for Truly Global Financial Crimes Investigations Automation"
-excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has"
-publishedDateTime: 2021-02-23T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation/article_4b590db2-ee06-50e9-8b32-93854315ae83.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation/article_4b590db2-ee06-50e9-8b32-93854315ae83.html"
+excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has added support for search and analysis of Chinese-language data sources to its Graphyte™ platform."
+publishedDateTime: 2021-02-23T16:16:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-1030114178"
+webUrl: "https://markets.businessinsider.com/news/stocks/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation-1030114178"
 type: article
-quality: 6
-heat: 6
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ae/7aed76b4-fdb8-5ee8-b82f-6dc6c4368b39/6035d6c66150b.image.jpg?resize=826%2C630"
-    width: 826
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1442248/Picture1_Infographic.jpg"
+    width: 400
+    height: 305
     isCached: true
 
-secured: "pjKGlQzp3tfuCtUY1XuAvNrt13NcpPgOPRyhFFuthIYKHqGnw03s5xMpekSLqKCRY5rAvLzgazODBtIjlYsA69JseJlWQLcnTEAzIOxYE073HlZ9ETUkJ9NlIocX0LAXVqL0iWMzbShe0pkHDpZkvhMJyMQejI08123KM46/cP0OWXkqT1hDKYyMzseQDqXXe+2WU3hl57vX0VtzcGufuzc5TJXsuqTBUEgaSPuitULVePBR6VREYQEIjUlfXk1qaUiipzTxColYuCzI1bXsbL5gWngSLQdgmcdSurAN5+Fh60jY7A09orMSfAIECdubTB0zkQCjpUBa5+ph21yWMDK1CBABgyv5K8Y6duCVtkk=;ZW5vgy/oSDy2lscLrpupvQ=="
+secured: "quXNgua5dR11iubVHaS4C1YGLU/eMhDBCb5dlenQZzAK4TrOGza+18LtzLJzgeX31zOpm5u9ts7Rsr+jyOvqPL5xtfT2psAClrTaDKmBofelcKrnWDgxDeOJhITGm66kDmvS0pmwZrPcQHKMxJ4mvTnPZX/eHlFccY7hqhB6XQtrrUn4hmxfVPdZ0mHeGOq0o2SPta71rdsP7KfXVZMn9lh0tQl2n/8n2YACo06dzNgkcyYvkiYNxHTE76O0V+Xo1bLDKrKv0zHHq45G9fnYx7Xp1iIhA/tca1IS9Rc4Wnf9L78JtuVgqjC0xiQQ+FuYC+iDa/khdKySi0h2uvS7xY/zcc77TPCivO90/Y7zWmw=;Z781Kunqiz7RcywDHlQ3DQ=="
 ---
 

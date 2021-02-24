@@ -105,6 +105,20 @@ related:
         width: 960
         height: 420
         isCached: true
+  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
+    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
+    publishedDateTime: 2021-02-23T20:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
     excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
     publishedDateTime: 2021-02-20T03:37:00Z
@@ -219,15 +233,6 @@ related:
         width: 620
         height: 432
         isCached: true
-  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-    publishedDateTime: 2021-02-23T19:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/shiva-kumar-former-executive-at-ibm-s-watson-health-joining-banjo-health-s-board-of-advisors-1030114898"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z

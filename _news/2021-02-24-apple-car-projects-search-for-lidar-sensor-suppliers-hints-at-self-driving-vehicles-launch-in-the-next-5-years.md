@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Apple in talks to buy self-driving sensors, key step in car plan"
-excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
-publishedDateTime: 2021-02-20T00:02:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
+title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
+excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
+publishedDateTime: 2021-02-24T05:47:00Z
+originalUrl: "https://www.econotimes.com/Apple-Car-projects-search-for-LiDAR-sensor-suppliers-hints-at-self-driving-vehicles-launch-in-the-next-5-years-1602926"
+webUrl: "https://www.econotimes.com/Apple-Car-projects-search-for-LiDAR-sensor-suppliers-hints-at-self-driving-vehicles-launch-in-the-next-5-years-1602926"
 type: article
-quality: 24
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg"
-    width: 1240
-    height: 827
+  - url: "https://s1.econotimes.com/assets/uploads/20210223f39e6aa9e4e0156c7_th_1024x0.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -112,6 +112,20 @@ related:
         width: 470
         height: 246
         isCached: true
+  - title: "Apple in talks to buy self-driving sensors, key step in car plan"
+    excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
+    publishedDateTime: 2021-02-20T00:02:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/20/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/20/1050918.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Apple in-talks with LiDAR suppliers for self-driving car"
     excerpt: "Apple is reportedly in discussions with LiDAR sensor suppliers for its self-driving car project. The report is by Bloomberg, and it states that the"
     publishedDateTime: 2021-02-20T06:56:00Z
@@ -154,20 +168,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
-    excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
-    publishedDateTime: 2021-02-24T05:47:00Z
-    webUrl: "https://www.econotimes.com/Apple-Car-projects-search-for-LiDAR-sensor-suppliers-hints-at-self-driving-vehicles-launch-in-the-next-5-years-1602926"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 3
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210223f39e6aa9e4e0156c7_th_1024x0.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Apple Mulling Options On Sensors, May Highly Customize Them; Co In Talks With Lidar Suppliers For Self-Driving Car"
     excerpt: "This headline-only article is meant to show you why a stock is moving, the most difficult aspect of stock trading. Every day we publish hundreds of headlines on any catalyst"
     publishedDateTime: 2021-02-19T16:02:00Z
@@ -197,6 +197,6 @@ related:
         height: 630
         isCached: true
 
-secured: "iab3FdJ90yX8BDmBLIcZqkpty6q3P29tlTdKJgBuBUWlvHch4Qc0NWCwLgKuWKsrHeNQHZM/BISpm7VUVc7gu83NN9UU4isKpFkc1lxZxmlA0ljn1I2lf5ku274TmAiWzXdiemDjL0f4WGjG2/43cZB1+SdPIQs0SVxwCBhddpAKU5FmDZzzFZ3SXrNuMzhES13ihp2kfLg74GUGAxO86g7GFAWDyjBHzainuwg9+/v7rQiVlNdRKjyumlKw53H1s0C3ozZSEiINd37Q9N4M2ECKYtgXQRM8eEbHfv1qH+umgbtnuqAQHrbwfZl9ZXJZdAaqo1DXPT4I/auaAxkgnc9yLFs+PgFmtlHl85QyCNA=;CjQBIilcnSW3gRWMQwfVtA=="
+secured: "m68thEwFm5sjsQFlC+2e+J5ZVMCB8ZEyrhYxt735haVyP59b9Z8KMpZ718L2UtC86kOD3lDOjHh4luAY7fAg5og+s0X6uvyXGCbsqfZap1eZHx0HLEvdEeA4mJtL5pTl5epS8bATntwt5BJ2DLdnonouf19WAaG9MA2cRbMGKAOg1DBrtZuhwURGtpttMjOxS6cIkthbXaPaO8KIOea7jWGoW4eeJYGC+WzEvgTjglBXIDzXFiVOiFmrLQGKT9s8a8XBH+9QnluqYjco+bUIryxwZHNqy11f4hDupl2MktVubhASDCi7R9ifTWFttbZpypENqmD7G/NKLsXVEBEHQZDE9WSUXnRyHMkm/26vf1Y=;iRXllwe6FpA1XpqD0GG6IA=="
 ---
 
