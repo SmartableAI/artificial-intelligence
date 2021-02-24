@@ -41,18 +41,18 @@ related:
         height: 720
         isCached: true
   - title: "BBVA and Google Cloud Form Strategic Partnership to Drive Security Innovation in Financial Services"
-    excerpt: "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving its"
+    excerpt: "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving"
     publishedDateTime: 2021-02-23T08:01:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html"
+    webUrl: "https://www.prnewswire.com/news-releases/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services-301232385.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 27
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/2b/52b0a328-a038-5fe2-901e-1cd27fef42c7/6036bc09c8da2.image.jpg?resize=630%2C630"
-        width: 630
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg?p=facebook"
+        width: 1920
+        height: 1004
         isCached: true
 
 secured: "cBNCY/KIaXAlt+7QwMBuU047ZUmRb5QTaTonKoRlThW9QKKatZyyWdeSm/V1XZ8z4NsmebfOdiJpbgS6IMd+427LTJq6Vh1BR9bMn0ZB51i6ekLRz5g16qmuwY0lR3kkvQJ5CXjhIACQ5w2E/kZX+PTXr22zITCaJbEbrWTHmcFFs6vwu3JUZJECQ/xXverwtzTT/bee6B+ObooHf6OsIhTrKtKeYiy1HYqCx2AyzqRcFPm8bO/L2wlAqKU9+VjzEG+QZFy6Ymz8aurwtXlNXf8eA1iYfmxJDHFK4dBTCiOF8Qg4oNLpAT4TI0kLtiNqVfPIanr+Gc4eg4UvzZI8cESDzYfbWgjsqrR67X8NAY0=;6xVl92JFCQKRGumnYUoOag=="

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
+    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
+    publishedDateTime: 2021-02-24T22:47:00Z
+    webUrl: "https://tribune.com.pk/story/2285944/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere"
+    ampWebUrl: "https://tribune.com.pk/story/2285944/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2285944/after-facebook-twitter-ban-trump-fans-and-extremists-turn-elsewhere?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 44
+    images:
+      - url: " https://i.tribune.com.pk/media/images/capitol-police-trump-supporters-Reuters1609967981-0/capitol-police-trump-supporters-Reuters1609967981-0.jpg  "
+        width: 600
+        height: 400
+        isCached: true
   - title: "After Facebook and Twitter ban, Trump supporters and extremists turn elsewhere"
     excerpt: "Banned from mainstream platforms, US conspiracy and supremacist movements have shifted to networks that are more confidential and harder to regulate."
     publishedDateTime: 2021-02-24T12:41:00Z

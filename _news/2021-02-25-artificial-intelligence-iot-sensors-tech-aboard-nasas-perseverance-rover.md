@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to watch live as NASA lands its Perseverance rover on Mars today"
-    excerpt: "Here's the start time, the livestream and everything else you need to know as NASA's latest Mars rover tries for a dramatic touchdown on the red planet."
-    publishedDateTime: 2021-02-20T05:26:00Z
-    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 152
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Watch NASA’s Perseverance rover landing on Mars in HD"
     excerpt: "NASA on Monday released stunning, high-definition footage of its car-sized rover landing on the Martian surface last week, the first-time that a spacecraft’s landing on Mars has been recorded in video."
     publishedDateTime: 2021-02-22T20:46:00Z

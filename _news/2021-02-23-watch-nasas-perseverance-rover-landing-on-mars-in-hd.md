@@ -7,8 +7,8 @@ originalUrl: "https://www.washingtonpost.com/technology/2021/02/22/mars-video-pe
 webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
 type: article
 quality: 122
-heat: -1
-published: false
+heat: 132
+published: true
 
 provider:
   name: Washington Post
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to watch live as NASA lands its Perseverance rover on Mars today"
-    excerpt: "Here's the start time, the livestream and everything else you need to know as NASA's latest Mars rover tries for a dramatic touchdown on the red planet."
-    publishedDateTime: 2021-02-20T05:26:00Z
-    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 152
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial Intelligence, IoT Sensors tech, Aboard NASA’s Perseverance Rover"
     excerpt: "While the touch down of NASA Perseverance Mars Rover at Jerezo crater, on Martian surface has historic, innovative applications based on sensors, artificial intelligence, cloud, and robotics make it an upgrade from Curiosity."
     publishedDateTime: 2021-02-24T17:18:00Z

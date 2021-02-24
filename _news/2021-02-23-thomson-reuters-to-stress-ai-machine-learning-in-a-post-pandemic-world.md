@@ -3,8 +3,8 @@ category: news
 title: "Thomson Reuters to stress AI, machine learning in a post-pandemic world"
 excerpt: "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit."
 publishedDateTime: 2021-02-23T15:48:00Z
-originalUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=in"
+originalUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AN12M"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552588578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M0MG"
@@ -48,6 +48,6 @@ related:
         height: 542
         isCached: true
 
-secured: "4S/F4cCKkTugHteV+qFB3DoDxSZ3XnFZFkFgXeiTHmqPBmOldelqg1FF7bWmqXNrql9S3XdkQgs5XXyX72+C/X/3TyNG4YgVC7TpzoHNkgIcRo0yDxelluVWKEIHUtfAEoMKTRv21+lh9ErAD84p+mz++S/sqU0Lc5Mg8Sbd7Y8Mx4ddLhhQFvN5oCyDxYc+5+hFdpLXYO7RsAJ/o3cHuturSsw9WKgdcuQ/ZFMQgv4dVhFiZeZFWRUBrzGUyuV8yffn+9EZ61K+HET0PJ7DoC4BcnpkWqyZmubkJPX0sdhiMM3O3VfNerKSKsiA5VxvB/eayZaulGANvdUq1W9zKEkU53zwdxHGxk13/9EJc7I=;CV9LJYmngBHnEiMifiTclA=="
+secured: "nV1uH4aStLRVGLea/JkKO8gW59HUVxexvBhVDelHoEKOwGe3lGX0HTnXbYJRnT7xCdvC9nuS+4Kya0KUFwGKeOMoH+3H7idv/oSjZzIVRhRLc8SWwDqnToLQZz+u7b9xUodkvvIntOqILgn5bEdBPa7AJBMfUL8prDmrDfHsVT0ImLnK1p1iLNiQm0KL1CEzqCBPcmqoX5xMQyQbOaxIX+uaNu66yOrryYHKpJnOP3N8DYJFPbTfxa3arDi9atzAvaovDInr2Iyu8vBY33MUuSbDug1LkXtNF0JOa/788FGqOXZIlCa7rW22t9GpwFOYOmGELxDFoigpmf/SLwgtHPNeHce4T23NvtiO1TA4mS0=;3hSbixUKFOpcCce8DUkVkw=="
 ---
 

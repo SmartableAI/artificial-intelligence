@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027"
+    excerpt: "Selbyville, Delaware The report for Artificial Intelligence (AI) in Retail Market offers an assiduous analysis"
+    publishedDateTime: 2021-02-24T21:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "S3ff0kCew7R4DdcxZIsdXL5U6qOfn/3HKR+HGN0e2910q/DXZrQV8xCRXu/4PokAeiBr8oli2ua5XE4fxWODT+k9UsHkjVENvuaKGhJNz4yoeevQmVuWHg1Gj5R7KFMZUXH5gYrOeqKUJHK7w2hRxJlEG0xYj1BW9+iENal0WAxIHnGdrrL9EpxVhnVu7zc7YpBnlKE5EIzaOyO8LjAlqNutNdhrzj29fXwKvdcWkpl90kUKsRGdzq6zvE7XuZLH5gUxJnGnX+XyhLMNiasQbL0EbIaC4hAYyF1GA3Wz7xCd4sQKbmFQuW03kljO0s8Oj5MzgJW115EKTxlGpVXtAm+6Gdjap8kp1y/44EXcis4=;aZ2BgF6IWvqEAo7169fhcg=="
 ---

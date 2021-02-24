@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-size
 webUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027-2021-02-24"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027"
+    excerpt: "Selbyville, Delaware The report for Artificial Intelligence (AI) in Retail Market offers an assiduous analysis"
+    publishedDateTime: 2021-02-24T21:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size is Determined to cross a value of $ 20 billion by 2027"
     excerpt: "Global Computer Vision Market to reach USD 20 billion by 2027. Global Computer Vision Market is valued approximately at USD 11 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 7."
     publishedDateTime: 2021-02-23T06:39:00Z

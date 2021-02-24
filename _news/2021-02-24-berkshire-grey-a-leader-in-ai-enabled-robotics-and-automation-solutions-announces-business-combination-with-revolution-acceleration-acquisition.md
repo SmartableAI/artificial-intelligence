@@ -65,6 +65,20 @@ related:
         width: 868
         height: 635
         isCached: true
+  - title: "Warehouse robot startup Berkshire Grey inks SPAC deal at up to $2.7B valuation"
+    excerpt: "Berkshire Grey Inc., a developer of warehouse robots backed by investors including Khosla Ventures and NEA, today announced plans to go public through a SPAC merger. The Bedford, Massachusetts-based startup expects to raise as much as $413 million through the deal."
+    publishedDateTime: 2021-02-24T22:49:00Z
+    webUrl: "https://siliconangle.com/2021/02/24/warehouse-robot-startup-berkshire-grey-inks-spac-deal-2-7b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/berkshire-grey.png"
+        width: 1061
+        height: 584
+        isCached: true
 
 secured: "LEgG3CWkJOGKhuBMpI8o7YBKE0mPpKQGH4kit7rpJZaO/jTFz1INkyREN/ka7vmQB8HoxWzf1SUPQqufWYGBul1AlYMlAU+LrMnI85WbBrTNEuSnjxaKHBJSprpQE8LRQbwbQ0qjI+7ydek6UxRCbi7IVUe0qRZLy74+i6kbFMt7eeyQbYKf81Q3b7p5CSP/JpURWYsq3E/I651UCLQazZdxR5ys1PvT6qfdY9cZMH1+HJY8+8NbWdeN2SLktiLDq0SQVoVIfrM14ut0qZXAiZsoY/3X2cDsXT21fuBhPYMI5o0i688lLJb2Fr1wULs4E5jiz84k/v6XHHBr2gyrrS5fG2UrMiV+ST0leik+wtc=;+u+YDv1cyKZJ1Bz+QFXLAQ=="
 ---

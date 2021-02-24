@@ -95,22 +95,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Google fires artificial intelligence ethics researcher over dismissal of Black woman employee"
-    excerpt: "Mitchell's dismissal came a day after Google named one of its few Black executives, Marian Croak, as head of a new center of expertise on responsible AI within Google Research."
-    publishedDateTime: 2021-02-20T06:19:00Z
-    webUrl: "https://www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.html"
-    ampWebUrl: "https://www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/world/2021/feb/20/google-fires-artificial-intelligence-ethics-researcher-over-dismissal-of-black-woman-employee-2266556.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 63
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/1/21/w600X390/Google_AP.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Google fires AI manager who protested her peer's departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
     publishedDateTime: 2021-02-20T16:53:00Z
@@ -197,20 +181,6 @@ related:
         width: 620
         height: 415
         isCached: true
-  - title: "Google rethinks how it handles ‘sensitive’ employee exits after controversy over AI researcher’s departure"
-    excerpt: "Google plans to change its approach for handling how certain employees leave the company after finishing a months-long review of the abrupt and"
-    publishedDateTime: 2021-02-20T06:20:00Z
-    webUrl: "https://keyt.com/news/money-and-business/2021/02/19/google-rethinks-how-it-handles-sensitive-employee-exits-after-controversy-over-ai-researchers-departure/"
-    type: article
-    provider:
-      name: KEYT
-      domain: keyt.com
-    quality: 21
-    images:
-      - url: "https://keyt.b-cdn.net/2020/12/keyt-business-technology-generic.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google fires top AI ethicist"
     excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
     publishedDateTime: 2021-02-22T22:09:00Z
@@ -221,6 +191,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "JuuwqPwf7BE3A3IqX03ZQqWCKVxJcqa6+gnFIhrt7Gyn/osr7nz3hEisv9k4I3dA5ltZQMi5Z1XtTkdniIEerprAhtLkD7DCOJFAp1gjHshDZWacv1yk3jEWteSzdWRRxhFS5cooktPuVM4UULNg6wSGyiYC6+A+RkcmnVkEHJqaMkDdrnRSJhK4GaejpPK6X8+LYzT6WR0S6HcB41pMhtrtMRerM3C0zKxQ4HoMCBdpGyy0llWVcgL6koo4nmWY7qknB91T1hZghPobdElGQ21/JtbYmRgP7qnVF5FtEXHYrfSRKYQTSxN8CBpPzitXgL2Z0GRbxzH/H0cH/iEvK1IqRSZGz+XMRTmk6sBOkQI=;S8GUlYRK4ruyfBzEag/Vmg=="
+secured: "Gz6PrT3sl3dMDbn/TEiZAa5QHRUpoKTjKtR0cP5Or82RfdMt20fi351de5x1KNg0dDuuybplBCRLjhePzQkWY9Moj58ow8ovSnczUgspalMH7eXx7tiTIlTP+h8IU95ZXra5lw6xB4JniD8e0kp0YYwSaA7QbyHse35VwO4lG9OGWUCJmpMRwo2ysBrJ/mQ0VWBhcBE1R8v+P2/gz6JQd6SXnz2CyIqBRw+OikYc6JhuYoeqEQbRyqWg+R982LMrof6tJ7lk89gIVXKLKibdH8/HSY5hDXeQKvMKO6twsb2DL02cGjtB3U6aNH05VR04jM6SwfP26LO83HgmJZ2illAN1pNk5wHmHpnmtYruTaLonBO7pxHanqYM6j8HEWis/2rDwwI46tmBeSxZXDkmizRTcFzJgX//PPv195tvuyKlQk6s+EO/XvbjkW6J5QZL4LpsvCPLVFrZwCGygosnQUugEk2dFOFS6dD8Nxnaep4BcCab+txbYTUleuqvuvrFcfDrC3kwc68CMMghUzN9Mw==;GKXzIJAAtkQ/+TjTDG3I+A=="
 ---
 

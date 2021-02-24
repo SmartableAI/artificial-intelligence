@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Natural Language Processing Trends That Impact Enterprises in 2021"
-excerpt: "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable."
+excerpt: "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues."
 publishedDateTime: 2021-02-15T06:38:00Z
-originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
-webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
+originalUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
+webUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "y2XEuuLK0mnsMtKcrPPCUQfpfxo7aPZNGVs62qs08tH0+wkuyPpuSkb6KPrF8nkPH83mSMbHZOAv9tsBSL0QZoYK+Wic6B76aamHNlbx0RbBu6j1giTdBDJhx9LeDCTGd65XnIUaZh1zpGXMO+/HcZSMg86LS0vmlB6bRUJKJraUovBlecnYbuue5ScLcQgJsn7Vu32CskF5PGIPP5H4z7JXvp6/ClnvSSxSeF81PgBPMeY3JUV8l0zTqup2WmXVt4+54Dp3MX0zPEG8i5+9QwOhsSUqYgOE7F5hec3L2uhWLgT/PmoJbqi86puFVgEuP8a1EnmWAYJGsGk/bYZXWB6s5HIlVOiOJ681zdGyxrO2VKxQFEXUhfTp+lLEodcsGxQnwK3LI06S6BcfG9dQXYELPD+v0kF7Cvr5zxPYbHenXrdBeAeKqwUUu2LIoLPbH6w/2SypxtPsgmkgw/W9Gcm7Vc7JChkeOImZ2R4sXwAWxpjM82oqNIPOtd6qsPfi/mufAg9cZRzcNF/JBCa94Q==;0/jFaAvKsycUTA8PYbE8og=="
+secured: "GNmmixJhLGNUdlTGaDMuCMAO6uXJ8/Zu/Z3nv3s6L9dL/KWwsptAFJM9vmTQQRaJrfY3jkEXHpJ9gfwot7Cg338+v1/0r5J4Xqj5z4jZKm+0pGex9EMQsvct639dsmU+z8Zi3le6/hGYGeNw5CF7QFc0mTfnJhvqy6QpRrJuSZF561asg/P2mSlNi2JFPXE2HeEdFT3g6cOX79jS9llebCM7DXq3EUmMXqzN3oIw3U6U4zJJTOV255vKRz8p4pD7Fg8QUUHdE5e382feWbRkMy62JEgEceb4lm9XhvTkgdvRWgTaipHtS2HOexKch9rKeFea/5Bf6pOlpKQ+F+5bEr/0iwbEOGYHYqnse5pGs7M=;CEDkMmliDKB8pmxRCqWKWQ=="
 ---
 

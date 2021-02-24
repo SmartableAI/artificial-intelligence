@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/52404-church-of-ai-closes"
 webUrl: "https://www.fudzilla.com/news/52404-church-of-ai-closes"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 620
     height: 465
     isCached: true
+
+related:
+  - title: "SAIC names senior VP of artificial intelligence"
+    excerpt: "Reston-based Fortune 500 defense contractor Science Applications International Corp. (SAIC) has hired Michael Scruggs as senior vice president of artificial intelligence, effective immediately. “In this newly created role,"
+    publishedDateTime: 2021-02-24T21:19:00Z
+    webUrl: "https://www.virginiabusiness.com/article/saic-names-senior-vp-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 52
+    images:
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2019/10/share.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yEv80G9woJdLvR2dkJYkmgqBY0QXVpssqqcJeq7iB+ye6nL8xRedyCSFUkfvm3NvlhXsHADp2xSeq9UJ5q4zFe2i1F4u+WJ52V6anumy33vwRJBiimxgf0x/tpUidBi79QNT0YTKllYh+a8nI5tUjPX/5I8j45PAtxX37l83jWPP7G60rPIwcT11ePGgjggcJzzRZnSw7FXFdut0XK9pFCr8dI3aPe3z0AZrw67VEIMDz/y+sPBCQeKOo4amPeAbyYHEp+3X22US0lhmlGHMHfqHn+RqpnlelZFamYK7++Q3nSQhsVHyhw/5q5MCAATe1Mwmn9zdL9qRq1c0UT/RfhSdC4MVYnMosaf6EXcASjWxnR6XfxlW0vFCLv1Fq7IektvYh+6JJHh2Cjj3/CWEagxP3Sb0S7IO4RzUcUKeWI79LY1ImMC0oP/EG7R91ySBo8zolVu7Bilqd3jDpefaVkmy92wFxsCl7yxMFz/4JuPOsa+GOLB7Jgn3LJJYkyO68nCPYvdzNJy9h8n7CT8IBw==;bpCfHjNkDVMuDzFnRHNxuA=="
 ---

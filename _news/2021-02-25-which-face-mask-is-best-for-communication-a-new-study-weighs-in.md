@@ -39,22 +39,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
-    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
-    publishedDateTime: 2021-02-23T14:57:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+  - title: "Syrian student comes first at international innovation competition for artificial intelligence"
+    excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
+    publishedDateTime: 2021-02-23T07:51:00Z
+    webUrl: "https://sana.sy/en/?p=223350"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 20
-    images:
-      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-        width: 344
-        height: 344
-        isCached: true
+      name: S A N A
+      domain: sana.sy
+    quality: 5
 
 secured: "vWuC492ULbkRUYmeOREhZHxlYRHXLur8Rrxj+Wd3NmvwOlad9+ylB5cyx7Gye0yO8l2H82R54dGUS0Z1km5RtlfYfw/YeqYK/5Q3wh+brtEr4tmmY5kTNfmzl2cGUaKoWvh4oY+VodD2CCgCnV30XJ1juxminjkfyjjnjdNORX4Lr4gpdhbAplGhpHG+ERls1WvvtLmze6WCSnWPIZUs5EYsFmA5I5D8QTlLAEX4caNNP6w9ekW/3wEcZf67b9n04nh9IuZ8UYK/OQoOheUmQ6D18KZIoEPlOkjeMYRxxhAdZReL1qFdx2zhX7PGqHP7jCv2uMVIYsoba5gm4BE9N95j2moaufQ9an48xRPuvxU=;SwnbUDe5RyJoKGidR82IMg=="
 ---

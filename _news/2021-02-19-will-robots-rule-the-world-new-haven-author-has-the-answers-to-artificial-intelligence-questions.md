@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s.hdnux.com/photos/01/16/54/00/20627507/3/rawImage.jpg"
@@ -21,6 +22,6 @@ images:
     height: 1267
     isCached: true
 
-secured: "QKfJwmJWIxqx37szeTwE64J322wb1k09UIM0DhTyB/0Bx1w3pcgcp4sIeLQK3VmLlW+G1tBoM4iMmyw5l8Tb7rfGarP1NPr4OY7k+5BHEaf79jmndB4oekoxa8q1DusQ6jdTEB5axpyNgqiuQmUx2FcO2dtFsg3OgrWoyXjT6by9+yzdj2y7LbfcB3MbFHTqlhEyN0McDBdfklGC6p3EUD7sjYToZv8ujogkTkOJwTGAH1CdukzhtJzuqMnyVS3NVxD71q4CZa+VliOmJxtto+/xQ89oBSIL5YBLTmY0svj8o+RA9IETkNL5vXxMBSxyU40RfZjeiD2HLALxRzQHkGm1wqLDVvwQ9if9VIst2No=;BPoLsXx1TQFmXLauBr18Zw=="
+secured: "t4+mYjrai4DgljW+GHfHCbpa8rYZDqy8PuWGLSX3WZV7YqHkiRrtp1aySPywEAuUiLVyEKld6YM82zV+YWGjqlyu2pUY1pj39FTpIyY8Tyjfdrk+euz6HyiXzM62hzQMUJFFjPcHKzxgtgqY/eZIhPuSQdgS1hKZfu8XvInj4gjQlri512dHyUZu0eIAUeLQHzimYFnKapGpSs/LFmHFJGoOzrCVsrEIJMTqqGgkQfSuJudIfnJyJ3MYZGtj95cW23T7HbbOxIYtd4d21fFsTQjZO4txmuQDCCiKpMQ0hw7Y3YngEc7bvcAfTq3obwu5N4wWVGPe3Cg/fPqJjd5EIXxRkvya3YlrwuunWY2yfgRfC6eaT4ysIHZtun4xIFgAc60GB09i9IJ+0ry6WAkKMIYV/TV/mxgigU03DePNEYg0CHR121rX4Pfk1wmr8VOfx4VtPJ0S8MgOhAJx7GvQ4vBw++e9YPe2KfUmvO2x16/MrErtouGGIowElkKCOLAh3piovYDwyadLBRh5jSBEQA==;iq+59qxwS4S4sUrhwZMN6Q=="
 ---
 
