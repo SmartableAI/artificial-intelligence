@@ -29,7 +29,7 @@ related:
   - title: "Dynamic Yield Improves eCommerce Sales with Deep Learning-Based Personalized Listing Pages"
     excerpt: "Dynamic Yield, the Experience Optimization platform, today announced the introduction of its deep learning-based Ranking engine,"
     publishedDateTime: 2021-02-23T19:00:00Z
-    webUrl: "https://www.prnewswire.com/fi/lehdistotiedotteet/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-861587407.html"
+    webUrl: "https://www.prnewswire.com/no/pressemeldinger/dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages-861587407.html"
     type: article
     provider:
       name: PR Newswire

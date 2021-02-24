@@ -2,6 +2,59 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-01-22-threat-detection-and-security-are-aided-by-integrated-machine-learning-artificial-intelligence.md",
+      "title": "Threat Detection And Security Are Aided By Integrated Machine Learning / Artificial Intelligence",
+      "excerpt": "Government buildings, airports, and other buildings at risk from terror attacks, whether from individuals or organizations, need more security that visual tracking of potential threats. In addressing these complex needs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/01/21/threat-detection-and-security-are-aided-by-integrated-machine-learning--artificial-intelligence/amp/",
+      "publishedDateTime": "2021-01-21T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-new-google-union-condemns-investigation-of-ai-ethics-researcher.md",
       "title": "New Google union condemns investigation of AI ethics researcher",
       "excerpt": "A union of workers at Google and its parent company Alphabet is condemning Google's investigation of an AI ethics researcher.",
@@ -1142,61 +1195,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
-      "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
-      "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "originalUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg",
-          "width": 2400,
-          "height": 1352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "publishedDateTime": "2021-01-21T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI Ethics",
-        "Natural Language Processing"
       ]
     }
   ],

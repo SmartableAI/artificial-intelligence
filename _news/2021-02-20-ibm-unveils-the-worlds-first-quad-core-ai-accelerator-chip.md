@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all"
         width: 1197
         height: 601
-        isCached: true
-  - title: "An Inside Look At IBM’s Energy Efficient AI Chip"
-    excerpt: "IBM wants to develop an entirely new class of energy-efficient AI hardware accelerators that will significantly increase compute power without requiring exorbitant energy."
-    publishedDateTime: 2021-02-19T09:31:00Z
-    webUrl: "https://analyticsindiamag.com/an-inside-look-at-ibms-energy-efficient-ai-chip/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/IBM_AIM-1.jpg"
-        width: 595
-        height: 347
         isCached: true
   - title: "IBM claims 'world's first energy efficient AI accelerator chip' based on 7nm technology"
     excerpt: "A team of researchers at IBM claims to have created the world's first artificial intelligence (AI). The new chip, which features four cores, was unveiled at the 2021 International Solid-State Circuits Conference held virtually earlier this month."

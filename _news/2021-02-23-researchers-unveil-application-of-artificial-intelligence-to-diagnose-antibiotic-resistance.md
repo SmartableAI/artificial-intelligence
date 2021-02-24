@@ -7,7 +7,7 @@ originalUrl: "https://www.actuia.com/english/researchers-unveil-application-of-a
 webUrl: "https://www.actuia.com/english/researchers-unveil-application-of-artificial-intelligence-to-diagnose-antibiotic-resistance/"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 400
     isCached: true
-
-related:
-  - title: "AI-based mobile application to fight antibiotic resistance"
-    excerpt: "Antimicrobial resistance is a major global health threat and its development is promoted by antibiotic misuse. Here, the authors present an offline smartphone application for automated and standardized antibiotic susceptibility testing,"
-    publishedDateTime: 2021-02-19T10:27:00Z
-    webUrl: "https://www.nature.com/articles/s41467-021-21187-3"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 37
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-021-21187-3/MediaObjects/41467_2021_21187_Fig1_HTML.png"
-        width: 685
-        height: 501
-        isCached: true
 
 secured: "XczwYw+LIAD/F6qHd3F/RLW3x1QST0Z6KmdWRJb0NaqLCafB9v7rUM5skkOHkFKToKqf5dYJ0A76ClLGvWa6heskue5ZamMY3hoKVd5a5OkQ3mKAXA7hnnMC8Go1K/hs8KsrR5EHDKiHJJXDEZ28HFsI+A0nmGvtjgulB0lVXx011BA4RRY7HB3JCFICouKTTRj7MnedFDyg/Dtg9B5gINoaCVkvT2WmZ5PU1fR0UEUbl3j1EFp7IvUZtFYjJVR3ri1IPhmfiVVUL1huatVARnwgvJAb9NSS8M8ALuFB7z3FrWUm1mrQo+DH2ZfTJwIKek9rBL93/cFBtE5Ppr5ySZ01vSzrB9hOX/aJLtXiOy8JOsFzPDqckBTzDMBf6GeaX4dEbTDF7PDPJAF97z+DrCeF7z/kNZDFhIQoIaWXzbbmMIOONu5hZrQLOs/xwq8aL9use9K2YKI3wcs1tISxI/+fq8HOOsVmyVTD+7xlq5pagaxjz5g59RhMXAui2UvSYfN15muElUssfidkSyo/jQ==;OwPjHOjx4T7EvznGIE7DRg=="
 ---

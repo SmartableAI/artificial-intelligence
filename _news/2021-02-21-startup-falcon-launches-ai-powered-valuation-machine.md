@@ -52,6 +52,20 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Start Tracking Job Site Productivity with AI, says Construction Administration Lecturer"
+    excerpt: "Construction’s next big innovation is the use of artificial intelligence and machine learning to collect and visualize data from construction sites to track productivity, project timelines, and anticipate and stay ahead of challenges,"
+    publishedDateTime: 2021-02-23T00:00:00Z
+    webUrl: "https://sps.columbia.edu/news/start-tracking-job-site-productivity-ai-says-construction-administration-lecturer"
+    type: article
+    provider:
+      name: The Earth Institute Columbia University
+      domain: columbia.edu
+    quality: 29
+    images:
+      - url: "https://sps.columbia.edu/sites/default/files/styles/social_share_1200x630/public/2021-02/sawh.jpg?h=55541bb6&itok=OIbsgIdI"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Syrian student comes first at international innovation competition for artificial intelligence"
     excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
     publishedDateTime: 2021-02-23T07:51:00Z

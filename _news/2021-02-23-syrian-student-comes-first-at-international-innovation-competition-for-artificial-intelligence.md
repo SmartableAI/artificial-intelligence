@@ -60,6 +60,20 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "Start Tracking Job Site Productivity with AI, says Construction Administration Lecturer"
+    excerpt: "Construction’s next big innovation is the use of artificial intelligence and machine learning to collect and visualize data from construction sites to track productivity, project timelines, and anticipate and stay ahead of challenges,"
+    publishedDateTime: 2021-02-23T00:00:00Z
+    webUrl: "https://sps.columbia.edu/news/start-tracking-job-site-productivity-ai-says-construction-administration-lecturer"
+    type: article
+    provider:
+      name: The Earth Institute Columbia University
+      domain: columbia.edu
+    quality: 29
+    images:
+      - url: "https://sps.columbia.edu/sites/default/files/styles/social_share_1200x630/public/2021-02/sawh.jpg?h=55541bb6&itok=OIbsgIdI"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "iZQGhRc6taUbtGFX233iA0cYw++ip60IBcuqG9OK0jUku45ESLLrTCgjWNjrCu6KAVYK3iLElhrR6a+CMnVaFfFkJVaBzUaiyKBoOcf6dPBohyC0fxOpuu5FLjfhi2H9AHyQlECRYOsHZewSEcfF6gWB9/7zMlYbtrYJjDp62ZZCla4jW6g4vtEYJeSISW4slIRDsOwzPOVGro5oqUs0fKlsXWwJ8b3iptpL2+TgUuPAYjiNDsW/B+gVef8QZX1eQeluWdZViVwhpOzDV6YIcbP/S7y05oLrywEdHXJEBqTR9QEw0rkCvOkuP8L9UZm2ACWJG99IzI46CrwrkoBsqrMu6SGuKOzxvT2ThnrOV+8y9YkXK6fnRiKYjgs/qqTPTq5XoDeuHkrHK2gXuvIEhgUCGZNLc6s7K6BHKBCKV1vZ7dWWWkCDGOaSqfRWEE54gw/U5mB/yJfm/yEGRMk/z50VScb3RUInD292CGCuevsm2tUL/FQubzQad8j4bQyuXNJ+FX5ToVc2kgmUEsFvFA==;tgDumL+GBC4D1AkErwE7/w=="
 ---

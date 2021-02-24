@@ -2,27 +2,27 @@
 category: news
 title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
 excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
-publishedDateTime: 2021-02-23T10:53:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
+publishedDateTime: 2021-02-23T10:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+webUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
 type: article
-quality: 41
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1442578/Future_Acres_product.jpg"
-    width: 400
-    height: 225
-    isCached: true
 
 related:
   - title: "Future Acres launches with the arrival of crop-transporting robot, Carry"
@@ -56,6 +56,6 @@ related:
         height: 376
         isCached: true
 
-secured: "qv0+DdAG151aFO8tqRO8nqy80rkAUF+Zn9MU8Uuz3TYYw4MsUNSqXcPYPsXbWUpB0vxdqXvoLTVLbpdEErnST56yEJk0+zJXbRAEjuqzOl+1rMuesLj06QizdxdFSFLBzYXqcxrW/i3OZUF6rDzDq/coMXPkOCXzt1R6J/9tr7L/nZZf6a48koLB7srECvIusH05436FCWUDM30bXx1EL5ozgWUiLUgkeDau5GaH7dOde9IljDUNjl7UPhle8831NrlJgwki/96rOEvFWixVdDWP10kpGfJR+LqYKRwm7K75RS/bbuGN9++Rha2FADrbYB3sW1Lm2ZCicu0zMUhuSrP3igwRHFwO/CZyk2vd3g4=;AqhfmQc0rjEaKThTlne+Nw=="
+secured: "fzGKiDuXFrRzkiQ5qiL6wrIUeT6S78GanMPxiuxzwHaGTwNaerZ4jdaSeiXunNasaZ+gj2pfSya69O5WcTrx33veuZRsZPC1oYjLHkp02pTJuoRYbO7xm0QqWh/8Gq8TggqIjVWDyDYNhK+FqknaOhhPH3oz3S82GFrrB3ck/ToWTG5KPG+wSpnyqk7mA7NSxB04Rl0Y8Pqvy37mASIzlV8SkqQlAhVT1Hx5acvZzN495R1aVdzfJ/SAb/JJ1hm+/KfFu92jLd6BOjsVYCJRtHr/W1lvg41QbpatN8cFAJ1B/mIeQoKF56bM+Hw/jo8BRfNl8YvcIIxgx2QCQ1w7eeg/1GEm2C/QARBfDEKq3NA=;Ho7NqUXjVzFq5/PvmuN5iw=="
 ---
 

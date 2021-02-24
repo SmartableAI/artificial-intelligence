@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Platform Market 2020 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2025"
+    excerpt: "The latest report entitled Global Artificial Intelligence Platform Market 2020 by Company, Type and Application, Forecast to 2025 is an in-depth analysis of the global market on the basis of historic growth analysis and the current scenario of the industry."
+    publishedDateTime: 2021-02-24T01:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2025-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yvoSmYEp5Y3pEqrAQxR/Z4W6HhDuRJv5Ni19btv20VwDDCbIdJYV4/TXQjkD0PDE9tr5yvHxjG3VWKj+8+4SGbqREqKoYoDkUjEmm+qVokHpNQZdypvcckebkg05uvxup8OVnAehWM3+OIqLsSMu5ydj71bd1o43yHr2k6Oir9KmcMugAfft47AqWxem1aUmn8YmYxV3QIbx5CAdvWUupmC8keBKATpw6QaaZ4xj7ibptGXoSEFRcP5mRUFjo3IUyLVZHHhbBa88QJRLHKVi4/w2Dwm5l/Q2HOd7HtalRcsVEZZtOws+VJx++kM2Zj3NpaXmTkNV7/dpRPBZ4B2blgO5xtyAhmbTmdQhcK4UOZg=;ILK0f8BP4gBv9Dl4lEu2jw=="
 ---

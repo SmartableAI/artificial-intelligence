@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Platform Market 2020 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2025"
+    excerpt: "The latest report entitled Global Artificial Intelligence Platform Market 2020 by Company, Type and Application, Forecast to 2025 is an in-depth analysis of the global market on the basis of historic growth analysis and the current scenario of the industry."
+    publishedDateTime: 2021-02-24T01:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2025-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

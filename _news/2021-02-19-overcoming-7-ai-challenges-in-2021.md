@@ -69,20 +69,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Embracing artificial intelligence to preserve dying languages"
-    excerpt: "As more language preservation initiatives inspired by artificial intelligence emerge, researchers argue that while they cannot fully capture the essence of language, they are a crucial aspect of preserving what is now deemed to be a global linguistic catastrophe."
-    publishedDateTime: 2021-02-19T10:17:00Z
-    webUrl: "https://www.goethe.de/prj/k40/en/lan/pre.html"
-    type: article
-    provider:
-      name: Goethe
-      domain: goethe.de
-    quality: 43
-    images:
-      - url: "https://www.goethe.de/resources/files/jpg988/christinacalderon_ridinghood-alamy-stock-photo_cropresize-formatkey-jpg-w983.jpg"
-        width: 983
-        height: 610
-        isCached: true
   - title: "How banks are harnessing artificial intelligence"
     excerpt: "Technology is everywhere in the financial services industry, and banks have been building their artificial intelligence (AI) bona fides in recent years. Components of AI include natural-language processing,"
     publishedDateTime: 2021-02-22T08:49:00Z

@@ -45,13 +45,18 @@ related:
         isCached: true
   - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
     excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
-    publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
+    publishedDateTime: 2021-02-23T14:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-19664385.html"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 8
+    images:
+      - url: "https://www.lelezard.com/img/theme/lezard2.png"
+        width: 500
+        height: 414
+        isCached: true
 
 secured: "jLzkJeB72nS+n9Ylsqk746fLas4losUO55hlNanIj1NJvHmKggi/K2+oaMaBSY4EeHVbJM9abseCSnh4o14CkizkKDZBZFwU6Yk2LCD64zjPlfaI+tb5jMOKymxkEkaYkd5yLTea60ey2ZeesHQhMqtozZWyZSzuW+uLgXlQ7f8QyjLeWzd++7vQXolxg+ud2HH54QQTbGBkd8jeaY+HZfylDNCh7kAHVXS6PLn+8rd+jZGPfvqoruCebZ1m2QbfdLDXE0y267xE5HgYm/vLdJf3H3hJWaYvVN9a0V5Esn5PYsuP0RaWd7lMy+QEdMoTiYmv0iCnyiUB3SXLvJ19tXZN6f6kq3o7X2jaqHzkWvA=;8zqI3MBc6ksMMwAKBoZSVg=="
 ---

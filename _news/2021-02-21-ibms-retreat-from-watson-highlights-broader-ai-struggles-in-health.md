@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-hea
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-explores-sale-of-ibm-watson-health-11613696770"
 type: article
 quality: 204
-heat: 414
+heat: 394
 published: true
 
 provider:
@@ -46,38 +46,6 @@ related:
       - url: "https://media.itpro.co.uk//image/upload/v1613989145/itpro/IBMWatsonSign_shutterstock.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "IBM Considers Selling Watson Health Division: Report"
-    excerpt: "IBM Considers Selling Watson Health Division: Report International Business Machines (IBM) - Get report Watson Health is considering the"
-    publishedDateTime: 2021-02-19T09:03:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Considers-Selling-Watson-Health-Division-Report.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "IBM Investigates Sale of IBM Watson Health"
-    excerpt: "IBM Investigates Sale of IBM Watson Health International Business Machines Corp. is investigating a possible sale of its IBM Watson"
-    publishedDateTime: 2021-02-19T09:15:00Z
-    webUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/"
-    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Investigates-Sale-of-IBM-Watson-Health.jpeg"
-        width: 1280
-        height: 640
         isCached: true
   - title: "App designed to combat malaria Finalist in IBM Watson XPRIZE contest"
     excerpt: "The app is designed to work even in environments in which internet is not always available, as well as on low-cost phones."

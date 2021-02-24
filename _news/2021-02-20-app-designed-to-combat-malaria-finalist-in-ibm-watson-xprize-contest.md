@@ -59,38 +59,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "IBM Considers Selling Watson Health Division: Report"
-    excerpt: "IBM Considers Selling Watson Health Division: Report International Business Machines (IBM) - Get report Watson Health is considering the"
-    publishedDateTime: 2021-02-19T09:03:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/ibm-considers-selling-watson-health-division-report/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Considers-Selling-Watson-Health-Division-Report.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "IBM Investigates Sale of IBM Watson Health"
-    excerpt: "IBM Investigates Sale of IBM Watson Health International Business Machines Corp. is investigating a possible sale of its IBM Watson"
-    publishedDateTime: 2021-02-19T09:15:00Z
-    webUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/"
-    ampWebUrl: "https://www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/business-news/ibm-investigates-sale-of-ibm-watson-health/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IBM-Investigates-Sale-of-IBM-Watson-Health.jpeg"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "IBM may sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
     publishedDateTime: 2021-02-20T09:34:00Z

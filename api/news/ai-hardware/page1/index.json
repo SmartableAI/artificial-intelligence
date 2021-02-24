@@ -10,7 +10,7 @@
       "originalUrl": "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -188,7 +188,7 @@
       "originalUrl": "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -641,25 +641,43 @@
     {
       "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
       "title": "Samsung develops AI processor-embedded memory chip",
-      "excerpt": "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance.",
+      "excerpt": "Samsung Electronics today said that it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance. The new processing-in-memory (PIM) technology will help bring powerful AI computing capabilities inside high-performance memory.",
       "sourceUrl": null,
-      "webUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
-      "originalUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
+      "webUrl": "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "originalUrl": "https://www.techradar.com/in/news/samsung-develops-ai-processor-embedded-memory-chip",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/cPy3aYHcojq2iA7oJyeZRW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
-      "publishedDateTime": "2021-02-16T19:36:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/samsung-develops-ai-processor-embedded-memory-chip",
+      "publishedDateTime": "2021-02-16T21:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

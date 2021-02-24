@@ -43,18 +43,15 @@ related:
         isCached: true
   - title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
     excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
-    publishedDateTime: 2021-02-23T10:53:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210223cg87606/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety"
+    publishedDateTime: 2021-02-23T10:14:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 41
-    images:
-      - url: "https://mma.prnewswire.com/media/1442578/Future_Acres_product.jpg"
-        width: 400
-        height: 225
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 71
 
 secured: "Eu6tIhVYQpYitQAelNoOhqkYjKr/PmkwxXrbSsRQ975ggUFFjEdVPFitH4pW2EXceM1dPS4tK7QkI5A3BQUXd3Y4i8nd55ykVcLj6q7tLR8CV2Fnp1w5C2/PcXFuF1Fw9f9L74GbFbcmHu92UNSnTlEelmVqKta/1M2PPHoomXrLkOZbF/rvwohUsrEqIXq4vs+oKA9cwd4fwwreoewLj6Pr4e/m8/H6dXBwLXgyFgIc4B82qMykB2K7f5nUeyjWuSnbERxUb6no1kZX0HGWAQGQtYUCqjlklxJ3Dlc4bfh1bp9Do042TXXlwwAB3//YksiYfX1f9oKt64d68PN+1LbfpYahTdGYJ9ebuJbnQkc=;HvBq7IOyFpK2Rm4aOTpmbQ=="
 ---

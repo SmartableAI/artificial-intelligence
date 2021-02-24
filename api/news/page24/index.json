@@ -2,6 +2,57 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-03-healthtech-startup-remedico-raises-inr-4-cr-in-bridge-round-led-by-awe-funds.md",
+      "title": "Healthtech Startup Remedico Raises INR 4 Cr In Bridge Round Led By AWE Funds",
+      "excerpt": "The funding will help accelerate the company’s growth, in addition to further augmenting its technology capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/364666",
+      "originalUrl": "https://www.entrepreneur.com/article/364666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1612351346-ProductImagev1.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364666",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364666",
+      "publishedDateTime": "2021-02-03T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-infoworlds-2021-technology-of-the-year-award-winners.md",
       "title": "InfoWorld’s 2021 Technology of the Year Award winners",
       "excerpt": "InfoWorld celebrates the year’s best products in software development, cloud computing, data analytics, and machine learning.",
@@ -1140,58 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-jeff-bezos-steps-down-as-ceoand-shows-amazon-is-a-cloud-company-now.md",
-      "title": "Jeff Bezos Steps Down as CEO—and Shows Amazon Is a Cloud Company Now",
-      "excerpt": "It also launched a new cloud-based computer-vision service called Rekognition. These services are both a “powerful revenue generator and a key to Amazon’s AI flywheel, as customers as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
-      "originalUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
-      "publishedDateTime": "2021-02-02T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
