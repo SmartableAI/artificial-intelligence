@@ -2,6 +2,57 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-01-23-with-ai-your-data-is-worth-more-than-the-paper-its-printed-on.md",
+      "title": "With AI, Your Data Is Worth More Than The Paper It's Printed On",
+      "excerpt": "We can’t get rid of paper, but at least AI can help us manage it. Here’s why you should be using AI to capture more value from printed documents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/googlecloud/2021/01/22/with-ai-your-data-is-worth-more-than-the-paper-its-printed-on/",
+      "originalUrl": "https://www.forbes.com/sites/googlecloud/2021/01/22/with-ai-your-data-is-worth-more-than-the-paper-its-printed-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600a58dbd8f482172e20a3d1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D285%26cropY2%3D3444",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2021/01/22/with-ai-your-data-is-worth-more-than-the-paper-its-printed-on/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2021/01/22/with-ai-your-data-is-worth-more-than-the-paper-its-printed-on/amp/",
+      "publishedDateTime": "2021-01-22T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-florida-man-becomes-first-person-to-live-with-advanced-mind-controlled-robotic-arm.md",
       "title": "Florida Man Becomes First Person to Live With Advanced Mind-Controlled Robotic Arm",
       "excerpt": "Matheny, who lost his arm to cancer in 2005, has recently become the first person to live with an advanced mind-controlled robotic arm. He received the arm in December and will be spending the ...",
@@ -1110,49 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-competing-in-the-age-of-ai.md",
-      "title": "Competing in the Age of AI",
-      "excerpt": "Spun out of Alibaba, Ant Financial uses artificial intelligence and data from Alipay ... products (like Amazon’s warehouse robots or Waymo, Google’s self-driving car service).",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/01/competing-in-the-age-of-ai /",
-      "originalUrl": "https://hbr.org/2020/01/competing-in-the-age-of-ai /",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2019/12/R2001C_GUY.jpg",
-          "width": 4000,
-          "height": 1880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/01/competing-in-the-age-of-ai",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/01/competing-in-the-age-of-ai",
-      "publishedDateTime": "2021-01-21T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

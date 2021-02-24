@@ -2,19 +2,29 @@
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
 excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T16:20:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+publishedDateTime: 2021-02-11T21:20:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "wcJtEbykOZeb86aUPfP+cHcwzd6LHiM8H9GuR4juJDKTe3r6qw7YEJFPjM7wxSAIlC2UCHas83n39J4sRgyt+pba8VUMVvZOY0PR8Jwa69FMDup7uozC9SNCG/mf1FhyceIISrKyZWgFbyyT9BPTv94XNgW+6asgwd8QLU4GW1BD8xaGTGoy4KnDtneOOI4QU9a/RnZdIlQuZVBxJlCVe7m1RqVNqxhBq/Jemw7TLCxTBp4cQDC+yUPNwcBgOqne4y/rRG4FjyU2pBTR7Q988FFRTX8ageIuwTXtttt4x2XSfkQxptFMU1apYAGJ9/U6L/d3gRszi5NBO/s3HhiS+dSoVfC3ErYTIREI2k5y4js=;EnZFawb6M8evZXJGH+ZT0A=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg"
+    width: 1619
+    height: 1060
+    isCached: true
+
+secured: "JI8tbcBd65r4zrOfZVBUSavNW4uci0vV/c9eYPi1rB7Htm1z3Q804Qaa8mZw6xGh20MQNgjL0Hiuc2hWkVW4vufrIt586v7ZDN9Nto9ufzut7d8ZpNsloLhQ/1WU1HHNcO2ezUFqOSyK6isJDu7rLGyGyTnWi26cbZE9w4gwm/01pY01fr45npwxcmwOcJYcm9KZ9elw0pmEmKrSwird/qc0Ng5XUXb3dsElv8NEkIE1G82/K8Adhejz1SE+2fr+AkU3qF0p0pZJ/sCQfcw+VLP7U6jwMAatLZdTlEXcQs3hsML0wEdUlWtcT+gQLZGHDvKt+vuRszhLhXaYedYJ2m5AjqgZ04enGOVAYAjfACQ=;XLp/3MAa3+UaeLI1T0czxQ=="
 ---
 

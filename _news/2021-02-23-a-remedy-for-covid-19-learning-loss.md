@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Bank machine learning models hit hard by Covid"
+    excerpt: "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic."
+    publishedDateTime: 2021-02-24T03:18:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37534/bank-machine-learning-models-hit-hard-by-covid"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 56
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/covid5.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "RDRWtgZctl5m+afoOoNwM0Fx6/64OQe7BcCVJrHwBAubWV1RlpozpcYnzWQB/9KSmpBLqxFVLzaN5hMunUhdpHi+Ly+vuDmQhZgb10GsaFMwnOhAJHoe+fK/iPC9hx2R3e5QxKj1ohLI2HVEZ0vft81xIRo+R7WP9DZOmVIduymhMcojmWa31CTo6Gxxmr1V8YkFSLjWKEJF02Eahm2Bnj48vT6ImZtMhhWEykiShC5nNSfP1CzR5YKM4b4xEpIlXQeU2l6xYEQnD+/fOaZnvWNOnxAcRNr94p770b1mZ3eC+NAsUt2QotE+slrMmSIle5XIy8bSzYOSgjHaW+fZ/h3jcdNCB0GoHqxtaDTF0y9g+gVa3LrX2o0kbKGu4OOxy7rpmwB8Fvscs+Gq/ZkBZrGvFJXsDesxbCp96FLZ/hs7qxOH1n+pbJ34A4fhcT6eP06myW1jD9PTs3JGlhnHbRQ78gJzGOTWYKBbuGS2sUpZtYb1vkV4PXfq0NFcX6mTFncvC1dhE9p1zvlPFiZ5pA==;rrgZXFi+ZVkyzbI9TNFcuA=="
 ---

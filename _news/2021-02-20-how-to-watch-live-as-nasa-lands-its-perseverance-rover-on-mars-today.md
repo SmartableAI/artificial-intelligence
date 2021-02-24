@@ -7,8 +7,8 @@ originalUrl: "https://www.cnet.com/news/nasas-perseverance-rover-mars-landing-ho
 webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
 type: article
 quality: 152
-heat: -1
-published: false
+heat: 172
+published: true
 
 provider:
   name: CNET
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to watch NASA’s Perseverance rover land on Mars today"
-    excerpt: "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars."
-    publishedDateTime: 2021-02-19T12:40:00Z
-    webUrl: "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 152
-    images:
-      - url: "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Watch NASA’s Perseverance rover landing on Mars in HD"
     excerpt: "NASA on Monday released stunning, high-definition footage of its car-sized rover landing on the Martian surface last week, the first-time that a spacecraft’s landing on Mars has been recorded in video."
     publishedDateTime: 2021-02-22T20:46:00Z

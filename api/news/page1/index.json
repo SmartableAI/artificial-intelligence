@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-ai-in-healthcare-an-insiders-guide.md",
+      "title": "AI in healthcare: An insider’s guide",
+      "excerpt": "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/",
+      "publishedDateTime": "2021-02-23T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon.md",
       "title": "SoundCommerce raises $15 million for big data insights that help retailers compete with Amazon",
       "excerpt": "SoundCommerce, a platform that unifies retailers' data from across multiple systems to deliver insights, has raised $15 million.",
@@ -50,49 +93,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-the-future-is-digital-healthcare.md",
-      "title": "The Future is Digital Healthcare",
-      "excerpt": "Prior to the coronavirus pandemic, the use of digital technology in healthcare was on a steady rise; however, the pandemic has spurred rapid development of digital health technology as well as rapid a",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/future-digital-healthcare",
-      "originalUrl": "https://www.natlawreview.com/article/future-digital-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/future-digital-healthcare?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-digital-healthcare?amp",
-      "publishedDateTime": "2021-02-23T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -157,7 +157,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -647,7 +647,7 @@
       "originalUrl": "https://www.techspot.com/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1153,48 +1153,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
-      "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
-      "excerpt": "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
-      "publishedDateTime": "2021-02-23T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-23-youtuber-asks-an-ai-for-video-ideas-gets-a-surprising-response.md",
       "title": "YouTuber asks an AI for video ideas, gets a surprising response",
       "excerpt": "British YouTuber Tom Scott has such a distinctive style to his videos that they can — and have — lent themselves quite well to parody in the past, both from humans and AIs alike. But for his latest video,",
@@ -1233,6 +1191,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-zte-reveals-improved-under-display-selfie-camera-under-display-3d-face-unlock.md",
+      "title": "ZTE reveals improved under-display selfie camera, under-display 3D face unlock",
+      "excerpt": "The first phone with an under-display selfie camera didn't deliver great results, but hopefully we see improvements here.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
+      "originalUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2020/12/ZTE-Axon-20-5G-front-display-cutout-macro-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/",
+      "publishedDateTime": "2021-02-23T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

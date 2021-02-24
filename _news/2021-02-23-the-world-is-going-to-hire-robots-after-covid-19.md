@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Bank machine learning models hit hard by Covid"
+    excerpt: "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic."
+    publishedDateTime: 2021-02-24T03:18:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37534/bank-machine-learning-models-hit-hard-by-covid"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 56
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/covid5.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "A remedy for COVID-19 learning loss?"
     excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
     publishedDateTime: 2021-02-22T20:41:00Z

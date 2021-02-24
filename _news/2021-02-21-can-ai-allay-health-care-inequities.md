@@ -29,6 +29,33 @@ images:
     isCached: true
 
 related:
+  - title: "AI in healthcare: An insider’s guide"
+    excerpt: "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare"
+    publishedDateTime: 2021-02-24T04:30:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+  - title: "The Future is Digital Healthcare"
+    excerpt: "Prior to the coronavirus pandemic, the use of digital technology in healthcare was on a steady rise; however, the pandemic has spurred rapid development of digital health technology as well as rapid a"
+    publishedDateTime: 2021-02-23T23:23:00Z
+    webUrl: "https://www.natlawreview.com/article/future-digital-healthcare"
+    ampWebUrl: "https://www.natlawreview.com/article/future-digital-healthcare?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-digital-healthcare?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 59
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Beware hype over AI-based healthcare in lower-income countries"
     excerpt: "While there is great potential for artificial intelligence to improve cancer care in low- and middle-income countries, there is also great hype surrounding the technology. Terms such as “game-changer”,"
     publishedDateTime: 2021-02-22T04:06:00Z
@@ -43,6 +70,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Artificial intelligence in health care: Protect your IP assets"
+    excerpt: "Currently the law does not accept AI systems as inventors or authors of IP, so IP protection is not available for their output — but that day may be coming.”"
+    publishedDateTime: 2021-02-19T17:15:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2021/02/19/ai-in-health-care-protect-your-ip-assets.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "fMgbrB2LxOPrVJeoWRcNkZBYu8yC84iFE6IQ+99geSTxyVyjJ/FmvYs6zh075P5dzwnGVq3PabZizLauwfoPNfLuNsrvAYQchf0LFWWbiNC4VFcwhcPH3PeIy3ig2wIOmAYF1NqYTY4EGaC+qhQ6fjgsdCaooxrKrBnQ4LCnK9j0k8C8Y7KdEZt5KL9uypaysKyGwp3T12hGypTAGpeneASlEY+C1C5eVHc0qbhRLRAfcjk8ALqVMTwq8KLjjl7VtUHNDwc+YHNkhqcqhtEC4SZM0TNXCOTsvkzQpVRJeLEuu/6UlhF1VYPp0xwyGSFrnsQ61xr/Sb1uGdP/tawciyZHev1QHP52fx5n3FXEU+3QD1c2U3YHIjUantCqA9PddfGvlkzXyENCs7u9oh+JHfPVwTjINupqU86WgbhPeHl9HX1OwB+DZr0x/Fw5D7ObtYtdEPNvhmKN4bXJvwnrg6aI25kBgWUnUrKsC6aMhpZUoVnVoMKn8pLyrLo9j5tpQCB1K6QUaOqSxJJ1hg6eLA==;+QMexhZtToMwmaO9ptRSXQ=="
 ---

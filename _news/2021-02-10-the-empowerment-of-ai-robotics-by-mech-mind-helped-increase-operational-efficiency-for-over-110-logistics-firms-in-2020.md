@@ -3,8 +3,8 @@ category: news
 title: "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020"
 excerpt: "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020."
 publishedDateTime: 2021-02-10T05:36:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59/gallery/4bb0ecb8a7655d1017849e19dfefeb38"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-asia-3d-technology-entertainment-and-media-technology-a0499316716ed011f04d10afe87b4a59"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "3ksrda3M78/Mz7/GqxPKkpOtTCXdJpUajlaTEqspRxFC+x3V+khHmlDeHHWZUhfwsnKTXpTbisD+u9326Gj798KaVsxdUkN/ob3hZPe/FDsJYubGBhqya9ixNro4tbM8l0bCOmDQTfmQMAv7ku7Fz7H9eQRRyMxB4MBb1pGdthmdaD08veiKR7ghbIDAJcEtygMvKwxn6xtrgg6FLm2veQH6qcD9+e87/j8H68BL4d26iUJMeWxHibhd5+6CPu+xMVi1gyWOAyGmk0fZnCoda4ZIp3eOgNcChmajJ7v+/EY1NGXu7k8ZwEW7SwCjXq/mQUU1xD87B1782RUdEvttxcBM2COpJjWUmflFiyNSpaA=;LAUan9FYGwGC1Kz5pfJ8CA=="
+secured: "+lGsNdfBxG+uUT/bFwcAY4jswHC8XgyFnbPjt9J8qTlmqL8yShLYJromeEH5KiaqbnlulaY47Tzy58oO9Dsxdo3IsvU20MnA0yOGbUnRTArWuWMP3YkxD8cEcsE48NBnvvVHxNjmKX2sf78z4fps/UHFsB01KUVW0lSc8pS30wvu/Bs4SAVwKMq99Qf2P1Zy2r6RQSUtUhwquDC/gtq7j8YaIYA2m7Q/SoykHrvTnfl0u4K/dwQ0wwvWUUmLa/WKvT96CAMzlNjVBiKy07pMg5vVuXTuvHENer+H9DfiOD8rNXf92RvQfw3UrYOi3Eg9pHlacPNHoQUXAWn1jT0NQJAQLpMXQLYuadCbDSD8jKU=;PfrMcyZnu4s7L9De4mWwmg=="
 ---
 

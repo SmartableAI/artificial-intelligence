@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Farm Tech Startup Future Acres Launches"
-excerpt: "Future Acres, Inc., a Santa Monica-based food technology company, launched on Feb. 23 with the goal of raising $3 million in a seed funding round. Future Acres said it will use New York-based SeedInvest,"
+excerpt: "Future Acres Inc., a Santa Monica-based food technology company, launched on Feb. 23 with the goal of raising $3 million in a seed funding round. Future Acres said it will use New York-based SeedInvest,"
 publishedDateTime: 2021-02-23T23:10:00Z
-originalUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches-seeking-3-/"
-webUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches-seeking-3-/"
+originalUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches/"
+webUrl: "https://labusinessjournal.com/news/2021/feb/23/farm-tech-startup-future-acres-launches/"
 type: article
 quality: 24
 heat: -1
@@ -53,6 +53,6 @@ related:
       domain: businessinsider.com
     quality: 71
 
-secured: "Eu6tIhVYQpYitQAelNoOhqkYjKr/PmkwxXrbSsRQ975ggUFFjEdVPFitH4pW2EXceM1dPS4tK7QkI5A3BQUXd3Y4i8nd55ykVcLj6q7tLR8CV2Fnp1w5C2/PcXFuF1Fw9f9L74GbFbcmHu92UNSnTlEelmVqKta/1M2PPHoomXrLkOZbF/rvwohUsrEqIXq4vs+oKA9cwd4fwwreoewLj6Pr4e/m8/H6dXBwLXgyFgIc4B82qMykB2K7f5nUeyjWuSnbERxUb6no1kZX0HGWAQGQtYUCqjlklxJ3Dlc4bfh1bp9Do042TXXlwwAB3//YksiYfX1f9oKt64d68PN+1LbfpYahTdGYJ9ebuJbnQkc=;HvBq7IOyFpK2Rm4aOTpmbQ=="
+secured: "Ix4b7bYvbtTUdn7+BFvaSi+ILE+4ubcCotEw0K5Q2uHyP+d1+5JpDWHD1oj0f6KkXTdZD675fOrJrx5abq+PMeFtERN20hoUuzwnE2ZIu/pgYs6jxbeHLnhz/6hhHgX5QHa8fwyvkd5pDE0hfBgwZxfQkrHHOw1yTnQR1y4hxuAfNA+AnGQ79NKI01WCa27nOOWgOW7src67UU46ebRd+Jykvkn1j/EBU0FaLi8ZopLKZNi8ho9JNApgzsYSXQpt5UqD9uGLavnHPTY0OeM7oXc7en+nobQQMxx/2G1eaD4GhH8x0jKup4KUzZlTRIHkFZqbiJ3eumohEXNgiERZtWf9yCTiVj6PMdmyXpL8HGM=;f0kE0PXa4y5hE1snGXPk3A=="
 ---
 

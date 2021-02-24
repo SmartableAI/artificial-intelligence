@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/future-digital-healthcare?amp"
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-digital-healthcare?amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The National Law Review
@@ -27,34 +27,54 @@ images:
     isCached: true
 
 related:
-  - title: "Future of healthcare shaping up before our eyes"
-    excerpt: "The future of healthcare is shaping up in front of our very eyes with advances in digital healthcare technologies, such as artificial intelligence, 3D-printing, robotics and inventory management. With the need for digital acceleration to support the healthcare landscape since the onset of the Covid-19 global pandemic,"
-    publishedDateTime: 2021-02-23T06:55:00Z
-    webUrl: "https://gadget.co.za/future-of-healthcare-shaping-up-before-our-eyes/"
+  - title: "AI in healthcare: An insider’s guide"
+    excerpt: "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare"
+    publishedDateTime: 2021-02-24T04:30:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+  - title: "Beware hype over AI-based healthcare in lower-income countries"
+    excerpt: "While there is great potential for artificial intelligence to improve cancer care in low- and middle-income countries, there is also great hype surrounding the technology. Terms such as “game-changer”,"
+    publishedDateTime: 2021-02-22T04:06:00Z
+    webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c6b6d98-fdf9-4c92-98fe-de13be88a63c.jpg?source=next-opengraph&fit=scale-down&width=900"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Can AI allay health care inequities?"
+    excerpt: "COVID-19 has highlighted racial disparities in the U.S. health care system. And one doctor writes in Forbes what he believes is the solution: artificial intelligence."
+    publishedDateTime: 2021-02-21T03:00:00Z
+    webUrl: "https://www.linkedin.com/news/story/can-ai-allay-health-care-inequities-5371546/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/doctor-laptop-computer-medical-health.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
+      - url: "https://media-exp1.licdn.com/dms/image/C561AAQF1qmo5ISwqyw/storylineheaderimage-shrink_400_400/0/1613592541240?e=1613973600&v=beta&t=Aog3z6lNPMY_HvL8i8xyh633NFifwz97qAknX_PF-8w"
+        width: 400
+        height: 248
         isCached: true
-  - title: "The French National Authority for Health unveils its classification of digital solutions used in healthcare"
-    excerpt: "Haute Autorité de Santé (HAS) in this first classification. This system has been developed in the context of the multiplication of digital tools that can be used in today’s health care. The solutions examined are classified according to their purpose of use,"
-    publishedDateTime: 2021-02-19T14:56:00Z
-    webUrl: "https://www.actuia.com/english/the-french-national-authority-for-health-unveils-its-classification-of-digital-solutions-used-in-healthcare/"
+  - title: "Artificial intelligence in health care: Protect your IP assets"
+    excerpt: "Currently the law does not accept AI systems as inventors or authors of IP, so IP protection is not available for their output — but that day may be coming.”"
+    publishedDateTime: 2021-02-19T17:15:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2021/02/19/ai-in-health-care-protect-your-ip-assets.html"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 21
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/02/HAS-classification-solutions-numeriques.png"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "jdo9FKboyhpPs8h5Zcg+GWWd2QYG4mDCNURXTDKfmdBg0f878cdaYvcNO/S0qLAXxJXmSYHB01RmJHv4ndQLYus8VeZ6axzCwyc6NHP2nIiqAYMaQfCbEOXfUtYgGg1uV/0bfQUY6280nu6wS32gvmb3Tva7ORDIrBmXJYI6SegN1Vt+hUAr8440nMqByQk4XrQLnrV02qY9YvrA8eO/XLu/HHrpJQ28MWJmUVQgAjOA1AGvXWqjmPi0Ny0rx9GnmQqve7Z/B8H8TAwSeFsQnZDu9HDlHwlmJjxPT7kaqesePaBT2ZqnINurKX1Dr1aXhkp2DKTttjdDpd9M5K/uYxPOD6uFADdxlTS3rwj+RNkQqanmtpcQmbwpsktKg+j0EqoKSYTWHf57Fmbo29HDDI8an5X73qORpPOlBp6Aw0EfddF2smHISM6lwCe4QULQ0A358QoB9r2ho0lsYSJrNb1BLy+LAwBOb4fjtETpZ4ZJ9//QqLyVKV6086d+U5vYHm3b+FyKeKRXgI/uc6MYog==;fzfGlEmho9aO4OjzlfrSYg=="
 ---

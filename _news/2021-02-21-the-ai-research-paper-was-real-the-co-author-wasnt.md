@@ -2,12 +2,12 @@
 category: news
 title: "The AI research paper was real. The “co-author” wasn’t"
 excerpt: "The name Cox isn’t uncommon, so he figured there must be another David Cox doing AI research. “Then I opened up the PDF and saw my own picture looking back at me,” Cox says. “It was unbelievable.” It isn’t clear how prevalent this kind of academic fraud may be or why someone would list as a co-author someone not involved in the research."
-publishedDateTime: 2021-02-21T11:54:00Z
-originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1&start=80"
-webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/?comments=1&start=80"
+publishedDateTime: 2021-02-21T11:50:00Z
+originalUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
+webUrl: "https://arstechnica.com/science/2021/02/the-ai-research-paper-was-real-the-coauthor-wasnt/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -27,24 +27,6 @@ images:
     height: 380
     isCached: true
 
-related:
-  - title: "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't"
-    excerpt: "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\""
-    publishedDateTime: 2021-02-19T12:02:00Z
-    webUrl: "https://www.wired.com/story/ai-research-paper-real-coauthor-not/"
-    ampWebUrl: "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
-    images:
-      - url: "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-
-secured: "Y10If3spJYSJyH21y9C7NmHkxTmJgyB5bm5iu/zvastCtHvPS7agv9kShisSQO7LKeyBNc2A5HNo7gv9zBhukOxxextvfQKH1obAk4ha035N9R+EATBmu3tS/oLVVWF4R9o2z6z7ufPq8eKRUc+ZlP/2UcwOoIdqapSHDOTfrkDCqYOJLu2KxT+bmzcqf6HPvpHm35WWYMbmsstDqf91QfrFF1OtMu6oGzARpdYlm1aqEq2lfAFgAGQwGhQT5nhkNikqXhK5cl4rOySr/umaLIMjynpQevQ0cUIuT9TgNMqGIU8Ln8JEwD+7xVXpb75gjSAlKPUDW2UnHdFKUMOy7Lopd0TqyessgzV+9BL73/w=;7qw1FPkyTSoGKPHifQOnCA=="
+secured: "JfPikW6GqHpk8NiVETijUSKj5BUqKBG0Jt1tF4jNJNPg7oQOE3ehF9q464qcHYlXjHn2WE4yzd/52UEvxzcRC7qZf25Sq5L0kc0QCrYCMGmTQ9W8FR9ZSWhZy1cmtNo3ciAeVRQHKkHBCOWUjMpuQSenWN7A47saEeiKbFfVEUSI1dsKtOYd/fiSFfzREWfa6dLffyFQfxlrJtbX5MVr7iFLdqeFn7mhyYOdkxUjDiobqLF2tawLfJXr20v34iUSGKiT8M/fMxNKWCenlmvPdREp8MONZlG4XX4jlUWcqk78YqvALGd4QT/PVwYRfi6ZWwapdsORk3PfFU1jUqDZ1CWmlvV+F11LWrdzvAbyAAc=;CRm7E+Nbo4dssfk4UasQTA=="
 ---
 

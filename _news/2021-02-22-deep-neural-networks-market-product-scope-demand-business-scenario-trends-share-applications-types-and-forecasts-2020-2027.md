@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast to 2027"
-    excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
-    publishedDateTime: 2021-02-19T12:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-to-2027-2021-02-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026"
     excerpt: "Voice and Speech Recognition Market” The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global"
     publishedDateTime: 2021-02-20T23:00:00Z
@@ -73,17 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Global Facial Recognition Market 2021-2027 Trends, Research Report, Growth Trends, Opportunities, Forecast to 2027"
-    excerpt: "The Global Facial Recognition Market size is expected to grow at an annual average of 16 3 during 2021 2027 Face recognition has recently attracted attention because it has advantages over conventional surveillance technologies such as biometrics Governments around the"
-    publishedDateTime: 2021-02-19T13:02:00Z
-    webUrl: "https://www.openpr.com/news/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    ampWebUrl: "https://www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2245607/global-facial-recognition-market-2021-2027-trends-research"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 17
 
 secured: "Ct88wR6ooIhZ/XJbj/TnxDEeYiNcnKtyY3Nxk2+hFG+T7XqIwl99IZ+bZdgOLOiiDXdBxZkIYdQJR1HvHUqGk9b0TmEIGbFHZIfzFu7bHk/NSoq8It538V2Yhhjm0Ikr0N5+Rg/OmwZeVtgklS8s+vWDqEosNEpaD46gElvzRri85MlhXn63m5+jhRnzf/5HD+QMElCHCa3rzjqRa+LY7tjQi8Ly76yf/R/oawL7dgRtbKue2Fz85Q5yXQps4SLWrVIvz2Jacjqzp7yzdpngFMM9YysmcpoLoP44I3dGiayRj5Y6Rgl34TTjT9QVTk+gy+i2XOvmJj0j9fPTG7c62tMgatw49O+UHcCjCWayGIU=;bTghQiS+9coVhTgyd0Jw6Q=="
 ---

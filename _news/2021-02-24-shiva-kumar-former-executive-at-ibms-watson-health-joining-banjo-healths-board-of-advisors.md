@@ -2,31 +2,25 @@
 category: news
 title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
 excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-publishedDateTime: 2021-02-23T20:04:00Z
-originalUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
-webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+publishedDateTime: 2021-02-23T19:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/shiva-kumar-former-executive-at-ibm-s-watson-health-joining-banjo-health-s-board-of-advisors-1030114898"
+webUrl: "https://markets.businessinsider.com/news/stocks/shiva-kumar-former-executive-at-ibm-s-watson-health-joining-banjo-health-s-board-of-advisors-1030114898"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
@@ -181,20 +175,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "IBM reportedly looking to sell or spin off its Watson Health business"
-    excerpt: "IBM, which already is planning to split into two companies, is considering the sale of its high-profile Watson Health unit to further streamline the company, according to a report in The Wall Street J"
-    publishedDateTime: 2021-02-19T11:44:00Z
-    webUrl: "https://www.wraltechwire.com/2021/02/19/ibm-reportedly-looking-to-sell-or-spin-off-its-watson-health-business/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 39
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
   - title: "IBM reportedly mulling spinoff of $1B Watson Health unit"
     excerpt: "The tipsters didn’t say what price IBM is targeting for the prospective sale. But they did share some financial information about the Watson Health unit itself, which is reportedly generating about $1 billion in annual revenues and currently isn’t profitable."
     publishedDateTime: 2021-02-19T22:41:00Z
@@ -288,6 +268,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "8jrc2sjcxztiN2QaKnElEHeMfqAvzdhMgC5KwuYnbJdcmvw2GnqMfP39DLIqd37iRqM8UejJa9Fr1sNXpRky8s6CcEDgF2YQZn02+wzazU+XWlNmp3WBhooMwFiRoDnX3cjyGEejRpHET+Dkv4iM7XWbucjumAEJ9qc13gnc4g6h2FhkAIUMaMNLOdCOy+mRCC0xDmDdqjIi1tIrz/PnlZDBR5yn98Y4U0oZGJZgYIG9r25QrC0y4Mwuz3aexwLJmfRP5r+4TWpTBoZOASGiDNxApwlbCDXJ4a+q0JnfoSdRgjBKULNKhRLLjsBplFbpcSTbIxDHlQ9kLtXru4SM4cpKgXHuMLCyR3PsuSWvQC8=;lV1KI10uTBasqTE9wFqDag=="
+secured: "0LprvG6HPMOhFnvl4Y1zbIM6f4tKRjdT9suR1WlCr0f4fCQPz/1tniLstTEDevP0EyYFXIvg/tJRfFCWywUsCHBycJWzjSGsYO6GpVodk/HXZ5EDkCSceoTHobqMpy4iHzgH9oYZ3JN3nS4bN/IH6qW7KKWutygrjNS6hoHB8GdGWwJg6ITW5S81OQs0YRCoyhtGt8XlK755OSFfCqwi6mpbGgVM18WNW+vk2v46fvqph1OSWnXAdlnLrLhsJIaxcZa1jsm2F27E5biVEeFnoUQGQZ4NJHR5ONIoUj5If/YwvQic8i01jJ8h1zE96ae58LPjdqGP3GGGI3QAqT/8u3v5QzQZgwSUgXy07/TU+OA=;yYh31daoun4yJi89SS0pwA=="
 ---
 

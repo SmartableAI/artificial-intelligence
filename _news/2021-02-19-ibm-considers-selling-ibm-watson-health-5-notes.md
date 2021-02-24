@@ -105,20 +105,6 @@ related:
         width: 960
         height: 420
         isCached: true
-  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-    publishedDateTime: 2021-02-23T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IBM Watson AI XPRIZE; Leveraging AI for the good of people"
     excerpt: "The IBM Watson AI XPRIZE finalists; Leveraging AI in the fight against human trafficking, malaria and mental health “THE IBM WATSON AI XPRIZE IS MORE THAN A COMPETITION - IT IS A FUTURE-THINKING INITIATIVE AIMED AT ESTABLISHING A MORE BALANCED DIALOGUE AROUND AI - IN PARTICULAR ABOUT HOW HUMANS AND MACHINES CAN COLLABORATE TOGETHER TOWARDS A BETTER FUTURE."
     publishedDateTime: 2021-02-20T00:48:00Z
@@ -177,20 +163,6 @@ related:
         width: 619
         height: 416
         isCached: true
-  - title: "IBM reportedly looking to sell or spin off its Watson Health business"
-    excerpt: "IBM, which already is planning to split into two companies, is considering the sale of its high-profile Watson Health unit to further streamline the company, according to a report in The Wall Street J"
-    publishedDateTime: 2021-02-19T11:44:00Z
-    webUrl: "https://www.wraltechwire.com/2021/02/19/ibm-reportedly-looking-to-sell-or-spin-off-its-watson-health-business/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 39
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
   - title: "IBM reportedly mulling spinoff of $1B Watson Health unit"
     excerpt: "The tipsters didn’t say what price IBM is targeting for the prospective sale. But they did share some financial information about the Watson Health unit itself, which is reportedly generating about $1 billion in annual revenues and currently isn’t profitable."
     publishedDateTime: 2021-02-19T22:41:00Z
@@ -247,6 +219,15 @@ related:
         width: 620
         height: 432
         isCached: true
+  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
+    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
+    publishedDateTime: 2021-02-23T19:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/shiva-kumar-former-executive-at-ibm-s-watson-health-joining-banjo-health-s-board-of-advisors-1030114898"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 37
   - title: "IBM considering to sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
     publishedDateTime: 2021-02-20T04:00:00Z

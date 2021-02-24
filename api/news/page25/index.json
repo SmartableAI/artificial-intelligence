@@ -2,6 +2,57 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-03-hourly-job-matching-startup-landed-raises-14m.md",
+      "title": "Hourly job-matching startup Landed raises $1.4M",
+      "excerpt": "Landed, a startup aiming to improve the hiring process for hourly employers and job applicants, is officially launching its mobile app today. It’s also announcing that it has raised $1.4 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/02/landed-seed-funding/",
+      "originalUrl": "https://techcrunch.com/2021/02/02/landed-seed-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/LANDED_IMAGE_TC.jpg?w=1024",
+          "width": 1024,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/02/landed-seed-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/02/landed-seed-funding/amp/",
+      "publishedDateTime": "2021-02-02T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-jeff-bezos-steps-down-as-ceoand-shows-amazon-is-a-cloud-company-now.md",
       "title": "Jeff Bezos Steps Down as CEO—and Shows Amazon Is a Cloud Company Now",
       "excerpt": "It also launched a new cloud-based computer-vision service called Rekognition. These services are both a “powerful revenue generator and a key to Amazon’s AI flywheel, as customers as ...",
@@ -1154,49 +1205,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-advanceai-launches-advance-intelligence-group-parent-brand.md",
-      "title": "ADVANCE.AI Launches 'Advance Intelligence Group' Parent Brand",
-      "excerpt": "ADVANCE.AI, a homegrown AI and big data company in Asia helping to solve digital transformation, fraud prevention, and process automation for enterprise clients, is today formally announcing its corporate parent brand Advance Intelligence Group.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/advance-ai-launches-advance-intelligence-group-parent-brand-1030031079",
-      "publishedDateTime": "2021-02-01T22:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

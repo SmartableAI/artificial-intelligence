@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
 webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,33 @@ images:
     isCached: true
 
 related:
+  - title: "AI in healthcare: An insider’s guide"
+    excerpt: "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare"
+    publishedDateTime: 2021-02-24T04:30:00Z
+    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 84
+  - title: "The Future is Digital Healthcare"
+    excerpt: "Prior to the coronavirus pandemic, the use of digital technology in healthcare was on a steady rise; however, the pandemic has spurred rapid development of digital health technology as well as rapid a"
+    publishedDateTime: 2021-02-23T23:23:00Z
+    webUrl: "https://www.natlawreview.com/article/future-digital-healthcare"
+    ampWebUrl: "https://www.natlawreview.com/article/future-digital-healthcare?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-digital-healthcare?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 59
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Can AI allay health care inequities?"
     excerpt: "COVID-19 has highlighted racial disparities in the U.S. health care system. And one doctor writes in Forbes what he believes is the solution: artificial intelligence."
     publishedDateTime: 2021-02-21T03:00:00Z
@@ -39,6 +66,15 @@ related:
         width: 400
         height: 248
         isCached: true
+  - title: "Artificial intelligence in health care: Protect your IP assets"
+    excerpt: "Currently the law does not accept AI systems as inventors or authors of IP, so IP protection is not available for their output — but that day may be coming.”"
+    publishedDateTime: 2021-02-19T17:15:00Z
+    webUrl: "https://www.bizjournals.com/nashville/news/2021/02/19/ai-in-health-care-protect-your-ip-assets.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 21
 
 secured: "23svW2H5wl90osHzX5WYa02Q7fY9ZXjllHiNhYjYisvmsyXTpXZyTEKhP2vaXHF8Z79OHnI/wGavOZdtCyEeC771UOFDGxgt47AkP8k8+Jg7NbE5VQIjZXt5vsup+RfiPnIn/4z2Ls2682B8sdzVEW+9se8V9i92THt6H3EcgUG4seIQn+PmAmy233ltqwCgs26qHXgVH71+UZXKj5PN2afGrmLlcTV4ZyYFgSq8Vq8YCnZjit/AxvgBJQiSgpPYBC6QdiFeQR6C/76CC/0w0MFlr3nbRs2R2nJPJhiryN+0B+JerQmT13THf2GA3qPZR+E3NYTpGC2mRUVqJoc86FnxaPF5NiZbD4nImV+uuw3oMnh53BY41RdTPs90Ih1VZkXFJKaDESzmumGVDYddDMYivHnjKYMlg+v0flx072UG5cxoouPPc6Nw9bw8zTvz0bUjs+a3NrrcVYxuZza0+IC1FDIUqpMElb83pXYb0DEZwMVwtRJeXGzflrVNstL8whzrT+z44Qug0kQ0go4A8g==;whVjtd/Oa5TL/TG37J/N8A=="
 ---
