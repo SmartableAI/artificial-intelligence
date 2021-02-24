@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "May_Mobility"
   url: "https://twitter.com/May_Mobility"
-  followers: 2089
+  followers: 2088
 
 size: 51-200 employees
 yearFounded: 2017
