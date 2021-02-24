@@ -3,11 +3,11 @@ category: news
 title: "Why driverless cars are paradise on wheels for some"
 excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
 publishedDateTime: 2021-02-24T09:59:00Z
-originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
-webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
+originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
+webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -43,21 +43,7 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "To the list of places testing driverless cars, add Las Vegas"
-    excerpt: "Last month, Chinese search giant Baidu received a permit from California to test vehicles ... Alphabet-owned Waymo and General Motors’ Cruise have kicked off similar self-driving ventures. Testing autonomous cars on public roads isn’t fail-proof."
-    publishedDateTime: 2021-02-23T02:09:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/02/22/hyundai-driverless-cars-vegas/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTV2YSAVTVCBLLZC6GMI4FA2EA.png&w=1440"
-        width: 1440
-        height: 805
-        isCached: true
 
-secured: "xk36tPm7sFxw25DB2mQGgR6+EPV3vhzNSKrBD9HV0cM17z69vTZwn3QV1rc7dZ6xS/T32FJN0YNHusP0ugt3+wHlTokJDnX4zRbsdrXiVqt8Cg7prwtHlv8iBIHZ7e0k9sqqNLJQFvlEHsmuoI/saKxsWJ1HTOZoi7QhLWU+VYwwlHYQN4vc4hwe1aegSN0UuyUVRV14Hd5ZmJLIGevJzxy60cfM4vDMszGtCRN8vRfWYq9c+G1p1CtuDmsq5wBVEhwnh1JS3in79e99GyD6ZjJpskLNVeqWYKWI777xhFefIwKUH4dy+q1SkhDit9d6iJf+ebA6OchVGUksm9Nj2temy8RRUTAUR8g+Y+Q3ZwxVkN812AzTmWcJiVociDuk6ojdz9X+v6t1MLpsxIZQ0xr4v14PciKNYX+BjJUxRSXv7wZrZBM0Xl70/q7oJq43DXezrarTvFAJTKE//MCRdHzBYeepKyNQgmzLkfipvXMJtHM4T2IlB8e53uKd9vQzz4Crup4COVYcG7JGGYGz1w==;UmH9WU6fdwdS+x2Q8M8ePQ=="
+secured: "fYeUHJ/ZVW5mYfBhnxX3uexRU8/J8w4u1qucWNHwzOc4+ufylGm650wmZAPlfF0Z/PmawZ23e/7xXfrA3b2IAMtamKaTkUPb7BDJqGyS/aKP3Q2mZHxd4qoKd8QEoCHtPYjqKRN3k0SmqC0rroxQDXUVYhjwdZiMOgw8OqrZLI74yhg47gm1M796Lnau63xBnSWK/ePfiy5gBXc0DdmmBEGwbV3TpMTVCVtz89AU3WI0ssiyLvJSlPnkfOlyfDpUa6bxNSPY/8pKFV1HGMMsYcGLpGASt5C6Hk2BErund+rUgxPFWeRSPvJGm/KqZ4bAZuTKJQUJ7SfgnYHu6Mf7gIen1JI1WVqWPGCduDekhxc=;52Nec5W1JoNJvQOscWKMYA=="
 ---
 

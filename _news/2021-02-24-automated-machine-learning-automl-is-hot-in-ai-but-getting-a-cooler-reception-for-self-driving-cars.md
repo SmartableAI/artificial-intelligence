@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/"
 type: article
 quality: 107
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602751e6c254164f50f2d2ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D35%26cropY2%3D4175"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
-    excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
-    publishedDateTime: 2021-02-19T22:43:00Z
-    webUrl: "https://www.thestreet.com/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/7EvaZZzT-720.jpg"
-        width: 720
-        height: 406
         isCached: true
   - title: "Automatic segmentation of inner ear on CT-scan using auto-context convolutional neural network"
     excerpt: "Temporal bone CT-scan is largely used for diagnostic and surgical preplanning in diseases involving the inner ear such as hearing loss and balance disorders 1. In routine practice, this technique offers a series of 2D images which are browsed back and forth by the practitioner to mentally deduce 3D information and to this end 3D reconstructions have been applied to training and surgical planning 2."

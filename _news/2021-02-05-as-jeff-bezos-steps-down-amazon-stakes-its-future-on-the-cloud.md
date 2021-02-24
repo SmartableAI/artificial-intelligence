@@ -1,28 +1,26 @@
 ---
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
-excerpt: "Jeff Bezos has been Amazon's CEO since its founding in 1995. He will remain as Amazon's executive chairman with AWS CEO Andy Jassy as his successor."
-publishedDateTime: 2021-02-04T19:11:00Z
-originalUrl: "https://www.waaytv.com/content/national/573729632.html"
-webUrl: "https://www.waaytv.com/content/national/573729632.html"
-ampWebUrl: "http://www.waaytv.com/templates/AMP?contentID=573729632"
-cdnAmpWebUrl: "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=573729632"
+excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
+publishedDateTime: 2021-02-04T17:20:00Z
+originalUrl: "https://democratherald.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_dfa0903d-b58c-59c8-8526-ddf43f2665bc.html"
+webUrl: "https://democratherald.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_dfa0903d-b58c-59c8-8526-ddf43f2665bc.html"
 type: article
 
 provider:
-  name: WAAY-TV
-  domain: waaytv.com
+  name: Albany Democrat-Herald
+  domain: democratherald.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png"
-    width: 640
-    height: 380
+  - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/7/d4/7d4a405f-51ae-597e-977c-ad43f910bead/601c56785fa92.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
     isCached: true
 
-secured: "XF5x6NAp3QImcj86o5kY383jkAPoE65oqC/PgRkQqUFNCwOI1+Jgen2NRgkpqOVlSbuBB4xv+B17mWIBah4tTm+DoIluOHInR2K2dUU5/WflsHAp5Oa9qOMwqJTt1dFaHA17MxGKHV3ZgHEbcJKLr9YcARYVzgoG3M4Xk+vafSWYNzq3m1sxR2cCCCeh3jvqRLsCX8iOY2AKEwKK6ZTdjz38I4/di2wP+2lkBwrLqU7ZYsszJa2H36RnCPaNp4e7TI96Gt5vmD92k99wbEpIN8ZvVve7K0uJ5McG/qjg7uqnb3FMj4+BaZHC4fQC8wpz5WdIHpzawOC8ziAmsGCO7n6GL1Fpn7pcx0w3IdQ4a1IV7M7dv9A4pduEYukt1TfPgjQTOHh/y+9M4rVLUJ9S9YhKqwn8PZ3GV5YmPSdOYS8I6mwX0HrbGEJAJN1LB3jk0WfkGLjHsSKYIuLI8AV1Ke6Q6FONWZGcBw3P6cI4+sAFHuFkQiZlhK42RzrXxQldECK1RFDbllTUqTic5W5Mjw==;wquVpL0+tOfL5c5h5tunkQ=="
+secured: "/14rWyx6nhuXsxlzjSSSgKHrFYlTyjvywq3f8Xj38PI+bS5o8pNizLkHQuHY0H76cDePbJhFF32Utaly71AcyrLC2kiXQ0hRucd149R8fOExkR8z9ueATbXmcxxS6/fAxYwbFF3MixXUG/HiX0VAQAyQMCR+i05wqpNyH3aEYS+d2FfNlUlcA/y1Hl/D/WLkGdB1MZd9oZtIXvYxPmnZMZjBZkD89aa+vcOKD8FvFKcNOnvGK7n7+hF/G+CLRAXKTXxd9mKHx13sb8sxpFCrGVC+lfMnUW9n0Cu9rualQ4sT6ThjyoBU958xhogrKrbLxA5fW3sV3oqfnj7ksNjIFgmgoNq/+DiCOMZLg7fSWRA=;8iGnVQylZe6Nl3QjNR2MfA=="
 ---
 

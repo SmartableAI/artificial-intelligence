@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-10-uber-riders-might-be-able-to-hail-self-driving-toyota-minivans-with-help-of-aurora.md",
+      "title": "Uber riders might be able to hail self-driving Toyota minivans with help of Aurora",
+      "excerpt": "At the end of last year, it looked like Uber's self-driving cars were done for good when autonomous vehicle tech startup Aurora took over its robocars unit as part of a $400 million deal.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides/",
+      "originalUrl": "https://mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F02%252F09%252F96%252F9dcda36f8d5f4ae381b66173d17682b6.09d37.jpg%252F1200x630.jpg?signature=i6khbDn4luwz2MajncVoX7Chil8=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides.amp",
+      "publishedDateTime": "2021-02-09T19:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-gms-super-cruise-feels-like-its-self-driving-but-its-not.md",
       "title": "GM's Super Cruise feels like it's self-driving, but it's not",
       "excerpt": "A January survey from online car shopping site Autolist.com found that 36 percent of 3,380 car buyers think self-driving features like Super Cruise make a car safer. Another 36 percent of ...",
@@ -1384,40 +1427,6 @@
         "AI",
         "AWS AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-looking-for-self-driving-cars-the-driv-etf-has-you-covered.md",
-      "title": "Looking for Self-Driving Cars? The DRIV ETF Has You Covered",
-      "excerpt": "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03",
-      "originalUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp",
-      "publishedDateTime": "2021-02-03T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

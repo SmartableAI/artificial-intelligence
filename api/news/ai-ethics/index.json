@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-22-google-fires-top-ethical-ai-expert-margaret-mitchell.md",
-      "title": "Google fires top ethical AI expert Margaret Mitchell",
-      "excerpt": "Google has fired the co-lead of the company's ethical AI unit, Margaret Mitchell, on the heels of the removal of Timnit Gebru.  Mitchell, an ethical artificial intelligence (AI) expert who has previously worked on machine learning bias,",
+      "path": "_news/2021-02-21-google-fires-another-top-researcher-on-its-ai-ethics-team.md",
+      "title": "Google Fires Another Top Researcher on Its AI Ethics Team",
+      "excerpt": "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "originalUrl": "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
+      "webUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173",
+      "originalUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 364,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png",
-          "width": 1600,
-          "height": 1069,
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qor3uucrnhamtzuoqiyn.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,16 +77,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "publishedDateTime": "2021-02-22T03:27:00-08:00",
+      "ampWebUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp",
+      "publishedDateTime": "2021-02-20T16:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -102,8 +102,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -161,21 +161,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit.md",
-      "title": "Head Of Google Ethical AI Team Fired Three Months After Co-Leader’s Controversial Exit",
-      "excerpt": "The company says Margaret Mitchell had taken company sensitive documents and private employee data following the acrimonious departure researcher Timnit Gebru.",
+      "path": "_news/2021-02-20-google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim.md",
+      "title": "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim",
+      "excerpt": "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/",
-      "originalUrl": "https://www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/",
+      "webUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
+      "originalUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603050bc948805e773cd566f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1277%26cropY1%3D67%26cropY2%3D785",
-          "width": 1200,
-          "height": 675,
+          "url": "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -183,23 +183,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2021/02/19/head-of-google-ethical-ai-team-fired-three-months-after-co-leaders-controversial-exit/amp/",
-      "publishedDateTime": "2021-02-19T16:24:00-08:00",
+      "ampWebUrl": "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
+      "publishedDateTime": "2021-02-19T20:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -208,8 +199,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI"
       ]
     },
     {

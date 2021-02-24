@@ -25,34 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Why driverless cars are paradise on wheels for some"
-    excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
-    publishedDateTime: 2021-02-24T09:59:00Z
-    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
+  - title: "Motional is now testing fully autonomous vehicles in Las Vegas"
+    excerpt: "Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas."
+    publishedDateTime: 2021-02-22T13:00:00Z
+    webUrl: "https://www.theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas
+      domain: theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas
+    quality: 142
     images:
-      - url: "https://images.mktw.net/im-301724/social"
-        width: 1280
-        height: 640
+      - url: "https://cdn.vox-cdn.com/thumbor/wMyEN4GjNku-j3tevvKBInkwsEA=/0x0:1877x1252/1400x933/filters:focal(789x476:1089x776):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68854024/Motional1.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
-  - title: "Artificial cities could pave the way to driverless adoption"
-    excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
-    publishedDateTime: 2021-02-23T11:04:00Z
-    webUrl: "https://www.americancityandcounty.com/2021/02/23/artificial-cities-could-pave-the-way-to-driverless-adoption/"
+  - title: "Continental invests in the future of chips for autonomous vehicles"
+    excerpt: "Without faster chips, there will be no networking, no automation and no autonomous driving,” emphasizes Frank Petznick, head of the Advanced Driver Assistance Systems business unit at Continental. “Through our own research in the area of new chip designs,"
+    publishedDateTime: 2021-02-23T09:18:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/continental-invests-in-the-future-of-chips-for-autonomous-vehicles/"
     type: article
     provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 39
-    images:
-      - url: "https://www.americancityandcounty.com/files/2021/02/nvidia-self-driving-car-drive-px-overview-social-image-800x400.jpg"
-        width: 800
-        height: 400
-        isCached: true
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 21
 
 secured: "XKVWMcrvL8McBqikaTz+4Mj+XOoDlzhYRWHGufWGpuudcEnPY0km3zEViJd5OL5zlJ6A5F63ZTg1d4SoQOKQ7Bdr7A/DBRv/h1tk1cVaVpe8lq40IRVrGdGCtIO5gxfYm1o9ZoatP89ZZVwY+PgfD0tqD8OzGqLXMa//FUsVX2uC6hJAKcIKhkHG4RbMNNOMtMktQw1VX7pDPVTu4Ft9fOyKdE64N2RhjbABNFQx/5ROXgfK+KFvrqKORtbaFp9rWzP+YgzoimVxJCWmFNgRCbrdLHVgoGoVoPmLWQiZTiCTOhHnPoAmY10u2+8F58T27LGrdeAtJQbHIfsoGCqljuCYzhlDQi3vN/DDucxiO6c=;ozpoGW5agzf+tMszrAHnug=="
 ---

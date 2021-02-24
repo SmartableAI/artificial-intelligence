@@ -141,6 +141,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How AI & Price Optimization Can Offset COVID-19’s Impact on B2B Supply Chains"
+    excerpt: "In this contributed article, Barrett Thompson, General Manager of Commercial Excellence at Zilliant, highlights that while 2020 has provided no shortage of supply chain challenges, adopting AI and price optimization can offset negative financial impacts."
+    publishedDateTime: 2021-02-24T14:02:00Z
+    webUrl: "https://insidebigdata.com/2021/02/24/how-ai-price-optimization-can-offset-covid-19s-impact-on-b2b-supply-chains/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 14
 
 secured: "u28I1kClljUKOgnvT91QjPNK1zdAyps7fclgBEZvMNECPb61iphINnCcaPuvCj+pRKWns0mh4i7HRaOaG+LykwJ8+CU8lVOOEsyI3y2K20Hw/4jcs8rUf7kn9GrmOp9MhoEhMAsuyFFJikeQSmlqUh8uLAX8d7TOVaGtCoQ73w3zWah75yf6fNFcbHSJzZYHxTrTTTCh9devJU0JGyevR4hDQ7dyDuw4wYysY3Nljt9SS5W98Om74WYPvcoxizFlcMSkNhYm5aDM/3W7hwMP43BBfGqrcJ7o9/1wR8IrBwSTWm1OGF2FZjLM+fgrF6P96DT58H+s+X2PlMk2xV03ajKrOOQzg58onZ4uizpAkC0=;dst3xFnenlpmwRO6hgRt5A=="
 ---

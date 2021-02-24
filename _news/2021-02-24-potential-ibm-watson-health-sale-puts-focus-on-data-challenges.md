@@ -3,8 +3,8 @@ category: news
 title: "Potential IBM Watson Health Sale Puts Focus on Data Challenges"
 excerpt: "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems."
 publishedDateTime: 2021-02-24T12:30:00Z
-originalUrl: "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807?mod=lead_feature_below_a_pos1"
-webUrl: "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807?mod=lead_feature_below_a_pos1"
+originalUrl: "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
+webUrl: "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
 ampWebUrl: "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
 type: article
@@ -169,20 +169,6 @@ related:
         width: 619
         height: 416
         isCached: true
-  - title: "IBM reportedly mulling spinoff of $1B Watson Health unit"
-    excerpt: "The tipsters didn’t say what price IBM is targeting for the prospective sale. But they did share some financial information about the Watson Health unit itself, which is reportedly generating about $1 billion in annual revenues and currently isn’t profitable."
-    publishedDateTime: 2021-02-19T22:41:00Z
-    webUrl: "https://siliconangle.com/2021/02/19/ibm-reportedly-mulling-spinoff-1b-watson-health-unit/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/IBM_ads_at_JFK.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "IBM reportedly mulling to spin off $1B Watson Health unit"
     excerpt: "IBM Corp. is said to be looking at offloading its Watson Health healthcare technology unit, possibly through a sale or a merger with a special-purpose acquisition company. The Wall Street Journal reported on the discussions late Thursday,"
     publishedDateTime: 2021-02-20T00:43:00Z
@@ -299,6 +285,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "px5Zx6WRqtWo2FBxxyJq2npwNBmQnOShnGVVMQ48YBeGdgxhjTmC8WGsPc8zCTwfH+LP6rFYzjQg/UcR57AsCKuhj7yyQ07VVYJLsGZzbi5eWjzmolroSf9ZqKuq6++CCnLo0m46WJCRrIJ2hoSdhwIsPG6YhN8wuFWDeZEB5O5E4l5mHJkR8BoKCiXQrQkAB3Z0QwZe2Xln6dCmeK8OqSb7lNQGvuTwRvZJJxDcJ7LokZxgU5KMxV7jPXcEKgI98Ez41ZCNfgFBSQYPNuMghVCROAX257ZcWKTfE1zkkGS84EL7bpKDbp7l33co38d6pAdrpNeQm/OXxVRZDxWW7f/pnNYqlHGKxFySw+pUGtc=;Ew+EDxXC+QRNGfE25Hn/+g=="
+secured: "cRnpv8r6XtdhjfGlusD3I9NQHzWn8o+NsHZ2Ml9bdcpML3ATxFAdlJyaBFi5sbAjEKhlls5PTF5WACXSIxFAxTXuNxEZeZNxhyWPtvgLlM0+b4KoHI66HTamuC3R2dvQPWziQCI5vXLmhSlPaS1VfI23dKtbrbMtpQWZlGL4WhNrEYeO0Nsf30mp9Df5xE9d6JYlp7mJp6xQzpBl8bVxTkYDd1Hdxi3+2bbtCinaq6EmXT2y6kw22u78izULOmBMmwk2XKULqPTSJLb1PMh3aQ977aSiQTLXaTITe/eOjTKULwgyD40IgeUqvc6ORomkWCdi99FaJSzukZeiuMgO76V4u67jQSo6n00bwevX4OA=;JuQoo7N8/k891e5pdF6EGQ=="
 ---
 

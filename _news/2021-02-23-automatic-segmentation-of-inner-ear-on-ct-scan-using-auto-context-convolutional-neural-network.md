@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
-    excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
-    publishedDateTime: 2021-02-19T22:43:00Z
-    webUrl: "https://www.thestreet.com/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/7EvaZZzT-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "For self-driving vehicles, a little cooperation may go a long way"
     excerpt: "Self-driving vehicles hold the potential to deliver a safer and more efficient era of transportation, but merely replacing human drivers with automated ones only takes progress so far. Although autonomous vehicles are engineered to function largely without reliance on the outside world,"
     publishedDateTime: 2021-02-20T05:00:00Z

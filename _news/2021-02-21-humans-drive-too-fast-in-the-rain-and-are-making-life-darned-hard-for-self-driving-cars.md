@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "Apple Reportedly in Talks to Buy Sensors for Self-Driving Cars"
-    excerpt: "Apple is negotiating to buy sensors for self-driving cars, a media report says. The tech titan for some years has been working on an autonomous-vehicle project."
-    publishedDateTime: 2021-02-19T22:43:00Z
-    webUrl: "https://www.thestreet.com/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-reportedly-in-talks-to-buy-sensors-for-self-driving-cars"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://content.jwplatform.com/thumbs/7EvaZZzT-720.jpg"
-        width: 720
-        height: 406
-        isCached: true
   - title: "Automatic segmentation of inner ear on CT-scan using auto-context convolutional neural network"
     excerpt: "Temporal bone CT-scan is largely used for diagnostic and surgical preplanning in diseases involving the inner ear such as hearing loss and balance disorders 1. In routine practice, this technique offers a series of 2D images which are browsed back and forth by the practitioner to mentally deduce 3D information and to this end 3D reconstructions have been applied to training and surgical planning 2."
     publishedDateTime: 2021-02-23T13:36:00Z

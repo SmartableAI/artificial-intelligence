@@ -35,6 +35,15 @@ related:
         width: 657
         height: 657
         isCached: true
+  - title: "Israeli AI-Powered SaaS Platform FundGuard Raises $12M, Led By Team8"
+    excerpt: "FundGuard has developed the first AI-powered SaaS platform that helps asset and fund managers administer investments across funds, pensions, and more."
+    publishedDateTime: 2021-02-24T13:12:00Z
+    webUrl: "https://nocamels.com/2021/02/israel-ai-powered-fundguard-team8/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 19
   - title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
     excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital"
     publishedDateTime: 2021-02-23T14:16:00Z

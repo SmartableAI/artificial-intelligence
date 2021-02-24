@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/02/24/1018085/multimodal-ai-visio
 ampWebUrl: "https://www.technologyreview.com/2021/02/24/1018085/multimodal-ai-vision-language/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/02/24/1018085/multimodal-ai-vision-language/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/02/SD_MIT-TR10_MultiSkilledAI_169.jpg?w=3000"
@@ -26,6 +27,6 @@ images:
     height: 1687
     isCached: true
 
-secured: "Oa4BQqXR9Fe17vFC+kL9qt5vetQuMjMkwkmLryCD78f+Hi2BR+97m945qC+lapyScYlqvqBMhLFQs2s+sUu50UAto6r1s7OVcC1X9/Zy5dJWW5U/FrniqnEjtFOQliH/sk/hzh51kQg/YX63SSslefL8n9mO9GyloaUqp+GWHWZRowZg27JsX9pYqUavAPUuaN3TLxclawq7YBl+CHqRKgZB+VqQm7M50RxS5Nu1P7JeOXRpJkAYpF5yY6c2Y0nTwMrfDJHd+5G7yFKELYFsn809TwwKyZbnWfrLBB9o2jQWHopD2NK5K5rsEW8CQDZkFqiu9PUNiaWTJldmFdJ9sjwDd1JStOaHGpnLwODXjDI=;pF/UVFGidt9Mc/u+2er5TA=="
+secured: "6nLDjd5pmNrqQM8ly1jMlEHubRv+z8B8ttYcYEW9UJwEv+t5BMtwFqI8Sw3DWv6vciQxrgULAx2wrXVkJ++n5tCgVR8wi/Ow68RFK4kyhwwZ2B0hbzB6fKOlvp+GLerfDxY0MF+a67zehmWEcM+v3ZZ1IXpl6jTOLTpXEwZ9gkM7NvntIULGXwb4kTzbkgQuBturYHwbxICeDP4ATO8GfYn6m0/2nOSaSydECob7nLWeA8blGljGMkUgcgklSBlReihR6vMyNydZy9SMk4xFTUYunkK9+7UJmfi2BMHowWBlDh462BcdY3Emvfl3J92Px7VoavTJ+2OL8FOhlZdGOscsX+hkfCZqDyba+bsWQUgDM2td54H8NCydNMC5vRdG5cItBKHKLpNl+6O20hA1UJVBiA6YpdVKGtheneI7sy3kNhgeO2WJkQ8C5Cl2UUp0Eab2bVOEb9tnIVHJ0rGUML8mmvYqGJWD27k/zrVm4HV4+W2WsfopFqN9C/oN7JtCTblcqMQIwJsxYbc3bGFEbg==;POCxLjCVS7Ud6YdpG4Vc/w=="
 ---
 

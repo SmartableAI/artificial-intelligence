@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,16 +46,7 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Explainable AI for decoding genome biology"
-    excerpt: "Researchers have developed advanced explainable artificial intelligence (AI) in a technical tour de force to decipher regulatory instructions encoded in DNA."
-    publishedDateTime: 2021-02-19T21:19:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210218151102.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
-secured: "U+jz20SMgogbE+rjIWYNmpcXZpwi6Y5yTKEmwsbux5kzcZLTEovjhRnDrC82Ij6B9wFMxqlSKuCxOWLbNh5WwI7omp89DUxfmVC9/i+QHch027rXrqL1ICdIkynNe2CoK6mFQCQ7CcNziNUADZPFyJxzycedAYQXJZrU2gNDZ16P95R+f9Vu+DnQr4hIilH8XK4qSiJJcwqvirF0tQUxzrwBwZNIj8Nqs0d+RWVnkIV3BVYa/D6TXEc+XnSBwl7G2i2jGnv9yIpyYKdZZMrvwMYehiRxa/5h0CZui4EFvwW3D/LyJkkfgAPrDf1yKisfVGWBZGcWgDvVGw+oyDX0f+jjSrsGRTjdI8r68Mn9JZA=;iBW7oLu1Zjw3kmfBf870tA=="
+secured: "XNiQ/TvUATnjwqWpab0hFq5iRbTuK2INuJrUhUHhftOP55NRXeDbe+PUR7WDExhnz7E3JJxJo5h1HNXvXzlLBP/7IESIaf5lJ40KiHtjXrbqFbeTYYhFFLp+3eUBQjcCopGhtC6z5jHjOP/xK+uXNb4xU93x3qPvE2ycjJ6ytKApx1xT/Joh9ybrIsVsTrvc3/1Uh0C4P6Ut9UpqADzla3BFBua4+t0Mi8Z/6s6PJ6CKjd1IjYFz2w50IM6k0ZhokWPKGwyuJlf8iqE3B4fZypsLcMYypcQV+uOqeRjTirZHWfm7tesA/IU3BoG6ZSi9oE+OH9sBz+ERFGX6FfG2yCpf9ihFrgh6ZXsCoo2xzyqbMwKnnRSx7NP2PNVjz4/cWhN7Y8p6bzoXhD8A0TtKzXnWOcUngwHrRq/CwRT90ZBGFewgCU0Nv8rW0gi5tgBx+NLRDXW7Ao0Zn7sRkc8JIvBqpA+rtQKyNAE2LtK8XnmavzQknIIY7q36xyHLFNwCSlLbC4Ly8lxLUp13ulG+Xg==;z4f5ucemk3Hh9iQRS6tSnA=="
 ---
 

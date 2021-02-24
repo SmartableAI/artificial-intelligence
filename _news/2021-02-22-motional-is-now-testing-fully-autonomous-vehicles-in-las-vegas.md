@@ -1,0 +1,55 @@
+---
+category: news
+title: "Motional is now testing fully autonomous vehicles in Las Vegas"
+excerpt: "Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas."
+publishedDateTime: 2021-02-22T13:00:00Z
+originalUrl: "https://www.msn.com/en-us/autos/news/motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas/ar-BB1dTYx1"
+webUrl: "https://www.theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
+ampWebUrl: "https://www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
+cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
+type: article
+quality: 142
+heat: 162
+published: true
+
+provider:
+  name: theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas
+  domain: theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas
+
+topics:
+  - AI
+
+images:
+  - url: "https://cdn.vox-cdn.com/thumbor/wMyEN4GjNku-j3tevvKBInkwsEA=/0x0:1877x1252/1400x933/filters:focal(789x476:1089x776):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68854024/Motional1.0.jpg"
+    width: 1400
+    height: 933
+    isCached: true
+
+related:
+  - title: "To the list of places testing driverless cars, add Las Vegas"
+    excerpt: "Last month, Chinese search giant Baidu received a permit from California to test vehicles ... Alphabet-owned Waymo and General Motors’ Cruise have kicked off similar self-driving ventures. Testing autonomous cars on public roads isn’t fail-proof."
+    publishedDateTime: 2021-02-23T02:09:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/02/22/hyundai-driverless-cars-vegas/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTV2YSAVTVCBLLZC6GMI4FA2EA.png&w=1440"
+        width: 1440
+        height: 805
+        isCached: true
+  - title: "Continental invests in the future of chips for autonomous vehicles"
+    excerpt: "Without faster chips, there will be no networking, no automation and no autonomous driving,” emphasizes Frank Petznick, head of the Advanced Driver Assistance Systems business unit at Continental. “Through our own research in the area of new chip designs,"
+    publishedDateTime: 2021-02-23T09:18:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/continental-invests-in-the-future-of-chips-for-autonomous-vehicles/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 21
+
+secured: "BDObqSndPwlcUlTVYUYFF0bVYhrZ8oCv48z3e2GLjt6bcIa7fbyq090mQY80zJ5LWwUeBvy1I00J9cB8lW0ox5IWCbKSouu8DMkuvaEeFR/WaYq/mWjnov1z2DQ5gCiLKBbZdaEtzbyAY8+av3uNwv+aa2p3j57AsOjodJcEsA19JLMPQ9R5+7jSQY0BiXtJ6bp4guQTRItOGCst4QGZWnEdI/lO7uOJNS9RBYTu9bIaNUb1ogV4MHuPVaGmr46xQIJ2vWECsZRtKNvFMVdhX2zCs2+Spivs1g667JPG5PO5o5/369hepXjuOQTa8WQH9FprDWx73igKWdGoGbh92wA/uV+DW7YNWHqaWMQ3F9Q=;CyVID5oUPYvlwEC4Irx1Ug=="
+---
+

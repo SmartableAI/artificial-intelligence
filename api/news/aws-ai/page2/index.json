@@ -4,10 +4,10 @@
     {
       "path": "_news/2021-02-09-bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us.md",
       "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
-      "excerpt": "--(BUSINESS WIRE)--BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services ...",
+      "excerpt": "BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for GovCloud (US) to support critical national security missions.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210208005050/en/BAE-Systems-Debuts-Groundbreaking-AI-Products-on-AWS-GovCloud-US",
-      "originalUrl": "https://www.businesswire.com/news/home/20210208005050/en/BAE-Systems-Debuts-Groundbreaking-AI-Products-on-AWS-GovCloud-US",
+      "webUrl": "https://www.financialbuzz.com/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us/",
+      "originalUrl": "https://www.financialbuzz.com/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,11 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T14:59:00-08:00",
+      "publishedDateTime": "2021-02-08T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -289,49 +289,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-05-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
-      "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
-      "excerpt": "Jeff Bezos has been Amazon's CEO since its founding in 1995. He will remain as Amazon's executive chairman with AWS CEO Andy Jassy as his successor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.waaytv.com/content/national/573729632.html",
-      "originalUrl": "https://www.waaytv.com/content/national/573729632.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.heartlandtv.com/designimages/WEBWAAY640x380-copy2020.png",
-          "width": 640,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.waaytv.com/templates/AMP?contentID=573729632",
-      "cdnAmpWebUrl": "https://www-waaytv-com.cdn.ampproject.org/c/www.waaytv.com/templates/AMP?contentID=573729632",
-      "publishedDateTime": "2021-02-04T11:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAAY-TV",
-        "domain": "waaytv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-using-genetic-algorithms-on-aws-for-optimization-problems.md",
       "title": "Using genetic algorithms on AWS for optimization problems",
       "excerpt": "Machine learning (ML)-based solutions are capable of solving complex problems, from voice recognition to finding and identifying faces in video clips or photographs. Usually, these solutions use large amounts of training data, which results in a model that processes input data and produces numeric output",
@@ -381,6 +338,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
+      "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
+      "excerpt": "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very",
+      "sourceUrl": null,
+      "webUrl": "https://democratherald.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_dfa0903d-b58c-59c8-8526-ddf43f2665bc.html",
+      "originalUrl": "https://democratherald.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_dfa0903d-b58c-59c8-8526-ddf43f2665bc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/7/d4/7d4a405f-51ae-597e-977c-ad43f910bead/601c56785fa92.image.jpg?resize=576%2C324",
+          "width": 576,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albany Democrat-Herald",
+        "domain": "democratherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

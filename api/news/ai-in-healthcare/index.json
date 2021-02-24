@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation.md",
+      "title": "Healthcare’s Latest Unicorn: Big Data Startup Innovaccer Raises $105 Million At $1.3 Billion Valuation",
+      "excerpt": "On the heels of a year that saw a record amount of venture cash flow into healthcare startups, investor appetite for healthtech does not appear to be waning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6035a91c576971c0e24a3dfb%2F0x0.jpg",
+          "width": 1000,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/amp/",
+      "publishedDateTime": "2021-02-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-ai-in-healthcare-an-insiders-guide.md",
       "title": "AI in healthcare: An insider’s guide",
       "excerpt": "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare",
@@ -1030,50 +1082,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
-      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
-      "excerpt": "Keysight Technologies, Inc. , a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19647483.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19647483.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Computer Vision"
       ]
     },
     {

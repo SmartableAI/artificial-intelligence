@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23"
 type: article
 quality: 62
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -140,6 +140,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How AI & Price Optimization Can Offset COVID-19’s Impact on B2B Supply Chains"
+    excerpt: "In this contributed article, Barrett Thompson, General Manager of Commercial Excellence at Zilliant, highlights that while 2020 has provided no shortage of supply chain challenges, adopting AI and price optimization can offset negative financial impacts."
+    publishedDateTime: 2021-02-24T14:02:00Z
+    webUrl: "https://insidebigdata.com/2021/02/24/how-ai-price-optimization-can-offset-covid-19s-impact-on-b2b-supply-chains/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 14
 
 secured: "/nC46u3T3IS58aCeb/16BCiYcmItFyJ6UPLGPQerysoczulRsCFKxFPxp+TTaMfAI6mF5bJb+QEFmEw6mgwaTgnS6a5kyIIvKB0QUaS8Ywm9Gq3nKN1HJsRozEmKKix7GEhCrbALvi+i3tfEH84+wIwEXTsP0WVUvGzmhrE+Ly6+7CoXLEOhf59gByn0ohQRXxEn6waCUWSrrqTqXFazHd2TMIP02fg4dBG4V9yQfH7WvLkRSVPRBRXI/kFPKITkD5t8SrxDvNkgWvj3SDSj9H7+748bD+igeGQ4HxbX2FYjo9nxPj1BP3E3vYTW6lDDT5piQljVkcIkX1KN5Q40HVUMzcBMssl0BX5z707DUa8=;CSJrVsGqY4P1G7bZB3X0gw=="
 ---
