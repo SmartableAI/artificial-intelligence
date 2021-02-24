@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK?amp=1"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Facebook announces £1m for AI research programme in UK"
+    excerpt: "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL)."
+    publishedDateTime: 2021-02-23T20:02:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
+    type: article
+    provider:
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "F10 launches startup incubation programme in Spain"
     excerpt: "F10 announces 12 promising early-stage startups selected from more than 200 applications for Batch I of the renowned Startup Incubation Program ... Whenwhyhow is an AI-based solution that uses a combination of internal customer information and external ..."
     publishedDateTime: 2021-02-24T17:35:00Z

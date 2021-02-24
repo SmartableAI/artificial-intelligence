@@ -85,6 +85,20 @@ related:
         width: 1024
         height: 605
         isCached: true
+  - title: "A machine-learning approach to finding treatment options for Covid-19"
+    excerpt: "When the COVID-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare. \"Making new drugs takes forever,\" says Caroline Uhler, a computational biologist at the Massachusetts Institute of Technology."
+    publishedDateTime: 2021-02-24T19:43:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302179&org=NSF"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 24
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/sars_cov2_f.jpg"
+        width: 350
+        height: 220
+        isCached: true
 
 secured: "pnqo11sLQ4AgDJccbBj12hz6IY9vAFRe/6rHt9dnl5WZuThhI8gL8NeATLJ+smPZtv6faBW36TV/CoLO8ozf1Yio+iAgvt9WWd45w96iOadSL96t9qpZWs2PzIdOpd1rJmYaOUGiYms5zdLDd1qiVJlrZAQRXi2/OgqE4splJ2SQOkyQ17wuewGhpsX23hW1WJ2SOHvpyQeKJ2ic/39tBc0XL1caM+FJXLHKeECZa+sUfb/yEkcuEhoWtQOKv8cY4ikF0oms9cd/paeKiDteim9/+X+4ZyH16FX6CtAAvElH94HPP4l8Gt6rKefavPJJIH0a8RSA8YofkKt2jp371Fq6EzrXN7nfff+KLXMfapkbEKZSiOiTB04e2qKtiVIHuLCU564VQS8p80ls2twOYzJLrcHWFxcmkKh3RwyPYTGajG1ygtq1vT2MywCvJMinVrVp9whwv3yBeoNwpD0GK1WF3RV7vHCMla+LinXnbfCspAUabLRcTCR9HCNB1xpuv2lszb/NTNzwbcGX885IYw==;cnh3yAellpZYLAtANl4K0w=="
 ---

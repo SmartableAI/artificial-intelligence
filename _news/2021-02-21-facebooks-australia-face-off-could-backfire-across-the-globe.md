@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook has 'tentatively friended' us again, Australia says"
-    excerpt: "Facebook Inc is back at the negotiating table, Australian Prime Minister Scott Morrison said on Saturday after the tech giant this week blocked news o"
-    publishedDateTime: 2021-02-20T04:33:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-81121800/81121800.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Facebook's faceoff with Australia could backfire"
     excerpt: "Facebook Inc.’s dramatic move to block Australian news-sharing escalated a broader battle against global regulation. That gambit looks likely to backfire."
     publishedDateTime: 2021-02-20T11:00:00Z
@@ -55,6 +39,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Local Facebook rival soars as boycott grows"
+    excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."
+    publishedDateTime: 2021-02-22T06:15:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/google-fires-ai-ethics-researcher/live-coverage/d9a32a81f13b466c1c9055737ff7f36b"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "N41PNf9cfh36LfWBUTNVRljsfx4qTtjDjvjmw1KFCarVoZx2P9Q4w6Gzd8woQJuL18nJ3ZjFIXXv8elWcL/7yP8rcf3bq524vhZ9mJCmqaXT9IovBVriJB0sEM33Ga301oqqbwhcPSGrXJG3b3fEwtBqw6wf5uLtjuYfqYYPZiFUq5v0Rffsvev7mEitAEE+cL645haOArSY6RadpdjwqDMhER0T1OzpBPIM7Olq3rPGQJObsbbTXy5CXxJE/MhDW9vWAdUEpEp46tuuU9Yo+E7F0WsQSIhQ2NWBNjNC9EhOMRCQP9GK0Jy6W7AbgfpxgnD40bURN2zlksw5wvw18xrmQ0OeX22kJBNREN+ggFGW1lo9BWOxIYlQIiG2OV2mw96Vu2hS/UFfUi8Apzz3LN8IQAcA7hU5+3LnMuRNvkBy/KWgJCNTIVka6ob6vKxLSP2Fm3qUvRSLojc//IOML/su8Kz3e50u4amrNgqDeM7IkhPnEI4DPnQrgrzdVl8i1/jBOEKdv0R/sA4wQ8D6Wg==;C29fXAU7v+N6nUlOsd/4Sg=="
 ---

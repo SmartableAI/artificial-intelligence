@@ -9,7 +9,7 @@ ampWebUrl: "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start
 cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     height: 256
     isCached: true
 
-secured: "45rWCLa5rkPFfPZ3zvZhLz76e9euA8VefREHuiZesQWlm3xEloHbBXK6X+m459ApR+Knz4erNtB1bIKpi7jdoNr+wJfZ5ezOqoCRud0pT3a8aFuqVCW3x0isEulrZAcqxAQpuvlKA9KZW2L/lE7SJK2K8NprAen4ZllzFLRxPLrejL3wALzb55ljYzTCVToCCDsc59T6hFsOQl/ZVlM6MJNBKHxXwFkFqjjF/1aZk9zOlWBIWp5Gmcl3VHh1rQKVXFN8c8dxAQecJZefGxuSTcazrY4Cv8+ltxFl2j6e9k1FtOWug5ezWCsxLR8oOiTuy2kRPKAmaDeGbnP5SuQcSmRGS63fDGVbP6taopbHMfo=;sExaeYRommCvk8LN5EbxGw=="
+related:
+  - title: "Start-up uses AI to help marketers plan next moves as industry booms"
+    excerpt: "Before COVID, people were choosing to “detox” from social media to help their mental and physical health, but in the last year, 346 million new users came online."
+    publishedDateTime: 2021-02-24T19:07:00Z
+    webUrl: "https://www.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092"
+    ampWebUrl: "https://m.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 57
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
+        width: 640
+        height: 428
+        isCached: true
+
+secured: "8r7RALVqrEREg+x/4/yuwVkqOP+lHg62OMc6HDtS/xtgqcAxYLltkZFXe/jz6XgvBJiVUQLGNJfKQzrF//DuwaeOP8vcTJ8EVjGHKbpH0MRrAaf8amAY3n0voEHf7Kdx96PI8CPxfTXUf5FJ2mcFApoMaP3Uu3rNLUIe60qTZ6c5zb5UMKvpKjfyOf2i8x9xEX5n2c0yQcOjPutoBvKps/HzbHxa5ySi2AAf2ntx5AIP1syC+upXkEhn3rVoEH2r8CmOPu/mcelt+iwOOoiYVecvZR3bjqTk065PXfiNbjCAjbaCiu0weIxGOkRMxIxadFUo/x0xGlhtNqgqWu39ERVcdx7DCSqCZOWMMAKAq6EtouSgcxCh5K0i76eAOB4EDvheB1Mmo0Hsl9Zs1bXnwPgyeluhYfHUoTR/X14q9YJjcFOOcRhHQQbCvWBLttUksndy7iEmKbraBor3Zs3CQkVRIFB4I/0sCC5lh2WkghPTgqUD/N3a9wBSAzBCDGVytZWfnT2wijzn/tW/99pS1Q==;m4hoH/qbK61RV85wXG5WKQ=="
 ---
 

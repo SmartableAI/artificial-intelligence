@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screenin
 webUrl: "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/winstons-six-treys-push-msu-women-past-iowa-86-82/o/0/online-learning-1.jpg"
         width: 1024
         height: 605
+        isCached: true
+  - title: "A machine-learning approach to finding treatment options for Covid-19"
+    excerpt: "When the COVID-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare. \"Making new drugs takes forever,\" says Caroline Uhler, a computational biologist at the Massachusetts Institute of Technology."
+    publishedDateTime: 2021-02-24T19:43:00Z
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302179&org=NSF"
+    type: article
+    provider:
+      name: nsf.gov
+      domain: nsf.gov
+    quality: 24
+    images:
+      - url: "https://www.nsf.gov/news/mmg/media/images/sars_cov2_f.jpg"
+        width: 350
+        height: 220
         isCached: true
 
 secured: "cXcNexGMLnSg3Y8UWLPYn919bPfiGD7X4nrxQNtKKOaX28bnyzalPNIZUXyKXqT9obBA7RW+jQgYP7gynWHWqYC6ObzGtQEBFPCvVoBJeRFChUI0XV5C1djE1FHElpnIWX7mpJoCU5BTsUZQmI8V9y2kGwQonvfLbSV8WkXlNgjg/qhUk+2Eq32o6YjP10SsxXJaOzakGrEnCAN15jX33YngP7h3pDUNI71jw2PCxQq5S/v8fi7Vq//jcn7wOpTv9MSILswhzPvO/YbjZUpR1sliu3o74nN1h4tIkn5qwXVFZrCbjcDPIjdJSZF7HzcRM9Xc4diSR8XELBBT18pF5XF6faYhgFAvukDUP3AkxX4=;imEnXjRZLjQ3A7VcJrgcgg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.sentinelsource.com/news/national_world/facebooks-faceo
 webUrl: "https://www.sentinelsource.com/news/national_world/facebooks-faceoff-with-australia-could-backfire/article_4ea2c216-d23d-54b4-a8db-67d13e341abb.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook has 'tentatively friended' us again, Australia says"
-    excerpt: "Facebook Inc is back at the negotiating table, Australian Prime Minister Scott Morrison said on Saturday after the tech giant this week blocked news o"
-    publishedDateTime: 2021-02-20T04:33:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-81121800/81121800.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Facebook's Australia face-off could backfire across the globe"
     excerpt: "But this week's abrupt news blackout forced the issue onto the agenda of governments whose regulators are already ramping up scrutiny of the growing influence of Facebook and its ilk in spheres from media to artificial intelligence. \"There is a lot of ..."
     publishedDateTime: 2021-02-21T05:01:00Z
@@ -55,6 +39,15 @@ related:
         width: 1070
         height: 713
         isCached: true
+  - title: "Local Facebook rival soars as boycott grows"
+    excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."
+    publishedDateTime: 2021-02-22T06:15:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/google-fires-ai-ethics-researcher/live-coverage/d9a32a81f13b466c1c9055737ff7f36b"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "+XBZ2J5BpgAKTyz4YqRNfS9e1POSzF1XjF/lW9a7u2BU56jQ+dPEa7oNNBCvUhriMbwDy9zYSC3cM5zWCt3zDVFxKob8xtsi2gcJVQ7akFgh3PGDittoa0TF4CH844/dm9gGy/6l5OfT/iL9B4y7ujR4eV56FF2TalTlVPHx4h70NwO9TQPwNaUJ3YICSSIu0Qa49bRCtERa2I4VghrOMCS9yYB1eL/stQMuX+vl7LCyWgJzB6Huv9AtLK5kesYYIDM4KxaJjIzYwYNFxCJHqi2+9kuptYjcHxpTFA46Ph2Zfwt4+HvMscbn/owymMXXbE1suzmZeG/udMDo3UiDYlABRReVrpvxx2YzfDx5CZQOM3JO2yQSmPlLNhsQiRmEcDZGd8XrRAIsl0Jpn17WVEwBKXO/zMV0HJsohGzw3p7W2zsNM+6z92Ufr/0mY+3PlQXXEckxsOoXc57lUXGuFHJX4YqSMrKvEcWWRVjDRV3U22cPuLGpsdI0A2dE4LUnpoOMZU5G1ZZTsYJ+wlRyWw==;UfTEU/gl/V+x74eCbQuZuA=="
 ---

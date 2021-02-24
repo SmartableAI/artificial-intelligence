@@ -1,0 +1,73 @@
+---
+category: news
+title: "SoftBank-Backed Robotics Firm Berkshire Grey to Go Public Via $2.7 Billion SPAC Deal"
+excerpt: "SoftBank-backed robotics firm Berkshire Grey said on Wednesday it has agreed to go public through a merger with blank-check firm Revolution Acceleration Acquisition Corp in a deal valuing the equity of the combined company at $2."
+publishedDateTime: 2021-02-24T20:24:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-02-24/softbank-backed-berkshire-grey-to-go-public-via-27-billion-spac-deal"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-02-24/softbank-backed-berkshire-grey-to-go-public-via-27-billion-spac-deal"
+type: article
+quality: 57
+heat: -1
+published: false
+
+provider:
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+related:
+  - title: "Warehouse Robotics Provider Berkshire Grey to Go Public Through SPAC Deal"
+    excerpt: "Logistics automation provider Berkshire Grey Inc. is planning to go public through a merger with special-purpose acquisition company Revolution Acceleration Acquisition that would value the robotics company at $2."
+    publishedDateTime: 2021-02-24T11:00:00Z
+    webUrl: "https://www.wsj.com/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400"
+    ampWebUrl: "https://www.wsj.com/amp/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 103
+    images:
+      - url: "https://images.wsj.net/im-303382/social"
+        width: 1279
+        height: 640
+        isCached: true
+  - title: "Warehouse robotics vendor Berkshire Grey goes public in SPAC deal"
+    excerpt: "Warehouse robotics and automation provider Berkshire Grey will take the company public, using a financial maneuver known as a special purpose acquisition company (SPAC) that is known as a faster way to begin selling shares than a traditional initial public offering (IPO),"
+    publishedDateTime: 2021-02-24T18:54:00Z
+    webUrl: "https://www.dcvelocity.com/articles/49668-warehouse-robotics-vendor-berkshire-grey-goes-public-in-spac-deal"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2021/02/24/berkshire_grey_bsg_dynamic_parcel_sortation_thumb_1_2x.jpg?height=635&t=1614192163&width=1200"
+        width: 868
+        height: 635
+        isCached: true
+  - title: "Berkshire Grey, a Leader in AI-Enabled Robotics and Automation Solutions, Announces Business Combination with Revolution Acceleration Acquisition Corp"
+    excerpt: "Berkshire Grey (“BG” or the “Company”), a developer of integrated artificial intelligence (“AI\") and robotic solutions for e-commerce, retail replenishment, and logistics, has entered into a definitive agreement with Revolution Acceleration Acquisition Corp (Nasdaq: RAAC) (“RAAC”),"
+    publishedDateTime: 2021-02-24T10:01:00Z
+    webUrl: "https://www.heraldstandard.com/business_ap/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c2829b65-608d-5587-bba6-3de45db39609.html"
+    type: article
+    provider:
+      name: The Herald-Standard
+      domain: heraldstandard.com
+    quality: 31
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/assets/v3/editorial/7/df/7df5a3dc-bc2a-506d-8ceb-86c513c4b27b/6036358f87022.image.jpg?resize=960%2C541"
+        width: 960
+        height: 541
+        isCached: true
+
+secured: "O42AEbJ3C5TKaVFjLY+vTNLhSBHZBbB7rhT7JQJIeNX1lrrdySb6X+gzUX4HsHWji7fjuqSGEE582YCr2WqYzuQ5LtzBN/zfDOruqEQR9ds2o7FDGTzH60+HDnmXSWQUuF0FVAYhghTBn62o6xaoVVX1iSejh0kSOH025cMdw9EgSWDXFV+MlrpJ/aCPmTxenFXZ87qhxgmK2LadjyE9d+M7v3Zu+xGvbVRYBKVlQV4XmqN7v0tIqEQTffxUNtO3QjObi7E1mGvkAArn99otXqw7OCv088vl0sZ5t8zYh2CFY4A1PmjORMqbFJhf2nN4vufDmkkgNJ6F3AH9CIyubKF/2Iv0DK/nWHGAIdoBB4k=;Bc4OBi7xwkQbp6UPSbX0tw=="
+---
+

@@ -41,6 +41,15 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "SoftBank-Backed Robotics Firm Berkshire Grey to Go Public Via $2.7 Billion SPAC Deal"
+    excerpt: "SoftBank-backed robotics firm Berkshire Grey said on Wednesday it has agreed to go public through a merger with blank-check firm Revolution Acceleration Acquisition Corp in a deal valuing the equity of the combined company at $2."
+    publishedDateTime: 2021-02-24T20:24:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2021-02-24/softbank-backed-berkshire-grey-to-go-public-via-27-billion-spac-deal"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 57
   - title: "Berkshire Grey, a Leader in AI-Enabled Robotics and Automation Solutions, Announces Business Combination with Revolution Acceleration Acquisition Corp"
     excerpt: "Berkshire Grey (“BG” or the “Company”), a developer of integrated artificial intelligence (“AI\") and robotic solutions for e-commerce, retail replenishment, and logistics, has entered into a definitive agreement with Revolution Acceleration Acquisition Corp (Nasdaq: RAAC) (“RAAC”),"
     publishedDateTime: 2021-02-24T10:01:00Z

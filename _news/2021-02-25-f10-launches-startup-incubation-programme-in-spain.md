@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook announces £1m for AI research programme in UK"
+    excerpt: "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL)."
+    publishedDateTime: 2021-02-23T20:02:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
+    type: article
+    provider:
+      name: Evening Express
+      domain: eveningexpress.co.uk
+    quality: 59
+    images:
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg"
+        width: 2560
+        height: 1920
+        isCached: true
   - title: "Facebook’s AI doctoral research programme makes inroads into UK"
     excerpt: "Facebook collaborates with University College London to bring AI doctoral research programme to the UK, with aim to open-sourcing the findings"
     publishedDateTime: 2021-02-24T18:30:00Z

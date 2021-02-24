@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "For self-driving vehicles, a little cooperation may go a long way"
-    excerpt: "Self-driving vehicles hold the potential to deliver a safer and more efficient era of transportation, but merely replacing human drivers with automated ones only takes progress so far. Although autonomous vehicles are engineered to function largely without reliance on the outside world,"
-    publishedDateTime: 2021-02-20T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-vehicles-little-cooperation-may-go-long-way"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/ARGO1-MAIN_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "b0kCIC3jTzWOpPjwe92WqUv2seUQsPiaq/V70cxMi0TrE4ZyZjF5MzwjIReBy1VG4XhSMlMHgKrNnz6LZLjDjvwpApUz1MupSHbIQdFSscto8/T7LaGEFo4x3X+X6zAmeJL5gu3cADLnciMKJAKrYtli48gHC+kUCgHtYD3Q/lZ0kRzwpWokWngGWUgRMxl4todcTAmdnmk0rk/PtwMoQYfqEzzKIPtjmv4LJg1t38uIW6640mOWg97wLXYpbQBLo6xQc8GhFkAe100DxecshGBndUpulWB4Uu3ACtROIKhKHtUWvfzxu9npn9wWsOPfMd1FE/cDiyS2sT2wkMZOqwaUeXdyOLH8XdnEjKCLC08=;lfujkbnF9Q4PvJrj/Ak/Fw=="
 ---

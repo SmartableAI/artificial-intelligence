@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Which face mask is best for communication? A new study weighs in"
+    excerpt: "The receptionist at the doctor's office asks a question from behind her double mask and face guard on the opposite side of a large, plastic"
+    publishedDateTime: 2021-02-24T19:47:00Z
+    webUrl: "https://keyt.com/health/2021/02/24/which-face-mask-is-best-for-communication-a-new-study-weighs-in/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 24
+    images:
+      - url: "https://keyt.b-cdn.net/2020/12/keyt-health-generic-copy.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
     excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
     publishedDateTime: 2021-02-23T14:57:00Z

@@ -52,6 +52,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "5 data issues limiting AI's potential in healthcare"
+    excerpt: "Technology is increasingly interloping with efforts to make healthcare more efficient. Still, experts are finding it difficult to apply artificial intelligence to medical treatment, according to a Feb."
+    publishedDateTime: 2021-02-24T19:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-data-issues-limiting-ai-s-potential-in-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "How Artificial Intelligence Can Help With Efficiency in Healthcare"
     excerpt: "The shortage affects not just cardiology, but the entire spectrum of care—and it extends beyond places traditionally thought of as having limited healthcare options."
     publishedDateTime: 2021-02-24T17:20:00Z

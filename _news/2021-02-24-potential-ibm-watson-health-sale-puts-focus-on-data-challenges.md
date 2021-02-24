@@ -63,22 +63,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "App designed to combat malaria Finalist in IBM Watson XPRIZE contest"
-    excerpt: "The app is designed to work even in environments in which internet is not always available, as well as on low-cost phones."
-    publishedDateTime: 2021-02-20T04:06:00Z
-    webUrl: "https://www.jpost.com/international/app-designed-to-combat-malaria-finalist-in-ibm-watson-xprize-contest-659583"
-    ampWebUrl: "https://m.jpost.com/international/app-designed-to-combat-malaria-finalist-in-ibm-watson-xprize-contest-659583/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/international/app-designed-to-combat-malaria-finalist-in-ibm-watson-xprize-contest-659583/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/471645"
-        width: 640
-        height: 428
-        isCached: true
   - title: "IBM may sell its $1B Watson Health business: Report"
     excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
     publishedDateTime: 2021-02-20T09:34:00Z
@@ -124,22 +108,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "IBM may sell Watson Health business generating $1 billion annual revenue, says report"
-    excerpt: "San Francisco, IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that IBM is exploring a potential sale of its Watson Health business,"
-    publishedDateTime: 2021-02-20T03:37:00Z
-    webUrl: "https://www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/articleshow/81121827.cms"
-    ampWebUrl: "https://www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/amp_articleshow/81121827.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/business/news/ibm-may-sell-watson-health-business-generating-1-billion-annual-revenue-says-report/amp_articleshow/81121827.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 52
-    images:
-      - url: "https://www.businessinsider.in/thumb/81121844.cms?height=275&width=412"
-        width: 412
-        height: 275
         isCached: true
   - title: "IBM's retreat from health business spotlights AI challenges in healthcare: 4 things to know"
     excerpt: "With IBM's recent exploration to sell off its health business unit IBM Watson Health, The Wall Street Journal highlighted several issues with AI in healthcare that can hinder tech companies' innovation efforts. Despite spending several billion dollars on ..."
@@ -206,15 +174,6 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
-  - title: "IBM considering to sell its $1B Watson Health business: Report"
-    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal"
-    publishedDateTime: 2021-02-20T04:00:00Z
-    webUrl: "https://www.canindia.com/ibm-considering-to-sell-its-1b-watson-health-business-report-2/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 19
   - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
     excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
     publishedDateTime: 2021-02-23T13:16:00Z

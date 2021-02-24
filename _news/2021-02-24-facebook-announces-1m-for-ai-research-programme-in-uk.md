@@ -9,8 +9,8 @@ ampWebUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-r
 cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Evening Express
@@ -27,37 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim"
-    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
-    publishedDateTime: 2021-02-20T04:51:00Z
-    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+  - title: "Facebook’s AI doctoral research programme makes inroads into UK"
+    excerpt: "Facebook collaborates with University College London to bring AI doctoral research programme to the UK, with aim to open-sourcing the findings"
+    publishedDateTime: 2021-02-24T18:30:00Z
+    webUrl: "https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK"
+    ampWebUrl: "https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK?amp=1"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 76
-    images:
-      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims"
-    excerpt: "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem."
-    publishedDateTime: 2021-02-20T07:39:00Z
-    webUrl: "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349"
-    ampWebUrl: "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
-    cdnAmpWebUrl: "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349"
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
+  - title: "F10 launches startup incubation programme in Spain"
+    excerpt: "F10 announces 12 promising early-stage startups selected from more than 200 applications for Batch I of the renowned Startup Incubation Program ... Whenwhyhow is an AI-based solution that uses a combination of internal customer information and external ..."
+    publishedDateTime: 2021-02-24T17:35:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86314/f10-launches-startup-incubation-programme-in-spain"
     type: article
     provider:
-      name: Sky
-      domain: sky.com
-    quality: 70
+      name: Finextra
+      domain: finextra.com
+    quality: 37
     images:
-      - url: "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638"
-        width: 1600
-        height: 900
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
 
 secured: "yig35gmi4Qe67h7yCx/4PC4hK/gZm5GjjNb8g7og26P1e6K0r659qrIRIKneBKgnt7pw7iYZOwbSwriK7pjrYzbB6P9nRMHleVfDPx2AbcWLPolW/o0VgWPTZdT91iP7Hs4AXRG1o03cGQapRldtZzmOo/wnr2HOR/Fwsn5BctayNoOazpU54gkXn5O2qf0+iXAdLa3Y8vxpTnNn+R1XOKvOnygYWX0+XL31P0gwr/wHstnHAu8JZQNACIM5knKM1dXV6I143a8/AQMDgo33vyPDybKIoAZddfrm2m/gj/9gMG3rzaRlCznsMmBW36wnN9MdutrvbufNAYxA5bqDlzamubaSzHd7mCZqlsU6dMHsslPh2GpDGHzlRS8JE/P5zTCD+L4uVbdTYmXDeMH55md1R9iM03dFsSUC3XY9sO28/7sOeEpwE/BHRN4hlb5W94Bq03ejhtEZ09lFPMvs0IOCb2oslgImLWKEvmE8OQ8aGdtGawGoUfjDuQUQ1Ia1LYQNA/kdt5iukBwjL5Ak4A==;NzVjrrMwBjjCM6z9T9Z+eA=="

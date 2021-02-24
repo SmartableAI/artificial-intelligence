@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/"
 type: article
 quality: 107
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-83955-x/MediaObjects/41598_2021_83955_Fig2_HTML.png"
         width: 685
         height: 387
-        isCached: true
-  - title: "For self-driving vehicles, a little cooperation may go a long way"
-    excerpt: "Self-driving vehicles hold the potential to deliver a safer and more efficient era of transportation, but merely replacing human drivers with automated ones only takes progress so far. Although autonomous vehicles are engineered to function largely without reliance on the outside world,"
-    publishedDateTime: 2021-02-20T05:00:00Z
-    webUrl: "https://www.autonews.com/mobility-report/self-driving-vehicles-little-cooperation-may-go-long-way"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://www.autonews.com/s3/files/styles/800x600/public/ARGO1-MAIN_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "C6MPNpMNtu9XNvVwSQUo4u7cEQJIcKRDH56yhkyYoJQblG1VhvGldPe+5rEqV05v4URnWM5ny3cS0zh79AfhZbgRldQlm7tv2fLNlVO/1yzGcoCzQlIucpRKqnFpIifFJO2OD6pmnCo31XfhUIAIjuLd89GlXzY4exWn3fp5zJ/HT7lKOr7S+qcLW7buFvpKvBpE4pF7wrQiCKtt9oodEeLDwZSJuf0AcZcdXNJcVqFzfbZ1KvKhB2LByJ6vQ4w764YGU96d8ZMm5MN5TpRlKb88RlTIs7GJ0hiY3lzSZuOWsMxJInfqwUZrC06Hh0FvkhkOcNoGgTcMNm3Usdz6u5iRaCFCj9dE43JFHNZUaMozQxdj7TBRXhLrAYxZjVs5/585RyXJfwylAm02XS39ysJzh82YRgWBBuXhZa04cuQZEstPDaG+cEE4gXmbOBepSyAq5ZrinBBeP0NDWxuCdgMFMCh6icIFOFYr0XYjucQe4qie2F2Acav3B1NnPeRu+7d/e9GscYn6MMzWP+lkKw==;CdIQuGcSZpBD0/NcM1yUtA=="
