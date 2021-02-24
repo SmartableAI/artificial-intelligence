@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-07-researchers-test-detection-methods-for-ai-generated-content.md",
+      "title": "Researchers test detection methods for AI-generated content",
+      "excerpt": "Artificial intelligence generators can craft text that mimics a human author, improving the user experience in platforms such as medical chatbots, online",
+      "sourceUrl": null,
+      "webUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/",
+      "originalUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scienceblog.com/wp-content/uploads/2021/02/news-trends_50.jpg",
+          "width": 400,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/",
+      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/",
+      "publishedDateTime": "2021-02-07T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScienceBlog",
+        "domain": "scienceblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-rev-announces-new-languages-in-automated-speech-recognition.md",
+      "title": "Rev Announces New Languages in Automated Speech Recognition",
+      "excerpt": "today announced the expansion of its highly accurate speech recognition service with the addition of four new languages: French, German, Portuguese, and Spanish. The new offering will expand Rev's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/rev-announces-new-languages-in-automated-speech-recognition-301222867.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/rev-announces-new-languages-in-automated-speech-recognition-301222867.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1432977/Rev_Logo.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-05-may-the-force-be-with-you-how-ai-can-change-the-future.md",
+      "title": "May the Force Be with You - How AI Can Change the Future",
+      "excerpt": "Speakers Helene von Schwichow, MOTIF - Institute for Digital Culture Lindsay Gorman, Alliance for Securing Democracy Moderator Laura Groenendaal, The German Marshall Fund of the United States",
+      "sourceUrl": null,
+      "webUrl": "https://www.gmfus.org/events/may-force-be-you-how-ai-can-change-future",
+      "originalUrl": "https://www.gmfus.org/events/may-force-be-you-how-ai-can-change-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gmfus.org/sites/all/themes/gmfus_theme/images/og.png",
+          "width": 495,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T20:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "German Marshall Fund",
+        "domain": "gmfus.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-stylescan-is-disrupting-fashion-industry-with-ai.md",
       "title": "StyleScan Is Disrupting Fashion Industry With AI",
       "excerpt": "The fashion commerce market-wide need attracted competition for a digital sizing solution. StyleScan is a standout.",
@@ -1250,145 +1379,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-deepset-achieves-a-39x-speedup-and-128x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia.md",
-      "title": "Deepset achieves a 3.9x speedup and 12.8x cost reduction for training NLP models by working with AWS and NVIDIA",
-      "excerpt": "This is a guest post from deepset (creators of the open source frameworks FARM and Haystack), and was contributed to by authors from NVIDIA and AWS.&nbsp; At deepset, we’re building the next-level search engine for business documents. Our core product, Haystack, is an open-source framework that enables",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3-9x-speedup-and-12-8x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/deepset-achieves-a-3-9x-speedup-and-12-8x-cost-reduction-for-training-nlp-models-by-working-with-aws-and-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-2254-1-1159x630.jpg",
-          "width": 1159,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T10:11:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-grooper-intelligent-document-processing.md",
-      "title": "Grooper - Intelligent Document Processing",
-      "excerpt": "BIS, creator of Grooper® - a leading intelligent document processing and digital data integration platform is recognized in Quadrant Knowledge Solutions SPARK Matrix TM: Intelligent Document Processing Report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanzen.ch/nachrichten/aktien/grooper-intelligent-document-processing-1030010804",
-      "originalUrl": "https://www.finanzen.ch/nachrichten/aktien/grooper-intelligent-document-processing-1030010804",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.ch",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-zara-meets-netflixthe-fashion-house-where-ai-removes-designers-and-overstock.md",
-      "title": "“Zara Meets Netflix”—The Fashion House Where AI Removes Designers And Overstock",
-      "excerpt": "Described by its founder Ramin Ahmari as “Zara meets Netflix,” FINESSE creates products their Gen Z target audience want when they want them, and in the quantities they demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/",
-      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60115f7de603b45fc40bca93%2F0x0.jpg",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/amp/",
-      "publishedDateTime": "2021-01-27T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

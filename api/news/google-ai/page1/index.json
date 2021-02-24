@@ -2,6 +2,103 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-band-of-ai-startups-launch-rebel-alliance-for-interoperability.md",
+      "title": "Band of AI startups launch ‘rebel alliance’ for interoperability",
+      "excerpt": "The AI Infrastructure Alliance wants to improve interoperability between tools and fraemworks made by small to medium-size AI startups.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
+      "originalUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
+      "publishedDateTime": "2021-02-24T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-interested-in-ai-master-deep-learning-get-nlp-certified.md",
+      "title": "Interested In AI? Master Deep Learning & Get NLP Certified",
+      "excerpt": "The world of artificial intelligence (AI) is revolutionizing the way we live, though it has become something of an acronym soup. From DL to ML, SSD to CN",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/d85e6d6d-d4b8-5b58-8447-d6f9b67788eb/default-1614187290-ai.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "publishedDateTime": "2021-02-24T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-review-aws-ai-and-machine-learning-stacks-up.md",
       "title": "Review: AWS AI and Machine Learning stacks up",
       "excerpt": "Amazon Web Services provides an impressively broad and deep set of machine learning and AI services, rivaling Google Cloud and Microsoft Azure.",
@@ -659,17 +756,17 @@
     {
       "path": "_news/2021-02-11-how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-2004.md",
       "title": "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04",
-      "excerpt": "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
+      "excerpt": "If you're looking to add machine learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "webUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "originalUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -679,8 +776,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
       "publishedDateTime": "2021-02-10T08:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1417,111 +1514,6 @@
         "Microsoft AI",
         "IBM AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-deepmind-co-founder-was-investigated-by-a-law-firm-following-staff-complaints-on-his-management-style.md",
-      "title": "DeepMind co-founder was investigated by a law firm following staff complaints on his management style",
-      "excerpt": "The truth about why DeepMind's Mustafa Suleyman left the company he co-founded may finally be coming out. Suleyman's departure from the Google-owned and London-based AI lab was announced out of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106830698-1611754303373-GettyImages-627782598.jpg?v=1611755158",
-          "width": 5496,
-          "height": 3664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/27/deepmind-co-founder-investigated-by-law-firm-after-staff-complaints-.html",
-      "publishedDateTime": "2021-01-27T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-state-of-the-art-applied-artificial-intelligence-defined.md",
-      "title": "State-Of-The-Art Applied Artificial Intelligence Defined",
-      "excerpt": "If the AI industry wants to shake off buyers’ perception of being sold snake oil, it should stop selling it. For users, it’s important to be aware of what makes a solution truly state-of-the-art, and which are just sprinkling AI on as an afterthought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60104fb1a4f5ba2187cb3cf4%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
-      "publishedDateTime": "2021-01-27T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

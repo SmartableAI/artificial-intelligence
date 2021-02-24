@@ -52,6 +52,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "How Artificial Intelligence Can Help With Efficiency in Healthcare"
+    excerpt: "The shortage affects not just cardiology, but the entire spectrum of care—and it extends beyond places traditionally thought of as having limited healthcare options."
+    publishedDateTime: 2021-02-24T17:20:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/how-artificial-intelligence-can-help-efficiency-healthcare"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/shutterstock_1783411148%20%281%29.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
   - title: "Can AI allay health care inequities?"
     excerpt: "COVID-19 has highlighted racial disparities in the U.S. health care system. And one doctor writes in Forbes what he believes is the solution: artificial intelligence."
     publishedDateTime: 2021-02-21T03:00:00Z

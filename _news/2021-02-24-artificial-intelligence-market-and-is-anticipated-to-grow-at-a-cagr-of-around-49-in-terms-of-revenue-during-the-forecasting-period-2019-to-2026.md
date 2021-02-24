@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2021-02-24T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026"
     excerpt: "Voice and Speech Recognition Market” The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global"
     publishedDateTime: 2021-02-20T23:00:00Z

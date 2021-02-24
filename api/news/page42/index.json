@@ -2,6 +2,214 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-01-22-multi-account-model-deployment-with-amazon-sagemaker-pipelines.md",
+      "title": "Multi-account model deployment with Amazon SageMaker Pipelines",
+      "excerpt": "Amazon SageMaker Pipelines is the first purpose-built CI/CD service for machine learning (ML). It helps you build, automate, manage, and scale end-to-end ML workflows and apply DevOps best practices of CI/CD to ML (also known as MLOps). Creating multiple accounts to organize all the resources of your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/multi-account-model-deployment-with-amazon-sagemaker-pipelines/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/multi-account-model-deployment-with-amazon-sagemaker-pipelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-1682-2-12.jpg",
+          "width": 471,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T14:32:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-privacy-fears-as-indian-city-lucknow-readies-facial-recognition-to-spot-harassed-women.md",
+      "title": "Privacy fears as Indian city Lucknow readies facial recognition to spot harassed women",
+      "excerpt": "Concerns that technology will lead to intrusive policing and privacy violations, digital rights experts warned.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
+      "originalUrl": "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/23/0b83e278-5cef-11eb-a99a-beae699a1a1d_image_hires_052038.jpg?itok=YoSvb9Te&v=1611350446",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
+      "publishedDateTime": "2021-01-22T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror.md",
+      "title": "Microsoft’s AI Chatbot Patent Resembles A Particularly Disturbing Episode Of ‘Black Mirror’",
+      "excerpt": "According to documents from the US Patent and Trademark Office, Microsoft has been granted a patent that would allow the tech giant to construct an AI-assisted chatbot using the personal data of the deceased,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b4538ef819ee40beeb605%2F0x0.jpg",
+          "width": 1199,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/amp/",
+      "publishedDateTime": "2021-01-22T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026.md",
+      "title": "Voice and Speech Recognition Market: Key Drivers, Challenges and Trends by 2026",
+      "excerpt": "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-the-biden-administrations-ai-plans-what-we-might-expect.md",
       "title": "The Biden administration’s AI plans: what we might expect",
       "excerpt": "The president hasn't yet announced anything explicit, but there may be something to glean from his early appointments.",
@@ -964,188 +1172,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4.md",
-      "title": "The new Raspberry Pi Pico is an incredibly powerful little chip for just $4",
-      "excerpt": "The Pico is the first microcontroller board from Raspberry Pi and has been built around the new, custom RP2040 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/21/a6ec6b4b-2925-4f84-a92c-a9d06ecec4ab/resize/1200x/7e9b50b8b494608f7464ffceb3397843/raspberry-pi-pico-angle.jpg",
-          "width": 1200,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/the-new-raspberry-pi-pico-is-an-incredibly-powerful-little-chip-for-just-4/",
-      "publishedDateTime": "2021-01-21T16:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-ethics-and-governance-of-ai.md",
-      "title": "Ethics and Governance of AI",
-      "excerpt": "The rapidly growing capabilities and increasing presence of AI-based systems in our lives raise pressing questions about the impact, governance, ethics, and accountability of these technologies around the world. How can we narrow the knowledge gap between ...",
-      "sourceUrl": null,
-      "webUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
-      "originalUrl": "https://cyber.harvard.edu/topics/ethics-and-governance-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand.md",
-      "title": "‘Hybrid roles, the new norm: IELTS, Azure, software testing in demand’",
-      "excerpt": "The report is based on data from the global companies using the Udemy for Business platform and a survey of more than 500 learning and development professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
-      "originalUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2020/12/e-class-1200.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
-      "publishedDateTime": "2021-01-21T14:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-new-google-union-concerned-after-a-senior-ai-ethics-researcher-is-reportedly-locked-out-of-her-account.md",
-      "title": "New Google union ‘concerned’ after a senior A.I. ethics researcher is reportedly locked out of her account",
-      "excerpt": "The Alphabet Workers Union has said it is concerned over Google's decision to lock Margaret Mitchell, a senior AI ethics researcher, out of her account.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103724796-GettyImages-461180134.jpg?v=1532564092",
-          "width": 3000,
-          "height": 1978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/margaret-mitchell-google-investigating-ai-researcher-awu-concerned.html",
-      "publishedDateTime": "2021-01-21T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

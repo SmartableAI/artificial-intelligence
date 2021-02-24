@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-t
 webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,29 +29,78 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2027"
-    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
-    publishedDateTime: 2021-02-23T10:07:00Z
-    webUrl: "https://menafn.com/1101643207/Artificial-Intelligence-AI-Market-Manufacturers-Research-Methodology-Competitive-Landscape-and-Business-Opportunities-by-2027"
+  - title: "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2021-2027"
+    excerpt: "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b"
+    publishedDateTime: 2021-02-24T17:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2021-2027-2021-02-24"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?267395"
-        width: 375
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
-    publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
+  - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
+    excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
+    publishedDateTime: 2021-02-23T07:14:00Z
+    webUrl: "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/2/U223648370_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
+    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
+    publishedDateTime: 2021-02-23T14:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
+    publishedDateTime: 2021-02-22T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
+    publishedDateTime: 2021-02-22T17:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "jLzkJeB72nS+n9Ylsqk746fLas4losUO55hlNanIj1NJvHmKggi/K2+oaMaBSY4EeHVbJM9abseCSnh4o14CkizkKDZBZFwU6Yk2LCD64zjPlfaI+tb5jMOKymxkEkaYkd5yLTea60ey2ZeesHQhMqtozZWyZSzuW+uLgXlQ7f8QyjLeWzd++7vQXolxg+ud2HH54QQTbGBkd8jeaY+HZfylDNCh7kAHVXS6PLn+8rd+jZGPfvqoruCebZ1m2QbfdLDXE0y267xE5HgYm/vLdJf3H3hJWaYvVN9a0V5Esn5PYsuP0RaWd7lMy+QEdMoTiYmv0iCnyiUB3SXLvJ19tXZN6f6kq3o7X2jaqHzkWvA=;8zqI3MBc6ksMMwAKBoZSVg=="
 ---

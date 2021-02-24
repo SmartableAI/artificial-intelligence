@@ -2,6 +2,197 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
+      "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
+      "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "publishedDateTime": "2021-02-22T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
+      "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
+      "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
+      "originalUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/electronic-5902163_640.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
+      "publishedDateTime": "2021-02-22T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni.md",
+      "title": "Continental picks up stake in AI chip start-up Recogni",
+      "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554",
+      "originalUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg",
+          "width": 735,
+          "height": 490,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1",
+      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1",
+      "publishedDateTime": "2021-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autocar Pro",
+        "domain": "autocarpro.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health.md",
+      "title": "Take A Look At How Artificial Intelligence Can Improve Your Pet’s Health",
+      "excerpt": "Could artificial intelligence give us better insight into our pet's health? How can a data-driven approach help animals live healther, happier lives?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603437d924ef803c1c8288c4%2F0x0.jpg",
+          "width": 1123,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
+      "publishedDateTime": "2021-02-22T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-4-etfs-to-invest-in-robotics-artificial-intelligence.md",
       "title": "4 ETFs to Invest in Robotics & Artificial Intelligence",
       "excerpt": "Robots and artificial intelligence (AI) are increasingly becoming an integral part of our lives. There are so many AI enabled applications that impact our daily lives. The pandemic further accelerated automation and the trend is likely to continue,",
@@ -148,7 +339,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -240,58 +431,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027.md",
-      "title": "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027",
-      "excerpt": "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1078,164 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-google-fires-another-top-researcher-on-its-ai-ethics-team.md",
-      "title": "Google Fires Another Top Researcher on Its AI Ethics Team",
-      "excerpt": "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173",
-      "originalUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 324,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qor3uucrnhamtzuoqiyn.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp",
-      "publishedDateTime": "2021-02-20T16:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-facial-recognition-sexual-predator-caught-on-cctv.md",
-      "title": "Facial recognition: Sexual predator caught on CCTV",
-      "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
-      "originalUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
-      "title": "Salesforce Research wields AI to study medicine, economics, and speech",
-      "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
-      "originalUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Salesforce-e1606938078476.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/20/salesforce-research-wields-ai-to-study-medicine-economics-and-speech/amp/",
-      "publishedDateTime": "2021-02-20T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI",
-        "AI Ethics"
       ]
     }
   ],

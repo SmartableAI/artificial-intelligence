@@ -2,22 +2,19 @@
 category: news
 title: "Genethon and WhiteLab Genomics Join Forces to Enhance Gene Therapy Through Artificial Intelligence"
 excerpt: "WhiteLab Genomics, a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy."
-publishedDateTime: 2021-02-10T21:09:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence"
-webUrl: "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence"
+publishedDateTime: 2021-02-11T05:43:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580"
+webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "xU7I4rsvP0/VIdihkuzg8AERxYRjzXkicAHjPoB92ufwGWc/d2Q36tGGPybzblmvKBmAoCUPUNxjHK4VhwAk0qn2N4FgJPH2+g0Qi6YxXpD4wtjyhYU3EWccZsChXYs2yJrz0u2b0iaqeqjJkmlLTB72hA7szbIkcPXBGL0A/0xmQhKIO5WueXy1GPpLzDGj/jL0AMmWKkAhcQ5mDWIpA2vECyB05Jp5rVEF9dWZQ1/QwCEvgzoTunr0tgB3Z9jxYHaIX1VUUFAFUAyRw6I8INrQdEjKNybl1RPD/CBZp5E93FG9CwBxMg5eKGxM1WzXGzKlEVs8yCrFV2Oq3IvBNghVXJaKuziUk84zbEHsEjaO1iRfqwyU3HGQH5Bm/IvQZdKVOzTdMO0YdjlRd3gQZ0Y9bd42OtbzbK/1iWVHHYaOuKYftzZevi6MLOsGqAbZXHh5zCrzndfUe5qVvPa6RTZw8Ah5PPNjpP6m/Jo+R40eYWIAG11a8pcVc9PT7sV8FsvFNSPmuOywViW8uYQJnw==;QrQIutwAAdGX8JrPZgsS+Q=="
+secured: "sC0oP53WE4nbpskytXEbyqJgPhyJcjlc2cOZ4NdI/OHYDF1UsZvJkw+JpsDyeO3nMyiAXyeaocDESIbicOLSENWfPliFenOfp4jFH3fgFcKvCWOcbiuCeif/snEBwSmghfaG0Cu2FGp57cAfI8+ByQNoU8M0EJpVRJYQJaSLZy27KTZVLfdwU/4l0tUNf+AN4Zo7ZcIOh3jBqmnNHI51QE4+PaBLwYtMll1jpagbT7KyK2OfT1V0A7IZp+i+HEeE59Sotb9icMpR7gFikLkVYFg9/RZbTXvJ79Nev5KRyuLH3EMEumlI3lZhevOaMehVDv/U9/vZJiklIToTxBXV1k8+W5bXGzjA1AqmDdFpilQ=;mI6wOv8pi8fyYbiQzWsAVA=="
 ---
 

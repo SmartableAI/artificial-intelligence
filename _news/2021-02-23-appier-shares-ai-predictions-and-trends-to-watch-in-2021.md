@@ -9,7 +9,7 @@ ampWebUrl: "https://m.vietreader.com/business/media-outreach/34334-appier-shares
 cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,38 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
-    excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
-    publishedDateTime: 2021-02-23T07:14:00Z
-    webUrl: "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/2/U223648370_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
-    publishedDateTime: 2021-02-22T17:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "sigB1oCWRLb1g4hmKJgK359MI319JzCdaZ0ksPxYBfLu8R7rdyyAtgRBtgFCWRzFFeHc+QtZctVdQZNmtmiUhKyj5eH5nJAYhnHB7WRnTiLQzsPq1ZRPW+bURFpKrOaAxNYzJjw2/YbLyaXoqf7b5la+kR/UPftiw525CdMhfTOXcZecYkVQgFpp1dno0Hx0d0x5Yh6PlXGxwSOI86qVi7eiCnwfYuKrLHMRPvZrRvqt1+HiUqgR04lGkbphbxdALiLAKiH8LitnjvGV18h/sbBOmpQZIlYPE4lYNhazWJp2M4YTHt8ngCMrG2u1f16RWw9z3b41LKKfed4hxriJ4IO4an4s1tsDStpp5nUanDQ=;ZmrvzTsZEPUHLZYfxGBFQA=="
 ---

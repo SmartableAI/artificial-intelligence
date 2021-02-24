@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-interested-in-ai-master-deep-learning-get-nlp-certified.md",
+      "title": "Interested In AI? Master Deep Learning & Get NLP Certified",
+      "excerpt": "The world of artificial intelligence (AI) is revolutionizing the way we live, though it has become something of an acronym soup. From DL to ML, SSD to CN",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/d85e6d6d-d4b8-5b58-8447-d6f9b67788eb/default-1614187290-ai.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "publishedDateTime": "2021-02-24T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-aquarium-scores-26m-seed-to-refine-machine-learning-model-data.md",
       "title": "Aquarium scores $2.6M seed to refine machine learning model data",
       "excerpt": "Aquarium, a startup from two former Cruise employees, wants to help companies refine their machine learning model data more easily and move the models into production faster. Today the company announced a $2.",
@@ -1375,49 +1420,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-deep-learning-may-help-doctors-choose-better-lung-cancer-treatments.md",
-      "title": "Deep learning may help doctors choose better lung cancer treatments",
-      "excerpt": "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-deeplearning.jpg",
-          "width": 730,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
-      "publishedDateTime": "2021-02-17T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

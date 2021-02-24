@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2021-2027.md",
+      "title": "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2021-2027",
+      "excerpt": "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2021-2027-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2021-2027-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
       "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
       "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
@@ -1030,43 +1082,25 @@
     {
       "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
+      "excerpt": "These companies are building the artificial-intelligence (AI ... platform consists of hardware and software designed to support driverless vehicles, from level 2 (partly automated) all the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "webUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg",
-          "width": 1619,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T13:20:00-08:00",
+      "publishedDateTime": "2021-02-11T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1444,58 +1478,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-mizuho-predicts-how-much-self-driving-cars-should-add-to-baidus-share-price.md",
-      "title": "Mizuho predicts how much self-driving cars should add to Baidu's share price",
-      "excerpt": "Shares of Chinese technology company Baidu are at an all-time high and could climb further ... The country has ambitious plans to build transportation systems that support self-driving vehicles in 30 domestic markets, Lee told CNBC's \"Squawk Box Asia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/02/10/mizuho-predicts-how-much-self-driving-cars-could-boost-baidu-stock.html",
-      "originalUrl": "https://www.cnbc.com/2021/02/10/mizuho-predicts-how-much-self-driving-cars-could-boost-baidu-stock.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106838180-1612928153790-gettyimages-1229059158-The_Baidu_robo-taxis_invite_citizens_to_take_for_free_in_BeijingChina_on_13th_October_2020.jpeg?v=1612927909",
-          "width": 3100,
-          "height": 1884,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

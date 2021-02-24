@@ -70,6 +70,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "How Artificial Intelligence Can Help With Efficiency in Healthcare"
+    excerpt: "The shortage affects not just cardiology, but the entire spectrum of care—and it extends beyond places traditionally thought of as having limited healthcare options."
+    publishedDateTime: 2021-02-24T17:20:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/how-artificial-intelligence-can-help-efficiency-healthcare"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/shutterstock_1783411148%20%281%29.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
 
 secured: "fMgbrB2LxOPrVJeoWRcNkZBYu8yC84iFE6IQ+99geSTxyVyjJ/FmvYs6zh075P5dzwnGVq3PabZizLauwfoPNfLuNsrvAYQchf0LFWWbiNC4VFcwhcPH3PeIy3ig2wIOmAYF1NqYTY4EGaC+qhQ6fjgsdCaooxrKrBnQ4LCnK9j0k8C8Y7KdEZt5KL9uypaysKyGwp3T12hGypTAGpeneASlEY+C1C5eVHc0qbhRLRAfcjk8ALqVMTwq8KLjjl7VtUHNDwc+YHNkhqcqhtEC4SZM0TNXCOTsvkzQpVRJeLEuu/6UlhF1VYPp0xwyGSFrnsQ61xr/Sb1uGdP/tawciyZHev1QHP52fx5n3FXEU+3QD1c2U3YHIjUantCqA9PddfGvlkzXyENCs7u9oh+JHfPVwTjINupqU86WgbhPeHl9HX1OwB+DZr0x/Fw5D7ObtYtdEPNvhmKN4bXJvwnrg6aI25kBgWUnUrKsC6aMhpZUoVnVoMKn8pLyrLo9j5tpQCB1K6QUaOqSxJJ1hg6eLA==;+QMexhZtToMwmaO9ptRSXQ=="
 ---

@@ -75,22 +75,6 @@ related:
         isCached: true
   - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
     excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
-    publishedDateTime: 2021-02-20T01:26:00Z
-    webUrl: "https://www.reuters.com/article/us-alphabet-google-research/google-fires-research-leader-amid-diversity-research-freedom-controversies-idUSKBN2AJ2JA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552220296&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I1HR"
-        width: 816
-        height: 545
-        isCached: true
-  - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
-    excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
     publishedDateTime: 2021-02-22T09:37:00Z
     webUrl: "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
@@ -116,20 +100,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 84
-  - title: "Google Revamps AI Teams in Wake of Researcher’s Departure"
-    excerpt: "Google restructured its responsible artificial intelligence efforts to centralize teams under a single executive, Marian Croak, a move by the internet giant to stabilize groups working on ethics research and products after months of chaos."
-    publishedDateTime: 2021-02-20T01:09:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-18/google-to-reorganize-ai-teams-in-wake-of-researcher-s-departure"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCJciXfsQRJM/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Fires Researcher Meg Mitchell, Escalating AI Saga"
     excerpt: "Google fired the lead of its Ethical Artificial Intelligence team, Meg Mitchell, escalating the turmoil surrounding its AI division after the acrimonious exit of Mitchell’s former colleague Timnit Gebru."
     publishedDateTime: 2021-02-20T04:51:00Z
@@ -160,22 +130,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Google fires AI manager who protested her peer’s departure"
-    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T01:19:00Z
-    webUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/"
-    ampWebUrl: "https://www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/google-fires-ai-manager-who-protested-her-peers-departure/amp/"
-    type: article
-    provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 59
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2019/06/cropped-Browser-tab-logo.jpg"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Google fires AI manager who protested her peer's departure"
     excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
     publishedDateTime: 2021-02-20T16:53:00Z
@@ -189,36 +143,6 @@ related:
     quality: 59
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/googlehasfir.jpg"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Google fires top AI ethicist"
-    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
-    publishedDateTime: 2021-02-20T02:14:00Z
-    webUrl: "https://www.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
-    ampWebUrl: "https://amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/4fbebc3a-d714-4d79-9805-613303a29420"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08f11e90-9311-4283-aa5a-c77e685b599e.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Google Fires Another Lead AI Ethics Researcher"
-    excerpt: "Google said Friday it fired a lead artificial intelligence ethics researcher, following controversy last year over the tech giant's dismissal of a Black colleague who was an outspoken diversity advocate."
-    publishedDateTime: 2021-02-20T02:35:00Z
-    webUrl: "https://www.ibtimes.com/google-fires-another-lead-ai-ethics-researcher-3148844"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/19/google-has-fired-another-lead-artificial-intelligence-ethics.jpg"
         width: 1024
         height: 681
         isCached: true
@@ -291,22 +215,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/02/google-highest-paid-jobs-1-1800x756-c-center.jpg"
         width: 1800
         height: 756
-        isCached: true
-  - title: "Google fires ANOTHER AI ethics researcher amid row over ‘censorship & racism,’ as team member accuses company of ‘smear campaign’"
-    excerpt: "Google has terminated the head researcher on its AI ethics team over what the tech giant deemed a violation of its “code of conduct,” as the company faces an internal revolt over a previous firing of a black data scientist."
-    publishedDateTime: 2021-02-20T01:59:00Z
-    webUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/"
-    ampWebUrl: "https://www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/usa/516113-google-fires-researcher-racism/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 45
-    images:
-      - url: "https://cdni.rt.com/files/2021.02/xxl/60306a1f20302750662557d7.JPG"
-        width: 1240
-        height: 697
         isCached: true
   - title: "Google fired another AI ethics manager while peers are still protesting for Timnit Gebru’s dismissal"
     excerpt: "Google barely pacified its employees over Timnit Gebrus firing in December, and it has to deal with new tension that is building after the firing of another AI ethics leader Margaret Mitchell. She is said to be one of"

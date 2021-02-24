@@ -1,30 +1,20 @@
 ---
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
-excerpt: "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,"
-publishedDateTime: 2021-02-11T21:20:00Z
-originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+excerpt: "These companies are building the artificial-intelligence (AI ... platform consists of hardware and software designed to support driverless vehicles, from level 2 (partly automated) all the ..."
+publishedDateTime: 2021-02-11T16:36:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg"
-    width: 1619
-    height: 1060
-    isCached: true
-
-secured: "AKklclMwEh13pOYotQ2VDQ5RHchyFajlTqZQ7JkpycTtypHgPASPlk7q+1qXAdmAxisplHSYgQsxqJ5GTROmHVwwjgHvMjAM9T3jhNAFBbxMdS/vIcW19gUXpEeHh9QUAPoiaZIfXBWE3WEqqBNhP9Nkf3vwT6AnKljV7PeCucvOKUf/fvymFPGskTOkYahHNO1zJo6KsErfOnb7q4UWuuw60nsZtEdwvYv7eeXufoJwxnK/6MzjfX7UQ1M/0zgnyNTvN1AQ5D5O77LTvSXWirfRNkFsSgrqkz3EMdUg8+UYJOIvfGVyVhpVz/0nUX1exVqHq1NucuMy2R1iEwEK7/6FtHI20kWYxcuNcznB8ZQ=;vbl0NsdvPzJ4FRN4vhHojA=="
+secured: "P26BE2RqmoTBf21BQJCAKqT58UAqTZFaRKVUOwkYW+QPak7xKc6hAyl5C+cdb8KUCBKF3HudD22WMSECxUNLW0sperFppj2cDhrtvDOCENJWWEoTaM5Q5936pO0DJ8HZfsPy7WupEVFo/ab03tId0wz+C9nD1ihDIUzKc+8tvoL2yYKq+uevfLaPhX7aMvxP8e6mmbcV/mJ35ur2uhtABKM9pYzUE6ORvrC6Re3TKfvZ83R1VA0RuP4duZgpt5jDSUtRbucDnW3HrJdbXtjq6Emg6zQ3kanEOS9oYhHSYubJOfCbQGb0DLl+4dA+ZFznRG6Wkp5DT7jI9YXV1bKC2gVmqc2mIq2LsQUOdOgmy5Y=;jOQPkpci2ZxeX9Z0zPwa1A=="
 ---
 

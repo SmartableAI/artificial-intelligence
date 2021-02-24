@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Artificial Intelligence, IoT Sensors tech, Aboard NASA’s Perseverance Rover"
+    excerpt: "While the touch down of NASA Perseverance Mars Rover at Jerezo crater, on Martian surface has historic, innovative applications based on sensors, artificial intelligence, cloud, and robotics make it an upgrade from Curiosity."
+    publishedDateTime: 2021-02-24T17:18:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-iot-sensors-tech-aboard-nasas-perseverance-rover/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Mars-AI.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "P0mDKAfoaUfsPpPZY0aI9/Eu/HbQJ6OKygXb5c5T+QCIRYg4nv5OhmOuCgRFHUU1TZQ8TerQAVujI34DxJSNCPRYgaQnr0ejy5mfafFl27D5kkV897MNekjgfndf0fwUa9FNDVPV+ZhN7G3kSXSXJLqXVNtjpbx0T9sXvq0imr+YtQvnakRUWpTOQ9fjWz+gQvQW0gHpbGDtzZOPT+0QwcFKSbAYJ3/IEvot4BCB/nNRaM+BMlWTf8uhg8+A4ZVmEOfpFOMck2EKfkt7nbBA6AGuVAuDUwsG+ZYmJr7nMOShHzDC4b6F72zXQfyaw6Hns72meRiNVpNu7eyV1yRibNqa7EF9oNY4/MsavuMfbtE=;o8jLviD5+EpMODjS5MsxRA=="
 ---

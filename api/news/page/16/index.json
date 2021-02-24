@@ -2,6 +2,179 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-10-10-affordable-and-free-online-data-science-courses-from-mit-harvard-google-ibm-and-more.md",
+      "title": "10 affordable and free online data science courses from MIT, Harvard, Google, IBM, and more",
+      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
+      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
+      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
+      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.md",
+      "title": "Ford to invest $1 billion in artificial intelligence for your car",
+      "excerpt": "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "originalUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-speech-recognition-on-an-arduino.md",
+      "title": "Speech Recognition On An Arduino",
+      "excerpt": "Speech recognition is usually the purview of fairly high-powered computers chugging along at hundreds of Megahertz with megabytes of RAM. Bringing speech recognition to the low-power ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/",
+      "originalUrl": "https://hackaday.com/2012/09/22/speech-recognition-on-an-arduino/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/07/hackaday-logo-with-text-opengraph-default-image.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-study-robots-are-trusted-more-than-people-when-it-comes-to-money-management.md",
       "title": "Study: \"Robots\" are trusted more than people when it comes to money management",
       "excerpt": "A new study takes a look at the sentiments regarding \"robots\" in the financial services ... to streamline processes and workflows with artificial intelligence (AI), machine learning, and more.",
@@ -1010,184 +1183,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-major-camera-company-can-sort-people-by-race-alert-police-when-it-spots-uighurs.md",
-      "title": "Major camera company can sort people by race, alert police when it spots Uighurs",
-      "excerpt": "Facial recognition software developed by Dahua, a Chinese video surveillance firm sanctioned by the U.S., purports to detect the race of individuals caught on camera and offers to alert police clients when it identifies members of the Turkic ethnic group Uighurs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur",
-      "originalUrl": "https://www.msn.com/en-us/autos/other/race-detection-and-real-time-uighur-warnings-e2-80-94-inside-dahuas-facial-recognition-technology/ar-BB1dx6Ar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/11ae915/2147483647/strip/true/crop/2190x1430+0+15/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2d%2F57%2F37ef76df0d35ee47f73e8fe3cc9a%2Ffe770af465d049feaff428400f0db4f0",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur?_amp=true",
-      "publishedDateTime": "2021-02-09T06:00:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur",
-        "domain": "latimes.com/business/technology/story/2021-02-09/dahua-facial-recognition-china-surveillance-uighur",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy.md",
-      "title": "New AI tool predicts who’ll die from COVID-19 with 90% accuracy",
-      "excerpt": "Scientists say the system could help identify who to prioritize for COVID-19 vaccines and predict respirator demand at hospitals.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-09T125345.436-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/09/new-ai-tool-predicts-wholl-die-from-covid-19-with-90-accuracy/amp/",
-      "publishedDateTime": "2021-02-09T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-sentinelone-to-acquire-high-speed-logging-startup-scalyr-for-155m.md",
-      "title": "SentinelOne to acquire high-speed logging startup Scalyr for $155M",
-      "excerpt": "SentinelOne, a late-stage security startup that helps customers make sense of security data using AI and machine learning, announced today that it is acquiring Scalyr, the high-speed logging startup for $155 million in stock and cash.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
-      "originalUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-998110690.jpg?w=1024",
-          "width": 1024,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
-      "publishedDateTime": "2021-02-09T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
-      "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
-      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19559723",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723",
-      "publishedDateTime": "2021-02-09T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

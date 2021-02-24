@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Samsung develops AI processor-embedded memory chip"
-excerpt: "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (HBM) chip that boasts low energy consumption and enhanced performance."
-publishedDateTime: 2021-02-17T09:58:00Z
-originalUrl: "https://www.thehansindia.com/tech/samsung-develops-ai-processor-embedded-memory-chip-672581"
-webUrl: "https://www.thehansindia.com/tech/samsung-develops-ai-processor-embedded-memory-chip-672581"
-ampWebUrl: "https://www.thehansindia.com/amp/tech/samsung-develops-ai-processor-embedded-memory-chip-672581"
-cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/tech/samsung-develops-ai-processor-embedded-memory-chip-672581"
+excerpt: "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (Hbm) chip that boasts low energy consumption and enhanced performance."
+publishedDateTime: 2021-02-17T00:00:00Z
+originalUrl: "https://www.imdb.com/news/ni63197561/"
+webUrl: "https://www.imdb.com/news/ni63197561/"
 type: article
 
 provider:
-  name: The Hans India
-  domain: thehansindia.com
+  name: IMDb
+  domain: imdb.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://assets.thehansindia.com/h-upload/2021/02/17/1031795-samsung.jpg"
+  - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
     width: 1000
-    height: 600
+    height: 1000
     isCached: true
 
-secured: "bdYTzPKq/g0yi0NeGD0TrUtD2EzOYfxnD9d2Ebpuv9kxDbwawhXwZllDVw3oggh3MZ5T+XvCUmimB2zdaP4AvIQcYvqdGJuYo7HKfZWL9l8E5qkyzL62DLrqbii4vvyWu8vRCAVpCAaUb1vQOuO9KU465xkfYs25tOkqeo7IAv9Ydq2Sq8yekEi6b0Bj7jVH8t3EnMggOeNtCPpx6tWREPUEm6oKc8Q+RKSNXLIj7U7N9ieWdz9615n5pcZHC6gLwT4iUqs7ms/uqxRwOaIeBinrpIR/lEf30l2h9XnWIBap/ew/l+GAmNuAFVHiO4tJkwvDcrkDLvU1YY7yGl1MoRzHFLzAOu0GcW5uBoiQ4ww=;tRHjJhDKv9gEppJ1zrLenA=="
+secured: "WzXB6G/CXyBq6mUaHq0QmopW9VcsT3eY560Pdw1bnb+dDrf982N4mSJOYm1MYhYx8QWtucYNH0epc+b8JSnI7tLsMugxrfCOEYBgxg2kNxQtWCZIXlEPSTqomoXeEnDcp3+uLNh+a/+bBfd19UtunW/c15DTM0jND9++AxGIqInb0KWOAHHULBC+uu+I5g9JstOTgQnQTRN7IpnYxLUwv9RyVUy+2Jpjebj7DGY8MKWy0XoTNTetGfTSDifVwW/MTiNy2kZQmhmDgGyQAq7FIeVhKEO68/JdwvHxGHoZH1mz0ssaese8stRzA5rUyyDF7zQ40FZLyjuUBcOZOOSZgznNE+EiZYQr2FECZeMfFiw=;QsyAKcQxCMg8rJJ/W++Dlg=="
 ---
 

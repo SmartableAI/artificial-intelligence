@@ -42,6 +42,20 @@ related:
         width: 1279
         height: 640
         isCached: true
+  - title: "Warehouse robotics vendor Berkshire Grey goes public in SPAC deal"
+    excerpt: "Warehouse robotics and automation provider Berkshire Grey will take the company public, using a financial maneuver known as a special purpose acquisition company (SPAC) that is known as a faster way to begin selling shares than a traditional initial public offering (IPO),"
+    publishedDateTime: 2021-02-24T18:54:00Z
+    webUrl: "https://www.dcvelocity.com/articles/49668-warehouse-robotics-vendor-berkshire-grey-goes-public-in-spac-deal"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2021/02/24/berkshire_grey_bsg_dynamic_parcel_sortation_thumb_1_2x.jpg?height=635&t=1614192163&width=1200"
+        width: 868
+        height: 635
+        isCached: true
 
 secured: "LEgG3CWkJOGKhuBMpI8o7YBKE0mPpKQGH4kit7rpJZaO/jTFz1INkyREN/ka7vmQB8HoxWzf1SUPQqufWYGBul1AlYMlAU+LrMnI85WbBrTNEuSnjxaKHBJSprpQE8LRQbwbQ0qjI+7ydek6UxRCbi7IVUe0qRZLy74+i6kbFMt7eeyQbYKf81Q3b7p5CSP/JpURWYsq3E/I651UCLQazZdxR5ys1PvT6qfdY9cZMH1+HJY8+8NbWdeN2SLktiLDq0SQVoVIfrM14ut0qZXAiZsoY/3X2cDsXT21fuBhPYMI5o0i688lLJb2Fr1wULs4E5jiz84k/v6XHHBr2gyrrS5fG2UrMiV+ST0leik+wtc=;+u+YDv1cyKZJ1Bz+QFXLAQ=="
 ---

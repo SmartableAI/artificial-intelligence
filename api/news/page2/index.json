@@ -2,6 +2,296 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
+      "title": "Proposed framework could reduce energy consumption of federated learning",
+      "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/federated_learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
+      "publishedDateTime": "2021-02-23T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition.md",
+      "title": "Tech newsletter: Horrifying robot dog’s paintball rampage, Biden + facial recognition",
+      "excerpt": "Welcome to the Tuesday edition of the Internet Insider, where we dissect tech and politics news unfolding online. Today: Pranksters show how horrifying Boston Dynamics’ police robot dog is by strapping a paintball gun to it Civil rights groups want Biden to halt government use of facial recognition No,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
+      "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/02/Tech-News-Newsletter-Image-02-23-2021.jpg?fm=pjpg&ixlib=php-3.3.0",
+          "width": 1938,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
+      "publishedDateTime": "2021-02-23T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency-in-countering-china-on-artificial-intelligence.md",
+      "title": "US-China tech war: Former Google CEO Eric Schmidt stresses ‘urgency’ in countering China on artificial intelligence",
+      "excerpt": "The US is ‘one or two years ahead of China, not five or 10’ and ‘the Chinese are well ahead in areas like face recognition,’ said former Google CEO Eric Schmidt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
+      "originalUrl": "https://www.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/24/2fff5d14-7601-11eb-8b9d-76c80a88a6d4_image_hires_040002.jpg?itok=uiLCMS6u&v=1614110412",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
+      "publishedDateTime": "2021-02-23T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre.md",
+      "title": "NAG Delivers Machine Learning Guidance via New Azure HPC + AI Collaboration Centre",
+      "excerpt": "The Numerical Algorithms Group (NAG) will provide machine learning guidance to Microsoft Azure users via the new Azure HPC & AI Collaboration Centre. In partnership with NVIDIA, this new centre will develop best practices for the deployment of scalable machine learning in the Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/",
+      "originalUrl": "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg",
+          "width": 325,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AI in Finance",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-ai-researchers-detail-obstacles-to-data-sharing-in-africa.md",
+      "title": "AI researchers detail obstacles to data sharing in Africa",
+      "excerpt": "Coauthors argue that failure to consider ethical concerns associated with obstacles to data sharing in Africa could cause irreparable harm.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/25926847601_141ca6c021_k.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
+      "publishedDateTime": "2021-02-23T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-machine-learning-method-identifies-precancerous-colon-polyps.md",
+      "title": "Machine learning method identifies precancerous colon polyps",
+      "excerpt": "A machine learning algorithm helps accurately differentiate benign and premalignant colorectal polyps on CT colonography scans, according to a study published in the journal Radiology.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/16-machinelearn.jpg",
+          "width": 1440,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.amp",
+      "publishedDateTime": "2021-02-23T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world.md",
       "title": "Thomson Reuters to stress AI, machine learning in a post-pandemic world",
       "excerpt": "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit.",
@@ -403,59 +693,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-23-computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast.md",
-      "title": "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast",
-      "excerpt": "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-02-23-from-the-data-and-ai-expert-labs-its-not-whether-you-adopt-ai-its-when.md",
       "title": "From the Data and AI Expert Labs: It’s not whether you adopt AI. It’s when.",
       "excerpt": "You wouldn’t be reading this if you didn’t have the sense that AI is the future. But the breadth of solutions can be so paralyzing that it stops business leaders cold. Firms like PricewaterhouseCoopers and McKinsey predict that the global AI economy will grow to $13-15 trillion by 2030. But today only",
@@ -656,7 +893,7 @@
       "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -990,240 +1227,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-computer-vision-market-latest-innovations-and-trends-2021-2026.md",
-      "title": "Computer Vision Market Latest Innovations and Trends 2021-2026",
-      "excerpt": "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "originalUrl": "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U223648370_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026",
-      "publishedDateTime": "2021-02-22T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
-      "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
-      "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
-      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
-      "publishedDateTime": "2021-02-22T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
-      "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
-      "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
-      "originalUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/electronic-5902163_640.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
-      "publishedDateTime": "2021-02-22T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni.md",
-      "title": "Continental picks up stake in AI chip start-up Recogni",
-      "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554",
-      "originalUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg",
-          "width": 735,
-          "height": 490,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1",
-      "cdnAmpWebUrl": "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1",
-      "publishedDateTime": "2021-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autocar Pro",
-        "domain": "autocarpro.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health.md",
-      "title": "Take A Look At How Artificial Intelligence Can Improve Your Pet’s Health",
-      "excerpt": "Could artificial intelligence give us better insight into our pet's health? How can a data-driven approach help animals live healther, happier lives?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603437d924ef803c1c8288c4%2F0x0.jpg",
-          "width": 1123,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/22/take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health/amp/",
-      "publishedDateTime": "2021-02-22T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

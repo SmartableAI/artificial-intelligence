@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-deep-learning-may-help-doctors-choose-better-lung-cancer-treatments.md",
+      "title": "Deep learning may help doctors choose better lung cancer treatments",
+      "excerpt": "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-deeplearning.jpg",
+          "width": 730,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
+      "publishedDateTime": "2021-02-17T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-8-databases-supporting-in-database-machine-learning.md",
       "title": "8 databases supporting in-database machine learning",
       "excerpt": "The CREATE MODEL command in Redshift SQL defines the data to use for training and the target column, then passes the data to Amazon SageMaker Autopilot for training via an encrypted Amazon S3 ...",
@@ -988,17 +1031,17 @@
     {
       "path": "_news/2021-02-11-how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-2004.md",
       "title": "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04",
-      "excerpt": "If you're looking to add Machine Learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
+      "excerpt": "If you're looking to add machine learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "webUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "originalUrl": "https://www.techrepublic.com/index.php/recent/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -1008,8 +1051,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/recent/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
       "publishedDateTime": "2021-02-10T08:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1405,40 +1448,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-kaggle-publishes-2020-state-of-machine-learning-and-data-science-report.md",
-      "title": "Kaggle Publishes 2020 State of Machine Learning and Data Science Report",
-      "excerpt": "Addison Wesley Professional The Kollected Kode Vicious by George V. Neville-Neil aims to provide thoughtful and pragmatic insight into programming to both experienced and younger software ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kaggle.com/kaggle-survey-2020",
-      "originalUrl": "https://www.infoq.com/news/2021/02/kaggle-report-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-07T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

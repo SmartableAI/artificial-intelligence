@@ -2,84 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-11-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
-      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
-      "excerpt": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210211005635/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210211005635/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-facial-recognition-has-come-a-long-way-its-problems-have-a-long-way-to-go.md",
-      "title": "Facial recognition has come a long way. Its problems have a long way to go.",
-      "excerpt": "Over the last 80 years, facial recognition tech has gone from pen and paper to large-scale automation. But at what cost?",
-      "sourceUrl": null,
-      "webUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "originalUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehustle.co/wp-content/uploads/2021/02/News-Brief-Midroll-Images_2021-02-11T012507.977Z.jpg",
-          "width": 600,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehustle.co/02112021-facial-recognition/",
-      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/02112021-facial-recognition/",
-      "publishedDateTime": "2021-02-10T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hustle",
-        "domain": "thehustle.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-computer-vision-market-by-size-growth-opportunity-and-forecast-to-2027.md",
       "title": "Computer Vision Market by Size, Growth, Opportunity and Forecast to 2027",
       "excerpt": "Selbyville, Delaware Global Computer Vision Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Computer Vision Market Report also covers top key players,",
@@ -1366,6 +1288,101 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate.md",
+      "title": "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate",
+      "excerpt": "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee90f75a2b06400077bbb41%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/",
+      "publishedDateTime": "2021-02-03T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-more-screen-time-causing-vision-problems-during-pandemic-doctor-warns.md",
+      "title": "More screen time causing vision problems during pandemic, doctor warns",
+      "excerpt": "\"It's multi-factorial. We call it the computer vision syndrome, and it combines both eye strain from just staring at the computers which are right in front of you for all those hours, that 13 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/vision-related-issues-covid-screen-time/",
+      "originalUrl": "https://www.cbsnews.com/news/vision-related-issues-covid-screen-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/03/9e04c0cb-473f-4108-8919-11e13bbd4174/thumbnail/1200x630g2/f9d1e902b69bd0681891681c3a3a586a/cbsn-fusion-pandemic-leads-to-increase-in-vision-problems-thumbnail-638754-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/vision-related-issues-covid-screen-time/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vision-related-issues-covid-screen-time/",
+      "publishedDateTime": "2021-02-03T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

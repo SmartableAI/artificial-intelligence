@@ -24,22 +24,6 @@ images:
     height: 465
     isCached: true
 
-related:
-  - title: "Three Things That Artificial Intelligence Changes in Games"
-    excerpt: "ET <a href = target=_blank><br/><img src=' Width='751' Height='501'/><br/><br /> Artificial Intelligence is part of our daily lives. It's made its way into our m"
-    publishedDateTime: 2021-02-24T12:21:00Z
-    webUrl: "https://menafn.com/1101648470/Three-Things-That-Artificial-Intelligence-Changes-in-Games"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2021-02/23/i_3728a7d8-4_Image_In_Body.jpg"
-        width: 751
-        height: 501
-        isCached: true
-
 secured: "yEv80G9woJdLvR2dkJYkmgqBY0QXVpssqqcJeq7iB+ye6nL8xRedyCSFUkfvm3NvlhXsHADp2xSeq9UJ5q4zFe2i1F4u+WJ52V6anumy33vwRJBiimxgf0x/tpUidBi79QNT0YTKllYh+a8nI5tUjPX/5I8j45PAtxX37l83jWPP7G60rPIwcT11ePGgjggcJzzRZnSw7FXFdut0XK9pFCr8dI3aPe3z0AZrw67VEIMDz/y+sPBCQeKOo4amPeAbyYHEp+3X22US0lhmlGHMHfqHn+RqpnlelZFamYK7++Q3nSQhsVHyhw/5q5MCAATe1Mwmn9zdL9qRq1c0UT/RfhSdC4MVYnMosaf6EXcASjWxnR6XfxlW0vFCLv1Fq7IektvYh+6JJHh2Cjj3/CWEagxP3Sb0S7IO4RzUcUKeWI79LY1ImMC0oP/EG7R91ySBo8zolVu7Bilqd3jDpefaVkmy92wFxsCl7yxMFz/4JuPOsa+GOLB7Jgn3LJJYkyO68nCPYvdzNJy9h8n7CT8IBw==;bpCfHjNkDVMuDzFnRHNxuA=="
 ---
 

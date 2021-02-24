@@ -176,6 +176,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
+    excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."
+    publishedDateTime: 2021-02-24T18:30:00Z
+    webUrl: "https://www.newswiretoday.com/news/174857/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 36
   - title: "Microsoft, BBC, and Adobe Start Coalition to Stop Fake News and Misinformation"
     excerpt: "Microsoft’s efforts to combat fake news now include the Coalition for Content Provenance and Authenticity, which aims to offer"
     publishedDateTime: 2021-02-23T13:30:00Z
@@ -191,6 +200,6 @@ related:
         height: 616
         isCached: true
 
-secured: "Y3y1WkIVhWJFn/77qNLPouSTRtAK2UL2igJXrB6kFe/TJgVRgFq4QwyZsQQczUgVNFfERq9gas2iq48AuQh+fOrcGTWwP7PtDG6NJ72oG0Q47FQDO9uVwmDsP8vmO/hJhg8KwSA4SdE4ZGIgAC6mSqC4PCYwFlaNqM6/G0nuW9AoJ1QgeBrHAh/o4kMbj7y2auewoou3vVypYw8yABXt0obtsL9lISBs/KA+dadD55ILIgHm6410SNDso31HRhaRK8L760lDcNPSv+W9RVFWuj4cLDFmW55k7WB+9dlwJ/9xlJ7QMnQiES1Z1GKryrtQSGzmn2tg1HfI+zGuK6/MrfQKNbTCfTSuwD1cVo6Z/4w=;3apvbeyzNFc42TA6F+Okbw=="
+secured: "3euyrjR06rHRwuWiOIfPNowEcqjtaDhsanlKk6S9pRuPUSqmTDKH6snZB23oYAyAYg5Czffld9naVPi/1TVs+nmkZl43d935HF4yY3hztBGJ71q+CSySPO+1dCXt/j/DUYDl2F58y8il2wee7oPWnyPMObqnJN8sWf7sJ4KyTf9Pd00QQWHH3UzQLv4x2gRWt3T7G5JgRqTjt3sYJ0c4t2oQjet2vHfgNujERZQ+0ycXTSIFZ7W7CVkP6rO8r5XbKEz4cPOEgLTtmYqF/R+f/hlDcv3DQvbep9Oq0VQ7MfBAppABJj9zDdErNXZDydQOkfIs4Ly/it0NQQjKpzEEpYaDCI++zLYCaAImmPpzkvKjziXYkucuAkfOrbY9HR7fj287YJQcPnbEWFDiQkjoUnfCSFnhdYytiO+rkLTYGU66qpRKLAfopYURnQSRxw5YBZNzJghsQKom3KUWdAWyUm6bKuP5qqWhTL4dpSwYvH3xHJlnuW+r+sYiCwdsxtEve5n9n1JaKiX5kmts/kh2+Q==;xN0qXzBBB5f0d37X4noL/Q=="
 ---
 

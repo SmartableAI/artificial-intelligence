@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/warehouse-robotics-provider-berkshi
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Warehouse robotics vendor Berkshire Grey goes public in SPAC deal"
+    excerpt: "Warehouse robotics and automation provider Berkshire Grey will take the company public, using a financial maneuver known as a special purpose acquisition company (SPAC) that is known as a faster way to begin selling shares than a traditional initial public offering (IPO),"
+    publishedDateTime: 2021-02-24T18:54:00Z
+    webUrl: "https://www.dcvelocity.com/articles/49668-warehouse-robotics-vendor-berkshire-grey-goes-public-in-spac-deal"
+    type: article
+    provider:
+      name: DC Velocity
+      domain: dcvelocity.com
+    quality: 54
+    images:
+      - url: "https://www.dcvelocity.com/ext/resources/2021/02/24/berkshire_grey_bsg_dynamic_parcel_sortation_thumb_1_2x.jpg?height=635&t=1614192163&width=1200"
+        width: 868
+        height: 635
+        isCached: true
   - title: "Berkshire Grey, a Leader in AI-Enabled Robotics and Automation Solutions, Announces Business Combination with Revolution Acceleration Acquisition Corp"
     excerpt: "Berkshire Grey (“BG” or the “Company”), a developer of integrated artificial intelligence (“AI\") and robotic solutions for e-commerce, retail replenishment, and logistics, has entered into a definitive agreement with Revolution Acceleration Acquisition Corp (Nasdaq: RAAC) (“RAAC”),"
     publishedDateTime: 2021-02-24T10:01:00Z

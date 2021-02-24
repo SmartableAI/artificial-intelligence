@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-excerpt: "Banjo Health , a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-publishedDateTime: 2021-02-24T11:31:00Z
-originalUrl: "https://menafn.com/1101648893/Shiva-Kumar-Former-Executive-at-IBMs-Watson-Health-Joining-Banjo-Healths-Board-of-Advisors"
-webUrl: "https://menafn.com/1101648893/Shiva-Kumar-Former-Executive-at-IBMs-Watson-Health-Joining-Banjo-Healths-Board-of-Advisors"
+excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
+publishedDateTime: 2021-02-23T20:04:00Z
+originalUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
 type: article
-quality: 27
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?700397"
-    width: 458
-    height: 250
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -151,20 +155,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Will IBM’s reported desire to sell Watson cast a shadow over big tech’s healthcare ambitions?"
-    excerpt: "IBM is reportedly looking to sell its Watson Health business. If true, it would be another stumble in a much-hyped healthcare project by a technology company."
-    publishedDateTime: 2021-02-20T02:03:00Z
-    webUrl: "https://medcitynews.com/2021/02/will-ibms-reported-desire-to-sell-watson-cast-a-shadow-over-big-techs-healthcare-ambitions/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 45
-    images:
-      - url: "https://medcitynews.com/uploads/2018/09/GettyImages-871148930-1.jpg"
-        width: 619
-        height: 416
-        isCached: true
   - title: "Ibm considering to sell its $1B Watson Health business: Report"
     excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"
     publishedDateTime: 2021-02-20T21:30:00Z
@@ -253,6 +243,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "UkBBIHhwhH3r2tOjcQa4QOmPIuQSojArxgfpMR7Hm2jYycLxR0IVgkyKGOcxA+c21DsOnBsxQ5dC754epthvegjetqJ0B+2+P8B9sBMOc+ows53FmFLCZkP3FHmlH6DqeQ9aPXVu7U34+LKlf3Gb9AWUTANROvcvRcdYNxZLdig6ctuUbyJMrniF7n7T1kc1VQ9ylbVJNH6EgetFacNv/tC067jufXThPQSHYAdbigWWLMvBJQ6vBPoITJjplDoSJyxeCUpl2bWmkVrZgtMAEX2w8TYLx0QcpbhdVyHU6wqkSu9O7LnB/uKrI7fCy0r5uD259k3g4bTiDDEiQ0fwTlmfxWWDC8+2EETSgDDFE4E=;KCzhCEME9vl6wLR0u52x2w=="
+secured: "U3sn+L+cIvdv9ERFleSm9O/hSSyifxCvvUMbJuD8NzwyTUkPQPDd0yiKD5dpQ2LWTO4rJzVyfsNl9aYSlOICgfgHiFLeEnFxc6GHo/Waq/SFtRcYZZLzWXBHSM9ponfcO53j8RiEv6B6P8rgkwHHQv+Iz4rGmnh+ey3wvE+G8+l8zumGdpAyDUxTxsR2GkQaXXE6Zf9Xqd1/+b6zfPUeAoT85OQxYjXC0GZ8xTW0cbRhywrWQ6gkHVJbIMBchFHBmnhi3x8a6Go+xhh1YmtbCVeEcSpn+HKANDp1xF7lub73Q/V7of/kbAoIhHdlGBxhaqET/HQRP/qVLtLk7n5hzaDpIkn/7+m8/6tTszdGrkU=;dCiYzEsWfVmqhltDpAROOQ=="
 ---
 

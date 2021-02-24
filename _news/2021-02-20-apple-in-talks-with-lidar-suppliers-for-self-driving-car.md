@@ -36,34 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 47
-  - title: "Apple said to be in talks to buy self-driving sensors, key step in car plan"
-    excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-    publishedDateTime: 2021-02-20T01:39:00Z
-    webUrl: "https://www.theedgemarkets.com/article/apple-said-be-talks-buy-selfdriving-sensors-key-step-car-plan"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 37
-    images:
-      - url: "https://assets.theedgemarkets.com/Apple_20210206101732_bloomberg_0.jpg?zn6Z_C0P2dUr8ednsshTHcg_RqToJP9b"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Apple in Talks to Buy Self-Driving Sensors for Apple car"
-    excerpt: "Apple Car- . is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter"
-    publishedDateTime: 2021-02-21T00:25:00Z
-    webUrl: "https://techstory.in/apple-car-in-talks-to-buy-self-driving-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2018/07/applecar-800x450.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
     excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
     publishedDateTime: 2021-02-24T05:47:00Z
