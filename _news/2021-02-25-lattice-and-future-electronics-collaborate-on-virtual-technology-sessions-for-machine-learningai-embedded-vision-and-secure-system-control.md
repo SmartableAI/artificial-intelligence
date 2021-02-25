@@ -1,24 +1,23 @@
 ---
 category: news
 title: "Lattice and Future Electronics Collaborate on Virtual Technology Sessions for Machine Learning/AI, Embedded Vision, and Secure System Control"
-excerpt: "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, and Future Electronics announced a collaboration to deliver a series of virtual technology sessions led by Future Intelligent Solutions."
-publishedDateTime: 2021-02-25T08:46:00Z
-originalUrl: "https://www.financialbuzz.com/lattice-and-future-electronics-collaborate-on-virtual-technology-sessions-for-machine-learning-ai-embedded-vision-and-secure-system-control/"
-webUrl: "https://www.financialbuzz.com/lattice-and-future-electronics-collaborate-on-virtual-technology-sessions-for-machine-learning-ai-embedded-vision-and-secure-system-control/"
+excerpt: "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, and Future Electronics announced a collaboration to deliver a ser"
+publishedDateTime: 2021-02-25T02:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210224005107/en/Lattice-and-Future-Electronics-Collaborate-on-Virtual-Technology-Sessions-for-Machine-LearningAI-Embedded-Vision-and-Secure-System-Control"
+webUrl: "https://www.businesswire.com/news/home/20210224005107/en/Lattice-and-Future-Electronics-Collaborate-on-Virtual-Technology-Sessions-for-Machine-LearningAI-Embedded-Vision-and-Secure-System-Control"
 type: article
-quality: 1
-heat: 1
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
-secured: "S67WehZMvWYtdApvfcb7T3D33OL2lGg0rHaz/DArR1EkNH8e/AZ+29Ec57NaPDPBT2lwS6iJ9MjmdMhCiVnBu0Kvha4VrOJkfEgB8PU2BPztOaN/V2V6OhHZuyFI41B6iTfP0eDg/P8t2wfAJGjnxJv0zaZNTVq6/W5SauRhjDVYJmo6ukIXuJww/s2/Jm5NY9CtjAnwD9BJzwKSICNzCsbiNE3bBO4AZcTJqZr/+bPMTEMY5X8RZPow0HG388ftcdKf/XQc4ebL/sNI0FqHH4M9rkVNm58tRYVeCgTTzzkm6kGAO4XE/z2jjinddGkMIWUDhdByMdBLrkWgOqT4gy/6pL6L9rXQV59nEXLAY+o=;CdedgOBSxRydheAMBiS3kQ=="
+secured: "R1eBLa+oq0pkeq9aQg0D96HMfMR59pGBLyxzSzCk6cYE2tk+lHBbGJtl26KFHbW31FJUVmizRAd06A8RvjAv9Cduro52EIQmUIxHW5xQybQ2VzU2KXU9LW7CiC7DbniuyGuicWLdIKyo6NnJ/L4yEMzQ5RAcA2I53xVlrUpp28JCLe6Hptd7HpLAl+sr4HzfGK46AKlqYZPYowH/67dby1dXFIj8X2wVeB9aBd0fcEgtcabVzgBH1THEa6sqjplhMMGMlVCEhi7Uv/fnh0tdJP9aRJ4LfaGgBmcWPHQe80sSoQhdyQIWoGCRRlbT8bZf3CkTKbicKDAYtgI3aRU5P3+tzgFGtDKixdvTG4BYXePnr43mMk4hILJM4bo32uXWD0pCCOzS8XOI+tOe/Pl9Nu2PxJ4lROy7qqSeZDwBmcVlEZruAaQrulFHg2L+ZmsDrQ31BfFt7PhWaANTyzxiF8Wlk8DqHJduC0MLgMar/06B1SmQJPfBiMZxbesh51Xez6SQU1Gc+M2xSe1r/AkjvQ==;yMWTAyATX5awJset/sV6eA=="
 ---
 

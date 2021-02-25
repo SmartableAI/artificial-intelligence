@@ -32,18 +32,18 @@ images:
 
 related:
   - title: "ZTE showcases under-display facial recognition system"
-    excerpt: "Chinese tech major ZTE has showcased its under-display 3D structured light system to support Face ID-style facial recognition at the Mobile World Congress (MWC) Shanghai 2021. According to an Engadget report,"
-    publishedDateTime: 2021-02-25T08:30:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=805072"
+    excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
+    publishedDateTime: 2021-02-25T08:42:00Z
+    webUrl: "https://www.ianslive.in/index.php?param=news/ZTE_showcases_under_display_facial_recognition_system-763776/Latest News/31"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: IANS live
+      domain: ianslive.in
     quality: 39
     images:
-      - url: "http://www.daijiworld.in/images3/vishwas_sep_sq.jpg"
-        width: 280
-        height: 250
+      - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "MyDblWFPwRHTn1tcMLyBjxi2KJjbQwS88nqdiqHG3wDWZalR1ccLTzogC6ZOz7vdOZ3Tl1Q3A6eugHwvRIi/h5edRlDY80TowU6YHpXSFHmIDgiNVAciGdK9+jNp0UAbBHrMDqWfZzaqoOEnLpEcFOMW9r5n02re9P7SrjpSZFw/d7Yrl8kv8HEFg369Swo2uNZJDZcHlHx4Q+1/Ea7XC9lU1DwpquEYuByCalMKRikk/mzWRl+zEuk4Z+2FLDQT8TZ9x1dsAhV3pHkDkGA+fBXdmhl8RlOFVcmRZFOe6RWrS3ZoGNvrvF5kyCijQ/Kfq3rN6hMCzKLPx+HhvqEAjydLjIVal6g5kxqjD7Z8rjs=;NLQAIgsTWtLjDSwbbzo7/Q=="

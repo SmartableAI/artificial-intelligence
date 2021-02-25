@@ -69,22 +69,6 @@ related:
         width: 800
         height: 598
         isCached: true
-  - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
-    excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
-    publishedDateTime: 2021-02-20T19:12:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 70
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/VW-and-Microsoft-are-building-an-autonomous-car-platform-with.jpg"
-        width: 1680
-        height: 946
-        isCached: true
   - title: "The head of Cisco's Webex explains how it's using AI to innovate and compete with newer rivals like Zoom and Microsoft Teams"
     excerpt: "Cisco's Webex has seen growth like rivals Zoom and Microsoft Teams, but it challenge is proving it's not the same company it was 10 years ago."
     publishedDateTime: 2021-02-21T12:40:00Z

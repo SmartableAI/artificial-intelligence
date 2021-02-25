@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.iflscience.com/editors-blog/interested-in-ai-master-deep
 cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:

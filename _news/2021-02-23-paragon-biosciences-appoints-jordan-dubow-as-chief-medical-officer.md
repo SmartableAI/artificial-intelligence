@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Paragon Biosciences Appoints Jordan Dubow as Chief Medical Officer"
-excerpt: "With continued growth in its portfolio of life science companies, Paragon Biosciences announced the appointment of Jordan Dubow, M.D., as chief medical officer. Dr. Dubow is responsible for identifying and evaluating innovation"
-publishedDateTime: 2021-02-23T14:25:00Z
-originalUrl: "https://www.lelezard.com/en/news-19664178.html"
-webUrl: "https://www.lelezard.com/en/news-19664178.html"
+excerpt: "With continued growth in its portfolio of life science companies, Paragon Biosciences announced the appointment of Jordan Dubow, M.D., as chief medical officer. Dr."
+publishedDateTime: 2021-02-23T14:01:00Z
+originalUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/paragon-biosciences-appoints-jordan-dubow-as-chief-medical-officer/article_4ab4ad8b-ea9e-5944-aca7-6fe8dcad9980.html"
+webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/paragon-biosciences-appoints-jordan-dubow-as-chief-medical-officer/article_4ab4ad8b-ea9e-5944-aca7-6fe8dcad9980.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Marietta Daily Journal
+  domain: mdjonline.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg"
+    width: 1920
+    height: 1281
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: oaoa.com
     quality: 0
 
-secured: "Hddc9jad+6y4lNDKNar45OHTKzk2Y0P6zBTWpc6JSyZ4m0qX4/6PG+JEaG5ayWhakUzbqSriGlBo2vr8bTXdTNwruy+ykiKD6JiROe3kY4u95EBfha2EPikm4C1KoVo5ouFSPqQc791jA7Qi6nt5UHZ3JLIdjTmYJQEyn6dO4IxucAo/c5UeiBnP0S8ac+1ZpPLMBh8wT68w2hFukORZX/mMst/5RXyapVm/nkPWaQ8+Jc1KNvqweHRtDFkVk05Ezf8n5A/T+mBjt58svEbrZmG25LHKBJJ5taMKp5PM276OC0Hwz8mxbv49AM8+zhN2+Sg1EmBFxpIkMNax2vgmFVOfukZJM/tpdR+6UESGBis=;ErFdqKS498kUGMboIpzFCw=="
+secured: "JJmZwq0IWaPfW3XxfFAuglMQJELWa/0mAEOSck/LuOZtNlIHppqXsU4FicG0wjEM8tkbHvOf1bv3DIXI15PMceWT4ded7KoX4ZeEDjC86QT/y6qRkMr7JBrAlxIeYXdBhu6ej0j6LcpGIO9tNK9BVcL9IwMrZ9gJ8+yeQoQMCFWrQEFD+nIJvEZP84SzU+oToxwHHf9M1ZDEBniF+RcYRWwH5PK2OjmScuLCs6/rVW7AnCT2jeEyKrL5oa7mGlIHg7dzQBEMfZj3haXsDxcuGQLvZjTfowKV6wGBTX51UBPn76F0aCpIi0r9jy+/ptspEYx7PvV/GJp4//zEPu1RZ91EHSTt4wrBtj7N8EWxiS4=;9ejgLMMhqnMN+ENdhDZFsw=="
 ---
 

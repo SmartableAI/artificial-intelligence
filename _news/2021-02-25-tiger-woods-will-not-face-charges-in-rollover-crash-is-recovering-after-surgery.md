@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tiger Woods Will Not Face Charges In Rollover Crash, Is Recovering After Surgery"
-excerpt: "Tiger Woods will not face reckless driving charges in the rollover accident in which the renowned golfer totaled an SUV he was driving down a dangerously"
-publishedDateTime: 2021-02-25T06:28:00Z
-originalUrl: "https://www.wvxu.org/post/tiger-woods-will-not-face-charges-rollover-crash-recovering-after-surgery"
-webUrl: "https://www.wvxu.org/post/tiger-woods-will-not-face-charges-rollover-crash-recovering-after-surgery"
+excerpt: "\"This is purely an accident,\" the Los Angeles County sheriff said, adding there's no evidence Woods was intoxicated. The golfer is awake and responsive after a \"long surgical procedure.\""
+publishedDateTime: 2021-02-25T12:25:00Z
+originalUrl: "https://www.wlrn.org/news/2021-02-25/tiger-woods-will-not-face-charges-in-rollover-crash-is-recovering-after-surgery"
+webUrl: "https://www.wlrn.org/news/2021-02-25/tiger-woods-will-not-face-charges-in-rollover-crash-is-recovering-after-surgery"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: WVXU
-  domain: wvxu.org
+  name: WLRN
+  domain: wlrn.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/202102/971183572.jpg"
-    width: 600
-    height: 450
+  - url: "https://npr.brightspotcdn.com/dims4/default/9ecbd2e/2147483647/strip/false/crop/2664x1399+0+300/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F02%2F24%2Fap_21054714576415-98fda3d218fcf8c4c18061a9ba9cae9aa1d037d1.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 333
         isCached: true
 
-secured: "bYomIUC1/X2dZK2eMpFdS3lYw8WvbmokPhdwZopudkk9AW8FIqkCAkgFYYqYsn21M9yhqip6g5A6CckQRQ6dskk0NlD4C9qgWan7Td32ojoDja2+GG9WR9N1OqxYbq280ONsUgJdMEUidQZgLD36BCjxBdRkaxdJbQt+Q4RSIaKULkU21SuTrlyklKQg4AQSpV7kTJRFJ/dx9o1YzowslBpBOPp/dEZPFEp/VH6FYNezMHK4a743N8K3V2hmyZFb9FbUUvr/pQkL5+n7I2KV97EEN5iKBIRyvwOtdiKXk5mHHfJy/jCbnR5mimq1NBs6CddlMMg+rqUvlUVzs6eL7nloK67cMHqif8XXJevx+8M=;wddovIbtyuT5vqUBndyyTQ=="
+secured: "mo28QjHZsbifU+az5Wih5DrBlKo4n6GJ4K+JRleyblQjVfMsIlugJqqFzd1DM4nJsQZ95WW3oM0SsK9i0HVLOKVAXEAoKb9+E8PPqXm12PyZBEsd3AhwuXjk+RcKW9d7oK/DDUhJkO4xy+V6pEaQyEHgYSxK48fwX4fttKTKUVt5Z4ndL8xj/LxkUXvKkBDvBr7YVHi96TCjszkNlpGl1+gE04j5+hxHvdIETzd/ZTFkEPLHujX86cVHCwe3CIQ31AjabmWs9MpUVaGsDVSHqSQze5fnvb39Sp+LxeLnL5GL/IaO1C6eBkjq59rLW0wmhprqE+Km9clgzApTzEbrkQth0N+oIXU80h2ToGOuhlA=;Ny4uzD4NPuGPe9mByv60eg=="
 ---
 

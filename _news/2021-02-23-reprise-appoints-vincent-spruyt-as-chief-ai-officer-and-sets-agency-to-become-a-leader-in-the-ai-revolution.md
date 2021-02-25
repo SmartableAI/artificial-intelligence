@@ -19,18 +19,18 @@ topics:
 
 related:
   - title: "Paragon Biosciences Appoints Jordan Dubow as Chief Medical Officer"
-    excerpt: "With continued growth in its portfolio of life science companies, Paragon Biosciences announced the appointment of Jordan Dubow, M.D., as chief medical officer. Dr. Dubow is responsible for identifying and evaluating innovation"
-    publishedDateTime: 2021-02-23T14:25:00Z
-    webUrl: "https://www.lelezard.com/en/news-19664178.html"
+    excerpt: "With continued growth in its portfolio of life science companies, Paragon Biosciences announced the appointment of Jordan Dubow, M.D., as chief medical officer. Dr."
+    publishedDateTime: 2021-02-23T14:01:00Z
+    webUrl: "https://www.mdjonline.com/neighbor_newspapers/news/national/paragon-biosciences-appoints-jordan-dubow-as-chief-medical-officer/article_4ab4ad8b-ea9e-5944-aca7-6fe8dcad9980.html"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
+      name: Marietta Daily Journal
+      domain: mdjonline.com
     quality: 24
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg"
+        width: 1920
+        height: 1281
         isCached: true
 
 secured: "yuMGEU7GrkSC1TPJhIkNDfabTxI5h3cvKI5qCaVaSRD2Q7BT+9WdtyxJBd8v2qq/69Ec6rvx2xl17QfXOEM87dfLpUdUSGMHwBfrpJwFDawZk24aNdQrXFDulREqH2HNSDgnoT7maLrJAaKukzpG+YRAj/Sm68NwGT+Dkd6LZRuwthDx8V0tiH//TUs32Sq/6rpq4RpW0bx02s6ZVJSyaU78Md7WmTQNySiB/15HneuruFR1iLXovlyiyVhJuYqu7MEhEsl85aG6Fd777RNj7/ykygb+fDwmts/xUDrBXVRgH7ylHXeWXx4t8AdHwKB1tUesTA1e4zAycZV+17+Q6FCoy30f4KJkJAWR3a3y3kc=;4mxH1RP+0+t3h/mS7Z/62Q=="

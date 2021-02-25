@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/microsoft-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
 type: article
 quality: 115
-heat: 255
+heat: 245
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-2018-2.jpg"
         width: 800
         height: 598
-        isCached: true
-  - title: "VW and Microsoft are building an autonomous car platform with Azure at its core"
-    excerpt: "VW and Microsoft are building an autonomous car platform with Azure at its core Volkswagen and Microsoft are collaborating on autonomous"
-    publishedDateTime: 2021-02-20T19:12:00Z
-    webUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/"
-    ampWebUrl: "https://www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/vw-and-microsoft-are-building-an-autonomous-car-platform-with-azure-at-its-core/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 70
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/VW-and-Microsoft-are-building-an-autonomous-car-platform-with.jpg"
-        width: 1680
-        height: 946
         isCached: true
   - title: "The head of Cisco's Webex explains how it's using AI to innovate and compete with newer rivals like Zoom and Microsoft Teams"
     excerpt: "Cisco's Webex has seen growth like rivals Zoom and Microsoft Teams, but it challenge is proving it's not the same company it was 10 years ago."

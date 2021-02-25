@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-he
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Armorblox has raised $30 million to protect against phishing attacks with AI"
+    excerpt: "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital."
+    publishedDateTime: 2021-02-25T12:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/02/armorblox.png?w=1200&strip=all"
+        width: 1200
+        height: 614
+        isCached: true
+  - title: "Medisafe raises $30 million for predictive AI that reminds people to take their pills"
+    excerpt: "Medisafe, a startup developing a platform to promote medication adherence, has raised $30 million in venture capital."
+    publishedDateTime: 2021-02-25T12:02:00Z
+    webUrl: "https://venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/"
+    ampWebUrl: "https://venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 80
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/medisafe-feature-image-e1614182033247.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Israeli AI-Powered SaaS Platform FundGuard Raises $12M, Led By Team8"
     excerpt: "FundGuard has developed the first AI-powered SaaS platform that helps asset and fund managers administer investments across funds, pensions, and more."
     publishedDateTime: 2021-02-24T13:12:00Z

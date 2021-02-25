@@ -42,18 +42,18 @@ related:
         height: 333
         isCached: true
   - title: "Tiger Woods Will Not Face Charges In Rollover Crash, Is Recovering After Surgery"
-    excerpt: "Tiger Woods will not face reckless driving charges in the rollover accident in which the renowned golfer totaled an SUV he was driving down a dangerously"
-    publishedDateTime: 2021-02-25T06:28:00Z
-    webUrl: "https://www.wvxu.org/post/tiger-woods-will-not-face-charges-rollover-crash-recovering-after-surgery"
+    excerpt: "\"This is purely an accident,\" the Los Angeles County sheriff said, adding there's no evidence Woods was intoxicated. The golfer is awake and responsive after a \"long surgical procedure.\""
+    publishedDateTime: 2021-02-25T12:25:00Z
+    webUrl: "https://www.wlrn.org/news/2021-02-25/tiger-woods-will-not-face-charges-in-rollover-crash-is-recovering-after-surgery"
     type: article
     provider:
-      name: WVXU
-      domain: wvxu.org
+      name: WLRN
+      domain: wlrn.org
     quality: 19
     images:
-      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/202102/971183572.jpg"
-        width: 600
-        height: 450
+      - url: "https://npr.brightspotcdn.com/dims4/default/9ecbd2e/2147483647/strip/false/crop/2664x1399+0+300/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F02%2F24%2Fap_21054714576415-98fda3d218fcf8c4c18061a9ba9cae9aa1d037d1.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "RtSQcPFV6vXw3qtY6pVusyUxbCprj/VODocCVY3RSR9bfe91mT3gRSDtlYUel2iJss+bcr6VVLUaadc8girlI941xoIkwnSQrVVLTvc4/vd5k4agI6TGBZa9X3SeVQxbbnNbnVm6tZcKB1qgQ8f8HfpKUwohNsjbnsqRK3UOKp70NFztHjaLB9ekDj5BqcpJAajHhnUgX7v0T1mtm5NYWRTTG+/Q4cMMeRkV7XR1AYE3SeeAKPPyFSpEbSUAQy6bSW4Fb7JqLCyKkaAlEeW7dLXWiz0Q/bE/rjyJTohNJL4+JxqzCc/1612Zj3Qo51JiGefxsH3vZrYnlZoNmqrXaBoKfZb2zY3oRsXg5Xbmm10=;bBJrNy83G68crmx1Kiyw2Q=="

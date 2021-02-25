@@ -1,27 +1,27 @@
 ---
 category: news
 title: "ZTE showcases under-display facial recognition system"
-excerpt: "Chinese tech major ZTE has showcased its under-display 3D structured light system to support Face ID-style facial recognition at the Mobile World Congress (MWC) Shanghai 2021. According to an Engadget report,"
-publishedDateTime: 2021-02-25T08:30:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=805072"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=805072"
+excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
+publishedDateTime: 2021-02-25T08:42:00Z
+originalUrl: "https://www.ianslive.in/index.php?param=news/ZTE_showcases_under_display_facial_recognition_system-763776/Latest News/31"
+webUrl: "https://www.ianslive.in/index.php?param=news/ZTE_showcases_under_display_facial_recognition_system-763776/Latest News/31"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: IANS live
+  domain: ianslive.in
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "http://www.daijiworld.in/images3/vishwas_sep_sq.jpg"
-    width: 280
-    height: 250
+  - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 470
         isCached: true
 
-secured: "C6WV2ARGmhhsnqnYPJPdbPlCvEKj8dQCsEdVodDFyf1duGYhs6mUhhscsR+iueLgjZnuva2UkJHWxHKGEpLSPe0ryBTYkkJASmh3a3Q7gNII49Ab5hz7FNlvT4PMohJRV/PKwrr8mINqgMs7hLGIq9Ib3b3ZlewhiwWs4e7hgy+Z7fUT731cxMmv/YaJNqEBwEavVLxNol3rVvqcIqY7VNqeHoXUuS5VqPGTDJnf+yUo6vwNdbYc1BNruwgZEbpanSwa6goLNC4gulVReDFDqJQKKCNkBooTjA0DJP2yQbdrTimpr5JvgIc9dhfALI0lOVOngiAr9gPwTd8t94Wop6y0TAPnjmGzZznpzzpEuyE=;lBRgch+3jzuQu54tm8LC7A=="
+secured: "bgVyV8jryxi+FpLevwExa3CWMGfrMq1M6uZzFpSrEJ+bkRjUiyXukYbsjt1/mrW0RcR1mIA5j523TosWAP2tbYabqk2MtBN7HHP3fiFPIL2uB04PTU31TJopYlNMvJpFZEEiY0qJjHDRxcJDvvaCJAMN3IXh6EY2N9+YlWqprflQU5jx0UDcm/fGp2DFMCsxluCM44OYGvn8lfjJmEmXm2/G5qFj/CnFuMRkMVJqv/0RcCoDSkwgM2lV/aKpoiQKBH3e1SPQWsDIwuCR+UWylGvAcuX82iUJHYtP/vG0SiLUVuaa1lPIGMOkuglyOLYyq6IS80XzXl9lLqCLp0qVKDIAMNX/A2FOdgljLIQ6iU4=;AoAtTMTsp3j9ZeD3T8YsXg=="
 ---
 
