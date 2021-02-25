@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Healthcare Revolution At Home"
+    excerpt: "Using new health technology provided by startups, hospitals and doctors are offering an increasing number of services in the homes of patients. The Covid-19 pandemic has accelerated this approach, which evidence shows can result in better patient outcomes and lower costs."
+    publishedDateTime: 2021-02-24T16:26:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/"
+    ampWebUrl: "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60367d808a68c8a739aee0bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in healthcare: An insider’s guide"
     excerpt: "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare"
     publishedDateTime: 2021-02-24T04:30:00Z
@@ -38,61 +54,19 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 84
-  - title: "5 data issues limiting AI's potential in healthcare"
-    excerpt: "Technology is increasingly interloping with efforts to make healthcare more efficient. Still, experts are finding it difficult to apply artificial intelligence to medical treatment, according to a Feb."
-    publishedDateTime: 2021-02-24T19:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-data-issues-limiting-ai-s-potential-in-healthcare.html"
+  - title: "Future of healthcare shaping up before our eyes"
+    excerpt: "The future of healthcare is shaping up in front of our very eyes with advances in digital healthcare technologies, such as artificial intelligence, 3D-printing, robotics and inventory management. With the need for digital acceleration to support the healthcare landscape since the onset of the Covid-19 global pandemic,"
+    publishedDateTime: 2021-02-23T06:55:00Z
+    webUrl: "https://gadget.co.za/future-of-healthcare-shaping-up-before-our-eyes/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 56
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Beware hype over AI-based healthcare in lower-income countries"
-    excerpt: "While there is great potential for artificial intelligence to improve cancer care in low- and middle-income countries, there is also great hype surrounding the technology. Terms such as “game-changer”,"
-    publishedDateTime: 2021-02-22T04:06:00Z
-    webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c6b6d98-fdf9-4c92-98fe-de13be88a63c.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "How Artificial Intelligence Can Help With Efficiency in Healthcare"
-    excerpt: "The shortage affects not just cardiology, but the entire spectrum of care—and it extends beyond places traditionally thought of as having limited healthcare options."
-    publishedDateTime: 2021-02-24T17:20:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/how-artificial-intelligence-can-help-efficiency-healthcare"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/shutterstock_1783411148%20%281%29.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
-  - title: "Can AI allay health care inequities?"
-    excerpt: "COVID-19 has highlighted racial disparities in the U.S. health care system. And one doctor writes in Forbes what he believes is the solution: artificial intelligence."
-    publishedDateTime: 2021-02-21T03:00:00Z
-    webUrl: "https://www.linkedin.com/news/story/can-ai-allay-health-care-inequities-5371546/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: gadget.co.za
+      domain: gadget.co.za
     quality: 39
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C561AAQF1qmo5ISwqyw/storylineheaderimage-shrink_400_400/0/1613592541240?e=1613973600&v=beta&t=Aog3z6lNPMY_HvL8i8xyh633NFifwz97qAknX_PF-8w"
-        width: 400
-        height: 248
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/doctor-laptop-computer-medical-health.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "jdo9FKboyhpPs8h5Zcg+GWWd2QYG4mDCNURXTDKfmdBg0f878cdaYvcNO/S0qLAXxJXmSYHB01RmJHv4ndQLYus8VeZ6axzCwyc6NHP2nIiqAYMaQfCbEOXfUtYgGg1uV/0bfQUY6280nu6wS32gvmb3Tva7ORDIrBmXJYI6SegN1Vt+hUAr8440nMqByQk4XrQLnrV02qY9YvrA8eO/XLu/HHrpJQ28MWJmUVQgAjOA1AGvXWqjmPi0Ny0rx9GnmQqve7Z/B8H8TAwSeFsQnZDu9HDlHwlmJjxPT7kaqesePaBT2ZqnINurKX1Dr1aXhkp2DKTttjdDpd9M5K/uYxPOD6uFADdxlTS3rwj+RNkQqanmtpcQmbwpsktKg+j0EqoKSYTWHf57Fmbo29HDDI8an5X73qORpPOlBp6Aw0EfddF2smHISM6lwCe4QULQ0A358QoB9r2ho0lsYSJrNb1BLy+LAwBOb4fjtETpZ4ZJ9//QqLyVKV6086d+U5vYHm3b+FyKeKRXgI/uc6MYog==;fzfGlEmho9aO4OjzlfrSYg=="

@@ -21,6 +21,22 @@ topics:
   - AI
   - AI in Robotics
 
+related:
+  - title: "The robot revolution is here: How it’s changing jobs and businesses in Canada"
+    excerpt: "I returned to Canada from Sweden, where I had spent a year working on automation in mining. Shortly after my return, the New York Times published a piece called, “The Robots Are Coming, and Sweden Is Fine,"
+    publishedDateTime: 2021-02-24T23:37:00Z
+    webUrl: "https://www.canadianmanufacturing.com/features/the-robot-revolution-is-here-how-its-changing-jobs-and-businesses-in-canad/"
+    type: article
+    provider:
+      name: Canadian Manufacturing
+      domain: canadianmanufacturing.com
+    quality: 38
+    images:
+      - url: "https://www.canadianmanufacturing.com/wp-content/uploads/2018/03/internet_of_things_iot_iiot_industry_4.0.jpg"
+        width: 650
+        height: 400
+        isCached: true
+
 secured: "9D/MiDUAGTQwAzoO9kp+j8/GZd+inZxKnWK0PwlhNVNm08JFQqw61wH7TaKfkm7aKCbKEm4fXvjlUBxs1NLO2AQVqw5SGtsaJQIilMkQttywK8UwccU0EhCzkw6WlJjIipnMVjfRF+Bkf42Quyo6h6bDBB8XIIu9EG+sVrEsUs0kaeUZXd7yuO1TsV6VosEfJRUtM5CUAs1hFTpwNt0ZhQnbq+AOnBlSxYgPSkZY3lP+Q6lh9bo82TeiyjjErikMetcu6k+Ros315M3CLvXG0e8fHTW3/MOYpVeh4v9mRFsXLzC9WORC994f4wWG2DTg8VktbPvRWooS2hjcj0cfakQWnjfpXg/qNAKWvWI3Qtw=;5dNvjYp0LgzvXX0pRai8PQ=="
 ---
 

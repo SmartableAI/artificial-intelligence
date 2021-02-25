@@ -40,19 +40,28 @@ related:
         height: 627
         isCached: true
   - title: "BBVA and Google Cloud Form Strategic Partnership to Drive Security Innovation in Financial Services"
-    excerpt: "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving"
+    excerpt: "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving its"
     publishedDateTime: 2021-02-23T08:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services-301232385.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 27
     images:
-      - url: "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg?p=facebook"
-        width: 1920
-        height: 1004
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "The AI Infrastructure Alliance Launches With 25 Members to Create the Canonical Stack for Artificial Intelligence Projects"
+    excerpt: "This global Alliance brings together top technologists across the AI spectrum and includes a wide range of member companies."
+    publishedDateTime: 2021-02-24T22:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210224005859/en/The-AI-Infrastructure-Alliance-Launches-With-25-Members-to-Create-the-Canonical-Stack-for-Artificial-Intelligence-Projects"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "Xj/JdTdvQhHUptxlkCBtEPNnoRfrytEXPpgAvNqkhdWshsnhc2zcUxm2OQjrRz/K3qIuDA5xnCkga9JTNLprsduR4ALIppsBs4zpJlAblKhc7rdMjwDfr7+GWVXsQmjjHrg5W3gCZrGgRqwwckmtZf5i9PUMGEQ0KvFux68uhlEvHsGn7Uv+I6CNVFJbhWAeCEJbKdVnQtP/gXpd5zAGw4Qp16h8moqaldw1RlWyukbY/NvNzA+VcHpa0fr7YdtNMmWhD9gH7Mr6+Ae+wpLuURNhzJYqHGViTO5uzjJn/aKFSRa8G6kflI3ppUglWwHBdOFDt9Ht48VxefjMYebWTV6UUa1CSN1mTXh8S5GrFac=;IO94vL1blpXQxqatlrvwJQ=="
 ---

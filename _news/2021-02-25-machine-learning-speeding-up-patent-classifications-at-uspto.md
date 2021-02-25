@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-24T21:59:00Z
 originalUrl: "https://www.fedscoop.com/machine-learning-patent-classifications-uspto/"
 webUrl: "https://www.fedscoop.com/machine-learning-patent-classifications-uspto/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://www.fedscoop.com/wp-content/uploads/2021/02/GettyImages-57080307.jpg"
@@ -24,6 +25,6 @@ images:
     height: 1089
     isCached: true
 
-secured: "JiF70Xk1/8bSoozUN4N80Z+ZV6GzmNGuNAJR8+FwQXOaFEPsiEen38nxI4IGiLH8bf/jMYTWwZKgHnKHvaVFrE8S5/JM9xuvS9dfQqXNN1pW/ufp7yFN0za1luTlnfI9xJLsVwOJHSfRT9EV2HSCOOjMPsC2aKePeIpk/iB1a0eU1ajhGmy6hTc49OH8QQmivOD/o82gmGs9D3TTIz3bOEODQznezS/Lq5KBd8kmXmfzZpRKG/7yOFjltWp3/4X4VpEtREomLZrl08Opz2cVID1aENcoXTKu7yrta6L+xrjmPiqcZTgHP+5HjcxMOCTrr8pZNzmDUqjIERoGLy/IKDAcMUZ7OGFjXi2UfMFSOgc=;3QC9XyOvWKrJ5k7Yejjbbg=="
+secured: "CwFgooNEWDbdxH7B6ED5pWpzAPS4LNDrg67ELtf5PIszTDJB+HspV6tmSgiCgZMXvLYv6DC1eiYinw7/FRJ96nRJsrhKaCdO+JrIcY0MOxorwVp3yh2j8LORcDIP+mYxiyr9BQQToCUS0TDsaFo4Z24+laQ8/+yv6R7YKyJZEFOQO2Ye3PH/Uzx/cnHeuvpktDpriI/AqoaeAW9p/65CRckALiAtXXeJKFM+0y2eRGO5LjuAOgWOztiTd0I2c6NanBWH2T+Z/diKNEQHD9zEFS+0ePV2PukjCEjjojI8nUzx9Qg71GiqIXp7ZTmDTdKlYDbtcxoaXeOftRseF5hdE+ZPxmws1KJPBnnN6U2+4HxGC99HyiDV+jSZl2ZUCT4K5/aLzdDoeuTIMqCIlxozu1inoPATmp6Q1ji/9wh09ExpMZY4ODlFmszwshvQbGHEhtZC4Qwn4FkOqMbogEdbmRN8LEzRPCHNDEp9CUac0vwNMEKK88e6h+TP4kGltNpPkZjE5S0Vi8/uGfUdvT42Kg==;O1gEgFjcj7kYBOVtaarZ2Q=="
 ---
 

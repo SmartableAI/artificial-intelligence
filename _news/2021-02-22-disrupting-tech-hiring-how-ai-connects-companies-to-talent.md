@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-con
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

@@ -72,6 +72,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "AAAI 2021: Accelerating the impact of artificial intelligence"
+    excerpt: "The purpose of the Association for the Advancement of Artificial Intelligence, according to its bylaws, is twofold. The first is to promote research in the area of AI, and the second is to promote the responsible use of these types of technology."
+    publishedDateTime: 2021-02-25T00:43:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/aaai-2021-accelerating-the-impact-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2021/02/1400x788_AAAi_NoLogo_stills-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
   - title: "How banks are harnessing artificial intelligence"
     excerpt: "Technology is everywhere in the financial services industry, and banks have been building their artificial intelligence (AI) bona fides in recent years. Components of AI include natural-language processing,"
     publishedDateTime: 2021-02-22T08:49:00Z

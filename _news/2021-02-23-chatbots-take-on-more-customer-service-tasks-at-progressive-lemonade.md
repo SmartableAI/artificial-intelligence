@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Role of artificial intelligence chatbots in ensuring access to mental healthcare"
-    excerpt: "Mental well-being is fundamental to living an optimal life. Everyone should have access to quality mental healthcare and technology has to be used"
-    publishedDateTime: 2021-02-20T08:45:00Z
-    webUrl: "https://www.dqindia.com/role-artificial-intelligence-chatbots-ensuring-access-mental-healthcare/"
-    ampWebUrl: "https://www.dqindia.com/role-artificial-intelligence-chatbots-ensuring-access-mental-healthcare/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/role-artificial-intelligence-chatbots-ensuring-access-mental-healthcare/amp/"
+  - title: "Robots evolve to take on more complex tasks in bakeries"
+    excerpt: "Advances in robotics — in size, vision, artificial intelligence — help them progress further upstream in bakeries."
+    publishedDateTime: 2021-02-22T18:20:00Z
+    webUrl: "https://www.bakingbusiness.com/articles/53060-robots-evolve-to-take-on-more-complex-tasks-in-bakeries"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 69
+      name: Baking Business
+      domain: bakingbusiness.com
+    quality: 39
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/02/chatbot-3936760_640.jpg"
-        width: 690
-        height: 400
+      - url: "https://www.bakingbusiness.com/ext/resources/2021/2/02222021-Apex.jpg?height=635&t=1614011373&width=1200"
+        width: 953
+        height: 635
         isCached: true
 
 secured: "fJtCi3qGkrKQeD7/rsncudQVBVu45fB0neH2Ny9alds0/EVnsDmXMv51f0WNzdBTUvvPqMRtvyVhSyRBG2Sq2B5wi9GWwOv0O1yEMF/RJ7fG1uk6OxtWgQ1mDaHpXtpPaPiZ15PmlzHclpLCjgWB82tq3R9nYGJ4VR6zo/TJb5mUkR00UGkIiNKq9dWowyCdZnILLWPdTzsP1Bv8Mw7uT/R09rU64Fk0/hMMLK1k1vTdq7GB3pQkNwNzV6Q5ysDkUTwa6Gi1Xltf+QcTSPXgsbRfsAE5rYHjdl9jaAAX4+0Pyd8Oc5GdXMCtr+r52hO98Pg1oj+dGzrYWIFEzaCJUJ5HlMuP+saXCem6eXC6KhGsz5XziTtmC4KIj+9eBUquzlabT4gQ8Iwn7w+uzdoMhgiBXaTvtRbeVjBGQPl25JNloMIo55F4pxMv6PU4w4KBxTz3nT8Is0MHk7ZaHpPgX7xwBLy+fCuj4zNwZ7daORmQXe/j0JGlPytFNJPBkVtIFJeXb9cma0YZruZoE1mJ7A==;+uZOKKiQBn/9qpWYdbvkqw=="

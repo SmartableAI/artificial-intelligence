@@ -128,6 +128,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "After years of hype, IBM wants to sell Watson Health. What does that mean for health AI?"
+    excerpt: "After years of hype about Watson Health, IBM executives are reportedly exploring options to sell the health care AI tool. Advisory Board's Andrew Rebhan explains what happened—and what the potential sale could mean for the health care industry's AI adoption."
+    publishedDateTime: 2021-02-24T17:25:00Z
+    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
+    type: article
+    provider:
+      name: Advisory Board
+      domain: advisory.com
+    quality: 45
+    images:
+      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/blog_post_square.jpg?rev=db1071ffb3ab4897a93a0a5de2f35c65"
+        width: 360
+        height: 360
+        isCached: true
   - title: "Ibm considering to sell its $1B Watson Health business: Report"
     excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"
     publishedDateTime: 2021-02-20T21:30:00Z

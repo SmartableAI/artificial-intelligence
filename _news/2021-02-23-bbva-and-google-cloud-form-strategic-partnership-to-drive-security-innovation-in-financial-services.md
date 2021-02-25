@@ -1,18 +1,18 @@
 ---
 category: news
 title: "BBVA and Google Cloud Form Strategic Partnership to Drive Security Innovation in Financial Services"
-excerpt: "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving"
+excerpt: "BBVA and Google Cloud today announced a new strategic partnership to transform the bank's security strategy by optimizing and improving its"
 publishedDateTime: 2021-02-23T08:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services-301232385.html"
-webUrl: "https://www.prnewswire.com/news-releases/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services-301232385.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/bbva-and-google-cloud-form-strategic-partnership-to-drive-security-innovation-in-financial-services/article_75768ea4-4d21-5e9d-b5ca-589f0be8ccba.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://mma.prnewswire.com/media/1032194/Google_Cloud_Logo.jpg?p=facebook"
-    width: 1920
-    height: 1004
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -54,7 +54,16 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "The AI Infrastructure Alliance Launches With 25 Members to Create the Canonical Stack for Artificial Intelligence Projects"
+    excerpt: "This global Alliance brings together top technologists across the AI spectrum and includes a wide range of member companies."
+    publishedDateTime: 2021-02-24T22:42:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210224005859/en/The-AI-Infrastructure-Alliance-Launches-With-25-Members-to-Create-the-Canonical-Stack-for-Artificial-Intelligence-Projects"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
-secured: "uWnOtky6h7MrIe1AAW1qasau+GVq6jw+h0LtXqKE4OW/9qQx4meb3UoxAwySgGVi0QBJ0tEo5VVrMKTLGdw0RGs9pNVx7nuS92SrJgHrEkc5sj2Lazn/WAzSXT2IAH+W5asAVmnBB6DcQ8+Rwjv8zwaYHYPcijBwICY+YE4XS2qdSPZ1ymc54GrU3uqlyalRy2YIf5UfikMLeqxVQhjnm1h+7+CbVunmo9FBdUOS9DZDtde2/wM8GO4fCTsmalV9ocVqoG5WXoxIhdee+QopTIkQFYQL1o8/ufZoTKfOI+aSsMEP/Qni8ddQ9T3OciRlq1fYB7DTZBdmUCcFTxNxJ2TTe6HJaHJecgXoa1pKVgo=;4dUwXPpEhzppbCJVI3Kdog=="
+secured: "cAiD01y2r7/wYfzBhfrhcBbZxbBEV69ZD97uoxpdZJcbFCmAOCEqRTzCuT6m4Q4n0dvWhuPM8cN21pvkfN6WVg5+zcPYdcZw92RK0qhwzKAZY/jzU82sufqmHthNnG5hXk4AHY+QqCsWQs2zarZVv3sY6twnwpOcVs4hrd5LDaRqkC2nkkE84yoUh4Gg9UgFBTTDaEJHl4TBgiMIgDtxaZifc7shwhSV99BYbcPQst3tdTYg7ZNPMkN27ZqxAtcNnmKs9xV9EOBWmzBzau3nz6AR1tAx019VQ7ZF/t1jzqI5N4HPSlU6Im6IJr7TSWbhuQbtR04Mjjs7s4v7drabYf+Y6KJ53Azh/mUxlQ+5rLw=;yksKy5+a057J8f9tZ4uOEw=="
 ---
 

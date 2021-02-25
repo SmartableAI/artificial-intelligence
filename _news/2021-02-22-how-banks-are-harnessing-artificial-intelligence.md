@@ -85,6 +85,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "AAAI 2021: Accelerating the impact of artificial intelligence"
+    excerpt: "The purpose of the Association for the Advancement of Artificial Intelligence, according to its bylaws, is twofold. The first is to promote research in the area of AI, and the second is to promote the responsible use of these types of technology."
+    publishedDateTime: 2021-02-25T00:43:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/aaai-2021-accelerating-the-impact-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2021/02/1400x788_AAAi_NoLogo_stills-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
 
 secured: "kps4QLkKu+NP4722ETqGSWFyMr0xh150iCdosBqK0rrcP8pTs8iF8xXpixbzxlaeHiRBLtffpwCmXZOPhoYckBs+omfChz97qoNSDO5an2sMxh/knSHMB2bFYCwybo8X26FDsQVzWJES8DrjcEeYN+jxS/4ttvYMdOQkjPPlBLgx2W3ASXjJD+O+mhN6dVk7liC0KOyICxYI7L/EKiXP0dz9IhEGjFqFMJTz91Mzru34/fe9NDrEKCMBA+Kq2wXnVE/FU6szNep4OC6pJz6JqB9wIX3HkGIz/LogKDLQji/NrpR+mYQS8u+CCVmXfXo2bl/Ea4yYajD+FXljau55HQo+VTdg1q5B3FeNYeRIIJf8wvTToFMjOQYUHMDAtw8wJAgxszys8F4mnyP+hTZeumpgJczTPewOw4o105WN0tcvrHFK26NhcnZTW/rCtNeb9tlXhy9pA/pfEidi6dWhB6PMO6xAKUF28A8Eihcp/x0yS2HOAUheQBDyiKsfpJ1qnybKN5WWd0nKFBEyJPdtGw==;IGJTgA9SssCQ8B+5iHTEBQ=="
 ---

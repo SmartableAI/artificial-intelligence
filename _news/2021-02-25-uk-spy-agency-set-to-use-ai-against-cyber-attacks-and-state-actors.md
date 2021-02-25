@@ -26,22 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is helping fend off cyberattacks"
-    excerpt: "AI-based detection systems usually work with uncertainty, they are useful not only to raise alerts when something seems to be wrong but also to give a score on how close a given event is from a cyberattack."
-    publishedDateTime: 2021-02-23T08:34:00Z
-    webUrl: "https://www.dqindia.com/artificial-intelligence-helping-fend-off-cyberattacks/"
-    ampWebUrl: "https://www.dqindia.com/artificial-intelligence-helping-fend-off-cyberattacks/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/artificial-intelligence-helping-fend-off-cyberattacks/amp/"
+  - title: "Britain's GCHQ Cyber Spies Embrace the AI Revolution"
+    excerpt: "Britain's cyber spies at the GCHQ eavesdropping agency say they have fully embraced artificial intelligence (AI) to uncover patterns in vast amounts of global data to counter hostile disinformation and snare child abusers."
+    publishedDateTime: 2021-02-24T22:59:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution"
+    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/cyber-4610993_640.jpg"
-        width: 640
-        height: 418
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 69
 
 secured: "kXX37i/xNm+QSRdYBLO6ngKkFcbqBPRaEz0BsRbVAdqb3pJFxNES3o5ta2poyL21XY29TKy6xasK4i2b4gjYk5HFWjqNKh/dcysYb1+M5amgaYrpg2j0G4eETaqbWbLf/1kF/kmoK7kZ6ibOANupCqgkwSrmNaSkz44AmgKANsngPm9vKouMsO3J8CfH/hGq39vD7GwnFNMv0pN4FzgFKaX6L3FeAjmtVMW2909PGchzNVlyZZclj472O/wPgWiuNQ3SfXvfEaBP2yZSazB3Lh1ceyzMcFr12OXepr8DwG8KqqG4xVCjxE0TN6wnCt08em/4I4kNpXCiQ+2+iHo0Furaz/lteDP2Ac/9G3KKnEQ=;zrWfeH9Hwuw0QPpJXXY4Ew=="
 ---

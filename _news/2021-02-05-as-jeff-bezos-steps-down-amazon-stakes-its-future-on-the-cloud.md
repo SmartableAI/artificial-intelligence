@@ -1,32 +1,26 @@
 ---
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
-excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-publishedDateTime: 2021-02-04T23:46:00Z
-originalUrl: "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
-webUrl: "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
+excerpt: "In his 2014 annual letter to shareholders, Amazon CEO Jeff Bezos wrote that a \"dreamy business offering\" comprises at least four elements: \"Customers love it, it can grow to very"
+publishedDateTime: 2021-02-04T17:20:00Z
+originalUrl: "https://democratherald.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_dfa0903d-b58c-59c8-8526-ddf43f2665bc.html"
+webUrl: "https://democratherald.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_dfa0903d-b58c-59c8-8526-ddf43f2665bc.html"
 type: article
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Albany Democrat-Herald
+  domain: democratherald.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203034029-jeff-bezos-andy-jassy-split-restricted-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://bloximages.chicago2.vip.townnews.com/democratherald.com/content/tncms/assets/v3/editorial/7/d4/7d4a405f-51ae-597e-977c-ad43f910bead/601c56785fa92.image.jpg?resize=576%2C324"
+    width: 576
+    height: 324
     isCached: true
 
-secured: "G1Srpe5+3Yuwp5AJ6r8uajUVUzQ3xFD+tQknRCHqmTbFRH9GSZ0WZ4QeWtxv33jcf20bK45doAMrbqQCfaAWmvx8k0AyGq7nFOz0Q58r359mNuNpVH6HPLIxlOMK2vxsj/6YO9kkDEtDouWsX9gJrQ/32VwmUcLOW1GFUwOIZKyo8UUkdXJPYU08ZOK0pq9htPOSzQt0lbORwwY1CQOj71BzBMMBtN3VrcIk4Vtq8qAZ2lgKhqmxxF3UGk63qB2Vg+5N+MEkCl8tzOAizylqdNMI9Q868FM6gNxpbKNkhP+oZ32Czyuzm6CzztSZraPW9UZEEoTU6zLvy7w1JAZJMasp40eOPGbW2IwNprlyIt4=;+TEJ6VAWVJ5vvbPL9zATQA=="
+secured: "Ku572Sln/CJgL2lgOUas4vG/mjOe//G/TLJD1aRKswIMaPsnfj8LwQhSFwNuOmab6RsAeNBAKz3UTXV9bfksv9VKejGxcW3zIgRncb5vS7MiiUv3WSwLCqTHnhrL8P8EaXRYzus5iWRe9KxwhN6vd8fpVB4VPHlowTJwfr2YV98jLdXxLOBb+Uz7b9gsVyK+1aw8RayFB7R7BFVn4w5M/5NH9lexEz+Us5rEOORav6wRp1CeDlQyywm21ncBzykrhrpOApKpLD2yfA3h3JOyrlcZcV/+QlJdBm8C/QK2gQeYUc+dVvGY3GW5TNg2o89E9HaK5XtunvPocg07yCWp+XWKI29fAAMo2envwFX+d2s=;F0T8pySmFamQOzjHWFeM3Q=="
 ---
 
