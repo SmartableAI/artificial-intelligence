@@ -3,10 +3,10 @@ category: news
 title: "Is there a more environmentally friendly way to train AI?"
 excerpt: "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,"
 publishedDateTime: 2021-02-24T19:48:00Z
-originalUrl: "https://thenextweb.com/neural/2021/02/24/is-there-a-more-environmentally-friendly-way-to-train-ai/"
-webUrl: "https://thenextweb.com/neural/2021/02/24/is-there-a-more-environmentally-friendly-way-to-train-ai/"
-ampWebUrl: "https://thenextweb.com/neural/2021/02/24/is-there-a-more-environmentally-friendly-way-to-train-ai/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/is-there-a-more-environmentally-friendly-way-to-train-ai/amp/"
+originalUrl: "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/"
+webUrl: "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/"
+ampWebUrl: "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/"
 type: article
 quality: 87
 heat: 87
@@ -29,6 +29,6 @@ images:
     height: 417
     isCached: true
 
-secured: "IYVCULp9n9GRvfOX6rJhgYr/gZ42cGaZ1g3DrBadqTtoLzp+Aku/Cg8BbBtsl+hctiXkq7rVPJsjZE/NfOEiH1J2ok6G3OBSPEfcZMG+ejrSb1j7upygehoDAeW6CYGJgp9bPCXLswnyPVPi9U2zUdPyIpXN/E6Ddk55cL6lCJ4PdmxbCHVa2wIePv/bwP9lxahZXIMpeB4D/PCruN/CbxZqj/IdC1d4GR+vAqXp1tnVcs7m3HHamyBJvWVhUVk1BoFxqijfGC0Pbm5+NoteJN+xOt1O6U0vNLJeskVuxb2hW0u4n2Op/sii75yv2Gi8xW4+r2mvKdncU1Nf5xSKeYLgJSTEeVYQFqW9qTEZGQY=;sWMGl+2Zejsk5C6DebOPcA=="
+secured: "OzdcL5uWiDEsYugoimMziT6tURm7BH3z+04Qf+LbWQeuBwCVGQVjAh2wPXmzJGPSaqrut15i8l7MEQo1aIfj9VS1yYBdvcjFeENJmVQzh+VbOhBLjKFfiE7Shpf8zhl0ZqlJ2hpB3kEI6pwG1AVhwF9NsFYc3XhirEzmRqHd7yn2bfXUW/pbNXSFTOxxg7wEAdyEiypClrDef6NVPBLrH9H+e2kuex7NJC6F87xCUeMjiEZvcLON6Ktx4BgrsvHpoOZH7/hUkCLRsrzlh0uiHeDJyjzuG8pNyQyuzrvWH43D+lbrmSRegJhDjOmqErpmctDFBAbGV19ugpYqXlbsFaq7ODDs2xNC5PM6pW8jTxE=;dvPuxNWiJcCtSHNYr0Gjcg=="
 ---
 

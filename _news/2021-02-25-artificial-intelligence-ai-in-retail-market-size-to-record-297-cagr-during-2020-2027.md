@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026"
-excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
-publishedDateTime: 2021-02-24T18:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24"
-webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24"
+title: "Artificial Intelligence (AI) in Retail Market Size to Record 29.7% CAGR During 2020-2027"
+excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report"
+publishedDateTime: 2021-02-25T04:57:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027-2021-02-24"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027-2021-02-24"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 73
+heat: 93
+published: true
 
 provider:
   name: MarketWatch
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -29,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market Size to Record 29.7% CAGR During 2020-2027"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report"
-    publishedDateTime: 2021-02-25T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027-2021-02-24"
+  - title: "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2021-02-24T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 73
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -58,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "agNvJu2m3k+SSdmRq/qZqqYLEbGo35raG9Rd3lHgV6hylWrV41q+0cw5T5a/pbNj3SDiC20HfAQHCC2oGr3NXHB8n1z0avakyRlb7lf6DVdcrfRTrBhWEQzv2pDKU0ZeEtaobXdSklGtyzj0s9vJt3oCjAW9fEfVQuwqJ3FuygkMqbjAu9KuJi+ctzGFFLjcTEIF1p7BVIqAXvqWC93ypEx1bXlD1lnR+8YAIPDN5Uk055bvJsPaCoNL6HZgcIE5odigr35X/KyC3zQoL/SoqKWhk2N7eLkqUkmJs/tV07JoA/I1xiAMIRa9eZszRgQuT3jS/xfC63ySAcvSz8da72/aGI7ULkqxuMQsYkN3dkM=;ZsH24jOPj7ca0YqPF7Ug0Q=="
+secured: "UE2shpAWHTZ+bgVuonJ/Cr+7HDgExYDN11M6W7Qb0nidZ9ez7Ik8sBfNPnpbDK3UEsjid1BuAflW9QbH9sXalBcTLJYCiRXaYtQfE6j9oHCAWtE1flekQ2R86YjfiHrGrPgq8BxMUB+2GzlaOhnrAYJqsQEbgbV2VSW+7JGH8NIwp8Unf1J757UirNcuujR2TnfK9Wudbor/6WDO/U0AujA+JW6ZCIyMH4dpjsF3jTIOFTyH0gtWLn5Sc8ogQ91+nC5mvMOqesdhqXbZFfmqSx2+/z8qzgfy9PRlRpQdRz0Z6DS58noe/vjfMtZGzfpNYiPrEQhpfCBInP1aofRN7Oe57lNbYT0XPBpQuv+6+qo=;xl7yMtKCHCi2a2ohnkZ/TA=="
 ---
 

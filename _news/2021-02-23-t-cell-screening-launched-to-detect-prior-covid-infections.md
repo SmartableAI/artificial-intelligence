@@ -92,7 +92,7 @@ related:
   - title: "A machine-learning approach to finding treatment options for Covid-19"
     excerpt: "When the COVID-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare. \"Making new drugs takes forever,\" says Caroline Uhler, a computational biologist at the Massachusetts Institute of Technology."
     publishedDateTime: 2021-02-24T19:43:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302179&org=NSF"
+    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302179"
     type: article
     provider:
       name: nsf.gov
