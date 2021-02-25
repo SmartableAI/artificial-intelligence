@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarke
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Researchers use machine learning to identify autism blood biomarkers"
+    excerpt: "Using machine learning tools to analyze hundreds of proteins, researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,"
+    publishedDateTime: 2021-02-25T16:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210225082522.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "Machine Learning Detects Biomarkers of Autism Spectrum Disorder"
     excerpt: "Machine learning tools were able to identify biomarkers in blood that could enable earlier diagnosis of children with autism spectrum disorder."
     publishedDateTime: 2021-02-25T14:31:00Z

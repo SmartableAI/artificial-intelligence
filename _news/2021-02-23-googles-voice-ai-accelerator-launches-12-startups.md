@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-laun
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Falcon Launches AI-Powered Valuation Machine"
-    excerpt: "SAN FRANCISCO, CALIFORNIA, UNITED STATES, 2021 / EINPresswire.com / -- Startup Falcon is pleased to announce the launch of its innovative, AI-powered valuation machine - a tool designed to facilitate the fundraising process for early-stage startups,"
-    publishedDateTime: 2021-02-21T00:17:00Z
-    webUrl: "https://www.wicz.com/story/43381615/startup-falcon-launches-ai-powered-valuation-machine"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 37
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Oracle Launches Construction AI Advisor for Its Cloud Services"
     excerpt: "As more firms store their project data in the cloud, it offers the chance to dig through that data for new insights. Oracle has already offered some limited business intelligence dashboards for its cloud service,"
     publishedDateTime: 2021-02-23T04:32:00Z

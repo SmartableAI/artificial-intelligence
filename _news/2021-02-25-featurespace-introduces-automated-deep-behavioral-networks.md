@@ -1,0 +1,45 @@
+---
+category: news
+title: "Featurespace introduces Automated Deep Behavioral Networks"
+excerpt: "Featurespace introduces Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defence to protect consumers from scams, account takeover, card and payments fraud,"
+publishedDateTime: 2021-02-25T15:00:00Z
+originalUrl: "https://www.finextra.com/pressarticle/86301/featurespace-introduces-automated-deep-behavioral-networks"
+webUrl: "https://www.finextra.com/pressarticle/86301/featurespace-introduces-automated-deep-behavioral-networks"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Finextra
+  domain: finextra.com
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo.png"
+    width: 512
+    height: 512
+    isCached: true
+
+related:
+  - title: "Featurespace invents next generation of Machine Learning"
+    excerpt: "Featurespace’s Cambridge R & D team has mined previously untapped capability in machine learning and behavioural technology to provide unparalelled defence against online financial fraudsters. The team – boasting some of the best brains in the world – have delved deeper than DeepTech has ever gone in the cards and payment industry to fortify the defences of clients and transactions involving millions of their customers worldwide."
+    publishedDateTime: 2021-02-24T20:46:00Z
+    webUrl: "https://www.businessweekly.co.uk/news/hi-tech/featurespace-invents-next-generation-machine-learning"
+    type: article
+    provider:
+      name: Business Weekly
+      domain: businessweekly.co.uk
+    quality: 39
+    images:
+      - url: "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/featurespace_dave_sutton.jpg?itok=-NhUYEDi"
+        width: 605
+        height: 400
+        isCached: true
+
+secured: "lIIwvHIEFDe3N645gbRuHJjSPCjnbzLL6MUDyJ8/AWPP3inv3oZQI4mdjrrafi4p2vydX20nyDSmYL6fYGTwxK66RPd4swJoN13Ub+DSNAptHhWOB3DN9ZaUCI8ib58Z6987793RgIoNbCwMvrz3nkQc9V3cwcZyykpbjM56rggrQtwj7B4MwSLsLuH7XG5jOlJFaomwGxntlnxhGHqkiGdcDAcLwPjmGKpYs6aA2BT99eufG2b2FfClS48Vvmy2mb3fNcNunQCfdgLodEZ6IdPNeVnFRYNt4da0IDmWe0D6vnesmUQF807B8wxDi5bUNBG2bjvzJ1Q+Oi9m1+uRCBwew2jAa/fPuHjgayTAKNE=;wjAvOdvd6slMBrseYu6c/Q=="
+---
+

@@ -42,6 +42,15 @@ related:
         width: 344
         height: 344
         isCached: true
+  - title: "Symphony AyasdiAI launches Sensa™, a pioneering solution for AML and financial crime detection to thwart money laundering activities"
+    excerpt: "Symphony AyasdiAI today announced the launch of Sensa™ a powerful new enterprise AI application to discover complex, hidden money laundering and financial crime activity at a fraction of the cost and operational burdens previously required."
+    publishedDateTime: 2021-02-23T13:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-business-financial-services-classical-music-0b40d70ddc42101e286893baa8e3a0a4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "Putqc6MMUxa2I05sKBM4UB7mcKaYDqFfuLzRGU9NzL7LL3SQQK/gj00538uh0RhmxoKQtG2QeaH6G7/DFOeiIzgbvJxHOE12WtPvSIurMle2YppBzraxSYn6GXSdtbBXbRLeiALPnUzZ860puBwS1rrFoIk/+IH2yZag5ScB2955R9l7WJaA+USfix04vm3JICrvdI08y+Iy6ZSGHdpitWkP5vZytkWkiVeU6TeKZShCzmlEGVODJlhGT1QzthKhkthGERllCEFozCBQUyGUOy3KKy/V2BRNcqvEJXXve0k8lPrTKiZMqtCynWUPzFsORLzdsFgRxIcOM05iNp3oQMpLW15oIZxM9PrNzbWMJUY=;9JLrtNNB+EAY5McPcfvwPQ=="
 ---

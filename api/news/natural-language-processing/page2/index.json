@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-09-pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid.md",
+      "title": "Pandemic Pivot: How Hospitality Start-Up Sonder Finds Success During COVID",
+      "excerpt": "There are themes emerging from COVID-19 that are likely to persist according to Deloitte’s “ The World Remade by COVID-19 for Travel and Hospitality: Scenarios for Resilient Leaders ” report, and travel and hospitality companies will be looking to learn how to adapt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
+      "originalUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c1a2dbcb91aac49155f1f%2F0x0.jpg",
+          "width": 779,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
+      "publishedDateTime": "2021-02-08T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world.md",
       "title": "Video AI Could Be The Key To Unlock Communication In A Post-Pandemic World",
       "excerpt": "It’s creating virtual work and learning environments that are even more engaging than the physical spaces we’re leaving behind.",
@@ -1343,58 +1395,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
-      "title": "The Great Free-Speech Reversal",
-      "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/aYdbtnZ42iYsmiyu9rQ5lLmUZsg=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/01/7CN23I00/original.png",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/617827/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617827/",
-      "publishedDateTime": "2021-01-27T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

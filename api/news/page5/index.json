@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-21-artificial-intelligence-technology-solutions-is-an-overvalued-ai-company.md",
+      "title": "Artificial Intelligence Technology Solutions Is An Overvalued AI Company",
+      "excerpt": "The company has developed a security robot named ROAMEO and is valued at more than $700 million as of time of writing.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
+      "originalUrl": "https://seekingalpha.com/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/uploads/2021/2/18/36303466-1613665289226179_origin.png",
+          "width": 687,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
+      "publishedDateTime": "2021-02-21T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-ai-isnt-yet-ready-to-pass-for-human-on-video-calls.md",
+      "title": "AI isn’t yet ready to pass for human on video calls",
+      "excerpt": "The idea of humanlike AI is deeply sexy, but the final key components of such a system won't be solved for another few years.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/",
+      "originalUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/video_call.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/21/ai-isnt-yet-ready-to-pass-for-human-on-video-calls/amp/",
+      "publishedDateTime": "2021-02-21T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
+      "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
+      "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "originalUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "publishedDateTime": "2021-02-20T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-researchers-propose-ethically-correct-ai-for-smart-guns-that-locks-out-mass-shooters.md",
       "title": "Researchers propose ‘ethically correct AI’ for smart guns that locks out mass shooters",
       "excerpt": "A trio of computer scientists from the Rensselaer Polytechnic Institute in New York recently published research detailing a potential AI intervention for murder: an ethical lockout. The big idea here is to stop mass shootings and other ethically incorrect uses for firearms through the development of an AI that can recognize intent,",
@@ -1062,152 +1200,6 @@
         "AI in Finance",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-ai-can-now-farm-crickets-and-hopefully-solve-world-hunger-in-the-process.md",
-      "title": "AI can now farm crickets (and hopefully solve world hunger in the process)",
-      "excerpt": "Deep learning will help farm sustainable and protein-packed crickets at the world's first fully automated insect manufacturing site.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Screenshot-2021-02-19-at-14.51.17-796x407.png",
-          "width": 796,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/ai-farm-crickets-sustainable-protein-solve-hunger/amp/",
-      "publishedDateTime": "2021-02-19T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan",
-      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan/ar-BB1dPxvv",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T08:36:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
-        "domain": "bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip.md",
-      "title": "IBM unveils the world’s first quad-core AI accelerator chip",
-      "excerpt": "IBM has unveiled the world’s first quad-core, artificial intelligence (AI) accelerator chip, built using seven-nanometer (7nm) MOSFET technology. IBM optimized the novel chip for low-precision workloads with support for many AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip",
-      "originalUrl": "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1570816148/itpro/2016/07/ibm.jpg",
-          "width": 1000,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/hardware/358665/ibm-unveils-the-worlds-first-quad-core-ai-accelerator-chip?amp",
-      "publishedDateTime": "2021-02-19T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

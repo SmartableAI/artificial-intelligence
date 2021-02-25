@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-26-ataccama-acquires-data-visualization-startup-tellstory.md",
+      "title": "Ataccama acquires data visualization startup Tellstory",
+      "excerpt": "Ataccama acquired TellStory to add data vizualization tools to an expert systems platform for managing large amounts of data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Ataccama-Editor-story.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/ataccama-acquires-data-visualization-startup-tellstory/amp/",
+      "publishedDateTime": "2021-02-25T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-changes-go-far-beyond-just-ai-machine-learning.md",
       "title": "Changes Go Far Beyond Just AI, Machine Learning",
       "excerpt": "SambaNova Systems is a technology startup founded in 2017 by a group of far-sighted engineers and data scientists who saw that the current approaches to",
@@ -10,7 +61,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -42,7 +93,9 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -330,6 +383,57 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/25/if-i-could-force-executive-leaders-to-learn-one-thing-about-ai-what-would-it-be/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/25/if-i-could-force-executive-leaders-to-learn-one-thing-about-ai-what-would-it-be/amp/",
       "publishedDateTime": "2021-02-25T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine.md",
+      "title": "This Startup Just Raised $123 Million To Develop A New Way To Find Medicine",
+      "excerpt": "The traditional approach to developing new drugs is to focus on a single target - a molecule within the body that is essential for a disease to take hold. Hitting this target - by either helping or hindering how it works - is one of the main ways that new medicines are discovered.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60374eb5c51a277e807acf9c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1268%26cropY1%3D65%26cropY2%3D779",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexknapp/2021/02/25/this-startup-just-raised-123-million-to-develop-a-new-way-to-find-medicine/amp/",
+      "publishedDateTime": "2021-02-25T05:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -956,7 +1060,7 @@
       "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1144,109 +1248,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-13-common-mistakes-that-can-derail-your-ai-initiatives.md",
-      "title": "13 Common Mistakes That Can Derail Your AI Initiatives",
-      "excerpt": "If you’re looking to implement artificial intelligence in your business, make sure you go in with a well-considered plan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/?sh=18b9557368b0",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603665d1ad8d15fb0697b410%2F0x0.jpg",
-          "width": 1200,
-          "height": 1213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/",
-      "publishedDateTime": "2021-02-24T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-band-of-ai-startups-launch-rebel-alliance-for-interoperability.md",
-      "title": "Band of AI startups launch ‘rebel alliance’ for interoperability",
-      "excerpt": "The AI Infrastructure Alliance wants to improve interoperability between tools and fraemworks made by small to medium-size AI startups.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
-      "publishedDateTime": "2021-02-24T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

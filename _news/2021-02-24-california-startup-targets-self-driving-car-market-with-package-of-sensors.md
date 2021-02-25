@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KT3GD"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KT3GD"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Reuters
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Apple in Talks to Buy Self-Driving Sensors for Apple car"
-    excerpt: "Apple Car- . is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter"
-    publishedDateTime: 2021-02-21T00:25:00Z
-    webUrl: "https://techstory.in/apple-car-in-talks-to-buy-self-driving-sensors/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 24
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2018/07/applecar-800x450.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "California startup targets self-driving car market with package of sensors"
     excerpt: "Neural Propulsion Systems, or NPS, on Wednesday released a product aimed at packaging all the sensors needed to guide a self-driving vehicle, a departure from most other players in the field. The Pleasanton,"
     publishedDateTime: 2021-02-25T06:17:00Z

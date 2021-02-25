@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-24-facebook-announces-1m-for-ai-research-programme-in-uk.md",
+      "title": "Facebook announces £1m for AI research programme in UK",
+      "excerpt": "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL).",
+      "sourceUrl": null,
+      "webUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
+      "originalUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
+      "cdnAmpWebUrl": "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
+      "publishedDateTime": "2021-02-23T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Evening Express",
+        "domain": "eveningexpress.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
       "title": "Proposed framework could reduce energy consumption of federated learning",
       "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
@@ -1183,58 +1226,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry.md",
-      "title": "Future Acres launches with the arrival of crop-transporting robot, Carry",
-      "excerpt": "When people ask me which robotics categories are poised for the biggest growth, I often point to agriculture. The technology already has a strong foothold in places like warehouse and logistics, but it’s impossible to look at the American – and global – farming community and not see a lot of",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
-      "originalUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/02-Carry-front-view.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
-      "publishedDateTime": "2021-02-23T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

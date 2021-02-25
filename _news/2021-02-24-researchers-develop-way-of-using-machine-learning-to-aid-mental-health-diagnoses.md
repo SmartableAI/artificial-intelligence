@@ -49,6 +49,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Using AI to Identify Mental Health Issues on Social Media"
+    excerpt: "Stevie Chancellor, a CS+X postdoctoral fellow at Northwestern, examined the promises and perils of social media platforms using artificial intelligence to prevent suicide."
+    publishedDateTime: 2021-02-25T15:39:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/using-ai-to-identify-mental-health-issues-on-social-media.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 39
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/using-ai-to-identify-mental-health-issues-on-social-media-1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sB4cjwx3k/C5/6RXOhlVXg7cxJKvtFXSdt5KxNL3esQDjgzAi/Wtp/+YXbn7el+hMyxinxIZ6K1NAUWO3wNfGpEoKXoLXDCqCkgGz9/X+8/VeicG3OciXR0oMljPkBakwMTcy6sSjRcPeEeMvB9p2/Y9iphPAp7hWKOZFUu/pM7lQWGBtKuTQUQVDAufUVcBKJyQd2lQCctGI79/fz3wXiifJwM5UMLZw0rRJ20YUm8QXiZIx+c5eZP9z6K3/M+hlu1aKSNMcN/VQJYs7NNBDbV9CtwW55eBBwya5I/FbAfcCJ8g+uwjXsEMt7+MYCukLIPivFCRsuFWjXqwC/PjibDuBLnPAMJMSxuukAN3gd0=;Z6RyqO5Olo/tj45FqqjQRw=="
 ---

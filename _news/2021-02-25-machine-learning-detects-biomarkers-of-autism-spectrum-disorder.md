@@ -57,7 +57,16 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Researchers use machine learning to identify autism blood biomarkers"
+    excerpt: "Using machine learning tools to analyze hundreds of proteins, researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,"
+    publishedDateTime: 2021-02-25T16:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/02/210225082522.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
-secured: "xjs0qdGKGnb5a8KhRE2v8jyn2UAkfa1vC/YiTkTJUfglvzR0fLFPm8zFx2rT49TGGnwQvKfO7VE3zT4rv2Vn4gMNMbtm3IuEtRYTATNCHCdjfdhfy0sPTCT4PMAIFThPgkQ5k69CUxH3AdbImLaXcNbJN5SiG2nVwe8fFBaPUS28S5ayRTP4BgJ6ND+e55t9DgqywKxCHQ/uNbiA55o6RerP/iTvXKkkW6VZrbyJpPm3GphwRQdOxZBD2HSicaXCvRIzP4jHbPuS0TdM53hDm3HTmCuunfl2in58+RXymuolOFP1uWbwiDI69oT+DUws/Prv3hkGw9wbeFXnjWSOS3satGcTGHqaTbKBWlp7JOA=;6OQnw1FsNcaZWW4E/R/xbA=="
+secured: "r+n3SlsGpmtCe9+Oo5sTHxDBnpy3SnPzo0CnBCCv9DIxuFZjXlWO1F++ZalYTFkabBNiSumbsW925wTkdvbX7iLC0BH55SXFz8Yl8BLo9UODk12XzeBxuRCIgRZ9zGABYsiBGdiV9hYECcKfgXnwBIIRKouFPb8wPgBkwoUiqiYRF99Fdo870kLOsu2hIs58UqEcezvXnmbl+WTuanqPzQMY9j1Wi2k2znx0dRVHtZKXbcQuN5UBnJUzRbfr5RqTysC1V2BHLAqNlQqQDu+oSEmEIkKFf+HgsmaqbRyEMzZtQFZeMpLQb2NX48UHhe1vkO11l/Y76BD0rsZZEBfDqWXIDULfuXS6d/nEXq9Gx7+n+t+Leidxw1NzffzRSqIT24Az1o8KwJMmxPEWmFfy+kmZ8qLo7q9VuxDsS+OOnpxKGcIE65Tp3TTcbQW/vs9K+LmG6bcqZQzqZmpbujmqZwexy+FMUhXxnPhkEH97tDVMejeWTFMnAO1o/lyr7mOtECTv6T5Nw4YidZUiHmOfPg==;7VJ6+bKCWscG9TufDRAnKg=="
 ---
 

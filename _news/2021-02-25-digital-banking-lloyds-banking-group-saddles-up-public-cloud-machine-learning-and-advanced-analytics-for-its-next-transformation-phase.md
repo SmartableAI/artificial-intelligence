@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/digital-banking-lloyds-banking-group-saddles-pub
 ampWebUrl: "https://diginomica.com/digital-banking-lloyds-banking-group-saddles-public-cloud-machine-learning-and-advanced-analytics?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/digital-banking-lloyds-banking-group-saddles-public-cloud-machine-learning-and-advanced-analytics?amp"
 type: article
-quality: 28
-heat: 28
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2021-02/Screenshot%202021-02-25%20at%2014.13.02.png"
@@ -43,6 +44,6 @@ related:
         height: 315
         isCached: true
 
-secured: "5VEov0GPf00ZlX3+YWFqQhu4vudc7LlTaVktVZf9nj90++PrU+Q+lTeGCAy49SkQ24X70pZBV+x/s3x4q8GBRUeECvzhFoHXnkPkio2G9y/o+2fM8ERFvqZ4RIzbvRcjeIJB+2UH5/2j/VtQC7u+YPPEKYCokEnNFJr0D1Lhn/1qiOwDQx8tWVM/iZryw5QR+WFZXBy54lfp3zTf8XLjHKZI9C40DAOwVsKS1Fmjl3e9Ab+YAzR/w9UVs8H5Ol9IHnhD+5JZCFVl/n6gIsy2KjwLWtvERwQQgdtMYYXul2XpXkfxOlND9S1ww9ZXZHTZHtbx6ftMgezlxp+QAzdyGlS3nty/Nc2LFAZnq9S/SNw=;LH979EYdFVlylWQPQrxcNQ=="
+secured: "m9QNRFzKSNHzEhJZO48um7rPqq2p2wz5SKyWxglitekxrZvOTwc/Tj9lRBY4pBEdCqsaGUNtMbeuFUdOv0ZOYrJGGhEl23g/ny11Ukary9BtyErtdWZ80JF1RqxDvp4w9D3ivS754VdLslayMmcOPW44sCacznjGdUvTOFCGcsCWjRJ6yXK+wRA5kuMJuF75wFqZeW7nxhAK9GJfiVHXUlrnTZTdkq5g9n7kLL3Px28LcGYXF4JgNDxLGYQmEmBOjD0UcmgZNM4E4wTSrXDv6wqssJx4q7WFpCOqS6lSecH5ZE7Yjk6fDOj59NZHsAg2kj0fRv9iNrp3Y04q3TqcXnf3C3hyXGYiqoo2sy/GTJtOPCkpCHTazlHEN0HFrbZDpcTPBA4+c3Jpw1yzAmXvWO3Wlbu6WtP1DF8/VvOoro74NE86ANwVMwuAedPD/QCnhOT/ugJtsLnVNYXx+JXTRC/K/LUbZ+mfgy3Xw/8LTy87rwbjrUE8mgjeu7OXXavX79u+8NYeBhe8/x75TERN8Q==;TcLprCIXkYtdcHi7R83K6g=="
 ---
 

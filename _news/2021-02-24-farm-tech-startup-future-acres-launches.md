@@ -43,15 +43,13 @@ related:
         isCached: true
   - title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
     excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
-    publishedDateTime: 2021-02-23T10:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+    publishedDateTime: 2021-02-23T10:01:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-investment-management-financial-services-personnel-87d10d718a3a7f41a15d35cc23d1f0a1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Associated Press
+      domain: apnews.com
+    quality: 21
 
 secured: "HSKvL8zt8cMOHdgoRDiRK/7W6siYN5yKdNL7yPgQtK0s3p+6aQHnzo5fbXuHGsVRRZ5SAiOUZYtvZdi2JIyX8bPQuVkHJbforT9wIuJ6PlSqIaREbIB/x2fCRyM+qE16MAhNhwFDeJYRuvfeI8UvEidK7mu++IBd6pB2WE2+aXintfSiZ4WRNPdFnaMDKTu0cBpH6i2s0lz+x2v453NOzvI9OUTroNrqSIECZ+wPwCFIrDotRy018wteqhuQ0nJ4uE8ximLDUD1+Slkvrj7cbaRRMHRPM5lfaNpVzcgbYm/46nAODzcRcJh9UUPjRz5wY1cZe6tuZaKhCSF57U4QB9aP0fsgO2sda9bQPEVyEQo=;q+9JS6yoLTB8QKl5ZhbOsw=="
 ---

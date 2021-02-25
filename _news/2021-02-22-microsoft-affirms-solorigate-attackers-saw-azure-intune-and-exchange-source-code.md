@@ -110,6 +110,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
+    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
+    publishedDateTime: 2021-02-25T15:19:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
     excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"
     publishedDateTime: 2021-02-23T14:35:00Z

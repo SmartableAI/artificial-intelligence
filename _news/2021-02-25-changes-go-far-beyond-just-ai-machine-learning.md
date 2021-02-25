@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-m
 ampWebUrl: "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/"
 type: article
-quality: 76
-heat: 76
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -20,6 +20,8 @@ topics:
   - AI Hardware
   - AI
   - Machine Learning
+  - Google AI
+  - Natural Language Processing
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Untitled-design-5.jpg"
@@ -27,6 +29,6 @@ images:
     height: 500
     isCached: true
 
-secured: "RbrCyVJliLoI1YN9akRaqYAPR5g7fMWZkCNF9TT/vXJTUiBqdrbT71ELRidesEfjCSLlBtC+n9eR4OhJzY6y2Z9Ljo5shvkSkb2KVg/2LPD9mZ4PWJxsxoCFHFuY+kwD8Gr1a79px4A7vtiDsxzaF8odmDg6gY9zOAw73rmOOVFGDJot3G5aDuPyCj1gSA1JXEXEyRqU1frUk/qLIC7yMAjbXexljPK9dLBCZDrfxyPRbPEpgV+eCUEsQK3SO6f/XjAlKjA/PPOPhc0qCL3BnRVPyQPPM3RjdH7G6ykyXz6j0EZurzUV+8aOn9Ry/O95GIrpNliopiAqStPkXrTO6Sn3fvJRBumYivXW0Zp5uJA=;uiG0oDaqrSTDuYEYtdFesA=="
+secured: "GC/nvUORyJ1tkh8DhLaERxM1yQtLlSifXxM/NcNLZtfruER1PoVURf+QHbbKLv0er/RsHo7yse7EDAVdMFhVQB8+LyJBBqE18F9tEGo+5EeiXlDsr1yHNY6yXETCnV4gsVYTjSZ2UzEAL4wDJD6tbZhoNL/6xQuMftRJe/TaBIdwybtVBHyr/qBY0VI4Z2YgtuADFrqkkrWM3SyBd9TppHxhItWgDPTwx7mtIwc3d8oEOmE9AXyNg/eNaR0A9rZo0Wo+GBLf5D0QkVO2z0rL8V1Cpho9M4PIAwwRiojytN/RFUClU2YnILHBMhRrSZk7Xng54PMaxG7xdOxXs6CYLWlHy49r+2zz0+dPoozfCUu2I79aOOnu8PrsyKPRI8RgqffMVUdYTXzRR/GijgrZIJOPAxXSr8CoPffWCvSJkDQ73cYvvZKnEJVabingGR0tF63pmYPlwv14MLNIsMus5WPtDtyCYENzpVDiZ922gHUPc3ZxFrIABI+oY9VtquKy4N+X0xbrBEQfajErcOzoUg==;k6JhiEOIzYIkadqABy0OJg=="
 ---
 

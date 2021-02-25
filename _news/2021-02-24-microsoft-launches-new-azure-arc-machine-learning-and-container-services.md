@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/microsoft-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
 type: article
 quality: 115
-heat: 245
+heat: 255
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
+    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
+    publishedDateTime: 2021-02-25T15:19:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
+    type: article
+    provider:
+      name: dbta.com
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
     excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"

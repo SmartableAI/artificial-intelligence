@@ -106,49 +106,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-24-california-startup-targets-self-driving-car-market-with-package-of-sensors.md",
-      "title": "California startup targets self-driving car market with package of sensors",
-      "excerpt": "Neural Propulsion Systems, or NPS, on Wednesday released a product aimed at packaging all the sensors needed to guide a self-driving vehicle, a departure from most other players in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nps-lidar-idUSL1N2KT3GD",
-      "originalUrl": "https://www.reuters.com/article/nps-lidar-idUSL1N2KT3GD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2KT3GD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KT3GD",
-      "publishedDateTime": "2021-02-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
       "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
       "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
@@ -686,8 +643,8 @@
       "title": "Baidu’s share price bounces back ahead of earnings",
       "excerpt": "On 18 March, Baidu’s share price fell to $83.62 on the stock’s worst day of trading — its lowest close since 2013. Over the following months, Baidu’s share price had a lacklustre performance and didn’t return to the green until 4 November,",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "webUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1221,43 +1178,25 @@
     {
       "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "Self-driving cars will change the world in countless ways. They hold the promise of riders being able to engage in other activities while in a vehicle, collisions and traffic deaths being significantly reduced,",
+      "excerpt": "These companies are building the artificial-intelligence (AI ... platform consists of hardware and software designed to support driverless vehicles, from level 2 (partly automated) all the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "webUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg",
-          "width": 1619,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T13:20:00-08:00",
+      "publishedDateTime": "2021-02-11T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1461,6 +1400,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-self-driving-car-firms-reveal-2020-testing-data-cruise-and-waymo-improve-apple-stalls.md",
+      "title": "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls",
+      "excerpt": "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/GfR_29Un7YAg7WruzEGBISHgj-0=/2021/02/10/3c81631f-762b-4ffb-92d8-2ce83954551c/ogi-cruise.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-self-driving-car-reveal-cruise-waymo-testing-data/",
+      "publishedDateTime": "2021-02-10T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,23 +2,17 @@
 category: news
 title: "Future Acres Launches to Bring Sustainable Agricultural Robotics to Farm Industry and Optimize Workforce Efficiency and Safety"
 excerpt: "Today, Future Acres – a new start-up bringing sustainable agricultural robotics to the farm industry in order to optimize workforce efficiency and safety – has launched to raise up to $3 million in seed capital via equity crowdfunding site SeedInvest."
-publishedDateTime: 2021-02-23T10:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-webUrl: "https://markets.businessinsider.com/news/stocks/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/future-acres-launches-to-bring-sustainable-agricultural-robotics-to-farm-industry-and-optimize-workforce-efficiency-and-safety-1030111605"
+publishedDateTime: 2021-02-23T10:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-investment-management-financial-services-personnel-87d10d718a3a7f41a15d35cc23d1f0a1"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-investment-management-financial-services-personnel-87d10d718a3a7f41a15d35cc23d1f0a1"
 type: article
-quality: 71
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
@@ -56,6 +50,6 @@ related:
         height: 376
         isCached: true
 
-secured: "phk5kt6PwNwSrbQABTisYeZ/1Hv4Xf05C8G3UmkuH62UhY/oNyIi9gNQtueIVqSHmNxgwqzoTtBUkCyWhaqiBmqWE4qEe4uq0lQw63k+bsKc0s+UscumE/hu6KwUm5y0mOC9R391l4Xn4Ygj+xB33qprjb3HfIHaPM2I9RNK3uBopTF82cqoTa9w28yI6kM+gjrw7yV1ZYKHhxXLQkBYvL0vw3+vtkGYue7MbUDXg/H4aXTmnzqm97wNtTRGXCbNHvSvyFjuSEETO04KnH+kHHW+T8nOCIWWO7+Ss0Y/pyPac5xxu5irE0ukBove6IrlkwgjDPL7eUH0CtGums/NAqKkpXnZ8NMjCSl+cI9U0PY=;0JX9atkOzJhJKPNcov5hqw=="
+secured: "i9iE4Z4hHEN6O06z/9BZs+imQdYwDeiTxqpngGfyJ/PH6bVppoxdOBg5RKrDXkM3UTQLUoEVEHvp0JOAEjy7x2aO/GYuQF6E66hvn2QYHNCL+GGVwlfvFXCOhLfZVLoOujtCSY/esgqdATIAc+3GB3Q2PoRs+E4JV2MoBpTws8hQrwAqJ/vCOmBkFtIRjFVqiF2RKg/JF2hbXydWdu1QHuvHYmSA+uMhldViBq0K96DXFQdvZS+mtpB7FgtqzBkD0RT2mDNK6mVmBOY11WiYOsYNFt8kO2pleDbeVWRvy+x40WNNZJh6V32CLg0XffdQJ6J/WkEC21FGbEN5/v7Bg+pAIvd4qpx/wO9cLl3QHRI=;XpYhsVyVurEu9URJj0fvEw=="
 ---
 

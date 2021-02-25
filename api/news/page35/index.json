@@ -2,6 +2,151 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-01-28-researchers-propose-ai-system-that-summarizes-historical-texts.md",
+      "title": "Researchers propose AI system that summarizes historical texts",
+      "excerpt": "Summarizing historical text can help to better gather, organize, and share knowledge by identifying the key points in original documents. However, this comes at the cost of time and effort. Due to cultural and linguistic changes over time and the sheer volume of archives,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/researchers-propose-ai-system-that-summarizes-historical-texts/amp/",
+      "publishedDateTime": "2021-01-28T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-elon-musk-says-self-driving-tesla-robotaxis-can-help-justify-the-companys-800-billion-valuation.md",
+      "title": "Elon Musk says self-driving Tesla robotaxis can help justify the company's $800 billion valuation",
+      "excerpt": "Musk has envisaged a robotaxi network with vehicles that can park and plug in themselves using Tesla's self-driving technology. Tesla plans to develop its own ride-hailing app where customers can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1",
+      "originalUrl": "https://www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60128a296dfbe10018e00673?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-valuation-elon-musk-robotaxis-self-driving-value-fsd-2021-1?amp",
+      "publishedDateTime": "2021-01-28T06:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-ai-startup-growing-in-indy.md",
+      "title": "AI startup growing in Indy",
+      "excerpt": "Catipult.AI, which has developed an artificial intelligence platform to help businesses manage and track strategic goals, says it will invest more than $2.6 million to secure a larger office space in Indy and create up to 51 jobs by the end of 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/",
+      "originalUrl": "https://www.wishtv.com/news/inside-indiana-business/ai-startup-growing-in-indy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/www.wishtv.com/wp-content/uploads/2021/01/Peter-Fuller-Catipult.jpg?fit=960%2C540&#038;ssl=1",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WISHTV8",
+        "domain": "wishtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-cyberlink-faceme-tops-facial-recognition-vendor-test.md",
       "title": "CyberLink FaceMe® Tops Facial Recognition Vendor Test",
       "excerpt": "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, and developer of the FaceMe® AI facial recognition algorithm, achieved a top six ...",
@@ -1008,145 +1153,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-why-is-ibm-a-good-company-to-work-for.md",
-      "title": "why is ibm a good company to work for",
-      "excerpt": "Conway says the apology and decades-delayed acknowledgment of her work was freeing, and that it provided her with a long-sought sense of closure. ... “We are very proud of Lynn for fighting … See how our work is truly life changing—from helping to cure diseases,",
-      "sourceUrl": null,
-      "webUrl": "https://portal.comunique-se.com.br/wp-content/are-dog-nzherc/archive.php?37455f=why-is-ibm-a-good-company-to-work-for",
-      "originalUrl": "https://portal.comunique-se.com.br/wp-content/are-dog-nzherc/archive.php?37455f=why-is-ibm-a-good-company-to-work-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://portal.comunique-se.com.br/wp-content/uploads/2017/01/logo-Portal-Cse-Facebook.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-27T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "comunique-se.com.br",
-        "domain": "comunique-se.com.br",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-neural-network-software-market-is-booming-worldwide-neurala-ibm-microsoft.md",
-      "title": "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft",
-      "excerpt": "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "originalUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U128436343_g.jpg",
-          "width": 512,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "publishedDateTime": "2021-01-27T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-elon-musk-explains-how-self-driving-robotaxis-will-justify-teslas-massive-valuation.md",
-      "title": "Elon Musk explains how self-driving robotaxis will justify Tesla's massive valuation",
-      "excerpt": "As Tesla's self-driving technology continues to improve, those vehicles will become self-driving robotaxis, allowing usage to go from 12 hours a week to 60 hours a week. Tesla could charge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106806365-1607089814899-gettyimages-1229901940-GERMANY_MUSK.jpeg?v=1607089873",
-          "width": 4000,
-          "height": 2840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/27/elon-musk-explains-how-self-driving-robotaxis-justify-tesla-valuation.html",
-      "publishedDateTime": "2021-01-27T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

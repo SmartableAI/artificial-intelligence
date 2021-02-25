@@ -23,6 +23,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "RIT faculty using smartphones and artificial intelligence to help assess crop roots"
+    excerpt: "A Rochester Institute of Technology faculty member is creating new artificial intelligence systems that could empower agricultural researchers, breeders, nurseries, and other users to analyze the roots of their crops with the power of their smartphones."
+    publishedDateTime: 2021-02-25T16:10:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/riot-rfu022521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 31
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "RnYiZStYJrBU5rYqsT7CZmXQXYOCvWRRFpfqHRpk1Ld7jPk60YKx8UoBvHvFv6lZaSF0I8WVL0sS0pIastiHGv5DDgPwiUCoph5P6XsH8A/vxhZqpo+E6Oe2oWObCuWZKS3g3BqtaE58NC5zCPwSueRcyG7CwCO4HHy8j2kDJGUq4LKz21a+swQ4Plm495fdkiql/ubVeeaF8eQ03pxF7ctOJp5mMpyF4wNvwDFTa6Ba4oVlJ0xNI6df4qYpD3dW8inDf4EyzIDiLF8VNqe1PJIKO6J2qGX9fCLxi1bXHzjbHdpjLJRAq/Ga7RVfQ8XllueI+4MgKhnJgERnV2h2j7BuTvRrErKXNAAf1FaZOq4/d8DUv/Lo7uciM/GZJpqtDZFQkuJJ/YYlev4a08iwq1Pp8tR40qHYWM8I9tRDNsgvMWhPJAEDtDFEq4JUhNv9vTkDZmNdyFvWx1rneRAhwofIMlQmX2+3divU13u4NsSjpEd9twtKy421Y+YhZrVZPfsvuz5DinBskVGqSmYacg==;1IL5r9pFVsupR2wuagnUJA=="
 ---
 

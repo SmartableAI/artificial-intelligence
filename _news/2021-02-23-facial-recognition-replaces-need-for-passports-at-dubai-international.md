@@ -67,6 +67,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Moscow to expand metro facial recognition network"
+    excerpt: "Moscow authorities have allocated more than US$10mil (RM40.38mil) to purchase and install across the city’s sprawling metro system high-definition cameras that can recognise faces and track fast movements,"
+    publishedDateTime: 2021-02-25T09:48:00Z
+    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/25/moscow-to-expand-metro-facial-recognition-network"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/25/1056856.jpg"
+        width: 1240
+        height: 827
+        isCached: true
   - title: "Moscow allocates US$12.5 mil to expand facial recognition"
     excerpt: "MOSCOW: Moscow authorities have allocated more than US$10 million to purchase and install across the city’s sprawling metro system high definition cameras that can recognise faces and track fast movements,"
     publishedDateTime: 2021-02-25T09:50:00Z

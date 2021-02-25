@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1614139195.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Using AI to Identify Mental Health Issues on Social Media"
+    excerpt: "Stevie Chancellor, a CS+X postdoctoral fellow at Northwestern, examined the promises and perils of social media platforms using artificial intelligence to prevent suicide."
+    publishedDateTime: 2021-02-25T15:39:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/using-ai-to-identify-mental-health-issues-on-social-media.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 39
+    images:
+      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/using-ai-to-identify-mental-health-issues-on-social-media-1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Researchers develop way of using machine learning to aid mental health diagnoses"
     excerpt: "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research were published in the journal 'Schizophrenia Bulletin'."

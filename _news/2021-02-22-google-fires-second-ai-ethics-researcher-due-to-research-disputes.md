@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Fires Another Top Researcher on Its AI Ethics Team"
-    excerpt: "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,"
-    publishedDateTime: 2021-02-21T00:28:00Z
-    webUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173"
-    ampWebUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 104
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qor3uucrnhamtzuoqiyn.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Google fires top ethical AI expert Margaret Mitchell"
     excerpt: "Google has fired the co-lead of the company's ethical AI unit, Margaret Mitchell, on the heels of the removal of Timnit Gebru.  Mitchell, an ethical artificial intelligence (AI) expert who has previously worked on machine learning bias,"
     publishedDateTime: 2021-02-22T11:27:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png"
         width: 1600
         height: 1069
-        isCached: true
-  - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
-    excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."
-    publishedDateTime: 2021-02-22T09:37:00Z
-    webUrl: "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552410683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J00J"
-        width: 817
-        height: 545
         isCached: true
   - title: "Google fires second AI ethics leader"
     excerpt: "Google fired staff scientist Margaret Mitchell on Saturday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal. Google said in a statement Mitchell violated the company's code of conduct and security policies by moving electronic files outside the company."
@@ -100,20 +68,6 @@ related:
       - url: "https://s1.econotimes.com/assets/uploads/20210222a86600974f82fcd3c_th_1024x0.jpg"
         width: 640
         height: 420
-        isCached: true
-  - title: "Google fires another ethics scientist"
-    excerpt: "Battle of Essex ethics Google appears to have fired scientist Margaret Mitchell after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
-    publishedDateTime: 2021-02-23T22:37:00Z
-    webUrl: "https://www.fudzilla.com/news/52401-googles-fires-another-ethics-scientist"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01b41bc70cd698d6a5ba960b9c460f60_L.jpg"
-        width: 620
-        height: 415
         isCached: true
   - title: "Google fires top AI ethicist"
     excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."

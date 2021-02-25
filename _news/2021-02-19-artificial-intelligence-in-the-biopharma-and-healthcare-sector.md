@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.cioreview.com/newsimages/special/Kt7bdXev.jpeg"

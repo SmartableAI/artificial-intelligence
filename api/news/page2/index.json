@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-13-common-mistakes-that-can-derail-your-ai-initiatives.md",
+      "title": "13 Common Mistakes That Can Derail Your AI Initiatives",
+      "excerpt": "If you’re looking to implement artificial intelligence in your business, make sure you go in with a well-considered plan.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/?sh=18b9557368b0",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603665d1ad8d15fb0697b410%2F0x0.jpg",
+          "width": 1200,
+          "height": 1213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/",
+      "publishedDateTime": "2021-02-24T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-band-of-ai-startups-launch-rebel-alliance-for-interoperability.md",
+      "title": "Band of AI startups launch ‘rebel alliance’ for interoperability",
+      "excerpt": "The AI Infrastructure Alliance wants to improve interoperability between tools and fraemworks made by small to medium-size AI startups.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
+      "originalUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
+      "publishedDateTime": "2021-02-24T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-interested-in-ai-master-deep-learning-get-nlp-certified.md",
       "title": "Interested In AI? Master Deep Learning & Get NLP Certified",
       "excerpt": "The world of artificial intelligence (AI) is revolutionizing the way we live, though it has become something of an acronym soup. From DL to ML, SSD to CN",
@@ -513,7 +616,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -660,49 +763,6 @@
         "Machine Learning",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-california-startup-targets-self-driving-car-market-with-package-of-sensors.md",
-      "title": "California startup targets self-driving car market with package of sensors",
-      "excerpt": "Neural Propulsion Systems, or NPS, on Wednesday released a product aimed at packaging all the sensors needed to guide a self-driving vehicle, a departure from most other players in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/nps-lidar-idUSL1N2KT3GD",
-      "originalUrl": "https://www.reuters.com/article/nps-lidar-idUSL1N2KT3GD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2KT3GD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KT3GD",
-      "publishedDateTime": "2021-02-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -868,7 +928,7 @@
       "originalUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1066,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 255,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1195,49 +1255,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-facebook-announces-1m-for-ai-research-programme-in-uk.md",
-      "title": "Facebook announces £1m for AI research programme in UK",
-      "excerpt": "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
-      "originalUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
-      "cdnAmpWebUrl": "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
-      "publishedDateTime": "2021-02-23T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Evening Express",
-        "domain": "eveningexpress.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

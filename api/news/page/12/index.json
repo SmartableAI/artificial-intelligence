@@ -2,6 +2,152 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-15-how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care.md",
+      "title": "How Hardware, Data And Artificial Intelligence Are Changing Diabetes Care",
+      "excerpt": "According to Søren Smed Østergaard, Vice President, Digital Health of Novo Nordisk, the most significant innovations in the diabetes space centered around hardware, artificial intelligence (AI) and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60298237aed9da9a21c7f6a8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/",
+      "publishedDateTime": "2021-02-14T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-scaling-ai-the-4-challenges-youll-face.md",
+      "title": "Scaling AI: The 4 challenges you’ll face",
+      "excerpt": "I've worked in big data and AI with several organizations. Here's where I've seen them flounder after an enthusiastic start.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
+      "originalUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/scalability.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
+      "publishedDateTime": "2021-02-14T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-russian-police-use-facial-recognition-or-face-control-against-protesters.md",
+      "title": "Russian police use facial recognition or ‘face control’ against protesters",
+      "excerpt": "He was detained on his way there by police using facial recognition technology in the Moscow metro. But reports from other protesters who have attend rallies in recent weeks in support of jailed opposition politician Alexei Navalny also indicate police are using facial recognition technology to make preventive arrests and detentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/",
+      "originalUrl": "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/2021-02-11T151833Z_1_LYNXMPEH1A19D_RTROPTP_4_RUSSIA-POLITICS-NAVALNY-TECH.jpg",
+          "width": 530,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nyoooz.com",
+        "domain": "nyoooz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks.md",
       "title": "How a Chinese scientist in the US is helping defend AI systems from cyberattacks",
       "excerpt": "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats.",
@@ -1085,162 +1231,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-using-watson-nlu-to-help-address-bias-in-ai-sentiment-analysis.md",
-      "title": "Using Watson NLU to help address bias in AI sentiment analysis",
-      "excerpt": "Previously on the Watson blog’s NLP series, we introduced sentiment analysis, which detects favorable and unfavorable sentiment in natural language. We examined how business solutions use sentiment analysis and how IBM is optimizing data pipelines with Watson Natural Language Understanding (NLU). But",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/watson-nlu-bias-ai-sentiment-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/Screen-Shot-2021-02-12-at-2.14.04-PM.png",
-          "width": 1688,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T11:19:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots.md",
-      "title": "Baidu Launches Self-Driving Cars, Shuttles, Buses, Vending, And Even Police Robots",
-      "excerpt": "The Mobility-as-a-Service program in Guangzhou steps beyond previous deployments, in that it pulls together different transportation modalities and use cases into a single service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/02/12/baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/02/12/baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60268c9ac54e87fd21adf5bb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-4-ai-tools-to-help-you-reach-your-marketing-goals.md",
-      "title": "4 AI tools to help you reach your marketing goals",
-      "excerpt": "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "originalUrl": "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
-      "publishedDateTime": "2021-02-12T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
