@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-28-alibaba-backed-self-driving-startup-opens-its-robotaxi-service-to-the-chinese-public.md",
+      "title": "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public",
+      "excerpt": "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
+      "originalUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-autonomous-cars-market-key-developments-research-methodology-and-top-player-forecast-overview-till-2027-fortune-business-insights.md",
       "title": "Autonomous Cars Market Key Developments, Research Methodology and Top Player Forecast Overview Till 2027 | Fortune Business Insights",
       "excerpt": "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing.",
@@ -1402,49 +1445,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-honda-to-collaborate-with-gm-on-self-driving-service-in-japan.md",
-      "title": "Honda to collaborate with GM on self-driving service in Japan",
-      "excerpt": "Honda Motor Co. said Wednesday it will collaborate with General Motors Co. and its unit Cruise LLC on launching a service using self-driving vehicles in Japan and start feasibility tests later ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.japantimes.co.jp/news/2021/01/20/business/honda-gm-self-driving/",
-      "originalUrl": "https://www.japantimes.co.jp/news/2021/01/20/business/honda-gm-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-japantimes.com/wp-content/uploads/2021/01/np_file_64237-870x489.jpeg",
-          "width": 870,
-          "height": 489,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-20T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Japan Times",
-        "domain": "japantimes.co.jp",
-        "images": null,
         "publishers": null,
         "authors": null
       },

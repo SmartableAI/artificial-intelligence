@@ -101,6 +101,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-microsoft-launches-new-azure-arc-machine-learning-and-container-services.md",
+      "title": "Microsoft launches new Azure Arc machine learning and container services",
+      "excerpt": "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "publishedDateTime": "2021-02-23T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon.md",
       "title": "SoundCommerce raises $15 million for big data insights that help retailers compete with Amazon",
       "excerpt": "SoundCommerce, a platform that unifies retailers' data from across multiple systems to deliver insights, has raised $15 million.",
@@ -252,6 +296,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-microsoft-ceo-harps-on-data-privacy-ai-ethics.md",
+      "title": "Microsoft CEO harps on data privacy, AI ethics",
+      "excerpt": "Microsoft CEO Satya Nadella on Tuesday underscored the need for tech firms to develop products that ensure privacy of data, are secure and conform to AI ethics as well as fundamental internet safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/news/cities/Hyderabad/4kp406/article33917323.ece/ALTERNATES/LANDSCAPE_615/hy23-nadella",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/",
+      "publishedDateTime": "2021-02-23T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-the-5-things-everyone-should-know-about-cloud-ai-according-to-a-sequoia-capital-partner.md",
       "title": "The 5 things everyone should know about cloud AI, according to a Sequoia Capital partner",
       "excerpt": "Sequoia Capital investor Konstantine Buhler discusses how the impact of artificial intelligence will unfold over the next decade in the cloud.",
@@ -301,58 +389,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-microsoft-is-adding-ai-powered-text-predictions-to-word.md",
-      "title": "Microsoft is adding AI-powered text predictions to Word",
-      "excerpt": "The features uses machine learning to make writing suggestions based on the text that a Microsoft Word user has already typed.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-5-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/",
-      "publishedDateTime": "2021-02-22T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -495,6 +531,40 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarketscom.md",
+      "title": "Global Application Release Automation Market (2021 to 2026) – Growth, Trends, COVID-19 Impact, and Forecasts – ResearchAndMarkets.com",
+      "excerpt": "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The application release automation market is expected to reach USD 4.47 billion by 2026 from the present estimate of USD 1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1356,102 +1426,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace.md",
-      "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
-      "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "originalUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20347810_G.png?lastEditedDate=1612776009000",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-klas-recognizes-microsofts-momentum-in-healthcare-ai.md",
-      "title": "KLAS recognizes Microsoft's momentum in healthcare AI",
-      "excerpt": "From improving clinical decision making to better managing the COVID-19 pandemic, the benefits of artificial intelligence (AI) applied to health and medicine are undeniable. 2021 is expected to be a year where health systems make unprecedented investments in AI to improve quality, reduce costs, and create",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
-      "originalUrl": "https://azure.microsoft.com/blog/klas-recognizes-microsofts-momentum-in-healthcare-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 501,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/311027c6-ed4e-4b3f-8fcc-6fa5bf01bce6.jpg",
-          "width": 1024,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T00:00:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

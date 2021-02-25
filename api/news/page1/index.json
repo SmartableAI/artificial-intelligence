@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026.md",
+      "title": "Artificial Intelligence Market Size, Share, Sales Volume and Revenue Growth Analysis Research Report 2026",
+      "excerpt": "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027.md",
       "title": "Artificial Intelligence (AI) in Retail Market Size to Record 29.7% CAGR During 2020-2027",
       "excerpt": "Selbyville, Delaware, Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report",
@@ -210,7 +263,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -249,7 +302,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1122,6 +1176,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-california-startup-targets-self-driving-car-market-with-package-of-sensors.md",
+      "title": "California startup targets self-driving car market with package of sensors",
+      "excerpt": "Neural Propulsion Systems, or NPS, on Wednesday released a product aimed at packaging all the sensors needed to guide a self-driving vehicle, a departure from most other players in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/nps-lidar-idUSL1N2KT3GD",
+      "originalUrl": "https://www.reuters.com/article/nps-lidar-idUSL1N2KT3GD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2KT3GD",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KT3GD",
+      "publishedDateTime": "2021-02-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal.md",
       "title": "Warehouse Robotics Provider Berkshire Grey to Go Public Through SPAC Deal",
       "excerpt": "Logistics automation provider Berkshire Grey Inc. is planning to go public through a merger with special-purpose acquisition company Revolution Acceleration Acquisition that would value the robotics company at $2.",
@@ -1170,108 +1267,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works.md",
-      "title": "Companies are using AI to hit business goals, even though they can't explain how it works",
-      "excerpt": "A new survey of tech decision makers finds that security concerns are high and trust is low when it comes to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
-      "originalUrl": "https://www.techrepublic.com/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
-      "publishedDateTime": "2021-02-24T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-heres-why-your-saas-startup-should-buy-not-build.md",
-      "title": "Here’s why your SaaS startup should buy, not build",
-      "excerpt": "Creating a great business is about figuring out what makes your business great, then executing that as well as you possibly can.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/",
-      "originalUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design10-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/amp/",
-      "publishedDateTime": "2021-02-24T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

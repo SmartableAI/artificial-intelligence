@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026.md",
+      "title": "Artificial Intelligence Market Size, Share, Sales Volume and Revenue Growth Analysis Research Report 2026",
+      "excerpt": "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-interested-in-ai-master-deep-learning-get-nlp-certified.md",
       "title": "Interested In AI? Master Deep Learning & Get NLP Certified",
       "excerpt": "The world of artificial intelligence (AI) is revolutionizing the way we live, though it has become something of an acronym soup. From DL to ML, SSD to CN",
@@ -284,6 +337,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-microsoft-launches-new-azure-arc-machine-learning-and-container-services.md",
+      "title": "Microsoft launches new Azure Arc machine learning and container services",
+      "excerpt": "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "publishedDateTime": "2021-02-23T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
       "title": "Proposed framework could reduce energy consumption of federated learning",
       "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
@@ -536,8 +633,8 @@
       "title": "Thomson Reuters to stress AI, machine learning in a post-pandemic world",
       "excerpt": "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=in",
+      "webUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M",
+      "originalUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
@@ -1353,101 +1450,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-electronic-nose-uses-machine-learning-to-mimic-a-dogs-sense-of-smell.md",
-      "title": "Electronic nose uses machine learning to mimic a dog's sense of smell",
-      "excerpt": "Inspired by the incredible olfactory senses of dogs, scientists have been developing and demonstrating different types of “electronic noses” that can sniff out things like cancer, nerve gases or even explosives.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
-      "originalUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/10bf896/2147483647/strip/true/crop/900x600+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F24%2F56%2F8ab2b48c494b93ec9038369e0d47%2Fmit-artificial-dog-nose-01-press.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/medical/electronic-nose-machine-learning-dogs-smell/?amp=true",
-      "publishedDateTime": "2021-02-17T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.md",
-      "title": "Machine learning model may guide treatment decisions for lung cancer patients",
-      "excerpt": "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "publishedDateTime": "2021-02-17T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

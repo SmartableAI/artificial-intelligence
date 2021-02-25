@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Screenshot-2020-03-16-at-12.02.50-796x450.png"

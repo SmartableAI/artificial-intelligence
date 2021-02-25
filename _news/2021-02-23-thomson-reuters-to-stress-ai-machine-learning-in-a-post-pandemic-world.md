@@ -3,8 +3,8 @@ category: news
 title: "Thomson Reuters to stress AI, machine learning in a post-pandemic world"
 excerpt: "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit."
 publishedDateTime: 2021-02-23T15:48:00Z
-originalUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=in"
+originalUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M"
+webUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AN12M"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 542
         isCached: true
 
-secured: "lKvEscnQJmt09iJhdhfz1yKiKwju4BTTTDoG4p5NeYkyZNrPmo0PJa6cJH2ScmP2QqW8eKDaqK6tsxFq4xDLOLLk7cz5m36MxKJ1eQYJsqjdjeKnr4oiCs3WJjdjn/P5lm996nEewzrUBDNNUBSQC7NJ0SKx4WExtHtX+4/U2reaxlYXB+b+APYcek9yhpyWFW8/vVYBsvUWnIAp0tpW7882D4ZeVt8ElqnpwhkQvKnOOi2tk5m16smUnoLJoXbIFNuqz1q8W3rHvxh/p9tdYHLUAMeTdUJx5NKnZEe+Yt8O2/tGOMfzbWHA3x0hzgc2LFVRbfOP9VRuwCtTlAhM2rbPHCsJ91HCGM7/mdsZHG/h5zOixuLWSAEkL3ay1jkgkH2KQdg54803mJIOcLXal0evi5FhTWKTKUbhIm6jxPhJ0GfiXjK9bRxeOXF3BGH4skmSGg9aR0MHb7L6gVku+jleQRtbcGF96g6kczDs6caCpFqX+eBOabeYoBzoYm+Nfsrm/fbYP4hhiBsaXPc8IA==;4qKO8ABz9qlYB3n0rqAqLw=="
+secured: "QM+KTHxuzLx4upj0WZZcts5BiUIOL7xKltR5V3Pe7anP/RU4DAl3MIL3gxhe+rz3jwghVfJhgVMq3aqglxE7H6odlDzzImn/1kFy7mHJcti2MpR4az244sqYtoctk+/n7Y1qW7wgSWdpvcwo9/17lgkvUtBZn+cqb9kCT7kMAihWLeFfD7b9WPO2FFj0a6WBAQNOrezivxJRnzVEs3GVWTzjI1+u+vfEvB1ITMw8uHxP9y8rx1iCJ7YagRg5qmPU4rQWcaSKmN9WFU5j1vTkmfOSt8iPHkD4bg07jasTQbAWUvWoD0pp1Y6YNcngKPXsSgV01EQGUTQztAOGqyhDLF0GlAxZcEvbmbh/tn5cQTA=;l4FIjkDsvPleGUje/Yynrw=="
 ---
 

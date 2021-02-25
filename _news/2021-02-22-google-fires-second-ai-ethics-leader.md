@@ -105,20 +105,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Tech Digest daily round up: Google fires head of AI ethics unit"
-    excerpt: "Share Google has fired the founder and co-head of its artificial intelligence ethics unit, claiming she violated the company’s code of conduct. In a statement, Google said an investigation found […]"
-    publishedDateTime: 2021-02-20T13:55:00Z
-    webUrl: "https://www.techdigest.tv/2021/02/tech-digest-daily-round-up-google-fires-head-of-ai-ethics-unit.html"
-    type: article
-    provider:
-      name: Tech Digest
-      domain: techdigest.tv
-    quality: 54
-    images:
-      - url: "https://i2.wp.com/www.techdigest.tv/wp-content/uploads/2019/10/Google-1024x576-1024x576-1024x576-1024x576.jpg?fit=1024%2C576&#038;ssl=1"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google fires second AI ethics researcher due to research disputes"
     excerpt: "Google recently fired the co-lead of the ethical AI team, Margaret Mitchell, due to a violation of the respective security policies as stated by the company. The previous AI ethics researcher Timnit Gebru faced the same dismissal on similar accusations."
     publishedDateTime: 2021-02-22T12:35:00Z

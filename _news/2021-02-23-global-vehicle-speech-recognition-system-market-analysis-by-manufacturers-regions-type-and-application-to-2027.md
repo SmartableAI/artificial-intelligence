@@ -29,29 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Neural Networks Market Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2020 - 2027"
-    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
-    publishedDateTime: 2021-02-22T13:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2020---2027-2021-02-22"
+  - title: "Emotion Detection and Recognition (EDR) Market Size to Cross $ 64.7 billion by 2027"
+    excerpt: "such as facial recognition, biosensing, speech and voice recognition, pattern recognition, and machine learning. Request a sample of this premium report at: https://www.marketstudyreport.com/request-a-sample/2942178/?utm_source=Marketwatch.com&utm_medium ..."
+    publishedDateTime: 2021-02-25T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-size-to-cross-647-billion-by-2027-2021-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Emotion Recognition and Analysis Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Emotion Recognition and Analysis Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that provides a detailed analysis of growth factors of the industry as well as gives an analysis of the market share,"
-    publishedDateTime: 2021-02-24T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-emotion-recognition-and-analysis-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-24"
+  - title: "Speech and Voice Recognition Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "Feb 25, 2021 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
+    publishedDateTime: 2021-02-25T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2021-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 24
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

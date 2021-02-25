@@ -36,6 +36,17 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 52
+  - title: "California startup targets self-driving car market with package of sensors"
+    excerpt: "Neural Propulsion Systems, or NPS, on Wednesday released a product aimed at packaging all the sensors needed to guide a self-driving vehicle, a departure from most other players in the field. The Pleasanton,"
+    publishedDateTime: 2021-02-25T06:17:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/California_startup_targets_selfdriving_car_market_with_package_of_sensors-TR20210224nL1N2KT3GDX1/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/TR20210224nL1N2KT3GDX1/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/TR20210224nL1N2KT3GDX1/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 22
 
 secured: "qZSJIJY3AAuk7Lza7EstPYM0cfo3vpdjq8QvI6c5p3ipwoI8Hn+a4i+0gKy0csH0x5TYYD+0Y3+MqL8i42nc8kNP1U8HiG4sV8xCe0xBfVSIJBhrM0Sz9eRAVVJOrNpYvJFvGPKRXVmibAlrEpMtp6U5kJB2bX2wwSDexXKfQ0ysAuk/ap8tD766X55Wh+KReppUTk/CVliU3CsD4/OoOGBvMNOTJPwgLXC5VTW5O+tRf1wUlI5SMUEoSjubR0y8wewUHmf713JeYWJOGpllTm7gia7Jq3lK50YTKbBGNWjHocCWcs0FXoD/gvkjUi5CknT7QgrV9iuCp7VnfHwJlA97U6uk5zgHe/07H+Qw5HA=;p5LEUlmqzYT8PfKtiEN7MA=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-is-there-a-more-environmentally-friendly-way-to-train-ai.md",
+      "title": "Is there a more environmentally friendly way to train AI?",
+      "excerpt": "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/robothand_flowerandbees-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "publishedDateTime": "2021-02-24T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-the-cambrian-ai-landscape-cerebras-systems.md",
       "title": "The Cambrian AI Landscape: Cerebras Systems",
       "excerpt": "The unique approach has gained the US DOE supercomputing centers' attention, first at Argonne National Labs, which has purchased at least one of the ~$2M systems.",
@@ -1380,49 +1432,6 @@
       "provider": {
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-monitoreal-provides-an-ai-smart-object-detection-appliance-to-deliver-advanced-analytics-and-real-time-alerts.md",
-      "title": "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts",
-      "excerpt": "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/safety-in-smart-cities-how-video-surveillance-keeps-security-front-and-centre-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/monitoreal-ai-smart-object-detection-appliance-co-1611327055-ga-co-1612444574-ga-npr.1612450229.html",
-      "publishedDateTime": "2021-02-04T21:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null

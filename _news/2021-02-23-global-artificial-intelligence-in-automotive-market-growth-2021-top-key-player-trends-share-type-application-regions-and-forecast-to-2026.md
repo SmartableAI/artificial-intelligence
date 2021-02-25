@@ -28,10 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2021-2027"
-    excerpt: "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b"
-    publishedDateTime: 2021-02-24T17:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2021-2027-2021-02-24"
+  - title: "Artificial Intelligence Market Size, Share, Sales Volume and Revenue Growth Analysis Research Report 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2021-02-25T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Industry Share and COVID-19 Impact Analysis"
+    excerpt: "The global “ Artificial Intelligence Market Size ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2021-02-23T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
+    excerpt: "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-02-24T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
     type: article
     provider:
       name: MarketWatch
@@ -42,31 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
-    excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
-    publishedDateTime: 2021-02-23T07:14:00Z
-    webUrl: "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/2/U223648370_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
-  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
-    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
-    publishedDateTime: 2021-02-23T14:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
+  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
+    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-02-23T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -86,20 +98,85 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
-    publishedDateTime: 2021-02-22T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+  - title: "Agriculture Robots Market Size, Global Analysis, Business Strategy, Sales Revenue, Future Prospects, Company Profile, Developments and Forecast 2026"
+    excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
+    publishedDateTime: 2021-02-23T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/agriculture-robots-market-size-global-analysis-business-strategy-sales-revenue-future-prospects-company-profile-developments-and-forecast-2026-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Device Market Growth, Business Strategies, Revenue Value, Comprehensive Analysis And Forecast By 2026"
+    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Face Recognition"
+    publishedDateTime: 2021-02-22T03:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-growth-business-strategies-revenue-value-comprehensive-analysis-and-forecast-by-2026-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-02-24T12:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Emotion Recognition and Analysis Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Emotion Recognition and Analysis Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that provides a detailed analysis of growth factors of the industry as well as gives an analysis of the market share,"
+    publishedDateTime: 2021-02-24T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-emotion-recognition-and-analysis-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2028, Fortune Business Insights"
+    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
+    publishedDateTime: 2021-02-25T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2028-fortune-business-insights-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report – ResearchAndMarkets.com"
+    excerpt: "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,"
+    publishedDateTime: 2021-02-23T14:21:00Z
+    webUrl: "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "FS6Uztz6Ua9+p15KRgRmlyrRGGAZesDBsAShQLJbv7tWpTc6inWaOPiyUJcfEnW3j8EuUkpU38nkDUblele9+snbP9R6WaADCH8Ql19SmiItZhgGsusq+HP2NilAlGfRqSIFYzlgTWwslkZ6iUri5Z8dPkRv+DO/PYsqTxesIZLFQMCx//6wySQ4AujvornM2zR5y+Bstmjay+bAgGRx3eYnSTBXfYV+KKVV3JuCxtvWvoRUcFyEjSCtElwcHcDxDC59Dbw+DICuQjZU7SCP6QLIV1g+Ia1ygsdWt8T8dcDtO6roZoNdeF75wLE97258QqDNWgmKjdqpkUpgp7hbTqPzbok8rtvKE1TFiCibiJo=;yRCfnM1hgpzbJ4OvrWAZmQ=="
 ---

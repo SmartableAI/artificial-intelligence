@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-08-machine-learning-could-aid-mental-health-diagnoses.md",
+      "title": "Machine learning could aid mental health diagnoses",
+      "excerpt": "A way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms has been developed by researchers at the University of Birmingham.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/27-machinelearn.jpg",
+          "width": 1920,
+          "height": 1238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-aid-mental-health.amp",
+      "publishedDateTime": "2021-02-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
+      "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
+      "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "originalUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T05:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-making-ai-real-a-2019-report-into-ai-machine-learning.md",
       "title": "Making Ai Real: A 2019 Report Into Ai & Machine Learning",
       "excerpt": "Making AI Real report surveys global business about real world AI usage. This report reveals how technologies such as machine learning and AI are being used in 2019. To achieve this we surveyed a panel of 2,",
@@ -1292,105 +1370,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-tech-talks-rise-in-machine-learning-artificial-intelligence-in-2021.md",
-      "title": "Tech talks: Rise in Machine Learning, Artificial Intelligence in 2021",
-      "excerpt": "Tech industry insiders are gearing up for a 2021 filled with Machine Learning and the even greater rise of Artificial Intelligence in all aspects of our daily lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/1/w600X390/Technology.JPG",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.amp",
-      "publishedDateTime": "2021-01-31T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
-      "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
-      "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60168f6c53f27a98a70bf662%2F0x0.png",
-          "width": 1000,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
-      "publishedDateTime": "2021-01-31T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI",
-        "IBM AI",
-        "Google AI"
       ]
     }
   ],

@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft launches new Azure Arc machine learning and container services"
+    excerpt: "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.Read"
+    publishedDateTime: 2021-02-24T06:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
   - title: "Microsoft is adding AI-powered text predictions to Word"
     excerpt: "The features uses machine learning to make writing suggestions based on the text that a Microsoft Word user has already typed."
     publishedDateTime: 2021-02-22T18:50:00Z
@@ -41,22 +52,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-5-796x417.png"
         width: 796
         height: 417
-        isCached: true
-  - title: "Microsoft CEO harps on data privacy, AI ethics"
-    excerpt: "Microsoft CEO Satya Nadella on Tuesday underscored the need for tech firms to develop products that ensure privacy of data, are secure and conform to AI ethics as well as fundamental internet safety."
-    publishedDateTime: 2021-02-23T18:28:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 91
-    images:
-      - url: "https://www.thehindu.com/news/cities/Hyderabad/4kp406/article33917323.ece/ALTERNATES/LANDSCAPE_615/hy23-nadella"
-        width: 615
-        height: 384
         isCached: true
   - title: "Microsoft Translator gains text support for 9 more languages"
     excerpt: "Microsoft recently announced support for nine additional languages for Microsoft Translator. The newly supported languages are spoken by over 170 million people around the world."
@@ -104,22 +99,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Microsoft Adds Optical Character Recognition Support for Afrikaans and Zulu"
-    excerpt: "Microsoft has added, in public preview, OCR support for two of South Africa’s official languages, Afrikaans and isiZulu."
-    publishedDateTime: 2021-02-23T09:21:00Z
-    webUrl: "https://www.techfinancials.co.za/2021/02/23/microsoft-adds-optical-character-recognition-support-for-afrikaans-and-zulu/"
-    ampWebUrl: "https://www.techfinancials.co.za/2021/02/23/microsoft-adds-optical-character-recognition-support-for-afrikaans-and-zulu/amp/"
-    cdnAmpWebUrl: "https://www-techfinancials-co-za.cdn.ampproject.org/c/s/www.techfinancials.co.za/2021/02/23/microsoft-adds-optical-character-recognition-support-for-afrikaans-and-zulu/amp/"
-    type: article
-    provider:
-      name: techfinancials
-      domain: techfinancials.co.za
-    quality: 57
-    images:
-      - url: "https://n9v2j5d8.rocketcdn.me/wp-content/uploads/2021/02/Microsoft-SA.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Microsoft Announces First Cloud for Healthcare Update"
     excerpt: "Microsoft made the announcement while rolling out three new cloud offerings for financial services, manufacturing companies, and nonprofits."
     publishedDateTime: 2021-02-24T15:30:00Z
@@ -134,6 +113,34 @@ related:
         width: 1920
         height: 843
         isCached: true
+  - title: "Vandis Brings Managed NAC to Microsoft Azure with Aruba ClearPass"
+    excerpt: "Vandis is pleased to expand their Microsoft Azure Marketplace Offerings with the addition of Managed Network Access Control (NAC) powered by Aruba ClearPass Policy Manager. As a recognized Managed Service Provider (MSP) in the Microsoft"
+    publishedDateTime: 2021-02-24T12:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19666470.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 54
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
+    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
+    publishedDateTime: 2021-02-22T15:05:00Z
+    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
+    type: article
+    provider:
+      name: Redmond Magazine
+      domain: redmondmag.com
+    quality: 49
+    images:
+      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
+        width: 647
+        height: 450
+        isCached: true
   - title: "Microsoft adds Armenian to Translator tool"
     excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
     publishedDateTime: 2021-02-24T07:26:00Z
@@ -147,20 +154,6 @@ related:
       - url: "https://media.pn.am/media/issue/290/573/photo/339x226_thumb_photo_290573_b50c2a3ce.jpg"
         width: 339
         height: 226
-        isCached: true
-  - title: "Microsoft warns on-prem customers to protect own identity infrastructure"
-    excerpt: "Microsoft is urging customers to embrace the cloud for security, warning customers with on-premises services that they are responsible for protecting their own identity infrastructure. The software giant strongly recommends that customers manage identity and access from the cloud,"
-    publishedDateTime: 2021-02-21T19:56:00Z
-    webUrl: "https://www.crn.com.au/news/microsoft-warns-on-prem-customers-to-protect-own-identity-infrastructure-561306"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 38
-    images:
-      - url: "https://i.nextmedia.com.au/News/20201216122139_crn-14_microsoft_iStock-1191485295.jpg"
-        width: 1400
-        height: 900
         isCached: true
   - title: "Microsoft Translator now offers text translation in nine additional languages"
     excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"
@@ -199,6 +192,29 @@ related:
         width: 1024
         height: 616
         isCached: true
+  - title: "Cohesity to Showcase Comprehensive and Critical Data Management for Microsoft 365 and Azure Users at Microsoft Ignite 2021"
+    excerpt: "Cohesity to Lead a Presentation on Data Protection Strategies for Azure and Microsoft 365 During the March 2-4 Virtual EventSAN JOSE, Calif.--(BUSINESS WIRE)--Cohesity today announced that it is a sponsor of this year’s Microsoft Ignite and will showcase its data protection capabilities for Microsoft 365 and Azure during Microsoft Ignite 2021,"
+    publishedDateTime: 2021-02-24T19:32:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=427498"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 28
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
+    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
+    publishedDateTime: 2021-02-23T13:07:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "3uyCmehPLENmTNpl8N/nSdwC75H22wqGHa3Ix7mUlm2mZSMJDXkeo60+M5xOdcxvBu3MIao/f7LLw8dPt3I50O9MBgUE2moVLVDXU9y/4OBUlJbCwZedcDLOjlHmJh3AagxGEc1J+muzWBwwqrRdidzZdvto9zn9RpUM9mLyToUwv3VlJuSci3db/n7sLV8AELE0Mgr5HU9PI1Nkl32plaLUx5hsXNuoE9eaNYwkmQqSPAvwViant09zcheDupNGEOP4FU95Ge8wol08DEBX7U8XglGsIWhz709E4+80BqPB9tZ2gkxswhqdRTBp5x7bn3hAAn2YYd7NxEJfjWpijM27Nco32JrzTJpV64WHPY4=;QloiQKuePsqz6nIW0Sai1A=="
 ---

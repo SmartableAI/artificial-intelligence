@@ -77,22 +77,6 @@ related:
         width: 1280
         height: 639
         isCached: true
-  - title: "IBM Rumored to Consider Selling Watson Health Unit"
-    excerpt: "The Wall Street Journal quoted sources as reporting that IBM, which is eager to switch to cloud services, is considering selling the Watson Health unit. The latter uses AI technology to enter the medical industry market."
-    publishedDateTime: 2021-02-20T14:55:00Z
-    webUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/"
-    ampWebUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/02/20170315_ibm_watson_health1.jpg"
-        width: 960
-        height: 420
-        isCached: true
   - title: "IBM's retreat from health business spotlights AI challenges in healthcare: 4 things to know"
     excerpt: "With IBM's recent exploration to sell off its health business unit IBM Watson Health, The Wall Street Journal highlighted several issues with AI in healthcare that can hinder tech companies' innovation efforts. Despite spending several billion dollars on ..."
     publishedDateTime: 2021-02-22T17:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
 quality: 104
-heat: 234
+heat: 224
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://images.wsj.net/im-302963/social"
         width: 1280
         height: 639
-        isCached: true
-  - title: "IBM Rumored to Consider Selling Watson Health Unit"
-    excerpt: "The Wall Street Journal quoted sources as reporting that IBM, which is eager to switch to cloud services, is considering selling the Watson Health unit. The latter uses AI technology to enter the medical industry market."
-    publishedDateTime: 2021-02-20T14:55:00Z
-    webUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/"
-    ampWebUrl: "https://www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/02/20/ibm-rumored-to-consider-selling-watson-health-unit/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2021/02/20170315_ibm_watson_health1.jpg"
-        width: 960
-        height: 420
         isCached: true
   - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
     excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."

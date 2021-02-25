@@ -1438,21 +1438,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker.md",
-      "title": "Training and deploying models using TensorFlow 2 with the Object Detection API on Amazon SageMaker",
-      "excerpt": "With the rapid growth of object detection techniques, several frameworks with packaged pre-trained models have been developed to provide users easy access to transfer learning. For example, GluonCV, Detectron2, and the TensorFlow Object Detection API are three popular computer vision frameworks with",
+      "path": "_news/2021-02-11-are-ai-investors-shorting-black-lives.md",
+      "title": "Are AI investors shorting Black lives?",
+      "excerpt": "So who’s fault is it? Setting aside intentionally malicious uses of AI software, such as facial recognition and crime prediction systems for law enforcement, we can assume the problem is with bias.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker/",
+      "webUrl": "https://thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/14/ML-1262-2.jpg",
-          "width": 500,
-          "height": 375,
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Screenshot-2020-03-16-at-12.02.50-796x450.png",
+          "width": 796,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1460,16 +1460,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T12:47:34-08:00",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/are-ai-investors-shorting-black-lives/amp/",
+      "publishedDateTime": "2021-02-10T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1486,9 +1486,7 @@
       ],
       "topics": [
         "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
+        "AWS AI"
       ]
     }
   ],

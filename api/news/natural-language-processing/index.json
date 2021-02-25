@@ -258,6 +258,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19.md",
+      "title": "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19",
+      "excerpt": "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health.md",
       "title": "Take A Look At How Artificial Intelligence Can Improve Your Pet’s Health",
       "excerpt": "Could artificial intelligence give us better insight into our pet's health? How can a data-driven approach help animals live healther, happier lives?",
@@ -578,8 +630,8 @@
       "title": "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver.",
       "excerpt": "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software.",
       "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
-      "originalUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "webUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "originalUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -598,11 +650,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T02:36:00-08:00",
+      "publishedDateTime": "2021-02-15T02:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -619,10 +671,10 @@
     {
       "path": "_news/2021-02-15-natural-language-processing-trends-that-impact-enterprises-in-2021.md",
       "title": "Natural Language Processing Trends That Impact Enterprises in 2021",
-      "excerpt": "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable.",
+      "excerpt": "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
+      "webUrl": "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021",
+      "originalUrl": "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1406,58 +1458,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
       "publishedDateTime": "2021-02-08T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world.md",
-      "title": "Video AI Could Be The Key To Unlock Communication In A Post-Pandemic World",
-      "excerpt": "It’s creating virtual work and learning environments that are even more engaging than the physical spaces we’re leaving behind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602136dd72642c82722d90d8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/amp/",
-      "publishedDateTime": "2021-02-08T08:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

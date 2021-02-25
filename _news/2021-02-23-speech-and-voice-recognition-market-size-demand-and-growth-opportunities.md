@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market Size, Share, Sales Volume and Revenue Growth Analysis Research Report 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2021-02-25T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Size, Industry Share and COVID-19 Impact Analysis"
     excerpt: "The global “ Artificial Intelligence Market Size ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2021-02-23T12:02:00Z
@@ -58,24 +72,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SCARA Industrial Robot Market Present And Upcoming Trends With COVID 19 Impact Study | Adept, Epson Robots"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global SCARA Industrial Robot market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.biz discloses a succinct analysis of the regional spectrum,"
-    publishedDateTime: 2021-02-23T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/scara-industrial-robot-market-present-and-upcoming-trends-with-covid-19-impact-study-adept-epson-robots-2021-02-23"
+  - title: "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic"
+    publishedDateTime: 2021-02-22T17:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
     type: article
     provider:
       name: MarketWatch
@@ -128,43 +128,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Platform Market 2020 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2025"
-    excerpt: "The latest report entitled Global Artificial Intelligence Platform Market 2020 by Company, Type and Application, Forecast to 2025 is an in-depth analysis of the global market on the basis of historic growth analysis and the current scenario of the industry."
-    publishedDateTime: 2021-02-24T01:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2025-2021-02-23"
+  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
+    publishedDateTime: 2021-02-22T17:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
-    excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-24T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-industry-size-business-opportunities-top-key-players-and-global-analysis-by-forecast-to-2027-2021-02-24"
+  - title: "Global Emotion Recognition and Analysis Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Emotion Recognition and Analysis Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that provides a detailed analysis of growth factors of the industry as well as gives an analysis of the market share,"
+    publishedDateTime: 2021-02-24T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-emotion-recognition-and-analysis-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 24
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI & Price Optimization Can Offset COVID-19’s Impact on B2B Supply Chains"
-    excerpt: "In this contributed article, Barrett Thompson, General Manager of Commercial Excellence at Zilliant, highlights that while 2020 has provided no shortage of supply chain challenges, adopting AI and price optimization can offset negative financial impacts."
-    publishedDateTime: 2021-02-24T14:02:00Z
-    webUrl: "https://insidebigdata.com/2021/02/24/how-ai-price-optimization-can-offset-covid-19s-impact-on-b2b-supply-chains/"
+  - title: "Image Recognition Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2028, Fortune Business Insights"
+    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
+    publishedDateTime: 2021-02-25T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2028-fortune-business-insights-2021-02-25"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report – ResearchAndMarkets.com"
+    excerpt: "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,"
+    publishedDateTime: 2021-02-23T14:21:00Z
+    webUrl: "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "ZBWB9yojwVB+ZNS4nS/ugG6sKSJlpwcIlR9XXEAQDPr7ykWX6fhb+nDS/ZljhQ+YU+ALic4VQvFTbQB7OxaHS9t2vt256kVZpIhVFwKPKpsonVRjBGxQrMOnJQO8m7dqz3o/HpiC4pQJX7BU/eKuodaW4EZ5oTcBRvzxvhb53Pl65js3E1ZM5/CUtEsyFb3qXlzIhwRuENoRPz7SpzjBtH1G7mCasfh3sTFNH4CLiL5cal+ExXVEFBQGZl46FbrcnnoikeHISs41P6zW3vWI4IR3i4FaX8YgdIScWiSk3aQO3BGqGaKCiH6EO0bQ+17h3/I06UOHfs45nZWrZyUWEHAh+53Muy2BNcCV0GdmbCs=;3qiTOn9MHaFhPd54rfKgqg=="
 ---

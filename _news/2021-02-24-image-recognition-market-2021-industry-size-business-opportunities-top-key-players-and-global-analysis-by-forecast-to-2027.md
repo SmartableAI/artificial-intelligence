@@ -29,24 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size, Industry Share and COVID-19 Impact Analysis"
-    excerpt: "The global “ Artificial Intelligence Market Size ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
-    excerpt: "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-24T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
+  - title: "Global Self Driving Truck Market Trends Analysis,Growth Strategies and Dynamic 2021-2027"
+    excerpt: "Global Self Driving Truck Market was valued at USD 1,002 million in 2019 which is expected to reach USD 1,679 million b"
+    publishedDateTime: 2021-02-24T17:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2021-2027-2021-02-24"
     type: article
     provider:
       name: MarketWatch
@@ -57,85 +43,45 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
-    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
+  - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
+    excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
+    publishedDateTime: 2021-02-23T07:14:00Z
+    webUrl: "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 59
+    images:
+      - url: "https://cdn.openpr.com/U/2/U223648370_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
+    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
+    publishedDateTime: 2021-02-23T14:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
+    publishedDateTime: 2021-02-22T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SCARA Industrial Robot Market Present And Upcoming Trends With COVID 19 Impact Study | Adept, Epson Robots"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global SCARA Industrial Robot market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.biz discloses a succinct analysis of the regional spectrum,"
-    publishedDateTime: 2021-02-23T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/scara-industrial-robot-market-present-and-upcoming-trends-with-covid-19-impact-study-adept-epson-robots-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Agriculture Robots Market Size, Global Analysis, Business Strategy, Sales Revenue, Future Prospects, Company Profile, Developments and Forecast 2026"
-    excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
-    publishedDateTime: 2021-02-23T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/agriculture-robots-market-size-global-analysis-business-strategy-sales-revenue-future-prospects-company-profile-developments-and-forecast-2026-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Device Market Growth, Business Strategies, Revenue Value, Comprehensive Analysis And Forecast By 2026"
-    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Face Recognition"
-    publishedDateTime: 2021-02-22T03:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-growth-business-strategies-revenue-value-comprehensive-analysis-and-forecast-by-2026-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
-    excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-02-24T12:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -155,15 +101,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How AI & Price Optimization Can Offset COVID-19’s Impact on B2B Supply Chains"
-    excerpt: "In this contributed article, Barrett Thompson, General Manager of Commercial Excellence at Zilliant, highlights that while 2020 has provided no shortage of supply chain challenges, adopting AI and price optimization can offset negative financial impacts."
-    publishedDateTime: 2021-02-24T14:02:00Z
-    webUrl: "https://insidebigdata.com/2021/02/24/how-ai-price-optimization-can-offset-covid-19s-impact-on-b2b-supply-chains/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
 
 secured: "78bemWN4YNkOJXgXEk67oOgFjOJpZk07hmx4819AZi7g8JH+nzwiZXOdhC+bGHbepg64H5nypHkkgFXd2UnnjG4Zu/eXiNVdPHQszulJlo9grwaCgD9GuPQP7Xmt99l2clBPw/+K5W/6FSQlUwc95GHQ2Y+K04kwgficDd+4X14MdCE/weBbfkkYO78TxDf0FQoqdVtAU3Ehxh8CrYDQTvM1/O0/2yunOyGug+QJpA00SoWbwrsJ3ai70GFAgeMw6uElqCl38K8NUW+DgGTy+0iyUfrq0XHRVZSuPDMhQ4+uqTOgl54ke7gdHo25Kpf6a7rN0MYt+XZ+ZQLPiKoTgquoqqqlagCB3TX/eKUGRHQ=;EI2NnrnKXiRFGXrdXrcJqA=="
 ---

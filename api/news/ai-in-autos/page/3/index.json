@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-04-this-is-crazy-tesla-recalls-100k-cars-stock-goes-up.md",
+      "title": "This Is Crazy: Tesla Recalls 100K+ Cars, Stock Goes Up!",
+      "excerpt": "Tesla will recall about 135k Model S and Model Y luxury vehicles due to some touch-screen related issues, making it one of the electric vehicle bellwether’s largest recalls to date. However, despite the news Tesla stock actually jumped by about 4% in Tuesday’s trading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f193cce4da8f6e9a2215488%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2021/02/04/this-is-crazy-tesla-recalls-100k-cars-stock-goes-up/amp/",
+      "publishedDateTime": "2021-02-04T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "Artificial Intelligence: 101 Things You Must Know Today About Our Future contains many timely topics related to AI, including: Self-driving cars, robots, chatbots, as well as how AI will impact ...",
@@ -1387,49 +1439,6 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-alibaba-backed-self-driving-startup-opens-its-robotaxi-service-to-the-chinese-public.md",
-      "title": "Alibaba-backed self-driving startup opens its robotaxi service to the Chinese public",
-      "excerpt": "AutoX became the third firm to receive a test permit in California to operate its autonomous vehicles without a human safety driver.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
-      "originalUrl": "https://www.techinasia.com/alibababacked-selfdriving-startup-autox-opens-robotaxi-general-public-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
