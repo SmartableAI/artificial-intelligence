@@ -125,6 +125,20 @@ related:
         width: 1280
         height: 1055
         isCached: true
+  - title: "Fintech Company Zoe Financial Celebrates 3 Years as a Leader in the Wealth Management Industry"
+    excerpt: "Zoe Financial today celebrates three years empowering consumers to find the best and most trustworthy financial advisors. \"The"
+    publishedDateTime: 2021-02-25T18:30:00Z
+    webUrl: "https://www.lelezard.com/en/news-19669934.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "++BaQpCgzgzhoRRAkJKPfanXKaWW8Tc9wzUanALGceML51ltC0WPMAyeh6ZqYSV5O9XThh+kblnJOd1mIym/S/yU5FfMnp9d8KL+MJ5iJEq/jfKgccIKG/1GFpamQFidhh0pW+WtL8OVy8xtIU5JocT/kOjExy0uo7H6VSPKcElkGv+4Q2ED/z0IqW0us9FoBno0oLLZCc/LgQSF23a1pX/b4e2T+xSlVcwTPYKVBzqYjQ3OmythItNT4/yOhey4zeK/LSPMqYLYD8jm28A0hNZ2HQJvrZwChgJABgCUAYtHZHno01QxbUE1ec/KYq5mGv4l37R0frjfnCorUA9nyDcjc18SJ8eSP/S69m4a43QFLN7tNLlZH7E0rIY134+9XTm08ITF/5jyJVosyXW3UHPIwwyvW5deCE8WL0CVaoC8gIGWVg4UnKkSj2lIG32CpOOc6RF++hurnFeJWKock3NwQg4oB6IeL5JoJmt2YOV+Jesa0dHTiM5E+u0iuj3XRnylhGnnulZtj58LZ8EZRQ==;cjZLK4sm6xugje0DoDLdDQ=="
 ---

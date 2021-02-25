@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
 type: article
 quality: 52
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud API Market Trends, Demand Forecast, Growth Opportunities, Sales Forecast, Challenges, Competitor Strategies, Statistics and COVID-19 Impact"
+    excerpt: "These tools are AutoML Natural Language, AutoML Translation, and AutoML Vision. AutoML Vision is a more specialized version of the Cloud Vision API. It has been designed for developers looking for ..."
+    publishedDateTime: 2021-02-22T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-api-market-trends-demand-forecast-growth-opportunities-sales-forecast-challenges-competitor-strategies-statistics-and-covid-19-impact-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

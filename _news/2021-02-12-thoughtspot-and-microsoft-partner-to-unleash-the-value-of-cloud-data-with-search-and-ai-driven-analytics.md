@@ -1,41 +1,20 @@
 ---
 category: news
 title: "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics"
-excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into th"
-publishedDateTime: 2021-02-11T19:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
-webUrl: "https://www.businesswire.com/news/home/20210211005146/en/ThoughtSpot-and-Microsoft-Partner-to-Unleash-the-Value-of-Cloud-Data-with-Search-and-AI-driven-Analytics"
+excerpt: "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,"
+publishedDateTime: 2021-02-12T11:15:00Z
+originalUrl: "https://www.financialbuzz.com/thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics/"
+webUrl: "https://www.financialbuzz.com/thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics/"
 type: article
-quality: 17
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "How Computers See Us: Microsoft Fellow Works to Fight Discrimination Through AI | CU Boulder today"
-    excerpt: "Morgan Klaus Scheuerman, a computer science PhD student, has been awarded the Microsoft Research Fellowship for 2021. He investigates how and why facial recognition technologies are wrong. Credit: Casey Cass / CU kei Growing up in a traditional working-class family in one of the most conservative counties in Maryland,"
-    publishedDateTime: 2021-02-16T06:18:00Z
-    webUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/"
-    ampWebUrl: "https://www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/how-computers-see-us-microsoft-fellow-works-to-fight-discrimination-through-ai-cu-boulder-today/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 62
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/How-Computers-See-Us-Microsoft-Fellow-Works-to-Fight-Discrimination.jpg"
-        width: 750
-        height: 539
-        isCached: true
-
-secured: "KZ6hcWW12SIla8lE/Va9KPeeU2K7nbR8RGs96/5pHHTCQD/ahf0Rms9kwxl50eg6m92j18DvcCCqovmLzgOKwt960M6LOGYHAsNnn1XuFf0rGAGjwsDoPdHa6ImuAYT6jiL3NfgJ7oZdpLBqUIk17CQTDgh3ZCOdVqWIs+Mep65LZiXbbYUQugYTKFFO2ldEVwiP/qTVFvHb38UT27sFrKZfEh2HtjrSzQKh+Fk1c9InKynRiQVdE+SfZtVKLHjPpLdWs9D19FPE2cEhESNgVoNJjXtuO71Mxb98OlhWDjCYvtVYpB3Nwl06nZ+VM8J/nLLW3lh8rK8CB1Zxr7SzFONCjNpEmlP7NtUrhawa8z4=;8KhqL3o6KBjAtZOVgOd+rg=="
+secured: "T6zUz7Y80IGwtupEfhhDnWVkb5JzGk9LJLYoXK1s457mFR+9WIwaAXG8Y70QdMq6VvVrDLXgyZ6DIe2b9lNvUf6Yod3LYi1lbG4BGziz7V+jkL5JzjW3EDiOilUUhHUnm+B05Ze+rqhPi5rqRPlusrBGDFJ8DkE4YKhuUdGKNiEVGRq97G7yt5kVjaeOOpkODQ13+jq2zLmaSiax/dne+a8UY59iMnLzFv3OaefTOFAJpQ7I4ZBou6ZdHqHpdfIyLnOtNsjlPKQWXSrujzV1vH8zgfgTnwF7ZKiAw/dD7Z9u5qd7Iq4LnJU5o8skQf/wG8JviQgB5qmbCfwonqtVYcGWESRmsJ3PSSzLAkf9Alw=;C3lVPJFRcqlf2g7criliRA=="
 ---
 

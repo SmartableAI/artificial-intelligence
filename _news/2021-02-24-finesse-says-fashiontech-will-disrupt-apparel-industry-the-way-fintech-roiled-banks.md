@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
 type: article
 quality: 52
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Fintech-industry-in-Israel-acquired-nearly-25-of-it-Technology.jpeg"
         width: 1280
         height: 1055
+        isCached: true
+  - title: "Fintech Company Zoe Financial Celebrates 3 Years as a Leader in the Wealth Management Industry"
+    excerpt: "Zoe Financial today celebrates three years empowering consumers to find the best and most trustworthy financial advisors. \"The"
+    publishedDateTime: 2021-02-25T18:30:00Z
+    webUrl: "https://www.lelezard.com/en/news-19669934.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 12
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "qfkOa0EH8DL120aAx6jRJOm5PR6v/Lc8d7mKDs6B+ABBgwrY+g8dad9Fb2bn/IZjXUYW3ReyS6QnWDIlTV5IQJ8EuC5tR0YKpLoDjhq9xWs8h6E6dwq8LDQrK0MPOc8XRafs6rhKsceFP+NqSnzv/AKD7IdsdbAWYghkvBbu4zNcojypWy2137MoAwa88Ed3UOCKhO3W9jj8eYUrZoehNkJaoWd+JDZkv9ReFZRmBk/5aKIvTZR8Bmi0X7T/0MvMqOIgprdiEspyAGyqqUhBnzHJ1pnFqJGHRpOTEcoUU9eFjObMQuf/SJ0INaoahFriwiFUApg0KckiRW3oZNtZ91PqEfA6LKVJsoufdb0emgdp2esvqrHn4fDKStkERRnOErw9wotU/8GWL+NUPnflI4qjYsyGtR66uGHi13KCH/2TwwNrmy9d5nwxlnrF2IkGoAYt7KU5Z8vMTVQUHU0DIhK23CIF5bWRKt1X0MdbmCDyAwajnHevrixiKh30f8fpNJP0uezITmmB/3LuQdrVXw==;iSpk1j+7doESr4je5Ub1ZQ=="

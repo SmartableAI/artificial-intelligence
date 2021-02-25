@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud API Market Trends, Demand Forecast, Growth Opportunities, Sales Forecast, Challenges, Competitor Strategies, Statistics and COVID-19 Impact"
+    excerpt: "These tools are AutoML Natural Language, AutoML Translation, and AutoML Vision. AutoML Vision is a more specialized version of the Cloud Vision API. It has been designed for developers looking for ..."
+    publishedDateTime: 2021-02-22T14:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-api-market-trends-demand-forecast-growth-opportunities-sales-forecast-challenges-competitor-strategies-statistics-and-covid-19-impact-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5weZpA40YObYqgIyfTw8FJqDfgSkf/0bnb+kHSUrOEPPcc1TuWBSTf3N4hlB/rvHu/23lEUKm3xuBXLyzcVmKxfrbYYUm+JopaveP83dlG/p+TUpmq/0c7jltoUVA4JMaW8HuzHx04SuxXqP5DvU9fi5hzYPXcK8VrF9rG0cv2BMIXtiMHglYibSW5yImG3fsbnX+gVChn44uqa5AopBpQ/+o8RnneziOgEDlT7o6q7jI1gGStUPcxOwWXp1+JDZ6dCmu3y4q/dNvlV3scji70XF1+PBXv4GeX6CU7NZ7jTt7S4z2nC/bKai7z+h3DFAlpG/lNHwhoEt3yi0aSYQn2AOGk06HLMKGVmsysDoPQM=;/fjKVt7cHC7HacdD4Vab8g=="
 ---

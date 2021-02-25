@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Getting Started With Designing Effective Conversational AI"
+    excerpt: "We asked experts for their advice on how to design effective conversational AI. \"Effective conversational AI starts with natural language processing and the magic of cognitive resources (primarily pattern recognition and analytics) and applies it to intent recognition,"
+    publishedDateTime: 2021-02-25T18:05:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/getting-started-with-designing-effective-conversational-ai/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/getting-started-with-designing-effective-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/getting-started-with-designing-effective-conversational-ai/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/21738f974837456395a7789dbc0bd6f3.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Refinitiv Selects ModuleQ's AI Platform to Gain a Competitive Information Edge for Customer-Facing Teams"
     excerpt: "secured within the customer's compliance perimeter on Microsoft Azure. \"As a trusted partner to our customers, our priority is equipping our people with timely, relevant insight to stay one step ahead of customers' changing needs. ModuleQ's real-time AI ..."
     publishedDateTime: 2021-02-23T17:49:00Z

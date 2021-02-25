@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Getting Started With Designing Effective Conversational AI"
+    excerpt: "We asked experts for their advice on how to design effective conversational AI. \"Effective conversational AI starts with natural language processing and the magic of cognitive resources (primarily pattern recognition and analytics) and applies it to intent recognition,"
+    publishedDateTime: 2021-02-25T18:05:00Z
+    webUrl: "https://www.cmswire.com/digital-experience/getting-started-with-designing-effective-conversational-ai/"
+    ampWebUrl: "https://www.cmswire.com/digital-experience/getting-started-with-designing-effective-conversational-ai/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-experience/getting-started-with-designing-effective-conversational-ai/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 59
+    images:
+      - url: "https://www.cmswire.com/-/media/21738f974837456395a7789dbc0bd6f3.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "eBoavHbRAxIF6V8ELoPhYGyk42OgyZ81UFq9NLlkoQm0GUylRAEuKdSmWZMDiz8tJzZ9c7sq/UTXVClLGwV8nqBDtVBv6R20GXmarv0xLwasRCl0i+R/lO2WA4rs15YB9/vACdOXKs+GbprozsP4Gpkz3L3xEArJYKwZTFlYfhsUNxMgx/vML9mkznON0MboCbJSsP0FEusZknyS1DCtXVQ4I+4LVM692Q4v+gxm5P3QxRS5sgDI9hZGlpmTzuLfuQFN8nhSqxbJdmFixKhzmwYcwQW6rPBFXnLs3xebCWfUCzF2dgtWLgoHBEKHkQP9kqqAUZbw8TVjfclBqBRr6pq5Beu0S3opARr6cl0sTaA=;BLhytM98nehv4a64a06cpw=="
 ---

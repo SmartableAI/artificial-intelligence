@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-b
 webUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-begins-driverless-tests-eyes-2023-launch/"
 type: article
 quality: 69
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -42,6 +42,36 @@ related:
       - url: "https://images.mktw.net/im-301724/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Driverless electric bus hits the road in Spanish city of Málaga"
+    excerpt: "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe"
+    publishedDateTime: 2021-02-25T18:41:00Z
+    webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Driverless Bus Hits Streets Of Malaga In Southern Spain"
+    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga's port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
+    publishedDateTime: 2021-02-25T17:15:00Z
+    webUrl: "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 54
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "AAA: most drivers prefer safety over self-driving cars"
     excerpt: "The American Automobile Association says vehicle safety is most important to consumers, not the development of self-driving cars. AAA surveyed more than 1,000 U.S. adults in"

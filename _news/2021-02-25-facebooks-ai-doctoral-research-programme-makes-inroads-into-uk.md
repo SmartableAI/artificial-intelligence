@@ -52,14 +52,19 @@ related:
         height: 512
         isCached: true
   - title: "Unity, Adobe, Snap, and Facebook Among 12 AR Companies Identified by ABI Research as Key Innovators"
-    excerpt: "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in bo"
+    excerpt: "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in"
     publishedDateTime: 2021-02-25T09:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448"
+    webUrl: "https://www.prnewswire.com/news-releases/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-301235262.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 10
+    images:
+      - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
+        width: 643
+        height: 337
+        isCached: true
 
 secured: "NhNZGUixBd/yE8UKDppGwu+rEZ3SS69pLstyq5sroJ1Ac2y/cSvR3sEGhzOf4YlE/m3LiKo8lYIUPeM3cpPWQTACDocMhaGbyT6PUAPk+cyrByyyOZJpMURoO7loVTBmlHN6qTVL7PmK2c8Uo/VD0SKJc6/w3s8m6bQa78kgNh2Pd+hLvXNGeCdWzIfGNofQi2OcIPU4bhqHh4Wrt0ceVibTGVyfodmLqu0YkssJp2o+w5nISxyfhOQYrYCaEWoXgZaPk9h6Ata1JtL+iGosK/iEy3OebiP08deIeTZ02LWZPNLw3zJbs4ic4KWQte/M0GGrze15fD5cT1GXxJvA263Yz7nevWin66NZEn8hFnIUD6T8XiVaz899MY1oMPKHlYzTsoXrBRZCi/p0/P5FBNOoAZAYD0FJxV7rV1tNRaNI2WIwUXVevUVNAreU2LHUtxFIywD4rtiUJknQHcCZS+PQ9Yx3OrMR2TfL3Xq1fL4DZwPoH4XGFrwHhb5rth6S7KC2Fr7PuTyoRvHgJWKQJA==;Hbo4EPhg5B+4FzEX8bgh5w=="
 ---

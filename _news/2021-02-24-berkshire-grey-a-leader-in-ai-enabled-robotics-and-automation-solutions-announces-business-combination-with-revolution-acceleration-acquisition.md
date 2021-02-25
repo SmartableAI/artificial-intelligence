@@ -2,17 +2,17 @@
 category: news
 title: "Berkshire Grey, a Leader in AI-Enabled Robotics and Automation Solutions, Announces Business Combination with Revolution Acceleration Acquisition Corp"
 excerpt: "Berkshire Grey (“BG” or the “Company”), a developer of integrated artificial intelligence (“AI\") and robotic solutions for e-commerce, retail replenishment, and logistics, has entered into a definitive agreement with Revolution Acceleration Acquisition Corp (Nasdaq: RAAC) (“RAAC”),"
-publishedDateTime: 2021-02-24T10:01:00Z
-originalUrl: "https://www.heraldstandard.com/business_ap/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c2829b65-608d-5587-bba6-3de45db39609.html"
-webUrl: "https://www.heraldstandard.com/business_ap/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c2829b65-608d-5587-bba6-3de45db39609.html"
+publishedDateTime: 2021-02-24T11:01:00Z
+originalUrl: "https://www.oaoa.com/news/business/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c59edfb5-a5c7-5d77-8b11-6cd38e258a99.html"
+webUrl: "https://www.oaoa.com/news/business/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c59edfb5-a5c7-5d77-8b11-6cd38e258a99.html"
 type: article
 quality: 31
 heat: -1
 published: false
 
 provider:
-  name: The Herald-Standard
-  domain: heraldstandard.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - AI Hardware
@@ -20,7 +20,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/assets/v3/editorial/7/df/7df5a3dc-bc2a-506d-8ceb-86c513c4b27b/6036358f87022.image.jpg?resize=960%2C541"
+  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/f/57/f57ca8c0-219b-5236-8173-4debcd232f82/603638bfb3dce.image.jpg?resize=960%2C541"
     width: 960
     height: 541
     isCached: true
@@ -80,6 +80,6 @@ related:
         height: 584
         isCached: true
 
-secured: "LEgG3CWkJOGKhuBMpI8o7YBKE0mPpKQGH4kit7rpJZaO/jTFz1INkyREN/ka7vmQB8HoxWzf1SUPQqufWYGBul1AlYMlAU+LrMnI85WbBrTNEuSnjxaKHBJSprpQE8LRQbwbQ0qjI+7ydek6UxRCbi7IVUe0qRZLy74+i6kbFMt7eeyQbYKf81Q3b7p5CSP/JpURWYsq3E/I651UCLQazZdxR5ys1PvT6qfdY9cZMH1+HJY8+8NbWdeN2SLktiLDq0SQVoVIfrM14ut0qZXAiZsoY/3X2cDsXT21fuBhPYMI5o0i688lLJb2Fr1wULs4E5jiz84k/v6XHHBr2gyrrS5fG2UrMiV+ST0leik+wtc=;+u+YDv1cyKZJ1Bz+QFXLAQ=="
+secured: "47v/od2QURDWTcFHQpFyaWbeskZ+JHPA7EvUH/2efrSjz9RUqMyFsnaO91uJx+t2MoGWAip4tfu8lpH5iS5P6yEaYWKeXohSKQKGGvcMaw0c3d2UcnQ1jJv8iBfClxaDg2wVT1ycujO/44qc871Boo2AqlSCrJi8Aj2MfwkVpr6TSqk8f/cJbNer/MYc9VETNbSBetckZfUiUN9I/Zp59y6bcnhkguw4Ih0LGrZv/+nqfOt5H60GmO9yE9N0IPCsfcDqao48lACCFXoqXzvCohzaFFscH+VcxsUadh6s4FyawBzo68oufw+V3T+G4uxhbthE3WTN8ijp4THykAKylHan484RUSRknFZWvIrbhZY=;jDfeYoS0hDHAAzieipvjKg=="
 ---
 

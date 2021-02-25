@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Quantifind Introduces Chinese Language Support for Truly Global Financial Crimes Investigations Automation"
-excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has added support for search and analysis of Chinese-language data sources to its Graphyte™ platform."
-publishedDateTime: 2021-02-23T17:47:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-criminal-investigations-corporate-news-products-and-services-law-and-order-16eac3cb613a1b9873a1ba4592462e8e"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-criminal-investigations-corporate-news-products-and-services-law-and-order-16eac3cb613a1b9873a1ba4592462e8e"
+excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has"
+publishedDateTime: 2021-02-23T16:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation/article_4b590db2-ee06-50e9-8b32-93854315ae83.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/quantifind-introduces-chinese-language-support-for-truly-global-financial-crimes-investigations-automation/article_4b590db2-ee06-50e9-8b32-93854315ae83.html"
 type: article
 quality: 6
 heat: 6
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/7/ae/7aed76b4-fdb8-5ee8-b82f-6dc6c4368b39/6036c022b41f3.image.jpg?resize=826%2C630"
+    width: 826
+    height: 630
     isCached: true
 
-secured: "aNZwHcS/7r49KAb1sog8R7C4ehwaZFWVurdmYjGPBpXTOjqPd8GTviZoANBWMwoXsXg3ESKT7/urwSUjWOLXbfBT1usT4dLoT7cBRN6ab6hIiTwoR9J6sN69X5HblVi0ptlfPjStlqJv4meD1pO2lT7s7yFAqkefGZRJWEiv9jzpm+AaaA8uRvBWpcgkcntN+eqrhyF9edYVtvnsACNfC9+tEtdfd3SOCrMBLvNYfOSSdC/Gs06vFAMQDH/v53y1qJkmIOSEDNuWw4ssrh7AB6KWTenP47xMKAOt1wrP5XkPLh3IfEp4WnV+xTcB9IBEgys8CcAvI1HFF2Po+/Ev91PQ1ZTQ89geOd+oNw5NwPU=;ppmfICi9EGy3cT5rPfMCpg=="
+secured: "uPrI4d439Vcyp8xA3JsebotwMqwmRjD188qbTr8db76GKS6exJQs7OshSBzotJCAICgriti0GM/2ItsyOMrWUv4UH7ftU33vCbwkdecm7/+yYVw6qZCwwAtYXpOPQFY+9LlODtOxID2a/PWWuG0PsgnHpDWWlherkrYAHOn3K6TSFGRdN8DOEGDu8xh7GB7ntdI6iUAFRhiM3DAZ5Hk9ggsgDn6Eyhkea+ed5kGXHjtC9WdHm+bPAqILkAMXbV90EjmoXZKqkcGMMJB+uf0jDCyR1MxyXdCv4C4Xgm/cFtp5DYGVMhPS45Oaahz3/x0telX8UGr2+AHSZyarVLC5vkEuHqYMlfJ3Dg8BLi6MPBw=;PiroCh3p+CSlpY8Nb7wjuw=="
 ---
 

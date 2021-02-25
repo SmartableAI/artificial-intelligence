@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 614
         isCached: true
+  - title: "January AI raises $8.8 million for AI that helps people manage their diabetes"
+    excerpt: "AI, a startup developing a platform that predicts diabetic patients’ responses to certain foods, today announced that it raised $8.8 million. Notable investors in the round included Salesforce CEO Marc Benioff,"
+    publishedDateTime: 2021-02-25T17:37:00Z
+    webUrl: "https://venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/"
+    ampWebUrl: "https://venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/January.ai-_Logo.jpg?w=1200&strip=all"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Israeli AI-Powered SaaS Platform FundGuard Raises $12M, Led By Team8"
     excerpt: "FundGuard has developed the first AI-powered SaaS platform that helps asset and fund managers administer investments across funds, pensions, and more."
     publishedDateTime: 2021-02-24T13:12:00Z

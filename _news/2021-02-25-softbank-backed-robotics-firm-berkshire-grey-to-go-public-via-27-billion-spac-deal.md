@@ -69,15 +69,15 @@ related:
         isCached: true
   - title: "Berkshire Grey, a Leader in AI-Enabled Robotics and Automation Solutions, Announces Business Combination with Revolution Acceleration Acquisition Corp"
     excerpt: "Berkshire Grey (“BG” or the “Company”), a developer of integrated artificial intelligence (“AI\") and robotic solutions for e-commerce, retail replenishment, and logistics, has entered into a definitive agreement with Revolution Acceleration Acquisition Corp (Nasdaq: RAAC) (“RAAC”),"
-    publishedDateTime: 2021-02-24T10:01:00Z
-    webUrl: "https://www.heraldstandard.com/business_ap/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c2829b65-608d-5587-bba6-3de45db39609.html"
+    publishedDateTime: 2021-02-24T11:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c59edfb5-a5c7-5d77-8b11-6cd38e258a99.html"
     type: article
     provider:
-      name: The Herald-Standard
-      domain: heraldstandard.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 31
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/assets/v3/editorial/7/df/7df5a3dc-bc2a-506d-8ceb-86c513c4b27b/6036358f87022.image.jpg?resize=960%2C541"
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/f/57/f57ca8c0-219b-5236-8173-4debcd232f82/603638bfb3dce.image.jpg?resize=960%2C541"
         width: 960
         height: 541
         isCached: true

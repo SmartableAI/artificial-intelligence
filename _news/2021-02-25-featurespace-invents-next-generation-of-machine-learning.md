@@ -7,7 +7,7 @@ originalUrl: "https://www.businessweekly.co.uk/news/hi-tech/featurespace-invents
 webUrl: "https://www.businessweekly.co.uk/news/hi-tech/featurespace-invents-next-generation-machine-learning"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems"
+    excerpt: "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud."
+    publishedDateTime: 2021-02-25T17:01:00Z
+    webUrl: "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/"
+    ampWebUrl: "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/anti-fraud-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Featurespace introduces Automated Deep Behavioral Networks"
     excerpt: "Featurespace introduces Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defence to protect consumers from scams, account takeover, card and payments fraud,"
     publishedDateTime: 2021-02-25T15:00:00Z

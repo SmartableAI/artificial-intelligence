@@ -41,20 +41,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "Using AI to Identify Mental Health Issues on Social Media"
-    excerpt: "Stevie Chancellor, a CS+X postdoctoral fellow at Northwestern, examined the promises and perils of social media platforms using artificial intelligence to prevent suicide."
-    publishedDateTime: 2021-02-25T15:39:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/artificial-intelligence/inside-our-program/stories/2021/using-ai-to-identify-mental-health-issues-on-social-media.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 39
-    images:
-      - url: "https://www.mccormick.northwestern.edu/artificial-intelligence/images/inside-our-program/using-ai-to-identify-mental-health-issues-on-social-media-1200.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Researchers develop way of using machine learning to aid mental health diagnoses"
     excerpt: "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research were published in the journal 'Schizophrenia Bulletin'."
     publishedDateTime: 2021-02-24T04:13:00Z
