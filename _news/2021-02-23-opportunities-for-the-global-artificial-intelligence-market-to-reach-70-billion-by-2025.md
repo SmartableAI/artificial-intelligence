@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19780757"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19780757"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Benzinga.com
@@ -43,6 +43,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cyber Situational Awareness Market Expected to Reach $153 Billion by 2027"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “ cyber situational awareness market by component, solution type, deployment type, organization size, industry verticals, and region: opportunity analysis and industry forecast,"
+    publishedDateTime: 2021-02-25T10:09:00Z
+    webUrl: "https://www.alliedmarketresearch.com/press-release/cyber-situational-awareness-market.html"
+    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    type: article
+    provider:
+      name: Market
+      domain: alliedmarketresearch.com
+    quality: 23
 
 secured: "B9nlTzi04ctGhDCaGwS3qUYTVgt0mD2ynrTZwmieMoc9JW/em7voA8PBOOj+iCcjYeNu88DyRYtcDKoD9iIg8skc2SR8CkHafhVSx/yE7O25IxTav/7ChDbP8icI8zb11a7IXl8nereb0rPfEhWXCC2AfUXhhsJYCmvnU8aLYRQUXzOUXif5dOeHkbE8huQvJr436oHrXfP6aJVWNXlujEnjvTndXMRlb1TYcJdAsx47CBTQk7Ql7a4YU6oqHgETjDzAQOUdyzMRx+5o5Oo5ZnrOc+WgIOrj0zo17+O9M7NKhM4NWcGwrWu7HiRAw+T37lKV6V+BfO9cZms9/3N+7W0GyYh6VqM+HAU7DYjcPWdNfaVxv2NVjewSKSnUUK9ShwXBIb+srtA9N7AxGMovLza5Vy9E64VVGvHq7taIuxhn7X2BFu/V8k0Xqu4gxKGKsGAKSfsSimqwXanh6gknt0WaGG9eezvEEaQbcV0ybRb/FukEev/Bx01705E4gs1NX5ZjfjqNVvhjVVmvoloQsA==;g4Rm3L+3/Zts0etyMAl6/g=="
 ---

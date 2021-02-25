@@ -25,58 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition: Sexual predator caught on CCTV"
-    excerpt: "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,"
-    publishedDateTime: 2021-02-20T17:23:00Z
-    webUrl: "https://www.bbc.com/news/av/uk-wales-56130226"
+  - title: "Teaneck just banned facial recognition technology for police. Here's why"
+    excerpt: "Teaneck banned the usage of facial recognition software following widespread criticism of the technology wrongfully targeting people of color."
+    publishedDateTime: 2021-02-25T09:53:00Z
+    webUrl: "https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/"
+    ampWebUrl: "https://amp.northjersey.com/amp/6802839002"
+    cdnAmpWebUrl: "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6802839002"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 69
+      name: NorthJersey.com
+      domain: northjersey.com
+    quality: 58
     images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg"
-        width: 400
-        height: 225
+      - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/11/13/USATODAY/usatsports/imageforentry20-mcf.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Facial recognition may help find US Capitol rioters, but at a cost"
-    excerpt: "As facial recognition is increasingly used by authorities to nab lawbreakers from criminals to US Capitol rioters, experts warn it could harm many others."
-    publishedDateTime: 2021-02-21T23:06:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/22/facial-recognition-may-help-find-us-capitol-rioters-but-at-a-cost"
+  - title: "Virginia lawmakers vote to tightly limit police use of facial-recognition technology"
+    excerpt: "The bill, which will ban apps like Clearview unless state lawmakers specifically give a police department permission, was sparked by a Virginian-Pilot investigation."
+    publishedDateTime: 2021-02-24T18:26:00Z
+    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html"
+    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html?outputType=amp"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
+      name: Virginian-Pilot
+      domain: pilotonline.com
+    quality: 37
     images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/21/1044988.jpg"
-        width: 1240
-        height: 824
+      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
+        width: 1200
+        height: 495
         isCached: true
-  - title: "Facial-recognition replaces need for passports at Dubai International"
-    excerpt: "Dubai International Airport (DXB) has installed new biometric technology designed to speed up the passport control experience for out-bound passengers opting to use the service. The General Directorate of Residency and Foreigners Affairs in Dubai’s (GDRFA-Dubai) new fast-track passport control service uses face and iris-recognition technologies."
-    publishedDateTime: 2021-02-23T06:10:00Z
-    webUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl"
-    ampWebUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
-    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
+  - title: "Snub-nosed monkey: Experts find primate target for facial recognition technology"
+    excerpt: "Facial recognition technology has been adapted to identify rare snub-nosed monkeys living in the wild in the central region of Qinling to help conservationists keep track of them.After analysing"
+    publishedDateTime: 2021-02-24T17:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/snub-nosed-monkey-experts-find-primate-target-for-facial-recognition-technology-mbx7tns09"
     type: article
     provider:
-      name: aviationbusinessme.com
-      domain: aviationbusinessme.com
-    quality: 39
-  - title: "Cuba's victory at the United Nations garners international recognition"
-    excerpt: "Cuba´s overwhelming victory at the UN General Assembly with the passing of the resolution demanding the end of the US blockade, has elicited international recognition."
-    publishedDateTime: 2021-02-23T21:43:00Z
-    webUrl: "https://www.radiohc.cu/en/noticias/nacionales/207028-cubas-victory-at-the-united-nations-garners-international-recognition"
-    type: article
-    provider:
-      name: Radio Havana Cuba
-      domain: radiohc.cu
-    quality: 24
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 34
     images:
-      - url: "https://www.radiohc.cu/articles/1533-victoria-cuba.png"
-        width: 790
-        height: 400
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7a18da04-76a8-11eb-9d58-b0b1ea096ce7.jpg?crop=4937%2C2777%2C134%2C306&resize=685"
+        width: 685
+        height: 385
         isCached: true
 
 secured: "kjC0I39thXntlwX/zwc0yCxiOGoe15+VnfSeqfPsKKodj9ml0ZgtmfXcDXMU0FdXQ2teor7NbOmI4vY+NeWSJevQAPnyWcK0kWAQKAVY/CW5EEAwd7oL2JgRQklSEHE37j38UPBQnOs74Hiv1C+uuCpCmYhan6nxmLueMZgHB1V7sj2lbFC+nTSpkZb1BR+O04/zeV9tVhnyAfX/uVdMxKRn9IxYcF92oXTETlcO8td8798cCkOSuDw+3E6/nSnriJaX7plaR4cqPlG76JgwBCIVt/8YooM6C3NkbVgL9HinGPu0MjlvD3LdgYdanguijzWgNNG57P1vO24aFgYpF6VzmRv1rPazb9ho25AZZWr+6C+7r3l2/1LYmXa23Juaq25JxkswaLF7Si7CWFgg6+wFKanHexvylyVt7H1p2bnIZlKq2tYRF32m1C7cIbNC+sPoiMrIosUw0qZpuWe16tKIhnED0FqdHgEzVpTthGIdTfwxd5REdANIniUW+dwfkZLNZ/UQqvG9wPNMQkdgLw==;iWH8dgz/GIopwh80yGy/cg=="

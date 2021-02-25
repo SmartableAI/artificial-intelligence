@@ -72,6 +72,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "How artificial intelligence is changing marketing"
+    excerpt: "Why marketers can no longer afford to ignore artificial intelligence (AI): Data-led article including insight from leading figures in marketing."
+    publishedDateTime: 2021-02-25T10:58:00Z
+    webUrl: "https://www.pressgazette.co.uk/ai-marketing/"
+    type: article
+    provider:
+      name: Press Gazette
+      domain: pressgazette.co.uk
+    quality: 54
+    images:
+      - url: "https://www.pressgazette.co.uk/wp-content/uploads/2021/02/marketinglead.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "AAAI 2021: Accelerating the impact of artificial intelligence"
     excerpt: "The purpose of the Association for the Advancement of Artificial Intelligence, according to its bylaws, is twofold. The first is to promote research in the area of AI, and the second is to promote the responsible use of these types of technology."
     publishedDateTime: 2021-02-25T00:43:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-24T08:03:00Z
 originalUrl: "https://www.sporttechie.com/fc-dallas-will-use-mtx-group-ai-to-identify-youth-talent"
 webUrl: "https://www.sporttechie.com/fc-dallas-will-use-mtx-group-ai-to-identify-youth-talent"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"

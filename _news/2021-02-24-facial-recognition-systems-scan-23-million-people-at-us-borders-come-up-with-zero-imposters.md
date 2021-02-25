@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition may help find US Capitol rioters, but at a cost"
+    excerpt: "As facial recognition is increasingly used by authorities to nab lawbreakers from criminals to US Capitol rioters, experts warn it could harm many others."
+    publishedDateTime: 2021-02-21T23:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/22/facial-recognition-may-help-find-us-capitol-rioters-but-at-a-cost"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/21/1044988.jpg"
+        width: 1240
+        height: 824
+        isCached: true
   - title: "SME owners can set up DBS account with facial recognition"
     excerpt: "Small and medium-sized enterprise (SME) owners now simply need to face a camera to authenticate and verify their information while setting up a corporate account online with DBS.. Read more at straitstimes."
     publishedDateTime: 2021-02-23T21:58:00Z

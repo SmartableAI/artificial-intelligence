@@ -24,22 +24,6 @@ images:
     height: 845
     isCached: true
 
-related:
-  - title: "Snub-nosed monkey: Experts find primate target for facial recognition technology"
-    excerpt: "Facial recognition technology has been adapted to identify rare snub-nosed monkeys living in the wild in the central region of Qinling to help conservationists keep track of them.After analysing"
-    publishedDateTime: 2021-02-24T17:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/snub-nosed-monkey-experts-find-primate-target-for-facial-recognition-technology-mbx7tns09"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 34
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F7a18da04-76a8-11eb-9d58-b0b1ea096ce7.jpg?crop=4937%2C2777%2C134%2C306&resize=685"
-        width: 685
-        height: 385
-        isCached: true
-
 secured: "K3/r4wgNtzfKM27IIc4p1JJXsyhKscFwCEX1rov28I3aYjTu3sN6ouZjs7uQfYz0nr575XcW7f33yMl5UPFo/OseO0hvFe+pEawGSzKpgjXitGXghmZbp6TCpnE1evZ+VQYbKY2hP9zRvTkBUqIDAxvDMs5V+3QzywJ2dENLVS49jjTxfJXvjE7WM9vXlHPN/wEJ6hFFXnDJbMeWGbpQt4RnRURuumVXNO7R04erJOX0hi8665Sjtvk7CJ9OZUAOfsXNvSnxkbv7x+64cwyGYE/sZblQG79hJCv0m+m79SMc+x7Gt8xMrqCnhiBYx8YWdU2FDdL61j///SARsNUkPPIDwbQIQBGmpVX/ZQMV1U+gPmGXf5dFKFUoxxTgAyc0G9bsnnpGVBeDVRWcZw7Dwz5y3lRUeMpPBm/UEN/zMqmkGS/zoV8OzFWlmItEXETV5XfhgAqtJhfwHtR4i56fxP6MRHhbNoG/1QBAVHk+SGKpBtPIgL8x1rlzJS+71HD2tiNF/tqUlM1FFD6+BkKBcQ==;gsodMtlgLvzQDw+30EhlJQ=="
 ---
 

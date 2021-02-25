@@ -68,6 +68,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Healthcare Meets Technology at Anthem"
+    excerpt: "On paper, the merging of artificial intelligence and healthcare should yield big results. Yet technology firms entering the market, like International Business Machines Corp. (IBM), have been stymied at every turn,"
+    publishedDateTime: 2021-02-25T10:11:00Z
+    webUrl: "https://www.moneyshow.com/articles/dailyguru-56124/"
+    type: article
+    provider:
+      name: MoneyShow.com
+      domain: moneyshow.com
+    quality: 39
+    images:
+      - url: "https://msgraphics.blob.core.windows.net/content/article-img/article-img/PPE_022221_2.png"
+        width: 820
+        height: 372
+        isCached: true
 
 secured: "vioPPNLgLBTdqLgee/KqmsKVpZpeWcL2u7vRU+Y9z/s4GvvY0+7ROud/9cIEAZ/MIHV5ZxRkYmiQgUF6UalFJgfVHCqBvaGfaRQwWjrBbU1DkuPgWTaKU2ayS/rejd3mPpummNXLMtCEeI8bpnW9hxwYECF83eredoAaaw7sbS5ZXTo2C2eMehuZcuT1MXIFVMXZmesRbmEQnSy7Jp2YG6u6w9b0ltmDlhBz6iw0MVWWyBpuQkVwdkJKXgR38leQ1Jnaz45QbMRoJrhDjJ5AyjOG9TftdkjqWG3+eUxXsB8zQxQvOhivFQ0hQqYPo1mXOBeI6yDXJsK5xa0DH+HkTpCW5L7aLi8MKZjeHZr5G8c=;0I0SHt/Z764uV2BX6OEFWw=="
 ---

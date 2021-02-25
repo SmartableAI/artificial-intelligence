@@ -142,14 +142,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
+  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report – ResearchAndMarkets.com"
+    excerpt: "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,"
     publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
+    webUrl: "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/"
     type: article
     provider:
-      name: Odessa American
-      domain: oaoa.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 0
 
 secured: "ZBWB9yojwVB+ZNS4nS/ugG6sKSJlpwcIlR9XXEAQDPr7ykWX6fhb+nDS/ZljhQ+YU+ALic4VQvFTbQB7OxaHS9t2vt256kVZpIhVFwKPKpsonVRjBGxQrMOnJQO8m7dqz3o/HpiC4pQJX7BU/eKuodaW4EZ5oTcBRvzxvhb53Pl65js3E1ZM5/CUtEsyFb3qXlzIhwRuENoRPz7SpzjBtH1G7mCasfh3sTFNH4CLiL5cal+ExXVEFBQGZl46FbrcnnoikeHISs41P6zW3vWI4IR3i4FaX8YgdIScWiSk3aQO3BGqGaKCiH6EO0bQ+17h3/I06UOHfs45nZWrZyUWEHAh+53Muy2BNcCV0GdmbCs=;3qiTOn9MHaFhPd54rfKgqg=="

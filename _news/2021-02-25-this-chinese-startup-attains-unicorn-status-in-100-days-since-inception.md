@@ -1,0 +1,58 @@
+---
+category: news
+title: "This Chinese startup attains unicorn status in 100 days since inception"
+excerpt: "The latest pre-series A round of the Chinese graphics processing creator was led by Sequoia Capital China, GGV Capital, and Shenzhen Capital Group."
+publishedDateTime: 2021-02-25T09:27:00Z
+originalUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception"
+webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: Techinasia
+  domain: techinasia.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "SAIC taps Chinese chip startup for self-driving cars"
+    excerpt: "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers."
+    publishedDateTime: 2021-02-23T08:13:00Z
+    webUrl: "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
+    ampWebUrl: "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 76
+    images:
+      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1"
+        width: 820
+        height: 461
+        isCached: true
+  - title: "Chinese researchers develop monkey facial recognition using AI technology"
+    excerpt: "Golden snub-nosed monkey \"Taitan\" (R) looks at its newborn at the Chimelong Safari Park in Guangzhou, Guangdong Province, April 30, 2019. The Chimelong Safari Park greeted a newborn golden snub-nosed monkey on Monday."
+    publishedDateTime: 2021-02-22T05:25:00Z
+    webUrl: "https://www.globaltimes.cn/page/202102/1216119.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 53
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-22/fdb22710-1561-41b5-984c-0b229b7fa845.jpeg"
+        width: 500
+        height: 300
+        isCached: true
+
+secured: "GVia9pBjZ9l8IWjvgSn6DUUqEhTX9oS5tW6EuA4uFDPSChKtlbM1j7Xe+r9Mv3lMvLLduFAIGnCLmbqRDEs7iNWRO5ZfnhSOwOFk2dYMvK8P+APNoZ5IpOXI9kgxCknMVSG1V90JI0k0Db/6fO2kFaxEdjdkS/puOlgiFxM0mz0c1Y4G7oWjSixdOaJp/AJan3iaK0WGiRx4gsHcgCMrw6N/yzZTKfnBX7zxDMi0caJ8T5dg8k3/VP3EHvMA5D0OiI97tRnk0LWY6LLplX6AKXtdlxjULAMSV9j7phcVSnY/YJSqqe27oVh5iHPsbLr2/0w5lt62AFumMDSSQWhfGWlzl6gO1+o3FYT6jZZoryUt2U4j8BUCogldA6kkgUW9JYXajUFhoe/K1Nqu5fJtnMeG6xpOhJ6fGR4aPj9BYC26CEISB6YJk02mntSMAmI+LyWeze3x1hOKLWiUStnC7PqPDea60nZ7hl0hRaBGMuiRyBSXv1vVbgskkjSFfHbnS4TvCgNUodwkPeZFOJcu6g==;8Xbg6M5v5KhTptzYDHbw0A=="
+---
+

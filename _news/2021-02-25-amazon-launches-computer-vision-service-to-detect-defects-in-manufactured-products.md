@@ -48,13 +48,13 @@ related:
         height: 600
         isCached: true
   - title: "AWS Announces General Availability of Amazon Lookout for Vision"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a"
-    publishedDateTime: 2021-02-25T02:29:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a new service that analyzes images using computer vision and sophisticated machine learning capabilities to spot product or process defects and anomalies in manufactured products."
+    publishedDateTime: 2021-02-25T10:09:00Z
+    webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Financial Buzz
+      domain: financialbuzz.com
     quality: 36
   - title: "Amazon’s Lookout for Vision spots defects and anomalies in visual representations"
     excerpt: "Amazon Lookout for Vision, a cloud service that uses machine learning to spot defects and anomalies in visual representation using computer vision. Designed with manufacturing companies in mind, the service can identify differences in images of objects at large scale,"

@@ -41,6 +41,15 @@ related:
         width: 820
         height: 461
         isCached: true
+  - title: "This Chinese startup attains unicorn status in 100 days since inception"
+    excerpt: "The latest pre-series A round of the Chinese graphics processing creator was led by Sequoia Capital China, GGV Capital, and Shenzhen Capital Group."
+    publishedDateTime: 2021-02-25T09:27:00Z
+    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 47
 
 secured: "I3qGiNXxozfbmz7NPrknOOsgRGr8x3KItZYE3Fc6GDltO6Qi37AfpugTZlGYIgLjvoxuz9fKOmw+np3Nj0n2wHUsFlD3xp8kb/qJEbQ9Brbv71JWO4CdoHSlp7ngpItV45UUAGmD6utiWA4t/92GcH5YKLoHkRfBBgtfKdCzaGWEo0mp8UdPx5ppr7rcXAypwNZ328DBoq7oy7apKEtoTIdJSPGtUVAW9fK/rNb0qhJ0MnWkqYT0K2qC0yB5Ja8A4LngpxmPPUKD0sGqhEhwyrRZm2ZV1uhDQZpR1U9PI4l8cpdP9vraeVep95fIQ0TSX0KiDocglfJtNpm2OTOxD8uSi8aPEIYWWu/SV+GZFdo=;V9qRDxj9mymtXy8qmm2CXQ=="
 ---

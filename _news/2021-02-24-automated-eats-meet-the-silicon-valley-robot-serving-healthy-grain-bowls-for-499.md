@@ -3,8 +3,8 @@ category: news
 title: "Automated eats: Meet the Silicon Valley robot serving healthy grain bowls for $4.99"
 excerpt: "Mezli, a local startup founded by current and former Stanford students, wants to use robotics to make cheap, convenient, high-quality food available to the masses."
 publishedDateTime: 2021-02-23T16:35:00Z
-originalUrl: "https://www.paloaltoonline.com/arts/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499"
-webUrl: "https://www.paloaltoonline.com/arts/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499"
+originalUrl: "https://www.paloaltoonline.com/news/show_story.php?id=57382"
+webUrl: "https://www.paloaltoonline.com/news/show_story.php?id=57382"
 type: article
 quality: 48
 heat: 48
@@ -24,6 +24,6 @@ images:
     height: 1948
     isCached: true
 
-secured: "02SVNR/IpCKSAm18eztHi5kT4mo4mcHaWv4tQMgKtBjVBhWjrXHj9KfX7e+YuIdhKSV2vXTGVG8E4aunt1AZw4WCqdVtX/JgZcj/Bk89YDJ89hPfCQZhw3IcPiSEGLK7RKkp3xOqmbYBoneHqm+UXiDyGOoXM80SowFi4RT6YVKKASw1yY55YFzb4jWVuxdk5nqC0DnASv1uy6UbLnsYXB716zFYGsPETgBiDxYCnqdvi9n3O++EC80UppKFiAIxsfsHrijdp4WRmfPddUzgvCkYUf0GHF8RtsDir/m3RgYzRKut27IjOS31MAPbtD96/oVQuW5FAZnwhIEoyhUs3tJKuvYJUJbjJB1uv7hwf4Q=;8DjJzCoDCnnLASAyanwVAw=="
+secured: "qYPLsoXoPM14wlu/furVQ9rPLXnH/FiJrnMSJhjIcfzTK/CW2oEIsiDtbz5u8yfsjo5GOUq4DFZQLNZDJDT2a3IBWLijXjLmOJbDQFIF0fYPbh55hqVfOr1ipzZJrltsoeIuxIhYSgYCTFn1/SiqvbWX0MCnn0wOabm4C0kgfH3eXXyBtX8KHRQcpcF155cct7ri3BN5jBu4OGrWEGQDhx9LI9mzG1XAbgWNDc6gWFPkekhAgVEmeitijwfhqvn7npmYK5YyZUzl9astFK7YRbbLAXia5kuxsG7JK+/V5fOTfJSjXT/aeosmQfc9opY/XW32Pq6aWN0klj2cswGPjrm3sOLmG4uPu18ESyWViz4=;Hsd1q49+OgIECYsEYLzOKw=="
 ---
 

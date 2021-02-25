@@ -1,23 +1,23 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Lookout for Vision"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a"
-publishedDateTime: 2021-02-25T02:29:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
-webUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a new service that analyzes images using computer vision and sophisticated machine learning capabilities to spot product or process defects and anomalies in manufactured products."
+publishedDateTime: 2021-02-25T10:09:00Z
+originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
+webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
 
 related:
   - title: "Amazon launches computer vision service to detect defects in manufactured products"
@@ -67,6 +67,6 @@ related:
         height: 235
         isCached: true
 
-secured: "Nw925MQMAvpTlEPfKeJQCZpbgJ/+muG8b7CzK51NMNuv2u122DrDvtlkJeTp3JIcNlLE/u0OHFlktYqH/rBltINfMWFYhj7UHI5Fvqhf/o7DhxeW35tXpzntCjNUCZluNyhN7Nxuh4ZdOULxG8UrHMoBPy18+tkmdQQrK0JzJ1HBvqYXysTuj2DuKt2BL+2HyXbZ73xcwYxUMqDVaPn36dKNSL4NN3zzPB1JOxygaeihUGPaJaumKWLFxOUZjHfNEuh8u84YCDPbXLvpqA8ehXZvmJQP0OiOtNo9tcuDYFojEUai0fZyXRcP3VB65GRTKU7KKfP66iqVrSFUCTi3wyr6VWsuf4/wxO9e6KW74fE=;ZpNFsLgIIPFswpJMZqE71Q=="
+secured: "Mr4f/3hI7y8JpXSXBPUsiJN4PzMLWUlKBpK1PfE2FdgOAvub+M0wSh+LDQhZAwiVNlPsIxqeBCqUPtdngn3OuZswI6rWrR3+gPQBd5yEEKBW1ezUiExj9vIyqOm6/S3q7JbO+xvaB3doZ6SpWKxN6fXauOzVsFzUIG3ASFi+Ar/sd0lBFj1O6UpqE9NAtv6YpwllPe9NGhh+mtw+/CTOb3dip74/xeVIobscsoN5QJC0XyVwmlhnI6vyI2U/rr9G3s1cOQN5bt82K5nOdSTDuqtSJLlkE8knZRiVaHuYrFZqVdejd/GPpZeRMxMovYRoc07J9XIuwaiZsKm4uGWSS+1HivIiVnAP6HAZ5tUYq3E=;Pb+8ALzT5jbduxYdP+dWmQ=="
 ---
 

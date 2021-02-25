@@ -31,7 +31,7 @@ related:
   - title: "Thomson Reuters to stress AI, machine learning in a post-pandemic world"
     excerpt: "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit."
     publishedDateTime: 2021-02-23T15:48:00Z
-    webUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M"
+    webUrl: "https://www.reuters.com/article/us-thomson-reuters-results-idUSKBN2AN12M"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AN12M"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M"
     type: article

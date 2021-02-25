@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Facial recognition may help find US Capitol rioters, but at a cost"
+    excerpt: "As facial recognition is increasingly used by authorities to nab lawbreakers from criminals to US Capitol rioters, experts warn it could harm many others."
+    publishedDateTime: 2021-02-21T23:06:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/22/facial-recognition-may-help-find-us-capitol-rioters-but-at-a-cost"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/21/1044988.jpg"
+        width: 1240
+        height: 824
+        isCached: true
 
 secured: "rFRhVAVyIKKG+E59qWS/ns3GIKcgMue0HqSwNsl8WhU+pTIOQN47QriWOihVMWcjCsMrA6hugBk59WKi/e4jM049FBcVUsyi84in9a4/C+5W+xDn/+S0yf3St4vz7OWmhNypUbUg1SMJp6GhdW4c5ASp7S5c2NF51vSozvXeD/+Udd/SmFNDY6D1yNSxBqKldREA4i42vHzN3hmMF0QkbEutoT0Vq6PcOPmsjTyT9/HGlbr9Q8Are1uC1SUdW/upVoycTkY+xLzODxvhx2WIYGtL66E9jnxV64KUf3TLEeEO8tYm6ouU8EHqU8UShZPHPAASvubif4USrIxJ8D/TGtynI4BvcJqo+outnGH1a8zzazIyjPwlYRV1s5qn+LR2J/lvUmyr7exxxvrv7GK6ShsGtGT73hbiDGbXKhD9VWQrOzfxIw8VGkj5W4U8do/C1ctGx6VBPQWg0L8gtsQbu7D/IWHvG3OoFxcquETPvVVj+meCAwGEVoSihgqYygSqnB6nFPZqaJXbGYLiJHwRiw==;h6VDLRSy7Wu8MPXmYjK6IQ=="
 ---

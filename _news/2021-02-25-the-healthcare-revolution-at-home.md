@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/doctor-laptop-computer-medical-health.jpg?resize=1000%2C600&#038;ssl=1"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Healthcare Meets Technology at Anthem"
+    excerpt: "On paper, the merging of artificial intelligence and healthcare should yield big results. Yet technology firms entering the market, like International Business Machines Corp. (IBM), have been stymied at every turn,"
+    publishedDateTime: 2021-02-25T10:11:00Z
+    webUrl: "https://www.moneyshow.com/articles/dailyguru-56124/"
+    type: article
+    provider:
+      name: MoneyShow.com
+      domain: moneyshow.com
+    quality: 39
+    images:
+      - url: "https://msgraphics.blob.core.windows.net/content/article-img/article-img/PPE_022221_2.png"
+        width: 820
+        height: 372
         isCached: true
 
 secured: "HEwLAMSvibP1gQFv39bRxOfrs4WzwImOjsfpPBFULrAlMftZ3S6jH/EmzVKPVsGN31iNe3yhP9KueGDMhoM+eSbCy1jY8Clv5FfYxG1yirve+NcQhLliTBC8/dDaMi1xGCmlW2bsdSgi9XSZfjnpaRPwtPGDqGc6jcvY4J59pgetcSgbqie7KP3PbsyvLIsDDYcv40b6lSs/wEPSEX5C+scEHNoGut0nHwD+wEbyt9CSpoNAP2EllNexhuq9lzDRdPz7zFn1hvxwOehAfr2QksggjNqrDa+tOPFdrfiKH/0PoHAMHxl2/01XVteNHewbFPJt8ERioW6nnYH5MaZ34q8joQwcwbd3mf/7lOBzur1dmIzcepV3Xieu3tWkUOLDz3lnQJR7MDdz4fSEC79GeJ9k+Hzoz2qTmMFn4cjWqlcAbZ880u6ewWwR6jhL/e4HwZ0lsZbiED7GZGvm3x9VZfWLKOkOxMRjIhZ5QN0bcRq7QXkKRztaJqircRxvPRrpLnNu7IBQiyFMypH9NA+Ykw==;F0wJMHRWkNP/wrLYjcrjAQ=="

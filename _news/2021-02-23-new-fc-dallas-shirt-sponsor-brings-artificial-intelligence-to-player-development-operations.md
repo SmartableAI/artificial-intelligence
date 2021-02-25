@@ -36,7 +36,7 @@ related:
     provider:
       name: SportTechie
       domain: sporttechie.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
         width: 1200

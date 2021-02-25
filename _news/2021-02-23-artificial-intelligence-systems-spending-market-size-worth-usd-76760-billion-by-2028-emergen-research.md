@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-size-worth-usd-76760-billion-by-2028-emergen-research-2021-02-22"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in manufacturing Market is estimated to reach USD 14.77 billion at a 47.09% CAGR during 2019-2024"
+    excerpt: "The take of global artificial intelligence (AI) in the manufacturing market 2020 recorded by Market Research Future"
+    publishedDateTime: 2021-02-25T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-is-estimated-to-reach-usd-1477-billion-at-a-4709-cagr-during-2019-2024-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "UWXPs8JWkBUHy655vOB+zp8iyrewM9IoWbzeGQFuSPDvrAZKHZvm0Prdr1zUiy/dcZI+EGxorHAs26ft5E1wmnxmX4ddrTbCUc0yDCNCddmxzDhQ5athlINtGCIlgJEx6s4iEtET4ev/ND3XCAIcRmD+FeF44Gw2pQKWeqDM+XWbUWKvypnoqSgf4dmu9m4GxMcnBuTTven1O1RWsC+wUutPu2oS4LAH+qduHfA/ScMEnU3HMPl2XwwvNhBdLRm8NOmE1+v0bF9qdcn/haZ0xxecmGqt57dRMBrWjX0pX8QRmMPiILZIIaAKW3zdd2niE8cB+d+smLmQz3jpySk0Xd7XnKaNnOpQu1WNO+4LE54=;zoqau4LIQpy8EzW8IHptBQ=="
 ---
