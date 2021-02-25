@@ -2,6 +2,154 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-01-26-copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai.md",
+      "title": "Copy.ai Revolutionizes Digital Marketing By Augmenting Human Creativity With AI",
+      "excerpt": "Chris Lu and Paul Yacoubian realize that artificial intelligence can augment human creativity, instead of replacing it as some may fear, creating Copy.ai to enhance digital marketers ad copy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600c6b551fa40d5a65663466%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D820%26cropY1%3D0%26cropY2%3D461",
+          "width": 820,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2021/01/25/copyai-revolutionizes-digital-marketing-by-augmenting-human-creativity-with-ai/amp/",
+      "publishedDateTime": "2021-01-25T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-computer-vision-technology-and-education-sector.md",
+      "title": "Computer Vision Technology and Education Sector",
+      "excerpt": "Computer vision technology could help with this problem as it allows educators to customize how students learn. It gives them a way to observe students and measure their engagement so as to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eteknix.com/computer-vision-technology-and-education-sector/",
+      "originalUrl": "https://www.eteknix.com/computer-vision-technology-and-education-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.eteknix.com/wp-content/uploads/2021/01/Screenshot_3.jpg",
+          "width": 928,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eTeknix",
+        "domain": "eteknix.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-robots-got-their-name-100-years-ago-today.md",
+      "title": "Robots got their name 100 years ago today",
+      "excerpt": "Exactly one hundred years ago, a play premiered that introduced a significant new word to the world – robot. When the first production of Karel Čapek's R.U.R. opened on January 25, 1921, at the National Theater in what is now the Czech Republic,",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/",
+      "originalUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/6f201af/2147483647/strip/true/crop/2966x1977+289+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F52%2Fde%2F024cf2c14067b3ce037597552261%2Fr5mk4h.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/rur-capek-play-word-robot-100-years/?amp=true",
+      "publishedDateTime": "2021-01-25T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-python-remains-most-popular-programming-language-to-learn.md",
       "title": "Python remains most popular programming language to learn",
       "excerpt": "Though Python may be tops, interest is also growing in other languages, including JavaScript, C, and C++, says O'Reilly.",
@@ -1044,151 +1192,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-ai-based-fever-detection-camera-market-2021-growth-segments-by-size-share-key-news-and-top-companies-overview-to-2027.md",
-      "title": "AI-Based Fever Detection Camera Market 2021 Growth, Segments, by Size, Share, Key News and Top Companies Overview to 2027",
-      "excerpt": "Jan 25, 2021 (The Expresswire) -- The global AI-based fever detection camera market is ... consultants use industry-leading research tools and techniques to compile comprehensive market studies ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/top-ai-based-tools-techniques-for-deepfake-detection/",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-2021-growth-segments-by-size-share-key-news-and-top-companies-overview-to-2027-2021-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/02/AIM_Banner.gif",
-          "width": 300,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-24T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-fake-news-is-rampant-here-is-how-artificial-intelligence-can-help.md",
-      "title": "Fake News Is Rampant, Here Is How Artificial Intelligence Can Help",
-      "excerpt": "As with so many of our modern problems, artificial intelligence is now on the job helping to fight false news. Logically is one company that uses artificial intelligence to provide fact-checking services for consumers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600e55afcd20ae16e22d2456%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2021/01/25/fake-news-is-rampant-here-is-how-artificial-intelligence-can-help/amp/",
-      "publishedDateTime": "2021-01-24T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-self-driving-cars-look-feel-is-clearer-through-final-us-safety-rules.md",
-      "title": "Self-Driving Cars' Look, Feel Is Clearer through Final U.S. Safety Rules",
-      "excerpt": "Most interesting, perhaps, is that there are new terms for the \"driver's seat\" and the \"steering wheel\" on self-driving vehicles. Automakers know exactly how safe their self-driving cars should be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a35247978/us-autonomous-car-safety-rules-finalized/",
-      "originalUrl": "https://www.caranddriver.com/news/a35247978/us-autonomous-car-safety-rules-finalized/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/smart-car-evaluating-the-road-with-sensors-and-royalty-free-image-1611416391.?crop=1xw:0.74948xh;center,top&resize=1200:*",
-          "width": 724,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp35247978/us-autonomous-car-safety-rules-finalized/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp35247978/us-autonomous-car-safety-rules-finalized/",
-      "publishedDateTime": "2021-01-24T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-et
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
 type: article
 quality: 104
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552410683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J00J"
         width: 817
         height: 545
-        isCached: true
-  - title: "Google fires AI manager who protested her peer's departure"
-    excerpt: "Google has fired a leader of its artificial intelligence ethics team in the fallout from the recent departure of another former employee involved in the same field."
-    publishedDateTime: 2021-02-20T16:53:00Z
-    webUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.html"
-    ampWebUrl: "https://techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-google-ai-protested-peer-departure.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/googlehasfir.jpg"
-        width: 1024
-        height: 681
         isCached: true
   - title: "Google fires second AI ethics leader"
     excerpt: "Google fired staff scientist Margaret Mitchell on Saturday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal. Google said in a statement Mitchell violated the company's code of conduct and security policies by moving electronic files outside the company."

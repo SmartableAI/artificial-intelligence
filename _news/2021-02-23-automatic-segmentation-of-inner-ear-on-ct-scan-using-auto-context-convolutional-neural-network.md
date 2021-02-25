@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 623
         isCached: true
-  - title: "Humans Drive Too Fast In The Rain And Are Making Life Darned Hard For Self-Driving Cars"
-    excerpt: "When it rains, human drivers get zany, and the question arises as to how self-driving cars can cope with both the rain and the antics of human drivers."
-    publishedDateTime: 2021-02-20T16:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/20/humans-drive-too-fast-in-the-rain-and-are-making-life-darned-hard-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 81
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602751e6c254164f50f2d2ae%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D35%26cropY2%3D4175"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "b0kCIC3jTzWOpPjwe92WqUv2seUQsPiaq/V70cxMi0TrE4ZyZjF5MzwjIReBy1VG4XhSMlMHgKrNnz6LZLjDjvwpApUz1MupSHbIQdFSscto8/T7LaGEFo4x3X+X6zAmeJL5gu3cADLnciMKJAKrYtli48gHC+kUCgHtYD3Q/lZ0kRzwpWokWngGWUgRMxl4todcTAmdnmk0rk/PtwMoQYfqEzzKIPtjmv4LJg1t38uIW6640mOWg97wLXYpbQBLo6xQc8GhFkAe100DxecshGBndUpulWB4Uu3ACtROIKhKHtUWvfzxu9npn9wWsOPfMd1FE/cDiyS2sT2wkMZOqwaUeXdyOLH8XdnEjKCLC08=;lfujkbnF9Q4PvJrj/Ak/Fw=="
 ---

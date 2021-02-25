@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-05-untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers.md",
+      "title": "Untether AI Partners with Colfax International to Provide Peak Performance in AI Edge Servers",
+      "excerpt": "Untether AI, the leader in at-memory computation and AI acceleration, today announced a partnership with Colfax International in which Untether’s tsunAImi TM accelerator cards, powered by the runAI TM devices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/",
+      "originalUrl": "https://www.financialbuzz.com/untether-ai-partners-with-colfax-international-to-provide-peak-performance-in-ai-edge-servers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-05T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-monitoreal-provides-an-ai-smart-object-detection-appliance-to-deliver-advanced-analytics-and-real-time-alerts.md",
       "title": "Monitoreal provides an AI-smart object detection appliance to deliver advanced analytics and real time alerts",
       "excerpt": "The use of AI-computer vision technology to improve situational awareness and provide highly accurate advanced object detection analytics, reducing false alerts and delivering real time",
@@ -1355,58 +1389,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-report-brexit-could-help-china-and-the-us-in-the-global-ai-race.md",
-      "title": "Report: Brexit could help China and the US in the global AI race",
-      "excerpt": "The study found that China is catching up with the US in the AI race, while the EU is slipping further behind.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T153915.019-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/report-brexit-could-help-china-and-the-us-in-the-global-ai-race/amp/",
-      "publishedDateTime": "2021-01-25T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

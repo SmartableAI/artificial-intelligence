@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-23-thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world.md",
+      "title": "Thomson Reuters to stress AI, machine learning in a post-pandemic world",
+      "excerpt": "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M",
+      "originalUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552588578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M0MG",
+          "width": 848,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AN12M",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M",
+      "publishedDateTime": "2021-02-23T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
+      "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
+      "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T07:13:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-from-the-data-and-ai-expert-labs-its-not-whether-you-adopt-ai-its-when.md",
       "title": "From the Data and AI Expert Labs: It’s not whether you adopt AI. It’s when.",
       "excerpt": "You wouldn’t be reading this if you didn’t have the sense that AI is the future. But the breadth of solutions can be so paralyzing that it stops business leaders cold. Firms like PricewaterhouseCoopers and McKinsey predict that the global AI economy will grow to $13-15 trillion by 2030. But today only",
@@ -400,7 +505,7 @@
       "originalUrl": "https://www.androidauthority.com/zte-second-generation-under-display-camera-1203259/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1100,110 +1205,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
       "publishedDateTime": "2021-02-22T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-bank-of-america-earns-most-patents-in-its-history-in-2020-with-a-focus-on-ai-and-security.md",
-      "title": "Bank of America earns most patents in its history in 2020 with a focus on AI and security",
-      "excerpt": "Bank of America was granted 444 patents in 2020—the concentration of its patent applications indicates a focus on use and protection of customer data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "originalUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f16471cf34d050dad0c5172?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-why-explainability-is-the-next-step-for-ai-in-manufacturing.md",
-      "title": "Why ‘Explainability’ Is The Next Step For AI In Manufacturing",
-      "excerpt": "Now that we’ve overcome the issue of whether AI is needed or not, the new pressing question is \"why\" AI makes its decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6011c98f32810780e7c9bdc6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
-      "publishedDateTime": "2021-02-22T05:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

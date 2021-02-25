@@ -2,6 +2,152 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-04-ai-in-retail-ocado-goes-bananas-for-robot-food-pickers.md",
+      "title": "AI in Retail - Ocado goes bananas for robot food pickers",
+      "excerpt": "Ocado Technology is training its robots to be more sensitive as pressures from the rise in online shopping grow, explains Isabel Richards, Head of UK Development Centers. (Isabel Richards) As I was chatting to Isabel Richards,",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
+      "originalUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-02/OcadoRobots.jpg",
+          "width": 1702,
+          "height": 1328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-retail-ocado-goes-bananas-robot-food-pickers?amp",
+      "publishedDateTime": "2021-02-04T02:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-clearview-ai-surveillance-ruled-illegal-in-canada.md",
+      "title": "Clearview AI Surveillance Ruled Illegal In Canada",
+      "excerpt": "The Canadian privacy watchdog has ruled that the use of Clearview's AI surveillance technology is illegal, and is demanding that it stop offering its services in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/",
+      "originalUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601bcd83af0c1ecebb845422%2F0x0.jpg",
+          "width": 1200,
+          "height": 1074,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawoollacott/2021/02/04/clearview-ai-surveillance-ruled-illegal-in-canada/amp/",
+      "publishedDateTime": "2021-02-04T02:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025.md",
+      "title": "Global Face Recognition Technology Market 2020 Highlights of Business Opportunities and Detailed Profiles of Top Industry Players 2025",
+      "excerpt": "MarketsandResearch.biz is aimed at offering market research study on Global Face Recognition Technology Market",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-technology-market-2020-highlights-of-business-opportunities-and-detailed-profiles-of-top-industry-players-2025-2021-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
       "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
       "excerpt": "Artificial Intelligence: 101 Things You Must Know Today About Our Future contains many timely topics related to AI, including: Self-driving cars, robots, chatbots, as well as how AI will impact ...",
@@ -1027,144 +1173,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces.md",
-      "title": "Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces",
-      "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. We’re excited to bring you two",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/Thumbnail.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T14:03:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-looking-for-self-driving-cars-the-driv-etf-has-you-covered.md",
-      "title": "Looking for Self-Driving Cars? The DRIV ETF Has You Covered",
-      "excerpt": "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03",
-      "originalUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp",
-      "publishedDateTime": "2021-02-03T13:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter.md",
-      "title": "AI detects 1,210 new potential gravitational lenses in the search for dark matter",
-      "excerpt": "Scientists used deep residual neural networks to search for the lenses in surveys of the sky. Their study could help unravel the mysteries of dark matter.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/40501331252_d8f39000a4_o-796x664.jpg",
-          "width": 796,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/amp/",
-      "publishedDateTime": "2021-02-03T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

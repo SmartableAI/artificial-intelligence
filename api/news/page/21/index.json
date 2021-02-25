@@ -2,6 +2,153 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-06-3-no-brainer-stocks-to-buy-in-artificial-intelligence.md",
+      "title": "3 No-Brainer Stocks to Buy in Artificial Intelligence",
+      "excerpt": "In fiction, artificial intelligence is often associated with intelligent androids or dystopian futures. But in reality, the AI market mainly revolves around crunching large amounts of data to make quick decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F611243%2Fgettyimages-664246660.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/05/3-no-brainer-stocks-buy-artificial-intelligence/",
+      "publishedDateTime": "2021-02-05T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy.md",
+      "title": "Using Artificial Intelligence to prevent harm caused by immunotherapy",
+      "excerpt": "Until recently, researchers and oncologists had placed these lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/02/05/1600x900/pexels-photo-2599244_1612540955952_1612540965595.jpeg",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html",
+      "publishedDateTime": "2021-02-05T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
+      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
+      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-295591/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "publishedDateTime": "2021-02-05T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-designing-and-evaluating-medical-deep-learning-systems.md",
       "title": "Designing and evaluating medical deep learning systems",
       "excerpt": "Deep learning facilitates utilization of large data sets through direct learning of correlations between raw input data and target output, providing systems that may use intricate structures in ...",
@@ -995,153 +1142,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-meet-robby-megabyte-bosnias-first-robot-rock-band-musician.md",
-      "title": "Meet Robby Megabyte, Bosnia's first robot rock band musician",
-      "excerpt": "Bosnia's most popular rock band, Dubioza Kolektiv, has a new recruit who sings and plays musical instruments - a humanoid robot called Robby Megabyte.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5",
-      "originalUrl": "https://www.reuters.com/article/us-bosnia-robot-idINKBN2A41U5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550324550&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1314G",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2A41U5",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A41U5",
-      "publishedDateTime": "2021-02-04T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-amazon-adding-ai-equipped-cameras-to-delivery-vans-to-monitor-safety-sparking-privacy-concerns.md",
-      "title": "Amazon adding AI-equipped cameras to delivery vans to monitor safety, sparking privacy concerns",
-      "excerpt": "Amazon delivery drivers keeping their eyes on the road could have Amazon keeping an eye on them according to reports that the company is planning to use AI-equipped cameras inside vehicles to",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
-      "originalUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/amazonvan-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-adding-ai-equipped-cameras-delivery-vans-monitor-safety-sparking-privacy-concerns/amp/",
-      "publishedDateTime": "2021-02-04T17:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-artificial-intelligence-yields-new-ways-to-combat-the-coronavirus.md",
-      "title": "Artificial intelligence yields new ways to combat the coronavirus",
-      "excerpt": "Countering COVID-19 mutations and designing updated vaccines could occur at lightning speeds thanks to a new AI framework. USC researchers have developed a new method to counter emergent mutations of the coronavirus and hasten vaccine development to stop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/02/210205085745.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/02/210205085745.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

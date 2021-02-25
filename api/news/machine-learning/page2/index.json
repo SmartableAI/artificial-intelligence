@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-18-global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning.md",
+      "title": "Global AI-based Drug Discovery Markets 2020-2030: Focus on Deep Learning and Machine Learning",
+      "excerpt": "The \"AI-based Drug Discovery Market: Focus on Deep Learning and Machine Learning, 2020-2030\" report has been added",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19721667",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19721667",
+      "publishedDateTime": "2021-02-18T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-electronic-nose-uses-machine-learning-to-mimic-a-dogs-sense-of-smell.md",
       "title": "Electronic nose uses machine learning to mimic a dog's sense of smell",
       "excerpt": "Inspired by the incredible olfactory senses of dogs, scientists have been developing and demonstrating different types of “electronic noses” that can sniff out things like cancer, nerve gases or even explosives.",
@@ -1420,50 +1455,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform.md",
-      "title": "Arize AI Partners with Spell to Bring ML Observability to the Spell Platform",
-      "excerpt": "Observability company, and Spell, a powerful ML Ops platform, announce a partnership giving Spell customers access to Arize AI's model observability capabilities. Spell users will be able to monitor,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "publishedDateTime": "2021-02-08T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

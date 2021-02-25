@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, Industry Share and COVID-19 Impact Analysis"
-    excerpt: "The global “ Artificial Intelligence Market Size ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-industry-share-and-covid-19-impact-analysis-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
     excerpt: "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-02-24T12:56:00Z
@@ -66,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2021-02-24T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
-    excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
-    publishedDateTime: 2021-02-24T12:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
     excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
     publishedDateTime: 2021-02-22T17:19:00Z
@@ -155,28 +141,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-02-25T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2028-fortune-business-insights-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report – ResearchAndMarkets.com"
-    excerpt: "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,"
+  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
+    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
     publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/"
+    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 0
 
 secured: "jLzkJeB72nS+n9Ylsqk746fLas4losUO55hlNanIj1NJvHmKggi/K2+oaMaBSY4EeHVbJM9abseCSnh4o14CkizkKDZBZFwU6Yk2LCD64zjPlfaI+tb5jMOKymxkEkaYkd5yLTea60ey2ZeesHQhMqtozZWyZSzuW+uLgXlQ7f8QyjLeWzd++7vQXolxg+ud2HH54QQTbGBkd8jeaY+HZfylDNCh7kAHVXS6PLn+8rd+jZGPfvqoruCebZ1m2QbfdLDXE0y267xE5HgYm/vLdJf3H3hJWaYvVN9a0V5Esn5PYsuP0RaWd7lMy+QEdMoTiYmv0iCnyiUB3SXLvJ19tXZN6f6kq3o7X2jaqHzkWvA=;8zqI3MBc6ksMMwAKBoZSVg=="

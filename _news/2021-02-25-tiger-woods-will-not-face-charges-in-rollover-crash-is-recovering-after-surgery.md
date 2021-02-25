@@ -41,6 +41,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tiger Woods won’t face charges after sheriff says car crash was an accident"
+    excerpt: "The rollover car crash that seriously injured Tiger Woods outside Los Angeles on Tuesday was an accident and investigators won't pursue any charges"
+    publishedDateTime: 2021-02-25T08:51:00Z
+    webUrl: "https://keyt.com/news/national-world/2021/02/24/tiger-woods-wont-face-charges-after-sheriff-says-car-crash-was-an-accident/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 22
+    images:
+      - url: "https://keyt.b-cdn.net/2021/02/LnV4mTj5-hypatia-h_f40f3958472f8f9c540fe7261b0d7ab2-h_353c4d42fb7c310fa400a5d7bb356dd9_preview.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "bYomIUC1/X2dZK2eMpFdS3lYw8WvbmokPhdwZopudkk9AW8FIqkCAkgFYYqYsn21M9yhqip6g5A6CckQRQ6dskk0NlD4C9qgWan7Td32ojoDja2+GG9WR9N1OqxYbq280ONsUgJdMEUidQZgLD36BCjxBdRkaxdJbQt+Q4RSIaKULkU21SuTrlyklKQg4AQSpV7kTJRFJ/dx9o1YzowslBpBOPp/dEZPFEp/VH6FYNezMHK4a743N8K3V2hmyZFb9FbUUvr/pQkL5+n7I2KV97EEN5iKBIRyvwOtdiKXk5mHHfJy/jCbnR5mimq1NBs6CddlMMg+rqUvlUVzs6eL7nloK67cMHqif8XXJevx+8M=;wddovIbtyuT5vqUBndyyTQ=="
 ---

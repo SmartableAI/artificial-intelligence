@@ -3,8 +3,8 @@ category: news
 title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
 excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."
 publishedDateTime: 2021-02-24T18:30:00Z
-originalUrl: "https://www.newswiretoday.com/news/174857/"
-webUrl: "https://www.newswiretoday.com/news/174857/"
+originalUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
+webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
 type: article
 quality: 36
 heat: -1
@@ -214,6 +214,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "LZ7FO55WyIqY/Xalr3wZFm9NDp0FLD6mEeGcJYaoS665NVP8k8V17hD09PM18hrUp4QuRGl1ntKMWRYztCCBbiIwqifyJtNOPXbt3AGiK7houasjtAL4Ps8sJRreAqBFnJcNK0Tl2TmCyYW4K1aLQou//F3rgVgbObF/x8pFjCrtSrZRCDaepHx7sUWSt0jbiO7QJB/5Ri8ib+h4CkVMw1ZRfXPwpFCLuao/L86eBYWF9VDKRRJ3wrU0DD908mc9h3gO2O9z7f3646Ia4PH9FiCOnVny6beVGNCdf8Tx34jW3Sl6fAuNVf6MHeLiDcMU3iWC1FXaVomFUVvRVuWqVSTMH7JHTMv/TYB3P6ehAApivCL5Sz+mep4fGjgLP2U8S6msVB2MADVjxiRG6JQ+YYo0G6f452B5xCuSApZSNGj2OYxfcsyj69jb399qOl8hSnwlBTKjwrin9VNfQpNhaF+Hr8gVSv2LQu934KUgIID8c4DvoKISaBLLbRpbSRqIkobzFS5zmC3JdAlvsGRevg==;5PHIVuSCU6URYExPUvCheQ=="
+secured: "WnFJMO0x3ls+Nw5ALRxIEzHFwesuUtlEFQH+I5Xhx36wn6pRx0xPbOgB3snS9k7VS9FGF3sJVaQp/8fe9JRTNv4Q/1cwXCwMJH4dmuGluX7H32qwz37Na3bN2oKqje7vXcZcap0SQytvejbyTn4X10aI3nbtPoHPYYzOaVrEdM/tqBwi1WSuxVOa5hX+ptG7Awy46TkN6/Z5qD2YpD25/T/KQgs1LiMMEfRhjodBeNucXxFQ0ZbfTSNZduAN50aj0RNGIYKGSH6cudg49tDCZrMfoYhChae47qyRP1M/Kg3g7Udxr2DscmmiISmhC0WLcHYkMIDYIvbo9gfB+blsWxxxRCUCgFTQcmFooXFUzr7EZmiGCZe16YqcWHodKdfMQK8W80zIxsNiG4loccbjAMt+GlcoPaLZtkMQTL4GmmdaqEJJDhnke3HXTICl0wt+Q021GJPDkdbE/eslAE40sz7zxi/WacbLAc3i6X4UmGklflAn9RpcRfdAUQGzk//LGbFfaulwEmEuEwWDW605SA==;/f4DYJNyN1oVWWj+6ixLRg=="
 ---
 

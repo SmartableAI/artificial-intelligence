@@ -2,6 +2,101 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-18-locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform.md",
+      "title": "Locus Robotics raises $150 million to scale its warehouse robotics platform",
+      "excerpt": "Locus Robotics, a startup developing warehouse automation technologies, has raised $150 million at a $1 billion post-money valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
+      "originalUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
+      "publishedDateTime": "2021-02-17T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-ftc-settles-facial-recognition-data-misuse-allegations-with-app-developer.md",
+      "title": "FTC Settles Facial Recognition Data Misuse Allegations with App Developer",
+      "excerpt": "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
+      "originalUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
+      "publishedDateTime": "2021-02-17T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-indigenous-knowledge-and-ai-help-protect-baby-turtles-from-predators-on-australias-remote-cape-york.md",
       "title": "Indigenous knowledge and AI help protect baby turtles from predators on Australia’s remote Cape York",
       "excerpt": "This prolonged isolation spells big trouble for the survival chances of some tiny residents on the western shores of Cape York Peninsula – endangered baby turtles. Unless teams of Indigenous rangers find and protect them first,",
@@ -1135,112 +1230,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-this-ai-reads-childrens-emotions-as-they-learn.md",
-      "title": "This AI reads children's emotions as they learn",
-      "excerpt": "A Hong Kong company has developed facial expression-reading AI that monitors students' emotions as they study. With many children currently learning from home, they say the technology could make the virtual classroom even better than the real thing.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215012844-emotion-recognition-ai-4-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "publishedDateTime": "2021-02-16T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

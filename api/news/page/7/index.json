@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-18-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
+      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
+      "excerpt": "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
+      "publishedDateTime": "2021-02-18T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-artificial-intelligence-can-bring-skynet-to-life-reality-or-myth.md",
+      "title": "Artificial intelligence can bring Skynet to life, reality or myth?",
+      "excerpt": "Is it possible that, like Skynet in the Terminator movie, the machines become aware of themselves and wage a war against humans to exterminate them? Should we fear artificial intelligence or is it just a myth?",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365683",
+      "originalUrl": "https://www.entrepreneur.com/article/365683",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613592356-skynet1.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365683",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365683",
+      "publishedDateTime": "2021-02-18T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-why-voice-will-lead-biometrics-in-hearables.md",
       "title": "Why Voice Will Lead Biometrics In Hearables",
       "excerpt": "In the rapidly growing Hearables market, however, the powerful integration of biometric sensors, and the multiple biomarkers that can be tracked via the ear for health and wellness, are taking a back seat to other market-driving feature sets.",
@@ -1095,101 +1191,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform.md",
-      "title": "Locus Robotics raises $150 million to scale its warehouse robotics platform",
-      "excerpt": "Locus Robotics, a startup developing warehouse automation technologies, has raised $150 million at a $1 billion post-money valuation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
-      "originalUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
-      "publishedDateTime": "2021-02-17T08:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ftc-settles-facial-recognition-data-misuse-allegations-with-app-developer.md",
-      "title": "FTC Settles Facial Recognition Data Misuse Allegations with App Developer",
-      "excerpt": "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
-      "originalUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/ftc-settles-facial-recognition-data-misuse-allegations-app-developer?amp",
-      "publishedDateTime": "2021-02-17T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
