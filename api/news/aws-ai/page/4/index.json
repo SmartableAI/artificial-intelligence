@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-19-want-to-dodge-ais-prying-eyes.md",
+      "title": "Want to dodge AI’s prying eyes?",
+      "excerpt": "Then we used a free version of Amazon Web Services’ facial recognition software, Rekognition, to compare the photos to a reference. The results provide striking insights into what today’s facial recognition technology is capable of: Different beards ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/",
+      "originalUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/03/janoschpanel-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/how-to-evade-ai-facial-recognition-surveillance/amp/",
+      "publishedDateTime": "2021-01-18T20:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-how-artificial-intelligence-will-power-amazon-into-2021.md",
       "title": "How Artificial Intelligence Will Power Amazon into 2021",
       "excerpt": "Stock Market News, Stock Advice & Trading Tips Going into 2021, it seems like a really bad idea to bet against Amazon",

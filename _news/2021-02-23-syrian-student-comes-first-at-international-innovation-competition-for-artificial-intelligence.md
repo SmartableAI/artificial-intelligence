@@ -7,7 +7,7 @@ originalUrl: "https://sana.sy/en/?p=223350"
 webUrl: "https://sana.sy/en/?p=223350"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
+    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
+    publishedDateTime: 2021-02-23T14:57:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
+    images:
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
+        isCached: true
 
 secured: "iZQGhRc6taUbtGFX233iA0cYw++ip60IBcuqG9OK0jUku45ESLLrTCgjWNjrCu6KAVYK3iLElhrR6a+CMnVaFfFkJVaBzUaiyKBoOcf6dPBohyC0fxOpuu5FLjfhi2H9AHyQlECRYOsHZewSEcfF6gWB9/7zMlYbtrYJjDp62ZZCla4jW6g4vtEYJeSISW4slIRDsOwzPOVGro5oqUs0fKlsXWwJ8b3iptpL2+TgUuPAYjiNDsW/B+gVef8QZX1eQeluWdZViVwhpOzDV6YIcbP/S7y05oLrywEdHXJEBqTR9QEw0rkCvOkuP8L9UZm2ACWJG99IzI46CrwrkoBsqrMu6SGuKOzxvT2ThnrOV+8y9YkXK6fnRiKYjgs/qqTPTq5XoDeuHkrHK2gXuvIEhgUCGZNLc6s7K6BHKBCKV1vZ7dWWWkCDGOaSqfRWEE54gw/U5mB/yJfm/yEGRMk/z50VScb3RUInD292CGCuevsm2tUL/FQubzQad8j4bQyuXNJ+FX5ToVc2kgmUEsFvFA==;tgDumL+GBC4D1AkErwE7/w=="
 ---

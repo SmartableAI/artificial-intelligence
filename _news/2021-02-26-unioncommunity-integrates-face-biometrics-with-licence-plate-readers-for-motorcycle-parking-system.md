@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202102/unioncommunity-integrates-f
 webUrl: "https://www.biometricupdate.com/202102/unioncommunity-integrates-face-biometrics-with-licence-plate-readers-for-motorcycle-parking-system"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 751
     height: 381
     isCached: true
+
+related:
+  - title: "UBio-X MPass Uses Facial Recognition and License Plate Reading to Secure Motorcycles"
+    excerpt: "UNIONCOMMUNITY has developed a motorcycle access and parking management system that uses biometric authentication"
+    publishedDateTime: 2021-02-25T22:46:00Z
+    webUrl: "https://mobileidworld.com/ubio-x-mpass-uses-facial-recognition-license-plate-reading-secure-motorcycles-72202101/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 32
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
+        isCached: true
 
 secured: "eNQDYLw4l8Vq90Ikhkyg7cgr80rRZeYvSQhXE1SDOxbPSWQVgavg1KFkqZOGWev8PWMm8N2eT3qkNdCTcqAyU9iGkXYOBY0NBCkxQ0la16GFNPI+w/B+lbEqHg42vKC/TiHREh24CBbHnnsVmjwaPS4pFG9f8oZVLjzz4DH2J4JPyb9IHkAPihgOEN2Tfamj2XmykaGGSTghLrK6hUfwYXqeQwXfJTsQB86kRvFeICgi/1j/Ei5tmSycdWyWNEGUZgN1g2FNAfNi0tC+FJEdp3anF/mlFuqr5Uii8jyTOyWhRlkBfP3mdrT3boMC5WuxVfstptP57nDaKTaJXr4clTCfaR5M1ezLETFu/5+gvhkoNy2U1E6haM6eOSK4UPGS374oRHYs0EshNTJUPysydU1VGdbUR74e3bpcdYAAizCeRMRyC1rqb7TKknuOqqnoUV1Im1ChIJFgCB1MeweNJ6iCDdsl4JjK2mKbUVWNoGVgEPbUlm11grwV3J6LVNRu8RvOOlm98x0C+c23Mt+r/A==;t5qugOoGJIb71aApmGwsvA=="
 ---

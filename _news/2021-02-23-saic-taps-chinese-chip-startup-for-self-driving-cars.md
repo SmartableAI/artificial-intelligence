@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-s
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
+  - title: "China guides its self-driving startups into the fast lane"
+    excerpt: "Baidu and AutoX are among the six California ... and help raise funds from international investors, Chinese self-driving companies are increasingly shifting their focus to their home turf."
+    publishedDateTime: 2021-02-25T21:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/Business-Spotlight/China-guides-its-self-driving-startups-into-the-fast-lane"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F2%252F4%252F9%252F32489429-7-eng-GB%252F20210219%2520Biz%2520Spot%2520-%2520China%2520autonomous%2520cars%2520img.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "85I/NQjI2GYtM6KZAqt6C7mfhHNsqWHQXvcmHkqyGNGXbC4R4/N+k7hDOwKd+MbU0HHMPMo9vn2SbAtFrobH7+mFNcBizE6V0sqUZUSwAwSiIPc4cLuSaXmobNKHMQEBd21Yzia3mf9ZhlmItZpRsFgL6ChX9oILv2WBRl7qUsMzWYdkqgmxYrc8mxX8HA4LkXp0fGhLNna1+LHvcNg0rRgXAb43pa2NHq37bW/bRT5GJD61Z3+f/RfBch1FXRXUmllfjP3vg3HNrn1HAFXPMaHSkyseXl9vU+0Nw0dmLCbuReS0/R6hYaU00jze62avwE1nmLUQscbvW5rhZuqEFhOepZQL+CHbbWRKRoIZ0xWQybsvAT6osPP1sqtTKiAiqMGowRaWTMsidcXFWoowl2txrk7xYsp2+yT8V172q+xY4Y8fiFOG7X0QMp3IY/bcPctfzEq07H5v/B6o+uQ7HzSeCo/N9MCQtzLqJUjiMzs/rbfgNv1ybep8CI7sftSBUxuXXqiGdsDyD6o3pa+ihg==;drcg5wr69ZBZ1SJ9FLZ9aw=="
 ---

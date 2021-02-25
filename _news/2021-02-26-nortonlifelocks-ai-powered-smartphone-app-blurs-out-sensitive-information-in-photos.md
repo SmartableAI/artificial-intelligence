@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "HkJFUriWQ7Xf2A4qAxNTKA1CG848T4FdorVL7ji5FHDfpHAy/DoX+nv8Kz3Za8/5lZt5bxTOfYDYTKjOHFhXri4pM3eQ63h7dthEOgm6HNo77Cc08N0qjyDfLFYJOiOU6i/hveNNZuiifYLJedRpsppJfUUC1b5JgfS8BjGXYBQqh8cH5dIYikLe156nPvP9e8+LcsUqvAvVHwnBJ1LZEuWurJIKUy4YVSZH4OxgsuWwSF4PH3kuT6b/hj28qssGiky4OJ1tiCvdD3OGJAOJpEP+yXKPE3Ype7696qV6RL/itzGuKOvp5W21t+eK8Zm2T6H4hPthepVxgaK16esuKfhUp+5XxV+/ERS4Ddioh24=;+rfzADRSQkwXv3/ArDGivA=="
+secured: "SNi/8dmtU44B+TQqRNskgBoYa8yNg//f2th9E25nIgUAvWuc0CirPLwWfNKXx0/aj7Qe8NHCa6PPS+Nh0qfoX/M3CWPym/PzQmFTJn/Vh0cSWvXRhk0Z6EQJlNiiRPoqRJXX+JyAcHNwODlGudB1L4aQwfo3PX7GxGxr87XoDdnVsmIJTKIXaJqV+joigrnBM08wQZGZh7gYa5Clg1EWU2xB61pVXvIzj44W1gsN98vvPwZEU6+3BHr3vjrTrwzWK+Ao0kp5lAdhQ6vdnXM7K9OKovcEW+njDKMghcJ/u/DF6xcR9WjTmVDFhLPlpMbh9DU7/dQGNOSNvXbB6zw7SD+PiHe4aBYUyS+QR+DMo1Nug5fIW+0T15p0d0h6N7AE8GDrHC/1lM330irTLjtgSLBx4AQBNXDrY+aJ33ujZql+AWa3BBNYiOmMPtjAw+4pQzEhNkUoDNMRt7dHa+ouqyp0Uu6tHVmQ6YODWD4ShUoZ+EJR8OGjlc+F++N50KkPksCiUpYux96GdKWnTrv58A==;3CWdAe9IupXluQumJLPdVQ=="
 ---
 

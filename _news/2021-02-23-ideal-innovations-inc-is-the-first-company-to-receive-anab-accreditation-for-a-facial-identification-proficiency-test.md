@@ -9,7 +9,7 @@ ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the
 cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -27,31 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Personal Information Protection Commission Tightens Personal Information Protection Utilizing New Artificial Intelligence Technology"
-    excerpt: "The Personal Information Protection Commission (PIPC) announced on Tuesday that it plans to set up and operate “AI (Artificial Intelligence) personal information infringement prevention support syste"
-    publishedDateTime: 2021-02-24T03:51:00Z
-    webUrl: "https://english.etnews.com/20210224200002"
-    ampWebUrl: "https://english.etnews.com/amp/20210224200002"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210224200002"
+  - title: "Syrian student comes first at international innovation competition for artificial intelligence"
+    excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
+    publishedDateTime: 2021-02-23T07:51:00Z
+    webUrl: "https://sana.sy/en/?p=223350"
     type: article
     provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 26
-    images:
-      - url: "https://img.etnews.com/news/article/2021/02/24/article_24124758024877.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Symphony AyasdiAI launches Sensa™, a pioneering solution for AML and financial crime detection to thwart money laundering activities"
-    excerpt: "Symphony AyasdiAI today announced the launch of Sensa™ a powerful new enterprise AI application to discover complex, hidden money laundering and financial crime activity at a fraction of the cost and operational burdens previously required."
-    publishedDateTime: 2021-02-23T13:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-business-financial-services-classical-music-0b40d70ddc42101e286893baa8e3a0a4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
+      name: S A N A
+      domain: sana.sy
+    quality: 5
 
 secured: "rFvjcEDkYWXPZM5w9muEw7qHivwfgpP8w/qO1FlKZlNdT+Bbs0cgwt4klGro0WWljqGWXOxe3SXOMZPioeU7WQbNd7sJvULNhXjOKQ8fSjjKFpo0rTFEc4iNsKpeky9cjJPDcTeYFxlDSzRWQSaUeZiHBJDP4acKAXE+bN8UuFy3kYm7PDpmELAM78V6+1Jyewkfcxn6y8WfrXOLOTWmagJi0cX9Yd998SyndiINZWp/eU4g3DbpRrMBDpfywNX1KbkHepZYPhKZgrAIwBk951Pj7p2s6QnB83brRGi+QVG6JOZ5esM51PHhR4beIRzskGFlAc3x62fkgRa8oqcLR5OcJ38HYx/nCeInTXmlA7w=;3M5eTep+K8IaeDHrawLKZQ=="
 ---

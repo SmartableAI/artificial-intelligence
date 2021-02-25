@@ -61,6 +61,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
+  - title: "China guides its self-driving startups into the fast lane"
+    excerpt: "Baidu and AutoX are among the six California ... and help raise funds from international investors, Chinese self-driving companies are increasingly shifting their focus to their home turf."
+    publishedDateTime: 2021-02-25T21:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/Business-Spotlight/China-guides-its-self-driving-startups-into-the-fast-lane"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F2%252F4%252F9%252F32489429-7-eng-GB%252F20210219%2520Biz%2520Spot%2520-%2520China%2520autonomous%2520cars%2520img.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "GVia9pBjZ9l8IWjvgSn6DUUqEhTX9oS5tW6EuA4uFDPSChKtlbM1j7Xe+r9Mv3lMvLLduFAIGnCLmbqRDEs7iNWRO5ZfnhSOwOFk2dYMvK8P+APNoZ5IpOXI9kgxCknMVSG1V90JI0k0Db/6fO2kFaxEdjdkS/puOlgiFxM0mz0c1Y4G7oWjSixdOaJp/AJan3iaK0WGiRx4gsHcgCMrw6N/yzZTKfnBX7zxDMi0caJ8T5dg8k3/VP3EHvMA5D0OiI97tRnk0LWY6LLplX6AKXtdlxjULAMSV9j7phcVSnY/YJSqqe27oVh5iHPsbLr2/0w5lt62AFumMDSSQWhfGWlzl6gO1+o3FYT6jZZoryUt2U4j8BUCogldA6kkgUW9JYXajUFhoe/K1Nqu5fJtnMeG6xpOhJ6fGR4aPj9BYC26CEISB6YJk02mntSMAmI+LyWeze3x1hOKLWiUStnC7PqPDea60nZ7hl0hRaBGMuiRyBSXv1vVbgskkjSFfHbnS4TvCgNUodwkPeZFOJcu6g==;8Xbg6M5v5KhTptzYDHbw0A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.designnews.com/sites/designnews.com/files/edge_0.jpg"
         width: 1540
         height: 800
+        isCached: true
+  - title: "A Global Pandemic and the Evolution of Artificial Intelligence"
+    excerpt: "While the global pandemic may have hindered many industries, it accelerated the development and application of artificial intelligence."
+    publishedDateTime: 2021-02-25T21:51:00Z
+    webUrl: "https://asiasociety.org/video/global-pandemic-and-evolution-artificial-intelligence"
+    type: article
+    provider:
+      name: Asia Society
+      domain: asiasociety.org
+    quality: 37
+    images:
+      - url: "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-02/210225-AGlobalPandemicandtheEvolutionofAI_THUMB.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "5XcxBb7p8METjdHMI6vQaMCIFClwIqEKZQe8KoZWLt88ZcY8xO4bCHZ18iwkdgCDzlAqJfHjcZY81kbMW3RqurUF5rwnprq2c1dcY9gBJ873BN113BUyB+KkDGQeBkF8inb8P9SmeQ0DV7YNwhSDTEmQMnWoWRb7qPwqsQEckVYCOe/sVvMdXmvUXnl1oGpaUgnUt+fCmf63HQmh3pch/ukqSUVBmP8PP5/tnhF5RtVGcB+gAQ5artSkwi9h6GX95NnKh77+dH4m4nDBSMDTMAzE3leSIt+jDt/q7IVZ3EEXP02lXnnakn8HEk529lZEJ+TRp1L666O8jWovP7c5yH/ds6E7Lj3QZZNs5lnrW4zzx3CbBmMLpP+TGyEwArg/Q5hrgb+QS5sVNfqUJF8+UeiW3Accrr1baa83VQiAYd5sPMoAdwvlkdx65WBI9R8YRQgfAembKUHx/hG42InCSsMb2D4llpVkKUexHRHum+y2DQ9n2PZXZDGxmpOfmK/vN/vNip7Nmn70A8K4xSo7Qw==;kF/FLHSm/SJLr3/PF17uDw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://english.etnews.com/amp/20210224200002"
 cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210224200002"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -26,31 +26,52 @@ images:
     isCached: true
 
 related:
-  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
-    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
-    publishedDateTime: 2021-02-23T14:57:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+  - title: "AI-Powered information operations and new citizenship"
+    excerpt: "Digital information is power, and today citizens have this new power at their fingertips, channeled through reactions, comments, shares, saves and searches on our everyday digital platforms. However,"
+    publishedDateTime: 2021-02-25T22:04:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 20
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-        width: 344
-        height: 344
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
-  - title: "Symphony AyasdiAI launches Sensa™, a pioneering solution for AML and financial crime detection to thwart money laundering activities"
-    excerpt: "Symphony AyasdiAI today announced the launch of Sensa™ a powerful new enterprise AI application to discover complex, hidden money laundering and financial crime activity at a fraction of the cost and operational burdens previously required."
-    publishedDateTime: 2021-02-23T13:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-business-financial-services-classical-music-0b40d70ddc42101e286893baa8e3a0a4"
+  - title: "Applications of Artificial Intelligence in COVID-19 ICU and ER situations"
+    excerpt: "The overwhelming increase in critically ill COVID-19 patients, who urgently require intensive care units (ICU) and emergency departments (ED), has challenged healthcare systems worldwide."
+    publishedDateTime: 2021-02-23T01:32:00Z
+    webUrl: "https://www.news-medical.net/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 58
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/2/shutterstock_1698736867.jpg"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "EQ Works Announces AI-Powered Data Marketing Solution for the Insurance Industry in Partnership With Opta Information Intelligence"
+    excerpt: "TORONTO, ON / ACCESSWIRE / February 25, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or “EQ”), a leader in geospatial location data and artificial intelligence is pleased to announce its partnership with Opta Information Intelligence (Opta),"
+    publishedDateTime: 2021-02-25T13:27:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-corporate-news-ontario-ae8797d77c0c66441f25988cf5d72662"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 0
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "Putqc6MMUxa2I05sKBM4UB7mcKaYDqFfuLzRGU9NzL7LL3SQQK/gj00538uh0RhmxoKQtG2QeaH6G7/DFOeiIzgbvJxHOE12WtPvSIurMle2YppBzraxSYn6GXSdtbBXbRLeiALPnUzZ860puBwS1rrFoIk/+IH2yZag5ScB2955R9l7WJaA+USfix04vm3JICrvdI08y+Iy6ZSGHdpitWkP5vZytkWkiVeU6TeKZShCzmlEGVODJlhGT1QzthKhkthGERllCEFozCBQUyGUOy3KKy/V2BRNcqvEJXXve0k8lPrTKiZMqtCynWUPzFsORLzdsFgRxIcOM05iNp3oQMpLW15oIZxM9PrNzbWMJUY=;9JLrtNNB+EAY5McPcfvwPQ=="
 ---

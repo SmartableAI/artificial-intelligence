@@ -2,6 +2,254 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-01-28-baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california.md",
+      "title": "Baidu is the sixth company approved to test fully driverless cars in California",
+      "excerpt": "Baidu has gotten the green light to test fully autonomous vehicles on public roads in California. While Baidu has had permission from California regulators to test autonomous vehicles with safety drivers since 2016,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+      "originalUrl": "https://www.msn.com/en-us/finance/other/baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california/ar-BB1d9fg2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg",
+          "width": 950,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+      "publishedDateTime": "2021-01-27T13:09:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+        "domain": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness.md",
+      "title": "New MIT brain research shows how AI could help us understand consciousness",
+      "excerpt": "A team of researchers from MIT and Massachusetts General Hospital recently published a study linking social awareness to individual neuronal activity. To the best of our knowledge, this is the first time evidence for the ‘theory of mind‘ has been identified at this scale.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/braincomputer-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/27/new-mit-brain-research-shows-how-ai-could-help-us-understand-consciousness/amp/",
+      "publishedDateTime": "2021-01-27T12:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-china-growing-use-of-emotion-recognition-tech-raises-rights-concerns.md",
+      "title": "China growing use of emotion recognition tech raises rights concerns",
+      "excerpt": "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
+      "originalUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2K2500",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500",
+      "publishedDateTime": "2021-01-27T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-these-doctors-are-using-ai-to-screen-for-breast-cancer.md",
+      "title": "These Doctors Are Using AI to Screen for Breast Cancer",
+      "excerpt": "“That’s 100 cancers that we haven’t diagnosed,” she says. Lehman says the AI approach has helped identify a number of women who, when persuaded to come in for routine screening, turn out to have early signs of cancer. The women flagged by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/",
+      "originalUrl": "https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6010c0d5cca15af79ead7926/master/pass/Business-MIT-Mirai.jpg",
+          "width": 2400,
+          "height": 1573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/doctors-using-ai-screen-breast-cancer/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/doctors-using-ai-screen-breast-cancer/amp",
+      "publishedDateTime": "2021-01-27T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups.md",
+      "title": "MIT CSAIL claims its breast cancer prediction AI works equally well across demographic groups",
+      "excerpt": "Researchers at MIT CSAIL developed a breast cancer risk prediction algorithm that works equally well across patient groups.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
+      "originalUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/mit-csail-claims-its-breast-cancer-prediction-ai-works-equally-well-across-demographic-groups/amp/",
+      "publishedDateTime": "2021-01-27T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-silicon-labs-and-edge-impulse-partner-to-accelerate-machine-learning-applications.md",
       "title": "Silicon Labs and Edge Impulse Partner to Accelerate Machine Learning Applications",
       "excerpt": "Silicon Labs (NASDAQ: SLAB), a leading provider of silicon, software and solutions for a smarter, more connected world, and Edge Impulse, a leading development platform for machine learning on edge devices,",
@@ -959,258 +1207,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses.md",
-      "title": "Starship raises $17 million to send autonomous delivery robots to new campuses",
-      "excerpt": "Starship Technologies, a startup developing driverless delivery robots, this morning announced ... Yandex, Refraction AI, Dispatch, and Robby. Just this month, Amazon rolled its Scout robots ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/",
-      "originalUrl": "https://venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/DSC6480-crop.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/amp/",
-      "publishedDateTime": "2021-01-27T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million.md",
-      "title": "Lynk, a “knowledge-as-a-service” platform with more than 840,000 experts, raises $24 million",
-      "excerpt": "Lynk, a “knowledge-as-a-service” platform that connects clients with over 840,000 experts in a wide range of fields, announced today it has raised $24 million led by Brewer Lane Ventures and MassMutual Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/",
-      "originalUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Peggy-Choi_Image-4.jpg",
-          "width": 2982,
-          "height": 1989,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/amp/",
-      "publishedDateTime": "2021-01-27T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation.md",
-      "title": "The Inner Game Of AI (And How To Not Make The Same Mistakes You Made With Digital Transformation)",
-      "excerpt": "Implementing AI is a daunting challenge. It requires orchestrating seismic and complex change, retraining existing talent and acquiring new expertise. Learn how to not get it wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
-      "originalUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010935ebcc42bb3e75a9c62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D640%26cropY1%3D10%26cropY2%3D490",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
-      "publishedDateTime": "2021-01-27T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
-      "title": "AI Ethics Really Come Down To Security",
-      "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
-      "publishedDateTime": "2021-01-27T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-yati-ernie-machine-learning-in-yandex-and-baidu.md",
-      "title": "YATI & ERNIE: Machine Learning in Yandex and Baidu",
-      "excerpt": "Google isn't the only search engine making strides in machine learning. See how Yandex and Baidu have advanced search with YATI and ERNIE, as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
-      "originalUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2021/01/machine-learning-for-yandex-and-baidu-60104ca449da0.png",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/yati-ernie-machine-learning-yandex-baidu/392982/amp/",
-      "publishedDateTime": "2021-01-27T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

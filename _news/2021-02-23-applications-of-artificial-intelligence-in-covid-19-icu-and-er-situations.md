@@ -27,91 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "T-Cell Screening Launched to Detect Prior Covid Infections"
-    excerpt: "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n"
-    publishedDateTime: 2021-02-23T20:56:07Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections"
+  - title: "AI-Powered information operations and new citizenship"
+    excerpt: "Digital information is power, and today citizens have this new power at their fingertips, channeled through reactions, comments, shares, saves and searches on our everyday digital platforms. However,"
+    publishedDateTime: 2021-02-25T22:04:00Z
+    webUrl: "https://thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg"
-        width: 1200
-        height: 788
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg"
+        width: 796
+        height: 417
         isCached: true
-  - title: "The World Is Going To Hire Robots After Covid-19"
-    excerpt: "After we come out of this pandemic, we could see a lot of jobs replaced by robots. Machines have always been predicted to take over the workplace way before the global pandemic. Oxford Economics predicted that by 2030,"
-    publishedDateTime: 2021-02-23T15:38:00Z
-    webUrl: "https://www.business2community.com/business-innovation/the-world-is-going-to-hire-robots-after-covid-19-02388135"
-    ampWebUrl: "https://www.business2community.com/business-innovation/the-world-is-going-to-hire-robots-after-covid-19-02388135/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/the-world-is-going-to-hire-robots-after-covid-19-02388135/amp"
+  - title: "Personal Information Protection Commission Tightens Personal Information Protection Utilizing New Artificial Intelligence Technology"
+    excerpt: "The Personal Information Protection Commission (PIPC) announced on Tuesday that it plans to set up and operate “AI (Artificial Intelligence) personal information infringement prevention support syste"
+    publishedDateTime: 2021-02-24T03:51:00Z
+    webUrl: "https://english.etnews.com/20210224200002"
+    ampWebUrl: "https://english.etnews.com/amp/20210224200002"
+    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210224200002"
     type: article
     provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 59
+      name: Etnews.com
+      domain: etnews.com
+    quality: 26
     images:
-      - url: "https://cdn.business2community.com/wp-content/uploads/2021/02/success-2917048_1920-900x563.jpg"
-        width: 900
-        height: 563
+      - url: "https://img.etnews.com/news/article/2021/02/24/article_24124758024877.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "Bank machine learning models hit hard by Covid"
-    excerpt: "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic."
-    publishedDateTime: 2021-02-24T03:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37534/bank-machine-learning-models-hit-hard-by-covid"
+  - title: "EQ Works Announces AI-Powered Data Marketing Solution for the Insurance Industry in Partnership With Opta Information Intelligence"
+    excerpt: "TORONTO, ON / ACCESSWIRE / February 25, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or “EQ”), a leader in geospatial location data and artificial intelligence is pleased to announce its partnership with Opta Information Intelligence (Opta),"
+    publishedDateTime: 2021-02-25T13:27:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-corporate-news-ontario-ae8797d77c0c66441f25988cf5d72662"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/covid5.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Machine learning based predictors for COVID-19 disease severity"
-    excerpt: "Predictors of the need for intensive care and mechanical ventilation can help healthcare systems in planning for surge capacity for COVID-19. We used socio-demographic data, clinical data, and blood panel profile data at the time of initial presentation to develop machine learning algorithms for predicting the need for intensive care and mechanical ventilation."
-    publishedDateTime: 2021-02-25T14:09:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-83967-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 39
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-83967-7/MediaObjects/41598_2021_83967_Fig2_HTML.png"
-        width: 685
-        height: 355
-        isCached: true
-  - title: "A remedy for COVID-19 learning loss?"
-    excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
-    publishedDateTime: 2021-02-22T20:41:00Z
-    webUrl: "https://msutoday.msu.edu/news/2021/remedy-covid-learning-loss"
-    type: article
-    provider:
-      name: Michigan State University
-      domain: msu.edu
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://msutoday.msu.edu/-/media/assets/msutoday/images/winstons-six-treys-push-msu-women-past-iowa-86-82/o/0/online-learning-1.jpg"
-        width: 1024
-        height: 605
-        isCached: true
-  - title: "A machine-learning approach to finding treatment options for Covid-19"
-    excerpt: "When the COVID-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare. \"Making new drugs takes forever,\" says Caroline Uhler, a computational biologist at the Massachusetts Institute of Technology."
-    publishedDateTime: 2021-02-24T19:43:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302179"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 24
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/sars_cov2_f.jpg"
-        width: 350
-        height: 220
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "pnqo11sLQ4AgDJccbBj12hz6IY9vAFRe/6rHt9dnl5WZuThhI8gL8NeATLJ+smPZtv6faBW36TV/CoLO8ozf1Yio+iAgvt9WWd45w96iOadSL96t9qpZWs2PzIdOpd1rJmYaOUGiYms5zdLDd1qiVJlrZAQRXi2/OgqE4splJ2SQOkyQ17wuewGhpsX23hW1WJ2SOHvpyQeKJ2ic/39tBc0XL1caM+FJXLHKeECZa+sUfb/yEkcuEhoWtQOKv8cY4ikF0oms9cd/paeKiDteim9/+X+4ZyH16FX6CtAAvElH94HPP4l8Gt6rKefavPJJIH0a8RSA8YofkKt2jp371Fq6EzrXN7nfff+KLXMfapkbEKZSiOiTB04e2qKtiVIHuLCU564VQS8p80ls2twOYzJLrcHWFxcmkKh3RwyPYTGajG1ygtq1vT2MywCvJMinVrVp9whwv3yBeoNwpD0GK1WF3RV7vHCMla+LinXnbfCspAUabLRcTCR9HCNB1xpuv2lszb/NTNzwbcGX885IYw==;cnh3yAellpZYLAtANl4K0w=="

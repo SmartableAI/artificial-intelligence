@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 788
         isCached: true
-  - title: "Applications of Artificial Intelligence in COVID-19 ICU and ER situations"
-    excerpt: "The overwhelming increase in critically ill COVID-19 patients, who urgently require intensive care units (ICU) and emergency departments (ED), has challenged healthcare systems worldwide."
-    publishedDateTime: 2021-02-23T01:32:00Z
-    webUrl: "https://www.news-medical.net/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210222/Applications-of-Artificial-Intelligence-in-COVID-19-ICU-and-ER-situations.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 58
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/2/shutterstock_1698736867.jpg"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Bank machine learning models hit hard by Covid"
     excerpt: "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic."
     publishedDateTime: 2021-02-24T03:18:00Z
