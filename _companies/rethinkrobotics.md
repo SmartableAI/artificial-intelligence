@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RethinkRobotics"
   url: "https://twitter.com/RethinkRobotics"
-  followers: 31142
+  followers: 31141
 
 size: 11-50 employees
 yearFounded: 2018
