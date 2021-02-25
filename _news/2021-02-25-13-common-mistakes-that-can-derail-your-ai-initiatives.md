@@ -4,19 +4,19 @@ title: "13 Common Mistakes That Can Derail Your AI Initiatives"
 excerpt: "If you’re looking to implement artificial intelligence in your business, make sure you go in with a well-considered plan."
 publishedDateTime: 2021-02-24T18:10:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/"
-webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/"
+webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/?sh=18b9557368b0"
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 187
+heat: 197
 published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -45,6 +45,6 @@ related:
         height: 501
         isCached: true
 
-secured: "gjacpuMLfdJgdZqOnlzhJgg3QHZ1mgW99mZ3viRJjP5tIYfRVusxNaqNKMKQYnXyGtHLpX5ozqdzjW48Q1SRl+Ry5sn7BemNXWxcn2+MOcTuGNg7M8zYSTOZyFpdU/pMQFSxGat6MofrzC5Mt/5mX3SqTMYEIjHEGNXRyvElT73NFYJDFJm3Suxu7wAk6mVTUl0Y9xp0S0DgfO70Y0798MKtdp1ha6dBUdeg4lVXTMAEGPuCxhecOLYtC55AVcj/C4R/OF05A3fy2vQxxGBrPQnWN5kzMHp2x8Jv/fxSzCVBgyRDuf3ME5CDkfxrH2eeP+H02ewY2OF4g4k4I+H5v+pAcSJKJ85EfBLf06KcuKfvu/ddPsDGZT0i5Zq/wE8b7CT0zsDLMOxlq3pWSBwROXXOBnqmtl3NLXw865j/6rgxd5Ac7fZzKAEYIdnVdJdSv6IMzEVzjR7WvZWVq1lsITraF7VDXROjzoRXyc2qahYLItlIq3XhZdUhnfbssQXNdA5DPX0eOd0DKGZHAxYfrw==;VGFlWGUXRI30nPPkJJZYUQ=="
+secured: "ucCrY1sNY0cmZBhpwtU3KgJL341iU8W/7GKfPqPBk3M010ABVS47YXoLvDlmo/x4k16dSBTDbMlO5HdKoOKenKNGJdh90xQcSpJSTuo/qXaQtok8j3hkSxAfRfJiGltKzwh3Df1Adi7hlW+umMpMw7AVz3WULJ/S/EJfZ5bqi0xWdf6DMLfKklSx4fxmZdK9RV/Oytxs0gHO7UdEeC5bH4LCtfEcBY52DZh5/jMY8ILfLTY0Iiz9YWKcQZmbjURiTkMpbAxeq0F6qDq/4byBcwgEotcbExB5KAw8x950uhzPO0zSZlKmyQJItFh/7bNwQgsXjsT9U664HXccX3rVCujTWc6t2/DBcF8yV7A6vc0=;KZIUQlDyRqUj6gyHM8JJiA=="
 ---
 

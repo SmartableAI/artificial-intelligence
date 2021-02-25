@@ -57,6 +57,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts"
+    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
+    publishedDateTime: 2021-02-25T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market Revenue, Growth Rate, Customer Needs, Trend, Manufacturers and Forecast to 2025"
+    excerpt: "Artificial Intelligence (AI) Enabled Medical Imaging is the process of adoption of AI technology in the medical imaging to provide vast supply of medical case data and train its algorithms to find patterns in images,"
+    publishedDateTime: 2021-02-25T14:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-medical-imaging-market-revenue-growth-rate-customer-needs-trend-manufacturers-and-forecast-to-2025-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "sueXnszr/9VcVPcgaSy2/ZadS7ZEkzmtpWtyJsBWkVW1QL9ftaUGwuW7r5EMFTXn2ks6D8AVYMrIKTdke7fjquCZ6t24xvfRdMtGf37lFyVmKUoMCmm1hg5i2L6VOMU/WYLlasjfWaArCWWNcKuERiNZUJWZkWkHWAY/1XPBF6r7/BPd1o1ksWZACy9O/+x6PgfySepFCv9JtX8xIrZTy5GDy5lTtATOQzp1i09YOZwfl4lv45w9w7xqLKP+Uh7Sc1WiuMZ5TANbjpTIyBfHqayS6aH/j+OJPgPI+EfzFl+x4uf7uVdvhjzwRcGyKJMhCtxtMuM3/5oEVqrEOHmJ7c/FlmEpVBTowUnH9OhIDxo=;EuOx/Xl4pZgc+tXEkI39Zg=="
 ---

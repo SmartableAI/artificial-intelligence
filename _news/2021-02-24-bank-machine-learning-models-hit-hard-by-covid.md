@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Machine learning based predictors for COVID-19 disease severity"
+    excerpt: "Predictors of the need for intensive care and mechanical ventilation can help healthcare systems in planning for surge capacity for COVID-19. We used socio-demographic data, clinical data, and blood panel profile data at the time of initial presentation to develop machine learning algorithms for predicting the need for intensive care and mechanical ventilation."
+    publishedDateTime: 2021-02-25T14:09:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-83967-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-83967-7/MediaObjects/41598_2021_83967_Fig2_HTML.png"
+        width: 685
+        height: 355
+        isCached: true
   - title: "A remedy for COVID-19 learning loss?"
     excerpt: "The innovative science curriculum is based upon project-based learning – an approach to education in which students explore academic subjects through meaningful explorations that pique their interests as they seek to solve real-world problems."
     publishedDateTime: 2021-02-22T20:41:00Z

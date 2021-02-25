@@ -46,6 +46,22 @@ related:
         width: 657
         height: 657
         isCached: true
+  - title: "Otter.ai raises $50 million for AI transcription"
+    excerpt: "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million."
+    publishedDateTime: 2021-02-25T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/"
+    ampWebUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all"
+        width: 1200
+        height: 763
+        isCached: true
   - title: "Armorblox has raised $30 million to protect against phishing attacks with AI"
     excerpt: "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital."
     publishedDateTime: 2021-02-25T12:02:00Z
@@ -95,6 +111,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "2bTNLPTqW4b3bM+Jd4hlJEEGcJuvjsHs2zNZoFuxsjEs5Ygnif3SkMEXLEmqncULFhgquf6nd7TGMznOKwtikAfo1vD+ZDYnu/ky+9T8fj2Xd14dnBoWv6J7AMKXkwMrY0f7PE9/bG2lvZgX1aM6x3aM5mnqYvnt4h/8pcSSve/uaGWKbkJoWoWL/CA5mRmyqTrXDkctzwkEUrpsy/orG5tXCSnLKz7qByZfsNIRncysEdv3sDpAhlnmFlcCWn3DlR3dCAA4egaq4/e94/G4AN/sz/4HhA4sSwbjjSlkWVS7YohacSzeKWkrAGdpMJdYqD3xLtkn2b6gBQ9WZ7x38NVamZcZNLpNrJzYhs5tCyE=;BEVZi5OwcLD79QEcCK0OAg=="
+secured: "ky8b3imtyBGywC06j/5sWZovCEYtFtkWkSDHEF0gvdDykpfDjyiLUd58adrR7y/YcjA8Xv0Xtvf+/kDBiLyxj/2y4HkMVyIsvpFyA+i2puQ/WfsMJwBRGeoRWYHCI/05tbT94G2GQ4sU8hhW7kIpT8TQ7IgNgzYZaxw1/NaJlU7ufxxqXN7OUEZwA4cCvmgIiyZJfj55nK+Kyg3P73jlngN3dFrB7JOU8+DUQEy7NcdyjQOzruyVlwECFSp0BmaJy8prjgocDJjV03ywtxfivTNQB7XbC4AWMtrrPcqNnQ+InXNaykIG54g4DLkFPglGAcxgqM8mM7wVQApNQws5CkBCJn1iFK7sGNonRuM4BzHdzK7mnui6o4YTe2e2e3zrg9tXKx1TlQBjmpVmgg/wV4K8O+ui+Y0kIwUN8rAOdr9EPjrUlHFWFMt/7EcLBme0mq/VpY3zGSKzBibEVWgVPLCjUNhHoluXebNBAx7mxDEzMtw5+qtGPuDiettq7eXjVkArCUUUhYSiB1Zo0PtIAQ==;SFTVtwfqJ6M+tWDCLORC3Q=="
 ---
 

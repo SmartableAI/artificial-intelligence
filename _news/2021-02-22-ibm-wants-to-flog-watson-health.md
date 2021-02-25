@@ -115,20 +115,6 @@ related:
         width: 360
         height: 360
         isCached: true
-  - title: "Ibm considering to sell its $1B Watson Health business: Report"
-    excerpt: "Ibm is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable. The Wall Street Journal reported that Ibm is exploring a potential sale of its Watson Health business,"
-    publishedDateTime: 2021-02-20T21:30:00Z
-    webUrl: "https://www.imdb.com/news/ni63201947/"
-    type: article
-    provider:
-      name: IMDb
-      domain: imdb.com
-    quality: 39
-    images:
-      - url: "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png"
-        width: 1000
-        height: 1000
-        isCached: true
   - title: "Will IBM Sell Off Watson?"
     excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."
     publishedDateTime: 2021-02-24T09:30:00Z

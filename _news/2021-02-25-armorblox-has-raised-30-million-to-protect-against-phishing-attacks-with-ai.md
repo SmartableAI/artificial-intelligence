@@ -47,6 +47,22 @@ related:
         width: 657
         height: 657
         isCached: true
+  - title: "Otter.ai raises $50 million for AI transcription"
+    excerpt: "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million."
+    publishedDateTime: 2021-02-25T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/"
+    ampWebUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all"
+        width: 1200
+        height: 763
+        isCached: true
   - title: "Medisafe raises $30 million for predictive AI that reminds people to take their pills"
     excerpt: "Medisafe, a startup developing a platform to promote medication adherence, has raised $30 million in venture capital."
     publishedDateTime: 2021-02-25T12:02:00Z
@@ -96,6 +112,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "xAx/TvCHLAwJPToqmOPbdhwtvAIopkW0cIR388ZoIm32fb6MnstQ80QdBzMflQ+FVxnjr6lfoUU8Amst64Di8/HmixIt/XWbOg98dWJrxSCw7kx3LFiNy0D/Y4NjrLp+VgsZuVW5E1Z3eYSbuh/vhzTaeF6Hl3FLJrhkZzL9yLycDWVVGxR0vWMrXp1vNp4zTNRTV/wspxBJilvPeuocZHKFM9j12eh9/EAGQiJR3rBM0C3ZxumZjEXpbMe9JFGKbiqBYZFZfkyq4P0d8g4h/qhwgY1bxdWUi0kXKS2kaYWXMHrcEHqt86fB/O9fXjz++iXAYf8idJW+GUF2219ewedPQJ3mVsoeEfPHAlG2ixY=;LhmBvzgSsx+r54UtuyFjEQ=="
+secured: "IxDZCoKaS09uN0AfwJz1gy8gElvGfExsvLW0m6AOVmviDRES8xJmK9qkZu1QNvocN5ULjb63l/CMDjWVitHpmXHUnglcJ+OpRBLCHxJvV4b8iGcuwRk5vTSmAjwxTnS8umYgtAuyjYsBXp9YYK5cOvq4cn20EVx30SG9FUXIx4LdB5kCPMSVzV3QEMD7uXw4CADbt6b+0cyHSRNK0ki7WFLvHpESH70zHeOHnX883eQgQBa/rrTfc+/eeOvTjg7awjeUOb9IPLta40df8BEjpvrf7C0Viv4nt5HBoOzxU32M7u8lzVxDbyvaKb6BcHaJgsM+b51oTVn3UX7J0nmCcEOeYHNxt84U54LY52bSJ7xS1423aAks3KYg4jRBoPkK+Vy4Ry8odAQT1rWHG7IChaMAtrbTISAAjWZQtafuO57fW1tW5cwuT5OBkN8GghLaUIQR+2D9ea/3l7Qo45h6PUUFp4Owpxr1hw7/Gx+K6SEdA84ksWNzdcrJLdxF+pUeEv2Lgj8Ysrw4b8HpkpT6yQ==;Wl8vkjn6qE5nQ9XYggOvyg=="
 ---
 

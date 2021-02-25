@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-et
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp"
 type: article
 quality: 104
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png"
         width: 1600
         height: 1069
-        isCached: true
-  - title: "Google’s treatment of AI ethics researchers continues to stir up controversy"
-    excerpt: "You’ve landed on the web version of the weekly Human Capital newsletter. Sign up here to get this in your inbox every Friday at 1 p.m. Welcome back to Human Capital. A lot happened this week pertaining to on-demand companies like Uber,"
-    publishedDateTime: 2021-02-20T21:21:00Z
-    webUrl: "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/"
-    ampWebUrl: "https://techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/20/essential-workers-advocate-for-themselves/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 101
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Google fires second AI ethics leader as dispute over research, diversity grows"
     excerpt: "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru."

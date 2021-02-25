@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19780757"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19780757"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Voice and Speech Recognition Market with Segmentation, Growth, Opportunities and Forecast 2021 to 2026"
-    excerpt: "Voice and Speech Recognition Market” The global voice and speech recognition market exhibited strong growth during 2015-2020. IMARC Group expects the global"
-    publishedDateTime: 2021-02-20T23:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19763182/voice-and-speech-recognition-market-with-segmentation-growth-opportunities-and-forecast-2021-to-2"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19763182"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19763182"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 43
-    images:
-      - url: "https://www.abnewswire.com/uploads/1613729476.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Cyber Situational Awareness Market Expected to Reach $153 Billion by 2027"
     excerpt: "According to a recent report published by Allied Market Research, titled, “ cyber situational awareness market by component, solution type, deployment type, organization size, industry verticals, and region: opportunity analysis and industry forecast,"
     publishedDateTime: 2021-02-25T10:09:00Z

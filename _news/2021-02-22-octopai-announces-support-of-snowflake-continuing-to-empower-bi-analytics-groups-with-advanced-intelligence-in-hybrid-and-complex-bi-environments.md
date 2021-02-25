@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Augmented Analytics Is the New BI Battle Ground, Gartner Says"
-    excerpt: "Forget about nifty visualizations in business intelligence (BI) tools--everybody has those now, according to Gartner. The real action in the BI market is"
-    publishedDateTime: 2021-02-24T22:19:00Z
-    webUrl: "https://www.datanami.com/2021/02/24/augmented-analytics-is-the-new-bi-battle-ground-gartner-says/"
+  - title: "Digital banking - Lloyds Banking Group saddles up public cloud, machine learning and advanced analytics for its next transformation phase"
+    excerpt: "Lloyds Banking Group put down a £3 billion digital marker in 2018 and it looks to have paid off to date. Where to next as the pace of transformation hots up post-pandemic?"
+    publishedDateTime: 2021-02-25T14:40:00Z
+    webUrl: "https://diginomica.com/digital-banking-lloyds-banking-group-saddles-public-cloud-machine-learning-and-advanced-analytics"
+    ampWebUrl: "https://diginomica.com/digital-banking-lloyds-banking-group-saddles-public-cloud-machine-learning-and-advanced-analytics?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/digital-banking-lloyds-banking-group-saddles-public-cloud-machine-learning-and-advanced-analytics?amp"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
+      name: Diginomica
+      domain: diginomica.com
+    quality: 28
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/analytics_shutterstock_Peshkova.jpg"
-        width: 1000
-        height: 667
+      - url: "https://diginomica.com/sites/default/files/images/2021-02/Screenshot%202021-02-25%20at%2014.13.02.png"
+        width: 781
+        height: 539
         isCached: true
 
 secured: "dX0jnOU0sqwZ9Bs26EnzX1Dq9yJe6ZyigMNkhEyiupbXqBnbqtX9lZ628+Wm09bAxQyX6zskfdhR9I16NNgje2W5DMP/EPb/TYylIK9PJyH9pAM3rd/0vWp8PfT34l5v9wp2xUDXqzqFRcE9ToQ2JAywZSYzIL6RExD3bsPzehxetLVwaJLyKoWeiBrT4upYKm8polT4jcQ1/Y6ZOUgYNCfpWcrp/H/+AVRufBA9pLPTBQsbe7qeYxiPZm183ylUaR8+V8eFOxhI0hFMYdCAMtBGETPWpKhzWv6/PGiDJaGY4bGq4OVDYmqtw0G5E7BOJZ5KeAP+zQSBRqUjYdRGMsdDoOSiCvo/a6M0Ll38HSA=;Im87oQ9vHoyjIsChb+/iKw=="

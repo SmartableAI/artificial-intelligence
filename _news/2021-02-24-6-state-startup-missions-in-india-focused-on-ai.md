@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/6-state-startup-missions-in-india-fo
 webUrl: "https://analyticsindiamag.com/6-state-startup-missions-in-india-focused-on-ai/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Five Companies Chosen to Participate in Startup Accelerator Focused on Accounting Innovation"
-    excerpt: "Program Developed by Global Accounting Group and CPA.com Fosters Emerging Technologies that Aid the ProfessionNEW YORK--(BUSINESS WIRE)--Five early-stage companies pursuing a variety of solutions in finance,"
-    publishedDateTime: 2021-02-23T14:52:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=426447"
+  - title: "MATEON THERAPEUTICS AND WINDLAS BIOTECH LAUNCH INDIA’S FIRST COMBINED LUNG THERAPY AND AI ..."
+    excerpt: "Mateon Therapeutics, Inc. (OTCQB:MATN) (“Mateon”), a leading developer of TGF-β therapeutics for oncology and infectious disease and respiratory health and Windlas Biotech Pvt. Ltd. (Windlas), a leading Indian pharmaceutical contract drug development and manufacturing organization,"
+    publishedDateTime: 2021-02-22T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-media-artificial-intelligence-6f7f689083690cb698a991994d25ae4e"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 11
+      name: Associated Press
+      domain: apnews.com
+    quality: 43
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "2oiyd8/xyR/f4TozMOXdYy16d2yy73QUnTg9ScTz6fCc/NYgXsf9JzdW9bZLcDo65hl2w6v+y4YeRDuezySJ+1n7RKTZSo61qW0IBfvYCzowX62QKkXEt6OxjMQq96D5+NdRJQsbLzAr7NfUlSP1HirzgkSreZdDMpdgXAoaMAOY2q6vsaCwNDI67/4EzKAroZqJke7SO6QQPV533mZJ44C5TIYnEzYmaUSoc4ZXKmNaiMjMASTDkFCXgUxemvk9N5ckNDbS6wc0ZsXXQ8TCTIhjTReAXCFce6twU7m/jg+dvNp9xYDspzr3K+DIkUNkEkaqeRgh9vXuJpsNDJ7OFtoYZt/LGu0TBpGlS8UgwuLNLVOYQfeYY6p5wYTbTrXxDZWdMW3V2QuocrZyMVOHagSioJBtDw03W1XejWVPMJmJaGsxa2Z89OovoB0x9VGWHsfzfEQVG/nVsYio10Kfpn3v63FHsq2r/cjNw7wJkOqL00U8RwMw/hYYS1YHsQXX45d7Sz/Y+BA6cptbMbeIZA==;DrMZvu/Jr7YF/I2rPj9nbw=="

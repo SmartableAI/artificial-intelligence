@@ -27,14 +27,14 @@ related:
   - title: "13 Common Mistakes That Can Derail Your AI Initiatives"
     excerpt: "If you’re looking to implement artificial intelligence in your business, make sure you go in with a well-considered plan."
     publishedDateTime: 2021-02-24T18:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/"
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/?sh=18b9557368b0"
     ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/"
     cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 187
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603665d1ad8d15fb0697b410%2F0x0.jpg"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-he
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Otter.ai raises $50 million for AI transcription"
+    excerpt: "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million."
+    publishedDateTime: 2021-02-25T14:00:00Z
+    webUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/"
+    ampWebUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all"
+        width: 1200
+        height: 763
+        isCached: true
   - title: "Armorblox has raised $30 million to protect against phishing attacks with AI"
     excerpt: "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital."
     publishedDateTime: 2021-02-25T12:02:00Z

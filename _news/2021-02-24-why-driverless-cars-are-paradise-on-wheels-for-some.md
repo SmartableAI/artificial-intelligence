@@ -43,6 +43,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "AAA: most drivers prefer safety over self-driving cars"
+    excerpt: "The American Automobile Association says vehicle safety is most important to consumers, not the development of self-driving cars. AAA surveyed more than 1,000 U.S. adults in"
+    publishedDateTime: 2021-02-25T14:04:00Z
+    webUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/"
+    ampWebUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 44
+    images:
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2018/07/vlcsnap-2018-07-09-20h12m44s928_1531181580892_48125989_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 738
+        isCached: true
   - title: "Artificial cities could pave the way to driverless adoption"
     excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
     publishedDateTime: 2021-02-23T11:04:00Z
@@ -58,6 +74,6 @@ related:
         height: 400
         isCached: true
 
-secured: "t1RjkUr7QNkSB68W+Z+unMJv2T5e2h/mT3Pkt0pJ1aW2mrqofzwU05VOS/5g67aNuqvRz0Fn2n59emUH6xcTp6Uvz/4rONooHxSq1dttmdK4qySRS42eUGVRCrr+5IoXioi3Xd7PHroKuFBxx7KyXvGOAMsm8lydhDiTaFsdg3cOxVc+fKmjz38oYik4qaUrl/YKsZgXwwBDZfnYaFI73YOa381gxZ6zWGeL51ncjnp9uDiJnGe4GD8SefLgYK4izJmQGnnbAPbKfaNPNdlnQkFjqCNAjYGbhwvTm2qhW7ZARKXZi4hYGM+aIHA1Ex8g02QkDPt5+HIqBPwQwSvohM9TrJG7L9Mx7L64Drt0txI=;kMCifd1beZscli3Twhxo9g=="
+secured: "MFRfuMA2ADWgOadKHCKeuWi+VEusijOv066rtJCgJmiCPkL3wSDLAFwJHueViPVdOm7QSEkfEMwk6e+3011lE0aYpGusuWcYYZopzt8oJ+gR+UOzHQSyoQfHL9GiidGTQCSefelWRejC0mGvF3U8k/LD6e4vkQoP7+kpcmBxaIdaMpwUI1yRcZkk7JbTCRikf9KGx0ziMEMjhUaoMGz9JBVt0r+Fy1LeRd6G3rhHyeKSohg9r47PhY39tKlZ7BtgYq5zCkXls+lcIM9DetA6rDU9jxLwEbutAznd++gWVcjkHV0gHndeOlnX1kgaLbgPhVo/odwIyQtaMeu1AmH8yOjLgmXLhl+RfvbhgdgPk5aOMC5g1ol7a3rqsJSPaqHYq3JukTxuTTXEIyX7nUDqf626y3MIsFZV+B38JqIrCJgH63LjyLdfDvScrmedU4LB35K+3Neb6ZGH5AQqPUPJucUvarEJchWKIZXtigHnP+1OlRg6BNZvnFJW5IxEwRtMzB2uVbWNTBqPw7U5Dyu44Q==;uFZ9CsFYU7VRWmvSSEipgA=="
 ---
 

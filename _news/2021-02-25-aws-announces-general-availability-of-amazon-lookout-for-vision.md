@@ -1,23 +1,30 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Lookout for Vision"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a new service that analyzes images using computer vision and sophisticated machine learning capabilities to spot product or process defects and anomalies in manufactured products."
-publishedDateTime: 2021-02-25T10:09:00Z
-originalUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
-webUrl: "https://www.financialbuzz.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
+excerpt: "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,"
+publishedDateTime: 2021-02-25T01:18:00Z
+originalUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
+webUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
+ampWebUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
+cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
 type: article
-quality: 36
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: digitalproducer.com
+  domain: digitalproducer.com
 
 topics:
-  - Computer Vision
-  - AI
   - AWS AI
+  - AI
+
+images:
+  - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
 
 related:
   - title: "Amazon launches computer vision service to detect defects in manufactured products"
@@ -67,6 +74,6 @@ related:
         height: 235
         isCached: true
 
-secured: "Mr4f/3hI7y8JpXSXBPUsiJN4PzMLWUlKBpK1PfE2FdgOAvub+M0wSh+LDQhZAwiVNlPsIxqeBCqUPtdngn3OuZswI6rWrR3+gPQBd5yEEKBW1ezUiExj9vIyqOm6/S3q7JbO+xvaB3doZ6SpWKxN6fXauOzVsFzUIG3ASFi+Ar/sd0lBFj1O6UpqE9NAtv6YpwllPe9NGhh+mtw+/CTOb3dip74/xeVIobscsoN5QJC0XyVwmlhnI6vyI2U/rr9G3s1cOQN5bt82K5nOdSTDuqtSJLlkE8knZRiVaHuYrFZqVdejd/GPpZeRMxMovYRoc07J9XIuwaiZsKm4uGWSS+1HivIiVnAP6HAZ5tUYq3E=;Pb+8ALzT5jbduxYdP+dWmQ=="
+secured: "D3Ni0ZhQHPUI2oBru6iI61qZpYfUNvLjqF7vXTSOVGKH6lC87CAUdz4GNdo9kBlzqcvdDzoxM9SMiQx36z3461nrJVUj+lY+R5xRrGOaOQMJDl5EokLoie1FdSzqBSBdDx7x71npcVk6W1l4BfYWWLR8v6HJrxsEOLdIaq088rdUJftQigI9UPFShlQccANCgpYdsVXEa1UJe1xKgDDBwhtmaNKbsNp4vNL22lyNXBD9/0gs6cn43yadWgt5mFuswMkgpowBXSL4fyD6AH1CDU1yh+qFJKXn0IDr3T9x5wOaAnhdSbwNljiDALSfNRpYnL04lY5MS9u4Yg3IqXx30AcZMBBRcqYAwteW8gypTjE=;Pd30Gi9S238i7b35athYrg=="
 ---
 
