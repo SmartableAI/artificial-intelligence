@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/24/amazon-launches-computer-vision-s
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 113
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "AWS Announces General Availability of Amazon Lookout for Vision"
+    excerpt: "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,"
+    publishedDateTime: 2021-02-25T01:18:00Z
+    webUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
+    ampWebUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
+    cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
+    type: article
+    provider:
+      name: digitalproducer.com
+      domain: digitalproducer.com
+    quality: 76
+    images:
+      - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "Amazon launches computer vision service to detect defects in manufactured products – Jaweb"
     excerpt: "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision to spot product or process defects and anomalies in manufactured goods."
     publishedDateTime: 2021-02-25T00:14:00Z
@@ -47,7 +63,21 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Amazon’s Lookout for Vision spots defects and anomalies in visual representations"
+    excerpt: "Amazon Lookout for Vision, a cloud service that uses machine learning to spot defects and anomalies in visual representation using computer vision. Designed with manufacturing companies in mind, the service can identify differences in images of objects at large scale,"
+    publishedDateTime: 2021-02-25T02:58:00Z
+    webUrl: "https://siliconangle.com/2021/02/24/amazons-lookout-vision-spots-defects-anomalies-visual-representations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/amazonlookoutforvision.png"
+        width: 383
+        height: 235
+        isCached: true
 
-secured: "oxKgEehDzwZJ54GAVlQ3rW+cf8np0+JcG3K2caPaeyD/M9Ma1PWzXcRe8oIJklr6MDqbbrdI3drRXge9g4P3qzWFBUffMT5Q1nuLsFs0u1y34ldlDzrZunmanhpmNvbesDnCAJt8qmQVh9O+EPyYjZt2voPGb4rxhCOEjQKFeAmT+EJLB92XaoO/aWIFb8YZH49gT1zLSEkjdi8wGbSrQ+c+T108DXXg83KW+1qLjLRhwc1O9UdPz5y+qxgibQzV8icLjPcUJ4vg0fhS6SaGa3Q50f3S6jY3CILtrqIOA4tL8jDLQwgvQaephOg/gBdvOoS7Wa9SU+5kdhnILro4Cc717FpAPJa8qbRnWKMDziQ=;2T2vOxMEaECh/P1bU8bkNw=="
+secured: "Xas2Ijoeujh0yovZPlVA012nAV9exr3uGBySma8YKk2GBom0z+8bzRLJcu0VPrCiph9zz97a4P9EbhOvAL3ADsXyC8wfgbzAa/F7ByU46UGXjB3VpPWhamN/8JUBCUq4GF6cAoD95mt4jf0QJqYT3mmGDHdtHdcD+2mE7FyhREDpS44lQQGg5rdMIv7IL+2i+TMzJxo5B/Tpr1poXdlfsm78ETvyWq3dOfmxKiybiWrAE8RlkAw9J+B0Ly6lsxRSXgdmIUQwweloSKFpyeZTE/BzzzcURD1fGbPAge27L4Pk2op2CCG4EtlwgYgqBxkg0np6V86g9Vwb387D8IlvXUh76QvT+asB/PJgs8X+bZIHc90mZJjC1czC9+s10lMURUNQ1iWN1IzgdE5yrNY648zfacy3hdACyeXajevMIGNeQ29zg35lGHhfWuhRn7G4vaHpiaTF6zcxCv/ysIGcCjzrqfwnqIacsA4+2GHchPyD7Pn8rCjZZGer5xwaeKzZ7u4AfTrIxdx1G5wS0GyEIg==;8q2wgO3oA4BFwoj+7SKlWg=="
 ---
 

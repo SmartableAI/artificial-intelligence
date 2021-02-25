@@ -43,7 +43,37 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Lookout for Vision"
+    excerpt: "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,"
+    publishedDateTime: 2021-02-25T01:18:00Z
+    webUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
+    ampWebUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
+    cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
+    type: article
+    provider:
+      name: digitalproducer.com
+      domain: digitalproducer.com
+    quality: 76
+    images:
+      - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Amazon’s Lookout for Vision spots defects and anomalies in visual representations"
+    excerpt: "Amazon Lookout for Vision, a cloud service that uses machine learning to spot defects and anomalies in visual representation using computer vision. Designed with manufacturing companies in mind, the service can identify differences in images of objects at large scale,"
+    publishedDateTime: 2021-02-25T02:58:00Z
+    webUrl: "https://siliconangle.com/2021/02/24/amazons-lookout-vision-spots-defects-anomalies-visual-representations/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 19
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/amazonlookoutforvision.png"
+        width: 383
+        height: 235
+        isCached: true
 
-secured: "TgInpGegWpnE67D5hTh5rlf/0j1AGcrs0FT48ruqzlUrKAL8Bwv/pWhqZbp0di47l5RNndn5VKYumlIW9C9DIybgcyaHSxVSHf1Ij2RQbOQZtLeYxZkhYRd3s0n7WtfkzMCS12X7/UklvrSPBYpV+VNj7hHWiJS72xNm08brCHq0vTk05e8f3csCw1k6zZAAWtY3MUXqiFJTNCe+FaVRCdt3nvKYPyoqSvNVM40MCjFijh2k+GLExL8Ps8Pef0oSl84yCcTMcshHkesu9lmX2pc7D+9qCbf0TSLCx6MohoJDvX2XrKHPTxXQrzbHI6idaCn50H4HtUH6ZKqAhSIEyKrdzHCER82/LtrqqaQQ/FQ=;8ChbtwYxBlVSbJPTNVYEAA=="
+secured: "L/J3Nj8v2TKNpshAQfU9ZnKAjbS0bUyIRCmaFYw62NoKqongw47eQKv0RVT471BMLM8jLgmd9D+D21wqI0fEVBeDyF6mMYJPVfVxs02VzuFuBiXpiv3BHgYs7H0hN+cUEyqm4KDr4Xbj9nX+o2OKf98QDxP09/O9PoEvhhy2DsLG49NOOarMTBpT0Ba0HJeE1kBkFV2n8BMLrE/oomgpmd7lKcHC8agWy3iMiBiAjqj3N8WDkhEJ1WpG5l4ZaNPcb/1sEghXxRpT8ac0CFrgIyN5L3DZEgwO3FHoZ7ze7q2Jjnln+pLhuDE0VRec09cjLeyP3s7VJvhwX4IJVXJhzmbmTH03y6h4w9rnW9B/g8iBScNAbe2bqp3R5sPstmno8W3ittohriVHlVu3jZav1q8UvhbL/mpII042XQQiRQOt+HaSwdMdeK6AGN8DtiX5hIazImR7bqlT+lsOSm78Gk6U/BpXMXUuQI2N5hS5iezb5b80yfaIRjb1/PPsSZxhojQ3/QinOO24QpfpNtGfhw==;Hhlgwwn2zB+MQgL70fJr1g=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "M&A wrap: SparkCognition expands into fintech; SailPoint grows"
 excerpt: "Check out the latest mergers and acquisitions on the Austin business scene. One involves SparkCognition, which raised $100 million in 2019, applying its AI to a new sector."
-publishedDateTime: 2021-02-24T13:38:00Z
-originalUrl: "https://www.bizjournals.com/austin/news/2021/02/24/m-a-wrap-sparkcognition-sailpoint-planview.html"
-webUrl: "https://www.bizjournals.com/austin/news/2021/02/24/m-a-wrap-sparkcognition-sailpoint-planview.html"
+publishedDateTime: 2021-02-24T12:38:00Z
+originalUrl: "https://www.bizjournals.com/austin/inno/stories/roundups/2021/02/24/m-a-wrap-sparkcognition-sailpoint-planview.html"
+webUrl: "https://www.bizjournals.com/austin/inno/stories/roundups/2021/02/24/m-a-wrap-sparkcognition-sailpoint-planview.html"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-secured: "iaO+L9qMEBEvp7ylepJo3PY8nj0h1WadMMpZrJlccv1km75m4JnjKUqlCP1X50DE6AI+pIT9knwbUdKs96iALU3EGxa7VWBsywkOBqFxJRt6Ve0zvSbcvY2uzWaaBDtjqrhi7ZoLzuKzXBOSqGkt8F0CceFBFDU6y4IivMSc4P6/y1790OW7whk1NOTbTOfITkIg2gaODv+eUj1PNvyNt0DqIVM7DkXm1EZR9vMBkMiLyGQV+77kkSPST7CGL/2hMUSYCYPR/hNBfxwIyjn6GInzsoa08qvf1h14TAnSgIqKaDBLHDzRUycQ060+2Izv3pMv5jokzUix+F4fvElcUzCzauBQOZ3eUHIJqDktvP4t8pdjMF4a0oc55pIzicvCF/GiQZfr8PpL5A+fd3zWOOGgnUvsP2oStZGsIG4GU+975B3zLvOXv8O4iTMK9wuCtZKoX3AdEUgL9kq4hBiCWe51J5sa8rn9G+6Zo+HMag7P81OrF+D3FfVTb9fzURLsv1a3JyOin6+4MV2/L7Brag==;WcM32k9QCtNNT7b4IT6P4w=="
+secured: "21H+IK+vMZoBmoWhPq/SH8DV+Nl6zUbe093sgR4Cq7rD/ARF5Z2HQ8Vw73ZKa0SuHM3pdSYBCUy41fKIDEhclBs8qCIwx5FhH3M5LPQOJl1bnzTvfNraRihmp2d8qsxkGDU48bdtkFJOBe4PHzqFoV/LvGnqwZCeRLWFzBA4pmhfcZIpVNXAv9QacA9bSysoOp2LyF8OY2LNqLV+Bye0JRUJMR24QCYeasLYYlYjoQo9MqY3DfEzFa2kK5QdqpjkQKNrWGMdH/IHsZbOF+OZ0RjNpUeTiVc5gN/yICqZW3orXhGK9o84nQvfPBD4NeoQSCq1/Yr2StpVuqV3AAu6FA19KzKx0ZK+1h0vN6uP42eNUHCFVhxKfTRkgIW6r6hMKUI/XSfZRTm2WnxooHvHlLS5iTi53Ykyv5uQAgTuZy4L1/e4x6GV9qORtEGLc5K7v7Nf/c1/HABE8PnPPImlHxmUMidHNPcoJeYWMN7i8i3XzszZrwQVbOIOBlyyv84nYfGFkiWs9O26UDwBGAr0Pw==;H04w2OEaqkNwbe3+IYK+Xg=="
 ---
 

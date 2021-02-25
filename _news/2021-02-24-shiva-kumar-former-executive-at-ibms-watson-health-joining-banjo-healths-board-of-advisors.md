@@ -77,22 +77,6 @@ related:
         width: 1280
         height: 639
         isCached: true
-  - title: "IBM may sell its $1B Watson Health business: Report"
-    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
-    publishedDateTime: 2021-02-20T09:34:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2020/10/09/1004451-ibm-india.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "IBM Rumored to Consider Selling Watson Health Unit"
     excerpt: "The Wall Street Journal quoted sources as reporting that IBM, which is eager to switch to cloud services, is considering selling the Watson Health unit. The latter uses AI technology to enter the medical industry market."
     publishedDateTime: 2021-02-20T14:55:00Z

@@ -3,16 +3,16 @@ category: news
 title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
 excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
 publishedDateTime: 2021-02-23T14:21:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210223005747/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom"
-webUrl: "https://www.morningstar.com/news/business-wire/20210223005747/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom"
+originalUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
+webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Natural Language Processing
@@ -34,6 +34,6 @@ related:
         height: 250
         isCached: true
 
-secured: "f10XJOIdS4pFPoechPEtprLKrF9JdaiLsBj+d/QKR8Jcm1xF2tGWHEwesIC7+aNPcrp3i4EuUVnfcAUifKtjcgGt8OIH23tyF4gVJVKxkH+ra1tqAdhm7bsbhHtceYg3oo3igVwQ5oxbBl/VmMyEEpVYASXRH2JD/7LE35B0VCdcKEDO1ijwmFQ1gUctYKCR9vIJvwVEbaem/Sb6RncHUFshyaW9xqfVZ8l7iWCOUxvfkaPQTjJMhQWkkoZ+lHwtmZV4tHBvkomFkZ4InGhLHhmxRoKhnqUI8ytfu1qiOa0Np/6YinWNC6YYCsNHsT11lfOxEuFZL0I1CcXpE/vyXhrPlgU0GeuS3i95S2ZBBOY=;vhORMcuTBaiWtofOHyWu8Q=="
+secured: "ebQHkNKc8oWkQ0cLD0HCX7JkCVXS977TQw1RMLGVss4HpaweXPAWsZF4dOMV8rdKF+vQIpk+OgdMpPh95YUYj8k89MSG9eHnM1Ds9xGZhH6+GwjktEsKSzqJe10qZW4xbBiFziY/zp37ar9uYeDq/rkA9G3661P6gVr9GcJHTzgX3oZpLgFYy8KCETZy3RPj1TtpouoUin7gouzlSFoRXTYYsFfJ8ogcDQbcR0xSOgiLIBKCF7DYnjjKClciU3txr1kZ2YKrCxma64WHSdVEpCk7X6VhiP1+zIMonib9+sdAGZRsmMWRDuoowxOvxBfHnP4cnmucOP4BSG+K631Z3p1BzTcKgoYi6iR6kW6elCE=;DMPlgp7IFHaMPQO+DpWAqw=="
 ---
 

@@ -73,22 +73,6 @@ related:
         width: 1280
         height: 639
         isCached: true
-  - title: "IBM may sell its $1B Watson Health business: Report"
-    excerpt: "IBM is mulling to sell its Watson Health business that is generating nearly $1 billion in annual revenue but is not profitable."
-    publishedDateTime: 2021-02-20T09:34:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/ibm-may-sell-its-1b-watson-health-business-report-673110"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2020/10/09/1004451-ibm-india.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "IBM Rumored to Consider Selling Watson Health Unit"
     excerpt: "The Wall Street Journal quoted sources as reporting that IBM, which is eager to switch to cloud services, is considering selling the Watson Health unit. The latter uses AI technology to enter the medical industry market."
     publishedDateTime: 2021-02-20T14:55:00Z
@@ -212,6 +196,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "8bdLsTrd4GBwkELb/IELH8fHBl80RzaUoaY2arYq3dc6nevXmb+ADMBteQ9gVqygD2Rwm3bcZ+LaHEIq0BXo3+sgmIcYzlXFr33T2XJSvUMvwkanHvyjBGEHiDqb2UDsokgg9PSjPgOf1k0KVYZ3/72seRbVN1JkzmfVcEcTrRQ0YJxhmLf+Ve4om9mljNPz1hZk+sYlntReLO4vLTZfW53ERYynmDkDt48IH2EXHkgRdB817B3nlHNphxqm/y12kiTenFmrMeEqrciTHUswH/DIj7TEK6tXOjVTeVSBoFm+2kGbRKWihwx4cgbkxGXWnM7KLdWG6wGp/5nDq25ZdDHnXY8K4FBW+xY2/Ld0PIw=;F3KPQbYR0+ndyTovRGnPYg=="
+secured: "T8IYmrYdY1NUQ9E6dYD9ELl/dETZSpBFG9lmPim/jTg/tVyiZDq+M3OSeuQ017nmxg7h4YPq44m69L406nfTourCsk9PcWl13w2XXKgmU/P5hRQnm37PmQl++Jri4Y4oBdzY+BDu/flZjnvU836+WUNPCBLWOwi4K9zD+R0z9UQ7BJzkNAIKfDsR1A0hnqpD6KK5yB8Te1HadH512MwxaNUvL3qsWCGLPr8DBQZE8VqZ8dSIwWPsSDjG+oCFKOSIXI3u9q/8JGGL2ZTeoN/MIbfLSa4o4WKols1RzWb0Cvi4Ww9qMtzIFzqOflP6XOswJ8S1KUaEjZagSe58ObHiGv0x3W5oeX8rOWWmRscvKNWbgJLIjRCdsbiQVEZU+Hl9+lOLvaS7m7ioa9lYB+5r3ePa2n3fuOnepq3EMB/quu57qRWMVP37cQs14UMkpPgoBmx+ij+xJRi0d9NY6TTrZ6AC0qqo82eGLm5zNR9xqI3MJLrIjoypEeeq+O7IXO/5AkwmN0RBeF/1iM4FliInKQ==;e60EIjVUwEYrbmMsvHPgNg=="
 ---
 

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Facebook's faceoff with Australia could backfire"
-    excerpt: "Facebook Inc.’s dramatic move to block Australian news-sharing escalated a broader battle against global regulation. That gambit looks likely to backfire."
-    publishedDateTime: 2021-02-20T11:00:00Z
-    webUrl: "https://www.sentinelsource.com/news/national_world/facebooks-faceoff-with-australia-could-backfire/article_4ea2c216-d23d-54b4-a8db-67d13e341abb.html"
-    type: article
-    provider:
-      name: The Keene Sentinel
-      domain: sentinelsource.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/sentinelsource.com/content/tncms/assets/v3/editorial/7/d1/7d1b4ebf-08c3-57ec-b562-8679e2b62912/603037b34f097.image.jpg?resize=945%2C630"
-        width: 945
-        height: 630
-        isCached: true
   - title: "Facebook's Australia face-off could backfire across the globe"
     excerpt: "But this week's abrupt news blackout forced the issue onto the agenda of governments whose regulators are already ramping up scrutiny of the growing influence of Facebook and its ilk in spheres from media to artificial intelligence. \"There is a lot of ..."
     publishedDateTime: 2021-02-21T05:01:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "nVoq.Mobile Voice: HIPAA Compliant Speech Recognition - Innovating to Enable Mobile Clinicians"
-excerpt: "With staffing challenges, documentation requirements, and delivering high quality care never more important, Home Health and Hospice agency leaders are seeking innovative ways to enable their clinicians,"
-publishedDateTime: 2021-02-24T10:43:00Z
-originalUrl: "https://menafn.com/1101649468/nVoqMobile-Voice-HIPAA-Compliant-Speech-Recognition-Innovating-to-Enable-Mobile-Clinicians"
-webUrl: "https://menafn.com/1101649468/nVoqMobile-Voice-HIPAA-Compliant-Speech-Recognition-Innovating-to-Enable-Mobile-Clinicians"
+excerpt: "With staffing challenges, documentation requirements, and delivering high quality care never more important, Home Health and Hospice agency leaders are seeking innovative ways"
+publishedDateTime: 2021-02-23T21:15:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/nvoq-mobile-voice-hipaa-compliant-speech-recognition---innovating-to-enable-mobile-clinicians/article_04b52285-8752-5c9b-aece-70fbd21f12fe.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/nvoq-mobile-voice-hipaa-compliant-speech-recognition---innovating-to-enable-mobile-clinicians/article_04b52285-8752-5c9b-aece-70fbd21f12fe.html"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?151881"
-    width: 436
-    height: 249
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/ec/cec07458-6128-5e7e-b4d3-30cc41033b59/60371065c6691.image.jpg?resize=600%2C600"
+    width: 600
+    height: 600
     isCached: true
 
-secured: "UNt1A4whuNmvECGSqAI//Ecas9DhhtLPZCUOdGDq+Ca0T+52twZd3Hhf8CZ+lDLE/QVbI3xMnH+AOXL7XcxEnRNSv3/Fn5ll6eKR9pKYpUi+NlSFi9B+pydgzsFaekMyHSVKoOU1CQp5v9DaRBQs5SFH2lVuvAGRNKh1WqoGcGOSZ/6YlHyKANMdgKctTeDcPetTRuRhIuHjPLAEjkviBTiZR9dDWoWFiIUOpo55b6+31qVy/+fRRnlzWNfqIZkEOcNgZ4ic83+DLNrVVAHAFLRWQeoKV1BJLxDH/c6DJdYfJZhjp07zs7D29w6BOAR2Hft1CEDnoZGsxtoUUHpC2Qe5SWrvbPY+ocCcYx3GDro=;8MJWa+szCr9dInxrBwim3w=="
+secured: "4EYAHZW4Y1mkg5Beb73k2JKsse7oiMsaze73rZLwnnIsRcwy2ujlEaZx8u00ZPuQrV8Qk98oGAVVh3LckmUcgHjaHfx1L3L2EkIWnOPdUW7YYssdx21UnoB+2lAI6bPrvb6+1a/qfQHi36eKXposJPNQknAYSt6b6h4JHjKtDtu4vaDBe7hkt/KBYb40rj4E8ZfDjsqEaCFMAuNYnVU0L/5N7pKxMWCWZAE9FRdqyu8qNXjaeZzcz3sD7kz4vlJXRK0chOV7O8mXmVLI9v7nHukTJzIEJDAkLBtIPa1LBTEiNSudmw4eSwDBQmECSQ5E5iBvBNDAYgCk2xQLBgI6ruvuHS0GNosp3QzNYSsmNwM=;6blyPptoY32Lcc9uOXvKRA=="
 ---
 
