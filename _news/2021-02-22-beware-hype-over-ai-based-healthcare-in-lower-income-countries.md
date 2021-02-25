@@ -39,6 +39,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "OSF HealthCare Using Data and AI to Drive an Increase in Childhood Vaccinations"
+    excerpt: "Peoria, Illinois-based OSF HealthCare wants to change that. Through a nearly $75,000 grant available through its Jump ARCHES program, and nearly $30,000 in state grant funding through the Illinois Innovation Network,"
+    publishedDateTime: 2021-02-25T19:06:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-public-health-coronavirus-pandemic-illinois-artificial-intelligence-d38df52175a9bbf596afb81224f3ea8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "23svW2H5wl90osHzX5WYa02Q7fY9ZXjllHiNhYjYisvmsyXTpXZyTEKhP2vaXHF8Z79OHnI/wGavOZdtCyEeC771UOFDGxgt47AkP8k8+Jg7NbE5VQIjZXt5vsup+RfiPnIn/4z2Ls2682B8sdzVEW+9se8V9i92THt6H3EcgUG4seIQn+PmAmy233ltqwCgs26qHXgVH71+UZXKj5PN2afGrmLlcTV4ZyYFgSq8Vq8YCnZjit/AxvgBJQiSgpPYBC6QdiFeQR6C/76CC/0w0MFlr3nbRs2R2nJPJhiryN+0B+JerQmT13THf2GA3qPZR+E3NYTpGC2mRUVqJoc86FnxaPF5NiZbD4nImV+uuw3oMnh53BY41RdTPs90Ih1VZkXFJKaDESzmumGVDYddDMYivHnjKYMlg+v0flx072UG5cxoouPPc6Nw9bw8zTvz0bUjs+a3NrrcVYxuZza0+IC1FDIUqpMElb83pXYb0DEZwMVwtRJeXGzflrVNstL8whzrT+z44Qug0kQ0go4A8g==;whVjtd/Oa5TL/TG37J/N8A=="
 ---

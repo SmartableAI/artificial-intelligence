@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
 quality: 104
-heat: 214
+heat: 204
 published: true
 
 provider:
@@ -133,15 +133,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "IBM’s retreat from Watson highlights broader AI struggles in health"
-    excerpt: "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ..."
-    publishedDateTime: 2021-02-21T04:09:00Z
-    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 34
   - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
     excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
     publishedDateTime: 2021-02-23T13:16:00Z

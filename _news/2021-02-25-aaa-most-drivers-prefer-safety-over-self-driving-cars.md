@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-
 cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,77 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving companies are inching toward fully driverless service"
-    excerpt: "Motional, a joint venture of Hyundai and giant auto parts supplier Aptiv, has begun testing its self-driving vehicles in Las Vegas without anyone behind the wheel, the company announced in a Monday blog post."
-    publishedDateTime: 2021-02-22T17:54:00Z
-    webUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-begins-driverless-tests-eyes-2023-launch/"
+  - title: "Nissan latest automaker to deny Apple self-driving cars’ ambition"
+    excerpt: "Apple has struck out with another carmaker on a potential collaboration to develop self-driving vehicles, this time with Japanese auto giant Nissan."
+    publishedDateTime: 2021-02-25T02:51:00Z
+    webUrl: "https://techwireasia.com/2021/02/nissan-latest-automaker-to-deny-apple-self-driving-cars-ambition/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/02/nissan-latest-automaker-to-deny-apple-self-driving-cars-ambition/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/02/nissan-latest-automaker-to-deny-apple-self-driving-cars-ambition/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 44
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/motional-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/02/shutterstock_1105437455-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
-  - title: "Why driverless cars are paradise on wheels for some"
-    excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
-    publishedDateTime: 2021-02-24T09:59:00Z
-    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
+  - title: "Could improving vehicle safety technology pave the way for self-driving cars?"
+    excerpt: "While drivers are still unsure about self-driving vehicles, they are warming up to advanced safety technology, a AAA survey reported."
+    publishedDateTime: 2021-02-25T14:50:00Z
+    webUrl: "https://www.daytondailynews.com/local/could-improving-vehicle-safety-technology-could-pave-the-way-for-self-driving-cars/ZR6ZX5ZA65G6VGTBW3AW2VGWII/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 21
     images:
-      - url: "https://images.mktw.net/im-301724/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Driverless electric bus hits the road in Spanish city of Málaga"
-    excerpt: "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe"
-    publishedDateTime: 2021-02-25T18:41:00Z
-    webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Driverless Bus Hits Streets Of Malaga In Southern Spain"
-    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga's port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
-    publishedDateTime: 2021-02-25T17:15:00Z
-    webUrl: "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Artificial cities could pave the way to driverless adoption"
-    excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
-    publishedDateTime: 2021-02-23T11:04:00Z
-    webUrl: "https://www.americancityandcounty.com/2021/02/23/artificial-cities-could-pave-the-way-to-driverless-adoption/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 39
-    images:
-      - url: "https://www.americancityandcounty.com/files/2021/02/nvidia-self-driving-car-drive-px-overview-social-image-800x400.jpg"
-        width: 800
-        height: 400
+      - url: "https://www.daytondailynews.com/resizer/9YKbrHs7pZhF5Oe29TJ6iK9O5JY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/76CAVDFORJCQ7EEYLLCGZOANSI.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "YAHG4M55h64N9n9Awp7tlvu9/DGd7lONVijlpGRDd4gnK9HrfpwtY0pFESLA4LCPoATxLAvnb/YWivuOJWs5UVnDwhYSdKs4t4m71uGdvr6KGnD6GujwGHB+BAqtJ74qnoXPJIBthKOlkUEq2WPa14XlN0KBxz7jIDfMLNdqMzt1BMraqwdodNYtmsZN1PUiWE+D75IxsQON1ZExijI9Q2NtIR0LTaa3f0U/pWph2meTgiUCeOVEJ4Zjlv8G/xfmn3cAAwLOgQzhFsQj4UBFbEjasnIG4mDnpJWEQnHkQKfhRGnakMThcAd6/205Yt0XlhxcQPII7JgG1UjxvRTnKIi6Cs7sIKKRvp/1q0Cfu6Ix10cmRAY4Dwo6RQiDhLtRnWv8YnsBYUm2yqwkYvg+iLcgOdmoxKKaVIWgwSfpRzIF6Ws4mwjh48YLTQeUGMPS3N3JRR4+aM/2pbkBxNq5WtZxIzSYN9mdiuYptYKJKCOMnV/QkC6OmQdh2mi8OCONyiEuu1GpJfxBiv06nAwKZQ==;jJO6lJTslsBYItjckJvyOA=="

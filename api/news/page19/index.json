@@ -2,6 +2,100 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-09-sentinelone-to-acquire-high-speed-logging-startup-scalyr-for-155m.md",
+      "title": "SentinelOne to acquire high-speed logging startup Scalyr for $155M",
+      "excerpt": "SentinelOne, a late-stage security startup that helps customers make sense of security data using AI and machine learning, announced today that it is acquiring Scalyr, the high-speed logging startup for $155 million in stock and cash.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
+      "originalUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-998110690.jpg?w=1024",
+          "width": 1024,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/sentinelone-acquires-high-speed-logging-startup-scalyr-for-155m/amp/",
+      "publishedDateTime": "2021-02-09T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-gmrs-delhi-and-hyderabad-airports-receive-aci-recognition.md",
+      "title": "GMR's Delhi and Hyderabad airports receive ACI recognition",
+      "excerpt": "Both airports have been recognized for their continuous efforts to listen to their passengers, engage and gather feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874.html",
+      "originalUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/02/09/550x309/delhi-airport_d7e0ef0c-d241-11ea-8924-6a92a23725cb_1612871976965.jpg",
+          "width": 549,
+          "height": 309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/gmrs-delhi-and-hyderabad-airports-receive-aci-recognition-101612871836874-amp.html",
+      "publishedDateTime": "2021-02-09T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-artificial-intelligence-for-good-how-ai-is-helping-humanity.md",
       "title": "Artificial Intelligence For Good: How AI Is Helping Humanity",
       "excerpt": "AI empowers organizations, governments and communities to build a high-performing ecosystem, and its profound impact on human lives is solving some of the most critical challenges faced by society.",
@@ -1086,102 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform.md",
-      "title": "Arize AI Partners with Spell to Bring ML Observability to the Spell Platform",
-      "excerpt": "Observability company, and Spell, a powerful ML Ops platform, announce a partnership giving Spell customers access to Arize AI's model observability capabilities. Spell users will be able to monitor,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
-      "publishedDateTime": "2021-02-08T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-better-data-cheaper-tech-promise-to-unlock-natures-secrets.md",
-      "title": "Better Data, Cheaper Tech Promise to Unlock Nature’s Secrets",
-      "excerpt": "Conservationists hope newly launched open-source tools will lend more insight into endangered species and the effects of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "originalUrl": "https://www.wsj.com/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-294425/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "publishedDateTime": "2021-02-08T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

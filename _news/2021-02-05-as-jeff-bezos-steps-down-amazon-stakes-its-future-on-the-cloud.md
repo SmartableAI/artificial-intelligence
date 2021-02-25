@@ -2,9 +2,9 @@
 category: news
 title: "As Jeff Bezos steps down, Amazon stakes its future on the cloud"
 excerpt: "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ..."
-publishedDateTime: 2021-02-04T23:46:00Z
-originalUrl: "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
-webUrl: "https://edition.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
+publishedDateTime: 2021-02-04T20:39:00Z
+originalUrl: "https://www.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
+webUrl: "https://www.cnn.com/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/04/tech/andy-jassy-aws-amazon-future/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "Kij1PkEiX93hQmFi6jHCbG1VvScWEP0rUG4WFwrLvlwEIFaACkuE9Q3FICLbmU5CbxMuEqmaeLLL4zkgSBJ/DfR0ev2nzWuvNEF+ljQiWR5E+q5LQ2+bxPJ/1Ywb1Tb/LKDSPZtcO5ovtMJ2MaxTo95wviYpkaLTTU8G1ZxdAHE6A8YGTiiT2SeKtU9BGdEgeNmQLRqTMk54mxMY9VQl7P7rzCED58B0h9Us5JQg6UNBgQA14KtE+kHFoV++/F2kZDBG6vPZAF5eB3GyiTbvX6Dsq2KwcvWwkdAthhqFONG+lew3Ts0AOYMhDshN2igusIIfqWzIH57UunILA5nStyfFFcX77mrCh2TTW4T7L1Y=;DRjuHk4tXk/TSjlT0JFOkQ=="
+secured: "CzyKSeugvwPEHBDsrGYP+FIRAofFRBpCVb3PEaeMgWkD5H/WkS5JKbFqb7WYuCCnkcELNGbECcCLU+tcQe8BdI/kUphSf8pKDrXE6SaF6OQ9xNBY81FBUYGD1vSyOHl57GSehAHXnUkrEm0Bp2iez7jBrGZjGcqiwi9gknK5uV3kWMitVwMRDPJIqgvXkYR3lzdjO55vMVdDAOtJu9Wifn7oqQt87U/C39dEJpisrZs/wXob/GZXOmlntHveQdXS5Z2GFkmv3lVHrBKzdCEHHmnXGcSphKM/jUnHRXI5824Je+MeFyzeVQNuuF1hgR+n40t1vFB8bVxRLDTgEJUwptaguy9/wl7tdHCH7xuP+Bg=;UZWL8oT2WVigThrKbYl6TA=="
 ---
 

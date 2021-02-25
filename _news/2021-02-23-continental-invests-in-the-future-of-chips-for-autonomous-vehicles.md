@@ -36,6 +36,20 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Driving on the cutting edge of autonomous vehicle tech"
+    excerpt: "In a bid to become the hub of practical autonomy at the Institute, MIT DriverLess partners with top companies to develop and test autonomous technologies in real-world racing scenarios."
+    publishedDateTime: 2021-02-25T19:59:00Z
+    webUrl: "https://news.mit.edu/2021/driving-cutting-edge-autonomous-vehicle-tech-mit-driverless-0225"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 54
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202102/Castillo-Ying-driverless.jpg"
+        width: 1125
+        height: 750
+        isCached: true
   - title: "To the list of places testing driverless cars, add Las Vegas"
     excerpt: "Last month, Chinese search giant Baidu received a permit from California to test vehicles ... Alphabet-owned Waymo and General Motors’ Cruise have kicked off similar self-driving ventures. Testing autonomous cars on public roads isn’t fail-proof."
     publishedDateTime: 2021-02-23T02:09:00Z

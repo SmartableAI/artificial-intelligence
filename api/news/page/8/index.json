@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-18-daimlers-self-driving-truck-company-torc-robotics-picks-aws-as-preferred-cloud-provider.md",
+      "title": "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider",
+      "excerpt": "Torc Robotics, the self-driving truck startup majority-owned by automotive giant Daimler, plans to use Amazon Web Services as its preferred cloud provider. The company, which operates as a semi-independent subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Torc_Robotics.2e16d0ba.fill-1200x630.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-smart-machines-ai-technologys-impact-on-floridas-business-sectors.md",
+      "title": "Smart Machines: AI technology’s impact on Florida’s business sectors",
+      "excerpt": "AI can’t replace humans, but the technology is making inroads in more and more business sectors. In an oft-quoted interview with Life magazine in 1970, Marvin Minsky, an MIT researcher and pioneer in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/",
+      "originalUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/utyknz4ZES4gecWGUel9wrw-fh8=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/JQLH2WUYRJHPRI63JKOFIHE5DA.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp",
+      "publishedDateTime": "2021-02-18T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-top-five-latest-industrial-robotics-trends-explained.md",
       "title": "Top five latest industrial robotics trends explained",
       "excerpt": "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world.",
@@ -1102,102 +1191,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-the-ai-driven-platform-powering-the-future-of-fresh-food.md",
-      "title": "The AI-Driven Platform Powering The Future Of Fresh Food",
-      "excerpt": "The question is, how can stores make sure they have enough of the fresh foods their customers crave at just the right, ripe moment, while minimizing losses from past-its-prime or expired offerings?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
-      "originalUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://specials-images.forbesimg.com/imageserve/602c2f48e7cffddc942ebce0/960x0.jpg?fit=scale",
-          "width": 960,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-lumiata-partners-with-ascendio-to-offer-data-preparation-for-healthcare-customers-on-aws-and-azure.md",
-      "title": "Lumiata partners with Ascend.io to offer data preparation for healthcare customers on AWS and Azure",
-      "excerpt": "The Ascend platform easily fits into any data ecosystem, providing a unified fabric for companies to run their businesses in any environment",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

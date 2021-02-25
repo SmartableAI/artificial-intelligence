@@ -7,7 +7,7 @@ originalUrl: "https://www.daytondailynews.com/local/could-improving-vehicle-safe
 webUrl: "https://www.daytondailynews.com/local/could-improving-vehicle-safety-technology-could-pave-the-way-for-self-driving-cars/ZR6ZX5ZA65G6VGTBW3AW2VGWII/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -25,33 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Will intelligent roads finally move self-driving cars into fast lane?"
-    excerpt: "Disillusioned by the limited progress of in-car technology, companies are shifting their attention from self-driving vehicles to the roads they will drive on. The goal is to accelerate the time taken to bring AVs to market – perhaps dramatically."
-    publishedDateTime: 2021-02-22T00:09:00Z
-    webUrl: "https://www.autocar.co.uk/car-news/industry-news-technology/analysis-will-intelligent-roads-finally-move-self-driving-cars"
+  - title: "AAA: most drivers prefer safety over self-driving cars"
+    excerpt: "The American Automobile Association says vehicle safety is most important to consumers, not the development of self-driving cars. AAA surveyed more than 1,000 U.S. adults in"
+    publishedDateTime: 2021-02-25T14:04:00Z
+    webUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/"
+    ampWebUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
     type: article
     provider:
-      name: Autocar
-      domain: autocar.co.uk
-    quality: 20
+      name: NBC4i
+      domain: nbc4i.com
+    quality: 44
     images:
-      - url: "https://www.autocar.co.uk/sites/autocar.co.uk/files/images/car-reviews/first-drives/legacy/lead_36.jpg"
-        width: 1600
-        height: 1066
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2018/07/vlcsnap-2018-07-09-20h12m44s928_1531181580892_48125989_ver1.0.jpg?w=1280"
+        width: 1280
+        height: 738
         isCached: true
-  - title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
-    excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
-    publishedDateTime: 2021-02-24T05:47:00Z
-    webUrl: "https://www.econotimes.com/Apple-Car-projects-search-for-LiDAR-sensor-suppliers-hints-at-self-driving-vehicles-launch-in-the-next-5-years-1602926"
+  - title: "Nissan latest automaker to deny Apple self-driving cars’ ambition"
+    excerpt: "Apple has struck out with another carmaker on a potential collaboration to develop self-driving vehicles, this time with Japanese auto giant Nissan."
+    publishedDateTime: 2021-02-25T02:51:00Z
+    webUrl: "https://techwireasia.com/2021/02/nissan-latest-automaker-to-deny-apple-self-driving-cars-ambition/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/02/nissan-latest-automaker-to-deny-apple-self-driving-cars-ambition/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/02/nissan-latest-automaker-to-deny-apple-self-driving-cars-ambition/"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 3
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 44
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210223f39e6aa9e4e0156c7_th_1024x0.jpg"
-        width: 900
-        height: 600
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/02/shutterstock_1105437455-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
 
 secured: "3GCw8oKxBwiyzpgWApyYOJUEoky3ynbJ7ScEEOGXLei5wJlcuFLJ79qfYdqXDIW+OOravVjFrv20Z3+f3DX7KkXyZHvFijHfdOPMz7wdUP9XQyHirP//6qdQTDgHW97WquXFlyK4eaEoJ54RkspaJhfokAf8LwyrVsRO2ydJEK8VV5cV++/kgZs+Si/WqCxCHVVDloND6QaRbNwWQeyQBoSzNCNoAmhnXvjlz/4WBdOYIlKwIR8oKpvyOqBxtzhPc/uj2Y1qic87eBzWbt8P9IV0yiT6Z/W63C5gJyjS5i7EU0+kL+MPEX9He/pwBqlmZj4MEU8N2fpCbIylHYd70nGjJITs7phyJERtZJvDT+o=;AswiznNKUgK14NDQCRLgOw=="

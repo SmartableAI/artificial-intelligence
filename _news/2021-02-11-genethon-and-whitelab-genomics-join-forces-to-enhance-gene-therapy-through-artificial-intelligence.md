@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Genethon and WhiteLab Genomics Join Forces to Enhance Gene Therapy Through Artificial Intelligence"
-excerpt: "WhiteLab Genomics, a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy."
-publishedDateTime: 2021-02-11T05:43:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580"
-webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580"
+excerpt: "a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy. The ..."
+publishedDateTime: 2021-02-10T16:20:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence"
+webUrl: "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "vrSONNTOaoWJ5r8WnzfAID7dfktjxqWKCMgRNWGRN8SzdS/5oVVsyUju56KFkZl32d7HEeorbyZcTl9I9Lzfbe27TVLZ4HbVX5mU5mSzbrXUwNCg6a4up2SpMKO6qphicLE7T4Z2t6S3gwfeJc9z5wSkGSKkeNfStg2PE/qrAATJ6DZzDhP3nGyntHUcIF70pr1ek1b14YXcSAiKSgVaY8NRdYS6KUNJ+/fiE8xsp2Jg4BWUoPQWNqVsxm+8CJxHlbW6nl3PIGYrNgtBWNlDPpcsHub/v3OETKNDAjdrXXazE4WCHnpbmW2jVbD2u9tzsHoZHNv0ut+WTI2SinW1lAM1PSD+jKsC1Wgac+VGPBQ=;P7gpvYWR2pLGTEWo6ublYg=="
+secured: "oGk3HIxd7m9JIbRzVLrD8tVWe3M75ZOeHShwcQZk3E6+dGYwWj5d3NB2v4DQ6j3bkz0aFlzF9xGglw5+ewwyxZmWdsZE28DTAsD7gkAphyCDSO+tfK/EQBLdzwkKYmuwSp0Up00j/yE4Lu+iYzK4D36eEMrBHwcpfNXbsk8wVFUaFfviD88D2VKGH/htrydV8KtvwRSR8mbolBXe5HYwNcmtGOMI/kvEdg664qiH+FHsq674THZUet/jYIF0iYj1j/ReM+nH0hiaj7eJtKYQdZzBTQuST5o140QuHLs2WTqsJnzqsZd4P2ljWIyNKAmmAWxqgWRauaujplStgJhl6W2trbQJChllqI/FdFu3Wuo=;79b4YSF87nIhKd+QUfZ5Dg=="
 ---
 

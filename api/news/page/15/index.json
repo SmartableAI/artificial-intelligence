@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-11-hear-this-kandinsky-painting-with-googles-psychedelic-ai-tool.md",
+      "title": "‘Hear’ this Kandinsky painting with Google’s psychedelic AI tool",
+      "excerpt": "Google Arts & Culture's latest machine learning experiment explores the artist's synesthesia and the connections between music and painting.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-11T124053.154-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/amp/",
+      "publishedDateTime": "2021-02-11T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-fieldfisher-launches-new-financial-services-advisory-firm.md",
+      "title": "Fieldfisher launches new financial services advisory firm",
+      "excerpt": "European law firm, Fieldfisher LLP, has announced the launch of its new financial services advisory firm, Fieldfisher Capital LLP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
+      "originalUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T07:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fieldfisher",
+        "domain": "fieldfisher.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming.md",
       "title": "Bowery CTO Injong Rhee on the grand challenge of AI for indoor farming",
       "excerpt": "Bowery has opened what it calls ones of the largest indoor farming R&D operations in the world to tackle challenges using machine learning.",
@@ -1069,91 +1154,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale.md",
-      "title": "NeuReality emerges from stealth to accelerate AI workloads at scale",
-      "excerpt": "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million.Read MoreRead more on",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale-9796412",
-      "publishedDateTime": "2021-02-10T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-genethon-and-whitelab-genomics-join-forces-to-enhance-gene-therapy-through-artificial-intelligence.md",
-      "title": "Genethon and WhiteLab Genomics Join Forces to Enhance Gene Therapy Through Artificial Intelligence",
-      "excerpt": "WhiteLab Genomics, a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580",
-      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T21:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Driverless Bus Hits Streets Of Malaga In Southern Spain"
-excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga's port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
-publishedDateTime: 2021-02-25T17:15:00Z
-originalUrl: "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166"
-webUrl: "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166"
+title: "Driverless bus hits streets of Malaga in southern Spain"
+excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
+publishedDateTime: 2021-02-25T20:34:00Z
+originalUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html"
+webUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html"
+ampWebUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 74
+heat: 114
+published: true
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg"
+  - url: "https://scx2.b-cdn.net/gfx/news/2021/theelectricp.jpg"
     width: 1024
     height: 683
     isCached: true
@@ -69,22 +71,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "AAA: most drivers prefer safety over self-driving cars"
-    excerpt: "The American Automobile Association says vehicle safety is most important to consumers, not the development of self-driving cars. AAA surveyed more than 1,000 U.S. adults in"
-    publishedDateTime: 2021-02-25T14:04:00Z
-    webUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/"
-    ampWebUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 44
-    images:
-      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2018/07/vlcsnap-2018-07-09-20h12m44s928_1531181580892_48125989_ver1.0.jpg?w=1280"
-        width: 1280
-        height: 738
-        isCached: true
   - title: "Artificial cities could pave the way to driverless adoption"
     excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
     publishedDateTime: 2021-02-23T11:04:00Z
@@ -100,6 +86,6 @@ related:
         height: 400
         isCached: true
 
-secured: "2hH/L1Y3xbncJUwqE9VCGeiu9ZTvMS/OxjJW5+BKdaoIgxQDC76l2cOCv6AjPJj+xLlWVRoS7fmMsohLzxbQrxaI6UdBQUiX554hym/F7Eh8ydJrq/HM8JbOY9LGDqdJT63rYbLzv6oVHYcxc/No2P6+bSZ75pnELlZ8p5VVIZbMHqmYzooirX5+t92hDh6sf+geyQZlqicoDiy0b8BmbRE/AVvfBo7/yNKBNf+7FSbN3FEY/3ZI01ff58RIKMezgflDTE3RyFxoKSGNUyrK+lkPhMqZL0LIvY5xWE6+Ra/nEpx+/awMoT1NUCkvKvFxAZU0GuENUtJ/RnyuFCa1XTF7VxI35flZM1Os+TwE10M=;Eu/K32ET4GpJeEV1gabCEw=="
+secured: "fp3PxcNv3VahAu+nIG81AICb5YJEnNjiouSMy4bMEs4ocHv4Bv3UFb7N3dg8H37g5qS3pJ9a0Pyndilx4ZL2yBmaGULlnrsx1/bcQ1Gk9lswHVza3iBVGVMaWHT4kAGFLAgUcGBdiFdfn4oFFuCNdrwiSbPBX1+PoY0jAw7WuUzViOEIJA/QyoieNxOrnGSiJ0uOYGAbRTs75GeQtl5nSw8pE+QB8+vaU7SH1G/dhAhD/JkG4hNU34Am9bpY2jg79XObgBAKXvfuOBkI2Udwo72a5vlPJQH87Y/EFLsMAeNCgaiMhAADtWAg8/0OAMMKunZyuMAP29o3IpuslQyd7vcfxtRCmNTqN6fEy+apgV4=;ixTDvmwGfkZsegdr2VElBA=="
 ---
 

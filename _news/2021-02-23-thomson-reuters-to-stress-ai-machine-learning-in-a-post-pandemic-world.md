@@ -3,8 +3,8 @@ category: news
 title: "Thomson Reuters to stress AI, machine learning in a post-pandemic world"
 excerpt: "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit."
 publishedDateTime: 2021-02-23T15:48:00Z
-originalUrl: "https://www.reuters.com/article/us-thomson-reuters-results-idUSKBN2AN12M"
-webUrl: "https://www.reuters.com/article/us-thomson-reuters-results-idUSKBN2AN12M"
+originalUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M"
+webUrl: "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-fourth-quarter-revenue-adjusted-earnings-rise-idUSKBN2AN12M"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AN12M"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M"
 type: article
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "NS3n7MrRlC41CXiwNAKzWybUVTZ5Vk/LI7vOUYTT/ByIdlsOEpKM9LH5fxxDAgrehY8EpmHE7HGbythKuDD6Vb/FHyawzZ9XjTQLiSfkbl2ZHqGQPiqgaGQe97B49zTc9KZXyIaCmlhgcQzbSftAq1xmgjplIGYLxwgoPM0P9y0ErLVm6lIwl+TBpNEp552T4CtYpjo1giS/EtCu+S94Lor3GSEr/4xmDmOhnCKwuvtC84a8JFNNofJUEjsaPpTwaw47HLd7fehzp9pu//geN5+ZDWfbcriWz2QIRaCD8fjeUE9JY/7io4sKKxEQ7gCOrK3MaJL1IRnGIjHjuamI5mfaxjjATUsPZXHwA1asj3i+uQFRfl/FRjpl4x405DimLoNHDoRzemtrAYd09M5fLtZ0aDX0/5NSdkShVhBg/L9GGnP8CSotjnbDZrQmPlG7GAEvhBIxxCdjIgyXleF5OkljbFLpR7eB2PbpQQ1lLppEtMeMdSLXhc/9liHdllXfMa+Eq864B9R5R82/zDCF4g==;qzpnVM4gs1EWDU4iH9i5EA=="
+secured: "MzJM2tk3kitrFTDd4Um8HOdZd/Bbf8HED6Q6vkVdU6vR1UXQ62GLpygwYHW+4QyElhJiOL5FwnfaMxuR08dn6KbU1TsADCHIfX1/2YOPLVJEpvncP+S2PFmEuPaPEUBLViXVjdI2kp2eR+1GzyBD8JFOdlymNC90ENpdf+N07X3nZrKS//kgPodo5pKfNlNh846v9b+tdyz4BCDRQaKpsaxFc1dSDwF7JYVVWfVflIGUNnmC1QZrGBLbvtpMARvMJW5X2+4vDZE2WKnl3kHRz3rq7rbK2zcwgrDEBctY970YVyIt+MrMA1dc0NENH1Uc3i805NHwDUVIK3BncNRfRDCJCPlr7BZyZFX2oDOESX8=;zDfBP7RpKU20TRoomdqDpw=="
 ---
 

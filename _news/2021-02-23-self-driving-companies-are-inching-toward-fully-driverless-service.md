@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-b
 webUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-begins-driverless-tests-eyes-2023-launch/"
 type: article
 quality: 69
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless bus hits streets of Malaga in southern Spain"
+    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
+    publishedDateTime: 2021-02-25T20:34:00Z
+    webUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html"
+    ampWebUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/theelectricp.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Why driverless cars are paradise on wheels for some"
     excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
     publishedDateTime: 2021-02-24T09:59:00Z
@@ -58,36 +74,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242"
         width: 600
         height: 360
-        isCached: true
-  - title: "Driverless Bus Hits Streets Of Malaga In Southern Spain"
-    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga's port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
-    publishedDateTime: 2021-02-25T17:15:00Z
-    webUrl: "https://www.ibtimes.com/driverless-bus-hits-streets-malaga-southern-spain-3152166"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 54
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/25/the-electric-powered-vehicle-operates-autonomously-but-a.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "AAA: most drivers prefer safety over self-driving cars"
-    excerpt: "The American Automobile Association says vehicle safety is most important to consumers, not the development of self-driving cars. AAA surveyed more than 1,000 U.S. adults in"
-    publishedDateTime: 2021-02-25T14:04:00Z
-    webUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/"
-    ampWebUrl: "https://www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/news/aaa-most-drivers-prefer-safety-over-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: NBC4i
-      domain: nbc4i.com
-    quality: 44
-    images:
-      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2018/07/vlcsnap-2018-07-09-20h12m44s928_1531181580892_48125989_ver1.0.jpg?w=1280"
-        width: 1280
-        height: 738
         isCached: true
   - title: "Artificial cities could pave the way to driverless adoption"
     excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"

@@ -54,6 +54,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-5-data-issues-limiting-ais-potential-in-healthcare.md",
+      "title": "5 data issues limiting AI's potential in healthcare",
+      "excerpt": "Technology is increasingly interloping with efforts to make healthcare more efficient. Still, experts are finding it difficult to apply artificial intelligence to medical treatment, according to a Feb.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/5-data-issues-limiting-ai-s-potential-in-healthcare.html",
+      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/5-data-issues-limiting-ai-s-potential-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T11:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-from-the-data-and-ai-expert-labs-its-not-whether-you-adopt-ai-its-when.md",
       "title": "From the Data and AI Expert Labs: It’s not whether you adopt AI. It’s when.",
       "excerpt": "You wouldn’t be reading this if you didn’t have the sense that AI is the future. But the breadth of solutions can be so paralyzing that it stops business leaders cold. Firms like PricewaterhouseCoopers and McKinsey predict that the global AI economy will grow to $13-15 trillion by 2030. But today only",
@@ -114,7 +158,7 @@
       "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -162,8 +206,8 @@
       "title": "IBM exploring sale of its Watson Health unit",
       "excerpt": "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20",
-      "originalUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20",
+      "webUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1408,58 +1452,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-technology-is-rapidly-changing-cancer-care.md",
-      "title": "Technology Is Rapidly Changing Cancer Care",
-      "excerpt": "The Watson platform was developed with ... to identify the best treatments for cancer patients. IBM Research has been exploring how AI systems could ingest raw data and support oncologists as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600cc1fc7c71e2869dea3b6f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/01/23/technology-is-rapidly-changing-cancer-care/amp/",
-      "publishedDateTime": "2021-01-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

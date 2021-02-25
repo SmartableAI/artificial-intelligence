@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's"
-publishedDateTime: 2021-02-09T13:01:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's enterprise-ready platform will use Microsoft technology to power its products,"
+publishedDateTime: 2021-02-09T14:05:00Z
+originalUrl: "https://www.lelezard.com/en/news-19640933.html"
+webUrl: "https://www.lelezard.com/en/news-19640933.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "j1gXsXqTen9th+UnzGE1/R6JkrFP9hKxyWeQ3bmfnqKc8124KcZPRgwqihOahShCNl5t9oEUMnwyqIaZmexf/T9ePrPWTMUNgUnZ6HGs4E9dfznEkkGFPeXxnh2KTwbpouIdAwJl6zZHfn3KeJxds0aspsNaJutuU4dlquJHLYuhZRnhOnXYv5FSDZmPkLRO5WrBfCGn1/LqL6M7Zmu57zSXeBNeJmvsAm+C7Su8/KY8sQJfQgUChINp7wC4BFg034ej8rnVsCALf37rc/2PwIHmdss6GDersTqsDc5vMGpqFjbZ7hTxb7LErmR9Y7EKkcqwQ20gYj+OPSx2G+CRytaCMag/c8MPm3S3719w95g=;whwo4+LDXlCQjkzhqwvMeA=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "V+MtM3PEHVzXI4l5CkWZAnBFC7gVPUAgSMyqiEFz52LJty6vsAseTl9gFBYorlpHelD2cqAdxfTN1ILBQOi3jgnYYWLtj1D8G+v6Yps6n1FVC5HlGdpZcdGoCyl8nW0ZFh7gntXLmkXUln33cwQWxz1P/MylAjvNljDx1PtV8mORSF90iCtqhNCBluvcZjKjDHgrQ97y8ywDwIsXCXgTenn0rOQmS/b2l2tToj16LtZ5l12LVaCSAQw/fli6nYxQ4eFhF0EHqckk7+4PWYWYl70ftDg+58Me2KlgQ1GTp+MObe5XlQ9I3tMlpiuKqF3afDRRofOxVfsvRzd65S6k1Q74q9dRfSXogSyzMOMTMJk=;redY5rjHmL4bMYBvotXALg=="
 ---
 

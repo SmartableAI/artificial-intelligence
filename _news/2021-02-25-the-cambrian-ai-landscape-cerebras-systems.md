@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-l
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/24/the-cambrian-ai-landscape-cerebras-systems/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "The Cambrian AI Landscape: GROQ"
+    excerpt: "Groq is now sampling to select customers and claims to have built the most efficient DNN processor in the industry. However, we need more transparency to substantiate this claim, in my opinion. Groq was founded in 2017 by the engineering leadership team that created the Google TPU,"
+    publishedDateTime: 2021-02-25T19:32:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2021/02/25/the-cambrian-ai-landscape-groq/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6037f9807842cbd489fa3801%2F0x0.png"
+        width: 1200
+        height: 658
+        isCached: true
 
 secured: "QXIRZUFN/nGyTajc41msmPydo0+RUVoDZLydOcFY7D0p5KWMdbAI648+RaziV7puTijSeISNU26TTHO/X0rzB66PtpVRhM+9xEFqpYnWDuvot1lYKYvPghvl11rWhpFxB3kBi9+FDls7kBPqpNjF+U2ZZ8W+gFuhEAU9PRK7+EJvw3M4pKVFoAUdL3l4BzCs8HQbQgdAzM0gMsHqKBrJn3SlqBj638ZvhrrtVhLbrwdhms97uv1he2LIu8MYmWlNZueygJYbWqW3lPI8eD5pCPbLAh5keeKEcucLtG3QUHPC3NN66HRkzotwsyNO4a7YzjlFz79bLRk6HymTghA5U2Noi4O9j2Hz4uRbnuwtEDMj7awpmh8hxBlve6R9xMDvSpzJaSZHj3meP7SN8/I2b9/H7wa6qgiHfgZw+YOrevSZSh1/GCiIWw7C0yRGw2Shc949PXowMPE7BjrbG1z4ah/N+xZCXD6zxfQKsxlbtUCa/BZ7ybE+isdBhoFECAQmRMoAR4ta9UdLtroGnrI/mg==;2LwH3lJ0rEgmDuCAZWqy6Q=="
 ---

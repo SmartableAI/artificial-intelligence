@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/sanjose/news/2021/02/22/velodyne-qa-pa
 webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/22/velodyne-qa-part-2.html"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
+    excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
+    publishedDateTime: 2021-02-24T05:47:00Z
+    webUrl: "https://www.econotimes.com/Apple-Car-projects-search-for-LiDAR-sensor-suppliers-hints-at-self-driving-vehicles-launch-in-the-next-5-years-1602926"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 3
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20210223f39e6aa9e4e0156c7_th_1024x0.jpg"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "thIemIp2aBcLifYRhjwMPCREHkAv9CcK9n8SRc7VdFfcCUffyn7kFeoSgmJnsSuDF8TIqi42nk4cmur+9B7CBCaeirvAlBysBmW2FfVy6CYoIcbAuv9DEnfqKwZzzuSwG/qSVFtnCRlho5+y3lJzOyYaelLTtC18AU7YpuV96nVtVe+b0HWwT4a6yj16Dmnk1ONjG3ajUVbzkvIbvKoT1xS9wW2Tj2m4NY79rsCemNvx2QMBlmwwbEwINbiUNYf+GJJKMJ2EmngaJ+JaIDcItp1TRYF3v4qzVpfE+2lyf4sfDhgl1EMv07JWXPXNSCfL3x2VJHHyfEwwLjrJyIC2cLDinQqd7e2S85ICve7IerowkHN/j+jLQTQPYVkhcU8Sh9z79Qz0zraoHQrUl0Ot0CMThJ44y3Y799zyo7PXiwcRoAKg0kr4ld+DHxDL8hLrggqvlXS4RSQK+0EsbXNYPtLe+FikVyUgX/+r6U9sHHXYBZlvjJGgmB1XG0UQ4YFZb7zKrxCSKXp0g+/2TjXVeg==;WkMPSbU0GtLNIk+bHzCkIg=="
 ---

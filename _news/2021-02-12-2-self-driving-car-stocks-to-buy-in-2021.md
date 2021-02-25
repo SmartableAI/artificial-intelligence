@@ -1,20 +1,30 @@
 ---
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
-excerpt: "These companies are building the artificial-intelligence (AI ... platform consists of hardware and software designed to support driverless vehicles, from level 2 (partly automated) all the ..."
-publishedDateTime: 2021-02-11T16:36:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+excerpt: "This article represents the opinion of the writer, who may disagree with the “official” recommendation position of a Motley Fool premium advisory service. We’re motley! Questioning an ..."
+publishedDateTime: 2021-02-11T16:40:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "UKZDQE+Fss3iNxuEFFRm7kZ1bNmlD06kciVy/y9yH5N+zwOe3JU2wun1Rw81Vtx61ZS1QLo6gjjzPPhxAxNjiHskTcu6JKT2pEqLYjQn6BYG8hOHu7B4TsIFdJLhfMoxqCIuTySm2Tj/opWVlejZNZtjPE43YwRHazvvjj+ua0uJ67zbNCCmR09OsdDbqnUVxogVX1bHTMDA2C0IC2dc4NXV6eNm4g0ZmK1LCWpT36+O0wNR/YHFAC/PuSb+cfrle/dp23uHRiramsTDiS5obHOTYwBj4iAddMx6gxxfMYPM6bfe2G1IAvCxNzR9ZVFwuzPq5ZZTMFRRxdpj8qCxY0JayI+Im+gNs2ByTcuekWg=;XEPvUUTToFa4ysK9kEX4yw=="
+images:
+  - url: "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg"
+    width: 1619
+    height: 1060
+    isCached: true
+
+secured: "vegAFZKHsiMG2MTg6bMtpwIkbBWWE4jQjyEniXZdYJWEjlDmprbAdpNhKS7ufbqGgQXTd/SuRe2ElS9KUhCE2qoMIpt7SjdtUkBL9Lrpcuc3DLLTDyI+TJhIZMofbfIl1DRR0Ms+BWeR9V2HRdVGO11+oKH9AVDIZmmYX6TR/egRdgg2Lain31vFnx96xNDi0f6l2TIMtsIBVXBCgtMkwXMq6ahu0+YvraCf1QqJwt2sSHWFoy5sLEHD28xOnhJuE3LIJEkEFStvosCqR5Gb9u+fyk/VZHZgftGhxHEVGlZN0z0AsKscoAz4wqQSaaTa+uxMk9IaQDrH/GEp1tuxxwZsdmccfz+bYvOV+uTXZ7U=;dhq2nxKs21r5VshY7nyVSA=="
 ---
 

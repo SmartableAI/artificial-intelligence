@@ -138,15 +138,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "IBM’s retreat from Watson highlights broader AI struggles in health"
-    excerpt: "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ..."
-    publishedDateTime: 2021-02-21T04:09:00Z
-    webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 34
   - title: "Will IBM sell Watson Health? Maybe it should, analyst says – but how would it impact Red Hat?"
     excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
     publishedDateTime: 2021-02-21T16:12:00Z
