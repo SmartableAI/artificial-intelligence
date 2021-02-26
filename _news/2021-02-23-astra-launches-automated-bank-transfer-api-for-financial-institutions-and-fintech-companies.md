@@ -41,6 +41,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech Disruptors Lead Traditional Banks With Blockchain Infrastructure"
+    excerpt: "Fintech disruptors powering the banking revolution with behind-the-scenes blockchain infrastructure. Blockchain technology has made a significant impact in the banking world. Top"
+    publishedDateTime: 2021-02-24T16:04:00Z
+    webUrl: "https://www.finextra.com/blogposting/19938/fintech-disruptors-lead-traditional-banks-with-blockchain-infrastructure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
   - title: "5 top Indian FinTech funding rounds announced this Feb 2021"
     excerpt: "The Indian FinTech sector witnessed interesting funding announcements this 021. Digital payments have been instrumental."
     publishedDateTime: 2021-02-22T12:19:00Z

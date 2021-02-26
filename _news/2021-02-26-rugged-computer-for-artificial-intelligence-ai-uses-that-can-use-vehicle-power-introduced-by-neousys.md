@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-26T12:01:00Z
 originalUrl: "https://www.intelligent-aerospace.com/home/article/14198351/rugged-computer-for-ai-artificial-intelligence"
 webUrl: "https://www.intelligent-aerospace.com/home/article/14198351/rugged-computer-for-ai-artificial-intelligence"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/02/Neuosys_25_Feb_2021.60363c299010e.60380e597e440.png?auto=format&fit=max&w=1200"
@@ -53,6 +54,6 @@ related:
         height: 422
         isCached: true
 
-secured: "mQ1KUzcvdq6LTUKzxSvjH+TLGRG3vu37DSArHOXoe0oJUAYPWAWY8zs9yYh4Uc3WaG0kEuJjLLOT7xHjm/HYgQSWOIypmPsjnjJwosTlvNHB7sNMRYAacJ4nMJw8e7nij3HuDK6rmBZZuj6Kfl4kvqiQ78zXi8OmgqCx+CgsVH3lmtVIrgTZEaRImfgS5yl3reuMviy7tZ36WBVWK3H6HRp5Hy/BYpp4O1QiEDy25ZCQkngR5drQkP6CyRqz/L1Snqg4R3oFpbiE2fVYh9cRNG5F927qBPH9SyLzh03j8HXXyFGMhQTqKW8q6YHhDe/eWLeSeUW/ehXCV49JnBRvu9u8CMf/vAEGEyKD96eoLgo=;QjU+ck9j4kpvjcFw0XN8aw=="
+secured: "2bxwSg73JDsjooJCFhkwH29is+cv1Rs1sHwTT/N9bpeQKj8vDjMIOrpyAuIWkzCX+EfPSCeKkDjl2Y226g2nyBiCM38tkDfWTnEpv+gZFuEXeYHBoo/8nFX6RbTuuZMouMzZEFqnkB6Q6hZqbrI4WB6KWbti0mi3iQkScK/vFIePEYZDmOaaAJZtHfDNeh4kog7Nak/U/6gemE4YgKDnLenpIc3liGBFUUwEH4zjHerwPXfyW9vtpC0D+N5FUDMD9wHKURxf3tWYkbdEXXZZzZ61oC+yVQMtx3E1cgc791LRDeNrQ4JluLz3mHfedZF3xhcKyaRdNFmsrCK2MKxBVoo1Fyj2kI19oV2FPaDd1YgjOVJZOZak8WtOyLzrErODWSO0jWXf5DGBp3XY7C2HV0yyMQ0yzE7hn4TjszSh5Nhp0sUezQOmyp1KUZqA6AWz0LB4ADvitGziTU5VSfAETf8J3/5Rld/SJ5Zsx5tBt5Hanm7ZGI2HNGeU23+fx5SRPkBdd1huHTR9AAFgLIxQwQ==;/colEW+KHC8KGErW94Ueaw=="
 ---
 

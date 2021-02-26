@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/global-self-driving-truc
 webUrl: "https://www.marketwatch.com/press-release/global-self-driving-truck-market-trends-analysisgrowth-strategies-and-dynamic-2021-2027-2021-02-24"
 type: article
 quality: 60
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Security Market Statistics and Research Analysis Detailed in Latest Research Report 2021-2028"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given"
+    publishedDateTime: 2021-02-26T13:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Share, Sales Volume and Revenue Growth Analysis Research Report 2026"
+    excerpt: "The artificial intelligence market in North America is set for rapid growth. The growth witnessed in this region"
+    publishedDateTime: 2021-02-25T05:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-sales-volume-and-revenue-growth-analysis-research-report-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
     excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
     publishedDateTime: 2021-02-23T07:14:00Z
@@ -45,62 +73,29 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
-    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
-    publishedDateTime: 2021-02-23T14:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
+  - title: "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
+    excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic"
+    publishedDateTime: 2021-02-22T17:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-media-market-trends-share-size-industry-growth-drivers-and-restraint-research-report-by-2027-2021-02-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
-    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
-    publishedDateTime: 2021-02-22T11:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
+    excerpt: "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,"
+    publishedDateTime: 2021-02-23T14:21:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Platform Market 2020 Driving Factors, Industry Growth, Key Vendors and Outcomes of the Five Forces Analysis by 2025"
-    excerpt: "The latest report entitled Global Artificial Intelligence Platform Market 2020 by Company, Type and Application, Forecast to 2025 is an in-depth analysis of the global market on the basis of historic growth analysis and the current scenario of the industry."
-    publishedDateTime: 2021-02-24T01:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-driving-factors-industry-growth-key-vendors-and-outcomes-of-the-five-forces-analysis-by-2025-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
-    excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-24T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-industry-size-business-opportunities-top-key-players-and-global-analysis-by-forecast-to-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "DG4f/hEyQuA3Wp1+U1v548sia6XXfG37OXFoX+fvSiMfomx24NxYE+o260zR6J4tCAeGxzbfyPMFuhOftn3/ktVXtuxW8K8fvsBRXtMXzUvEDIjfLwfP91nIr+5io7aOQRBevgZgzrruLP9VvC0aCII4s23cOu7GEb/l0CCEAt0hNdjxzGZjo73pNII/aHfTiaajMkJ3N4O202xKEWroBh2Fn79Xk7XlS5OSc+LcWsxnuuvPdHWT28cjP3iZnlyBrszmo/TKxnQleTras5//m9PsWo0sxzq35xAdt1xOaMNJwujSG03TR0p3JqRUg4nqYFOAJqfCUPz+qukiQcgXSdbKupCC07nr1gZ1mUrjFRQ=;RJNIjJsGDlAc5KRZ6BeDqQ=="
 ---

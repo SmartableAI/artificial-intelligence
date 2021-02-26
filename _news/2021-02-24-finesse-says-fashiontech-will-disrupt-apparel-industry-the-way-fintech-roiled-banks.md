@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
 type: article
 quality: 52
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Disruptors Lead Traditional Banks With Blockchain Infrastructure"
+    excerpt: "Fintech disruptors powering the banking revolution with behind-the-scenes blockchain infrastructure. Blockchain technology has made a significant impact in the banking world. Top"
+    publishedDateTime: 2021-02-24T16:04:00Z
+    webUrl: "https://www.finextra.com/blogposting/19938/fintech-disruptors-lead-traditional-banks-with-blockchain-infrastructure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
   - title: "Astra Launches Automated Bank Transfer API for Financial Institutions and Fintech Companies"
     excerpt: "Astra, a technology company that offers advanced bank-to-bank transfer solutions, today announced the official release of its transfer automation platform designed for financial institutions and fintech companies."
     publishedDateTime: 2021-02-23T14:27:00Z

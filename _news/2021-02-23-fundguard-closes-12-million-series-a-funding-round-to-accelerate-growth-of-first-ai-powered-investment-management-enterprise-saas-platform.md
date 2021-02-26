@@ -1,27 +1,27 @@
 ---
 category: news
 title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
-excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital"
-publishedDateTime: 2021-02-23T14:16:00Z
-originalUrl: "https://www.lelezard.com/en/news-19663651.html"
-webUrl: "https://www.lelezard.com/en/news-19663651.html"
+excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures."
+publishedDateTime: 2021-02-23T13:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-new-york-investment-management-personnel-59cf469ab9b94611bfaeb701084429e1"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-new-york-investment-management-personnel-59cf469ab9b94611bfaeb701084429e1"
 type: article
 quality: 5
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -124,6 +124,6 @@ related:
       domain: financialbuzz.com
     quality: 0
 
-secured: "X/p8z9u7Xo0PdUENs6ePXE7yoC0mVmp5NndzvLHH4RcIk+6QRR7vV1zHn+Fg2GS5bMiknDHMar7k5dc94EMDdBdyyljnNflk4nnD+OJM3wpcpqT6D9ewJtLQEt7YVgAHTiLkeVbinS7cOBPbc0bO4oQW68GksEL81/MBK82kD10GXXVcx0eYb4tbDEOlSYHVJDcO7l3FSvCmdhVHxyU1WmeeOOwhrIZcsAGZhBspM1uY76GmZkLK2VqBItBKcm4uzYK6+w1dbeSxVCLn4mfeEt14AzI9lomkO7U18EJ9EwD71NhIeQIE3n9FZNGXSWK5ScsZlxEBxoCy5z/ZrN0AESQ7n+WtdPG8XC9woblc7q0=;0h3TtzOiGsv6OR3dwiEjAw=="
+secured: "tqcYYt9o/kQwgZ+na1eLvdy7u2l4gGkzAd84nLqoypZqUXlr77g6br0bccxmfwg/e7/v8excVNNXLi6VjwuTE7D5Rz24rtTnfNGYcRmDduAteADMf/BykSXkLm1UArOaRBfX7+JjBhEd0Ghvem26tAsnc2LafZirRYGlo1fq8mYvxfAkqmMmyLY0c/6PymF6UBZZXQEvvVOuKoq9e1pIGkvceXoAq+tgvY7V0REnbA5ZONrgcBW0IoG24fHvpp/JU44bTR1AGUFA4z0abOqGeXctl+j2QGX/siuNEic1hkpdlIHZb4TYPMpgdIAvPPKBK3FRSI6YP8HmbyaYue9aK5bGW276kjqAu4gg0KZr+Hk=;hyH2VHKjGOG2av22kRin8g=="
 ---
 

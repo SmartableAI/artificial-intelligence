@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Unity, Adobe, Snap, and Facebook Among 12 AR Companies Identified by ABI Research as Key Innovators"
-excerpt: "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in bo"
+excerpt: "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in"
 publishedDateTime: 2021-02-25T09:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448"
-webUrl: "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448"
+originalUrl: "https://www.prnewswire.com/news-releases/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-301235262.html"
+webUrl: "https://www.prnewswire.com/news-releases/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-301235262.html"
 type: article
-quality: 20
+quality: 10
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
+    width: 643
+    height: 337
+    isCached: true
 
 related:
   - title: "Facebook announces £1m for AI research programme in UK"
@@ -65,6 +67,6 @@ related:
         height: 512
         isCached: true
 
-secured: "hlxvIg0W0gQraVI4g2sScLzBR59uNB3oWaW/8mGdYrx4g/DMMSSSs8rDrjw/voNZ0tQJwJ/QvAvwsh383XbYPiuqTf0+z0ATlXePMo0eo/vbPYFBrirvXEWzaCQIReiIqw3quskxeQtJqedT+m2xuJLUtgF/WIO1rwJv3f8TPuLwuj4QiEc711rGg869Zv8oaIw0TPbszR/5eXq7GNHaynudpkAfwIANicyHrutc0oLCIIM5kKmo2PcTlIx3rCxVSd+AdnZnJRFruVJnrtRgsH5OOH/F1gwkgTgWhyrRo5pi7w07XNdl8V3KZ7VeIm1dvlnSCvQ17GnNqkuFHuV1dJih+OZptY+oQWtYm/BlcC4=;XqyLjnC3lLuqlpH/xTtzsA=="
+secured: "BSbt2NUxUig8YiQ+eXBTGudJWHLQZaUC7df68a4eM9bpElQIyfHeNjeIRw063HM/44JQNlDuOHWLe8GAt63OLggf74O7OiBZBntga9MiY2y32lVq3JpPihSva3RlqApnPp0c1ibtZf5iLEyzl0rG8h48FiDIjdpXCk+ews1ZFEPQ68w2IxqBr0+uAF5sGXldfyYSSylb3y/HyJco8vlUbl5RWOAJ+f1GuijwOiPAVMJBe1eQoBKblOcN9WHTdA2PfA4S6gZJgExbqF0pZt7oKLYRmcKrSx2fXZUIbB4rtYmPx/5oGgDw3mysbYS+DuU2gq2EPWR6H5yVReNN4xdG+PjQYMxiqBKzdVqu9BcSIfc=;a8tplhorEzwzfdq5n1ankQ=="
 ---
 

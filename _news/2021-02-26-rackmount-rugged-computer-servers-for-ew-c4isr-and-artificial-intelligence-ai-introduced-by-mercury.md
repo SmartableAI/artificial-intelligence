@@ -46,7 +46,7 @@ related:
     provider:
       name: Intelligent Aerospace
       domain: intelligent-aerospace.com
-    quality: 36
+    quality: 38
     images:
       - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/02/Neuosys_25_Feb_2021.60363c299010e.60380e597e440.png?auto=format&fit=max&w=1200"
         width: 720

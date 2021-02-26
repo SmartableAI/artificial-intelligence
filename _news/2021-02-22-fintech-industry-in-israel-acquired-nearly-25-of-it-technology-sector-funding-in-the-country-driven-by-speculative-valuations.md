@@ -43,6 +43,15 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Fintech Disruptors Lead Traditional Banks With Blockchain Infrastructure"
+    excerpt: "Fintech disruptors powering the banking revolution with behind-the-scenes blockchain infrastructure. Blockchain technology has made a significant impact in the banking world. Top"
+    publishedDateTime: 2021-02-24T16:04:00Z
+    webUrl: "https://www.finextra.com/blogposting/19938/fintech-disruptors-lead-traditional-banks-with-blockchain-infrastructure"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 33
   - title: "Astra Launches Automated Bank Transfer API for Financial Institutions and Fintech Companies"
     excerpt: "Astra, a technology company that offers advanced bank-to-bank transfer solutions, today announced the official release of its transfer automation platform designed for financial institutions and fintech companies."
     publishedDateTime: 2021-02-23T14:27:00Z

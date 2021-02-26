@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,47 +29,215 @@ images:
     isCached: true
 
 related:
-  - title: "SCARA Industrial Robot Market Present And Upcoming Trends With COVID 19 Impact Study | Adept, Epson Robots"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global SCARA Industrial Robot market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.biz discloses a succinct analysis of the regional spectrum,"
-    publishedDateTime: 2021-02-23T10:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/scara-industrial-robot-market-present-and-upcoming-trends-with-covid-19-impact-study-adept-epson-robots-2021-02-23"
+  - title: "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
+    excerpt: "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-02-24T12:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud API Market Trends, Demand Forecast, Growth Opportunities, Sales Forecast, Challenges, Competitor Strategies, Statistics and COVID-19 Impact"
-    excerpt: "These tools are AutoML Natural Language, AutoML Translation, and AutoML Vision. AutoML Vision is a more specialized version of the Cloud Vision API. It has been designed for developers looking for ..."
-    publishedDateTime: 2021-02-22T14:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-api-market-trends-demand-forecast-growth-opportunities-sales-forecast-challenges-competitor-strategies-statistics-and-covid-19-impact-2021-02-22"
+  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
+    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
+    publishedDateTime: 2021-02-23T14:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Manufacturers, Research Methodology, Competitive Landscape and Business Opportunities by 2027"
-    excerpt: "Increasing need to improve food safety standards is a key factor driving growth of the global Artificial Intelligence (AI) in food and beverage market currently. The global Artificial Intelligence (AI) in food and beverage market is expected to reach a market size of USD 62."
-    publishedDateTime: 2021-02-23T10:07:00Z
-    webUrl: "https://menafn.com/1101643207/Artificial-Intelligence-AI-Market-Manufacturers-Research-Methodology-Competitive-Landscape-and-Business-Opportunities-by-2027"
+  - title: "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026"
+    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
+    publishedDateTime: 2021-02-24T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?267395"
-        width: 375
-        height: 250
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
+    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
+    publishedDateTime: 2021-02-23T12:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge Artificial Intelligence (AI) Software Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
+    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Edge AI Software Market is valued at approximately USD 0."
+    publishedDateTime: 2021-02-25T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-software-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Vehicle Speech Recognition System Market Analysis by Manufacturers, Regions, Type and Application to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 23, 2021 (The Expresswire) -- The global “Vehicle Speech Recognition System Market” Report deliver comprehensive analysis of the market structure along with forecast ..."
+    publishedDateTime: 2021-02-23T08:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-analysis-by-manufacturers-regions-type-and-application-to-2027-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Agriculture Robots Market Size, Global Analysis, Business Strategy, Sales Revenue, Future Prospects, Company Profile, Developments and Forecast 2026"
+    excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
+    publishedDateTime: 2021-02-23T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/agriculture-robots-market-size-global-analysis-business-strategy-sales-revenue-future-prospects-company-profile-developments-and-forecast-2026-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing Market Share, Growth, Size 2021, Vendors,Trends, Challenges with Forecast to 2024"
+    excerpt: "Global Cloud Natural Language Processing Market Report 2021 -2024 contains systematic and point to point information regarding to Cloud Natural Language Processing Market Size. The report contains brief Introduction,"
+    publishedDateTime: 2021-02-23T05:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-growth-size-2021-vendorstrends-challenges-with-forecast-to-2024-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market Growth, Business Strategies, Revenue Value, Comprehensive Analysis And Forecast By 2026"
+    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Face Recognition"
+    publishedDateTime: 2021-02-22T03:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-growth-business-strategies-revenue-value-comprehensive-analysis-and-forecast-by-2026-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "TOP Companies Operating in the Global Speech and Voice Recognition Market| Future Growth Outlook"
+    excerpt: "The global speech and voice recognition market is expected to grow at a CAGR of 17.2% from 2019 to reach $26.79 billion"
+    publishedDateTime: 2021-02-22T11:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-companies-operating-in-the-global-speech-and-voice-recognition-market-future-growth-outlook-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Automation and Control System in Healthcare Market : Trends, Top Players, Market Demands, Industry Growth Forecast: 2027"
+    excerpt: "Global Automation and Control System in Healthcare Market Healthcare industry rapidly adopting advanced technologies"
+    publishedDateTime: 2021-02-25T03:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automation-and-control-system-in-healthcare-market-trends-top-players-market-demands-industry-growth-forecast-2027-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
+    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
+    publishedDateTime: 2021-02-22T17:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "Feb 25, 2021 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
+    publishedDateTime: 2021-02-25T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
+    excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2021-02-24T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-industry-size-business-opportunities-top-key-players-and-global-analysis-by-forecast-to-2027-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Emotion Recognition and Analysis Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Emotion Recognition and Analysis Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that provides a detailed analysis of growth factors of the industry as well as gives an analysis of the market share,"
+    publishedDateTime: 2021-02-24T18:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-emotion-recognition-and-analysis-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "yvoSmYEp5Y3pEqrAQxR/Z4W6HhDuRJv5Ni19btv20VwDDCbIdJYV4/TXQjkD0PDE9tr5yvHxjG3VWKj+8+4SGbqREqKoYoDkUjEmm+qVokHpNQZdypvcckebkg05uvxup8OVnAehWM3+OIqLsSMu5ydj71bd1o43yHr2k6Oir9KmcMugAfft47AqWxem1aUmn8YmYxV3QIbx5CAdvWUupmC8keBKATpw6QaaZ4xj7ibptGXoSEFRcP5mRUFjo3IUyLVZHHhbBa88QJRLHKVi4/w2Dwm5l/Q2HOd7HtalRcsVEZZtOws+VJx++kM2Zj3NpaXmTkNV7/dpRPBZ4B2blgO5xtyAhmbTmdQhcK4UOZg=;ILK0f8BP4gBv9Dl4lEu2jw=="

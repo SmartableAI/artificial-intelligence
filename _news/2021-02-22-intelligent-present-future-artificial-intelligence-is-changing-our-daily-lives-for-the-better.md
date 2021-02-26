@@ -24,6 +24,22 @@ images:
     height: 755
     isCached: true
 
+related:
+  - title: "Into the Future: Tel Aviv University Launches New Artificial Intelligence Center"
+    excerpt: "Leigh Engineering Faculty Boulevard, Tel Aviv University. Photo: Ido Perelmutter via Wikimedia Commons. JNS.org – Tel Aviv University has launched"
+    publishedDateTime: 2021-02-26T14:03:00Z
+    webUrl: "https://www.algemeiner.com/2021/02/26/into-the-future-tel-aviv-university-launches-new-artificial-intelligence-center/"
+    type: article
+    provider:
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 34
+    images:
+      - url: "https://www.algemeiner.com/wp-content/uploads/2018/11/Tel-Aviv-University.jpg"
+        width: 720
+        height: 360
+        isCached: true
+
 secured: "lCXMNgJE/C08H0jN+7hSau589vIdrKrZXawSGtREvrtoTHXUnsEZMd5gI+eMpy6YPre62iiFMH2WqxuA2i0GKuRA5M8u3DFIbCypn0XgB4erVhGRxl3Np0ioS1hArMqJuGARr6EmIlN14OqCPwJKlZurx0bqMiAlSUu7pbO7FGAOV9raJx7zeSGQCRj1UMtaqECBpd+LsVEc77A+cTtHbygUVrvByYxSICg1Jn94Oe1iRX35mcsh6TG+fKUJy5z0A/BJpPj81fbx27V4EFCauvsz+ltaKB53uPjy6ySVDJUc+28AISwmLF31INiMAsijBW8LZclDsKl/riFWwmRuoM2WGXJCJjED4HJuKPTJDj4=;uvGUddpXiy9dNyzPv92BWg=="
 ---
 
