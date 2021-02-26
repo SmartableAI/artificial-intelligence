@@ -39,6 +39,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
+  - title: "The Combination of AI and Blockchain through Artificial Neural Networks"
+    excerpt: "AI and blockchain include technical complexity and will have intense business implications. Using Artificial neural networks can help in forecasting the future cost of bitcoins, decreasing the issues with energy waste and mining conflicts."
+    publishedDateTime: 2021-02-25T06:30:00Z
+    webUrl: "https://www.analyticsinsight.net/the-combination-of-ai-and-blockchain-through-artificial-neural-networks/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 54
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Artificial-Neural-Networks.jpg"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "AjK5I0c419EftOzYSi8OV02FElRZk5ExoYsPfVngPignKPiih6GYzaWWg/tzoxQ82jzA6eTKNHvqkNeg2VlMsJqe3Sv3Y0gK3oCNnpQllWyRMAAPEYCo8lafe8lQQTam5GfKU87Edt/NZFoN80ezb1ctb+8hdbAu5zKGSYBG+YcHsLJCg3xcYP3pNTMSqfKpXF6YOodlbVhQ9J5HSiYvW/GDikXRJOIKoCyocwTO9diq6NRlujyK5ndSAutUZ/ibJhggr9cWMhesBgtT5PS/LJHJL6BKE77H43w5jPjReZY/y08sNrC3X87s7XpWSyqYY9Fw7fpz8ezZNr04YKn117t6fa71BBD1vqiGfIKiLkE=;xGlOQ/z+Ygx/plOtzky/0A=="
 ---

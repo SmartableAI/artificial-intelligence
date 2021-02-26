@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
 type: article
 quality: 60
-heat: 230
+heat: 220
 published: true
 
 provider:
@@ -150,20 +150,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Device Market Growth, Business Strategies, Revenue Value, Comprehensive Analysis And Forecast By 2026"
-    excerpt: "Feb (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" The Global \"Face Recognition"
-    publishedDateTime: 2021-02-22T03:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-growth-business-strategies-revenue-value-comprehensive-analysis-and-forecast-by-2026-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

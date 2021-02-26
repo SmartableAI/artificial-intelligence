@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-04-this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems.md",
+      "title": "This new tool can tell you if your online photos are helping train facial recognition systems",
+      "excerpt": "When you post photos of yourself or friends and family online, you may not imagine they could be used to develop facial-recognition systems that can identify individuals offline. A new site hopes to raise awareness of this issue by offering a rare window into how a fraction of our pictures are used.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
+      "originalUrl": "https://localnews8.com/money/2021/02/04/this-new-tool-can-tell-you-if-your-online-photos-are-helping-train-facial-recognition-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2021/02/hypatia-h_49f15336bbaab0b9c920387c0fdb87e3-h_7f22ebabb0a70c04d2ec50df19f2615b_preview.jpg",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-moscows-facial-recognition-cameras-are-identifying-navalny-supporters-activists.md",
       "title": "Moscow’s facial recognition cameras are identifying Navalny supporters: activists",
       "excerpt": "Authorities have said that the police’s heavy-handed response to the demonstrations, which saw thousands of arrests across the country, was justified because the protests were illegal and unauthorised.",
@@ -1342,40 +1385,6 @@
       "provider": {
         "name": "Bring Me The News",
         "domain": "bringmethenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-cyberlink-faceme-tops-facial-recognition-vendor-test.md",
-      "title": "CyberLink FaceMe® Tops Facial Recognition Vendor Test",
-      "excerpt": "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer in AI and facial recognition technologies, and developer of the FaceMe® AI facial recognition algorithm, achieved a top six ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210128005032/en/CyberLink-FaceMe®-Tops-Facial-Recognition-Vendor-Test/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210128005032/en/CyberLink-FaceMe®-Tops-Facial-Recognition-Vendor-Test/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

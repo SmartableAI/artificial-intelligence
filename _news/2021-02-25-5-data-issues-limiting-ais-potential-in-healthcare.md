@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Beware hype over AI-based healthcare in lower-income countries"
-    excerpt: "While there is great potential for artificial intelligence to improve cancer care in low- and middle-income countries, there is also great hype surrounding the technology. Terms such as “game-changer”,"
-    publishedDateTime: 2021-02-22T04:06:00Z
-    webUrl: "https://www.ft.com/content/f4dd834c-4835-4ee0-8737-ff98626fa010"
+  - title: "Big Data Healthcare Project Raises Privacy Issues"
+    excerpt: "Truveta, a new big data collaborative research effort involving 14 U.S. healthcare providers, will share de-identified data on millions of patients in an effort to"
+    publishedDateTime: 2021-02-26T20:24:00Z
+    webUrl: "https://www.govinfosecurity.com/big-data-healthcare-project-raises-privacy-issues-a-16077"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
+      name: HHS
+      domain: govinfosecurity.com
     quality: 54
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8c6b6d98-fdf9-4c92-98fe-de13be88a63c.jpg?source=next-opengraph&fit=scale-down&width=900"
-        width: 900
-        height: 506
+      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/big-data-healthcare-project-raises-privacy-issues-showcase_image-4-a-16077.jpg"
+        width: 860
+        height: 520
         isCached: true
   - title: "OSF HealthCare Using Data and AI to Drive an Increase in Childhood Vaccinations"
     excerpt: "Peoria, Illinois-based OSF HealthCare wants to change that. Through a nearly $75,000 grant available through its Jump ARCHES program, and nearly $30,000 in state grant funding through the Illinois Innovation Network,"

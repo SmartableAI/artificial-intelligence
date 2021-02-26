@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Driverless bus hits streets in southern Spain"
+    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
+    publishedDateTime: 2021-02-26T20:25:00Z
+    webUrl: "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717"
+    ampWebUrl: "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp"
+    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 74
+    images:
+      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar"
+        width: 560
+        height: 292
+        isCached: true
   - title: "Self-driving companies are inching toward fully driverless service"
     excerpt: "Motional, a joint venture of Hyundai and giant auto parts supplier Aptiv, has begun testing its self-driving vehicles in Las Vegas without anyone behind the wheel, the company announced in a Monday blog post."
     publishedDateTime: 2021-02-22T17:54:00Z

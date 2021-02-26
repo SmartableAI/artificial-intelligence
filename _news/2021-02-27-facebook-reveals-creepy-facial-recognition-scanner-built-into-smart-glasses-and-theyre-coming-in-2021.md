@@ -73,6 +73,38 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Facebook weighs adding facial recognition to smart glasses"
+    excerpt: "Facebook is weighing whether to add facial recognition technology to the smart glasses it’s developing, one top executive says. The tech titan plans to have a public discussion about the"
+    publishedDateTime: 2021-02-26T20:18:00Z
+    webUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/"
+    ampWebUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/facebook-glasses-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facebook's AR smart glasses could feature facial recognition technology"
+    excerpt: "Facebook Head of Hardware Andrew Bozworth that Facebook is 'looking at' facial recognition tech for its upcoming AR smart glasses, as long as consumers are comfortable with it."
+    publishedDateTime: 2021-02-26T19:23:00Z
+    webUrl: "https://www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology"
+    ampWebUrl: "https://www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/02/26/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Local Facebook rival soars as boycott grows"
     excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."
     publishedDateTime: 2021-02-22T06:15:00Z
@@ -83,6 +115,6 @@ related:
       domain: theaustralian.com.au
     quality: 4
 
-secured: "cP4HzTTY1kI3Xmd8QYXyb+ydDGiDKM0sEuI1wXBcWBwrlBlaQffQA/cVhQgdw/pO0E4ItQs9HZuVhocobpxMCPp3Vgr2VbPiSLp/5t7U10dE5ox95yroXmku6deoyxfbO5AKiCFtNOw0F3LOZYLc+L1wyPxMDuK7A0llL56ab1v5Zl14XaoNVbErH6TYq9/OLdEBT4hjcTiPkeGC+NDEMN7w5D+gbzoxrqYJGTIkEgr41Ij4C0MWcUBzF7TIbW21TQroS2DfZhujNteHbrzoaBiudFDmHCbB8vS9yz/LT6LzZghyUG9uk68KltPH/ak+G2yw377CRNaCCF023MB0mrVsDd9hIkhBNYGpbXzIF8g=;3JieOErGDNw+XYDUJyYQrA=="
+secured: "Hb3cwArFaGZ4+3uQGFsyv+4H6++M/hRG53MHoFwxtHK9eZ9FDRXxaYtIpGfcdS7T2znxQ9oAdzlBNTiKnxMF4LUHUjfBKDlcowEVZWyEvLaHl0ZMCgByBrFpx4dtJRC+z9GROsBU1Tkw7uy/KuseS/Jfr7KQSCBBMUSaK2Og3VtM1U/LHRVQQqQT4LaB/UTQ6Leu0mJt0VQ9S3x+6jBAL9/umAB29fkqEsnpQhKdin8+S9T8H0/f/Tcc3HcRi692b2yF1GBhVDmw7kz8Zo/u+Ho43PWYwK717HQUhND75UApLqCP5bpfIzn7MyKlfz5uPVBtVPqRpQeZMLvETBsBtD+PX/0O0y5BLllTip2BTLY8UecioKduCaCJINW2EkkMs47JyXkaep/i/Y+TSIYggz5QlOm0tt3y5yyQ1oTrkcLJGcza7a6L8e3IgMdZ2hVIzkt0VEi4hIPyPZG0YViTefc+dA4KY/BIaj92t49UupQhMRmNSJoXC0Kcrh04od2oWHoRynmPDwPphr3xEQeWvA==;GgmTGC+Y1xru/HeiKKB7hg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/microsoft-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
 type: article
 quality: 115
-heat: 265
+heat: 275
 published: true
 
 provider:
@@ -129,6 +129,22 @@ related:
       - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
         width: 647
         height: 450
+        isCached: true
+  - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
+    excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
+    publishedDateTime: 2021-02-26T19:10:00Z
+    webUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/"
+    ampWebUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 49
+    images:
+      - url: "https://www.cmswire.com/-/media/ac25ec3e0b9543dba4a25056d8afdd68.ashx?mw=1024"
+        width: 640
+        height: 480
         isCached: true
   - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
     excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"

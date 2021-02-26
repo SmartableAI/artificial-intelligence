@@ -65,6 +65,38 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Facebook weighs adding facial recognition to smart glasses"
+    excerpt: "Facebook is weighing whether to add facial recognition technology to the smart glasses it’s developing, one top executive says. The tech titan plans to have a public discussion about the"
+    publishedDateTime: 2021-02-26T20:18:00Z
+    webUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/"
+    ampWebUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/facebook-glasses-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facebook's AR smart glasses could feature facial recognition technology"
+    excerpt: "Facebook Head of Hardware Andrew Bozworth that Facebook is 'looking at' facial recognition tech for its upcoming AR smart glasses, as long as consumers are comfortable with it."
+    publishedDateTime: 2021-02-26T19:23:00Z
+    webUrl: "https://www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology"
+    ampWebUrl: "https://www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 59
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/02/26/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology_feature.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook reveals creepy ‘facial recognition scanner’ built into smart glasses – and they’re coming in 2021"
     excerpt: "FACEBOOK could put facial recognition tech in the smart glasses it plans to release later this year. The firm is still debating the controversial idea because it wants to be sure “authority"
     publishedDateTime: 2021-02-26T16:27:00Z

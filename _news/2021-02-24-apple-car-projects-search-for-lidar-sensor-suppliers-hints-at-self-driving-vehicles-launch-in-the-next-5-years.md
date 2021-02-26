@@ -57,6 +57,15 @@ related:
         width: 1024
         height: 561
         isCached: true
+  - title: "Mountain View-based self-driving tech unicorn Aurora Innovation buys Santa Clara lidar-on-a-chip startup"
+    excerpt: "Self-driving tech #unicorn #AuroraInnovation buys #lidar-on-a-chip #startup #OURSTechnology. #SiliconValley #autotech #sensors"
+    publishedDateTime: 2021-02-26T18:50:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/26/aurora-innovation-buys-ours-technology.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "6eEgNU0dZ0ABOx7pi+MClZiUrXzBUkU0Yq7wEeCLfTorEqrY5T9Fu1QuZtpjKgpD6H1hDz83dfFLASz/MV5bF1xj2anqgIaf5P0H0oznY0GUfWKMGvsxMeqisHhoRAVQCewciFtxJx+vbBc5yW66/MkP2B3TSR+BP5cpuq3/KkQiKnuaNUZWhs7YHWajHZ/ajvfbJo+/k3tueh/8d5NZosHFHnYsNKh9tZglvoW9siccQPZCSEdojYj8M1v6RIhBROLna3oQlpER4FcTup0v0jxPS5QK3zKSS3/zGHic3IBlyfk4ww4le/NzwPonHIripMED8WFXOL/6Bbf7P9NrJ0Y2oGjzCpPLL0eSLjYk88WMwGfvOEBRQuu9Y2OgOvYfB1xcgUD1kKz9xc2vWlYao6G+8kW+ZdDds+4lE0EVmu37zOF0ab01gKch8jpu8n8KvM2akijSrkemWwD/AfGBUC4JeEOg8Q7evCl0VQEU77enylMOeIbus6NCYNtivhlwCWbLllqsy5maqYMbhs7caw==;Nir0HkUDKr7BlfEF8s9ovA=="
 ---

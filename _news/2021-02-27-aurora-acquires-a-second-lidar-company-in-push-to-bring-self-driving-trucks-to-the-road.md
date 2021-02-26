@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 657
         isCached: true
+  - title: "Mountain View-based self-driving tech unicorn Aurora Innovation buys Santa Clara lidar-on-a-chip startup"
+    excerpt: "Self-driving tech #unicorn #AuroraInnovation buys #lidar-on-a-chip #startup #OURSTechnology. #SiliconValley #autotech #sensors"
+    publishedDateTime: 2021-02-26T18:50:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/26/aurora-innovation-buys-ours-technology.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
     excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
     publishedDateTime: 2021-02-24T05:47:00Z
@@ -62,6 +71,6 @@ related:
         height: 600
         isCached: true
 
-secured: "R4zFOM6SR7p9Uy+HMCh/yXfNGTFom+wOFfpK/sLK96QL0nhch5FmUy/OdqCUsN+/lJdNRvhOUOfNTYbaY6xEXDibHT9WJeL4WkS2mQUsTlT73AksXRw1FvTYCRnXydYMDbg2fJnA/nYKj4H3iFrBPNme1My9kdk0+OgsIX+N4Jk6tWaeQYSrrJGZ/PBNkpvTudpT4+hzkkZjKiUJnRAOKFanxcGdew78xu+wJ90GIRR3qHACUbz4DJ3+Op5jUIVq9aueH95LA55XDy93TkNe1As5ZfSyGG/pQL8OVEb6kNaolz9tRvHBFQyc+I8QuK//ag/2A0UAa7HTe5dJwmn2numzu+hLifk+GegyhNkn0YY=;25kPNqkJ5cIv1NFCmxRs/w=="
+secured: "xQKjBKQ5lwpfoQD2TvVO4oQ/9tqsrZz2Fi8+gKQIUJUyk459ZTz+hmdd67VsH0RwefbT9pRPfFZrvcwRVHgyPc5XaECGrUJxxRmXl965YSiqZPI03j/OI4PEf3DgOYbrThj2WJGLJ7ktc/KpIPP8VGywkahT3qF/dmehuycp0Eghum3a1wd5sR1eRGPXRcBuHmVV3AktKG5vINH5ml2aSVyaNZBcvgPatFQVCbAziHeZc0cwiG/Ll8AsHV3zstXQK5YGjgzgWomn5TJGCoTvn+jK254ROldwL01YAH/9sgPLNSDBnf9J0Q7C/q0B5S2rLVvdp3OBbaB36Sb8e+HLh3sGfUEkgcBFoRQ26dP1rJ3gDnIdA1lyV69r1DrClPGsu3YCmkR0e8kle+UoW3ux26TcQfQEopxCTr43Y/fFHzEAX1j/95hv61o/nL3VpaHfA39sOeh5Oyda5TACIi92TaLJo5KdCcpk03DjgKZXbEA4eJ+Utkmc0SJZTHJfHg9sShRV6KTKl91uFWpUksX+fw==;aZEgnMtOVSkJx5ty0gl+GA=="
 ---
 

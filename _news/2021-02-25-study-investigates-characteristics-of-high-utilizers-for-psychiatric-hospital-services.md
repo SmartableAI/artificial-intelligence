@@ -26,6 +26,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Researchers identify characteristics of highest utilizers for mental health hospital services"
+    excerpt: "Dropping out of high school, having schizophrenia, or being diagnosed with a co-occurring personality disorder increases the likelihood of someone becoming a 'high utilizer' of inpatient psychiatric hospital services,"
+    publishedDateTime: 2021-02-26T19:19:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/uoth-ric022621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 13
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/257620_web.jpg"
+        width: 600
+        height: 454
+        isCached: true
+
 secured: "9JBU8hQYxbCrPKUAOP9YcQdmd9NJU1eDbu6O1WLdVzytKjoIh1H5OzgLAx6AfmJoUwzn2U46SmSWeIwWQVXiE7CviKZW1bHbjX4O3X+fVAAVi2LkvFXr8wxxNB+eWGhymvvhoNxdtIOtn4FmI8CAUO7SZbHkdqbjM4GK206JH4vtkjo7y5t9Q7ZhsV3gw/ojPIbzHWobvjNZ0VCC/Hg/vrPYk7kVzjTarDh7n+S+vHTlnb5DuRiJ7dWGPg4ZLYd6NQrl/W48RQNeFeVm2lp0GpW5s0NWsLgv06w+N/yXSb8Sw48ItVlfBMrQt5c2vkvMPzW7ScC7PzCLut/JsSh2x9SZ8lUcpfkmc4qw9VaD3C8=;NXCyzumcJWiLUkFkoEEdhg=="
 ---
 
