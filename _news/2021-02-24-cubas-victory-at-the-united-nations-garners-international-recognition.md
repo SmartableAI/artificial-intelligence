@@ -7,7 +7,7 @@ originalUrl: "https://www.radiohc.cu/en/noticias/nacionales/207028-cubas-victory
 webUrl: "https://www.radiohc.cu/en/noticias/nacionales/207028-cubas-victory-at-the-united-nations-garners-international-recognition"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "Dolbey is Best in KLAS for Speech Recognition: Front-End Imaging and Computer-Assisted Coding"
-    excerpt: "Since Dolbey’s founding in 1914, the Dolbey name has stood for dependability and industry-leading technology. The Dolbey suite of solutions include physician-facing applications for speech recognition and dictation as well as solutions for document creation and transcription and revenue cycle solutions for clinical documentation improvement (CDI) and computer-assisted coding (CAC)."
-    publishedDateTime: 2021-02-25T13:27:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-voice-recognition-computing-and-information-technology-23e5e211bde411b50d2bdcbf060719f7"
+  - title: "Syrian student comes first at international innovation competition for artificial intelligence"
+    excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
+    publishedDateTime: 2021-02-23T07:51:00Z
+    webUrl: "https://sana.sy/en/?p=223350"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: S A N A
+      domain: sana.sy
+    quality: 5
+  - title: "The two schools will face their Geelong rivals in recognition of International Women's Day"
+    excerpt: "St Patrick's and Loreto College will play against St Joseph's and Sacred Heart College respectively next Tuesday at GMHBA Stadium, Geelong."
+    publishedDateTime: 2021-02-23T06:00:00Z
+    webUrl: "https://www.thecourier.com.au/story/7138348/st-patricks-and-loreto-college-to-battle-geelong-schools-video/"
+    type: article
+    provider:
+      name: The Courier
+      domain: thecourier.com.au
+    quality: 0
 
 secured: "iusIdAJ2eBi5iaISLuD12RUQ7GL0aoO51guA8x4cCUOe7R5w7VoZHBmTR8MsaMdkLvg+r6ykyzg479hANw2lbVgYRxuOsG5rbf3b1/6n9B92fKzUg776I+mPVAZ/9W1qYns324gTO79W0SJaJZG02ciHI7VNAp+DZi3V1JfOq32BKc74Ztwwq/EOb3kDGFOOti1SAZNgejpGXHJFikxl119wmLpqWmGe0MWEYKpt7pZiWbiuxhkGf4O0g6A1VNGL6PdZjzVRIKiILDW46/4cLRzVB7cF9DP77qFGxQyTxedLHk0BhEd/thyJaxCOSJxxYJ/YfMm/xJ2MI7r7Piwv7ThjXOgwcD0EQrvfVAcZT9M=;hPeRCZV2YBjP/QmoQkQV/Q=="
 ---

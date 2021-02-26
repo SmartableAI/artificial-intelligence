@@ -2,9 +2,9 @@
 category: news
 title: "This Chinese startup attained unicorn status in 100 days since inception"
 excerpt: "Moore Threads, a Chinese startup that provides graphics processing unit (GPU ... TikTok owner ByteDance, China Merchants Venture, Pony.ai, Riverhead Capital, Oceanpine Capital, Wenming Investment Fund, First Capital, 5Y Capital, and Shenzhen H&T ..."
-publishedDateTime: 2021-02-25T23:37:00Z
-originalUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674249"
-webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674249"
+publishedDateTime: 2021-02-26T04:34:00Z
+originalUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674290"
+webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674290"
 type: article
 quality: 46
 heat: -1
@@ -85,6 +85,6 @@ related:
         height: 512
         isCached: true
 
-secured: "zItd4g0hzuh4S9TtLg4V8sSnJi/jML0POzIhh6ofXOXeSNboczMszU5L4SlDyR+o1EZztUtXRGF7ZoUBzQ+letlabD+k/T8/XbG9YknaD4CDdw5wNQghdmDM7zAaI5MHaQx3DOlPRcUlz2K8bYrD1jFMpFrbiShv2RzOUPdSZVUHwVpCU/YWyFWYhlleLvKGHu/pUo15/9fldSn0+in07oARZ8D3aeTyPUyH1n0o2d8JlbXjfZsI839qwUq3d/ND3VHTEL95vsyP8Ujyr1g+YBzg+6/2ZvnIddmJImSeGNENM02jv1XGMGoFq/IDZH9Gv/QX2E4HXusRzwFfgZJdptOptCov67cl98vOMU2roli6u+q96YOitplPF8ZcNOWXic8qQMsEU0QcM1a0D9sL5VDWXkp1rydRRtGFMcub8/2MThgFmCWG35WdifQNx56jMO4EBpX19c7bOwk/bBFXt8UX9GpsoIG+999DAGY3UJVLIFniU/EJUzt2PusOpxDRtF1oetXyqqZwUyYFbD4W8Q==;r6D8VJSJDrDq2O3cFZztTg=="
+secured: "A151FUc465/KKRXPBZ+yo0a8WaVP5CcQpNT8D0RypQxj7JPFTMfTL9uZ/+pRxBSd9SyqgjCYnQ1b8lzPRn0tMiaevetAi3aPl8YiD2X2GUI/zsUZTp6VDYSg4VK/mitSj0fxkko7+xOYjZ1l6BG40ARNB9XdsmyHCixpfM1nMxCzRAGAXQyMG+bEP38OXDkpMepADmp7CodbHepeOd5yEuJuXgXeUfm87KWvR7/gEIOftIySJ51/N7rd8+XF3QSxmP+dYbeAF6AxA3l5D53CuytDrRuRk6GU9WiCIHwsn7L2RQRaB1SBTtbFa7AEsTfLK4e1Df6lKWMOgsypTyV5G0eRpip6r+iV4iWZVqSSXzUhZVeshjXhEcCD1P4xaVS6RD8hGchA1VYt6SYpBY+sPKYq1TNZWB8Z4/RBs3Dy4WE9aOkwKgP+B/zjWAKC+ddHgxroagJ5KlDitSOoMrMYnabI/Y+fVlrgmYQ3l0NRl+TL599mKEX5ZdHqF53u1ByFmSkNCSVUYK8k7R64d/QJZw==;wMFKCMqkFC0ZGDza22Ik9g=="
 ---
 

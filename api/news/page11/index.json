@@ -2,6 +2,48 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-17-this-robotic-glove-uses-ai-to-help-people-with-hand-weakness-regain-muscle-grip.md",
+      "title": "This robotic glove uses AI to help people with hand weakness regain muscle grip",
+      "excerpt": "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/",
+      "publishedDateTime": "2021-02-16T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles.md",
       "title": "A Match Made In Heaven For The Cloud And Autonomous Vehicles",
       "excerpt": "Here's why there is an ongoing clamor for AV entities to sign-up with cloud providers, ostensibly a mutually beneficial match-up.",
@@ -1172,57 +1214,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-ibm-openpages-with-watson-wins-best-ui-innovation-at-the-risk-market-technology-awards.md",
-      "title": "IBM OpenPages with Watson wins “Best UI Innovation” at the Risk Market Technology Awards",
-      "excerpt": "As we move into the new year, it’s clear that the turbulence that defined 2020 is not going away. Even after the COVID-19 pandemic subsides, its resultant economic and social uncertainty will linger. It remains imperative for large enterprises to modernize their governance, risk and compliance (GRC)",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/openpages-wins-best-ui-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/IBM-OpenPages-with-Watson-UI-award-Risk-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T06:00:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

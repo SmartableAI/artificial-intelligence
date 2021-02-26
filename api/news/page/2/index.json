@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-teaneck-just-banned-facial-recognition-technology-for-police-heres-why.md",
+      "title": "Teaneck just banned facial recognition technology for police. Here's why",
+      "excerpt": "Teaneck banned the usage of facial recognition software following widespread criticism of the technology wrongfully targeting people of color.",
+      "sourceUrl": null,
+      "webUrl": "https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/",
+      "originalUrl": "https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/11/13/USATODAY/usatsports/imageforentry20-mcf.jpg?auto=webp&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.northjersey.com/amp/6802839002",
+      "cdnAmpWebUrl": "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6802839002",
+      "publishedDateTime": "2021-02-25T01:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NorthJersey.com",
+        "domain": "northjersey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-dont-rely-on-data-scientists-to-do-ai-heavy-lifting-former-ibm-exec-warns.md",
       "title": "Don't rely on data scientists to do AI heavy lifting, former IBM exec warns",
       "excerpt": "Ex-IBM Watson lead Phil Westcott says he has witnessed “a lot of overspending and wasted resources” during his career",
@@ -62,7 +105,7 @@
       "originalUrl": "https://theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -504,11 +547,11 @@
       "title": "Is there a more environmentally friendly way to train AI?",
       "excerpt": "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
-      "originalUrl": "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "webUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -522,8 +565,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
       "publishedDateTime": "2021-02-24T11:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -547,6 +590,7 @@
         "news"
       ],
       "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1200,57 +1244,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-zelros-raises-11-million-for-ai-that-personalizes-insurance-plans.md",
-      "title": "Zelros raises $11 million for AI that personalizes insurance plans",
-      "excerpt": "Zelros raised $11 million for natural language understanding technology to help policyholders choose the optimum insurance plans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Sales_Home_8-e1613494625322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/amp/",
-      "publishedDateTime": "2021-02-24T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

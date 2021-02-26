@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-17-how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing.md",
+      "title": "How the open source Ray project delivers \"the infinite laptop\" for distributed computing",
+      "excerpt": "Commentary: Developers struggle to build distributed applications that stitch together MapReduce, TensorFlow, and more. The Ray project just might make developers' lives easier. There's something about Berkeley. Maybe it's the nuclear-free zone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2018/05/29/7abaab65-287f-49e0-ad7c-09d24f829f1d/resize/1200x/a591ffcb61b67b73db4e53cc99f07737/bigdata.jpg",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing/",
+      "publishedDateTime": "2021-02-17T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-8-databases-supporting-in-database-machine-learning.md",
       "title": "8 databases supporting in-database machine learning",
       "excerpt": "The CREATE MODEL command in Redshift SQL defines the data to use for training and the target column, then passes the data to Amazon SageMaker Autopilot for training via an encrypted Amazon S3 ...",
@@ -1145,48 +1197,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-this-robotic-glove-uses-ai-to-help-people-with-hand-weakness-regain-muscle-grip.md",
-      "title": "This robotic glove uses AI to help people with hand weakness regain muscle grip",
-      "excerpt": "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/16/robotic-glove-ai-recover-hand-muscle-grip/amp/",
-      "publishedDateTime": "2021-02-16T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

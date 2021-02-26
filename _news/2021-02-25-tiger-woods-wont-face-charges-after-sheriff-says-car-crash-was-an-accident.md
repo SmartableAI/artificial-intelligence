@@ -41,6 +41,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Tiger Woods won't face charges after sheriff says car crash was an accident"
+    excerpt: "Tiger Woods was \"awake, responsive, and recovering\" in the hospital from major surgery, according to a statement on his Twitter account on Tuesday, after a high-speed rollover car crash near Los Angeles."
+    publishedDateTime: 2021-02-24T15:59:00Z
+    webUrl: "https://www.kake.com/story/43398848/tiger-woods-is-recovering-from-major-surgery-after-a-high-speed-car-crash"
+    type: article
+    provider:
+      name: KAKE.com
+      domain: kake.com
+    quality: 22
+    images:
+      - url: "https://CNNWIRE.images.worldnow.com/images/20418163_G.jpg?lastEditedDate=1614142697000"
+        width: 500
+        height: 333
+        isCached: true
   - title: "Tiger Woods Will Not Face Charges In Rollover Crash, Is Recovering After Surgery"
     excerpt: "\"This is purely an accident,\" the Los Angeles County sheriff said, adding there's no evidence Woods was intoxicated. The golfer is awake and responsive after a \"long surgical procedure.\""
     publishedDateTime: 2021-02-25T12:25:00Z

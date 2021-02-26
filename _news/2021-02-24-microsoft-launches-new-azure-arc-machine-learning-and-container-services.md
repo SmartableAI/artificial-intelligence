@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/microsoft-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
 type: article
 quality: 115
-heat: 255
+heat: 245
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-2018-2.jpg"
         width: 800
         height: 598
-        isCached: true
-  - title: "The head of Cisco's Webex explains how it's using AI to innovate and compete with newer rivals like Zoom and Microsoft Teams"
-    excerpt: "Cisco's Webex has seen growth like rivals Zoom and Microsoft Teams, but it challenge is proving it's not the same company it was 10 years ago."
-    publishedDateTime: 2021-02-21T12:40:00Z
-    webUrl: "https://www.businessinsider.com/cisco-webex-keeping-up-the-pace-of-innovation-jeetu-patel-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 57
-    images:
-      - url: "https://i.insider.com/603064f5bed5c50011a2bb20?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Microsoft Announces First Cloud for Healthcare Update"
     excerpt: "Microsoft made the announcement while rolling out three new cloud offerings for financial services, manufacturing companies, and nonprofits."

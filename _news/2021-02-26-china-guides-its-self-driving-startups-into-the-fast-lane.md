@@ -75,8 +75,8 @@ related:
     quality: 46
   - title: "This Chinese startup attained unicorn status in 100 days since inception"
     excerpt: "Moore Threads, a Chinese startup that provides graphics processing unit (GPU ... TikTok owner ByteDance, China Merchants Venture, Pony.ai, Riverhead Capital, Oceanpine Capital, Wenming Investment Fund, First Capital, 5Y Capital, and Shenzhen H&T ..."
-    publishedDateTime: 2021-02-25T23:37:00Z
-    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674249"
+    publishedDateTime: 2021-02-26T04:34:00Z
+    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674290"
     type: article
     provider:
       name: Techinasia
