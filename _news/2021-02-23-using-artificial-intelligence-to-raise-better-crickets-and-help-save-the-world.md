@@ -23,17 +23,6 @@ images:
     height: 532
     isCached: true
 
-related:
-  - title: "My Robot Brings All the Boys to the Yard, Its AI is Better than Yours"
-    excerpt: "In this special guest feature, Aviran Yaacov, CEO, and Co-founder of EcoPlant, believes that both AI and ML technologies are making impactful strides in manufacturing, and there is no time like the present for manufacturers to get on board and explore ways to transform their processes to benefit across all fronts."
-    publishedDateTime: 2021-02-21T14:02:00Z
-    webUrl: "https://insidebigdata.com/2021/02/21/my-robot-brings-all-the-boys-to-the-yard-its-ai-is-better-than-yours/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 34
-
 secured: "F3SzuqWaepWokjPBchkgzqqnIzdSk9XcSmSomBqCVzzNS/lkUMqhvKSycVyIaSEzASXSMuFhwgQhE6PtDwsVQ0OZwdpySJ271prhorGyACg7xGKM+vwt2daQoQS22MkkOpKw+gdWUDCKm2la7r6URZUBiXjp4L3n5H2MaYa0Xfa4XjGgVLulIk3AxU+ZUMV6wJQ6E7q7zGaKDIMNUXjW+L4M/E47jhSeQ9y/mWUulZmGLnXMGIPFvwtsfti1Iazrd7cVUHGh/Z+vtGUgGOo0vo0jvs6Wc7GXeVKgQUfnfM6mD2/eeDONd/rHLA0r+1ZOAPYsjd7HvQYaqEE+jBEOCfJwwcvrW4cq01vKU/n4o3w=;JkHgeU5WZA28VWPK7O/LNA=="
 ---
 

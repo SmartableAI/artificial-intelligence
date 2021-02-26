@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-14-how-can-we-fix-the-data-science-talent-shortage.md",
+      "title": "How Can We Fix the Data Science Talent Shortage?",
+      "excerpt": "Data science might just be the most buzzed-about job in tech right now, but its pop culture sheen conceals some of the harsh realities of being a fresh graduate in the industry. The job topped LinkedIn’s yearly Emerging Jobs Report from 2016 to 2019 consecutively (it is now at #3).",
+      "sourceUrl": null,
+      "webUrl": "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-can-we-fix-the-data-science-talent-shortage/11967/",
+      "originalUrl": "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-can-we-fix-the-data-science-talent-shortage/11967/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif",
+          "width": 270,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-13T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Predictive Analytics World",
+        "domain": "predictiveanalyticsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-washington-state-lawmakers-seek-to-ban-government-from-using-discriminatory-ai-tech.md",
       "title": "Washington state lawmakers seek to ban government from using discriminatory AI tech",
       "excerpt": "Washington state could become a national leader in regulating the technologies of the future, thanks in part to a bill up for debate that would establish new guardrails on government use of",
@@ -1202,40 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
-      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

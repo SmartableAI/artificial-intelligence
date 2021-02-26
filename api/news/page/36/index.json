@@ -2,6 +2,58 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-01-28-how-communities-can-become-smarter-about-artificial-intelligence.md",
+      "title": "How Communities Can Become Smarter About Artificial Intelligence",
+      "excerpt": "The growing use of artificial intelligence for smart cities is changing the rules for everyone, including government agencies, elected officials, constituents and AI vendors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-communities-can-become-smarter-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/28/how-communities-can-become-smarter-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60119bd673d98c63b706c92d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
       "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
       "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the",
@@ -1112,58 +1164,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-great-free-speech-reversal.md",
-      "title": "The Great Free-Speech Reversal",
-      "excerpt": "Liberals once believed that private corporations have far too much power over the flow of ideas and information in today’s society. Now it’s conservatives who are worried.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "originalUrl": "https://www.theatlantic.com/ideas/archive/2021/01/first-amendment-regulation/617827/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.theatlantic.com/thumbor/aYdbtnZ42iYsmiyu9rQ5lLmUZsg=/74x0:1842x994/570x320/filters:format(png)/media/img/mt/2021/01/7CN23I00/original.png",
-          "width": 570,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theatlantic.com/amp/article/617827/",
-      "cdnAmpWebUrl": "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/617827/",
-      "publishedDateTime": "2021-01-27T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Atlantic",
-        "domain": "theatlantic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theatlantic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

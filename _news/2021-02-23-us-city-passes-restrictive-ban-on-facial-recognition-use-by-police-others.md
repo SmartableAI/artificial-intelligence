@@ -43,17 +43,17 @@ related:
         isCached: true
   - title: "Virginia lawmakers vote to tightly limit police use of facial-recognition technology"
     excerpt: "The bill, which will ban apps like Clearview unless state lawmakers specifically give a police department permission, was sparked by a Virginian-Pilot investigation."
-    publishedDateTime: 2021-02-24T18:26:00Z
-    webUrl: "https://www.pilotonline.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html"
-    ampWebUrl: "https://www.pilotonline.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html?outputType=amp"
+    publishedDateTime: 2021-02-24T18:20:00Z
+    webUrl: "https://www.dailypress.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html"
+    ampWebUrl: "https://www.dailypress.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-dailypress-com.cdn.ampproject.org/c/s/www.dailypress.com/government/virginia/vp-nw-clearview-facial-recognition-bill-20210224-opnslurppzglnhgocnfsypjlsu-story.html?outputType=amp"
     type: article
     provider:
-      name: Virginian-Pilot
-      domain: pilotonline.com
+      name: Daily Press
+      domain: dailypress.com
     quality: 37
     images:
-      - url: "https://www.pilotonline.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
+      - url: "https://www.dailypress.com/resizer/pBp40zm_ENWAHI9yZcXIRHcPFkw=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/B4MAEOCQMBBLDLH42UVQQSC6DY.jpg"
         width: 1200
         height: 495
         isCached: true

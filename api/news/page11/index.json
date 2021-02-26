@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-17-what-cios-need-to-know-about-adding-ai-to-their-processes.md",
+      "title": "What CIOs need to know about adding AI to their processes",
+      "excerpt": "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/1200x675/84554d7fe79b29a1d4a50bd6fb608e03/20210211-alxcel-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "publishedDateTime": "2021-02-16T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-this-robotic-glove-uses-ai-to-help-people-with-hand-weakness-regain-muscle-grip.md",
       "title": "This robotic glove uses AI to help people with hand weakness regain muscle grip",
       "excerpt": "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness.",
@@ -1180,39 +1231,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person-centered-care.md",
-      "title": "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care",
-      "excerpt": "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/n19662614/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/n19662614/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19662614",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19662614",
-      "publishedDateTime": "2021-02-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

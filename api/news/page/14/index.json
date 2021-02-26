@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
+      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
+      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-qa-improving-access-to-government-services-through-inclusive-virtual-agents.md",
       "title": "Q&A: Improving access to Government services through inclusive virtual agents",
       "excerpt": "Dr Lea El Samarji, AI and IoT lead for EMEA at Avanade, discussed improving virtual agents and increasing accessibility to public services",
@@ -1106,49 +1140,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-spac-led-by-former-medtronic-ceo-focusing-on-artificial-intelligence-in-healthcare.md",
-      "title": "SPAC Led By Former Medtronic CEO Focusing On Artificial Intelligence In Healthcare",
-      "excerpt": "Artificial Intelligence in Healthcare is an exciting sector and a good focus area for SPACs seeking high growth companies.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
-      "originalUrl": "https://seekingalpha.com/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static3.seekingalpha.com/uploads/2021/2/11/saupload_cbb5e7b1272aff590288c572326967d0.png",
-          "width": 635,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
-      "publishedDateTime": "2021-02-11T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

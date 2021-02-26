@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-17-varmour-the-multi-cloud-security-startup-raises-58m-en-route-to-ipo.md",
+      "title": "vArmour the multi-cloud security startup, raises $58M en route to IPO",
+      "excerpt": "Enterprises have been loading more of their operations into cloud — and, more often than not, multi-cloud — environments over the last year, creating vast networks of services that can be complex to manage.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/17/varmour-the-multi-cloud-security-startup-raises-58m-en-route-to-ipo/",
+      "originalUrl": "https://techcrunch.com/2021/02/17/varmour-the-multi-cloud-security-startup-raises-58m-en-route-to-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2016/09/armor.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/17/varmour-the-multi-cloud-security-startup-raises-58m-en-route-to-ipo/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/17/varmour-the-multi-cloud-security-startup-raises-58m-en-route-to-ipo/amp/",
+      "publishedDateTime": "2021-02-17T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-how-the-open-source-ray-project-delivers-the-infinite-laptop-for-distributed-computing.md",
       "title": "How the open source Ray project delivers \"the infinite laptop\" for distributed computing",
       "excerpt": "Commentary: Developers struggle to build distributed applications that stitch together MapReduce, TensorFlow, and more. The Ray project just might make developers' lives easier. There's something about Berkeley. Maybe it's the nuclear-free zone.",
@@ -1162,57 +1214,6 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-what-cios-need-to-know-about-adding-ai-to-their-processes.md",
-      "title": "What CIOs need to know about adding AI to their processes",
-      "excerpt": "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/1200x675/84554d7fe79b29a1d4a50bd6fb608e03/20210211-alxcel-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
-      "publishedDateTime": "2021-02-16T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

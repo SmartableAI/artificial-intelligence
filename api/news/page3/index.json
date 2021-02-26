@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-24-blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing.md",
+      "title": "Blueshift raises $30M for its AI-based, integrated approach to marketing",
+      "excerpt": "The concept of the “marketing cloud” — sold by the likes of Salesforce, Oracle and Adobe — has become a standard way for large tech companies to package together and sell marketing tools to businesses that want to improve how they use digital channels to grow their business.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
+      "originalUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1010660260.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
+      "publishedDateTime": "2021-02-24T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-zelros-raises-11-million-for-ai-that-personalizes-insurance-plans.md",
       "title": "Zelros raises $11 million for AI that personalizes insurance plans",
       "excerpt": "Zelros raised $11 million for natural language understanding technology to help policyholders choose the optimum insurance plans.",
@@ -1171,58 +1223,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-the-5-things-everyone-should-know-about-cloud-ai-according-to-a-sequoia-capital-partner.md",
-      "title": "The 5 things everyone should know about cloud AI, according to a Sequoia Capital partner",
-      "excerpt": "Sequoia Capital investor Konstantine Buhler discusses how the impact of artificial intelligence will unfold over the next decade in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
-      "originalUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603465e9d920880018591685?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
-      "publishedDateTime": "2021-02-23T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

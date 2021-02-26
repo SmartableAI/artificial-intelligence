@@ -2,6 +2,41 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
+      "title": "Will the future of security be led by robots? AITX president says yes",
+      "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
+      "originalUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
+      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
+      "publishedDateTime": "2021-02-18T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Central Illinois Proud",
+        "domain": "centralillinoisproud.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-auto-supplier-visteon-sees-more-plant-closures-due-to-chip-shortage.md",
       "title": "Auto supplier Visteon sees more plant closures due to chip shortage",
       "excerpt": "Auto parts supplier Visteon Corp said on Thursday the global semiconductor chip shortage could hit global auto production by about 10% to 15% in the first half of 2021 and likely lead to additional plant closures.",
@@ -1151,49 +1186,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.md",
-      "title": "Machine learning model may guide treatment decisions for lung cancer patients",
-      "excerpt": "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210217/Machine-learning-model-may-guide-treatment-decisions-for-lung-cancer-patients.aspx",
-      "publishedDateTime": "2021-02-17T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

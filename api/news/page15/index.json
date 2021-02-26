@@ -2,6 +2,49 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-12-spac-led-by-former-medtronic-ceo-focusing-on-artificial-intelligence-in-healthcare.md",
+      "title": "SPAC Led By Former Medtronic CEO Focusing On Artificial Intelligence In Healthcare",
+      "excerpt": "Artificial Intelligence in Healthcare is an exciting sector and a good focus area for SPACs seeking high growth companies.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
+      "originalUrl": "https://seekingalpha.com/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static3.seekingalpha.com/uploads/2021/2/11/saupload_cbb5e7b1272aff590288c572326967d0.png",
+          "width": 635,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4405382-spac-focusing-on-artificial-intelligence-in-healthcare",
+      "publishedDateTime": "2021-02-11T12:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-new-ai-technique-allows-robots-to-detect-human-touch-by-analyzing-shadows.md",
       "title": "New AI technique allows robots to detect human touch by analyzing shadows",
       "excerpt": "Scientists from Cornell University say the method provides a low-cost way for robots to identify physical interactions with humans.",
@@ -340,43 +383,25 @@
     {
       "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "This article represents the opinion of the writer, who may disagree with the “official” recommendation position of a Motley Fool premium advisory service. We’re motley! Questioning an ...",
+      "excerpt": "These companies are building the artificial-intelligence (AI) systems that will power self-driving cars. A Zoox robotaxi. Image source: Zoox. NVIDIA's DRIVE platform consists of hardware and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "webUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "publishedDateTime": "2021-02-11T08:40:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1154,40 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-amazon-web-services-in-deal-with-national-hockey-league.md",
-      "title": "Amazon Web Services In Deal With National Hockey League",
-      "excerpt": "Amazon Web Services or AWS, an Amazon.com, Inc. company, has inked a deal with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the professional ice hockey league.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp",
-      "publishedDateTime": "2021-02-11T05:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

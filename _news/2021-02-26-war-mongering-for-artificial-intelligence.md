@@ -1,28 +1,26 @@
 ---
 category: news
-title: "War Mongering For Artificial Intelligence"
-excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence. The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
-publishedDateTime: 2021-02-25T23:55:00Z
-originalUrl: "https://www.scoop.co.nz/stories/HL2102/S00111/war-mongering-for-artificial-intelligence.htm"
-webUrl: "https://www.scoop.co.nz/stories/HL2102/S00111/war-mongering-for-artificial-intelligence.htm"
-ampWebUrl: "https://m.scoop.co.nz/stories/HL2102/S00111/war-mongering-for-artificial-intelligence.htm"
-cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/HL2102/S00111/war-mongering-for-artificial-intelligence.htm"
+title: "War Mongering for Artificial Intelligence"
+excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
+publishedDateTime: 2021-02-26T06:20:00Z
+originalUrl: "https://countercurrents.org/2021/02/war-mongering-for-artificial-intelligence/"
+webUrl: "https://countercurrents.org/2021/02/war-mongering-for-artificial-intelligence/"
 type: article
-quality: 57
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Scoop
-  domain: scoop.co.nz
+  name: Countercurrents
+  domain: countercurrents.org
 
 topics:
   - AI
 
 images:
-  - url: "https://m.scoop.co.nz/mobile-ns/rbylines-imgs/380/profile.jpeg"
-    width: 325
-    height: 240
+  - url: "https://cdn.countercurrents.org/wp-content/uploads/2018/03/drone-2.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -43,6 +41,6 @@ related:
         height: 500
         isCached: true
 
-secured: "mAnMvh5WOpipwYJLB2Ut6LhGZ9AJB47IhCiCkr+/HyJjxUxGfxh9NfCTmb3mtIl+dqBrqn9VJtSx7u/GoLehO6Nf+D4fkwzCb0IbyFiQWpduF2jE14rMNXRDKa8w0a5b6NySKvBebdqQSuhKOGDtFDZdLhZmVaH8t6rc0QdBnELup4ar0fTQpbPQB9IoT6lyxVJC119X6djXxbeNCenjdHSnRP7bRklsIey468Cd6VVtf3DpNenyZIhaj+9/8NhU6Hem9YMbvFtv/SkFtCKcvISVsZ8ny+E6EWuu06HHffHAs6cIEORu0VRapH87VT2liPkZqy3QU8ByB+7c4zom29g2FXK88ef76l6CKNGD1O0=;V49Q5V80ARbnOgzsFQbwnw=="
+secured: "0GdReeScAnMIoHVk0/x4f2PsX46ODT7aavcudu//NtiekhSHkhVWqc5ZzIODlSzV6lQrtKv1reABcewwTWeyDAP+D/WtK/y02D0XbQzAdeteeRjqwqvfhD3qX8kEyDIdCAAxrCtLT7d/ZR2DEaCXkqqS9qZitL+A813Oc3ncuHvlhpaaLKS5D1quyx6MbNeiabyK2a+ClIld0IYueNSF7pYh9yt7S95rOcwfjNAHRfo1yeugmbQSjQYMj5ZrtVVOoTd3xEBSAL+7KxpqCOI/IaEN4yuY//q26Uc55kPyvNp8aPieLwhlwW5hPZSF7ok4axM8fA2phWNgiZgecg+9qmmwu/wXkdFHwwpf/Bcmewg=;1Wu/a1qFJmK8G07RREmLSQ=="
 ---
 

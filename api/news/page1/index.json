@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
+      "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
+      "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926",
+          "width": 3105,
+          "height": 2070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "publishedDateTime": "2021-02-25T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
       "title": "Why machine learning strategies fail",
       "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -51,7 +103,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -1206,48 +1259,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-top-five-artificial-intelligence-predictions-for-2021.md",
-      "title": "Top five artificial intelligence predictions for 2021",
-      "excerpt": "Here are five predictions on what we should expect to see in AI in 2021: 1. Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/top-five-artificial-intelligence-predictions-for-2021/",
-      "originalUrl": "https://www.itproportal.com/features/top-five-artificial-intelligence-predictions-for-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/top-five-artificial-intelligence-predictions-for-2021/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-five-artificial-intelligence-predictions-for-2021/",
-      "publishedDateTime": "2021-02-25T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

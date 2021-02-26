@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-01-22-how-to-set-up-speech-to-text-in-windows-10.md",
+      "title": "How to set up speech-to-text in Windows 10",
+      "excerpt": "Windows 10 conveniently groups its voice commands under Speech Recognition, which interprets the spoken word across the operating system for various tasks. We’ll teach you how to get everything ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/10-incredibly-useful-windows-apps-2-1200x630-c-ar1.91.jpg",
+          "width": 500,
+          "height": 261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-set-up-speech-to-text-in-windows-10/?amp",
+      "publishedDateTime": "2021-01-22T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-ai-robots-and-play-2021-predictions-for-a-virtual-workplace.md",
       "title": "AI, Robots And Play: 2021 Predictions For A Virtual Workplace",
       "excerpt": "Founder and President of Virbela, building immersive virtual worlds for remote work, learning and events. While no one may have predicted just what 2020 would throw our way, my crystal ball is indicating that we have many more changes in store for 2021 — and some of them are promising,",
@@ -1103,48 +1155,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-fifth-circuit-overturns-arbitrary-and-capricious-43-million-hipaa-penalty-against-hospital.md",
-      "title": "Fifth Circuit Overturns “Arbitrary and Capricious” $4.3 Million HIPAA Penalty Against Hospital",
-      "excerpt": "On January 14, 2021, the U.S. Court of Appeals for the Fifth ... against the University of Texas M.D. Anderson Cancer Center (Hospital). The case arises from an enforcement action undertaken ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.governor.ny.gov/news/governor-cuomo-announces-proposal-safeguard-data-security-rights-part-2021-state-state",
-      "originalUrl": "https://www.natlawreview.com/article/fifth-circuit-overturns-arbitrary-and-capricious-43-million-hipaa-penalty-against",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.governor.ny.gov/sites/governor.ny.gov/files/thumbnails/image/Computer_Cyber_Technology_hero.jpg",
-          "width": 2122,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
+      "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
+      "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926",
+          "width": 3105,
+          "height": 2070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
+      "publishedDateTime": "2021-02-25T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-dbs-offers-facial-recognition-for-smb-customers.md",
       "title": "DBS Offers Facial Recognition For SMB Customers",
       "excerpt": "Small and medium-sized business (SMB) owners in Singapore will be able to use facial recognition to access their DBS Bank accounts.",
@@ -1343,49 +1395,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
-      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
-      "excerpt": "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence (DAI) platform that enables organizations to automate the testing of high-speed applications which optimizes the delivery and quality of digital products.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

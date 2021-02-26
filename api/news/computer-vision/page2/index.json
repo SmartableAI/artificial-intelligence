@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
+      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
+      "excerpt": "Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence (DAI) platform that enables organizations to automate the testing of high-speed applications which optimizes the delivery and quality of digital products.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-santa-rosa-products-and-services-57addd018cd94b4abc26a4111dae2cdc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision.md",
       "title": "Intenseye raises $4M to boost workplace safety through computer vision",
       "excerpt": "Workplace injuries and illnesses cost the U.S. upwards of $250 billion each year, according to the Economic Policy Institute. ERA-backed startup Intenseye, a machine learning platform, has raised a $4 million seed round to try to bring that number way down in an economic and efficient way.",
@@ -1341,58 +1384,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-clearview-ais-facial-recognition-app-ruled-illegal-in-canada.md",
-      "title": "Clearview AI’s Facial-Recognition App Ruled Illegal in Canada",
-      "excerpt": "Canadian authorities declared that the company needed citizens’ consent to use their biometric information, and ordered the firm to delete facial images from its database.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
-      "publishedDateTime": "2021-02-03T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Computer Vision"
       ]

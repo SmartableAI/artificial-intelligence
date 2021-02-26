@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
+      "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
+      "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
+      "originalUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
+      "publishedDateTime": "2021-02-19T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "This time problems arose after disputes between panel members and Google-owned DeepMind over access to information, the WSJ reports citing unnamed sources. Panel members were also unhappy about ...",
@@ -1164,41 +1215,6 @@
         "AI Hardware",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
-      "title": "Will the future of security be led by robots? AITX president says yes",
-      "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "originalUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "publishedDateTime": "2021-02-18T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Illinois Proud",
-        "domain": "centralillinoisproud.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

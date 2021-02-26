@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Apple, Google training their voice assistants to understand people with speech disabilities"
+    excerpt: "Tech firms, including Apple and Google are working on improving their voice assistants to understand atypical speech."
+    publishedDateTime: 2021-02-26T05:38:00Z
+    webUrl: "https://pocketnow.com/apple-google-training-their-voice-assistants-to-understand-people-with-speech-disabilities"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 29
+    images:
+      - url: "https://pocketnow.com/wp/../files/2018/08/Hey-Siri.jpg"
+        width: 780
+        height: 439
+        isCached: true
 
 secured: "X6RD8CCSDhYJf+S15/YqlLzHTAIsBLlaHRJQzDtlitwa//evFomDbA0o1yAAQHJTFT8NNe/qD+lrrgpVMOB0p5VT8qADx4ix40X8vcXjQHmCWWk9/RDg4WVO9qxVG0zZEmwPR0Gk8aChsoeGhx5NqwEeoYyo575U4geJJoLuA9WtW6n2aIJ+S1La2aifIHt1eAHKIulSDHJIGS4wwA0UmFtjFMc4d2OV8fl/DHRRlRW2lR9eij5y2r6c54y6L0lITo8C++KYZhLvh6mPw2EONm1vKU47aVMrDw9ES/BhedWSmz7Ia91EPNeA9m5VPguxxw+HVLEHywMWoSTpmT/p+5fYBXEG74OOMxFxyaSqHYBss8YrmIljRZ8Wdb0LE0S5Ee1Rn7+MynTrsw5Q7YR984rCvk12g0H8qqY4aEdfWm42upKz1GbCAYWEII414AWLw2uI8gZJSshp20ZUisvjEYVuBdcleZGKT+Q+lZroX9Ib4QH3RdE62UsoJ5yj88+ADx5ZnZ+SvrM+UiJXApt17A==;HNI3girhg0qDeuV4cxL4gw=="
 ---

@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-20-google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims.md",
+      "title": "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims",
+      "excerpt": "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem.",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349",
+      "originalUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
+      "publishedDateTime": "2021-02-19T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc.md",
       "title": "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC",
       "excerpt": "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,",
@@ -1145,57 +1188,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
-      "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
-      "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "originalUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "publishedDateTime": "2021-02-19T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

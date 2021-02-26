@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-top-five-artificial-intelligence-predictions-for-2021.md",
+      "title": "Top five artificial intelligence predictions for 2021",
+      "excerpt": "Here are five predictions on what we should expect to see in AI in 2021: 1. Something’s going to give around AI governance. Though regulation hasn’t reached a boiling point yet, AI governance will continue to be a hot topic in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/top-five-artificial-intelligence-predictions-for-2021/",
+      "originalUrl": "https://www.itproportal.com/features/top-five-artificial-intelligence-predictions-for-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ghbHs8vktkp6zcrYVRGQ2d-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/top-five-artificial-intelligence-predictions-for-2021/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-five-artificial-intelligence-predictions-for-2021/",
+      "publishedDateTime": "2021-02-25T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-teaneck-just-banned-facial-recognition-technology-for-police-heres-why.md",
       "title": "Teaneck just banned facial recognition technology for police. Here's why",
       "excerpt": "Teaneck banned the usage of facial recognition software following widespread criticism of the technology wrongfully targeting people of color.",
@@ -547,11 +589,11 @@
       "title": "Is there a more environmentally friendly way to train AI?",
       "excerpt": "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "webUrl": "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
+      "originalUrl": "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -565,8 +607,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "ampWebUrl": "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/",
       "publishedDateTime": "2021-02-24T11:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -590,7 +632,6 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -952,7 +993,7 @@
       "originalUrl": "https://www.wsj.com/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1192,58 +1233,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing.md",
-      "title": "Blueshift raises $30M for its AI-based, integrated approach to marketing",
-      "excerpt": "The concept of the “marketing cloud” — sold by the likes of Salesforce, Oracle and Adobe — has become a standard way for large tech companies to package together and sell marketing tools to businesses that want to improve how they use digital channels to grow their business.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
-      "originalUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1010660260.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing/amp/",
-      "publishedDateTime": "2021-02-24T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],
