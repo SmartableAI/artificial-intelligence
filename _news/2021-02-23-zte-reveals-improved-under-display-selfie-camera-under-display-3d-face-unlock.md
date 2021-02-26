@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/zte-second-generation-under-display
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "ZTE reveals under-display face biometrics system for smartphones"
+    excerpt: "The 3D structured light system will support face biometric authentication capabilities like Apple Face ID, and may be included in ZTE’s next flagship smartphone"
+    publishedDateTime: 2021-02-26T22:49:00Z
+    webUrl: "https://www.biometricupdate.com/202102/zte-reveals-under-display-face-biometrics-system-for-smartphones"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
         isCached: true
 
 secured: "MyDblWFPwRHTn1tcMLyBjxi2KJjbQwS88nqdiqHG3wDWZalR1ccLTzogC6ZOz7vdOZ3Tl1Q3A6eugHwvRIi/h5edRlDY80TowU6YHpXSFHmIDgiNVAciGdK9+jNp0UAbBHrMDqWfZzaqoOEnLpEcFOMW9r5n02re9P7SrjpSZFw/d7Yrl8kv8HEFg369Swo2uNZJDZcHlHx4Q+1/Ea7XC9lU1DwpquEYuByCalMKRikk/mzWRl+zEuk4Z+2FLDQT8TZ9x1dsAhV3pHkDkGA+fBXdmhl8RlOFVcmRZFOe6RWrS3ZoGNvrvF5kyCijQ/Kfq3rN6hMCzKLPx+HhvqEAjydLjIVal6g5kxqjD7Z8rjs=;NLQAIgsTWtLjDSwbbzo7/Q=="

@@ -42,6 +42,20 @@ related:
         width: 750
         height: 420
         isCached: true
+  - title: "Juniper ties 128's SD-WAN technology into Mist AI"
+    excerpt: "Juniper says that by now bringing telemetry data from Session Smart Routers into the Mist AI engine, customers can better manage service levels across the WAN, and proactively detect anomalies to improve user experience."
+    publishedDateTime: 2021-02-26T22:47:00Z
+    webUrl: "https://www.lightreading.com/sd-wan/juniper-ties-128s-sd-wan-technology-into-mist-ai/d/d-id/767724"
+    type: article
+    provider:
+      name: Light Reading
+      domain: lightreading.com
+    quality: 37
+    images:
+      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
+        width: 600
+        height: 600
+        isCached: true
 
 secured: "3RpNeHYH06Cy2TbkDu/URU+kx0Qi6PHyVOKtJ9kJn4VxIJhkfxshJAOZEUPq9We6w5qXuhfpl+FMWwhAV0Od55kRa665VTkkU0ziQpPYcf5lBOrKGbnIwNiuHIcuuA5K17XdVX7jdX8u+67S7KLADYhPlGGTzG7dA7aXHTI/LcY6TDtVngVUzWdwv+4/uXXu3l4HAqoQAXA42dkmpnZXjnfD46TTdncbROp4RsxzDdzYHaAbAhgMhMvfjJ2Oq8STdX/pq8RS8FAHJtITsVmUYriByUah4oVZlq7E0Ilsw1XEK/0cuEBUtzPh5YOokzGyR32ST3+qgumAbYkG5B/fH8NSi2fOSX0iq6oh5PgOWis=;3yoLVh8M3fmugsKH75OA/g=="
 ---

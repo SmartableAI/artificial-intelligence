@@ -26,6 +26,22 @@ images:
     height: 232
     isCached: true
 
+related:
+  - title: "AI facial analysis is scientifically questionable. Should we be using it for border control?"
+    excerpt: "While governments and national security can benefit from border control technologies, advanced surveillance creates risks for the misuse of personal data and the violation of human rights."
+    publishedDateTime: 2021-02-26T21:38:00Z
+    webUrl: "https://gcn.com/articles/2021/02/26/biometrics-border-control.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 28
+    images:
+      - url: "https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2017/February/borderbiometrics.png"
+        width: 620
+        height: 300
+        isCached: true
+
 secured: "XvUgxEPOMXJJZcuPnjq1EJMGQwqR/wmNNMcSeK/DQ9GXH0wvgxz/y/fhODn2kWwKA3j+qD01UBrTVUiF5SAxl94DkxIhIMd5w+6+/s6DHvlVTavKskspT24P8UQW98W8wpo+im5j+efYIOWAaysL8q26moUnnagqB+DjdUAjrcqZrvCCn59bI2wUT5JezOgFKtZfzsunb2vPkvcfwj49qrHvT+alfM8WiID+H5X8d+XbiIX+vq316dnylJpekg9VnKpjHfbBRWNhrFO8u+SrGG6ReIQHJqvJKVSoy+IOMdNGW35eF/liic1rYU93QrSYMVGBuyjaUqvWAnfKNdx0zU4sew4C8u5H43GIr+eRqdk=;0pcFGGa3YTXll+2P2D2ayg=="
 ---
 

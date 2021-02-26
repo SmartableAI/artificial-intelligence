@@ -38,20 +38,6 @@ related:
         width: 820
         height: 461
         isCached: true
-  - title: "Chinese researchers develop monkey facial recognition using AI technology"
-    excerpt: "Golden snub-nosed monkey \"Taitan\" (R) looks at its newborn at the Chimelong Safari Park in Guangzhou, Guangdong Province, April 30, 2019. The Chimelong Safari Park greeted a newborn golden snub-nosed monkey on Monday."
-    publishedDateTime: 2021-02-22T05:25:00Z
-    webUrl: "https://www.globaltimes.cn/page/202102/1216119.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 53
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-22/fdb22710-1561-41b5-984c-0b229b7fa845.jpeg"
-        width: 500
-        height: 300
-        isCached: true
   - title: "This Chinese startup attains unicorn status in 100 days since inception"
     excerpt: "The latest pre-series A round of the Chinese graphics processing creator was led by Sequoia Capital China, GGV Capital, and Shenzhen Capital Group."
     publishedDateTime: 2021-02-25T09:27:00Z

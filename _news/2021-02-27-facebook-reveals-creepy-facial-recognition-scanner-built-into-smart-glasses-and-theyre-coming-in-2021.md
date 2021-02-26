@@ -105,15 +105,36 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Local Facebook rival soars as boycott grows"
-    excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."
-    publishedDateTime: 2021-02-22T06:15:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/google-fires-ai-ethics-researcher/live-coverage/d9a32a81f13b466c1c9055737ff7f36b"
+  - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
+    excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
+    publishedDateTime: 2021-02-26T21:08:00Z
+    webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 34
+    images:
+      - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
+    excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
+    publishedDateTime: 2021-02-26T22:35:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 6
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/02/26/20/37771266-0-image-a-7_1614370640794.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "Hb3cwArFaGZ4+3uQGFsyv+4H6++M/hRG53MHoFwxtHK9eZ9FDRXxaYtIpGfcdS7T2znxQ9oAdzlBNTiKnxMF4LUHUjfBKDlcowEVZWyEvLaHl0ZMCgByBrFpx4dtJRC+z9GROsBU1Tkw7uy/KuseS/Jfr7KQSCBBMUSaK2Og3VtM1U/LHRVQQqQT4LaB/UTQ6Leu0mJt0VQ9S3x+6jBAL9/umAB29fkqEsnpQhKdin8+S9T8H0/f/Tcc3HcRi692b2yF1GBhVDmw7kz8Zo/u+Ho43PWYwK717HQUhND75UApLqCP5bpfIzn7MyKlfz5uPVBtVPqRpQeZMLvETBsBtD+PX/0O0y5BLllTip2BTLY8UecioKduCaCJINW2EkkMs47JyXkaep/i/Y+TSIYggz5QlOm0tt3y5yyQ1oTrkcLJGcza7a6L8e3IgMdZ2hVIzkt0VEi4hIPyPZG0YViTefc+dA4KY/BIaj92t49UupQhMRmNSJoXC0Kcrh04od2oWHoRynmPDwPphr3xEQeWvA==;GgmTGC+Y1xru/HeiKKB7hg=="
 ---

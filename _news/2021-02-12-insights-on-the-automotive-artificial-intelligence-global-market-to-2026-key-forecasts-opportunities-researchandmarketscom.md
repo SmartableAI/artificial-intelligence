@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
-excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is drive"
-publishedDateTime: 2021-02-12T12:15:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
+excerpt: "The \"Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By"
+publishedDateTime: 2021-02-12T12:08:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19634522/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportuniti"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/b19634522/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportuniti"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19634522"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19634522"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "wqVRPIh11LLq0zVsBsPhmZkQ+f2vFOna9fCdWqIZe9fqviJiGgG6N1hC/Alvk28cPf92jKdl/wt5kuhlzM9U9Q/emvhCmkIYcXsYuRkF2H2W620A7X+NCF9akrvt0qf/WSyF/SaNP8y5lB490Omh2An0bIc4nORVCddSEC9+MaX3co6NMxvzu+o/hNlMEkJwrVNZWviqlRfsFJdJzUHPdl1ayRlTUKV9uCOYX5SKbvgEr0/WS0G3jylAQfnMAw1obI+t8jJOAjSnBpkgPCbQ1XcPElfgKVXPtENpFfL8XXoE+DitXio4Qb4D30W5al8bmYQVyiy20ub73YF2+NSWzp+oUNxz/MAn/LwyDbexM/U=;CGhaMTrTV6vqM4IQlMyTHg=="
+secured: "Gp/YOxQWuyU6B8PujMGxnXVHIwATFlUGdwW522S2fcJMCtt/7PY33iNHsioPRJtyz4/o5mG+n4/NML6KjVEh/yT9SGXXrZw4qVA6kA8l95d7zQfm9MB9yrrrQBZBzKSuNd5VYyGY9Pfcw1AtjnHtmIEPojv6A98eVh14CPW3R49AVl+z0q5dx0jsTwHAdPpNUAc4GufC00Wz8p9Md8oacA+1a3B1ixkZ7etZBUNLVDjpU7CmB6PaHi+XA6K+CMdyHA7HMG/JMiiHnkCqe0lUJi2wHCdZ91QEwLZVlq9caVPqAHUa9Ig/COA7K7khVS/T5MtO/VTkkjkHEqeubtbHjJFtjxdV3kM6F4mYclUq4b8=;tpFlIGoe8vc4Gapzi8S6uw=="
 ---
 
