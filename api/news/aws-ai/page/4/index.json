@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-20-following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption.md",
+      "title": "Following a Year of Privacy Worries and Security Breaches, Ring Implements End-to-End Encryption",
+      "excerpt": "Some of Ring’s products will now be getting end-to-end encryption for the first time, six years after the company's flagship doorbell camera product first launched.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/",
+      "originalUrl": "https://www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/01/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/amp/",
+      "publishedDateTime": "2021-01-19T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-want-to-dodge-ais-prying-eyes.md",
       "title": "Want to dodge AI’s prying eyes?",
       "excerpt": "Then we used a free version of Amazon Web Services’ facial recognition software, Rekognition, to compare the photos to a reference. The results provide striking insights into what today’s facial recognition technology is capable of: Different beards ...",

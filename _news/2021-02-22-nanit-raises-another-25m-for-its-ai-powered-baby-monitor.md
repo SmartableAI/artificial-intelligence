@@ -49,7 +49,7 @@ related:
   - title: "RentUp raises six-figure investment for its AI-powered platform"
     excerpt: "Egypt-based property technology (proptech) company RentUp, has raised a six-figure pre-seed investment from Japanese private equity"
     publishedDateTime: 2021-02-25T13:46:00Z
-    webUrl: "https://www.wamda.com/2021/02/rentup-raises-figure-investment-ai-powered-platform"
+    webUrl: "https://www.wamda.com/en/2021/02/rentup-raises-figure-investment-ai-powered-platform"
     type: article
     provider:
       name: wamda.com

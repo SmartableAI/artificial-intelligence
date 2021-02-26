@@ -1,22 +1,28 @@
 ---
 category: news
 title: "January AI Raises $21 Million to Fuel Growth of Its Breakthrough Diabetes Management Technology"
-excerpt: "AI—the first metabolic health company that accurately predicts users’ glycemic response to over 16 million foods in its proprietary atlas—toda"
-publishedDateTime: 2021-02-25T16:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210225005349/en/January-AI-Raises-21-Million-to-Fuel-Growth-of-Its-Breakthrough-Diabetes-Management-Technology"
-webUrl: "https://www.businesswire.com/news/home/20210225005349/en/January-AI-Raises-21-Million-to-Fuel-Growth-of-Its-Breakthrough-Diabetes-Management-Technology"
+excerpt: "January AI —the first metabolic health company that accurately predicts users’ glycemic response to over 16 million foods in its proprietary atlas—today announced that it has raised $8.8M in new funding from visionary institutional and individual investors,"
+publishedDateTime: 2021-02-26T08:57:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-coronavirus-pandemic-marissa-mayer-steve-chen-artificial-intelligence-800c1c4657214340ba30385d62682a14"
+webUrl: "https://apnews.com/press-release/business-wire/technology-coronavirus-pandemic-marissa-mayer-steve-chen-artificial-intelligence-800c1c4657214340ba30385d62682a14"
 type: article
-quality: 5
-heat: 5
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "PpstX+Pl6SDAPEtRxZ40aZDvCh5/GIPcTUrrVTPIVLY5n1F7VYiIjHlJ8G38SmRHNBSLeTnIAPWoWQr4l0tnThPN3p52cj6KvgCtlK6upALPFEQANHcA70e0InrnXBWp6CsJLhs+es+BgDPriR+DPUY8ucBJQvTlJILM6ZLLvdbxl1w6eC5iRF6BVPuoURqBfZITOen5SKpQzcarsFvUt503uDdG8CS+qe/jzGjd9hc5yrUKxZTzZyesulBaFMdYJO4VIwWNtdZwcORiaIKJToJ6BqemBCcNmWap4/+UtEST9GOINUFiHHEWA6gmeTu+drVufpRMeS/x4eruM5am8cgHqy9Q0CKjhbZkXf02jJ0=;ExOX54/R/DAH6U/XiNscwA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "6kvPPUqxnyLwMjaXNh1Y684p9Xa44Or/JLfouvaxqlWfl7JRUuh2EUp9m2GvYXlLtBmQC6O99oAKOVCMi4PkDHNGecV55r2j6YJ8tfdfWTE06NP6JWWxt1i1KEGBvJpzBMnno6DwUp35KyEfpbQ4TBzLNmsRnsy4vquRG0qL0hGYdKUYswBKX+GpM+jZp1vkfXQR4CK45Jums0V1ncVZe/7F3wkQWhHEKvF/IYURIoYOMOZXKWKKhPcuu7b/Hl1Xb8B//gHuGnAxmIRpqFJbMJXjomfNArSOxmO9l/oROGwWZiU/m32LgwSvrK3YDI4a0AzAcmhPI6ojQdixIqf9f7WrZLKnAWd3bTWSwIGfCN8=;xUhkYvFYmyXGztVSZEmfcA=="
 ---
 

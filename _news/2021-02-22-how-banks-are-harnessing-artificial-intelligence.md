@@ -99,6 +99,17 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
+    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
+    publishedDateTime: 2021-02-26T08:50:00Z
+    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
+    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
+    type: article
+    provider:
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 54
   - title: "AAAI 2021: Accelerating the impact of artificial intelligence"
     excerpt: "The purpose of the Association for the Advancement of Artificial Intelligence, according to its bylaws, is twofold. The first is to promote research in the area of AI, and the second is to promote the responsible use of these types of technology."
     publishedDateTime: 2021-02-25T00:43:00Z

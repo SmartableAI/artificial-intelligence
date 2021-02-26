@@ -3,8 +3,8 @@ category: news
 title: "Driverless bus hits streets of Malaga"
 excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
 publishedDateTime: 2021-02-26T00:36:00Z
-originalUrl: "https://www.brecorder.com/news/40068121/driverless-bus-hits-streets-of-malaga"
-webUrl: "https://www.brecorder.com/news/40068121/driverless-bus-hits-streets-of-malaga"
+originalUrl: "https://www.brecorder.com/news/40068121"
+webUrl: "https://www.brecorder.com/news/40068121"
 ampWebUrl: "https://www.brecorder.com/news/amp/40068121"
 cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40068121"
 type: article
@@ -102,6 +102,6 @@ related:
         height: 400
         isCached: true
 
-secured: "TnZ0u5wbquFt25aYpo96b2oKJdapLahylVBHc4LSLaB5E1Ex4wOUsFTlvdkZ7WAGnCy8L0xap/ihT67w9aIkcPgwgzfd/cudH2JzIne/uUG8icfL4T2H0AxnJMsCXOHBADkGKzZzacFbByLvd9uMso0zSKeGQ++C6xhKyeKRJQ11LVx2iGScgaj4YtV1xMWbGAVvh8Tq3nY3t8/zabJpOU+1w75aMefYJso/MucNlA5uLkERC+KX2tIesiHvqhKNIZhGpFuFhP7FFex8A/PDagO3hHAuzuT0VVTrXxtPV5DGgdONIsBS1CK9Dt8lAI/dVqJ7j85vmrqoKhrZjK7Eol56JStzlPp3eXRGO/X9fEQ=;Cg1IhcPavOELslQNAmc5Mw=="
+secured: "dMJ0apzrpml5kaBnoM1eEObhXpnCislPJU1pVt+GRXhF3j4Q/3FkwEuMJRjniEg9SRaPlXXEjBCUfC/R6IDGURXSdmHks1qu/zr9OuNtTU5L7VMVT9mc60ajL9Z0x8Q6rcjNofyQL1JVlB+a3DyiIQLsk5VMtaDSIfBRPDffC+2360f9CPHfP2eTi4Ljs4DPwOBGDWMth1X8qo1kOJKUsmSD81/4xr/RJ6LyOVbjo1DLgS2vg8HqYeDNVjPUNRFc1H0aLvF582Uh8QdHuYK7bwUKKUBfxYzlFzCOSoUFljXFcEeyVwXwhrN+jNgewJjd7zAi53dw+ZzhLwZyS/EsrNjOHHYZe9lGp5Q7AN4KZ8Y=;07Oxo7ATV3DmlK/danUt8A=="
 ---
 

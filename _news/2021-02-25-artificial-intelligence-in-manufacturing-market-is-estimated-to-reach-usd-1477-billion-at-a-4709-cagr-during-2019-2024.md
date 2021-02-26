@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Systems Spending Market Size Worth USD 767.60 Billion by 2028 | Emergen Research"
-    excerpt: "Artificial Intelligence systems spending market is forecast to reach a market size of USD 767.60 Billion by 2028,"
-    publishedDateTime: 2021-02-23T02:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-size-worth-usd-76760-billion-by-2028-emergen-research-2021-02-22"
+  - title: "At 28.3% of CAGR Artificial Intelligence (AI) in BFSI Market size will rise and expected to cross 5258 Million USD in 2025"
+    excerpt: "Selbyville, Delaware. The Artificial Intelligence (AI) in BFSI Market Forecast Report provides details analysis"
+    publishedDateTime: 2021-02-26T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/at-283-of-cagr-artificial-intelligence-ai-in-bfsi-market-size-will-rise-and-expected-to-cross-5258-million-usd-in-2025-2021-02-26?tesla=y"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

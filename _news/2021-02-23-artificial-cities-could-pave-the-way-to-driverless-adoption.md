@@ -72,7 +72,7 @@ related:
   - title: "Driverless bus hits streets of Malaga"
     excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
     publishedDateTime: 2021-02-26T00:36:00Z
-    webUrl: "https://www.brecorder.com/news/40068121/driverless-bus-hits-streets-of-malaga"
+    webUrl: "https://www.brecorder.com/news/40068121"
     ampWebUrl: "https://www.brecorder.com/news/amp/40068121"
     cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40068121"
     type: article

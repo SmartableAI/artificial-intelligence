@@ -55,6 +55,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Featurespace unveils Automated Deep Behavioral Networks for card, payments industry"
+    excerpt: "Featurespace has introduced Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defense to protect consumers from scams, account takeover, card and payments fraud."
+    publishedDateTime: 2021-02-26T10:52:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1935525"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 18
+    images:
+      - url: "https://www.bernama.com/bm/img/bernama.png"
+        width: 2483
+        height: 2942
+        isCached: true
 
 secured: "rY87IvzeaLak9tpEUqYrZoq6rRmxCIr/iySDVunUfoHsD0C118ybRlWgFVvmQ7yiWyXloNXdRiOmTE2TVJsm52T89boBExPGD2rYQWJfXsVHmFgkpdOb2o2BMLZRf/AkueVd6lmGRhaKUz8Z5FDVPX9IU51cKCVf8wxiqAc6oJMGOMEAyH3UBf2zEDkU6sUO2KJTyXK3NrLoNfj3fG1uKBHEyihBxYQ/pP5+dVhpa7/1qCSJYS9ZpNY3h1fguD5oznIAckPYeNNTBdLmi7ssFXvxQZiwH+b0+wVkazpVgkktaVc0/Q0pTbmvAJ8q+u+3PusEQqsWG5kz1sHgbP+pCubnWO9KdhHfiN7uzk6TvNI=;UtNURzzSISg6dlChU5Jm4g=="
 ---
