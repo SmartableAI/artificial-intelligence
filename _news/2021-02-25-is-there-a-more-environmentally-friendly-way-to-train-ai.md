@@ -3,13 +3,13 @@ category: news
 title: "Is there a more environmentally friendly way to train AI?"
 excerpt: "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,"
 publishedDateTime: 2021-02-24T19:48:00Z
-originalUrl: "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/"
-webUrl: "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/"
-ampWebUrl: "https://thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/"
+originalUrl: "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/"
+webUrl: "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/"
+ampWebUrl: "https://thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/24/more-environmentally-friendly-way-to-train-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -29,6 +30,6 @@ images:
     height: 417
     isCached: true
 
-secured: "V5KD2crk1u3QlpuU/pXG28HViSwEdRqUdkT2RaHpyhXyUoNuyJOqIQVdcD1ihjP+OJ4h5NMKX36it/+GsjoQvs4bdIg0/DhGAiuOkKgycAQSspkZR+/dYmmBqlGbqbq1dQV9NqrnGvPnxs7BhKZwqKD0te/SU06bvQ3uI8C/b4nbYy5Txql6/iroQ05JuH6uxe1b5RNLGJRoY6CH/44O2rmuzOgy8NqXZSkh9duFKGh0op5Ex+Afb0Oqlgq8W3QLxatmusDepadzR9z+/0wR3vU2MvB4Si96QXSUTCa4hWAXqaLtlVnPn1AYZ5SY8KdibjRYczy0y6368DTXA/fwdmYhY6C8gxL/ZAEtJ5YSCwA=;H0Zq60Fv73Hw//p1rC6WEQ=="
+secured: "cdageqy0sv0esNZ7QWU7U+qd0cJBf36ezpPkCS/zm2/PrJRy3h7QsGSoXXZg1j/7J0e5N0Dkl+8SuSzVz+4Bm9PKAYaLYNGBXLoEI/i9R1GCZnJ3qUj4F1jnh9yXDv12hn7qAaxy0Mfe+l/sDQdleLVfpJmuTQ4y1Zj9AuSpTb9hWJK/V0hWFB+6VErithMGkEdPADse2tVhe/PcGBP10fU+e0ZIGzl3BZQGAN1z6KEha9PsUIIoWhfhGXLTIQHW0kbnwHL8ndNQk/Pp8ztsKp2iAdYa5OfcG69ott1vBgcvxzSl9Zao3+9kef76IJic/cYHwbwUrD0jHKdHrCYfW8tWxlX3uWembGHpxPUqv24=;WYrre6SvEK4KPNzb5VgyTw=="
 ---
 

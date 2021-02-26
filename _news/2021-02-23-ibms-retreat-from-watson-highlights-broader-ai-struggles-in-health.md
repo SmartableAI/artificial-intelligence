@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
 quality: 104
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -156,24 +156,6 @@ related:
       name: Advisory Board
       domain: advisory.com
     quality: 12
-  - title: "Will IBM sell Watson Health? Maybe it should, analyst says – but how would it impact Red Hat?"
-    excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
-    publishedDateTime: 2021-02-21T16:12:00Z
-    webUrl: "https://www.bizjournals.com/triangle/news/2021/02/21/will-ibm-sell-watson-durham-rtp-impact.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 8
-  - title: "Will IBM sell Watson Health? Maybe it should, one analyst says – but how would it impact Red Hat?"
-    excerpt: "If reports that IBM could drop its IBM Watson Health Unit are true, the implications for Research Triangle Park could be significant. So too could the implications for Raleigh-based Red Hat."
-    publishedDateTime: 2021-02-21T16:12:00Z
-    webUrl: "https://www.bizjournals.com/triangle/news/2021/02/21/will-ibm-sell-watson-durham-rtp-impact.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 6
 
 secured: "qCuwqCeu4HpuMJtyMU+RIdN9xdvHmGMFi1gu18Bl6Sj7bsByK3sp5rDbfdugMExD47E4Qk/HJBiVQITzJSKgWmZShnR7G17d96JfJ+OxbMskbIPr351B3C8XQYRrbOLlPQrQxqXtcYE8Ivo4ItSuTvan2RAIx13wvkq+9yg2ABQmJJOVRh2iwkWR2bRIPjbocJthn25XKAcboW8qi4FYd8u1N0HzB1W64pBOb8099lJwCksc6nUjLj4gcRrw+7adKvENi4/IhTTmJ+cD3UQL3rbrGPlicY43mHrUheSEC94vGTzL5z67io9/npbtoQvRxdrF4cFAt6gtmBx1csZtaYS7lBw9vlxUaUZwkffEDEVct2T9ZG/egKptXiFqECjY3sACHU2Ll3yEG/GLhfRJ7Sjzn6G/Q8JEyN2f5ywFzqX5H6IOQssC9Uj2no9DaUjEsXX5T1GMJAMAlmYh9QJQC3gNjoF95sD8O5E2zKlLqftX9ZMEtFmSklot5LtpScFii6MJw/U+szFCukYvppNOew==;waHqtb0KKvM8lErEz/FyOQ=="
 ---

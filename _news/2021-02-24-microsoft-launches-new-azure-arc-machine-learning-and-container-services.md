@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/microsoft-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
 type: article
 quality: 115
-heat: 245
+heat: 255
 published: true
 
 provider:
@@ -141,6 +141,20 @@ related:
       - url: "https://media.pn.am/media/issue/290/573/photo/339x226_thumb_photo_290573_b50c2a3ce.jpg"
         width: 339
         height: 226
+        isCached: true
+  - title: "Advancing the Orchestration of Distributed Edge Applications, ZEDEDA Integrates with Microsoft Azure IoT"
+    excerpt: "ZEDEDA's recently introduced orchestration solution for the distributed edge provides a unique, native integration with Azure IoT, giving developers access to easily deploy and manage the entire lifecycle of Azure IoT services on distributed edge computing nodes at hyper-scale,"
+    publishedDateTime: 2021-02-24T00:00:00Z
+    webUrl: "https://www.iotevolutionworld.com/fog/articles/448116-advancing-orchestration-distributed-edge-applications-zededa-integrates-with.htm"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-feb/3071066850-AdobeStock_170339639_mutli_cloud_cutouts_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Microsoft Translator now offers text translation in nine additional languages"
     excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"

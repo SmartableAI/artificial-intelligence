@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Grazitti Interactive Announces the Launch of Their SAP S/4HANA (Cloud) Alteryx Connector"
-excerpt: "Press Release Grazitti Interactive, global digital services provider and innovation leader, recently announced the launch of their SAP S/4HANA (Cloud) Alteryx Connector. The release strengthens Grazitti's commitment to empowering data analysts in making"
-publishedDateTime: 2021-02-25T18:26:00Z
-originalUrl: "https://venturebeat.com/2021/02/25/grazitti-interactive-announces-the-launch-of-their-sap-s-4hana-cloud-alteryx-connector/"
-webUrl: "https://venturebeat.com/2021/02/25/grazitti-interactive-announces-the-launch-of-their-sap-s-4hana-cloud-alteryx-connector/"
-ampWebUrl: "https://venturebeat.com/2021/02/25/grazitti-interactive-announces-the-launch-of-their-sap-s-4hana-cloud-alteryx-connector/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/grazitti-interactive-announces-the-launch-of-their-sap-s-4hana-cloud-alteryx-connector/amp/"
+excerpt: "Grazitti Interactive, global digital services provider and innovation leader, recently announced the launch of their SAP S/4HANA (Cloud) Alteryx Connector. The release strengthens Grazitti’s commitment to empowering data analysts in making data-driven decisions powered by unified access to metrics on Alteryx from a range of platforms."
+publishedDateTime: 2021-02-26T08:33:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-media-6abfb2c8b9a241718b609d835690e903"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-media-6abfb2c8b9a241718b609d835690e903"
 type: article
-quality: 45
-heat: 45
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: VentureBeat
-  domain: venturebeat.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Google AI
   - AI
 
-secured: "LUo/mWDNX9DjYvZldJoHimZ/bmy2rYB2aYRno/xZAq++sb8hf8PifIREjSjMf/jiqw3W3QkNfX13Syq5ar9ZGBXaVyMwGurHe2WT4f3WkW8fTs26jcPG4WKpDYQj3Wfiisb0IRM63tLDi2PPcMm8rO0jIYN7VEiQtIao5q9vAHQMIi7lglnpcd4zkCgAm6CNjKv3T/k6OPYCywXieJ/OUi9SYaqCgZNs2Hj9RWu+8lmhnN7+RmdrXvADxxfbglLaM0zmzcGGjLfF+OzJ3/oWgLDMvKhDePT3k8sFDCdErXKmNYtgq/NeLs7jLuiCOwoF+/Ye3j1dUwBcG/PvnrxwrqXYpDcc1nb4KBmaxK18orc=;SUkxOXDzfiSOj7P9RfI9qA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "A+yOjZl1ESpTJSsG+u0aqohwS4DfOcHkwGcDTaAJhC40MRSN7eV8zQhRs/ctqkH9pPNE1IoaQ5PSxlmFqjrwpHJ2TBO6+7iYSc5gRXiwqpmiKynkJt4REUvWR3bSXmybqyerHeSwO7ORzyriJ1GnfsYrJF9ni2DbyyHfcf20PsuxQIR9NjH/sKuy5xr7EbuEn95/AfcYxkXiLRFDDou3NenMFjzywyHRDaS95r7HD50kTUx1Ust+JoolIflzaz5O8u5jGpAt4gX8k1D6hYvqTftrB3kbFBsFU9K7YeReEVBsiDl2hjzupp0fE0N80cPLlq/mLwsSN/fHXZJ86D7O+fM7gcHsKg9SNzvxGPeDNvI=;rPaAuelITV/2EA9lGDAJwg=="
 ---
 

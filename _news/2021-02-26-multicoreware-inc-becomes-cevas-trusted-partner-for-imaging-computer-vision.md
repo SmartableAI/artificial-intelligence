@@ -1,23 +1,29 @@
 ---
 category: news
 title: "MulticoreWare Inc. Becomes CEVA’s Trusted Partner for Imaging & Computer Vision"
-excerpt: "MulticoreWare Inc., joins CEVA, the leading licensor of sensor-hub Digital Signal Processors, AI engines and complementary framework & various sof"
-publishedDateTime: 2021-02-25T20:03:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210225005030/en/MulticoreWare-Inc.-Becomes-CEVA’s-Trusted-Partner-for-Imaging-Computer-Vision"
-webUrl: "https://www.businesswire.com/news/home/20210225005030/en/MulticoreWare-Inc.-Becomes-CEVA’s-Trusted-Partner-for-Imaging-Computer-Vision"
+excerpt: "MulticoreWare Inc., joins CEVA, the leading licensor of sensor-hub Digital Signal Processors, AI engines and complementary framework & various software SDK’s, as their trusted partner to enable services on all computing platforms by implementing optimized kernels and frameworks in CEVA’s pipeline."
+publishedDateTime: 2021-02-26T08:33:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-242df2b7addf4fef92073a60f0973956"
+webUrl: "https://apnews.com/press-release/business-wire/technology-242df2b7addf4fef92073a60f0973956"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "g1QQj6RMfqey8fFQ/LtHtKPnMgcWBuaWtXNWwLSRgJkgzGTYpkKQwVoN8PgJWBPwzd3H3C0MGzS0kOJ1uVT24Qqlbg0+ExrzSGDw+IZ8UEQ5qjw2rRQ+5AmwETPXGitoDkb+kbozS4bO8DX+HTZLxmA0x12QdtXp8OIpbdAWRWKvI13t36v5uThCNVsZozOqGXraWpX0we4LdcoLA1WFgAXamcvHCEZMJ/AExP9u4ZoXGcKq16ohFrxi/oC41GN5k6W8LIy65MNHolJP8pGIO58H8MNu289aSJHYB1pfrIA1tnooq5kO7gCzuxUdsJSXfz4IUNZ2fuyU9GZekThw2TVNgaBapOHdRW3xQuwlbSQ=;5g9JP6UzC7ABS/mW7cwPFQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "eyZOoSkFoMaZF8JpukivgGeClRGUZVnGasM34ydgfHI6E02OOxQBAbQSFaQx/Q37mMC6M2r3aE1osbB1BZprL5rwvqBvenAOVxYk68wnOe1+bS9Ae6GlMXfr4gJMcpiUiruKshwg8wNWiA4qiK9vNTLJsudjuKHU+uImICy7bJ/9X3pPgotmkedrS8pF3p4HMRD9jOd50lyaMdoM/vWMpMLr5qSarbiTx7JEMsU5kWBKVEhT4sl6IAhX36SpCVsGStPXILIlcZAC7Ajm3/ilNoseSQ9Z5D0GMGP9uHyTc24B8lOSdZqLBAs5DceD83vmjTD86txAWEunkdjcPyOKZt0mR64oRbL368fyP97KjeM=;YcT2Sd/qSo0ZSia9fRb6VA=="
 ---
 
