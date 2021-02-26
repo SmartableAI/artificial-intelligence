@@ -2,6 +2,101 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-12-face-control-russian-police-go-digital-against-protesters.md",
+      "title": "\"Face control\": Russian police go digital against protesters",
+      "excerpt": "Georgy Malets didn't make it to an anti-Kremlin rally last month. He was detained on his way there by police using facial recognition technology in the Moscow metro.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-russia-politics-navalny-tech-idUSKBN2AB1U2",
+      "originalUrl": "https://www.reuters.com/article/us-russia-politics-navalny-tech-idUSKBN2AB1U2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210211&t=2&i=1551197937&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1A18V",
+          "width": 810,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AB1U2",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AB1U2",
+      "publishedDateTime": "2021-02-11T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts.md",
+      "title": "A Small College Hopes to Claim Artificial Intelligence for the Liberal Arts",
+      "excerpt": "Colby College is carving out space in the liberal arts canon for artificial intelligence. Thanks to a $30 million gift from an alumnus, the small,",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "originalUrl": "https://www.edsurge.com/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/14030/shutterstock_439178773-1613062935.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop",
+          "width": 640,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "publishedDateTime": "2021-02-11T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-nhl-reaches-deal-with-aws-to-put-all-video-and-data-on-the-cloud.md",
       "title": "NHL reaches deal with AWS to put all video and data on the cloud",
       "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
@@ -194,43 +289,25 @@
     {
       "path": "_news/2021-02-12-2-self-driving-car-stocks-to-buy-in-2021.md",
       "title": "2 Self-Driving Car Stocks to Buy in 2021",
-      "excerpt": "This article represents the opinion of the writer, who may disagree with the “official” recommendation position of a Motley Fool premium advisory service. We’re motley! Questioning an ...",
+      "excerpt": "In other words, Waymo has way mo' data, and data is a huge advantage when it comes to artificial intelligence. Moreover, with the launch of Waymo One in 2018, it became the first company to offer ...",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/",
+      "webUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/612091/zoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg",
-          "width": 1619,
-          "height": 1060,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T08:40:00-08:00",
+      "publishedDateTime": "2021-02-11T08:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1085,83 +1162,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad.md",
-      "title": "Vectra extends cloud identity detection capabilities with Microsoft Azure AD",
-      "excerpt": "Vectra AI, a leader in network detection and response (NDR), today announced enhanced cloud identity detection capabilities using Azure AD within its",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/vectra-extends-cloud-identity-detection-capabilities-with-microsoft-azure-ad/article_654a9997-c6ba-593e-9927-da37feca4a0b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy.md",
-      "title": "Using Artificial Intelligence to prevent harm caused by immunotherapy",
-      "excerpt": "Researchers at Case Western Reserve University discover biomarkers to identify lung cancer patients who could be made worse by same drugs that helps",
-      "sourceUrl": null,
-      "webUrl": "https://case.edu/medicine/srhc/about/newsroom/our-latest-news/using-artificial-intelligence-prevent-harm-caused-immunotherapy",
-      "originalUrl": "https://case.edu/medicine/srhc/about/newsroom/our-latest-news/using-artificial-intelligence-prevent-harm-caused-immunotherapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Case Western Reserve University",
-        "domain": "case.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

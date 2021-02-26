@@ -2,6 +2,100 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-11-what-to-watch-in-artificial-intelligence-in-2021.md",
+      "title": "What to Watch in Artificial Intelligence in 2021",
+      "excerpt": "Artificial intelligence continues to be a focus and concern for businesses, regulators, and lawmakers alike. As we recently wrote, there was much activity and focus on artificial intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
+      "originalUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
+      "publishedDateTime": "2021-02-10T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-chinese-tech-giant-baidu-reportedly-plans-to-launch-an-ai-chip-company.md",
+      "title": "Chinese tech giant Baidu reportedly plans to launch an AI chip company",
+      "excerpt": "Baidu is reportedly planning to launch a subsidiary AI chip firm, which could boost China‘s efforts to develop a domestic semiconductor industry. CNBC reports that the search giant is in talks with venture capital firms GGV and IDG Capital about investing in the venture.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-10T204402.317-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/",
+      "publishedDateTime": "2021-02-10T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed.md",
       "title": "AI reveals how those coveted Super Bowl LV commercials failed",
       "excerpt": "Each of the $5.5 million-per-30-second spot commercials--which often gain as much attention as the game itself--were analyzed and assessed for effectiveness through AI and facial coding.",
@@ -1099,92 +1193,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-indian-healthcare-companies-bet-big-on-artificial-intelligence-report.md",
-      "title": "Indian healthcare companies bet big on artificial intelligence: Report",
-      "excerpt": "Around 90% of C-level executives in healthcare companies already have an AI strategy in place from a moderate to very large extent. For 54% of the participants covid-19 played a part in driving up AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/02/10/600x338/AI-kkGH--621x414@LiveMint_1612946535600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
-      "publishedDateTime": "2021-02-10T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-global-wearable-healthcare-devices-market-forecasts-to-2026.md",
-      "title": "Global Wearable Healthcare Devices Market - Forecasts to 2026",
-      "excerpt": "The findings reviewed by GME stated that the Global Wearable Healthcare Devices Market will expand with a CAGR value of 30 8 percent from 2021 to 2026 Factors like advanced sensors rising adoption of artificial intelligence growing mobile platforms precise",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "originalUrl": "https://www.openpr.com/news/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U210206214_g.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2239486/global-wearable-healthcare-devices-market-forecasts-to-2026",
-      "publishedDateTime": "2021-02-10T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/25/biden-should-double-down-on-trump
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/amp/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

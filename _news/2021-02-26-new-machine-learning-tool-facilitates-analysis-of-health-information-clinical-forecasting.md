@@ -1,25 +1,29 @@
 ---
 category: news
 title: "New machine learning tool facilitates analysis of health information, clinical forecasting"
-excerpt: "Clinical research requires that data be mined for insights. Machine learning, which develops algorithms to find patterns, has difficulty doing this with data related to health records because this type of information is neither static nor regularly collected."
-publishedDateTime: 2021-02-25T21:22:00Z
-originalUrl: "https://medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.html"
-webUrl: "https://medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.html"
-ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.amp"
+excerpt: "A new study developed a transparent and reproducible machine learning tool to facilitate analysis of health information. The tool can be used in clinical forecasting, which can predict trends as well as outcomes in individual patients."
+publishedDateTime: 2021-02-25T21:08:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/cmu-nml022521.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-02/cmu-nml022521.php"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "cDJA/BCXD7OFYuDNSUet9ZR2LK4eKROqLYg/vZKdmIkNkRJKKxqFgpxHf2r/iXJEwNXzzZgr/NOTNgC8qPDLgG9+0AshJYStYB0t7NbbZEeKvA1vGckbAOV7U8tv6uZAd/LYbpGf8kBoc2Ov8K8NbLfOL6hacH8Bh+P1sGD6Zw3pxYqt5nGCM4Hp91GYSeRb237pMIbfy5RCtSV2Vj2Iy32Xh9X8CiKm2Hiomx36ae0weurrzn1EjCH4zRzZCLXSjLjFd8SDb5dpNPAIg4eZNBsTN2Vh+oyItHUazRzsA88iJS0mJLRIxi76cRRUtwqGGb4L+9Ux6NVrOp/tljx14tKR8Hyd1FuzBG44hzvhn/I=;rSIKg0RwWLNxQ9f9p3IPDg=="
+images:
+  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "BIT7BC5oJ5fAVyywqepje6hEv4oy3dixBe5K4FDxh3ENL4CgLTAbNlNoh3Kqp8ugmGPTonS9/635sSRIanhQTxVDbaWBGtfeMrrpFNsYO1/TEUVJiWRQxK2P0tJgRuTqBesaid9TdkQXWGJENRpiHh4fUj0GttpTNhu2D2/DPpepb7PBCOOHVii8asvkLwfw7b2si/kaMH6b4VUlOx+wOA4V2AniC+XCuMTATiAdtGmw/IrM9zZUsMO1UHWmpK9PjdEPm/uffsfCjX7/C8ONo+fYXNecs3CQnWiXc5M5am+4BQ8YY6yT8wC7BOvetsfP8ZJfg821E3z8lFPZMukz7AdJbDoAOzF5k5AwuEuKh0M=;tVOhWKCpoCHPu7iX6bgy6g=="
 ---
 

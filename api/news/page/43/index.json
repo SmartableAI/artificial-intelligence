@@ -2,6 +2,92 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-25-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-morningstar.md",
+      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare | Morningstar",
+      "excerpt": "The Ehave Dashboard will continue to evolve to include its artificial intelligence and machine learning functions in order to become more integrated with clinical care in the coming years. Ehave Dashboard has been in the forefront of using data analytics with its blockchain data warehouse that provides insights to clinicians and patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/globe-newswire/8140900/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare",
+      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8140900/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-25T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-25-skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue.md",
+      "title": "Skyrim modders are using AI to generate new spoken dialogue",
+      "excerpt": "A new AI app called VASynth that lets Skyrim modders turn text into speech has already produced an impressive fan-made trailer.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Untitled-design-2021-01-25T102150.637-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/25/skyrim-modders-are-using-ai-to-generate-new-spoken-dialogue/amp/",
+      "publishedDateTime": "2021-01-25T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-hyundai-dal-e-ai-powered-robot-provides-automated-customer-service.md",
       "title": "Hyundai DAL-e AI-powered robot provides automated customer service",
       "excerpt": "Automaker Hyundai has a new employee working in one of its showrooms in Seoul, Korea. The employee is an AI-powered automated robot called DAL-e that provides customer services at the showroom.",
@@ -1075,101 +1161,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-can-facial-recognition-technology-really-reveal-political-orientation.md",
-      "title": "Can facial recognition technology really reveal political orientation?",
-      "excerpt": "The author of a peer-reviewed study says ‘yes it can’ and if he’s right, it has frightening implications A facial recognition system on display at the first Digital China summit, held in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1f986d762353b00bae878db163e8ee561ba35330/0_0_4240_2545/master/4240.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5fe6e09686eeedab5b5451d107769c93",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/jan/23/can-facial-recognition-technology-really-reveal-political-orientation",
-      "publishedDateTime": "2021-01-23T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-commentary-who-owns-our-faces-and-how-will-facial-recognition-be-used.md",
-      "title": "COMMENTARY: Who ‘owns’ our faces and how will facial recognition be used?",
-      "excerpt": "The recent riot at the U.S. Capitol has put the question into the spotlight as facial recognition becomes a vital tool in identifying rioters: What is the power of facial recognition technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/7588121/facial-recognition-canada-rights/",
-      "originalUrl": "https://globalnews.ca/news/7588121/facial-recognition-canada-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://globalnews.ca/wp-content/uploads/2020/10/facial-recogition.jpg?quality=85&strip=all&w=720&h=379&crop=1",
-          "width": 720,
-          "height": 379,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-23T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

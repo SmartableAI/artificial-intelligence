@@ -148,7 +148,7 @@ related:
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 3
+    quality: 5
 
 secured: "eFD9aZEhIhANqR6VsHC9OIMkuq0OMeXQsRXxUyO1k2lVqWRjhxaIidWETi3gRwiC2eM0XkJYCdgExlt5U46ObQ2xfjQOXSLAa90RFcjFjSSANolez5PNVq3Rlgs0zqLq5yKXhSWtLAvgBXCLcHDgKrSlNQiZEWvHtpNlBOTFlbB5bWR6j6h7caop33/d9ZZI0JiD6V9BXYrfcaZW+vQg+H+v9FyHn9e7TcuVCoX7qdp8MlLHyUQQ90B/uc/Knuj1mofTzRSp6J0lqBAl6TnVRndyPzbS5lKJDO8dOkTdd6oW8w2gTipCtyKBPzxE0JCQJcv5ll/mCKMxt96u2S52EFZD95BVOF2lKsG80l7QKOwecOIBRBF6cb1BSncOUZdXLaF5CntHbSByTBF1dLDGpC3qd5upVzKXfi5GpeLVyuxVScBdElyyaL8IsRS+2U864VW9M60P9+iDsmnqyOnnIGa+ZL59YLq3p8CLh8lFWSOxEaIspzO3Cvrom3zuc1dUin7M/cIHp/65w56iw5xzmQ==;Y36qJzCRSlBJr8L8Xp7oKQ=="
 ---

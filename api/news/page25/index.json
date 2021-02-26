@@ -2,6 +2,100 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-04-amazon-is-installing-ai-powered-cameras-in-its-delivery-vans-to-monitor-driver-behavior.md",
+      "title": "Amazon is installing AI-powered cameras in its delivery vans to monitor driver behavior",
+      "excerpt": "The Information reports that the Driveri platform being installed in the vehicles is made by San Diego-based start-up Netradyne. Its cameras use four lenses that film",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
+      "originalUrl": "https://www.techspot.com/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-04-image-7.jpg",
+          "width": 1984,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88521-amazon-installing-ai-powered-cameras-delivery-vans-monitor.html",
+      "publishedDateTime": "2021-02-04T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-two-google-engineers-resign-over-firing-of-ai-ethics-researcher.md",
+      "title": "Two Google engineers resign over firing of AI ethics researcher",
+      "excerpt": "An engineering director and a software developer have quit Alphabet's Google over the dismissal of AI researcher Timnit Gebru, a sign of the ongoing conflicts at the search giant over diversity and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/two-google-engineers-resign-firing-ai-ethics-researcher-rcna245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/rockcms/2021-02/279/210204-google-timnit-gebru-jm-0819-f159ea_1feca3a0d9ad0c970c8da6b982134d473bd228e0.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna245",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna245",
+      "publishedDateTime": "2021-02-04T05:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-how-censorship-can-influence-artificial-intelligence.md",
       "title": "How Censorship Can Influence Artificial Intelligence",
       "excerpt": "A study finds that algorithms learn to associate words with other words. “Democracy” can equal “stability”—or “chaos.”",
@@ -1094,92 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-wafer-scale-chip-to-power-ai-supercomputers.md",
-      "title": "Wafer-Scale Chip to Power AI Supercomputers",
-      "excerpt": "Wafer-scale AI chip startup Cerebras will supply its technology to EPCC, the supercomputing center at the University of Edinburgh, UK. The new hardware, designed specifically to accelerate huge AI workloads,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
-      "originalUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eetindia.co.in/wp-content/uploads/sites/4/2021/02/Cerebras_WLC.jpg",
-          "width": 1024,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
-      "cdnAmpWebUrl": "https://www-eetindia-co-in.cdn.ampproject.org/c/s/www.eetindia.co.in/wafer-scale-chip-to-power-ai-supercomputers/amp/",
-      "publishedDateTime": "2021-02-03T18:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eetindia.co.in",
-        "domain": "eetindia.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-is-the-ai-ethics-issue-hindering-innovation.md",
-      "title": "Is the AI ethics issue hindering innovation?",
-      "excerpt": "There are too many cases of discrimination in AI and, in some cases, organizations are even shelving plans to adopt it altogether Beneath the exciting",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
-      "originalUrl": "https://techwireasia.com/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2017/05/brain.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/02/is-the-ai-ethics-issue-hindering-innovation/",
-      "publishedDateTime": "2021-02-03T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

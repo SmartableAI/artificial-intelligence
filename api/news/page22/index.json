@@ -2,6 +2,111 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-07-qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere.md",
+      "title": "Qualcomm research could lower the barriers to visual AI everywhere",
+      "excerpt": "Qualcomm is working to reduce the compute power needed for visual AI to enable chips that are smaller, cheaper, and less power hungry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
+      "originalUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Qualcomm.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/06/qualcomm-research-could-lower-the-barriers-to-visual-ai-everywhere/amp/",
+      "publishedDateTime": "2021-02-06T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-delta-expanding-facial-recognition-technology-to-domestic-flights-in-detroit.md",
+      "title": "Delta expanding facial recognition technology to domestic flights in Detroit",
+      "excerpt": "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "publishedDateTime": "2021-02-05T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-aiops-and-the-quest-for-the-grail.md",
       "title": "AIOps And The Quest For The Grail",
       "excerpt": "For those unfamiliar with the term, AIOps simply means applying machine learning to IT operations functions. But implementing AIOps into a complex environment requires patience and a carefully planned strategy.",
@@ -1120,101 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-youre-doing-cloud-based-ai-and-machine-learning-wrong.md",
-      "title": "You’re doing cloud-based AI and machine learning wrong",
-      "excerpt": "Artificial intelligence and machine learning are hard, and most building these systems don’t know what they are doing. Here’s how to avoid AI/ML failures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
-      "originalUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/02/success_roadmap_perserverance_determination_challenges_thinkstock_155099452-100749443-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606135/youre-doing-cloud-based-ai-and-machine-learning-wrong.amp.html",
-      "publishedDateTime": "2021-02-05T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-fintech-ai-ml-what-you-need-to-know-in-2021.md",
-      "title": "Fintech, AI & ML: What you need to know in 2021",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) have almost thoroughly infiltrated almost every area imaginable, from back-end processes to forward-facing front-end roles. In 2019 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
-      "originalUrl": "https://www.itproportal.com/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/mpr37pUgQUuEWNhxeEwmrK-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/fintech-ai-and-ml-what-you-need-to-know-in-2021/",
-      "publishedDateTime": "2021-02-05T02:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

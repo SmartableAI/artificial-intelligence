@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-25T23:08:00Z
 originalUrl: "https://www.bizjournals.com/charlotte/news/2021/02/25/how-and-why-one-fintech-mortgage-lender-invested.html"
 webUrl: "https://www.bizjournals.com/charlotte/news/2021/02/25/how-and-why-one-fintech-mortgage-lender-invested.html"
 type: article
-quality: 3
+quality: 5
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Robotics
 
 related:
   - title: "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks"
