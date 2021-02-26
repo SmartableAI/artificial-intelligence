@@ -2,7 +2,7 @@
 name: "Bright Machines"
 overview: "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing."
 type: "profile"
-heat: 42
+heat: 58
 
 website: https://www.brightmachines.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bright_machines"
   url: "https://twitter.com/bright_machines"
-  followers: 688
+  followers: 689
 
 size: 201-500 employees
 yearFounded: 2018
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sU4h4V4pDi4"
 
-secured: "kpW6GtVGcwkr9gXx7dAwsmUiCIbPaVb1JbR1nC7iAOXQSi85/CIBaVpzT6FkqatuWZx9V7CIknPK3hyBW58bw+LenqgO0F6iO25AOCbSufwlwHBYiU+fTCcVfZrM50Ohzknz0M7GPnEAGTe51nf0wO5IFAGGn7CbPQG0ffONL9f8gUNUfCsacVEhDtVPUuAx3+FHadUgWoQm8LDc8gexM6CtrmkcN/os4XUOQqmtjjfuiAAD5LmYJ+vJbVwlBx+5+NXqZzoyNIleur5dVuaoSg0WM4Jw61oyqfcV4Il4QlWviRa4ffwJGssgKdg3tz/bj6cuEYtshDR9ZD1u+gHrLmD0BwVCZkREPreFjrTRdLboRZpLUu2sX0WVndHiv8jDWaafJIbrwzmOOsPrSbSjtw==;SPEvYrg+uxi+VjXutPFH8g=="
+secured: "1Qhu+lc0Rvp/glCtgJZy6jNjULh+IhSZQsrcdPFbvmkpWPwjQXChRw10szygpNTIl70YR5kxYyK8syal66mCosOcW+mWZglWpIDHW+FKG+aAArDaYAaIxnCAfp8JQ2IrInpY+V04ekgvEPa3Q7PkezWVxopRwdNnJu1rKiKH+UhQuC5409yMjc8wmZ6WNOTfenG/hHGJY0Zq7vJ3ozSeUHaFOTwTjaurwfj9jp0/ReNIbv+wUxlkW7pqOvRreFYn1D9B2ClrwQeXSzvsXTqeBixUL4yTFOP2vVBjxbEm7kjf+MB+xny2Oxybv1WfA54xw9GvZd7cIoMEWEE4xTEIAXo6+uw1VE6a+foQ6oF4+hzpPy78R38YqTy4IWeKw63erKWbv1xdlO9y+cQA/UEG6Q==;AqlsepRcVLxgrEfN0TCwkg=="
 ---
 
