@@ -38,6 +38,20 @@ related:
         width: 600
         height: 462
         isCached: true
+  - title: "Rugged computer for artificial intelligence (AI) uses that can use vehicle power introduced by Neousys"
+    excerpt: "The Nuvo-8108GC-XL operates reliably in shock and vibration conditions, and can be deployed on a vehicle and run on vehicle electrical power."
+    publishedDateTime: 2021-02-26T12:01:00Z
+    webUrl: "https://www.intelligent-aerospace.com/home/article/14198351/rugged-computer-for-ai-artificial-intelligence"
+    type: article
+    provider:
+      name: Intelligent Aerospace
+      domain: intelligent-aerospace.com
+    quality: 36
+    images:
+      - url: "https://img.intelligent-aerospace.com/files/base/ebm/ias/image/2021/02/Neuosys_25_Feb_2021.60363c299010e.60380e597e440.png?auto=format&fit=max&w=1200"
+        width: 720
+        height: 554
+        isCached: true
 
 secured: "nIp7OZl74mUgmFxjD03AjotUJNzJNYOKJ+J+hosMcJRsSxW9Z3JWYQwgmX49O/tiqMj8KNhp1LR77W8mpCHXof+Bu9GO+lnYVV6UAfaEShYPdNKB/F/9UMqafpkqvtSAzmZ3vJqbnJf50xq2+3+bAAyYn+yGPwvQ+pALYfd+omJKi4XN61c3EwPmGWYANQouHfGik2zW/kSldNSuH5PFHEA8MKfRDWfIjkl7r9ijJDEg+Oa7vBJ2RdGbHyer/xo0jQ5DMd7vAfsIkfU67RF8xp/M1wV99i/LH8sInqamojkDsXyuVU4ByV51ajYHndeVLVH0HnfNkBHGYs0Nywi8MQbWso+3Alx3Tgrh2ZraxHGnkZaoRGs7kE2wUFI1EHmOkiUShYfaHdMpL+tBoHmbbKM8FhiK02QcTsFXTXRXjRkJzquU+VJKBT8ygdO73g6NJBGOxCIKPXSQq+UL+DphBRKynCOphIj7wdXHOaQsH871TCoI+HK2mapbaNsAo9H2jYRtgLny0xC0ob2+DJMxcw==;kGMYlA3+utRG0WNn2cSVnQ=="
 ---

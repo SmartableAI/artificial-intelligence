@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-24-cloud-observability-startup-opscruise-emerges-from-stealth.md",
+      "title": "Cloud observability startup OpsCruise emerges from stealth",
+      "excerpt": "OpsCruise, a cloud availability startup leveraging AI to detect performance anomolies, emerged from stealth with venture backing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/",
+      "originalUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/federated_learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/cloud-observability-startup-opscruise-emerges-from-stealth/amp/",
+      "publishedDateTime": "2021-02-24T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-zorroa-launches-boon-ai-to-unlock-the-ml-api-ecosystem.md",
+      "title": "Zorroa Launches Boon AI to Unlock the ML API Ecosystem",
+      "excerpt": "Zorroa Corp., a provider of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google's AI-focused venture fund, has officially launched an ML SaaS platform, Boon AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dbta.com/Editorial/News-Flashes/Zorroa-Launches-Boon-AI-to-Unlock-the-ML-API-Ecosystem-145393.aspx",
+      "originalUrl": "https://www.dbta.com/Editorial/News-Flashes/Zorroa-Launches-Boon-AI-to-Unlock-the-ML-API-Ecosystem-145393.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dbta.com/images/social-logo-2019.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dbta.com",
+        "domain": "dbta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-blueshift-raises-30m-for-its-ai-based-integrated-approach-to-marketing.md",
       "title": "Blueshift raises $30M for its AI-based, integrated approach to marketing",
       "excerpt": "The concept of the “marketing cloud” — sold by the likes of Salesforce, Oracle and Adobe — has become a standard way for large tech companies to package together and sell marketing tools to businesses that want to improve how they use digital channels to grow their business.",
@@ -615,7 +710,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
       "featuredContent": null,
       "highlight": null,
-      "heat": 255,
+      "heat": 265,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1128,102 +1223,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-ai-researchers-detail-obstacles-to-data-sharing-in-africa.md",
-      "title": "AI researchers detail obstacles to data sharing in Africa",
-      "excerpt": "Coauthors argue that failure to consider ethical concerns associated with obstacles to data sharing in Africa could cause irreparable harm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/25926847601_141ca6c021_k.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
-      "publishedDateTime": "2021-02-23T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-machine-learning-method-identifies-precancerous-colon-polyps.md",
-      "title": "Machine learning method identifies precancerous colon polyps",
-      "excerpt": "A machine learning algorithm helps accurately differentiate benign and premalignant colorectal polyps on CT colonography scans, according to a study published in the journal Radiology.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/16-machinelearn.jpg",
-          "width": 1440,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-method-precancerous-colon-polyps.amp",
-      "publishedDateTime": "2021-02-23T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

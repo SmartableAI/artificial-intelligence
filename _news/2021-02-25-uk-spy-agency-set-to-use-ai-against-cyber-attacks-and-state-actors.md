@@ -37,6 +37,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "GCHQ sets out the rules for AI in cyber"
+    excerpt: "GCHQ sets out the rules for AI in cyber Used responsibly, artificial intelligence (AI) technology will in the future help cyber analysts"
+    publishedDateTime: 2021-02-26T12:51:00Z
+    webUrl: "https://www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/"
+    ampWebUrl: "https://www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/GCHQ-sets-out-the-rules-for-AI-in-cyber.jpeg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "iWpbjO6vxfKiqs128mOTgqzlE33bC6NRix96ESIa6C4tUngxhLvA5bHr1j8AapksM6CvECKmt+BiOxoyrmHmLnU/TDytOgvFb9C2Z2B1XizI3UstfOcPZa6UgS/JVfJncS7IO2efB35e46obk/3e5m/X3Lk3+sPlQRzmTLSMC/CwnN4vd+aw3KcE1S3fiw8f2Ov1RdylGKebqMmSoH7ODoTuzPQZPHfsV//6FA0ngjdaExFuTEM+WMmW++eQ4OSL+P7yP4Q1f6sjifptOVKQGwCxERhp7xj6OwTvrOCklO8yu5g6WUz1I2ESLJcE8UW08HbXAEu8h2PqeJwWI7JK1amgX/etWX3cIB7FVuJCm+OqkBamzwlmdohoEgHPdW9ztIH1XuzVFVt9dL6yoAHQ7B1lv15VQXyNgN1g3Ny757TLRU01jkPu+r14UtajskTgXQmrvUumWOSYViht9zJdYrWTnhG1C990+MQHQkWQZYJYtYt9mP17kQ+u+0cbjTCkGqoo050PFUGhPhNVHiSLcw==;nQOvPHW9/vWdHEBar9cxmw=="
 ---

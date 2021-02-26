@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
 type: article
 quality: 121
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -128,6 +128,20 @@ related:
       - url: "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/02/iStock-1211725238-800x600px.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "CAPTURE-ing movement in freely behaving animals"
+    excerpt: "Harvard researchers develop a new motion-tracking system that delivers an unprecedented look at how animals move and behave naturally."
+    publishedDateTime: 2021-02-25T19:11:00Z
+    webUrl: "https://news.harvard.edu/gazette/story/2021/02/tech-breakthrough-combines-motion-capture-and-neural-learning/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 24
+    images:
+      - url: "https://news.harvard.edu/wp-content/uploads/2021/01/capturemotion_fig71-945x630.jpg"
+        width: 945
+        height: 630
         isCached: true
 
 secured: "teqVIatJHK/zmMWOrTPAZGP5RNHzIolYiOcFr22ePHtmdpw6vfvHS5bDShfJ5MQ1RbH51H7xCODvn3am91CPbu7PXVVNPbCiWk8MfZP+owrRDEu6fqvHLbcSv/Bm+V387YmVHvleGQKRR4gh3X02qT4r4SPiX40VmPe7HXXrj/Qe+80bealuR5aImU7vbewDqw8vz8VTdHDCRZWLKdmKguf0RY+1cjAZu4GMWRxrIXbKCQOsr0oeY+cReDqBpk2tRgDXASBh0h+Xh8rlup48OramzErXiuGalYIsPRRCbOPOwHz1b4dzMZ6Qg1K5Dv1i+rIgNQpiyWmRkVY7jcDDPJmHaOz4x1LEcBIoS/vXhFinH/EA6RtAw6u7nqlSUKf9GN2iQbaKOQ01u0CK5ZqZrO8nfGRW/Uki2XwhLP0E4YlHJTMVZDqHyUjzaZ18+PueYPiUi1oBTc9iUvMKzSlT6oGAV4g3u+JgmLa7Yxg3oJvM78SGUrdXMxG93XzaENn2HIai5MAZrDuXFvhP0nbwAg==;5MjqcOskFE8C3855TWxDrA=="

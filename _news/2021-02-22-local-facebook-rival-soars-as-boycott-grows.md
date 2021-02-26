@@ -35,6 +35,22 @@ related:
         width: 3105
         height: 2070
         isCached: true
+  - title: "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban"
+    excerpt: "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban."
+    publishedDateTime: 2021-02-26T12:24:00Z
+    webUrl: "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/"
+    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "lV3PW1KJptLnv3rMjNbCwRSrWfSs3ERsOFh5bBojKEh39gKgzWYThAUUDb/9/qd1RZrjoOaFldj+fbhVqUP1yd7v90vHQV3JF8FAIDMLmzl2wX9flIl4CrUq5EgcSbMWpkmUsdA/mpcKZZBVIUG+RDzM5xiNxg3FcycEld5E+ZBe621Ygb+MVm8MOG8TyudykavybrpikxmdNO20TaQlqrUI91z4i+FEweXquZqZjnL3BA7npzp18iYXtET2SDht7ZhcCvOUQWT1tsSB/BhD30J3M0hWPs/F0qqfHJZRT3IscpDblR4WcLou9+HCsQPTMy3RZVcVg02QF72Qt9g5NJ7HUGB9UH11n7k/DCxINusHn0jJtJelg1iQgFOw5VMHzN3+vpis3CuH+YF0Z4h54W4q+HiwMSUBfsq1P441EQJEPbxvHa1S3/XECPE1XffZ+QvVHIi2dTtQ2YyYwQvSXsXzVqDFXR5VCVkYWd7if/bcN1zrRMDXtmGuICKTvzs1mBfhnmzsb+C2NpNpzLlx4g==;iujoIJZ450kUYBAEC9UVSQ=="
 ---

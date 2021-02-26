@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "MongoDB deepens Google Cloud partnership with new Atlas integrations"
+    excerpt: "MongoDB, one of the world’s most popular and trusted NoSQL databases, has deepened its Google Cloud partnership with new Atlas integrations."
+    publishedDateTime: 2021-02-26T11:14:00Z
+    webUrl: "https://developer-tech.com/news/2021/feb/26/mongodb-deepens-google-cloud-partnership-new-atlas-integrations/"
+    type: article
+    provider:
+      name: Developer Tech
+      domain: developer-tech.com
+    quality: 24
+    images:
+      - url: "https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"
+        width: 1470
+        height: 885
+        isCached: true
 
 secured: "CTlZ6mNlrEHwvFCmnWiEfE916PEiZUvrcqPNwVWYEgM+mFG97VPSXJSYSvhPlkDY2whKUE9lro6CjhyVbTMXC2XJlrRGtunwvUn1ByS0miIe+XKpClNteEsmuIGVt6Zl91dgzdj7GH2AJQuCM00GJq245Q0gcb4XswZh2UYMycHN7zX96ms0QdGKwyUPEnLJv7OIbbR1jKCDiIK6/hz6YffNiox18A+vOPg+LvEU19jXmjfG8WNHQGvs1AR4SNh7JJlLamJdX7xqDwM8kSPkgqTm5KZPh2IXKlU4MMRZUn5oJ1s61XZ9suSqf3/9mMM/gGsHdl+EXaR+r/yvTUJMho+W88V39YvOQLeOIBFQuEYN7C9rs1St3oDX3E7T08pZ4wgXESRtqS7A9IUk2y1Q36jrtdh/1oeOtkPOJos4Nucns2qUHxDd5vvYM7P6eaYDjTWGM1VMEO+2ew954LL5LIiCL6VOqeeQ/7PJ0RvjGU7nWzVPsQp2CPsjh8OA+j+NTs7blmMYYMOBL5+Cp3aEAg==;uAug5ZaK+7u31V6VznfK9g=="
 ---

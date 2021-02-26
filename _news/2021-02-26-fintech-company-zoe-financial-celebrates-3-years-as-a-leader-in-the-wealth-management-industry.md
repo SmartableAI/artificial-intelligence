@@ -94,22 +94,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 24
-  - title: "Fintech Industry in Israel Acquired Nearly 25% of Technology Sector Funding in Country, Driven by Speculative Valuations"
-    excerpt: "Fintech industry in Israel acquired nearly 25% of technology sector funding in country, driven by speculative valuations."
-    publishedDateTime: 2021-02-21T20:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fintech-Calling-Tel-Aviv-Israel-Fintech-Week-600x495.jpeg"
-        width: 600
-        height: 495
-        isCached: true
   - title: "QCB planning to launch regulatory sandbox for entities to test fintech solutions"
     excerpt: "The Qatar Central Bank (QCB) is planning to launch its regulatory sandbox this year, which offers a safe and controlled space for entities to test out their fintech solutions under relaxed regulatory requirements."
     publishedDateTime: 2021-02-22T18:40:00Z

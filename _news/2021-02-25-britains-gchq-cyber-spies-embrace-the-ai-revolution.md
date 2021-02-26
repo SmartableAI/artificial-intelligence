@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,22 @@ topics:
   - AI
 
 related:
+  - title: "GCHQ sets out the rules for AI in cyber"
+    excerpt: "GCHQ sets out the rules for AI in cyber Used responsibly, artificial intelligence (AI) technology will in the future help cyber analysts"
+    publishedDateTime: 2021-02-26T12:51:00Z
+    webUrl: "https://www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/"
+    ampWebUrl: "https://www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 59
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/GCHQ-sets-out-the-rules-for-AI-in-cyber.jpeg"
+        width: 1200
+        height: 400
+        isCached: true
   - title: "UK spy agency set to use AI against cyber attacks and state actors"
     excerpt: "GCHQ, the UK spy agency, is preparing to use artificial intelligence to combat cyber attacks, identify state-backed disinformation, and help track criminal networks around the globe. The move, announced on Wednesday,"
     publishedDateTime: 2021-02-24T22:34:00Z

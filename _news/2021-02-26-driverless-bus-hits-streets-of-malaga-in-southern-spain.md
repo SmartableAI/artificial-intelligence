@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-so
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -85,6 +85,22 @@ related:
     images:
       - url: "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242"
         width: 600
+        height: 360
+        isCached: true
+  - title: "How Can Driverless Cars Take Account of Human Selfishness?"
+    excerpt: "A new study has found that the percentage of individuals willing to sacrifice their own safety increased by two-thirds when informed that their peers were more likely to sacrifice their own safety, programming their vehicle to hit a wall rather than hit pedestrians who were at risk."
+    publishedDateTime: 2021-02-26T11:11:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/how-can-driverless-cars-take-account-of-human-selfishness-346050"
+    ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/how-can-driverless-cars-take-account-of-human-selfishness-346050"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/how-can-driverless-cars-take-account-of-human-selfishness-346050"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-can-driverless-cars-take-account-of-human-selfishness-346050.jpg?v=11127545"
+        width: 640
         height: 360
         isCached: true
   - title: "Artificial cities could pave the way to driverless adoption"

@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 768
         isCached: true
+  - title: "How Can Driverless Cars Take Account of Human Selfishness?"
+    excerpt: "A new study has found that the percentage of individuals willing to sacrifice their own safety increased by two-thirds when informed that their peers were more likely to sacrifice their own safety, programming their vehicle to hit a wall rather than hit pedestrians who were at risk."
+    publishedDateTime: 2021-02-26T11:11:00Z
+    webUrl: "https://www.technologynetworks.com/informatics/news/how-can-driverless-cars-take-account-of-human-selfishness-346050"
+    ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/how-can-driverless-cars-take-account-of-human-selfishness-346050"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/how-can-driverless-cars-take-account-of-human-selfishness-346050"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-can-driverless-cars-take-account-of-human-selfishness-346050.jpg?v=11127545"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Artificial cities could pave the way to driverless adoption"
     excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
     publishedDateTime: 2021-02-23T11:04:00Z

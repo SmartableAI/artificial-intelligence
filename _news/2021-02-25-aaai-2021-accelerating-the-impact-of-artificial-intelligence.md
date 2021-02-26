@@ -127,6 +127,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "CAPTURE-ing movement in freely behaving animals"
+    excerpt: "Harvard researchers develop a new motion-tracking system that delivers an unprecedented look at how animals move and behave naturally."
+    publishedDateTime: 2021-02-25T19:11:00Z
+    webUrl: "https://news.harvard.edu/gazette/story/2021/02/tech-breakthrough-combines-motion-capture-and-neural-learning/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 24
+    images:
+      - url: "https://news.harvard.edu/wp-content/uploads/2021/01/capturemotion_fig71-945x630.jpg"
+        width: 945
+        height: 630
+        isCached: true
 
 secured: "WWfXvoYicxdXdUgfAb7mVCaFjTXzDhNxxpgQff73Dpb2PH7jI4FTEsl3qTOwBItSuNcqp+4sY72r2uXvQvQIjQPRo+C8qAa7aiT/vYSiFKYMQaUcX5jIv8wHzoNbYnmKDPdJSzN86dqtgbnCWaYVXO+8FoEzOrrdfJ8wpy0Uy8bhZgXJ/0sR4s8FqA8woWphMtzbEuOPkztiH7+/Vz7dwvkR3VzgML4R5bebiEW2ETsLRbT3DvqIoD9aUleaGcRsTPyOS9f0QGcPHvdPsl7l0yIITKrG8uMov45HFeH1WeBRXpXqwIOXKCVZsxYYkQ4jp8+HrABh+MRu93vkZRWLAgwlqaUJB2vAgKZc8Znpsi+gFW2jNW13OKAtrWxdHRhwjW4/DrGtVUXJVRUQUh9surk+NSH900KCQmUkHdcBOA4/QoRc7BKyTL8C9mJef6fPtaGXZ2zSppk1p8c9WX7rVWLfX2f6KjyVwuIdHPYA41FkWl22vvyt4Biet7TH28C+U+801TaO8LIwGSbmbKN+jw==;Adh3aChc1kG+Xfcyaj/AQw=="
 ---

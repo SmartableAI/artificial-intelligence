@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broade
 ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
-quality: 104
-heat: 194
+quality: 106
+heat: 196
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Google AI
 
 images:
   - url: "https://images.wsj.net/im-302017/social"

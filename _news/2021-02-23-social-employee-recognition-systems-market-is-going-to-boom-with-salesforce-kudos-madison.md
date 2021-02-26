@@ -69,6 +69,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cyber Situational Awareness Market Expected to Reach $153 Billion by 2027"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “ cyber situational awareness market by component, solution type, deployment type, organization size, industry verticals, and region: opportunity analysis and industry forecast,"
+    publishedDateTime: 2021-02-25T10:09:00Z
+    webUrl: "https://www.alliedmarketresearch.com/press-release/cyber-situational-awareness-market.html"
+    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    type: article
+    provider:
+      name: Market
+      domain: alliedmarketresearch.com
+    quality: 23
   - title: "Automotive voice recognition system market anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 to 2027."
     excerpt: "The global automotive voice recognition system market size is expected to reach around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 to 2027."
     publishedDateTime: 2021-02-25T08:52:00Z

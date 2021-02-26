@@ -53,6 +53,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Microsoft: How we deliver industry-specific cloud computing at scale"
+    excerpt: "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations."
+    publishedDateTime: 2021-02-25T12:00:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 89
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/25/34c32e8e-79f4-4866-81e0-3f312dc07b23/resize/400x/0d173a80a5e76ca17f533fc8925f9e00/ms-erik-arnold-tr.jpg"
+        width: 400
+        height: 353
+        isCached: true
   - title: "Microsoft Translator gains text support for 9 more languages"
     excerpt: "Microsoft recently announced support for nine additional languages for Microsoft Translator. The newly supported languages are spoken by over 170 million people around the world."
     publishedDateTime: 2021-02-23T19:04:00Z

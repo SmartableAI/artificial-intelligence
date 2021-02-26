@@ -7,8 +7,8 @@ originalUrl: "https://www.virginiabusiness.com/article/saic-names-senior-vp-of-a
 webUrl: "https://www.virginiabusiness.com/article/saic-names-senior-vp-of-artificial-intelligence/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Virginia Business
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Michael Scruggs Joins SAIC as SVP of Artificial Intelligence"
+    excerpt: "(SAIC) has announced that Michael Scruggs has joined the company as the new senior vice president of Artificial Intelligence (AI), effective immediately. In this newly created role, Scruggs will be responsible for driving organic growth through AI technology delivery and solutions development."
+    publishedDateTime: 2021-02-26T10:39:00Z
+    webUrl: "https://www.hstoday.us/industry/michael-scruggs-joins-saic-as-svp-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 52
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2021/02/IDT_Feb2021_300x300.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Church of AI closes"
     excerpt: "Way of the Future wants to move money where it matters The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski formed The Way of the Future Church in 2015 to understand and accept a godhead based on artificial intelligence."
     publishedDateTime: 2021-02-23T15:10:00Z

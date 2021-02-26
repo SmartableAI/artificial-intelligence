@@ -2,14 +2,14 @@
 category: news
 title: "Why machine learning strategies fail"
 excerpt: "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning."
-publishedDateTime: 2021-02-26T04:14:00Z
-originalUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/?via=indexdotco"
-webUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/?via=indexdotco"
+publishedDateTime: 2021-02-26T12:12:00Z
+originalUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/"
+webUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/"
 ampWebUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/"
 type: article
-quality: 108
-heat: 108
+quality: 104
+heat: 105
 published: true
 
 provider:
@@ -21,10 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
-  - Microsoft AI
+  - AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all"
@@ -32,6 +30,6 @@ images:
     height: 600
     isCached: true
 
-secured: "XmEvjmCyImhWJq7tDb6OwqAbYEwzokssNr3lL5iXPfUl2XlapA5iosnTlNgoXR+zTC/NI+yzpazf0ofmq2019hU5hY8gamifsP2GJL+9fON9i9mPK1WxSOWlNzr007HXVaYhvV/h8eiPQbDTyMG/FmJpZaT/GXeAOK7ES7XWFpCW3+JiCT/tqcfySIqfJnkbvM/ySAMm2DKF4fhzrbI/ejLXNt+eatEGiZhg3ossGNLIEhd/OEvvHEnvUZZD7twDEWTxefVhlgT2iqdU7Y6hB1zWSwvBdEDX1RZhJqcm4mRu4wqdckRIK01hoMxK4dQaFowG5a1kzXWIVHbZvgh+07Yzku1IHOok62hX+ms8EkU=;D203KTfHTGTc9XZuvcwcXw=="
+secured: "LiZtlpc56mEu/GrVTssgFHhLJsciuGUQA79raxElFL8BrO0jEOwryiteB3a2pygtO8hw99JMM5yidUZpzTCj+yVA8iTFnxp0ZoRFAjV/2aVLecDrujrhvchZoW4yEfndhT6yyuXget78vHpBpnEIs5IFQSAs9tBkwMPgiEDqZP2K2eqme2Dw3f0+7SxzKzrogwzAiqL7Auk+CSm+FPvtelD73YLnRsVws8MmCcPTGiqqQ9xhRpi6HQLXy5iRpB9vFQaLz5k3zXf57gy0CLfSE8C4llwK6jIQr+rUYSErhW4+byRFjQOJNkR2EmQt5cYkMDo+p5A2/2rBFKDWfs3PMHqDDGyOuxurUSUhNjf8wNQ=;hZSXIwGbqlVqphbxh625WQ=="
 ---
 

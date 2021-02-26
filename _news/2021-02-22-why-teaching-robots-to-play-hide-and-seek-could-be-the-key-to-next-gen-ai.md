@@ -23,7 +23,14 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Google AI
 
-secured: "Ltq+JUPGGHw+o2Omun5FNScHMTmTpF2QbI6wE3Fi0Am9KMaefPUaEfukJUJylIJSQ9tivrKhUvUR2ou9gCnwRSQNU9NZmzzb9yLFtgwq63ycRla0ytTgeHwj6+wuWTHfgbrkrRHnYs8WGGUm0x1bCacDFoQYtxh4VKvDu/J+cl5yz4o4H/i/bDE7u0xkDWujfsZVtK58BYoR6mT7RJYdoX7Iyj6VHP8sVctaSfm42ER5BJmjsdWka1uo+5ZvEV5Kzf09e7Ov/TeH3RiXsTM7hrp+8p95sxIEsohuH9/2AFY3AfIWzmzlv+qBI0CDCrN++sJLRvPhAhmKuqoPobh2xt4iftUnjlnMYcnToozS15e935yAj0QuoGpeqhzfdmkrEh/mb9zgjzfmN5aXWhx3wD51mp33McLwC2rIPkp2M4WD+vUuABfX0XXRH8ZV1iW1QT/5D2tozk32cvN+qn/xBPlLpBIDrUgQ80/8p4EWfkDrZUhRW8VQ0g0jQb0t44IMqcK6zpe1f+nitDNbi9VBGw==;a+Ywt4bQFnJdGn58guMWRg=="
+images:
+  - url: "https://icdn4.digitaltrends.com/image/digitaltrends/ai-2-thor-multi-agent-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "wIVIdSDLhABpQaeCpmMrHwIsGH7sAGNLLzUQ7SlsEKeKUluuJz36Q8UyPtiC+R7MKy6wZpXSsgkq2ecGddktabgiJfE764SZsrlpYhwrwQW6sYm+AtHso/DtKPccDKoUjwGjwEPuljQNy2aWMrNaOAYZyjIW9hd1Yq1F9SuEFar87vvk8tTqo7q7uQ+7g5tlLbh7Fr9gsRiGBqnDHuEAVo1f0ueqAeTa916+ILbJc1w3/GgeWEd6lT00C1NqQei2dg1BKXsd0C4qetS4VjkjXGNVHuZGjYiZz9JhvTwtXdgQt0n7HtP6zPlJ+HMFSnZHvtkyGo7RxWaHO5abtmmStcBWJ/P0DpTslDesLzjRecw=;8xzLwhDKIHIClCrOpgaxCw=="
 ---
 

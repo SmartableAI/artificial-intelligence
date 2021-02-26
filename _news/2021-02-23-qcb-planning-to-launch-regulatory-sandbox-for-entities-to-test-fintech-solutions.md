@@ -94,22 +94,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 24
-  - title: "Fintech Industry in Israel Acquired Nearly 25% of Technology Sector Funding in Country, Driven by Speculative Valuations"
-    excerpt: "Fintech industry in Israel acquired nearly 25% of technology sector funding in country, driven by speculative valuations."
-    publishedDateTime: 2021-02-21T20:13:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172463-fintech-industry-in-israel-acquired-nearly-25-of-technology-sector-funding-in-country-driven-by-speculative-valuations/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 19
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/11/Fintech-Calling-Tel-Aviv-Israel-Fintech-Week-600x495.jpeg"
-        width: 600
-        height: 495
-        isCached: true
   - title: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
     excerpt: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
     publishedDateTime: 2021-02-22T00:17:00Z

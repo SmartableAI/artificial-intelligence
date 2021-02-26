@@ -87,6 +87,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cyber Situational Awareness Market Expected to Reach $153 Billion by 2027"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “ cyber situational awareness market by component, solution type, deployment type, organization size, industry verticals, and region: opportunity analysis and industry forecast,"
+    publishedDateTime: 2021-02-25T10:09:00Z
+    webUrl: "https://www.alliedmarketresearch.com/press-release/cyber-situational-awareness-market.html"
+    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    type: article
+    provider:
+      name: Market
+      domain: alliedmarketresearch.com
+    quality: 23
 
 secured: "NQ0VwHGRIu96Un5xnrkdQR5iu11hKjzUVJm+XEbGc2xKXArzZW/SEI7eR9SoIymfdCMYLkBuxAqlMOFRVguiW+F9W0URVwSogpQ0N8L9gPnQBWTE78rU9HAaRhmsHIjp/gkbbDeWbCS9WBayO9zdalqc4gxHgrELV2Dp2eVOW5yXROQ9BZAvpnL32gdCr5KmxwV826yPCVAY5qVcLz1nVEl3GBq9/Pb++Xen88sZj7iRK2z7dpJVW7ASNIOcKuMJskPCeA8IEXk8t9Tl/7fDFnjyitBmuILO8RKlsWyu15cM+q/hddMB4HVnmRuYnenG+3JASWssWBx64P+P1Nc3S5uftjtVQqPvns+iHiAUL+0=;f/HK336W1GEpXf48HWmxlw=="
 ---
