@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Kinetix Makes Strategic Investment in Senfino AI"
-excerpt: "Senfino AI, a leading fintech company that provides AI solutions for Asset Management, today announced the close of a strategic investment from Kinetix Trading Solutions, an innovator in Trade Management and Compliance software."
-publishedDateTime: 2021-02-25T19:26:00Z
-originalUrl: "https://www.lelezard.com/en/news-19671008.html"
-webUrl: "https://www.lelezard.com/en/news-19671008.html"
+excerpt: "Senfino AI, a leading fintech company that provides AI solutions for Asset Management, today announced the close of a strategic investment from Kinetix"
+publishedDateTime: 2021-02-25T19:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kinetix-makes-strategic-investment-in-senfino-ai/article_a4a77030-7664-55b4-b844-300b45b3271e.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kinetix-makes-strategic-investment-in-senfino-ai/article_a4a77030-7664-55b4-b844-300b45b3271e.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "6snPUQ0CLPvxi2t0DIJV3iA/1VXFPghmgcPyDW+CoJTNuhxch2+bYfF9ILGjpttFeJehurcojjicY6AiB97n3QfxsJq4OvSRj0w/KOZgUQsd8dzbbPx5NweQJV8MlOO5ycLEsx11LF6D2kAYQFcMaqGXNXT0mdJYm5WW8Ol5ZuQCC+j6tFNa/cIx6kY7mBJ6pxEkU1Nh0D/1JKx/rckvP9xn3jZqQR2y4yer8c4DXs75Wm4TygqQURuAAZNZ7Z8B9J07nESSnK7jVD9cOsumioQl0rW/XrAclT0fow65waRHtMfbGdnToJ+r3GLIunyFGzdG2ksUEttHp8Jf7pqyzURa5Ez+z/SUXjJtmU8/mzk=;GbnP1FXei+eB1PFew2dbCw=="
+secured: "5taC8nkK5uhi29nrlrfTEFMAWJoXCg62Zihm4VgwUmvhHFnUysMPNyabwVIHig84WXrwwQpvEbtKEg1Nh0IwrCGYC2DSoS1DBmwcvuIqUv4/SmIRpY7pmz+wol/vGqj+I8ptOKOjJadN5TX4RkSShycGsekb+eQnzFqB2R2wRx4PjgIC3wqdp5wLXC07WTLQCm9zU+SoyHMtbQzH6pQgrWSczTaHdh/LuZrZAmP+5QqXbKC0zX8TOBYAueQhCUFwm5vGl4aky68sluE3KrTbdeDQlQHCeWeDFhAd63eWkSMeotaiIK8dRN8SJknTdEeXuuOcy0U0PsC0wmr0bP5E0gBwPfjdZtamHURPzCDxfvE=;BA0U9hvgvBvvDsFwsLTJqg=="
 ---
 

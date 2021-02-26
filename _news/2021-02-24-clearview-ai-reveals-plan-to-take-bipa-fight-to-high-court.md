@@ -20,22 +20,17 @@ topics:
   - AI
 
 related:
-  - title: "Clearview AI’s facial recognition app has been called illegal in Canada"
-    excerpt: "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada"
-    publishedDateTime: 2021-02-21T07:06:00Z
-    webUrl: "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/"
+  - title: "The ‘bizarre’ twist in Clearview AI’s promised SCOTUS petition in biometric privacy case"
+    excerpt: "The facial recognition software company Clearview AI is willing to go all the way to the U.S. Supreme Court to prove that its alleged violation of Illinois’ biometric data privacy law inflicted a concrete injury on Illinois residents who brought a class action against"
+    publishedDateTime: 2021-02-26T00:57:00Z
+    webUrl: "https://www.reuters.com/article/legal-us-otc-clearview/the-bizarre-twist-in-clearview-ais-promised-scotus-petition-in-biometric-privacy-case-idUSKBN2AP2PW"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP2PW"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP2PW"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 74
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg"
-        width: 1050
-        height: 550
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 58
 
 secured: "vRWTXcwaQolmVCknsRZpCOuc3hz5KUYE8NKUmN0wRVvwXsAVah3XomgWN9pbzHEyKAPdz5dBKu2juW24ta9Z5w1LK3p6mgzVAnwVOcLRlGUUyq8YoNvEIJdMzux9CJkQP3+IkdFGYV42hVFvas6T/7wNbyBznxijeDkelVtyqZvwGq0zpfPT1HudlmTw0Xm3RkTFYdCjdQFGPdU3nNzLYhbkiJtPpe3yZ09yL1XdqfZt0BH0fq5Ea8tunW7rMVbtM+OInrDDnd3NgXuAZjBe5US+PKzg4hHesM5VTY4eM6d9CIejJaiuARAItzNsonay81i1LzsIOehLeLyU0C1h4SoDXbAdRI0HCRFUdohmuWE=;nSTsNuT1PECGMz83ZDTMgg=="
 ---

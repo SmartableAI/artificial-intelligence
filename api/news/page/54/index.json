@@ -2,107 +2,21 @@
   "page": 54,
   "value": [
     {
-      "path": "_news/2021-01-01-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in January",
-      "excerpt": "Artificial intelligence and related technology giving ... generating but promising upstarts like autonomous vehicle outfit Waymo and life sciences technologist Verily. Even if Google's core ...",
+      "path": "_news/2021-01-17-neurala-with-more-cash-advances-ai-for-drones-self-driving-cars.md",
+      "title": "Neurala, With More Cash, Advances A.I. for Drones, Self-Driving Cars",
+      "excerpt": "Artificial intelligence software firm Neurala cut its ... For example, Google’s experimental self-driving vehicles (now spun off as Waymo) handle at least some of the processing of their ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january-2020-12-31?amp",
-      "publishedDateTime": "2020-12-31T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-how-apples-self-driving-car-plans-might-transform-the-company-itself.md",
-      "title": "How Apple’s self-driving car plans might transform the company itself",
-      "excerpt": "Core Apple tenets like controlling its own manufacturing and not collecting much user data may not stand up to the self-driving business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "originalUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/apple1mt.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/how-apples-self-driving-car-plans-might-transform-the-company-itself/amp/",
-      "publishedDateTime": "2020-12-31T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-tecate-bids-2020-good-riddance-uses-computer-vision-to-do-it.md",
-      "title": "Tecate Bids 2020 Good Riddance, Uses Computer Vision To Do It",
-      "excerpt": "Mirriad’s AI and computer vision technology inserts products and signage formats in content after it is produced. The technology allows brands to contextually target the ad across platforms and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mediapost.com/publications/article/359134/tecate-music-video-bids-2020-good-riddance-ties-i.html",
-      "originalUrl": "https://www.mediapost.com/publications/article/359134/tecate-music-video-bids-2020-good-riddance-ties-i.html",
+      "webUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
+      "originalUrl": "https://xconomy.com/boston/2017/01/17/neurala-with-more-cash-advances-a-i-for-drones-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2021/01/04/screen-shot-2020-12-31-at-35121-pm_9PQ7Eko.png",
-          "width": 600,
-          "height": 375,
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2016/12/06160304/Neurala-e1484428109959.jpg",
+          "width": 1480,
+          "height": 987,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -112,106 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T12:11:00-08:00",
+      "publishedDateTime": "2021-01-16T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-tesla-sweetens-new-ev-purchase-with-full-self-driving-trial-tossed-in-for-free.md",
-      "title": "Tesla sweetens new EV purchase with Full Self-Driving trial tossed in for free",
-      "excerpt": "Elon Musk said those who buy a new Tesla and take delivery by midnight on Dec. 31 get three months on the house.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/fbog9b0wseVeS9NEriiL0hOkiTE=/2020/10/28/6a17786b-6e8e-4721-ae26-aebe63198edf/ogi-tesla.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ev-full-self-driving-free-elon-musk/",
-      "publishedDateTime": "2020-12-31T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-new-teslas-get-free-trial-of-full-self-driving-option-but-theres-a-catch.md",
-      "title": "New Teslas Get Free Trial of Full Self-Driving Option, but There's a Catch",
-      "excerpt": "Well, now you've got a new incentive to make your own magic happen: three free months of the company's questionably named Full Self-Driving Capability feature, as decreed on Twitter by Elon Musk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
-      "originalUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/sites/5/2020/10/2020-Tesla-Model-Y-Dual-Motor-Long-Range-25.jpg",
-          "width": 2048,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-free-trial-incentive/amp/",
-      "publishedDateTime": "2020-12-31T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
+        "name": "Xconomy",
+        "domain": "xconomy.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -226,72 +45,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-01-why-this-ai-company-founder-left-tech-to-become-a-healer.md",
-      "title": "Why This AI Company Founder Left Tech To Become A Healer",
-      "excerpt": "After founding three tech companies and working for years as a UX designer, Cris Beasley made a radical choice. She left the tech world to become a healer, moving from SF to the cloud forests of Chiapas,",
+      "path": "_news/2021-01-17-incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society.md",
+      "title": "Incoming White House science and technology leader on AI, diversity, and society",
+      "excerpt": "Incoming White House science and technology leader Dr. Alondra Nelson addressed the relationship between AI development an inclusion.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "originalUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fee1620c984f344e6740c36%2F0x0.jpg%3FcropX1%3D260%26cropX2%3D4514%26cropY1%3D0%26cropY2%3D3190",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meimeifox/2021/12/31/why-this-ai-company-founder-left-tech-to-become-a-healer/amp/",
-      "publishedDateTime": "2020-12-31T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops.md",
-      "title": "Mohammed Farooq Q&A: How Hypergiant is pushing for an open AI platform for ‘ModelOps’",
-      "excerpt": "Companies building AI applications may think Amazon's AWS is the only place to turn for help, but we need an open AI platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
-      "originalUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
+      "webUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
+      "originalUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/HG_Office-cropped.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/alondra-nelson.png?w=1200&strip=all",
           "width": 1200,
-          "height": 602,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -299,9 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "publishedDateTime": "2020-12-31T10:32:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/16/incoming-white-house-science-and-technology-leader-on-ai-diversity-and-society/amp/",
+      "publishedDateTime": "2021-01-16T15:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -324,124 +92,26 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-amazon-we-dont-need-another-ai-tool-or-apl-we-need-an-open-ai-platform-for-cloud-and-edge.md",
-      "title": "Amazon, we don’t need another AI tool or APl, we need an open AI platform for cloud and edge",
-      "excerpt": "Amazon announced improvements to SageMaker, its machine learning (ML) workflow service, and to Edge Manager — improving AWS’ ML capabilities on the edge at a time when serving the edge is ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
-      "originalUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/HG_Office-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/31/mohammed-farooq-qa-how-hypergiant-is-pushing-for-an-open-ai-platform-for-modelops/amp/",
-      "publishedDateTime": "2020-12-31T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-coming-up-the-bias-problem-with-artificial-intelligence.md",
-      "title": "Coming up: The bias problem with artificial intelligence",
-      "excerpt": "Artificial intelligence is a booming industry that is creeping into more aspects of our daily lives. But can computers discriminate? As advanced technology tries to make our lives easier, it can also cause a lot of harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "originalUrl": "https://www.mprnews.org/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.apmcdn.org/3290ee3a567dea211722343fc331c0cf3d0cc825/widescreen/0f4c77-20201231-ai.jpg",
-          "width": 2000,
-          "height": 1124,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-mprnews-org.cdn.ampproject.org/c/s/www.mprnews.org/amp/episode/2020/12/31/farrell-the-bias-problem-with-artificial-intelligence",
-      "publishedDateTime": "2020-12-31T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MPR News",
-        "domain": "mprnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
         "AI Ethics"
       ]
     },
     {
-      "path": "_news/2021-01-01-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
-      "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
-      "excerpt": "The roadways of metro Phoenix may not look much different 10 years from now, but how we travel them might. We may have more vehicles without drivers behind the wheel, said Andrew Maynard, an associate dean at Arizona State University’s College of Global Futures.",
+      "path": "_news/2021-01-17-startups-look-beyond-lidar-for-autonomous-vehicle-perception.md",
+      "title": "Startups look beyond lidar for autonomous vehicle perception",
+      "excerpt": "Last CES was a time of reckoning for lidar companies, many of which were cratering due to a lack of demand from a (still) non-existent autonomous vehicle industry. The few that excelled did so by specializing,",
       "sourceUrl": null,
-      "webUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
-      "originalUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future",
+      "webUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
+      "originalUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://ewscripps.brightspotcdn.com/dims4/default/00261d5/2147483647/strip/true/crop/1200x675+0+38/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Faf%2F39%2F353dc3544745b95be3d878b0a881%2Fwaymo-minivan.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/foresight-place.gif",
+          "width": 800,
+          "height": 448,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -449,52 +119,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
-      "cdnAmpWebUrl": "https://www-abc15-com.cdn.ampproject.org/c/s/www.abc15.com/news/business/waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future?_amp=true",
-      "publishedDateTime": "2020-12-31T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC15 Arizona",
-        "domain": "abc15.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-how-artificial-intelligence-will-be-used-in-2021.md",
-      "title": "How artificial intelligence will be used in 2021",
-      "excerpt": "Scale AI CEO Alexandr Wang doesn’t need a crystal ball to see where artificial intelligence will be used in the future. He just looks at his customer list. The four-year-old startup, which recently hit a valuation of more than $3.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "originalUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1160440766.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/31/how-artificial-intelligence-will-be-used-in-2021/amp/",
-      "publishedDateTime": "2020-12-31T08:38:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/16/startups-look-beyond-lidar-for-autonomous-vehicle-perception/amp/",
+      "publishedDateTime": "2021-01-16T09:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -517,480 +144,40 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-01-dumb-and-dumber-the-future-of-business-ai-depends-on-hi.md",
-      "title": "Dumb and dumber: The future of business AI depends on HI",
-      "excerpt": "When every organization has access to AI ... the difference will be in Human Intelligence (HI) By Tom Foremski for Tom Foremski: IMHO | December 31, 2020 -- 16:15 GMT (08:15 PST) | Topic: 2021: What's Next for Business Technology Foremski's Take: Technology is a competitive force for early adopters and fast followers but that competitive edge -- usually defined as innovation -- never lasts long.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "originalUrl": "https://www.zdnet.com/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/12/31/3bdfa232-87e5-4b2c-8d71-3a0ce0a6774d/ai-or-hi.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dumb-and-dumber-the-future-of-business-ai-depends-on-hi/",
-      "publishedDateTime": "2020-12-31T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner.md",
-      "title": "For New Year’s Resolutions, Never Think You’re Too Old to Become a Beginner",
-      "excerpt": "Have we ever needed a fresher start than the one promised by 2021? As we head into a new year with all its hopes—new year, new you, newly recovered world—there is one thing from the outgoing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707",
-      "originalUrl": "https://www.wsj.com/articles/for-new-years-resolutions-never-think-youre-too-old-to-become-a-beginner-11609426707",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-31T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-heres-why-this-hot-artificial-intelligence-ipo-stock-isnt-worth-buying.md",
-      "title": "Here's Why This Hot Artificial Intelligence IPO Stock Isn't Worth Buying",
-      "excerpt": "The enterprise artificial intelligence company priced its IPO at $42 a share on Dec. 8, but the stock opened at $100 the following day and subsequently surged to about $140. C3.ai raised $651 million in its IPO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "originalUrl": "https://www.fool.com/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F606629%2Fgettyimages-1129515493.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/12/31/heres-why-hot-ipo-stock-isnt-worth-buying-c3ai/",
-      "publishedDateTime": "2020-12-31T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-a-fetching-alternative-to-the-dog-eat-dog-workplace.md",
-      "title": "A fetching alternative to the dog-eat-dog workplace",
-      "excerpt": "The book’s authors, cognitive scientists at Duke University, contend that the most widely accepted meaning may not be what Charles Darwin, the phrase’s commonly accepted originator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/explore/careers/a-fetching-alternative-to-the-dog-eat-dog-workplace/",
-      "originalUrl": "https://www.seattletimes.com/explore/careers/a-fetching-alternative-to-the-dog-eat-dog-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/explore/careers/a-fetching-alternative-to-the-dog-eat-dog-workplace/",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/explore/careers/a-fetching-alternative-to-the-dog-eat-dog-workplace/",
-      "publishedDateTime": "2020-12-31T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai.md",
-      "title": "Data-driven 2021: Predictions for a new year in data, analytics and AI",
-      "excerpt": "A tumultuous 2020 has had many in the industry pondering what comes next, yielding almost 50 pages of predictions, from more than 30 companies, delivered to my inbox. Here's a roundup of many of the 2021 predictions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "originalUrl": "https://www.zdnet.com/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-driven-2021-predictions-for-a-new-year-in-data-analytics-and-ai/",
-      "publishedDateTime": "2020-12-31T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-waymos-driverless-ride-service-moves-metro-phoenix-toward-autonomous-future.md",
-      "title": "Waymo’s driverless ride service moves metro Phoenix toward autonomous future",
-      "excerpt": "Artificial intelligence packed with more than a ... such as those developed by Waymo, which began in 2009 as the Google Self-Driving Car Project. This fall, Waymo introduced a fully driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html",
-      "originalUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/phoenix/news/2020/12/31/waymo-driverless-ride-service-autonomous-future.amp.html",
-      "publishedDateTime": "2020-12-31T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-how-israel-brings-together-robots-and-ai-into-a-lethal-combo.md",
-      "title": "How Israel Brings Together Robots and AI Into a Lethal Combo",
-      "excerpt": "On the back porch of a rundown building near the sea in central Israel a plank leads to an unlikely machine. A robot dog is surveying the area, preparing for a mission. Alongside it, like a sidekick,",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518",
-      "originalUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/V%20%2847%29.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518?amp",
-      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/how-israel-brings-together-robots-and-ai-lethal-combo-175518?amp",
-      "publishedDateTime": "2020-12-31T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-3-machine-learning-stocks-for-a-touchless-society.md",
-      "title": "3 Machine Learning Stocks for a Touchless Society",
-      "excerpt": "Investors looking for a high-growth play will find this machine learning stock a great buy. DocuSign is best known for its e-signature service which ... She is a financial writer and analyst ...",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
-      "originalUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/12/ai-stocks-1600-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/12/3-machine-learning-stocks-for-a-touchless-society/amp/",
-      "publishedDateTime": "2020-12-31T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout.md",
-      "title": "Israeli Computer Vision Startup Raises $60 Million To Expand ‘Frictionless’ Checkout",
-      "excerpt": "Gabay’s low-key manner stands in stark contrast to the buzz around the Tel Aviv startup he co-founded in 2017 with brother Daniel Gabay, Trigo CTO and 2020 Forbes 30Under30 honoree. Trigo’s latest Series B funding round,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
-      "originalUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5febb4ffd51993390ce41521%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6919%26cropY1%3D966%26cropY2%3D4211",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/denisepower/2021/12/31/israeli-computer-vision-startup-raises-60-million-to-expand-frictionless-checkout/amp/",
-      "publishedDateTime": "2020-12-31T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-12-31-timnit-gebrus-exit-from-google-exposes-a-crisis-in-ai.md",
-      "title": "Timnit Gebru’s Exit From Google Exposes a Crisis in AI",
-      "excerpt": "The situation has made clear that the field needs to change. Here’s where to start, according to a current and a former Googler.",
+      "path": "_news/2021-01-13-machine-learning-is-helping-high-performance-computing-go-mainstream.md",
+      "title": "Machine Learning Is Helping High-Performance Computing Go Mainstream",
+      "excerpt": "This has partly been brought about by the mainstreaming of machine learning (a subset of artificial intelligence), which generally operates at a snail's pace ... like Fugaku. Related: En Route to Exascale, Cray Designs a Supercomputer Enterprises Can ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
-      "originalUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/timnit-gebru-exit-google-exposes-crisis-in-ai/amp",
-      "publishedDateTime": "2020-12-31T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-artificial-intelligence-in-accounting-market-2020-analysis-may-set-new-growth-story-forecast-to-2025.md",
-      "title": "Artificial Intelligence In Accounting Market 2020 Analysis May Set New Growth Story, Forecast to 2025",
-      "excerpt": "Artificial Intelligence In Accounting Market is expected to grow from USD 666 million in 2019 to USD 4 791 million by 2025 at a CAGR of 48 Technological advances such as artificial intelligence are poised to transform the finance and",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
-      "originalUrl": "https://www.openpr.com/news/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
+      "webUrl": "https://www.datacenterknowledge.com/supercomputers/top500-japan-s-fugaku-still-world-s-fastest-supercomputer",
+      "originalUrl": "https://www.datacenterknowledge.com/supercomputers/machine-learning-helping-high-performance-computing-go-mainstream",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/supercomputer%20fugaku.jpg",
+          "width": 614,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2219626/artificial-intelligence-in-accounting-market-2020-analysis-may",
-      "publishedDateTime": "2020-12-31T03:48:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-13T07:49:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
+        "name": "Data Center Knowledge",
+        "domain": "datacenterknowledge.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1000,156 +187,10 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-shenzhen-to-focus-on-chips-ai-and-biomedicine-to-grow-gdp-40-per-cent-over-five-years-in-the-face-of-us-hostility-and-economic-slowdown.md",
-      "title": "Shenzhen to focus on chips, AI and biomedicine to grow GDP 40 per cent over five years in the face of US hostility and economic slowdown",
-      "excerpt": "China’s southern tech hub of Shenzhen aims for 40 per cent growth over five years, with the goal of becoming an international hub of innovation, despite challenges from the US for local tech giants.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/12/31/ce039f8a-4b44-11eb-9c55-93e83087d811_image_hires_182210.jpg?itok=5b-jJpU-&v=1609410137",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3115999/shenzhen-focus-chips-ai-and-biomedicine-grow-gdp-40-cent-over-five",
-      "publishedDateTime": "2020-12-31T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-in-the-cultural-revolution-ai-weiweis-father-burned-the-familys-books.md",
-      "title": "In the Cultural Revolution, Ai Weiwei’s Father Burned the Family’s Books",
-      "excerpt": "What books are on your night stand? This is really a question that gets to me. I don’t have a bookshelf or books next to my bed. What’s the last great book you read? The last great book I read was “Permanent Record,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
-      "originalUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/03/books/review/03ByTheBook/03ByTheBook-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/12/31/books/review/ai-weiwei-by-the-book-interview.amp.html",
-      "publishedDateTime": "2020-12-31T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-31-chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots.md",
-      "title": "China’s Flexiv raises over $100M for its adaptive Rizon robots",
-      "excerpt": "Shiquan Wang led Chinese robot maker Flexiv has raised more than 100 million for its Rizon adaptive robot in a Series B funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
-      "originalUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thetechportal.com/wp-content/uploads/2020/12/Flexiv-e1609398956471.jpg",
-          "width": 1900,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
-      "cdnAmpWebUrl": "https://thetechportal-com.cdn.ampproject.org/c/s/thetechportal.com/2020/12/31/chinas-flexiv-raises-over-100m-for-its-adaptive-rizon-robots/?amp",
-      "publishedDateTime": "2020-12-30T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechportal.com",
-        "domain": "thetechportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     }
   ],
-  "nextPage": 55
+  "nextPage": null
 }

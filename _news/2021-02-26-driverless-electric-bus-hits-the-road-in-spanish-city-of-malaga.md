@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Driverless bus hits streets of Malaga"
+    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
+    publishedDateTime: 2021-02-26T00:36:00Z
+    webUrl: "https://www.brecorder.com/news/40068121/driverless-bus-hits-streets-of-malaga"
+    ampWebUrl: "https://www.brecorder.com/news/amp/40068121"
+    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40068121"
+    type: article
+    provider:
+      name: Business Recorder
+      domain: brecorder.com
+    quality: 59
+    images:
+      - url: "http://www.brecorder.com/_img/social-default.jpg"
+        width: 1200
+        height: 768
+        isCached: true
   - title: "Artificial cities could pave the way to driverless adoption"
     excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
     publishedDateTime: 2021-02-23T11:04:00Z

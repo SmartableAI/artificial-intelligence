@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-26-dbs-offers-facial-recognition-for-smb-customers.md",
+      "title": "DBS Offers Facial Recognition For SMB Customers",
+      "excerpt": "Small and medium-sized business (SMB) owners in Singapore will be able to use facial recognition to access their DBS Bank accounts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/DBS-Bank-facial-recognition-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/amp/",
+      "publishedDateTime": "2021-02-25T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-amazon-rekognition-custom-labels-community-showcase.md",
       "title": "Amazon Rekognition Custom Labels Community Showcase",
       "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; We worked with AWS Machine Learning (ML) Heroes and AWS ML Community Builders to bring to life projects and use cases that detect custom objects with Amazon Rekognition Custom",
@@ -1165,6 +1208,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-12-generate-positivity-with-machine-learning.md",
+      "title": "Generate Positivity With Machine Learning",
+      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
+          "width": 1185,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-cbp-facial-recognition-scanners-failed-to-find-a-single-imposter-at-airports-in-2020.md",
       "title": "CBP Facial Recognition Scanners Failed to Find a Single Imposter At Airports in 2020",
       "excerpt": "Customs and Border Protection used facial recognition tools to scan over 23 million travelers’ faces at 30-plus points of entry in 2020, and failed to turn up a single example of an individual impersonating someone else at an airport,",
@@ -1294,101 +1381,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-11T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision.md",
-      "title": "Intenseye raises $4M to boost workplace safety through computer vision",
-      "excerpt": "Workplace injuries and illnesses cost the U.S. upwards of $250 billion each year, according to the Economic Policy Institute. ERA-backed startup Intenseye, a machine learning platform, has raised a $4 million seed round to try to bring that number way down in an economic and efficient way.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
-      "originalUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/founders-1.jpg?w=1024",
-          "width": 1024,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
-      "publishedDateTime": "2021-02-11T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
-      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
-      "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T03:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",

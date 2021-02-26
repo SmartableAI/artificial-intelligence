@@ -140,6 +140,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "How and why one fintech mortgage lender invested in augmented intelligence, not artificial intelligence"
+    excerpt: "Wyndham Capital adopted the nomenclature of augmented intelligence, a concept that treats robots as aides to human intelligence instead of the next best thing here to supersede it. Those robots assist team members in executing tasks to their highest caliber and ability."
+    publishedDateTime: 2021-02-25T23:08:00Z
+    webUrl: "https://www.bizjournals.com/charlotte/news/2021/02/25/how-and-why-one-fintech-mortgage-lender-invested.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
 
 secured: "eFD9aZEhIhANqR6VsHC9OIMkuq0OMeXQsRXxUyO1k2lVqWRjhxaIidWETi3gRwiC2eM0XkJYCdgExlt5U46ObQ2xfjQOXSLAa90RFcjFjSSANolez5PNVq3Rlgs0zqLq5yKXhSWtLAvgBXCLcHDgKrSlNQiZEWvHtpNlBOTFlbB5bWR6j6h7caop33/d9ZZI0JiD6V9BXYrfcaZW+vQg+H+v9FyHn9e7TcuVCoX7qdp8MlLHyUQQ90B/uc/Knuj1mofTzRSp6J0lqBAl6TnVRndyPzbS5lKJDO8dOkTdd6oW8w2gTipCtyKBPzxE0JCQJcv5ll/mCKMxt96u2S52EFZD95BVOF2lKsG80l7QKOwecOIBRBF6cb1BSncOUZdXLaF5CntHbSByTBF1dLDGpC3qd5upVzKXfi5GpeLVyuxVScBdElyyaL8IsRS+2U864VW9M60P9+iDsmnqyOnnIGa+ZL59YLq3p8CLh8lFWSOxEaIspzO3Cvrom3zuc1dUin7M/cIHp/65w56iw5xzmQ==;Y36qJzCRSlBJr8L8Xp7oKQ=="
 ---

@@ -2,6 +2,213 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-22-wall-streets-robots-are-taking-on-the-confusing-world-of-reddit.md",
+      "title": "Wall Street’s Robots Are Taking on the Confusing World of Reddit",
+      "excerpt": "Reddit forum WallStreetBets is hard for humans to follow at the best of times. But spare a thought for the machines. After the retail stock frenzy last month caused unprecedented havoc, hedge funds trawling the platform with algorithms have a renewed sense of purpose in their mission to figure out the next market craze.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP05Z8gOcuVo/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-behind-the-scenes-of-ai-iot-and-5g-advancement.md",
+      "title": "Behind The Scenes Of AI, IoT And 5G Advancement",
+      "excerpt": "On the bright side, such disruptive innovation dynamics and marketing wars will stimulate ongoing technological progress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
+      "publishedDateTime": "2021-02-22T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-bank-of-america-earns-most-patents-in-its-history-in-2020-with-a-focus-on-ai-and-security.md",
+      "title": "Bank of America earns most patents in its history in 2020 with a focus on AI and security",
+      "excerpt": "Bank of America was granted 444 patents in 2020—the concentration of its patent applications indicates a focus on use and protection of customer data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
+      "originalUrl": "https://www.businessinsider.com/bofa-patent-haul-2020-points-to-data-driven-future-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f16471cf34d050dad0c5172?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-why-explainability-is-the-next-step-for-ai-in-manufacturing.md",
+      "title": "Why ‘Explainability’ Is The Next Step For AI In Manufacturing",
+      "excerpt": "Now that we’ve overcome the issue of whether AI is needed or not, the new pressing question is \"why\" AI makes its decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6011c98f32810780e7c9bdc6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
+      "publishedDateTime": "2021-02-22T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-cutting-through-confusion-the-true-value-of-ai-for-sales-teams.md",
       "title": "Cutting Through Confusion: The True Value Of AI For Sales Teams",
       "excerpt": "More top-performing sales reps are jumping ship. Over the last decade, the sales industry has witnessed rep tenure rapidly decline from 3 years in 2010 to a mere 1.5 years in 2019. This trend has only been expedited by the remote world forged by the Covid-19 pandemic.",
@@ -1019,178 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim.md",
-      "title": "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim",
-      "excerpt": "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "originalUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "publishedDateTime": "2021-02-19T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-facebook-has-tentatively-friended-us-again-australia-says.md",
-      "title": "Facebook has 'tentatively friended' us again, Australia says",
-      "excerpt": "Facebook Inc is back at the negotiating table, Australian Prime Minister Scott Morrison said on Saturday after the tech giant this week blocked news o",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/articleshow/81121770.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-81121800/81121800.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/international-business/facebook-has-tentatively-friended-us-again-australia-says/amp_articleshow/81121770.cms",
-      "publishedDateTime": "2021-02-19T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
-      "title": "Why Baidu Stock Soared Today",
-      "excerpt": "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
-      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "publishedDateTime": "2021-02-19T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-cloud-platform-a-cheat-sheet.md",
-      "title": "Google Cloud Platform: A cheat sheet",
-      "excerpt": "Some of the latest products added to Google Cloud Platform are Cloud Inference API, allowing developers to run large-scale correlations over datasets, Shielded VMs, Cloud Tasks, Cloud IoT Edge, Cloud AutoML, and the AI Hub, allowing developers to share and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/03/21/57a279f5-6449-4ef6-8b0e-af00e3801dee/thumbnail/1200x675/58add3a5bec78b015fd9d832b6cca61d/google-cloud-platform.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "publishedDateTime": "2021-02-19T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

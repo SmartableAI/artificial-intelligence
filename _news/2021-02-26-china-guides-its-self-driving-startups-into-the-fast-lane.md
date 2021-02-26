@@ -73,7 +73,16 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 46
+  - title: "This Chinese startup attained unicorn status in 100 days since inception"
+    excerpt: "Moore Threads, a Chinese startup that provides graphics processing unit (GPU ... TikTok owner ByteDance, China Merchants Venture, Pony.ai, Riverhead Capital, Oceanpine Capital, Wenming Investment Fund, First Capital, 5Y Capital, and Shenzhen H&T ..."
+    publishedDateTime: 2021-02-25T23:37:00Z
+    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674249"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 46
 
-secured: "ox+r5WgJ0kiXG/3VSxPpcob6xrGmMM4F4COTiTuGTZ512eFe8pyu/mnV5F9hEd+ed6EsVEljvTc5tiEBXjkxoi9FcrG9fCHhDepgGdSvqunZ3uk9GbtoxJfEDg8dAUNKd6WxlXnGsgio4N1JjkYO/YSJJuR4G1JfiKSvhR1iJ3YHgz6EJ34o3U/9HzfHajJThQOtfhhABms5rjjeCwNChg6AKUF4CUK+WOFtKbzcMgi9/XoZGSKy/Za/YFQw6oIzMWy0RGRWlgpkA/P/jCUbDBpeXDra3nmxMyNh18ZhS4C1HjupS/g0bqYDtPJGPmDkzDBNf2IUkD7PiveVt96eTOC6GexLtlMfx6fWw9CWDEM=;k+xa330pV5TnbmAqva5PLg=="
+secured: "QzkJNzUZKBWIJGBwHEeZeG2NgFgYHEDzjz4qKLXaytjemjaWXvtLFoAjzcZBhmcET7ijupRu7rE1qfJcRJigOOXvY5+SkVeDWc2RDS6v0+1sAYJhCkrN1iC4jV9MDgZ/nKxKquAQ3jnwaMXesPPzNMf2YoUmx4gFJwuY43/EcqEO4CIEyJYsZIxHaN+ZHRRV//WowlFZYJK0j9knc3RdIfCm8tFs9wywNCh6GD00653M1ltp2dLoI3rX0vtfVLxerL8jFvuiRPK/HIk0nUis9VV3zBie8//zBHMBdUCOS3daNfHVXmdSyV3VRiKIxde8Jr9cfgzFVdgw9WaoemQtZY954wpaDCvQDfFH8SSe2f9uaeTm0sZxSG9xKao4IHqTE5dSAs8X9T4PdWUBjrx1DxSKfVkUPEp9HFl9+DgYcwMU37+HWtIcPpLy4LVL43t8+o/jdFMpdYi6kiRNVzL1oNtojnxkmL2QDzajnKNcjf4jNJrEdTN0usY1y4+ihgU9igqq9rgSjATpyWyGk3aZ+Q==;hKldboCqb8kQY/J00FjbNA=="
 ---
 

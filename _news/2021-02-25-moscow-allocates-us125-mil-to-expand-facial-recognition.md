@@ -90,6 +90,20 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "Face recognition rolled out at DXB"
+    excerpt: "You can now travel through Dubai International Airport (DXB) with no identification papers, after the airpot rolled out the ‘smart travel’ system, which uses a mix of facial and iris recognition. This will definitely reduce the risk of contracting covid at an airport and you don’t need to worry about losing your passport!"
+    publishedDateTime: 2021-02-26T00:50:00Z
+    webUrl: "https://www.linkedin.com/news/story/face-recognition-rolled-out-at-dxb-4332033/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQFOCg1vPzX0KA/storylineheaderimage-shrink_400_400/0/1614068901084?e=1614391200&v=beta&t=8bhJFfPTMRpJfFGepqc8ZG1vM0j2-DP0UpgZc7jVGHs"
+        width: 400
+        height: 266
+        isCached: true
 
 secured: "P2G5Uc2+KisyRcbZ1mEozoAEIpKjT6sVcgcdh4zSmxx/x95xp/ukrgoMa4c3sY+Iw2uiOly/uAiJVp9Xs1kOQYloQ1q6WOAk7h8aDLOMNBxAhfx7YiFLk7FM+8hx5yc1Zual9RPjXpQklrfPnN3s9L3w1J6EFOJRsCEZvx7oihgpu3FyOxCt6KayZ9+qsvJxutsjXx8y34EYYDjudJhsS5iFozEskG0jggBXaqJu0NCS9hCkOThbhjHQfVUecmlQphsvpflKF/Kzrhv7Ap4HU9F2PHRgjRZMYr+4VA94z0h2N960ZF/5teoXFjlhNE9uaY9DdXtgPuYGyPd5xzo1n4SYG+aUdf6hc9DoJnqGDOj1JXWu27LwcnFZg9aJL+zM+bKxQQVX1Z6dVeYLUzbOB81zHJzreQywk1i2T212QsdncObAT8QUzOaFphIGj1OoxmJzgpNG9WRoD3Op1a9TqdegszA81IBAemNO/mCQVhmQr+JE2WARx7QKWg8ViBMm4QchGcPcKF+MSkw2SPgs6A==;2xj/qUkAJ2xZQxVjEGnFoQ=="
 ---

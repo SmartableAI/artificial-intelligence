@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision.md",
+      "title": "Intenseye raises $4M to boost workplace safety through computer vision",
+      "excerpt": "Workplace injuries and illnesses cost the U.S. upwards of $250 billion each year, according to the Economic Policy Institute. ERA-backed startup Intenseye, a machine learning platform, has raised a $4 million seed round to try to bring that number way down in an economic and efficient way.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
+      "originalUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/founders-1.jpg?w=1024",
+          "width": 1024,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/11/intenseye-raises-4m-to-boost-workplace-safety-through-computer-vision/amp/",
+      "publishedDateTime": "2021-02-11T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
+      "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.md",
       "title": "How to use facial recognition from your Photos library with Apple HomeKit Secure Video",
       "excerpt": "Apple lets you know who is at the door or another camera when used in conjunction with its secure video system.",
@@ -1300,92 +1395,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-incorporating-intrinsic-suppression-in-deep-neural-networks-captures-dynamics-of-adaptation-in-neurophysiology-and-perception.md",
-      "title": "Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception",
-      "excerpt": "When trained to classify natural images, these models describe the stages of ventral visual stream processing of brief stimulus presentations with unprecedented accuracy (28–33), while capturing essential aspects of object recognition behavior and ...",
-      "sourceUrl": null,
-      "webUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
-      "originalUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advances.sciencemag.org/content/6/42/eabd4205/F1.large.jpg",
-          "width": 1400,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science",
-        "domain": "sciencemag.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.md",
-      "title": "'Computer vision syndrome a real problem' amid pandemic, physician says",
-      "excerpt": "\"And that leads to fluctuations in vision and blurred vision and of course the eye strain can cause headaches,\" Dr. Starr said. \"So the computer vision syndrome is a real problem, especially in the post-COVID-19 era.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
-      "originalUrl": "https://www.beckershospitalreview.com/public-health/computer-vision-syndrome-a-real-problem-amid-pandemic-physician-says.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T14:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Logic Behind IBM’s Watson Healthcare Exit"
+    excerpt: "Watson promised to revolutionize medicine, so why is IBM abandoning it? The reason, in one pundit's opinion, may be due to regulations making it impossible for Watson to fully work."
+    publishedDateTime: 2021-02-25T23:42:00Z
+    webUrl: "https://www.datamation.com/artificial-intelligence/the-logic-behind-ibms-watson-healthcare-exit/"
+    type: article
+    provider:
+      name: Datamation
+      domain: datamation.com
+    quality: 56
+    images:
+      - url: "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_254131481.jpeg"
+        width: 1200
+        height: 759
+        isCached: true
   - title: "After years of hype, IBM wants to sell Watson Health. What does that mean for health AI?"
     excerpt: "After years of hype about Watson Health, IBM executives are reportedly exploring options to sell the health care AI tool. Advisory Board's Andrew Rebhan explains what happened—and what the potential sale could mean for the health care industry's AI adoption."
     publishedDateTime: 2021-02-24T17:25:00Z

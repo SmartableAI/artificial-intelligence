@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Intelligent Present & Future: Artificial Intelligence Is Changing Our Daily Lives For The Better"
-    excerpt: "Artificial Intelligence is changing human life and making it better. AI’s impact is in many aspects of life like work, education, healthcare, and leisure & games like gambling. Here’s how you are a part of this intelligent change."
-    publishedDateTime: 2021-02-22T10:57:00Z
-    webUrl: "https://www.analyticsinsight.net/intelligent-present-future-artificial-intelligence-is-changing-our-daily-lives-for-the-better/"
+  - title: "Using artificial intelligence to raise better crickets and help save the world"
+    excerpt: "Waterloo tech company DarwinAI to help operate cricket farming facility to create more environmentally friendly source of protein"
+    publishedDateTime: 2021-02-22T19:33:00Z
+    webUrl: "https://www.therecord.com/news/waterloo-region/2021/02/22/using-artificial-intelligence-to-raise-better-crickets-and-help-save-the-world.html"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 41
+      name: Waterloo Region Record
+      domain: therecord.com
+    quality: 48
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2021/02/Artificial-Intelligence-13.jpg"
-        width: 1388
-        height: 755
+      - url: "https://images.thestar.com/ri2dOge_xJHGHjje-FwGEl7Zp18=/1086x532/smart/filters:cb(1614022126656)/https://www.therecord.com/content/dam/therecord/news/waterloo-region/2021/02/22/using-artificial-intelligence-to-raise-better-crickets-and-help-save-the-world/image007.jpg"
+        width: 1086
+        height: 532
         isCached: true
 
 secured: "2NsNqciZ8W4Ro5rpVAXF/HWNbzlTUFzFyIP9u7igUoaJmA8iuyb/i+8duVOjEjQfhAEAmqAi+MfI42+MyK2R9pH6GnHsvSdfI0RBu6Fes8ty7XO0WDgWNu4SKtG9E/AWubwAzXDbDCe6j5BNSXBe8r6k1ergDSeafvpxgn9Uq8UXkdss5YTvSPagWgHM8e6jSyjJbKXqLpBO4JIe83eUAlVJ0zJ772CEWP7UrRz58eS7hz2cfYmYtz1takHEKkRyBG1auppfYMVuMn9P6uyqD6JfFpXuI8t+HsVdXsmJySLULKVfwvmraKGjkqCFuEwVVX/RWW9URwKGLY/WeAAHSYVWsPj4YOgscuMXLAYCwIIQT2wFDo/L7tdp1l33rq7L1cqyRyRqimTLBK1j4TNFx4YX1dD5P1SnRGMIxnIGx4IvOn5J9tjLnpRsWARvwN+Rwci5bRHeVTOUrUqynDDr9hQiUpRbWF2wS7yLLJkD9mjG4vbVLpXB9/ZkjvWNu3bErbo10HzdeoaQLWnIiDkJrA==;x1ttfH9cSGJubyEB4/fVzg=="

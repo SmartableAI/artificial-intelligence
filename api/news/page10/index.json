@@ -2,6 +2,208 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-17-swift-for-tensorflow-project-shuts-down.md",
+      "title": "Swift for TensorFlow project shuts down",
+      "excerpt": "Google pulls the plug on effort to integrate the Swift language and TensorFlow machine learning library, while citing multiple achievements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
+      "originalUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2017/10/grave_tombstone_rip_cemetery_1920_cc0_via_pixabay_by_rob_van_der_meijden-100740483-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
+      "publishedDateTime": "2021-02-17T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-the-cambrian-ai-landscape-nvidia-the-800lb-gorilla.md",
+      "title": "The Cambrian AI Landscape: NVIDIA, The 800Lb Gorilla",
+      "excerpt": "We look at NVIDIA, the leader in data center Artificial Intelligence, and outline the company's strengths and weaknesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602c604d6b88e3e1922786c7%2F0x0.png",
+          "width": 1200,
+          "height": 583,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/17/the-cambrian-ai-landscape-nvidia-the-800lb-gorilla/amp/",
+      "publishedDateTime": "2021-02-17T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry.md",
+      "title": "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry",
+      "excerpt": "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T01:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-how-millennial-traits-are-fuelling-the-fintech-transformation.md",
+      "title": "How millennial traits are fuelling the fintech transformation.",
+      "excerpt": "Yogi Sadana, CEO, CASHe, says the world of self-help coincides with the digital-first journey, and the average millennial is also interested to know how his/her finance initiatives impact larger goals like sustainability.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation",
+      "originalUrl": "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-1612803247147.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/millennial-traits-fuelling-fintech-transformation/amp",
+      "publishedDateTime": "2021-02-17T00:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-daimlers-torc-robotics-picks-amazon-as-cloud-provider-for-self-driving-trucks.md",
       "title": "Daimler's Torc Robotics picks Amazon as cloud provider for self-driving trucks",
       "excerpt": "A self-driving truck operated by Daimler unit Torc Robotics undergoes testing on a U.S. highway in this undated handout photo. Torc Robotics/Handout via REUTERS",
@@ -601,8 +803,8 @@
       "title": "Baidu’s share price bounces back ahead of earnings",
       "excerpt": "On 18 March, Baidu’s share price fell to $83.62 on the stock’s worst day of trading — its lowest close since 2013. Over the following months, Baidu’s share price had a lacklustre performance and didn’t return to the green until 4 November,",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
-      "originalUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "webUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "originalUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -999,204 +1201,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row.md",
-      "title": "Unisys Secures Status as Microsoft Azure Expert Managed Service Provider for Third Year in a Row",
-      "excerpt": "Unisys Corporation (NYSE: UIS) today announced that for the third year in a row it has secured its status as a Microsoft Azure Expert Managed Service Provider (MSP). Capitalizing on the power of Azure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/unisys-secures-status-as-microsoft-azure-expert-managed-service-provider-for-third-year-in-a-row-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-goldman-sachs-to-offer-its-investing-know-how-to-the-masses.md",
-      "title": "Goldman Sachs to Offer Its Investing Know-How to the Masses",
-      "excerpt": "The Wall Street firm is set to unveil Marcus Invest, a low-cost digital platform that allocates and automatically rebalances individuals’ wealth across portfolios of stocks and bonds based on the models developed by the firm’s investment-strategy committee.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "originalUrl": "https://www.wsj.com/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-298699/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
-      "publishedDateTime": "2021-02-16T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond.md",
-      "title": "Data meets science: Open access, code, datasets, and knowledge graphs for machine learning research and beyond",
-      "excerpt": "An new interconnected ecosystem for research is shaping up, and machine learning is just the tip of the iceberg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "originalUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/15/147ee85a-6053-45a1-baf8-385ec67125b0/annie-spratt-dank9gjvdy-unsplash.jpg",
-          "width": 3432,
-          "height": 5145,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "publishedDateTime": "2021-02-16T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-semeon-analytics-wins-major-artificial-intelligence-contract-with-us-military.md",
-      "title": "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military",
-      "excerpt": "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate the development of processes that safeguard components assembled with these new materials.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
-      "publishedDateTime": "2021-02-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

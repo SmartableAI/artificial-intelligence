@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-26-dbs-offers-facial-recognition-for-smb-customers.md",
+      "title": "DBS Offers Facial Recognition For SMB Customers",
+      "excerpt": "Small and medium-sized business (SMB) owners in Singapore will be able to use facial recognition to access their DBS Bank accounts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/",
+      "originalUrl": "https://www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/DBS-Bank-facial-recognition-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/b2b-payments/2021/dbs-offers-facial-recognition-for-smb-customers/amp/",
+      "publishedDateTime": "2021-02-25T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government.md",
+      "title": "Biden should double down on Trump’s policy of promoting AI within government",
+      "excerpt": "The current administration should not only maintain the policy of promoting government use of AI, it should make it a priority.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/US_flag.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/amp/",
+      "publishedDateTime": "2021-02-25T15:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-how-to-shift-your-ai-focus-from-accuracy-to-value.md",
+      "title": "How to shift your AI focus from accuracy to value",
+      "excerpt": "All models are wrong, but some are useful.” This is a famous quote from 20th century statistical thinker, George E.P. Box. This might seem like a strange message- shouldn’t all the models we build be as correct as possible?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/money1-1200x622.jpg",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
+      "publishedDateTime": "2021-02-25T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
       "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
       "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
@@ -109,8 +254,8 @@
       "title": "Bollywood movies continue to associate beauty with fair skin, AI study finds",
       "excerpt": "Computer scientists from Carnegie Mellon University used NLP to analyze how Bollywood and Hollywood movies reflect social biases.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/25/bollywood-movies-continue-to-associate-beauty-with-fair-skin-ai-study-finds/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/25/bollywood-movies-continue-to-associate-beauty-with-fair-skin-ai-study-finds/",
+      "webUrl": "https://thenextweb.com/neural/2021/02/25/ai-shows-bollywood-movies-associate-beauty-with-fair-skin/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/25/ai-shows-bollywood-movies-associate-beauty-with-fair-skin/",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -127,8 +272,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/25/bollywood-movies-continue-to-associate-beauty-with-fair-skin-ai-study-finds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/bollywood-movies-continue-to-associate-beauty-with-fair-skin-ai-study-finds/amp/",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/25/ai-shows-bollywood-movies-associate-beauty-with-fair-skin/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/ai-shows-bollywood-movies-associate-beauty-with-fair-skin/amp/",
       "publishedDateTime": "2021-02-25T13:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -217,7 +362,7 @@
       "originalUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -509,7 +654,7 @@
       "originalUrl": "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1093,152 +1238,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-09-higher.md",
-      "title": "iShares Robotics and Artificial Intelligence Multisector ETF (NYSEARCA:IRBO) Trading 0.9% Higher",
-      "excerpt": "Shares Robotics and Artificial Intelligence Multisector ETF (NYSEARCA:IRBO)’s stock price traded up 0.9% during trading on Wednesday . The company traded as high as $48.11 and last traded at $48.03. 118,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/25/ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-0-9-higher.html/amp",
-      "publishedDateTime": "2021-02-25T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-why-religions-are-right-to-be-afraid-of-ai.md",
-      "title": "Why Religions Are Right to Be Afraid of AI",
-      "excerpt": "French sociologist and philosopher Raphaël Liogier, former director of the now-defunct Religion Observatory at the University of Provence Aix-Marseille, believes the Pope’s comments speak volumes about his beliefs on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "originalUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60103aa49ddb36009b1b45d0/lede/1611736717220-kfh1th.jpeg?crop=1xw:0.84375xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "publishedDateTime": "2021-02-25T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
-      "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

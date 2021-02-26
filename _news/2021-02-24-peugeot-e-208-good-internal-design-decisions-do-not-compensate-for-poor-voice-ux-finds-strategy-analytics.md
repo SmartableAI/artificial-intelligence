@@ -3,25 +3,25 @@ category: news
 title: "Peugeot e-208: Good Internal Design Decisions Do Not Compensate for Poor Voice UX, Finds Strategy Analytics"
 excerpt: "A new UX evaluation from Strategy Analytics’ In-vehicle UX (IVX) group has assessed the 2020 Peugeot e-208 infotainment system and relevant HMI. Infotainment systems aboard up-market compact EVs have several unique requirements and Peugeot can be commended for several design decisions."
 publishedDateTime: 2021-02-24T15:08:00Z
-originalUrl: "https://www.oaoa.com/news/business/peugeot-e-208-good-internal-design-decisions-do-not-compensate-for-poor-voice-ux-finds/article_14266da5-e475-5399-bb59-02e8a56e09be.html"
-webUrl: "https://www.oaoa.com/news/business/peugeot-e-208-good-internal-design-decisions-do-not-compensate-for-poor-voice-ux-finds/article_14266da5-e475-5399-bb59-02e8a56e09be.html"
+originalUrl: "https://www.thedailytimes.com/business/peugeot-e-208-good-internal-design-decisions-do-not-compensate-for-poor-voice-ux-finds/article_64909d89-894f-5a7e-b9ee-d53cb7607234.html"
+webUrl: "https://www.thedailytimes.com/business/peugeot-e-208-good-internal-design-decisions-do-not-compensate-for-poor-voice-ux-finds/article_64909d89-894f-5a7e-b9ee-d53cb7607234.html"
 type: article
 quality: 6
 heat: 6
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: thedailytimes.com
+  domain: thedailytimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/c/e3/ce30430c-5169-531d-8a36-d45b774deee5/6036720882aad.image.jpg?resize=609%2C371"
+  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/assets/v3/editorial/2/51/2517a495-d3fe-5099-b16a-21e4bd0c4caf/60366dcc052fd.image.jpg?crop=609%2C343%2C0%2C14&resize=609%2C343&order=crop%2Cresize"
     width: 609
-    height: 371
+    height: 343
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "CbtPbsg8RRKH7fxjgVEzLZicrCfWPY+x00IN0Pw85oe9t2ufK0lC+7SP0KGHJ1aOwCjek0pk0EJzuVNkQKML7CMConU6GCxVO+V7718r09PAe9kBfxRkbZvky3xshuxUOkd+IkbV+Mjhn2iGKt4ILi+BwzPQIMLxm1yTksEgLXlFbbr184vzMbR7qcLyGwkkr2aEVrbz2Ycko/AUPH8xTeVs3MCPiOhSknBfgLQZEXIdug7OfjLUAAqQYcPc3CMZC02SyxDbbd/7443ubgwkjoNAQFZQb0z+lg3g4srmzMHFh2nBspaXPEc3UB0dVQtL/NfVSMjYBwWdE2Rluf3JBLyJjtfZkk/vWv1XhEfS0y2X/m91wd50ax277yjpPBUv+LPKp0BY4PALsqoF7OPUtshZEbsiorufQGmQnkP2e2Hu94HvQUyexaWTXX769Qi5VyjJbNINPXMvUQbX7Utx62SypjB2QUUyLySBqO588DrY3HFKQIanstZ7lNvqGVuxTnrTut3e2/C9TBz26r4MaA==;faC/4WcSlcVDLgn1pIQ60g=="
+secured: "rAlVu6MzFZBAYweQ1bH+DY0W0qNC1LQSrzXKvcdcpjCqLYq9u+N3zLlQNkOjRhUkCUEbgGQ9YcXtqpuh93/3tNfF8mamE3uQUNZh/FUFhjHHJrFR7DDjdfpF5ajIIiRQILoCoMVTVtkhRva6W4Y8zD4PXPI5bNjlA44v4LNpOJvqHUdIp1qs2LKkPTX+PflGHXBSFZXKIbNNkExTSvRxRZAuk4JTY/mjS3RV9ffGYy6uXSht83nH99d53rEiwTqTPo1XpMxP3ewgcFMkuVboHwX8YJzVbSL5qiqFof2KIIQs+Bty9uY6mWDxG9aCBEL3+y8tpDZ635uSIfV1ACfLRJy65ix0tSB0eOLjyH6BGmM=;I0fBK+XLzFrsYc3dNFgkBw=="
 ---
 
