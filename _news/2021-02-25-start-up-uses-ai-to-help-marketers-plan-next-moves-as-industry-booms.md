@@ -42,6 +42,20 @@ related:
         width: 728
         height: 256
         isCached: true
+  - title: "Using artificial intelligence to hunt for breast cancer"
+    excerpt: "Endocrine disruptors (EDs) are hormone-like substances that can have undesirable effects on health. For example, chemicals can increase the risk of breast cancer if they act in a manner similar to the female sex hormone oestrogen."
+    publishedDateTime: 2021-02-26T14:32:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/bfif-uai022621.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "VycEQAkm3VwD1WftCulq2UvAPW3f8giSV/2DLh3TTWmoIGrbn9P8ZDbYMgg/ytYVh86c8tR+9xlX1TZquHjayAAA8JfBhd2Jt2/hJ13E+qah53I3K8hF5lPkKU1aVngTbYnS4yTOrASOAK5SN0x1+CCVrVDCRRqK3BdTB+EBYthUhX7rhHdY0pwDf74H8aBXjONYMz58DQu3pocZ3FEDrWs/CqNXPXYzoT0NZoUZf2XoN/akcPEsV5K3mzKMP28Vw00mJVdQVEEy+gvNoecZIX8lanGXYYE3VIiZ54nL58+UIvYZSKe+Vz5ytHsmQjmg/4Ct8SO46BTdWl1o3McsU3f/zJ2+A2M8ekUOLKc6//M=;whtjvWBO5tUwOPXIKe8qIg=="
 ---

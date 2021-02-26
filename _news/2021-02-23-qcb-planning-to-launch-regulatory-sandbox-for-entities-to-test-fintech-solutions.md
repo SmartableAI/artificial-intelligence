@@ -103,22 +103,17 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 24
-  - title: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
-    excerpt: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
-    publishedDateTime: 2021-02-22T00:17:00Z
-    webUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
+  - title: "It’s now or never for UK fintech, government told"
+    excerpt: "The UK government faces a ‘now or never’ moment if it wants financial technology to play a central role in the economy for years to come."
+    publishedDateTime: 2021-02-26T15:18:00Z
+    webUrl: "https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told"
+    ampWebUrl: "https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told?amp=1"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 16
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Fintech-industry-in-Israel-acquired-nearly-25-of-it-Technology.jpeg"
-        width: 1280
-        height: 1055
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
   - title: "Fintech Company Zoe Financial Celebrates 3 Years as a Leader in the Wealth Management Industry"
     excerpt: "Zoe Financial today celebrates three years empowering consumers to find the best and most trustworthy financial advisors. \"The"
     publishedDateTime: 2021-02-25T18:30:00Z

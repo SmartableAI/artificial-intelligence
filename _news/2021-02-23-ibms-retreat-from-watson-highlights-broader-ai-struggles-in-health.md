@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
 quality: 106
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -119,20 +119,6 @@ related:
       - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/blog_post_square.jpg?rev=db1071ffb3ab4897a93a0a5de2f35c65"
         width: 360
         height: 360
-        isCached: true
-  - title: "IBM wants to flog Watson Health"
-    excerpt: "No longer elementary IBM is exploring a potential sale of its IBM Watson Health business according to the Wall Street Journal. The move is part of Big Blue’s moves to streamline the company and become more competitive in cloud computing."
-    publishedDateTime: 2021-02-22T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/52403-ibm-wants-to-flog-watson-health"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/959e1957ab760b8f64d1e6a9793b2ab4_L.jpg"
-        width: 620
-        height: 432
         isCached: true
   - title: "Will IBM Sell Off Watson?"
     excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."

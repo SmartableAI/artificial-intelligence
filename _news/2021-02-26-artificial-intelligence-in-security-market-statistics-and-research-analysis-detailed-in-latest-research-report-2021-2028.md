@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26"
 type: article
 quality: 74
-heat: 124
+heat: 144
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Artificial Intelligence Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
+    publishedDateTime: 2021-02-26T16:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Media Market Trends, Share, Size, Industry Growth, Drivers and Restraint Research Report by 2027"
     excerpt: "Feb (Market Insight Reports) -- (United States, New York City)The Cognitive Media market intelligence study is a collection of authentic"
     publishedDateTime: 2021-02-22T17:26:00Z
@@ -82,6 +96,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 - 2024 | By Kenneth Research"
+    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
+    publishedDateTime: 2021-02-26T16:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-growth-opportunities-and-top-key-players-analysis-report-2021---2024-by-kenneth-research-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

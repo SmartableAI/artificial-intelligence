@@ -88,6 +88,17 @@ related:
         width: 770
         height: 385
         isCached: true
+  - title: "It’s now or never for UK fintech, government told"
+    excerpt: "The UK government faces a ‘now or never’ moment if it wants financial technology to play a central role in the economy for years to come."
+    publishedDateTime: 2021-02-26T15:18:00Z
+    webUrl: "https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told"
+    ampWebUrl: "https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
   - title: "QCB planning to launch regulatory sandbox for entities to test fintech solutions"
     excerpt: "The Qatar Central Bank (QCB) is planning to launch its regulatory sandbox this year, which offers a safe and controlled space for entities to test out their fintech solutions under relaxed regulatory requirements."
     publishedDateTime: 2021-02-22T18:40:00Z
@@ -101,22 +112,6 @@ related:
       - url: "https://img.gulf-times.com/Content/Upload/Slider/2202122214050832215144.jpg"
         width: 620
         height: 355
-        isCached: true
-  - title: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
-    excerpt: "Fintech industry in Israel acquired nearly 25% of it Technology Sector funding in the country driven by speculative valuations"
-    publishedDateTime: 2021-02-22T00:17:00Z
-    webUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/fintech-industry-in-israel-acquired-nearly-25-of-it-technology-sector-funding-in-the-country-driven-by-speculative-valuations/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 16
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Fintech-industry-in-Israel-acquired-nearly-25-of-it-Technology.jpeg"
-        width: 1280
-        height: 1055
         isCached: true
   - title: "Fintech Company Zoe Financial Celebrates 3 Years as a Leader in the Wealth Management Industry"
     excerpt: "Zoe Financial today celebrates three years empowering consumers to find the best and most trustworthy financial advisors. \"The"

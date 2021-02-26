@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 623
         isCached: true
+  - title: "Automaker Geely gains approval for satellites for self-driving constellation"
+    excerpt: "Chinese automaker Geely has got the green light to begin manufacturing satellites for navigation, connectivity and communications needed for self-driving cars."
+    publishedDateTime: 2021-02-26T15:23:00Z
+    webUrl: "https://spacenews.com/automaker-geely-gains-approval-for-satellites-for-self-driving-constellation/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 36
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/02/geespace_satellite-release-2-scaled.jpg"
+        width: 2560
+        height: 1362
+        isCached: true
 
 secured: "b0kCIC3jTzWOpPjwe92WqUv2seUQsPiaq/V70cxMi0TrE4ZyZjF5MzwjIReBy1VG4XhSMlMHgKrNnz6LZLjDjvwpApUz1MupSHbIQdFSscto8/T7LaGEFo4x3X+X6zAmeJL5gu3cADLnciMKJAKrYtli48gHC+kUCgHtYD3Q/lZ0kRzwpWokWngGWUgRMxl4todcTAmdnmk0rk/PtwMoQYfqEzzKIPtjmv4LJg1t38uIW6640mOWg97wLXYpbQBLo6xQc8GhFkAe100DxecshGBndUpulWB4Uu3ACtROIKhKHtUWvfzxu9npn9wWsOPfMd1FE/cDiyS2sT2wkMZOqwaUeXdyOLH8XdnEjKCLC08=;lfujkbnF9Q4PvJrj/Ak/Fw=="
 ---

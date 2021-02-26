@@ -129,20 +129,6 @@ related:
         width: 360
         height: 360
         isCached: true
-  - title: "IBM wants to flog Watson Health"
-    excerpt: "No longer elementary IBM is exploring a potential sale of its IBM Watson Health business according to the Wall Street Journal. The move is part of Big Blue’s moves to streamline the company and become more competitive in cloud computing."
-    publishedDateTime: 2021-02-22T00:00:00Z
-    webUrl: "https://www.fudzilla.com/news/52403-ibm-wants-to-flog-watson-health"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/959e1957ab760b8f64d1e6a9793b2ab4_L.jpg"
-        width: 620
-        height: 432
-        isCached: true
   - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
     excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
     publishedDateTime: 2021-02-23T13:16:00Z

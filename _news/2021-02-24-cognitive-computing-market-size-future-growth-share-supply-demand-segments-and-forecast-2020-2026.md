@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
+    excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
+    publishedDateTime: 2021-02-26T15:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=429011"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "fuemVRLQ/tDxWdUXdVU0knEgJSLV3RVQ4P8ZLOeSlDtXbhSaFN/HZmySUHaQ4G/4YrBuAQXDTkyNn6kI6nPLMy347LghQcXd2hyOYGGZWkQErbzR4N2777vh0MHfYMN0IRzMflb8niCW7T7h+dA63rZ6HFkV+Y1KDF9mTKS0f6eFtFpQhiZYbfvTfdoU780tev38yEMhvbyAGFLMBGn1pJ2JBFgJvxVmRoa5u4k+33t2N8cIrDTrRiF294SRlxi+xUQlKtQI4O75yWOGaxAas4RGHQruDRasP6KXdqX3vKfR9lfC1QxJbDisJWvBNQnz05eggX2Q3jQUFo/TlrCwwCOIbft4gcm6Yqz3lU1Nk78=;u2LJJOyRjtjD6ybQWdRm7A=="
 ---

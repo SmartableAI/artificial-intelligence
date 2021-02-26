@@ -71,20 +71,6 @@ related:
         width: 640
         height: 401
         isCached: true
-  - title: "Three Ways AI and Machine Learning Will transform Software Testing"
-    excerpt: "Large and small businesses are searching for ways to reduce costs and increase testing coverage and reliability while providing software that meets consumer standards and deadlines. Testers are gradually turning to artificial intelligence and machine learning under these stresses to augment their research processes."
-    publishedDateTime: 2021-02-22T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/three-ways-ai-and-machine-learning-will-transform-software-testing--nid-7245.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/900fx450.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
     excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
     publishedDateTime: 2021-02-26T08:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/"
 type: article
 quality: 107
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "Automaker Geely gains approval for satellites for self-driving constellation"
+    excerpt: "Chinese automaker Geely has got the green light to begin manufacturing satellites for navigation, connectivity and communications needed for self-driving cars."
+    publishedDateTime: 2021-02-26T15:23:00Z
+    webUrl: "https://spacenews.com/automaker-geely-gains-approval-for-satellites-for-self-driving-constellation/"
+    type: article
+    provider:
+      name: SpaceNews
+      domain: spacenews.com
+    quality: 36
+    images:
+      - url: "https://spacenews.com/wp-content/uploads/2021/02/geespace_satellite-release-2-scaled.jpg"
+        width: 2560
+        height: 1362
+        isCached: true
   - title: "Automatic segmentation of inner ear on CT-scan using auto-context convolutional neural network"
     excerpt: "Temporal bone CT-scan is largely used for diagnostic and surgical preplanning in diseases involving the inner ear such as hearing loss and balance disorders 1. In routine practice, this technique offers a series of 2D images which are browsed back and forth by the practitioner to mentally deduce 3D information and to this end 3D reconstructions have been applied to training and surgical planning 2."
     publishedDateTime: 2021-02-23T13:36:00Z

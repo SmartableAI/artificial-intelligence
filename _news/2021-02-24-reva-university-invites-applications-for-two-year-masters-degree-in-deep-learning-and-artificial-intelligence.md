@@ -58,20 +58,6 @@ related:
         width: 800
         height: 483
         isCached: true
-  - title: "Three Ways AI and Machine Learning Will transform Software Testing"
-    excerpt: "Large and small businesses are searching for ways to reduce costs and increase testing coverage and reliability while providing software that meets consumer standards and deadlines. Testers are gradually turning to artificial intelligence and machine learning under these stresses to augment their research processes."
-    publishedDateTime: 2021-02-22T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/three-ways-ai-and-machine-learning-will-transform-software-testing--nid-7245.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 54
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/900fx450.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "How artificial intelligence is changing marketing"
     excerpt: "Why marketers can no longer afford to ignore artificial intelligence (AI): Data-led article including insight from leading figures in marketing."
     publishedDateTime: 2021-02-25T10:58:00Z

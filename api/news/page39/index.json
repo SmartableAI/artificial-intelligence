@@ -2,6 +2,161 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-01-27-starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses.md",
+      "title": "Starship raises $17 million to send autonomous delivery robots to new campuses",
+      "excerpt": "Starship Technologies, a startup developing driverless delivery robots, this morning announced ... Yandex, Refraction AI, Dispatch, and Robby. Just this month, Amazon rolled its Scout robots ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/",
+      "originalUrl": "https://venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/DSC6480-crop.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/27/starship-raises-17-million-to-send-autonomous-delivery-robots-to-new-campuses/amp/",
+      "publishedDateTime": "2021-01-27T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million.md",
+      "title": "Lynk, a “knowledge-as-a-service” platform with more than 840,000 experts, raises $24 million",
+      "excerpt": "Lynk, a “knowledge-as-a-service” platform that connects clients with over 840,000 experts in a wide range of fields, announced today it has raised $24 million led by Brewer Lane Ventures and MassMutual Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/",
+      "originalUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Peggy-Choi_Image-4.jpg",
+          "width": 2982,
+          "height": 1989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/27/lynk-a-knowledge-as-a-service-platform-with-more-than-840000-experts-raises-24-million/amp/",
+      "publishedDateTime": "2021-01-27T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation.md",
+      "title": "The Inner Game Of AI (And How To Not Make The Same Mistakes You Made With Digital Transformation)",
+      "excerpt": "Implementing AI is a daunting challenge. It requires orchestrating seismic and complex change, retraining existing talent and acquiring new expertise. Learn how to not get it wrong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
+      "originalUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010935ebcc42bb3e75a9c62%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D640%26cropY1%3D10%26cropY2%3D490",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/renitakalhorn/2021/01/27/the-inner-game-of-ai-and-how-to-not-make-the-same-mistakes-you-made-with-digital-transformation/amp/",
+      "publishedDateTime": "2021-01-27T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
       "title": "AI Ethics Really Come Down To Security",
       "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
@@ -1063,126 +1218,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-artificial-intelligence-takes-center-stage-early-in-2021.md",
-      "title": "Artificial Intelligence Takes Center Stage Early in 2021",
-      "excerpt": "Looking back, IBM was the first vendor to have a commercially available AI product with Watson, but it could not turn this into a competitive advantage. Cloud paints an equally grim picture ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
-      "originalUrl": "https://www.eweek.com/pc-hardware/artificial-intelligence-takes-center-stage-early-in-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2017/07/IBM.Watson2.JPG?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "OAKLAND — Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state’s Department of Motor Vehicles said on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars",
-      "originalUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/",
-      "cdnAmpWebUrl": "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/technology-pmn/baidu-gets-california-nod-for-testing-empty-self-driving-cars/wcm/d15c9ea4-b1e6-4af0-8483-a093f259084b/amp/",
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Post",
-        "domain": "nationalpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-pluralsight-inc-class-a-common-stock-ps.md",
-      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
-      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
