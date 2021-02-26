@@ -2,7 +2,7 @@
 name: "6sense"
 overview: "6sense features unified account engagement platform unifies revenue teams with account-level insights to achieve predictable revenue growth."
 type: "profile"
-heat: 101
+heat: 41
 
 website: https://www.6sense.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "6senseInc"
   url: "https://twitter.com/6senseInc"
-  followers: 18913
+  followers: 18912
 
 locations:
   - San Francisco
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "6sense"
 
-secured: "SkdIRUNT7w19FYU2Z3O25ubDPIkA2Im7LLSHetHd9UwAtciXAPVzjE0FxPtoqyUWDM0/ccXYzp3mjNsO969XkCfFpJiWDmvc5S9rITUSc9Y0w6MfVTvOTu7Zad3OktXiHsHwVmr1k6H/p6yJiaQ4w9fg9/69AfZpCbf5E+OPq9B6GqA1tcoGwaHH/RUPhw827vLB45NVXj8CxV9/vCLxJdmEPfv/koB3E3OrY99LyWtKpuD0oNzDgGS+/H5UBGOiq+zAcu0fwGTR7cEw6NWwi33rlatBfp/U3MPaNShwIoP91+58CFZlI7g1qGSRDak3vxNc00ElUyjNmM+25vKQ9sJ7o1t9W7kY0SQ5978fuppCWO82XR+moGbKQviiVyhDIUNZfSty9vSfK2/zj1v+vHJ8/A3bLs70mBmc8JH+5Xg=;rsgbCiN+f+n+PXiOCaG7zQ=="
+secured: "s8Db8j4clAJv+fcLf3pSCjUNgEVbalc/gYY6c2wRuAvkA/7qwYSC83hhOstuP2LEqcjtGVHa2HjNqIKMbRGTefhR7jQx0l/CRWfveedszoyCZv4YzEf956PkUN8fARM4He6YmCQQ5fi1sz8+aH78iUL7S+IviczzgWRxKhusQWEzi8b7v8OdYIUV8xJZl3hyu3UT4n2Ds45+/OiEcaMQygGiiUzJTOnr+f4pDkVrf+0+F75PMqshlscYvzfRDQ/fFt8t3MHOdOFLz1nv6HRHvRKSkdPGm7qFgrrhVDPXQLFJp3mAU9kSfKpeRPQ+2KLnFtrGHIz0zkuI9IEHxXidBh0+C8p8zdI9RvU4RbnUQ7YQKo4R0TeA0vq5z0h+++xNkvU7IW2DLblfXGZAr2xjLJcqqedD5J7lwX3VCYpTKKM=;LcQXSRcLAZOQjdpqF383Xw=="
 ---
 
