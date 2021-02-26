@@ -26,22 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Start-up uses AI to help marketers plan next moves as industry booms"
-    excerpt: "Before COVID, people were choosing to “detox” from social media to help their mental and physical health, but in the last year, 346 million new users came online."
-    publishedDateTime: 2021-02-24T19:07:00Z
-    webUrl: "https://www.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092"
-    ampWebUrl: "https://m.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092/amp"
+  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
+    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
+    publishedDateTime: 2021-02-26T08:50:00Z
+    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
+    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
-        width: 640
-        height: 428
-        isCached: true
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 54
   - title: "Using artificial intelligence to hunt for breast cancer"
     excerpt: "Endocrine disruptors (EDs) are hormone-like substances that can have undesirable effects on health. For example, chemicals can increase the risk of breast cancer if they act in a manner similar to the female sex hormone oestrogen."
     publishedDateTime: 2021-02-26T14:32:00Z

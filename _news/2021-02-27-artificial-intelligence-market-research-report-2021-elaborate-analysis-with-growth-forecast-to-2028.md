@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-26T16:55:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-02-26"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-02-26"
 type: article
-quality: 55
+quality: 57
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -109,7 +110,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

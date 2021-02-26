@@ -24,22 +24,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "6 State Startup Missions In India Focused On AI"
-    excerpt: "Both central and state governments acknowledge the importance of startups in the economic narrative and have, in turn, come up with projects to throw their weight behind these companies."
-    publishedDateTime: 2021-02-24T10:37:00Z
-    webUrl: "https://analyticsindiamag.com/6-state-startup-missions-in-india-focused-on-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/austin-distel-wD1LRb9OeEo-unsplash.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
-
 secured: "+GgnRvs/tAXGc5ykNlUA8Eh9DH1N6p94qotzgBZ3faTDy5Hfjp28+bw7lWoXt0mGHEOfgGpc+wohq0LrcZG2mkxuOu68YCxEDYzgc2byKYLvvNqhJ5gzAWORCHYSgA9xElt774aS63PXeycoFhtdRURkacacImiZpLe4pBd0Cb3Ih7CRS+086XsR1hXWpLYPOiT24Nh284GcG4rWKODMJ7IKSxDAN6PJcBfujKOKG2gjTwjZRkPT8FknNEC1KfhWhUarD/20Hg/LPQnFEmmX9lBCDPrkvAOgaSUuXwu+F6DWhEMbM+EPq4ucLZiZ9j1LJjK3cb8CjrRK5af+WSXiyCdnqHuGKDhFMoyIHw3Or/k=;iEkykX7LAlYJJvb65OtrOQ=="
 ---
 

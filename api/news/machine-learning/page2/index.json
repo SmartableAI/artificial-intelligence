@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
+      "title": "The Power of Artificial Intelligence (AI)",
+      "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "originalUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/7ZAitg5M.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-deep-learning-and-future-of-healthcare.md",
       "title": "Deep Learning and Future of Healthcare",
       "excerpt": "Deep Learning and Future of Healthcare By Sanjib Basak, Former Director of Data Science & Artificial Intelligence, Carlson Wagonlit Travel - As Artificial Intelligence (AI) gains popularity in the industry,",
@@ -327,6 +370,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-18-automl-package-implemented-in-julia-using-knet.md",
+      "title": "AutoML package implemented in Julia using Knet.",
+      "excerpt": "First, you have to install AutoML package. Run julia from the command line, set the environment for the package and install AutoML package using the repository address. AutoML package provides a trained model using a few lines of code. In order to ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/alperkesen/AutoML.jl",
+      "originalUrl": "https://github.com/alperkesen/AutoML.jl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/3476788?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-electronic-nose-uses-machine-learning-to-mimic-a-dogs-sense-of-smell.md",
       "title": "Electronic nose uses machine learning to mimic a dog's sense of smell",
       "excerpt": "Inspired by the incredible olfactory senses of dogs, scientists have been developing and demonstrating different types of “electronic noses” that can sniff out things like cancer, nerve gases or even explosives.",
@@ -408,6 +494,49 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-curating-a-list-of-automl-related-research-tools-projects-and-other-resources.md",
+      "title": "Curating a list of AutoML-related research, tools, projects and other resources",
+      "excerpt": "AutoML is the tools and technology to use machine learning methods and processes to automate machine learning systems and make them more accessible. It existed for several decades so it's not a completely new idea. Recent work by Google Brain and many ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/windmaple/awesome-AutoML",
+      "originalUrl": "https://github.com/windmaple/awesome-AutoML",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/5577741?s=400&v=4",
+          "width": 420,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -783,6 +912,49 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-number-of-data-analysts-scientists-to-adopt-automl-will-double-by-2025-idc.md",
+      "title": "Number of data analysts, scientists to adopt AutoML will double by 2025: IDC",
+      "excerpt": "The report further says that the number of data analysts and scientists adopting AutoML for an end-to-end machine learning pipeline from data preparation to model deployment will grow two-fold by 2025. ALSO READ: Researchers introduce first artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/number-of-data-analysts-scientists-to-adopt-automl-will-double-by-2025-idc-71613468681354.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/number-of-data-analysts-scientists-to-adopt-automl-will-double-by-2025-idc-71613468681354.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2021/02/16/600x338/abstract-4626113_1920_1589730328249_1589730329115_1613468715595.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/number-of-data-analysts-scientists-to-adopt-automl-will-double-by-2025-idc-71613468681354.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/number-of-data-analysts-scientists-to-adopt-automl-will-double-by-2025-idc-71613468681354.html",
+      "publishedDateTime": "2021-02-16T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1224,189 +1396,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-machine-learning-used-to-generate-aav-capsids-for-gene-therapy.md",
-      "title": "Machine learning used to generate AAV capsids for gene therapy",
-      "excerpt": "A study has used artificial intelligence to reveal adeno-associated virus (AAV) capsid variants for use in gene therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
-      "originalUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.drugtargetreview.com/wp-content/uploads/Gene-therapy-7.jpg",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "drugtargetreview.com",
-        "domain": "drugtargetreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-generate-positivity-with-machine-learning.md",
-      "title": "Generate Positivity With Machine Learning",
-      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
-      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
-          "width": 1185,
-          "height": 790,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-deep-learning-software-market-global-analysis-2021-2027-applications-growth-trends-top-companies-and-more.md",
-      "title": "Deep Learning Software Market Global Analysis 2021-2027, Applications, Growth Trends, Top Companies and more…",
-      "excerpt": "Deep Learning Software MarketThis report studies the global Deep Learning Software market, analyzes and researches the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-global-analysis-2021-2027-applications-growth-trends-top-companies-and-more-2021-02-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-global-analysis-2021-2027-applications-growth-trends-top-companies-and-more-2021-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-new-polyp-image-classification-technique-using-transfer-learning-of-network-in-network-structure-in-endoscopic-images.md",
-      "title": "New polyp image classification technique using transfer learning of network-in-network structure in endoscopic images",
-      "excerpt": "This research improved the performance of polyp classification through the fine-tuning of Network-in-Network (NIN) after applying a pre-trained model of the ImageNet database. Random shuffling is performed 20 times on 1000 colonoscopy images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/s41598-021-83199-9",
-      "originalUrl": "https://www.nature.com/articles/s41598-021-83199-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83199-9/MediaObjects/41598_2021_83199_Fig1_HTML.jpg",
-          "width": 685,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
         "images": null,
         "publishers": null,
         "authors": null

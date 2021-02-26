@@ -40,6 +40,22 @@ related:
         width: 1300
         height: 500
         isCached: true
+  - title: "War Mongering for Artificial Intelligence"
+    excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence."
+    publishedDateTime: 2021-02-26T17:25:00Z
+    webUrl: "https://www.modernghana.com/news/1064364/war-mongering-for-artificial-intelligence.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Modernghana.com
+      domain: modernghana.com
+    quality: 57
+    images:
+      - url: "https://cdn.modernghana.com/images/content/715202080935-vbqduhgtsn-dr.binoy-kampmark.png"
+        width: 800
+        height: 472
+        isCached: true
 
 secured: "0GdReeScAnMIoHVk0/x4f2PsX46ODT7aavcudu//NtiekhSHkhVWqc5ZzIODlSzV6lQrtKv1reABcewwTWeyDAP+D/WtK/y02D0XbQzAdeteeRjqwqvfhD3qX8kEyDIdCAAxrCtLT7d/ZR2DEaCXkqqS9qZitL+A813Oc3ncuHvlhpaaLKS5D1quyx6MbNeiabyK2a+ClIld0IYueNSF7pYh9yt7S95rOcwfjNAHRfo1yeugmbQSjQYMj5ZrtVVOoTd3xEBSAL+7KxpqCOI/IaEN4yuY//q26Uc55kPyvNp8aPieLwhlwW5hPZSF7ok4axM8fA2phWNgiZgecg+9qmmwu/wXkdFHwwpf/Bcmewg=;1Wu/a1qFJmK8G07RREmLSQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-con
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d3s3zh7icgjwgd.cloudfront.net/AcuCustom/Sitename/DAM/206/AI-robot-play.jpg"
         width: 1200
         height: 780
+        isCached: true
+  - title: "How artificial intelligence is changing marketing"
+    excerpt: "Why marketers can no longer afford to ignore artificial intelligence (AI): Data-led article including insight from leading figures in marketing."
+    publishedDateTime: 2021-02-25T10:58:00Z
+    webUrl: "https://www.pressgazette.co.uk/ai-marketing/"
+    type: article
+    provider:
+      name: Press Gazette
+      domain: pressgazette.co.uk
+    quality: 54
+    images:
+      - url: "https://www.pressgazette.co.uk/wp-content/uploads/2021/02/marketinglead.jpg"
+        width: 1536
+        height: 864
         isCached: true
 
 secured: "zk9DOqyGziy8NaTunCzI/Frle63/Tr2D6vf1szZLyQPinelyusuu1pBnt4hnzDMrtWt01dJ9YHTGM6MJawgQkjIqHz4038Ii5S9PhiYMtp6h4XFo/UuLL384E0Aoz3/62OaCJJoxCjHtbfEBni20VgPYXpC25B5PabHS5JKmEpCvFEdoUkPtVH5bXXmNTLXOw0DPu41TsvWkqfPorsXhSIFFo5dwLZZjRmpmpj1XnymoSPenG2QFA9nP5lgNf+fnsFuk9PdiVoY6yp5AfFTNgbCsC14J1ul1eGe0bgHDKBk6jnZVllFtI5HAlJWNSvJt1sMVbrwdbpzTmblDL+6H+ZDvfUraISfjssmU42mqctKs3940EOd9JxX67ySt6qquWYdv3FgUfn3TKjb9u+TVyNLI82PHOMssEQos0fD4yD4VYy9SbUdBhdPpPPWYx5rj7mZA0Bd8HA/xZr8ubemCuy54g1Poax5ghm2NDrQw+ERnxJtIkWA7xVGrYtsasrn/9b4l4wvFTsSQz79YQWikkw==;8q1nPkOvo5hjq4qQ3+p90A=="

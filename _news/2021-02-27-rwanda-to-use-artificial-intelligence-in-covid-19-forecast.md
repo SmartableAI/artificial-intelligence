@@ -1,0 +1,46 @@
+---
+category: news
+title: "Rwanda to use Artificial Intelligence in Covid-19 forecast"
+excerpt: "Rwanda is set to be the first country on the African continent to use Artificial Intelligence (AI) in predicting the burden of Covid-19 in its territory in particular periods of time. On Friday, February 26,"
+publishedDateTime: 2021-02-26T17:18:00Z
+originalUrl: "https://www.newtimes.co.rw/news/rwanda-use-artificial-intelligence-covid-19-forecast"
+webUrl: "https://www.newtimes.co.rw/news/rwanda-use-artificial-intelligence-covid-19-forecast"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: The New Times
+  domain: newtimes.co.rw
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.newtimes.co.rw/sites/default/files/main/articles/2021/02/26/audace-nakeshimana-the-founder-of-insightiv.jpg"
+    width: 873
+    height: 491
+    isCached: true
+
+related:
+  - title: "COVID-19 increased the use of AI. Here’s why it’s here to stay"
+    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kerri Reynolds, SVP Crowdsourcing and HR, Appen Due to"
+    publishedDateTime: 2021-02-25T11:01:00Z
+    webUrl: "https://europeansting.com/2021/02/25/covid-19-increased-the-use-of-ai-heres-why-its-here-to-stay/"
+    ampWebUrl: "https://europeansting.com/2021/02/25/covid-19-increased-the-use-of-ai-heres-why-its-here-to-stay/amp/"
+    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/02/25/covid-19-increased-the-use-of-ai-heres-why-its-here-to-stay/amp/"
+    type: article
+    provider:
+      name: europeansting.com
+      domain: europeansting.com
+    quality: 59
+    images:
+      - url: "https://europeansting.files.wordpress.com/2021/02/robot.jpeg?w=1200"
+        width: 1200
+        height: 863
+        isCached: true
+
+secured: "UxDIq1iY79yxPlQ/TfGACDtQCT/DVaPrxt6dyPczagYA3kZbr8HK+hKrxZnI8CGDDPoWTpAw1IEAfRuIGxayvIXnfrwuphQyga8xIn1L6dEe91rs7KRxoTkdoBrpHdCLd/KY5CXPXpfv+x+6l4CS4aXFIdPB3xmIq1cWee5bVpjXOOitISUhhe/JiAmbwLO6Xv2dV+5OfP+PCRss2ClRE3EyB+8AVok0STvf6Gh9ERleMfJnUcMT7Ef0nKnGL2Tl6XFvezHKoU8Ri1k1iJ2fRLwn60CILD5HYlvhFu+W8R4l6kfPwK/p0YFLnqjhhS6HFEkNYS0Djwo46BgolC8B0n0S0j8Arz8Kmahl6m8MEb4=;UzkeNcsxKbi5cNQWqIDuLA=="
+---
+

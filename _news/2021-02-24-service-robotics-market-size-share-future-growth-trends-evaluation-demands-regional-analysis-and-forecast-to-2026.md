@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
 type: article
 quality: 60
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -80,6 +80,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
+    publishedDateTime: 2021-02-26T18:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -178,6 +192,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Chipset Market 2020 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2025"
+    excerpt: "Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 aims"
+    publishedDateTime: 2021-02-24T21:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2025-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

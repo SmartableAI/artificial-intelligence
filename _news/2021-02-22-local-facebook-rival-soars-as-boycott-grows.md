@@ -35,6 +35,20 @@ related:
         width: 3105
         height: 2070
         isCached: true
+  - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
+    excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
+    publishedDateTime: 2021-02-26T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facebook-confirms-its-working-on-facial-recognition-technology-2021-02-26-71973028"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban"
     excerpt: "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban."
     publishedDateTime: 2021-02-26T12:24:00Z
@@ -50,6 +64,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Facebook reveals creepy ‘facial recognition scanner’ built into smart glasses – and they’re coming in 2021"
+    excerpt: "FACEBOOK could put facial recognition tech in the smart glasses it plans to release later this year. The firm is still debating the controversial idea because it wants to be sure “authority"
+    publishedDateTime: 2021-02-26T16:27:00Z
+    webUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 41
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/09/MB-COMP-GLASSES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "lV3PW1KJptLnv3rMjNbCwRSrWfSs3ERsOFh5bBojKEh39gKgzWYThAUUDb/9/qd1RZrjoOaFldj+fbhVqUP1yd7v90vHQV3JF8FAIDMLmzl2wX9flIl4CrUq5EgcSbMWpkmUsdA/mpcKZZBVIUG+RDzM5xiNxg3FcycEld5E+ZBe621Ygb+MVm8MOG8TyudykavybrpikxmdNO20TaQlqrUI91z4i+FEweXquZqZjnL3BA7npzp18iYXtET2SDht7ZhcCvOUQWT1tsSB/BhD30J3M0hWPs/F0qqfHJZRT3IscpDblR4WcLou9+HCsQPTMy3RZVcVg02QF72Qt9g5NJ7HUGB9UH11n7k/DCxINusHn0jJtJelg1iQgFOw5VMHzN3+vpis3CuH+YF0Z4h54W4q+HiwMSUBfsq1P441EQJEPbxvHa1S3/XECPE1XffZ+QvVHIi2dTtQ2YyYwQvSXsXzVqDFXR5VCVkYWd7if/bcN1zrRMDXtmGuICKTvzs1mBfhnmzsb+C2NpNpzLlx4g==;iujoIJZ450kUYBAEC9UVSQ=="

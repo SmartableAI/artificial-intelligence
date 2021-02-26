@@ -28,105 +28,45 @@ images:
     isCached: true
 
 related:
-  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
-    excerpt: "Starbucks set the ambitious goal of being the world’s most personalized brand by relying on predictive analytics and machine learning to create a real-time personalization experience."
-    publishedDateTime: 2021-02-22T01:47:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/"
+  - title: "Google’s Voice AI accelerator launches 12 startups"
+    excerpt: "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,"
+    publishedDateTime: 2021-02-22T21:01:00Z
+    webUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/"
+    ampWebUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032f3b5a9ba70101806187f%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all"
+        width: 1197
+        height: 601
         isCached: true
-  - title: "Use AI to sort through market-moving news"
-    excerpt: "Bloomberg helps you sort through this enormous amount of information in a manageable and comprehensive way with a tool called Key Themes."
-    publishedDateTime: 2021-02-22T21:19:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165"
+  - title: "Oracle Launches Construction AI Advisor for Its Cloud Services"
+    excerpt: "As more firms store their project data in the cloud, it offers the chance to dig through that data for new insights. Oracle has already offered some limited business intelligence dashboards for its cloud service,"
+    publishedDateTime: 2021-02-23T04:32:00Z
+    webUrl: "https://www.enr.com/articles/51250-oracle-launches-construction-ai-advisor-for-its-cloud-services"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
+      name: Engineering News-Record
+      domain: enr.com
+    quality: 37
     images:
-      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fusanews.png&width=800"
-        width: 800
-        height: 483
+      - url: "https://www.enr.com/ext/resources/News/2021/02-Feb/ENR0222Oracle.png?height=635&t=1613947902&width=1200"
+        width: 900
+        height: 550
         isCached: true
-  - title: "REVA University Invites Applications for Two Year Master’s Degree in Deep Learning and Artificial Intelligence"
-    excerpt: "REVA University in partnership with CloudxLab is offering a two-year Master of Science in Deep Learning and Artificial Intelligence for interested students"
-    publishedDateTime: 2021-02-24T07:11:00Z
-    webUrl: "https://www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/"
-    ampWebUrl: "https://www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/amp/"
+  - title: "Powow AI selected into Google Voice AI Startup Accelerator"
+    excerpt: "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems."
+    publishedDateTime: 2021-02-26T09:47:00Z
+    webUrl: "https://www.financialbuzz.com/powow-ai-selected-into-google-voice-ai-startup-accelerator/"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 56
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/01/circuits-5896293_640.jpg"
-        width: 640
-        height: 401
-        isCached: true
-  - title: "How artificial intelligence is changing marketing"
-    excerpt: "Why marketers can no longer afford to ignore artificial intelligence (AI): Data-led article including insight from leading figures in marketing."
-    publishedDateTime: 2021-02-25T10:58:00Z
-    webUrl: "https://www.pressgazette.co.uk/ai-marketing/"
-    type: article
-    provider:
-      name: Press Gazette
-      domain: pressgazette.co.uk
-    quality: 54
-    images:
-      - url: "https://www.pressgazette.co.uk/wp-content/uploads/2021/02/marketinglead.jpg"
-        width: 1536
-        height: 864
-        isCached: true
-  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
-    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
-    publishedDateTime: 2021-02-26T08:50:00Z
-    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 54
-  - title: "How banks are harnessing artificial intelligence"
-    excerpt: "Technology is everywhere in the financial services industry, and banks have been building their artificial intelligence (AI) bona fides in recent years. Components of AI include natural-language processing,"
-    publishedDateTime: 2021-02-22T08:49:00Z
-    webUrl: "https://www.investmentexecutive.com/newspaper_/building-your-business-newspaper/how-banks-are-harnessing-artificial-intelligence/"
-    type: article
-    provider:
-      name: Investment Executive
-      domain: investmentexecutive.com
-    quality: 39
-    images:
-      - url: "https://www.investmentexecutive.com/wp-content/uploads/sites/3/2021/02/iStock-1211725238-800x600px.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "CAPTURE-ing movement in freely behaving animals"
-    excerpt: "Harvard researchers develop a new motion-tracking system that delivers an unprecedented look at how animals move and behave naturally."
-    publishedDateTime: 2021-02-25T19:11:00Z
-    webUrl: "https://news.harvard.edu/gazette/story/2021/02/tech-breakthrough-combines-motion-capture-and-neural-learning/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 24
-    images:
-      - url: "https://news.harvard.edu/wp-content/uploads/2021/01/capturemotion_fig71-945x630.jpg"
-        width: 945
-        height: 630
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
 
 secured: "WWfXvoYicxdXdUgfAb7mVCaFjTXzDhNxxpgQff73Dpb2PH7jI4FTEsl3qTOwBItSuNcqp+4sY72r2uXvQvQIjQPRo+C8qAa7aiT/vYSiFKYMQaUcX5jIv8wHzoNbYnmKDPdJSzN86dqtgbnCWaYVXO+8FoEzOrrdfJ8wpy0Uy8bhZgXJ/0sR4s8FqA8woWphMtzbEuOPkztiH7+/Vz7dwvkR3VzgML4R5bebiEW2ETsLRbT3DvqIoD9aUleaGcRsTPyOS9f0QGcPHvdPsl7l0yIITKrG8uMov45HFeH1WeBRXpXqwIOXKCVZsxYYkQ4jp8+HrABh+MRu93vkZRWLAgwlqaUJB2vAgKZc8Znpsi+gFW2jNW13OKAtrWxdHRhwjW4/DrGtVUXJVRUQUh9surk+NSH900KCQmUkHdcBOA4/QoRc7BKyTL8C9mJef6fPtaGXZ2zSppk1p8c9WX7rVWLfX2f6KjyVwuIdHPYA41FkWl22vvyt4Biet7TH28C+U+801TaO8LIwGSbmbKN+jw==;Adh3aChc1kG+Xfcyaj/AQw=="
 ---

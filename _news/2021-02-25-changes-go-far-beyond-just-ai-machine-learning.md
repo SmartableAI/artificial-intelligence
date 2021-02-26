@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-a
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "War Mongering for Artificial Intelligence"
+    excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence."
+    publishedDateTime: 2021-02-26T17:25:00Z
+    webUrl: "https://www.modernghana.com/news/1064364/war-mongering-for-artificial-intelligence.html"
+    ampWebUrl: "https://www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
+    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
+    type: article
+    provider:
+      name: Modernghana.com
+      domain: modernghana.com
+    quality: 57
+    images:
+      - url: "https://cdn.modernghana.com/images/content/715202080935-vbqduhgtsn-dr.binoy-kampmark.png"
+        width: 800
+        height: 472
+        isCached: true
   - title: "War Mongering for Artificial Intelligence"
     excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
     publishedDateTime: 2021-02-26T06:20:00Z

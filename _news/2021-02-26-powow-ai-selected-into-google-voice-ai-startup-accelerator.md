@@ -34,6 +34,20 @@ related:
         width: 1197
         height: 601
         isCached: true
+  - title: "AAAI 2021: Accelerating the impact of artificial intelligence"
+    excerpt: "The purpose of the Association for the Advancement of Artificial Intelligence, according to its bylaws, is twofold. The first is to promote research in the area of AI, and the second is to promote the responsible use of these types of technology."
+    publishedDateTime: 2021-02-25T00:43:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/aaai-2021-accelerating-the-impact-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2021/02/1400x788_AAAi_NoLogo_stills-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
   - title: "Oracle Launches Construction AI Advisor for Its Cloud Services"
     excerpt: "As more firms store their project data in the cloud, it offers the chance to dig through that data for new insights. Oracle has already offered some limited business intelligence dashboards for its cloud service,"
     publishedDateTime: 2021-02-23T04:32:00Z

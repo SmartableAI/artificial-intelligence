@@ -41,22 +41,17 @@ related:
         width: 728
         height: 256
         isCached: true
-  - title: "Start-up uses AI to help marketers plan next moves as industry booms"
-    excerpt: "Before COVID, people were choosing to “detox” from social media to help their mental and physical health, but in the last year, 346 million new users came online."
-    publishedDateTime: 2021-02-24T19:07:00Z
-    webUrl: "https://www.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092"
-    ampWebUrl: "https://m.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/opinion/start-up-uses-ai-to-help-marketers-plan-next-moves-as-industry-booms-660092/amp"
+  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
+    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
+    publishedDateTime: 2021-02-26T08:50:00Z
+    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
+    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/417281"
-        width: 640
-        height: 428
-        isCached: true
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 54
 
 secured: "GiN6HTmzSwyyI3H9YbU1LkVoi51j7PCQvrUM1yiq5+EK2dEAfdSXN5zmS3BOCLZT8VWyfLeERtbmjYbmF4VOv39hHgturf3/iWblCYMidHyBYHtltu/qqUwazjaC8PnZI4SJelYyeLl407hKYaOHhI3l4Tlo6EXRVR0lHMBj7ncbMmfXYkuhwmFg9tHQBUDFRqZXKsF4GGPw7gtxQULMijqrYaPPWF/hHqVHU7qSbFnuILQkgnX9ckY47GvW/LQQzRZBQVYeOFF1nZSHXHOw5L9DpcU7AAujEJREwjl6Eq8G3ZM8k2UH2KUTovfjIau/2WmH2P13YKd8dx98+/yP6vKfpBEXyibpcJPpFeYC+K4=;s57GX2mwvraTE429KPwa+w=="
 ---

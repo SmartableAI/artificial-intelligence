@@ -41,6 +41,20 @@ related:
         width: 1027
         height: 1147
         isCached: true
+  - title: "CAPTURE-ing movement in freely behaving animals"
+    excerpt: "Harvard researchers develop a new motion-tracking system that delivers an unprecedented look at how animals move and behave naturally."
+    publishedDateTime: 2021-02-25T19:11:00Z
+    webUrl: "https://news.harvard.edu/gazette/story/2021/02/tech-breakthrough-combines-motion-capture-and-neural-learning/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 24
+    images:
+      - url: "https://news.harvard.edu/wp-content/uploads/2021/01/capturemotion_fig71-945x630.jpg"
+        width: 945
+        height: 630
+        isCached: true
   - title: "Development of a deep learning-based software for calculating cleansing score in small bowel capsule endoscopy"
     excerpt: "A standardized small bowel (SB) cleansing scale is currently not available. The aim of this study was to develop an automated calculation software for SB cleansing score using deep learning. Consecutively performed capsule endoscopy cases were enrolled from three hospitals."
     publishedDateTime: 2021-02-24T11:19:00Z

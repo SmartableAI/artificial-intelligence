@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-amazon-web-services-in-deal-with-national-hockey-league.md",
+      "title": "Amazon Web Services In Deal With National Hockey League",
+      "excerpt": "Amazon Web Services or AWS, an Amazon.com, Inc. company, has inked a deal with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence, and Machine Learning Infrastructure Provider of the professional ice hockey league.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-web-services-in-deal-with-national-hockey-league-2021-02-11?amp",
+      "publishedDateTime": "2021-02-11T05:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-nhl-takes-big-stride-on-data-and-analytics-with-aws-deal.md",
       "title": "NHL takes big stride on data and analytics with AWS deal",
       "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
@@ -442,8 +476,8 @@
       "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
       "excerpt": "BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210208005050/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210208005050/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -451,13 +485,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T09:33:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19541879",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19541879",
+      "publishedDateTime": "2021-02-08T09:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1411,58 +1445,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-bezos-departure-as-ceo-shows-amazon-is-a-cloud-company-now.md",
-      "title": "Bezos' Departure as CEO Shows Amazon Is a Cloud Company Now",
-      "excerpt": "Andy Jassy, who helped create Amazon Web Services in 2006 and has run it since, will take over as chief executive later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
-      "originalUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6019cab23453f789506008d0/master/pass/Sec_Bezos_1036084400.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bezos-departure-ceo-shows-amazon-cloud-company/amp",
-      "publishedDateTime": "2021-02-02T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

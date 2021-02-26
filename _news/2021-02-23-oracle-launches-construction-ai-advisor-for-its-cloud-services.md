@@ -40,6 +40,20 @@ related:
         width: 1197
         height: 601
         isCached: true
+  - title: "AAAI 2021: Accelerating the impact of artificial intelligence"
+    excerpt: "The purpose of the Association for the Advancement of Artificial Intelligence, according to its bylaws, is twofold. The first is to promote research in the area of AI, and the second is to promote the responsible use of these types of technology."
+    publishedDateTime: 2021-02-25T00:43:00Z
+    webUrl: "https://www.microsoft.com/en-us/research/blog/aaai-2021-accelerating-the-impact-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 52
+    images:
+      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2021/02/1400x788_AAAi_NoLogo_stills-scaled.jpg"
+        width: 2560
+        height: 1441
+        isCached: true
   - title: "Powow AI selected into Google Voice AI Startup Accelerator"
     excerpt: "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems."
     publishedDateTime: 2021-02-26T09:47:00Z

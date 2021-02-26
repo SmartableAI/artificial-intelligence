@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 666
         isCached: true
+  - title: "How artificial intelligence is changing marketing"
+    excerpt: "Why marketers can no longer afford to ignore artificial intelligence (AI): Data-led article including insight from leading figures in marketing."
+    publishedDateTime: 2021-02-25T10:58:00Z
+    webUrl: "https://www.pressgazette.co.uk/ai-marketing/"
+    type: article
+    provider:
+      name: Press Gazette
+      domain: pressgazette.co.uk
+    quality: 54
+    images:
+      - url: "https://www.pressgazette.co.uk/wp-content/uploads/2021/02/marketinglead.jpg"
+        width: 1536
+        height: 864
+        isCached: true
 
 secured: "McWCsAlZdxOoxauCMY3/AS7TeH1F1gf5WZRsjFmQ0A83rHoNLbBRLZdkSLL8WasGNw9s7zIOIaeoHQvh3D/oiOU+BawWUsYguctBijTInePq2rgubs9zU3nIAbZnSb6Bz6G3sG0Jxi8h27yIlZZkHFKhJfHA93MU58OYoPgFEUhtZmr4ZAjeIGtz7rOOGQR//A5471GWBK5q4vgSWTQOY3BXvstuwVEAc2kEZ5utgmtXR/unG4WEdzvxM+OjrzH06xVRVWj8rJyl06VDRZrH+dDUoC3mDkGQDctdqzrxZamCSuO2G1ccw6DmwAKO/IbAlWPpHekFx93Ycrtmk9L2pNc5JoneD9DBDTbu9zUkEmdZsG7xFbA67a9WaMmOqjA56Mnpqu10UE/vWydCcQqRqEYsLVfyIDLPDAla9SvM5KGa+YtjOt9WeONR4WWPMSdp17f0T8ip/41FSpfDLCOrqzQKHsdsEDdEW0ZkF9f5lQjMR5wTsFdjGsr1YGoc/+mjmiuS4RPSkUP4LJutgeKtGg==;8DtKnI54C6hm2m137ROXbQ=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-26T16:17:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-growth-opportunities-and-top-key-players-analysis-report-2021---2024-by-kenneth-research-2021-02-26"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-growth-opportunities-and-top-key-players-analysis-report-2021---2024-by-kenneth-research-2021-02-26"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -95,7 +96,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

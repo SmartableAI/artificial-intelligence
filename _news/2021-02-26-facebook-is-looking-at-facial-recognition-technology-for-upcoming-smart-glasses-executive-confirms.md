@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recog
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
 type: article
 quality: 74
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
+    excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
+    publishedDateTime: 2021-02-26T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facebook-confirms-its-working-on-facial-recognition-technology-2021-02-26-71973028"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban"
     excerpt: "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban."
     publishedDateTime: 2021-02-26T12:24:00Z
@@ -46,6 +60,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Facebook reveals creepy ‘facial recognition scanner’ built into smart glasses – and they’re coming in 2021"
+    excerpt: "FACEBOOK could put facial recognition tech in the smart glasses it plans to release later this year. The firm is still debating the controversial idea because it wants to be sure “authority"
+    publishedDateTime: 2021-02-26T16:27:00Z
+    webUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 41
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/09/MB-COMP-GLASSES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Local Facebook rival soars as boycott grows"
     excerpt: "A new Australian Facebook rival has spiked in popularity after Facebook blocked news from its platform, with more than 15,000 users signing up to LITT since Thursday, a membership surge of 50 per cent."

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-inter
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41422-021-00476-y/MediaObjects/41422_2021_476_Fig1_HTML.png"
         width: 472
         height: 685
+        isCached: true
+  - title: "CAPTURE-ing movement in freely behaving animals"
+    excerpt: "Harvard researchers develop a new motion-tracking system that delivers an unprecedented look at how animals move and behave naturally."
+    publishedDateTime: 2021-02-25T19:11:00Z
+    webUrl: "https://news.harvard.edu/gazette/story/2021/02/tech-breakthrough-combines-motion-capture-and-neural-learning/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 24
+    images:
+      - url: "https://news.harvard.edu/wp-content/uploads/2021/01/capturemotion_fig71-945x630.jpg"
+        width: 945
+        height: 630
         isCached: true
   - title: "Development of a deep learning-based software for calculating cleansing score in small bowel capsule endoscopy"
     excerpt: "A standardized small bowel (SB) cleansing scale is currently not available. The aim of this study was to develop an automated calculation software for SB cleansing score using deep learning. Consecutively performed capsule endoscopy cases were enrolled from three hospitals."

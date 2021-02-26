@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
