@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-t
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

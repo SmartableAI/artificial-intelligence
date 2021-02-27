@@ -2,20 +2,26 @@
 category: news
 title: "Powow AI selected into Google Voice AI Startup Accelerator"
 excerpt: "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems."
-publishedDateTime: 2021-02-26T09:47:00Z
-originalUrl: "https://www.financialbuzz.com/powow-ai-selected-into-google-voice-ai-startup-accelerator/"
-webUrl: "https://www.financialbuzz.com/powow-ai-selected-into-google-voice-ai-startup-accelerator/"
+publishedDateTime: 2021-02-25T17:58:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4d6ddab579894fceb605f1b24d13e4df"
+webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4d6ddab579894fceb605f1b24d13e4df"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Google’s Voice AI accelerator launches 12 startups"
@@ -63,6 +69,6 @@ related:
         height: 550
         isCached: true
 
-secured: "nSxK/MPQ/BQIh5p24hQ9IQ5ZQysVJA9Fm73KIjyXVYQaQp1/XR6Qx7I9whvSQbwe5Ay+EA69MJzY3sKs3XRQ19oVVyiMFV+lZsxI0FC3XTgquAsIkxA4Kb94OTf1mCNjPI2delwUx9YfernxYXAEe74SrLcO3Oed90cJ+973HdoYPBOm/cOfPNaEdIMCephLJq7hEsWHmy9vmlaMBz7a0eUrpoSfeBBOA429im0g0ySU5l3nPywb5oPDc/AdQqbtir9YkgkZFj5lg+9M5CVjDd4pk28xBfemCajVJP9vYU5LKd6kw8o8IODtMhWJ2SBekz2jaJbZx0m0VmCEYpBasOe2LFWd0upeeT++DfGbWw8=;Brg40rsrOkRkb6QzzTqFtg=="
+secured: "VqZXxSGSSc65/mI53GJYbd9UVY05yini6XJFIuOHNLRNl7IhPypH8VlwxTSaou7OSw+KCk5S0i2RAMe9eLvrssRKrGtvVP81FwdREdbxCmpn7uOGBqB2ZiG2L44LLItbEQI13vdRmKy+jIXRE2/f78ta5ktaulV/ezCM2gYxowFH6PN9qH/cEk6gU4PawD1bmepCw22jWxG+iuUkWLtQkTjhST9/G8wk1qs3exeys5WTwvhWsxB6d0a4ixsy5RbhRrJkjVWsqK26FZZfbjZJ0H6uEZ9AA1s2E2wn9+jfZsGaRGRGAaRc240ZPDke2urpTzRRnJkVByrcufWdGEHSlXuwLXn+ELekF17lMmwC37U=;+TJ1l+xpbird20opGAeOgA=="
 ---
 

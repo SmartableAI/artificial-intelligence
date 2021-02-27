@@ -2,45 +2,27 @@
   "page": 22,
   "value": [
     {
-      "path": "_news/2021-02-09-microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages.md",
-      "title": "Microsoft details Speller100, an AI system that checks spelling in over 100 languages",
-      "excerpt": "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing.",
+      "path": "_news/2021-02-09-bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us.md",
+      "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
+      "excerpt": "BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
-      "originalUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
-      "publishedDateTime": "2021-02-08T09:07:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19541879",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19541879",
+      "publishedDateTime": "2021-02-08T09:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +31,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {

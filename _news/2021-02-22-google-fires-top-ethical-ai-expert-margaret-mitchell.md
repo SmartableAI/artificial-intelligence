@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fires-top-ethical-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/02/google-highest-paid-jobs-1-1800x756-c-center.jpg"
         width: 1800
         height: 756
-        isCached: true
-  - title: "Google fired another AI ethics manager while peers are still protesting for Timnit Gebru’s dismissal"
-    excerpt: "Google barely pacified its employees over Timnit Gebrus firing in December, and it has to deal with new tension that is building after the firing of another AI ethics leader Margaret Mitchell. She is said to be one of"
-    publishedDateTime: 2021-02-22T08:03:00Z
-    webUrl: "https://www.econotimes.com/Google-fired-another-AI-ethics-manager-while-peers-are-still-protesting-for-Timnit-Gebrus-dismissal-1602754"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210222a86600974f82fcd3c_th_1024x0.jpg"
-        width: 640
-        height: 420
         isCached: true
   - title: "Google fires top AI ethicist"
     excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."

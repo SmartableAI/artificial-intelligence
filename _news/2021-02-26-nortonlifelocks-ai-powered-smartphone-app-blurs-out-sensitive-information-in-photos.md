@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartp
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

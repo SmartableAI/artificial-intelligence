@@ -1,32 +1,22 @@
 ---
 category: news
 title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
-excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series"
-publishedDateTime: 2021-02-24T04:33:00Z
-originalUrl: "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23"
-webUrl: "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23"
+excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures ."
+publishedDateTime: 2021-02-24T08:37:00Z
+originalUrl: "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/"
+webUrl: "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/"
 type: article
-quality: 35
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "FundGuard raises $12 million to help manage assets with AI"
@@ -133,6 +123,6 @@ related:
         height: 450
         isCached: true
 
-secured: "eTqTarrudSq6prnDzgrHTPtMHsax+X1D8bKsJvbXPWaj8MfEJAohqA/WOIahEup60wmumjqHYklNbUtnkweqimW3PCIkDNYupxizluBUxVvHoiA68eR0Ui7xxMlbTeohszHuqvo2kmkYaUn7ao/SXHDEBGP7KxZs+WyBCogH+YwF214IlBa0mf7LZvnNjhkkcPJtEAdY5Ian33nP21nbdikBv71FKDdUeKn4ypqL5cS6KwFh1E8G17N5UzhgqHYSYaieT2SD7mR5LxlT1Ylns64JXuI5FR4lAUadrHv+fLcDdqqAJjDpXSr5zFWSF+Hb6s9HaDX1CXYoIR5cCTjugAQ4I92QfrUY7fMegSoILrE=;oAhyYFmRI9JE1l6Q9kLPpw=="
+secured: "mY2qYwmy/mHinzC0vuOowpHHQvkFCfb4OjRYlCW1bma7SoAdqSG+MTPhBPtAUAbDQVH+eNpX8KMl5nVNcrGLFkfXDuMWJGtet1QXth+3rYUzikaSME800Z6Cjnvu4dwdSmI1wUVi74iGf22mKAqK7ek2g3mSctZWrIGQ+yhWXlje/tcHw7arnjNFacYM3VUy2t8aDxwZnZ/4PUTcCl0/oXSLcHyTtfUA0qpZGNWQ1bBlwTJxMPJ6MW4V8fQovQ+TbXZLbv+Tmpew4JABUOmXk1+3xFMKsT3WXQqyGnhF5L/zTMsiBEGnX/NE1l5nP5ashgQQMzmSgGOQNb84eW7J2grZ3v4C6Zmd73Lnk4G0rAM=;mTv8wDISgYpDC3e0ZQWgXg=="
 ---
 

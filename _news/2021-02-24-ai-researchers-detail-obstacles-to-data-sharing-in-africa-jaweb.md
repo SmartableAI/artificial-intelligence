@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "UN forum unveils the wonders of artificial intelligence and other Science, Technology and Innovations for Africa"
+    excerpt: "The African Artificial Intelligence Research Centre is being designed to improve the current landscape of Artificial Intelligence research in Congo and in Africa"
+    publishedDateTime: 2021-02-27T00:11:00Z
+    webUrl: "https://www.africa-newsroom.com/press/un-forum-unveils-the-wonders-of-artificial-intelligence-and-other-science-technology-and-innovations-for-africa"
+    type: article
+    provider:
+      name: APO Group English
+      domain: africa-newsroom.com
+    quality: 16
+    images:
+      - url: "https://www.africa-newsroom.com/addons/shared_addons/themes/apofront/img/logo.png"
+        width: 560
+        height: 214
+        isCached: true
 
 secured: "y5pBR32LoXSYNdVbNhotFvDP/TFLBvnoYR3l9Cai61luswh3iMKbDlg7iSP7iYJIn/jQA1+MIpwFi/DSOpcH2j+AJD9jlKOGPUFC2ZZ1PH/Ck3hbr0QOYUZ3WZ95iqM84Ub6DH2GyEwK8+xU1BOdm+6x9oRPa2tKMJT5IUttuiseZ9COPk5vEDTDUaBTsi8ETjuUL0hkZMs51u0okVFdRQvVwNaGedSKKDjf4qDfw0wwG+I4/FODpqeS75kN8NaOyitp0YSbqwU7ngeB/JAGr4ZJhCR1gpACB6521a2xp4bdrlkF2tKGibk8XCCFAuowRJY8F08I39tBcx5U+cdlv0KX0I6VvcDz+JBdzR6Vw1+ehla640ry7hnj4Ie1FH7rFbi8/+IdRXPZKD/s0JwpaUvbAg9EGUC2mEg2ljfA4iXBcQVxwhgrecz8m1LEsbyc3hwEHmAuafxNDDkmEtTwGUHjhaVK9itwxotAl8a77jTW7X4rDQ1QCjqkSLAIpgcoJHoG7AGzxhuBNKXeI795yg==;PlPpFrcuGmZsy1cyXauQZg=="
 ---

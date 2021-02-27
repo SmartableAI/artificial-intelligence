@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/AI-researchers-detail-obstacles-to-data-sharing-in-Africa-–.jpg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "UN forum unveils the wonders of artificial intelligence and other Science, Technology and Innovations for Africa"
+    excerpt: "The African Artificial Intelligence Research Centre is being designed to improve the current landscape of Artificial Intelligence research in Congo and in Africa"
+    publishedDateTime: 2021-02-27T00:11:00Z
+    webUrl: "https://www.africa-newsroom.com/press/un-forum-unveils-the-wonders-of-artificial-intelligence-and-other-science-technology-and-innovations-for-africa"
+    type: article
+    provider:
+      name: APO Group English
+      domain: africa-newsroom.com
+    quality: 16
+    images:
+      - url: "https://www.africa-newsroom.com/addons/shared_addons/themes/apofront/img/logo.png"
+        width: 560
+        height: 214
         isCached: true
 
 secured: "B7gioikTI1ZiBeeneUKO6BXtO+PERAlBQswfH4/p+rieliROpB1fG/8UKYigH33wd5bP54XuSf70DKFj8CfYsWRBaAGIoSYV+FvnpZfUfhuKknKAvQmMs2gz4iMbfs51EB03XpKHXt8vQ7flXFas0LiXL+4sXcXZRdYi1yAa55MBTX4HlF6MYK02QYqyJDA2kwTZ5qFf9yh6dHCJfs4EUQv3JVcz+yhHAyoJa9trWu52i8Kh9AUQfpFCk4Z11Owo/TfsOUEvzHX7pC1TtZ2qzsac/U2F+G9oUhrNg1trqEUvqUMBXAlWFBJEBS4d38P4euRCqwDUqWU1aobcBIV9U9mMbkNy/GPxRuMi6EciRc5SyQPg4KFA3ODh+rFT0gHZ8KCOOiaLhuWgl0neB1OYRger4UEw0y1GdvCdMSyIHD/oItjCZYjvHxwSfcbAuF11uOmuqdH5D0K2f5HGfPSq2gsZ8QNo2E36XoqCIkwkVk2oHT2i4EX0c7MLtSrHI+K3NMxGVwO5pYiFKtpZYeARaw==;tTh198P25ROr4Hy9WvkREQ=="
