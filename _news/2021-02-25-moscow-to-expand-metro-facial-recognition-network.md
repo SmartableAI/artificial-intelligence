@@ -113,17 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial-recognition replaces need for passports at Dubai International"
-    excerpt: "Dubai International Airport (DXB) has installed new biometric technology designed to speed up the passport control experience for out-bound passengers opting to use the service. The General Directorate of Residency and Foreigners Affairs in Dubai’s (GDRFA-Dubai) new fast-track passport control service uses face and iris-recognition technologies."
-    publishedDateTime: 2021-02-23T06:10:00Z
-    webUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl"
-    ampWebUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
-    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
-    type: article
-    provider:
-      name: aviationbusinessme.com
-      domain: aviationbusinessme.com
-    quality: 39
   - title: "ZTE showcases under-display facial recognition system"
     excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
     publishedDateTime: 2021-02-25T08:42:00Z
@@ -137,20 +126,6 @@ related:
       - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "US city passes restrictive ban on facial recognition use by police, others"
-    excerpt: "Citing concerns about its reliability and potential to harm communities of colour, the Minneapolis City Council voted Friday to ban the use of facial recognition technology by police and other city agencies."
-    publishedDateTime: 2021-02-23T06:26:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/23/us-state-passes-restrictive-ban-on-facial-recognition-use-by-police-others"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 37
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/23/1053499.jpeg"
-        width: 720
-        height: 480
         isCached: true
   - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
     excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."

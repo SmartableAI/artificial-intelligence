@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-22-new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data.md",
+      "title": "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data",
+      "excerpt": "Machine learning has the potential to relieve some of this burden, but EEG data is extremely multidimensional and can be expensive, and time-consuming to annotate. It also requires the deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210121005681/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210121005681/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-a-deep-learning-based-framework-for-the-registration-of-three-dimensional-multi-modal-medical-images-of-the-head.md",
       "title": "A deep learning based framework for the registration of three dimensional multi-modal medical images of the head",
       "excerpt": "Here, we explore the use of feature-based deep learning for 3D rigid-body registration of intra-patient, multi-modal (CT and MRI) images of the head. To this end, we first discuss a method of generating synthetic data to augment an existing registration ...",

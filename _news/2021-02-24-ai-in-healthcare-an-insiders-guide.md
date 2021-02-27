@@ -57,20 +57,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Future of healthcare shaping up before our eyes"
-    excerpt: "The future of healthcare is shaping up in front of our very eyes with advances in digital healthcare technologies, such as artificial intelligence, 3D-printing, robotics and inventory management. With the need for digital acceleration to support the healthcare landscape since the onset of the Covid-19 global pandemic,"
-    publishedDateTime: 2021-02-23T06:55:00Z
-    webUrl: "https://gadget.co.za/future-of-healthcare-shaping-up-before-our-eyes/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2020/12/doctor-laptop-computer-medical-health.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Healthcare Meets Technology at Anthem"
     excerpt: "On paper, the merging of artificial intelligence and healthcare should yield big results. Yet technology firms entering the market, like International Business Machines Corp. (IBM), have been stymied at every turn,"
     publishedDateTime: 2021-02-25T10:11:00Z

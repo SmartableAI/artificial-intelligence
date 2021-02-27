@@ -1,30 +1,28 @@
 ---
 category: news
 title: "MindMed Closes Acquisition of HealthMode, a Leading Machine Learning Digital Medicine Company"
-excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr. Daniel R. Karlin and former Google AI/ML industry veteran Bradford Cross added to MindMed executive team NEW YORK,"
-publishedDateTime: 2021-02-26T19:18:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-government-regulations-ownership-changes-8cb43698ed479b5aa1293064f272b038"
-webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-government-regulations-ownership-changes-8cb43698ed479b5aa1293064f272b038"
+excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr."
+publishedDateTime: 2021-02-26T18:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine-company-1030130670"
+webUrl: "https://markets.businessinsider.com/news/stocks/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine-company-1030130670"
 type: article
-quality: 30
-heat: 30
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "zHEUYBOkOndbL9brehpPZ3gqFdAiOxJZlG87i3/X5RwrolraJTsGFlyZ7KgZwestFPvE6puG9dukSDv+cQ0IOcv7Y3OZx0a27nPpiXDWoP980Q/tVVu+soWGR4TY6hsvhFoawYbegJ+iv0jZV2oBtFO1QdeHyJ+OZngULsCIbgaarROuCRGuzaUchVa+bU07EB5oVIJ6HudNruqc9mieuv9xivrwU7OKsaPwA667vQizY6oc/BSUk9tGL7W+pn4kko1yTkH84vYOU7XHmqSEbtvqbmJzb3/0otbkt235dLqySMyRdi2kf6POz8aDjj6R/aQD2lDa6Yf3V+x+AzFIVLHPOll308tFUUxpInrNE+I=;F9v6f1X8kzC3znGHoWkQWg=="
+secured: "uprXrXUeeyjIAlXXFGBp6R1xHPKexxwZ9idgtVAsiTk2/eBM5fUu6Da4Lt+OGg+/U9YoN6dgmUnq2W5GV55kgAZJYTkVQ+UlN/9ADsLHvTDH+2wzPLJ9jGI9v69xJViPrMeImFqf3i2/BRZgDS3h37jZ0toN8SY/KQ0f2BgIDbswA+PvUB6aTKc4Z8yjW5yeuEJTS4fZHpqsKm+D1lBLiJ3TPzpYfwig4gQFyGJmZb12dvfI/019GJX9jI3KqET53i2V7xYGk9fqcI3ovP3e05ZdctttwubdvvMv28nFuwSkjA39XnGvqA7VNOx1w4QgQyttZf6/e2OQWCgsXWH1uF6/PnKFkj/PadQueF3C2eY=;GaeviW3SlpXJz9SoOEZaIQ=="
 ---
 

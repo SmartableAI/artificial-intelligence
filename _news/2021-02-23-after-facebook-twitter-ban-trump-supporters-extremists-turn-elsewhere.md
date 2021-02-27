@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans"
-    excerpt: "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes."
-    publishedDateTime: 2021-02-23T06:25:00Z
-    webUrl: "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
-    ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 60
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "After Facebook, Twitter ban, Trump fans and extremists turn elsewhere"
     excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
     publishedDateTime: 2021-02-24T22:47:00Z

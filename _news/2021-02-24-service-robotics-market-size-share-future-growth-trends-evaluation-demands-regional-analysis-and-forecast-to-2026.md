@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
 type: article
 quality: 60
-heat: 220
+heat: 210
 published: true
 
 provider:
@@ -145,20 +145,6 @@ related:
     excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
     publishedDateTime: 2021-02-23T09:01:00Z
     webUrl: "https://www.marketwatch.com/press-release/agriculture-robots-market-size-global-analysis-business-strategy-sales-revenue-future-prospects-company-profile-developments-and-forecast-2026-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market Share, Growth, Size 2021, Vendors,Trends, Challenges with Forecast to 2024"
-    excerpt: "Global Cloud Natural Language Processing Market Report 2021 -2024 contains systematic and point to point information regarding to Cloud Natural Language Processing Market Size. The report contains brief Introduction,"
-    publishedDateTime: 2021-02-23T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-growth-size-2021-vendorstrends-challenges-with-forecast-to-2024-2021-02-22"
     type: article
     provider:
       name: MarketWatch

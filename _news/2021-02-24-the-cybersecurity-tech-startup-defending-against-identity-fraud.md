@@ -54,20 +54,6 @@ related:
         width: 512
         height: 296
         isCached: true
-  - title: "Chief Legal Officers face mounting compliance, privacy and cybersecurity obligations"
-    excerpt: "Chief Legal Officers and legal department play a critical role in ensuring that increasing regulatory compliance obligations are met."
-    publishedDateTime: 2021-02-23T06:31:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/02/23/chief-legal-officers-obligations/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 17
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/06/17172120/lock-green-connect.jpg"
-        width: 1400
-        height: 1002
-        isCached: true
 
 secured: "JqVdNJqHFdoF6sWrchuc0/XhgEV5G2/JAlHcHiLsB6fjX3HcNpdb54EbJYy9oUVYTac5YmWbJBThvwtWnXkpmONRNZgEofw0DqqKwlj8NFBKtX5U3hAOWuM7k9vrvVG/a+5B45Bml9qynzJ5boJ0Zm6Vu137VE3mUoP2G+25gQW6XFEltJSQQf2FOKRWdAMNFUQGsbTmHSCXtMxWQbx6q/XLS/YJqAzeeu4C6Y+0bnYswH1JfoCVEgoa00VFyb/aWcKE3ulRI6ThwzCwUvSie8fbxQmQL25u3ij9WTm48tNb77+uHaX8FW2jBHrZW+dDtR0gd/rri/SiHGqU9ZIgQjmmzDp/VV5E0tWmqEohu1k=;bi2Q8eYHNbKvSqAxz4ch4A=="
 ---

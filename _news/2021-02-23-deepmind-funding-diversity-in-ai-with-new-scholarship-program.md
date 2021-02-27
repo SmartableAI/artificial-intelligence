@@ -41,6 +41,22 @@ related:
         width: 640
         height: 401
         isCached: true
+  - title: "IIT Roorkee Invites Applications for Online Certificate Workshop on Artificial Intelligence and Machine Learning"
+    excerpt: "IIT Roorkee has invited applications from interested participants for a two-day online certificate workshop on artificial intelligence and machine learning IIT Roorkee is currently accepting applications for a two-day online certificate workshop on ..."
+    publishedDateTime: 2021-02-26T08:19:00Z
+    webUrl: "https://www.dqindia.com/iit-roorkee-invites-applications-online-certificate-workshop-artificial-intelligence-machine-learning/"
+    ampWebUrl: "https://www.dqindia.com/iit-roorkee-invites-applications-online-certificate-workshop-artificial-intelligence-machine-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-roorkee-invites-applications-online-certificate-workshop-artificial-intelligence-machine-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 53
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2020/03/futuristic-3862179_1280.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "reKpcxrHWZHN8/HYaxNBlu0QaJLRvgtTCRmUnX/W6UEOhMi9nLhis7RC5QHvtI30P2AgY4+IXLix1W3C6W+KYRqTklIPA0mWNy2yI8CoZCZeeAE7LUbO/oxTthcT0eTLNKXECwSDvmsISDuFBSqwfVG1YGXHe4+nuftCafoju6mCUxj2gz3u/Kgebg1X0tkC52HC8Jl6etL+7NaipzUU14o4mRVZyi/JwrTNUd9AIPUXtPCZM7z6cKJe7bj0XLnfo/ghb/TEgn73l2o75Hrf6D5aPQR9+D3cc+y4lD3WWUaL26tIshU7VpwQOdzJInY/rpSELLEXvpJ9vBYIq1p4jNp+0gL5LwzQh67lwwEDXuG/EuqHyIXKGCfQhl2kq5IwBBGA81rcHPaGeDzZoaVl8bhkxAqHauQ4TiqB7o3Li9AKZxuvrJ6vVHVUfpLqFt0zlkjEMtPUYrdSJbHBn+LYGq7pSd6HMnhw+d/9sfmqo6qZwdHtHOJu/nqZJ02DZm7co7jyQmLL549jqmzLR5N/ww==;tjzoICJBCObfBvIaTrIuPw=="
 ---
