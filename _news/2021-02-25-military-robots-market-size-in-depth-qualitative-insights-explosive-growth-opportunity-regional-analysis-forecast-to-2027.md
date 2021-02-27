@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Neural Networks Market Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2020 - 2027"
-    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
-    publishedDateTime: 2021-02-22T13:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2020---2027-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
     excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2021-02-24T12:23:00Z

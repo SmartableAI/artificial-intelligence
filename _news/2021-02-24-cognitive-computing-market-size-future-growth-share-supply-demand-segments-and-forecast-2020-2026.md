@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Neural Networks Market Product Scope, Demand, Business Scenario, Trends, Share, Applications, Types and Forecasts 2020 - 2027"
-    excerpt: "The Global Deep Neural Networks Market is projected to reach USD 5.98 billion in 2027. The market is expected to"
-    publishedDateTime: 2021-02-22T13:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-neural-networks-market-product-scope-demand-business-scenario-trends-share-applications-types-and-forecasts-2020---2027-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
     excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
     publishedDateTime: 2021-02-26T15:11:00Z

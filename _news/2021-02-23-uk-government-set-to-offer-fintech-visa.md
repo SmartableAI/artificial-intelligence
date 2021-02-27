@@ -60,20 +60,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Fintech App Development Trends For 2021 You Should Know About"
-    excerpt: "Finance technology is popularly known as Fintech. It is an integration of finance and technology to support the financial jargons"
-    publishedDateTime: 2021-02-22T13:29:00Z
-    webUrl: "https://www.techbooky.com/fintech-app-trends-2021/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 24
-    images:
-      - url: "https://www.techbooky.com/wp-content/uploads/2021/02/Fintech-App-Development-Trends-For-2021.png"
-        width: 770
-        height: 385
-        isCached: true
   - title: "It’s now or never for UK fintech, government told"
     excerpt: "The UK government faces a ‘now or never’ moment if it wants financial technology to play a central role in the economy for years to come."
     publishedDateTime: 2021-02-26T15:18:00Z

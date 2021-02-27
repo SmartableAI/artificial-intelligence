@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-24-robotic-ankle-moves-more-like-the-real-thing.md",
+      "title": "Robotic ankle moves more like the real thing",
+      "excerpt": "The soft materials, combined with pneumatic artificial muscles (PAMs), lightweight sensors, and advanced control software, made it possible for the robotic device to achieve natural motions in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.futurity.org/bio-inspired-robotic-ankle-help-rehabilitation/",
+      "originalUrl": "https://www.futurity.org/bio-inspired-robotic-ankle-help-rehabilitation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2014/01/robotic_ankle_770.jpg",
+          "width": 770,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-23T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-florida-man-becomes-first-person-to-live-with-advanced-mind-controlled-robotic-arm.md",
       "title": "Florida Man Becomes First Person to Live With Advanced Mind-Controlled Robotic Arm",
       "excerpt": "Matheny, who lost his arm to cancer in 2005, has recently become the first person to live with an advanced mind-controlled robotic arm. He received the arm in December and will be spending the ...",

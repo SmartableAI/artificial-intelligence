@@ -1,18 +1,18 @@
 ---
 category: news
 title: "ElectrifAi Announces New Business Connection with OXIO using AWS"
-excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (Ai) and pre-built machine learning models,"
-publishedDateTime: 2021-02-24T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-301234278.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-301234278.html"
+excerpt: "Once it is easily deployed to Amazon SageMaker (AWS), OXIO will feed its data directly into the machine-learning model on SageMaker. The model then provides output recommendations that are ..."
+publishedDateTime: 2021-02-24T13:10:00Z
+originalUrl: "https://www.newswire.ca/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-848501793.html"
+webUrl: "https://www.newswire.ca/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-848501793.html"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
   - AWS AI
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 54
 
-secured: "UjY4+/EHbDrQVhK5aoAx+kB0GNPUPvXN6W5fGGoL+XI/J7u5EJ9Aa0gh0Skcbq6G6bqXwJX2K3BZDvAbAC1lKsQPGvrySRSgQDX0KvLA7opaHfiZBwAOvsyI9cNOWmwzO/WhJA/b6ThDz/65Wdc4cHkmn1dEC6RYdWEfzJZaUxZvOn9941CKtay2YRzzQOyWuLLLgCO5rdWfDSu6JMGKJZdGsCsKfOw4oyIXb0FS96WBXeCZr5Vf/ZGyYjCQCVLBH4zr32GUtN3nnxu7fUL317gnDwRexkz0O1MSY89sba6+1nlQlYLga5rm5bttWd7nMULpw2uQJhZklE6+eXymJgKDZ0JXC6IImSb/C42631Q=;eG4I6WOxQN1atAUbAgpvIA=="
+secured: "17iBCWNZkcN5E/ICPP++cw5Z1g/yJAbBLv9eVjQSvFTBMHXMO7gjGf2cYm88zVHtGbC7UIr7qkgsiGWvfcyOMPXFEiZcV0IMkJJI0LG4WWCfTl1054U5YsWB7QGtbk6vR1rzfmbF/iQ+MUagk+OMzwAb7zhUp5K1GB62s7jjnEGBwG2Q6dkKREcpJ46QQYvZjpKzmA0oV4MFeSLg4xt206PXqt85DGCB7hXu5SYhAfP5gpjIfv1A1Nl1rH2XBfZ/IpRjPcpB3AemqAhT/0dJGmetq+/25VnHEh26nXNpZkR3KMzWW/pzn20D2Q9OehX5Xe5A8j0rTeASzTdZlffQUn1CJoEBMTf8nKq+iY+RfAs=;Ma/DKhWRZW1JKloDoBvrJw=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "How Artificial Intelligence Can Help With Efficiency in Healthcare"
+    excerpt: "The shortage affects not just cardiology, but the entire spectrum of care—and it extends beyond places traditionally thought of as having limited healthcare options."
+    publishedDateTime: 2021-02-24T17:20:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/how-artificial-intelligence-can-help-efficiency-healthcare"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/shutterstock_1783411148%20%281%29.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
   - title: "OSF HealthCare Using Data and AI to Drive an Increase in Childhood Vaccinations"
     excerpt: "Peoria, Illinois-based OSF HealthCare wants to change that. Through a nearly $75,000 grant available through its Jump ARCHES program, and nearly $30,000 in state grant funding through the Illinois Innovation Network,"
     publishedDateTime: 2021-02-25T19:06:00Z

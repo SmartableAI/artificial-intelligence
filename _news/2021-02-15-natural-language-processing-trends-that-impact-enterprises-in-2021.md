@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Natural Language Processing Trends That Impact Enterprises in 2021"
-excerpt: "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable."
+excerpt: "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues."
 publishedDateTime: 2021-02-15T06:38:00Z
-originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
-webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
+originalUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
+webUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "mzRrZ+P7Vgjw+2gYWL5+OjxVJwDkkZkGV+MElWkAUtDIMh6JbcyIqFTMXy/mSj1uXLqMErp+E+giCmzjmL/j/XzLPQ/sU42ZRMoIO+Se5K7SMMVfmCSrPv2Vpb46wvjGMr9Rua7Ii8kNOq0dfTRQaIUuSKjjk0c71nbsTLgNMyxA2ch9WaBjV4YgLMQdKvZF3/9tmKn0/eeSRNmeWp3cf5A2wtOgvAyuo/6eblDt2mktH6T/8/sc6rtrl7goU5PmeqKOGh2u9pKlOB/hJWceUpWiqiKtjV8c5AVqDo4dP/Zd66XnJYpMaGHIUBcFhdQyIXz7cdLsE/oLrcy8mtXfsBL2wlfFhKP/ih2sKRfHoixNVPYSqeMsrti/yVfOEq5vRFJp2mpQc03+4YcUlGI0StMCz0bznwQ3u4ecKLuGAgDic+61yvlrweYAQkVXlMkhE5yQBJjWkF0G8MGiz9hxWhdKgyVNcIwTHocthOaoDcLoXx8vcOBrIGdAwIiyZqrp3+ssMLDxjV18EvUwkFbWYQ==;qjd3a3PiXLgGqwa/ouPH2w=="
+secured: "Gei/VsNHMEvaFlBvY9WAxA/TI36m/P2Z2dE9fz3R/ECbuZVISPrF/ZYIKUDX8LSi8rOpuNcpn8KRmQYdcR72dJ0nP0kh+wSL1kwoZB4i00HqtgvIZEZmy/JJbz8tHSjXuh15wzXd6SXt0mwDMLE1KB61Jwwus/vybCzevM1mDWvq+YdzjUUuMAIm26o9uWM4U4u8ziVsGOwzs5irkum9wjRH8mHFU+iKpybuO2w7jZH8j0GAPCGQ5OUGF10wEZOFI1bg0au+89d9udt+GOJJo690CcEI5xMftpZkSFXMQuCuhewtf/kg9J0vJVorSZ5Uoyl1M4x+WoZapImyoKxBrYSQLY6rLQCoKNR3Lc9zWD4=;rJwz7655AAK48kRAKrwGFg=="
 ---
 

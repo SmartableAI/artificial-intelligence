@@ -1,23 +1,28 @@
 ---
 category: news
 title: "MindMed Closes Acquisition of HealthMode, a Leading Machine Learning Digital Medicine Company"
-excerpt: "Mind Medicine Inc., a leading psychedelic medicine biotech company, is pleased to announce that it has closed the previously announced acquisition of HealthMode, a digital medicine and therapeutics startup that uses Artificial Intelligence- enabled digital measurement to increase the precision and speed of clinical research and patient monitoring."
-publishedDateTime: 2021-02-26T18:48:00Z
-originalUrl: "https://www.nasdaq.com/press-release/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine"
-webUrl: "https://www.nasdaq.com/press-release/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine"
+excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr."
+publishedDateTime: 2021-02-26T18:56:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine-company-1030130670"
+webUrl: "https://markets.businessinsider.com/news/stocks/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine-company-1030130670"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
-secured: "zwU/ZVpoNyH1e9b48stIr016SdAAulCZfmMCpKQvJq8v4FRzOrEuYCi9QzJFfpkr7ocM83Nv40gz4viY9Z3WXjDKg/T1NRRQ/c2PWOOOl51dxf8+zehe2SoaSnbKUPN2Iq+RaPLnKWcUu7baL8WFBGJWCQTUoJCLpYShpTSUlAoFC+/EVzUPhAJ1ECWx14/1JjZMeSargpdENapq/4Om9tnS1nftDvEKer7ZLBedbn9fbOrPgFPBWZqi54YGpYIadHnR/intWzoLnWav5d024JFsDdrLXh2KOfXJHWjUPiD1agD6RX4NAYW+kYyIOBWHTPX/uHXjCXbCrn8prlEXiDgC2UV0A1nZVtcpjZliL0M=;BQxVRGnAHfwcg26NK6QR8g=="
+secured: "dIgZPHQbEfiBd+Eg2QJQXcmiZyZaNRDCDiVwIuR2nd7fR8ykAyLII2GUhnnC+lcw0YVU3XLzBGWjDLl+vDWVez7nawUBiNLVGrdBtpaSSSXerqeImPXbNVZXym3zoX4d7n3/tMISLoiyOwNaUxXGfAUcR0/XFuwkAD0iMTaGn9yLRs3HDo13HvvA6CBcFAB2RH5MHR94s0vOXywSC+sZ8V2t2gB79NeCgdQHeWvfk8xB68vwpFRFTb1WQJTFl75+hJB8rPzavwAxYtHCjQnG3tMptgoWgcdfoQp/msapJLbGbVlyICQ1Ng7p9xXOsHWwD35+XZLMWIBFHGU7yUoms3+LgHePlADZaHfyKJn26Sw=;OQ0MWJlZwmv7r+LQsuEjWg=="
 ---
 

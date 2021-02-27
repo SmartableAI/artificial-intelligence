@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-da
 webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/5-data-issues-limiting-ai-s-potential-in-healthcare.html"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Can Help With Efficiency in Healthcare"
+    excerpt: "The shortage affects not just cardiology, but the entire spectrum of care—and it extends beyond places traditionally thought of as having limited healthcare options."
+    publishedDateTime: 2021-02-24T17:20:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/how-artificial-intelligence-can-help-efficiency-healthcare"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/shutterstock_1783411148%20%281%29.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
   - title: "Big Data Healthcare Project Raises Privacy Issues"
     excerpt: "Truveta, a new big data collaborative research effort involving 14 U.S. healthcare providers, will share de-identified data on millions of patients in an effort to"
     publishedDateTime: 2021-02-26T20:24:00Z

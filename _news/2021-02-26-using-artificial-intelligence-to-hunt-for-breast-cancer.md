@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/bfif-uai022621.php
 webUrl: "https://www.eurekalert.org/pub_releases/2021-02/bfif-uai022621.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,35 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "How marketers can start using AI for stronger results"
-    excerpt: "AI is no longer the “future of marketing”. It is very much the here and now, and outlined below are a few ways how you can start using AI for stronger marketing results in 2021."
-    publishedDateTime: 2021-02-22T13:46:00Z
-    webUrl: "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/"
-    ampWebUrl: "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/amp/"
-    cdnAmpWebUrl: "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/amp/"
-    type: article
-    provider:
-      name: Search Engine Watch
-      domain: searchenginewatch.com
-    quality: 57
-    images:
-      - url: "https://www.searchenginewatch.com/wp-content/uploads/2021/02/How-marketers-can-start-using-AI-for-stronger-results.png"
-        width: 728
-        height: 256
-        isCached: true
-  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
-    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
-    publishedDateTime: 2021-02-26T08:50:00Z
-    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 54
 
 secured: "GiN6HTmzSwyyI3H9YbU1LkVoi51j7PCQvrUM1yiq5+EK2dEAfdSXN5zmS3BOCLZT8VWyfLeERtbmjYbmF4VOv39hHgturf3/iWblCYMidHyBYHtltu/qqUwazjaC8PnZI4SJelYyeLl407hKYaOHhI3l4Tlo6EXRVR0lHMBj7ncbMmfXYkuhwmFg9tHQBUDFRqZXKsF4GGPw7gtxQULMijqrYaPPWF/hHqVHU7qSbFnuILQkgnX9ckY47GvW/LQQzRZBQVYeOFF1nZSHXHOw5L9DpcU7AAujEJREwjl6Eq8G3ZM8k2UH2KUTovfjIau/2WmH2P13YKd8dx98+/yP6vKfpBEXyibpcJPpFeYC+K4=;s57GX2mwvraTE429KPwa+w=="
 ---
