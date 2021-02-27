@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 59
-  - title: "Why Blockchain and AI Could Be the Next Game-Changing Technologies for the Cannabis Industry"
-    excerpt: "PR Newswire PALM BEACH, Fla., Feb. 22, 2021 Financialnewsmedia.com News Commentary PAL"
-    publishedDateTime: 2021-02-22T21:41:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-22/why-blockchain-and-ai-could-be-the-next-game-changing-technologies-for-the-cannabis-industry"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 56
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EM5B1iB0tzyu5sqORblpryM5YpZbeCx7Fsu0zwm1MhoNUCul95hXsp9yyEbwsaCR//sydn8bhf3bzjHp3IV8npAMMBvcqcUV2zC/+H16HtPCemdmDy8uvlgYa+alUfg0cl4poYXMZVD0BOgBMIr2PthwYMAW2Pu/O6POio1LZ8y3zpQT7Azz6Fa6Oo1Aub/yJxxFGXKdPCouFaJyjkKdvC7lwhLIdjBsdrG0dwdSiMgCEpcPz/F17IPnVCtDgzTKHOsNVhh837mFNg7nRhNi0EaqoJPytw9DM1WVjYSDGAizSq7G3eqBab7v5/tVbgmph7CcZKPJ5R/PBPilJeqvdNtUSwWTyX3Rvkg6XI02frA=;9293CmQ4N4RyfxhW7mSYdw=="
 ---

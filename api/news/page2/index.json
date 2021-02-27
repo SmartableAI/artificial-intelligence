@@ -2,6 +2,104 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
+      "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
+      "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "originalUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eCJ7iQntKWNQZywfs7Zr3Q-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "publishedDateTime": "2021-02-25T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-artificial-intelligence-market-worth-19061-billion-by-2025-at-a-cagr-of-3662.md",
+      "title": "Artificial Intelligence Market worth $190.61 billion by 2025, at a CAGR of 36.62%",
+      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
+          "width": 650,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19868951",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19868951",
+      "publishedDateTime": "2021-02-25T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-ai-powered-information-operations-and-new-citizenship.md",
       "title": "AI-Powered information operations and new citizenship",
       "excerpt": "Digital information is power, and today citizens have this new power at their fingertips, channeled through reactions, comments, shares, saves and searches on our everyday digital platforms. However,",
@@ -1137,103 +1235,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-how-artificial-intelligence-is-enhancing-mobile-app-technology.md",
-      "title": "HOW ARTIFICIAL INTELLIGENCE IS ENHANCING MOBILE APP TECHNOLOGY",
-      "excerpt": "HOW ARTIFICIAL INTELLIGENCE IS ENHANCING MOBILE APP TECHNOLOGY - No technology has made more difference in the world than Artificial Intelligence. And no piece of hardware has revolutionized entire lifestyles other than smartphones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.speakingtree.in/blog/how-artificial-intelligence-is-enhancing-mobile-app-technology",
-      "originalUrl": "https://www.speakingtree.in/blog/how-artificial-intelligence-is-enhancing-mobile-app-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.speakingtree.in/b/777607-1350-420-5-1614240749/how-artificial-intelligence-is-enhancing-mobile-app-technology.img",
-          "width": 750,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.speakingtree.in/blog/how-artificial-intelligence-is-enhancing-mobile-app-technology/m-lite",
-      "cdnAmpWebUrl": "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/how-artificial-intelligence-is-enhancing-mobile-app-technology/m-lite",
-      "publishedDateTime": "2021-02-24T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Speaking Tree",
-        "domain": "speakingtree.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Size, Share, COVID-19 Impact, New Technological Advancements And Geographical Forecast Till 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

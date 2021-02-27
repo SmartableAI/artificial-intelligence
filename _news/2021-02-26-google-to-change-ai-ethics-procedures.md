@@ -7,8 +7,8 @@ originalUrl: "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-
 webUrl: "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-procedures"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Fudzilla
@@ -39,15 +39,6 @@ related:
         width: 620
         height: 415
         isCached: true
-  - title: "Google fires top AI ethicist"
-    excerpt: "Google fired a top AI researcher on Friday, the second high-level departure to shine an unwelcome spotlight on both its management of sensitive artificial intelligence issues and wider internal discontent over race and diversity."
-    publishedDateTime: 2021-02-22T22:09:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2021/02/22/google-fires-top-ai-ethicist.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "YfcbP+09R3sc9VGRU9VEzAdwDlO9iaMontmSCGwSNhEP4rICtYqulZ0Ypk48IEAmfXHtG78uVSr/NXOKgSW5JxSfOEpRyF2BfhMNGUIcpqzPBAQKo1WYONJ0jaULpn+r2kg6NlSYiM3D3PWRFbAavX9puxoPPGzj3GCOCdu+rexF8CsUOBwHx9JmVsZDjrLM7jxCNkjCZo8ZKAjEm5Aq+gk8a9JM8g41uRncLdgVNVb9wHtgjA2f/qi/ONxd55NWuKSVUHkmzXajp39hi1c/0UJM3TBo9kkQ6bRimHp9cYAY90KBHFMUUe8N0vlj4Oby3nuQgXQ75nWzDbiEVjmoeAffCOvZSTr041oTRj9j21Z9IqTpe4PzvFjiCR1g5FajpsN6AiQdN/FZdEMj5r3CnvuB9IzKAnlmeSwQRyBdvOVC7c+nP510ZA+IAKmvCU8gORt9gokJnP2GK6pmf5I5xgCCg4cfbovbZYTqtaSumyxgDZ+VB/NZ1aA3MImE0Q2P7LZhQqAlXireoTRvlSU+SQ==;fB13rPlSPoMcPrHaCBCa2g=="
 ---

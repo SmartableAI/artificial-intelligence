@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook Weighing Up Legality of Facial Recognition in Upcoming Smart Glasses"
+    excerpt: "Facebook is reportedly weighing up the legal implications of building facial recognition technology into a pair of smart glasses that the company"
+    publishedDateTime: 2021-02-27T13:31:00Z
+    webUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/"
+    ampWebUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 56
+    images:
+      - url: "https://images.macrumors.com/t/ZIPkmMVdOG2CVYYdSjdM2oBwWJQ=/1600x/https://images.macrumors.com/article-new/2021/02/facebook-smart-glasses-prototype.jpg"
+        width: 1600
+        height: 901
+        isCached: true
   - title: "Judge approves $650 million settlement in lawsuit over Facebook’s photo face-tagging"
     excerpt: "A federal judge on Friday approved a $650 million settlement of a privacy lawsuit against Facebook for allegedly using photo face-tagging and other biometric data without the permission of its"
     publishedDateTime: 2021-02-27T04:29:00Z

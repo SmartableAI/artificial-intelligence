@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/get-ready-for-smart-con
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/get-ready-for-smart-contracts-2-0-oraichain-launches-new-ai-powered-blockchain-network-1030115533"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Insider
@@ -24,20 +24,6 @@ topics:
   - AI
 
 related:
-  - title: "Why Blockchain and AI Could Be the Next Game-Changing Technologies for the Cannabis Industry"
-    excerpt: "PR Newswire PALM BEACH, Fla., Feb. 22, 2021 Financialnewsmedia.com News Commentary PAL"
-    publishedDateTime: 2021-02-22T21:41:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2021-02-22/why-blockchain-and-ai-could-be-the-next-game-changing-technologies-for-the-cannabis-industry"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 56
-    images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Combination of AI and Blockchain through Artificial Neural Networks"
     excerpt: "AI and blockchain include technical complexity and will have intense business implications. Using Artificial neural networks can help in forecasting the future cost of bitcoins, decreasing the issues with energy waste and mining conflicts."
     publishedDateTime: 2021-02-25T06:30:00Z

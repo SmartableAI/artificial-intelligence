@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-27-zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations.md",
+      "title": "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations",
+      "excerpt": "Zorroa Corp., a leading provider of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google’s AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.boonai.io/",
+      "originalUrl": "https://insidebigdata.com/2021/02/27/zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.wixstatic.com/media/d62994_0310bd063a82416ba45b427605492ac0~mv2.png/v1/fill/w_1839,h_998,al_c/d62994_0310bd063a82416ba45b427605492ac0~mv2.png",
+          "width": 1839,
+          "height": 998,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-27T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-researchers-are-developing-3d-structural-sensing-robots-to-handle-healthcare-tasks.md",
       "title": "Researchers are developing 3D structural-sensing robots to handle healthcare tasks",
       "excerpt": "Robots that could take on basic healthcare tasks to support the work of doctors and nurses may be the way of the future. Who knows, maybe a medical robot can prescribe your medicine someday? That's the idea behind 3D structural-sensing robots being developed and tested at Simon Fraser University by Woo Soo Kim,",
@@ -150,6 +193,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-27-how-googles-grand-plan-to-make-its-own-games-fell-apart.md",
+      "title": "How Google's Grand Plan to Make Its Own Games Fell Apart",
+      "excerpt": "The tech giant hired 150 game developers for Stadia Games and Entertainment, only to lay them all off. Sources say it never gave the studios a chance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
+      "originalUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60394cbfcb267f5208ca89bb/master/pass/games_stadia_1131586303.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-stadia-games-entertainment-collapse/amp",
+      "publishedDateTime": "2021-02-26T16:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage.md",
       "title": "AI Weekly: Biden calls for $37 billion to address chip shortage",
       "excerpt": "President Biden this week signed a supply chain executive order and pledged support for $37 billion to address a semiconductor shortage.",
@@ -242,6 +337,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-fast-food-drive-thrus-are-getting-smarter-heres-how.md",
+      "title": "Fast-food drive-thrus are getting smarter. Here's how",
+      "excerpt": "Drive-thrus are a lead generator of fast-food sales during the pandemic, and many chains, like McDonald's are trying to speed up the process by deploying new tech, including artificial intelligence for ordering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/fast-food-drive-thrus-are-getting-smarter-heres-how/ar-BB1e2Apw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223152154-restricted-01-fast-food-drive-thru-technology-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "publishedDateTime": "2021-02-26T12:15:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+        "domain": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -827,49 +964,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-google-to-change-ai-ethics-procedures.md",
-      "title": "Google to change AI ethics procedures",
-      "excerpt": "Staff revolt after two professors are fired Google will change procedures before July for reviewing its scientists' work, to quell a staff revolt over the integrity of its artificial intelligence (AI) research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-procedures",
-      "originalUrl": "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-procedures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/6535d6857bf718cae8df31f3aeb84b68_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-facebook-is-looking-at-facial-recognition-technology-for-upcoming-smart-glasses-executive-confirms.md",
       "title": "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms",
       "excerpt": "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices.",
@@ -878,7 +972,7 @@
       "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1179,104 +1273,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
-      "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
-      "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "originalUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/eCJ7iQntKWNQZywfs7Zr3Q-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "publishedDateTime": "2021-02-25T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-artificial-intelligence-market-worth-19061-billion-by-2025-at-a-cagr-of-3662.md",
-      "title": "Artificial Intelligence Market worth $190.61 billion by 2025, at a CAGR of 36.62%",
-      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
-          "width": 650,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19868951",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19868951",
-      "publishedDateTime": "2021-02-25T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI",
-        "AWS AI"
       ]
     }
   ],

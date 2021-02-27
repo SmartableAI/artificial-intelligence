@@ -26,22 +26,6 @@ images:
     height: 601
     isCached: true
 
-related:
-  - title: "A patent shows how facial recognition drones could identify you from above"
-    excerpt: "An Israeli biometrics startup with a history of defense contracts has applied for a patent on technology that repositions drones to get a better shot of a person on the ground."
-    publishedDateTime: 2021-02-22T21:09:00Z
-    webUrl: "https://www.fastcompany.com/90606400/facial-recognition-drone-patent-anyvision"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/02/p-1-drones-facial-ai.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-
 secured: "3mC0uwMGEzp9NFVlHBRIdjlw0JHVsrp+TPWB/N6fOdP1ylWl3nPsJ6qOJxHq05TaoELBncDrvq+ghWs2tcrNpNyYwkn2YladaEVS+iZiMtvPTuWvQabgFRz/npdRNoaOKKXGsfIQ/9iGHOXJTVbx/33ApTB1UIgb2lbLynDqzvK5IAS3lw2uARzFKMN1u+/SiTi+V5pOA96FXmVEaA7W9pKdffKnQcgXsLZpQ4O6vUVGatLp7dEmYrszc6MXIIFazxwfb2MJ4zGu41Mx924sAGomronr3f+dzXCwzkk3zhbGqwQuD2unQKb6zgKk/K0XHhDGwQQ/kE4dWgjz7aZDXaogLTyQrx32vpGZeKNQCjN4LiLcFBC/WqlaFQxZp8UQbOtpJWjAkqOL/WVkHBrXeI2rDGgjQfDa2yULw1XZ9JgT+8wLaVL7S6YY28DZOSd33TTz69wC195QtZuVHG/hTG/yb4I/kfnwGmzdg7uujEN4IDKJCs4MbjHu3GbIJ51izDrtzAUm5llarO1Ws9EdCg==;lpVt/G5gz5+qJvsOB/8DNA=="
 ---
 

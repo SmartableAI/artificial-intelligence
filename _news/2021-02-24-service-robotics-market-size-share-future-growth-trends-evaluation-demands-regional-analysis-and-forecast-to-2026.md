@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
 type: article
 quality: 60
-heat: 200
+heat: 210
 published: true
 
 provider:
@@ -225,6 +225,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
+    publishedDateTime: 2021-02-27T14:40:00Z
+    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "u28I1kClljUKOgnvT91QjPNK1zdAyps7fclgBEZvMNECPb61iphINnCcaPuvCj+pRKWns0mh4i7HRaOaG+LykwJ8+CU8lVOOEsyI3y2K20Hw/4jcs8rUf7kn9GrmOp9MhoEhMAsuyFFJikeQSmlqUh8uLAX8d7TOVaGtCoQ73w3zWah75yf6fNFcbHSJzZYHxTrTTTCh9devJU0JGyevR4hDQ7dyDuw4wYysY3Nljt9SS5W98Om74WYPvcoxizFlcMSkNhYm5aDM/3W7hwMP43BBfGqrcJ7o9/1wR8IrBwSTWm1OGF2FZjLM+fgrF6P96DT58H+s+X2PlMk2xV03ajKrOOQzg58onZ4uizpAkC0=;dst3xFnenlpmwRO6hgRt5A=="
 ---

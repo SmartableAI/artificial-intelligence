@@ -405,7 +405,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -594,6 +594,40 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-5-stocks-to-buy-as-ai-makes-robotics-into-a-reality.md",
+      "title": "5 Stocks to Buy as AI Makes Robotics Into a Reality",
+      "excerpt": "The pandemic has no doubt accelerated the use of robotics beyond imagination, and an increasing number of robots are now being used in industrials settings. The recent rush to reduce carbon footprint has also boosted investment in modern robot technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23",
+      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23?amp",
+      "publishedDateTime": "2021-02-23T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1359,49 +1393,6 @@
         "AI",
         "AI in Robotics",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-top-five-latest-industrial-robotics-trends-explained.md",
-      "title": "Top five latest industrial robotics trends explained",
-      "excerpt": "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
-      "originalUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pesmedia.com/wp-content/uploads/2021/02/KUKA-smart-production-18022021.jpg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pesmedia",
-        "domain": "pesmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

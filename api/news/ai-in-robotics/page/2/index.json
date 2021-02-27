@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-18-top-five-latest-industrial-robotics-trends-explained.md",
+      "title": "Top five latest industrial robotics trends explained",
+      "excerpt": "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
+      "originalUrl": "https://www.pesmedia.com/industrial-robotics-automation-trends-18022021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pesmedia.com/wp-content/uploads/2021/02/KUKA-smart-production-18022021.jpg",
+          "width": 1920,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pesmedia",
+        "domain": "pesmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india.md",
       "title": "'Artificial Intelligence and the Future of Power' a grim wake-up call for India",
       "excerpt": "New Delhi, Feb 18 : With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with \"the battle between algorithm and being\" writes Rajiv Malhotra, one of the most ...",
@@ -1293,49 +1336,6 @@
       "provider": {
         "name": "China Economic Net",
         "domain": "en.ce.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-enhancement-latest-trends-growth-and-opportunity-during-2021-to-2025.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Enhancement, Latest Trends, Growth and Opportunity during 2021 to 2025",
-      "excerpt": "(MENAFN - Ameliorate Solutions) MarketInsightsReports has recently published a global Artificial Intelligence and Robotics in Aerospace and Defense market research study with more than 100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101563639/Artificial-Intelligence-and-Robotics-in-Aerospace-and-Defense-Market-Enhancement-Latest-Trends-Growth-and-Opportunity-during-2021-to-2025",
-      "originalUrl": "https://menafn.com/1101563639/Artificial-Intelligence-and-Robotics-in-Aerospace-and-Defense-Market-Enhancement-Latest-Trends-Growth-and-Opportunity-during-2021-to-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?855950",
-          "width": 333,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

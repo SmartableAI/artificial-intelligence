@@ -54,49 +54,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-google-to-change-ai-ethics-procedures.md",
-      "title": "Google to change AI ethics procedures",
-      "excerpt": "Staff revolt after two professors are fired Google will change procedures before July for reviewing its scientists' work, to quell a staff revolt over the integrity of its artificial intelligence (AI) research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-procedures",
-      "originalUrl": "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-procedures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/6535d6857bf718cae8df31f3aeb84b68_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-25-britains-gchq-cyber-spies-embrace-the-ai-revolution.md",
       "title": "Britain's GCHQ Cyber Spies Embrace the AI Revolution",
       "excerpt": "Britain's cyber spies at the GCHQ eavesdropping agency say they have fully embraced artificial intelligence (AI) to uncover patterns in vast amounts of global data to counter hostile disinformation and snare child abusers.",
@@ -1475,6 +1432,58 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-orwellian-ai-lie-detector-project-challenged-in-eu-court.md",
+      "title": "‘Orwellian’ AI lie detector project challenged in EU court",
+      "excerpt": "A legal challenge was heard today in Europe’s Court of Justice in relation to a controversial EU-funded research project using artificial intelligence for facial ‘lie detection’ with the aim of speeding up immigration checks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/",
+      "originalUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/10860059976_9f2f8c8151_k.jpg?w=1024",
+          "width": 1024,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/05/orwellian-ai-lie-detector-project-challenged-in-eu-court/amp/",
+      "publishedDateTime": "2021-02-05T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     }
   ],

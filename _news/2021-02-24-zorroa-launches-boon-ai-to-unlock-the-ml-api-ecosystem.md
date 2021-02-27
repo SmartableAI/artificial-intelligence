@@ -7,8 +7,8 @@ originalUrl: "https://www.dbta.com/Editorial/News-Flashes/Zorroa-Launches-Boon-A
 webUrl: "https://www.dbta.com/Editorial/News-Flashes/Zorroa-Launches-Boon-AI-to-Unlock-the-ML-API-Ecosystem-145393.aspx"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: dbta.com
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations"
+    excerpt: "Zorroa Corp., a leading provider of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google’s AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,"
+    publishedDateTime: 2021-02-27T14:06:00Z
+    webUrl: "https://www.boonai.io/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 149
+    images:
+      - url: "https://static.wixstatic.com/media/d62994_0310bd063a82416ba45b427605492ac0~mv2.png/v1/fill/w_1839,h_998,al_c/d62994_0310bd063a82416ba45b427605492ac0~mv2.png"
+        width: 1839
+        height: 998
+        isCached: true
   - title: "Zorroa Introduces Boon AI Platform to Make ML Accessible For Media"
     excerpt: "Zorroa Corp. has launched Boon AI, its machine learning (ML) software-as-a-service (SaaS) platform, which cuts the cost of ML adoption and makes machine learning more accessible for media organizations."
     publishedDateTime: 2021-02-24T16:34:00Z
