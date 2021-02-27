@@ -107,6 +107,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook doesn't seem to mind that facial recognition glasses would endanger women | Arwa Mahdawi"
+    excerpt: "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Continue"
+    publishedDateTime: 2021-02-27T14:33:00Z
+    webUrl: "https://www.newsoneplace.com/8501672012/facebook-arwa-mahdawi-facial-recognition-glasses-endanger"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 26
+    images:
+      - url: "https://images.weserv.nl/?url=https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f71f1fa92e15a62c7144241/0x0.jpg&h=276&fit=inside&cbg=white"
+        width: 369
+        height: 276
+        isCached: true
   - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
     excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
     publishedDateTime: 2021-02-26T22:35:00Z
@@ -124,6 +138,6 @@ related:
         height: 382
         isCached: true
 
-secured: "mFJ8A302SgKfIlPnoer0ujrBW9r4G4+/pS9g75LIeLLwwIOc37rQ1670U692WYXChEuYnuXX+RWgfSSOU7/F+1M4fwmASKTSZWrDBsuS/rsVF9Hm6lgY8llu9xjfK9507smOcmZ1ma0Cz3zSj5ns4gaQbOu4H5wFGEhD08CIbJUzFPxl8c3yROYCEHzz7oz9WBK1EOWMxlhACYWrmau70i8kMK5woyuhVkntDSfn713BBOaFVk2eNVWbvYWrBFpiHRGCmmbunfRmOYwbhFjqBz8bs/T7WFdjGFIT060/u2Cvz5057L+ZwdwvxogLNG563peMtFZHX3XruX51H/lkemQKPbl33r04Rvcqvy8ewNM=;5RKU6vgdAjVIq9h6Rcda6g=="
+secured: "Liv7Ccxydsu18J2BoJodSaSbc/xQ3ny9YuN/d0Lue8gsE5GydfHb+03xQcOeSUHZP4Z1h9pdkfQxsv7hkP3ItizyeyRmXrFP5Ppf+fA+tOCo8Wa65i1DJOUwwv8lXFXYDigaqVoFa7Sad7eWfONwky21z9cknNK6Zx3P2GTaRvIck8B2UNIfba9fAGMLhqPO0tAfM6tfzBtaruM3DMNOCB/+dh6V32IFtj5dIYFI15urCTLc0JSRA+vlmYdddYoHxCoMrZY/57sRMZyngvojWfLEdkuxOGqvX3TUu80SW3ihEE/s3Q0ncRb0Zw2Y3WBhkZvIn2vluW6Wb8LThbueEkLgYovTcwiQvv/huZaN7IvYQopKmOnym0yq0+EpybzObv3VGj6SssmbKrYoR260M1NdP0IsaKSSnyOwKkMC0CFeJYNcnmzczUD6b5fms7gH0MI5ocFxnyscHqyDMcu5qmCyFRJwepDRIjdEYU50mZPMdSUmxPLYAS9T3YGeSrYSFocAMYbhctgPkeFPo+Wq5Q==;C1g9QoPn3ou5LBRAwiu4ng=="
 ---
 

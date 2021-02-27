@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recog
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2021/02/Facebook.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facebook doesn't seem to mind that facial recognition glasses would endanger women | Arwa Mahdawi"
+    excerpt: "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Continue"
+    publishedDateTime: 2021-02-27T14:33:00Z
+    webUrl: "https://www.newsoneplace.com/8501672012/facebook-arwa-mahdawi-facial-recognition-glasses-endanger"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 26
+    images:
+      - url: "https://images.weserv.nl/?url=https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f71f1fa92e15a62c7144241/0x0.jpg&h=276&fit=inside&cbg=white"
+        width: 369
+        height: 276
         isCached: true
   - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
     excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."

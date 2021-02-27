@@ -116,13 +116,13 @@ related:
         height: 630
         isCached: true
   - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
-    excerpt: "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,"
+    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
     publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf"
+    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Odessa American
+      domain: oaoa.com
     quality: 0
 
 secured: "DG4f/hEyQuA3Wp1+U1v548sia6XXfG37OXFoX+fvSiMfomx24NxYE+o260zR6J4tCAeGxzbfyPMFuhOftn3/ktVXtuxW8K8fvsBRXtMXzUvEDIjfLwfP91nIr+5io7aOQRBevgZgzrruLP9VvC0aCII4s23cOu7GEb/l0CCEAt0hNdjxzGZjo73pNII/aHfTiaajMkJ3N4O202xKEWroBh2Fn79Xk7XlS5OSc+LcWsxnuuvPdHWT28cjP3iZnlyBrszmo/TKxnQleTras5//m9PsWo0sxzq35xAdt1xOaMNJwujSG03TR0p3JqRUg4nqYFOAJqfCUPz+qukiQcgXSdbKupCC07nr1gZ1mUrjFRQ=;RJNIjJsGDlAc5KRZ6BeDqQ=="

@@ -1,30 +1,33 @@
 ---
 category: news
 title: "Microsoft wants to use AI to unlock the potential of HPC"
-excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
-publishedDateTime: 2021-02-27T10:29:00Z
-originalUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
-webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
-ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
-cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+excerpt: "Microsoft Azure is able deliver differentiated cloud capabilities that are purpose-built for the full spectrum of HPC & AI workloads including the most demanding use cases. However, at the core of the infrastructure are HPC & AI clusters which use HPC-class InfiniBand interconnect with genuine low latency (~1us) and high bandwidth typically around 200Gbps using the latest processor technologies from its partners in the program."
+publishedDateTime: 2021-02-27T02:44:00Z
+originalUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+webUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
 type: article
-quality: 76
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Windows
-  domain: compsmag.com
+  name: TechRadar
+  domain: techradar.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
-    width: 1069
-    height: 693
+  - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
+    width: 480
+    height: 270
     isCached: true
 
 related:
@@ -232,6 +235,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "16/N7+4WV/hf4rQlH2072FqriioGbQLQGYX80n6NkMHEQjHvbybpWYyMwRjGc7z0ANsl0Q07r7W5im3MVqzJSVI3pL9shN/8onMgUhBJ6IcuO4vO0ZxiS7IGvPL2CgCpkunAj6/9Yw5zGzTGJcmKinuc74p7WCRtnaHSmb++SWTNWPBNWMntNgzLtD1FOXNd6cfiEff/N3QtBdQY2IajuwT19FpOF1Rf3yd3kvz+Tz4hwqyrc55m28VssZVnJF4LmnCk67c6Hy7IU9Y2jZHdhSmwn0Ekm/8cXYpHqPtJYF5xz9mHSb/5QFCbyZkGBeEHl0kBd0aD9LSoWlLvggNSHggNY+F55LEtcE1MBdWy5R7UFvVIHf8xqzN4G0gUxeXilFWJPYLKhfEohpXamGkDiFPX+CiKxQuvmj1NRBR1wLqsJOVqGkzLTbQKWyqR2OZD4kR/MLrhXM3IrmM2o5eNhziWnPztR+26Mg4IZn+JuzINBh0bTQV7vxAVRS/UDt4iq0C14skDgX8lODUQNiuP3g==;Em8NrDe835FOmP5wk80nQg=="
+secured: "yFqzZTqMwdJ68E8dBOytM289LFcA+GjOSviM9ErVCwoxxsriFW+fceaA19sg2Mq58QeCRJOUmHVssq3RjMXIsSG7NXNNyAjLTdSgGdKJjhdI1/WCmHEiqx1fAbY4u8iDQijhbSqJJIKjiJ1K2RNy/MYwThAOEnNrR0OZNl18njGkNk36TSD/jz4DmiX+HmG8xuDC4V6K8BKWPNULC12nw5aB+gWWRDISCEeGDEZDfnmzwU/GYCeFl9gk8ZCXGP/huqcafDo8XpPXCPv07WOWT6OKiyWdleDT/prx56P7xnlKbGaQOpVh47EBPlg72jQQs/t6eeTOzTHpZHUsnw9jUW0FLgMqcLbfXcbvkk1wa/Q=;3M4bJFw+V6yBtDFnStNKew=="
 ---
 

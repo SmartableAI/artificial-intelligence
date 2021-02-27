@@ -1,32 +1,22 @@
 ---
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
-excerpt: "This article represents the opinion of the writer, who may disagree with the “official” recommendation position of a Motley Fool premium advisory service. We’re motley! Questioning an ..."
-publishedDateTime: 2021-02-11T16:40:00Z
-originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
-cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+excerpt: "In other words, Waymo has way mo' data, and data is a huge advantage when it comes to artificial intelligence. Moreover, with the launch of Waymo One in 2018, it became the first company to offer ..."
+publishedDateTime: 2021-02-11T16:36:00Z
+originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
+ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
-    width: 1200
-    height: 785
-    isCached: true
-
-secured: "sHKA/uJui7wdAizWZ+dbMZM7B/glYIrir5bRI2m+gg4ROw0+pwdyN1z4roGRpI1ZjHUTa7M5M4UxFDae8mfVG3nBYurrk+Go8Nk0V7JILxAGtIkb3VF9ow9oJfp1POI0/rghi5V76wAAJMnx4TRgB6jpFry92/FEIjoiUcNnnAz4GFDZIq1QIh5fL2tNNrmgKHJBD0iIOfhF9wziobNK85/27K/tBdBzVviuzsBakL3cZXzzFj1rFUowmbx8KgUbkfmOWmlUQY8Eu0aWz7RQzYg+BQm1rQ+VbpYKeAI4vSObYrXkZGhToCLNrDBhzOEIHLXuWAK3fj4RPQoEGefVriLpwKv/RIgUtd7ufjIG6kQ=;vDXNUtMX8iUECfu5VzIxBw=="
+secured: "sbkG+zaHacPcwqyG6yuncDphKW6v7GOEN5MAsGZWkyUgVLoMQXMokd3zUratXwDyAd/2ofyl3h5Ht5HFMnTjceAob5pUS0DgvDK2zcIxkVcvFr7zuEltEbAehdJemDcp+qFQ+IaiBY6J6tT6inzgcNth+cU16LWJPgo38uVY+641ikWGeyWr5L2M5FjsDhVirxHto9ypjvMsLTsYDYAm3KxUs+BepnlWSLDUwRVpcifkspumSgk2uMRPm4wU2F+OJwLke4TTf6fUSVhgM5INfpgfDmnucpD3AXGkSi1gwPf9U0AKOZvDEkk1V7QUBiaBTMtvY4F/KPmJL9a9YdxRMBT1j7v+O0AAiGvqap3sW0s=;u5+c99wV6k7saldplwQ82w=="
 ---
 

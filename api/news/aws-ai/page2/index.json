@@ -324,49 +324,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-11-aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-nhl.md",
-      "title": "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL",
-      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of/article_5d669df9-e4ae-591e-804c-ec535bb36dc3.html",
-      "originalUrl": "https://www.oaoa.com/news/business/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of/article_5d669df9-e4ae-591e-804c-ec535bb36dc3.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/f/21/f21472c2-ae4d-52c2-854f-66e743c5bf49/602477d7c89d5.image.jpg?resize=1113%2C630",
-          "width": 1113,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-11-nhl-takes-big-stride-on-data-and-analytics-with-aws-deal.md",
       "title": "NHL takes big stride on data and analytics with AWS deal",
       "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking.The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
@@ -459,6 +416,40 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-nhl.md",
+      "title": "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL",
+      "excerpt": "In addition, by leveraging AWS analytics services including Amazon Kinesis (AWS's service for easily collecting, processing, and analyzing video and data streams in real time) and machine learning services such as Amazon SageMaker (AWS's service that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19603924/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19603924/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19603924",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19603924",
+      "publishedDateTime": "2021-02-10T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {

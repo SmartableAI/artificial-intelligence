@@ -1,26 +1,22 @@
 ---
 category: news
 title: "AWS Teams with the National Hockey League to be the Official Cloud Infrastructure Provider of the NHL"
-excerpt: "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that it has entered into an agreement with the National Hockey League (NHL) to become the Official Cloud, Artificial Intelligence ..."
-publishedDateTime: 2021-02-11T00:35:00Z
-originalUrl: "https://www.oaoa.com/news/business/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of/article_5d669df9-e4ae-591e-804c-ec535bb36dc3.html"
-webUrl: "https://www.oaoa.com/news/business/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of/article_5d669df9-e4ae-591e-804c-ec535bb36dc3.html"
+excerpt: "In addition, by leveraging AWS analytics services including Amazon Kinesis (AWS's service for easily collecting, processing, and analyzing video and data streams in real time) and machine learning services such as Amazon SageMaker (AWS's service that ..."
+publishedDateTime: 2021-02-10T18:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19603924/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/b19603924/aws-teams-with-the-national-hockey-league-to-be-the-official-cloud-infrastructure-provider-of-the-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19603924"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19603924"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/f/21/f21472c2-ae4d-52c2-854f-66e743c5bf49/602477d7c89d5.image.jpg?resize=1113%2C630"
-    width: 1113
-    height: 630
-    isCached: true
-
-secured: "t6YKpNdju8lHM9aGm2Set4H5fGt1psrgQ9xZTSLYAY58EQ9WGdox/LPMZbdfZvlya3hfLhhdErrdhjsD3lurRuqPfis4DylXyQqhck91Vm5yg94RO/MbjDwv34JQcdq2b6ZTiTCqu3fMkpR/kzl3HuXaqdwir5PggGVMdTUon2MTs6dpegQcS1WyKdmklSBHdHrh4qh9gSVeZuNiZI/G8un75mNi3jIwKLP2QjkzrX53pTXEJM/3mPkq4ZDC28qBSXkWQrmoDwd8bKXgOhyVjKGa2mVF21GRX2bTGdrDYkbgRFzVhaOHpVDDGCFavXrLazq73DKXBCZPjlR5ZUSk56hC0wCG/w8Avn3GGqGOBXU=;F+2WYc8Cup68fl0zaBZfAA=="
+secured: "eK29gNMlVs+Lzgz0LDb5qK3TnO09NMCpB8zkK71mJIM+5P33/DBYgybzyEeDgwRkYGL4n931DkIwomrhzz8ouD5vnxYxzBWgVnyDLZ0FYhL6GBkaPI1JIH27iNUimqQkTEHV6fPEGZe6gCUOOmzRe16ocOeStHK4Ec//HZWUlOb5goLuN4lym3l5TCz7DaQnApd7O8Mzwbecut0vtoESrIrJJUUJZeC4eIF5smV7mPabN6IdRfqY+/S5G6rhD/eDpuvXCEHAzmOTEvrxptWpOVKenUgW7hsxRgr0R/4vHUepBf9UsZv4wM73tMwdvZlZRtz20EQaIaGnnEaAoSd8ipNq3Yy/A2mJTZszG1RAqwA=;i5q4eofeCbLDac0X1UDOlw=="
 ---
 

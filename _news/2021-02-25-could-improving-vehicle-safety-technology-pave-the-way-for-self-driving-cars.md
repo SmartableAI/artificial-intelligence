@@ -25,43 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Driving on the cutting edge of autonomous vehicle tech"
-    excerpt: "In a bid to become the hub of practical autonomy at the Institute, MIT DriverLess partners with top companies to develop and test autonomous technologies in real-world racing scenarios."
-    publishedDateTime: 2021-02-25T19:59:00Z
-    webUrl: "https://news.mit.edu/2021/driving-cutting-edge-autonomous-vehicle-tech-mit-driverless-0225"
+  - title: "Convincing A Self-Driving Car To Go Where You Want It To Go When It Won’t Go There"
+    excerpt: "Examining how to deal with a self-driving car that refuses to go where you want it to go, as exemplified via an interesting use case involving a tow truck situation."
+    publishedDateTime: 2021-02-27T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/"
     type: article
     provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://news.mit.edu/sites/default/files/images/202102/Castillo-Ying-driverless.jpg"
-        width: 1125
-        height: 750
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60333239db18f3b0d0e7a3d8%2F0x0.jpg%3FcropX1%3D14%26cropX2%3D845%26cropY1%3D55%26cropY2%3D670"
+        width: 831
+        height: 615
         isCached: true
-  - title: "From cloud to AI, Wall Street firms plan to pour more of their IT budgets into cutting-edge tech. Here's what's driving their focus on innovation."
-    excerpt: "Adopting emerging tech used to be a cost-cutting exercise. Now, financial firms need new technology to drive revenues and stay ahead of competitors."
-    publishedDateTime: 2021-02-23T13:02:00Z
-    webUrl: "https://www.businessinsider.com/wall-street-technology-spend-cloud-ai-blockchain-budget-finance-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
-    images:
-      - url: "https://i.insider.com/5de7f36ffd9db23def540d73?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Continental invests in the future of chips for autonomous vehicles"
-    excerpt: "Without faster chips, there will be no networking, no automation and no autonomous driving,” emphasizes Frank Petznick, head of the Advanced Driver Assistance Systems business unit at Continental. “Through our own research in the area of new chip designs,"
-    publishedDateTime: 2021-02-23T09:18:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/continental-invests-in-the-future-of-chips-for-autonomous-vehicles/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 21
 
 secured: "3GCw8oKxBwiyzpgWApyYOJUEoky3ynbJ7ScEEOGXLei5wJlcuFLJ79qfYdqXDIW+OOravVjFrv20Z3+f3DX7KkXyZHvFijHfdOPMz7wdUP9XQyHirP//6qdQTDgHW97WquXFlyK4eaEoJ54RkspaJhfokAf8LwyrVsRO2ydJEK8VV5cV++/kgZs+Si/WqCxCHVVDloND6QaRbNwWQeyQBoSzNCNoAmhnXvjlz/4WBdOYIlKwIR8oKpvyOqBxtzhPc/uj2Y1qic87eBzWbt8P9IV0yiT6Z/W63C5gJyjS5i7EU0+kL+MPEX9He/pwBqlmZj4MEU8N2fpCbIylHYd70nGjJITs7phyJERtZJvDT+o=;AswiznNKUgK14NDQCRLgOw=="
 ---

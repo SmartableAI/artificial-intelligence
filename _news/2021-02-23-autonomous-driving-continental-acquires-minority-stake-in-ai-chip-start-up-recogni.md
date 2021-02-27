@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Continental picks up stake in AI chip start-up Recogni"
-    excerpt: "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI)."
-    publishedDateTime: 2021-02-23T00:00:00Z
-    webUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554"
-    ampWebUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni-78554?amp=1"
-    type: article
-    provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 74
-    images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg"
-        width: 735
-        height: 490
-        isCached: true
   - title: "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles"
     excerpt: "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI)."
     publishedDateTime: 2021-02-23T10:33:00Z
@@ -53,22 +37,6 @@ related:
         width: 735
         height: 490
         isCached: true
-  - title: "VerSe Innovation acquires AI startup Cognirel Technologies"
-    excerpt: "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions."
-    publishedDateTime: 2021-02-23T11:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms"
-    ampWebUrl: "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Conti puts its chips on AI start-up"
     excerpt: "Continental has acquired a minority stake in Recogni, a German-US start-up working on a new chip architecture for AI-based object-recognition in real time. The San Jose, California-based tech firm’s chips are intended for use in Continental’s vehicle computers,"
     publishedDateTime: 2021-02-24T01:02:00Z
@@ -83,15 +51,15 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "VerSe Innovation acquires AI-startup Cognirel Technologies"
-    excerpt: "Local language technology platform VerSe Innovation on Tuesday announced that it has acquired Cognirel Technologies, a Bengaluru-based"
-    publishedDateTime: 2021-02-23T19:13:00Z
-    webUrl: "https://www.dailyexcelsior.com/verse-innovation-acquires-ai-startup-cognirel-technologies/"
+  - title: "Continental invests in the future of chips for autonomous vehicles"
+    excerpt: "Without faster chips, there will be no networking, no automation and no autonomous driving,” emphasizes Frank Petznick, head of the Advanced Driver Assistance Systems business unit at Continental. “Through our own research in the area of new chip designs,"
+    publishedDateTime: 2021-02-23T09:18:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/continental-invests-in-the-future-of-chips-for-autonomous-vehicles/"
     type: article
     provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 17
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 21
 
 secured: "qybUyJUYLz9whLdqdcsytl76mzuPGdqhIxUWqPD9quP5N4eQD0jzIFE8t+iWnvr77ffcFaWzCgThmwe/FtaeRqMp46AM8nXg5YiKk90qjxvm5Bq4wP7DO3tKOfMg75DldR+dvA6AfinGGe9FTW7pNdWC+MsUbn6i8FDn6cde9MzWyvMKG7oxia540ODwhLhrlkWhd2CdkIehQI/gJO3dPNsYTVnftHvIuSndsM84HAunyWZ8x8CMIxUN6eBP/vhS1Dd8rG7Stov6qflwwpUmsXvRDuQw4RNIov0q2UaIJNAhGvB9EAE2I9p7okQ3dG4FrdoY6TFfY42X+SceIOG0/Z+NdGiTy7MvuiCJeHZ4SxZPbmpRVF7fnfHLLKxT9con5d3griPGZ4IzJGz5G+vUwR82ACdJOX5BWZ9k/dKxzSU98VdTpA8CSr2onhwpqS3Yl5/Y1vVswgGsMJyua/ooCqbvmo8hNlgjfMU66i1oBKU1/XYF/uTFPZRgiO+8BQNhKqsxdjv5y7mrSF/9XlWDRA==;kwM1RdLHMMNtQUmfR+Xh7g=="
 ---
