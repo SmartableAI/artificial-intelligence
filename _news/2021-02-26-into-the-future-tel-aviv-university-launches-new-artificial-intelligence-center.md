@@ -33,7 +33,7 @@ related:
     provider:
       name: Jewish Press
       domain: jewishpress.com
-    quality: 17
+    quality: 19
     images:
       - url: "https://www.jewishpress.com/wp-content/uploads/Artifical-Intelligence-Pixabay-880x495.jpg"
         width: 880

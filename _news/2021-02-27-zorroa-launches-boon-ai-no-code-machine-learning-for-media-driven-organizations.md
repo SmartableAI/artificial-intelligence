@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-27T14:06:00Z
 originalUrl: "https://insidebigdata.com/2021/02/27/zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations/"
 webUrl: "https://www.boonai.io/"
 type: article
-quality: 151
-heat: 181
+quality: 149
+heat: 179
 published: true
 
 provider:
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI
   - Machine Learning
-  - Microsoft AI
 
 images:
   - url: "https://static.wixstatic.com/media/d62994_0310bd063a82416ba45b427605492ac0~mv2.png/v1/fill/w_1839,h_998,al_c/d62994_0310bd063a82416ba45b427605492ac0~mv2.png"
@@ -64,6 +63,6 @@ related:
       domain: businesswire.com
     quality: 31
 
-secured: "53DbmZ93gFjvd4O8UzifoJk3GpGezkMy9c2i8lPaVN3euDYTxsAe8yui1fSH0rJGoccmUd+zuSwDetsYUUUZ13DMiZetuG9P1l9S8z8xT9buFj7dswWNFQv6QMGdxX0TEmEQsrxErd6PMbfY1kBLaKFyihoyBKse+OuaQCQh3IPH+UfOb2Mf0y3iCvvQ81Vm0B3D4ebXrIwzajX+UaOhWv+Embx4FSv3deLW+y6KOmQTUQY18osiMGK5SgnDGDVgUf7my7r15Pio5khRenwkh0qHUfxySABpbVVXgXjNb1iiaSC/lFfazYPFczYhJwRCyns61cT/1jj1HvLztOR0mp85wKO//3wS/8ggNJ0Fx9vG2Kgb0PjWBRGtiNkoNyiqHhi1X5mx4JkKSMoA4CUt3MrVfQgl/m40fk6AO+Qv0rX6rNbklcisNJVbE3xn9JVT/107DxhkGzBAL4D81fNW+j9IXGK81OcQRzfW6quJod6VoHxF5nrt4UvjaFB8ewXt7fwwfu/AiJYdCOTpigwa1mePdbQlo2S2cbaqSrgTiRk=;czdh8ZCQ8o02aVsQuf5PeQ=="
+secured: "BC0QfimEc14aJyLjW4EJdZErOwZ2Cs/Z7B8ESht5Wumig5d5W5myzBc0oY/bwUw/i2dGLcHX8b80kK6OaisbDJCSEmqT+NI6uXIBBKkbCSGDif75IDaOaNcaDAtwdwfIyyjPKHl+ydcM4bBjFzn+PC9aiFfuyc3px8PIEdS+TGFYXj09ofipt4ZYmuut0o6rC6eFZWlJxBfBAsTLF2FHp5nqj+OzBoJNvWMH+bD6DSPrG4W/aAu2f7mrQjyZWa2XRKRbaYqojIpk7BUDXL3xgMyAvRnjZ9AoVEqIiYwHwoP307x26DN+9+JbTcENtYmYnBO/awNOnbyfZW/tctMXX8ODcS1j6TWxuh9tSpspj98=;guw/WX7YoGNIArGLKFpYwA=="
 ---
 

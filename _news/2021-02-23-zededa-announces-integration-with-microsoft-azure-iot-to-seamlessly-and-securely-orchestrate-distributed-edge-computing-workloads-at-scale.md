@@ -46,6 +46,22 @@ related:
         width: 400
         height: 353
         isCached: true
+  - title: "Microsoft wants to use AI to unlock the potential of HPC"
+    excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
+    publishedDateTime: 2021-02-27T10:29:00Z
+    webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 76
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
+        width: 1069
+        height: 693
+        isCached: true
   - title: "Microsoft Translator gains text support for 9 more languages"
     excerpt: "Microsoft recently announced support for nine additional languages for Microsoft Translator. The newly supported languages are spoken by over 170 million people around the world."
     publishedDateTime: 2021-02-23T19:04:00Z
@@ -61,22 +77,6 @@ related:
       - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-2018-2.jpg"
         width: 800
         height: 598
-        isCached: true
-  - title: "Microsoft wants to use AI to unlock the potential of HPC"
-    excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
-    publishedDateTime: 2021-02-27T10:29:00Z
-    webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 74
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
-        width: 1069
-        height: 693
         isCached: true
   - title: "Microsoft Announces First Cloud for Healthcare Update"
     excerpt: "Microsoft made the announcement while rolling out three new cloud offerings for financial services, manufacturing companies, and nonprofits."

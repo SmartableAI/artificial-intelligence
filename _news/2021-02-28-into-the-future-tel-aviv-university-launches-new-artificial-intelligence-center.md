@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-27T18:08:00Z
 originalUrl: "https://www.jewishpress.com/news/breaking-news/into-the-future-tel-aviv-university-launches-new-artificial-intelligence-center/2021/02/27/"
 webUrl: "https://www.jewishpress.com/news/breaking-news/into-the-future-tel-aviv-university-launches-new-artificial-intelligence-center/2021/02/27/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.jewishpress.com/wp-content/uploads/Artifical-Intelligence-Pixabay-880x495.jpg"

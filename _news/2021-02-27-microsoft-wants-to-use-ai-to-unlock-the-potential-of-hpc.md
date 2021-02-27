@@ -8,7 +8,7 @@ webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-u
 ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
@@ -231,6 +232,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "GhztQQFu6vh05h00K9VD4CYpgaI6mx+cFQIXwZmI0tNqLopDXAxLoA8gvdM0+LT2fMbEEQD2LoophJkjhl/YPPDlOHL488XpJrI8aimAa9EQX7afaqdrrdfFThM12xFGFZyPBsbS27WqdxXhbHaiS4re6Uqndfr9dETL85LNKKa/glsvSeMrCG1IcYva4x8Mrfu8tjaCILOSir0VO0i5X5nzu9RYWi0UwXQdO5NWHzwv1lhWNkTu8brAiejULfO7YILFqLUirMZB8kXS7fwugJSnRN4tip2mWkcp+Jjn0Bn/9GUStXlSwAcRcpyDRKTdTQEvVyJ1lzsS0tinPgPm7eWljvATat4FvHA9UvSm/xw=;AQMqJqOa5W4ruu0b7S8rmA=="
+secured: "e3WVMFi7FsR5GcClyZ7XT6xG+AtGibryCgjMw0PCts31/ZfUL9+tjS79cZZu81qzAKuvMmG6gzq2vIe0k1NtrJEx0sGLX0GBjnar/b6rgqNuBgThVxjqaP1WnZDTTHQ+QHyM0biTb13sdQdIEq8cuvTI4zMmtwuMV/PgSO6XfR3hYvQD3ABEOJaTDNxPH172fq2bPwGWgcU5DLfXRj9YAX6/Dvn56HhHXaKAMslrYuHvQtHuxmpkgOELdFJPpNM+q0TLsixgSRBCjm39FtD5IawEN/RxsWAshSV7GuVCdHedLlomR5GmZc1VunFFoWIvCYL8kLE5LgV0qo94ci/rtSowMCEXq/qx1nbhvDHsichPbfdZMCK7vomo2WFvgiu3DcFMTdTfDNFrZyfPK1ss5wvuQYYqzQtbju+xS+VvXGHOKFhUUjy82LzvguByteeDznMOD2IuYwfrJhtj0aqDClNrq4fQ3mTSyEdH2U0CaeAerL/NE7sWgPhYGSFsyo/w/RGWSdTcFmKMl+BSZGv8zA==;otJDCHdsVcaDNusd4HkLbw=="
 ---
 

@@ -168,20 +168,6 @@ related:
         width: 720
         height: 480
         isCached: true
-  - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
-    excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-23T04:55:00Z
-    webUrl: "https://www.straitstimes.com/business/banking/smes-can-now-use-facial-recognition-to-apply-for-dbs-online-banking-accounts"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 36
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/23/af_dbs_2302.jpg?itok=-bxg7okT"
-        width: 763
-        height: 509
-        isCached: true
 
 secured: "rFvjcEDkYWXPZM5w9muEw7qHivwfgpP8w/qO1FlKZlNdT+Bbs0cgwt4klGro0WWljqGWXOxe3SXOMZPioeU7WQbNd7sJvULNhXjOKQ8fSjjKFpo0rTFEc4iNsKpeky9cjJPDcTeYFxlDSzRWQSaUeZiHBJDP4acKAXE+bN8UuFy3kYm7PDpmELAM78V6+1Jyewkfcxn6y8WfrXOLOTWmagJi0cX9Yd998SyndiINZWp/eU4g3DbpRrMBDpfywNX1KbkHepZYPhKZgrAIwBk951Pj7p2s6QnB83brRGi+QVG6JOZ5esM51PHhR4beIRzskGFlAc3x62fkgRa8oqcLR5OcJ38HYx/nCeInTXmlA7w=;3M5eTep+K8IaeDHrawLKZQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -155,20 +155,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2021/02/23/1053499.jpeg"
         width: 720
         height: 480
-        isCached: true
-  - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
-    excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
-    publishedDateTime: 2021-02-23T04:55:00Z
-    webUrl: "https://www.straitstimes.com/business/banking/smes-can-now-use-facial-recognition-to-apply-for-dbs-online-banking-accounts"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 36
-    images:
-      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/23/af_dbs_2302.jpg?itok=-bxg7okT"
-        width: 763
-        height: 509
         isCached: true
   - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
     excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."

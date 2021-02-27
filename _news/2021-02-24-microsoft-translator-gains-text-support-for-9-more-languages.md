@@ -64,7 +64,7 @@ related:
     provider:
       name: Windows
       domain: compsmag.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
         width: 1069
