@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/science-environment-56194855"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-56194855"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

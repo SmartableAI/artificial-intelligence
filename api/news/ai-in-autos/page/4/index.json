@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-29-baidu-secures-license-for-full-driverless-road-tests-in-california.md",
+      "title": "Baidu secures license for full driverless road tests in California",
+      "excerpt": "The California Department of Motor Vehicles has granted Baidu permission to test its ... and Chrysler Pacifica vehicles loaded with its self-driving technology within Sunnyvale in Santa Clara ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/baidu-full-driverless-road-tests-california-121025542.html",
+      "originalUrl": "https://www.engadget.com/baidu-full-driverless-road-tests-california-121025542.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2021-01%2F5efd98f0-6153-11eb-bdb5-bb0a6df2a8b9&client=amp-blogside-v2&signature=e0844b161a7e6026ce16dbdab92150acc7258337",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/baidu-full-driverless-road-tests-california-121025542.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/baidu-full-driverless-road-tests-california-121025542.html",
+      "publishedDateTime": "2021-01-28T14:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-cognitiveartificial-intelligence-systems-market-2021-2027-business-analysis-future-opportunities-leading-companies-and-more.md",
       "title": "Cognitive/Artificial Intelligence Systems Market 2021-2027, Business Analysis, Future Opportunities, Leading Companies and more…",
       "excerpt": "Cognitive/Artificial Intelligence Systems MarketArtificial intelligence has received an overwhelming attention globally",
@@ -1394,49 +1446,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-competing-in-the-age-of-ai.md",
-      "title": "Competing in the Age of AI",
-      "excerpt": "Spun out of Alibaba, Ant Financial uses artificial intelligence and data from Alipay ... products (like Amazon’s warehouse robots or Waymo, Google’s self-driving car service).",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/01/competing-in-the-age-of-ai /",
-      "originalUrl": "https://hbr.org/2020/01/competing-in-the-age-of-ai /",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2019/12/R2001C_GUY.jpg",
-          "width": 4000,
-          "height": 1880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/01/competing-in-the-age-of-ai",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/01/competing-in-the-age-of-ai",
-      "publishedDateTime": "2021-01-21T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

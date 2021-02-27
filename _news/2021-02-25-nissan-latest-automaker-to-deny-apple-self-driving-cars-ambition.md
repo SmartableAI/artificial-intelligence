@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 738
         isCached: true
-  - title: "Could improving vehicle safety technology pave the way for self-driving cars?"
-    excerpt: "While drivers are still unsure about self-driving vehicles, they are warming up to advanced safety technology, a AAA survey reported."
-    publishedDateTime: 2021-02-25T14:50:00Z
-    webUrl: "https://www.daytondailynews.com/local/could-improving-vehicle-safety-technology-could-pave-the-way-for-self-driving-cars/ZR6ZX5ZA65G6VGTBW3AW2VGWII/"
-    type: article
-    provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 21
-    images:
-      - url: "https://www.daytondailynews.com/resizer/9YKbrHs7pZhF5Oe29TJ6iK9O5JY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/76CAVDFORJCQ7EEYLLCGZOANSI.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "SN6TFgVWf/7xrDH5EdozBdnX2GfgnUK+CsjtMLePJInNAbIcWYhTR57QgnEw1+NCgBtZVh1RxXTAiiDCD6JGyoUj2td59bYOcQ1sGhnxP5eRJnmWnxvejWvYnDltSRoaiJP2gCP/7tJOsaQmYt0gbj20o/xA9V7wxfM/lqUe/+c7ztI3RuaF60zFuhyHaQvqwIBgLERh15DtCUSOMHup/23j5JkRpbpFmbysQFqcvWzUyiso6ZMgYCWgVyvz2AF9oJ40yN5cw1wokcrBM7Ic43TOb7fECCaQ9EGoWeaXORtumoyU/W5nr9t5PxSoznqr44hsLUGsuKRckSf3QRU899xvj5muhWy9PtZvHAFEt8e+8Kp30T658MKcSaemeKjK9+GoX67zwIxdavQMxlhbyY/Nb/C8rZXdkKQPbD+v3qIJcjzIL+3g/v9oGcxs8sUhLaprUeNjFkKoMaTmdpgL9HVgkJ/xdEYnbNSnELOqeCa7jnxKZBZV7RzxuXrpyXxDe2lLq/xsXyvKNtL55qc2ew==;5XvOlQqq9ziBsqkQAOXl3w=="
 ---

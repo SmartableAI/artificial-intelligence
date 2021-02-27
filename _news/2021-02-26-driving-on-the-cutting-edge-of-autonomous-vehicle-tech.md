@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2021/driving-cutting-edge-autonomous-vehicle-
 webUrl: "https://news.mit.edu/2021/driving-cutting-edge-autonomous-vehicle-tech-mit-driverless-0225"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -29,35 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Motional is now testing fully autonomous vehicles in Las Vegas"
-    excerpt: "Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas."
-    publishedDateTime: 2021-02-22T13:00:00Z
-    webUrl: "https://www.theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas"
+  - title: "From cloud to AI, Wall Street firms plan to pour more of their IT budgets into cutting-edge tech. Here's what's driving their focus on innovation."
+    excerpt: "Adopting emerging tech used to be a cost-cutting exercise. Now, financial firms need new technology to drive revenues and stay ahead of competitors."
+    publishedDateTime: 2021-02-23T13:02:00Z
+    webUrl: "https://www.businessinsider.com/wall-street-technology-spend-cloud-ai-blockchain-budget-finance-2021-2"
     type: article
     provider:
-      name: theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas
-      domain: theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas
-    quality: 142
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 29
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wMyEN4GjNku-j3tevvKBInkwsEA=/0x0:1877x1252/1400x933/filters:focal(789x476:1089x776):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68854024/Motional1.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "To the list of places testing driverless cars, add Las Vegas"
-    excerpt: "Last month, Chinese search giant Baidu received a permit from California to test vehicles ... Alphabet-owned Waymo and General Motors’ Cruise have kicked off similar self-driving ventures. Testing autonomous cars on public roads isn’t fail-proof."
-    publishedDateTime: 2021-02-23T02:09:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/02/22/hyundai-driverless-cars-vegas/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LTV2YSAVTVCBLLZC6GMI4FA2EA.png&w=1440"
-        width: 1440
-        height: 805
+      - url: "https://i.insider.com/5de7f36ffd9db23def540d73?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Continental invests in the future of chips for autonomous vehicles"
     excerpt: "Without faster chips, there will be no networking, no automation and no autonomous driving,” emphasizes Frank Petznick, head of the Advanced Driver Assistance Systems business unit at Continental. “Through our own research in the area of new chip designs,"
@@ -68,6 +52,20 @@ related:
       name: Automotive World
       domain: automotiveworld.com
     quality: 21
+  - title: "Could improving vehicle safety technology pave the way for self-driving cars?"
+    excerpt: "While drivers are still unsure about self-driving vehicles, they are warming up to advanced safety technology, a AAA survey reported."
+    publishedDateTime: 2021-02-25T14:50:00Z
+    webUrl: "https://www.daytondailynews.com/local/could-improving-vehicle-safety-technology-could-pave-the-way-for-self-driving-cars/ZR6ZX5ZA65G6VGTBW3AW2VGWII/"
+    type: article
+    provider:
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 21
+    images:
+      - url: "https://www.daytondailynews.com/resizer/9YKbrHs7pZhF5Oe29TJ6iK9O5JY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/76CAVDFORJCQ7EEYLLCGZOANSI.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "YiOM581q6qFN8kWezDOEVsz/8V129v402nvyvmbw0pRSDUN9wbZFZbPxvvz3+tAxmtsEvIk9EMpiUN6Za6VJRMrO/iOXTfOjdGOA665X69wuirrnq+GpmlWElDXeV+aPKRbwjTpJayTat3nFx6Bh48j5eKtPCYQ1YICc8D3ydw8JT/pBau8Qg/J8zPA6oTNrCaqGl2DzQJq4Nn/FXADePjgkEc/R9iaQA5UWW3PBUbP+hJm+bk1YZxt9X3dvvxY02oa7AdTs/9KO4MCeHzcPXGkfZjK8SBGHQR93FxAFFfAo5pMrzR3/spE458deOmTtML9C9IKz2fHRCkZ7FT6DXWTy5j+URRr9wpdlo87fjcYdPDNnVsf4KLnbcQJfR9Id5y8ASzR5nPe6N/qqPXnz1DL3zSCztdNLGOgdfqm5wLyrUB+5t/boG8BDu272xYI0Ud0nGHYI9/Ou0gRBkwNGzuSJMiODVb20kBe24PmDy9nGB44yP57SoupjjhoboMFNPXRlpUVLcWPBB0hQ2nveAg==;V9fGzZ7W6bnlgpGz0Yiftg=="
 ---

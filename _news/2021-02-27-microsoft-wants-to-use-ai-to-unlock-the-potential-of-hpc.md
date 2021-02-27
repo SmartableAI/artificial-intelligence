@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Microsoft wants to use AI to unlock the potential of HPC"
-excerpt: "Microsoft Azure is able deliver differentiated cloud capabilities that are purpose-built for the full spectrum of HPC & AI workloads including the most demanding use cases. However, at the core of the infrastructure are HPC & AI clusters which use HPC-class InfiniBand interconnect with genuine low latency (~1us) and high bandwidth typically around 200Gbps using the latest processor technologies from its partners in the program."
-publishedDateTime: 2021-02-27T02:44:00Z
-originalUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-webUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+excerpt: "The NAG Azure HPC & AI Collaboration Center, in partnership with Nvidia, will be focused on developing best practices for deploying scalable machine learning. Finally, the RedLine Performance Azure HPC & AI Collaboration Center, in partnership with Intel ..."
+publishedDateTime: 2021-02-27T02:58:00Z
+originalUrl: "https://www.techradar.com/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+webUrl: "https://www.techradar.com/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+ampWebUrl: "https://www.techradar.com/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
 type: article
 quality: 104
 heat: -1
@@ -265,6 +265,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "fDCQc93QW+bDkZj3nX8nqXMTP7jJHuYMQjsd4WEYvDXvzkp0RlYxI5RNvLYWvxlf2GL+3rg8qOtor+9G/6hOwVG5w6ZSLqIAG5hqrrzoCDERumgf7dtXnm0v1kruY8+cfyp0Rl+Ozg66Sst2M1a8p/q5T8b+BGClex3kpznbkPsJASUkH6zEOJpeWiUqT4C9rlC8ynfMkvPS8dwlY0gtRXuTodNZJl9Raz5fsTMMtpsBfPo3rGGMUUbYg33HXAffcLmDVDR3oX4of+35p1KnF1Hw77+vQYcqN0jV2Le6/bVv16+m5s/+yhdAOEqzHp5jozO1NBGylz6em0IACR0mZ6/Hn778ZwgsS89lxLUt7qk=;CtuoH3U9WALMATIxYQB14g=="
+secured: "W5vHHBcVpAssVdUNqO6Id1w4zrT8RoEAlNFsjwRio4Irq+1lGgIMLqejn+s+wl25Hclw4JagXZu5A+IoT7B8srwwl0Wv2GktawzU01TGnJ5Uydc+2A/rK6ZVthuiy5jTFWSPMRgEpkGQx/2XIT8f5QqiQW7M3kerWXpC4DJa6N2/wdxfmJxGoCq/wURryeQ1LmHg5mcO7Nr6HBmFhzz00TF+WH6PcFQ+CzhhZqzaidIDyS2qX5EB1Rc/kCvs1Tnn8xLIsfES0BWvDEIVrPkODBWbBter0Sz3emXka7EBZogP5n2NkSJCYummmnRYc8a/FkmRXLvfnqaNM6wI7IzuyCx0mH28gp2qIXJ8Mc5tjLw=;m5A9iep1rUk2uNzluFN/rg=="
 ---
 

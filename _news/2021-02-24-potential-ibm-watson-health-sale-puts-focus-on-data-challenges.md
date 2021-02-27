@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "IBM reportedly mulls sale of Watson Health business"
-    excerpt: "IBM is reportedly considering a sale of Watson Health, its artificial intelligence-based medical data service, in order to further streamline its business. Talks are at an early stage, according to sources cited in The Wall Street Journal,"
-    publishedDateTime: 2021-02-22T11:03:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1613989145/itpro/IBMWatsonSign_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
     excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
     publishedDateTime: 2021-02-23T20:04:00Z

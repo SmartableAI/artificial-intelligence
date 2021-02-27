@@ -24,17 +24,6 @@ images:
     height: 338
     isCached: true
 
-related:
-  - title: "European Space Agency selects CGI to develop services combining Artificial Intelligence and Earth Observation for Wildfire Mapping"
-    excerpt: "CGI and its project partner, the University of Leicester, is working with nationally mandated user organisations from Australia and France to implement and demonstrate EO services based on their requirements for improved wildfire risk management."
-    publishedDateTime: 2021-02-22T12:30:00Z
-    webUrl: "https://www.nasdaq.com/press-release/european-space-agency-selects-cgi-to-develop-services-combining-artificial"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 17
-
 secured: "7ijUNPn/bxe55VoT41uIC0jGxwC/28G81fO1V0eOy68HpShZw33HdUR26fxdidF1RBGQDdV6Ayiwptg8Tx9M6vDfuyZdKAX5mkRi3xNByzDTXDpXOWd6iDafWGME3/M6V0DSnAc3nwQb4WkHvZjWxUjl8P7nyxSM6tlRpC23jN56OjQUQqD+1wSAm/sn6dQtGl7sbMlRkIKDeNjV3F2kUyG5a6ci4Si0p4dyWwHKOf6L+70WSj4ZYkHcbQp2E+Lj5w2u3ofDqfOUNuLwW7xKznZoLhyx1qak/5yiwUvR5rEvw3V4ObzrsE27wjtxhsF5xdzygYVASNUIE6MdXLnnRrLbtKaDtw5fHx6Wy3+bOrHmWr66DV10O90x7sbHLRH6YfKQ+WTi8d7HsFjmFhz0ytPItNszCtkI9SbB56RchXb/A9jTH4GKn5NJ0XVFxVYEcEkDe5ukTV4OBEph3Un1EGZEECAVyo0ELA+UfxOx2vax90CRV2CqxvNwc/9ku1TU7jzl73eG1x0g9VwpFxeJMw==;azwKTn7dPxIwmuZ1dswYVg=="
 ---
 

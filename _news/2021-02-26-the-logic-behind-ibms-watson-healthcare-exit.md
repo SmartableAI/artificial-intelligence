@@ -42,22 +42,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "IBM reportedly mulls sale of Watson Health business"
-    excerpt: "IBM is reportedly considering a sale of Watson Health, its artificial intelligence-based medical data service, in order to further streamline its business. Talks are at an early stage, according to sources cited in The Wall Street Journal,"
-    publishedDateTime: 2021-02-22T11:03:00Z
-    webUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour"
-    ampWebUrl: "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/mergers-and-acquisitions/358671/ibm-watson-health-sale-rumour?amp"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/v1613989145/itpro/IBMWatsonSign_shutterstock.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Potential IBM Watson Health Sale Puts Focus on Data Challenges"
     excerpt: "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems."
     publishedDateTime: 2021-02-24T12:30:00Z

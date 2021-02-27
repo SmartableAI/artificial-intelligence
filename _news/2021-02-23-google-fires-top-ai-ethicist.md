@@ -19,35 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Google fires top ethical AI expert Margaret Mitchell"
-    excerpt: "Google has fired the co-lead of the company's ethical AI unit, Margaret Mitchell, on the heels of the removal of Timnit Gebru.  Mitchell, an ethical artificial intelligence (AI) expert who has previously worked on machine learning bias,"
-    publishedDateTime: 2021-02-22T11:27:00Z
-    webUrl: "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/"
+  - title: "Google to change AI ethics procedures"
+    excerpt: "Staff revolt after two professors are fired Google will change procedures before July for reviewing its scientists' work, to quell a staff revolt over the integrity of its artificial intelligence (AI) research."
+    publishedDateTime: 2021-02-26T11:07:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-procedures"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png"
-        width: 1600
-        height: 1069
-        isCached: true
-  - title: "Google fires second AI ethics researcher due to research disputes"
-    excerpt: "Google recently fired the co-lead of the ethical AI team, Margaret Mitchell, due to a violation of the respective security policies as stated by the company. The previous AI ethics researcher Timnit Gebru faced the same dismissal on similar accusations."
-    publishedDateTime: 2021-02-22T12:35:00Z
-    webUrl: "https://www.techjuice.pk/google-fires-second-ai-ethics-researcher-due-to-research-disputes/"
-    type: article
-    provider:
-      name: techjuice.pk
-      domain: techjuice.pk
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 54
     images:
-      - url: "https://cdn.techjuice.pk/wp-content/uploads/2021/02/google-highest-paid-jobs-1-1800x756-c-center.jpg"
-        width: 1800
-        height: 756
+      - url: "https://www.fudzilla.com/media/k2/items/cache/6535d6857bf718cae8df31f3aeb84b68_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "Google fires another ethics scientist"
+    excerpt: "Battle of Essex ethics Google appears to have fired scientist Margaret Mitchell after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
+    publishedDateTime: 2021-02-23T22:37:00Z
+    webUrl: "https://www.fudzilla.com/news/52401-googles-fires-another-ethics-scientist"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/01b41bc70cd698d6a5ba960b9c460f60_L.jpg"
+        width: 620
+        height: 415
         isCached: true
 
 secured: "wc0s6Crt6h6B71kRlxtcBiSCym5h3uLVFIvbWrEylM7QI0So+eFtf/NUMS9D2CNf9D0O4GQhhPeb2G3uNSk3Id88FKR16DqNwDfiBR4MBprrazX8FlzZVWeR08nXJMkjv2pX006AtShiBas3lPIpXCL49L4XHhIYiIfFBMawjsbavpMkwhUw562/31PA4tD6JPrdf4rXlhYdejc+rfn/2gfZDq18F7Lsq0seb6n3S3yJZ6VVK8Ac+1ConJxuuS6hk3UxRiH+syij6qG9Ob/LBV9GN7t0Cz5NpYILKKdmjlXjFwuOp6jbDBtMM9GlJ/HB2UGbvD9OcmjyM0XUc+eFr5wdc1H8fbZ3wIdjHYjhkEbBJOnoTgsB52K/r58PruCuJs8Dhbxk798tDfypBas3gKRBkXDvTF78WdSUB8sz5qzDIKVJa8hUhIRW6EH+hV2B79ZcsNLtvBCSykeEoeI1WCRUXjl6TgNHTJYvF2iKjJqaeUlfF0hI+bhGgYKkzKFdG1PR1JZqsAfspZZrHTsj8g==;VJvdiv1pAGix7d9Aigq1ew=="

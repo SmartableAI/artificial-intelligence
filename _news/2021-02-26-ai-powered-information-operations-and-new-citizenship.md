@@ -3,10 +3,10 @@ category: news
 title: "AI-Powered information operations and new citizenship"
 excerpt: "Digital information is power, and today citizens have this new power at their fingertips, channeled through reactions, comments, shares, saves and searches on our everyday digital platforms. However,"
 publishedDateTime: 2021-02-25T22:04:00Z
-originalUrl: "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/"
-webUrl: "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/"
-ampWebUrl: "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
+originalUrl: "https://thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/"
+webUrl: "https://thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/"
+ampWebUrl: "https://thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
 type: article
 quality: 87
 heat: 117
@@ -77,6 +77,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wVCWoRVaIEmko3naS+4C4AP4fDv3tt2k+oNnCsK1GnizdOs4nyEHK7LLneXGOOXICQRfU35BXdJgMAB0kVmyMgfFRmDc7bmgczXyoceNB+mHCpZ/bIFxuoHznG3LMYoqVPIUenN/VF1Buesm3JLpdaycjx++eYUWRM0/Py8RqQWC8BQsQ1AypUkJCDLLNODc1+My4VmSFGh7n5FJwBq9vSKjA+u/9S2VGwPDmCQkRlqdkZkRLOgy4rFb1A2GTRCx2riBMtWJbVjVQ9qeH5PvducWqvtheJT0qjJweUs2EXTlJ4q2gPC8Fkr/lvM0+UJaX0ZH6xnA/VU19N0+LdzNBepW5/EScJVKB2F2SrcIZQvxKNe+xnPWj3RDQJF2NDiPVN8cBkDXoziG4ZYsmun6e0MCQ3CgWEghfluiJUUVG4QMcMl5QfgZ/9J0C4sRHcjD/xcbOnBNfRaxAuw/rHgNvaIvC2qt6BKYy5KTcv2DQIuZgPipMcyvaWuGbEdNmz7teEvoqsYe0A2f3osERteEDw==;dyxJKOsYyQdyMGwMGJHIqw=="
+secured: "KGOCqgFTv11V917b/l98q5PHAq/rcnCM15efx+Ek26A+2MXrfCcT5kmeqMU9APm8fpHJsi6TX7gx6GtXGkzvdsEZ6y3nLLQoI+E2J+GK6dBoz2aMglbRAu8EU7Ay6fT4NdRSG2nhOglR+R/7jYMhgAFd585fy1Ysn1R+XkpcDetftUrLtM3bqqIflJOtwosD4dHykng7Qt98uAipCNSrtnm0Q6++qaorOXoHYmGpGzE23Ym4sGxLfcJ0r7O7kMRzA0Adx351CZ/KYW5sRN8l7FIUFOdg4vtVgaGcKAxgdWEwSW5lSlLIKkge47WK+AIQ98FZOxgm/lzTJJ4Yc6UKYsRTRsXV11AE5O3cTn29Oxc=;T5o0KjoIWslBIoMgpVwQUg=="
 ---
 

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026"
+    excerpt: "The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,427.2 million by 2026. North America held the major share of the global deep learning market in 2018."
+    publishedDateTime: 2021-02-26T00:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence market and is anticipated to grow at a CAGR of around 49% in terms of revenue during the forecasting period 2019 to 2026"
     excerpt: "The global artificial intelligence market is expected to exceed the market value of around US$ 160 billion by 2026. Acumen Research and Consulting, Recently Published Report titled \"Artificial Intelligence (AI) Market Size,"
     publishedDateTime: 2021-02-24T12:22:00Z

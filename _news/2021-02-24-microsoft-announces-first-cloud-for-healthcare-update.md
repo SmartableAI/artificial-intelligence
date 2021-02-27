@@ -54,11 +54,11 @@ related:
         height: 417
         isCached: true
   - title: "Microsoft wants to use AI to unlock the potential of HPC"
-    excerpt: "Microsoft Azure is able deliver differentiated cloud capabilities that are purpose-built for the full spectrum of HPC & AI workloads including the most demanding use cases. However, at the core of the infrastructure are HPC & AI clusters which use HPC-class InfiniBand interconnect with genuine low latency (~1us) and high bandwidth typically around 200Gbps using the latest processor technologies from its partners in the program."
-    publishedDateTime: 2021-02-27T02:44:00Z
-    webUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+    excerpt: "The NAG Azure HPC & AI Collaboration Center, in partnership with Nvidia, will be focused on developing best practices for deploying scalable machine learning. Finally, the RedLine Performance Azure HPC & AI Collaboration Center, in partnership with Intel ..."
+    publishedDateTime: 2021-02-27T02:58:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
     type: article
     provider:
       name: TechRadar

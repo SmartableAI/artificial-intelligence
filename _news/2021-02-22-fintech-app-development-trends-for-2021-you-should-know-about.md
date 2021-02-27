@@ -64,20 +64,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "5 top Indian FinTech funding rounds announced this Feb 2021"
-    excerpt: "The Indian FinTech sector witnessed interesting funding announcements this 021. Digital payments have been instrumental."
-    publishedDateTime: 2021-02-22T12:19:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding-rounds-announced-this-feb-2021/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/fintech-malaysia-1-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "UK government set to offer fintech visa"
     excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
     publishedDateTime: 2021-02-22T17:13:00Z

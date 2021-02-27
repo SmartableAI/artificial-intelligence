@@ -39,6 +39,20 @@ related:
         width: 700
         height: 342
         isCached: true
+  - title: "Artificial ‘brain’ reveals why we can’t always believe our eyes"
+    excerpt: "By using decades’ worth of data from human motion perception studies, researchers have trained an artificial neural network to estimate the speed and direction of image sequences. The new system, called MotionNet,"
+    publishedDateTime: 2021-02-27T03:21:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/613189"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 39
+    images:
+      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/fogdriveyaopeyyongunsplash.jpg"
+        width: 700
+        height: 342
+        isCached: true
 
 secured: "yQQP+xfSZcX26CDbJ/iK/KJ7dE+zK7SnzxBfiRzL0cZ4YyA2r7YYVSL+1Q3iti9e+YLafKgfGTX89iHq3SKAa63mczGS+Zt3Vs+lISclor311mXx6IMVdzJB9RHRpqgL2V36qgysNPhZUgXezxqnGmM59R/S877ckylk5Kkks8YREnVkqUY4R7Q6c7u4m1xbMzM8EXchcDJZmOchAU+y3ygkKJToc5XXoEuXRR7CeOQw6lvlk2BdHFFnrwiVHn3PJzK+KQPkkQDgmOr082V1wMb7GXEOxR5/1of3gK+g8T9rqWoNO9LZ7bJ9LHABGaQ5m0EhY7CH9HeEfaCfhAJ2bwBcVqI9QSQKMmsNUTTM818=;rnt5cgoGHpGbUFPHMkwANg=="
 ---

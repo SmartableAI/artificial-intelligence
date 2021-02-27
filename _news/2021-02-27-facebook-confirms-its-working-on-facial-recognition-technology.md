@@ -93,6 +93,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Judge approves $650 million settlement in lawsuit over Facebook’s photo face-tagging"
+    excerpt: "A federal judge on Friday approved a $650 million settlement of a privacy lawsuit against Facebook for allegedly using photo face-tagging and other biometric data without the permission of its"
+    publishedDateTime: 2021-02-27T04:29:00Z
+    webUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/"
+    ampWebUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 37
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/02/Facebook.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
     excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
     publishedDateTime: 2021-02-26T22:35:00Z

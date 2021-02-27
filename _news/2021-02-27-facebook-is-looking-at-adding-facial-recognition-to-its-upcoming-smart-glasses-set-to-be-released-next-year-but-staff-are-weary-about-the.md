@@ -106,6 +106,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Judge approves $650 million settlement in lawsuit over Facebook’s photo face-tagging"
+    excerpt: "A federal judge on Friday approved a $650 million settlement of a privacy lawsuit against Facebook for allegedly using photo face-tagging and other biometric data without the permission of its"
+    publishedDateTime: 2021-02-27T04:29:00Z
+    webUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/"
+    ampWebUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 37
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/02/Facebook.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "U740XYH58GWXWnkMwZ/jsnAyfoYVSy5UP3FTO3/Zzh0mfhCyDEns+czLeIqiJMlzLpw58wLDtAqx0QYtHkbnIZx9Z+qqOzIuWsNaeMw7VZrV/4GE6CyNBUh+sZ1K0nX7gYi2z6vfUMMuN7JQBcsUQd2hzStBhIXavKH2RIZ5ABrrMRgDdyz5qxxBb3Yz4rlcF7IPogzCpDhlJCUfTUkdbe9vjd8wOmKOeGBiU485sxYi7eF0feq788b3F0hb5QjYLP2bWS9pcY7WyCkzqZV/PaotkmsNafvLA/FSRo2nCW49KBI9RpAfjtsNAlT8W/IAUkeP+PF2KkpEhvgXnPppB2xu2OCaZa8SQoJcPay1hO8=;+dVl94q56n3JUHrfWus0iA=="
 ---

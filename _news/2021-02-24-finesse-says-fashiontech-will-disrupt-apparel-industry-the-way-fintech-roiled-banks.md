@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
 type: article
 quality: 52
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "5 top Indian FinTech funding rounds announced this Feb 2021"
-    excerpt: "The Indian FinTech sector witnessed interesting funding announcements this 021. Digital payments have been instrumental."
-    publishedDateTime: 2021-02-22T12:19:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-top-indian-fintech-funding-rounds-announced-this-feb-2021/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/11/fintech-malaysia-1-1.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "Fintech App Development Trends For 2021 You Should Know About"
     excerpt: "Finance technology is popularly known as Fintech. It is an integration of finance and technology to support the financial jargons"

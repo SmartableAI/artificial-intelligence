@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "IoT, edge computing and AI projects pay off for asset-based enterprises"
-    excerpt: "Enterprises are tapping machine-generated data that's captured at the edge to improve operations. AI processing can be done locally for latency-sensitive applications, or sent to the cloud to get the best of both the edge and cloud worlds."
-    publishedDateTime: 2021-02-22T11:17:00Z
-    webUrl: "https://www.networkworld.com/article/3607672/iot-edge-computing-and-ai-projects-pay-off-for-asset-based-enterprises.html"
-    ampWebUrl: "https://www.networkworld.com/article/3607672/iot-edge-computing-and-ai-projects-pay-off-for-asset-based-enterprises.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3607672/iot-edge-computing-and-ai-projects-pay-off-for-asset-based-enterprises.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "A Global Pandemic and the Evolution of Artificial Intelligence"
     excerpt: "While the global pandemic may have hindered many industries, it accelerated the development and application of artificial intelligence."
     publishedDateTime: 2021-02-25T21:51:00Z
