@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/news/world/united-states-canada/article/3122747
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists"
 type: article
 quality: 60
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/332601e2-cefb-5673-9ee4-3b91c2637d08"
         width: 410
         height: 230
-        isCached: true
-  - title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-    publishedDateTime: 2021-02-23T01:41:00Z
-    webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-        width: 1024
-        height: 682
         isCached: true
   - title: "After Facebook, Twitter ban, Trump supporters, extremists turn elsewhere"
     excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders; banned from mainstream platforms, US conspiracy theorist and white supremacist movements, many of whom support Donald Trump,"

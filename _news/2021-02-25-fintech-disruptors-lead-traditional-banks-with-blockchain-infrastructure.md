@@ -35,6 +35,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Future FinTech Announces Updates of Potential Acquisitions"
+    excerpt: "Future FinTech Group Inc. (NASDAQ: FTFT) (“hereinafter referred to as “Future FinTech”, “FTFT” or “the Company”), a leading blockchain e-commerce company and a service provider for financial technology,"
+    publishedDateTime: 2021-02-27T18:38:00Z
+    webUrl: "https://www.globalbankingandfinance.com/category/news/future-fintech-announces-updates-of-potential-acquisitions/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/category/news/future-fintech-announces-updates-of-potential-acquisitions/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/category/news/future-fintech-announces-updates-of-potential-acquisitions/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://mk0gbafnewsorgaiih3v.kinstacdn.com/wp-content/uploads/2019/07/gbafNews28-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Astra Launches Automated Bank Transfer API for Financial Institutions and Fintech Companies"
     excerpt: "Astra, a technology company that offers advanced bank-to-bank transfer solutions, today announced the official release of its transfer automation platform designed for financial institutions and fintech companies."
     publishedDateTime: 2021-02-23T14:27:00Z

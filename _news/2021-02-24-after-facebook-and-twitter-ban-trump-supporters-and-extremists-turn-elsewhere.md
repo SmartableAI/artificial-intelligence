@@ -59,20 +59,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "After Facebook, Twitter Ban, Trump Fans And Extremists Turn Elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging and Discord for insiders -- banned from mainstream platforms, US conspiracy and supremacist movements, many of which support Donald Trump,"
-    publishedDateTime: 2021-02-23T01:41:00Z
-    webUrl: "https://www.ibtimes.com/after-facebook-twitter-ban-trump-fans-extremists-turn-elsewhere-3150202"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/22/supporters-of-donald-trump-including-far-right-extremists.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "After Facebook, Twitter ban, Trump supporters, extremists turn elsewhere"
     excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders; banned from mainstream platforms, US conspiracy theorist and white supremacist movements, many of whom support Donald Trump,"
     publishedDateTime: 2021-02-23T13:00:00Z

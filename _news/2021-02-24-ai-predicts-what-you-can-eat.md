@@ -40,17 +40,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Appier Shares AI Predictions and Trends to Watch in 2021"
-    excerpt: "TAIPEI, TAIWAN - Media OutReach - 23 February 2021 - Appier, a leading artificial intelligence (AI) company, today shares AI Predictions and Trends to Watch in 2021. Artificial intelligence (AI) and machine learning (ML) have moved from the backrooms of computer science into the mainstream."
-    publishedDateTime: 2021-02-23T01:59:00Z
-    webUrl: "https://vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021.html"
-    ampWebUrl: "https://m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
-    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
-    type: article
-    provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 39
 
 secured: "A4Qho+Wtlf1LTgsMzJKmLYS1u4XUXm/ZxRK0ST7zZia41YZH0DtEP1HIzyvqj0PlrpyyJSsnZzufFlYH7xznzXx5annXkZhIPSLj7yHyfW6eQjoJ3jX9SVXqSf/rZw1hw6glaKq/aDnO1QtQRm7RQ1bYQsKYgXsbxN02jkhneQfn4UZSXnDI82N7dI4RpdbBH+3T/Jbza4rJI7qE978ID4amAKu73NRynC1CJhI35Y+8W2EN7V6jQcj0QEEnWI2vIEyqg+JcsV+oAubisN5IaCPvlaxglz3dleghqN87I9VaSthoAJY+uf+nSxyM8l6wiq/IRASXNeUkTwfzopXqRibAwofhO0DtsgDTKhj+Bck=;0acSy7T7dZZePBNzjmrduw=="
 ---

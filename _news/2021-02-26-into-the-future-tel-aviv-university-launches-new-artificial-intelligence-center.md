@@ -24,6 +24,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "Into the Future: Tel Aviv University Launches New Artificial-Intelligence Center"
+    excerpt: "The AI revolution is expected to impact our way of life in every aspect,” from drug development to security systems, robotics and even social issues,” said Professor Meir Feder, who will head the center."
+    publishedDateTime: 2021-02-27T18:08:00Z
+    webUrl: "https://www.jewishpress.com/news/breaking-news/into-the-future-tel-aviv-university-launches-new-artificial-intelligence-center/2021/02/27/"
+    type: article
+    provider:
+      name: Jewish Press
+      domain: jewishpress.com
+    quality: 17
+    images:
+      - url: "https://www.jewishpress.com/wp-content/uploads/Artifical-Intelligence-Pixabay-880x495.jpg"
+        width: 880
+        height: 495
+        isCached: true
+
 secured: "JhIuXuKOQDoN7Xi2zNN0tkGYwn50U767RvS+Iipn2eHvcdNXtHv5DMgQve+BSVDDTNRKAo+jc55kP46hnc3SIUWWIlZxRkcgE/FPORuDR602mbaYdetoQ9mi1Rqa1gXExPiQIg/oh2WmU8ENaG/1N5Z5Fh8zOKtCYjFC6MnQ7C4QM61u0jrkOjmXqZWCzJA8mI2X6R/uOxKMTm4oZQdJEIgz41Au1yLMNzJq1z1i7+GjFqjqwv87cYvBOLzW1LbFGBivQGmN7QxdXyC7rosp/9U7WbiiuzV3vGOSTwVKH5213GK8h3D6kFoyrbhQjYxhBjGOfcuIFO5gZIIpbeCwCDqkzzibxUnavKnNbNB1Y0UJLvqNP6HX3gfkrQur3ULBAaHgkeyRliRqzITXT2N7uW2+7fWRDysOQhpKJhswn67VOZyU08K5ZPbfU2N2sD8qSBdn4UuOPxFS2G5X8nFoeG1y1HA1TkCc8Twa62OoNcoLhM1UJDE8RR/NLv+puDKjzPRR5vSUhlK3ynUDzUvZkA==;Gic1hEtXsXP4p15PfW3wDg=="
 ---
 

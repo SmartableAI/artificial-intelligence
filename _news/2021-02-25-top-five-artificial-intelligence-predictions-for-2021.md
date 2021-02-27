@@ -9,8 +9,8 @@ ampWebUrl: "https://www.itproportal.com/amp/features/top-five-artificial-intelli
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-five-artificial-intelligence-predictions-for-2021/"
 type: article
 quality: 57
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: IT Pro Portal
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Appier Shares AI Predictions and Trends to Watch in 2021"
-    excerpt: "TAIPEI, TAIWAN - Media OutReach - 23 February 2021 - Appier, a leading artificial intelligence (AI) company, today shares AI Predictions and Trends to Watch in 2021. Artificial intelligence (AI) and machine learning (ML) have moved from the backrooms of computer science into the mainstream."
-    publishedDateTime: 2021-02-23T01:59:00Z
-    webUrl: "https://vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021.html"
-    ampWebUrl: "https://m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
-    cdnAmpWebUrl: "https://m-vietreader-com.cdn.ampproject.org/c/s/m.vietreader.com/business/media-outreach/34334-appier-shares-ai-predictions-and-trends-to-watch-in-2021/amp.html"
-    type: article
-    provider:
-      name: vietreader.com
-      domain: vietreader.com
-    quality: 39
   - title: "AI Predicts What You Can Eat"
     excerpt: "Vancouver startup Honeycomb.ai alleviates the struggles of dining out for people with dietary needs, allergies, and lifestyle preferences. The typical ingredient-tetris bottleneck played"
     publishedDateTime: 2021-02-24T12:00:00Z

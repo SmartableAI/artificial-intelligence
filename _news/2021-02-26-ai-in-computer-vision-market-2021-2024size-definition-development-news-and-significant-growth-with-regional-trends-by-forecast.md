@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Speech and Voice Recognition Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
-excerpt: "Feb 25, 2021 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
-publishedDateTime: 2021-02-25T06:06:00Z
-originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2021-02-25"
-webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2021-02-25"
+title: "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast"
+excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated"
+publishedDateTime: 2021-02-26T02:36:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
 type: article
-quality: 31
+quality: 54
 heat: -1
 published: false
 
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -81,20 +80,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated"
-    publishedDateTime: 2021-02-26T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -212,6 +197,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "Feb 25, 2021 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
+    publishedDateTime: 2021-02-25T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
     excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2021-02-24T09:17:00Z
@@ -252,6 +251,6 @@ related:
       domain: openpr.com
     quality: 0
 
-secured: "1/hgu2knAxoYJV454lUIq/+Q0bDx+m16mcUW3t+VrqIJAH7jETOE2a2l+Oqx8HC5SHgwJrtKsKLZNARKOBihxlAQCLqCcenmqPeRX4J2CH5hwnTIWfC1Ud3azHeKxbegn3sYarmeqtopIO5N/tagCwCKx0JOR85HxTiI1qtFfrprqkULY3ecmN23CuS7hm6ms4AxLTo8ItvXucl3yp+7aDvw27yZgUTsfFmZNz53xNF1lqXth/LSnySFg1lQviFOt6RFaywDANj+TodUHA35kOKxqzByn8LQFLZm0Zh1Md1hege8T9pKuffS4GE6ZDX8Cs49WFt7TvjwNjl0GN66nue9BrGJC9/gPMtDsx2C3DE=;KRmA11Gjexkn5ICMR/u/KQ=="
+secured: "okJ4736c5QwbVTnwiaChSZmiNTrV3gac4GCSn9h0cCdaHA/NxQO+cCR8uTm/9r4/1GTIPXoWPjY/sqSW82OOApQ1MtaH6stavcoPkgzJcmevu4y9SucndC6OIxuKSald8pvs2MaxbwMdBNuCCYQV3DY5N48IBUxooKPSxtmwhgk1NgjAYWGQOR7MAje4kxJePcr/z8vawb9Fk+e+2MIDqOXoMycDVq6XuhxFEnvjIRmTJwVss2gaQCh4p43hDpIJSbvNijYYokN+8xThjfOnDwj/KB+DjLWBxXc6lc9PywECgVcLWCc0F01q8gRaza9hNx9IvHWVUy8fxw/AUt7ip3uOlI5oASXq8uRgeN+jBHE=;163ZGfPjZUPcRH3ou5qrpg=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Apple in talks to buy self-driving sensors, key step in car plan"
-excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
-publishedDateTime: 2021-02-19T19:25:00Z
-originalUrl: "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan-11613752857331.html"
-webUrl: "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan-11613752857331.html"
-ampWebUrl: "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan/amp-11613752857331.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan/amp-11613752857331.html"
+excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
+publishedDateTime: 2021-02-19T19:02:00Z
+originalUrl: "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/"
+webUrl: "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/"
+ampWebUrl: "https://amp.detroitnews.com/amp/4510493001"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.livemint.com/img/2021/02/19/600x338/2021-02-17T151827Z_1_LYNXMPEH1G19K_RTROPTP_3_EU-APPLE-EPIC-GAMES-ANTITRUST_1613725934431_1613725951658_1613753771739.JPG"
-    width: 600
-    height: 338
+  - url: "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
-secured: "H3yu/jKebxfwD3wrwLIhVeb0XXlhuXkSC881jAZXFUWGEdVSTeIFBaZdYmxVHziu4rR6QTY+W5w+ia6NuoLAPRn2KEeSReyCFakLMhHvxWp8bAD6Of1QSmO1gDyfO+roLUaWmujwpEqBvEc0yNageOfT1nLsb21yZKxhSFF21R5CmLSDxbO/QPTa+13Fac8dB995ZhjPk67JPkEZpM02nKN86onGvWQ8RJwScqkH8ok7vCX+Q7dig6FpSDkoOc3HnKT0OcMxxAUDLVhqr97Odk2rR9fdcDsu7oSRL+rZzoOgqw1tOzqEXX8GfRnmvSzDQhpm6m3oX1WVkNhz3jInBIKfmhtPXpdaoaDPai8DoK8=;xfJrOQx/dl02EtgGJtn3kQ=="
+secured: "svQKCt2lGeAyYRzyu/t3+4/Y7YcTJ7VM7txBmjq5oR7UwIHwJQQ5CkSaEhgHPE7ARUYjf9VoBizTKhnsuMtkrzWJBSswYvrEhtjsUNhfwA8iRPq/eWBQ3QFV+GNmda3STLgAO+WoMSAhJbAZCOn6YzhPRjNntWkCvTZ7SPvxEFpEWyM6TNOlBSm/Xfgr8XjX7s5lb6/mfuF92FPFHhM2YpnA3xEM9CaD/oFzPj6hMO4V2m4Z1BJNecThaPxMTZxsg+Q50WWnJ30SVib5VPWilciaf5Al4sY0M5S7XoDYSR8QcZ22dn75aOoR4uhou7bA90sTEnLVmL3CX3qu/j9pOTj8zHoneZV5fxJ0s8I1IHo=;GZl/dTQJxqqYZI6SrOcKYA=="
 ---
 

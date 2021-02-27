@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-27T16:00:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/patent-issued-for-computer-network-architecture-with-machine-learning-and-artificial-intelligence-and-dynamic-patient-guidance-uspto-10923233"
 webUrl: "https://insurancenewsnet.com/oarticle/patent-issued-for-computer-network-architecture-with-machine-learning-and-artificial-intelligence-and-dynamic-patient-guidance-uspto-10923233"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"

@@ -3,10 +3,10 @@ category: news
 title: "TensorFlow: A cheat sheet"
 excerpt: "TensorFlow is an open source software library developed by Google for numerical computation with data flow graphs. This TensorFlow guide covers why the library matters, how to use it, and more."
 publishedDateTime: 2021-02-26T23:15:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
 type: article
 quality: 106
 heat: -1
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
-  - TensorFlow
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2019/03/13/99aff292-46c4-4950-85d2-6e4cd750f51d/thumbnail/1200x675/8558ea8e682f0896a037fc60f2c2bb0e/2fnltensorflow.png"
@@ -47,6 +47,6 @@ related:
         height: 462
         isCached: true
 
-secured: "v0A7q4DhoLF80KQRuQABvu1treEGa9jtzCRT7nBng0y6VJqOMisWx3L7anHKNDKo9fAOEEtnshwQSJaHP4BjRvPoPj8RRiBx+kVX9otA58f9HdPFGstsiWmYaLct3JnJVpLxVGNWQbzPGrXru0BMlzbFFbTnW/fNbbUbufm9xkST0n/2KtEvglG5CoW4j6aemUDcgh8lIjeZxtJ/bcX+W4iWKxzGcXJfS2YUlGaSia61heMaYWnZqAgD/plWWW5fmPgVj7BUfIJfdNmAPeLiTz0xpVsHOhEMGnaIp63zyf7Iz3NDSfJT51+dEYZn8CCsxfbgZQSg7siaeM40Np4/pYNQR7F5sl6gvEhKEoWwpCvUoUbLfJ6y7FjYsEUsPt1uk8G+h+kMkVG2MWChkDeY7Ae4S5/x+Dh3bShIXkRfSWZVmBdmM1ag9goxE07EFsWuKjXaWdlISMvQew0Jx7UCp7JzGlCWcy59zBeKm9OVo8vvRPbd713yASklJpZUpSpAAq/5pH0iWqzoB3R1VvQQVg==;CcP7jZKh3+yxX87nQwIU3w=="
+secured: "PK869aGOuoTx3UJDJYxeXbws3w8UZq3i4o/gV+BsbfqESZYwYwp32B3kKvmNrVjuK/Z0R+VXThuOuP2BtJsb80416cfXOIP9d6kh1x9IALNx5AQoXJ376qAL5Gpx5uX8zkHLurDOE6rV7WdpQxS/TCBV2JwXGRAlB3lMmxq3DWfq+TrtmQd3vGvSvV80dr1N0hJiL9JWHe4gAHmI/sGkzgl1cqjX6IIzAoeD7gvSD+0jCmirV3UKs7497gh9mMHFwX575WEDPyxZxP+4pbj855W+kxIutBREZvbd2Uygj6RghNV+G8MY14twCvcQQvI55C9xI3RDgnUNpAVn8YZR7GL319AotXKy+y1wVyYVNKU=;djNPwpwc/UZ1vyxG/YoCbA=="
 ---
 
