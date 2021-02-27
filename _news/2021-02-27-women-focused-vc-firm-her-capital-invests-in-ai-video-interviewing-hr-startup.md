@@ -3,8 +3,8 @@ category: news
 title: "Women-focused VC firm Her Capital invests in AI video interviewing HR startup"
 excerpt: "With the new funds, Neufast plans to expand its product suite as well as expand into the Greater China and Southeast Asia markets."
 publishedDateTime: 2021-02-26T18:16:00Z
-originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-674915"
-webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-674915"
+originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-675675"
+webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-675675"
 type: article
 quality: 44
 heat: 44
@@ -37,6 +37,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "AQT+B7AeN3+vmoRqeVu1GkSNGWqZIeub50oLhO5JxgsXPFFX9wD08iSg3iWSAsw1qTVx5MQEpMbtUUS5VG3tLB5sGAhXx2VctLZgkMO56P/RJtD4BvW6DgF5Wy2lA3o9hWix9n/h9cUh7qg4IAdXExx23UWeSUiZUORWmeOyuecWEVQn3R96US5vLQF+DNJbOFCAYB97fDZWPB6XnRoRx1y6B2Hz9BIeDswvUfBxAxHnIGEDE4KMsBwxLSutfZJVhGtX/nucI3G1QZCJ8LJB+qAO+/vRi+9vQeIDS2yIsi++ZZkHSbxj5igJ+qNW6y2odUrdNpThTr5MbseI5v4G/ELPeNovlttLzde05mztKsMBUlS0hWaFXmbejOmGx0EFENZHnmLcWypdTmHhKvhUaDf6kBGAchzVxPG1i3KvfmCSISTKene3LTFSj7Pg7lqPw+LFioy2oZ+jWuleD017kHJ/LqZbjV4sCX/VJ1s/CSz51ARLcbdJgE7JqEuhtFHlNR59EfSdWTZwE0tSsOz3lg==;dPWaivLKmSoXycKRKOLPqg=="
+secured: "U7YITFwPlvPsUk7rmafhknD/KZFwvEiTcbY+iQ/3to/dCP2sy2qKjq4lMvUjZgY1zl47SAx7oorXZB/fTWgzVSrg/3xvoq+yzU0rDOjL5oRr8yWf2M7WL5wMdJ5MQvstqY668/dWkHCIbN73WOwkH6Fe9DXp1Fyhj+FE3VmYF32FYJ1z16JnLFg3rsrWjtRKClvUaG+BdE7FVBzZJd4nSAUFkgNVuVW8ndsncFYoALP6lcX2T6BpNOxyJ563YMZykBd7qIzNtzrd+uMk0dyz0MRUjfjMP8FIPGEtqILguw5nXBxHBD5blYnGQGQbZaxp2tleRgCFj2s2comAKJuFYA+xmJVIdt6dT/wWSHX9uvjNhQSp/iwnjHwQabn321dGq9CO9YYbNVPVRmzK75aI2fuOUOZNYveqTUfWPMqiO7RX/Ckz+RKgzZhqkylebtkz1E9RUMEGrMBu6XHys0b6RReFMv0r9p16USCs/pSkzxGJS6dwBts3yGq6XzSJOjfjXqhJzFpGWRkUlT0x5Mgk/w==;V22USc5GA8kT3+wH1ITd9w=="
 ---
 

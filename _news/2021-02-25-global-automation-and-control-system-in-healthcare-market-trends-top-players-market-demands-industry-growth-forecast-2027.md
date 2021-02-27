@@ -141,20 +141,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Vehicle Speech Recognition System Market Analysis by Manufacturers, Regions, Type and Application to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 23, 2021 (The Expresswire) -- The global “Vehicle Speech Recognition System Market” Report deliver comprehensive analysis of the market structure along with forecast ..."
-    publishedDateTime: 2021-02-23T08:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-analysis-by-manufacturers-regions-type-and-application-to-2027-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Agriculture Robots Market Size, Global Analysis, Business Strategy, Sales Revenue, Future Prospects, Company Profile, Developments and Forecast 2026"
     excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
     publishedDateTime: 2021-02-23T09:01:00Z
@@ -192,20 +178,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
-    publishedDateTime: 2021-02-22T17:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

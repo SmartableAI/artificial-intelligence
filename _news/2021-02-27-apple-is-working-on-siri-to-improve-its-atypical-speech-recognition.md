@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Siri to get atypical speech upgrades"
+    excerpt: "Apple is currently trying to make Siri better by researching how the digital assistant could understand atypical speech. The Wall Street Journal reports"
+    publishedDateTime: 2021-02-27T09:13:00Z
+    webUrl: "https://www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrades"
+    ampWebUrl: "https://www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrades?amp"
+    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrades?amp"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 44
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2021/02/Siri.png"
+        width: 1580
+        height: 894
+        isCached: true
   - title: "Siri May Soon Get Better at Handling Atypical Speech Patterns Like Stuttering"
     excerpt: "While there’s room for reasonable debate as to how well Siri’s voice recognition works in general, there’s been one area where it’s inarguably fallen"
     publishedDateTime: 2021-02-26T17:59:00Z

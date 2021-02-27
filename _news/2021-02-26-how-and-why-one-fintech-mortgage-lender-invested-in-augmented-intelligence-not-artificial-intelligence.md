@@ -59,17 +59,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "UK government set to offer fintech visa"
-    excerpt: "The UK government will use a visa scheme targeted at financial technology (fintech) professionals to fill gaps in the sector’s workforce as a result of losing access to the EU’s massive skills base. The move has been welcomed by the fintech industry,"
-    publishedDateTime: 2021-02-22T17:13:00Z
-    webUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa"
-    ampWebUrl: "https://www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496693/UK-government-set-to-offer-fintech-visa?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
   - title: "It’s now or never for UK fintech, government told"
     excerpt: "The UK government faces a ‘now or never’ moment if it wants financial technology to play a central role in the economy for years to come."
     publishedDateTime: 2021-02-26T15:18:00Z
@@ -81,20 +70,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 24
-  - title: "QCB planning to launch regulatory sandbox for entities to test fintech solutions"
-    excerpt: "The Qatar Central Bank (QCB) is planning to launch its regulatory sandbox this year, which offers a safe and controlled space for entities to test out their fintech solutions under relaxed regulatory requirements."
-    publishedDateTime: 2021-02-22T18:40:00Z
-    webUrl: "https://www.gulf-times.com/story/685266/QCB-planning-to-launch-regulatory-sandbox-for-enti"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 19
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/2202122214050832215144.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Fintech Company Zoe Financial Celebrates 3 Years as a Leader in the Wealth Management Industry"
     excerpt: "Zoe Financial today celebrates three years empowering consumers to find the best and most trustworthy financial advisors. \"The"
     publishedDateTime: 2021-02-25T18:30:00Z

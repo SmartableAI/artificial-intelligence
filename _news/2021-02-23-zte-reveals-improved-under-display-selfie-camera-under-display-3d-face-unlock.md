@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/zte-second-generation-under-display
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/zte-second-generation-under-display-camera-1203259/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "ZTE showcases under-display facial recognition system"
-    excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
-    publishedDateTime: 2021-02-25T08:42:00Z
-    webUrl: "https://www.ianslive.in/index.php?param=news/ZTE_showcases_under_display_facial_recognition_system-763776/Latest News/31"
-    type: article
-    provider:
-      name: IANS live
-      domain: ianslive.in
-    quality: 39
-    images:
-      - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "ZTE reveals under-display face biometrics system for smartphones"
     excerpt: "The 3D structured light system will support face biometric authentication capabilities like Apple Face ID, and may be included in ZTE’s next flagship smartphone"
     publishedDateTime: 2021-02-26T22:49:00Z

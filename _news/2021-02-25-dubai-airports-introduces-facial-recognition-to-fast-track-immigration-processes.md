@@ -7,7 +7,7 @@ originalUrl: "https://www.futuretravelexperience.com/2021/02/dubai-airports-intr
 webUrl: "https://www.futuretravelexperience.com/2021/02/dubai-airports-introduces-facial-recognition-to-fast-track-immigration-processes/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -25,37 +25,79 @@ images:
     isCached: true
 
 related:
-  - title: "Anviz releases AI-based biometric facial recognition terminals to facilitate safe return to offices post COVID-19 lockdown"
-    excerpt: "Understanding access control technology has surpassed its core application as a security tool and is helping protect individuals from infection, Anviz has announced the release of a strategic"
-    publishedDateTime: 2021-02-23T10:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
+  - title: "How One State Managed to Actually Write Rules on Facial Recognition"
+    excerpt: "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations."
+    publishedDateTime: 2021-02-27T10:09:00Z
+    webUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
+    excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
+    publishedDateTime: 2021-02-26T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facebook-confirms-its-working-on-facial-recognition-technology-2021-02-26-71973028"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Attorney general’s office asks lawmakers to loosen ban on facial recognition"
+    excerpt: "The attorney general wants police to be able to use the technology to help solve child sexual exploitation cases."
+    publishedDateTime: 2021-02-25T13:56:00Z
+    webUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/"
+    ampWebUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
+    type: article
+    provider:
+      name: VTDigger
+      domain: vtdigger.org
+    quality: 56
+    images:
+      - url: "https://vtdigger.org/wp-content/uploads/2019/01/20190123LEGIE9.jpg"
+        width: 2000
+        height: 1498
+        isCached: true
+  - title: "Global Vehicle Speech Recognition System Market Analysis by Manufacturers, Regions, Type and Application to 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 23, 2021 (The Expresswire) -- The global “Vehicle Speech Recognition System Market” Report deliver comprehensive analysis of the market structure along with forecast ..."
+    publishedDateTime: 2021-02-23T08:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-analysis-by-manufacturers-regions-type-and-application-to-2027-2021-02-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 48
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/widespread-use-of-biometrics-and-facial-recognition-technology-in-industries-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "GDRFA-Dubai launches new fast-track passport control service that uses face and iris-recognition technologies"
-    excerpt: "The General Directorate of Residency and Foreigners Affairs in Dubai (GDRFA-Dubai) has launched a new fast-track passport control service that uses face and iris-recognition technologies. Director General of GDRFA-Dubai Major General Mohammed Ahmed Al Marri,"
-    publishedDateTime: 2021-02-23T03:22:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/GDRFADubai_launches_new_fasttrack_passport_control_service_that_uses_face_and_irisrecognition_technologies-ZAWYA20210222140107/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210222140107/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210222140107/"
+  - title: "Emotion Detection and Recognition (EDR) Market Size to Cross $ 64.7 billion by 2027"
+    excerpt: "such as facial recognition, biosensing, speech and voice recognition, pattern recognition, and machine learning. Request a sample of this premium report at: https://www.marketstudyreport.com/request-a-sample/2942178/?utm_source=Marketwatch.com&utm_medium ..."
+    publishedDateTime: 2021-02-25T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-size-to-cross-647-billion-by-2027-2021-02-25"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 40
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://images.zawya.com/pr/images/2021/0004_2021_02_22.jpeg"
-        width: 450
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facial-recognition replaces need for passports at Dubai International"
     excerpt: "Dubai International Airport (DXB) has installed new biometric technology designed to speed up the passport control experience for out-bound passengers opting to use the service. The General Directorate of Residency and Foreigners Affairs in Dubai’s (GDRFA-Dubai) new fast-track passport control service uses face and iris-recognition technologies."
@@ -82,29 +124,64 @@ related:
         width: 1240
         height: 827
         isCached: true
-  - title: "Face recognition rolled out at DXB"
-    excerpt: "You can now travel through Dubai International Airport (DXB) with no identification papers, after the airpot rolled out the ‘smart travel’ system, which uses a mix of facial and iris recognition. This will definitely reduce the risk of contracting covid at an airport and you don’t need to worry about losing your passport!"
-    publishedDateTime: 2021-02-26T00:50:00Z
-    webUrl: "https://www.linkedin.com/news/story/face-recognition-rolled-out-at-dxb-4332033/"
+  - title: "ZTE showcases under-display facial recognition system"
+    excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
+    publishedDateTime: 2021-02-25T08:42:00Z
+    webUrl: "https://www.ianslive.in/index.php?param=news/ZTE_showcases_under_display_facial_recognition_system-763776/Latest News/31"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: IANS live
+      domain: ianslive.in
     quality: 39
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQFOCg1vPzX0KA/storylineheaderimage-shrink_400_400/0/1614068901084?e=1614391200&v=beta&t=8bhJFfPTMRpJfFGepqc8ZG1vM0j2-DP0UpgZc7jVGHs"
-        width: 400
-        height: 266
+      - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Moscow allocates US$12.5 mil to expand facial recognition"
-    excerpt: "MOSCOW: Moscow authorities have allocated more than US$10 million to purchase and install across the city’s sprawling metro system high definition cameras that can recognise faces and track fast movements,"
-    publishedDateTime: 2021-02-25T09:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/02/25/moscow-allocates-us12-5-mil-to-expand-facial-recognition/"
+  - title: "US city passes restrictive ban on facial recognition use by police, others"
+    excerpt: "Citing concerns about its reliability and potential to harm communities of colour, the Minneapolis City Council voted Friday to ban the use of facial recognition technology by police and other city agencies."
+    publishedDateTime: 2021-02-23T06:26:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/23/us-state-passes-restrictive-ban-on-facial-recognition-use-by-police-others"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/23/1053499.jpeg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
+    excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
+    publishedDateTime: 2021-02-23T04:55:00Z
+    webUrl: "https://www.straitstimes.com/business/banking/smes-can-now-use-facial-recognition-to-apply-for-dbs-online-banking-accounts"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 36
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/23/af_dbs_2302.jpg?itok=-bxg7okT"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
+    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
+    publishedDateTime: 2021-02-23T14:57:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
+    images:
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
+        isCached: true
 
 secured: "VseaOniKHoA99QKCgnzshhVOa3NS+zC1O3PLViINr4rdt/0MQ2PTh3koKNB50Wl5vYo9AZhGhyjpkWtsONsoxLazdgaBJ7F5DU8SvP0c7KPAfQEc94dhGjmEnrWU0l61nBKGjPndS1kEXl0iNQCK61ehII4R7waU4jtlf58jS6pBI63x7Vdzg/oNz170uXLZSNqHSeYrc1ZTDnQLpbtvmoUOvVPfDWsmo5JqcLVX/7sSnQlrWDszjwo7bLe4xS8eNdklf6qCJGj6mfN1W1sEJKDXUvvnu0KpCOubpFrajuBi6pKs/k2W5rB5IhKGhCtTbH5mTGbohJXgL7ojGrp1Aq7TBwoCv9aHbXZzThDoIDcfh4uOwEdoqFihexG1+O4aRnN4tuALBMb7fgmj30rs76Eny+joBL1eUz6wxj2KoE82tyVVDc0yHUi40PfGM5zRtBkKW98yvZ6Z1RkpnSAqAykjL1PJ5FCryV1nTr1Tg34FOIPlYeGk7EMXay0IJZnO/3DcuZ8hAJP9p4rDcx+Lbw==;C6du4aPoyGiJLNyjwMBUWA=="
 ---

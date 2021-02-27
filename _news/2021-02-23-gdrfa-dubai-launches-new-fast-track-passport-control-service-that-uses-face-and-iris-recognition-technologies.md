@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210222140107/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210222140107/"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -25,86 +25,6 @@ images:
     width: 450
     height: 300
     isCached: true
-
-related:
-  - title: "Dubai Airports introduces facial recognition to fast-track immigration processes"
-    excerpt: "A new fast-track passport control service that uses face and iris-recognition technologies has been launched across 122 smart gates at Dubai airports."
-    publishedDateTime: 2021-02-25T09:48:00Z
-    webUrl: "https://www.futuretravelexperience.com/2021/02/dubai-airports-introduces-facial-recognition-to-fast-track-immigration-processes/"
-    type: article
-    provider:
-      name: Future Travel Experience
-      domain: futuretravelexperience.com
-    quality: 49
-    images:
-      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/02/Dubai-Airports-biometrics.jpg"
-        width: 768
-        height: 403
-        isCached: true
-  - title: "Anviz releases AI-based biometric facial recognition terminals to facilitate safe return to offices post COVID-19 lockdown"
-    excerpt: "Understanding access control technology has surpassed its core application as a security tool and is helping protect individuals from infection, Anviz has announced the release of a strategic"
-    publishedDateTime: 2021-02-23T10:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 48
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/widespread-use-of-biometrics-and-facial-recognition-technology-in-industries-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "Facial-recognition replaces need for passports at Dubai International"
-    excerpt: "Dubai International Airport (DXB) has installed new biometric technology designed to speed up the passport control experience for out-bound passengers opting to use the service. The General Directorate of Residency and Foreigners Affairs in Dubai’s (GDRFA-Dubai) new fast-track passport control service uses face and iris-recognition technologies."
-    publishedDateTime: 2021-02-23T06:10:00Z
-    webUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl"
-    ampWebUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
-    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
-    type: article
-    provider:
-      name: aviationbusinessme.com
-      domain: aviationbusinessme.com
-    quality: 39
-  - title: "Moscow to expand metro facial recognition network"
-    excerpt: "Moscow authorities have allocated more than US$10mil (RM40.38mil) to purchase and install across the city’s sprawling metro system high-definition cameras that can recognise faces and track fast movements,"
-    publishedDateTime: 2021-02-25T09:48:00Z
-    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/25/moscow-to-expand-metro-facial-recognition-network"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/25/1056856.jpg"
-        width: 1240
-        height: 827
-        isCached: true
-  - title: "Face recognition rolled out at DXB"
-    excerpt: "You can now travel through Dubai International Airport (DXB) with no identification papers, after the airpot rolled out the ‘smart travel’ system, which uses a mix of facial and iris recognition. This will definitely reduce the risk of contracting covid at an airport and you don’t need to worry about losing your passport!"
-    publishedDateTime: 2021-02-26T00:50:00Z
-    webUrl: "https://www.linkedin.com/news/story/face-recognition-rolled-out-at-dxb-4332033/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQFOCg1vPzX0KA/storylineheaderimage-shrink_400_400/0/1614068901084?e=1614391200&v=beta&t=8bhJFfPTMRpJfFGepqc8ZG1vM0j2-DP0UpgZc7jVGHs"
-        width: 400
-        height: 266
-        isCached: true
-  - title: "Moscow allocates US$12.5 mil to expand facial recognition"
-    excerpt: "MOSCOW: Moscow authorities have allocated more than US$10 million to purchase and install across the city’s sprawling metro system high definition cameras that can recognise faces and track fast movements,"
-    publishedDateTime: 2021-02-25T09:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/02/25/moscow-allocates-us12-5-mil-to-expand-facial-recognition/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "u1bw4vEevk/oMI9A6rdO3qwfVE6rRj2QDvlliA9AZrxo6c0Kp8X5DK1kaOVPdllaczbFm2jhaH1Risk6NJRoD3zsUD6dH1qp3xhPGkfdLlUo/I4sNlZne1SmSxOqOdADGWdF7jgbcUT7S9ooXI2m4PRn6t2hbqvTjweO78NZlyw0igM30P64fun26/0vNouFaMMqPazZf9//0H263VSkWlhyYaDM90ACwqJUugR6fcC3/tPA3srSDqo5ZI/u1LjqjixvZa3eSC2jsa6iSXhoSumaaBwBedRmPn4gELbKnJu6t14/IIZBt84rxlQ8Nu6DiENLxzMeNlUPacJq//DxysAj5eYtKLtO1w+NA8QWrBU=;Z/lLFySHO0czKC1Cw3y3Cg=="
 ---

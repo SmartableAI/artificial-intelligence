@@ -43,20 +43,6 @@ related:
         width: 3105
         height: 2070
         isCached: true
-  - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
-    excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
-    publishedDateTime: 2021-02-26T18:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facebook-confirms-its-working-on-facial-recognition-technology-2021-02-26-71973028"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban"
     excerpt: "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban."
     publishedDateTime: 2021-02-26T12:24:00Z

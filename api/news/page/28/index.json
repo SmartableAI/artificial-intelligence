@@ -2,6 +2,153 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-02-04-ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models.md",
+      "title": "AI chips in the real world: Interoperability, constraints, cost, energy efficiency, and models",
+      "excerpt": "As AI applications are exploding ... We've seen how vendors like GreenWaves or Blaize support ONNX. ONNX came out of Facebook originally, and Sparks noted the reason ONNX was developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/03/9101c150-c8ae-49c6-8dec-abbebf3c35ab/xenonstack-onnx-overview-advantages.png",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-chips-in-the-real-world-interoperability-constraints-cost-energy-efficiency-and-models/",
+      "publishedDateTime": "2021-02-03T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-clearview-ais-facial-recognition-app-ruled-illegal-in-canada.md",
+      "title": "Clearview AI’s Facial-Recognition App Ruled Illegal in Canada",
+      "excerpt": "Canadian authorities declared that the company needed citizens’ consent to use their biometric information, and ordered the firm to delete facial images from its database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/03/business/03Clearview-01/merlin_153962745_f3eb3cf6-5fce-4616-931e-683e7a2809b8-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/03/technology/clearview-ai-illegal-canada.amp.html",
+      "publishedDateTime": "2021-02-03T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-15-examples-of-how-telcos-are-moving-to-the-public-cloud.md",
+      "title": "15 examples of how telcos are moving to the public cloud",
+      "excerpt": "I’m the world’s expert when it comes to moving to the public cloud. I’ve been talking with hundreds of telco execs and the flywheel is starting to turn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
+      "originalUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
+      "publishedDateTime": "2021-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-etihad-airways-transforms-operations-with-microsoft-ai-capabilities.md",
       "title": "Etihad Airways transforms operations with Microsoft AI capabilities",
       "excerpt": "The Finance and Digital, Technology and Innovation divisions worked with Microsoft to modernize their payment inspection process using cognitive services. The move will ensure that the process of identifying fraudulent or incorrect payments to suppliers ...",
@@ -1054,134 +1201,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-image-recognition-market-worth-9847-billion-globally-by-2027-at-1824-cagr-verified-market-research.md",
-      "title": "Image Recognition Market Worth $ 98.47 Billion, Globally, by 2027 at 18.24% CAGR: Verified Market Research",
-      "excerpt": "\"Image Recognition Market\" By Technology (Object Recognition, Facial Recognition, Digital Image Processing, Code Recognition, and Others), By Application (Security & Surveillance, Scanning ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-market-worth-98-47-billion-globally-by-2027-at-18-24-cagr-verified-market-research-1030039182",
-      "publishedDateTime": "2021-02-03T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-how-to-safeguard-students-mental-health-while-learning-from-home.md",
-      "title": "How To Safeguard Students’ Mental Health While Learning From Home",
-      "excerpt": "It’s no secret that students do their best work when they can fully concentrate on their education. But, thanks to the various lockdowns and learning from home, this tends to be a lot easier said than done, creating a huge number of other home-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
-      "originalUrl": "https://news.elearninginside.com/how-to-safeguard-students-mental-health-while-learning-from-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/josefa-ndiaz-IzmdWT2lW5Q-unsplash-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eLearningInside News",
-        "domain": "elearninginside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-court-denies-motion-for-class-certification-in-employee-w-2-data-breach-litigation.md",
-      "title": "Court Denies Motion for Class Certification in Employee W-2 Data Breach Litigation",
-      "excerpt": "asserting several torts and state consumer protection violations. The plaintiff claimed as a result of the data breach the class suffered damages due to: unauthorized use and misuse of their PII ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.governor.ny.gov/news/governor-cuomo-announces-proposal-safeguard-data-security-rights-part-2021-state-state",
-      "originalUrl": "https://www.natlawreview.com/article/court-denies-motion-class-certification-employee-w-2-data-breach-litigation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.governor.ny.gov/sites/governor.ny.gov/files/thumbnails/image/Computer_Cyber_Technology_hero.jpg",
-          "width": 2122,
-          "height": 849,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T07:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

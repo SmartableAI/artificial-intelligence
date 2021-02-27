@@ -61,20 +61,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "Self-driving companies are inching toward fully driverless service"
-    excerpt: "Motional, a joint venture of Hyundai and giant auto parts supplier Aptiv, has begun testing its self-driving vehicles in Las Vegas without anyone behind the wheel, the company announced in a Monday blog post."
-    publishedDateTime: 2021-02-22T17:54:00Z
-    webUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-begins-driverless-tests-eyes-2023-launch/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/motional-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Driverless bus hits streets of Malaga"
     excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
     publishedDateTime: 2021-02-26T00:36:00Z
@@ -138,6 +124,6 @@ related:
         height: 400
         isCached: true
 
-secured: "gFTwYQo5HPFiei146jNu9eIDjoz8Sr5fu1iUBZ2Ig9dm9ZEo0fFtYYoe2CT8SB2wMe6Pm7NtssFhmg0iNCOywBqqVcOz+sPbIepT0vKRBrP6/KW35RAbltXMVFXmsPFIzAIwDFQ8w7XjqjKLWEAA8uuIc8ISk6voF230mgXEFaKstYjcjKDPOgWG6ZYjAyDr8vZqmlLo8O6w8XPpC+GH4AOzaqDvRDNCnB3WUDo2vnhDHO8HXGf/y9ow/riiYnrZxA+TcJna6kpK5PSS0BQTu8eA1UnMUrgPH+mvexTML6Sxxij8xcds2blxhQJfK/QhqPLBSUI87vedg/qGi3ErlfGIRGiM3mCz00aGwGxIz+s=;r+Dte9cbCe11QXZaQjq7fg=="
+secured: "d5C1j9lFH3hJM4fxUuMV1rN+8DDp5dNKmNO+qJfPXz4CfTkzf9gNegKBXBoB0i+b61gkBcYIuS1oBSXOIq0997v5E1UwI7eEIaMzh5nAtB0PJPqhy3MC7zqL51bxNPql/rHsg115lhdZKEk4MUrO6HJNMScNJ0bnh6Du5E3KhqSmaW3OlDnwAXtQXekNWlHO9bP6whFZXcX7x076Pc5qwbco8cJX/MJ4I5jZTkdmQZ9J8hw237axe4zBYA5wwloTiTogvPbqpiT8a9ggQR8Fb7PriOlCAYlJPpq3S2f5cN0eD4w3fb/DuNWvjvVAYyqMQitZC1cCGbt8web7s1+8R2lJeKCS/tSA4hnjXHp16T0u0IIB0R3Dgvsc1oLn2QYPAuvC8uKhnbRps27MHED3+IkHfUVJLpTc0z73bRMabsvLVYIMDuJlZdOWakeMDC6gYyw7HoKwBBFeBPjWifS26VHYp/71ZdSZyXC4QR028WL7ZKlWJ4EBrcE5pLT59wPVprbWMGTSKT+GjypmgmlA2g==;ylujMCgFbHm/Lij7HLqlDg=="
 ---
 

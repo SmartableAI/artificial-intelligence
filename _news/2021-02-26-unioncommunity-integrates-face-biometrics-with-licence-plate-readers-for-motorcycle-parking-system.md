@@ -39,6 +39,15 @@ related:
         width: 359
         height: 400
         isCached: true
+  - title: "Moscow allocates US$12.5 mil to expand facial recognition"
+    excerpt: "MOSCOW: Moscow authorities have allocated more than US$10 million to purchase and install across the city’s sprawling metro system high definition cameras that can recognise faces and track fast movements,"
+    publishedDateTime: 2021-02-25T09:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/02/25/moscow-allocates-us12-5-mil-to-expand-facial-recognition/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "eNQDYLw4l8Vq90Ikhkyg7cgr80rRZeYvSQhXE1SDOxbPSWQVgavg1KFkqZOGWev8PWMm8N2eT3qkNdCTcqAyU9iGkXYOBY0NBCkxQ0la16GFNPI+w/B+lbEqHg42vKC/TiHREh24CBbHnnsVmjwaPS4pFG9f8oZVLjzz4DH2J4JPyb9IHkAPihgOEN2Tfamj2XmykaGGSTghLrK6hUfwYXqeQwXfJTsQB86kRvFeICgi/1j/Ei5tmSycdWyWNEGUZgN1g2FNAfNi0tC+FJEdp3anF/mlFuqr5Uii8jyTOyWhRlkBfP3mdrT3boMC5WuxVfstptP57nDaKTaJXr4clTCfaR5M1ezLETFu/5+gvhkoNy2U1E6haM6eOSK4UPGS374oRHYs0EshNTJUPysydU1VGdbUR74e3bpcdYAAizCeRMRyC1rqb7TKknuOqqnoUV1Im1ChIJFgCB1MeweNJ6iCDdsl4JjK2mKbUVWNoGVgEPbUlm11grwV3J6LVNRu8RvOOlm98x0C+c23Mt+r/A==;t5qugOoGJIb71aApmGwsvA=="
 ---

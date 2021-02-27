@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365661"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365661"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
-    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
-    publishedDateTime: 2021-02-23T14:57:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 20
-    images:
-      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-        width: 344
-        height: 344
-        isCached: true
   - title: "Syrian student comes first at international innovation competition for artificial intelligence"
     excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
     publishedDateTime: 2021-02-23T07:51:00Z
@@ -101,6 +85,6 @@ related:
       domain: sana.sy
     quality: 5
 
-secured: "+ufEcdRdBoaepbWZr/i1+DPzENjCmRP/WATJ7gmxGRSp3m8gww6W8JGrx6PZ1D55fO7dFcsgYOZ0hpDTtZoMIY+DPlzzyDCaNeMJXSV/tq4346/n2m0erC1imK8w34Uc/t9JfGX3CxNdfy6v4xvPt256RoPujVPsxHRG+tIzUDqvqtFy2eygLmdalFUyJARwxahdB0NtZQnQU01YeOKeDEZ9QCOiOKHVkADAAjW67vbV0yRKlst7+v2hLkFgSeA49NsxchLHJDmIDIGv+H/tjO2tjZIF6oVvTw9iC/kva7hbmqLX1aN8eIek8G3qoDMrzaH/QPT6AviAsy5NT29GqdABTJxaBC/dpm3l+ujLMdU=;KEBMv07Hgv5K/BeRRPwacQ=="
+secured: "qE2l5LQmq3pwg0SPcw1K+RoRTXBD+bt+HVEYBTtXFIXaef0MH4z+wSgnwVgDDnYh5yMJqf75EVZsFal3sjhsnuuGgbzDR4bLGVgNr2TdRKoqZ5TO6QoW8XXjTluEul0B97dP+0K+j5+2denaGpgZmYAabWNDAFtyWmhBHXn3vDl2ShYYYMzWdZr/wrbQ/S805noZ1cJX4fF+6086JYPBCNwK3pZkS7iesykzh4XENq1nz9FDQ9/L95EF3JYMxXWCyZYECUBdT7g6C2/VQlym49SvFgAHYRmrziph7Bc7HtwRwQjzjJGMRzD9dhvRp/vtyt7sTZUa0WX49WVYqHFURRkTlqX5w4er2z1qckuUnwvVd9i+/NGj/ko2pXnq+LPaQ/omLH5I8/IkN0sHfuoLHgnqDNvIiDfSQNvd9hQ1NBVLtrIzmhptLm5Zd7dUiytaNnQ0EW1fGQSuuG8FkPBBoH0H9G2tH4IksNiGLVD5KfauwUecH6QWWevce/IwQU9H6J5018UthmR+AnnrAq7CKg==;8TxZnTl24E3Fi+riean/Yg=="
 ---
 

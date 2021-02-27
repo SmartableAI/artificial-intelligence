@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Moscow allocates US$12.5 mil to expand facial recognition"
+    excerpt: "MOSCOW: Moscow authorities have allocated more than US$10 million to purchase and install across the city’s sprawling metro system high definition cameras that can recognise faces and track fast movements,"
+    publishedDateTime: 2021-02-25T09:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2021/02/25/moscow-allocates-us12-5-mil-to-expand-facial-recognition/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
   - title: "Unioncommunity integrates face biometrics with licence plate readers for motorcycle parking system"
     excerpt: "The Unioncommunity parking management solution for motorcycles that combines face biometric authentication with automated license-plate recognition."
     publishedDateTime: 2021-02-25T18:11:00Z

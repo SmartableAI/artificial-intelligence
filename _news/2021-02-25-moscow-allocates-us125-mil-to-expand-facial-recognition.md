@@ -19,90 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Dubai Airports introduces facial recognition to fast-track immigration processes"
-    excerpt: "A new fast-track passport control service that uses face and iris-recognition technologies has been launched across 122 smart gates at Dubai airports."
-    publishedDateTime: 2021-02-25T09:48:00Z
-    webUrl: "https://www.futuretravelexperience.com/2021/02/dubai-airports-introduces-facial-recognition-to-fast-track-immigration-processes/"
+  - title: "UBio-X MPass Uses Facial Recognition and License Plate Reading to Secure Motorcycles"
+    excerpt: "UNIONCOMMUNITY has developed a motorcycle access and parking management system that uses biometric authentication"
+    publishedDateTime: 2021-02-25T22:46:00Z
+    webUrl: "https://mobileidworld.com/ubio-x-mpass-uses-facial-recognition-license-plate-reading-secure-motorcycles-72202101/"
     type: article
     provider:
-      name: Future Travel Experience
-      domain: futuretravelexperience.com
-    quality: 49
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 32
     images:
-      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/02/Dubai-Airports-biometrics.jpg"
-        width: 768
-        height: 403
+      - url: "https://mobileidworld.com/wp-content/uploads/face.jpeg"
+        width: 359
+        height: 400
         isCached: true
-  - title: "Anviz releases AI-based biometric facial recognition terminals to facilitate safe return to offices post COVID-19 lockdown"
-    excerpt: "Understanding access control technology has surpassed its core application as a security tool and is helping protect individuals from infection, Anviz has announced the release of a strategic"
-    publishedDateTime: 2021-02-23T10:47:00Z
-    webUrl: "https://www.sourcesecurity.com/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/anviz-ai-based-biometric-facial-recognition-terminals-safe-offices-covid-19-co-11020-ga-npr.1614070339.html"
+  - title: "Unioncommunity integrates face biometrics with licence plate readers for motorcycle parking system"
+    excerpt: "The Unioncommunity parking management solution for motorcycles that combines face biometric authentication with automated license-plate recognition."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.biometricupdate.com/202102/unioncommunity-integrates-face-biometrics-with-licence-plate-readers-for-motorcycle-parking-system"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 48
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 10
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/widespread-use-of-biometrics-and-facial-recognition-technology-in-industries-920x533.jpg"
-        width: 612
-        height: 355
-        isCached: true
-  - title: "GDRFA-Dubai launches new fast-track passport control service that uses face and iris-recognition technologies"
-    excerpt: "The General Directorate of Residency and Foreigners Affairs in Dubai (GDRFA-Dubai) has launched a new fast-track passport control service that uses face and iris-recognition technologies. Director General of GDRFA-Dubai Major General Mohammed Ahmed Al Marri,"
-    publishedDateTime: 2021-02-23T03:22:00Z
-    webUrl: "https://www.zawya.com/uae/en/press-releases/story/GDRFADubai_launches_new_fasttrack_passport_control_service_that_uses_face_and_irisrecognition_technologies-ZAWYA20210222140107/"
-    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/ZAWYA20210222140107/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20210222140107/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 40
-    images:
-      - url: "https://images.zawya.com/pr/images/2021/0004_2021_02_22.jpeg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Facial-recognition replaces need for passports at Dubai International"
-    excerpt: "Dubai International Airport (DXB) has installed new biometric technology designed to speed up the passport control experience for out-bound passengers opting to use the service. The General Directorate of Residency and Foreigners Affairs in Dubai’s (GDRFA-Dubai) new fast-track passport control service uses face and iris-recognition technologies."
-    publishedDateTime: 2021-02-23T06:10:00Z
-    webUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl"
-    ampWebUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
-    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
-    type: article
-    provider:
-      name: aviationbusinessme.com
-      domain: aviationbusinessme.com
-    quality: 39
-  - title: "Moscow to expand metro facial recognition network"
-    excerpt: "Moscow authorities have allocated more than US$10mil (RM40.38mil) to purchase and install across the city’s sprawling metro system high-definition cameras that can recognise faces and track fast movements,"
-    publishedDateTime: 2021-02-25T09:48:00Z
-    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/25/moscow-to-expand-metro-facial-recognition-network"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/25/1056856.jpg"
-        width: 1240
-        height: 827
-        isCached: true
-  - title: "Face recognition rolled out at DXB"
-    excerpt: "You can now travel through Dubai International Airport (DXB) with no identification papers, after the airpot rolled out the ‘smart travel’ system, which uses a mix of facial and iris recognition. This will definitely reduce the risk of contracting covid at an airport and you don’t need to worry about losing your passport!"
-    publishedDateTime: 2021-02-26T00:50:00Z
-    webUrl: "https://www.linkedin.com/news/story/face-recognition-rolled-out-at-dxb-4332033/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQFOCg1vPzX0KA/storylineheaderimage-shrink_400_400/0/1614068901084?e=1614391200&v=beta&t=8bhJFfPTMRpJfFGepqc8ZG1vM0j2-DP0UpgZc7jVGHs"
-        width: 400
-        height: 266
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/25130802/Unioncommunity-face-biometrics-licence-plate-readers-motorcycle-parking.png"
+        width: 751
+        height: 381
         isCached: true
 
 secured: "P2G5Uc2+KisyRcbZ1mEozoAEIpKjT6sVcgcdh4zSmxx/x95xp/ukrgoMa4c3sY+Iw2uiOly/uAiJVp9Xs1kOQYloQ1q6WOAk7h8aDLOMNBxAhfx7YiFLk7FM+8hx5yc1Zual9RPjXpQklrfPnN3s9L3w1J6EFOJRsCEZvx7oihgpu3FyOxCt6KayZ9+qsvJxutsjXx8y34EYYDjudJhsS5iFozEskG0jggBXaqJu0NCS9hCkOThbhjHQfVUecmlQphsvpflKF/Kzrhv7Ap4HU9F2PHRgjRZMYr+4VA94z0h2N960ZF/5teoXFjlhNE9uaY9DdXtgPuYGyPd5xzo1n4SYG+aUdf6hc9DoJnqGDOj1JXWu27LwcnFZg9aJL+zM+bKxQQVX1Z6dVeYLUzbOB81zHJzreQywk1i2T212QsdncObAT8QUzOaFphIGj1OoxmJzgpNG9WRoD3Op1a9TqdegszA81IBAemNO/mCQVhmQr+JE2WARx7QKWg8ViBMm4QchGcPcKF+MSkw2SPgs6A==;2xj/qUkAJ2xZQxVjEGnFoQ=="

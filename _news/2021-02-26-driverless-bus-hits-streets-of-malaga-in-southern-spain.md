@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-so
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar"
         width: 560
         height: 292
-        isCached: true
-  - title: "Self-driving companies are inching toward fully driverless service"
-    excerpt: "Motional, a joint venture of Hyundai and giant auto parts supplier Aptiv, has begun testing its self-driving vehicles in Las Vegas without anyone behind the wheel, the company announced in a Monday blog post."
-    publishedDateTime: 2021-02-22T17:54:00Z
-    webUrl: "https://arstechnica.com/cars/2021/02/hyundai-aptiv-joint-venture-begins-driverless-tests-eyes-2023-launch/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 69
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/02/motional-760x380.jpg"
-        width: 760
-        height: 380
         isCached: true
   - title: "Why driverless cars are paradise on wheels for some"
     excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."

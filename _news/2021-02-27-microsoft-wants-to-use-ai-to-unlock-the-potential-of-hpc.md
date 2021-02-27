@@ -1,33 +1,30 @@
 ---
 category: news
 title: "Microsoft wants to use AI to unlock the potential of HPC"
-excerpt: "Microsoft Azure is able deliver differentiated cloud capabilities that are purpose-built for the full spectrum of HPC & AI workloads including the most demanding use cases. However, at the core of the infrastructure are HPC & AI clusters which use HPC-class InfiniBand interconnect with genuine low latency (~1us) and high bandwidth typically around 200Gbps using the latest processor technologies from its partners in the program."
-publishedDateTime: 2021-02-27T02:44:00Z
-originalUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-webUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
+publishedDateTime: 2021-02-27T10:29:00Z
+originalUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
+webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
+ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
 type: article
-quality: 104
+quality: 76
 heat: -1
 published: false
 
 provider:
-  name: TechRadar
-  domain: techradar.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Windows
+  domain: compsmag.com
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
-    width: 480
-    height: 270
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
+    width: 1069
+    height: 693
     isCached: true
 
 related:
@@ -42,22 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 115
-  - title: "Microsoft is adding AI-powered text predictions to Word"
-    excerpt: "The features uses machine learning to make writing suggestions based on the text that a Microsoft Word user has already typed."
-    publishedDateTime: 2021-02-22T18:50:00Z
-    webUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/22/microsoft-word-launching-ai-text-predictions-spelling-grammar/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 104
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-5-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "Microsoft: How we deliver industry-specific cloud computing at scale"
     excerpt: "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations."
     publishedDateTime: 2021-02-25T12:00:00Z
@@ -251,6 +232,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "vUOmTslSLyCYY+0A776ehlI/H8P1Iv7+dhSwUOp/0v+KqKPojt/zuVNIfeRuP1fAv6Te9Z8kZR0Oc0Oftg1AAj3tlBK8pRr8eHETspcc+Qt7r1NJOnR9hwldupsbfOyGpT5ILs+EKA/zxsngYUhVTIX5AuwCxHC0MkJJVehM8e734HDcX6pdHT70rCP1QEvQEnXWrEGylWQ77iMEb9MYlFhCefD3hxmxxvkVTm9c6tViR5+KJKLEdv7fWjQl4cW6wMHFOomB/ZFHbXo2WgOZ2Pyca0YVlOkFKo1LCIfueHOEQNUZbnfmB+lHnI0F2szJtZDM510HTSKTlg+XcWIZCMTmCGIf3Dy7OtSXaYvW4Fs1cdpLRkBy13WI2vF3nOSOS5aWm+Ty2bcPEZrAeb7uy18qhkEvZH0OI4H2lqmXzK8Rx1vH0xK9r20OweyriXuw8UPF3pYEaq7+W36A2Awqu93I8wl4UEzkxw+ZOK63CoY9JwglvG+NzA2ySN/HgsqZyJhpqA1R7K9Hln4YKBLJuA==;kovhLTqq5VSSvU8eb7hYaw=="
+secured: "NnfMVaZ2431ypg2PdB88p0EoBB8LOhTyHA4dM/37im6SVSKFWx+nKQMTwJNIDuEWRySpEnTuoifmfYlCww7lS5yE+/7nC0TmJiHcIZnMKUAHoV0W7UuV17PeC048FoZoKyMLhZc+3CQ5A3c5oF0AZ+QXrVD8qCRm+RGAFpYqdEm51LengbqV3ltTdc9F3wdxiIRlYkSoAOuuSpA6DA3Vn4rdDKg6pMH0AQfvNf+aL98khkjiPExrSEEvYU/9F1N7seRby+d2RwtqHowePKmBZOvXuYoFwySEn4c9dI4oDxEQLiMhFY6GoKGNqmUtfMx0VhU5hs6vk5l9FC27ZVbLzYGQ8/mA3HhyJPbpnwjb7cQ=;a9/ohYf7Y9I1IKQYbg7+Yg=="
 ---
 

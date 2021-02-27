@@ -9,7 +9,7 @@ ampWebUrl: "https://www.idropnews.com/news/siri-may-soon-get-better-at-handling-
 cdnAmpWebUrl: "https://www-idropnews-com.cdn.ampproject.org/c/s/www.idropnews.com/news/siri-may-soon-get-better-at-handling-atypical-speech-patterns-like-stuttering/153148/amp/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Siri to get atypical speech upgrades"
+    excerpt: "Apple is currently trying to make Siri better by researching how the digital assistant could understand atypical speech. The Wall Street Journal reports"
+    publishedDateTime: 2021-02-27T09:13:00Z
+    webUrl: "https://www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrades"
+    ampWebUrl: "https://www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrades?amp"
+    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrades?amp"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 44
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2021/02/Siri.png"
+        width: 1580
+        height: 894
+        isCached: true
   - title: "Apple is working on Siri to improve its atypical speech recognition"
     excerpt: "Apple is working on ways to improve Siri's recognition of atypical speech, as per a new report by The Wall Street Journal. Current voice assistants have a"
     publishedDateTime: 2021-02-26T16:20:00Z

@@ -29,229 +29,162 @@ images:
     isCached: true
 
 related:
-  - title: "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026"
-    excerpt: "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-24T12:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
+  - title: "How One State Managed to Actually Write Rules on Facial Recognition"
+    excerpt: "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations."
+    publishedDateTime: 2021-02-27T10:09:00Z
+    webUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
+    excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
+    publishedDateTime: 2021-02-26T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facebook-confirms-its-working-on-facial-recognition-technology-2021-02-26-71973028"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
-    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
-    publishedDateTime: 2021-02-23T14:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
+  - title: "Attorney general’s office asks lawmakers to loosen ban on facial recognition"
+    excerpt: "The attorney general wants police to be able to use the technology to help solve child sexual exploitation cases."
+    publishedDateTime: 2021-02-25T13:56:00Z
+    webUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/"
+    ampWebUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: VTDigger
+      domain: vtdigger.org
+    quality: 56
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://vtdigger.org/wp-content/uploads/2019/01/20190123LEGIE9.jpg"
+        width: 2000
+        height: 1498
         isCached: true
-  - title: "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026"
-    excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
-    publishedDateTime: 2021-02-24T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-scenario-by-industry-growth-size-trends-and-forecast-2026-2021-02-24"
+  - title: "Dubai Airports introduces facial recognition to fast-track immigration processes"
+    excerpt: "A new fast-track passport control service that uses face and iris-recognition technologies has been launched across 122 smart gates at Dubai airports."
+    publishedDateTime: 2021-02-25T09:48:00Z
+    webUrl: "https://www.futuretravelexperience.com/2021/02/dubai-airports-introduces-facial-recognition-to-fast-track-immigration-processes/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
-    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
-    excerpt: "A recent market intelligence report on Artificial Intelligence in the Education Sector market takes a closer look at the major driving forces, restraints and opportunities anticipated to shape the future of the Artificial Intelligence in the Education Sector market for the forecast period,"
-    publishedDateTime: 2021-02-27T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
-    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
-    publishedDateTime: 2021-02-26T18:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
-    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Edge AI Software Market is valued at approximately USD 0."
-    publishedDateTime: 2021-02-25T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-software-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Future Travel Experience
+      domain: futuretravelexperience.com
     quality: 49
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/02/Dubai-Airports-biometrics.jpg"
+        width: 768
+        height: 403
         isCached: true
-  - title: "Agriculture Robots Market Size, Global Analysis, Business Strategy, Sales Revenue, Future Prospects, Company Profile, Developments and Forecast 2026"
-    excerpt: "Market Research Future published a research report on \"Agriculture Robots Market Research Report-Global Forecast till 2026\""
-    publishedDateTime: 2021-02-23T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/agriculture-robots-market-size-global-analysis-business-strategy-sales-revenue-future-prospects-company-profile-developments-and-forecast-2026-2021-02-23"
+  - title: "Emotion Detection and Recognition (EDR) Market Size to Cross $ 64.7 billion by 2027"
+    excerpt: "such as facial recognition, biosensing, speech and voice recognition, pattern recognition, and machine learning. Request a sample of this premium report at: https://www.marketstudyreport.com/request-a-sample/2942178/?utm_source=Marketwatch.com&utm_medium ..."
+    publishedDateTime: 2021-02-25T06:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-size-to-cross-647-billion-by-2027-2021-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cloud Natural Language Processing Market Share, Growth, Size 2021, Vendors,Trends, Challenges with Forecast to 2024"
-    excerpt: "Global Cloud Natural Language Processing Market Report 2021 -2024 contains systematic and point to point information regarding to Cloud Natural Language Processing Market Size. The report contains brief Introduction,"
-    publishedDateTime: 2021-02-23T05:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-share-growth-size-2021-vendorstrends-challenges-with-forecast-to-2024-2021-02-22"
+  - title: "Facial-recognition replaces need for passports at Dubai International"
+    excerpt: "Dubai International Airport (DXB) has installed new biometric technology designed to speed up the passport control experience for out-bound passengers opting to use the service. The General Directorate of Residency and Foreigners Affairs in Dubai’s (GDRFA-Dubai) new fast-track passport control service uses face and iris-recognition technologies."
+    publishedDateTime: 2021-02-23T06:10:00Z
+    webUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl"
+    ampWebUrl: "https://www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
+    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airports/technology/23067-facial-recognition-replaces-need-for-passports-at-dubai-intl?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: aviationbusinessme.com
+      domain: aviationbusinessme.com
+    quality: 39
+  - title: "Moscow to expand metro facial recognition network"
+    excerpt: "Moscow authorities have allocated more than US$10mil (RM40.38mil) to purchase and install across the city’s sprawling metro system high-definition cameras that can recognise faces and track fast movements,"
+    publishedDateTime: 2021-02-25T09:48:00Z
+    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/25/moscow-to-expand-metro-facial-recognition-network"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/25/1056856.jpg"
+        width: 1240
+        height: 827
         isCached: true
-  - title: "Global Automation and Control System in Healthcare Market : Trends, Top Players, Market Demands, Industry Growth Forecast: 2027"
-    excerpt: "Global Automation and Control System in Healthcare Market Healthcare industry rapidly adopting advanced technologies"
-    publishedDateTime: 2021-02-25T03:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automation-and-control-system-in-healthcare-market-trends-top-players-market-demands-industry-growth-forecast-2027-2021-02-24"
+  - title: "ZTE showcases under-display facial recognition system"
+    excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
+    publishedDateTime: 2021-02-25T08:42:00Z
+    webUrl: "https://www.ianslive.in/index.php?param=news/ZTE_showcases_under_display_facial_recognition_system-763776/Latest News/31"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: IANS live
+      domain: ianslive.in
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Global Deep Learning Chipset Market 2020 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2025"
-    excerpt: "Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 aims"
-    publishedDateTime: 2021-02-24T21:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2025-2021-02-24"
+  - title: "US city passes restrictive ban on facial recognition use by police, others"
+    excerpt: "Citing concerns about its reliability and potential to harm communities of colour, the Minneapolis City Council voted Friday to ban the use of facial recognition technology by police and other city agencies."
+    publishedDateTime: 2021-02-23T06:26:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/02/23/us-state-passes-restrictive-ban-on-facial-recognition-use-by-police-others"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: The Star
+      domain: thestar.com.my
     quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/23/1053499.jpeg"
+        width: 720
+        height: 480
         isCached: true
-  - title: "Global Artificial Intelligence in Automotive Market Growth 2021 Top Key Player, Trends, Share, Type, Application, Regions and Forecast to 2026"
-    excerpt: "Global “Artificial Intelligence in Automotive Market” report is a fact-based market research and important information"
-    publishedDateTime: 2021-02-22T17:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-automotive-market-growth-2021-top-key-player-trends-share-type-application-regions-and-forecast-to-2026-2021-02-22"
+  - title: "SMEs can now use facial recognition to apply for DBS online banking accounts"
+    excerpt: "Business owners simply need to face a camera to authenticate and verify their information.. Read more at straitstimes.com."
+    publishedDateTime: 2021-02-23T04:55:00Z
+    webUrl: "https://www.straitstimes.com/business/banking/smes-can-now-use-facial-recognition-to-apply-for-dbs-online-banking-accounts"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 36
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/23/af_dbs_2302.jpg?itok=-bxg7okT"
+        width: 763
+        height: 509
         isCached: true
-  - title: "Speech and Voice Recognition Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
-    excerpt: "Feb 25, 2021 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
-    publishedDateTime: 2021-02-25T06:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2021-02-25"
+  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
+    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
+    publishedDateTime: 2021-02-23T14:57:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
-    excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-24T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-industry-size-business-opportunities-top-key-players-and-global-analysis-by-forecast-to-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Emotion Recognition and Analysis Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Emotion Recognition and Analysis Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that provides a detailed analysis of growth factors of the industry as well as gives an analysis of the market share,"
-    publishedDateTime: 2021-02-24T18:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-emotion-recognition-and-analysis-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2025-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
         isCached: true
 
 secured: "Cj/2OaJeXHIDTw6kgT6bZlu05gRZlBdvfzYzxt/J7x5PkwDMCzdnrEzy+XOk7OWbyeZjgny4ixnONTm3kLQ6I6xUgE4SFKzTjxfc5Oshf/dDzXb25yyAucw1wMED/Mt1J4velrjV2FaQ2bwspc6R2YrgIbbJcVJiTI5g6hGOzrRqME32IqduYvVsM/Qkj7nze9wGihfUAp6MTzy6GHxpJukUJuDWVzOW7dA1qCljQqUzJbAi2kQTM5OTj2BtL1RQPn4U5EGp8Ik9LyrZL35RGQmQirZFJK0MHFZqR35Nbc4IksGBdvqTkLUOst6wITxnzrTNot3UofUx9RmpcR69ux29CmLugZ7tlWROG0sQ21k=;Sl+uVLCFugeIw+i1MAT1kQ=="

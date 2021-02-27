@@ -2,6 +2,162 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-09-nuance-acquires-seattle-digital-health-startup-saykara-to-boost-healthcare-ai-products.md",
+      "title": "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products",
+      "excerpt": "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
+      "originalUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/20181003_GeekWire_Summit_813-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
+      "publishedDateTime": "2021-02-08T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters Track or Treat challenge",
+      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters Track or Treat challenge, Greg Baker. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June 2020, we launched Chartbusters, a global competition in which developers use AWS DeepComposer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/08/ML-1854-1.jpg",
+          "width": 640,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T15:19:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-self-driving-cars-market-global-key-players-trends-share-industry-size-growth-opportunities-forecast-to-2026.md",
+      "title": "Self-driving Cars Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2026",
+      "excerpt": "This report presents a comprehensive overview, market shares, and growth opportunities of Self-driving Cars market by type, application, key manufacturers and key regions and countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-global-key-players-trends-share-industry-size-growth-opportunities-forecast-to-2026-2021-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-global-key-players-trends-share-industry-size-growth-opportunities-forecast-to-2026-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T14:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-c3ai-exec-says-lack-of-automation-is-holding-back-ai-progress.md",
       "title": "C3.ai exec says lack of automation is holding back AI progress",
       "excerpt": "Edward Abbo, president and CTO of C3.ai, said AI progress is being held up by too much reliance on manual processes.",
@@ -1043,143 +1199,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-enhancement-latest-trends-growth-and-opportunity-during-2021-to-2025.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Enhancement, Latest Trends, Growth and Opportunity during 2021 to 2025",
-      "excerpt": "(MENAFN - Ameliorate Solutions) MarketInsightsReports has recently published a global Artificial Intelligence and Robotics in Aerospace and Defense market research study with more than 100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101563639/Artificial-Intelligence-and-Robotics-in-Aerospace-and-Defense-Market-Enhancement-Latest-Trends-Growth-and-Opportunity-during-2021-to-2025",
-      "originalUrl": "https://menafn.com/1101563639/Artificial-Intelligence-and-Robotics-in-Aerospace-and-Defense-Market-Enhancement-Latest-Trends-Growth-and-Opportunity-during-2021-to-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?855950",
-          "width": 333,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-apple-car-talks-arent-happening-say-automakers-hyundai-kia.md",
-      "title": "Apple Car Talks Aren’t Happening, Say Automakers Hyundai, Kia",
-      "excerpt": "Hyundai Motor Co. and its affiliate Kia Motors Corp. said that they aren’t in talks with Apple Inc. to develop an autonomous vehicle, responding to intense speculation about the potential new product by the maker of the iPhone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/technology/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-08/hyundai-kia-say-they-aren-t-in-ev-discussions-with-apple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2021-02%2F9e500661-4bf4-4ec3-bdf1-bb234b51a574%2F367503011.jpg?rect=86%2C0%2C3706%2C2668&auto=format%2Ccompress&w=1200",
-          "width": 1200,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-ai-will-not-replace-auditors-expert-says.md",
-      "title": "AI will not replace auditors, expert says",
-      "excerpt": "Susan’s inspiration is Elon Musk, who pioneered the Tesla driverless cars and Space-X Starship rocket system to clean orbit. “Artificial intelligence is the science of training machines to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thepeninsulaqatar.com/article/08/02/2021/AI-will-not-replace-auditors,-expert-says",
-      "originalUrl": "https://www.thepeninsulaqatar.com/article/08/02/2021/AI-will-not-replace-auditors,-expert-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thepeninsulaqatar.com/images/front/whatsapp.png",
-          "width": 400,
-          "height": 284,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T00:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Peninsula",
-        "domain": "thepeninsulaqatar.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

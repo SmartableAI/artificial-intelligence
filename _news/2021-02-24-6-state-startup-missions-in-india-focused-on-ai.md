@@ -28,7 +28,7 @@ related:
   - title: "Women-focused VC firm Her Capital invests in AI video interviewing HR startup"
     excerpt: "With the new funds, Neufast plans to expand its product suite as well as expand into the Greater China and Southeast Asia markets."
     publishedDateTime: 2021-02-26T18:16:00Z
-    webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-674915"
+    webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-675675"
     type: article
     provider:
       name: Techinasia
