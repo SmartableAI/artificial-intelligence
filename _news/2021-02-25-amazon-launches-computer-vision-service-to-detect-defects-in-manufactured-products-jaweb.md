@@ -44,21 +44,14 @@ related:
         height: 600
         isCached: true
   - title: "AWS Announces General Availability of Amazon Lookout for Vision"
-    excerpt: "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,"
-    publishedDateTime: 2021-02-25T01:18:00Z
-    webUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
-    ampWebUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
-    cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a"
+    publishedDateTime: 2021-02-25T02:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
     type: article
     provider:
-      name: digitalproducer.com
-      domain: digitalproducer.com
-    quality: 74
-    images:
-      - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 36
   - title: "Amazon’s Lookout for Vision spots defects and anomalies in visual representations"
     excerpt: "Amazon Lookout for Vision, a cloud service that uses machine learning to spot defects and anomalies in visual representation using computer vision. Designed with manufacturing companies in mind, the service can identify differences in images of objects at large scale,"
     publishedDateTime: 2021-02-25T02:58:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.enr.com/articles/51250-oracle-launches-construction-ai
 webUrl: "https://www.enr.com/articles/51250-oracle-launches-construction-ai-advisor-for-its-cloud-services"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,45 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Voice AI accelerator launches 12 startups"
-    excerpt: "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,"
-    publishedDateTime: 2021-02-22T21:01:00Z
-    webUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/"
-    ampWebUrl: "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/"
+  - title: "Start Tracking Job Site Productivity with AI, says Construction Administration Lecturer"
+    excerpt: "Construction’s next big innovation is the use of artificial intelligence and machine learning to collect and visualize data from construction sites to track productivity, project timelines, and anticipate and stay ahead of challenges,"
+    publishedDateTime: 2021-02-23T00:00:00Z
+    webUrl: "https://sps.columbia.edu/news/start-tracking-job-site-productivity-ai-says-construction-administration-lecturer"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: The Earth Institute Columbia University
+      domain: columbia.edu
+    quality: 29
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all"
-        width: 1197
-        height: 601
+      - url: "https://sps.columbia.edu/sites/default/files/styles/social_share_1200x630/public/2021-02/sawh.jpg?h=55541bb6&itok=OIbsgIdI"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AAAI 2021: Accelerating the impact of artificial intelligence"
-    excerpt: "The purpose of the Association for the Advancement of Artificial Intelligence, according to its bylaws, is twofold. The first is to promote research in the area of AI, and the second is to promote the responsible use of these types of technology."
-    publishedDateTime: 2021-02-25T00:43:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/aaai-2021-accelerating-the-impact-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 52
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2021/02/1400x788_AAAi_NoLogo_stills-scaled.jpg"
-        width: 2560
-        height: 1441
-        isCached: true
-  - title: "Powow AI selected into Google Voice AI Startup Accelerator"
-    excerpt: "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems."
-    publishedDateTime: 2021-02-26T09:47:00Z
-    webUrl: "https://www.financialbuzz.com/powow-ai-selected-into-google-voice-ai-startup-accelerator/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 17
 
 secured: "bLf48Ad7rgKTa1DcMD/KBZFxAELr1khoScUd537qr7lvBtL3khMm4YljsP9K4mtjCu+8FMUR5G3EXLEsos7mHEw7SckM6dCreQ8+g1bGwIjnM+oErJbBK5bucoOsfrl+4yG0DrOJxXxy5yD6ZB1Yx+wi4rWhncnEBb7WPb1IpTxpxXDvpbkvquvfnCb2usdQcx5AKQdF5LGZIzosoXGNh/e1tcoI1gnsLGBiyvU0L/GMuToMzlKY6TX/1s333CCAsVlUXse2ai5ksc/JYnFm774dgQa88dOETMCOWFqD+4AZ7tqN/qzp7JsUTYk+bq7D8kizGVHTWDHEay+sOXusvBhgQlmjd0YL0q/GfZFVqnA=;m+3eNfaxU+fXzzaRD6EwEw=="
 ---

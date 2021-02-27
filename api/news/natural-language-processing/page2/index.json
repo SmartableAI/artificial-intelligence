@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-09-glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology.md",
+      "title": "Glory Star Signs Agreement With GTCOM Entertainment to Empower Consumption Through AI Technology",
+      "excerpt": "In light of the growing market demand and consumption growth, Glory Star signed the Agreement with GTCOM Entertainment to integrate resources from both parties. Under the Agreement, GTCOM Entertainment will provide to Glory Star access to AI and certain computer technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology-2021-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology-2021-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-bengaluru-airport-bags-voice-of-the-customer-global-recognition.md",
       "title": "Bengaluru airport bags 'Voice of the Customer' global recognition",
       "excerpt": "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice",
@@ -1365,40 +1417,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-globex-data-engages-austria-based-ir-worldcom-finanzkommunikation-to-disseminate-all-of-its-press-releases-in-german-language.md",
-      "title": "GlobeX Data engages Austria-based IR-WORLD.com Finanzkommunikation to disseminate all of its press releases in German language",
-      "excerpt": "Alain Ghiai, CEO of GlobeX Data commented: \"It is in the interest of all our German-speaking investors, present and future, that following our",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/939862/globex-data-engages-austria-based-ir-worldcom-finanzkommunikation-to-disseminate-all-of-its-press-releases-in-german-language-939862.html",
-      "originalUrl": "https://www.proactiveinvestors.com/companies/news/939862/globex-data-engages-austria-based-ir-worldcom-finanzkommunikation-to-disseminate-all-of-its-press-releases-in-german-language-939862.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/939862",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/939862",
-      "publishedDateTime": "2021-01-29T04:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210224/A-machine-learning-ap
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/A-machine-learning-approach-to-track-how-yellow-fever-mosquito-moves-through-the-environment.aspx"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Scientists use machine-learning approach to track disease-carrying mosquitoes"
-    excerpt: "You might not like mosquitoes, but they like you, says Utah State University biologist Norah Saarman. And where you lead, they will follow."
-    publishedDateTime: 2021-02-22T20:01:00Z
-    webUrl: "https://phys.org/news/2021-02-scientists-machine-learning-approach-track-disease-carrying.html"
-    ampWebUrl: "https://phys.org/news/2021-02-scientists-machine-learning-approach-track-disease-carrying.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-scientists-machine-learning-approach-track-disease-carrying.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 41
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/2-scientistsus.jpg"
-        width: 1140
-        height: 766
-        isCached: true
 
 secured: "eACJpW5TffoR/BE6YAJmTBHLshhGWuunKyas1xw0s+7RmXFpQmAwKczJitk/7AdR0ibvDqHZgA+GK3oRHLDaT4wzI6QvE87mBNjUWxH46HiFYHfca44Iq/VkPkDN3cv5iTt7u+ukNKaNRoNPdAq7GXx8oLHv8YtB7lFJRDcOmXfdk4qHseiaJ4f67ZzlMtQSm73WvHeB9fuXNk1Bz9tdgNViGNyGocP3kskJw4kZ/oe8o+15Iz/VuPrP/XOqIe7rSlgvMNWo5p0VFFcyrPcjR3hGRON4Mteyvr7o3SAdWIKssS10+AVjgVg24eBYh410Y55ch90IKh7UX872X/76W7J2zno/sVDi2IJ9KkKJ3puXZC5jz1+L9pRC2sQlkVTNM6xLUfPUD6hmz1CuOfseYSNPStHDhgRiYYU5Oh+qAx3HfmHqDeXAjNrp147N1Wu/nXCL1GPA2BoMI2UgcCg22hkqXcU63NNs/2l4j4t38BbF7EkeHjn/bUa++7X/hedsOaNWWamIS76e1ozHIs8dRQ==;hcRbTfcimNV6f6+32xLG4A=="
 ---

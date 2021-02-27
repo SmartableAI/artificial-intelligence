@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Church of AI closes"
-    excerpt: "Way of the Future wants to move money where it matters The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski formed The Way of the Future Church in 2015 to understand and accept a godhead based on artificial intelligence."
-    publishedDateTime: 2021-02-23T15:10:00Z
-    webUrl: "https://www.fudzilla.com/news/52404-church-of-ai-closes"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/52a4461fb758faa1ac2673e09ab8b2db_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "9OE3AwhOw4Ll5wGUqW8XDyZ6KbdHRCYR5vQFJIuO6JPS8yg6Iircau/vP+ciGz1zOU9adpZRQPEYUzVpLX4HoSXmCiZZKvuR2krJ0TKFY2ixfLd9oiXTgETBPD62Hh/cVBAIJDtHNw9yBhdmmUic7oNzjbS4HNeIicwKwmt+r8YO6apo4LMlMaa1X7WH30+1L8gL8EYMS4GbLdh77fbyhTA20gLurvowQwj6oyHe1Y03csygkR5pTBzBhDVRFjXDJIyBgs3CgmieMhWSbcVrZbt9lCcjwhUEpnTxi6lZY/7FVY7aWhv5vhAPmxXgmUsuGZsY2JQstrJZLbp9fbJ/DdZr+IhNCi0r1j5k1arR0MXNDNW1EwDa9psZiuBD/VpdFe7eU5I117dibCHmOfeU1M19VrW/A5EkLHHE9yswbe5uhuxzMqb4mXfgzj0YlCDT1MgJhDFmBSrZJYlb+EflLwgW5MQzplr3TmJFFkVytkU5uFo+ZqD8YQ7w8Uts/F0U3VegXGkiH13EkFVVBWXOmQ==;wVUMXJI0FG3Jc7W+d7HFyg=="
 ---

@@ -2,6 +2,101 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-08-mind-written-couplets-add-technology-to-spring-festival-celebrations.md",
+      "title": "\"Mind-written\" couplets add technology to Spring Festival celebrations",
+      "excerpt": "Then, the system can decode the operator's intent and control the robot to write the character,\" Xu said. The mind-controlled writing system allows two people to work on a character simultaneously by dividing it into two parts. In 2019, Xu's team developed ...",
+      "sourceUrl": null,
+      "webUrl": "https://en.ce.cn/main/latest/202102/08/t20210208_36301673.shtml",
+      "originalUrl": "https://en.ce.cn/main/latest/202102/08/t20210208_36301673.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://i.ce.cn/english/main/latest/202102/09/W020210209359794030713.jpg",
+          "width": 320,
+          "height": 217,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Economic Net",
+        "domain": "en.ce.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
+      "title": "Self-driving Ships Market Growth (2021-2027), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions.",
+      "excerpt": "Feb 08, 2021 (The Expresswire) -- Global \"Self-driving Ships Market\" (2021-2027) Research report covers the present situation and the development possibilities of the Self-driving Ships market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-enhancement-latest-trends-growth-and-opportunity-during-2021-to-2025.md",
       "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Enhancement, Latest Trends, Growth and Opportunity during 2021 to 2025",
       "excerpt": "(MENAFN - Ameliorate Solutions) MarketInsightsReports has recently published a global Artificial Intelligence and Robotics in Aerospace and Defense market research study with more than 100 ...",
@@ -1035,109 +1130,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-aiops-and-the-quest-for-the-grail.md",
-      "title": "AIOps And The Quest For The Grail",
-      "excerpt": "For those unfamiliar with the term, AIOps simply means applying machine learning to IT operations functions. But implementing AIOps into a complex environment requires patience and a carefully planned strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dd5597ee5beaac0f4d34d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2021/02/05/aiops-and-the-quest-for-the-grail/amp/",
-      "publishedDateTime": "2021-02-05T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-former-cios-discuss-what-it-takes-to-be-a-startup-ceo.md",
-      "title": "Former CIOs Discuss What It Takes to Be a Startup CEO",
-      "excerpt": "A new generation of business software startups is taking shape, in some cases with former CIOs serving as founders and chief executives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "originalUrl": "https://www.wsj.com/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-295677/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/former-cios-discuss-what-it-takes-to-be-a-startup-ceo-11612562753",
-      "publishedDateTime": "2021-02-05T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
