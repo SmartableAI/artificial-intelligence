@@ -22,13 +22,13 @@ topics:
 
 related:
   - title: "ElectrifAi Announces New Business Connection with OXIO using AWS"
-    excerpt: "Once it is easily deployed to Amazon SageMaker (AWS), OXIO will feed its data directly into the machine-learning model on SageMaker. The model then provides output recommendations that are ..."
-    publishedDateTime: 2021-02-24T13:10:00Z
-    webUrl: "https://www.newswire.ca/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-848501793.html"
+    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (Ai) and pre-built machine learning models,"
+    publishedDateTime: 2021-02-24T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-301234278.html"
     type: article
     provider:
-      name: Newswire
-      domain: newswire.ca
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 54
     images:
       - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"

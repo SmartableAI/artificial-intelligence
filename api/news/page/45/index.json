@@ -2,6 +2,50 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-01-25-heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market.md",
+      "title": "Here’s How Data and Machine Learning Startups Are Helping Pakistani Retail Market",
+      "excerpt": "Pakistan is primarily a consumption-driven economy and has one of the fastest-growing retail markets. Coupled with one of the youngest",
+      "sourceUrl": null,
+      "webUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
+      "originalUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://propakistani.pk/wp-content/uploads/2021/01/big_data_retail_igg_pp.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
+      "cdnAmpWebUrl": "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2021/01/25/heres-how-data-and-machine-learning-startups-are-helping-pakistani-retail-market/amp/",
+      "publishedDateTime": "2021-01-25T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ProPakistani",
+        "domain": "propakistani.pk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-intels-neuromorphic-chip-just-got-more-accessible-for-mainstream-ai.md",
       "title": "Intel’s Neuromorphic Chip Just Got More Accessible for Mainstream AI",
       "excerpt": "While the promise of neuromorphic computing going mainstream is still mostly unrealized, there are steps being taken to bring it closer to reality.",
@@ -1119,58 +1163,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020.md",
-      "title": "How fintech and serial founders drove African pre-seed investing to new heights in 2020",
-      "excerpt": "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
-      "originalUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
-      "publishedDateTime": "2021-01-22T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

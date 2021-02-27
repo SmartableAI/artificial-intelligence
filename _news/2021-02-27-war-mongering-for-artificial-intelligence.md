@@ -42,6 +42,20 @@ related:
         width: 1300
         height: 500
         isCached: true
+  - title: "How artificial intelligence is changing marketing"
+    excerpt: "Why marketers can no longer afford to ignore artificial intelligence (AI): Data-led article including insight from leading figures in marketing."
+    publishedDateTime: 2021-02-25T10:58:00Z
+    webUrl: "https://www.pressgazette.co.uk/ai-marketing/"
+    type: article
+    provider:
+      name: Press Gazette
+      domain: pressgazette.co.uk
+    quality: 54
+    images:
+      - url: "https://www.pressgazette.co.uk/wp-content/uploads/2021/02/marketinglead.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "War Mongering for Artificial Intelligence"
     excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
     publishedDateTime: 2021-02-26T06:20:00Z

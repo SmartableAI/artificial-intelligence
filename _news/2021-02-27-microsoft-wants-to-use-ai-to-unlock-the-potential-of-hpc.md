@@ -132,20 +132,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
-    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
-    publishedDateTime: 2021-02-22T15:05:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 49
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
     excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
     publishedDateTime: 2021-02-26T19:10:00Z
@@ -265,6 +251,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "kBxOUuHmELUFpX9IGmJ8+wkT6BlLdmZW9qY/ECpJ7ja0Uw/Rk1zoat5fSiHCwwg2Dslp7/R69pDBW7sh3PAaQD+LXCcZxocMzOUjdG+x6bw+chCosC3mboRIUXrD3wLBIohn7YDFtj9nA6t2HDKxTyEJeSRdKhUBlZ530T6wlRPutucCvn7HwN2RRfpfZoLNoCr3XFbIikN4ed3uRC3DfrhOUFoU8n2Shaz8RpkIkkvlQKQwS4hZnEgTbcBXU0rxTVCuwWE6ERKumEFUJZRyhSmHcyNxQorFn35WNcO1hs8kmk7q/CdSJ9o8Nsrkrp93UtCZqajgrzuUVZOEeocOiYq/PLHem4w3eofZFW3FIew=;DTTB9qac+GSZLx3oDE+8Yg=="
+secured: "vUOmTslSLyCYY+0A776ehlI/H8P1Iv7+dhSwUOp/0v+KqKPojt/zuVNIfeRuP1fAv6Te9Z8kZR0Oc0Oftg1AAj3tlBK8pRr8eHETspcc+Qt7r1NJOnR9hwldupsbfOyGpT5ILs+EKA/zxsngYUhVTIX5AuwCxHC0MkJJVehM8e734HDcX6pdHT70rCP1QEvQEnXWrEGylWQ77iMEb9MYlFhCefD3hxmxxvkVTm9c6tViR5+KJKLEdv7fWjQl4cW6wMHFOomB/ZFHbXo2WgOZ2Pyca0YVlOkFKo1LCIfueHOEQNUZbnfmB+lHnI0F2szJtZDM510HTSKTlg+XcWIZCMTmCGIf3Dy7OtSXaYvW4Fs1cdpLRkBy13WI2vF3nOSOS5aWm+Ty2bcPEZrAeb7uy18qhkEvZH0OI4H2lqmXzK8Rx1vH0xK9r20OweyriXuw8UPF3pYEaq7+W36A2Awqu93I8wl4UEzkxw+ZOK63CoY9JwglvG+NzA2ySN/HgsqZyJhpqA1R7K9Hln4YKBLJuA==;kovhLTqq5VSSvU8eb7hYaw=="
 ---
 

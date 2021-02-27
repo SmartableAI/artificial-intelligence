@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-27T05:44:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
+      "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
+      "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
+      "originalUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
+      "publishedDateTime": "2021-02-19T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "This time problems arose after disputes between panel members and Google-owned DeepMind over access to information, the WSJ reports citing unnamed sources. Panel members were also unhappy about ...",
@@ -1145,58 +1196,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-4-ways-to-bridge-the-ai-integrity-gap.md",
-      "title": "4 Ways To Bridge The AI-Integrity Gap",
-      "excerpt": "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg",
-          "width": 588,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "publishedDateTime": "2021-02-18T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

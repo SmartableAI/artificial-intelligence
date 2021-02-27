@@ -2,6 +2,60 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-02-02-artificial-intelligence-in-marketing-market-next-big-thing-major-giants-alphabet-baidu-oculus360.md",
+      "title": "Artificial Intelligence in Marketing Market Next Big Thing | Major Giants- Alphabet, Baidu, Oculus360",
+      "excerpt": "HTF MI presents an in-depth overview of the Global Artificial Intelligence in Marketing Market Study, detailing",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-marketing-market-next-big-thing-major-giants--alphabet-baidu-oculus360-2021-02-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-happyfox-applies-conversational-ai-to-support-requests-made-via-slack.md",
       "title": "HappyFox applies conversational AI to support requests made via Slack",
       "excerpt": "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base.",
@@ -1103,58 +1157,6 @@
         "name": "Windows",
         "domain": "compsmag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-researchers-can-tell-if-youre-going-to-break-up-just-by-the-language-you-use.md",
-      "title": "Researchers Can Tell If You’re Going To Break Up Just By The Language You Use",
-      "excerpt": "Evidence of an impending breakup may exist in the small words used in everyday conversations months before either partner realizes where their relationship is heading, according to new psychology research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
-      "originalUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60184d0049ba39787ef144b1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3622%26cropY1%3D51%26cropY2%3D2089",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mishagajewski/2021/02/01/researchers-can-tell-if-youre-going-to-breakup-just-by-the-language-you-use/amp/",
-      "publishedDateTime": "2021-02-01T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

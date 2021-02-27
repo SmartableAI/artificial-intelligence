@@ -136,20 +136,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
-    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
-    publishedDateTime: 2021-02-22T15:05:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 49
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
     excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
     publishedDateTime: 2021-02-26T19:10:00Z

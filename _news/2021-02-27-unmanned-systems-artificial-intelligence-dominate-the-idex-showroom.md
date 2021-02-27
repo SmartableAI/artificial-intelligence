@@ -2,20 +2,19 @@
 category: news
 title: "Unmanned systems, artificial intelligence dominate the IDEX showroom"
 excerpt: "If you can look away from the gold-plated guns on display at IDEX, you'll notice a trend throughout the showroom floor."
-publishedDateTime: 2021-02-26T21:58:00Z
-originalUrl: "https://www.defensenews.com/digital-show-dailies/idex/2021/02/26/unmanned-systems-artificial-intelligence-dominate-the-idex-showroom/"
-webUrl: "https://www.defensenews.com/digital-show-dailies/idex/2021/02/26/unmanned-systems-artificial-intelligence-dominate-the-idex-showroom/"
+publishedDateTime: 2021-02-26T21:49:00Z
+originalUrl: "https://www.armytimes.com/digital-show-dailies/idex/2021/02/26/unmanned-systems-artificial-intelligence-dominate-the-idex-showroom/"
+webUrl: "https://www.armytimes.com/digital-show-dailies/idex/2021/02/26/unmanned-systems-artificial-intelligence-dominate-the-idex-showroom/"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "KwfgDQVYXZIKtFq6Jo8tN3JjwlTZozeN5I8jKE7E6wQkQQ6EM5Nn1w/DVXJ/sYeZvVZJGw55SmKyCbTbiJuKWqd36q3zInNg/QMh92DTdmtvQ7n8RqAzqkyiPj4TeTSz4+pWF/k2zkE6kTVWaWRO/uY8ZSNxkQRpsg/ZK0zMx0Bdl29lWTLuD1LFzwaj3adoz62IBToumufJ+DRzqa7IZeUz1fy3KFJPTb4vZw084661uGOdrJMdXJO+757gcstd55/+kHEZzWxgCfeGwWjsQAXc6uBCueER8FEChDes4sFi2P/N+ts1lzYJBeE+K8Bs+GS0WXcoEckJpRM3V4WKp6IL6i3Sw8A970lzi8oz0DU=;n9cpGVL4hWHYd8oUe0jXlw=="
+secured: "WZIVuloEePoUH0ibahqXPJ1BgtoiFyQ42cNIoRFIgQdJ9+ChbbGyG5+4EmLm1ZfEqcmbpIO84BMmyNqkel3kjyWeiu5J7Sbo5+zAbvlcI5KfGtXAq1IIX6oGoomYZQ6rs1Dcd3JnhHnyYFs9yF36kld8IQE1tfdt0tcn91xqnvKUqPwKY2CKbDgIYZfWm4WVZ6E3Ntx7dD0rNZWwWTvhEimN+NgnrEveJer8Jyfs7bl66nB2xGKO5Kyn8U8A9wPeVuHTY9f++A2H2s8ULRLDhBLDkGm7tG+fphjDtWgG6o19CkIY6qtpEwJmNFCjD4zYFusThNytAkc2kD/VJpD3oYh2MoMRNxUM3wsM+hRVAck=;cSBWpPB7j4anEpW0Yb4v9w=="
 ---
 

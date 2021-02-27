@@ -74,7 +74,7 @@ related:
   - title: "Why driverless cars are paradise on wheels for some"
     excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
     publishedDateTime: 2021-02-24T09:59:00Z
-    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
+    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
     type: article
     provider:
       name: MarketWatch

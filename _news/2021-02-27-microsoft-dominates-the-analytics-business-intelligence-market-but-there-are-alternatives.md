@@ -144,20 +144,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Affirms Solorigate Attackers Saw Azure, Intune and Exchange Source Code"
-    excerpt: "Microsoft has reconfirmed that the 'Solorigate' advanced persistent threat attackers saw some of its source code, although 'only a few individual files were viewed.'"
-    publishedDateTime: 2021-02-22T15:05:00Z
-    webUrl: "https://redmondmag.com/articles/2021/02/22/solorigate-attackers-saw-microsoft-code.aspx"
-    type: article
-    provider:
-      name: Redmond Magazine
-      domain: redmondmag.com
-    quality: 49
-    images:
-      - url: "https://redmondmag.com/-/media/ECG/VirtualizationReview/Images/introimages2014/GEN4codeoveraneyeball.jpg"
-        width: 647
-        height: 450
-        isCached: true
   - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
     excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"
     publishedDateTime: 2021-02-23T14:35:00Z

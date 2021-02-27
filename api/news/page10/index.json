@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-18-automl-package-implemented-in-julia-using-knet.md",
+      "title": "AutoML package implemented in Julia using Knet.",
+      "excerpt": "First, you have to install AutoML package. Run julia from the command line, set the environment for the package and install AutoML package using the repository address. AutoML package provides a trained model using a few lines of code. In order to ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/alperkesen/AutoML.jl",
+      "originalUrl": "https://github.com/alperkesen/AutoML.jl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/3476788?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T22:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-electronic-nose-uses-machine-learning-to-mimic-a-dogs-sense-of-smell.md",
       "title": "Electronic nose uses machine learning to mimic a dog's sense of smell",
       "excerpt": "Inspired by the incredible olfactory senses of dogs, scientists have been developing and demonstrating different types of “electronic noses” that can sniff out things like cancer, nerve gases or even explosives.",
@@ -1145,58 +1188,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-what-does-it-take-to-operationalize-ai.md",
-      "title": "What Does It Take To Operationalize AI?",
-      "excerpt": "Software development processes and team structures have evolved a lot over the years, from waterfall and agile to DevOps and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/",
-      "publishedDateTime": "2021-02-17T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

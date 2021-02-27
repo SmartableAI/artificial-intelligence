@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-15-scaling-ai-the-4-challenges-youll-face.md",
+      "title": "Scaling AI: The 4 challenges you’ll face",
+      "excerpt": "I've worked in big data and AI with several organizations. Here's where I've seen them flounder after an enthusiastic start.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
+      "originalUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/scalability.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
+      "publishedDateTime": "2021-02-14T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store-jaweb.md",
       "title": "Exploring AWS SageMaker’s new features — Clarify, Pipelines, Feature Store – Jaweb",
       "excerpt": "Welcome to part 2 of our two-part series on AWS SageMaker. If you haven’t read part 1, hop over and do that first. Otherwise, let’s dive in and look at some important new SageMaker features: Clarify, which claims to “detect bias in ML models” and ...",
@@ -1171,49 +1222,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-minneapolis-bans-police-government-use-of-facial-recognition.md",
-      "title": "Minneapolis bans police, government use of facial recognition",
-      "excerpt": "The Minneapolis City Council voted to ban the use of facial recognition technology by the city's police and other government departments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
-      "originalUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/02/Minneapolis-Facial-Recognition.jpg?fm=pjpg&ixlib=php-3.3.0",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/minneapolis-facial-recognition-ban/?amp",
-      "publishedDateTime": "2021-02-12T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-17-incorporating-artificial-intelligence-in-indian-healthcare.md",
+      "title": "Incorporating artificial intelligence in Indian healthcare",
+      "excerpt": "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "originalUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "publishedDateTime": "2021-02-16T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarketscom.md",
       "title": "Global Application Release Automation Market (2021 to 2026) – Growth, Trends, COVID-19 Impact, and Forecasts – ResearchAndMarkets.com",
       "excerpt": "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The application release automation market is expected to reach USD 4.47 billion by 2026 from the present estimate of USD 1.",
@@ -1119,58 +1162,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-the-worlds-struggle-against-hypertension-the-role-of-artificial-intelligence.md",
-      "title": "The World’s Struggle Against Hypertension – The Role of Artificial Intelligence",
-      "excerpt": "Introduction When one considers the vast array of diseases the world contends with on a daily basis, hypertension (HTN) ranks among the top being a major risk factor for heart and circulatory health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/worlds-struggle-against-hypertension-role-artificial-brian-lenahan/",
-      "originalUrl": "https://www.linkedin.com/pulse/worlds-struggle-against-hypertension-role-artificial-brian-lenahan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEPBw7MmjioEg/article-cover_image-shrink_720_1280/0/1613494040226?e=1619654400&v=beta&t=vVW322Ea8q1LifpDcvFR4_ubsgvw9_guFju9F9ktgpg",
-          "width": 1079,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

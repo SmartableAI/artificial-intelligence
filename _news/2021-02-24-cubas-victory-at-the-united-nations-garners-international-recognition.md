@@ -7,7 +7,7 @@ originalUrl: "https://www.radiohc.cu/en/noticias/nacionales/207028-cubas-victory
 webUrl: "https://www.radiohc.cu/en/noticias/nacionales/207028-cubas-victory-at-the-united-nations-garners-international-recognition"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,68 @@ images:
     isCached: true
 
 related:
+  - title: "This Translation Device Streamlines International Communication"
+    excerpt: "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech."
+    publishedDateTime: 2021-02-23T13:00:00Z
+    webUrl: "https://www.entrepreneur.com/article/365661"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/365661"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365661"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1613626452-Ent-Langogo.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Which face mask is best for communication? A new study weighs in"
+    excerpt: "\"Excuse me, what was that again?\" It's a phrase repeated a lot these days. Distorted by masks and myriad sound barriers, talking has become a challenge."
+    publishedDateTime: 2021-02-25T03:46:00Z
+    webUrl: "https://www.wtae.com/article/best-face-mask-for-communication-study/35619318"
+    ampWebUrl: "https://www.wtae.com/amp/article/best-face-mask-for-communication-study/35619318"
+    cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/best-face-mask-for-communication-study/35619318"
+    type: article
+    provider:
+      name: WTAE-TV
+      domain: wtae.com
+    quality: 44
+    images:
+      - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/face-mask-cnn-1614227794.jpg?crop=1.00xw:0.846xh;0,0.0192xh&resize=1200:*"
+        width: 1200
+        height: 677
+        isCached: true
+  - title: "This Translation Device Streamlines International Communication"
+    excerpt: "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech."
+    publishedDateTime: 2021-02-23T16:24:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/This-Translation-Device-Streamlines-International-15971934.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/60/02/20644001/11/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
+    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
+    publishedDateTime: 2021-02-23T14:57:00Z
+    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
+    type: article
+    provider:
+      name: Finanzen
+      domain: finanzen.ch
+    quality: 20
+    images:
+      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
+        width: 344
+        height: 344
+        isCached: true
   - title: "Syrian student comes first at international innovation competition for artificial intelligence"
     excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
     publishedDateTime: 2021-02-23T07:51:00Z
@@ -34,15 +96,6 @@ related:
       name: S A N A
       domain: sana.sy
     quality: 5
-  - title: "The two schools will face their Geelong rivals in recognition of International Women's Day"
-    excerpt: "St Patrick's and Loreto College will play against St Joseph's and Sacred Heart College respectively next Tuesday at GMHBA Stadium, Geelong."
-    publishedDateTime: 2021-02-23T06:00:00Z
-    webUrl: "https://www.thecourier.com.au/story/7138348/st-patricks-and-loreto-college-to-battle-geelong-schools-video/"
-    type: article
-    provider:
-      name: The Courier
-      domain: thecourier.com.au
-    quality: 0
 
 secured: "iusIdAJ2eBi5iaISLuD12RUQ7GL0aoO51guA8x4cCUOe7R5w7VoZHBmTR8MsaMdkLvg+r6ykyzg479hANw2lbVgYRxuOsG5rbf3b1/6n9B92fKzUg776I+mPVAZ/9W1qYns324gTO79W0SJaJZG02ciHI7VNAp+DZi3V1JfOq32BKc74Ztwwq/EOb3kDGFOOti1SAZNgejpGXHJFikxl119wmLpqWmGe0MWEYKpt7pZiWbiuxhkGf4O0g6A1VNGL6PdZjzVRIKiILDW46/4cLRzVB7cF9DP77qFGxQyTxedLHk0BhEd/thyJaxCOSJxxYJ/YfMm/xJ2MI7r7Piwv7ThjXOgwcD0EQrvfVAcZT9M=;hPeRCZV2YBjP/QmoQkQV/Q=="
 ---

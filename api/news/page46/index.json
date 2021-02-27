@@ -2,6 +2,58 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-01-23-how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020.md",
+      "title": "How fintech and serial founders drove African pre-seed investing to new heights in 2020",
+      "excerpt": "When Stripe-subsidiary Paystack raised its seed round of $1.3 million in 2016, it was one of the largest disclosed rounds at that stage in Nigeria.  At the time, seven-figure seed investments in African startups were a rarity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "originalUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/africa-preseed-investment.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/22/how-fintech-and-serial-founders-drove-african-pre-seed-investing-to-new-heights-in-2020/amp/",
+      "publishedDateTime": "2021-01-22T23:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-technology-is-rapidly-changing-cancer-care.md",
       "title": "Technology Is Rapidly Changing Cancer Care",
       "excerpt": "The Watson platform was developed with ... to identify the best treatments for cancer patients. IBM Research has been exploring how AI systems could ingest raw data and support oncologists as ...",
@@ -1128,49 +1180,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game.md",
-      "title": "Call of Duty: How Much Translation, Localization Volumes Go Into a Popular Game?",
-      "excerpt": "Interview with audio team behind popular game franchise, Call of Duty, indicates why game localization continues to thrive through Covid-19.",
-      "sourceUrl": null,
-      "webUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
-      "originalUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://slator.com/assets/2021/01/Translation-and-Localization-of-Call-of-Duty-Game-2020.png",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slator",
-        "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
