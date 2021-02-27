@@ -55,21 +55,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-24-facebook-announces-1m-for-ai-research-programme-in-uk.md",
-      "title": "Facebook announces £1m for AI research programme in UK",
-      "excerpt": "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL).",
+      "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
+      "title": "Facebook expands AI PhD research program to University College London",
+      "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
-      "originalUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
+      "webUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "originalUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
+          "url": "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,14 +77,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
-      "cdnAmpWebUrl": "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
-      "publishedDateTime": "2021-02-23T12:02:00-08:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "publishedDateTime": "2021-02-23T12:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Evening Express",
-        "domain": "eveningexpress.co.uk",
-        "images": null,
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

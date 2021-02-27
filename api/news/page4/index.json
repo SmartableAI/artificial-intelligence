@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-24-microfluidic-chip-and-ai-powered-automated-microscope-help-measure-hemoglobin-levels.md",
+      "title": "Microfluidic chip and AI-powered automated microscope help measure hemoglobin levels",
+      "excerpt": "One of the most performed medical diagnostic tests to ascertain the health of patients is a complete blood count, which typically includes an estimate of the hemoglobin concentration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210224/Microfluidic-chip-and-AI-powered-automated-microscope-help-measure-hemoglobin-levels.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210224/Microfluidic-chip-and-AI-powered-automated-microscope-help-measure-hemoglobin-levels.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Hemoglobin-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210224/Microfluidic-chip-and-AI-powered-automated-microscope-help-measure-hemoglobin-levels.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/Microfluidic-chip-and-AI-powered-automated-microscope-help-measure-hemoglobin-levels.aspx",
+      "publishedDateTime": "2021-02-23T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-get-ready-for-smart-contracts-20-oraichain-launches-new-ai-powered-blockchain-network.md",
       "title": "Get Ready for Smart Contracts 2.0: Oraichain Launches New AI-powered Blockchain Network",
       "excerpt": "Oraichain aims to tackle bottlenecks in traditional oracle systems by making AI API's scalable, interoperable, accurate and secure.The platform",
@@ -200,21 +243,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-24-facebook-announces-1m-for-ai-research-programme-in-uk.md",
-      "title": "Facebook announces £1m for AI research programme in UK",
-      "excerpt": "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL).",
+      "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
+      "title": "Facebook expands AI PhD research program to University College London",
+      "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
-      "originalUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/",
+      "webUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "originalUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 129,
       "tags": null,
       "images": [
         {
-          "url": "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
+          "url": "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,14 +265,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
-      "cdnAmpWebUrl": "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/",
-      "publishedDateTime": "2021-02-23T12:02:00-08:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "publishedDateTime": "2021-02-23T12:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Evening Express",
-        "domain": "eveningexpress.co.uk",
-        "images": null,
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1175,59 +1227,6 @@
         "AI",
         "AI in Education",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
-      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
-      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-302017/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "publishedDateTime": "2021-02-23T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Google AI"
       ]
     }
   ],

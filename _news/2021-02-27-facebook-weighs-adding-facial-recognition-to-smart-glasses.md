@@ -27,84 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms"
-    excerpt: "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices."
-    publishedDateTime: 2021-02-26T06:35:00Z
-    webUrl: "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
+  - title: "Facebook expands AI PhD research program to University College London"
+    excerpt: "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ..."
+    publishedDateTime: 2021-02-23T20:41:00Z
+    webUrl: "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926"
-        width: 3105
-        height: 2070
-        isCached: true
-  - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
-    excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
-    publishedDateTime: 2021-02-26T18:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facebook-confirms-its-working-on-facial-recognition-technology-2021-02-26-71973028"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban"
-    excerpt: "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban."
-    publishedDateTime: 2021-02-26T12:24:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/"
+  - title: "Facebook announces £1m for AI research programme in UK"
+    excerpt: "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL)."
+    publishedDateTime: 2021-02-23T20:02:00Z
+    webUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/"
+    ampWebUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
+    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
+      name: Evening Express
+      domain: eveningexpress.co.uk
     quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg"
+        width: 2560
+        height: 1920
         isCached: true
-  - title: "Facebook's AR smart glasses could feature facial recognition technology"
-    excerpt: "Facebook Head of Hardware Andrew Bozworth that Facebook is 'looking at' facial recognition tech for its upcoming AR smart glasses, as long as consumers are comfortable with it."
-    publishedDateTime: 2021-02-26T19:23:00Z
-    webUrl: "https://www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology"
-    ampWebUrl: "https://www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/123014/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology?amphtml=1"
+  - title: "Facebook’s AI doctoral research programme makes inroads into UK"
+    excerpt: "Facebook collaborates with University College London to bring AI doctoral research programme to the UK, with aim to open-sourcing the findings"
+    publishedDateTime: 2021-02-24T18:30:00Z
+    webUrl: "https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK"
+    ampWebUrl: "https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK?amp=1"
     type: article
     provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/02/26/facebooks-ar-smart-glasses-could-feature-facial-recognition-technology_feature.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Facebook reveals creepy ‘facial recognition scanner’ built into smart glasses – and they’re coming in 2021"
-    excerpt: "FACEBOOK could put facial recognition tech in the smart glasses it plans to release later this year. The firm is still debating the controversial idea because it wants to be sure “authority"
-    publishedDateTime: 2021-02-26T16:27:00Z
-    webUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 41
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/09/MB-COMP-GLASSES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
     excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
     publishedDateTime: 2021-02-26T21:08:00Z
@@ -118,22 +83,6 @@ related:
       - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
-    excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
-    publishedDateTime: 2021-02-26T22:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/02/26/20/37771266-0-image-a-7_1614370640794.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "bjGxNm9qaMYzLoAPXOra1fyDgGwyGqVd9/kcaNmSJT+7wJZ7eI3YTlIVsalmLOOn6VEg35RVc71BPWoAETzrQsBNoBYHroLy6NxkW8WHLOzpSRbC4y9jwwW8GbrUx5fD0wa/D0Ed3uZGt591wEcr3hV5HPv7eMEEEeorpLiHdpcUrTeCJuxGIx9mythyb8vnMVx3efOU3t8MlOK2BkNmuZ/TBYSl5KEsX2AhCQfzFrig2tPShL9dVLjxFjO9EkPuZVu4UeK4hAXSLldfS9jk9weWRmTP/bHk97LAnPWuFASIqFwzZB63Z0LfUy7dI3A5yADyaBCMCpM//G86iaNXoRnDoC4H1FKX/Z4NpB7sTA7R6VADBcKL+VhBvMZFgu1h7y45Q+CZDduLUVqN0Y0UyW4srj53TUWDERHX+lnhBVj8NIMz6CxaRQVv0Dcc+Pz/VTpHq2Hwq2+Cy6wRxsi04n5yGvbhTeKEnms6DCSDQv77As8LJwc8EVEUdZj8Szx53Gl2UJyFNjX/PuyyNI0Q3A==;b8bEEki2pNEhpTGhFhUy9g=="

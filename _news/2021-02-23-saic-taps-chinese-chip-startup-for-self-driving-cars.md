@@ -9,7 +9,7 @@ ampWebUrl: "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-s
 cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Horizon, SAIC form auto chip alliance"
+    excerpt: "[Photo/Xinhua] Chinese automobile giant SAIC Motor Corp Ltd will join hands with smart chip company Horizon Robotics to further ... to build a brand-new collaborative model in automotive AI development, and for intelligentization of the automobile industry ..."
+    publishedDateTime: 2021-02-23T09:26:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202102/23/WS603459eca31024ad0baaa5bf.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 54
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202102/23/603459eca31024adbdb5c355.jpeg"
+        width: 617
+        height: 411
+        isCached: true
   - title: "This Chinese startup attains unicorn status in 100 days since inception"
     excerpt: "The latest pre-series A round of the Chinese graphics processing creator was led by Sequoia Capital China, GGV Capital, and Shenzhen Capital Group."
     publishedDateTime: 2021-02-25T09:27:00Z

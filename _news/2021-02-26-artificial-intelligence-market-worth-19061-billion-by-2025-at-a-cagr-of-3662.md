@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-inte
 ampWebUrl: "https://amp.benzinga.com/amp/content/19868951"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19868951"
 type: article
-quality: 56
-heat: 66
+quality: 58
+heat: 68
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg"

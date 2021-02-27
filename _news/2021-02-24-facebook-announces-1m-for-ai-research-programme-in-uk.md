@@ -9,8 +9,8 @@ ampWebUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-r
 cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Evening Express
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook expands AI PhD research program to University College London"
+    excerpt: "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ..."
+    publishedDateTime: 2021-02-23T20:41:00Z
+    webUrl: "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facebook weighs adding facial recognition to smart glasses"
+    excerpt: "Facebook is weighing whether to add facial recognition technology to the smart glasses it’s developing, one top executive says. The tech titan plans to have a public discussion about the"
+    publishedDateTime: 2021-02-26T20:18:00Z
+    webUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/"
+    ampWebUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/facebook-glasses-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facebook’s AI doctoral research programme makes inroads into UK"
     excerpt: "Facebook collaborates with University College London to bring AI doctoral research programme to the UK, with aim to open-sourcing the findings"
     publishedDateTime: 2021-02-24T18:30:00Z
@@ -38,29 +70,20 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "F10 launches startup incubation programme in Spain"
-    excerpt: "F10 announces 12 promising early-stage startups selected from more than 200 applications for Batch I of the renowned Startup Incubation Program ... Whenwhyhow is an AI-based solution that uses a combination of internal customer information and external ..."
-    publishedDateTime: 2021-02-24T17:35:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86314/f10-launches-startup-incubation-programme-in-spain"
+  - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
+    excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
+    publishedDateTime: 2021-02-26T21:08:00Z
+    webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 34
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Unity, Adobe, Snap, and Facebook Among 12 AR Companies Identified by ABI Research as Key Innovators"
-    excerpt: "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in bo"
-    publishedDateTime: 2021-02-25T09:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
 
 secured: "yig35gmi4Qe67h7yCx/4PC4hK/gZm5GjjNb8g7og26P1e6K0r659qrIRIKneBKgnt7pw7iYZOwbSwriK7pjrYzbB6P9nRMHleVfDPx2AbcWLPolW/o0VgWPTZdT91iP7Hs4AXRG1o03cGQapRldtZzmOo/wnr2HOR/Fwsn5BctayNoOazpU54gkXn5O2qf0+iXAdLa3Y8vxpTnNn+R1XOKvOnygYWX0+XL31P0gwr/wHstnHAu8JZQNACIM5knKM1dXV6I143a8/AQMDgo33vyPDybKIoAZddfrm2m/gj/9gMG3rzaRlCznsMmBW36wnN9MdutrvbufNAYxA5bqDlzamubaSzHd7mCZqlsU6dMHsslPh2GpDGHzlRS8JE/P5zTCD+L4uVbdTYmXDeMH55md1R9iM03dFsSUC3XY9sO28/7sOeEpwE/BHRN4hlb5W94Bq03ejhtEZ09lFPMvs0IOCb2oslgImLWKEvmE8OQ8aGdtGawGoUfjDuQUQ1Ia1LYQNA/kdt5iukBwjL5Ak4A==;NzVjrrMwBjjCM6z9T9Z+eA=="
 ---

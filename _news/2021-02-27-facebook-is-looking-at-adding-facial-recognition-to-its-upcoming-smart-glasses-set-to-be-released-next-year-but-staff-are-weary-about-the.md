@@ -74,22 +74,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Facebook weighs adding facial recognition to smart glasses"
-    excerpt: "Facebook is weighing whether to add facial recognition technology to the smart glasses it’s developing, one top executive says. The tech titan plans to have a public discussion about the"
-    publishedDateTime: 2021-02-26T20:18:00Z
-    webUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/"
-    ampWebUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/facebook-glasses-01.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facebook's AR smart glasses could feature facial recognition technology"
     excerpt: "Facebook Head of Hardware Andrew Bozworth that Facebook is 'looking at' facial recognition tech for its upcoming AR smart glasses, as long as consumers are comfortable with it."
     publishedDateTime: 2021-02-26T19:23:00Z
@@ -121,20 +105,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2020/09/MB-COMP-GLASSES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
-    excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
-    publishedDateTime: 2021-02-26T21:08:00Z
-    webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 34
-    images:
-      - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "U740XYH58GWXWnkMwZ/jsnAyfoYVSy5UP3FTO3/Zzh0mfhCyDEns+czLeIqiJMlzLpw58wLDtAqx0QYtHkbnIZx9Z+qqOzIuWsNaeMw7VZrV/4GE6CyNBUh+sZ1K0nX7gYi2z6vfUMMuN7JQBcsUQd2hzStBhIXavKH2RIZ5ABrrMRgDdyz5qxxBb3Yz4rlcF7IPogzCpDhlJCUfTUkdbe9vjd8wOmKOeGBiU485sxYi7eF0feq788b3F0hb5QjYLP2bWS9pcY7WyCkzqZV/PaotkmsNafvLA/FSRo2nCW49KBI9RpAfjtsNAlT8W/IAUkeP+PF2KkpEhvgXnPppB2xu2OCaZa8SQoJcPay1hO8=;+dVl94q56n3JUHrfWus0iA=="

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-23T02:39:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-size-worth-usd-76760-billion-by-2028-emergen-research-2021-02-22"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-size-worth-usd-76760-billion-by-2028-emergen-research-2021-02-22"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -46,6 +46,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Microsoft wants to use AI to unlock the potential of HPC"
+    excerpt: "Microsoft Azure is able deliver differentiated cloud capabilities that are purpose-built for the full spectrum of HPC & AI workloads including the most demanding use cases. However, at the core of the infrastructure are HPC & AI clusters which use HPC-class InfiniBand interconnect with genuine low latency (~1us) and high bandwidth typically around 200Gbps using the latest processor technologies from its partners in the program."
+    publishedDateTime: 2021-02-27T02:44:00Z
+    webUrl: "https://www.techradar.com/nz/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+    ampWebUrl: "https://www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Microsoft: How we deliver industry-specific cloud computing at scale"
     excerpt: "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations."
     publishedDateTime: 2021-02-25T12:00:00Z

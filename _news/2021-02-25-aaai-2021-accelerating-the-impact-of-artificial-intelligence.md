@@ -60,18 +60,13 @@ related:
         isCached: true
   - title: "Powow AI selected into Google Voice AI Startup Accelerator"
     excerpt: "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems."
-    publishedDateTime: 2021-02-25T17:58:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4d6ddab579894fceb605f1b24d13e4df"
+    publishedDateTime: 2021-02-26T09:47:00Z
+    webUrl: "https://www.financialbuzz.com/powow-ai-selected-into-google-voice-ai-startup-accelerator/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 17
 
 secured: "WWfXvoYicxdXdUgfAb7mVCaFjTXzDhNxxpgQff73Dpb2PH7jI4FTEsl3qTOwBItSuNcqp+4sY72r2uXvQvQIjQPRo+C8qAa7aiT/vYSiFKYMQaUcX5jIv8wHzoNbYnmKDPdJSzN86dqtgbnCWaYVXO+8FoEzOrrdfJ8wpy0Uy8bhZgXJ/0sR4s8FqA8woWphMtzbEuOPkztiH7+/Vz7dwvkR3VzgML4R5bebiEW2ETsLRbT3DvqIoD9aUleaGcRsTPyOS9f0QGcPHvdPsl7l0yIITKrG8uMov45HFeH1WeBRXpXqwIOXKCVZsxYYkQ4jp8+HrABh+MRu93vkZRWLAgwlqaUJB2vAgKZc8Znpsi+gFW2jNW13OKAtrWxdHRhwjW4/DrGtVUXJVRUQUh9surk+NSH900KCQmUkHdcBOA4/QoRc7BKyTL8C9mJef6fPtaGXZ2zSppk1p8c9WX7rVWLfX2f6KjyVwuIdHPYA41FkWl22vvyt4Biet7TH28C+U+801TaO8LIwGSbmbKN+jw==;Adh3aChc1kG+Xfcyaj/AQw=="
 ---

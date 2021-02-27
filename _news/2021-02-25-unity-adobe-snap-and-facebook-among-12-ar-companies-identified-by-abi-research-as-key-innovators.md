@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-a
 webUrl: "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -21,49 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "Facebook announces £1m for AI research programme in UK"
-    excerpt: "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL)."
-    publishedDateTime: 2021-02-23T20:02:00Z
-    webUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/"
-    ampWebUrl: "https://www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
-    cdnAmpWebUrl: "https://www-eveningexpress-co-uk.cdn.ampproject.org/c/s/www.eveningexpress.co.uk/news/facebook-announces-1m-for-ai-research-programme-in-uk/amp/"
-    type: article
-    provider:
-      name: Evening Express
-      domain: eveningexpress.co.uk
-    quality: 59
-    images:
-      - url: "https://wpcluster.dctdigital.com/eveningexpress/wp-content/uploads/sites/54/2021/02/2.58029008-scaled.jpg"
-        width: 2560
-        height: 1920
-        isCached: true
-  - title: "Facebook’s AI doctoral research programme makes inroads into UK"
-    excerpt: "Facebook collaborates with University College London to bring AI doctoral research programme to the UK, with aim to open-sourcing the findings"
-    publishedDateTime: 2021-02-24T18:30:00Z
-    webUrl: "https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK"
-    ampWebUrl: "https://www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496848/Facebooks-AI-doctoral-research-programme-makes-inroads-into-UK?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
-  - title: "F10 launches startup incubation programme in Spain"
-    excerpt: "F10 announces 12 promising early-stage startups selected from more than 200 applications for Batch I of the renowned Startup Incubation Program ... Whenwhyhow is an AI-based solution that uses a combination of internal customer information and external ..."
-    publishedDateTime: 2021-02-24T17:35:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86314/f10-launches-startup-incubation-programme-in-spain"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
 
 secured: "F54qeW3v23ukyogrzrUb++UxRQy2i8ArX2YjVNNKwNcAc0nSqYGMRmLvD8Rdyx4+TfaNTyQf/I7tzUj/Jpge48lwFce081MTBDC/jeLYiYYJDYB2u7zgmmGtA9iX2kEAdqJjDdfjmiHaiqb7bsOH49ewHW8/JHkSfw9Mo09k8nNASeY2ITvM85fFepHLUTzOd1cwg5Wzxfy7SbVfS6QFz/R1G1dmW9U2amb6adll+q2D3beacEQA0q1EzpzXvrojLuFH3FpyYJQgzSlyAChADTSyBweKm7gBnu2++GRRh6v52ehmiaVZVd1xAOFOegnDOMso6BuaUjSFtguq+Yd1PzDn59+Gee+QSkiWY5wp9R4=;M0K5/FjaUrSo4Zv81bOxlA=="
 ---

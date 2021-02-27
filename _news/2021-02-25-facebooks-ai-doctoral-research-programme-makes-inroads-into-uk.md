@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Facebook expands AI PhD research program to University College London"
+    excerpt: "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ..."
+    publishedDateTime: 2021-02-23T20:41:00Z
+    webUrl: "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook announces £1m for AI research programme in UK"
     excerpt: "Facebook has announced a £1 million investment for its first PhD programme in the UK, which will fund research into artificial intelligence (AI) as part of a scheme with University College London (UCL)."
     publishedDateTime: 2021-02-23T20:02:00Z
@@ -37,29 +53,36 @@ related:
         width: 2560
         height: 1920
         isCached: true
-  - title: "F10 launches startup incubation programme in Spain"
-    excerpt: "F10 announces 12 promising early-stage startups selected from more than 200 applications for Batch I of the renowned Startup Incubation Program ... Whenwhyhow is an AI-based solution that uses a combination of internal customer information and external ..."
-    publishedDateTime: 2021-02-24T17:35:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86314/f10-launches-startup-incubation-programme-in-spain"
+  - title: "Facebook weighs adding facial recognition to smart glasses"
+    excerpt: "Facebook is weighing whether to add facial recognition technology to the smart glasses it’s developing, one top executive says. The tech titan plans to have a public discussion about the"
+    publishedDateTime: 2021-02-26T20:18:00Z
+    webUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/"
+    ampWebUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
+      name: New York Post
+      domain: nypost.com
+    quality: 59
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/facebook-glasses-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Unity, Adobe, Snap, and Facebook Among 12 AR Companies Identified by ABI Research as Key Innovators"
-    excerpt: "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in bo"
-    publishedDateTime: 2021-02-25T09:11:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448"
+  - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
+    excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
+    publishedDateTime: 2021-02-26T21:08:00Z
+    webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 20
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 34
+    images:
+      - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "NhNZGUixBd/yE8UKDppGwu+rEZ3SS69pLstyq5sroJ1Ac2y/cSvR3sEGhzOf4YlE/m3LiKo8lYIUPeM3cpPWQTACDocMhaGbyT6PUAPk+cyrByyyOZJpMURoO7loVTBmlHN6qTVL7PmK2c8Uo/VD0SKJc6/w3s8m6bQa78kgNh2Pd+hLvXNGeCdWzIfGNofQi2OcIPU4bhqHh4Wrt0ceVibTGVyfodmLqu0YkssJp2o+w5nISxyfhOQYrYCaEWoXgZaPk9h6Ata1JtL+iGosK/iEy3OebiP08deIeTZ02LWZPNLw3zJbs4ic4KWQte/M0GGrze15fD5cT1GXxJvA263Yz7nevWin66NZEn8hFnIUD6T8XiVaz899MY1oMPKHlYzTsoXrBRZCi/p0/P5FBNOoAZAYD0FJxV7rV1tNRaNI2WIwUXVevUVNAreU2LHUtxFIywD4rtiUJknQHcCZS+PQ9Yx3OrMR2TfL3Xq1fL4DZwPoH4XGFrwHhb5rth6S7KC2Fr7PuTyoRvHgJWKQJA==;Hbo4EPhg5B+4FzEX8bgh5w=="
 ---

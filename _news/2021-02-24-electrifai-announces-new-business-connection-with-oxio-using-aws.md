@@ -1,18 +1,18 @@
 ---
 category: news
 title: "ElectrifAi Announces New Business Connection with OXIO using AWS"
-excerpt: "Once it is easily deployed to Amazon SageMaker (AWS), OXIO will feed its data directly into the machine-learning model on SageMaker. The model then provides output recommendations that are ..."
-publishedDateTime: 2021-02-24T13:10:00Z
-originalUrl: "https://www.newswire.ca/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-848501793.html"
-webUrl: "https://www.newswire.ca/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-848501793.html"
+excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (Ai) and pre-built machine learning models,"
+publishedDateTime: 2021-02-24T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-301234278.html"
+webUrl: "https://www.prnewswire.com/news-releases/electrifai-announces-new-business-connection-with-oxio-using-aws-301234278.html"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 54
 
-secured: "SNwZCKrDT/cAO+bFY3SWUUJDfROBrmXostkbRxT0h2Mq/O3H+zvTyll1MrQR0Ofcc+VWeBnLSljpifeXbjOU0+ROStNkiYBILGQk7olv8nqb7XfzQi1lvLnF6kLXRNI6sz7cz988hPps2iAcMwTGu3AjECvvh89ywppRxHBI5SK6TBKika23lEwBivDNO0wJ+rUll8gL2+Pl6+G/xyHsFZYaphDHe25hlXTD1AKx2K+viMnEsgX9k20Gjv8zbNTpXe/Uq57bI62zsFYF7fXk3ogQvMCGOvEjA+8iqYXbBiHYuQJwpO6g5XB4YhY0oAcAKewGAGW183AA3oOz2wLmFqfiE6VT9ZJ339LVorWETf0=;3OHa2h1BEUykT4A858ZPuA=="
+secured: "UjY4+/EHbDrQVhK5aoAx+kB0GNPUPvXN6W5fGGoL+XI/J7u5EJ9Aa0gh0Skcbq6G6bqXwJX2K3BZDvAbAC1lKsQPGvrySRSgQDX0KvLA7opaHfiZBwAOvsyI9cNOWmwzO/WhJA/b6ThDz/65Wdc4cHkmn1dEC6RYdWEfzJZaUxZvOn9941CKtay2YRzzQOyWuLLLgCO5rdWfDSu6JMGKJZdGsCsKfOw4oyIXb0FS96WBXeCZr5Vf/ZGyYjCQCVLBH4zr32GUtN3nnxu7fUL317gnDwRexkz0O1MSY89sba6+1nlQlYLga5rm5bttWd7nMULpw2uQJhZklE6+eXymJgKDZ0JXC6IImSb/C42631Q=;eG4I6WOxQN1atAUbAgpvIA=="
 ---
 

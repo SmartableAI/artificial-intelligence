@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/02/26/1020010/trevor-project-ai-s
 ampWebUrl: "https://www.technologyreview.com/2021/02/26/1020010/trevor-project-ai-suicide-hotline-training/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/02/26/1020010/trevor-project-ai-suicide-hotline-training/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/02/suicide-hotline-1Ee.jpeg?w=3000"
