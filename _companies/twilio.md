@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "twilio"
   url: "https://twitter.com/twilio"
-  followers: 77566
+  followers: 77568
 
 size: 1,001-5,000 employees
 yearFounded: 2008
