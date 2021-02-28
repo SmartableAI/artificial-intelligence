@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-
 webUrl: "https://www.fudzilla.com/news/ai/52428-google-to-change-ai-ethics-procedures"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 620
     height: 465
     isCached: true
-
-related:
-  - title: "Google fires another ethics scientist"
-    excerpt: "Battle of Essex ethics Google appears to have fired scientist Margaret Mitchell after weeks of being under investigation for moving thousands of files outside the company amid a battle over research freedom and diversity."
-    publishedDateTime: 2021-02-23T22:37:00Z
-    webUrl: "https://www.fudzilla.com/news/52401-googles-fires-another-ethics-scientist"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/01b41bc70cd698d6a5ba960b9c460f60_L.jpg"
-        width: 620
-        height: 415
-        isCached: true
 
 secured: "YfcbP+09R3sc9VGRU9VEzAdwDlO9iaMontmSCGwSNhEP4rICtYqulZ0Ypk48IEAmfXHtG78uVSr/NXOKgSW5JxSfOEpRyF2BfhMNGUIcpqzPBAQKo1WYONJ0jaULpn+r2kg6NlSYiM3D3PWRFbAavX9puxoPPGzj3GCOCdu+rexF8CsUOBwHx9JmVsZDjrLM7jxCNkjCZo8ZKAjEm5Aq+gk8a9JM8g41uRncLdgVNVb9wHtgjA2f/qi/ONxd55NWuKSVUHkmzXajp39hi1c/0UJM3TBo9kkQ6bRimHp9cYAY90KBHFMUUe8N0vlj4Oby3nuQgXQ75nWzDbiEVjmoeAffCOvZSTr041oTRj9j21Z9IqTpe4PzvFjiCR1g5FajpsN6AiQdN/FZdEMj5r3CnvuB9IzKAnlmeSwQRyBdvOVC7c+nP510ZA+IAKmvCU8gORt9gokJnP2GK6pmf5I5xgCCg4cfbovbZYTqtaSumyxgDZ+VB/NZ1aA3MImE0Q2P7LZhQqAlXireoTRvlSU+SQ==;fB13rPlSPoMcPrHaCBCa2g=="
 ---

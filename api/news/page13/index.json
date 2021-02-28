@@ -2,6 +2,144 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-16-data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond.md",
+      "title": "Data meets science: Open access, code, datasets, and knowledge graphs for machine learning research and beyond",
+      "excerpt": "An new interconnected ecosystem for research is shaping up, and machine learning is just the tip of the iceberg.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "originalUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/15/147ee85a-6053-45a1-baf8-385ec67125b0/annie-spratt-dank9gjvdy-unsplash.jpg",
+          "width": 3432,
+          "height": 5145,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
+      "publishedDateTime": "2021-02-16T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-semeon-analytics-wins-major-artificial-intelligence-contract-with-us-military.md",
+      "title": "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military",
+      "excerpt": "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate the development of processes that safeguard components assembled with these new materials.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
+      "publishedDateTime": "2021-02-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-tickeron-releases-ai-trading-robots-with-trailing-stops.md",
+      "title": "Tickeron Releases AI Trading Robots with Trailing Stops",
+      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, launched its new AI Robots tool for setting trailing stops for cryptos and stocks. \"AI Robots\" are automated trading rooms where AI makes trades based on several neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "publishedDateTime": "2021-02-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-lemonade-adds-bestows-ai-powered-life-insurance-in-cross-selling-move.md",
       "title": "Lemonade adds Bestow's AI-powered life insurance in cross-selling move",
       "excerpt": "Lemonade added Bestow's term life insurance coverage, which may help its latest offering stand out from traditional term life coverage.",
@@ -1062,153 +1200,6 @@
       "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
       "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
       "publishedDateTime": "2021-02-15T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-how-ai-could-spot-your-weaknesses-and-influence-your-choices.md",
-      "title": "How AI could spot your weaknesses and influence your choices",
-      "excerpt": "In experiments, an AI system successfully learned to influence human decisions. That could be useful in behavioral sciences, public policy, and welfare.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/AI-decision-making-hed-796x404.jpg",
-          "width": 796,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/",
-      "publishedDateTime": "2021-02-15T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-is-ai-just-a-fairy-tale-not-in-these-successful-use-cases.md",
-      "title": "Is AI just a fairy tale? Not in these successful use cases",
-      "excerpt": "Getting artificial intelligence past the fairy tale stage is a challenge for some organizations. Here are two examples of AI that's granted its users' wishes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "originalUrl": "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/09/84a95e88-ad1b-4afb-b847-24f13638789e/resize/1200x/38a9af191aba9d784eff432b4006b4a2/istock-1127391950.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "publishedDateTime": "2021-02-15T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-a-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-covid-19.md",
-      "title": "A machine learning approach to identify drugs that could be repurposed to fight COVID-19",
-      "excerpt": "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2021-02-15T05:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "News Medical",
