@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 84
-  - title: "The Future is Digital Healthcare"
-    excerpt: "Prior to the coronavirus pandemic, the use of digital technology in healthcare was on a steady rise; however, the pandemic has spurred rapid development of digital health technology as well as rapid a"
-    publishedDateTime: 2021-02-23T23:23:00Z
-    webUrl: "https://www.natlawreview.com/article/future-digital-healthcare"
-    ampWebUrl: "https://www.natlawreview.com/article/future-digital-healthcare?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-digital-healthcare?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 59
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "Healthcare Meets Technology at Anthem"
     excerpt: "On paper, the merging of artificial intelligence and healthcare should yield big results. Yet technology firms entering the market, like International Business Machines Corp. (IBM), have been stymied at every turn,"
     publishedDateTime: 2021-02-25T10:11:00Z

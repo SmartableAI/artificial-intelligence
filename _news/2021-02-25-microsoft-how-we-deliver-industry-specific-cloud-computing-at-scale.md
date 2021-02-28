@@ -130,20 +130,6 @@ related:
         width: 339
         height: 226
         isCached: true
-  - title: "Advancing the Orchestration of Distributed Edge Applications, ZEDEDA Integrates with Microsoft Azure IoT"
-    excerpt: "ZEDEDA's recently introduced orchestration solution for the distributed edge provides a unique, native integration with Azure IoT, giving developers access to easily deploy and manage the entire lifecycle of Azure IoT services on distributed edge computing nodes at hyper-scale,"
-    publishedDateTime: 2021-02-24T00:00:00Z
-    webUrl: "https://www.iotevolutionworld.com/fog/articles/448116-advancing-orchestration-distributed-edge-applications-zededa-integrates-with.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-feb/3071066850-AdobeStock_170339639_mutli_cloud_cutouts_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
     excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."
     publishedDateTime: 2021-02-24T18:30:00Z

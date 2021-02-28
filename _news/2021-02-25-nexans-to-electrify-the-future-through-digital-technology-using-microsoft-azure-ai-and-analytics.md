@@ -134,20 +134,6 @@ related:
         width: 339
         height: 226
         isCached: true
-  - title: "Advancing the Orchestration of Distributed Edge Applications, ZEDEDA Integrates with Microsoft Azure IoT"
-    excerpt: "ZEDEDA's recently introduced orchestration solution for the distributed edge provides a unique, native integration with Azure IoT, giving developers access to easily deploy and manage the entire lifecycle of Azure IoT services on distributed edge computing nodes at hyper-scale,"
-    publishedDateTime: 2021-02-24T00:00:00Z
-    webUrl: "https://www.iotevolutionworld.com/fog/articles/448116-advancing-orchestration-distributed-edge-applications-zededa-integrates-with.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-feb/3071066850-AdobeStock_170339639_mutli_cloud_cutouts_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Cohesity to Showcase Comprehensive and Critical Data Management for Microsoft 365 and Azure Users at Microsoft Ignite 2021"
     excerpt: "Cohesity to Lead a Presentation on Data Protection Strategies for Azure and Microsoft 365 During the March 2-4 Virtual EventSAN JOSE, Calif.--(BUSINESS WIRE)--Cohesity today announced that it is a sponsor of this year’s Microsoft Ignite and will showcase its data protection capabilities for Microsoft 365 and Azure during Microsoft Ignite 2021,"
     publishedDateTime: 2021-02-24T19:32:00Z

@@ -52,22 +52,6 @@ related:
       name: TechRepublic
       domain: techrepublic.com
     quality: 84
-  - title: "The Future is Digital Healthcare"
-    excerpt: "Prior to the coronavirus pandemic, the use of digital technology in healthcare was on a steady rise; however, the pandemic has spurred rapid development of digital health technology as well as rapid a"
-    publishedDateTime: 2021-02-23T23:23:00Z
-    webUrl: "https://www.natlawreview.com/article/future-digital-healthcare"
-    ampWebUrl: "https://www.natlawreview.com/article/future-digital-healthcare?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/future-digital-healthcare?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 59
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
 
 secured: "DyAnMhywFj5MlYKx/2PoYaYIiofeTshiLRxa2sD05DCw1iSpJJ4VEC448A7Bvue05IFvhRqaD4iavh9ls9xmqwNgoA+PGIiiiabqlwqI0xP8fQcBJx7OGz90PuzxB5nv9FS4epSnXE97SVu/tNY8dnxmmQ2jS+B9Ob2A6E7jhbfAzhXZtkXUr7xx8u5j7IEQXXgweHbhYVcHsMaYKoPPFBwMBZbWKKSrNHfy9zhTGs0IQRFBQ5gFjRgVlf+wTMHKfd/1SiSK3zznwQPa6mlU4aELF5lqRh9vNcBqS8XnuFVzUg+2/1uPXax2UNoyLAb1OvlqSnEJnMdwC7vrnwLfu5O2Q71MTytktzddqsC8IBTF+/lXeGLlmnJ6Umny5EE1mHYEkl5yuidgizI7jvc4Gd4J2ScBF8oXTzi1/ubbWjbE5rOaJ1X1nLAPHsNuuxz3Th00gsViswcLWyS/GsZvwlyP9vIXJ5O/xIE1SOymn0Y7mT9B2K8OwEIkNL3MScPoGe0T7ED/z1qQg7U5QxauUw==;b/3gJniyyGoCdi4YGZFqmw=="
 ---

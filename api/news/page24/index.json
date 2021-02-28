@@ -2,49 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2021-02-08-aws-expands-into-adelaide.md",
-      "title": "AWS expands into Adelaide",
-      "excerpt": "Amazon Web Services has expanded into South Australia with a new presence in Adelaide to support local customers in the area. The launch comes amid parent company Amazon.com’s expansion of its Adelaide presence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/aws-expands-into-adelaide-560775",
-      "originalUrl": "https://www.crn.com.au/news/aws-expands-into-adelaide-560775",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/20210208125140_crn-14_adelaide_city_cbd_iStock-1098305854.jpg",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-07T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-08-camera-board-for-battery-powered-iot-image-capture.md",
       "title": "Camera board for battery-powered IoT image capture",
       "excerpt": "“A companion smartphone application [iOS, GooglePlay] provides a user interface for the platform and acts as the gateway to cloud-based AI-enabled object recognition services.” On the board is On’s ARX3A0 360 frame/s mono camera module (centre of ...",
@@ -1191,6 +1148,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy.md",
+      "title": "Using Artificial Intelligence to prevent harm caused by immunotherapy",
+      "excerpt": "Until recently, researchers and oncologists had placed these lung cancer patients into two broad categories: those who would benefit from immunotherapy, and those who likely would not.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/02/05/1600x900/pexels-photo-2599244_1612540955952_1612540965595.jpeg",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/using-artificial-intelligence-to-prevent-harm-caused-by-immunotherapy-101612536419735-amp.html",
+      "publishedDateTime": "2021-02-05T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }
