@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
 type: article
 quality: 52
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 33
-  - title: "Astra Launches Automated Bank Transfer API for Financial Institutions and Fintech Companies"
-    excerpt: "Astra, a technology company that offers advanced bank-to-bank transfer solutions, today announced the official release of its transfer automation platform designed for financial institutions and fintech companies."
-    publishedDateTime: 2021-02-23T14:27:00Z
-    webUrl: "https://www.lelezard.com/en/news-19664367.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 29
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "It’s now or never for UK fintech, government told"
     excerpt: "The UK government faces a ‘now or never’ moment if it wants financial technology to play a central role in the economy for years to come."
     publishedDateTime: 2021-02-26T15:18:00Z

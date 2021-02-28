@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -116,22 +116,6 @@ related:
       - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
-    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
-    publishedDateTime: 2021-02-23T14:57:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 20
-    images:
-      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-        width: 344
-        height: 344
         isCached: true
 
 secured: "yQgWOeZDt5QLqAZjOlMs7pS2YXvb22YoIudCLR7PD2llhfOAOjVzEYwWuSoEnvPX5wIsYl9wyTH21dVE9WQPvH/7EZiLMcS5NiTslMH+fcOfGgD7KnkqrI38emupAaq49K/zyUk9sSELMIlGEBQFkmzQjwic/UazdHZjYBQ6QnK04mPG8qWJbLiKsVUBqV0MGytbZptxuzg2t7cipZKIJ/jFbbYOmjK48Wbz8VyXz/wODHwskSxNrgwIxMm5CGq3eL6Q2pWlzpTqMnIL6InYK0BsfMAclCtE6eVWtpOM5S6WVU66UeUT1dHpH/oSDprlEtfQ6hAHRC0/UtcQTqS5YPKHwYuYD2pl26BA2upNf/BGmoV+NQlvspgRI8AG96v9LiTsInjvYLtNwsDuHGk9sT7b4qnvLKXs93p2bC1rz5/hoy7a2CepucBxMqoddLr1F428HnNMG6sHcstzxQlSExRQZWiaLkKi4iMIEExTKa8FXhd/VdLjm9m0W3tvndGKkfDUQC4IGwlIHRjwR1UfFA==;76avArk1NbLjHmJpme2WYw=="

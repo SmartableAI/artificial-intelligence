@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/service-robotics-market-
 webUrl: "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24"
 type: article
 quality: 60
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision In Healthcare Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
-    excerpt: "Computer Vision in Healthcare Market Outlook and Forecasts By Top Manufacturers, Production, Consumption, Trade Statistics,Size, Analysis ,Growth Analysis & Regional Analysis (Latin America, North America,"
-    publishedDateTime: 2021-02-23T14:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice and Speech Recognition Market Scenario by Industry Growth, Size, Trends and Forecast 2026"
     excerpt: "Selbyville, Delaware, The Voice and Speech Recognition market study now available with Market Study Report, LLC,"
     publishedDateTime: 2021-02-24T18:47:00Z

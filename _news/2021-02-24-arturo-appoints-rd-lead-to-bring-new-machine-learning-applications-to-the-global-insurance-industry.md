@@ -24,22 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Age of Learning Expands Leadership Team and Appoints SVP of Global Business Development & Partnerships"
-    excerpt: "Age of Learning, Inc., a leading education technology innovator and creator of the popular ABCmouse online learning program, today announced the addition of Dave Renke as SVP of Global Business Development & Partnerships."
-    publishedDateTime: 2021-02-23T13:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-19663712.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-
 secured: "R3kAGsiN/ab83uYN5LYxAd5VD2ItRRo/fcIw/IHaLiiPvnKTvcNHZNaa+8WdkGphsv5nMmVQwgYw06FLFpQB+a3vxY0qpxngn+hrHfGbWgtQXm6kvWuq7rC0aPOVuuA/AoYu3k66sMU9a/cTIWkVe/+VLiG6sA6cmzoChrE4XtsKPmX5KcwFa7/dbJRWYV4TK/pZvYWLR+ZRekVT9vLEBrJMFA8ESYfrMu6nDpafRsocoeQIbQ0e8ePn3o53gyHU403q/nDPi2KeXjb5avQpgLpqBc1nl9lNpIQX8G4c755fHo37fsR/50DV8wSsf2PaSeMBGwvebKO9VdLt6pENZOoghyRS+Ad+0Tfu3pW8Lnw=;M+EDeM4EMpEtq9QkHyvqOw=="
 ---
 

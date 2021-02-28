@@ -2,40 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2021-02-10-artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring.md",
-      "title": "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring",
-      "excerpt": "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19581042",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042",
-      "publishedDateTime": "2021-02-10T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-10-how-ai-is-transforming-enterprise-operations-and-customer-experience.md",
       "title": "How AI is transforming enterprise operations and customer experience",
       "excerpt": "With enterprise operations and customer experience evolving in the wake of the Covid-19 pandemic, we explore the roles that AI has played To navigate through the worldwide Covid-19 health crisis, organisations from every sector have needed to adapt ...",
@@ -1175,6 +1141,58 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-healthcare-needs-more-diverse-experts-to-guide-innovation.md",
+      "title": "Healthcare Needs More Diverse Experts To Guide Innovation",
+      "excerpt": "Shelli Pavone is tackling the knowledge gap in healthtech innovation by ensuring diverse viewpoints are better represented",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6022d60f9b9a1ef605f23d23%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D190%26cropY2%3D3396",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/amp/",
+      "publishedDateTime": "2021-02-09T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

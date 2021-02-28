@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-25-why-religions-are-right-to-be-afraid-of-ai.md",
+      "title": "Why Religions Are Right to Be Afraid of AI",
+      "excerpt": "French sociologist and philosopher Raphaël Liogier, former director of the now-defunct Religion Observatory at the University of Provence Aix-Marseille, believes the Pope’s comments speak volumes about his beliefs on the subject.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
+      "originalUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/60103aa49ddb36009b1b45d0/lede/1611736717220-kfh1th.jpeg?crop=1xw:0.84375xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
+      "publishedDateTime": "2021-02-25T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
       "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
       "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
@@ -1095,7 +1147,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -1135,58 +1187,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-potential-ibm-watson-health-sale-puts-focus-on-data-challenges.md",
-      "title": "Potential IBM Watson Health Sale Puts Focus on Data Challenges",
-      "excerpt": "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
-      "originalUrl": "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-302963/social",
-          "width": 1280,
-          "height": 639,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
-      "publishedDateTime": "2021-02-24T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },

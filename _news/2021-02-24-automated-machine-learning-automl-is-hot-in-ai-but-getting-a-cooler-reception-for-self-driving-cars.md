@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/"
 type: article
 quality: 107
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://spacenews.com/wp-content/uploads/2021/02/geespace_satellite-release-2-scaled.jpg"
         width: 2560
         height: 1362
-        isCached: true
-  - title: "Automatic segmentation of inner ear on CT-scan using auto-context convolutional neural network"
-    excerpt: "Temporal bone CT-scan is largely used for diagnostic and surgical preplanning in diseases involving the inner ear such as hearing loss and balance disorders 1. In routine practice, this technique offers a series of 2D images which are browsed back and forth by the practitioner to mentally deduce 3D information and to this end 3D reconstructions have been applied to training and surgical planning 2."
-    publishedDateTime: 2021-02-23T13:36:00Z
-    webUrl: "https://www.nature.com/articles/s41598-021-83955-x"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 29
-    images:
-      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-83955-x/MediaObjects/41598_2021_83955_Fig2_HTML.png"
-        width: 685
-        height: 387
         isCached: true
 
 secured: "C6MPNpMNtu9XNvVwSQUo4u7cEQJIcKRDH56yhkyYoJQblG1VhvGldPe+5rEqV05v4URnWM5ny3cS0zh79AfhZbgRldQlm7tv2fLNlVO/1yzGcoCzQlIucpRKqnFpIifFJO2OD6pmnCo31XfhUIAIjuLd89GlXzY4exWn3fp5zJ/HT7lKOr7S+qcLW7buFvpKvBpE4pF7wrQiCKtt9oodEeLDwZSJuf0AcZcdXNJcVqFzfbZ1KvKhB2LByJ6vQ4w764YGU96d8ZMm5MN5TpRlKb88RlTIs7GJ0hiY3lzSZuOWsMxJInfqwUZrC06Hh0FvkhkOcNoGgTcMNm3Usdz6u5iRaCFCj9dE43JFHNZUaMozQxdj7TBRXhLrAYxZjVs5/585RyXJfwylAm02XS39ysJzh82YRgWBBuXhZa04cuQZEstPDaG+cEE4gXmbOBepSyAq5ZrinBBeP0NDWxuCdgMFMCh6icIFOFYr0XYjucQe4qie2F2Acav3B1NnPeRu+7d/e9GscYn6MMzWP+lkKw==;CdIQuGcSZpBD0/NcM1yUtA=="

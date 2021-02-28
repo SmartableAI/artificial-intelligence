@@ -2,50 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2021-01-28-neural-network-software-market-is-booming-worldwide-neurala-ibm-microsoft.md",
-      "title": "Neural Network Software Market is Booming Worldwide | Neurala, IBM, Microsoft",
-      "excerpt": "Latest released the research study on Global Neural Network Software Market offers a detailed overview of the factors influencing the global business scope Neural Network Software Market research report shows the latest market insights current situation analysis with upcoming trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "originalUrl": "https://www.openpr.com/news/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/1/U128436343_g.jpg",
-          "width": 512,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232068/neural-network-software-market-is-booming-worldwide-neurala",
-      "publishedDateTime": "2021-01-27T20:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2021-01-28-elon-musk-explains-how-self-driving-robotaxis-will-justify-teslas-massive-valuation.md",
       "title": "Elon Musk explains how self-driving robotaxis will justify Tesla's massive valuation",
       "excerpt": "As Tesla's self-driving technology continues to improve, those vehicles will become self-driving robotaxis, allowing usage to go from 12 hours a week to 60 hours a week. Tesla could charge ...",
@@ -1204,6 +1160,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-we-helped-greece-build-an-ai-system-to-make-covid-19-testing-more-efficient-heres-what-we-learned.md",
+      "title": "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned.",
+      "excerpt": "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363706",
+      "originalUrl": "https://www.entrepreneur.com/article/363706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363706",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706",
+      "publishedDateTime": "2021-01-27T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

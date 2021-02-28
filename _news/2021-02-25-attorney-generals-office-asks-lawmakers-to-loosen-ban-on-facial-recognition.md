@@ -113,22 +113,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Ideal Innovations, Inc. is the First Company to Receive ANAB Accreditation for a Facial Identification Proficiency Test"
-    excerpt: "Ideal Innovations, Inc. (I 3), announced today that it is beginning a rollout of its Facial Identification Proficiency Test (PT). The Proficiency Test complements their industry leading Facial Examination Training."
-    publishedDateTime: 2021-02-23T14:57:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/ideal-innovations-inc-is-the-first-company-to-receive-anab-accreditation-for-a-facial-identification-proficiency-test-1030113465"
-    type: article
-    provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 20
-    images:
-      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-        width: 344
-        height: 344
-        isCached: true
 
 secured: "pk3s8SDpGuGEeMd1MOKChei7RzQAMiC+AxhucY9EVwHwSQbcjaWPjrpb25A30WDIfCImdslrU+JVkUh/+iFAYZJ03vRloj0Wu4DiIRMCyr0VLvFp9N6WG4KNanjYUSiI4i3c1SB6uxQ1TTtEwJW2ugVvKzS2/N2KIZZOqn/7uwZl2PgKgohETrT7elcsVjE5N7eU1qDfcpdheKQ1H8wi6zAOMhzDng9UYkOexlmoJCPXfCQ2miMDt97Erxk1GU7PkE5ZZZvwMwKbVEigky1rUtTmdSfxNDPvSAfPt43kqG7T3CHIIvY9BrY3hghCJFQ4iGbS73XGUChSrMBwprUt8u9ZMudkB0D2kdyzdKFHI2x4hMnPVDRX+ZzRe5mVg89YJxyleQntfeuwEUkm6kUlUwF3vhRi7vWDtTHVmQN2CGdHOdbGSprTxNAfMp+7KEZZt2pQ2F3s4y3UF7DjALbjFF2tS5gwfHekaYpv7Zw2zYilsiOT4Pm1+JjRhiNPDXNL64aWPJs4STTNh4sPpGSAuw==;AqquOWPG2vj+t/B+bPFAiA=="
 ---

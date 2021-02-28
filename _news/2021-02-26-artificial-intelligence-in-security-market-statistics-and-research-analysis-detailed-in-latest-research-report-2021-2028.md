@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -99,15 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
-    publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
 secured: "pqwTH2Wx+3D4P5kTzVh7gNgl/RT24MEFh57B3wAY8MwSLkvNNFCQydw2ONLPm/DaMKp+3zNuudoisDRbuS6qyGx+0jfSnbiIPR/Uy5BfcbYus+2IS1XhC91Htuwdt/4U8kMtmUCLYDQJkkwW9WLzb7kCxW2VAJNuL9/qPdFvks9e3GsU/LTIiNRneu6GWr3gnSkBMmSVE/cL+5R55Ycs2TORhvrf0CRRYVHZpX1FQ+Xd5eybmg9c4E2S871Eg+fKioNbbvUoWKWNWDS/jkKQD//5c9EFBhdCuTpiZxv4dBwS9sv8ZJ/V5vllRq36Skkgmorr7Gkr16vQQfBYzWXGhW6noGwAwcrzTGGCkwWhy9w=;WmVlt9q5IxPrdpR5wd4UaA=="
 ---

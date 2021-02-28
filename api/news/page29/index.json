@@ -2,58 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2021-02-03-scheduling-work-meetings-in-slack-with-amazon-lex.md",
-      "title": "Scheduling work meetings in Slack with Amazon Lex",
-      "excerpt": "Imagine being able to schedule a meeting or get notified about updates in your code repositories without leaving your preferred messaging platform. This could save you time and increase productivity. With the advent of chatbots, these mundane tasks are now easier than ever. Amazon Lex, a service for",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/scheduling-work-meetings-in-slack-with-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/scheduling-work-meetings-in-slack-with-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/02/ML-1304-2-WHITE.jpg",
-          "width": 772,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T11:01:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-how-to-stop-your-computer-screen-from-hurting-your-vision-according-to-an-eye-doctor.md",
       "title": "How To Stop Your Computer Screen From Hurting Your Vision, According to an Eye Doctor",
       "excerpt": "L ooking at a computer screen all day forces sedentary behavior, strains your neck and shoulders, and—unsurprisingly—it’s incredibly hard on your eyes. Your computer screen is hurting your eyes because their ability to manage light diminishes over time,",
@@ -1208,6 +1156,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-infoworlds-2021-technology-of-the-year-award-winners.md",
+      "title": "InfoWorld’s 2021 Technology of the Year Award winners",
+      "excerpt": "InfoWorld celebrates the year’s best products in software development, cloud computing, data analytics, and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
+      "originalUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/02/toy-2021-intro-100875981-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3604653/infoworlds-2021-technology-of-the-year-award-winners.amp.html",
+      "publishedDateTime": "2021-02-03T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -142,20 +142,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
-    excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"
-    publishedDateTime: 2021-02-23T14:35:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-is-hosting-a-virtual-gaming-and-ai-research-summit-starting-today-until-24th-february"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 44
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/phil-spencer-kareem.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft adds Armenian to Translator tool"
     excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
     publishedDateTime: 2021-02-24T07:26:00Z
@@ -170,20 +156,6 @@ related:
         width: 339
         height: 226
         isCached: true
-  - title: "Microsoft Translator now offers text translation in nine additional languages"
-    excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"
-    publishedDateTime: 2021-02-23T14:34:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-translator-now-offers-text-translation-in-nine-additional-languages"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 36
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Microsoft-logo-on-building.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
     excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."
     publishedDateTime: 2021-02-24T18:30:00Z
@@ -193,20 +165,6 @@ related:
       name: Newswire Today
       domain: newswiretoday.com
     quality: 36
-  - title: "Microsoft, BBC, and Adobe Start Coalition to Stop Fake News and Misinformation"
-    excerpt: "Microsoft’s efforts to combat fake news now include the Coalition for Content Provenance and Authenticity, which aims to offer"
-    publishedDateTime: 2021-02-23T13:30:00Z
-    webUrl: "https://winbuzzer.com/2021/02/23/microsoft-bbc-and-adobe-start-coalition-to-stop-fake-news-and-misinformation-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 35
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/06/Microsoft-News-Microsoft.jpg"
-        width: 1024
-        height: 616
-        isCached: true
   - title: "Cohesity to Showcase Comprehensive and Critical Data Management for Microsoft 365 and Azure Users at Microsoft Ignite 2021"
     excerpt: "Cohesity to Lead a Presentation on Data Protection Strategies for Azure and Microsoft 365 During the March 2-4 Virtual EventSAN JOSE, Calif.--(BUSINESS WIRE)--Cohesity today announced that it is a sponsor of this year’s Microsoft Ignite and will showcase its data protection capabilities for Microsoft 365 and Azure during Microsoft Ignite 2021,"
     publishedDateTime: 2021-02-24T19:32:00Z
@@ -221,15 +179,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
-    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
-    publishedDateTime: 2021-02-23T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "VzvBzdOm0IJrZC8tmPviolnjFLrH7M5QQtpg+cMwH+X/cc3SJ7OxPUVik+cm1R/wMoJWsYEFYzd8kc6i5dPmhRbsLGlaZRyLhtHIgiezjI6TyofvFmHnLY/JK/AerPANiClYaD2opnbwk4bL9bnz6NLF5adKKvIx4tWOh2uPYjv+PU3gHG1w1HNWz4QEDYJxya0hcLYm1sU3z96SLi3+EcUPUq064n345RMqaC7GsgbjuC2tcnvGxioI249SJhB6eR2b+G2hjEi8rYgfh05nhAMRxR0bxqip7yrs90IP/humheVKQFxL2C4Gxn4zLIv5S2hIg+tx2RH0vZRCAM4snkXJAOVKD1MmoXmyLXMyHek=;EDiRwS3Zs4WonJ6UV4UuWA=="
 ---

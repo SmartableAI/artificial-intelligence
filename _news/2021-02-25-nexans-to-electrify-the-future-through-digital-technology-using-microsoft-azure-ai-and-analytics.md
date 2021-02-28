@@ -136,20 +136,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Microsoft is hosting a virtual gaming and AI research summit starting today until 24th February"
-    excerpt: "Relatively few organizations on the planet can profess to be as profoundly associated with both gaming and AI as Microsoft, which has whole groups committed to each. Uniting a huge load of visitor"
-    publishedDateTime: 2021-02-23T14:35:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-is-hosting-a-virtual-gaming-and-ai-research-summit-starting-today-until-24th-february"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 44
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/phil-spencer-kareem.png"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Microsoft adds Armenian to Translator tool"
     excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
     publishedDateTime: 2021-02-24T07:26:00Z
@@ -178,34 +164,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Microsoft Translator now offers text translation in nine additional languages"
-    excerpt: "Microsoft has announced that its Microsoft Translator service now supports nine additional languages for text translation. The latest additions are Albanian, Myanmar, Azerbaijani, Amharic, Nepali,"
-    publishedDateTime: 2021-02-23T14:34:00Z
-    webUrl: "https://www.onmsft.com/news/microsoft-translator-now-offers-text-translation-in-nine-additional-languages"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 36
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Microsoft-logo-on-building.jpg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "Microsoft, BBC, and Adobe Start Coalition to Stop Fake News and Misinformation"
-    excerpt: "Microsoft’s efforts to combat fake news now include the Coalition for Content Provenance and Authenticity, which aims to offer"
-    publishedDateTime: 2021-02-23T13:30:00Z
-    webUrl: "https://winbuzzer.com/2021/02/23/microsoft-bbc-and-adobe-start-coalition-to-stop-fake-news-and-misinformation-xcxwbn/"
-    type: article
-    provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 35
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/06/Microsoft-News-Microsoft.jpg"
-        width: 1024
-        height: 616
-        isCached: true
   - title: "Cohesity to Showcase Comprehensive and Critical Data Management for Microsoft 365 and Azure Users at Microsoft Ignite 2021"
     excerpt: "Cohesity to Lead a Presentation on Data Protection Strategies for Azure and Microsoft 365 During the March 2-4 Virtual EventSAN JOSE, Calif.--(BUSINESS WIRE)--Cohesity today announced that it is a sponsor of this year’s Microsoft Ignite and will showcase its data protection capabilities for Microsoft 365 and Azure during Microsoft Ignite 2021,"
     publishedDateTime: 2021-02-24T19:32:00Z
@@ -220,15 +178,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "ZEDEDA Announces Integration with Microsoft Azure IoT to Seamlessly and Securely Orchestrate Distributed Edge Computing Workloads at Scale"
-    excerpt: "ZEDEDA, a leader in orchestration for the distributed edge, today announced an integration with Microsoft Azure IoT services that provides customers w"
-    publishedDateTime: 2021-02-23T13:07:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210223005252/en/ZEDEDA-Announces-Integration-with-Microsoft-Azure-IoT-to-Seamlessly-and-Securely-Orchestrate-Distributed-Edge-Computing-Workloads-at-Scale"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "WnFJMO0x3ls+Nw5ALRxIEzHFwesuUtlEFQH+I5Xhx36wn6pRx0xPbOgB3snS9k7VS9FGF3sJVaQp/8fe9JRTNv4Q/1cwXCwMJH4dmuGluX7H32qwz37Na3bN2oKqje7vXcZcap0SQytvejbyTn4X10aI3nbtPoHPYYzOaVrEdM/tqBwi1WSuxVOa5hX+ptG7Awy46TkN6/Z5qD2YpD25/T/KQgs1LiMMEfRhjodBeNucXxFQ0ZbfTSNZduAN50aj0RNGIYKGSH6cudg49tDCZrMfoYhChae47qyRP1M/Kg3g7Udxr2DscmmiISmhC0WLcHYkMIDYIvbo9gfB+blsWxxxRCUCgFTQcmFooXFUzr7EZmiGCZe16YqcWHodKdfMQK8W80zIxsNiG4loccbjAMt+GlcoPaLZtkMQTL4GmmdaqEJJDhnke3HXTICl0wt+Q021GJPDkdbE/eslAE40sz7zxi/WacbLAc3i6X4UmGklflAn9RpcRfdAUQGzk//LGbFfaulwEmEuEwWDW605SA==;/f4DYJNyN1oVWWj+6ixLRg=="
 ---

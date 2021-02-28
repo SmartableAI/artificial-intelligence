@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-execu
 webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -27,75 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Potential IBM Watson Health Sale Puts Focus on Data Challenges"
-    excerpt: "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems."
-    publishedDateTime: 2021-02-24T12:30:00Z
-    webUrl: "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
-    ampWebUrl: "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-302963/social"
-        width: 1280
-        height: 639
-        isCached: true
-  - title: "The Logic Behind IBM’s Watson Healthcare Exit"
-    excerpt: "Watson promised to revolutionize medicine, so why is IBM abandoning it? The reason, in one pundit's opinion, may be due to regulations making it impossible for Watson to fully work."
-    publishedDateTime: 2021-02-25T23:42:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/the-logic-behind-ibms-watson-healthcare-exit/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 56
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_254131481.jpeg"
-        width: 1200
-        height: 759
-        isCached: true
-  - title: "After years of hype, IBM wants to sell Watson Health. What does that mean for health AI?"
-    excerpt: "After years of hype about Watson Health, IBM executives are reportedly exploring options to sell the health care AI tool. Advisory Board's Andrew Rebhan explains what happened—and what the potential sale could mean for the health care industry's AI adoption."
-    publishedDateTime: 2021-02-24T17:25:00Z
-    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
-    type: article
-    provider:
-      name: Advisory Board
-      domain: advisory.com
-    quality: 45
-    images:
-      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/blog_post_square.jpg?rev=db1071ffb3ab4897a93a0a5de2f35c65"
-        width: 360
-        height: 360
-        isCached: true
-  - title: "Will IBM Sell Off Watson?"
-    excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."
-    publishedDateTime: 2021-02-24T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/will-ibm-sell-off-watson/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/carson-masterson-0mXw-dvuLok-unsplash.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
-    excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
-    publishedDateTime: 2021-02-23T13:16:00Z
-    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
-    type: article
-    provider:
-      name: Advisory Board
-      domain: advisory.com
-    quality: 12
 
 secured: "U3sn+L+cIvdv9ERFleSm9O/hSSyifxCvvUMbJuD8NzwyTUkPQPDd0yiKD5dpQ2LWTO4rJzVyfsNl9aYSlOICgfgHiFLeEnFxc6GHo/Waq/SFtRcYZZLzWXBHSM9ponfcO53j8RiEv6B6P8rgkwHHQv+Iz4rGmnh+ey3wvE+G8+l8zumGdpAyDUxTxsR2GkQaXXE6Zf9Xqd1/+b6zfPUeAoT85OQxYjXC0GZ8xTW0cbRhywrWQ6gkHVJbIMBchFHBmnhi3x8a6Go+xhh1YmtbCVeEcSpn+HKANDp1xF7lub73Q/V7of/kbAoIhHdlGBxhaqET/HQRP/qVLtLk7n5hzaDpIkn/7+m8/6tTszdGrkU=;dCiYzEsWfVmqhltDpAROOQ=="
 ---

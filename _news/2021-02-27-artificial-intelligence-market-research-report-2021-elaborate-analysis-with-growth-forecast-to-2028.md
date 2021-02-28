@@ -100,15 +100,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
-    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
-    publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 0
 
 secured: "HGeWNtMnsxdusa9btbN7JjKRvEhZEHQd0jSWvstJjYMuyw/6MrHeNZb/lBOd2ZKcxzxkn0L4dtjeKFDAj6dDQkuNm80DIRX8a1CbwL6QNtL61QwLhFz+BSjNvs6lxdgssXkoGCsbURDUtHBXpaT0ZsmNZeg2KdiBicBJNB9as7ILYJlVxj13/3WP4sfu/YtbkAB+Yu575yzxVL40Zi67fy1brdwHQn7he7a0i6JU5ZT5Zlz6ufdYRPCXOA9mYtYW2g2d3SZLAtEh/iZgboLMltNliTVUjabXJSWM4lztKEewgQ0AlEL8MxIWkCSRDOIM14zs4vF1N5sk0Yj7WT1cLaANNZ2srglu1svG4nRjtyo=;RQ9fKz4sTk/lzFvFwVFXyA=="
 ---

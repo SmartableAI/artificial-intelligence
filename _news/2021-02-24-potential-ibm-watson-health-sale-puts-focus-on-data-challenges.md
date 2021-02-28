@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-pu
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
 type: article
 quality: 89
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -31,19 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-    publishedDateTime: 2021-02-23T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
+  - title: "IBM Watson: Why Is Healthcare AI So Tough?"
+    excerpt: "A pivotal event for AI happened when IBM’s Watson beat two all-time champions of Jeopardy! in 2011. This showed that the technology was far from being experimental. IBM would soon go on to make Watson the centerpiece of its AI strategy. And a big part of ..."
+    publishedDateTime: 2021-02-27T00:01:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 121
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603af91362e4efd26de6913e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1713%26cropY1%3D87%26cropY2%3D1050"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "The Logic Behind IBM’s Watson Healthcare Exit"
     excerpt: "Watson promised to revolutionize medicine, so why is IBM abandoning it? The reason, in one pundit's opinion, may be due to regulations making it impossible for Watson to fully work."
@@ -87,15 +89,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
-    excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
-    publishedDateTime: 2021-02-23T13:16:00Z
-    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
-    type: article
-    provider:
-      name: Advisory Board
-      domain: advisory.com
-    quality: 12
 
 secured: "oT7A70chwqDjR1BRYW+cY6kG1ocHpIDQlKQZsjIHzJvT7RlBEWGmM07WcLnxq9Ej8QkVOBPBWuwiJXrwfZOfxfHTAoXnS2ep3H7D0MMYsitmmaHa9eLkugyWpT1ZNxi8RBPWN+xt0fnOlEXGEOaSX5U1AMT6u/7JKZ9wQS6D8G7z5YN7YS0ypPFCW+GNaDqDa+djPtqgiw828gFEuCJn72o0yJcAgVU5/ko4ID3a+6CuVK8W6JOuOhpMhFYRwMq4Pztc5JzjEvqK611BSKvkCUQr5JS5rTAJZfDrw9Q6226CYwRsHld/0yulcfnQ+rCLixOWAl63xD7NKtGtl8VB7LvjFBOuBfRG/qyoSGVGiaKEFdBnwoeV9/+P67qI4oXVgiYtyUImjRZfY0K/OXOujOzfvF6D79bu//E70bu5L+/93xxeuEDwRARRtnZYfocAiOzoDut/r1oL2P0n2xctWRo9BZtThDerKsJ+1+y/9YWdWSOmsXxaOmiQ+Mhp8Rblp1WRLITLXHRMg96Cs5gznw==;LrWLPiubU19LamJcp2Euaw=="
 ---

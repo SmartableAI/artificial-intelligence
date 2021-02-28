@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/reva-university-invites-applications-two-yea
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/reva-university-invites-applications-two-year-masters-degree-deep-learning-artificial-intelligence/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Dataquest
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind funding diversity in AI with new scholarship program"
-    excerpt: "A new scholarship program funded by DeepMind is helping to foster diversity in artificial intelligence research at the University of Alberta. The program, which will support two master’s students in the U of A’s Department of Computing Science,"
-    publishedDateTime: 2021-02-23T13:10:00Z
-    webUrl: "https://troymedia.com/technology/deepmind-champions-diversity-in-ai-with-new-scholarship-program-at-u-of-a/"
-    type: article
-    provider:
-      name: Troy Media
-      domain: troymedia.com
-    quality: 54
-    images:
-      - url: "https://troymedia.com/wp-content/uploads/sites/6/2017/12/robot-artificial-intellegence697.jpg"
-        width: 697
-        height: 376
-        isCached: true
   - title: "IIT Roorkee Invites Applications for Online Certificate Workshop on Artificial Intelligence and Machine Learning"
     excerpt: "IIT Roorkee has invited applications from interested participants for a two-day online certificate workshop on artificial intelligence and machine learning IIT Roorkee is currently accepting applications for a two-day online certificate workshop on ..."
     publishedDateTime: 2021-02-26T08:19:00Z
