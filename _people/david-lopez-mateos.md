@@ -3,7 +3,7 @@ name: "David Lopez Mateos"
 bio: "Chief Science Officer at Pace. Formerly VP of Research at Winton, particle physics researcher at Harvard and CERN"
 location: London, England
 type: "profile"
-heat: 50
+heat: 32
 
 affiliation:
   name: harvard.edu
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "David Lopez Mateos"
 
-secured: "clR6BXHQq9kwh75lawgflelTnAYyqHYQvT8G5irtMK+qPrHzYQVFfnCjC9v2/R19bxcTFyKieO3jEfjEQe+jqtD4eRssSKojcv3nKBgMgZp5Px8YxRFthmPTmriSl1lcSNa4sD5vf+CBvBdWtiNHCAnPZw08SJMDMA9rdKnSf/iW91CjF2q1c8+S5mowRTLvl1b7UdU+zOsW128xzU+bKhK1LvcyrExuS2p1zHrvUp+o+yBAmtOJrobR4QfoO8T+1gOfbwul7FitFsfHGFwHbs0wlr2HG0GOoJAXqOcV+GePReAuD0Wyazece2Zuj6ZCO3cocVoVEI01Fl0yFxtQyE0U5qbUcwRmIbHGCTe7F7bKTrmQoqoTkxMmQJ2GG6u5Ma13AN2vwxOZo9xh9TLogg==;49IElnY+Ql8sz4skPx4V1A=="
+secured: "SbFNa0AVKWbG5PlDRecndE6pN1fHZeOR2T03GfFAUs4Y9doUGTPNtLe14rPOyryxVGJfKZB2wdR0GObTxgzDm/lENsRuBBSIu1ziQFGNDPDBRqbqH12zgqWz7UUr5Jf0X17nSNSUwmuQkexlgkq94hOe3ZSVBpLGg0s3RX+5IcYfLZbGueE7EaJt1EcrVrj6tmqvAO9cCLX1qohv0zrvAU8DdCZX+X6hWGsrVdfNkimOOICVnQ+vayvHlA8hkQmoWmlDqSQ9PTYe/+6jiLmxLqtdh7lKEhtzbo7LNABVcHmNj8Qfw2Ob1R5pWUU/2y7SstlkGmpebI+6jaGXfLYWtEgt3rnacuBgwSMHrX+R57mjZEFg5fZsxQEE101koJJgNlz3zelyfwGwwx2Ys/4Xkw==;FBXZyeisjHY175cEKdOdwA=="
 ---
 

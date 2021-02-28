@@ -3,7 +3,7 @@ name: "Jacob Searcy"
 bio: "Jake Searcy joined UO's Data Science Initiative from Michigan where he worked for Ford Motor Company, developing novel AI methods in their Global Data Insight and Analytics department. He began his data science career as a University of Michigan particle physicist, building data pipelines and applying machine learning techniques to the vast datasets produced at CERN's Large Hadron Collider. He currently collaborates with researchers across campus to implement AI solutions for emerging research problems and is the Associate Director of AI for UO's Research Advanced Computing Services. Searcy received his PhD from the University of Oregon in 2012."
 location: Eugene, OR
 type: "profile"
-heat: 41
+heat: 32
 
 affiliation:
   name: uoregon.edu
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Jacob Searcy"
 
-secured: "7Meu8NJFbrNHGHwJrrR6bgFP3E9wHMhPXXHVqRJKqY9h9TDEMZFNAbQvbKlxoQClnBGwkt3HeLt85WeTmWvMSwGMensjLLKWZ/VobGXilU4OxnXNhZbMQzgIMCxY++SW1kx//nNDCjlfiKkPDCp4kRh6BdYY5qYythyLu/1CH0KQMjH1BDCy3O1ufNDMUQjrrtuz8QL9gNqaS5R7GDyOvsGvjxGMVukNIs3wKGSXa5Z9N/o3agwe9O+UJP3D+JvcL/CZ8pim6R9qO0lpYZPA+N+9F3XQS4JbTlbO5Y1OwFy2H1RCj7iZ6eta57KNcJ2khltND2dEI0GS/FZ4KaRC6QYL7AxfmjA/TgdmUtnnFCdqbofWQAB2d9WOl1bHGHdjMpgx8jp091EPXcRVZfJBeQ==;fVkQY0bO9KjD0Y4Pg0cKRg=="
+secured: "/7xjeFbScxihT0Vbb2afuOZWdLXo95CEmZtXSo/q7DifMN1pJK+59NenZ8eM5Bz5jC24Qun3aOlBSoYJei158oAmDuRHxlCaKx2hwf4aXv76GLNKfoXZ1O45E28YC8JkZXYx6ZT4o9/OZoz6kYpBgpxAriQFmbg9RCjDSpapKoyqCDAt59iJAVub+TwRbafRkQEelkXBdTWQNpp0oAXDg8z1cZa9XijZ/8yPA6sRfGQcgvlp/Idv5hfs7tXh7/dHwOPM2MtToXVFBlpzn1gZTG7skB0O47QUEpGLoZ7mSRpp8c/E4ayhaJTwyg29bl4SRrmQYp+YBO0kNSYpT+L1F5PssSletyv3idB7qX6KCuspNizaTHWWWtw+A9xMOWXiTtL26fk/POnz31aGi2509A==;9lgMcfNtNVh99JIfmhtw1g=="
 ---
 
