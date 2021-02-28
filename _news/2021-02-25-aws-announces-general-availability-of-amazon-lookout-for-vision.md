@@ -1,31 +1,22 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Lookout for Vision"
-excerpt: "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,"
-publishedDateTime: 2021-02-25T01:18:00Z
-originalUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
-webUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
-ampWebUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
-cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a"
+publishedDateTime: 2021-02-25T02:29:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
+webUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
 type: article
-quality: 76
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: digitalproducer.com
-  domain: digitalproducer.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Computer Vision
-  - AI
   - AWS AI
-
-images:
-  - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
-    isCached: true
+  - AI
 
 related:
   - title: "Amazon launches computer vision service to detect defects in manufactured products"
@@ -75,6 +66,6 @@ related:
         height: 235
         isCached: true
 
-secured: "RGuogoDdy8Wo7XhydvRDnxIs8+vkVZDzct0OUbi24U72byHS+iVqwSIgN5q6qbsXSjFvqzYJ0ZT/Z6GVzPw3L2dFmkm7TaSqzpyUXcC5a7yelaHZhUKETj8qgAms1tqUpmpSbroyTv77DephjpGNpoZkZEIyFlI/kGhioctM3Bjbft5LDMv88gIkevueIN59k2AhjMm+BFk+GA/cmst+/vMxvCq5qstwDtS4w4z1faPQhrMc6wm11wDt5Ni5ozN4QPAyJDGzJl2moWM+0PvtF/5rwKb0THSXord+E0Tiv3pE69+7PoVgXPEgV8CH55KBdcZ8ytWf/SYbQecrSEmqQU672vZNZ8jomZJImlNiK3KG53XEvEH4B0V7n0ZTM+bjqbwhLiwU6nTlIOugDa7RWhsYAxJm31hQSIjv35TtkDASc9jpH/iDFtHJ4vA+8lpK0hpAOOG4neoQvdeYUrWIoBQlFdMEOhAr4m2Wx7P+ZpjB6gswShxDLxjOyzCNKzRRAmX0oMEgsO7HJsB7nynxsA==;EnP+yR4INLhS9RMfWbqfHg=="
+secured: "GKLu2i6hBy0u7TQeKD1GVad4NCrlIxzS3NmLmhFefQlnAwFAnA2DQkkHU+qda6xmVwV0aFsSwdSipKm6zG/KtnqmDWe/Z2vo2tWeHfVuSeDLw2ZNwo5k/yxYcjKBTt7sYCZWPqLnry7sW15VX0ihfwgeG4Tt5WUpsRF1KOSCkHQ+J0bmceowA5D+zdAuOk8l0Lzuqwc7Z3hPYLQjfObD9P6YzmGKR2afG12NEuUDtl8wqvEjn9M+fx8BPE9GNuRwpckzjMIcKDemC1RUxTe9RMza5ZSUh5UJjENzZ4+hJWpkv6Ao6C/B0A/wKYN+0gKSNjCt7rCHPyBnzWQX9l5/+bPd6n0uq25WGDgLqFdO05g=;XCoQEpV5PEy6gfaKpzbfDQ=="
 ---
 

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AWS Announces General Availability of Amazon Lookout for Vision"
-    excerpt: "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,"
-    publishedDateTime: 2021-02-25T01:18:00Z
-    webUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/"
-    ampWebUrl: "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
-    cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/"
-    type: article
-    provider:
-      name: digitalproducer.com
-      domain: digitalproducer.com
-    quality: 76
-    images:
-      - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Amazon launches computer vision service to detect defects in manufactured products – Jaweb"
     excerpt: "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision to spot product or process defects and anomalies in manufactured goods."
     publishedDateTime: 2021-02-25T00:14:00Z
@@ -73,6 +57,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS Announces General Availability of Amazon Lookout for Vision"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a"
+    publishedDateTime: 2021-02-25T02:29:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "7SpHqGIvoNI+HMdOKrQj/k8II22W4NH6I7IF03tJtQ09vs/XYOywbP+FhUxsIqqTrSncjNrjakG6bg21T8mDgBrRJtJgkfaT1IsQFkp/SrBRjmXWYkwxhXQJhVPYOhznfrEsBkymwZVtTUo0R/aD476vV7wpsDpglJP8qDy9rXo3nVrXcuOXR5QVp5eSTSh7yBKMMI6PYrbAG5Agn9dK8HwLr2vFzBzguISXEYxtz7XsNtR2VDxy+4sbiJpUHYAaZ9XrWhHcwGCyaZB9TldB/hEYxmyrJH9FCwezpKhZWlN7gddzFIXkHwJpzHSn9RxE7Nlp1bd3tqIXp+jbLTdKgKBdMSUQUsNUCDIAfXNChjZRRgqpqdXv3jWlMSXKgKaXLeaLeniB714WdAAo5MyqC9VLJcjKZd7Ro35b//Suh3/stGfJJv/SvMScsCfnfgd6gmT0azg9mTdkWF+SfyIOCMw0UuvtncFM28+osoRLbLWwxX2jHyreWHorDIW9Ni9yVvPUcV+8xbH0GzRS6CKfcw==;4KqsAF+9kYNY/X9u/P5MbA=="
 ---

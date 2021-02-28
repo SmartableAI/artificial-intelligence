@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210223/New-AI-algorithm-to-f
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210223/New-AI-algorithm-to-fully-automate-the-artificial-pancreas-system.aspx"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Artificial pancreas system upgraded with AI algorithm"
-    excerpt: "Diabetes is on the rise worldwide. It is a permanent condition that requires care over a life time. To help manage it, an artificial pancreas system, which automatically measures blood sugar levels to infuse the appropriate amount of insulin into the blood,"
-    publishedDateTime: 2021-02-23T15:26:00Z
-    webUrl: "https://medicalxpress.com/news/2021-02-artificial-pancreas-ai-algorithm.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-02-artificial-pancreas-ai-algorithm.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-artificial-pancreas-ai-algorithm.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/artificialpa.jpg"
-        width: 700
-        height: 405
-        isCached: true
 
 secured: "y7qWriokgXQzuSqRDNp6vb2xxYAb9IACYzQoH8ZYibk5Sy57Q/Nr492uUDVbY1hG/LRqgc81eBupEffDd5M/m5vd4FY6qIOtB9LV11CngmyOq2LZm/FMPv+l5daxcuutB6UdFIN5E42acu5l0hmHN03xNvAVVdlrCgfkr8CG/xGnEQiZbCCqLrLm3TYte5ZVI7z6zr6kyk7bf0Y8z4qcbRoXEhUw4N6++Na6JiTJy58H+sW0aEIwl3TgsW4vvJrDmDhvpsIbTuaYLn52TEnFRvex0WE1Hj/XsqmADZZQUZsdOZveldbj8BWFc0aEnv1AtdZUOSLg+vfZ3RWAQeSQXiIEcnC8TutUf1y/rB4gtZD7dUA3/bLzAiA9vyBJnSv4LzZS1ubERZLJzEN2g0uH47m2UrWEXbVil4yqK82MoLMQevvIYh21HfSVORH3cCnDuFNLlubi91mw5lllz4trxY9B1x71G1bBhOsee2FLrAfFcZV2BQryg5FYE3YwEqQkZOVzGEL9eqwmaBgwv+oknQ==;3gblq8tacVDr0advT5RQxw=="
 ---

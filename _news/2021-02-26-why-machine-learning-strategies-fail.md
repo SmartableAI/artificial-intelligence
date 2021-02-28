@@ -2,14 +2,14 @@
 category: news
 title: "Why machine learning strategies fail"
 excerpt: "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning."
-publishedDateTime: 2021-02-26T04:14:00Z
-originalUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/?via=indexdotco"
-webUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/?via=indexdotco"
+publishedDateTime: 2021-02-26T12:12:00Z
+originalUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/"
+webUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/"
 ampWebUrl: "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/"
 type: article
 quality: 108
-heat: 109
+heat: 108
 published: true
 
 provider:
@@ -32,6 +32,6 @@ images:
     height: 600
     isCached: true
 
-secured: "OoU8ZW1B5ROu5jmaBcBej8A2buNOj5GJHOVzP6gVFUq/LeLQv0w5uSqaQ0tzR/jVPBs9q+dSv+DTG7hJW6nYJuTjzNlR4mAwC/1NODVDeNQwdewFroS1YHealhwRyl0AghcCXYSCCWgsCY7CbIMQOLZx5VB8eZ2+r63+lfctw426SD+7yR7Ivh77P7x/THVF/NufmuFhukZLPGRjXG7af/4BHDrILub9LnqD5GZTo/RgX9yZgJQTb/zF5x7SimpfiWtpDE8PkazMCmdH/KfX3UN0vPfgBLcoyEs9lmnx4HGKEX7W9Nl1ngqd7Y7V+/sBQxig8q8tR/mSldIVXJ1n43uwgZ0KqRd8BmY2m2GTPClx8OGcnr1xMJ6aqwf5CDkv+zFpzzydAodEBVjOmw69/9fZXyO9bGQ//+sWYEBT3EPRrI4FRRLasuCYufoMM0fkRvy7f7v8Ie4VSnmpRK3oiQB6I3gYLqiFblYn/SS8PgBG+AmSN8bCM5D6xrtDqk5xb+GkB87X8qK7/prTS0hGmw==;WjpBkfMsWpuwcJ6+fSVr0w=="
+secured: "eOHSUjnzOoxMeEsPPxbhKt9s+KH6ciATHWKWtBEB50olCRKl2ruy290TrUxisJjKNL/Qly9lc7XaApNJGZkRo9rB/4hK5U0SZL29aIm28Ab0Z4pgTPIRYUFcRNIcXjOgUY3l6E51ueF0hQ0RW1reMjt63PJ7FyaJtgIEOpsrLDpaTX3WWX3AmAzfJPnXNGOd0/AM698hZlTEBcEnBQQ3aJLs1VmOAMjJoW+fxO21VAXyMWASSMUb+h609HEwhz0fQkQZyEbQ1/RXv2942lQHVEiB+TNCWDwnpZEpxfqmNcFojhK/NTcEd/ZF9KlEdh3BzzimI1y4LpgmevczUjKRkjE8/o751hE/xnzGuosl814=;vP56+vyh57qTbDwm/K69VA=="
 ---
 
