@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/podium/2021/02/25/ai-powered-information-oper
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Personal Information Protection Commission Tightens Personal Information Protection Utilizing New Artificial Intelligence Technology"
-    excerpt: "The Personal Information Protection Commission (PIPC) announced on Tuesday that it plans to set up and operate “AI (Artificial Intelligence) personal information infringement prevention support syste"
-    publishedDateTime: 2021-02-24T03:51:00Z
-    webUrl: "https://english.etnews.com/20210224200002"
-    ampWebUrl: "https://english.etnews.com/amp/20210224200002"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210224200002"
-    type: article
-    provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 26
-    images:
-      - url: "https://img.etnews.com/news/article/2021/02/24/article_24124758024877.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "EQ Works Announces AI-Powered Data Marketing Solution for the Insurance Industry in Partnership With Opta Information Intelligence"
     excerpt: "TORONTO, ON / ACCESSWIRE / February 25, 2021 / EQ Inc. (TSXV:EQ) (“EQ Works” or “EQ”), a leader in geospatial location data and artificial intelligence is pleased to announce its partnership with Opta Information Intelligence (Opta),"
     publishedDateTime: 2021-02-25T13:27:00Z

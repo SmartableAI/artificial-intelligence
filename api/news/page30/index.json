@@ -2,6 +2,48 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-02-03-ai-finds-more-than-1200-gravitational-lensing-candidates.md",
+      "title": "AI finds more than 1,200 gravitational lensing candidates",
+      "excerpt": "A research team with participation by Berkeley Lab physicists has used artificial intelligence to identify more than 1,200 possible gravitational lenses—objects that can be powerful markers for the distribution of dark matter.",
+      "sourceUrl": null,
+      "webUrl": "https://hubblesite.org/contents/articles/gravitational-lensing",
+      "originalUrl": "https://phys.org/news/2021-02-ai-gravitational-lensing-candidates.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hubblesite.org/files/live/sites/hubble/files/home/resource-gallery/articles/_images/hs-article-gLens-2400x1200.jpg",
+          "width": 2400,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-carecard-launches-artificial-intelligence-powered-platform-to-tackle-the-450-billion-dollar-prescription-market.md",
       "title": "Carecard Launches Artificial Intelligence-Powered Platform to Tackle the $450 Billion Dollar Prescription Market",
       "excerpt": "Carecard launches to make healthcare affordable for everyone by tackling the $450 billion dollar prescription market. Carecard is powered by advanced AI technology, and the Company has secured relationships with major pharmacies nationwide,",
@@ -1170,50 +1212,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
-      "title": "AI maths whiz creates tough new problems for humans to solve",
-      "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-00304-8?referral=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-00304-8/d41586-021-00304-8_18829048.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

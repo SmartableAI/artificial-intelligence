@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-doctors-track-covids-spread.md",
+      "title": "This cutting-edge cloud-computing service is helping doctors track COVID's spread",
+      "excerpt": "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "originalUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
+      "publishedDateTime": "2021-02-10T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-10-affordable-and-free-online-data-science-courses-from-mit-harvard-google-ibm-and-more.md",
       "title": "10 affordable and free online data science courses from MIT, Harvard, Google, IBM, and more",
       "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
@@ -1391,49 +1443,6 @@
       "provider": {
         "name": "Windows",
         "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-bitscape-has-earned-the-windows-server-and-sql-server-migration-to-microsoft-azure-advanced-specialization.md",
-      "title": "Bitscape Has Earned the Windows Server and SQL Server Migration to Microsoft Azure Advanced Specialization",
-      "excerpt": "Jan 29, 2021-- Bitscape today announced it has earned the Windows Server and SQL Server Migration to Microsoft Azure advanced specialization, a validation of a solution partner’s deep knowledge, extensive experience and expertise in migrating Windows Server and SQL Server-based workloads to Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-north-america-software-industry-cloud-computing-69d0d9117c084002ac90f60f0bccbff3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

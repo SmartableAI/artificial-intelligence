@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-01-28-autonomous-cars-market-key-developments-research-methodology-and-top-player-forecast-overview-till-2027-fortune-business-insights.md",
+      "title": "Autonomous Cars Market Key Developments, Research Methodology and Top Player Forecast Overview Till 2027 | Fortune Business Insights",
+      "excerpt": "Autonomous Cars Market is set to grow exponentially owing to the increasing development of the ride-hailing technology. Hence, numerous industry giants are investing hefty amounts of money in the field of driverless ride-sharing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-key-developments-research-methodology-and-top-player-forecast-overview-till-2027-fortune-business-insights-2021-01-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/autonomous-cars-market-key-developments-research-methodology-and-top-player-forecast-overview-till-2027-fortune-business-insights-2021-01-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-female-led-startups-dominate-catalyst-funds-inclusive-fintech-2021-cohort.md",
       "title": "Female-led startups dominate Catalyst Fund’s inclusive fintech 2021 cohort",
       "excerpt": "Catalyst Fund, a global accelerator managed by BFA Global, announced the 8th cohort for its Inclusive Fintech Program today. The accelerator runs the flagship program annually and with a focus on Kenya,",
@@ -1152,49 +1204,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-china-growing-use-of-emotion-recognition-tech-raises-rights-concerns.md",
-      "title": "China growing use of emotion recognition tech raises rights concerns",
-      "excerpt": "Technology that measures emotions based on biometric indicators such as facial movements, tone of voice or body movements, is increasingly being marketed in China, researchers say, despite concerns about its accuracy and wider human rights implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
-      "originalUrl": "https://www.reuters.com/article/china-growing-use-of-emotion-recognition-idUSL8N2K2500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL8N2K2500",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2K2500",
-      "publishedDateTime": "2021-01-27T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

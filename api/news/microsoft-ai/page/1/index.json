@@ -770,6 +770,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-15-microsoft-announces-limited-access-to-its-neural-text-to-speech-ai.md",
+      "title": "Microsoft announces limited access to its neural text-to-speech AI",
+      "excerpt": "Microsoft announces limited access to its neural text-to-speech AI Recently, Microsoft announced limited access to its neural",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-announces-limited-access-to-its-neural-text-to-speech-AI.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/amp/",
+      "publishedDateTime": "2021-02-14T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap.md",
       "title": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,",
       "excerpt": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,",
@@ -1368,58 +1411,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-doctors-track-covids-spread.md",
-      "title": "This cutting-edge cloud-computing service is helping doctors track COVID's spread",
-      "excerpt": "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "originalUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "publishedDateTime": "2021-02-10T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

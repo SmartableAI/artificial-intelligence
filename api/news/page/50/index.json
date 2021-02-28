@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-01-21-google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.md",
+      "title": "Google investigates ethical AI team member over handling of sensitive data",
+      "excerpt": "Alphabet Inc’s Google is investigating a member of its ethical AI team and has locked the corporate account linked to that person after finding that thousands of files were retrieved from its server and shared with external accounts,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data",
+      "originalUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c24beea8-2f80-4be7-8a30-bc57baf899d4/a74a6776-b80e-42d9-b9a7-74f73bb7a609/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp",
+      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/google-investigates-ethical-ai-team-member-over-handling-of-sensitive-data.amp",
+      "publishedDateTime": "2021-01-20T17:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox Business",
+        "domain": "foxbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-this-site-published-every-face-from-parlers-capitol-riot-videos.md",
       "title": "This Site Published Every Face From Parler's Capitol Riot Videos",
       "excerpt": "Faces of the Riot used open source software to detect, extract, and deduplicate every face from the 827 videos taken from the insurrection on January 6.",
@@ -1139,49 +1182,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition.md",
-      "title": "Image Recognition Markets, 2025 - Digital Image Processing, Facial Recognition, Pattern Recognition",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net DUBLIN, Jan. 20, 2021 /PRNewswire/ -- The \"Image Recognition Market by Technology (Digital Image Processing, Facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/image-recognition-markets-2025-digital-image-processing-facial-recognition-pattern-recognition-1029986744",
-      "publishedDateTime": "2021-01-20T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

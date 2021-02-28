@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in healthcare: An insider’s guide"
-    excerpt: "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare"
-    publishedDateTime: 2021-02-24T04:30:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
   - title: "Healthcare Meets Technology at Anthem"
     excerpt: "On paper, the merging of artificial intelligence and healthcare should yield big results. Yet technology firms entering the market, like International Business Machines Corp. (IBM), have been stymied at every turn,"
     publishedDateTime: 2021-02-25T10:11:00Z

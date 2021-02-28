@@ -2,6 +2,48 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-26-reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform.md",
+      "title": "Reveal And Brainspace Merge to Become Leading Artificial Intelligence Powered eDiscovery Platform",
+      "excerpt": "Press Release Reveal, a global provider of the leading AI-powered eDiscovery platform, and Brainspace, a global provider of visual analytics for eDiscovery and investigations, announced today that they have joined forces.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/",
+      "publishedDateTime": "2021-01-26T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-humans-wouldnt-be-able-to-control-a-superintelligent-ai-according-to-a-new-study.md",
       "title": "Humans wouldn't be able to control a superintelligent AI, according to a new study",
       "excerpt": "Not only does the research suggest humans wouldn't be able to control machines — we may not even know when superintelligent machines have arrived.",
@@ -1175,50 +1217,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-voice-and-speech-recognition-software-market-predicted-to-witness-sustainable-evolution-in-future-microsoft-alphabet-sensory.md",
-      "title": "Voice And Speech Recognition Software Market Predicted to Witness Sustainable Evolution in Future | Microsoft, Alphabet, Sensory",
-      "excerpt": "Global Voice And Speech Recognition Software Market Report from AMA Research highlights deep analysis on market characteristics, sizing, estimates and growth by segmentation, regional breakdowns ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101493281/Voice-And-Speech-Recognition-Software-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Alphabet-Sensory",
-      "originalUrl": "https://menafn.com/1101493281/Voice-And-Speech-Recognition-Software-Market-Predicted-to-Witness-Sustainable-Evolution-in-Future-Microsoft-Alphabet-Sensory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?402257",
-          "width": 437,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

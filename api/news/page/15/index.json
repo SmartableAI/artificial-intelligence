@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-14-washington-state-lawmakers-seek-to-ban-government-from-using-discriminatory-ai-tech.md",
+      "title": "Washington state lawmakers seek to ban government from using discriminatory AI tech",
+      "excerpt": "Washington state could become a national leader in regulating the technologies of the future, thanks in part to a bill up for debate that would establish new guardrails on government use of",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/",
+      "originalUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/07/bob-hasegawa-630x418.jpg",
+          "width": 630,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/amp/",
+      "publishedDateTime": "2021-02-13T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes.md",
       "title": "AI Emerges as Crucial Tool for Groups Seeking Justice for Syria War Crimes",
       "excerpt": "Rights groups are using machine learning to sort through a mammoth trove of video, photo and other evidence to build Syrian war-crimes cases.",
@@ -1180,57 +1231,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-photo-hoarding.md",
-      "title": "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding",
-      "excerpt": "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
-      "originalUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
-      "publishedDateTime": "2021-02-12T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

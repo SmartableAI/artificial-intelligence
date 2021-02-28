@@ -41,22 +41,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "Personal Information Protection Commission Tightens Personal Information Protection Utilizing New Artificial Intelligence Technology"
-    excerpt: "The Personal Information Protection Commission (PIPC) announced on Tuesday that it plans to set up and operate “AI (Artificial Intelligence) personal information infringement prevention support syste"
-    publishedDateTime: 2021-02-24T03:51:00Z
-    webUrl: "https://english.etnews.com/20210224200002"
-    ampWebUrl: "https://english.etnews.com/amp/20210224200002"
-    cdnAmpWebUrl: "https://english-etnews-com.cdn.ampproject.org/c/s/english.etnews.com/amp/20210224200002"
-    type: article
-    provider:
-      name: Etnews.com
-      domain: etnews.com
-    quality: 26
-    images:
-      - url: "https://img.etnews.com/news/article/2021/02/24/article_24124758024877.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "HcNfrkXPnrRvPrbggyyr8qk0Qw6XMdQT0SPf0QcjEOMvguwlB9Wy7Qrk4eQVUzdVhT5NTI2dVRUEXi3qZiJb7Q4JbTT/7jL56uK9KMVOURP6dPqAPrHrbcJlNKaMzm2wXir76wAKq19LwicOixpCSXH8i5CnA1WzjPqgs8jj8glQLKC7X3tYkk79edrctCT0Y8XPGw+3OS9GfDrmAhYYo16zfxUvUsAOdtdhSC7OR4UOSmxVb56pGUPKxQjXqf4pu83zGWIXkaVKg99rXs4F6PSWh1v+HoVXNBhXJYWAM+mO8yNhd5euhEEjgPnfp4X1MZ+/gWeDd316pog50U00lzYvHx34awm+hnUgaYJjFGY=;dHAX8J/L+uRa4xKxIvmogw=="
 ---

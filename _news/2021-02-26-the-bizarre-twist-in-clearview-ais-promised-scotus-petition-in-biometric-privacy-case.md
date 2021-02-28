@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP2PW"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP2PW"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -22,19 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Clearview AI Reveals Plan To Take BIPA Fight To High Court"
-    excerpt: "Clearview AI is gearing up to ask the U.S. Supreme Court to review a Seventh Circuit ruling that biometric privacy claims brought by Illinois residents against the facial recognition technology company belong in state court,"
-    publishedDateTime: 2021-02-24T04:10:00Z
-    webUrl: "https://www.law360.com/technology/articles/1358195/clearview-ai-reveals-plan-to-take-bipa-fight-to-high-court"
-    ampWebUrl: "https://www.law360.com/amp/articles/1358195"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1358195"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 37
 
 secured: "q9uGVAX/1HBKeap39BbJN2vU1CgFjZtYNU84flwzp5CgMQfDfdSl8Z5S53DK4MKYOYcSm2Wm2tR4dShQNuRcDK7y939PwZ4w3r2/pE+7D7K8IN/z3ozYd0CY97sKWFYlKJd4b9Wc2xzP7fvNPc9qzo5cPbJUd7Uq1xfHijWWHT7sFdHU3FbUzi/UxnumFV4+rRY5jxHoH6clm0D8o7qb2HhgZig+gBiigNsolHPf3ss/1fN2P1/CuQ8XFokrpZWu7yz0zPSVe9cP4Zgm/esSzhbEU0zZjo9sBTtXHJlP4pCYs5/evGo4+lv9Ld4GV1d27e4euiN6DStKPRV47tCxPzDyUinsE1h1HLfFAdMRQeg=;avPwlXY3jmMUEixC2afYmQ=="
 ---

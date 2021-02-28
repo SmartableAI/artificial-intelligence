@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-09-researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-diversity.md",
+      "title": "Researchers find that labels in computer vision datasets poorly capture racial diversity",
+      "excerpt": "In a study, researchers at Northeastern University find evidence that lables in computer vision datasets poorly reflect racial diversity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/08/researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-and-ethnic-diversity/",
+      "originalUrl": "https://venturebeat.com/2021/02/08/researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-and-ethnic-diversity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/08/researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-and-ethnic-diversity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-and-ethnic-diversity/amp/",
+      "publishedDateTime": "2021-02-08T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform.md",
       "title": "Arize AI Partners with Spell to Bring ML Observability to the Spell Platform",
       "excerpt": "Observability company, and Spell, a powerful ML Ops platform, announce a partnership giving Spell customers access to Arize AI's model observability capabilities. Spell users will be able to monitor,",
@@ -1131,50 +1183,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-making-ai-real-a-2019-report-into-ai-machine-learning.md",
-      "title": "Making Ai Real: A 2019 Report Into Ai & Machine Learning",
-      "excerpt": "Making AI Real report surveys global business about real world AI usage. This report reveals how technologies such as machine learning and AI are being used in 2019. To achieve this we surveyed a panel of 2,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/making-ai-real-a-2019-report-into-ai-machine-learning/",
-      "publishedDateTime": "2021-02-07T21:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

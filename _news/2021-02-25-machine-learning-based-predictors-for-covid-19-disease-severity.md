@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Bank machine learning models hit hard by Covid"
-    excerpt: "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic."
-    publishedDateTime: 2021-02-24T03:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37534/bank-machine-learning-models-hit-hard-by-covid"
+  - title: "Electronic doctors’ notes could help hospitals plan for surges in COVID-19 cases"
+    excerpt: "A new study, published today in Nature Digital Medicine, found that 'natural language processing' (NLP) of information routinely recorded by doctors - as part of patients' electronic health records - reveal vital trends that could help clinical teams forecast and plan for surges in patients."
+    publishedDateTime: 2021-02-24T21:59:00Z
+    webUrl: "https://www.news-medical.net/news/20210224/Electronic-doctorse28099-notes-could-help-hospitals-plan-for-surges-in-COVID-19-cases.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210224/Electronic-doctorse28099-notes-could-help-hospitals-plan-for-surges-in-COVID-19-cases.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/Electronic-doctorse28099-notes-could-help-hospitals-plan-for-surges-in-COVID-19-cases.aspx"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 56
+      name: News Medical
+      domain: news-medical.net
+    quality: 39
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/covid5.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "A machine-learning approach to finding treatment options for Covid-19"
-    excerpt: "When the COVID-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare. \"Making new drugs takes forever,\" says Caroline Uhler, a computational biologist at the Massachusetts Institute of Technology."
-    publishedDateTime: 2021-02-24T19:43:00Z
-    webUrl: "https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=302179"
-    type: article
-    provider:
-      name: nsf.gov
-      domain: nsf.gov
-    quality: 24
-    images:
-      - url: "https://www.nsf.gov/news/mmg/media/images/sars_cov2_f.jpg"
-        width: 350
-        height: 220
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "jPAdEpKFDxSCyapsWQ1AQL8ULsKogGEy2NSeH+RIMgCcdWpKarsSYfg5NVgFhWne7sNBT3tT+W+Qn/knrf214EgrVCO3UVCONtWFXqd2Krpu3yZ8cazrGD8u1zJpheWMcmxM5XGipqxVXLvrfCGPkGNrdTd1eI9AVFNTuRMhzhYyyhsqtZOvXyLf2ctcflyjNMtgSRTLGx3IDPEGsDlK4+iIVKIVy4KeT7WWS/6kUKQm0pak9kNzSaZoST9J4D5ty7gn7hy5fv4Y7f072vjuXLFQILcVWeVZAmg0ab6Qx/neqNgbL7nUFIC7GynLSx10HhjLZM5KAxfKbB3u+mzqZhpCGbFvUpe5DIIkmOd+/OY=;Ee+vEBpUGbThA5uaN29ysg=="

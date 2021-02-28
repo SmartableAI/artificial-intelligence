@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-12-canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-photo-hoarding.md",
+      "title": "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding",
+      "excerpt": "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
+      "originalUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
+      "publishedDateTime": "2021-02-12T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-bonus-episode-in-conversation-reframing-black-history-and-culture.md",
       "title": "Bonus Episode: In Conversation: Reframing Black History and Culture",
       "excerpt": "ADAMS SIMMONS: And Tara will be posting updates about her travels on Instagram and Facebook ... to let people know about research that's being done by Black AI researchers. I wonder if you ...",
@@ -1061,58 +1112,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-cbp-facial-recognition-scanners-failed-to-find-a-single-imposter-at-airports-in-2020.md",
-      "title": "CBP Facial Recognition Scanners Failed to Find a Single Imposter At Airports in 2020",
-      "excerpt": "Customs and Border Protection used facial recognition tools to scan over 23 million travelers’ faces at 30-plus points of entry in 2020, and failed to turn up a single example of an individual impersonating someone else at an airport,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
-      "originalUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ptk8qwz2lidkcnm3uwul.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680/amp",
-      "publishedDateTime": "2021-02-11T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

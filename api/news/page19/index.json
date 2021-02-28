@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-11-nhl-takes-big-stride-on-data-and-analytics-with-aws-deal.md",
+      "title": "NHL takes big stride on data and analytics with AWS deal",
+      "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking.The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
+      "sourceUrl": null,
+      "webUrl": "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal",
+      "originalUrl": "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.newsok.biz/cache/1280x720_blur-ed4f6edd59917d020496a60408c651a4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/amp",
+      "cdnAmpWebUrl": "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/amp",
+      "publishedDateTime": "2021-02-10T16:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oklahoman",
+        "domain": "oklahoman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-ibm-and-palantir-debut-no-code-platform-for-open-ai-applications.md",
       "title": "IBM and Palantir debut no-code platform for open AI applications",
       "excerpt": "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications.",
@@ -1095,58 +1138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles.md",
-      "title": "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles",
-      "excerpt": "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "originalUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297352/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "publishedDateTime": "2021-02-10T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -3,8 +3,8 @@ category: news
 title: "Women-focused VC firm Her Capital invests in AI video interviewing HR startup"
 excerpt: "With the new funds, Neufast plans to expand its product suite as well as expand into the Greater China and Southeast Asia markets."
 publishedDateTime: 2021-02-26T18:16:00Z
-originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-674915"
-webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-674915"
+originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?comments=true"
+webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?comments=true"
 type: article
 quality: 44
 heat: 44
@@ -37,6 +37,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "bJOlTveL1ZeCgT9y8lv5TqWWFHbDK/cR0Adh83srqBptx4oU/0or0fg4WQElCichJbo3aYeW2MD1ZU85ur0I6TQYBhdi84QfkFrewQ9+sbjuA5wcQWAzWkcUeuvi64YKcRlsHWD0zZVpYwwUAK6C4otbcXHSoV83T2kdXXHYiSVyOPaTNkxctg9D+QuNKt5B0BWL/9dOdFwE8xEoHp6N1atjJrAG0oNNErdLWBsa0dVcOPMtbqf4qipaiUa8O0b1OEXSRkpvCxiJcC1swmHQ0YSCCcpZPo8n2N5E8amtX35QwP4g/Iw8NY8g1VaGGneg8sA+VtSq1uqNjOmS46oVaCJFYK00k5q+P2Meq7LwnZJX2XmA/m2lF2F7HD2iBuGDgp4z9oAEengWdPWf7VPhEoniZgIqT8Us4kXRaC9zhTbojqmGxvbd+6CNU1i5rF1nb0WKRwKpJr3nTLJI08xskI3dwkzVKAfasVaTTdUOXVErw7wP3+Ba+Juu4WNYmIGEOxCKIeyYQqk+/lAwUAvi7Q==;zavU9oWrRBd8K8QAoly7vQ=="
+secured: "DO5KsWB/qbFP/fnxNfAv0YiDnwV31uAqXdoP35hn7McYXU0KyEpOynwCglyEXyQeswKUXT1SNQQDt7Bvw2qpE04ibVny/tf9qVVJBMsYVS4GD09fM2gSHEwVZrHqdpcAh8diJZm1GoOtshesnleNxZJDgIVhf2LE535tM1/dLgG7RKrnd0LUap5x46qKTkBhXnDJY2rTSvvHeC82p23IM/KjOCTwe4/REPvTO7zXnkx4njfTgksZPFxLljBMgdVwuZMPilUnlfEdboVt0o95AC/VO7mYT1liwxrc6nSe0bcfs9VT0O8BDE+eXjx9dlX080mj20j+rLXu3ctaROTyN+AO8PYo2gzZlbIwIul65NJmnO3JOba0H+al+BVFZG1G8UuyJVgF16Ffgc016ce0zN8ksZjRaCBZg08yN9B4bDbOihxFhrCXA5qWwZAKl77KYKRXwYqKZo4cs6MNUYgK43GNONpF971Ek73AYie3rlLLuRQQk/TMgN9kEpKY6nsIjWrus4rEI/YsiUmUkweK1A==;ADEnStaZ/Tr3vzmYlKy1xA=="
 ---
 

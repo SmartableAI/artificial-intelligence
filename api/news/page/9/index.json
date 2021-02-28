@@ -2,21 +2,21 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-02-19-reverb-is-an-efficient-and-easy-to-use-data-storage-and-transport-system-designed-for-machine-learning-research.md",
-      "title": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research",
-      "excerpt": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research. Reverb is primarily used as an experience replay system for distributed reinforcement learning algorithms but the system also supports multiple ...",
+      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
+      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
+      "excerpt": "That’s according to a recent study from Google’s DeepMind that looked at the positive and negative effects of AI on people who identify as lesbian, gay, bisexual, transgender, or asexual.",
       "sourceUrl": null,
-      "webUrl": "https://github.com/deepmind/reverb",
-      "originalUrl": "https://github.com/deepmind/reverb",
+      "webUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
+      "originalUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
-          "width": 400,
-          "height": 400,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1148800397.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T16:00:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
+      "publishedDateTime": "2021-02-18T15:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,8 +50,7 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {

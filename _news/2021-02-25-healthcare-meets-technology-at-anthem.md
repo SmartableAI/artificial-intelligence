@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "AI in healthcare: An insider’s guide"
-    excerpt: "A wide range of medical technologies now use artificial intelligence, providing numerous benefits to both patients and healthcare"
-    publishedDateTime: 2021-02-24T04:30:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/resource-library/whitepapers/ai-in-healthcare-an-insider-s-guide/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 84
 
 secured: "DyAnMhywFj5MlYKx/2PoYaYIiofeTshiLRxa2sD05DCw1iSpJJ4VEC448A7Bvue05IFvhRqaD4iavh9ls9xmqwNgoA+PGIiiiabqlwqI0xP8fQcBJx7OGz90PuzxB5nv9FS4epSnXE97SVu/tNY8dnxmmQ2jS+B9Ob2A6E7jhbfAzhXZtkXUr7xx8u5j7IEQXXgweHbhYVcHsMaYKoPPFBwMBZbWKKSrNHfy9zhTGs0IQRFBQ5gFjRgVlf+wTMHKfd/1SiSK3zznwQPa6mlU4aELF5lqRh9vNcBqS8XnuFVzUg+2/1uPXax2UNoyLAb1OvlqSnEJnMdwC7vrnwLfu5O2Q71MTytktzddqsC8IBTF+/lXeGLlmnJ6Umny5EE1mHYEkl5yuidgizI7jvc4Gd4J2ScBF8oXTzi1/ubbWjbE5rOaJ1X1nLAPHsNuuxz3Th00gsViswcLWyS/GsZvwlyP9vIXJ5O/xIE1SOymn0Y7mT9B2K8OwEIkNL3MScPoGe0T7ED/z1qQg7U5QxauUw==;b/3gJniyyGoCdi4YGZFqmw=="
 ---

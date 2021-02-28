@@ -289,10 +289,10 @@
     {
       "path": "_news/2021-02-15-natural-language-processing-trends-that-impact-enterprises-in-2021.md",
       "title": "Natural Language Processing Trends That Impact Enterprises in 2021",
-      "excerpt": "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable.",
+      "excerpt": "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues.",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
+      "webUrl": "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021",
+      "originalUrl": "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -379,6 +379,49 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-microsoft-announces-limited-access-to-its-neural-text-to-speech-ai.md",
+      "title": "Microsoft announces limited access to its neural text-to-speech AI",
+      "excerpt": "Microsoft announces limited access to its neural text-to-speech AI Recently, Microsoft announced limited access to its neural",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-announces-limited-access-to-its-neural-text-to-speech-AI.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/amp/",
+      "publishedDateTime": "2021-02-14T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1137,57 +1180,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-washington-state-lawmakers-seek-to-ban-government-from-using-discriminatory-ai-tech.md",
-      "title": "Washington state lawmakers seek to ban government from using discriminatory AI tech",
-      "excerpt": "Washington state could become a national leader in regulating the technologies of the future, thanks in part to a bill up for debate that would establish new guardrails on government use of",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/",
-      "originalUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/07/bob-hasegawa-630x418.jpg",
-          "width": 630,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/washington-state-lawmakers-seek-ban-government-using-ai-tech-discriminates/amp/",
-      "publishedDateTime": "2021-02-13T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -26,6 +26,22 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Machine learning based predictors for COVID-19 disease severity"
+    excerpt: "Predictors of the need for intensive care and mechanical ventilation can help healthcare systems in planning for surge capacity for COVID-19. We used socio-demographic data, clinical data, and blood panel profile data at the time of initial presentation to develop machine learning algorithms for predicting the need for intensive care and mechanical ventilation."
+    publishedDateTime: 2021-02-25T14:09:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-83967-7"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-83967-7/MediaObjects/41598_2021_83967_Fig2_HTML.png"
+        width: 685
+        height: 355
+        isCached: true
+
 secured: "ynUgZlF2RESd3+ntXjrtfsIe3t0KecURazwxUoFUU+kyrdo0kQaWNufVrrH+I2D9tBv9ZvYowUcr6klb1LGxu6sQN3CQ6q/WkuUsl0BYbcV5n4WV34R0eA/JnCURgzJECAENVJXjYSjkS1lrF+C42BqSH/cloOrYSl3W4PUkSmPBhJdB/CXgaYosRZHo2NEc1w3EqWBQcDiMcCFu+qLwD4X/ww600K8KsX5FNOs3fSWkIR8jhG/aOrTkPxOWU+W8LG6apP8w3dV2c155pqsBvhT0I3pdQ4fRi71IwwV7x/HJFCNYf5UXwXc34n6ZA2pjBd6uoguiO9B/NUq4LujlvPG0bwaxJx5lcz1wjSto3CE=;N0Gfn11dW2TK13AiMTisJw=="
 ---
 

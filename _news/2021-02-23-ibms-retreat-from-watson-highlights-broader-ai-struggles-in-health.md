@@ -3,14 +3,11 @@ category: news
 title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
 excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
 publishedDateTime: 2021-02-23T12:24:00Z
-originalUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
+originalUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=business_minor_pos7"
+webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=business_minor_pos7"
 ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
 type: article
-quality: 106
-heat: 166
-published: true
 
 provider:
   name: Wall Street Journal
@@ -21,9 +18,9 @@ provider:
       height: 50
 
 topics:
-  - IBM AI
-  - AI
   - Google AI
+  - AI
+  - IBM AI
 
 images:
   - url: "https://images.wsj.net/im-302017/social"
@@ -31,89 +28,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "Potential IBM Watson Health Sale Puts Focus on Data Challenges"
-    excerpt: "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems."
-    publishedDateTime: 2021-02-24T12:30:00Z
-    webUrl: "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
-    ampWebUrl: "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-302963/social"
-        width: 1280
-        height: 639
-        isCached: true
-  - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
-    excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
-    publishedDateTime: 2021-02-23T20:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/shiva-kumar-former-executive-at-ibms-watson-health-joining-banjo-healths-board-of-advisors-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Logic Behind IBM’s Watson Healthcare Exit"
-    excerpt: "Watson promised to revolutionize medicine, so why is IBM abandoning it? The reason, in one pundit's opinion, may be due to regulations making it impossible for Watson to fully work."
-    publishedDateTime: 2021-02-25T23:42:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/the-logic-behind-ibms-watson-healthcare-exit/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 56
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_254131481.jpeg"
-        width: 1200
-        height: 759
-        isCached: true
-  - title: "After years of hype, IBM wants to sell Watson Health. What does that mean for health AI?"
-    excerpt: "After years of hype about Watson Health, IBM executives are reportedly exploring options to sell the health care AI tool. Advisory Board's Andrew Rebhan explains what happened—and what the potential sale could mean for the health care industry's AI adoption."
-    publishedDateTime: 2021-02-24T17:25:00Z
-    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
-    type: article
-    provider:
-      name: Advisory Board
-      domain: advisory.com
-    quality: 45
-    images:
-      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/blog_post_square.jpg?rev=db1071ffb3ab4897a93a0a5de2f35c65"
-        width: 360
-        height: 360
-        isCached: true
-  - title: "Will IBM Sell Off Watson?"
-    excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."
-    publishedDateTime: 2021-02-24T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/will-ibm-sell-off-watson/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/carson-masterson-0mXw-dvuLok-unsplash.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "IBM reportedly plans to sell Watson Health. Here's what that could mean for health care."
-    excerpt: "The Wall Street Journal has released a story indicating that IBM executives are now exploring options to sell Watson Health. What happened? IBM announced Watson Health in 2015, marking the first move of Watson technology into a specific industry."
-    publishedDateTime: 2021-02-23T13:16:00Z
-    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
-    type: article
-    provider:
-      name: Advisory Board
-      domain: advisory.com
-    quality: 12
-
-secured: "qCuwqCeu4HpuMJtyMU+RIdN9xdvHmGMFi1gu18Bl6Sj7bsByK3sp5rDbfdugMExD47E4Qk/HJBiVQITzJSKgWmZShnR7G17d96JfJ+OxbMskbIPr351B3C8XQYRrbOLlPQrQxqXtcYE8Ivo4ItSuTvan2RAIx13wvkq+9yg2ABQmJJOVRh2iwkWR2bRIPjbocJthn25XKAcboW8qi4FYd8u1N0HzB1W64pBOb8099lJwCksc6nUjLj4gcRrw+7adKvENi4/IhTTmJ+cD3UQL3rbrGPlicY43mHrUheSEC94vGTzL5z67io9/npbtoQvRxdrF4cFAt6gtmBx1csZtaYS7lBw9vlxUaUZwkffEDEVct2T9ZG/egKptXiFqECjY3sACHU2Ll3yEG/GLhfRJ7Sjzn6G/Q8JEyN2f5ywFzqX5H6IOQssC9Uj2no9DaUjEsXX5T1GMJAMAlmYh9QJQC3gNjoF95sD8O5E2zKlLqftX9ZMEtFmSklot5LtpScFii6MJw/U+szFCukYvppNOew==;waHqtb0KKvM8lErEz/FyOQ=="
+secured: "7Q3g2UID32Lsvqzm0Pbo345VApmB6vQUULiGDtvblm46i+iSnFzU//SxJDJKAOF+tyrJNk6QAy9lEHGlfAKRRC3xdIsS4VIcGwM8jQ1VyaArTtWwFMTvUZaPDkgFvL7csCxGhoRamrd3v+3HQhV2RM6Of5mrEUNZTuy79GGfa2NtoO3iveD7VVF+4+7bO7MFcYRNzLtfMdWwoXSrlfZusKMxEwj7BNYVN4dbWLL86mADNQmOI5EwH/23i3CD7DatBGHxcOEFSWLlGs6puk3IJzMH7zcAp5hmBmsesuPcJZ7VqNolE1Kgbrd4acjFAYa/I+IADS1EXWrVF3nlViBGJ3+ojRf7abD+ZMs7o+FKhp8=;d1h9TktpEQ85ViS1XpgE1g=="
 ---
 
