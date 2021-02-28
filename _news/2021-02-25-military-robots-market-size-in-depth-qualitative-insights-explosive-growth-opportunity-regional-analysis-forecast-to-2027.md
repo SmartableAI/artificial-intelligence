@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Education Technology Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "Global Artificial Intelligence Education Technology Market 2020 by Company, Type and Application, Forecast to 2025 is a resource, which provides current as well as upcoming technical and financial details of the industry."
-    publishedDateTime: 2021-02-28T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-education-technology-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
     excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
     publishedDateTime: 2021-02-24T12:23:00Z

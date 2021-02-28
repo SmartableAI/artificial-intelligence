@@ -7,8 +7,8 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/new-azure-hpc-and-ai-collabor
 webUrl: "https://www.hpcwire.com/off-the-wire/new-azure-hpc-and-ai-collaboration-center-program-announced/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: HPCwire
@@ -25,29 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "Intersection of fresh produce and Artificial Intelligence"
-    excerpt: "You take out your phone, open an app, and inspect a fruit's quality - sounds futuristic, right? Clarifruit has developed a next-gen, computer vision technology that can do exactly that."
-    publishedDateTime: 2021-02-27T16:01:00Z
-    webUrl: "https://www.freshplaza.com/article/9297825/intersection-of-fresh-produce-and-artificial-intelligence/"
+  - title: "Microsoft wants to use AI to unlock the potential of HPC"
+    excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
+    publishedDateTime: 2021-02-27T10:29:00Z
+    webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
     type: article
     provider:
-      name: FreshPlaza
-      domain: freshplaza.com
-    quality: 37
+      name: Windows
+      domain: compsmag.com
+    quality: 76
     images:
-      - url: "https://agfstorage.blob.core.windows.net/misc/FP_com/2021/02/26/SB1.jpg"
-        width: 600
-        height: 450
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
+        width: 1069
+        height: 693
         isCached: true
-  - title: "Lattice and Future Electronics Collaborate on Virtual Technology Sessions for Machine Learning/AI, Embedded Vision, and Secure System Control"
-    excerpt: "Lattice Semiconductor Corporation (NASDAQ: LSCC), the low power programmable leader, and Future Electronics announced a collaboration to deliver a series of virtual technology sessions led by Future Intelligent Solutions."
-    publishedDateTime: 2021-02-25T08:46:00Z
-    webUrl: "https://www.financialbuzz.com/lattice-and-future-electronics-collaborate-on-virtual-technology-sessions-for-machine-learning-ai-embedded-vision-and-secure-system-control/"
+  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
+    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
+    publishedDateTime: 2021-02-25T15:19:00Z
+    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
     type: article
     provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 1
+      name: dbta.com
+      domain: dbta.com
+    quality: 54
+    images:
+      - url: "https://www.dbta.com/images/social-logo-2019.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Carnegie Mellon teams up with Amazon, Microsoft to build clinical forecasting AI tool"
+    excerpt: "Carnegie Mellon University in Pittsburgh, Pa., developed a new machine learning tool to be used in clinical forecasting, according to a study supported by Amazon Web Services and Microsoft Azure. In a Feb."
+    publishedDateTime: 2021-02-26T20:03:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/carnegie-mellon-teams-up-with-amazon-microsoft-to-build-clinical-forecasting-ai-tool.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 47
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/ehrs/8.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Microsoft adds Armenian to Translator tool"
+    excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
+    publishedDateTime: 2021-02-24T07:26:00Z
+    webUrl: "https://www.panarmenian.net/eng/news/290573/Microsoft_adds_Armenian_to_Translator_tool"
+    type: article
+    provider:
+      name: PanARMENIAN.Net
+      domain: panarmenian.net
+    quality: 39
+    images:
+      - url: "https://media.pn.am/media/issue/290/573/photo/339x226_thumb_photo_290573_b50c2a3ce.jpg"
+        width: 339
+        height: 226
+        isCached: true
+  - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
+    excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."
+    publishedDateTime: 2021-02-24T18:30:00Z
+    webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 36
 
 secured: "9u20U5f+lmvgCia9tHm+Vmn0fcfvEmowBYmvUmMlTHuctcQPey4vO8MxF2xoNcYYNxvdikn4pA2iK9OTWWNc7vIYtcQicOK4taQWkkCxgMl8FpA4lmz5qErbDyTES8IutT2YhNpPi+oaCp3hAmYV+MZMjObX4RCvntOr9GgemjEUv3zngcepBbIMGq74/U1lJtPOiUWnvZvmbAfWnR/UTqwl1HIMxcvAN4gwcxZgHEpQGsO3cWFrBb9wgXGyfCAMbMweePk3sHRlpVQeYtW4aYZslg/FjAUmUOqL9n10hbHKMUVyr673f89qT6azY/EzV+aprv6Xd2ZD+c8DDNjlEs8dsiscg0pHKlpdp7wozZzXJuwWrkNbJtVVZVsdrYr8etj1I6XOckIeBHZwXCTT1ilhHJSgri+KhyLm2ogQeMdI8z8TdjlmF+BdvK9/92SY7waMS3btdvQGpUF2vtbEwVscUvEeoMbAbOdUdu3gqUyN9kyu50dRhszSSwHEWxhyqbN9MH2WMiZNwmwGYDanng==;XnYPfwz8nil7Lz1p/gRUIA=="
 ---

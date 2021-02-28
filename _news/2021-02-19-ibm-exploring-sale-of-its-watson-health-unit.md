@@ -3,8 +3,8 @@ category: news
 title: "IBM exploring sale of its Watson Health unit"
 excerpt: "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as"
 publishedDateTime: 2021-02-19T01:41:00Z
-originalUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20"
-webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20"
+originalUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
+webUrl: "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "Gul0g6aXIbbUrQ2eM8evVJgl0ksTEFsPc7bBSEJ/Yq4tlF8xAjcm7Q5ik3jj50YNHjVEH1nP1OM8z+wyfyHK2f4FBh8F4T1ce1i6rLzfH6mpaVllfD4V5toJsIlwsfgcPIQjVkBD+obZBY+leVhGO0Su0jw71Xi08woRlovMqzcRo2QlInzr/2LA8df7JeVhM6P4IsLBsy70ZiNjVgPuWQ7dvlcmmqhY0UmmrXllzTjZSuANOMSMy12z6Sdh63FcXQkl5MKgzEKC0xnzXt8aztglNNZB7+PMM/QvYPIndqlCO9Ca356hg2ibOjcpoQKj8VTk/FBYQ1Fgo/0ADgsYflIKizRrB3vTnP93DJCxmXc=;4VOgwd3bs5io5BUpFO5rCg=="
+secured: "E3z4gG/qiuoUccCW/u8vyIRsHCaGYxeFI9WPNvpW9r7zyPvaZs6mmvEOjtnUC/xQy7Enoapcj2wC03cx9RpYkWEJfXFwlvn6Rt9zZj+UHGwBrHHbzThL0NhGixHWV0mV+uYGwCWlVKM3kJjwa7vSjsb2hE8+470Y1U44FyYHIO83SMvxyoAXqBtxFbO5MebkUbDh602ua5H/RdDpmrxtzrLq064XV9CP4WSOtTqkjM9qg9CHlSAgIXB/vG6cSHRRAs9JEre7UoJSZtC75ZO8lYR0lBIED1V/x2S9LLd0+V9Wye7TssiN5mPbayCpAApOd86+td/bzzhxVMJhN6cRIFHVL4GypDas2fzij9VjaEY=;m4km65pDw3MqbuX1pUMy1Q=="
 ---
 

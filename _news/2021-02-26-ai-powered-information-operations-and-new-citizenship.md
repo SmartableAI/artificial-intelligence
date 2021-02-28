@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/podium/2021/02/25/ai-powered-information-oper
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

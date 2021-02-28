@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25"
 type: article
 quality: 70
-heat: 110
+heat: 100
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Education Technology Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "Global Artificial Intelligence Education Technology Market 2020 by Company, Type and Application, Forecast to 2025 is a resource, which provides current as well as upcoming technical and financial details of the industry."
-    publishedDateTime: 2021-02-28T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-education-technology-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Military Robots Market Size, In-Depth Qualitative Insights, Explosive Growth Opportunity, Regional Analysis Forecast to 2027"
     excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
     publishedDateTime: 2021-02-24T18:20:00Z

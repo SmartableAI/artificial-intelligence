@@ -24,9 +24,9 @@ related:
   - title: "California startup targets self-driving car market with package of sensors"
     excerpt: "Neural Propulsion Systems, or NPS, on Wednesday released a product aimed at packaging all the sensors needed to guide a self-driving vehicle, a departure from most other players in the field."
     publishedDateTime: 2021-02-24T11:00:00Z
-    webUrl: "https://www.reuters.com/article/nps-lidar-idUSL1N2KT3GD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KT3GD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KT3GD"
+    webUrl: "https://www.reuters.com/article/nps-lidar-idUKL1N2KT3GD"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2KT3GD"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2KT3GD"
     type: article
     provider:
       name: Reuters

@@ -52,20 +52,6 @@ related:
         width: 1024
         height: 561
         isCached: true
-  - title: "Apple Car project’s search for LiDAR sensor suppliers hints at self-driving vehicle’s launch in the next 5 years"
-    excerpt: "Apple has reportedly started having discussions with potential suppliers of LiDAR for its future self-driving vehicle. However, the company is said to be eyeing a next-generation variant of the sensor hinting at Apple"
-    publishedDateTime: 2021-02-24T05:47:00Z
-    webUrl: "https://www.econotimes.com/Apple-Car-projects-search-for-LiDAR-sensor-suppliers-hints-at-self-driving-vehicles-launch-in-the-next-5-years-1602926"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 3
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/20210223f39e6aa9e4e0156c7_th_1024x0.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "sBVRu8z3fczxOvv+lt2dRy4CUJi8kl8wclqRq3wORZvYJIDo6V46srN1xaNQW9iXxz3qEDbBFmfN0JPJetk0HkqH+5K2KhY/g8pXEtJFGVPu+PNP6rh0wslH+7eSYjQaxld1Kk/3yp4EWnMenQSDd0HdpMaOB9Csywi49zJmkf9ZFd4czS55ITmmEm3QLJcDtKROft0Osos8KOc+hsk/ZWHETDiJLwM8NerR9ILGQiNuBUPQdvVKHcs7OCIFC1Q946YK4MZb0nX8SlJMBPRd381sKF8B6Qi2lf+T8gGbq9daB3cirrtTvAwwl8PMxD7iQNl511ff6srvhLEv8mltTScO4soKOOh0Wqwy6pRinUfDWqoAEBUpSfO42UTwVw7MpH8dS6km3oN8TTEQA330S/lLlXAAvzG3DF/ZCCTu6IBffROhyBYUM1XGqW2d/xMUIqAxnWOPy3ebAFp316erAu/Du149rjZ6tOkahzurs2yjlMRYW4Zy5AUHxNmnxUErh911UMGN1Jq4XPmUuB1BjA==;AQRcVt9EeP4qwiVWrv2Fxg=="
 ---
