@@ -503,6 +503,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-new-azure-hpc-and-ai-collaboration-center-program-announced.md",
+      "title": "New Azure HPC and AI Collaboration Center Program Announced",
+      "excerpt": "Microsoft Azure is proud to have recently launched the Azure HPC & AI Collaboration Centers program, which funds collaborations with",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/new-azure-hpc-and-ai-collaboration-center-program-announced/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/new-azure-hpc-and-ai-collaboration-center-program-announced/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Japan-wisteria_shutterstock-1329118010_700x-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-amazon-rekognition-custom-labels-community-showcase.md",
       "title": "Amazon Rekognition Custom Labels Community Showcase",
       "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; We worked with AWS Machine Learning (ML) Heroes and AWS ML Community Builders to bring to life projects and use cases that detect custom objects with Amazon Rekognition Custom",
@@ -1201,58 +1244,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-dont-rely-on-data-scientists-to-do-ai-heavy-lifting-former-ibm-exec-warns.md",
-      "title": "Don't rely on data scientists to do AI heavy lifting, former IBM exec warns",
-      "excerpt": "Ex-IBM Watson lead Phil Westcott says he has witnessed “a lot of overspending and wasted resources” during his career",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1614244316/shutterstock_business_analytics.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/358708/dont-rely-on-data-scientists-in-ai-investments-warns?amp",
-      "publishedDateTime": "2021-02-25T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

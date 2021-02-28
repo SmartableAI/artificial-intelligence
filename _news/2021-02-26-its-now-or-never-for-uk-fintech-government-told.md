@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks"
-    excerpt: "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost."
-    publishedDateTime: 2021-02-23T17:28:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 52
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Future FinTech Announces Updates of Potential Acquisitions"
     excerpt: "Future FinTech Group Inc. (NASDAQ: FTFT) (“hereinafter referred to as “Future FinTech”, “FTFT” or “the Company”), a leading blockchain e-commerce company and a service provider for financial technology,"
     publishedDateTime: 2021-02-27T18:38:00Z
@@ -53,15 +37,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Fintech Disruptors Lead Traditional Banks With Blockchain Infrastructure"
-    excerpt: "Fintech disruptors powering the banking revolution with behind-the-scenes blockchain infrastructure. Blockchain technology has made a significant impact in the banking world. Top"
-    publishedDateTime: 2021-02-24T16:04:00Z
-    webUrl: "https://www.finextra.com/blogposting/19938/fintech-disruptors-lead-traditional-banks-with-blockchain-infrastructure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 33
   - title: "Fintech Company Zoe Financial Celebrates 3 Years as a Leader in the Wealth Management Industry"
     excerpt: "Zoe Financial today celebrates three years empowering consumers to find the best and most trustworthy financial advisors. \"The"
     publishedDateTime: 2021-02-25T18:30:00Z

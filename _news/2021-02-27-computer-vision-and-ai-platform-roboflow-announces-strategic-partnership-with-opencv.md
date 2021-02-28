@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "UJET Announces Partnership with Google Cloud Contact Center AI (CCAI) and Integration of Google Cloud Dialogflow CX"
-    excerpt: "UJET, Inc., the world’s first and only CCaaS 3.0 cloud contact center, announced its partnership with Google Cloud’s Contact Center AI (CCAI) and inte"
-    publishedDateTime: 2021-02-23T18:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210223005026/en/UJET-Announces-Partnership-with-Google-Cloud-Contact-Center-AI-CCAI-and-Integration-of-Google-Cloud-Dialogflow-CX"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "SB6j8orA7WXyJBeFLuBqi5nfoF/oDQg0PFgGncnZc2R+UZRHgiMig81PqL4DIrImJ6Ju6OxZnXyuN16q8omfRg+74seiMcvX8EVGVzbzr3H7FZQPpHycyfmZ1g4yhouKVRJ3FRiGkIGoSBhqcfFeGL4TtLOsHFw8Nrc0ah5KAu9pCY7XtzulKcIYh5jeM1/m+2Z9w7TLBhUfZ5U5vJ7zcb3rItTZ1MUADV9MM/mfjSCa2WdQbTrWAskbeVPrpYaxDfQhHyHkMOfygzJqcxJTBmYOA774WFg/+iUbgnh0bYvsPAjPRtA3ERTjpa+q4/2sZXvWWK1uGgAFk4XA3FJlMKxLlCyQASXt2QE5p/xsoHM=;d4bDdg+OaOXwJ3RKT4WIpw=="
 ---
 

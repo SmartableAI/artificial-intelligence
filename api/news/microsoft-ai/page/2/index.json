@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-10-10-affordable-and-free-online-data-science-courses-from-mit-harvard-google-ibm-and-more.md",
+      "title": "10 affordable and free online data science courses from MIT, Harvard, Google, IBM, and more",
+      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
+      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-microsoft-cognitive-services-speech-sdk-samples.md",
       "title": "Microsoft Cognitive Services Speech SDK Samples",
       "excerpt": "This project hosts the samples for the Microsoft Cognitive Services Speech SDK. To find out more about the Microsoft Cognitive Services Speech SDK itself, please ...",
@@ -56,33 +108,24 @@
     {
       "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
       "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
-      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's enterprise-ready platform will use Microsoft technology to power its products,",
+      "excerpt": "The engine from Cleareye.ai also uses computer vision, part of Azure Cognitive Services, Azure Kubernetes Service, and other scalable computing and analytical services from Microsoft to fulfill ...",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19640933.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19640933.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T06:05:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19559723",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723",
+      "publishedDateTime": "2021-02-09T05:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1402,42 +1445,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-global-computer-vision-in-healthcare-market-swot-analysis-key-indicators-forecast-2027-nvidia-corporation-microsoft.md",
-      "title": "Global Computer Vision in Healthcare Market SWOT Analysis, Key Indicators, Forecast 2027 : NVIDIA Corporation, Microsoft",
-      "excerpt": "The market research report titled \" Computer Vision in Healthcare Market by Product Type (Software (On premise, Cloud), Hardware (CPU, GPU, FPGA, ASICs), Memory, Network), Application (Medical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "originalUrl": "https://www.openpr.com/news/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2232424/global-computer-vision-in-healthcare-market-swot-analysis-key",
-      "publishedDateTime": "2021-01-28T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
       ]
     }
   ],

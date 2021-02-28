@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-11-when-automation-and-machine-learning-work-together-and-when-they-dont.md",
+      "title": "When Automation and Machine Learning work together and when they don’t?",
+      "excerpt": "Fortunately, today, various stages of the machine learning pipeline are becoming automated through the use of ML techniques, giving rise to Automated Machine Learning (AutoML) tools, both commercial (e.g., DataRobot, Dataiku DSS, Google Cloud HyperTune ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/data-automation-machine-learning-does-automl-integrate-them-all/",
+      "originalUrl": "https://www.analyticsinsight.net/data-automation-machine-learning-does-automl-integrate-them-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Data-Automation-Machine-Learning-Does-AutoML-integrate-them-all.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
       "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
       "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
@@ -403,49 +446,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-genethon-and-whitelab-genomics-join-forces-to-enhance-gene-therapy-through-artificial-intelligence.md",
-      "title": "Genethon and WhiteLab Genomics Join Forces to Enhance Gene Therapy Through Artificial Intelligence",
-      "excerpt": "WhiteLab Genomics, a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580",
-      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-technology-genomics-genetics-ba4bbaba211c4d77b18cda21d7bd4580",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T21:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

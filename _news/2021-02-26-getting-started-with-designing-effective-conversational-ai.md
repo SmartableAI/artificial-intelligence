@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Refinitiv Selects ModuleQ's AI Platform to Gain a Competitive Information Edge for Customer-Facing Teams"
-    excerpt: "secured within the customer's compliance perimeter on Microsoft Azure. \"As a trusted partner to our customers, our priority is equipping our people with timely, relevant insight to stay one step ahead of customers' changing needs. ModuleQ's real-time AI ..."
-    publishedDateTime: 2021-02-23T17:49:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/refinitiv-selects-moduleqs-ai-platform-to-gain-a-competitive-information-edge-for-customer-facing-teams/article_89dfcb44-1930-5ce9-b57a-c9df8739b71f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 22
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "jizJRHXIVwdqhwXRxJVrvyp9sGBZksLLYQCvK9y7CFZa+hOpYJMi+nWkf1HsoveRqLXYDOmraxXV/GFiJ4lqt+KYHK2ClQeed68qzz/2gimjQuaVXGxSGaKrvB7+q/vNS2vJVDkytKCcF12WgetP0BYZBhX2nz1+c/804SCwGUC4OaO1VOBNvj2hDfsAfkbOkETwrdMDQST4memINlTWufkOxGNze1NF6aeUkgAAcJ+n26dewqiRcczrzIPJfRA8ZM/7BqiFIZGIkS+C0x0MxB0rFDBIilvjPsiDpog55dY6c+TEpqezbXEqGw04Nr63YK1FPntTx0FMaSZr/zHh1mHJ0wk8VYhyHITRgXInYY2ranQLJfK5+rtvQJT8pSwvzSrq3v7ZD8KarYfdC2ELMp1G33k0+/pDxBwuNih5xmUcy8kJliRK1yvlwumIMcgVQCqJuhD0R93r8SEM/PtcwHg4F4EhSfui9ve4g7WpSD/NbQEb7KV2rGHjVq7exFgXeGZagErS0xEhnDv+yNsTrw==;Ao16boHPrTu2+vrS3ay+Qw=="
 ---

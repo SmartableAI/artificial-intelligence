@@ -6,7 +6,7 @@ publishedDateTime: 2021-02-25T02:29:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
 webUrl: "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
 related:
   - title: "Amazon launches computer vision service to detect defects in manufactured products"

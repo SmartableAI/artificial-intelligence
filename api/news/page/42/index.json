@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-01-27-more-than-a-name-ibm-support-for-watson-college-remains-strong.md",
+      "title": "More than a name: IBM support for Watson College remains strong",
+      "excerpt": "If you want to see the connections between IBM Corp. and Watson College, you need to look no further than the name of the school itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
+      "originalUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.binghamton.edu/news/images/uploads/features/_normal/IBM_car.jpg",
+          "width": 770,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Binghamton University",
+        "domain": "binghamton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-japanese-giant-nikko-global-builds-on-fintica-ai-success-for-market-analysis.md",
       "title": "Japanese giant Nikko Global builds on Fintica AI success for market analysis",
       "excerpt": "Fintica AI, Ltd. announced today the successful execution of a project for leading international Japan-based asset management company,",
@@ -1130,57 +1173,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-artificial-intelligence-at-the-service-of-talent-selection.md",
-      "title": "Artificial intelligence at the service of talent selection",
-      "excerpt": "They present Hitch, the startup that through artificial intelligence and machine learning helps companies find the talent most compatible with their organizational culture.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/364141",
-      "originalUrl": "https://www.entrepreneur.com/article/364141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611623001-Hitch.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/364141",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/364141",
-      "publishedDateTime": "2021-01-26T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

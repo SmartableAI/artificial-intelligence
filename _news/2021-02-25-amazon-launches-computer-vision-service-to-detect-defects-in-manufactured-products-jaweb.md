@@ -51,7 +51,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 34
+    quality: 36
   - title: "Amazon’s Lookout for Vision spots defects and anomalies in visual representations"
     excerpt: "Amazon Lookout for Vision, a cloud service that uses machine learning to spot defects and anomalies in visual representation using computer vision. Designed with manufacturing companies in mind, the service can identify differences in images of objects at large scale,"
     publishedDateTime: 2021-02-25T02:58:00Z

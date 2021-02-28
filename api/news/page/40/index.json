@@ -2,6 +2,57 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-01-28-we-helped-greece-build-an-ai-system-to-make-covid-19-testing-more-efficient-heres-what-we-learned.md",
+      "title": "We Helped Greece Build an AI System to Make Covid-19 Testing More Efficient. Here's What We Learned.",
+      "excerpt": "In addition to travel and tourism, we believe AI-driven systems like Eva can help schools, workplaces, local governments, and other institutions with limited resources better manage their Covid-19 restrictions and testing policies. If a university ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/363706",
+      "originalUrl": "https://www.entrepreneur.com/article/363706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1611603565-GettyImages-148740649.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/363706",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/363706",
+      "publishedDateTime": "2021-01-27T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-workout-recovery.md",
       "title": "URIKAR - The Most Advanced & Powerful Percussion Massager with AI Chip for Daily Stress Relief and Workout Recovery",
       "excerpt": "The percussion massage guns have truly become more and more popular in the past 2020 As a home massage tool it is a super useful innovation especially in this COVID 19 difficult period If you haven t yet jumped in",
@@ -1178,58 +1229,6 @@
         "AI in Healthcare",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-tesla-rival-xpeng-p7-gets-significant-self-driving-software-updates.md",
-      "title": "Tesla rival XPeng P7 gets significant self-driving software updates",
-      "excerpt": "China's closest Tesla Model 3 competitor, the XPeng P7, launched in April last year, loaded to the gills with enough self-driving sensors and computers to achieve full autonomy once the software is ready.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/",
-      "originalUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/fb141fa/2147483647/strip/true/crop/1620x1080+150+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F5a%2Faf%2F069a73894762b1ee09fff403f676%2Fxpengp7otaupgrade2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/automotive/xpeng-p7-self-driving/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/xpeng-p7-self-driving/?amp=true",
-      "publishedDateTime": "2021-01-26T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
