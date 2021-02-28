@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-07-diat-to-research-develop-robotics-platforms-for-armed-forces.md",
+      "title": "DIAT to research, develop robotics platforms for armed forces",
+      "excerpt": "The institute launched the School of Robotics last year, considering interdisciplinary requirements of research and development in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/",
+      "originalUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2021/02/DIAT-1.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/pune/diat-to-research-develop-robotics-platforms-for-armed-forces-7178681/lite/",
+      "publishedDateTime": "2021-02-07T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-ponyai-raises-100-million-more-to-advance-its-autonomous-vehicle-tech.md",
       "title": "Pony.ai raises $100 million more to advance its autonomous vehicle tech",
       "excerpt": "Autonomous vehicle startup Pony.ai has raised $100 million more, bringing its total raised to over $1 billion at a $5.3 billion valuation.",
@@ -1166,58 +1209,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher.md",
-      "title": "Google engineers quit after the company fired its star AI ethics researcher",
-      "excerpt": "Two Google engineers have quit over the firing of AI researcher Timnit Gebru, whose exit sparked an internal backlash about ethics and diversity.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-05T115807.121-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/05/google-engineers-quit-after-the-company-fired-its-star-ai-ethics-researcher/amp/",
-      "publishedDateTime": "2021-02-05T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

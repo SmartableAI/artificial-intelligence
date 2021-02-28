@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-18-3-ways-to-get-into-reinforcement-learning.md",
+      "title": "3 ways to get into reinforcement learning",
+      "excerpt": "AWS introduced DeepRacer in November 2018 as the “fastest way to get rolling with machine learning.” In December 2020, they had more than 10,000 competitors and a grand prize that included $ ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/idge/imported/imageapi/2014/10/08/17/slide_trophies-620x465-100502862-large.jpg",
+          "width": 699,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608428/3-ways-to-get-into-reinforcement-learning.amp.html",
+      "publishedDateTime": "2021-02-18T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-ai-powered-math-tutoring-app-photomath-raises-23-million.md",
       "title": "AI-powered math tutoring app Photomath raises $23 million",
       "excerpt": "AI-powered math tutoring app Photomath today announced that it raised $23 million in series B funding. The company says the proceeds will be used to grow headcount, invest in AI, and scale both product and marketing development.",
@@ -1144,51 +1196,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-lumiata-partners-with-ascendio-to-offer-data-preparation-for-healthcare-customers-on-aws-and-azure.md",
-      "title": "Lumiata partners with Ascend.io to offer data preparation for healthcare customers on AWS and Azure",
-      "excerpt": "The Ascend platform easily fits into any data ecosystem, providing a unified fabric for companies to run their businesses in any environment",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
+      "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
+      "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-how-artificial-intelligence-is-enhancing-mobile-app-technology.md",
       "title": "HOW ARTIFICIAL INTELLIGENCE IS ENHANCING MOBILE APP TECHNOLOGY",
       "excerpt": "HOW ARTIFICIAL INTELLIGENCE IS ENHANCING MOBILE APP TECHNOLOGY - No technology has made more difference in the world than Artificial Intelligence. And no piece of hardware has revolutionized entire lifestyles other than smartphones.",
@@ -52,7 +103,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -984,57 +1035,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-24-zelros-raises-11-million-for-ai-that-personalizes-insurance-plans.md",
-      "title": "Zelros raises $11 million for AI that personalizes insurance plans",
-      "excerpt": "Zelros raised $11 million for natural language understanding technology to help policyholders choose the optimum insurance plans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Sales_Home_8-e1613494625322.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/amp/",
-      "publishedDateTime": "2021-02-24T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation.md",
       "title": "Healthcare’s Latest Unicorn: Big Data Startup Innovaccer Raises $105 Million At $1.3 Billion Valuation",
       "excerpt": "On the heels of a year that saw a record amount of venture cash flow into healthcare startups, investor appetite for healthtech does not appear to be waning.",
@@ -1095,7 +1095,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -1135,6 +1135,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-potential-ibm-watson-health-sale-puts-focus-on-data-challenges.md",
+      "title": "Potential IBM Watson Health Sale Puts Focus on Data Challenges",
+      "excerpt": "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
+      "originalUrl": "https://www.wsj.com/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-302963/social",
+          "width": 1280,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807",
+      "publishedDateTime": "2021-02-24T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -1186,58 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.md",
-      "title": "3 kinds of bias in AI models — and how we can address them",
-      "excerpt": "When both humans and AI models have basic information like gender ... For instance, ML models trained to perform language translation tasks tended to associate female names with attributes like “parents” and “weddings,” while male names had ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
-      "originalUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_brain_circuit_thinkstock-100528006-large.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
-      "publishedDateTime": "2021-02-24T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

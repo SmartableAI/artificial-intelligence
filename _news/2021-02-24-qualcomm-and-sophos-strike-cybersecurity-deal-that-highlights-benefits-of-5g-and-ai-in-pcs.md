@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cyber
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How This Bangalore-based Cybersecurity Startup Is Using AI To Automate Ethical Hacking"
-    excerpt: "FireCompass helps organisations discover and test their entire attack surface continuously by automating Red Teaming."
-    publishedDateTime: 2021-02-23T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-bangalore-based-cybersecurity-startup-is-using-ai-to-automate-ethical-hacking/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 46
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/2021-02-23-1.jpg"
-        width: 512
-        height: 296
-        isCached: true
   - title: "The Cybersecurity Tech Startup Defending Against Identity Fraud"
     excerpt: "Stan Bounev, CEO of cybersecurity startup VeriClouds, discusses how his company is using “dark web” threat intelligence and AI to address a huge"
     publishedDateTime: 2021-02-24T15:17:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wtae.com/amp/article/best-face-mask-for-communication-st
 cdnAmpWebUrl: "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/best-face-mask-for-communication-study/35619318"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Translation Device Streamlines International Communication"
-    excerpt: "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech."
-    publishedDateTime: 2021-02-23T13:00:00Z
-    webUrl: "https://www.entrepreneur.com/article/365661"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/365661"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365661"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1613626452-Ent-Langogo.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Cuba's victory at the United Nations garners international recognition"
-    excerpt: "Cuba´s overwhelming victory at the UN General Assembly with the passing of the resolution demanding the end of the US blockade, has elicited international recognition."
-    publishedDateTime: 2021-02-23T21:43:00Z
-    webUrl: "https://www.radiohc.cu/en/noticias/nacionales/207028-cubas-victory-at-the-united-nations-garners-international-recognition"
-    type: article
-    provider:
-      name: Radio Havana Cuba
-      domain: radiohc.cu
-    quality: 24
-    images:
-      - url: "https://www.radiohc.cu/articles/1533-victoria-cuba.png"
-        width: 790
-        height: 400
-        isCached: true
   - title: "This Translation Device Streamlines International Communication"
     excerpt: "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech."
     publishedDateTime: 2021-02-23T16:24:00Z

@@ -71,34 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
-    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in the Education Sector Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
     excerpt: "A recent market intelligence report on Artificial Intelligence in the Education Sector market takes a closer look at the major driving forces, restraints and opportunities anticipated to shape the future of the Artificial Intelligence in the Education Sector market for the forecast period,"
     publishedDateTime: 2021-02-27T02:13:00Z

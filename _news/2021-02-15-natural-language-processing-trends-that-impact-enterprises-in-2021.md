@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Natural Language Processing Trends That Impact Enterprises in 2021"
-excerpt: "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable."
+excerpt: "With companies such as Google and Microsoft producing new discoveries on a consistent basis, NLP has made quantum leaps in terms of accuracy, speed and methodology to aid computer scientists as they tackle complex issues."
 publishedDateTime: 2021-02-15T06:38:00Z
-originalUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
-webUrl: "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/"
+originalUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
+webUrl: "https://www.eweek.com/web/index.php/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021"
 type: article
 
 provider:
@@ -19,6 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "M1JNmr8X2xTrekM/aJp0JMHCdNU/uKlMSgXV6Z6DSWgDdAAdSpdgBNq446/hhH19hgGSdbN1mb6rOcSBQduazxhkTOBsWRJSTPtnx46AqGzT40xE4KhmfaULyA77xAG/LD145fqGgc9RPa1D9JNjEueOyaZutg1GHrWFyQKwP9L+2KqeJLmjyrZ9YDDM2GtpFtj6P0MlY1yh7kymcdxqREgsC39puRcIl9AV6HwdIiZDItd8c3jGqLCuGiyvPI4y6SAOvhA6zCfbUF1x9ieCCvg97aeQG/1Yk78LtH+VKAQF0VAzHGst4x7aQK6z0jLqll8HkDUSr5/nMNd6mjbWiD2P+YqjjOUVBrpE7zNJxB8jsEBlV2PEIs+1Eg28bezAya1hlJ2iiIwd6aFsCW2nMn1capDh4qeC5atm0CpmMuGf8BMFguURPub2Q4G0gqaaMsDYONTqtT4Jp1C2aZPnobo1zXc5yhSVxUkuJUCXJVO5Tn3evFBvMzpbbJPJ3jEAtMTE7FfD2RV/5+sbv/PYVw==;7HybMBP7SqJA4PT4ujKOVA=="
+secured: "FQfuqjU3JddYu3mozoZQIDInc3ouk6JHQhliNWEW2kf0yls5ffS/WMEssRpCpD0TiZxVopgurWnftJJs71FDfyJbbPqZybsNW7REr0sebv94dhpap9yMrvTXqDO8tBJ2efm7WL4jzYYjNAB1i63iBB6ihbc/0OHJh+mmlGPYXGt4wFkULgWxtrD/+mDDvTy+BB/huktFiOwnlG8pAy9EYgZ2yMwzlF9DhRmzPQWnIMH9DbrPHpZ5TvzU4dMToa8xalNsEgx10Z8vf+smTf/eU0b4PLvUImqxSkiU0TOELyU4P7cfmhNNAE5KBLnS50v0ev0GCkXSIPQleXfc8m9L+hugQ8QpY97FRNM62/OQEzA=;rKfCn7aBa/zux11t4838NA=="
 ---
 

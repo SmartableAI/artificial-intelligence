@@ -313,7 +313,7 @@
       "originalUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -799,21 +799,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-25-boosted-by-the-pandemic-meeting-transcription-service-otterai-raises-50m.md",
-      "title": "Boosted by the pandemic, meeting transcription service Otter.ai raises $50M",
-      "excerpt": "Over the past year or so, voice transcription startup Otter.ai doubled down on the future of remote work by integrating its product with meeting apps like Zoom and Google Meet. With the COVID-19 pandemic having sent so many to work from home,",
+      "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
+      "title": "Otter.ai raises $50 million for AI transcription",
+      "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/",
-      "originalUrl": "https://techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/",
+      "webUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/otter-hero-screens-2.png?w=1024",
-          "width": 1024,
-          "height": 651,
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 763,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -821,16 +821,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/amp/",
-      "publishedDateTime": "2021-02-25T06:01:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "publishedDateTime": "2021-02-25T06:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -846,7 +846,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -950,6 +951,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai.md",
+      "title": "Armorblox has raised $30 million to protect against phishing attacks with AI",
+      "excerpt": "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/armorblox.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai/amp/",
+      "publishedDateTime": "2021-02-25T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1192,57 +1245,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
-      "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

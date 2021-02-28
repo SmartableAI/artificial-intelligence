@@ -63,20 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size, Demand and Growth Opportunities"
-    excerpt: "The global “Speech and Voice Recognition Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-demand-and-growth-opportunities-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated"
     publishedDateTime: 2021-02-26T02:36:00Z
@@ -86,20 +72,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Latest Trends, Industry Size and Competitive Landscape amidst COVID-19"
-    excerpt: "The global “Natural Language Processing Market Size” is expected to rise with an impressive CAGR and generate the"
-    publishedDateTime: 2021-02-23T12:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-latest-trends-industry-size-and-competitive-landscape-amidst-covid-19-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-16-bearingai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains.md",
+      "title": "Bearing.ai emerges from stealth to power recommendations for shipping boat captains",
+      "excerpt": "Bearing.ai provides the maritime shipping industry with predictive recommendations and launches with support from AI Fund and Mitsui & Co.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/",
+      "originalUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/bearingai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/",
+      "publishedDateTime": "2021-02-16T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-robot-artist-ai-da-presents-her-first-art-exhibition.md",
       "title": "Robot Artist Ai-Da Presents Her First Art Exhibition",
       "excerpt": "The world's first robot artist is set to have her first exhibition in London's Design Museum. The exhibition, Ai-Da Self Portraits is to open in May 2021 and will present three large scale self-portraits.",
@@ -1165,49 +1216,6 @@
         "name": "WBOC",
         "domain": "wboc.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-natural-language-processing-trends-that-impact-enterprises-in-2021.md",
-      "title": "Natural Language Processing Trends That Impact Enterprises in 2021",
-      "excerpt": "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-14T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

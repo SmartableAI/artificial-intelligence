@@ -40,20 +40,6 @@ related:
         width: 3000
         height: 2000
         isCached: true
-  - title: "How This Bangalore-based Cybersecurity Startup Is Using AI To Automate Ethical Hacking"
-    excerpt: "FireCompass helps organisations discover and test their entire attack surface continuously by automating Red Teaming."
-    publishedDateTime: 2021-02-23T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-bangalore-based-cybersecurity-startup-is-using-ai-to-automate-ethical-hacking/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 46
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/2021-02-23-1.jpg"
-        width: 512
-        height: 296
-        isCached: true
 
 secured: "JqVdNJqHFdoF6sWrchuc0/XhgEV5G2/JAlHcHiLsB6fjX3HcNpdb54EbJYy9oUVYTac5YmWbJBThvwtWnXkpmONRNZgEofw0DqqKwlj8NFBKtX5U3hAOWuM7k9vrvVG/a+5B45Bml9qynzJ5boJ0Zm6Vu137VE3mUoP2G+25gQW6XFEltJSQQf2FOKRWdAMNFUQGsbTmHSCXtMxWQbx6q/XLS/YJqAzeeu4C6Y+0bnYswH1JfoCVEgoa00VFyb/aWcKE3ulRI6ThwzCwUvSie8fbxQmQL25u3ij9WTm48tNb77+uHaX8FW2jBHrZW+dDtR0gd/rri/SiHGqU9ZIgQjmmzDp/VV5E0tWmqEohu1k=;bi2Q8eYHNbKvSqAxz4ch4A=="
 ---

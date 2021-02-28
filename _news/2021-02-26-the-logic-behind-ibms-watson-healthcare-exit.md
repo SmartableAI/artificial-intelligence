@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
-    excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
-    publishedDateTime: 2021-02-23T12:24:00Z
-    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 106
-    images:
-      - url: "https://images.wsj.net/im-302017/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Potential IBM Watson Health Sale Puts Focus on Data Challenges"
     excerpt: "IBM’s decision to explore a sale of its Watson Health business highlights the challenges of building data sets that unlock the full value of artificial intelligence in solving healthcare problems."
     publishedDateTime: 2021-02-24T12:30:00Z

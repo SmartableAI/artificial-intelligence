@@ -23,17 +23,6 @@ images:
     height: 559
     isCached: true
 
-related:
-  - title: "European Space Agency selects CGI to develop services combining artificial intelligence and earth observation for wildfire mapping"
-    excerpt: "CGI was awarded a contract to develop a new wildfire mapping service to help better map and monitor the impact of wildfires."
-    publishedDateTime: 2021-02-23T12:36:00Z
-    webUrl: "https://www.preventionweb.net/english/professional/news/v.php?id=76188"
-    type: article
-    provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 0
-
 secured: "28v4LRZ74uyvQf/rXVH6CV78zXu68CJTOqEzKk6aRYJ3F5vgS/F+y/48TNPLTFlPROhhuLhA/d/RAIrujvZ30y/a3A/93hD447Hy/HHSl0LzD89Vt77F1pRTckOcqBT76vA0F/Sjlx2SRDrgFrPlWIWKesvLjocHr1pDZPQVuTtDCQRimeI5JOrMl+1z2CAoVyt8LeyJdXOE/bwSXzOxzkmfxK0oaFMJVn1PN/m43HKGIko6WtSM2uScvVuXmiC3JqT9qgrhXWRe5FSM7azpCDDkj6f49V+cbjiCFRSwTjjFDibtvEwuJWiaYaXDmVC1MBhtU1QXskcYfHTkWMizvLfTFAN9HNNYRaFIobzSY/XJEJZwjk7QH6G8cD27SwkmEs/Y3tPWw7ugDVKVFQ6qqa6JFMUDu7JT1c9YrZN+0dpHHjtMUh3BHkmTNLULSROlx5eFONXmhtjEgItYF5B7phXgxbztevuDQTW/tTE0TkkJPopIu+Tm5iONvuGWZk7Dehh1xuSxcw6oifro2S8wow==;BM8bYLGkw5yvSnJvOnZ1Ew=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Apple in talks to buy self-driving sensors, key step in car plan"
-excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-publishedDateTime: 2021-02-19T19:02:00Z
-originalUrl: "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/"
-webUrl: "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/"
-ampWebUrl: "https://amp.detroitnews.com/amp/4510493001"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001"
+excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
+publishedDateTime: 2021-02-19T19:25:00Z
+originalUrl: "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan-11613752857331.html"
+webUrl: "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan-11613752857331.html"
+ampWebUrl: "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan/amp-11613752857331.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan/amp-11613752857331.html"
 type: article
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Mint
+  domain: livemint.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-    width: 1200
-    height: 676
+  - url: "https://images.livemint.com/img/2021/02/19/600x338/2021-02-17T151827Z_1_LYNXMPEH1G19K_RTROPTP_3_EU-APPLE-EPIC-GAMES-ANTITRUST_1613725934431_1613725951658_1613753771739.JPG"
+    width: 600
+    height: 338
     isCached: true
 
-secured: "F5HHV1jA41bak9Js0KcswQMrDfulC/bOAs+NhxRlSQH/mz88Ddwn8vS07TtkYu5GopsZv9/h/5AZgpcy5XnbLqh+5waybiMhbrq4b+rkf2kOWaJrs8VXAV3Zk2cyoU5BrK+DJkNtxVFj8KswqRHj3msEkCD5iOdVRmIEzUpksl2u5xgmtlO3VZfyBw5UOq0Wv34khRUj4JJ3qmNKK8hF3XpgM3CtVidmCD5CGooi/IewDBDboI0YlF7bEJe/04yicNycDZm4bnSnN0EM30EldjkZCWZ3KcxLx9Q1EldSI9IS5p5GpEJ2ysEcKS1YhAD0D7gQSkA0AzTS3/olcL9roFtA8Wuz4ld6AdNJe85dFGo=;Sjcbl5flpEhID7q5jr3DMw=="
+secured: "NyLtY1fnV5pr9XDgYA/lXPydVRZ+6rrkT+cKjiJbkAwV/g1xcycqrjlBf4Ox2wsJkHwb7d4dbZQRzZYibjdPz78sP+sxPXbadoiVjmlZjiWPcCG3RKbbDgZ6/oG/hqO8xZLvTKF4J7mvcaewnMYbU4relBWV7rq82Qep3GtxK64yqP+3HSFQIeuPB+qgQYj/VYXTLei6M9rx9iUnLwzIwOtuXPd4P/LinMdbNSX0wIGZ5BjVokTwzb7l65B9/ad6lopoqb4JqsJ3UmzIa9NEwKCQDdQrFuC8ZcZxpAAVkIOd6uhadtXf2gqnIPIWVr5bK3aWp0+7a42JJXF8nth3xu3aACEJO6h8UwDHgwOcVnM=;lesA9Y562l7506F+hwAoXA=="
 ---
 

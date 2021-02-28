@@ -105,20 +105,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Artificial cities could pave the way to driverless adoption"
-    excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
-    publishedDateTime: 2021-02-23T11:04:00Z
-    webUrl: "https://www.americancityandcounty.com/2021/02/23/artificial-cities-could-pave-the-way-to-driverless-adoption/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 39
-    images:
-      - url: "https://www.americancityandcounty.com/files/2021/02/nvidia-self-driving-car-drive-px-overview-social-image-800x400.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "NWearw51w18bs2sZPRLoIpNX6oa10w0tDea9CxGTyl0w+4TNXWFyHTYk3rNzTsUmGvcqqHYA0fY5DcJTOSBAXt0l9UJdUKj6u5K0YIMvjgvUXKoV5NnIBSc54MfoQ5qDow9g46s6i0U9WnrKb2GOi2nW/VEtSXgWaB9PeNqdAR/SiP/XEdUu+5X6T5Wr1Avx2dKZnZWKhA5n4327HcDzP1Jy2lsvpOo9jEkzdEO0Perr8VD6wrbzarEjE6x1TxxoW9ACukOYV4AqGfwT+6Es6pmpAF5wSOmNA0DDTLJO5dpfZITgxPNUG8hRzQ30PD7OpRm2SgEJ54AlazvGflHCRjJN21nzwfetPgZnDfmJjEOWTts/tLVA52XV0eFcA2f3ww/rK1R5gGHKHk6LYlKkD840U6UY7zTtKVZSQ6Qt7jOM5fOvJZ7p1QKaSobn7HqyXjMUr82Iy3AAxgtVnxESQBaGuU4xIlWPRoSIuBMMJREGJcro/dLC8SAxrOJr8r/+SdmyqCZw+oCiq5eNOWUK1g==;TSk69tx+ESdAcGnSmXDiYA=="
 ---

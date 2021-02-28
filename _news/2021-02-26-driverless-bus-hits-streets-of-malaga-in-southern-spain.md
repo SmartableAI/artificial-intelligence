@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-so
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-can-driverless-cars-take-account-of-human-selfishness-346050.jpg?v=11127545"
         width: 640
         height: 360
-        isCached: true
-  - title: "Artificial cities could pave the way to driverless adoption"
-    excerpt: "Connected and autonomous vehicles (CAVs) have a future. That is without doubt but there is still a need to ensure that they will be safe on our highways and to"
-    publishedDateTime: 2021-02-23T11:04:00Z
-    webUrl: "https://www.americancityandcounty.com/2021/02/23/artificial-cities-could-pave-the-way-to-driverless-adoption/"
-    type: article
-    provider:
-      name: Government Product News
-      domain: americancityandcounty.com
-    quality: 39
-    images:
-      - url: "https://www.americancityandcounty.com/files/2021/02/nvidia-self-driving-car-drive-px-overview-social-image-800x400.jpg"
-        width: 800
-        height: 400
         isCached: true
 
 secured: "//qym8o/Ah+n6jT+u36/qPraz327jHr5enT3Ad+g/7WzIZb5tUDvyVWSXz00nozGFWw0tFGE5jrCpYDBkYF5r65Grtrid5UxCGlcVVEReBU9IwNgmPsD2XgaE//MtPhKHOzQ4AfSryG8d+LNp0EmTn2OTeSGMgGC0pwfZDlPuchpKtFzwb5YXtExGlql7ArxbvMpzdv7Kopnt+YoWBlEdFC6OXrc2RVpBSGs5yAxZFMe3mP2ilW3k+1+zChcb8aHSwSnQ6DuQvL/AMEpUopy1I5G3jGT5k5d1fzswMdQx1E4/9mLpzsNYskLCSJ69Y5vMNpxDTK5YAb4vw2Mqc2HhUxPr14ocrL3q7o2KrTQzmZEEQsd1Kte4SwBha9s5FlGCPzrJCRQ4z8Q5k3Vghogv291XbHXcfgcrsXgEBAQmFa3/jZ+Uf6Idq7aji2LfgJAN/uu50SsflBg1I7ukKFVkrhEcQZDzWZLpobe/gPsaoGs7D+8awBpIKvwi6k/NJ+5dRUTzISRfoYRJc5v9IzQpA==;eBsy5Vz5M/pIAlTTk19JFQ=="

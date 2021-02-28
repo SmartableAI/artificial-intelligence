@@ -43,20 +43,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "After Facebook, Twitter ban, Trump supporters, extremists turn elsewhere"
-    excerpt: "Gab instead of Twitter, MeWe over Facebook, Telegram for messaging, and Discord for insiders; banned from mainstream platforms, US conspiracy theorist and white supremacist movements, many of whom support Donald Trump,"
-    publishedDateTime: 2021-02-23T13:00:00Z
-    webUrl: "https://www.globaltimes.cn/page/202102/1216319.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 23
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-02-23/9bd16d7f-f4fa-4290-ae78-69703365e84a.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
 
 secured: "AQFj+tHK4XB2C7EsvemxpsDV2w9QmBpZPtpoHMTYGzq9VwFYzDCt6+hOdiRDzDjZkcyzUO6OyVDxEbniLSemD31O9fGSnBkZyLbL1EP7Q8fzAmGyXrL2C/FgLTjK1W1hQjSInUzvza/FYdDqiH6gX7a7kck6QHm6RIaqJWr3csQ2I0k50xcNQVTwhIEm9oHYaH12Ahhm5fMG4vqmeJG6dUN20q07HPEfAXbRO6wd31+5gSdv4bbCT3BUgSVK9OSVmf833HfEq9gVNVIpGoaTNseGcItLPspWV4dyonFEjeuuCUsz3KMmiwq3rWOhdDbayGxKJGCzSHx6axurS/QE2DZlPZNBOcWHInf9S22lRc6V3xVQYiO/GGrEAj1iq9MQs3mOqcC8Cq4GVl5J+9woIQu+oNVE33x9ocaTGDe08b8tMVDmWHUHpGgjGPbWMJYhjj6IqJgy05caEXp5A7yQSSyxAB5PK+PvoQEHqR8LDYXWSjuOUeyNnkjn1cBhwlzESrdVNHMFK4sYK8RQPPLF5w==;skLEMM0B/kcQgxDmG+IQnQ=="
 ---

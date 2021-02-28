@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/potential-ibm-watson-health-sale-pu
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/potential-ibm-watson-health-sale-puts-focus-on-data-challenges-11614169807"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 139
+published: true
 
 provider:
   name: Wall Street Journal
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health"
-    excerpt: "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare."
-    publishedDateTime: 2021-02-23T12:24:00Z
-    webUrl: "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 106
-    images:
-      - url: "https://images.wsj.net/im-302017/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Shiva Kumar, Former Executive at IBM's Watson Health, Joining Banjo Health's Board of Advisors"
     excerpt: "Banjo Health, a leader in AI-powered Prior Authorization (PA) solutions, today announced Shiva Kumar as its newest member of the Board of Advisors. Kumar was the Chief Strategy Officer and Head of Business Development for Watson Health at IBM from 2015-2020."
     publishedDateTime: 2021-02-23T20:04:00Z
