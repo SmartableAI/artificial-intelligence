@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
-    excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series"
-    publishedDateTime: 2021-02-24T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Israeli AI-Powered SaaS Platform FundGuard Raises $12M, Led By Team8"
     excerpt: "FundGuard has developed the first AI-powered SaaS platform that helps asset and fund managers administer investments across funds, pensions, and more."
     publishedDateTime: 2021-02-24T13:12:00Z
@@ -131,6 +117,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
+    excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures ."
+    publishedDateTime: 2021-02-24T08:37:00Z
+    webUrl: "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "ky8b3imtyBGywC06j/5sWZovCEYtFtkWkSDHEF0gvdDykpfDjyiLUd58adrR7y/YcjA8Xv0Xtvf+/kDBiLyxj/2y4HkMVyIsvpFyA+i2puQ/WfsMJwBRGeoRWYHCI/05tbT94G2GQ4sU8hhW7kIpT8TQ7IgNgzYZaxw1/NaJlU7ufxxqXN7OUEZwA4cCvmgIiyZJfj55nK+Kyg3P73jlngN3dFrB7JOU8+DUQEy7NcdyjQOzruyVlwECFSp0BmaJy8prjgocDJjV03ywtxfivTNQB7XbC4AWMtrrPcqNnQ+InXNaykIG54g4DLkFPglGAcxgqM8mM7wVQApNQws5CkBCJn1iFK7sGNonRuM4BzHdzK7mnui6o4YTe2e2e3zrg9tXKx1TlQBjmpVmgg/wV4K8O+ui+Y0kIwUN8rAOdr9EPjrUlHFWFMt/7EcLBme0mq/VpY3zGSKzBibEVWgVPLCjUNhHoluXebNBAx7mxDEzMtw5+qtGPuDiettq7eXjVkArCUUUhYSiB1Zo0PtIAQ==;SFTVtwfqJ6M+tWDCLORC3Q=="
 ---

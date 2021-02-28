@@ -1,22 +1,32 @@
 ---
 category: news
 title: "2 Self-Driving Car Stocks to Buy in 2021"
-excerpt: "In other words, Waymo has way mo' data, and data is a huge advantage when it comes to artificial intelligence. Moreover, with the launch of Waymo One in 2018, it became the first company to offer ..."
-publishedDateTime: 2021-02-11T16:36:00Z
-originalUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-webUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11"
-ampWebUrl: "https://www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-self-driving-car-stocks-to-buy-in-2021-2021-02-11?amp"
+excerpt: "This article represents the opinion of the writer, who may disagree with the “official” recommendation position of a Motley Fool premium advisory service. We’re motley! Questioning an ..."
+publishedDateTime: 2021-02-11T16:40:00Z
+originalUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+webUrl: "https://www.fool.com/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+ampWebUrl: "https://www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/2-self-driving-car-stocks-to-buy-in-2021/"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "rR2dWIDHYyJ1oXmYryAGkE8gXhdDbm2kC+n9PamdbZCRNz6zNF1/rDIYf38/RwKVR22ufdn55eZWcL4fgnOtXBXPRwtk1ROWDMpfW7T2her2drwHXDBTcQ5vaqJgzNUe9k11uwaZvXAzdENkdRthswA+BGtP5UpkkuDFHzxsQaHQWAtHt0HPrf86PBzfJHOhc1zKe/UvwsuE7tUwsbgCRIP8OPkrmULbnq/Wp3SbGCiPfaOx8dvQC0gAUOHTUoStOHO40NOCep3y3jd7QdMWR+sFU/tc1WcfuU2sBfQ6g+XmvNc2BPCrLsNdwKtEWlQozcbxA8ReAEIkEpRX1LPgJVc7yQcgdCdNPylE85LmzOs=;VHWZlmstpNb2h0rNu41boQ=="
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612091%2Fzoox-autonomous-vehicle-threequarter-view_ZF8vWDT.jpg&w=1200&op=resize"
+    width: 1200
+    height: 785
+    isCached: true
+
+secured: "etzmC7eZnJWNPFMNdiUzXu2ZTCRfOy3jodPusYTlidNfN57wVaGmI/+RCymhRF+tqYG/QpCq2uAc+d5rGqf+n1eSSg2VxmZdSuYhBMpiaOMcGOyNOiLmN9iwyNREHnuo1MNWCxtEjUdGHdC193DJ+eIKKllYONqIh2pkCa4WjrAnpEKSMQpVdyMbIMjaPSU8fxQL1msqcnSbK5cJePoQ71MABdiI0OocstYv/D5eImSqr0yc3TStaokUKYto9ldzVmGAf4+XfRfy/b4KuYF20+Qh55y3sG3sS81K939rKB+5sgNwz9sPYXM6GjYozBu7qFD5KmsXzswG0bq6unKlr0oS0QU4ueNXBPnxWm5IhlE=;unHlPjY8m7g9GHpMrq4UZw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,19 @@ images:
     height: 315
     isCached: true
 
-secured: "0kXBxBFvFmZIZzH2DI61VS0kJtbkpP6r9DSKVCp8XbMVEZ308hSX6F/6J0ZGLYCc4soocltoEoUZ1P1LV3IcgqtRb0+5vrb8FEu83j2fkxaoCK/z78/kXXFiPFlsktKRkr4kE6PHag7IAAfeuiyYjnEUBto53lSaMUV5s9MsF2e1rZWmyFAVfQICfh3IXp0AlDKc86pzflZyV9nBnQ0sIdLtXwdwr2kAVkkCZUn+Roce+6erv3tjQzUM7crPJSWIuuX0LnFTq3QkoLF/W7l+wAaAgi0UKynoWzyMuDkApo2OS/L41sABkqmt69z7K8qi2nBNU3OtmMP87mnBK85xlrQm+8gr1xZvIoEp5tFXUy4=;ZJZvgKcdcfq8hi6ogHYzpA=="
+related:
+  - title: "'Deep Nostalgia': Tech company animates photos of dead relatives"
+    excerpt: "Genealogy company MyHeritage introduced its “Deep Nostalgia” tool Thursday. Similar to so-called “deep fakes,” the feature allows users to turn still photos of their dead relatives into briefly animated videos,"
+    publishedDateTime: 2021-02-28T02:10:00Z
+    webUrl: "https://www.washingtonexaminer.com/news/deep-nostalgia-technology-animate-dead-relatives"
+    ampWebUrl: "https://www.washingtonexaminer.com/news/deep-nostalgia-technology-animate-dead-relatives?_amp=true"
+    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/deep-nostalgia-technology-animate-dead-relatives?_amp=true"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 24
+
+secured: "rbWpNzAV6qWJdq93MQ9DeRPxKTA+g1ySnQNTts3HRCNnHNmI46URWTICb+D6Ay9Wcn+XZQkx8EKogwcKh8C/O7NhMmmnJZPibyRwma7b5rFsDqf5M7+ULT9clW/7tDIpAOAfyf4zk93Hu2gt+9TiqiPT8JU/UuxTNGTpX1QZHexBI1nRh05r67CCvRDEgorGWR8URWjhx6z8q/s1M+QfvVPF7631txe4Los1YeRsZiiVzha4ORKsZMVJbBRbYfwEb6ypR3QQbw1qKZvz7hqyQZuvYKMeLzw9qLl6dQLWdubvO95+5pKw+l4SDDMlj3Z6WcRyNcST7bd0aMJWS7+lZ3l8Vata4ghjj56mU+CE/TbzPaVMykg/qUH6zNfsWJuQwn8biY+A9JotBMxLKJCLzRN+qynqvlG0e53SwwWi00mamiyffQErlSJlw9z2B9HcgulkWuNMGfK5xMTx5DjstWo4EDWITdwLqu/WKiOu7E4445XTwR4HQcMuqOlkWezyWOlvJTjz9nuo9vGKN9Qj3Q==;UszOtmo08zSzThDUOJk3rw=="
 ---
 

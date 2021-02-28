@@ -100,20 +100,6 @@ related:
         height: 600
         isCached: true
   - title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
-    excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series"
-    publishedDateTime: 2021-02-24T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
     excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures."
     publishedDateTime: 2021-02-23T13:02:00Z
     webUrl: "https://apnews.com/press-release/business-wire/business-technology-new-york-investment-management-personnel-59cf469ab9b94611bfaeb701084429e1"
@@ -127,6 +113,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
+    excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures ."
+    publishedDateTime: 2021-02-24T08:37:00Z
+    webUrl: "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 0
 
 secured: "22dxQPi69ouf/lSqB1ezBPLyhuI4p/AOuiQ76nB/rXgQNV1bnH6v5s6i0lWFNmbLfC1YOMxaxjI1zUlCFVon3JTlsZM00MZaPSOsOj1KduYxySLbBXiHqBzhtAbzKO/KBQ7tOpp9jbLOjsgeynePZAkhG0LnLpalDx33OVOjecEf9Joda2Xw8nAP4uPkxWykjCcJTcLzZlj/iwARlrfdHPK1EA5RY3xIlFu3WssQsZ9+BJV774RkrODDBIVxkNiTGSmZ9AImZAzSkXVrA7Rnh3aF4HO0x7//VHNzySzV4NtrdRm+K0vhtgE1tTK1c1U5F8ajvIlTM3KQWDJI9bdeFWtSkEWpvlJzMnauFDllqGUnURlUsTGocPJ43Z0+5GPQU0PpPWfMMnQeXMbQPtH7Dk7d2e4aGupHAXHKgH3HkQtr+LfaLjFyFqYET/S43P2DLN4LodlcSEFb/Cp0DxKWrk4t9E4hTSb7g0IZm4Pu2eYgvxmiuMfyJoC1QWkiNWpIf8MpgqjtgtDZ3l3UGHLyMg==;8CGLlqIvK6BcGrGJmL+vzw=="
 ---

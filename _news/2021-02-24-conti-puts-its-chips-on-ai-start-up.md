@@ -7,7 +7,7 @@ originalUrl: "https://www.european-rubber-journal.com/news/conti-puts-its-chips-
 webUrl: "https://www.european-rubber-journal.com/news/conti-puts-its-chips-ai-start"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,42 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Continental picks up stake in AI chip start-up Recogni, bets on future of autonomous vehicles"
-    excerpt: "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI)."
-    publishedDateTime: 2021-02-23T10:33:00Z
-    webUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554"
-    ampWebUrl: "https://www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1"
-    cdnAmpWebUrl: "https://www-autocarpro-in.cdn.ampproject.org/c/s/www.autocarpro.in/news-international/continental-picks-up-stake-in-ai-chip-startup-recogni--bets-on-future-of-autonomous-vehicles-78554?amp=1"
+  - title: "Startup Plots \"Base-Station-on-a-Chip\" That Combines 5G and AI"
+    excerpt: "A startup is challenging Intel, Qualcomm, and other semiconductor giants with a new system-on-a-chip that it claims can replace many of the functions of 5G base stations at a fraction of the power and cost."
+    publishedDateTime: 2021-02-25T23:00:00Z
+    webUrl: "https://www.electronicdesign.com/technologies/embedded-revolution/article/21155987/electronic-design-startup-plots-basestationonachip-that-combines-5g-and-ai"
     type: article
     provider:
-      name: Autocar Pro
-      domain: autocarpro.in
-    quality: 63
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 54
     images:
-      - url: "https://www.autocarpro.in/Utils/ImageResizer.ashx?n=http://img.haymarketsac.in/autocarpro/a9d2fa35-bc9c-4813-a4dd-ec9310316fd6.jpg"
-        width: 735
-        height: 490
+      - url: "https://base.imgix.net/files/base/ebm/electronicdesign/image/2021/02/GettyImages_628084300.60380562c16d8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 812
         isCached: true
-  - title: "Autonomous driving: Continental acquires minority stake in AI chip start-up Recogni"
-    excerpt: "Need for high-performance processors is growing, with increasing requirements for networked, automated and autonomous driving Production rollout of new ch"
-    publishedDateTime: 2021-02-23T13:00:00Z
-    webUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/"
-    ampWebUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 48
-  - title: "Continental invests in the future of chips for autonomous vehicles"
-    excerpt: "Without faster chips, there will be no networking, no automation and no autonomous driving,” emphasizes Frank Petznick, head of the Advanced Driver Assistance Systems business unit at Continental. “Through our own research in the area of new chip designs,"
-    publishedDateTime: 2021-02-23T09:18:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/continental-invests-in-the-future-of-chips-for-autonomous-vehicles/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 21
 
 secured: "6E8ON0ELbM+GbrUw+yrFOUxZ76GxJtffCZVjrXdScmz7CoKYCajnJYS7bxNk/uh83ZBku2EL/GB/WkbZq7QJYVr1KuwAbOKXB5Yy9GHvP4qYK3GLdypbBHOEHsp4ibnY56A5QTT9TJZX6JWrxWArhFcqo7itecVZG+lNfyfyQMNt5kCPNFpQ/8yXXg3JmDRhGMXAhYws5Vjx+jwq+lC9iQplHHD6TUXQ31HxG3gkfZnQM1JkOafOquIOene7AVZIicXsb6UZkO3VwinKK+A5XEthqFNXvQIHI23wU9mFfsnndc0ci+scpSwhZgG5LQNcXfeDKlRzl1nVv+paOKdkrW3yhkXEUJjTbN9YDU21OqKL2r6NmRekDcp64pTxTMA6LhFX0SfDjwdYel8BPqw0vkkD1gUX8TOzZr/AL1kU+B7sJcBpJWE7W/XR/FO/mQeoH43y4AsMjfaGkqW89I0OLfX9yDS57zqNlkqctiRoLyBKh1A0x1pCGsvPTYvMBNYL3yVEkFWj6P705Jk9UJD23A==;ie1w18yWMThe5jnVFt4L9g=="
 ---

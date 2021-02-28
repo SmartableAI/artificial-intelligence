@@ -397,6 +397,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-agriculture-robotics-startup-future-acres-looking-to-raise-3-million.md",
+      "title": "Agriculture robotics startup Future Acres looking to raise $3 million",
+      "excerpt": "Startup Future Acres is looking to raise $3 million to bring agricultural robotics to the farm industry in order to “optimize workforce efficiency”.  The initiative to raise up to $3 million in",
+      "sourceUrl": null,
+      "webUrl": "https://roboticsandautomationnews.com/2021/02/24/agriculture-robotics-startup-future-acres-looking-to-raise-3-million/40996/",
+      "originalUrl": "https://roboticsandautomationnews.com/2021/02/24/agriculture-robotics-startup-future-acres-looking-to-raise-3-million/40996/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2021/02/future-acres-1.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026.md",
       "title": "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026",
       "excerpt": "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue",
@@ -670,49 +713,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-saic-motor-in-tech-tie-up-with-horizon-robotics.md",
-      "title": "SAIC Motor in tech tie-up with Horizon Robotics",
-      "excerpt": "SAIC Motor Corporation has signed an agreement with Chinese artificial intelligence (AI) and semiconductor startup company Horizon Robotics to develop new connected services for smart cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/news/saic-motor-in-tech-tie-up-with-horizon-robotics_id200411.aspx",
-      "originalUrl": "https://www.just-auto.com/news/saic-motor-in-tech-tie-up-with-horizon-robotics_id200411.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Just Auto",
-        "domain": "just-auto.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
