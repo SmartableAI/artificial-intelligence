@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-19-cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles.md",
+      "title": "Cruise, GM partner with Microsoft to commercialize self-driving vehicles",
+      "excerpt": "Self-driving car maker Cruise and majority ... to accelerate the automaker's digitization initiatives, including artificial intelligence, and explore opportunities to streamline operations across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19",
+      "originalUrl": "https://www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cruise-gm-partner-with-microsoft-to-commercialize-self-driving-vehicles-2021-01-19?amp",
+      "publishedDateTime": "2021-01-19T06:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
       "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
       "excerpt": "Jvion's CORE platform uses AI and healthcare data from 30 million people to determine who should be vaccinated first.",

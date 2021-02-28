@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F2%252F4%252F9%252F32489429-7-eng-GB%252F20210219%2520Biz%2520Spot%2520-%2520China%2520autonomous%2520cars%2520img.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
-        isCached: true
-  - title: "Could improving vehicle safety technology pave the way for self-driving cars?"
-    excerpt: "While drivers are still unsure about self-driving vehicles, they are warming up to advanced safety technology, a AAA survey reported."
-    publishedDateTime: 2021-02-25T14:50:00Z
-    webUrl: "https://www.daytondailynews.com/local/could-improving-vehicle-safety-technology-could-pave-the-way-for-self-driving-cars/ZR6ZX5ZA65G6VGTBW3AW2VGWII/"
-    type: article
-    provider:
-      name: Dayton Daily News
-      domain: daytondailynews.com
-    quality: 21
-    images:
-      - url: "https://www.daytondailynews.com/resizer/9YKbrHs7pZhF5Oe29TJ6iK9O5JY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/76CAVDFORJCQ7EEYLLCGZOANSI.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "6Z7q290esZZIrZTAlAJFsHZP/XSCgdEWTPzp4EpeqkKgR9ASG1p4JPKShlcAooCBgGl/RTj4cCnC05In4X5rnQ04f/15n7oOWtVmg9u2cRLI+s/Tk+zGabG20oksA6e/GvI5JdEbMTNYvf0CZG78whzpjLP/KRjfhinnSr7idKmg5OM73XcGlmefaRqUUUqM2huRwtHXQAtz61nDsYWHuIWXAdt2Ggle6vS39k1TjFi04gQCJ21sGqEFl3sUcFP7NDUsYHCXbfkFtQQ/gjwfUp0AT1FpD5CxVrQtcI04N90kbPNLVR2lqlp+2LiRr72dbHkq1qBXUJjJH7WKMamUvi6PEIhJztBHv8i1cUYRN3dbyZQf3Qj2q+RfoytQ25QtsBQtszvJecDKY+4x78RUevu53k9o2m9jHgklonZfEF+TPYFCQo0AVTsqEO45SUfm7N950MNI8FFUuDIqROHreafDHWuS84Prfej70wUjonpVri/1djsswcpsWJdkXVB2rlYcRZAU3FSlYWbOb1/aHA==;gwDbOj/W798WMspGUGpCRA=="
