@@ -2,7 +2,7 @@
 name: "Healx"
 overview: "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments."
 type: "profile"
-heat: 78
+heat: 77
 
 website: https://healx.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "healx"
   url: "https://twitter.com/healx"
-  followers: 2190
+  followers: 2191
 
 size: 11-50 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6ZsujFTH3-A"
 
-secured: "Ee0SmISCx3Ffn3fa2lLd6uiTjmsbBI9P1XO2ZA3/xnudgjbKclCYrp8yD5EqZCenM2j6M9kR99xXEyPaK0HkE1ybDUNcpsLQbLMG2dMFGQYgvT6gnEQTssuDDEpnRyWn1U0Eg5VlhHs9dX1MmmhXDCwsCvvGDr+U0io0C1aQWet5k25oE8tlBeXGYNaSb4M1aYoFTDPf073IBvpVKaaUV/6VhuFFnyIkWJUCVdL+udFJHDzRyZKKin5m+nTwXUYcOrnsNWcElsMxVb4gByr6IFTRo3xtEA5Aa2RHeuOMjKnlxVRs5bAFL/5+X30zn3rghgN0gNEnZNouSn1pOJMispdpLXH/Oub7NzP09vFTUlEQeL19wsjpYfDeSvXWqHh6H/dPuONaqIAjJZId65zsL+61t4pHxt+mnAd4zkbDvPI=;y1capGg69YuvnRlgSxryKQ=="
+secured: "nLssfL41muPRk/6f7Uj11wNX1Ezmed9NFkyFjfZokcod9zHWW6qwbw5Il5Rt5XYdNWMeM3/nZhFmRTmbe22eURQf5QnqEgNnALR6CX2UKOR1VC2sCWm0UNWYdQcNc03kyFFxmpEpn5s+Hl/XUwyJB/cUkAURVVw+qtxJZXICMmOG4w//RjbmP7n3iOb33VpNYKDCcFuwczLes5qurCiz/+ZJp4ekSn4RpCBNGd5Q9075ESkbTTYwvttT9BkJpV2/oL35UYwc5jXRiSfXCphV4JWfcl/dKoU9Pt94ESmzMITI2AMy77vfVTP3aHl383tW9VmUwRnrofQ2NxKWxq3079f6zDRMagKGM7PKgyKmhfkLlEKE/E87WQu4dCHcd/ya7JayeOLx6hfFhfl4VkfUTiaV4Wz1NFSLK4n2TUU33eU=;x3N0VuY9UeIbfA+r+dGbVA=="
 ---
 

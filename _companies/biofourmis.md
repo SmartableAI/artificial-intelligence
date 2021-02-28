@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 78
+heat: 64
 
 website: http://www.biofourmis.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 605
+  followers: 606
 
 size: 51-200 employees
 yearFounded: 2015
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "KvwD2O4hItU6GAecACGCBifTh5fKD3BM1dZbxN0GqZmjp8vueoee+aaQaxQPSaemX4PsemZ8+pcG0BKWcwgkQc3XnOYF8c4H1Y/Fn1mnEkQPlsvhrLwmUGE6bcSHEJsITtgBsJhwQHKJ8+dV1uBwGEBQiBU3GWcSDGvSQw4EP3/gp6rSujtl17eOhHraHdVxBq6MyNT7N5pYzBYXNwnkhHj0pMCc21sV5lZfmdh0OwnT8k4l+R1iuR2UvAJjg/IIkI0bLsHyvxJXTqDK6CxB2q7rWSRGrweyFQ5hNUf5H3BZ+70J6tD7Hu1zXfH4dmwcpVPZJmRNs7sEKuyP3q+EczhP97YX3nmDwIMRaOAAqVuLaHyMXhsT96pi1waaBs+6u69lGk8JloR6WJMH1VlH/Q==;b0kHNCEN9HMQzoINxe9n/A=="
+secured: "gsw/+RncdButJAxFuwRCtP3O8+ImF29Nb/ofaglhZBFPR4JS5Ve+VMfQtfvmIxQhKE9T4nQcvnqJfq208esD2Lq26005C8cKoFAddeWu0okQB2x/dd4PAkU0DLet1vmEx7jdsRDRZDS6bEBWwfjsEtGPXCXlSaLsAysL5HWFcYcoG4qrLn8O0SeZoeC+pThqiMt9YNqiE72XP1JnBsgd+TPHnP2tM9LcG1bjP8QroO1mceWg/ufA6d5P0KUHQNTdec+0KEutWBpnDl47lnKZJs/cCFy6pC9xiUYLRiWpyr2YdWLtCc9EddzmaUnxnvEMyfDuPjWYLFhWi6SKgOZHxkrA/xhdVU24aTCLGR+KN6IBOt6KTgYLVsz2ArL+FiE4QIClcY3NMNXEzjzLXe7z5Q==;R7qO4lXnS37v1XtWGmxBYw=="
 ---
 

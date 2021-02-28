@@ -4,34 +4,34 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/anki.md",
-      "title": "Anki",
-      "excerpt": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/anki/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/anki/",
+      "path": "_companies/gideonbros.net.md",
+      "title": "Gideon Brothers",
+      "excerpt": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gideonbros.net/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/gideonbros.net/",
       "type": "profile",
-      "name": "Anki",
-      "overview": "Anki is a leading consumer robotics company, founded by three Carnegie Mellon Robotics Institute graduates. We’re building on decades of scientific research to make artificial intelligence accessible to everyone. We are dedicated to creating unique consumer products that people would not expect to be possible, powered by robotics and AI.",
-      "website": "https://www.anki.com",
+      "name": "Gideon Brothers",
+      "overview": "We are building a robot autonomy that layers deep learning on top of camera-based perception to create a new type of robot vision that is reliable and (unlike LIDAR) data-rich.",
+      "website": "https://www.gideonbros.net/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/anki/",
-        "followers": 8465
+        "url": "https://www.linkedin.com/company/gideon-brothers/",
+        "followers": 3065
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/anki"
+        "url": "https://www.crunchbase.com/organization/gideon-brothers"
       },
       "twitter": {
-        "username": "anki",
-        "url": "https://twitter.com/anki",
-        "followers": 26661
+        "username": "GideonBros",
+        "url": "https://twitter.com/GideonBros",
+        "followers": 503
       },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "San Francisco, CA"
+        "Zagreb, Croatia"
       ],
       "funding": {
-        "status": "Late Stage Venture"
+        "status": "Seed"
       },
       "topics": [
         "AI",
@@ -39,20 +39,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=ABFcdwfU3F0"
+          "url": "https://www.youtube.com/watch?v=Dud1F65jkjY"
         }
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1287810463980556288/gEbM3DSA_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1090895337399685120/KVHKPXJK_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Anki",
+          "title": "Gideon Brothers",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF4aThLACe5dQ/company-logo_200_200/0?e=1594857600&v=beta&t=BH3EEtSkg9oyMVz5z5Pq9CmwLH9IxDniHcIfCgVJ4FM",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -62,32 +62,29 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/kindred.ai.md",
-      "title": "Kindred AI",
-      "excerpt": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/kindred.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/kindred.ai/",
+      "path": "_companies/marble.io.md",
+      "title": "Marble",
+      "excerpt": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/marble.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/marble.io/",
       "type": "profile",
-      "name": "Kindred AI",
-      "otherNames": [
-        "Kindred Systems Inc"
-      ],
-      "overview": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
-      "website": "https://www.kindred.ai/",
+      "name": "Marble",
+      "overview": "Marble develops and operates robots for autonomous last-mile logistics.  Marble was founded in 2015, is funded by Lemnos Labs, and is located in San Francisco, CA.",
+      "website": "https://www.marble.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kindred.ai/",
-        "followers": 5070
+        "url": "https://www.linkedin.com/company/marble/",
+        "followers": 1629
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kindred-2"
+        "url": "https://www.crunchbase.com/organization/marble"
       },
       "twitter": {
-        "username": "kindredai",
-        "url": "https://twitter.com/kindredai",
-        "followers": 1247
+        "username": "marblerobot",
+        "url": "https://twitter.com/marblerobot",
+        "followers": 399
       },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
+      "size": "11-50 employees",
+      "yearFounded": 2015,
       "locations": [
         "San Francisco, CA",
         "San Francisco, California"
@@ -101,20 +98,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=kjKPL53Tgw8"
+          "url": "https://www.youtube.com/watch?v=pNpH4G-hoIY"
         }
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1126580049346420736/zS_MFysH_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Kindred AI",
+          "title": "Marble",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFPTn9geZL7DA/company-logo_200_200/0?e=1594857600&v=beta&t=u_cOwl2JpQy-41n1BqnN6gT6V0_YHPgAu3gSynqh4eY",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -124,26 +121,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/promo-bot.ai.md",
-      "title": "Promobot",
-      "excerpt": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/promo-bot.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/promo-bot.ai/",
+      "path": "_companies/rtr.ai.md",
+      "title": "RealTime Robotics",
+      "excerpt": "Realtime has invented a specialized processor for generating safe robot motion plans in micro-seconds, enabling robots to function in unstructured, collaborative work-spaces, reacting to other motions as soon as they are perceived",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/rtr.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/rtr.ai/",
       "type": "profile",
-      "name": "Promobot",
-      "overview": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "website": "https://promo-bot.ai/",
+      "name": "RealTime Robotics",
+      "overview": "Realtime has invented a specialized processor for generating safe robot motion plans in micro-seconds, enabling robots to function in unstructured, collaborative work-spaces, reacting to other motions as soon as they are perceived",
+      "website": "http://rtr.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/realtimerobotics/",
+        "followers": 1088
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/promobot"
+        "url": "https://www.crunchbase.com/organization/realtime-robotics-inc"
       },
       "twitter": {
-        "username": "promobot",
-        "url": "https://twitter.com/promobot",
-        "followers": 550
+        "username": "realtime_i",
+        "url": "https://twitter.com/realtime_i",
+        "followers": 905
       },
-      "yearFounded": 2015,
+      "size": "2-10 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Warminster Heights, PA"
+        "Boston, MA"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -154,16 +156,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
+          "url": "https://www.youtube.com/watch?v=hVK2Lbb2IQ0"
         }
       ],
-      "heat": 41,
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1287728520580534272/Su_3X8uA_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/963054263675973633/Pw0jLMR5_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Promobot",
+          "title": "RealTime Robotics",
           "isCached": true
         }
       ],
