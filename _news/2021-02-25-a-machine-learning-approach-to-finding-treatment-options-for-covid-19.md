@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "T-Cell Screening Launched to Detect Prior Covid Infections"
-    excerpt: "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n"
-    publishedDateTime: 2021-02-23T20:56:07Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg"
-        width: 1200
-        height: 788
-        isCached: true
   - title: "Bank machine learning models hit hard by Covid"
     excerpt: "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic."
     publishedDateTime: 2021-02-24T03:18:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.finextra.com/newsarticle/37534/bank-machine-learning-m
 webUrl: "https://www.finextra.com/newsarticle/37534/bank-machine-learning-models-hit-hard-by-covid"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Finextra
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "T-Cell Screening Launched to Detect Prior Covid Infections"
-    excerpt: "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n"
-    publishedDateTime: 2021-02-23T20:56:07Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg"
-        width: 1200
-        height: 788
-        isCached: true
   - title: "Machine learning based predictors for COVID-19 disease severity"
     excerpt: "Predictors of the need for intensive care and mechanical ventilation can help healthcare systems in planning for surge capacity for COVID-19. We used socio-demographic data, clinical data, and blood panel profile data at the time of initial presentation to develop machine learning algorithms for predicting the need for intensive care and mechanical ventilation."
     publishedDateTime: 2021-02-25T14:09:00Z

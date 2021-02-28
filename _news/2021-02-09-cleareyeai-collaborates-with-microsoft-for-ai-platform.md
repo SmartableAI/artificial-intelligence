@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-excerpt: "The engine from Cleareye.ai also uses computer vision, part of Azure Cognitive Services, Azure Kubernetes Service, and other scalable computing and analytical services from Microsoft to fulfill ..."
-publishedDateTime: 2021-02-09T13:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's enterprise-ready platform will use Microsoft technology to power its products,"
+publishedDateTime: 2021-02-09T14:05:00Z
+originalUrl: "https://www.lelezard.com/en/news-19640933.html"
+webUrl: "https://www.lelezard.com/en/news-19640933.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "3Iy2FUumKGH6dlgS2MVi7bsl7nZtrV0I/fcTK+ZBnzas8rcMwslpTudxTLW+6SBXigKAINgxg9maEpHM4hQQAdLydsNRjsHXySL7dY1wGO7D/9chZRnpeKmdzzVVt2TwZooivOP6042TG1QoIQK5LiFDathzDl8egWvJC2534gNZYVYmxXFnBqPljnsj3FDx+X5otEACx8BHWedOAF6kpar2i1ogQgDpc7NJUNLFzA7HiNZVpvAFyAMYdwkjW0wXdR+0wVoqP6/oC58nyz4cf7JX1x17gpgM7uBGTpHygdgD2u1sLI1R9EhQno6VLGXcQIaxzMXF0f5VsBfWmfWGgQcWXWzwd/M6MtTQuZyb5aA=;Fg7vVIlVasse/kk2tZj7Tw=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "DIMQf7gXd+M+xrU2ypAv2MrxoX7/NA185riZv/MgZ+WOkBs9M29jnsaGG482uJCnYe0mkvR8yvOyVqI77XrUlNli1LiKmf9M2iIBXgOIDj2uVHCkmycDUH02T2CPbw8t49Ic22IaslscxXO8pqHe2BtWmWsfZYPCS/uUpt5qBBFqyGlulk1/Ei/DfFF1E1stiFQYnbzL0NtCtxQV+oZZZn05uK+0C84p/jsLelahqfa1UVF96QIPrPqFcDIvoKCccYYe8SX5u0I2NXmJ0a/wL2ZQimypTcHohQqGFxDRacnu55ez8AIIL5L9S07dOsrg4071hF1Jeiwf7Nj2qCLVN/4g9U421nS+xAIFDMPj3bg=;q/sAcZMjPu8QVH+ly5543Q=="
 ---
 

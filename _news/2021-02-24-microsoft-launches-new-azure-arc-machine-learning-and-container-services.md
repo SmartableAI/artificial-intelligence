@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/microsoft-launches-new-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754"
 type: article
 quality: 115
-heat: 225
+heat: 215
 published: true
 
 provider:
@@ -57,22 +57,6 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
         width: 1069
         height: 693
-        isCached: true
-  - title: "Microsoft Translator gains text support for 9 more languages"
-    excerpt: "Microsoft recently announced support for nine additional languages for Microsoft Translator. The newly supported languages are spoken by over 170 million people around the world."
-    publishedDateTime: 2021-02-23T19:04:00Z
-    webUrl: "https://www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages"
-    ampWebUrl: "https://www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages?amp"
-    cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-translator-gains-text-support-9-more-languages?amp"
-    type: article
-    provider:
-      name: Windows Central
-      domain: windowscentral.com
-    quality: 74
-    images:
-      - url: "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2018/03/microsoft-translator-android-2018-2.jpg"
-        width: 800
-        height: 598
         isCached: true
   - title: "Microsoft Announces First Cloud for Healthcare Update"
     excerpt: "Microsoft made the announcement while rolling out three new cloud offerings for financial services, manufacturing companies, and nonprofits."
