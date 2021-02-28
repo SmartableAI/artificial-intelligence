@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-rean
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/27/gpt-3-were-at-the-very-beginning-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/27/gpt-3-were-at-the-very-beginning-of-a-new-app-ecosystem/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

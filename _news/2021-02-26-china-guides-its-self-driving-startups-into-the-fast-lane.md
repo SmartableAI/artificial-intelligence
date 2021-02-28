@@ -25,63 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "SAIC taps Chinese chip startup for self-driving cars"
-    excerpt: "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers."
-    publishedDateTime: 2021-02-23T08:13:00Z
-    webUrl: "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
-    ampWebUrl: "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/"
+  - title: "Convincing A Self-Driving Car To Go Where You Want It To Go When It Won’t Go There"
+    excerpt: "Examining how to deal with a self-driving car that refuses to go where you want it to go, as exemplified via an interesting use case involving a tow truck situation."
+    publishedDateTime: 2021-02-27T16:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/"
     type: article
     provider:
-      name: TechNode
-      domain: technode.com
-    quality: 76
+      name: Forbes
+      domain: forbes.com
+    quality: 68
     images:
-      - url: "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1"
-        width: 820
-        height: 461
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60333239db18f3b0d0e7a3d8%2F0x0.jpg%3FcropX1%3D14%26cropX2%3D845%26cropY1%3D55%26cropY2%3D670"
+        width: 831
+        height: 615
         isCached: true
-  - title: "Horizon, SAIC form auto chip alliance"
-    excerpt: "[Photo/Xinhua] Chinese automobile giant SAIC Motor Corp Ltd will join hands with smart chip company Horizon Robotics to further ... to build a brand-new collaborative model in automotive AI development, and for intelligentization of the automobile industry ..."
-    publishedDateTime: 2021-02-23T09:26:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202102/23/WS603459eca31024ad0baaa5bf.html"
+  - title: "Could improving vehicle safety technology pave the way for self-driving cars?"
+    excerpt: "While drivers are still unsure about self-driving vehicles, they are warming up to advanced safety technology, a AAA survey reported."
+    publishedDateTime: 2021-02-25T14:50:00Z
+    webUrl: "https://www.daytondailynews.com/local/could-improving-vehicle-safety-technology-could-pave-the-way-for-self-driving-cars/ZR6ZX5ZA65G6VGTBW3AW2VGWII/"
     type: article
     provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 54
+      name: Dayton Daily News
+      domain: daytondailynews.com
+    quality: 21
     images:
-      - url: "http://img2.chinadaily.com.cn/images/202102/23/603459eca31024adbdb5c355.jpeg"
-        width: 617
-        height: 411
+      - url: "https://www.daytondailynews.com/resizer/9YKbrHs7pZhF5Oe29TJ6iK9O5JY=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/coxohio/76CAVDFORJCQ7EEYLLCGZOANSI.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "This Chinese startup attains unicorn status in 100 days since inception"
-    excerpt: "The latest pre-series A round of the Chinese graphics processing creator was led by Sequoia Capital China, GGV Capital, and Shenzhen Capital Group."
-    publishedDateTime: 2021-02-25T09:27:00Z
-    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
-  - title: "This Chinese startup attained unicorn status in 100 days since inception"
-    excerpt: "The latest pre-series A round of the Chinese graphics processing creator was led by Sequoia Capital China, GGV Capital, and Shenzhen Capital Group."
-    publishedDateTime: 2021-02-25T13:07:00Z
-    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception#!"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
-  - title: "This Chinese startup attained unicorn status in 100 days since inception"
-    excerpt: "Moore Threads, a Chinese startup that provides graphics processing unit (GPU ... TikTok owner ByteDance, China Merchants Venture, Pony.ai, Riverhead Capital, Oceanpine Capital, Wenming Investment Fund, First Capital, 5Y Capital, and Shenzhen H&T ..."
-    publishedDateTime: 2021-02-26T04:34:00Z
-    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception?ref=recommender-674290"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 46
 
 secured: "QzkJNzUZKBWIJGBwHEeZeG2NgFgYHEDzjz4qKLXaytjemjaWXvtLFoAjzcZBhmcET7ijupRu7rE1qfJcRJigOOXvY5+SkVeDWc2RDS6v0+1sAYJhCkrN1iC4jV9MDgZ/nKxKquAQ3jnwaMXesPPzNMf2YoUmx4gFJwuY43/EcqEO4CIEyJYsZIxHaN+ZHRRV//WowlFZYJK0j9knc3RdIfCm8tFs9wywNCh6GD00653M1ltp2dLoI3rX0vtfVLxerL8jFvuiRPK/HIk0nUis9VV3zBie8//zBHMBdUCOS3daNfHVXmdSyV3VRiKIxde8Jr9cfgzFVdgw9WaoemQtZY954wpaDCvQDfFH8SSe2f9uaeTm0sZxSG9xKao4IHqTE5dSAs8X9T4PdWUBjrx1DxSKfVkUPEp9HFl9+DgYcwMU37+HWtIcPpLy4LVL43t8+o/jdFMpdYi6kiRNVzL1oNtojnxkmL2QDzajnKNcjf4jNJrEdTN0usY1y4+ihgU9igqq9rgSjATpyWyGk3aZ+Q==;hKldboCqb8kQY/J00FjbNA=="
 ---

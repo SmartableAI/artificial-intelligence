@@ -1,28 +1,30 @@
 ---
 category: news
 title: "MindMed Closes Acquisition of HealthMode, a Leading Machine Learning Digital Medicine Company"
-excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr."
-publishedDateTime: 2021-02-26T18:56:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine-company-1030130670"
-webUrl: "https://markets.businessinsider.com/news/stocks/mindmed-closes-acquisition-of-healthmode-a-leading-machine-learning-digital-medicine-company-1030130670"
+excerpt: "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr. Daniel R. Karlin and former Google AI/ML industry veteran Bradford Cross added to MindMed executive team NEW YORK,"
+publishedDateTime: 2021-02-26T19:18:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-government-regulations-ownership-changes-8cb43698ed479b5aa1293064f272b038"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-technology-products-and-services-government-regulations-ownership-changes-8cb43698ed479b5aa1293064f272b038"
 type: article
-quality: 40
-heat: 40
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "uprXrXUeeyjIAlXXFGBp6R1xHPKexxwZ9idgtVAsiTk2/eBM5fUu6Da4Lt+OGg+/U9YoN6dgmUnq2W5GV55kgAZJYTkVQ+UlN/9ADsLHvTDH+2wzPLJ9jGI9v69xJViPrMeImFqf3i2/BRZgDS3h37jZ0toN8SY/KQ0f2BgIDbswA+PvUB6aTKc4Z8yjW5yeuEJTS4fZHpqsKm+D1lBLiJ3TPzpYfwig4gQFyGJmZb12dvfI/019GJX9jI3KqET53i2V7xYGk9fqcI3ovP3e05ZdctttwubdvvMv28nFuwSkjA39XnGvqA7VNOx1w4QgQyttZf6/e2OQWCgsXWH1uF6/PnKFkj/PadQueF3C2eY=;GaeviW3SlpXJz9SoOEZaIQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "1Ef7qX4tIhHbzXsFKcFiDxFIuP6B23l0+W+mXhy1W6NFPsqfcNjYFxQiWGDu7EiK9CX32uUAdPjbKzhu8u3GrVBXCSl5T3rjIsycHuAtVqDdL+RcMZFOIsYnzO4RdB0D7HtkSoWqAvvuabvT8QIraFbbVzLu9MOXdkT8VE3OxbZVeOFcW1hElkcKA0gM6PFLnjjgQOlFGyr0KpdwRladNpMPSpx1+p2mPNwIdSL5Dbar886z9gli7/nVylJj8HRPAnQdM06IDnLAn9727EiEvVc3CBHkx8xngLtTLOQZi6ZN1L604KZCzEXSJ/AnMaFvcZAraxRx3n3RsC/iV7Wmz1NlD2gn0lxe5bw3bWMEfJE=;BtbeNcaPkLHNKxED0ozt/w=="
 ---
 

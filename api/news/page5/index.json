@@ -349,7 +349,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/365661",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -529,6 +529,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-saic-motor-in-tech-tie-up-with-horizon-robotics.md",
+      "title": "SAIC Motor in tech tie-up with Horizon Robotics",
+      "excerpt": "SAIC Motor Corporation has signed an agreement with Chinese artificial intelligence (AI) and semiconductor startup company Horizon Robotics to develop new connected services for smart cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/news/saic-motor-in-tech-tie-up-with-horizon-robotics_id200411.aspx",
+      "originalUrl": "https://www.just-auto.com/news/saic-motor-in-tech-tie-up-with-horizon-robotics_id200411.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/images/just-auto-share.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1126,57 +1169,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-googles-voice-ai-accelerator-launches-12-startups.md",
-      "title": "Google’s Voice AI accelerator launches 12 startups",
-      "excerpt": "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/",
-      "originalUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all",
-          "width": 1197,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/",
-      "publishedDateTime": "2021-02-22T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

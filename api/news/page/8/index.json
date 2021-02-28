@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-19-uber-judge-skeptical-of-levandowskis-tactics-to-protect-wealth-from-creditors.md",
+      "title": "Uber, Judge Skeptical Of Levandowski's Tactics To Protect Wealth From Creditors",
+      "excerpt": "Despite a last-minute pardon by former President Donald Trump in his criminal case, tech pioneer Anthony Levandowski's legal woes continue after he was forced to file",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/news/21/02/19748150/uber-judge-skeptical-of-levandowskis-tactics-to-protect-wealth-from-creditors",
+      "originalUrl": "https://www.benzinga.com/news/21/02/19748150/uber-judge-skeptical-of-levandowskis-tactics-to-protect-wealth-from-creditors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/judge_accuses_anthony_1.jpg",
+          "width": 2080,
+          "height": 1170,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19748150",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19748150",
+      "publishedDateTime": "2021-02-19T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.md",
       "title": "Owlcam 5.0 is a premium dash cam with AI, voice control and more",
       "excerpt": "Owlcam 5.0 is a premium dash cam that offers voice control, AI, and an LTE connection for uploading videos to the cloud.",
@@ -1122,58 +1165,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-a-better-customer-experience-is-important-but-its-just-one-way-ai-and-machine-learning-can-transform-the-enterprise.md",
-      "title": "A better customer experience is important, but it's just one way AI and machine learning can transform the enterprise",
-      "excerpt": "Laura Urquizu, CEO of Red Points, explains why AI and machine learning have the potential to enhance customer experiences for enterprise and non-tech companies alike.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2",
-      "originalUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602457d867d1e300113c5696?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/red-points-ceo-ai-machine-learning-digital-transformation-2021-2?amp",
-      "publishedDateTime": "2021-02-18T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

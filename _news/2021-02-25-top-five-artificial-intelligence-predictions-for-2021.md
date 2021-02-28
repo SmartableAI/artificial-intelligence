@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/top-five-artificial-intelli
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-five-artificial-intelligence-predictions-for-2021/"
 type: article
 quality: 57
-heat: 69
+heat: 67
 published: false
 
 provider:

@@ -85,20 +85,6 @@ related:
         width: 768
         height: 403
         isCached: true
-  - title: "Global Vehicle Speech Recognition System Market Analysis by Manufacturers, Regions, Type and Application to 2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb 23, 2021 (The Expresswire) -- The global “Vehicle Speech Recognition System Market” Report deliver comprehensive analysis of the market structure along with forecast ..."
-    publishedDateTime: 2021-02-23T08:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-vehicle-speech-recognition-system-market-analysis-by-manufacturers-regions-type-and-application-to-2027-2021-02-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Emotion Detection and Recognition (EDR) Market Size to Cross $ 64.7 billion by 2027"
     excerpt: "such as facial recognition, biosensing, speech and voice recognition, pattern recognition, and machine learning. Request a sample of this premium report at: https://www.marketstudyreport.com/request-a-sample/2942178/?utm_source=Marketwatch.com&utm_medium ..."
     publishedDateTime: 2021-02-25T06:27:00Z

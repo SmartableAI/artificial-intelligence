@@ -86,22 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Latest Innovations and Trends 2021-2026"
-    excerpt: "Global Computer Vision Market Report Covers Market Dynamics Market Size And Latest Trends Amid The COVID 19 Pandemic For acquiring a whole outline of the Computer Vision Market each of the ones needs to do is to peruse everything about"
-    publishedDateTime: 2021-02-23T07:14:00Z
-    webUrl: "https://www.openpr.com/news/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    ampWebUrl: "https://www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2246900/computer-vision-market-latest-innovations-and-trends-2021-2026"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/U/2/U223648370_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 - 2024 | By Kenneth Research"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-02-26T16:17:00Z
@@ -117,19 +101,14 @@ related:
         height: 630
         isCached: true
   - title: "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com"
-    excerpt: "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,"
+    excerpt: "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,"
     publishedDateTime: 2021-02-23T14:21:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf"
+    webUrl: "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "HGeWNtMnsxdusa9btbN7JjKRvEhZEHQd0jSWvstJjYMuyw/6MrHeNZb/lBOd2ZKcxzxkn0L4dtjeKFDAj6dDQkuNm80DIRX8a1CbwL6QNtL61QwLhFz+BSjNvs6lxdgssXkoGCsbURDUtHBXpaT0ZsmNZeg2KdiBicBJNB9as7ILYJlVxj13/3WP4sfu/YtbkAB+Yu575yzxVL40Zi67fy1brdwHQn7he7a0i6JU5ZT5Zlz6ufdYRPCXOA9mYtYW2g2d3SZLAtEh/iZgboLMltNliTVUjabXJSWM4lztKEewgQ0AlEL8MxIWkCSRDOIM14zs4vF1N5sk0Yj7WT1cLaANNZ2srglu1svG4nRjtyo=;RQ9fKz4sTk/lzFvFwVFXyA=="
 ---

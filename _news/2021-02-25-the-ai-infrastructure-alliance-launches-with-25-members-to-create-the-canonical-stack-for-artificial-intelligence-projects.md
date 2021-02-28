@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "BBVA and Google Cloud Form Strategic Partnership to Drive Security Innovation in Financial Services"
-    excerpt: "BBVA and Google Cloud today announced a new strategic partnership to transform the bank’s security strategy by optimizing and improving its security infrastructure. As part of this global agreement, BBVA will collaborate with Google Cloud in the development of groundbreaking new artificial intelligence (AI) and machine learning (ML) models to predict and prevent cyberattacks against its banking infrastructure,"
-    publishedDateTime: 2021-02-23T08:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-financial-services-artificial-intelligence-bb7ac8dbb21aa2bf0611e9c746a464ca"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "+AmHeUVUck32UJK4VKAhZ0nJht9uhA4sODg51/yQ9wn5Y7fgZvIXFQir8SOL41f3kUFMnSIGShcxwsXib6qkEqOdp4bBN5StsX5K4V5eoBI7wgZ/t7GVGJjmGMkjUg0D5TaC5LaOYpuzfNMBs/yH9WpSf3ta0TWocO7wc84kYyQ22wsZgXXWiUJQb8KMDEQ2wIQ17KvbXkygCUh6wW2Ip4ybULYZ1Z71mvnNmot6X5G+RerCY+3EzozAGR6d2QmMThFpFn0EuswB16BJFwvwH0qYzW04+aNNZrNtGBVwxq99HkPN90uqXjAyjslIWoHPBARZahiX6CHP36tCvtJDidMi7dP0b6yLcyLMJs4gjqkQLA4t0WDm3k7V49Lgl+C03JAU5RLXzOon4c5ftFUKpx4Qzu/JUWu1X/HoK3y+AGgyLvhhFYIWjGY2egxCQTBqf2fCjeGQvigC8DKFHDUm2DQnsi+sOUGmBfYzV3PzXGxWdhIaSzxhnqildxVnweGcxMwrYUgO0qSVUB6xkYNWyg==;GHeRxooJRFL9rtJzbV4Qig=="
 ---

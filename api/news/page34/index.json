@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-01-dont-fall-for-elon-musks-self-driving-car-fallacy.md",
+      "title": "Don't Fall for Elon Musk's Self-Driving Car Fallacy",
+      "excerpt": "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "originalUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
+      "publishedDateTime": "2021-01-31T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-this-ai-powered-app-can-create-high-performing-copy-for-70.md",
       "title": "This AI-powered app can create high-performing copy for $70",
       "excerpt": "Most words you read online, from marketing emails to social media posts, are known as “copy.” This includes ads on social media platforms like Facebook and Instagram, product descriptions, SEO taglines and much more.",
@@ -1151,58 +1203,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency.md",
-      "title": "Google CEO slammed by AI ethics researcher for blaming public feud on transparency",
-      "excerpt": "Google CEO Sundar Pichai credited the company's transparency for the backlash over Timnit Gebru's firing, earning a withering rebuke from the AI ethicist.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/",
-      "originalUrl": "https://thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/08/16928752317_2e39f492da_k_Sundar-Pichai-by-Maurizio-Pesce-1200x600.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/29/google-ceo-slammed-by-ai-ethics-researcher-for-blaming-public-feud-on-transparency/amp/",
-      "publishedDateTime": "2021-01-29T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

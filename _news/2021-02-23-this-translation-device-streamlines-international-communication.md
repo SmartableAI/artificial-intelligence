@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/365661"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365661"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Syrian student comes first at international innovation competition for artificial intelligence"
-    excerpt: "Lattakia, SANA- In a new achievement for Syrian youths, Ammar Yasser, obtained the first place in the Artificial Intelligence competition, organized by the National Oceanic and Atmospheric Administrat"
-    publishedDateTime: 2021-02-23T07:51:00Z
-    webUrl: "https://sana.sy/en/?p=223350"
-    type: article
-    provider:
-      name: S A N A
-      domain: sana.sy
-    quality: 5
 
 secured: "qE2l5LQmq3pwg0SPcw1K+RoRTXBD+bt+HVEYBTtXFIXaef0MH4z+wSgnwVgDDnYh5yMJqf75EVZsFal3sjhsnuuGgbzDR4bLGVgNr2TdRKoqZ5TO6QoW8XXjTluEul0B97dP+0K+j5+2denaGpgZmYAabWNDAFtyWmhBHXn3vDl2ShYYYMzWdZr/wrbQ/S805noZ1cJX4fF+6086JYPBCNwK3pZkS7iesykzh4XENq1nz9FDQ9/L95EF3JYMxXWCyZYECUBdT7g6C2/VQlym49SvFgAHYRmrziph7Bc7HtwRwQjzjJGMRzD9dhvRp/vtyt7sTZUa0WX49WVYqHFURRkTlqX5w4er2z1qckuUnwvVd9i+/NGj/ko2pXnq+LPaQ/omLH5I8/IkN0sHfuoLHgnqDNvIiDfSQNvd9hQ1NBVLtrIzmhptLm5Zd7dUiytaNnQ0EW1fGQSuuG8FkPBBoH0H9G2tH4IksNiGLVD5KfauwUecH6QWWevce/IwQU9H6J5018UthmR+AnnrAq7CKg==;8TxZnTl24E3Fi+riean/Yg=="
 ---

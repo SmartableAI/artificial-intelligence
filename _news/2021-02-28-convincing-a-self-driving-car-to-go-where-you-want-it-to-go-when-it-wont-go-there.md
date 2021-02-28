@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "China guides its self-driving startups into the fast lane"
+    excerpt: "Baidu and AutoX are among the six California ... and help raise funds from international investors, Chinese self-driving companies are increasingly shifting their focus to their home turf."
+    publishedDateTime: 2021-02-25T21:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/Business-Spotlight/China-guides-its-self-driving-startups-into-the-fast-lane"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F2%252F4%252F9%252F32489429-7-eng-GB%252F20210219%2520Biz%2520Spot%2520-%2520China%2520autonomous%2520cars%2520img.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
   - title: "Could improving vehicle safety technology pave the way for self-driving cars?"
     excerpt: "While drivers are still unsure about self-driving vehicles, they are warming up to advanced safety technology, a AAA survey reported."
     publishedDateTime: 2021-02-25T14:50:00Z

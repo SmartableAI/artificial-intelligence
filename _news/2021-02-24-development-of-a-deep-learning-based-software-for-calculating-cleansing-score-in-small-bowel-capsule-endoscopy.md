@@ -41,20 +41,6 @@ related:
         width: 1027
         height: 1147
         isCached: true
-  - title: "Predicting dynamic cellular protein–RNA interactions by deep learning using in vivo RNA structures"
-    excerpt: "Interactions with RNA-binding proteins (RBPs) are integral to RNA function and cellular regulation, and dynamically reflect specific cellular conditions. However, presently available tools for predicting RBP–RNA interactions employ RNA sequence and/or predicted RNA structures,"
-    publishedDateTime: 2021-02-23T08:59:00Z
-    webUrl: "https://www.nature.com/articles/s41422-021-00476-y"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 25
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41422-021-00476-y/MediaObjects/41422_2021_476_Fig1_HTML.png"
-        width: 472
-        height: 685
-        isCached: true
   - title: "CAPTURE-ing movement in freely behaving animals"
     excerpt: "Harvard researchers develop a new motion-tracking system that delivers an unprecedented look at how animals move and behave naturally."
     publishedDateTime: 2021-02-25T19:11:00Z

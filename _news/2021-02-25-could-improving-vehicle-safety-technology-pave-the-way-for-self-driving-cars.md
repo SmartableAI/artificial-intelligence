@@ -41,6 +41,20 @@ related:
         width: 831
         height: 615
         isCached: true
+  - title: "China guides its self-driving startups into the fast lane"
+    excerpt: "Baidu and AutoX are among the six California ... and help raise funds from international investors, Chinese self-driving companies are increasingly shifting their focus to their home turf."
+    publishedDateTime: 2021-02-25T21:10:00Z
+    webUrl: "https://asia.nikkei.com/Business/Business-Spotlight/China-guides-its-self-driving-startups-into-the-fast-lane"
+    type: article
+    provider:
+      name: NIKKEI
+      domain: nikkei.com
+    quality: 24
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F2%252F4%252F9%252F32489429-7-eng-GB%252F20210219%2520Biz%2520Spot%2520-%2520China%2520autonomous%2520cars%2520img.png?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "3GCw8oKxBwiyzpgWApyYOJUEoky3ynbJ7ScEEOGXLei5wJlcuFLJ79qfYdqXDIW+OOravVjFrv20Z3+f3DX7KkXyZHvFijHfdOPMz7wdUP9XQyHirP//6qdQTDgHW97WquXFlyK4eaEoJ54RkspaJhfokAf8LwyrVsRO2ydJEK8VV5cV++/kgZs+Si/WqCxCHVVDloND6QaRbNwWQeyQBoSzNCNoAmhnXvjlz/4WBdOYIlKwIR8oKpvyOqBxtzhPc/uj2Y1qic87eBzWbt8P9IV0yiT6Z/W63C5gJyjS5i7EU0+kL+MPEX9He/pwBqlmZj4MEU8N2fpCbIylHYd70nGjJITs7phyJERtZJvDT+o=;AswiznNKUgK14NDQCRLgOw=="
 ---

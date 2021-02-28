@@ -38,22 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 115
-  - title: "Microsoft wants to use AI to unlock the potential of HPC"
-    excerpt: "Microsoft Azure is able deliver differentiated cloud capabilities that are purpose-built for the full spectrum of HPC & AI workloads including the most demanding use cases. However, at the core of the infrastructure are HPC & AI clusters which use HPC-class InfiniBand interconnect with genuine low latency (~1us) and high bandwidth typically around 200Gbps using the latest processor technologies from its partners in the program."
-    publishedDateTime: 2021-02-27T02:44:00Z
-    webUrl: "https://www.techradar.com/uk/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Microsoft: How we deliver industry-specific cloud computing at scale"
     excerpt: "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations."
     publishedDateTime: 2021-02-25T12:00:00Z
@@ -69,6 +53,22 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/25/34c32e8e-79f4-4866-81e0-3f312dc07b23/resize/400x/0d173a80a5e76ca17f533fc8925f9e00/ms-erik-arnold-tr.jpg"
         width: 400
         height: 353
+        isCached: true
+  - title: "Microsoft wants to use AI to unlock the potential of HPC"
+    excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
+    publishedDateTime: 2021-02-27T10:29:00Z
+    webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 74
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
+        width: 1069
+        height: 693
         isCached: true
   - title: "Microsoft Announces First Cloud for Healthcare Update"
     excerpt: "Microsoft made the announcement while rolling out three new cloud offerings for financial services, manufacturing companies, and nonprofits."
