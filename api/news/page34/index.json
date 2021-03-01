@@ -2,6 +2,393 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-02-02-artificial-intelligence-and-the-gamestonk-blowback.md",
+      "title": "Artificial intelligence and the Gamestonk blowback",
+      "excerpt": "Surrounded by rallies of “power to the people,” a rag-tag group of scrappy underdogs recently managed to bring Wall Street to its knees through a dazzling display of disobedient investing that saw Gamestop stocks rocket Moonward.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/1280px-GameStop_Globen-e1611550531323-796x420.jpg",
+          "width": 796,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/artificial-intelligence-and-the-gamestonk-blowback/amp/",
+      "publishedDateTime": "2021-02-01T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-how-to-tell-if-your-partner-is-thinking-of-breaking-up-with-you-people-contemplating-the-end-of-a-relationship-change-their-language-and-start.md",
+      "title": "How to tell if your partner is thinking of breaking up with you: People contemplating the end of a relationship change their language and start saying 'I' and 'we' more",
+      "excerpt": "The study, by researchers from the University of Texas, suggests that the use of pronouns may indicate an impending breakup.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/People-contemplating-end-relationship-start-saying-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/02/01/13/38735416-0-image-a-15_1612186949328.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9210355/amp/People-contemplating-end-relationship-start-saying-more.html",
+      "publishedDateTime": "2021-02-01T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-rpa-startup-uipath-raises-750-million.md",
+      "title": "RPA startup UiPath raises $750 million",
+      "excerpt": "Robotic process automation startup UiPath has raised $750 million in a series F round valuing the company at $35 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
+      "originalUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/uipath.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/01/rpa-startup-uipath-raises-750-million/amp/",
+      "publishedDateTime": "2021-02-01T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-ios-145-apple-just-revealed-brilliant-new-face-id-feature.md",
+      "title": "iOS 14.5: Apple Just Revealed Brilliant New Face ID Feature",
+      "excerpt": "The next version of iOS is coming soon, and today’s developer beta release lets slip a timely and important security feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
+      "originalUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6018415e9f9059ef357afd41%2F0x0.jpg",
+          "width": 1200,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidphelan/2021/02/01/ios-145-apple-just-revealed-brilliant-new-face-id-feature-security-unlock-with-mask-on/amp/",
+      "publishedDateTime": "2021-02-01T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
+      "title": "California to license driverless cars operated by artificial intelligence",
+      "excerpt": "Driverless cars operate through an artificial intelligence system designed to ... “Companies like Google’s Waymo have put AI inside virtual cars and have the vehicles 'drive' billions of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
+      "originalUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediadc.brightspotcdn.com/dims4/default/6e5a04a/2147483647/strip/true/crop/2100x1103+0+149/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fd9%2Ff7%2Fe529bb32b60c2c886b0d7fcdb544%2Fbdd85bcb540d61d104dc9a9f3054459e.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
+      "publishedDateTime": "2021-02-01T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-the-two-companies-have-announced-a-significant-6-year-partnership.md",
+      "title": "The two companies have announced a significant 6-year partnership",
+      "excerpt": "Google and Ford have inked a six-year partnership that will see the automaker using the tech giant’s expertise and products to bolster their cars and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
+      "originalUrl": "https://www.techspot.com/news/88477-ford-google-sign-significant-6-year-partnership.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-01-image-9.jpg",
+          "width": 4000,
+          "height": 2250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88477-ford-google-sign-significant-6-year-partnership.html",
+      "publishedDateTime": "2021-02-01T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-weights-biases-raises-45m-for-its-machine-learning-tools.md",
+      "title": "Weights & Biases raises $45M for its machine learning tools",
+      "excerpt": "Weights & Biases, a startup building tools for machine learning practitioners, is announcing that it’s raised $45 million in Series B funding. The company was founded by Lukas Biewald, Chris Van Pelt and Shawn Lewis — Biewald and Van Pelt previously founded CrowdFlower/Figure Eight",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/",
+      "originalUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/image-5.jpg?w=680",
+          "width": 680,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/01/weights-and-biases-series-b/amp/",
+      "publishedDateTime": "2021-02-01T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-ford-says-millions-of-its-vehicles-will-run-on-googles-android-starting-in-2023.md",
+      "title": "Ford says ‘millions’ of its vehicles will run on Google’s Android starting in 2023",
+      "excerpt": "Ford is the latest automaker to turn its vehicle operating systems over to Google. The Dearborn, Michigan-based company said it will use Google’s Android to power the infotainment systems in “millions” of its cars starting in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/ford-says-e2-80-98millions-e2-80-99-of-its-vehicles-will-run-on-google-e2-80-99s-android-starting-in-2023/ar-BB1dhZyF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/-uLkByrqABxw1MkzWgOSvpc8GzY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68751502/sokane_191117_3793_6040.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
+      "publishedDateTime": "2021-02-01T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
+        "domain": "theverge.com/2021/2/1/22260176/ford-google-android-infotainment-os-2023",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-self-driving-cars-are-faced-with-too-many-moving-objects-and-too-little-time.md",
       "title": "Self-Driving Cars Are Faced With Too Many Moving Objects And Too Little Time",
       "excerpt": "A surprising difficulty for self-driving cars involves having a multitude of objects in-motion nearby and being short on time to computationally analyze the frenzy.",
@@ -839,352 +1226,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control.md",
-      "title": "AI: MIT scientists develop a new ‘liquid’ neural network – ‘future of robot control’",
-      "excerpt": "MIT scientists have developed a type of neural network that learns on the job, not just during its training phase. These flexible algorithms, dubbed “liquid” networks, change their underlying equations to continuously adapt to new data inputs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
-      "originalUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tunisiesoir.com/wp-content/uploads/2021/02/AI-MIT-scientists-develop-a-new-‘liquid-neural-network-‘future-of-robot-control.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
-      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/ai-mit-scientists-develop-a-new-liquid-neural-network-future-of-robot-control-26558-2021/?amp",
-      "publishedDateTime": "2021-02-01T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tunisie Soir",
-        "domain": "tunisiesoir.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-artificial-intelligence-ethics-under-spotlight-at-davos-2021.md",
-      "title": "Artificial intelligence ethics under spotlight at Davos 2021",
-      "excerpt": "The World Economic Forum announces two initiatives to accelerate the adoption of technology across the globe, at the annual Davos meeting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "originalUrl": "https://www.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2021/02/AI-city-2021.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/xA9POvNZj4Pvo4J8",
-      "publishedDateTime": "2021-02-01T02:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21.md",
-      "title": "Tech firms to benefit on FM's push for digital census, use of AI, ML on MCA-21",
-      "excerpt": "Finance minister Nirmala Sitharaman said that government will use data analytics, Artificial Intelligence, Machine Learning to launch the next version of the Ministry of Corporate Affairs portal MCA 21 3.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/articleshow/80627824.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/articleshow/80627824.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-452528,msid-80627864/information-technology.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms",
-      "publishedDateTime": "2021-01-31T23:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-tech-talks-rise-in-machine-learning-artificial-intelligence-in-2021.md",
-      "title": "Tech talks: Rise in Machine Learning, Artificial Intelligence in 2021",
-      "excerpt": "Tech industry insiders are gearing up for a 2021 filled with Machine Learning and the even greater rise of Artificial Intelligence in all aspects of our daily lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/1/w600X390/Technology.JPG",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.amp",
-      "publishedDateTime": "2021-01-31T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-ingen-dynamics-to-continue-to-diversify-application-of-ai-and-robotics-technologies.md",
-      "title": "InGen Dynamics to Continue to Diversify Application of A.I and Robotics Technologies",
-      "excerpt": "Press Release InGen Dynamics, a Palo Alto, based Robotics and A.I firm, raised a recent round of funding bringing the total funding commitment to $4 Million at the most recent valuation of $45 Million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/",
-      "originalUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/31/ingen-dynamics-to-continue-to-diversify-application-of-a-i-and-robotics-technologies/amp/",
-      "publishedDateTime": "2021-01-31T17:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily.md",
-      "title": "Photonics for artificial intelligence and neuromorphic computing — ScienceDaily",
-      "excerpt": "Photonics for artificial intelligence and neuromorphic computing — ScienceDaily. Scientists have provided a fascinating new insight into",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/pc/photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily/",
-      "originalUrl": "https://www.compsmag.com/news/pc/photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Transforming-Clean-Energy-Technology-ScienceDaily-1024x1024.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/pc/photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/photonics-for-artificial-intelligence-and-neuromorphic-computing-sciencedaily/amp/",
-      "publishedDateTime": "2021-01-31T16:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-5-of-the-coolest-prosthetic-arm-breakthroughs.md",
-      "title": "5 of the Coolest Prosthetic Arm Breakthroughs",
-      "excerpt": "Easton LaChappelle, a young engineer from Cortez, Colorado has set out to develop the world's first mind-controlled robotic limb, and aims to make it affordable as well. The device works in tandem with a headset that reads brainwaves, reading about 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "originalUrl": "https://www.mddionline.com/rd/5-coolest-prosthetic-arm-breakthroughs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/carlos-arturo_torres.png",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-how-ibms-watson-could-disrupt-medical-imaging.md",
-      "title": "How IBM's Watson Could Disrupt Medical Imaging",
-      "excerpt": "\"If IBM can make Watson AI products for image analytics clinically relevant and seamlessly integrate these tools into the EMR, control of the radiology IT market will increasingly shift away from traditional radiology IT vendors. It may even force a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
-      "originalUrl": "https://www.mddionline.com/how-ibms-watson-could-disrupt-medical-imaging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-31T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

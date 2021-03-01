@@ -255,6 +255,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
+      "title": "Why driverless cars are paradise on wheels for some",
+      "excerpt": "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=article_inline",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=article_inline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-301724/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
       "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
       "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
@@ -439,21 +491,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp.md",
-      "title": "The former Uber exec who was pardoned by Trump has closed his church that worshipped AI, donating its funds to the NAACP",
-      "excerpt": "Anthony Levandowski, a former Google engineer and founder of the tech company's self-driving car project Waymo ... which worshiped artificial intelligence, and donated the entirety of its funds ...",
+      "path": "_news/2021-02-22-heres-what-artificial-intelligence-will-look-like-in-2030.md",
+      "title": "Here’s What Artificial Intelligence Will Look Like in 2030",
+      "excerpt": "Artificial intelligence and robotics are coming into ... There is a lot of argument right now concerning driverless cars, about how Google has programmed an algorithm to hit a building before ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms",
+      "webUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030",
+      "originalUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.businessinsider.in/thumb/81114790.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
+          "url": "https://futurism.com/wp-content/uploads/2016/10/ai-600x315.png",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -461,13 +513,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms",
-      "publishedDateTime": "2021-02-20T07:08:00-08:00",
+      "ampWebUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030/amp",
+      "publishedDateTime": "2021-02-21T17:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
+        "name": "Futurism",
+        "domain": "futurism.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -525,6 +577,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-20-ex-google-engineer-anthony-levandowski-has-closed-his-artificial-intelligence-church.md",
+      "title": "Ex-Google engineer Anthony Levandowski has closed his artificial intelligence church",
+      "excerpt": "Anthony Levandowski, a former Google engineer convicted of stealing self-driving car secrets, is closing his artificial intelligence-focused church Way of the Future (WOTF), TechCrunch reports.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/2/19/22291769/anthony-levandowski-church-closed-artificial-intelligence-waymo-uber",
+      "originalUrl": "https://www.theverge.com/2021/2/19/22291769/anthony-levandowski-church-closed-artificial-intelligence-waymo-uber",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/MJ0dmTcr3ZqyVkkxUsFNs7wWuHo=/0x0:4194x2922/1400x933/filters:focal(1762x1126:2432x1796):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68845575/1172284878.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/19/22291769/anthony-levandowski-church-closed-artificial-intelligence-waymo-uber",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/19/22291769/anthony-levandowski-church-closed-artificial-intelligence-waymo-uber",
+      "publishedDateTime": "2021-02-19T19:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
       "title": "Why Baidu Stock Soared Today",
       "excerpt": "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company.",
@@ -561,19 +665,19 @@
     {
       "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
       "title": "Apple in talks to buy self-driving sensors, key step in car plan",
-      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ...",
+      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan-11613752857331.html",
-      "originalUrl": "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan-11613752857331.html",
+      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
+      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.livemint.com/img/2021/02/19/600x338/2021-02-17T151827Z_1_LYNXMPEH1G19K_RTROPTP_3_EU-APPLE-EPIC-GAMES-ANTITRUST_1613725934431_1613725951658_1613753771739.JPG",
-          "width": 600,
-          "height": 338,
+          "url": "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -581,14 +685,66 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan/amp-11613752857331.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/gadgets/apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan/amp-11613752857331.html",
-      "publishedDateTime": "2021-02-19T11:25:00-08:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/4510493001",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001",
+      "publishedDateTime": "2021-02-19T11:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp.md",
+      "title": "The former Uber exec who was pardoned by Trump has closed his church that worshipped AI, donating its funds to the NAACP",
+      "excerpt": "Now, according to TechCrunch, Levandowski has closed his Way of the the Future church, which worshiped artificial intelligence ... Levandowski left Waymo in January 2016 to set up a trucking ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2-1030102527",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2-1030102527",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602fd9ec7b571500189f643b?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2?amp",
+      "publishedDateTime": "2021-02-19T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1032,8 +1188,8 @@
       "title": "Baidu’s share price bounces back ahead of earnings",
       "excerpt": "On 18 March, Baidu’s share price fell to $83.62 on the stock’s worst day of trading — its lowest close since 2013. Over the following months, Baidu’s share price had a lacklustre performance and didn’t return to the green until 4 November,",
       "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
-      "originalUrl": "https://www.cmcmarkets.com/en/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "webUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1257,162 +1413,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
-      "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
-      "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "originalUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297635/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "publishedDateTime": "2021-02-13T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-self-driving-cars-wont-go-mainstream-until-we-solve-this-problem.md",
-      "title": "Self-Driving Cars Won’t Go Mainstream Until We Solve This Problem",
-      "excerpt": "There’s a major controversy that needs to be addressed before we can let our cars do all the driving for us, and it’s not a technical one. It’s ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60269ee58ebec1fae0b0c3cb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
-      "publishedDateTime": "2021-02-13T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots.md",
-      "title": "Baidu Launches Self-Driving Cars, Shuttles, Buses, Vending, And Even Police Robots",
-      "excerpt": "The Mobility-as-a-Service program in Guangzhou steps beyond previous deployments, in that it pulls together different transportation modalities and use cases into a single service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidsilver/2021/02/12/baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots/",
-      "originalUrl": "https://www.forbes.com/sites/davidsilver/2021/02/12/baidu-launches-self-driving-cars-shuttles-buses-vending-and-even-police-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60268c9ac54e87fd21adf5bb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Share, Development by Companies Outlook, Growth Prospects and Key Opportunities by 2030"
-    excerpt: "The Deep Learning Market Share is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given"
-    publishedDateTime: 2021-02-26T16:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-share-development-by-companies-outlook-growth-prospects-and-key-opportunities-by-2030-2021-02-26"
+  - title: "Global Automation and Control System in Healthcare Market : Trends, Top Players, Market Demands, Industry Growth Forecast: 2027"
+    excerpt: "Global Automation and Control System in Healthcare Market Healthcare industry rapidly adopting advanced technologies"
+    publishedDateTime: 2021-02-25T03:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automation-and-control-system-in-healthcare-market-trends-top-players-market-demands-industry-growth-forecast-2027-2021-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

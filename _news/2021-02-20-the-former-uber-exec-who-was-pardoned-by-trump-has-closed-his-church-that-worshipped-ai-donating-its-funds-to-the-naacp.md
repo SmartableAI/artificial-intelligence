@@ -1,28 +1,32 @@
 ---
 category: news
 title: "The former Uber exec who was pardoned by Trump has closed his church that worshipped AI, donating its funds to the NAACP"
-excerpt: "Anthony Levandowski, a former Google engineer and founder of the tech company's self-driving car project Waymo ... which worshiped artificial intelligence, and donated the entirety of its funds ..."
-publishedDateTime: 2021-02-20T15:08:00Z
-originalUrl: "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms"
-webUrl: "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms"
-ampWebUrl: "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms"
-cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms"
+excerpt: "Now, according to TechCrunch, Levandowski has closed his Way of the the Future church, which worshiped artificial intelligence ... Levandowski left Waymo in January 2016 to set up a trucking ..."
+publishedDateTime: 2021-02-19T16:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2-1030102527"
+webUrl: "https://markets.businessinsider.com/news/stocks/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2-1030102527"
+ampWebUrl: "https://www.businessinsider.com/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2?amp"
 type: article
 
 provider:
-  name: Business Insider India
-  domain: businessinsider.in
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.businessinsider.in/thumb/81114790.cms?height=275&width=412"
-    width: 412
-    height: 275
+  - url: "https://i.insider.com/602fd9ec7b571500189f643b?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "mThC9zpfQIoadX6ryNtiBBDt3euTBQd3Ub0eEYRtW3lQLah6yH1wK8UT0VwosxNWvj929ytLf8whWg1jeuLIwMqon01ZzFEJzNoNYD2IAbx5s5fYMmAdl84fgVSGh7cXNPGMsmCzmxdu5qigiJH9nDEJ3Is3Se/qKau56zhbLFOjN3RwPvYWVH6n3xyxl2T270Hq1h0Sp9Mgv6YRmtg+qpr92vlDYPOFYwsRqQ7o2PJUwrlvbRUqNw1Bny4Dqa6EuSSc8pA0LrX882eU3saWWSBbWoeEvumX7c3YmRP8avAGUjrzI8h2MINUTlTrGLXPK8kIcyThkilYQY2VORYGIVXCw6wn4RHcAsXQLdnvGU8=;tClsEF+AUTlGzFROR5ovKg=="
+secured: "9M7QSmXFwALcdscZFCZM0HXlrsRMg3cZldCEgW0JwPBSx0fRxm0qHhC7afWN5uiNNroR1T1CI8QjX26Zqzls7HVRupTPhZLwa3BjEramjHFsewJctAaFMUG7vLKMRBWKqmpKoCev05LNSUaOEYzSzQvuuswUnalNHl2dTS5w4TK4O+K6uuIc27UAwR2YFEBPXLSFWp3/vecY6L1cVpHeaUmIxtt3VUlGQsE5/9fkQLU2G4hItuEpDbDpv+Ya2rNr/6OQvjevzoStfynLdgwbQBhYoVvLl/mU2I1USKKkBsLonESTo0hY1LOeXScqJE4yQBU7Ugh9zQ2rp79ZSsC/p8pmX09n/iEaJFgYw8ZRcjE=;eYquZr7CS83Rig4zEVe4Kg=="
 ---
 

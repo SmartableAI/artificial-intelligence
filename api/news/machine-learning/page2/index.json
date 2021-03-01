@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-22-10-ways-ai-and-machine-learning-are-improving-marketing-in-2021.md",
+      "title": "10 Ways AI And Machine Learning Are Improving Marketing In 2021",
+      "excerpt": "Starbucks set the ambitious goal of being the world’s most personalized brand by relying on predictive analytics and machine learning to create a real-time personalization experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6032f3b5a9ba70101806187f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/21/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/amp/",
+      "publishedDateTime": "2021-02-21T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-deep-learning-chipset-market-size-surpass-around-us-352-bn-by-2027.md",
       "title": "Deep Learning Chipset Market Size Surpass Around US$ 35.2 Bn by 2027",
       "excerpt": "According to Nova One Advisor Reports, the global Deep Learning Chipset market size was valued at US$ 6.4 Bn in",
@@ -1372,49 +1425,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-two-accused-in-farmer-shooting-acquitted-and-walk-free-from-court.md",
-      "title": "Two accused in farmer shooting acquitted and walk free from court",
-      "excerpt": "Alan Hemmings and Antony Shrimpton are cleared of all charges but the prosecution continues against four more defendants",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsoneplace.com/8026262012/accused-farmer-shooting-acquitted",
-      "originalUrl": "https://www.newsoneplace.com/8026262012/accused-farmer-shooting-acquitted",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.liverpoolecho.co.uk/incoming/article19898986.ece/ALTERNATES/s615/0_Man-shot-in-robbery-on-Back-LaneAughtonLancashire.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T21:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "newsoneplace.com",
-        "domain": "newsoneplace.com",
         "images": null,
         "publishers": null,
         "authors": null

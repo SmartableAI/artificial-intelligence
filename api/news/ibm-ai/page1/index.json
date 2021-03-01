@@ -299,6 +299,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-20-ibm-is-reportedly-considering-a-sale-of-its-watson-health-business.md",
+      "title": "IBM is reportedly considering a sale of its Watson Health business",
+      "excerpt": "But Watson stumbled in the healthcare sector, the Wall Street Journal writes, \"in part because physicians were hesitant to adopt artificial intelligence\". In 2018, IBM laid off a percentage of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
+      "publishedDateTime": "2021-02-19T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-ibm-exploring-sale-of-its-watson-health-unit.md",
       "title": "IBM exploring sale of its Watson Health unit",
       "excerpt": "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as",
@@ -1428,49 +1471,6 @@
         "IBM AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-ibm-bringing-ai-to-programmatic-ecosystem-with-new-partnerships.md",
-      "title": "IBM Bringing AI to Programmatic Ecosystem with New Partnerships",
-      "excerpt": "The division of IBM leverages the company's Watson intelligence engine on advertising use cases. In this video interview with Beet.TV, Hlavacek explains how AI could make a step-change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/video/view/5f865b3d15b0222ad9f996cb/",
-      "originalUrl": "https://www.aol.com/video/view/5f865b3d15b0222ad9f996cb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T15:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

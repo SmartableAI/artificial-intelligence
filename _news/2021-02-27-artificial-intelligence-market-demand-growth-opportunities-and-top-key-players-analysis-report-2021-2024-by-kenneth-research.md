@@ -86,6 +86,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Healthcare Market: Analysis and Forecast, 2021-2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Global AI in Healthcare Market: Analysis and Forecast, 2021-2030\""
+    publishedDateTime: 2021-03-01T09:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g19905890/global-ai-in-healthcare-market-analysis-and-forecast-2021-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19905890"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19905890"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
   - title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
     publishedDateTime: 2021-03-01T06:15:00Z

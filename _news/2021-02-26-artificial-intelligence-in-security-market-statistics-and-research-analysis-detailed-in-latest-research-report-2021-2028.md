@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in Healthcare Market: Analysis and Forecast, 2021-2030"
+    excerpt: "Reportlinker.com announces the release of the report \"Global AI in Healthcare Market: Analysis and Forecast, 2021-2030\""
+    publishedDateTime: 2021-03-01T09:39:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g19905890/global-ai-in-healthcare-market-analysis-and-forecast-2021-2030"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19905890"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19905890"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 56
   - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 - 2024 | By Kenneth Research"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-02-26T16:17:00Z

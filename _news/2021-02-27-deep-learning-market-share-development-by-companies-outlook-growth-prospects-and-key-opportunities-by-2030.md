@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-sha
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-share-development-by-companies-outlook-growth-prospects-and-key-opportunities-by-2030-2021-02-26"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -30,20 +30,31 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Chipset Market 2020 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2025"
-    excerpt: "Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 aims"
-    publishedDateTime: 2021-02-24T21:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2025-2021-02-24"
+  - title: "Artificial Intelligence In Healthcare Market Leading Companies Capabilities, Goals and Strategies During 2020"
+    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
+    publishedDateTime: 2021-03-01T00:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
+    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
+    publishedDateTime: 2021-02-26T08:50:00Z
+    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
+    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
+    type: article
+    provider:
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 54
 
 secured: "08qbycuENxto/ubzBYh/RhIGcwwEReF11TTK4UXuMv6EtOkNfKnnD96h+YmesOaExDf/w5Ibd41hdw7hojjne0WU7CptgQm7TWRkcfZoTHD5fhOf4qlTYVcvYqva03i+K06ed+tfPwT6ozkPpMmndxJsxxRr1JC9V601d3TkjAQMoxaC2msUlsMaY0X0ZB/KjxtSlwSLbknc/C5erv4vJ5WSZcO3riHNG9MPd5kTgEH0Yz3Z4KKKHiXGH+pvD8+U6qCfUDfF9r1rkcbv63xfD9OgR6elQTQsDPnNI+irwMSBdeWwGLIZ/Pm8RCpmP4wQvIynYpwI9IYIQL6V2IR5R4N6OYjTHmuxEnBDolOh01I=;fH3828xc8cBqFjCmVdSefw=="
 ---

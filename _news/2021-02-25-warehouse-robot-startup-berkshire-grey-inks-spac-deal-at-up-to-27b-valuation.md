@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2021/02/24/warehouse-robot-startup-berksh
 webUrl: "https://siliconangle.com/2021/02/24/warehouse-robot-startup-berkshire-grey-inks-spac-deal-2-7b-valuation/"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1061
     height: 584
     isCached: true
-
-related:
-  - title: "SoftBank-Backed Robotics Firm Berkshire Grey to Go Public Via $2.7 Billion SPAC Deal"
-    excerpt: "SoftBank-backed robotics firm Berkshire Grey said on Wednesday it has agreed to go public through a merger with blank-check firm Revolution Acceleration Acquisition Corp in a deal valuing the equity of the combined company at $2."
-    publishedDateTime: 2021-02-24T20:24:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2021-02-24/softbank-backed-berkshire-grey-to-go-public-via-27-billion-spac-deal"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 57
 
 secured: "VcJbxCP20qNHmTPtfHg+BC42pqgaPpHMV1K3YTycICC/mxU2cIJtG7jH6Y6Z2avEviuuS0FUpAVELSwA5j4udhHEnmpnrk/m5Q6STs0UXVqFiht548wA79XvthqKJZAPXywxv475+Au1mBFy6/pmtN3p+GOuYXKN31e5Gj8tSkQuwwwjFUCXdo8wKo3SNasQHHJ7ghJRurULEotYgx+hqwYqasApK9I5x7z1LGw0xvuocT3TkjBRabi+njw4fqURODY82COcrI1DNevt2JICkQqLbP8UPcj4dqOlpprRPSMzkdSTq7V7yvQv7GqOibI0oIKXJ8QCEDvDMZwhqcLWgZlizXwRqzRQ9MBUfZR1uj9V02irqOlIhrxKBDHGX5PzuKHJp27uRxQEPJCcOmfCHtdYsJFTAezuIGsXwqRnx+czA8POpYI5YqXr1axVmG+iJ8KiZWaQPdJHIUfqg0620fN1R7g2melZIpYlVYv5t7eP/VEB+CRCIMRa85nWX9jySg4npTg0FJpgKmx+AlL56w==;LwwWrHU8GAgki5nXZOd+Dw=="
 ---
