@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-01-25-how-2021-will-reshape-southeast-asias-financial-services-ecosystem.md",
+      "title": "How 2021 will reshape Southeast Asia’s financial services ecosystem",
+      "excerpt": "Across Southeast Asia, financial institutions faced challenges such as squeezing margins, increasing costs, heightening asset risk and reducing demand in some segments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-2021-reshape-southeast-asias-financial-services-ecosystem-thung/",
+      "originalUrl": "https://www.linkedin.com/pulse/how-2021-reshape-southeast-asias-financial-services-ecosystem-thung/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGn-n6dictFEA/article-cover_image-shrink_720_1280/0/1611546037655?e=1617840000&v=beta&t=-aFJCwFtY7K1UuEHb8vJ9LESwZvr5CoWnWaq1fjn-yU",
+          "width": 1180,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-24T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-25-unboxing-for-business-overlord-3d-printer.md",
       "title": "Unboxing for Business: OverLord 3D Printer",
       "excerpt": "This time on Unboxing for Business we’re unpacking DreamMaker’s OverLord 3D Printer. We’ve been told it’s one of the more beautiful 3D printers out there. Is that true? Let’s find out ...",
@@ -1121,49 +1173,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-minneapolis-a-step-closer-to-banning-facial-recognition-technology.md",
-      "title": "Minneapolis a step closer to banning facial recognition technology",
-      "excerpt": "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities.",
-      "sourceUrl": null,
-      "webUrl": "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "originalUrl": "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MzMyNDc4ODA1MjU1ODE0/minneapolis-skyline.jpg",
-          "width": 620,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "publishedDateTime": "2021-01-22T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bring Me The News",
-        "domain": "bringmethenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

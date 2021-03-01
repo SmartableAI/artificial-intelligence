@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Robots Market Size, In-Depth Qualitative Insights, Explosive Growth Opportunity, Regional Analysis Forecast to 2027"
-    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
-    publishedDateTime: 2021-02-24T18:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-in-depth-qualitative-insights-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Image Recognition Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2028, Fortune Business Insights"
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
     publishedDateTime: 2021-02-25T05:30:00Z

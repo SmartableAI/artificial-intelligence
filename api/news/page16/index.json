@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-13-a-new-company-pursues-total-recallstarting-with-zoom.md",
+      "title": "A New Company Pursues Total Recall—Starting With Zoom",
+      "excerpt": "Research shows ... luminaries from Facebook, Google, and Y Combinator, approve of Siroker’s gradual approach to total recall. “When people talk about merging with AI or computers, they always ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
+      "originalUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6025d44412d470b83c1a4fc4/master/pass/business_plaintext_memory.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
+      "publishedDateTime": "2021-02-12T18:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-meet-russias-new-killer-robot.md",
       "title": "Meet Russia’s New Killer Robot",
       "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
@@ -1124,40 +1176,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics.md",
-      "title": "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics",
-      "excerpt": "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics/",
-      "originalUrl": "https://www.financialbuzz.com/thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

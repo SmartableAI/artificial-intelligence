@@ -3,8 +3,8 @@ category: news
 title: "Women-focused VC firm Her Capital invests in AI video interviewing HR startup"
 excerpt: "With the new funds, Neufast plans to expand its product suite as well as expand into the Greater China and Southeast Asia markets."
 publishedDateTime: 2021-02-26T18:16:00Z
-originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?_escaped_fragment_="
-webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?_escaped_fragment_="
+originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?comments=true"
+webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?comments=true"
 type: article
 quality: 44
 heat: 44
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "3RuE+M48+cdbBB8/Kc3X1h1BL+mCQmQQgo3eZD/kx2H9SXmT/nKKCCIBqH4o0ap2k5tI20l6wJzF2P40QoI/5s2h+7m7evccMfa3I519gLAamwsYm7T+MS8sjpDJCfZQh24ufRqgIgndGJs4h/li9PqntKO+5UmXx5Q2TBzWVyeDr9+oaSuMIuH1slJE2TSGT9PrS/vjc7HhUDDGoce2ipyy/bEeUbkJxoCE2DNiuPAOoaqRW2L1xlvXJaBpYhrVyxUyPyWrn2/mOm9fdayvp0YKdA8gPFSvqFLUqf9mCZQErbO2Fihc5ORBw7pTwnYt9eD8wvXlQSTnsvd23LOOR6d0PrP98DdvTiCy/bLs+c7E4rb427bwWEX2oisnsN+1YakLoC4/cZ8HzldByhAuhPpmOcy5HcJS69Fsgjw/CG9PPNJhD7JosLAGMUBOb91qlOBfPD6jWJcyrInRgxb0iFI/qJKqFj372uTZFP66EtZNHyX6pWWqtexiPE/YkhOK/LS0NtJx++5pmq3PLXzYQQ==;2EWZlq02n5feZD4Ogah0/Q=="
+secured: "qxTr11XEODc0ifR8yvfO7W9iakifei42Fy9B5zJYVuUV4EMbqvi59EzOBGwo1JMRaAuUX+HI5Z8BK7gFgfb8ruofEuzNkFWxpqVxv7T/BB8K9beKNpNs4Wv2j+LtXIkDCBx4uz/vp2PPGlksKKqgZ0XFER4+O6g0YbTfeXXHSV33k3FX1qXKeMmp2F8NjU79D4GN8TPquEnoW9U+D8Ov+KLREInMzSsBySkAi9/upnrEBjb10WJ64gIjEV4XoPCqSZnz9rwWUTpUgTcanMsAuXjwRfZCNvpMxwen489qn2dz4Ri28LfTPoPs3ThoRdBR6WxuzpHMzcZc0wmsc0Hjoaii3ulywHEo2CVV6GhOvNPvpTGO7emuvEcTZ0TlYUPLORwM+dHm7jL9KY0tVJUAkvVDU6H5gtA6ihixbuthfeKwYWTKDUzegR3pCtPaPDnwSXPjy6IVh+kAzWtRI3dedDlC3bVPpP6o4Fv1aHmX1hdYOhcMp4znDZLMTEpC5AMO5HVA5AQuSQKoR07VSeVHZA==;QrAx8XESBs9OLsgtrWoedA=="
 ---
 

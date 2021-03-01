@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_254131481.jpeg"
         width: 1200
         height: 759
-        isCached: true
-  - title: "After years of hype, IBM wants to sell Watson Health. What does that mean for health AI?"
-    excerpt: "After years of hype about Watson Health, IBM executives are reportedly exploring options to sell the health care AI tool. Advisory Board's Andrew Rebhan explains what happened—and what the potential sale could mean for the health care industry's AI adoption."
-    publishedDateTime: 2021-02-24T17:25:00Z
-    webUrl: "https://www.advisory.com/blog/2021/02/ibm-watson"
-    type: article
-    provider:
-      name: Advisory Board
-      domain: advisory.com
-    quality: 45
-    images:
-      - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/blog_post_square.jpg?rev=db1071ffb3ab4897a93a0a5de2f35c65"
-        width: 360
-        height: 360
         isCached: true
 
 secured: "KqmHQKdbYE8p3ukyFFt3Jt9SCUPUlqLcmoWwuaMd5EpY7/bVg2yIuGBIxUouJJNYf9sUYw1oJ7xUXDiLn7tTzwWHilD5V3LH9bn7dPvSIjaOd9hZkQI0dbbOJhaH8vTC0ulXTKdFU2E+Gh2DoT2w7fnncvCnYcHnCdixKFN/adBzVryzQ6wy31DIc89pxtliZO00xI0VG3/HdkvLQNynuEam5eDHO8kabo6gyicqIIm6EbCWIZolDzYrOF7At0dDr70YHoRtJ71ydfK5nxOlEZgC0SfINGfuqKuCCyEn2WANkMeOPc7ZdNGJsAPyksV0YRtUE60bZqD2pZdLXTBwrm3BD58eoihYe4XZ8kFvKYTksc7J53MM1dPOmhADVhjLfi3Mn5sQbRt7BAinIcmiypBhxI4waKIUhQTjoXbeZRv/UWM8V6n9iRxFdhq4+DU9+sFqWpKKjo/TLMAeykYHn6z4Y9K5xe92Rmdz8Z+6FOT8RdUT+h9XUKatkMc3WiCYOxIaWOT5LNas72aYXK+7kQ==;iOZyLtC1CH8qWhQeNmHe7Q=="

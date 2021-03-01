@@ -69,15 +69,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
-    excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."
-    publishedDateTime: 2021-02-24T18:30:00Z
-    webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 36
 
 secured: "KnIP8pfux7FzcF2ZafXkmMmzmmAaeJRBK7FoUrPVlmrLWwoxFyjX6krPCEbQ92DTXF8FeNzV35iZkNB3/qtu64x45Y7blLe9N/pYWTxXPcD6Nmy+JW+Vms1UB3U8nwpgeJenZCXZn1Dfe/wdERtnHdUuEyqkeht0kDzTMadRzyfZaU5lUbFYhtUHnjozzsOao55Vc+yDnP5gHoitduSGEXq+/r00T7N82VvLS/j7MVlgAtsECDc8Pd3cl3t8D2DbGQF6MRRppSXRpbX0pdeqZRDBE4i2KowmrcpJsLa8L47AGejR2IrHtGcko7Oz9jHEnt5aw0+sdPJu+cdu/CDx6grEvUFI1aU/n35T5I0cYYwK5HKm0XsN7sGn4ygH4iFdlBoBAJNv4R1dfHh/hRF6Pbb7p80qYi6W5bRkayluHTTjln4uEbG+AWlYnwAOAzLFCfrbnQQRFcySKXaMGEkk+///9GQ46uP1Fh+Y0vFaStIoAv/5QK/WHTBXX58NEJOzsz+ULE6NX35g0a3ENBi2qA==;Y0LFRlNo7MHYckOKE2zCew=="
 ---

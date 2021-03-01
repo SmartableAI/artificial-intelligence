@@ -7,8 +7,8 @@ originalUrl: "https://www.usnews.com/news/technology/articles/2021-02-24/softban
 webUrl: "https://www.usnews.com/news/technology/articles/2021-02-24/softbank-backed-berkshire-grey-to-go-public-via-27-billion-spac-deal"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Warehouse robotics vendor Berkshire Grey goes public in SPAC deal"
-    excerpt: "Warehouse robotics and automation provider Berkshire Grey will take the company public, using a financial maneuver known as a special purpose acquisition company (SPAC) that is known as a faster way to begin selling shares than a traditional initial public offering (IPO),"
-    publishedDateTime: 2021-02-24T18:54:00Z
-    webUrl: "https://www.dcvelocity.com/articles/49668-warehouse-robotics-vendor-berkshire-grey-goes-public-in-spac-deal"
-    type: article
-    provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 54
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/2021/02/24/berkshire_grey_bsg_dynamic_parcel_sortation_thumb_1_2x.jpg?height=635&t=1614192163&width=1200"
-        width: 868
-        height: 635
-        isCached: true
   - title: "Warehouse robot startup Berkshire Grey inks SPAC deal at up to $2.7B valuation"
     excerpt: "Berkshire Grey Inc., a developer of warehouse robots backed by investors including Khosla Ventures and NEA, today announced plans to go public through a SPAC merger. The Bedford, Massachusetts-based startup expects to raise as much as $413 million through the deal."
     publishedDateTime: 2021-02-24T22:49:00Z

@@ -54,7 +54,7 @@
       "originalUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -397,49 +397,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-25-softbank-backed-robotics-firm-berkshire-grey-to-go-public-via-27-billion-spac-deal.md",
-      "title": "SoftBank-Backed Robotics Firm Berkshire Grey to Go Public Via $2.7 Billion SPAC Deal",
-      "excerpt": "SoftBank-backed robotics firm Berkshire Grey said on Wednesday it has agreed to go public through a merger with blank-check firm Revolution Acceleration Acquisition Corp in a deal valuing the equity of the combined company at $2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-02-24/softbank-backed-berkshire-grey-to-go-public-via-27-billion-spac-deal",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-02-24/softbank-backed-berkshire-grey-to-go-public-via-27-billion-spac-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026.md",
       "title": "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026",
       "excerpt": "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue",
@@ -644,17 +601,17 @@
       "title": "Automated eats: Meet the Silicon Valley robot serving healthy grain bowls for $4.99",
       "excerpt": "Mezli, a local startup founded by current and former Stanford students, wants to use robotics to make cheap, convenient, high-quality food available to the masses.",
       "sourceUrl": null,
-      "webUrl": "https://www.paloaltoonline.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
-      "originalUrl": "https://www.paloaltoonline.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
+      "webUrl": "https://almanacnews.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
+      "originalUrl": "https://almanacnews.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.paloaltoonline.com/news/photos/2021/february/23/89822_col.jpg",
-          "width": 2400,
-          "height": 1948,
+          "url": "https://almanacnews.com/news/photos/2021/february/23/50825_col.jpg",
+          "width": 2000,
+          "height": 1500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -664,11 +621,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T08:35:00-08:00",
+      "publishedDateTime": "2021-02-23T10:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Palo Alto Weekly",
-        "domain": "paloaltoonline.com",
+        "name": "Almanac",
+        "domain": "almanacnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1382,6 +1339,58 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-artificial-intelligence-can-bring-skynet-to-life-reality-or-myth.md",
+      "title": "Artificial intelligence can bring Skynet to life, reality or myth?",
+      "excerpt": "Is it possible that, like Skynet in the Terminator movie, the machines become aware of themselves and wage a war against humans to exterminate them? Should we fear artificial intelligence or is it just a myth?",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365683",
+      "originalUrl": "https://www.entrepreneur.com/article/365683",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613592356-skynet1.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365683",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365683",
+      "publishedDateTime": "2021-02-18T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

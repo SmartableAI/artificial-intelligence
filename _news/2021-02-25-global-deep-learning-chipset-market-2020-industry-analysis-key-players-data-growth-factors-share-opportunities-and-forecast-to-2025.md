@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
-    excerpt: "A recent market intelligence report on Artificial Intelligence in the Education Sector market takes a closer look at the major driving forces, restraints and opportunities anticipated to shape the future of the Artificial Intelligence in the Education Sector market for the forecast period,"
-    publishedDateTime: 2021-02-27T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-02-26"
+  - title: "Deep Learning Market Share, Development by Companies Outlook, Growth Prospects and Key Opportunities by 2030"
+    excerpt: "The Deep Learning Market Share is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given"
+    publishedDateTime: 2021-02-26T16:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-share-development-by-companies-outlook-growth-prospects-and-key-opportunities-by-2030-2021-02-26"
     type: article
     provider:
       name: MarketWatch

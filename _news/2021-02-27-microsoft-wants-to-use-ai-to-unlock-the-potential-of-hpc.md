@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-t
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -70,15 +70,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
-    excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."
-    publishedDateTime: 2021-02-24T18:30:00Z
-    webUrl: "https://www.newswiretoday.com/news/174857/Nexans-to-Electrify-the-Future-through-Digital-Technology-using-Microsoft-Azure-AI-and-Analytics/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 36
 
 secured: "4NYMK1+1m/cJslqEcsVUbRq4xKdl9oA4B3xPzyF1c6N9VBiF2YMGMjj1QOHa53/ARt+1vcnuLdPi631fYehR3KzwOOc6R/uB1N04Joo6QP3D6o+lkMfNkBCY4ZOyr5wUuRuS/uRxNVQ3RgJ6/u86j2hNX58k4xi/d8ShgBAciGBcha+UGempL6Q7CSNx1IO3uiEeEFnfH26ksLs7PcM9+a09nOB8sQjxTxk/2j0E4B6RJKw0Msdw1veoU56UrQzxPzgfYmOWMbTCYwhB1pKDVwgSra1pCuxeHPMl3ggk5n/KXpfuQsnOpBNC8b7EMFC83Hfr28BXj2pe8DIuPg20vGqvkknbx+AJKqKEYuJH4aIVl3f8sSRNWq1MFR7QrZFmi1I68RD4Q1Pf6snfHcalNpZgmubT/MyFfvmZVAoqKndVSOakR09Ss4YHUvVaelWPqeLxJrZnlBh6d4HSqQufyHXFv+/gDOZWPfDimb4IdqsNV+d5pCikKmfy9DjhkO3WjyqU7bQCwlTfL7+2kJjmpg==;O2yLwSf77nsVWmbY4qfBJQ=="
 ---
