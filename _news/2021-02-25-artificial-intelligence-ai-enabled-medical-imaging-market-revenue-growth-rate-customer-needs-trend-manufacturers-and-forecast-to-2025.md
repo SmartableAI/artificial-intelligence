@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-02-25T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2028-fortune-business-insights-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "3Q/58SnbDweGjwbXgEkrx3r9PVdh8DrsugSUBOvFd1mkJjshihmgAWDgBxIof1jxyC8iEZCyvnbABw19aRa1XNIvdACokIEFs/cAj+O2b4VfmK/1oaFWw3V88l13pvOPwu/FjNxELBbuaEiXI0cz/37vsH2A9j8tAAZFk32cJ+0y9x6A04jf7CLz3QZLweZFVnKLC9gK77x0apDHiy0ihEsVJa51g8j5GrtDdJMNdlEv+VVE/w2HDToIZ1LvbFB02ZJZw5gVWfeYX2DjqMTvdMgxEMvlRa2c6qqUT/UbPCVnIOZcHAodk25H5JpajimhePO+vOrv16s2mB85mMOcjyW+MnNCK3ivoe0bdt0p/hk=;wy9ThcT7zD02fIykd/G6xQ=="
 ---

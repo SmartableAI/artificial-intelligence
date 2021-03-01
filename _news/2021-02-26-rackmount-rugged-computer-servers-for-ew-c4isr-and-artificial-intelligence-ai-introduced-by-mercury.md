@@ -26,20 +26,6 @@ images:
 related:
   - title: "Rugged computer for artificial intelligence (AI) uses that can use vehicle power introduced by Neousys"
     excerpt: "The Nuvo-8108GC-XL operates reliably in shock and vibration conditions, and can be deployed on a vehicle and run on vehicle electrical power."
-    publishedDateTime: 2021-02-25T06:30:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14198202/rugged-computer-power-artificial-intelligence-ai"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 38
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2021/02/Neuosys_25_Feb_2021.60363c299010e.png?auto=format&fit=max&w=1200"
-        width: 600
-        height: 462
-        isCached: true
-  - title: "Rugged computer for artificial intelligence (AI) uses that can use vehicle power introduced by Neousys"
-    excerpt: "The Nuvo-8108GC-XL operates reliably in shock and vibration conditions, and can be deployed on a vehicle and run on vehicle electrical power."
     publishedDateTime: 2021-02-26T12:01:00Z
     webUrl: "https://www.intelligent-aerospace.com/home/article/14198351/rugged-computer-for-ai-artificial-intelligence"
     type: article

@@ -85,20 +85,6 @@ related:
         width: 768
         height: 403
         isCached: true
-  - title: "Emotion Detection and Recognition (EDR) Market Size to Cross $ 64.7 billion by 2027"
-    excerpt: "such as facial recognition, biosensing, speech and voice recognition, pattern recognition, and machine learning. Request a sample of this premium report at: https://www.marketstudyreport.com/request-a-sample/2942178/?utm_source=Marketwatch.com&utm_medium ..."
-    publishedDateTime: 2021-02-25T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-size-to-cross-647-billion-by-2027-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "ZTE showcases under-display facial recognition system"
     excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
     publishedDateTime: 2021-02-25T08:42:00Z

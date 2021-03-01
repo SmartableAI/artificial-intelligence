@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
 type: article
 quality: 89
-heat: 160
+heat: 150
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/02/Dubai-Airports-biometrics.jpg"
         width: 768
         height: 403
-        isCached: true
-  - title: "Emotion Detection and Recognition (EDR) Market Size to Cross $ 64.7 billion by 2027"
-    excerpt: "such as facial recognition, biosensing, speech and voice recognition, pattern recognition, and machine learning. Request a sample of this premium report at: https://www.marketstudyreport.com/request-a-sample/2942178/?utm_source=Marketwatch.com&utm_medium ..."
-    publishedDateTime: 2021-02-25T06:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-edr-market-size-to-cross-647-billion-by-2027-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Moscow to expand metro facial recognition network"
     excerpt: "Moscow authorities have allocated more than US$10mil (RM40.38mil) to purchase and install across the city’s sprawling metro system high-definition cameras that can recognise faces and track fast movements,"
