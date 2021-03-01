@@ -14,7 +14,7 @@ website: https://t.co/c0ndp2bkKs
 twitter:
   username: ID_AA_Carmack
   url: https://twitter.com/ID_AA_Carmack
-  followers: 909960
+  followers: 909965
 
 topics:
   - AI
