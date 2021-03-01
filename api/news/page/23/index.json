@@ -2,6 +2,100 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-09-bengaluru-airport-bags-voice-of-the-customer-global-recognition.md",
+      "title": "Bengaluru airport bags 'Voice of the Customer' global recognition",
+      "excerpt": "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
+      "originalUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/02/09/600x338/Bangalore_International_Airport_Limited_1612853485727_1612853517355.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
+      "publishedDateTime": "2021-02-08T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-artificial-intelligence-software-detects-ocean-plastics-from-the-air.md",
+      "title": "Artificial intelligence software detects ocean plastics from the air",
+      "excerpt": "As millions of tons of plastic wash into the ocean everyday, scientists have their work cut out for them in trying to keep tabs on its whereabouts, but they may soon have a useful new tool at the their disposal.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
+      "originalUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/518a071/2147483647/strip/true/crop/531x354+95+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F33%2F15%2Fe832521e480ab36b0212d149d76a%2F255516-web.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
+      "publishedDateTime": "2021-02-08T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-22-million-seed-round.md",
       "title": "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round",
       "excerpt": "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2.",
@@ -424,6 +518,40 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us.md",
+      "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
+      "excerpt": "--(BUSINESS WIRE)--BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210208005050/en/BAE-Systems-Debuts-Groundbreaking-AI-Products-on-AWS-GovCloud-US",
+      "originalUrl": "https://www.businesswire.com/news/home/20210208005050/en/BAE-Systems-Debuts-Groundbreaking-AI-Products-on-AWS-GovCloud-US",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -920,40 +1048,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us.md",
-      "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
-      "excerpt": "BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19541879/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19541879",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19541879",
-      "publishedDateTime": "2021-02-08T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-when-self-driving-cars-get-embroiled-in-massive-car-pileups.md",
       "title": "When Self-Driving Cars Get Embroiled In Massive Car Pileups",
       "excerpt": "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies.",
@@ -1107,92 +1201,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace.md",
-      "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
-      "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "originalUrl": "https://www.wicz.com/story/43308432/praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://EINPRESSWIRE.images.worldnow.com/images/20347810_G.png?lastEditedDate=1612776009000",
-          "width": 900,
-          "height": 505,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 40 WICZ TV",
-        "domain": "wicz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-machine-learning-could-aid-mental-health-diagnoses.md",
-      "title": "Machine learning could aid mental health diagnoses",
-      "excerpt": "A way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms has been developed by researchers at the University of Birmingham.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/27-machinelearn.jpg",
-          "width": 1920,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-aid-mental-health.amp",
-      "publishedDateTime": "2021-02-08T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

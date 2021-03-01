@@ -140,20 +140,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
-    excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-24T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-industry-size-business-opportunities-top-key-players-and-global-analysis-by-forecast-to-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Emotion Recognition and Analysis Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2025"
     excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Emotion Recognition and Analysis Market 2020 by Company, Regions, Type and Application, Forecast to 2025 that provides a detailed analysis of growth factors of the industry as well as gives an analysis of the market share,"
     publishedDateTime: 2021-02-24T18:47:00Z

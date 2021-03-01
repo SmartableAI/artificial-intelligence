@@ -394,33 +394,24 @@
     {
       "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
       "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
-      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's enterprise-ready platform will use Microsoft technology to power its products,",
+      "excerpt": "The engine from Cleareye.ai also uses computer vision, part of Azure Cognitive Services, Azure Kubernetes Service, and other scalable computing and analytical services from Microsoft to fulfill ...",
       "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19640933.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19640933.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T06:05:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19559723",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723",
+      "publishedDateTime": "2021-02-09T05:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

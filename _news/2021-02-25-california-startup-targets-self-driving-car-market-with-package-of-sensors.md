@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/TR20210224nL1N2KT3GDX1/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/TR20210224nL1N2KT3GDX1/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "California startup targets self-driving car market with package of sensors"
-    excerpt: "Neural Propulsion Systems, or NPS, on Wednesday released a product aimed at packaging all the sensors needed to guide a self-driving vehicle, a departure from most other players in the field."
-    publishedDateTime: 2021-02-24T11:00:00Z
-    webUrl: "https://www.reuters.com/article/nps-lidar-idUKL1N2KT3GD"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2KT3GD"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2KT3GD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 52
 
 secured: "Qc3egSa+y0OhkC2NC2pjI9DQnT2d+BObb5hVH2XS1ApsPRUwDOQsdJtRlAYqyBkAhbdb0nPSap5OiOwBQxv+v5lx06CfWHmg5IjuEMmJCdr89VTpTN0NF9nW2Qi4u5ia3N8BEAsdBcnmCYPkHZLTJxp2LmPiweW8VWRJsTQmql8c22FNu0MU2rg5m0dIT7oZeM8kOgodv9ZgOyBLj5n8C145PTg+b/lYPM2qNzYSq/fI4y8588Aakpnja0KzJZ3j3000vGu11YKhMtw0/3RNausa17rhKutMwY4f7uZ0qZQYS6sJbLSv+YgsxqHgk6EIdpzA9zcB7KZFYt6oSIAevvT6fw2Q+wjdNpMUuJWrrcI=;XbUon1ZiI6lwdtlkv3MYYw=="
 ---

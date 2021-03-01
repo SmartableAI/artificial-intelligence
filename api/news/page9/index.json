@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-19-new-project-investigates-artificial-intelligence-for-sustainable-energy-integration.md",
+      "title": "New project investigates artificial intelligence for sustainable energy integration",
+      "excerpt": "The collaboration includes H2GO Power, EMEC, and Imperial College London for H2 tech. A new research project has been launched for examining and demonstrating",
+      "sourceUrl": null,
+      "webUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
+      "originalUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hydrogenfuelnews.com/wp-content/uploads/2021/02/Artificial-intelligence-for-sustainable-energy-Businesss-Research-AI.jpg",
+          "width": 875,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
+      "cdnAmpWebUrl": "https://www-hydrogenfuelnews-com.cdn.ampproject.org/c/s/www.hydrogenfuelnews.com/artificial-intelligence-for-sustainable-energy/8543157/amp/",
+      "publishedDateTime": "2021-02-19T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hydrogen Fuel News",
+        "domain": "hydrogenfuelnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-will-robots-rule-the-world-new-haven-author-has-the-answers-to-artificial-intelligence-questions.md",
+      "title": "Will robots rule the world? New Haven author has the answers to artificial intelligence questions",
+      "excerpt": "Steve Shwartz isn’t particularly worried about artificial intelligence, and if anyone should know whether or not to panic, it’s him. He’s been working in artificial intelligence since 1979, when he enrolled in a post-doctorate program at Yale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
+      "originalUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/54/00/20627507/3/rawImage.jpg",
+          "width": 1900,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Middletown Press",
+        "domain": "middletownpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
       "title": "The Power of Artificial Intelligence (AI)",
       "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
@@ -319,8 +405,8 @@
       "title": "IBM exploring sale of its Watson Health unit",
       "excerpt": "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=mw_latestnews",
+      "webUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1102,111 +1188,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-4-ways-to-bridge-the-ai-integrity-gap.md",
-      "title": "4 Ways To Bridge The AI-Integrity Gap",
-      "excerpt": "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg",
-          "width": 588,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "publishedDateTime": "2021-02-18T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-cambrian-ai-landscape-intel.md",
-      "title": "The Cambrian AI Landscape: Intel",
-      "excerpt": "Domain Specific Architectures. Pat Gelsinger will likely double down in this field to increase the company's presence in AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e9ea0f929fbb1d0e6d1da%2F0x0.png%3FcropX1%3D0%26cropX2%3D864%26cropY1%3D37%26cropY2%3D524",
-          "width": 864,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/02/18/the-cambrian-ai-landscape-intel/amp/",
-      "publishedDateTime": "2021-02-18T09:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -59,20 +59,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "Why driverless cars are paradise on wheels for some"
-    excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
-    publishedDateTime: 2021-02-24T09:59:00Z
-    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://images.mktw.net/im-301724/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Driverless bus hits streets of Malaga"
     excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
     publishedDateTime: 2021-02-26T00:36:00Z
@@ -104,6 +90,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242"
         width: 600
         height: 360
+        isCached: true
+  - title: "Driverless bus hits streets of Malaga in southern Spain"
+    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
+    publishedDateTime: 2021-03-01T01:19:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/01/driverless-bus-hits-streets-of-malaga-in-southern-spain"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/28/1060200.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "NWearw51w18bs2sZPRLoIpNX6oa10w0tDea9CxGTyl0w+4TNXWFyHTYk3rNzTsUmGvcqqHYA0fY5DcJTOSBAXt0l9UJdUKj6u5K0YIMvjgvUXKoV5NnIBSc54MfoQ5qDow9g46s6i0U9WnrKb2GOi2nW/VEtSXgWaB9PeNqdAR/SiP/XEdUu+5X6T5Wr1Avx2dKZnZWKhA5n4327HcDzP1Jy2lsvpOo9jEkzdEO0Perr8VD6wrbzarEjE6x1TxxoW9ACukOYV4AqGfwT+6Es6pmpAF5wSOmNA0DDTLJO5dpfZITgxPNUG8hRzQ30PD7OpRm2SgEJ54AlazvGflHCRjJN21nzwfetPgZnDfmJjEOWTts/tLVA52XV0eFcA2f3ww/rK1R5gGHKHk6LYlKkD840U6UY7zTtKVZSQ6Qt7jOM5fOvJZ7p1QKaSobn7HqyXjMUr82Iy3AAxgtVnxESQBaGuU4xIlWPRoSIuBMMJREGJcro/dLC8SAxrOJr8r/+SdmyqCZw+oCiq5eNOWUK1g==;TSk69tx+ESdAcGnSmXDiYA=="

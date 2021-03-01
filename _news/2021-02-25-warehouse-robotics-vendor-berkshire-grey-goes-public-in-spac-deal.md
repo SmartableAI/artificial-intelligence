@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Warehouse Robotics Provider Berkshire Grey to Go Public Through SPAC Deal"
-    excerpt: "Logistics automation provider Berkshire Grey Inc. is planning to go public through a merger with special-purpose acquisition company Revolution Acceleration Acquisition that would value the robotics company at $2."
-    publishedDateTime: 2021-02-24T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400"
-    ampWebUrl: "https://www.wsj.com/amp/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 103
-    images:
-      - url: "https://images.wsj.net/im-303382/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "SoftBank-Backed Robotics Firm Berkshire Grey to Go Public Via $2.7 Billion SPAC Deal"
     excerpt: "SoftBank-backed robotics firm Berkshire Grey said on Wednesday it has agreed to go public through a merger with blank-check firm Revolution Acceleration Acquisition Corp in a deal valuing the equity of the combined company at $2."
     publishedDateTime: 2021-02-24T20:24:00Z
@@ -63,20 +47,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/berkshire-grey.png"
         width: 1061
         height: 584
-        isCached: true
-  - title: "Berkshire Grey, a Leader in AI-Enabled Robotics and Automation Solutions, Announces Business Combination with Revolution Acceleration Acquisition Corp"
-    excerpt: "Berkshire Grey (“BG” or the “Company”), a developer of integrated artificial intelligence (“AI\") and robotic solutions for e-commerce, retail replenishment, and logistics, has entered into a definitive agreement with Revolution Acceleration Acquisition Corp (Nasdaq: RAAC) (“RAAC”),"
-    publishedDateTime: 2021-02-24T11:01:00Z
-    webUrl: "https://www.oaoa.com/news/business/berkshire-grey-a-leader-in-ai-enabled-robotics-and-automation-solutions-announces-business-combination-with/article_c59edfb5-a5c7-5d77-8b11-6cd38e258a99.html"
-    type: article
-    provider:
-      name: Odessa American
-      domain: oaoa.com
-    quality: 31
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/f/57/f57ca8c0-219b-5236-8173-4debcd232f82/603638bfb3dce.image.jpg?resize=960%2C541"
-        width: 960
-        height: 541
         isCached: true
 
 secured: "Bhm1GiTp3AZ0Y/B2ezO939ltP6O5iy9ioNWrHFaYxd5LT9qwDm1KQwhJFcOwAyQUEES/AnXiUPB2n29ezocuGRM3U5wFzjoty1v9Efev2HZJMP/oQkMtTs+7jbSA+TuYtzvzPve0xurTkSxls2gqkm7Q96W111EpeDFF3GekJ/i8EAU2Atoj2YLh3Nt80xwomxj4huL2dxOVc/qfJDn8cPVq9Q+LncNH1Z7V74eEu5MDOomVtawJKflN5xrXgGx7j8UzBHYLdQ0YmPAy9waVvloazyI3a0eOIThySMWzL5/3jQSGiQDwziPhfoY9QpU5inlxrnqD1UwOgp4gGvsuDCY0AMj42Hq+nQyiKskeTCM=;Bnf3fwMyK+blgLDV2SxuHw=="

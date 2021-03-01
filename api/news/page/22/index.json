@@ -2,6 +2,101 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-10-toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others.md",
+      "title": "Toyota, Denso team with Aurora on self-driving cars for Uber, others",
+      "excerpt": "DETROIT (Reuters) - Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0",
+      "originalUrl": "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550913326&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181IR",
+          "width": 781,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A92G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0",
+      "publishedDateTime": "2021-02-09T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-massachusetts-based-parlance-corporation-partners-with-hendrick-health-to-provide-speech-recognition-solutions.md",
+      "title": "Massachusetts-based Parlance Corporation partners with Hendrick Health to provide speech-recognition solutions",
+      "excerpt": "With the recent purchase of two hospitals, Texas-based Hendrick Health understands the importance of quickly connecting and unifying services throughout the organization. To create a consistent brand experience and superior service for the organization’s callers,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-months-after-buying-uber-self-driving-project-aurora-signs-toyota-deal.md",
       "title": "Months after buying Uber self-driving project, Aurora signs Toyota deal",
       "excerpt": "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have ...",
@@ -355,49 +450,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
-      "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
-      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's enterprise-ready platform will use Microsoft technology to power its products,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19640933.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19640933.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
       "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
       "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
@@ -488,6 +540,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
+      "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
+      "excerpt": "The engine from Cleareye.ai also uses computer vision, part of Azure Cognitive Services, Azure Kubernetes Service, and other scalable computing and analytical services from Microsoft to fulfill ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19559723",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723",
+      "publishedDateTime": "2021-02-09T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1038,100 +1124,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-bengaluru-airport-bags-voice-of-the-customer-global-recognition.md",
-      "title": "Bengaluru airport bags 'Voice of the Customer' global recognition",
-      "excerpt": "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
-      "originalUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/02/09/600x338/Bangalore_International_Airport_Limited_1612853485727_1612853517355.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
-      "publishedDateTime": "2021-02-08T23:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-artificial-intelligence-software-detects-ocean-plastics-from-the-air.md",
-      "title": "Artificial intelligence software detects ocean plastics from the air",
-      "excerpt": "As millions of tons of plastic wash into the ocean everyday, scientists have their work cut out for them in trying to keep tabs on its whereabouts, but they may soon have a useful new tool at the their disposal.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
-      "originalUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/518a071/2147483647/strip/true/crop/531x354+95+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F33%2F15%2Fe832521e480ab36b0212d149d76a%2F255516-web.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
-      "publishedDateTime": "2021-02-08T22:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

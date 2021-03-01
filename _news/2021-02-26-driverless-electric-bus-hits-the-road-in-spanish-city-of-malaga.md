@@ -63,20 +63,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "Why driverless cars are paradise on wheels for some"
-    excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
-    publishedDateTime: 2021-02-24T09:59:00Z
-    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://images.mktw.net/im-301724/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Driverless bus hits streets of Malaga"
     excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
     publishedDateTime: 2021-02-26T00:36:00Z
@@ -108,6 +94,20 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-can-driverless-cars-take-account-of-human-selfishness-346050.jpg?v=11127545"
         width: 640
         height: 360
+        isCached: true
+  - title: "Driverless bus hits streets of Malaga in southern Spain"
+    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
+    publishedDateTime: 2021-03-01T01:19:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/01/driverless-bus-hits-streets-of-malaga-in-southern-spain"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/28/1060200.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "8KUC0HLgahq/h8F86Dm+MvlcpgFAHKxihorctwW7ttRCabahD/frHF/Y4ztulGJJWGXK+Umrf8STLCZ04IrfZXHNZax+gRj1lspuPyLiREIv5/b7RWwlZek+vx6xgMyBetHTh8zrMviGkLesUZOLnu0+4Rb3SJPpyNBDXr9kvgWVvt2pDYkFb8ZnmwoQn0sCKrnj2RpagThgEO1xPjGUxxK/KCXjAAe7BmKB2OW/kErsP1kocjo2ybf+auV3u+Ddvb1mdDV0i286cl/2JZ7NVNiFLSR6vdD1Fj98OfIrmtyTIP9Cumlv18InRu2KvGGueCXJr0/Aocpkew4/xbQdfSOiBK8R04n366C/5vONk8dUbs3vAC2eJTb/oQ4unSq7MVXS+lOHAMchMls8Mtkc53BnICacDCESgEmLrS0zjR3Py4XkZbkWjSqof1WO2tq3nkK5TYq4UNooUGb0wi2+2YFktgw5Yifc62k2wXZ55eWMGLtC1dnVsU7Wl8Y9wzbCPo2uErbnxOsWt18KTy9jkg==;E3MKWc1WPmA8dppHC8gnQw=="

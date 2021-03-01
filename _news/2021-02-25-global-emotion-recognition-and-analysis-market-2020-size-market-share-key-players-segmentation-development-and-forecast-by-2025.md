@@ -155,20 +155,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2021 Industry Size, Business Opportunities, Top Key Players, and Global Analysis by Forecast to 2027"
-    excerpt: "The global“Image Recognition Market Size”is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2021-02-24T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-2021-industry-size-business-opportunities-top-key-players-and-global-analysis-by-forecast-to-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
     publishedDateTime: 2021-02-27T14:40:00Z

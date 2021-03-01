@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
 type: article
 quality: 89
-heat: 149
+heat: 150
 published: true
 
 provider:

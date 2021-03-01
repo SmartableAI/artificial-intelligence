@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 759
         isCached: true
-  - title: "Will IBM Sell Off Watson?"
-    excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."
-    publishedDateTime: 2021-02-24T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/will-ibm-sell-off-watson/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/carson-masterson-0mXw-dvuLok-unsplash.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "T8IYmrYdY1NUQ9E6dYD9ELl/dETZSpBFG9lmPim/jTg/tVyiZDq+M3OSeuQ017nmxg7h4YPq44m69L406nfTourCsk9PcWl13w2XXKgmU/P5hRQnm37PmQl++Jri4Y4oBdzY+BDu/flZjnvU836+WUNPCBLWOwi4K9zD+R0z9UQ7BJzkNAIKfDsR1A0hnqpD6KK5yB8Te1HadH512MwxaNUvL3qsWCGLPr8DBQZE8VqZ8dSIwWPsSDjG+oCFKOSIXI3u9q/8JGGL2ZTeoN/MIbfLSa4o4WKols1RzWb0Cvi4Ww9qMtzIFzqOflP6XOswJ8S1KUaEjZagSe58ObHiGv0x3W5oeX8rOWWmRscvKNWbgJLIjRCdsbiQVEZU+Hl9+lOLvaS7m7ioa9lYB+5r3ePa2n3fuOnepq3EMB/quu57qRWMVP37cQs14UMkpPgoBmx+ij+xJRi0d9NY6TTrZ6AC0qqo82eGLm5zNR9xqI3MJLrIjoypEeeq+O7IXO/5AkwmN0RBeF/1iM4FliInKQ==;e60EIjVUwEYrbmMsvHPgNg=="
 ---

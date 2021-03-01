@@ -59,20 +59,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "Why driverless cars are paradise on wheels for some"
-    excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
-    publishedDateTime: 2021-02-24T09:59:00Z
-    webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=hp_minor_pos21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://images.mktw.net/im-301724/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Driverless electric bus hits the road in Spanish city of Málaga"
     excerpt: "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe"
     publishedDateTime: 2021-02-25T18:41:00Z
@@ -104,6 +90,20 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-can-driverless-cars-take-account-of-human-selfishness-346050.jpg?v=11127545"
         width: 640
         height: 360
+        isCached: true
+  - title: "Driverless bus hits streets of Malaga in southern Spain"
+    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
+    publishedDateTime: 2021-03-01T01:19:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/01/driverless-bus-hits-streets-of-malaga-in-southern-spain"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/28/1060200.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "dMJ0apzrpml5kaBnoM1eEObhXpnCislPJU1pVt+GRXhF3j4Q/3FkwEuMJRjniEg9SRaPlXXEjBCUfC/R6IDGURXSdmHks1qu/zr9OuNtTU5L7VMVT9mc60ajL9Z0x8Q6rcjNofyQL1JVlB+a3DyiIQLsk5VMtaDSIfBRPDffC+2360f9CPHfP2eTi4Ljs4DPwOBGDWMth1X8qo1kOJKUsmSD81/4xr/RJ6LyOVbjo1DLgS2vg8HqYeDNVjPUNRFc1H0aLvF582Uh8QdHuYK7bwUKKUBfxYzlFzCOSoUFljXFcEeyVwXwhrN+jNgewJjd7zAi53dw+ZzhLwZyS/EsrNjOHHYZe9lGp5Q7AN4KZ8Y=;07Oxo7ATV3DmlK/danUt8A=="

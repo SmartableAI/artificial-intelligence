@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-22-cutting-through-confusion-the-true-value-of-ai-for-sales-teams.md",
+      "title": "Cutting Through Confusion: The True Value Of AI For Sales Teams",
+      "excerpt": "More top-performing sales reps are jumping ship. Over the last decade, the sales industry has witnessed rep tenure rapidly decline from 3 years in 2010 to a mere 1.5 years in 2019. This trend has only been expedited by the remote world forged by the Covid-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
+      "publishedDateTime": "2021-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas.md",
+      "title": "Motional is now testing fully autonomous vehicles in Las Vegas",
+      "excerpt": "Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas/ar-BB1dTYx1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/wMyEN4GjNku-j3tevvKBInkwsEA=/0x0:1877x1252/1400x933/filters:focal(789x476:1089x776):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68854024/Motional1.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+      "publishedDateTime": "2021-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+        "domain": "theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-the-real-value-of-open-source-in-the-cloud.md",
       "title": "The real value of open source in the cloud",
       "excerpt": "It’s a mistake to believe that running open source in the cloud will protect you from vendor lock-in. But open source certainly offers freedom and independence to developers.",
@@ -1097,92 +1191,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
-      "title": "Why Baidu Stock Soared Today",
-      "excerpt": "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
-      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "publishedDateTime": "2021-02-19T18:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-cloud-platform-a-cheat-sheet.md",
-      "title": "Google Cloud Platform: A cheat sheet",
-      "excerpt": "Some of the latest products added to Google Cloud Platform are Cloud Inference API, allowing developers to run large-scale correlations over datasets, Shielded VMs, Cloud Tasks, Cloud IoT Edge, Cloud AutoML, and the AI Hub, allowing developers to share and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/google-cloud-platform-the-smart-persons-guide/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/03/21/57a279f5-6449-4ef6-8b0e-af00e3801dee/thumbnail/1200x675/58add3a5bec78b015fd9d832b6cca61d/google-cloud-platform.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/google-cloud-platform-the-smart-persons-guide/",
-      "publishedDateTime": "2021-02-19T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

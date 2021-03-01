@@ -613,24 +613,15 @@
     {
       "path": "_news/2021-02-23-technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom.md",
       "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com",
-      "excerpt": "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,",
+      "excerpt": "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf",
+      "webUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
+      "originalUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -638,8 +629,8 @@
       "publishedDateTime": "2021-02-23T06:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1026,8 +1017,8 @@
       "title": "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver.",
       "excerpt": "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software.",
       "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
-      "originalUrl": "https://www.wboc.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "webUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
+      "originalUrl": "https://www.wicz.com/story/43348353/alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1046,11 +1037,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T02:36:00-08:00",
+      "publishedDateTime": "2021-02-15T02:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
+        "name": "FOX 40 WICZ TV",
+        "domain": "wicz.com",
         "images": null,
         "publishers": null,
         "authors": null

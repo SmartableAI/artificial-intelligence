@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://advisory-prod.azureedge.net/-/media/project/advisoryboard/shared/_fpo/dss-icons/social-graphics/blog_post_square.jpg?rev=db1071ffb3ab4897a93a0a5de2f35c65"
         width: 360
         height: 360
-        isCached: true
-  - title: "Will IBM Sell Off Watson?"
-    excerpt: "According to several news reports, IBM is mulling its Watson Health business unit’s sale in the wake of IBM CEO Arvind Krishna’s plan to focus more on cloud computing. IBM’s brainchild, Watson, is a computer system capable of answering questions posed in natural language."
-    publishedDateTime: 2021-02-24T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/will-ibm-sell-off-watson/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/carson-masterson-0mXw-dvuLok-unsplash.jpg"
-        width: 1600
-        height: 1067
         isCached: true
 
 secured: "KqmHQKdbYE8p3ukyFFt3Jt9SCUPUlqLcmoWwuaMd5EpY7/bVg2yIuGBIxUouJJNYf9sUYw1oJ7xUXDiLn7tTzwWHilD5V3LH9bn7dPvSIjaOd9hZkQI0dbbOJhaH8vTC0ulXTKdFU2E+Gh2DoT2w7fnncvCnYcHnCdixKFN/adBzVryzQ6wy31DIc89pxtliZO00xI0VG3/HdkvLQNynuEam5eDHO8kabo6gyicqIIm6EbCWIZolDzYrOF7At0dDr70YHoRtJ71ydfK5nxOlEZgC0SfINGfuqKuCCyEn2WANkMeOPc7ZdNGJsAPyksV0YRtUE60bZqD2pZdLXTBwrm3BD58eoihYe4XZ8kFvKYTksc7J53MM1dPOmhADVhjLfi3Mn5sQbRt7BAinIcmiypBhxI4waKIUhQTjoXbeZRv/UWM8V6n9iRxFdhq4+DU9+sFqWpKKjo/TLMAeykYHn6z4Y9K5xe92Rmdz8Z+6FOT8RdUT+h9XUKatkMc3WiCYOxIaWOT5LNas72aYXK+7kQ==;iOZyLtC1CH8qWhQeNmHe7Q=="
