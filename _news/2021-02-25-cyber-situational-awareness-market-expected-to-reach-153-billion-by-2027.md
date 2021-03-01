@@ -21,52 +21,10 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027"
-    excerpt: "Selbyville, Delaware The report for Artificial Intelligence (AI) in Retail Market offers an assiduous analysis"
-    publishedDateTime: 2021-02-24T21:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-reach-usd-24-billion-by-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,"
-    publishedDateTime: 2021-02-25T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size to Record 29.7% CAGR During 2020-2027"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report"
-    publishedDateTime: 2021-02-25T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At 28.3% of CAGR Artificial Intelligence (AI) in BFSI Market size will rise and expected to cross 5258 Million USD in 2025"
-    excerpt: "Selbyville, Delaware. The Artificial Intelligence (AI) in BFSI Market Forecast Report provides details analysis"
-    publishedDateTime: 2021-02-26T10:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/at-283-of-cagr-artificial-intelligence-ai-in-bfsi-market-size-will-rise-and-expected-to-cross-5258-million-usd-in-2025-2021-02-26?tesla=y"
+  - title: "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated"
+    publishedDateTime: 2021-02-26T02:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
     type: article
     provider:
       name: MarketWatch
@@ -77,20 +35,87 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in manufacturing Market is estimated to reach USD 14.77 billion at a 47.09% CAGR during 2019-2024"
-    excerpt: "The take of global artificial intelligence (AI) in the manufacturing market 2020 recorded by Market Research Future"
-    publishedDateTime: 2021-02-25T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-is-estimated-to-reach-usd-1477-billion-at-a-4709-cagr-during-2019-2024-2021-02-25"
+  - title: "Artificial Intelligence in the Education Sector Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
+    excerpt: "A recent market intelligence report on Artificial Intelligence in the Education Sector market takes a closer look at the major driving forces, restraints and opportunities anticipated to shape the future of the Artificial Intelligence in the Education Sector market for the forecast period,"
+    publishedDateTime: 2021-02-27T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
+    publishedDateTime: 2021-02-26T18:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 Leading Competitors, Regional Trends and Growth Trends 2025"
+    excerpt: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity,"
+    publishedDateTime: 2021-03-01T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-life-sciences-services-market-2020-leading-competitors-regional-trends-and-growth-trends-2025-2021-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge Artificial Intelligence (AI) Software Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
+    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Edge AI Software Market is valued at approximately USD 0."
+    publishedDateTime: 2021-02-25T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-software-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Latest Industry Growth, Trends, Revenue, Key Suppliers and Demand Projections by 2026"
+    excerpt: "Feb 25, 2021 (The Expresswire) -- The overall speech and voice recognition market is expected to grow from USD 6.9 Billion in 2018 to USD 28.3 Billion by 2026 at a CAGR of 19.8% during the forecast period. Based on deployment, the cloud-based segment will ..."
+    publishedDateTime: 2021-02-25T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-latest-industry-growth-trends-revenue-key-suppliers-and-demand-projections-by-2026-2021-02-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
+    publishedDateTime: 2021-02-27T14:40:00Z
+    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "LNre4Ro/6JiUimnLMDkMCRIzZW97/iB71q2QJjQRclWzhoga0aEv0RwOi50QKzEQ1X0kNK3s7VRrEhyESVQbdSP9z3REp8FhagvowN+pA6ougd7B12Iv/GvAEDg/9HJr6YwVIDgYR3fGsBtMXIs8n4CW8la+N7KMU+c2zywrIt+ziWC4kqRzXj3aUlCmpm9/LVqvcNhApGvHu1BBIqaayhzB61edKAcIAVpKMx3VMqgFBZSqkllIoSG5EfrmOnEpnBwW4hb45o57jqVQNVzFfKLIUcuwvkrZTBvyTdoB+ihtKskyH9RLgj5EWiL071kerANH4z8EX73gLMheUGzG9dXG4JNBq5IbOtVT4DClQx8=;71bnE3/dSetadBpSt/RgZA=="
 ---

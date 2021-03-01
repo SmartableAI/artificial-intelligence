@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-09-do-you-trust-this-computer-director-on-the-dangers-of-artificial-intelligence.md",
+      "title": "\"Do You Trust This Computer?\" director on the dangers of artificial intelligence",
+      "excerpt": "Artificial intelligence is the technology behind everything from self-driving cars to military drones. Last week, a new documentary premiered that focuses on both the benefits and the dangers of A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/do-you-trust-this-computer-director-on-the-dangers-of-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/video/do-you-trust-this-computer-director-on-the-dangers-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/04/14/0f00778d-b66e-401c-b395-db6d651d63ed/thumbnail/1200x630/d637e3163555a82f5b763d931ad474f4/0414-ctm-paine-aidocumentary-1545935-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-how-driverless-scooters-could-boost-healthcare.md",
+      "title": "How Driverless Scooters Could Boost Healthcare",
+      "excerpt": "The latest entry to the growing fleet of driverless vehicles is the autonomous mobility scooter, developed jointly by MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the National University of Singapore, and the Singapore-MIT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
+      "originalUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-self-driving-cars-market-global-key-players-trends-share-industry-size-growth-opportunities-forecast-to-2026.md",
       "title": "Self-driving Cars Market: Global Key Players, Trends, Share, Industry Size, Growth, Opportunities, Forecast To 2026",
       "excerpt": "This report presents a comprehensive overview, market shares, and growth opportunities of Self-driving Cars market by type, application, key manufacturers and key regions and countries.",
@@ -1269,145 +1399,6 @@
       "provider": {
         "name": "POLITICO",
         "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open.md",
-      "title": "Get ready to roll! AWS DeepRacer pre-season racing is now open",
-      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. Pre-season qualifying",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/get-ready-to-roll-aws-deepracer-pre-season-racing-is-now-open/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2252-1-Thumbnail.jpg",
-          "width": 568,
-          "height": 329,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T14:39:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-baidu-green-light-to-test-driverless-autonomous-vehicles-in-california.md",
-      "title": "Baidu green light to test driverless autonomous vehicles in California",
-      "excerpt": "Baidu’s autonomous vehicles can now drive alongside those from Cruise, Waymo, Nuro, Zoox and AutoX in California. The Chinese company has just received approval to operate its autonomous driverless vehicles from the US state.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
-      "originalUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galusaustralis.com/wp-content/uploads/2021/02/baidu.0-e1612158742517-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2021/02/1047997/baidu-green-light-to-test-driverless-autonomous-vehicles-in-california/amp/",
-      "publishedDateTime": "2021-02-01T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-california-to-license-driverless-cars-operated-by-artificial-intelligence.md",
-      "title": "California to license driverless cars operated by artificial intelligence",
-      "excerpt": "Driverless cars operate through an artificial intelligence system designed to ... “Companies like Google’s Waymo have put AI inside virtual cars and have the vehicles 'drive' billions of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "originalUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediadc.brightspotcdn.com/dims4/default/6e5a04a/2147483647/strip/true/crop/2100x1103+0+149/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2Fd9%2Ff7%2Fe529bb32b60c2c886b0d7fcdb544%2Fbdd85bcb540d61d104dc9a9f3054459e.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/politics/california-to-license-driverless-cars-operated-by-artificial-intelligence",
-      "publishedDateTime": "2021-02-01T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Examiner",
-        "domain": "washingtonexaminer.com",
         "images": null,
         "publishers": null,
         "authors": null

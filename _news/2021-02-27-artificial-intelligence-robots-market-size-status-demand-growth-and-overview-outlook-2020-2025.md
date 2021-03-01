@@ -111,6 +111,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Telecom Order Management Market Report 2021: Market is Driven by AI, Machine Learning, & Big Data Analytics Solutions - Forecast to 2026"
+    excerpt: "The Global Telecom Order Management Market is expected to grow at an impressive rate during the forecast period. The Global Telecom Order Management Market is driven by the adoption of emerging technologies such as AI,"
+    publishedDateTime: 2021-03-01T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-telecom-order-management-market-report-2021-market-is-driven-by-ai-machine-learning-big-data-analytics-solutions-forecast-to-2026-1030135216"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "ud+FwTxwRpi2uuuKTOD5SlNcOKzbSmCOkiK2Snx/fWc1hsZdV4U0LL+SGhtyFkJHby8naO8qPDw5hfubUtQiFOuGZAXTXtM58U1Adxj4Z0Ebg8dqh8WLJbRN3CSy/a7zPr7voHZoAVqU9krg22ZYP4PhOBilQUvOP66PEcPF196yYQX9FCeWHhS9bvRreMVzZhQPc7q5YUZbNw1z0Q85FRTX7Rgw/QfbwbGZSzJyXI3++vbO85i7nsAYlIvtKAbHQ370KyupHey7GiAeeEYRDPhDz1SYjcH0ezzVyyDvtVEufp5ux0Xm3FJBESs2edCZwbDPzGG3Fl2lE3YiJuiEdiebJNtVq60CmDFQzNr9u9g=;6/oLn+ZKzFFM/17VXxLrLw=="
 ---

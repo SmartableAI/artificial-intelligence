@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-automation-and-co
 webUrl: "https://www.marketwatch.com/press-release/global-automation-and-control-system-in-healthcare-market-trends-top-players-market-demands-industry-growth-forecast-2027-2021-02-24"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Deep Learning Chipset Market 2020 Industry Analysis, Key Players Data, Growth Factors, Share, Opportunities and Forecast to 2025"
-    excerpt: "Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2025 aims"
-    publishedDateTime: 2021-02-24T21:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-industry-analysis-key-players-data-growth-factors-share-opportunities-and-forecast-to-2025-2021-02-24"
+  - title: "Global Artificial Intelligence (AI) Consulting Market 2020 Upcoming Trends, Latest Innovation, Advance Technology and Top Companies to 2025"
+    excerpt: "Global Artificial Intelligence (AI) Consulting Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-02-28T18:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-consulting-market-2020-upcoming-trends-latest-innovation-advance-technology-and-top-companies-to-2025-2021-02-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

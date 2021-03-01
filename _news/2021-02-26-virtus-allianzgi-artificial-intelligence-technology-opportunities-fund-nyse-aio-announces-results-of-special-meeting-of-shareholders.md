@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) Announces Results of Special Meeting of Shareholders"
-excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO ) announced today that its shareholders have voted to approve a new investment advisory agreement with Virtus Investment Advisers (VIA) as well as a new subadvisory agreement by and among the fund,"
-publishedDateTime: 2021-02-26T15:22:00Z
-originalUrl: "https://menafn.com/1101664388/Virtus-AllianzGI-Artificial-Intelligence-Technology-Opportunities-Fund-NYSE-AIO-Announces-Results-of-Special-Meeting-of-Shareholders"
-webUrl: "https://menafn.com/1101664388/Virtus-AllianzGI-Artificial-Intelligence-Technology-Opportunities-Fund-NYSE-AIO-Announces-Results-of-Special-Meeting-of-Shareholders"
+excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) announced today that its shareholders have voted"
+publishedDateTime: 2021-02-26T00:20:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19870750/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/n19870750/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19870750"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19870750"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?120573"
-    width: 442
-    height: 250
-    isCached: true
 
 related:
   - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) Announces Results of Special Meeting of Sh"
@@ -39,6 +35,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ne/OaAgDIbyT8jPw3711TOTQUNoeXKZ46DfKr308zfc75y8otyQ1aEfdoZW1WCX/00Ogzz4ENgzrKcRNx0Cti8/nm+nODIKFd91Ub/NvhHi9cefI7ArlHTdlzwVn31hNyL7kcMO+sZnH5cs5VgQ6BwVXs4xvQ14ouwbQ/DLx+PTZueu3SMDV+QTeozc741mSDj+HPDGa3xSeJqawqMb8SCc5B/r/ERbELC15ekIwnpu/3GlyR6LhAQ9yrHd0wYucvtT53ayXO/wa46/58TbPFVhoCpVjvDPd9UwHZfWNW9yqT0DSd5my+pSM6h1KgDBkZhx7uw+NmnG4EiOd8Jaf5SJUsjF/eFFqW+lPdcq2C6Y=;dBgb0/TZLlu7MKt3oKwX6Q=="
+secured: "KGCyYmVTFLc53N1aL9Ecn8WKvGQLyecnzI+VkluzDp4+eOP7DHYwQSO47hZih8+ibCSWl6ZsMRns1zPgbaQuWy11ZKNL71gQu0TKy0vH0HpTruq2DgSQyBtGmnzxm5l9v/pEep7Xi9SkXZRFtVIMyeCwkEBSWqOJ58yAfj9kaL9BpDUySi9Q5CYEFKCxuYv4lbxH/eFna6Uh6NeL4ZlgNYNuBKlwrLoPZsc/GkGSsz7uWI+NJcvhwSAT2U8u8p2mn4FcwhBxYiMRDjZG4952uVB5Vp8irmb5ctDNVWQvdq6JJCNT0YbsjI/O/MtID0vror3bbNrR469SmpHEd6/t/zL7MpfUo+k/Z5EI4/uSWl4=;tQpusRCjFqunC7bw7ggrpQ=="
 ---
 

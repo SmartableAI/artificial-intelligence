@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-consulting-market-2020-upcoming-trends-latest-innovation-advance-technology-and-top-companies-to-2025-2021-02-28"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market Revenue, Growth Rate, Customer Needs, Trend, Manufacturers and Forecast to 2025"
-    excerpt: "Artificial Intelligence (AI) Enabled Medical Imaging is the process of adoption of AI technology in the medical imaging to provide vast supply of medical case data and train its algorithms to find patterns in images,"
-    publishedDateTime: 2021-02-25T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-medical-imaging-market-revenue-growth-rate-customer-needs-trend-manufacturers-and-forecast-to-2025-2021-02-25"
+  - title: "Global Automation and Control System in Healthcare Market : Trends, Top Players, Market Demands, Industry Growth Forecast: 2027"
+    excerpt: "Global Automation and Control System in Healthcare Market Healthcare industry rapidly adopting advanced technologies"
+    publishedDateTime: 2021-02-25T03:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automation-and-control-system-in-healthcare-market-trends-top-players-market-demands-industry-growth-forecast-2027-2021-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

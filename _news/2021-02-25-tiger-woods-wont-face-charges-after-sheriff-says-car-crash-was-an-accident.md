@@ -7,7 +7,7 @@ originalUrl: "https://keyt.com/news/national-world/2021/02/24/tiger-woods-wont-f
 webUrl: "https://keyt.com/news/national-world/2021/02/24/tiger-woods-wont-face-charges-after-sheriff-says-car-crash-was-an-accident/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tiger Woods will not face charges, sheriff says, as investigation into crash continues"
-    excerpt: "Tiger Woods was not impaired when he crashed his SUV on Tuesday morning, authorities say, and he underwent major surgeries to repair a badly shattered right leg."
-    publishedDateTime: 2021-02-24T21:42:00Z
-    webUrl: "https://www.washingtonpost.com/sports/2021/02/24/tiger-woods-investigation-crash/"
-    ampWebUrl: "https://www.washingtonpost.com/sports/2021/02/24/tiger-woods-investigation-crash/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/sports/2021/02/24/tiger-woods-investigation-crash/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 36
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TZ55M4KBVRGD5IGUU4LM5CPYLA.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Tiger Woods Will Not Face Charges In Rollover Crash, Is Recovering After Surgery"
     excerpt: "\"This is purely an accident,\" the Los Angeles County sheriff said, adding there's no evidence Woods was intoxicated. The golfer is awake and responsive after a \"long surgical procedure.\""
     publishedDateTime: 2021-02-25T12:25:00Z

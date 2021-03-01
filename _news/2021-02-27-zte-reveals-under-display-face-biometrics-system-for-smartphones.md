@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Sued for Infringement of Biometric Technology Patents via Face ID Feature"
-    excerpt: "Law Street provides accessible, client-focused legal news designed to inform readers and connect lawyers with the legal needs in their field."
-    publishedDateTime: 2021-02-24T22:23:00Z
-    webUrl: "https://lawstreetmedia.com/tech/apple-sued-for-infringement-of-biometric-technology-patents-via-face-id-feature/"
-    ampWebUrl: "https://lawstreetmedia.com/tech/apple-sued-for-infringement-of-biometric-technology-patents-via-face-id-feature/amp/"
-    cdnAmpWebUrl: "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/tech/apple-sued-for-infringement-of-biometric-technology-patents-via-face-id-feature/amp/"
+  - title: "Spanish soccer club trials Veridas face biometrics for stadium security checks"
+    excerpt: "Nano’s biometric access control system has been launched at El Sadar stadium in Spain Employees of Club Atlético Osasuna in Spain’s top-level soccer league, including members of its board of directors,"
+    publishedDateTime: 2021-02-26T22:58:00Z
+    webUrl: "https://www.biometricupdate.com/202102/spanish-soccer-club-trials-veridas-face-biometrics-for-stadium-security-checks"
     type: article
     provider:
-      name: Law Street Media
-      domain: lawstreetmedia.com
-    quality: 40
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://lawstreetmedia.com/wp-content/uploads/2020/03/iStock-1134921314-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
         isCached: true
 
 secured: "OBOCbBjQK82fzZRX51JiXA1YeUoMU+cE7eiqxGIbxNHe7/96dTopjLbo92SD60XN9DxXqBngjX/uGLWkizmJ21dtj6Q0XmZ/URcfFpaYFTjCXnwKF66SPIpqqcDI6fl4b0hwHRyvvEYzWC152ZQLEBZss9LmcDCoR5W+w2Kv3zmbLtHc5+1l3d1BI6AAU0jOnu4IhJEgRF/hC1bfBt/ctx8DiA9HNM+HYzGEICjcu+mPrHttVvQtILNbym13zFUA0IbHc1U3IuRyiS75MkKrePw+OiQz27Z+yZT4wMFElZX1yB3PhEK/qew1q98r4FQ3T773lSv5KUXG9XA0YSmOK2BLro2rRW7Wm4QtG+QatOs=;uyXWDN3cpY93+TrkJml/Jg=="

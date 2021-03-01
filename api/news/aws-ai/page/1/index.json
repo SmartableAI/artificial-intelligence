@@ -214,7 +214,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -525,6 +525,94 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-democratizing-science-education-starts-with-expanded-accessibility.md",
+      "title": "Democratizing Science Education Starts With Expanded Accessibility",
+      "excerpt": "Higher education institutions had to pivot quickly last March when Covid-19 forced the nation into lockdown. Even eleven months into the pandemic, universities are still trying to figure out how to attract, retain and engage students. A particular ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.elearninginside.com/democratizing-science-education-starts-with-expanded-accessibility/",
+      "originalUrl": "https://news.elearninginside.com/democratizing-science-education-starts-with-expanded-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/louis-reed-pwcKF7L4-no-unsplash-scaled.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eLearningInside News",
+        "domain": "elearninginside.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-a-set-of-jupyter-notebooks-to-analyze-the-performance-of-a-deepracer-model.md",
+      "title": "A set of Jupyter notebooks to analyze the performance of a DeepRacer model.",
+      "excerpt": "This is a set of notebooks and utilities to enable analysis of logs for AWS DeepRacer. This project is a redo of analysis solutions provided in the AWS DeepRacer Workshops repository. There are a few motivations leading a decision to reorganise the ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
+      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/55031406?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1416,92 +1504,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-quantiphi-named-as-an-idc-innovator-in-artificial-intelligence-services.md",
-      "title": "Quantiphi Named as an IDC Innovator in Artificial Intelligence Services",
-      "excerpt": "Quantiphi, an applied AI and data science software and services company, today announced that it has been named an IDC Innovator in the IDC Innovators: Artificial Intelligence Services, 2020 ( Doc # US45733220,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19648625.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19648625.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season.md",
-      "title": "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season",
-      "excerpt": "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced three new Bundesliga Match Facts powered by AWS to give fans deeper insights into action on the pitch. The new Match Facts – Most Pressed Player,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30/gallery/9ff6eace95b8957e8666acee4e654d30",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30/gallery/9ff6eace95b8957e8666acee4e654d30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T21:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

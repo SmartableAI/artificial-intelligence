@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
 type: article
 quality: 56
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -100,6 +100,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cyber Situational Awareness Market Expected to Reach $153 Billion by 2027"
+    excerpt: "According to a recent report published by Allied Market Research, titled, “ cyber situational awareness market by component, solution type, deployment type, organization size, industry verticals, and region: opportunity analysis and industry forecast,"
+    publishedDateTime: 2021-02-25T10:09:00Z
+    webUrl: "https://www.alliedmarketresearch.com/press-release/cyber-situational-awareness-market.html"
+    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
+    type: article
+    provider:
+      name: Market
+      domain: alliedmarketresearch.com
+    quality: 23
   - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
     publishedDateTime: 2021-02-27T14:40:00Z

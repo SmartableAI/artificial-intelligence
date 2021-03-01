@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,35 +25,6 @@ images:
     width: 1200
     height: 400
     isCached: true
-
-related:
-  - title: "Britain's GCHQ Cyber Spies Embrace the AI Revolution"
-    excerpt: "Britain's cyber spies at the GCHQ eavesdropping agency say they have fully embraced artificial intelligence (AI) to uncover patterns in vast amounts of global data to counter hostile disinformation and snare child abusers."
-    publishedDateTime: 2021-02-24T22:59:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution"
-    ampWebUrl: "https://www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2021-02-24/britains-gchq-cyber-spies-embrace-the-ai-revolution?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 69
-  - title: "UK spy agency set to use AI against cyber attacks and state actors"
-    excerpt: "GCHQ, the UK spy agency, is preparing to use artificial intelligence to combat cyber attacks, identify state-backed disinformation, and help track criminal networks around the globe. The move, announced on Wednesday,"
-    publishedDateTime: 2021-02-24T22:34:00Z
-    webUrl: "https://www.ft.com/content/2b32d454-1cbe-48e7-a12c-fdc2069b6d5c"
-    ampWebUrl: "https://amp.ft.com/content/2b32d454-1cbe-48e7-a12c-fdc2069b6d5c"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/2b32d454-1cbe-48e7-a12c-fdc2069b6d5c"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85803914-749e-4ed1-b0e8-ebc715a59f69.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "QGx1mqx0nqP/vh9T4jpwZzmObvR157CtBnyzDUlyR7cDacE0N5CuX6fzdomGi/jLbGLhFVG5zMBj5/8GjHBChRYwIeaXnCvEpk16pf2u7XalvVJczVWZok7stV9uFBPU6yBrlPoxKqeSCF6H3bM3EhrtjVE6vwxRSc5YL9qxMSIxJfn8Tb3MNYveIha5CeTIbYEyVzXO0GDA9ed9j1WlJG7FxbUSwGUjwH/+zwEAX1aJgeKVofLuXvNM2k9kZyye5n4AxJy1PHjt4myNtOtOChmx2f3V1NizlDEp+pFksluXvnwJ6tWAWMDS3Ow1hxn6Oiu9iNL1gOykUhpInnWAqKZBzilOEEBn/uiRUSvJ0fiekXgUH0+XlydQiW3/u4BQ5ZuefjbgUiyI2MuGWPeSxK9Ys5o2Y4QQignXsdlWK2doPn/5xy9x9KmkbNP9BWI/PQe9MXfkq16sWO8l+cTPVU9Gok31KYXD+Fb93xo+k/PT/cCsVFM3It6jBFyKP6zLQyt1ngO32oVLwM14F0z+vA==;GHfWPzBM1c5Tp9mtd6lc4A=="
 ---

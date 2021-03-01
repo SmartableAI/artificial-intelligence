@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210224/Using-machine-learnin
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: News Medical
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers use machine learning to identify autism blood biomarkers"
-    excerpt: "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,"
-    publishedDateTime: 2021-02-24T21:19:00Z
-    webUrl: "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Researchers use machine learning to identify autism blood biomarkers"
     excerpt: "Using machine learning tools to analyze hundreds of proteins, researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,"
     publishedDateTime: 2021-02-25T16:13:00Z

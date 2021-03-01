@@ -9,8 +9,8 @@ ampWebUrl: "https://www.speakingtree.in/blog/how-artificial-intelligence-is-enha
 cdnAmpWebUrl: "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/how-artificial-intelligence-is-enhancing-mobile-app-technology/m-lite"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Speaking Tree
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "We have a chance to build a consensus on AI rules and norms"
-    excerpt: "We are in a new technology age. Innovation is expanding economies, enhancing lives and offering new ways to keep us safe. But the sources of this innovation are more diverse and often less western. The rules of the road are arguably less clear."
-    publishedDateTime: 2021-02-24T22:32:00Z
-    webUrl: "https://www.ft.com/content/c05e1d70-63c2-4868-946c-f8b613a0dd77"
-    ampWebUrl: "https://amp.ft.com/content/c05e1d70-63c2-4868-946c-f8b613a0dd77"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c05e1d70-63c2-4868-946c-f8b613a0dd77"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff4aaeca3-539f-41fe-93d9-ffb856ad0ecb.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "Juniper ties 128's SD-WAN technology into Mist AI"
     excerpt: "Juniper says that by now bringing telemetry data from Session Smart Routers into the Mist AI engine, customers can better manage service levels across the WAN, and proactively detect anomalies to improve user experience."
     publishedDateTime: 2021-02-26T22:47:00Z

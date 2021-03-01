@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/information-management/microsoft-dominates-a
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -27,20 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Augmented Analytics Is the New BI Battle Ground, Gartner Says"
-    excerpt: "Forget about nifty visualizations in business intelligence (BI) tools--everybody has those now, according to Gartner. The real action in the BI market is"
-    publishedDateTime: 2021-02-24T22:19:00Z
-    webUrl: "https://www.datanami.com/2021/02/24/augmented-analytics-is-the-new-bi-battle-ground-gartner-says/"
+  - title: "Fore launches programme on healthcare analytics"
+    excerpt: "The Fore School of Management has announced the launch of online certificate programme on healthcare analytics, which commences from April 2021. It is a completely hands-on, interactive online programme on machine learning and artificial intelligence."
+    publishedDateTime: 2021-03-01T04:24:00Z
+    webUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-launches-programme-on-healthcare-analytics/article33962975.ece"
+    ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-launches-programme-on-healthcare-analytics/article33962975.ece/amp/"
+    cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-launches-programme-on-healthcare-analytics/article33962975.ece/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 59
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/analytics_shutterstock_Peshkova.jpg"
-        width: 1000
-        height: 667
+      - url: "https://bloncampus.thehindubusinessline.com/incoming/article33963001.ece/ALTERNATES/LANDSCAPE_615/FORE-School-of-Mgmt-Delhi-2jpg"
+        width: 615
+        height: 384
         isCached: true
+  - title: "Fintech Spotlight: OVTLYR Launches Behavioral Analytics Tool For Retail Investors"
+    excerpt: "OVTLYR, an AI-driven behavioral analytics tool for retail investors, formally announced its web-based platform launched for free, as a pilot. As part of the development,"
+    publishedDateTime: 2021-02-25T00:00:00Z
+    webUrl: "https://www.benzinga.com/fintech/21/02/19814906/fintech-spotlight-ovtlyr-launches-behavioral-analytics-tool-for-retail-investors"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19814906"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19814906"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 34
 
 secured: "pXrv4Eqxp0dis3odbqVh2jVUT1oMn8kZfJCsYVPUFSwhmqaAu0jYzaOX8+73fuYFJtUfpOqB39nPn5gN1OoKDoN2qZy9LNfMNKpdRmajM4mTHLWLxrPfIOtJBfEre01mhMudEm3JNTJyDNi59TJBdacpJglO5MNm82/MJ6FBM5kl0zOt0FkmDYXllS9+plbdtUBaz/DX1Ovi0poTV/LvDqVX8sTPCcYmfo2RH2WG9bJ0Qg8IPLTFBU5MH90ARS+O7vyLytvKM8Y0revAJjKJ/djgIbIrAB+07zjjbtsDuwh4g+fmYYYFT0GAMqmvE6VSY1B8AuJamD4egL3OeComnxWgpgvVSzllPCvjA5Y40O1R/Fed0RJeuIUoPnCmaFYdpfI17lkgfTN0YYBhPpkaMFuSX4lpRdVHY/Q8blD043S98jwGIQAvkwSjcjtGgsqg7mxbraLJBXE0fJPrxlGW+k2pV9s100GUH3nZLNYB2W6jbx1nxTtO/d5j4j2Cp1634rQhN8mWWwPz6ggrDSrJ7A==;y2QaH/cJ705HzyKrCHDtSg=="
 ---

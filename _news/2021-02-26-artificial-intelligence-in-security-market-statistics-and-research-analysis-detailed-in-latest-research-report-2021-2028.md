@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -110,6 +110,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Telecom Order Management Market Report 2021: Market is Driven by AI, Machine Learning, & Big Data Analytics Solutions - Forecast to 2026"
+    excerpt: "The Global Telecom Order Management Market is expected to grow at an impressive rate during the forecast period. The Global Telecom Order Management Market is driven by the adoption of emerging technologies such as AI,"
+    publishedDateTime: 2021-03-01T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-telecom-order-management-market-report-2021-market-is-driven-by-ai-machine-learning-big-data-analytics-solutions-forecast-to-2026-1030135216"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "pqwTH2Wx+3D4P5kTzVh7gNgl/RT24MEFh57B3wAY8MwSLkvNNFCQydw2ONLPm/DaMKp+3zNuudoisDRbuS6qyGx+0jfSnbiIPR/Uy5BfcbYus+2IS1XhC91Htuwdt/4U8kMtmUCLYDQJkkwW9WLzb7kCxW2VAJNuL9/qPdFvks9e3GsU/LTIiNRneu6GWr3gnSkBMmSVE/cL+5R55Ycs2TORhvrf0CRRYVHZpX1FQ+Xd5eybmg9c4E2S871Eg+fKioNbbvUoWKWNWDS/jkKQD//5c9EFBhdCuTpiZxv4dBwS9sv8ZJ/V5vllRq36Skkgmorr7Gkr16vQQfBYzWXGhW6noGwAwcrzTGGCkwWhy9w=;WmVlt9q5IxPrdpR5wd4UaA=="
 ---

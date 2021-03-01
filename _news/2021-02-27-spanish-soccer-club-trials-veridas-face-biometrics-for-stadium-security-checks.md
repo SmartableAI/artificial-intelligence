@@ -25,6 +25,22 @@ images:
     height: 499
     isCached: true
 
+related:
+  - title: "ZTE reveals under-display face biometrics system for smartphones"
+    excerpt: "The 3D structured light system will support face biometric authentication capabilities like Apple Face ID, and may be included in ZTE’s next flagship smartphone"
+    publishedDateTime: 2021-02-26T22:49:00Z
+    webUrl: "https://www.biometricupdate.com/202102/zte-reveals-under-display-face-biometrics-system-for-smartphones"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
+        width: 1050
+        height: 591
+        isCached: true
+
 secured: "FkVJNbL2s23Vig0jEVI4Cu7nZ0gGvzjl42XoYkXRcUl1Tlw5YQXITtx1o6goI+pxoR9/EqJWU6HV7Higzu+NpLlR7KeDT9kdXNVZOuXrMG54zjbcFdPyCpdCEV3Pl0P/xIXkjnNwRC5AxGQ8GH+Hysa/Bd8g78qI34NY2LmrhPnX9uIsv+wjLYDzSusVbhY/ZHiV65TFVn09FGBbxr0LuVGW1ToysvStxk16P7/Xd1M/0XJN5HnfchJYr4cFJve4L8Kr9RUuLkTJvlw0oifXTqDqvE/UaXXXxhjzIbpMD5ieb/7lPz5qPVZdrZE2c/oqt+swzUgSblFsD+23howjpIVroMGwl0Dq+ML/CWBKmHI=;tVgFTuehieSi/nKinES2Sg=="
 ---
 

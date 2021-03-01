@@ -39,34 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts"
-    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-    publishedDateTime: 2021-02-25T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Movements by Trend Analysis, Growth Status and Revenue Expectation Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-02-25T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-movements-by-trend-analysis-growth-status-and-revenue-expectation-forecast-to-2028-fortune-business-insights-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "kQdOUjS2BkXaf1yCVqLKPRpvOc9Zeg8HZu5BbpKc/1HPItVYqD6N8AQWRwivzklQOyBsw+TOAvjP+Teos+L5EA8YPVgCYRXQmJdmS4O4PhzBrF8MKFIlYlh+RZEtj4PXdowJi0pQRFlxbnQwyp2Di53GFKR7Fh9zx334mmll4FNIiFbxyfBBjZxQKrJNEvUPLWi0MkbeZmznWY7QZ4n8n/Qd7wWlVXR0TIq+kW8gB2kYF+qPHRBU9GDYaVFq1WmapeXBbGE3tTlw+uKsTPIVxG/G1+DDnC0FXzcAC2UFDFpTCe4TW9mB1cPLGt0wmpnWH5n9ibEHyZQs8+6an+xGTEgLlpTVMbpJx63X8h9jvx8=;UueoQ+vRpC/5tOCFhbF09Q=="
 ---

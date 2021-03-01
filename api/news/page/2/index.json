@@ -2,6 +2,253 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-27-myheritages-new-ai-tool-turns-photos-of-the-dead-into-unnerving-videos.md",
+      "title": "MyHeritage’s new AI tool turns photos of the dead into unnerving videos",
+      "excerpt": "Genealogy site MyHeritage has released an AI tool called DeepNostalgia that turns photos of deceased relatives into creepy videos.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-26T180643.190-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
+      "publishedDateTime": "2021-02-26T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-fast-food-drive-thrus-are-getting-smarter-heres-how.md",
+      "title": "Fast-food drive-thrus are getting smarter. Here's how",
+      "excerpt": "Drive-thrus are a lead generator of fast-food sales during the pandemic, and many chains, like McDonald's are trying to speed up the process by deploying new tech, including artificial intelligence for ordering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "originalUrl": "https://www.msn.com/en-us/money/companies/fast-food-drive-thrus-are-getting-smarter-heres-how/ar-BB1e2Apw",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223152154-restricted-01-fast-food-drive-thru-technology-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+      "publishedDateTime": "2021-02-26T12:15:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+        "domain": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-ai-conquers-challenge-of-1980s-platform-games.md",
+      "title": "AI conquers challenge of 1980s platform games",
+      "excerpt": "Scientists have come up with a computer program that can master a variety of 1980s exploration games, paving the way for more self-sufficient robots. They created a family of algorithms (software-based instructions for solving a problem) able to complete classic Atari games,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/science-environment-56194855",
+      "originalUrl": "https://www.bbc.com/news/science-environment-56194855",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14820/production/_117300048_screenshot2021-02-25at14.28.52.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/science-environment-56194855",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-56194855",
+      "publishedDateTime": "2021-02-26T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions.md",
+      "title": "Eight Things Machine Learning Can Do To Improve Your Daily Customer Interactions",
+      "excerpt": "Below, eight leaders from Young Entrepreneur Council attempt to quell some of those fears by discussing the merits of machine learning and how they see it affecting their own daily interactions with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603910fa2f4af9b2fb66bca1%2F0x0.jpg",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/amp/",
+      "publishedDateTime": "2021-02-26T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-what-ai-practitioners-could-learn-from-a-1989-mit-dissertation.md",
+      "title": "What AI Practitioners Could Learn From A 1989 MIT Dissertation",
+      "excerpt": "We can use legacy adoption principals to drive user behavior for cutting edge AI. We can also use AI to drive adoption in legacy technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2021/02/26/what-ai-practitioners-could-learn-from-a-1989-mit-dissertation/",
+      "originalUrl": "https://www.forbes.com/sites/arunshastri/2021/02/26/what-ai-practitioners-could-learn-from-a-1989-mit-dissertation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603935268160472618dfd128%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2021/02/26/what-ai-practitioners-could-learn-from-a-1989-mit-dissertation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2021/02/26/what-ai-practitioners-could-learn-from-a-1989-mit-dissertation/amp/",
+      "publishedDateTime": "2021-02-26T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-6-robotics-startups-raising-millions-in-vc-funding-as-they-help-retailers-meet-surging-e-commerce-demand.md",
       "title": "6 robotics startups raising millions in VC funding as they help retailers meet surging e-commerce demand",
       "excerpt": "Retailers are facing unprecedented demand for e-commerce during the COVID-19 pandemic. And they believe robots can help.",
@@ -221,7 +468,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -535,7 +782,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -1027,247 +1274,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
-      "title": "Driverless bus hits streets of Malaga in southern Spain",
-      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html",
-      "originalUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/theelectricp.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp",
-      "publishedDateTime": "2021-02-25T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos.md",
-      "title": "NortonLifeLock’s AI-powered smartphone app blurs out sensitive information in photos",
-      "excerpt": "With some regularity, sensitive information finds its way into smartphones and other mobile devices. Much of it comes from the estimated 3.2 billion images uploaded every day — people screenshot documents like tickets,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1079201610-e1592874115155.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/",
-      "publishedDateTime": "2021-02-25T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-amazon-rekognition-custom-labels-community-showcase.md",
-      "title": "Amazon Rekognition Custom Labels Community Showcase",
-      "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; We worked with AWS Machine Learning (ML) Heroes and AWS ML Community Builders to bring to life projects and use cases that detect custom objects with Amazon Rekognition Custom",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/25/Banana-and-Apples.jpg",
-          "width": 600,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you.md",
-      "title": "HelloWoofy uses AI to keep your social media channels stocked with great content for you",
-      "excerpt": "And that AI brain is often working overtime. HelloWoofy can import content via RSS feeds, optimize hashtags and emojis, search out copyright-free images, or even find the most trending and up-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/hellowoofy-uses-ai-to-keep-your-social-media-channels-stocked-with-great-content-for-you/amp/",
-      "publishedDateTime": "2021-02-25T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-featurespace-touts-breakthrough-in-machine-learning-for-anti-fraud-systems.md",
-      "title": "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems",
-      "excerpt": "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/anti-fraud-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
-      "publishedDateTime": "2021-02-25T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

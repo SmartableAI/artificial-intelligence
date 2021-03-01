@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/02/GettyImages-672156981-crop.jpeg?w=3000"
