@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 873
         height: 491
         isCached: true
-  - title: "How AI & Price Optimization Can Offset COVID-19’s Impact on B2B Supply Chains"
-    excerpt: "In this contributed article, Barrett Thompson, General Manager of Commercial Excellence at Zilliant, highlights that while 2020 has provided no shortage of supply chain challenges, adopting AI and price optimization can offset negative financial impacts."
-    publishedDateTime: 2021-02-24T14:02:00Z
-    webUrl: "https://insidebigdata.com/2021/02/24/how-ai-price-optimization-can-offset-covid-19s-impact-on-b2b-supply-chains/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 14
 
 secured: "YNKBSHQHah+Urstq5xvejUDvOWIyIeo83kVzPMgptZShWZ0VONLxc0AZ0JXDBOofCQVLNzFc0AJHy6aqqdmfPS6jaLcNp0IPTLhBeIszaHhxnmgRoDZ85s+yWJPECPjQ4NwbsjV7g0H1Rbat0litdQa963YJGiG5mKNJLgOO1FZnRK2q6ivyPR6zYDQin81haGWhKL96CDlsi4k7XXaxzxDVBXxbYi2W9uTJawI+cqAXlLgPX3BxaGpix8EEv0TDf9SspjWMXPbEDaNDi+SWu60t+a82dULz9foWEGCNa24PbW5bsaqVz09b6PaNstFuynaQiTPyvpgWwQhU2aG1RKdsyi1DItWHMke2efox525uMkjC+4gWDUclwU3diOC60ulW88QJ7MwEAYUTPkLo/agPTasRELVwwhflO8VPIwp9iCywxvQr9B2hPD56GnOO8IgV+QCJ+F8CGWp1qEp6mS/7dgPsTQ/PgFwOpHEfwcDkl/ciQAp7vIfQeNH1goU8C+t++DzwSfVDLlA9yqNQDg==;F9UJkpLiBm08KssSzja/8A=="
 ---

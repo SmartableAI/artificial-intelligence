@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-23-youtuber-asks-an-ai-for-video-ideas-gets-a-surprising-response.md",
+      "title": "YouTuber asks an AI for video ideas, gets a surprising response",
+      "excerpt": "British YouTuber Tom Scott has such a distinctive style to his videos that they can — and have — lent themselves quite well to parody in the past, both from humans and AIs alike. But for his latest video,",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas/",
+      "originalUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F02%252F23%252Fa7%252Fafc388130de0401ea4aaa9a02a605fcb.25912.png%252F1200x630.png?signature=ScPGsVbMbPWsqaSrgHcW4O5dKH8=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.amp",
+      "publishedDateTime": "2021-02-23T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-zte-reveals-improved-under-display-selfie-camera-under-display-3d-face-unlock.md",
       "title": "ZTE reveals improved under-display selfie camera, under-display 3D face unlock",
       "excerpt": "The first phone with an under-display selfie camera didn't deliver great results, but hopefully we see improvements here.",
@@ -1130,57 +1172,6 @@
         "AI",
         "AI in Finance",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-why-explainability-is-the-next-step-for-ai-in-manufacturing.md",
-      "title": "Why ‘Explainability’ Is The Next Step For AI In Manufacturing",
-      "excerpt": "Now that we’ve overcome the issue of whether AI is needed or not, the new pressing question is \"why\" AI makes its decisions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6011c98f32810780e7c9bdc6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
-      "publishedDateTime": "2021-02-22T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41598-021-83657-4"
 webUrl: "https://www.nature.com/articles/s41598-021-83657-4"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 685
     height: 607
     isCached: true
-
-related:
-  - title: "How Machine Learning and Data Science Can Advance Nutrition Research"
-    excerpt: "In this special guest feature, Kyle Dardashti, CEO & Founder of Heali, discusses how machine learning and data science bring exciting potential to the world of personalized nutrition. Combining these two technologies together on a cohesive platform that supports continuous tracking would allow for real-time validated nutrition recommendations tailored to an individual’s lifestyle."
-    publishedDateTime: 2021-02-24T14:00:00Z
-    webUrl: "https://insidebigdata.com/2021/02/24/how-machine-learning-and-data-science-can-advance-nutrition-research/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 39
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
 
 secured: "gKZ33Nb2gZk2yh2+By0/5CZ+nPm0osommasFL6eV//imdYrtTjXdOCyPoOg0RNZkZ+npDXG4dkRkgG7sB89KxwyOjKNAvtvedlB3KCADGihgpJEf+ZKS5HBG2rotF6/63I0bqZ3X/3U3aIlb4AlZqQvqh9YwPFDz5l1Cy98qu3nHO47wDBvedWT0A1oa17nLJytZnoCc9jokOTWcG0IHp11xTGXgitA4GwHeeBBOUQ8D69yTMczVbYFDt+iGakQ8Fv9kvOr737zuucum+r69k8LmXiopQpFEBbizNIQiUtu9uunfFLbzncR3k908qNb9ZhHiqF9Xs0B/glzKb+VN3WSbJIxMTAkCqwjn/1H6F6A=;e1lhp3gOGq7kM8HF+PO4zQ=="
 ---

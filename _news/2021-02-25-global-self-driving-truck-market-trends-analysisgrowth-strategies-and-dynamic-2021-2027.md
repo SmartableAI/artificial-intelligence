@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
+    publishedDateTime: 2021-03-01T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DG4f/hEyQuA3Wp1+U1v548sia6XXfG37OXFoX+fvSiMfomx24NxYE+o260zR6J4tCAeGxzbfyPMFuhOftn3/ktVXtuxW8K8fvsBRXtMXzUvEDIjfLwfP91nIr+5io7aOQRBevgZgzrruLP9VvC0aCII4s23cOu7GEb/l0CCEAt0hNdjxzGZjo73pNII/aHfTiaajMkJ3N4O202xKEWroBh2Fn79Xk7XlS5OSc+LcWsxnuuvPdHWT28cjP3iZnlyBrszmo/TKxnQleTras5//m9PsWo0sxzq35xAdt1xOaMNJwujSG03TR0p3JqRUg4nqYFOAJqfCUPz+qukiQcgXSdbKupCC07nr1gZ1mUrjFRQ=;RJNIjJsGDlAc5KRZ6BeDqQ=="
 ---

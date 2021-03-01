@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
-excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given"
-publishedDateTime: 2021-02-27T05:44:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
+title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
+excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
+publishedDateTime: 2021-03-01T06:15:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
+webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
 type: article
-quality: 72
+quality: 34
 heat: -1
 published: false
 
@@ -19,9 +19,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -39,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given"
+    publishedDateTime: 2021-02-27T05:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,21 +112,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
-    publishedDateTime: 2021-03-01T06:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "ud+FwTxwRpi2uuuKTOD5SlNcOKzbSmCOkiK2Snx/fWc1hsZdV4U0LL+SGhtyFkJHby8naO8qPDw5hfubUtQiFOuGZAXTXtM58U1Adxj4Z0Ebg8dqh8WLJbRN3CSy/a7zPr7voHZoAVqU9krg22ZYP4PhOBilQUvOP66PEcPF196yYQX9FCeWHhS9bvRreMVzZhQPc7q5YUZbNw1z0Q85FRTX7Rgw/QfbwbGZSzJyXI3++vbO85i7nsAYlIvtKAbHQ370KyupHey7GiAeeEYRDPhDz1SYjcH0ezzVyyDvtVEufp5ux0Xm3FJBESs2edCZwbDPzGG3Fl2lE3YiJuiEdiebJNtVq60CmDFQzNr9u9g=;6/oLn+ZKzFFM/17VXxLrLw=="
+secured: "5Z+cRb7fW3+R68LZjOZOgv2g+C8Hrz9wNpsXikurvVf2yzrmFNOSzqta+nTkW1hvPu7z8JVnB62mNrT2WQOTMGmzsufOhhxbPP/OJD6j8Qs30VOkKIkeji7UBFZoZETHM+z8csP8KpCBerBT87ajYjArnVKvi6e9tP5yMCQICyVgoEJzMbVO0NrckJ+wEHwr2BveKguMeke+HpG17pYmAOF8Vs1oShWE2uJMECt1t3PIdwclZwyj9m/2rMO3MNeqGvpZFItJfSX7SMQRoEHUQqul+G/B3/r3bFh0ZD8rL9eTLf+vs2bQkE4qcYBEINdDpg26zvtSFPgHy5sybEEWMjKI7hnWsd/VoAf/eKoKqj0=;CaR+K6R4jzKJjXfQT4dXBA=="
 ---
 

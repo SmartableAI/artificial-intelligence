@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 763
         isCached: true
-  - title: "Zelros raises $11 million for AI that personalizes insurance plans"
-    excerpt: "Zelros raised $11 million for natural language understanding technology to help policyholders choose the optimum insurance plans."
-    publishedDateTime: 2021-02-24T13:06:00Z
-    webUrl: "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/"
-    ampWebUrl: "https://venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/zelros-raises-11-million-for-ai-that-personalizes-insurance-plans/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/Sales_Home_8-e1613494625322.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Boosted by the pandemic, meeting transcription service Otter.ai raises $50M"
     excerpt: "Over the past year or so, voice transcription startup Otter.ai doubled down on the future of remote work by integrating its product with meeting apps like Zoom and Google Meet. With the COVID-19 pandemic having sent so many to work from home,"
     publishedDateTime: 2021-02-25T14:01:00Z

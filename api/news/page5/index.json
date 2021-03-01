@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
+      "title": "Proposed framework could reduce energy consumption of federated learning",
+      "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/federated_learning.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
+      "publishedDateTime": "2021-02-23T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition.md",
       "title": "Tech newsletter: Horrifying robot dog’s paintball rampage, Biden + facial recognition",
       "excerpt": "Welcome to the Tuesday edition of the Internet Insider, where we dissect tech and politics news unfolding online. Today: Pranksters show how horrifying Boston Dynamics’ police robot dog is by strapping a paintball gun to it Civil rights groups want Biden to halt government use of facial recognition No,",
@@ -729,24 +781,15 @@
     {
       "path": "_news/2021-02-23-technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom.md",
       "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com",
-      "excerpt": "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,",
+      "excerpt": "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf",
+      "webUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
+      "originalUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -754,8 +797,8 @@
       "publishedDateTime": "2021-02-23T06:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1018,8 +1061,8 @@
       "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
       "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=business_featst_pos2",
-      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=business_featst_pos2",
+      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1061,9 +1104,8 @@
         "news"
       ],
       "topics": [
-        "Google AI",
-        "AI",
-        "IBM AI"
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1148,48 +1190,6 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-youtuber-asks-an-ai-for-video-ideas-gets-a-surprising-response.md",
-      "title": "YouTuber asks an AI for video ideas, gets a surprising response",
-      "excerpt": "British YouTuber Tom Scott has such a distinctive style to his videos that they can — and have — lent themselves quite well to parody in the past, both from humans and AIs alike. But for his latest video,",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas/",
-      "originalUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F02%252F23%252Fa7%252Fafc388130de0401ea4aaa9a02a605fcb.25912.png%252F1200x630.png?signature=ScPGsVbMbPWsqaSrgHcW4O5dKH8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/youtuber-tom-scott-asks-ai-video-ideas.amp",
-      "publishedDateTime": "2021-02-23T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

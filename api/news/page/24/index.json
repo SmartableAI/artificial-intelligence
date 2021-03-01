@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-09-video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world.md",
+      "title": "Video AI Could Be The Key To Unlock Communication In A Post-Pandemic World",
+      "excerpt": "It’s creating virtual work and learning environments that are even more engaging than the physical spaces we’re leaving behind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602136dd72642c82722d90d8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/02/08/video-ai-could-be-the-key-to-unlock-communication-in-a-post-pandemic-world/amp/",
+      "publishedDateTime": "2021-02-08T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-praktice-ais-digital-covid-vaccine-assistant-is-now-available-on-microsoft-appsource-azure-marketplace.md",
       "title": "Praktice AI's Digital COVID Vaccine Assistant is now available on Microsoft AppSource & Azure Marketplace",
       "excerpt": "Praktice AI, a leading provider of Digital Care Navigation technology, has announced the addition of COVID Vaccine Assistant on the Microsoft AzureMarketplace.",
@@ -1077,49 +1129,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-researchers-test-detection-methods-for-ai-generated-content.md",
-      "title": "Researchers test detection methods for AI-generated content",
-      "excerpt": "Artificial intelligence generators can craft text that mimics a human author, improving the user experience in platforms such as medical chatbots, online",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/",
-      "originalUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2021/02/news-trends_50.jpg",
-          "width": 400,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/520932/researchers-test-detection-methods-for-ai-generated-content/amp/",
-      "publishedDateTime": "2021-02-07T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

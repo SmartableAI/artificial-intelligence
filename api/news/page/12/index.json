@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-17-this-cloud-computing-billing-expert-is-very-funny-seriously.md",
+      "title": "This Cloud Computing Billing Expert Is Very Funny. Seriously.",
+      "excerpt": "Corey Quinn has made it his business to understand Amazon’s cloud-computing charges and have some fun at the company’s expense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/14/business/00amazonpest1/00amazonpest1-facebookJumbo-v3.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.amp.html",
+      "publishedDateTime": "2021-02-17T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-what-does-it-take-to-operationalize-ai.md",
       "title": "What Does It Take To Operationalize AI?",
       "excerpt": "Software development processes and team structures have evolved a lot over the years, from waterfall and agile to DevOps and beyond.",
@@ -1192,58 +1244,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise.md",
-      "title": "IBM’s Arin Bhowmick explains why AI trust is hard to achieve in the enterprise",
-      "excerpt": "IBM's Arin Bhowmick explains why in the absence of explainability, it remains difficult for enterprise organizations to trust AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-Design-Explainability-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/amp/",
-      "publishedDateTime": "2021-02-16T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

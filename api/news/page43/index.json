@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-27-what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection.md",
+      "title": "What real AI developers and Black Mirror both get wrong about digital resurrection",
+      "excerpt": "One day we’re all going to die. Science and technology can put it off for awhile, but the march of time stops for no human. Sadly, most of us will be forgotten. It’s a bleak prognosis but that’s how things have always been.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/",
+      "originalUrl": "https://thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/graveyard_brb-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/01/26/what-real-ai-developers-and-black-mirror-both-get-wrong-about-digital-resurrection/amp/",
+      "publishedDateTime": "2021-01-26T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-more-than-a-name-ibm-support-for-watson-college-remains-strong.md",
       "title": "More than a name: IBM support for Watson College remains strong",
       "excerpt": "If you want to see the connections between IBM Corp. and Watson College, you need to look no further than the name of the school itself.",
@@ -1121,58 +1172,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-runai-raises-30m-series-b-for-its-ai-compute-platform.md",
-      "title": "Run:AI raises $30M Series B for its AI compute platform",
-      "excerpt": "Run:AI, a Tel Aviv-based company that helps businesses orchestrate and optimize their AI compute infrastructure, today announced that it has raised a $30 million Series B round. The new round was led by Insight Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
-      "originalUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/RunAi-company-image2-01.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/26/runai-raises-30m-series-b-for-its-ai-compute-platform/amp/",
-      "publishedDateTime": "2021-01-26T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
