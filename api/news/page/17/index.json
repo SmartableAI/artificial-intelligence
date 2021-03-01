@@ -2,6 +2,162 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
+      "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
+      "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "originalUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-297635/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "publishedDateTime": "2021-02-13T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-self-driving-cars-wont-go-mainstream-until-we-solve-this-problem.md",
+      "title": "Self-Driving Cars Won’t Go Mainstream Until We Solve This Problem",
+      "excerpt": "There’s a major controversy that needs to be addressed before we can let our cars do all the driving for us, and it’s not a technical one. It’s ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60269ee58ebec1fae0b0c3cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
+      "publishedDateTime": "2021-02-13T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across.md",
+      "title": "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across",
+      "excerpt": "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-13T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace.md",
       "title": "Artificial Intelligence in Security Market Next Big Thing | Major Giants Amazon, IBM, Darktrace",
       "excerpt": "COVID-19 Outbreak-Global Artificial Intelligence in Security Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
@@ -1044,145 +1200,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-quantiphi-named-as-an-idc-innovator-in-artificial-intelligence-services.md",
-      "title": "Quantiphi Named as an IDC Innovator in Artificial Intelligence Services",
-      "excerpt": "Quantiphi, an applied AI and data science software and services company, today announced that it has been named an IDC Innovator in the IDC Innovators: Artificial Intelligence Services, 2020 ( Doc # US45733220,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19648625.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19648625.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-should-delhi-govt-schools-be-using-the-facial-recognition-technology.md",
-      "title": "Should Delhi govt schools be using the facial recognition technology?",
-      "excerpt": "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
-      "publishedDateTime": "2021-02-12T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-how-sterling-k-brown-became-the-voice-of-cnns-lincoln-divided-we-stand.md",
-      "title": "How Sterling K. Brown became the voice of CNN's 'Lincoln: Divided We Stand'",
-      "excerpt": "\"This Is Us\" star Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160921115945-sterkling-k-brown-this-is-us-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "publishedDateTime": "2021-02-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

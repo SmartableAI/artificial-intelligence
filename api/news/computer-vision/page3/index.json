@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-05-the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows.md",
+      "title": "The AI industry is built on geographic and social inequality, research shows",
+      "excerpt": "Researchers find that the AI industry is build on geographic and social inequality, but opportunities exist to change this.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
+      "originalUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data.GettyImages-1176071503.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
+      "publishedDateTime": "2021-02-04T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-super-bowl-sunday-changes-face-masks-empty-seats-and-driveway-parties.md",
       "title": "Super Bowl Sunday Changes: Face Masks, Empty Seats and Driveway Parties",
       "excerpt": "The Super Bowl will once again feature the Chiefs, but almost every other part of the fan experience could be different.",
@@ -1370,41 +1423,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-global-deep-learning-in-computer-vision-market-segmentation-key-development-geographical-outlook-recent-developments-and-industry-outlook.md",
-      "title": "Global Deep Learning in Computer Vision Market Segmentation, Key Development, Geographical Outlook, Recent Developments And Industry Outlook",
-      "excerpt": "Deep learning in computer vision market will grow at a rate of 55.65% for the forecast period of 2020 to 2027. Data Bridge Market Research report deep learning in computer vision market provides ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2233265/global-deep-learning-in-computer-vision-market-segmentation",
-      "originalUrl": "https://www.openpr.com/news/2233265/global-deep-learning-in-computer-vision-market-segmentation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2233265/global-deep-learning-in-computer-vision-market-segmentation",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2233265/global-deep-learning-in-computer-vision-market-segmentation",
-      "publishedDateTime": "2021-01-29T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

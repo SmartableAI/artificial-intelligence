@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation.md",
+      "title": "Healthcare’s Latest Unicorn: Big Data Startup Innovaccer Raises $105 Million At $1.3 Billion Valuation",
+      "excerpt": "On the heels of a year that saw a record amount of venture cash flow into healthcare startups, investor appetite for healthtech does not appear to be waning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/",
+      "originalUrl": "https://www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6035a91c576971c0e24a3dfb%2F0x0.jpg",
+          "width": 1000,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexandrawilson1/2021/02/24/healthcares-latest-unicorn-big-data-startup-innovaccer-raises-105-million-at-13-billion-valuation/amp/",
+      "publishedDateTime": "2021-02-24T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026.md",
+      "title": "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026",
+      "excerpt": "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-ai-can-write-a-passing-college-paper-in-20-minutes.md",
       "title": "AI can write a passing college paper in 20 minutes",
       "excerpt": "AI can do a lot of things extremely well. One thing that it can do just okay -- which, frankly, is still quite extraordinary -- is write college term papers. That's the finding from EduRef, a resource for students and educators,",
@@ -409,40 +513,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-24-fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform.md",
-      "title": "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform",
-      "excerpt": "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures .",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/",
-      "originalUrl": "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-machine-learning-aids-in-simulating-dynamics-of-interacting-atoms.md",
       "title": "Machine learning aids in simulating dynamics of interacting atoms",
       "excerpt": "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal. This automated approach to \"interatomic potential development\" could transform the field of computational materials discovery.",
@@ -623,6 +693,58 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform.md",
+      "title": "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform",
+      "excerpt": "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1117,97 +1239,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre.md",
-      "title": "NAG Delivers Machine Learning Guidance via New Azure HPC + AI Collaboration Centre",
-      "excerpt": "The Numerical Algorithms Group (NAG) will provide machine learning guidance to Microsoft Azure users via the new Azure HPC & AI Collaboration Centre. In partnership with NVIDIA, this new centre will develop best practices for the deployment of scalable machine learning in the Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/",
-      "originalUrl": "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-microsoft-ceo-harps-on-data-privacy-ai-ethics.md",
-      "title": "Microsoft CEO harps on data privacy, AI ethics",
-      "excerpt": "Microsoft CEO Satya Nadella on Tuesday underscored the need for tech firms to develop products that ensure privacy of data, are secure and conform to AI ethics as well as fundamental internet safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/Hyderabad/4kp406/article33917323.ece/ALTERNATES/LANDSCAPE_615/hy23-nadella",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/microsoft-ceo-harps-on-data-privacy-ai-ethics/article33917314.ece/amp/",
-      "publishedDateTime": "2021-02-23T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

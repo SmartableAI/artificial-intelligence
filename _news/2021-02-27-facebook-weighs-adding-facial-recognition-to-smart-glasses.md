@@ -126,7 +126,7 @@ related:
   - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
     excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
     publishedDateTime: 2021-02-26T21:08:00Z
-    webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
+    webUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
     type: article
     provider:
       name: News 12 New Jersey
@@ -150,6 +150,20 @@ related:
       - url: "https://images.weserv.nl/?url=https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f71f1fa92e15a62c7144241/0x0.jpg&h=276&fit=inside&cbg=white"
         width: 369
         height: 276
+        isCached: true
+  - title: "Facebook mulls face biometrics for forthcoming smart glasses"
+    excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."
+    publishedDateTime: 2021-03-01T20:23:00Z
+    webUrl: "https://www.biometricupdate.com/202103/facebook-mulls-face-biometrics-for-forthcoming-smart-glasses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
     excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."

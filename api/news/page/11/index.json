@@ -2,6 +2,162 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-18-applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow.md",
+      "title": "Applying voice classification in an Amazon Connect telemedicine contact flow",
+      "excerpt": "Given the rising demand for fast and effective COVID-19 detection, customers are exploring the usage of respiratory sound data, like coughing, breathing, and counting, to automatically diagnose COVID-19 based on machine learning (ML) models. University of Cambridge researchers built a COVID-19 sound",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/ML-2176-1.png",
+          "width": 800,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T11:47:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-google-has-a-new-responsible-ai-lead.md",
+      "title": "Google has a new responsible AI lead",
+      "excerpt": "Google has appointed Dr. Marian Croak to lead its responsible artificial intelligence division within Google Research, Bloomberg reported earlier today. Croak was previously the vice president of engineering at the company.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
+      "originalUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
+      "publishedDateTime": "2021-02-18T11:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-marian-croaks-vision-for-responsible-ai-at-google.md",
+      "title": "Marian Croak’s vision for responsible AI at Google",
+      "excerpt": "Dr. Marian Croak has spent decades working on groundbreaking technology, with over 200 patents in areas such as Voice over IP, which laid the foundation for the calls we all use to get things done and stay in touch during the pandemic. For the past six years she’s been a VP at Google working on everything",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/",
+      "originalUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian-croak-1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-responsible-ai/amp/",
+      "publishedDateTime": "2021-02-18T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-machine-learning-on-distributed-dask-using-amazon-sagemaker-and-aws-fargate.md",
       "title": "Machine learning on distributed Dask using Amazon SageMaker and AWS Fargate",
       "excerpt": "As businesses around the world are embarking on building innovative solutions, we’re seeing a growing trend adopting data science workloads across various industries. Recently, we’ve seen a greater push towards reducing the friction between data engineers and data scientists. Data scientists are now",
@@ -458,13 +614,22 @@
       "title": "Infosenseglobal Launches New Artificial Intelligence Division",
       "excerpt": "Infosenseglobal is proud to announce its newest division, focusing exclusively on building innovative artificial intelligence solutions for businesses looking to accelerate digital transformation. With decades of experience in information technology,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1050,136 +1215,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-baidu-revenue-beats-estimates-as-core-search-business-recovers.md",
-      "title": "Baidu revenue beats estimates as core search business recovers",
-      "excerpt": "In January, the company announced it is teaming up with Zhejiang Geely Holding Group to produce smart electric vehicles, prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. With its AI applications still in the early ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/18/2a03049c-7188-11eb-ba58-f8f0a43119e3_image_hires_094224.jpg?itok=M_qgViAc&v=1613612550",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "publishedDateTime": "2021-02-18T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india.md",
-      "title": "'Artificial Intelligence and the Future of Power' a grim wake-up call for India",
-      "excerpt": "New Delhi, Feb 18 : With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with \"the battle between algorithm and being\" writes Rajiv Malhotra, one of the most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prokerala.com/news/articles/a1132144.html",
-      "originalUrl": "https://www.prokerala.com/news/articles/a1132144.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prokerala.com/news/photos/imgs/450/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-1151753.jpg",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.prokerala.com/news/articles/a1132144.html?amp=1",
-      "cdnAmpWebUrl": "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1132144.html?amp=1",
-      "publishedDateTime": "2021-02-18T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Prokerala",
-        "domain": "prokerala.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning.md",
-      "title": "Global AI-based Drug Discovery Markets 2020-2030: Focus on Deep Learning and Machine Learning",
-      "excerpt": "The \"AI-based Drug Discovery Market: Focus on Deep Learning and Machine Learning, 2020-2030\" report has been added",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19721667",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19721667",
-      "publishedDateTime": "2021-02-18T01:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

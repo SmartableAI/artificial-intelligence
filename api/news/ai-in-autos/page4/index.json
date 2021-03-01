@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-02-4-tech-stocks-that-may-be-worth-more-in-pieces.md",
+      "title": "4 Tech Stocks That May Be Worth More in Pieces",
+      "excerpt": "The Waymo self-driving car subsidiary alone ... and is also a player in sectors as diverse as cloud computing and artificial intelligence. It still makes PC operating systems and still has its ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/",
+      "originalUrl": "https://investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/techstock1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/02/4-tech-stocks-that-may-be-worth-more-in-pieces/amp/",
+      "publishedDateTime": "2021-02-02T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
       "title": "Artificial intelligence isn’t as smart as it thinks",
       "excerpt": "Digital personal assistants, software that can trounce board game champions, algorithms serving up customized online advertising — wherever you turn, artificial intelligence appears to be taking over the world. But look past the self-driving cars and ...",
@@ -1405,58 +1448,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-tesla-will-never-achieve-full-self-driving-capabilities-waymo-ceo-says.md",
-      "title": "Tesla will never achieve full self-driving capabilities, Waymo CEO says",
-      "excerpt": "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
-      "publishedDateTime": "2021-01-26T18:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

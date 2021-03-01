@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size to Record 29.7% CAGR During 2020-2027"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report"
-    publishedDateTime: 2021-02-25T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts"
     excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
     publishedDateTime: 2021-02-25T13:13:00Z

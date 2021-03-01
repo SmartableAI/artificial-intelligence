@@ -2,6 +2,159 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-19-how-to-watch-nasas-perseverance-rover-land-on-mars-today.md",
+      "title": "How to watch NASA’s Perseverance rover land on Mars today",
+      "excerpt": "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/",
+      "originalUrl": "https://www.digitaltrends.com/news/how-to-watch-perserverance-landing-mars-livestream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-operationalizing-enterprise-ai-at-scale.md",
+      "title": "Operationalizing Enterprise AI At Scale",
+      "excerpt": "Especially after your first AI use case has been successfully operationalized and scaled, make sure that others in your company hear about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
+      "publishedDateTime": "2021-02-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-alexa-what-does-the-smart-home-teach-us-about-ai.md",
+      "title": "Alexa, What Does The Smart Home Teach Us About AI?",
+      "excerpt": "We don’t often get a real glimpse of the future before it happens, but I believe that's what the smart home grants business leaders for the future of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ebe9ecc4962fb6150f91a%2F0x0.jpg",
+          "width": 752,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
+      "publishedDateTime": "2021-02-19T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
       "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
       "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
@@ -223,6 +376,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
+      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
+      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
+      "publishedDateTime": "2021-02-18T22:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -590,58 +786,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
-      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
-      "excerpt": "That’s according to a recent study from Google’s DeepMind that looked at the positive and negative effects of AI on people who identify as lesbian, gay, bisexual, transgender, or asexual.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1148800397.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "publishedDateTime": "2021-02-18T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     },
     {
@@ -1032,162 +1176,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow.md",
-      "title": "Applying voice classification in an Amazon Connect telemedicine contact flow",
-      "excerpt": "Given the rising demand for fast and effective COVID-19 detection, customers are exploring the usage of respiratory sound data, like coughing, breathing, and counting, to automatically diagnose COVID-19 based on machine learning (ML) models. University of Cambridge researchers built a COVID-19 sound",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/applying-voice-classification-in-an-amazon-connect-telemedicine-contact-flow/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/12/ML-2176-1.png",
-          "width": 800,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T11:47:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-google-has-a-new-responsible-ai-lead.md",
-      "title": "Google has a new responsible AI lead",
-      "excerpt": "Google has appointed Dr. Marian Croak to lead its responsible artificial intelligence division within Google Research, Bloomberg reported earlier today. Croak was previously the vice president of engineering at the company.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
-      "originalUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-1192401456.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/google-has-a-new-responsible-ai-lead/amp/",
-      "publishedDateTime": "2021-02-18T11:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-marian-croaks-vision-for-responsible-ai-at-google.md",
-      "title": "Marian Croak’s vision for responsible AI at Google",
-      "excerpt": "Dr. Marian Croak has spent decades working on groundbreaking technology, with over 200 patents in areas such as Voice over IP, which laid the foundation for the calls we all use to get things done and stay in touch during the pandemic. For the past six years she’s been a VP at Google working on everything",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/",
-      "originalUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/marian-croak-1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/marian-croak-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/marian-croak-responsible-ai/amp/",
-      "publishedDateTime": "2021-02-18T10:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

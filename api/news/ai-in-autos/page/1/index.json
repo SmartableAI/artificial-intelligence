@@ -717,6 +717,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-21-ai-for-deplorable-writers-how-artificial-intelligence-will-revolutionize-writing.md",
+      "title": "AI for Deplorable Writers: How Artificial Intelligence Will Revolutionize Writing",
+      "excerpt": "When you think of artificial intelligence (AI) and automation, what comes to mind? Maybe you think of self-driving cars or robots performing mundane tasks. But not writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEYft5BEVm1vQ/article-cover_image-shrink_600_2000/0/1613909700539?e=1620259200&v=beta&t=Mdm6I9mpKgap_kIWJIp5jVM7TbOVAazHNTtMbhv_mkY",
+          "width": 770,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-alexander-levandowski-former-google-executive-pardoned-by-trump-shutters-ai-church-and-donates-funds-to-naacp.md",
       "title": "Alexander Levandowski: Former Google executive pardoned by Trump shutters AI church and donates funds to NAACP",
       "excerpt": "A former tech executive at Google who was pardoned by Donald Trump has shuttered his church - which worshiped artificial intelligence - and donated its funds to the NAACP. Anthony Levandowski, who founded Google's self-driving car initiative, Waymo ...",
@@ -847,20 +899,20 @@
     },
     {
       "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
-      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
+      "title": "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan",
+      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence algorithms ... Alphabet Inc.’s Waymo unit and General Motors ...",
       "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
+      "webUrl": "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "originalUrl": "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
+          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
           "width": 1200,
-          "height": 676,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -868,13 +920,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/4510493001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001",
-      "publishedDateTime": "2021-02-19T11:02:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T11:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1354,49 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-baidus-share-price-bounces-back-ahead-of-earnings.md",
-      "title": "Baidu’s share price bounces back ahead of earnings",
-      "excerpt": "On 18 March, Baidu’s share price fell to $83.62 on the stock’s worst day of trading — its lowest close since 2013. Over the following months, Baidu’s share price had a lacklustre performance and didn’t return to the green until 4 November,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
-      "originalUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.cmcmarkets.com/images/Baidu1602_medium.jpg",
-          "width": 768,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMC Markets",
-        "domain": "cmcmarkets.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos"
+    excerpt: "Service from MyHeritage uses deep learning technique to automatically animate faces"
+    publishedDateTime: 2021-03-01T19:35:00Z
+    webUrl: "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco"
+    ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10"
+        width: 600
+        height: 360
+        isCached: true
   - title: "'Deep Nostalgia': Tech company animates photos of dead relatives"
     excerpt: "Genealogy company MyHeritage introduced its “Deep Nostalgia” tool Thursday. Similar to so-called “deep fakes,” the feature allows users to turn still photos of their dead relatives into briefly animated videos,"
     publishedDateTime: 2021-02-28T02:10:00Z

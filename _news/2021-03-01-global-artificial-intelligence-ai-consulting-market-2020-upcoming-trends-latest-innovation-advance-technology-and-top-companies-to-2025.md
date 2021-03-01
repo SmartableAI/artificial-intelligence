@@ -27,22 +27,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Global Automation and Control System in Healthcare Market : Trends, Top Players, Market Demands, Industry Growth Forecast: 2027"
-    excerpt: "Global Automation and Control System in Healthcare Market Healthcare industry rapidly adopting advanced technologies"
-    publishedDateTime: 2021-02-25T03:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-automation-and-control-system-in-healthcare-market-trends-top-players-market-demands-industry-growth-forecast-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "dbKzpH0BoThfZKPDf8vpNAsm5x/U7FP2P2Gp8Me14KYNKNUuIXhKb24hshdFaraLPp7LApIv6qYqEBVHD5XjV8hgWuGrDkNemTnTZ9LMrPBxqSeV4g3WxmAiPTXpWSs1cGKPnr55VSwLDnzccq2huto4JrK+pc4Uro/qwb2HSmHrHXCyqqS30UamQlKztHpiHXhCLzVJuyce5pqQKTrIi6ddiS+79eUYDGuTkfrCRw6/akvfrJhL6TIs1685bypNealiqGqQECrCHGMzfF1MObVbPLlgBJyvmDU25GveLGMKIVuboNPTbG5llIxLM2tJja83OqNeFnwNddHnZ+bQ5M1LCKFyrrOEFspF0Niz8DM=;7G7Cn4AwRcsaeP7uzN66XA=="
 ---
 

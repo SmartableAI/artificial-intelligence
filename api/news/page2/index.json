@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-27-the-company-using-robots-and-fan-input-to-pitch-stories-to-hollywood.md",
+      "title": "The company using robots and fan input to pitch stories to Hollywood",
+      "excerpt": "Wattpad, a social storytelling platform with 90 million users, is becoming a rich source of intellectual property for film and TV producers.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
+      "originalUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2021/01/netflix-the-kissing-booth-e1611957617563.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1963544/is-wattpad-and-its-machine-learning-tool-the-future-of-tv/amp/",
+      "publishedDateTime": "2021-02-27T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.md",
+      "title": "Study on artificial microswimmers could improve the efficacy of targeted cancer therapy",
+      "excerpt": "A Mason Engineering researcher has discovered that artificial microswimmers accumulate where their speed is minimized, an idea that could have implications for improving the efficacy of targeted cancer therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/6/swimming_pool_under_water_...-Andrey_Armyagov_a70e8a1426b94ac2bc67e031fd0448c3-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
+      "publishedDateTime": "2021-02-27T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-the-deep-south-has-a-rich-history-of-resistance-as-amazon-is-learning.md",
       "title": "The Deep South Has a Rich History of Resistance, as Amazon Is Learning",
       "excerpt": "The Deep South is not generally known for its labor agitation, which is why it might come as a surprise for some to learn that it is in Alabama where workers have mounted one of the largest and most aggressive efforts to unionize Amazon in recent memory.",
@@ -1036,7 +1131,7 @@
       "originalUrl": "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -1181,109 +1276,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026.md",
-      "title": "Deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026",
-      "excerpt": "The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,427.2 million by 2026. North America held the major share of the global deep learning market in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T16:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government.md",
-      "title": "Biden should double down on Trump’s policy of promoting AI within government",
-      "excerpt": "The current administration should not only maintain the policy of promoting government use of AI, it should make it a priority.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/US_flag.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/biden-should-double-down-on-trumps-policy-of-promoting-ai-within-government/amp/",
-      "publishedDateTime": "2021-02-25T15:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

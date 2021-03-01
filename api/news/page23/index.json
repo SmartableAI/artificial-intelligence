@@ -2,6 +2,152 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-10-startup-that-taps-ai-to-boost-crop-yields-seeks-canadian-ipo.md",
+      "title": "Startup that Taps AI to Boost Crop Yields Seeks Canadian IPO",
+      "excerpt": "Farmers Edge Inc., a firm that uses artificial intelligence to help growers boost crop yields, is seeking to raise about C$100 million ($79 million) in an initial public offering to strengthen its finances and repay debt.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idVPLA9Vtm80/v1/360x-1.jpg",
+          "width": 360,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-02-09/farmers-edge-files-papers-for-initial-public-offering-in-canada",
+      "publishedDateTime": "2021-02-09T15:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-toyota-and-aurora-craft-deal-to-develop-self-driving-taxis.md",
+      "title": "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis",
+      "excerpt": "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
+      "originalUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/02/Aurora-Sienna-1200px.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
+      "publishedDateTime": "2021-02-09T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-nuance-acquires-saykara-to-build-out-healthcare-ai-tools.md",
+      "title": "Nuance acquires Saykara to build out healthcare AI tools",
+      "excerpt": "Nuance Communications has acquired Saykara, a startup that developed an artificial intelligence-powered physician assistant tool. The deal will help Nuance boost its capabilities in healthcare AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/practices/nuance-acquires-saykara-to-expand-healthcare-ai-products",
+      "originalUrl": "https://www.fiercehealthcare.com/practices/nuance-acquires-saykara-to-expand-healthcare-ai-products",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercehealthcare/1612903666/GettyImages-998453918.jpg/GettyImages-998453918.jpg?khEcoran3IgdXbq8BJU0P4MeH2sP.Nbd",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-artificial-human-genomes-could-help-overcome-research-privacy-concerns.md",
       "title": "Artificial Human Genomes Could Help Overcome Research Privacy Concerns",
       "excerpt": "It can be difficult to distinguish a flesh-and-blood human’s face from one generated by artificial intelligence. (Telltale signs are misshapen eyes under spectacles, non-dermatological blemishes on the skin,",
@@ -764,6 +910,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
+      "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
+      "excerpt": "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's enterprise-ready platform will use Microsoft technology to power its products,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19640933.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19640933.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-theator-raises-155-million-to-analyze-surgical-footage-with-computer-vision.md",
       "title": "Theator raises $15.5 million to analyze surgical footage with computer vision",
       "excerpt": "Theator, a startup developing a 'surgical intelligence' platform powered by computer vision, has raised $15.5 million.",
@@ -854,40 +1043,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-cleareyeai-collaborates-with-microsoft-for-ai-platform.md",
-      "title": "Cleareye.ai Collaborates with Microsoft for AI Platform",
-      "excerpt": "The engine from Cleareye.ai also uses computer vision, part of Azure Cognitive Services, Azure Kubernetes Service, and other scalable computing and analytical services from Microsoft to fulfill ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19559723",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723",
-      "publishedDateTime": "2021-02-09T05:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1033,152 +1188,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-artificial-intelligence-for-good-how-ai-is-helping-humanity.md",
-      "title": "Artificial Intelligence For Good: How AI Is Helping Humanity",
-      "excerpt": "AI empowers organizations, governments and communities to build a high-performing ecosystem, and its profound impact on human lives is solving some of the most critical challenges faced by society.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6021b467587cf7b5bcb663a7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D0%26cropY2%3D3780",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/amp/",
-      "publishedDateTime": "2021-02-09T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-how-ai-not-automation-will-revolutionize-commercial-trucking.md",
-      "title": "How AI (not automation) will revolutionize commercial trucking",
-      "excerpt": "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "originalUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/09/392d2866-a608-414d-a822-19cfafd9e5f7/semi-truck.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
-      "publishedDateTime": "2021-02-09T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-data-collection-and-labeling-market-size-worth-822-billion-by-2028-grand-view-research-inc.md",
-      "title": "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc.",
-      "excerpt": "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
-          "width": 1400,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

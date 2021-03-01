@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-21-technologists-use-facial-recognition-on-parler-videos.md",
+      "title": "Technologists Use Facial Recognition on Parler Videos",
+      "excerpt": "Technologists have used facial recognition techniques on the large archive of Parler videos filmed from the January 6 Capitol riots, Motherboard has learned. In some cases they have been able to track individual faces across different videos,",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "originalUrl": "https://www.vice.com/en/article/xgz7g7/facial-recognition-parler-videos",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6008765a4384dd009c120dbd/lede/1611167325556-capitol.jpeg?crop=1xw:0.842xh;0xw,0.077xh",
+          "width": 1500,
+          "height": 842,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/xgz7g7/facial-recognition-parler-videos",
+      "publishedDateTime": "2021-01-20T13:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-facebook-updates-its-automatic-alternative-text-system-with-expanded-object-recognition.md",
       "title": "Facebook updates its automatic alternative text system with expanded object recognition",
       "excerpt": "The next-generation AAT system can identify more objects in photos, perceive where each object is located relative to each other and provide more detailed descriptions.",

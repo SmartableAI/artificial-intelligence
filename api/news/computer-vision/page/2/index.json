@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-should-delhi-govt-schools-be-using-the-facial-recognition-technology.md",
+      "title": "Should Delhi govt schools be using the facial recognition technology?",
+      "excerpt": "The use of the facial recognition technology in several Delhi government schools - in conjunction with the CCTV cameras installed - raises grave concerns, given the absence of data protection and privacy laws in India,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/migration_catalog/v2mul8/article18054655.ece/ALTERNATES/LANDSCAPE_615/editpage-blrasBL22RASHEEDA2EDITjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/education/should-delhi-govt-schools-be-using-the-facial-recognition-technology/article33822047.ece/amp/",
+      "publishedDateTime": "2021-02-12T04:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge.md",
       "title": "IOTech edge software platform to support Computer Vision and AI at the IoT edge",
       "excerpt": "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the",
@@ -1307,59 +1351,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows.md",
-      "title": "The AI industry is built on geographic and social inequality, research shows",
-      "excerpt": "Researchers find that the AI industry is build on geographic and social inequality, but opportunities exist to change this.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
-      "originalUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data.GettyImages-1176071503.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/04/the-ai-industry-is-built-on-geographic-and-social-inequality-research-shows/amp/",
-      "publishedDateTime": "2021-02-04T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
 excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
 publishedDateTime: 2021-02-26T21:08:00Z
-originalUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
-webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
+originalUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
+webUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
 type: article
 quality: 34
 heat: -1
@@ -151,6 +151,20 @@ related:
         width: 369
         height: 276
         isCached: true
+  - title: "Facebook mulls face biometrics for forthcoming smart glasses"
+    excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."
+    publishedDateTime: 2021-03-01T20:23:00Z
+    webUrl: "https://www.biometricupdate.com/202103/facebook-mulls-face-biometrics-for-forthcoming-smart-glasses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
     excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
     publishedDateTime: 2021-02-26T22:35:00Z
@@ -168,6 +182,6 @@ related:
         height: 382
         isCached: true
 
-secured: "2i+ae9hsufBpHYH9yFI/5BeGF5NAjo0+ZwHvALqDrxUz8guYdEYpguNmDRCAoHBwt76US+7Vke51RiM8H1/AMFkqPlLKwD2pck0cRaVqMCYY1iBXKrObQuybhSoG4efPeQ8q/aouNzE3c8znI2AhURDjOGx7yYQZ3k+PZgOyfVWrY2VyiJS3HFyB9hKH6uu9XEEQvxVx3DbV4IaBmxLHdDbCos0zMI/ir93YcHGVVfctja7w3wEWtHYZaSOkQkpfmCJTFV/p87ouKsNudL8lUiuON5/WsS3YLGlwBA/vQ66ewAEI8FgsSU8Q0gCosH3M9PdNY1TJdDDTw8iSrmpIKkN/J1p3fYxDS50q5yAWglY=;jxBq+yFcdwoejqsC581k/g=="
+secured: "OCpn7Yukjy/oVxpdmCvQfmZDVykeEzEIvdYBZhEitFEGysxRl9MCs/7ZqSeY/be1NePRCP3PLblL3zqBudU2/hDTwT76sXtmnneRxDBJcM0RdxD6np+oqXghTYxUZeLhwiUr6mgx5rWFPdTcP6DJQs/0uhVyFOfGb8Oz/Oku9z5/iROOUCJa94B407sddhIS/2ca95yTQIUtKCNZysz+TmojdIEsNq5wrojiPcW6wqFCNtQlgwTzy6snmib/Vpul9flT+CTmBCs6Lbk5rXoyVzAGTGkVE+nbQ2+UvmWNPNY1tSXvYgc7lA9FNTHUpP6CkWkMgKoYzubwGagjFF/mL1w929oDDDkiDBJkyoQFvfY=;Am/MrNNhD/poB2FxdCREmg=="
 ---
 

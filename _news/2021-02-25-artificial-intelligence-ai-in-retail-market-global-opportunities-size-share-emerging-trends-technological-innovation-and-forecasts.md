@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size to Record 29.7% CAGR During 2020-2027"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report"
-    publishedDateTime: 2021-02-25T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market Revenue, Growth Rate, Customer Needs, Trend, Manufacturers and Forecast to 2025"
     excerpt: "Artificial Intelligence (AI) Enabled Medical Imaging is the process of adoption of AI technology in the medical imaging to provide vast supply of medical case data and train its algorithms to find patterns in images,"
     publishedDateTime: 2021-02-25T14:11:00Z

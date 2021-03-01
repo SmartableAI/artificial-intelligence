@@ -2,6 +2,144 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-15-become-an-artificial-intelligence-expert-with-this-discounted-bundle.md",
+      "title": "Become an artificial intelligence expert with this discounted bundle",
+      "excerpt": "Many of today's most exciting technologies have artificial intelligence to thank. Think personalised Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale/",
+      "originalUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F02%252F15%252Fbb%252F515c6269c5564def8f959d03934356b2.b1a00.jpg%252F1200x630.jpg?signature=_MClS5F49xW4D-w839vUne4dkmA=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2021-02-14T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-natural-language-processing-trends-that-impact-enterprises-in-2021.md",
+      "title": "Natural Language Processing Trends That Impact Enterprises in 2021",
+      "excerpt": "Natural language technologies are quickly gaining traction in the enterprise. We are seeing huge numbers of companies every week rolling out text analytics solutions, speech recognition systems, chatbots and every other language-processing use case imaginable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-trends-that-impact-enterprises-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-the-use-of-ai-in-advertising-commerce-and-marketing.md",
+      "title": "The Use Of AI In Advertising, Commerce And Marketing",
+      "excerpt": "AI is kind of the second coming of software, which has gained significant momentum in the last few years, acting as personal assistants for some, while processing business transactions and providing t",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365391",
+      "originalUrl": "https://www.entrepreneur.com/article/365391",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613366535-pexels-startup-stock-photos-7063.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365391",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365391",
+      "publishedDateTime": "2021-02-14T21:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-microsoft-announces-limited-access-to-its-neural-text-to-speech-ai.md",
       "title": "Microsoft announces limited access to its neural text-to-speech AI",
       "excerpt": "Microsoft announces limited access to its neural text-to-speech AI Recently, Microsoft announced limited access to its neural",
@@ -1054,162 +1192,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
-      "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
-      "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "originalUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297635/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
-      "publishedDateTime": "2021-02-13T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-self-driving-cars-wont-go-mainstream-until-we-solve-this-problem.md",
-      "title": "Self-Driving Cars Won’t Go Mainstream Until We Solve This Problem",
-      "excerpt": "There’s a major controversy that needs to be addressed before we can let our cars do all the driving for us, and it’s not a technical one. It’s ethical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
-      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60269ee58ebec1fae0b0c3cb%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
-      "publishedDateTime": "2021-02-13T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across.md",
-      "title": "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across",
-      "excerpt": "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-12/predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],
