@@ -211,49 +211,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-25-teaneck-just-banned-facial-recognition-technology-for-police-heres-why.md",
-      "title": "Teaneck just banned facial recognition technology for police. Here's why",
-      "excerpt": "Teaneck banned the usage of facial recognition software following widespread criticism of the technology wrongfully targeting people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/",
-      "originalUrl": "https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/11/13/USATODAY/usatsports/imageforentry20-mcf.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.northjersey.com/amp/6802839002",
-      "cdnAmpWebUrl": "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6802839002",
-      "publishedDateTime": "2021-02-25T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NorthJersey.com",
-        "domain": "northjersey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-25-amazon-launches-computer-vision-service-to-detect-defects-in-manufactured-products.md",
       "title": "Amazon launches computer vision service to detect defects in manufactured products",
       "excerpt": "Amazon today announced the general availability of Amazon Lookout for Vision, a cloud service that analyzes images using computer vision and AI to spot product or process defects and anomalies in manufactured products.",
@@ -1395,6 +1352,50 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-generate-positivity-with-machine-learning.md",
+      "title": "Generate Positivity With Machine Learning",
+      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
+          "width": 1185,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

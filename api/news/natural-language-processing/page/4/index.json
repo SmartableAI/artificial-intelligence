@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-21-using-natural-language-processing-to-classify-social-work-interventions.md",
+      "title": "Using Natural Language Processing to Classify Social Work Interventions",
+      "excerpt": "Natural language processing can be used for automated extraction of social work interventions from electronic health records, thereby supporting social work staffing and resource allocation decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajmc.com/view/using-natural-language-processing-to-classify-social-work-interventions",
+      "originalUrl": "https://www.ajmc.com/view/using-natural-language-processing-to-classify-social-work-interventions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajmc.com/AJMC_25Lockup.png",
+          "width": 768,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The American Journal of Managed Care",
+        "domain": "ajmc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-speech-zadarma-is-offering-free-access-to-their-widely-recommended-speech-recognition-analytics-tool-until-march-2021.md",
       "title": "Speech Zadarma is offering free access to their widely recommended speech recognition analytics tool until March 2021",
       "excerpt": "Speech analytics is transforming many aspects of business, and is especially beneficial to any sales driven organisation. Zadarma, most well known as a leading global VoIP provider, also offers an industry leading smart speech recognition and analytics feature as part of their incredibly easy to use and highly affordable telecommunications offering.",

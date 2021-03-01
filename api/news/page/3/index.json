@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
+      "title": "Otter.ai raises $50 million for AI transcription",
+      "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 763,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "publishedDateTime": "2021-02-25T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-artificial-intelligence-leveling-the-business-playing-field.md",
       "title": "Artificial Intelligence: Leveling The Business Playing Field",
       "excerpt": "Covid-19 has catalyzed the accelerated adoption of AI-based business analytics, workflow and process automation.",
@@ -165,7 +217,7 @@
       "originalUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -257,49 +309,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-teaneck-just-banned-facial-recognition-technology-for-police-heres-why.md",
-      "title": "Teaneck just banned facial recognition technology for police. Here's why",
-      "excerpt": "Teaneck banned the usage of facial recognition software following widespread criticism of the technology wrongfully targeting people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/",
-      "originalUrl": "https://www.northjersey.com/story/news/bergen/teaneck/2021/02/25/teaneck-nj-bans-facial-recognition-usage-police-citing-bias/6802839002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2019/11/13/USATODAY/usatsports/imageforentry20-mcf.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.northjersey.com/amp/6802839002",
-      "cdnAmpWebUrl": "https://amp-northjersey-com.cdn.ampproject.org/c/s/amp.northjersey.com/amp/6802839002",
-      "publishedDateTime": "2021-02-25T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NorthJersey.com",
-        "domain": "northjersey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1042,7 +1051,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-documents-containing-handwritten-tabular-content-using-amazon-textract-and-amazon-a2i/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {

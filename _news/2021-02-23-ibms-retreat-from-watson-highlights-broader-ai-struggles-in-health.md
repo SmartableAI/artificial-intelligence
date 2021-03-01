@@ -20,6 +20,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Google AI
 
 images:
   - url: "https://images.wsj.net/im-302017/social"
@@ -27,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "8KHi1QNufc2w75EfWXXibIv2oGerDpcezGfrhgZ0CgL2uz/lr9ZW0QcpqvO1yIfNWG7ZRTkDXxm5z7DMmj/2KDIxQgD3iS8AxZu31jEZ7x6DwvvckYuNupfie9kXn/mm/TXMHONH7iBcyKCgmWfuT4Oi2yBH059BC3TIKKZeEJX1LJhkYTD8+JKOvc1CRKEgXwwjbOWaROA3DylVMCBFbnotsdsoBDjoM1pgqX6HjEDZl0Q4S+eJP7RDFFiDvCU+1s2qdQU0Q/OO2pOIknX4iUa3z3mKtsXLlbh76/nPfLRhfsLjR7ZArW/+Dm2OZkyotxfPwlyzUkergbMX5GdFQDcSxrf8B1Aa/IZcRxH7lT0=;QLS6eUG+/DZQs4ztlRXstw=="
+secured: "S6TDTZ69UytPdThfVsijGNT4BSMA8RWlbexKtxZ39WfPFAv5ao83TsvRkN5K/gTYgbC/m+7rxGZ3LANL1j25FkwGYEp5JO/hTE2PlYRpTERX6xLRcrnZxEBuf0a1Z2cUflmanOE8HcRBXgjGaTfIFwgxIOOmqYkHVlx4fMTXEE+0F0DXmcQ+wdQiSyyCFU8rr7W98L8l6UTyK+gWBXuhzD+jGLJ34zEEaw7OyjObR0e57liUFBdb+Brj5SZKilo2OBORB0LeOfceSBPZKHVKq3xbhpjCeyfsmsk8i+J0rVn1YVquHYmEbKyyfUF+g4DhXzexwNwwbuNJ0ah2IEwERrELq/tFhELsbdjNTbspTGFeKv0hS1zg+jz5zCh/sdgbKk4Zkup3hs4fdZsr9yt4U7v2lhP3HZCT3OFvVcH3UDw5ZC/3n/QxJA6I8RYLJqCm8EluXGuXNKy494IY33iUB6+ni+PiNRsQCDZ2F1P4QQ+KRDP52TvITk2GsaRk+d1vTo1sH6vEaB2zqdukjDSZQw==;DSfsutQRamWeubEwUw2A/w=="
 ---
 

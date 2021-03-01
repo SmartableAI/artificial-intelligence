@@ -673,6 +673,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-apple-training-siri-to-better-understand-people-with-atypical-speech.md",
+      "title": "Apple Training Siri to Better Understand People With Atypical Speech",
+      "excerpt": "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "originalUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/mivQrgPpAEzYsUPg1wq5M8-c2-E=/1920x/https://images.macrumors.com/article-new/2020/06/ios14siriinterface.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "publishedDateTime": "2021-02-25T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-setting-up-amazon-personalize-with-aws-glue.md",
       "title": "Setting up Amazon Personalize with AWS Glue",
       "excerpt": "Data can be used in a variety of ways to satisfy the needs of different business units, such as marketing, sales, or product. In this post, we focus on using data to create personalized recommendations to improve end-user engagement. Most ecommerce applications consume a huge amount of customer data",
@@ -1216,58 +1259,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
-      "title": "Otter.ai raises $50 million for AI transcription",
-      "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 763,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
-      "publishedDateTime": "2021-02-25T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

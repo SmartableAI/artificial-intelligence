@@ -3,11 +3,11 @@ category: news
 title: "Start-ups demo robotic and AI-based innovations for the Eastern Pacific Accelerator powered by Techstars"
 excerpt: "At the end of last year, the Eastern Pacific Accelerator powered by Techstars announced the nine start-ups joining round two of its technology"
 publishedDateTime: 2021-02-24T23:02:00Z
-originalUrl: "https://thedigitalship.com/news/maritime-software/item/7134-start-ups-demo-robotic-and-ai-based-innovations-for-the-eastern-pacific-accelerator-powered-by-techstars"
-webUrl: "https://thedigitalship.com/news/maritime-software/item/7134-start-ups-demo-robotic-and-ai-based-innovations-for-the-eastern-pacific-accelerator-powered-by-techstars"
+originalUrl: "https://www.thedigitalship.com/news/maritime-software/item/7135-start-ups-demo-robotic-and-ai-based-innovations-for-the-eastern-pacific-accelerator-powered-by-techstars"
+webUrl: "https://www.thedigitalship.com/news/maritime-software/item/7135-start-ups-demo-robotic-and-ai-based-innovations-for-the-eastern-pacific-accelerator-powered-by-techstars"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "4NgFuCwxj4x/HTPS36bIGO/eN9txdeNhppMUJy0hS1guJr9c1XEtzyHjkQHJgD3pnaGz15twDrvMJYDa43Yu950J21rCW3EVdbMwsc8Z+nMxc15FFvkPuj1mOWfuuXGWRErIXYbGla4n/B3gf7ezy+AJJir03EClpCNnb63vgDrlHNX8q6xnwxiy1SxJRBof/uK+ph0rCdC0GT8H1CLeyiWNcGIxiDvBcluTClWVLHwaeq09cBgIN1hbJBvfYeHslB+XH2/7JhHA20qkmmG/4b1bhF/mJyZ0TBDVIBEHcsQ0v1k4P7qDqs9aGskVV/rKeITIFvRC6xRgGpEJCodIv3X9GIkx+NgYmn6CS1E67A0=;Bo3fiwgg5MMzj4cjxWr57w=="
+images:
+  - url: "https://thedigitalship.com/media/k2/items/cache/0eed11636fd864a0fb4875b181d83445_L.jpg"
+    width: 600
+    height: 822
+    isCached: true
+
+secured: "gGj7YSo41qj3ujWk0IqvOW+CqQKOWziP8fBdM7f6PCHCmvhkVXyntCxbHTZs5fZ2Y6VDwEuklCpXDT81RCuZr7SxUlHZwSY1E5S19vnfHKCOjlZFiLunTW4fwk8Aiv06lJ/xE5mfC+olFHTtS6nvIp98lFXesMsyBPiO37gLP6/beWE+XkXgBodLQuQt5G6TvdOSneuIyRUuT/vRwsoAPyoUwFwljUKzwgjgv0ItwVidBrojjbsSOveyS2gLs0e1iT0Hv7wLehBLM35Dhv9U9GjtFPG1z+9ZdHdCiJiF08sPdFYchvvefL+0Nkr7POX00LJ+G1oUrso7GxAFAMZH/a5dWzlhPa1NEsPEeTA/W74=;9BMsIP88grbvJsv5nk7aAw=="
 ---
 

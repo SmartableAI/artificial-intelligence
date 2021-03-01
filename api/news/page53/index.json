@@ -2,6 +2,102 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-01-20-automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025.md",
+      "title": "Automotive Artificial Intelligence Market Size 2020: Notable Growth, Trends, Key Players, Reginal, Product Review and Forecasts Report To 2025",
+      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. These major players have adopted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2021-01-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-2020-notable-growth-trends-key-players-reginal-product-review-and-forecasts-report-to-2025-2021-01-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-microsoft-partners-with-gm-cruise-on-self-driving-vehicles.md",
+      "title": "Microsoft partners with GM, Cruise on self-driving vehicles",
+      "excerpt": "Cruise will use Azure, Microsoft's cloud computing platform, for its self-driving vehicles ... automaker's digitization initiatives, including artificial intelligence, and explore opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "originalUrl": "https://www.autoblog.com/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/1864x1049+56+133/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/01/19095351/Cruise-Web-Press-Release.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "publishedDateTime": "2021-01-19T22:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-private-sector-expects-to-lose-control-of-ai-governance-within-five-years-says-new-study.md",
       "title": "Private Sector Expects to Lose Control of AI Governance Within Five Years, Says New Study",
       "excerpt": "A lack of accountability within the private sector will lead to governments taking over responsibility for AI regulation over the next five years, according to new research by Pegasystems Inc. (NASDAQ: PEGA),",
@@ -1075,101 +1171,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots.md",
-      "title": "Health tech company uses Azure and AI to create priority list for COVID vaccination shots",
-      "excerpt": "Jvion uses Microsoft Azure to power CORE ... In April, Jvion used its artificial intelligence (AI) engine to build a map that shows which residents in a community are at highest risk for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/01/15/e477db37-f76e-4e54-b709-13efc6592bf8/resize/1200x/1faf2e83d92c580d681c746c172ca8f7/jvion-covid-map.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/health-tech-company-uses-azure-and-ai-to-create-priority-list-for-covid-vaccination-shots/",
-      "publishedDateTime": "2021-01-19T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
-      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
-      "excerpt": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official Delhi: Man held for operating 46 fake firms, helping businesses evade tax Calling all fitness ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-80348042/80348042.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
-      "publishedDateTime": "2021-01-19T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

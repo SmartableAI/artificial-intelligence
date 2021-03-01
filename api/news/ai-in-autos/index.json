@@ -1227,6 +1227,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-15-become-an-artificial-intelligence-expert-with-this-discounted-bundle.md",
+      "title": "Become an artificial intelligence expert with this discounted bundle",
+      "excerpt": "Many of today's most exciting technologies have artificial intelligence to thank. Think personalised Netflix queues, self-driving cars, and this app that blurs out the faces of protestors.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale/",
+      "originalUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F02%252F15%252Fbb%252F515c6269c5564def8f959d03934356b2.b1a00.jpg%252F1200x630.jpg?signature=_MClS5F49xW4D-w839vUne4dkmA=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/shopping/feb-15-artificial-intelligence-online-learning-sale.amp",
+      "publishedDateTime": "2021-02-14T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
       "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
       "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
@@ -1370,40 +1413,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com",
-      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

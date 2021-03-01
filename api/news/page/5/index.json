@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
+      "title": "Facebook expands AI PhD research program to University College London",
+      "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "originalUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
+      "publishedDateTime": "2021-02-23T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
       "title": "Proposed framework could reduce energy consumption of federated learning",
       "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
@@ -780,11 +832,11 @@
     },
     {
       "path": "_news/2021-02-23-technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom.md",
-      "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com",
-      "excerpt": "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,",
+      "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report – ResearchAndMarkets.com",
+      "excerpt": "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
-      "originalUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
+      "webUrl": "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -797,8 +849,8 @@
       "publishedDateTime": "2021-02-23T06:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1105,7 +1157,8 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -1157,48 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
-      "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
-      "excerpt": "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
-      "publishedDateTime": "2021-02-23T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

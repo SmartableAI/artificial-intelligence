@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/process-documents-co
 webUrl: "https://aws.amazon.com/blogs/machine-learning/process-documents-containing-handwritten-tabular-content-using-amazon-textract-and-amazon-a2i/"
 type: article
 quality: 110
-heat: 120
+heat: 110
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 800
     height: 418
     isCached: true
-
-related:
-  - title: "New Case Studies Show Promising Potential for Writing Content with Machine Learning"
-    excerpt: "Machine learning has been instrumental to content writing and editing in a number of major ways in recent years."
-    publishedDateTime: 2021-02-24T15:42:00Z
-    webUrl: "https://www.smartdatacollective.com/case-studies-show-promising-potential-for-writing-content-with-machine-learning/"
-    ampWebUrl: "https://www.smartdatacollective.com/case-studies-show-promising-potential-for-writing-content-with-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/case-studies-show-promising-potential-for-writing-content-with-machine-learning/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 53
-    images:
-      - url: "https://www.smartdatacollective.com/wp-content/uploads/2021/02/writing-content-with-machine-learning-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "o3xyMauRgIdOjVqgycDY4u49tVxRTwp/64AnlJPdwmg1aD/+M0hgJCA8X8BmKEESFbQRVr4mUAEwzfOaAZlRgf9zDcuj61UFwrgFYVgFOp4aVKkzuUbfAWwehb7BiS3fqrkWAH1Q8TZR2kvcOQQ5yOA1wMbh6lAqRsC94CAPK+EkOYSBvyGPf92lYa7dBKqEiZKTaxz1xduTCa5MeB8C0KspvZzqkVsZg/V/0HsLHkSbucHwX91tqIOcjVt5Fp2tKBMibVBkcD6YnXZz8By4peVmj738WibCi5EN0F5uFZBLhAECSQwj4WlTNSfn217QQ0fYVzgF7NfY+VoEcB7UQlO2MBhtLdhqEgYtT/s/o6A=;l0oQDUr2o/mCH7E70TsxWg=="
 ---

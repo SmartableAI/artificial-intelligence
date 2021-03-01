@@ -945,6 +945,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-24-fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform.md",
+      "title": "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform",
+      "excerpt": "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-bank-machine-learning-models-hit-hard-by-covid.md",
       "title": "Bank machine learning models hit hard by Covid",
       "excerpt": "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic.",
@@ -1194,58 +1246,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
-      "title": "Facebook expands AI PhD research program to University College London",
-      "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "originalUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "publishedDateTime": "2021-02-23T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

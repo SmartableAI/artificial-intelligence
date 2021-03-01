@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-08-self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
+      "title": "Self-driving Ships Market Growth (2021-2027), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions.",
+      "excerpt": "Feb 08, 2021 (The Expresswire) -- Global \"Self-driving Ships Market\" (2021-2027) Research report covers the present situation and the development possibilities of the Self-driving Ships market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-ai-will-not-replace-auditors-expert-says.md",
       "title": "AI will not replace auditors, expert says",
       "excerpt": "Susan’s inspiration is Elon Musk, who pioneered the Tesla driverless cars and Space-X Starship rocket system to clean orbit. “Artificial intelligence is the science of training machines to ...",
@@ -1360,58 +1412,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-dont-fall-for-elon-musks-self-driving-car-fallacy.md",
-      "title": "Don't Fall for Elon Musk's Self-Driving Car Fallacy",
-      "excerpt": "The Tesla CEO continues to overestimate the long-term profit potential of Tesla's self-driving car technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "originalUrl": "https://www.fool.com/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F610624%2Findustrials-autos-tesla-model-3-tsla.JPG&w=1200&op=resize",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/01/31/dont-fall-for-elon-musks-self-driving-car-fallacy/",
-      "publishedDateTime": "2021-01-31T08:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

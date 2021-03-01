@@ -7,7 +7,7 @@ originalUrl: "https://www.canadianmanufacturing.com/features/the-robot-revolutio
 webUrl: "https://www.canadianmanufacturing.com/features/the-robot-revolution-is-here-how-its-changing-jobs-and-businesses-in-canad/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     width: 650
     height: 400
     isCached: true
-
-related:
-  - title: "The robot revolution is here: How it's changing jobs and businesses in Canada"
-    excerpt: "Marshall, Associate Professor of Mechatronics and Robotics Engineering, Queen’s University, Ontario In 2017, I returned to Canada from Sweden, where I had spent a year working on automation in mining."
-    publishedDateTime: 2021-02-24T15:38:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/the-robot-revolution-is-here-how-its-changing-jobs-and-businesses-in-canada"
-    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/the-robot-revolution-is-here-how-its-changing-jobs-and-businesses-in-canada/wcm/5a4713f7-2391-49c0-8979-e10f32382ea5/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/the-robot-revolution-is-here-how-its-changing-jobs-and-businesses-in-canada/wcm/5a4713f7-2391-49c0-8979-e10f32382ea5/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 38
 
 secured: "wj/Q5ltP/TBCJPDRCY1HR68+iKe70vKbD5bbblTetT86qh9eyTg8NHaAU+Fo4WMrFhljJh3KN9c2esreTz29iKnDGXuX3O5OQkZEz4LX/WqeQTz1H2VjjdfQOuO/QfhMFWoqM6x3N7D/KnN8sV8GpDVsD2xPQzN5t3N/OgIsXsfvdRJTsmIcAfRJY/FTl7DUQBfiZFn5jxHCdZkuegKP3PAESVzxGaBHgPFZ0iHF7MypGV/b+PjekX2KubvTddPyX29ll2k+uSq/8RkIId21+6wBbwam3Vv09up6Yr6L8FWeFxkxO3z25j2MIKibsoSQw/lVOgdYflA/X1JClRM72REYYjjkLo7OiUGbaUIaF+Y=;bHKRhGruaRiko49Ribv0xw=="
 ---

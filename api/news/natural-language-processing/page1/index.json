@@ -205,6 +205,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-apple-training-siri-to-better-understand-people-with-atypical-speech.md",
+      "title": "Apple Training Siri to Better Understand People With Atypical Speech",
+      "excerpt": "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "originalUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/mivQrgPpAEzYsUPg1wq5M8-c2-E=/1920x/https://images.macrumors.com/article-new/2020/06/ios14siriinterface.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "publishedDateTime": "2021-02-25T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-changes-go-far-beyond-just-ai-machine-learning.md",
       "title": "Changes Go Far Beyond Just AI, Machine Learning",
       "excerpt": "SambaNova Systems is a technology startup founded in 2017 by a group of far-sighted engineers and data scientists who saw that the current approaches to",
@@ -415,7 +458,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/process-documents-containing-handwritten-tabular-content-using-amazon-textract-and-amazon-a2i/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -664,11 +707,11 @@
     },
     {
       "path": "_news/2021-02-23-technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom.md",
-      "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com",
-      "excerpt": "The \"Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market\" report has been added to ResearchAndMarkets.com's offering. This report analyzes technology maturity,",
+      "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report – ResearchAndMarkets.com",
+      "excerpt": "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
-      "originalUrl": "https://www.oaoa.com/news/business/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-/article_2fe83783-1a3d-55dc-8557-6cb029d47fba.html",
+      "webUrl": "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -681,8 +724,8 @@
       "publishedDateTime": "2021-02-23T06:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1445,49 +1488,6 @@
         "AI Ethics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-sdls-intelligent-language-solution-enables-alteryx-to-manage-and-translate-any-type-of-content-across-the-business.md",
-      "title": "SDL’s Intelligent Language Solution Enables Alteryx to Manage and Translate Any Type of Content Across the Business",
-      "excerpt": "SDL helps support Alteryx’s translation strategy MAIDENHEAD, England--(BUSINESS WIRE)--SDL, part of RWS Holdings plc, today announced that it is providing the industry's only end-to-end intelligent translation management solution to Alteryx,",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=420633",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=420633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://us.acrofan.com/img/noImg.jpg",
-          "width": 500,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

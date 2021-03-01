@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-01T06:15:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:

@@ -2,6 +2,92 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-09-rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai.md",
+      "title": "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI",
+      "excerpt": "A companion smartphone application provides a user interface for the platform and acts as the gateway to cloud-based, AI-enabled object recognition services. The platform brings together a number ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210208005117/en/RSL10-Smart-Shot-Camera-from-ON-Semiconductor-Enables-Event-Triggered-Imaging-with-AI",
+      "originalUrl": "https://www.businesswire.com/news/home/20210208005117/en/RSL10-Smart-Shot-Camera-from-ON-Semiconductor-Enables-Event-Triggered-Imaging-with-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology.md",
+      "title": "Glory Star Signs Agreement With GTCOM Entertainment to Empower Consumption Through AI Technology",
+      "excerpt": "In light of the growing market demand and consumption growth, Glory Star signed the Agreement with GTCOM Entertainment to integrate resources from both parties. Under the Agreement, GTCOM Entertainment will provide to Glory Star access to AI and certain computer technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology-2021-02-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology-2021-02-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020.md",
       "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
       "excerpt": "leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020. Focusing on making ...",
@@ -1088,110 +1174,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-when-self-driving-cars-get-embroiled-in-massive-car-pileups.md",
-      "title": "When Self-Driving Cars Get Embroiled In Massive Car Pileups",
-      "excerpt": "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "publishedDateTime": "2021-02-08T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid.md",
-      "title": "Pandemic Pivot: How Hospitality Start-Up Sonder Finds Success During COVID",
-      "excerpt": "There are themes emerging from COVID-19 that are likely to persist according to Deloitte’s “ The World Remade by COVID-19 for Travel and Hospitality: Scenarios for Resilient Leaders ” report, and travel and hospitality companies will be looking to learn how to adapt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
-      "originalUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c1a2dbcb91aac49155f1f%2F0x0.jpg",
-          "width": 779,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/salesforce/2021/02/08/pandemic-pivot-how-hospitality-start-up-sonder-finds-success-during-covid/amp/",
-      "publishedDateTime": "2021-02-08T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

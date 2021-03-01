@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple Training Siri to Better Understand People With Atypical Speech"
+    excerpt: "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall"
+    publishedDateTime: 2021-02-25T21:42:00Z
+    webUrl: "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/"
+    ampWebUrl: "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 59
+    images:
+      - url: "https://images.macrumors.com/t/mivQrgPpAEzYsUPg1wq5M8-c2-E=/1920x/https://images.macrumors.com/article-new/2020/06/ios14siriinterface.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Siri to get atypical speech upgrades"
     excerpt: "Apple is currently trying to make Siri better by researching how the digital assistant could understand atypical speech. The Wall Street Journal reports"
     publishedDateTime: 2021-02-27T09:13:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/06/siri-shortcut-pulled-over.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Apple, Google training their voice assistants to understand people with speech disabilities"
+    excerpt: "Tech firms, including Apple and Google are working on improving their voice assistants to understand atypical speech."
+    publishedDateTime: 2021-02-26T05:38:00Z
+    webUrl: "https://pocketnow.com/apple-google-training-their-voice-assistants-to-understand-people-with-speech-disabilities"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 29
+    images:
+      - url: "https://pocketnow.com/wp/../files/2018/08/Hey-Siri.jpg"
+        width: 780
+        height: 439
         isCached: true
 
 secured: "/QDfrwbjBsikSd4fSZHk/NfEEL7JtA4YU/PiaFt8kLodnMtqkspANkn728MLdHDhwMc/z+2Ih/nMGmqkTzt+I9jEmbcbZHkC0bmDTmhPWK62a7Tpdo6jFi9rb7TQHx7FoqgOj/P6DqwMmeHu+JWn3MMrK1e0BL+mDjzzOo0mzdq/td9NpJgIabUJ/8QMYznWZY2cFtIPp9uNun1jtC9TIYkrJL/d3MYmN/vJq3aCwutwAnBLJsGOpAxCTCSptmuQuee/iZhhNjSCYTsMOoxS9wiIlD6ZOgWhsLiVmVaUlvK1MomnCR8MtBgw09tA48QMh5S2NgGrCIDlg9+KTV5gkb4A302V7/u2Z+FLK6rA6h0Qj1Xvc0IjRV5kww8kBrnzT0MTh0sEUvIhl2ubw3corFT+zRT3yC+Edw9tb3VMEbA+4g3TovHyylIdvBhklPYelk2gbGEWfO+gsrcuOQWIf0j/Y6f85SLgHkEv4M7Lk/MWP0BqgeMaO+FFfCCtpuK1rsLav0qJDjJ/o1QLRWheSg==;2ElQPVlXeQIlFdjwx0++lQ=="

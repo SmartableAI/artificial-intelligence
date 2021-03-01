@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
+      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com",
+      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-self-driving-car-market-trend-and-forecast.md",
       "title": "Self-Driving Car Market Trend and Forecast",
       "excerpt": "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024.",
@@ -1387,58 +1421,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
-      "title": "Self-driving Ships Market Growth (2021-2027), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions.",
-      "excerpt": "Feb 08, 2021 (The Expresswire) -- Global \"Self-driving Ships Market\" (2021-2027) Research report covers the present situation and the development possibilities of the Self-driving Ships market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

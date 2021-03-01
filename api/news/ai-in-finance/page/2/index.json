@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-28-new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap.md",
+      "title": "New Global Rackspace Technology Study Uncovers Widespread Artificial Intelligence and Machine Learning Knowledge Gap",
+      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end, multicloud technology solutions company today announced the results of a global survey that reveals that the majority of organizations globally lack the internal resources to support critical artificial intelligence (AI) and machine learning (ML) initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-global-rackspace-technology-study-uncovers-widespread-artificial-intelligence-and-machine-learning-knowledge-gap-2021-01-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-female-led-startups-dominate-catalyst-funds-inclusive-fintech-2021-cohort.md",
       "title": "Female-led startups dominate Catalyst Fund’s inclusive fintech 2021 cohort",
       "excerpt": "Catalyst Fund, a global accelerator managed by BFA Global, announced the 8th cohort for its Inclusive Fintech Program today. The accelerator runs the flagship program annually and with a focus on Kenya,",

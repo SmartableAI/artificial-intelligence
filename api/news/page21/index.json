@@ -2,6 +2,82 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-10-artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring.md",
+      "title": "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring",
+      "excerpt": "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19581042",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042",
+      "publishedDateTime": "2021-02-10T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-how-ai-is-transforming-enterprise-operations-and-customer-experience.md",
+      "title": "How AI is transforming enterprise operations and customer experience",
+      "excerpt": "With enterprise operations and customer experience evolving in the wake of the Covid-19 pandemic, we explore the roles that AI has played To navigate through the worldwide Covid-19 health crisis, organisations from every sector have needed to adapt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/how-ai-transforming-enterprise-operations-customer-experience-123493731/",
+      "originalUrl": "https://www.information-age.com/how-ai-transforming-enterprise-operations-customer-experience-123493731/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/how-ai-transforming-enterprise-operations-customer-experience.jpeg",
+          "width": 1080,
+          "height": 547,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T01:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-indian-healthcare-companies-bet-big-on-artificial-intelligence-report.md",
       "title": "Indian healthcare companies bet big on artificial intelligence: Report",
       "excerpt": "Around 90% of C-level executives in healthcare companies already have an AI strategy in place from a moderate to very large extent. For 54% of the participants covid-19 played a part in driving up AI",
@@ -1081,110 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-apples-self-driving-car-strategy-may-be-stuck-in-neutral.md",
-      "title": "Apple’s self-driving car strategy may be stuck in neutral",
-      "excerpt": "If true, the latest news paints a clearer picture about Apple’s self-driving plans—and leaves many more questions unanswered.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/",
-      "originalUrl": "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Apple-self-driving-car-hyundai-kia.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/09/apples-self-driving-car-strategy-may-be-stuck-in-neutral/amp/",
-      "publishedDateTime": "2021-02-09T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem.md",
-      "title": "Cloud lock-in: Why the microservices cure might be worse than the problem",
-      "excerpt": "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "originalUrl": "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/15/98642495-f0c8-4f9a-b6a0-174c72f25a4e/resize/1200x/9f13f7c198aee893a1cb3813c8b1adba/istock-1172882387.jpg",
-          "width": 1200,
-          "height": 833,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
-      "publishedDateTime": "2021-02-09T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
