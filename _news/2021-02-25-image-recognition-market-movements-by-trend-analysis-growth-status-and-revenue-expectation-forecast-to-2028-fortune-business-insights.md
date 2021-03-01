@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,"
-    publishedDateTime: 2021-02-25T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y"
+  - title: "Artificial Intelligence (AI) Chipsets Market Size, Share, COVID-19 Impact, New Technological Advancements And Geographical Forecast Till 2027"
+    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
+    publishedDateTime: 2021-02-25T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Retail Market Size to Record 29.7% CAGR During 2020-2027"
-    excerpt: "Selbyville, Delaware, Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report"
-    publishedDateTime: 2021-02-25T04:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-record-297-cagr-during-2020-2027-2021-02-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,19 +57,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market Revenue, Growth Rate, Customer Needs, Trend, Manufacturers and Forecast to 2025"
-    excerpt: "Artificial Intelligence (AI) Enabled Medical Imaging is the process of adoption of AI technology in the medical imaging to provide vast supply of medical case data and train its algorithms to find patterns in images,"
-    publishedDateTime: 2021-02-25T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-medical-imaging-market-revenue-growth-rate-customer-needs-trend-manufacturers-and-forecast-to-2025-2021-02-25"
+  - title: "Military Robots Market Size, In-Depth Qualitative Insights, Explosive Growth Opportunity, Regional Analysis Forecast to 2027"
+    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
+    publishedDateTime: 2021-02-24T18:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-in-depth-qualitative-insights-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-02-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cognitive Computing Market Size, Future Growth, Share, Supply, Demand, Segments and Forecast 2020-2026"
+    excerpt: "The global “Cognitive Computing Market Size” is expected to rise with an impressive CAGR and generate the highest"
+    publishedDateTime: 2021-02-24T12:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-size-future-growth-share-supply-demand-segments-and-forecast-2020-2026-2021-02-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
+    excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
+    publishedDateTime: 2021-02-26T15:11:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=429011"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "sueXnszr/9VcVPcgaSy2/ZadS7ZEkzmtpWtyJsBWkVW1QL9ftaUGwuW7r5EMFTXn2ks6D8AVYMrIKTdke7fjquCZ6t24xvfRdMtGf37lFyVmKUoMCmm1hg5i2L6VOMU/WYLlasjfWaArCWWNcKuERiNZUJWZkWkHWAY/1XPBF6r7/BPd1o1ksWZACy9O/+x6PgfySepFCv9JtX8xIrZTy5GDy5lTtATOQzp1i09YOZwfl4lv45w9w7xqLKP+Uh7Sc1WiuMZ5TANbjpTIyBfHqayS6aH/j+OJPgPI+EfzFl+x4uf7uVdvhjzwRcGyKJMhCtxtMuM3/5oEVqrEOHmJ7c/FlmEpVBTowUnH9OhIDxo=;EuOx/Xl4pZgc+tXEkI39Zg=="

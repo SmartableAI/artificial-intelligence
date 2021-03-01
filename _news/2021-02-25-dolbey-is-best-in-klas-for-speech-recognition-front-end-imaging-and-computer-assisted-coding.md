@@ -48,6 +48,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "CyberLink integrates its facial recognition SDK FaceMe into Vypin eScreener kiosks"
+    excerpt: "CyberLink announced a partnership integrating its facial recognition software development kit (SDK) FaceMe into Vypin eScreener kiosks."
+    publishedDateTime: 2021-03-01T00:31:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/03/01/cyberlink-vypin/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 33
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "X3IbZynryA7JtHXXNH56KU1DFZw87b0Fl8NlsroTO5hZybeNZ5GIm79X8DFbq/xNAy7zHwAY0A9lMeHp8lF6DxnfBGJLyDOz4WtDIVCviAL2tUvTokjlt1+JDfPHMTJM3fUKIqQfZesiBn0LHXVnScKFQBnjepfljrjosqI2Gf5QWn9McRJqflAEuD79vH2YvbRU7mOvH5xegI3/IjBlkgNKJDWwOKxRSSOVTZSHosL2KHUG2h1a+ypqDNFBH7KJo/58RIkfxxQY25CKkWnDyNcc852VXXYlGJ9cPpAA1bczgPMlKPsRNTUCeVqJk2Nv7KVr2Q+IfGg1OkP/84u02KLaOW5+ni+V1RnZqMJUg/k=;ri1vLAsPhlM1ke4c7KXTnQ=="
 ---

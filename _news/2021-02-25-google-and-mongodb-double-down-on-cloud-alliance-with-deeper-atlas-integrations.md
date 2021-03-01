@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"
         width: 1470
         height: 885
+        isCached: true
+  - title: "MongoDB deepens Google Cloud integration"
+    excerpt: "MongoDB and Google Cloud have struck an expanded partnership that will see the NoSQL database platform vendor deepen the integration of its global cloud database with the cloud vendor’s products."
+    publishedDateTime: 2021-03-01T00:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/686588/mongo-db-deepens-google-cloud-integration/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/google_cloud_4_1.jpg"
+        width: 800
+        height: 500
         isCached: true
 
 secured: "9pWF287FpwjttnLVD05PANg71g7DAod3B+YTCsjiYCiznWSufndMwDKhEXBo+G8RG8f/91fRivxRwWjC5qPSO//JTcTXphQci5Q/szp0JCO0iVPNgRFQ7MT6TemiOq5BDQ4Xv5JFRoJBsFzd4U+CloEaAhtNpsAMh8XxvJu5z6/eLtDeoHFpF/jO/6CcY5ox7p76NIQNJsL7vqAFqAnsQ7WhcYDp5H0BZPK/UyJCYr+2jDWl8C4gbR4p4ienIugY7wSofSJON4mMCtoBVdkSgzcixcGBFmiXSaPtP7pbq3ycQMmzdRJ0XTyoYqwYRYyaEewW+ODW9HQYjxtBznIUK6EN/0Z7FY9mUbBG9ODDexUoeW5K0OpiF440YOPIeMP3x5gacHBEXvN+8I4fikPmDGyxd5jEPDUisHHCMNBMhgje7UiDimYcZq99z9omSKi8Cd/HAaaoJ5ch0d/Gh7sE6+S54/tBlVRmQ61lRKQ1QCoPPge8i0YhAgw8htCxKKn8+Of7+2tkza9vPSE7Ry55gg==;+O1pmCBPuZ5uRSRo9AawVg=="

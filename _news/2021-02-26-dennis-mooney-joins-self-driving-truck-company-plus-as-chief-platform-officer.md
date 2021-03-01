@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Dennis Mooney Joins Self-Driving Truck Company Plus as Chief Platform Officer"
-excerpt: "--(BUSINESS WIRE)--Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced that Dennis Mooney, a former senior executive of Navistar International Corporation and General Motors, has joined the company as Chief Platform Office"
-publishedDateTime: 2021-02-25T20:26:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210225005210/en/Dennis-Mooney-Joins-Self-Driving-Truck-Company-Plus-as-Chief-Platform-Officer"
-webUrl: "https://www.businesswire.com/news/home/20210225005210/en/Dennis-Mooney-Joins-Self-Driving-Truck-Company-Plus-as-Chief-Platform-Officer"
+excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced that Dennis Mooney, a former senior executive of Navistar International Corporation and General Motors, has joined the company as Chief Platform Officer."
+publishedDateTime: 2021-02-26T08:40:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-personnel-f2552461fca94225a4ce90097df987cf"
+webUrl: "https://apnews.com/press-release/business-wire/business-technology-driverless-cars-products-and-services-personnel-f2552461fca94225a4ce90097df987cf"
 type: article
-quality: 1
-heat: 1
+quality: 21
+heat: 21
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "6cRHC7Cxw4C7+dsUIAkaB+g22aJWCRVJfepw3cfHRZ59Rj7Gv81o2928UP9XLW0PqScdfkdRNPqghK/4nPRseA+6Eokfm7rr8JNQ1wBZTon2eqBhCsrq+yQNZJMe7RcrqRd4Mi8mHAOG6IceLH+w5O/sF5DqtXYguUSnfDCAGAwVJeGHbQDBIJtWwi0ZtGx99QPzUA0swAKKLiksmaMInhSDXICX4e4F51RpOKAzFA7utDabARpcv08OOu93AQ5VkaNfx4kq9jFz1JQBbKxnIZ3EgF4aXGSI00MyRjWDVjpw5ndHFMF5Nh4jzDbxUUxi/AGRpiDc7gMoN1AqmmpaKm/vbB2zjZ3VCONulrlZoqg=;XqhAuVrNQQXqlv43a/YRpg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "NXPQO1moTWi6ojpojfrjmea5zhhzvIYeH+845eLrepZ0fTSxu5c0j/pYZz4l1sxUWDm2AmdH473cS7rQDroj6bc90RyYZzOnz4enxAgGmF4RrDJYHzY5tvr9yC1dG+j9x/QqoABADb2C9pshgd6wO4RnJyFAX2QON50S6vDGs0c4VsZfrCAaRd3MC+YjE+hjWZG4AnaDKpmHYwz7OOVAs1HJej9jYmHSj5iRW3dee/WS5SAiDTs6N9tAoEwUDYVx30nSAr68igH2ceV6AUU1Z0hpQdtzTK/N/SdWZ290xoyUbYwaE4svk30/KhHD9UQ/00Zl9vYDoAoOrVhAq3yK0dJ6hxGt4qx9Bc735zVbQZ0=;nqpxwCL9yxiSN6EmY7QTgQ=="
 ---
 

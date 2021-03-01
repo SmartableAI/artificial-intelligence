@@ -55,6 +55,20 @@ related:
         width: 611
         height: 343
         isCached: true
+  - title: "MongoDB deepens Google Cloud integration"
+    excerpt: "MongoDB and Google Cloud have struck an expanded partnership that will see the NoSQL database platform vendor deepen the integration of its global cloud database with the cloud vendor’s products."
+    publishedDateTime: 2021-03-01T00:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/686588/mongo-db-deepens-google-cloud-integration/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/google_cloud_4_1.jpg"
+        width: 800
+        height: 500
+        isCached: true
 
 secured: "txrrKhBl6+qr1V+UmUPoRs+FalMTInZwPw5euqAG5F7q0vcyuIo8p7JqRn582l9/hwYLP8L9GIWUVRCFnqVvULMxdQFNKi+vRn6qVzRRse1KX1Yy3La25BR58gBYyx30CERB2IR3z5An24rGwTvp30kQnQOMxSSQeRdzkE/o5Eb6firIty6LjFn8pYlxm9tgq2dCU3FLND5nEkffW2YaRbZoDU4CcofZKBGNQt/jJNgujelVTylNBWbaOwQX0lz96Z9ih/kBigQthodqy3l5k3iZVMYIejnPqHJRlC9DpnObe6P5NteyflXqwjEhNLB3cBsChyLTWRoi8daVkOrOiIqZOR+tTNACY9CsmrHSmFYwzBX1UJ2TeJoEwr7mBFiJuEfkCsBiIIcI41GmTr8DZBWvHXHo2zjvQlQdDG5qjwiQxb9a90aAd9q4HpKGRTzZUiUEfg75uWyIoYkmgJ311GFSUecFmyJl1q+RiG4d/oaGYilO/7caUoXWHQIDH8jHGJbqDLyFAEvKfC+mizyTZA==;hNSgrhMKo0cUXY8DtgX7Ag=="
 ---

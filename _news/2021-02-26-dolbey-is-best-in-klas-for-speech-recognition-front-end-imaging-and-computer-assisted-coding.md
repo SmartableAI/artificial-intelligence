@@ -37,6 +37,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "CyberLink integrates its facial recognition SDK FaceMe into Vypin eScreener kiosks"
+    excerpt: "CyberLink announced a partnership integrating its facial recognition software development kit (SDK) FaceMe into Vypin eScreener kiosks."
+    publishedDateTime: 2021-03-01T00:31:00Z
+    webUrl: "https://www.helpnetsecurity.com/2021/03/01/cyberlink-vypin/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 33
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Dolbey is Best in KLAS for Speech Recognition: Front-End Imaging and Computer-Assisted Coding"
     excerpt: "Since Dolbey’s founding in 1914, the Dolbey name has stood for dependability and industry-leading technology. The Dolbey suite of solutions include physician-facing applications for speech recognition and dictation as well as solutions for document creation and transcription and revenue cycle solutions for clinical documentation improvement (CDI) and computer-assisted coding (CAC)."
     publishedDateTime: 2021-02-25T13:27:00Z

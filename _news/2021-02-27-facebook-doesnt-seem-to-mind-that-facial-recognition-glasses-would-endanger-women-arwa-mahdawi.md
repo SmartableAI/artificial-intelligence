@@ -140,7 +140,7 @@ related:
   - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
     excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
     publishedDateTime: 2021-02-26T21:08:00Z
-    webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
+    webUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
     type: article
     provider:
       name: News 12 New Jersey

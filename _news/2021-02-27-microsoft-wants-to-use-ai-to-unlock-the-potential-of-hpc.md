@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-t
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
 type: article
 quality: 76
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -69,20 +69,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/ehrs/8.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Microsoft adds Armenian to Translator tool"
-    excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
-    publishedDateTime: 2021-02-24T07:26:00Z
-    webUrl: "https://www.panarmenian.net/eng/news/290573/Microsoft_adds_Armenian_to_Translator_tool"
-    type: article
-    provider:
-      name: PanARMENIAN.Net
-      domain: panarmenian.net
-    quality: 39
-    images:
-      - url: "https://media.pn.am/media/issue/290/573/photo/339x226_thumb_photo_290573_b50c2a3ce.jpg"
-        width: 339
-        height: 226
         isCached: true
   - title: "Nexans to Electrify the Future through Digital Technology using Microsoft Azure, AI and Analytics"
     excerpt: "France, France, 2021/02/24 - Nexans announced a collaboration with Microsoft to electrify the future by accelerating the development of digital solutions crucial for the global energy transition - Microsoft."

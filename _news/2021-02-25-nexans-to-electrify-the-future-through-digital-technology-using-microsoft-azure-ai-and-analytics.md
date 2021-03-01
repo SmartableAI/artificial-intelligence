@@ -77,20 +77,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Microsoft adds Armenian to Translator tool"
-    excerpt: "PanARMENIAN.Net - Microsoft has released nine new languages, including the Armenian language, for text translation in Microsoft Translator, the company said in a blog post. The announcement came on the heels of International Mother Language Day,"
-    publishedDateTime: 2021-02-24T07:26:00Z
-    webUrl: "https://www.panarmenian.net/eng/news/290573/Microsoft_adds_Armenian_to_Translator_tool"
-    type: article
-    provider:
-      name: PanARMENIAN.Net
-      domain: panarmenian.net
-    quality: 39
-    images:
-      - url: "https://media.pn.am/media/issue/290/573/photo/339x226_thumb_photo_290573_b50c2a3ce.jpg"
-        width: 339
-        height: 226
-        isCached: true
 
 secured: "WnFJMO0x3ls+Nw5ALRxIEzHFwesuUtlEFQH+I5Xhx36wn6pRx0xPbOgB3snS9k7VS9FGF3sJVaQp/8fe9JRTNv4Q/1cwXCwMJH4dmuGluX7H32qwz37Na3bN2oKqje7vXcZcap0SQytvejbyTn4X10aI3nbtPoHPYYzOaVrEdM/tqBwi1WSuxVOa5hX+ptG7Awy46TkN6/Z5qD2YpD25/T/KQgs1LiMMEfRhjodBeNucXxFQ0ZbfTSNZduAN50aj0RNGIYKGSH6cudg49tDCZrMfoYhChae47qyRP1M/Kg3g7Udxr2DscmmiISmhC0WLcHYkMIDYIvbo9gfB+blsWxxxRCUCgFTQcmFooXFUzr7EZmiGCZe16YqcWHodKdfMQK8W80zIxsNiG4loccbjAMt+GlcoPaLZtkMQTL4GmmdaqEJJDhnke3HXTICl0wt+Q021GJPDkdbE/eslAE40sz7zxi/WacbLAc3i6X4UmGklflAn9RpcRfdAUQGzk//LGbFfaulwEmEuEwWDW605SA==;/f4DYJNyN1oVWWj+6ixLRg=="
 ---

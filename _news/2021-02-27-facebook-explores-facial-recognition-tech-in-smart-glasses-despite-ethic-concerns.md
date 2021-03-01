@@ -3,8 +3,8 @@ category: news
 title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
 excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
 publishedDateTime: 2021-02-26T21:08:00Z
-originalUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
-webUrl: "https://bronx.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
+originalUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
+webUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
 type: article
 quality: 34
 heat: -1
@@ -168,6 +168,6 @@ related:
         height: 382
         isCached: true
 
-secured: "4QZwUWVRmMu01d0PFCpCnPG3GoO3/IpDrq6Ze6bGYjYvyERywgPFsoQvrR9nzWdcEd9+Jt5I8HMTEig4S06xcZdu51YBhuhu/WmO/SVTdvqkGauEjXQjLi49yhr7mb6+kfig/SJ8cE0eptqQOLmyCkR/cTu34VOEhKleOnW7+0XBarFLNMTBfzXciUBwP1c721q5IThnotlC/zDi1pJI9791p7KCX3B/VSsCMjDsa+XJHhzB0PrbYWIBDKZSy77i2UXNnUhbcM3BHsU/y2mx38kVQrwoKPRrNJKYim1EIz1pfzUdoaPajg24Vm3ltGScZhn4wlXgGcwFkVw3cnt9obOfK6iXr447AVZn+SxkDK/WmQy1q3Rv1Q7chS6edunR2C3mH5q05QTCslLiza0pCdEqnefPQs8jkVTHx0A8xHjEUKkKoR7+rNymBk4BL1jE0EGSdocXUesDTPqdVwVD98YtDWLWZ8DIdYRx5OWvGzZxbIIeqVV5fTT9IGRo/AkePpvSPwLPTD8vNFQCd5abZw==;PxOH9wIfQ0HYwYSfAbKQ6g=="
+secured: "6czIcfOtdJxGGIHkvMGuQSx2T4i1r8uvP6Cne0f5k5nS8SWnWpiJwzEHTxYULM1pR8u49fbKe2/WqsYg7wkWzG+k45g6sU9eFCIHBqHxi0FNxcxKdBCu+d0Q5bT/2r7xgrq3m4GW4fbY1emEzKo4SU0E67V0Y0K8lskFYbdR4urEW8I6Wu3LgHaNcUZ6j65KIgHjhmgE+0CGh9M/hxn/WoxiCOiGCCHjIsLezgOW4oRmy4BrTMIua404CFrNczU24U0hlRsIcPU46i5QnF64mancJ7YOfItD0KZs6dtJHhu8DPiJOV4yGmXW8Edn9+MV/lJaf3652JZC7EnD+LqIH8FRRzVO2bvKdhlWokep8Vc=;DtZY6qWcUgOmJ6G2r4CYlQ=="
 ---
 
