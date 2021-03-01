@@ -97,6 +97,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
+  - title: "Autonomous Vehicles Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
+    excerpt: "Mar 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Autonomous vehicle also known"
+    publishedDateTime: 2021-03-01T15:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
     publishedDateTime: 2021-03-01T06:15:00Z

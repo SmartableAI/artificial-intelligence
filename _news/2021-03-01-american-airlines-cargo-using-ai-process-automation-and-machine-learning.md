@@ -29,7 +29,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 121
     images:
       - url: "https://www.zdnet.com/a/hub/i/2021/02/28/20a98f86-7db6-4412-8a12-57ad8196ad80/google-brain-2021-violin-plots-of-chip-design-optimization.png"
         width: 1860

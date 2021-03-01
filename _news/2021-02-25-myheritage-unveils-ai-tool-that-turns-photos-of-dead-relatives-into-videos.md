@@ -56,6 +56,20 @@ related:
         width: 1140
         height: 712
         isCached: true
+  - title: "MyHeritage unveils new artificial intelligence photos"
+    excerpt: "My Heritage, which uses DNA testing to help you figure out your genealogy, has unveiled a new service that uses artificial intelligence to bring still photos to life."
+    publishedDateTime: 2021-03-01T15:20:00Z
+    webUrl: "https://www.wral.com/myheritage-unveils-new-artificial-intelligence-photos/19552277/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 37
+    images:
+      - url: "https://wwwcache.wral.com/asset/entertainment/2021/03/01/19552278/113851-tech-DMID1-5q1fay2c4-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "0bySuQYm/MmejX1Uq4hG60Ek+76AK/50K2CZ8sLA+p4HwVft4osVUQJTIXfpna2gIq8+enTJHHrkc4dlFqmM85LtIFn6Q1bdecCLwKO3Mx/R7KwncbXv+Dws9mnnckQ6CKZcZB5DbqUO6YwuwcLDZoxpgaiTSo11kcDfrscpJ7475rnlPXgTSey/MvtBCLtfJFmCYzHiL5+tCqvKHEHJUhIYFgZZ0Gnan5eo+OHOSrFbZky/UjAnAgZASVCdVtQA1Z3eM5tVSV2bE25r8EtPLGa+v8aamwzHZQ5hR5FlLp8Mu8G0rQ0p3fyCzvfBMaBpmb/cHlKLAdaKLP3SB0NT4+5SsWPvZmP++7qgBGdcZ7C34O8ovlO4LvuBW3EKfPD567Bvo6Beu2DrLWcIUT33i1nI9bL/mPaV+gb0QBcDC2t27npr6rJlmvhiNbG7lRY/Jw5Kr1G+G8XCRVFulpEt48FxYlhOrjbZ8ecHShslJhLiMTNs0daUwJ2vI9Sg5RH4v0491rJbliPIvCLzGtV6vg==;3IEU2yYFmYvZgR+aiEWeNg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
 type: article
 quality: 89
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
+    excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
+    publishedDateTime: 2021-03-01T16:51:00Z
+    webUrl: "https://www.nature.com/articles/s41419-021-03506-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 4
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-021-03506-0/MediaObjects/41419_2021_3506_Fig1_HTML.png"
+        width: 685
+        height: 481
         isCached: true
 
 secured: "yQgWOeZDt5QLqAZjOlMs7pS2YXvb22YoIudCLR7PD2llhfOAOjVzEYwWuSoEnvPX5wIsYl9wyTH21dVE9WQPvH/7EZiLMcS5NiTslMH+fcOfGgD7KnkqrI38emupAaq49K/zyUk9sSELMIlGEBQFkmzQjwic/UazdHZjYBQ6QnK04mPG8qWJbLiKsVUBqV0MGytbZptxuzg2t7cipZKIJ/jFbbYOmjK48Wbz8VyXz/wODHwskSxNrgwIxMm5CGq3eL6Q2pWlzpTqMnIL6InYK0BsfMAclCtE6eVWtpOM5S6WVU66UeUT1dHpH/oSDprlEtfQ6hAHRC0/UtcQTqS5YPKHwYuYD2pl26BA2upNf/BGmoV+NQlvspgRI8AG96v9LiTsInjvYLtNwsDuHGk9sT7b4qnvLKXs93p2bC1rz5/hoy7a2CepucBxMqoddLr1F428HnNMG6sHcstzxQlSExRQZWiaLkKi4iMIEExTKa8FXhd/VdLjm9m0W3tvndGKkfDUQC4IGwlIHRjwR1UfFA==;76avArk1NbLjHmJpme2WYw=="

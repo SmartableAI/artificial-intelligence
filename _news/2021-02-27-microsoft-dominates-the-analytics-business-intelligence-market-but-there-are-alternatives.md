@@ -43,17 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Fintech Spotlight: OVTLYR Launches Behavioral Analytics Tool For Retail Investors"
-    excerpt: "OVTLYR, an AI-driven behavioral analytics tool for retail investors, formally announced its web-based platform launched for free, as a pilot. As part of the development,"
-    publishedDateTime: 2021-02-25T00:00:00Z
-    webUrl: "https://www.benzinga.com/fintech/21/02/19814906/fintech-spotlight-ovtlyr-launches-behavioral-analytics-tool-for-retail-investors"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19814906"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19814906"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "pXrv4Eqxp0dis3odbqVh2jVUT1oMn8kZfJCsYVPUFSwhmqaAu0jYzaOX8+73fuYFJtUfpOqB39nPn5gN1OoKDoN2qZy9LNfMNKpdRmajM4mTHLWLxrPfIOtJBfEre01mhMudEm3JNTJyDNi59TJBdacpJglO5MNm82/MJ6FBM5kl0zOt0FkmDYXllS9+plbdtUBaz/DX1Ovi0poTV/LvDqVX8sTPCcYmfo2RH2WG9bJ0Qg8IPLTFBU5MH90ARS+O7vyLytvKM8Y0revAJjKJ/djgIbIrAB+07zjjbtsDuwh4g+fmYYYFT0GAMqmvE6VSY1B8AuJamD4egL3OeComnxWgpgvVSzllPCvjA5Y40O1R/Fed0RJeuIUoPnCmaFYdpfI17lkgfTN0YYBhPpkaMFuSX4lpRdVHY/Q8blD043S98jwGIQAvkwSjcjtGgsqg7mxbraLJBXE0fJPrxlGW+k2pV9s100GUH3nZLNYB2W6jbx1nxTtO/d5j4j2Cp1634rQhN8mWWwPz6ggrDSrJ7A==;y2QaH/cJ705HzyKrCHDtSg=="
 ---

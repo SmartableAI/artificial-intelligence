@@ -1,22 +1,26 @@
 ---
 category: news
 title: "Cleareye.ai Collaborates with Microsoft for AI Platform"
-excerpt: "The engine from Cleareye.ai also uses computer vision, part of Azure Cognitive Services, Azure Kubernetes Service, and other scalable computing and analytical services from Microsoft to fulfill ..."
-publishedDateTime: 2021-02-09T13:09:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/b19559723/cleareye-ai-collaborates-with-microsoft-for-ai-platform"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19559723"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19559723"
+excerpt: "Cleareye.ai, a leading fintech platform that transforms banks into hyper-agile organizations, today announced it is collaborating with Microsoft. Cleareye.ai's enterprise-ready platform will use Microsoft technology to power its products,"
+publishedDateTime: 2021-02-09T14:05:00Z
+originalUrl: "https://www.lelezard.com/en/news-19640933.html"
+webUrl: "https://www.lelezard.com/en/news-19640933.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "4SjY20bNx4ZjtA+TurPy8yhcLsX5NuqsrNEUNxVfQyszgGvnFrz57kQE2bWLUtTXdlin8b1KDC3BYBjrN9ROG7ZtTwLj72Pi4CmxB8jBO4ncLknpkfiu6Vmff9AYuy5C0cptn3BXuyz072M+mCUQUNUNibbppPCBDp7K07NWoSFjPD80UtKdMUbLBBJnsYk13NBRinTHMUIo+I9T1RPIQuRchXfbhHga+KgErdJzOWqZDTrvY4g6xkGcN/JawvdrxBR0uC8q+k+se9zqs1VbaW/b+KOXdiCLrZFulh7fMJWD02cSiHER+zizlaMwaxcO59N7BeBkP6Bp+3KL0Mb2/h14sisL4yru7OPD4zvHKnA=;lfSQpXlBg7zk0sYjIKrPKQ=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "LdA580ijLAGLfZKWSQKVO97wnGjJHoOJBJq7FDMrQ7K0QcU787oeECVzk+p1i84lnluh3khUEjt4n07Zqr0MdQKQA/O5CklsgNHFiKki8u80nnM3yKVzye3hav1+1dScnSfhxFDCNUk8s9AqMaR7bF495pg/yZLlh/vtSfoY/HfcPJZaZeZz1W/dINXtIbl7upRLMdwHv04keFgKdyiGepnNdEfoytmAHakBUxXKx0Lhy9tQe4W/UuNmbJs25P1B18MewhDNPGlXjvvS5tpTn6Bwuc6zKhOvhnMp64NQLRmNGnCFhRnCI3v0XI/UpIO+/g2H0CKOagqqdaIqFAs0raJWM9QAIUKpS6C05fG8gmw=;+XlzJmFQUkwX1YIBSYeD6w=="
 ---
 

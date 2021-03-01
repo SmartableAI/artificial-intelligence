@@ -90,6 +90,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
+  - title: "Autonomous Vehicles Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
+    excerpt: "Mar 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Autonomous vehicle also known"
+    publishedDateTime: 2021-03-01T15:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 - 2024 | By Kenneth Research"
     excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
     publishedDateTime: 2021-02-26T16:17:00Z

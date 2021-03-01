@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2021/02/210225082522.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/02/210225082522.htm"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Using machine learning to identify blood biomarkers for early diagnosis of autism"
-    excerpt: "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,"
-    publishedDateTime: 2021-02-24T23:17:00Z
-    webUrl: "https://www.news-medical.net/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/Using-machine-learning-to-identify-blood-biomarkers-for-early-diagnosis-of-autism.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 54
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Machine Learning Detects Biomarkers of Autism Spectrum Disorder"
     excerpt: "Machine learning tools were able to identify biomarkers in blood that could enable earlier diagnosis of children with autism spectrum disorder."
     publishedDateTime: 2021-02-25T14:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-rean
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/"
 type: article
 quality: 87
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://www.postbulletin.com/incoming/6908285-1w29rk-2021-02-26T163029Z_1_LYNXMPEH1P181_RTROPTP_4_HEALTH-CORONAVIRUS-FACIAL-RECOGNITION.JPG/alternates/BASE_LANDSCAPE/2021-02-26T163029Z_1_LYNXMPEH1P181_RTROPTP_4_HEALTH-CORONAVIRUS-FACIAL-RECOGNITION.JPG"
         width: 1140
         height: 712
+        isCached: true
+  - title: "MyHeritage unveils new artificial intelligence photos"
+    excerpt: "My Heritage, which uses DNA testing to help you figure out your genealogy, has unveiled a new service that uses artificial intelligence to bring still photos to life."
+    publishedDateTime: 2021-03-01T15:20:00Z
+    webUrl: "https://www.wral.com/myheritage-unveils-new-artificial-intelligence-photos/19552277/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 37
+    images:
+      - url: "https://wwwcache.wral.com/asset/entertainment/2021/03/01/19552278/113851-tech-DMID1-5q1fay2c4-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "Iaxp76V09w5GVybviR/gazrahzvEXM67DFoqXGXue25EUGshKjBVx/Hz0cV61017eRslaU45NGgd2Bj75HJHFPfHHG3lwWE+QAHUPRsxlmcmcOqKddD7KdierdUtojbIHELjDCnQvmg5Req5umENyCp5R3HQ/GsNtTAWLg7atjFfUDA9h0jHlulVoBjReYAIXfuOYHPZxyCk/GUd59wbTeo4z9u+mXm4FT0V5V6o2c0ssWVPrIc85f6cMEJBxh8SneXXlbrfm8wlJLnJFTzZekpu4xLZWpUSewBFVaRmiD1v34XjcyT048fU6yU4P27Gfv4C8H40/du7C6+0P3oBkT82ngvz7l6FN60F0zMZrX+b8Cq8WbHD7BljjWlpgrmLj98Go3Hnj9DnFBn0DicnruwPSIba1ouNsL2ZUmC0jqlxuiJ6bjtv1OPzJvE9QnzrVn6O59BMh1bRcZlgRkLlJNbAoMZARMI413Keb4StncKqoN90tf97xo76Pk2SI09ps8TfMS01fH/jLYvFldhRow==;D9Qa56pLHEMy0ilb/N4Esg=="

@@ -9,8 +9,8 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-lau
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-launches-programme-on-healthcare-analytics/article33962975.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Business Line
@@ -43,17 +43,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Fintech Spotlight: OVTLYR Launches Behavioral Analytics Tool For Retail Investors"
-    excerpt: "OVTLYR, an AI-driven behavioral analytics tool for retail investors, formally announced its web-based platform launched for free, as a pilot. As part of the development,"
-    publishedDateTime: 2021-02-25T00:00:00Z
-    webUrl: "https://www.benzinga.com/fintech/21/02/19814906/fintech-spotlight-ovtlyr-launches-behavioral-analytics-tool-for-retail-investors"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19814906"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19814906"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 34
 
 secured: "Ac+qZul01MSxGoPyvleOUuKgfFefpe7umMEVtUu2UvGi1iky+1EuxGtoiVsymma9P/td/FYvz7j0KrEY6/51tRJ8KsPi3ol1yJWX1S3c/MebVm+/5F0NVIGmGiCgfjhBxEL/I8R1AU166+wm2MGVqhHY47KBoO7pSfeCyayZDJdl8nGWFtx8GY2+C/r/ufHdZ5M8JEIJeAi45CWs4nsPIAHNnDlAmmRxlFc0KuSh6RbrnqpEwAYtF8dXC9J1q38HCFwi0EFRNDtyDin+UcMIKQ3Zsv6PbPn7V7hZem3nnrPVaVknLIetvzkAx189vhBSi8wgWe50p+xWjHdkAHznjp6DBgTHVwLxr2QXn+25014=;vtqlqC4mn7ffUl2BKE/NKg=="
 ---

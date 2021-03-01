@@ -117,6 +117,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
+    excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
+    publishedDateTime: 2021-03-01T16:51:00Z
+    webUrl: "https://www.nature.com/articles/s41419-021-03506-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 4
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-021-03506-0/MediaObjects/41419_2021_3506_Fig1_HTML.png"
+        width: 685
+        height: 481
+        isCached: true
 
 secured: "GqTCcX5J9PHLAReETBsHRnA6Ud+mZfc1ZPd0V5g87kAuS/uhDsl6YkKEUMuy2LiWI5GyXFRVnYS2c1JfsV/MhIurzM0cN/PyTpwHMv2QY47iphQRFYeJysOH2QgleS3CcAiyDRZBovPuzT/UOXdBjmcSoMVXMLktQOfLOKw5qQw2mMsQBzdHFSnNBQxPLfhwEn+SIQYV1+kkZbIpG9f2g0HfChRWg43xZ4h6gLFa2E0GbvxXl0hxlD6UqjfPdPM1wVrQOg7zfWGPicr4564zyi542UusHTVbiZJCvVzH4QnfJGzCQuWh+RXOAvJv5S9AskfCDh5HdT9ZHDrBp/Tz1BvVtQeBodQX1kz5P3c8j6M=;zcIZ0gmsFtUdx+toEHKkSg=="
 ---
