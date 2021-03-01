@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-27-ibm-i-marketplace-continues-to-expand.md",
+      "title": "IBM i marketplace continues to expand",
+      "excerpt": "The IBM i platform continues to show solid growth as customers upgrade hardware and software to support key business apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterprisetimes.co.uk/2021/01/26/ibm-i-marketplace-continues-to-expand/",
+      "originalUrl": "https://www.enterprisetimes.co.uk/2021/01/26/ibm-i-marketplace-continues-to-expand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterprisetimes.co.uk/wp-content/uploads/2021/01/johannes-groll-mrIaqKh9050-unsplash.jpg",
+          "width": 728,
+          "height": 410,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetimes.co.uk",
+        "domain": "enterprisetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-artificial-intelligence-in-drug-discovery-market-key-players-ibm-watson-exscientia-gns-healthcare-benevolent-ai.md",
+      "title": "Artificial Intelligence In Drug Discovery Market Key Players: IBM Watson, Exscientia, GNS Healthcare, Benevolent AI",
+      "excerpt": "The global Artificial Intelligence In Drug Discovery market size is expected to be worth around US$ 3.4 billion by 2027, according to a new report by Vision Research Reports. The global Artificial Intelligence In Drug Discovery market size was valued at US$ 473.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-key-players-ibm-watson-exscientia-gns-healthcare-benevolent-ai-2021-01-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-key-players-ibm-watson-exscientia-gns-healthcare-benevolent-ai-2021-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T01:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-ibm-bringing-ai-to-programmatic-ecosystem-with-new-partnerships.md",
       "title": "IBM Bringing AI to Programmatic Ecosystem with New Partnerships",
       "excerpt": "The division of IBM leverages the company's Watson intelligence engine on advertising use cases. In this video interview with Beet.TV, Hlavacek explains how AI could make a step-change.",

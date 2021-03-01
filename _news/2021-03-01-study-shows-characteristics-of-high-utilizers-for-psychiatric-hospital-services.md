@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study investigates characteristics of high utilizers for psychiatric hospital services"
-    excerpt: "Dropping out of high school, having schizophrenia, or being diagnosed with a co-occurring personality disorder increases the likelihood of someone becoming a \"high utilizer\" of inpatient psychiatric hospital services,"
-    publishedDateTime: 2021-02-25T01:32:00Z
-    webUrl: "https://www.news-medical.net/news/20210224/Study-investigates-characteristics-of-high-utilizers-for-psychiatric-hospital-services.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210224/Study-investigates-characteristics-of-high-utilizers-for-psychiatric-hospital-services.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210224/Study-investigates-characteristics-of-high-utilizers-for-psychiatric-hospital-services.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 36
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Abstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Highest utilizers for mental health hospital services"
     excerpt: "Dropping out of high school having schizophrenia or being diagnosed with a co-occurring personality disorder increases the likelihood of someone becoming a h"
     publishedDateTime: 2021-02-27T12:11:00Z

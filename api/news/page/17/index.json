@@ -2,6 +2,196 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-13-artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace.md",
+      "title": "Artificial Intelligence in Security Market Next Big Thing | Major Giants Amazon, IBM, Darktrace",
+      "excerpt": "COVID-19 Outbreak-Global Artificial Intelligence in Security Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T23:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-a-new-company-pursues-total-recallstarting-with-zoom.md",
+      "title": "A New Company Pursues Total Recall—Starting With Zoom",
+      "excerpt": "Research shows ... luminaries from Facebook, Google, and Y Combinator, approve of Siroker’s gradual approach to total recall. “When people talk about merging with AI or computers, they always ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
+      "originalUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6025d44412d470b83c1a4fc4/master/pass/business_plaintext_memory.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
+      "publishedDateTime": "2021-02-12T18:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-meet-russias-new-killer-robot.md",
+      "title": "Meet Russia’s New Killer Robot",
+      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-bias-allegations-against-facial-recognition-prompt-legal-challenge-threat.md",
+      "title": "Bias allegations against facial recognition prompt legal challenge, threat",
+      "excerpt": "Allegations of poor performance for women and people of color by face biometrics systems have resulted in legal action and the threat of a lawsuit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat",
+      "originalUrl": "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg",
+          "width": 1600,
+          "height": 1035,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-using-container-images-to-run-pytorch-models-in-aws-lambda.md",
       "title": "Using container images to run PyTorch models in AWS Lambda",
       "excerpt": "PyTorch is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they’re trained, these models",
@@ -782,34 +972,25 @@
     },
     {
       "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
-      "excerpt": "The “Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By Demand Category, By Company, By Region, Forecast & Opportunities, 2026” report has been ...",
+      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com",
+      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
+      "webUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
+      "originalUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:14:00-08:00",
+      "publishedDateTime": "2021-02-12T04:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1002,179 +1183,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-machine-learning-used-to-generate-aav-capsids-for-gene-therapy.md",
-      "title": "Machine learning used to generate AAV capsids for gene therapy",
-      "excerpt": "A study has used artificial intelligence to reveal adeno-associated virus (AAV) capsid variants for use in gene therapies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
-      "originalUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.drugtargetreview.com/wp-content/uploads/Gene-therapy-7.jpg",
-          "width": 750,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "drugtargetreview.com",
-        "domain": "drugtargetreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics.md",
-      "title": "ThoughtSpot and Microsoft Partner to Unleash the Value of Cloud Data with Search and AI-driven Analytics",
-      "excerpt": "ThoughtSpot, the leader in search & AI-driven analytics, and Microsoft today announced a new agreement to help Azure Synapse customers tap into their cloud data through augmented analytics. As part of this new agreement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics/",
-      "originalUrl": "https://www.financialbuzz.com/thoughtspot-and-microsoft-partner-to-unleash-the-value-of-cloud-data-with-search-and-ai-driven-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter.md",
-      "title": "Microsoft is going to have lots of clouds for industries. Here's why they matter",
-      "excerpt": "Industry clouds like healthcare and retail are there for Microsoft partners to build services on top of. Microsoft already has two vertical ' clouds for industry ' for healthcare and retail; expect more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "publishedDateTime": "2021-02-12T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-self-driving-car-market-trend-and-forecast.md",
-      "title": "Self-Driving Car Market Trend and Forecast",
-      "excerpt": "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-trend-and-forecast-2021-02-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

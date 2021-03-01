@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Lantheus Announces Publication of PyL (18F-DCFPyL) Results from Pivotal Studies"
-excerpt: "The most frequent changes in intended prostate cancer treatment plans included changing salvage local therapy to systemic therapy ... targeted therapeutics and artificial intelligence solutions to Find, Fight and Follow serious medical conditions."
-publishedDateTime: 2021-03-01T16:03:00Z
-originalUrl: "https://www.wallstreet-online.de/nachricht/13570713-lantheus-announces-publication-of-pyl-18f-dcfpyl-results-from-pivotal-studies/all"
-webUrl: "https://www.wallstreet-online.de/nachricht/13570713-lantheus-announces-publication-of-pyl-18f-dcfpyl-results-from-pivotal-studies/all"
+title: "Lantheus Announces Publication of PyL™ (18F-DCFPyL) Results from Pivotal Studies"
+excerpt: "Lantheus Holdings, Inc. (NASDAQ: LNTH) (Lantheus), an established leader and fully integrated provider of innovative imaging diagnostics, targeted the"
+publishedDateTime: 2021-03-01T18:30:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210301005231/en/Lantheus-Announces-Publication-of-PyL™-18F-DCFPyL-Results-from-Pivotal-Studies"
+webUrl: "https://www.businesswire.com/news/home/20210301005231/en/Lantheus-Announces-Publication-of-PyL™-18F-DCFPyL-Results-from-Pivotal-Studies"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: wallstreet online
-  domain: wallstreet-online.de
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
@@ -34,6 +34,6 @@ related:
         height: 480
         isCached: true
 
-secured: "m4xYPT2X1TQjzUxqPVBSdh6p934ZHauiMnqxqVLmsSRJCzLknfZLp9kS0LNxWBXXXYQYqbA4TKA+UGXwHSdk7O7WRMjzicO8vNMYMePIsVOK8QyLtmA1wcfxAN7ezh3uVKZiGyBEnv9bQB+dT6Q/tR6iWxWGu+x3FhbBQMOKeVZ041T5p7nsIuACx8B6zVNy7g0sq6SYgaGFYA4W8P9og7lRh5VNGrOaxAbPwU9Tccf00Wf9nCI1HH0gmkBcHiL/ovaCJsAbsM6N+uU4AxDxgG+tPouy+bY+1ARu2ir6TBrBi8gCIeDXhfN8PbnZYT0gB83hBFdsA7BHfI1NTsj3N49rIly7zb0KOZS8UQ+HgZc=;Y2c00JtqjOrDd/8Z7SBFNg=="
+secured: "JeT7z0dqwOoKnmhjwRXzBEzy1fgpdIgLWDCg3Q3+Ilpkz8maBgNykEFn6OzvCxsYadynQrV/wysnai0geIcfG467ntfrPqgZ01eEG9rypGHpaaIK5Unm6uc9jxt5R8APyFbQzytarojefIPy31/YhB4mV2ZzXY6DF0lhr9mcs2We2V6godipTW+8KRMFcJEHQoRLKQUmi/HfaytUIaBXBZBTMe+4rMjLU0ReTEEM4puegxgPJ+qPBSWkt6N9lmJf8hHIZxxFV4Tup1LkA5aIofmUtXK4B6YawgzjDZJEz+jcMAczpZNq2dkCZC+NipRZo9dc/LPzVnwyw+aeb7hfPfm/hS9p7V0LFkYfHXxNSEs=;CXOcQa7e0x5xEQt2PgYw/w=="
 ---
 

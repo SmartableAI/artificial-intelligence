@@ -2,6 +2,197 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
+      "title": "SAIC taps Chinese chip startup for self-driving cars",
+      "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "originalUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1",
+          "width": 820,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
+      "publishedDateTime": "2021-02-23T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-gab-mewe-telegram-discord-trump-fans-extremists-find-new-outlets-after-facebook-twitter-bans.md",
+      "title": "Gab, MeWe, Telegram, Discord: Trump fans, extremists find new outlets after Facebook, Twitter bans",
+      "excerpt": "While exclusion from major platforms has limited US conspiracy and extremist movements’ large-scale recruitment capacity, embers smoulder under the ashes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "originalUrl": "https://www.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/23/76fd2332-7592-11eb-8b9d-76c80a88a6d4_image_hires_133619.jpg?itok=apblQkMr&v=1614058588",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/world/united-states-canada/article/3122747/gab-mewe-telegram-discord-trump-fans-extremists",
+      "publishedDateTime": "2021-02-22T22:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
+      "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
+      "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
+      "originalUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/electronic-5902163_640.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
+      "publishedDateTime": "2021-02-22T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack.md",
+      "title": "EU report warns that AI makes autonomous vehicles ‘highly vulnerable’ to attack",
+      "excerpt": "A European Union Agency for Cybersecurity report says machine learning should be considered part of the autonomous vehicle supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/",
+      "originalUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/amp/",
+      "publishedDateTime": "2021-02-22T17:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-continental-picks-up-stake-in-ai-chip-start-up-recogni.md",
       "title": "Continental picks up stake in AI chip start-up Recogni",
       "excerpt": "German technology company Continental has acquired a minority stake in the German-US start-up Recogni, which is working on a new chip architecture for object recognition in real-time based on artificial intelligence (AI).",
@@ -989,197 +1180,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process.md",
-      "title": "This flying AI robot can pick fruit – preventing waste in the process",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Douglas Broom, Senior Writer, Formative Content There’s a",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
-      "originalUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/02/robots-flying-1.jpeg?w=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
-      "publishedDateTime": "2021-02-22T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-google-fires-top-ethical-ai-expert-margaret-mitchell.md",
-      "title": "Google fires top ethical AI expert Margaret Mitchell",
-      "excerpt": "Google has fired the co-lead of the company's ethical AI unit, Margaret Mitchell, on the heels of the removal of Timnit Gebru.  Mitchell, an ethical artificial intelligence (AI) expert who has previously worked on machine learning bias,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "originalUrl": "https://www.zdnet.com/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/dce95dc8-f436-4afb-9ec1-86ef667ce31d/gebru-and-mitchell.png",
-          "width": 1600,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fires-top-ethical-ai-expert-margaret-mitchell/",
-      "publishedDateTime": "2021-02-22T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal.md",
-      "title": "SAIC Motor Boosts Presence in Auto Chip Sector With New Horizon Robotics Deal",
-      "excerpt": "A unit of SAIC Motor has signed a cooperation deal with vehicle chip unicorn Horizon Robotics to address the scarcity of semiconductors the Chinese carmaker has been facing amid a global shortage of the key component,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal/11561475324248064.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows.md",
-      "title": "Google fires second AI ethics leader as dispute over research, diversity grows",
-      "excerpt": "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6",
-      "originalUrl": "https://www.reuters.com/article/alphabet-google-research-int-idUSKBN2AJ2L6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552410683&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1J00J",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AJ2L6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2L6",
-      "publishedDateTime": "2021-02-22T01:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

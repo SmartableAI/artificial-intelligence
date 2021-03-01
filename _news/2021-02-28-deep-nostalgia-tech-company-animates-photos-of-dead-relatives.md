@@ -37,6 +37,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "‘Deep Nostalgia’ Brings People in Old Photos Back to Life with Movement"
+    excerpt: "Deep Nostalgia is a new AI that can breathe new life into historical photos by animating people who have long passed. The results are both creepy and"
+    publishedDateTime: 2021-03-01T17:11:00Z
+    webUrl: "https://petapixel.com/2021/03/01/deep-nostalgia-brings-people-in-old-photos-back-to-life-with-movement/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 24
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/03/deepnostalgiafeat.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cALJyDX4y+jatTllow8mT+Ni5dpznzxpgVDWTY1E0LeZ/PUFaP3G3Ko46xgsDsma/dE2HAH2CSWMEHFW2eunEpVJQBJLaID9So2l3N5g4VjML9J630y3vcwPc8vYFWXFHdWSyK2ldMczL5UnqZlm58r3gDIJiTWL+zwB0RNyJr9tYi20ZM2u1StjqoCvecPlK+lv59iwPXo3bXyj8bYnLsQNEnRZN6zShpzp5k2ToWn1wrcP+2l124Zeff/kSDpEb22cTcsDBuelZ1IwHuTbsc9lojzGtRtHK7dWTdv4Q5AIxiLGFkEL0xYQUcTaHIgvgAyJ7VgFEth1L0pAzTEfHCx7I9n8ttk60DknmgBC/LO1P/EHYf/5dNMuUd/Qu28P0axHyfmAjETYAH3RPlQcf9uHuAPd0KudXDxGhRIEo85C+ZMmPFC/UUds/cBjHqPNHGsuostekpY4rpA0JtI79KSwZxl8H+y4LyEhAYtkNZQ1cAR12N697skSfCJq1v+hIsmR6Oc8xX9s5kPtCpiZKg==;KP9rg84g+/7i3aa0BBKRng=="
 ---

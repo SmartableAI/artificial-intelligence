@@ -2,6 +2,194 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-15-microsoft-announces-limited-access-to-its-neural-text-to-speech-ai.md",
+      "title": "Microsoft announces limited access to its neural text-to-speech AI",
+      "excerpt": "Microsoft announces limited access to its neural text-to-speech AI Recently, Microsoft announced limited access to its neural",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/",
+      "originalUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Microsoft-announces-limited-access-to-its-neural-text-to-speech-AI.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/gaming/microsoft-announces-limited-access-to-its-neural-text-to-speech-ai/amp/",
+      "publishedDateTime": "2021-02-14T17:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-nissan-says-not-in-talks-with-apple-over-autonomous-car-project.md",
+      "title": "Nissan says 'not in talks with Apple' over autonomous car project",
+      "excerpt": "Nissan Motor Co Ltd said on Monday it is not in talks with Apple Inc, following a report that the iPhone maker approached the Japanese company in recent months about a tie-up for its autonomous car project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idUSL1N2KL01Y",
+      "originalUrl": "https://www.msn.com/en-gb/finance/other/nissan-says-not-in-talks-with-apple-over-autonomous-car-project/ar-BB1dGip1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551575165&w=640&fh=&fw=&ll=&pl=&sq=&r=LYNXMPEH1E01L",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AF02N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AF02N",
+      "publishedDateTime": "2021-02-14T16:59:45-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y",
+        "domain": "reuters.com/article/autos-tech-apple-nissan/update-2-nissan-says-not-in-talks-with-apple-over-autonomous-car-project-idusl1n2kl01y",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-covid-19-has-made-americans-lonelier-than-ever-but-ai-can-help.md",
+      "title": "COVID-19 has made Americans lonelier than ever, but AI can help",
+      "excerpt": "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
+      "originalUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg",
+          "width": 754,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
+      "publishedDateTime": "2021-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive.md",
+      "title": "Salesforce: Combining AI and automation can give us superpowers and make us more productive",
+      "excerpt": "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "originalUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/12/4cb48ac5-f691-492f-944c-19f1e080e286/john-kucera-1.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
+      "publishedDateTime": "2021-02-14T15:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-will-artificial-intelligence-produce-synthetic-sociopaths.md",
       "title": "Will Artificial Intelligence Produce Synthetic Sociopaths?",
       "excerpt": "Some day soon, computers may convincingly mimic human empathy. Will this lead to ethical artificial intelligence, or synthetic sociopathy?",
@@ -1022,196 +1210,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace.md",
-      "title": "Artificial Intelligence in Security Market Next Big Thing | Major Giants Amazon, IBM, Darktrace",
-      "excerpt": "COVID-19 Outbreak-Global Artificial Intelligence in Security Industry Market Report-Development Trends, Threats, Opportunities and Competitive Landscape in 2020 is latest research study released by HTF MI evaluating the market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-next-big-thing-major-giants-amazon-ibm-darktrace-2021-02-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-a-new-company-pursues-total-recallstarting-with-zoom.md",
-      "title": "A New Company Pursues Total Recall—Starting With Zoom",
-      "excerpt": "Research shows ... luminaries from Facebook, Google, and Y Combinator, approve of Siroker’s gradual approach to total recall. “When people talk about merging with AI or computers, they always ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
-      "originalUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6025d44412d470b83c1a4fc4/master/pass/business_plaintext_memory.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
-      "publishedDateTime": "2021-02-12T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-meet-russias-new-killer-robot.md",
-      "title": "Meet Russia’s New Killer Robot",
-      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-bias-allegations-against-facial-recognition-prompt-legal-challenge-threat.md",
-      "title": "Bias allegations against facial recognition prompt legal challenge, threat",
-      "excerpt": "Allegations of poor performance for women and people of color by face biometrics systems have resulted in legal action and the threat of a lawsuit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat",
-      "originalUrl": "https://www.biometricupdate.com/202102/bias-allegations-against-facial-recognition-prompt-legal-challenge-threat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/04160101/facial-recognition-for-biometric-access-control-housing.jpeg",
-          "width": 1600,
-          "height": 1035,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

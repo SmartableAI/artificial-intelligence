@@ -2,6 +2,216 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-ai-can-write-a-passing-college-paper-in-20-minutes.md",
+      "title": "AI can write a passing college paper in 20 minutes",
+      "excerpt": "AI can do a lot of things extremely well. One thing that it can do just okay -- which, frankly, is still quite extraordinary -- is write college term papers. That's the finding from EduRef, a resource for students and educators,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "originalUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/24/ee4bf386-5431-4696-8897-c9f962b8826d/term-paper.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "publishedDateTime": "2021-02-24T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.md",
+      "title": "3 kinds of bias in AI models — and how we can address them",
+      "excerpt": "When both humans and AI models have basic information like gender ... For instance, ML models trained to perform language translation tasks tended to associate female names with attributes like “parents” and “weddings,” while male names had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
+      "originalUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_brain_circuit_thinkstock-100528006-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
+      "publishedDateTime": "2021-02-24T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-review-aws-ai-and-machine-learning-stacks-up.md",
+      "title": "Review: AWS AI and Machine Learning stacks up",
+      "excerpt": "Amazon Web Services provides an impressively broad and deep set of machine learning and AI services, rivaling Google Cloud and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html",
+      "originalUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/artificial_intelligence_ai_blockchain_digital_learning_chip-100745932-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.amp.html",
+      "publishedDateTime": "2021-02-24T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal.md",
+      "title": "Warehouse Robotics Provider Berkshire Grey to Go Public Through SPAC Deal",
+      "excerpt": "Logistics automation provider Berkshire Grey Inc. is planning to go public through a merger with special-purpose acquisition company Revolution Acceleration Acquisition that would value the robotics company at $2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400",
+      "originalUrl": "https://www.wsj.com/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-303382/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/warehouse-robotics-provider-berkshire-grey-to-go-public-through-spac-deal-11614164400",
+      "publishedDateTime": "2021-02-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works.md",
       "title": "Companies are using AI to hit business goals, even though they can't explain how it works",
       "excerpt": "A new survey of tech decision makers finds that security concerns are high and trust is low when it comes to artificial intelligence.",
@@ -106,10 +316,10 @@
     {
       "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
       "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up.",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=article_inline",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=article_inline",
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -998,197 +1208,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-ai-researchers-detail-obstacles-to-data-sharing-in-africa.md",
-      "title": "AI researchers detail obstacles to data sharing in Africa",
-      "excerpt": "Coauthors argue that failure to consider ethical concerns associated with obstacles to data sharing in Africa could cause irreparable harm.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/25926847601_141ca6c021_k.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/ai-researchers-detail-obstacles-to-data-sharing-in-africa/amp/",
-      "publishedDateTime": "2021-02-23T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499.md",
-      "title": "Automated eats: Meet the Silicon Valley robot serving healthy grain bowls for $4.99",
-      "excerpt": "Mezli, a local startup founded by current and former Stanford students, wants to use robotics to make cheap, convenient, high-quality food available to the masses.",
-      "sourceUrl": null,
-      "webUrl": "https://almanacnews.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
-      "originalUrl": "https://almanacnews.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://almanacnews.com/news/photos/2021/february/23/50825_col.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Almanac",
-        "domain": "almanacnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-the-5-things-everyone-should-know-about-cloud-ai-according-to-a-sequoia-capital-partner.md",
-      "title": "The 5 things everyone should know about cloud AI, according to a Sequoia Capital partner",
-      "excerpt": "Sequoia Capital investor Konstantine Buhler discusses how the impact of artificial intelligence will unfold over the next decade in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
-      "originalUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603465e9d920880018591685?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sequoia-ai-investor-artificial-intelligence-konstantine-buhler-2021-2?amp",
-      "publishedDateTime": "2021-02-23T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-finesse-says-fashiontech-will-disrupt-apparel-industry-the-way-fintech-roiled-banks.md",
-      "title": "Finesse Says ‘FashionTech’ Will Disrupt Apparel Industry The Way FinTech Roiled Banks",
-      "excerpt": "Finesse, a Los Angeles fashion platform, is using tech and data to produce trendy clothes that people want at a fraction of the cost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/finesse-457x274.jpeg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2021/finesse-fashiontech-apparel-industry/amp/",
-      "publishedDateTime": "2021-02-23T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/"
 type: article
 quality: 108
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 706
     height: 523
     isCached: true
+
+related:
+  - title: "Cloudera Pivots To Data Management As Hadoop Fades"
+    excerpt: "It was only two years ago that Cloudera, once one of the top vendors in what had been a white-hot Hadoop market, found itself fighting for survival."
+    publishedDateTime: 2021-03-01T17:53:00Z
+    webUrl: "https://www.nextplatform.com/2021/03/01/cloudera-pivots-to-data-management-as-hadoop-fades/"
+    ampWebUrl: "https://www.nextplatform.com/2021/03/01/cloudera-pivots-to-data-management-as-hadoop-fades/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/01/cloudera-pivots-to-data-management-as-hadoop-fades/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/hadoop-elephant-fading-logo-scaled.jpg"
+        width: 2560
+        height: 1704
+        isCached: true
 
 secured: "AWyvoJM2tSOBxVDYXfbyV0u/OIvfkt8/CiTzYvXxP7iHfqPzRrqcMyKI30uccFO97rn64sVT4mcTa9UlOuVhnnP022KPBrMYyI0YCfL3wjzlPc91RdRcwItvXtPelh0Die6KXIXJjzVPXo0S1JaZQXhnF+/aZH39Rx7L2hPMIxFWATDXEdMDUWL0ZoabdixXFo6vPluGENFgDOhE4bNzRWpwfEdwdLxEF1y/mI8FSJGJUXOxQMCj3pX7mXZ04snKRnoTjtl9N6rBK6LM021ElLuCM4jJ8YLCP3DLhmkfoRsKK0WkWmkBUO+Yl3ZUCypmJh2PzVLJM9U4pCkdn1jcY0+C6rZN2RxtPFI53Ea62DA=;7OAMfWreEFElUYtkwdFYAw=="
 ---

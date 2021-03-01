@@ -2,6 +2,186 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-02-04-looking-for-self-driving-cars-the-driv-etf-has-you-covered.md",
+      "title": "Looking for Self-Driving Cars? The DRIV ETF Has You Covered",
+      "excerpt": "I ncreasing demand for electric automobiles is opening up opportunities for ETF investors to focus on the sector with funds like the Global X Autonomous & Electric Vehicles ETF (DRIV). DRIV seeks to invest in companies involved in the development of autonomous vehicle technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03",
+      "originalUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/looking-for-self-driving-cars-the-driv-etf-has-you-covered-2021-02-03?amp",
+      "publishedDateTime": "2021-02-03T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter.md",
+      "title": "AI detects 1,210 new potential gravitational lenses in the search for dark matter",
+      "excerpt": "Scientists used deep residual neural networks to search for the lenses in surveys of the sky. Their study could help unravel the mysteries of dark matter.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/40501331252_d8f39000a4_o-796x664.jpg",
+          "width": 796,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/03/ai-detects-1210-new-potential-gravitational-lenses-in-the-search-for-dark-matter/amp/",
+      "publishedDateTime": "2021-02-03T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles.md",
+      "title": "Daimler to spin off trucks in shift to electric, self-driving vehicles",
+      "excerpt": "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-daimler-trucks-divestiture-idCAKBN2A329T",
+      "originalUrl": "https://www.reuters.com/article/us-daimler-trucks-divestiture-idCAKBN2A329T",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550192910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121KT",
+          "width": 824,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2A329T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A329T",
+      "publishedDateTime": "2021-02-03T13:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-dustin-diamond-was-working-on-screechs-robot-ad-campaign-before-his-death.md",
+      "title": "Dustin Diamond Was Working on Screech's Robot Ad Campaign Before His Death",
+      "excerpt": "The ‘Saved by the Bell’ actor sadly passed away earlier this week after a short battle with advanced lung cancer.",
+      "sourceUrl": null,
+      "webUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
+      "originalUrl": "https://movieweb.com/dustin-diamond-dead-screech-robot-commercials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn3.movieweb.com/i/article/oz8EStU1MM2Zwnlo9gHSNdvz9LURWD/1200:100/Dustin-Diamond-Dead-Screech-Robot-Commercials.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
+      "cdnAmpWebUrl": "https://movieweb-com.cdn.ampproject.org/c/s/movieweb.com/amp/dustin-diamond-dead-screech-robot-commercials/",
+      "publishedDateTime": "2021-02-03T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MovieWeb",
+        "domain": "movieweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-scientists-invented-an-ai-to-detect-racist-people.md",
       "title": "Scientists invented an AI to detect racist people",
       "excerpt": "A team of researchers at the University of Virginia have developed an AI system that attempts to detect and quantify the physiological signs associated with racial bias. In other words, they’re building a wearable device that tries to identify when you’re having racist thoughts.",
@@ -1026,197 +1206,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-391.md",
-      "title": "Short Interest in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Increases By 39.1%",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a significant growth in short interest in January. As of January 15th, there was short interest totalling 295,500 shares,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
-      "originalUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/03/short-interest-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-increases-by-39-1.html/amp",
-      "publishedDateTime": "2021-02-03T04:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate.md",
-      "title": "Obtaining Market Recognition And Assessing Value Propositions In A Rapidly Changing Business Climate",
-      "excerpt": "What will it take for organizations to keep building market recognition? How can leaders impact the sentiment of their audiences? Why are some companies excelling and others getting behind?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee90f75a2b06400077bbb41%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/03/obtaining-market-recognition-and-assessing-value-propositions-in-a-rapidly-changing-business-climate/amp/",
-      "publishedDateTime": "2021-02-03T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-more-screen-time-causing-vision-problems-during-pandemic-doctor-warns.md",
-      "title": "More screen time causing vision problems during pandemic, doctor warns",
-      "excerpt": "\"It's multi-factorial. We call it the computer vision syndrome, and it combines both eye strain from just staring at the computers which are right in front of you for all those hours, that 13 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/vision-related-issues-covid-screen-time/",
-      "originalUrl": "https://www.cbsnews.com/news/vision-related-issues-covid-screen-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/03/9e04c0cb-473f-4108-8919-11e13bbd4174/thumbnail/1200x630g2/f9d1e902b69bd0681891681c3a3a586a/cbsn-fusion-pandemic-leads-to-increase-in-vision-problems-thumbnail-638754-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/vision-related-issues-covid-screen-time/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/vision-related-issues-covid-screen-time/",
-      "publishedDateTime": "2021-02-03T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players.md",
-      "title": "Artificial Intelligence Robots Market 2020: Expected Development, Share, Demand And Study Of Key Players",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-expected-development-share-demand-and-study-of-key-players-2021-02-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

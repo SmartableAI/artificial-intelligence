@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-pe
 webUrl: "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -27,6 +27,19 @@ images:
     width: 480
     height: 271
     isCached: true
+
+related:
+  - title: "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision"
+    excerpt: "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ..."
+    publishedDateTime: 2021-03-01T18:20:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
 
 secured: "+K7EJVDMHn7mH7ksaMegyTdLWnzhW8u9mBIOtD5HhBbkxZcryjS7zi2tkSmUAagoAyKcOz77qIrEK814d6IqN0LfwgX3KQHrPSUo5ZG6fdVBl0ll38gSx6Beo7GXDyGCKeLInV19iVKmSlCMZEe2Fz2iqKT7v9hOBuYQx/SYuu6O4zUGDwMde4Km80hfy/Kv5sI2A10iLi62sOzCqi0SChLWQZ8FPFH2UBFYAfw9lJTnu0sNQ0Jd8ltkUSkUIDJ7y8xEGSvfj9AKjCKkOC8W7Sobr0e2VvbjNnBrZ+XFsoDq7vFm9gAT9OJ9492tVZfVXsFr6NZtopIBJIv6n38ZusSMKQteVEtkty07CFsPY1U=;CKDEBwAjVoaYYVZ4ATcI6w=="
 ---

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-31-budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo.md",
+      "title": "Budget 2021| Important to expand on National Program on Artificial Intelligence, says Inker Robotics CEO",
+      "excerpt": "By Rahul Balachandran India has been projected as the only economy that will grow in double-digit i.e. 11.5 per cent in 2021. As we have seen, the challenging 2020-21 has made us realize the importance of adapting and adopting the latest technologies to drive the economy forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deccanherald.com/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "originalUrl": "https://www.deccanherald.com/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2021/01/31/584098-01-02-1-945358-1612101268.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.deccanherald.com/amp/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/union-budget/budget-2021-important-to-expand-on-national-program-on-artificial-intelligence-says-inker-robotics-ceo-945358.html",
+      "publishedDateTime": "2021-01-31T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deccan Herald",
+        "domain": "deccanherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-hollifield-larry-king-will-miss-the-robot-apocalypse.md",
       "title": "HOLLIFIELD: Larry King will miss the Robot Apocalypse",
       "excerpt": "Today, our disparate subjects will be the literary genius of the late Larry King and the inevitable end of the world as we know it brought about by killer robots.",
@@ -1331,49 +1374,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-social-distancing-hyundais-dal-e-robot-helps-showroom-customers-without-wearing-a-mask.md",
-      "title": "Social Distancing? Hyundai's DAL-e Robot Helps Showroom Customers Without Wearing A Mask",
-      "excerpt": "The robots come installed with a state-of-the-art artificial intelligence technology for facial recognition and an automatic communication system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/",
-      "originalUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/DAL-e-with-SUV.jpg",
-          "width": 1710,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/",
-      "cdnAmpWebUrl": "https://www-hotcars-com.cdn.ampproject.org/c/s/www.hotcars.com/hyundais-dal-e-robot-helps-showroom-customers-socially-distance-without-wearing-a-mask/amp/",
-      "publishedDateTime": "2021-01-25T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hotcars",
-        "domain": "hotcars.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
+      "title": "Underwater robot rises from the depths to save drowning swimmers",
+      "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "originalUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b75d88c/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb7%2F1b%2F3c8d4a5849178bc676e0adc06053%2Fiosb-ast-an-autonomous-underwater-robot-saves-people-from-drowning-pic-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "publishedDateTime": "2021-03-01T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-commentary-how-robotics-are-changing-jobs-in-canada.md",
       "title": "COMMENTARY: How robotics are changing jobs in Canada",
       "excerpt": "One widely cited study estimates that 47 per cent of jobs in the United States are at risk of being replaced by robots and artificial intelligence. Read more: The 5-minute shopping spree.",
@@ -1348,41 +1400,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-will-the-future-of-security-be-led-by-robots-aitx-president-says-yes.md",
-      "title": "Will the future of security be led by robots? AITX president says yes",
-      "excerpt": "Could the future of security be led by robots? Artificial Intelligence Technology Solutions — commonly known as AITX — thinks so. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "originalUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "cdnAmpWebUrl": "https://www-centralillinoisproud-com.cdn.ampproject.org/c/s/www.centralillinoisproud.com/news/local-news/will-the-future-of-security-be-led-by-robots-aitx-thinks-so/amp/",
-      "publishedDateTime": "2021-02-18T08:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Central Illinois Proud",
-        "domain": "centralillinoisproud.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

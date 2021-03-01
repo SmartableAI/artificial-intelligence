@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-01-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
+      "title": "How to drive brand awareness and marketing with natural language processing",
+      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T09:00:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "Natural Language Processing",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-avoiding-bias-and-discrimination-in-machine-translation.md",
       "title": "Avoiding Bias And Discrimination In Machine Translation",
       "excerpt": "Bias and discrimination have appeared time and again in various technological forms. A pressing issue is the discrimination found in many of the translation applications in use today, as Google Translate alone now serves roughly 200 million people daily.",
@@ -1435,58 +1488,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-how-sterling-k-brown-became-the-voice-of-cnns-lincoln-divided-we-stand.md",
-      "title": "How Sterling K. Brown became the voice of CNN's 'Lincoln: Divided We Stand'",
-      "excerpt": "\"This Is Us\" star Sterling K. Brown became involved with the CNN Original Series \"Lincoln: Divided We Stand,\" in part, to learn more about the man who served as America's 16th president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160921115945-sterkling-k-brown-this-is-us-2-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/entertainment/abraham-lincoln-divided-we-stand-sterling-k-brown/index.html",
-      "publishedDateTime": "2021-02-12T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,206 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-26-how-to-shift-your-ai-focus-from-accuracy-to-value.md",
+      "title": "How to shift your AI focus from accuracy to value",
+      "excerpt": "All models are wrong, but some are useful.” This is a famous quote from 20th century statistical thinker, George E.P. Box. This might seem like a strange message- shouldn’t all the models we build be as correct as possible?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/money1-1200x622.jpg",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
+      "publishedDateTime": "2021-02-25T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
+      "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
+      "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "originalUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eCJ7iQntKWNQZywfs7Zr3Q-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "publishedDateTime": "2021-02-25T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-artificial-intelligence-market-worth-19061-billion-by-2025-at-a-cagr-of-3662.md",
+      "title": "Artificial Intelligence Market worth $190.61 billion by 2025, at a CAGR of 36.62%",
+      "excerpt": "Artificial Intelligence Market” [222 Pages] Artificial Intelligence Market report categorizes the Global market by Offering (Hardware, Software), Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ab19868951/artificial-intelligence-market-worth-190-61-billion-by-2025-at-a-cagr-of-36-62",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-market6.jpg",
+          "width": 650,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19868951",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19868951",
+      "publishedDateTime": "2021-02-25T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing",
+        "Facebook AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-ai-powered-information-operations-and-new-citizenship.md",
+      "title": "AI-Powered information operations and new citizenship",
+      "excerpt": "Digital information is power, and today citizens have this new power at their fingertips, channeled through reactions, comments, shares, saves and searches on our everyday digital platforms. However,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/",
+      "originalUrl": "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/",
+      "publishedDateTime": "2021-02-25T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-apple-training-siri-to-better-understand-people-with-atypical-speech.md",
       "title": "Apple Training Siri to Better Understand People With Atypical Speech",
       "excerpt": "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall",
@@ -53,7 +253,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -495,7 +695,7 @@
       "originalUrl": "https://www.zdnet.com/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1046,210 +1246,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
-      "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Size, Share, COVID-19 Impact, New Technological Advancements And Geographical Forecast Till 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-aws-announces-general-availability-of-amazon-lookout-for-vision.md",
-      "title": "AWS Announces General Availability of Amazon Lookout for Vision",
-      "excerpt": "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,",
-      "sourceUrl": null,
-      "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/",
-      "originalUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/",
-      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/",
-      "publishedDateTime": "2021-02-24T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalproducer.com",
-        "domain": "digitalproducer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-using-container-images-to-run-tensorflow-models-in-aws-lambda.md",
-      "title": "Using container images to run TensorFlow models in AWS Lambda",
-      "excerpt": "TensorFlow is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they’re trained, these models",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-tensorflow-models-in-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-tensorflow-models-in-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/24/2181Architecture.jpg",
-          "width": 611,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:01:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],
