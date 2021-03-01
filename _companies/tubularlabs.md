@@ -2,7 +2,7 @@
 name: "Tubular Labs"
 overview: "Tubular Labs is the global leader in video intelligence for the cross-platform world."
 type: "profile"
-heat: 42
+heat: 72
 
 website: https://www.reflektion.com/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "TubularLabs"
   url: "https://twitter.com/TubularLabs"
-  followers: 3882
+  followers: 3883
 
 locations:
   - Mountain View, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tubular Labs"
 
-secured: "8VJUk7IT7RZnBB2YB3Q2UeeYIA4GYkQR6CImzI9KhTfWQOYem5tv1n3atI55xXMrXVjDERAzG2+9BXR31bCWuRzNhI3DRBr0QCSnf2O8rqJSOsfij539DI5xUbvbbagnAAsESVs4zkO71jZrcgVfSTAXx+tzUjxQoxjA1cDPdCHBxWkepWlUoRqf73ZJ79e03RLTDva6wvjrbRO+xq78uEm1WIXHMNRSp1/8/pggIP7W5DtLFmL2pt9gbSGFt0I7ZxRQBvOGWKj/YD4odtYqv1S8IlkbgHfcNz+c0NKdmeUUwJ3c/8UvIxwWtSUtpJEQDzKVesVhN/io+L81vLCSqLoCnVC7FtsvUVsJighVB5wK5vVqayv8fiEevmy9/l2EVDORwkh6/BJuDxZWLZFtX06tRhXwIEh4mjMYGLAHZS4=;UKgE1437E76lIL9cwKtJIQ=="
+secured: "6Tz5sdPu8s8tG38rMOjz2ZP/9phYv1AgTkR2fRKoAeqQbrnYCOPHY4TA948CjCnRtQ0hhqPYX1qc0noHGUoyobU1jgLSWi25BVJCW0E8hXhzxha+UY0hKOCIbU+tECZMewvE4/bi2pdEyjL3r/MlTrVHCNWWgCNWZIzA9ULSrbb5BzakNP0k/JHSe/x4l0e0ENHi9ySB5v9Fj3udRGo+2cyMJSniMTANxTwebhI6aXA13alhWaaR1mgobsYVCCgBc+DtPp1QHnPbNtFsrGCgJdIolqsjojQqjbWhanz3kqehTb+Ukz5u+I7ubDghDedhY43pkO5BN6cBAIse0pNz5efL/QxLr2a6/HkXmz+DMSRLT5vrSpH7rts4BNnsyJZAFEOJk8niquO/ZnNT6x+6vuRS71uOLaYsM5lUqerHp9I=;J5by53Qg1xyUECagFjyu+A=="
 ---
 
