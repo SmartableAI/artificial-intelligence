@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-sha
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-share-development-by-companies-outlook-growth-prospects-and-key-opportunities-by-2030-2021-02-26"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
+    publishedDateTime: 2021-02-26T18:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "08qbycuENxto/ubzBYh/RhIGcwwEReF11TTK4UXuMv6EtOkNfKnnD96h+YmesOaExDf/w5Ibd41hdw7hojjne0WU7CptgQm7TWRkcfZoTHD5fhOf4qlTYVcvYqva03i+K06ed+tfPwT6ozkPpMmndxJsxxRr1JC9V601d3TkjAQMoxaC2msUlsMaY0X0ZB/KjxtSlwSLbknc/C5erv4vJ5WSZcO3riHNG9MPd5kTgEH0Yz3Z4KKKHiXGH+pvD8+U6qCfUDfF9r1rkcbv63xfD9OgR6elQTQsDPnNI+irwMSBdeWwGLIZ/Pm8RCpmP4wQvIynYpwI9IYIQL6V2IR5R4N6OYjTHmuxEnBDolOh01I=;fH3828xc8cBqFjCmVdSefw=="
 ---

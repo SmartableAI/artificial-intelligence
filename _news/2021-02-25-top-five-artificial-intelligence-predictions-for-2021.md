@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itproportal.com/amp/features/top-five-artificial-intelli
 cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/top-five-artificial-intelligence-predictions-for-2021/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "AI Predicts What You Can Eat"
-    excerpt: "Vancouver startup Honeycomb.ai alleviates the struggles of dining out for people with dietary needs, allergies, and lifestyle preferences. The typical ingredient-tetris bottleneck played"
-    publishedDateTime: 2021-02-24T12:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-predicts-what-you-can-eat/article_6479909b-e090-55cf-a641-1abd74cb9c16.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/89/b890fae8-909c-5bc5-a0fc-9f4cef346338/60364c1bb45e7.image.jpg?resize=1119%2C630"
-        width: 1119
-        height: 630
-        isCached: true
 
 secured: "I1T8tffgmR4SK6Bs377gBOVQb0BdqRxLabId563L5nZbBbEhm8RCZPoekZtZhbl2o9iEUKaQ64ps665FXzfVmYGdYJIfzmjNrhOvt2J3XKpweJjrqWcE8VSO9gfsnELt2ff7JVAv2XdehYI/HWtRjbRJfb8este1uzVKX2K/xy5Tx/yN1/X5en0cueI0UCBDKlgrnBTDViiiwdSCnRCiDq0EnpSQmvVlIJM3/lYYKJTrtcQxfn7F34rKrq/lDUhCLxpSRlSo3fvfVKoR+0e+5eQouBg6eDxH8oXnLX4XVD/6UrzQ90cMxpyZxI73bG4OmO4wWNh0cGo8oykas2ubjWSMK/WTGhkGneElSGwlWO0=;Mxz9v0gMiN+sX9ltsxF7mQ=="
 ---
