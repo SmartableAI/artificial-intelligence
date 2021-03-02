@@ -51,7 +51,7 @@ related:
     provider:
       name: CIO
       domain: cio.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg"
         width: 1200

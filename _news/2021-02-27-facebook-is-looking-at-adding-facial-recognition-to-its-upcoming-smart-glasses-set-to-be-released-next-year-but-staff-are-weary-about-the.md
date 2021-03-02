@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook is 'looking at' facial recognition technology for upcoming smart glasses, executive confirms"
-    excerpt: "Facebook's head of hardware on Thursday confirmed a report that the company is considering facial recognition technology for its upcoming smart glasses devices."
-    publishedDateTime: 2021-02-26T06:35:00Z
-    webUrl: "https://www.cnbc.com/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/25/facebook-looking-at-facial-recognition-technology-andrew-bosworth.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106325051-1578425852424gettyimages-1038332444.jpeg?v=1578425926"
-        width: 3105
-        height: 2070
-        isCached: true
   - title: "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban"
     excerpt: "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban."
     publishedDateTime: 2021-02-26T12:24:00Z

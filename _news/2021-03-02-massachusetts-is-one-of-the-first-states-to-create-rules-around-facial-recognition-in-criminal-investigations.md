@@ -47,6 +47,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Hunting Sexual Predators A Political Fight in Facial Recognition Legislation"
+    excerpt: "Political polarization over government use of facial recognition technology continues to mount, as Massachusetts became one of the first states to pass comprehensive regulations curbing law enforcement's use of the software."
+    publishedDateTime: 2021-03-02T22:00:00Z
+    webUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303"
+    ampWebUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 88
+    images:
+      - url: "https://d.newsweek.com/en/full/1715323/china-ai-security-cameras.jpg"
+        width: 2500
+        height: 1569
+        isCached: true
   - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
     excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
     publishedDateTime: 2021-02-26T18:14:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernghana.com/amp/news/1064364/war-mongering-for-artif
 cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/businessman_ladder_shutterstock_Ollyy.jpg"
         width: 1000
         height: 738
-        isCached: true
-  - title: "War Mongering for Artificial Intelligence"
-    excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
-    publishedDateTime: 2021-02-26T06:20:00Z
-    webUrl: "https://countercurrents.org/2021/02/war-mongering-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Countercurrents
-      domain: countercurrents.org
-    quality: 37
-    images:
-      - url: "https://cdn.countercurrents.org/wp-content/uploads/2018/03/drone-2.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "War Mongering for Artificial Intelligence"
     excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."

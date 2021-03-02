@@ -379,6 +379,20 @@ related:
       name: United News of India
       domain: uniindia.com
     quality: 47
+  - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
+    excerpt: "Microsoft Azure Percept houses camera module and smart mic, forming the foundation for intelligent devices built by partners."
+    publishedDateTime: 2021-03-02T22:46:00Z
+    webUrl: "https://www.reseller.co.nz/article/686649/microsoft-still-loves-smart-devices-rolling-azure-percept-camera-mic-services/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 46
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/microsoft_ai_devkit.jpg"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Microsoft Ignite 2021: Check Out All the Major Announcements from the Virtual Developer Conference"
     excerpt: "Microsoft Ignite 2021 is underway with big announcements including Azure Percept, Azure Data changes, and Microsoft Teams improvements."
     publishedDateTime: 2021-03-02T14:01:00Z
@@ -396,6 +410,6 @@ related:
         height: 495
         isCached: true
 
-secured: "XgFrnlNYxggf7aADt293cSXRp0sFoRgyFInGa3F/OUya2LyfTKrLXOFdICjr9aAypGEynCpND3Q/Z4sfv6cFxHxl3Ar+/+EieaqQBZnA11lTjCtYJousgzj1H4WLiIp94L135iveXy5EGNHddDijJr/NF36n15BLeytyWqqFuRMWBwLm9z7P65c8eWxog5GsNs8c6J1lSgpz49kXitEn2FSFmGOa2aUR+ttOnKwd4Ns9glcKa3gHQjFpAfTLNGc0JQkdO15uFjCea+ub5JNQ1nS0aBTBKVssbOCLN5HJX4vzN1jifalsxequLOUhgkL/gSPYL59QnxxGCwH9eQi+BfwejJiqcWqmrJInBg90yvs=;1IGCNT/pdVTTCTt+FIrMeA=="
+secured: "8BsQ8FQw9ZFscNQNNHc6TiP8t8g9b6t5Vv9xCdgxLgScx89vTXEWSQ+zLxSOpQau10J6Uo+g9rJViM3z7Q4pX+WdfAAx52soCHw1QDqfM2/8AG4G4bWlywR7fmxKXxCAY5cWK772S7eZdjTsFzW7NG6sgA8YYMvsoT3fWRCdQXae2WnS9el6e4vGHQXmoEIcwXSt93D5mKoLJ6wX6ne4kzjUnr2nsN54hRhBXgfSrrjxUN9VLZG9nHgfoIwaQBMdZXmo5GqrIfA8hEwUN3qdNK2qmI7sEjTU79lBLt3RAhWwIkIG6KIyslAHwlJsG3RVRbQ6JbWDNC4aphjM4B+M1FT2lU9sHWpHzhEDGybtoLs=;SYUOnWcdjiDkUoaXAsB1sA=="
 ---
 

@@ -3,10 +3,10 @@ category: news
 title: "Cisco Webex aims to help you break through the language barrier"
 excerpt: "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software."
 publishedDateTime: 2021-03-02T18:10:00Z
-originalUrl: "https://www.techradar.com/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-webUrl: "https://www.techradar.com/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-ampWebUrl: "https://www.techradar.com/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+originalUrl: "https://www.techradar.com/uk/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+webUrl: "https://www.techradar.com/uk/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
 type: article
 quality: 89
 heat: 99
@@ -48,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "C5WnNhZZlLV3Rx8qXfg4v+c+0p09rmZWpoXI1+JGATJ4kqkNhT3xoaiokPnRnUp7YoTK5MGw33tYd95N2udtlRUQm7qaMRyKf6ZAarzxW+GGJWdPQ0EZDM1KhIRsCEhQbLIDH/cwgHuUkF7NMRxf9R6dHLfirHHwAa0g6AaZBoToeSCFPtvTFkNMmD74I21HMWefRVObhJHAVxPOmzJwLBu2aZa5nXo/zIsoJfShKC06fxltf9kEck4wWDxl5s1xxyxFq634sTbkt7DPBFVok/SiY/7Ucm+c3j3shUfPXFv36piel4HG8hE6PywHFc0eM+s7thfqOpGNMPpy2FtDLxc0uWI5QGsU3f+YVxY7iDgdG+9QIPJ8g4GuFF8nF8owPv3t6Tkzijjr1Ixb4q4LNZrLNbxWc+iD+MUboBjl57lbnfLpZuw9p4WPoySdbfm69yU4CYwMC5k3hxuBjzuHr+S6OMvLdULSDI43hI92D4qtMuKA3ECO7xRXYHjHjyPyHFx+8wbd5q/py64jw0aUNw==;lwO+eQd9VyLAOJ6/a267Lg=="
+secured: "U+6FldTdu6xVkIMI0zWM/SE5opEaLDiKOlpvFab92hIorcK+IJpWD4WTw9EDezecJD3z3n4e2lQtYSN3VgDCLk3+xjiSnydlO66EbqRq5FsLgFX9meWM0XF3V82gr7yuXIIL4IECSCzPS3XWks3m7Gu+FdJFcwWuQpnSYZrOW82E+T2gvQlc/5DpXED0Df6v6+WJLb2q9CzBevhh+ZGW4KYnGAHcWrwcBOv0rtDSxp4ZldSrpF/nWICchcl7Ecfyc5glDlj4EScusxaipAGVP+DnQvliibRlC5KDAVaYzATyaSNs9ztuMS7V0g+xu7w9z697qS4LJMJd4uMFm3znbQGbQqT3nSJrsJ6aOADr+C0=;KdfKw5WWcnODs9IAYWNAiA=="
 ---
 

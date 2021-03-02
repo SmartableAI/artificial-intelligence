@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-02T20:41:00Z
 originalUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
 webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg"

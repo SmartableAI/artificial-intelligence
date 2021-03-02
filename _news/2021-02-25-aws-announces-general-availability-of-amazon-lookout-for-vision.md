@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Computer Vision
 
 images:
   - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
@@ -23,6 +24,6 @@ images:
     height: 552
     isCached: true
 
-secured: "C9J8tvA/fee++66n3sfaSZHhmX2juqfAHfF4hWcxKnHskCQRvdYz25kt6NLhBsX144t+zhXC13Osg8sKJ2aGHvaq7cGuilcCg2/uHX4kdJ/4AVTRe42QB/WaWy+2F834XkwRMDGUScDXDWB/Ev/WuXOm4mdc4zVDoSrtUVZXxzutHZQmp7ScU3WzQ++PiL2eYf/m/zH4eieuiazFCS6HJNM6BOlbM75Imac1H94ow3kl650uZj53KZwBbEfsAcFZdJmmOSJjqruVpnE1QACv9o/Y4uOILq2JePg4eNFB6GDpHoQ7tiOXYddlp8t18cHQkOZaf0AzIqbP73Z4cG7PfVhw2c81PdJQI5vRGOBXefU=;xJp1Ai3i1OclrmiSkqQ5NQ=="
+secured: "Gkrli79w4ZcK7Ta+M0H77jEratNgxdN6o9KA7RcH8QxRiYq/RjV96Lxjp0IWmQRfPcdbIFM3vKIKdm5iApOFZzLM5ORr8oiraJCNc5hk9vpiNdswgTri8elTLeC1KCOoexvvc7mJA0mzSzULkQJWtjPWPrPW5c0/tKYv0Zf9vVixGfhTgQ22Qm9Tww3ToDV0lNVOtwMFFYK6lpvBbd1SpUGDxs58b0rzcX2AATZVqWTZYz2J/5UVhoUms6vBsEPUeWeZVKYylowfPsJuHR8RTBH3BILAtLeXkzOn63vxaG6r1NBq5xHfsuJRcPwgfsttON7lj+uBPk3dElBtBdOwUiC/DbewOb5BF8JdBI/ooz24IY6ujW3kw03/B/n+WalTnhfnFdmganmjGU7IG4HF8AKCKZOJFeqetmLVJTbIii4pmQNoLt3tSbi4boxdFWtsYPr6GSqdGZ08nXrNWoEKUahE9VcfBPm9YMhDREBQAzVnKc5HFqssf9nMA2Kc+k7mQuu3bVAKFob5kkJO+7sW6Q==;mDBqw46dJXr607AFfCRqXw=="
 ---
 

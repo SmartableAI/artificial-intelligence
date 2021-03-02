@@ -45,6 +45,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Hunting Sexual Predators A Political Fight in Facial Recognition Legislation"
+    excerpt: "Political polarization over government use of facial recognition technology continues to mount, as Massachusetts became one of the first states to pass comprehensive regulations curbing law enforcement's use of the software."
+    publishedDateTime: 2021-03-02T22:00:00Z
+    webUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303"
+    ampWebUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 88
+    images:
+      - url: "https://d.newsweek.com/en/full/1715323/china-ai-security-cameras.jpg"
+        width: 2500
+        height: 1569
+        isCached: true
   - title: "Massachusetts is one of the first states to create rules around facial recognition in criminal investigations."
     excerpt: "A police reform bill in Massachusetts has managed to strike a balance on regulating facial recognition, allowing law enforcement to harness the benefits of the tool while building in protections that might prevent the false arrests that have happened before,"
     publishedDateTime: 2021-03-02T03:07:00Z
