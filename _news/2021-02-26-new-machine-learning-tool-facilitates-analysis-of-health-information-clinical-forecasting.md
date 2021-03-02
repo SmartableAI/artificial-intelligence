@@ -1,29 +1,25 @@
 ---
 category: news
 title: "New machine learning tool facilitates analysis of health information, clinical forecasting"
-excerpt: "A new study developed a transparent and reproducible machine learning tool to facilitate analysis of health information. The tool can be used in clinical forecasting, which can predict trends as well as outcomes in individual patients."
-publishedDateTime: 2021-02-25T21:08:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-02/cmu-nml022521.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-02/cmu-nml022521.php"
+excerpt: "Clinical research requires that data be mined for insights. Machine learning, which develops algorithms to find patterns, has difficulty doing this with data related to health records because this type of information is neither static nor regularly collected."
+publishedDateTime: 2021-02-25T21:22:00Z
+originalUrl: "https://medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.html"
+webUrl: "https://medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.html"
+ampWebUrl: "https://medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-tool-analysis-health-clinical.amp"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "DVNZ7Y4w5HDkGKbVHQap+hGugisn+MlZMNu0/wKMM6HpTcwqeAx7Rsv5xZITlK4CGpEnKvo7zB30xwd4A31K2RG1CxWsHMdM4n0B2Kp904PhtzPAwAiib4mKdx22z7BlpseNxWDHbDv3OzylxAcZ3yTEcXzC59B4AGSuKKBwnns0m/WRbpoV5GngMFq4bKaeDujHQNu6Pf8civI5+mYZrPzrUHQasBSx8aY2+ZrB+LlX+fzO5uGbEkcBML7WfAcmsPrvpE8fzEW5O55y9O7Dlf84Qhd/i7Ke//USNaxNu3nC67AhedZjMvVuM8oNvJgE6WZIhY5L9nrEYKmELiLk2nvAF3bjQqoEEetMLv8Zeog=;AYgKZCvdQu6pUDLyNOGrnw=="
+secured: "4V9WD2EGZxSGCLFecVKcaH2pp1H7n8dA+b/id/kX90MLmakA+cBKYK+e7nkkCl5s72lN0FUsYQ9KQ7/MeJk1PsJvemuayqhExCjfD1f2WUqwE8omkT0+RCuc2TSWadQ3cLy6u9sBNaTjsRH3bG8B1xqYGb1Tto4W2HB1ypKfg6Fq7zODWNAHP6DWVSknMVJWUrSNKdKdjFaSeEPAF8Mravoyv1ojMAhoKALKpUicc9xtVuK3am9fpSQrZ1Ma5J1Y0jLCDgZvbXzOO/8JlWFVuVzETln25ohdCUr97LlyPQblCfPTVT9Ee/VhB5G8IHz6c10zyp5sttqFSr6qlWAC8i5azFrTtENsXjuKEO/jjT0=;my6naUi6Rnar9SzoHXCWGg=="
 ---
 

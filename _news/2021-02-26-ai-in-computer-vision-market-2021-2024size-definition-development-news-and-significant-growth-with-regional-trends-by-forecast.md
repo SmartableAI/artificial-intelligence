@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
 type: article
 quality: 56
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -86,17 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cyber Situational Awareness Market Expected to Reach $153 Billion by 2027"
-    excerpt: "According to a recent report published by Allied Market Research, titled, “ cyber situational awareness market by component, solution type, deployment type, organization size, industry verticals, and region: opportunity analysis and industry forecast,"
-    publishedDateTime: 2021-02-25T10:09:00Z
-    webUrl: "https://www.alliedmarketresearch.com/press-release/cyber-situational-awareness-market.html"
-    ampWebUrl: "https://www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
-    cdnAmpWebUrl: "https://www-alliedmarketresearch-com.cdn.ampproject.org/c/s/www.alliedmarketresearch.com/press-release/amp/cyber-situational-awareness-market.html"
-    type: article
-    provider:
-      name: Market
-      domain: alliedmarketresearch.com
-    quality: 23
   - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
     excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
     publishedDateTime: 2021-02-26T15:11:00Z

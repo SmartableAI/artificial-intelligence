@@ -1,30 +1,31 @@
 ---
 category: news
-title: "AI panel urges US to boost tech skills amid China’s rise"
-excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing “AI-enabled” weapons –"
-publishedDateTime: 2021-03-01T20:11:00Z
-originalUrl: "https://www.wavy.com/news/technology/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
-webUrl: "https://www.wavy.com/news/technology/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
-ampWebUrl: "https://www.wavy.com/news/technology/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/amp/"
-cdnAmpWebUrl: "https://www-wavy-com.cdn.ampproject.org/c/s/www.wavy.com/news/technology/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/amp/"
+title: "AI panel urges US to boost tech skills amid China's rise"
+excerpt: "An artificial intelligence commission led by Google’s former CEO told Congress on Monday that the U.S. must boost its AI skills to counter China, including by pursuing “AI-enabled” weapons."
+publishedDateTime: 2021-03-02T01:10:00Z
+originalUrl: "https://www.clickorlando.com/news/politics/2021/03/01/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
+webUrl: "https://www.clickorlando.com/news/politics/2021/03/01/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
+ampWebUrl: "https://www.clickorlando.com/news/politics/2021/03/01/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?outputType=amp"
+cdnAmpWebUrl: "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/politics/2021/03/01/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?outputType=amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: WAVY
-  domain: wavy.com
+  name: Click Orlando
+  domain: clickorlando.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://www.wavy.com/wp-content/uploads/sites/3/2021/03/db14de4ac1e84d259cf3c783ef5a5b02.jpg?w=1280"
+  - url: "https://www.clickorlando.com/resizer/x-nOHvg2yFKH-BTPk2FMpZzv6Ng=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/3UHZWTV2NJCSVF57E6CTCT4QN4.jpg"
     width: 1280
-    height: 853
+    height: 720
     isCached: true
 
-secured: "etygcQmuPrmbpAKNtCwjybMhXNdkkgCw/34PhVDCTXnJLPpC662tdE3m4Im/vz9Zpiyx+0wRqkU55ejxsIY4wNhpEklsC83PB/JfWjkHHkqf9tWqH3aI3TeIbrrVAARgFnjT/mRksCGrroIkPOugMXkeWbsFVcr7o3VSJ1zssnRfjVNfIhX2LYTsXFOi6sz7K8vnuO++a2NU+3+OKUP3PUQznILidSgAvQDUhi3Kh0D9lroZOufVzuOdRn4gliyCbAeKo6RDT88yhr17ObbsXPLiRNrh/eVUSCgkeGXSsi0UkryJ1+kTpE//agEDSeLKXeNCfe3cvkpZeSytQIgGf+/jNMqaESHcud73aLsqpXM=;96r6jYpkgWVZJVy1voj+oQ=="
+secured: "q8AarI/Mk2Ou5Yae8NWNCeczgpDVykqr+hlJ5O5kdFDARzaPqBvxlQWW1Se78LoTjOe5RB1tSKb/HzUeyeXJQ0xphquhOe4j2REllxuppzlKPzS8Y84FcSgikFh3vigWyyZFbjjhjnUNcfonT1rk7Bndiy9BNxMCMswHmYM+v9xAChA6stwPJ7tST4yIn6fYpD6xkamkTzg6q/XGG9mgHx0JJxTs2Fv5isWZw00us0M2OE385rHfL7E1fAfOGSLzKgYDV5Gde1JxX0xjQ1QaL35njja7KBKIqTiiEuvjwz/cvkS932iRip62JzFOQHSt2AHnOtaynrV1XF4ZZQ8EeCUxkqdBGl65CsMXMWwusYU=;JsWyrElppvMyEf1LiajAVg=="
 ---
 

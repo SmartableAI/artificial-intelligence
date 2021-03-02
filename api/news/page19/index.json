@@ -2,6 +2,274 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-12-aws-and-bundesliga-enhance-real-time-game-analysis-with-new-performance-stats-for-2021-season.md",
+      "title": "AWS and Bundesliga Enhance Real-Time Game Analysis with New Performance Stats for 2021 Season",
+      "excerpt": "(NASDAQ: AMZN), and the German Bundesliga, Germany’s top national football league, announced three new Bundesliga Match Facts powered by AWS to give fans deeper insights into action on the pitch. The new Match Facts – Most Pressed Player,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30/gallery/9ff6eace95b8957e8666acee4e654d30",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-sports-amazoncom-inc-europe-mens-soccer-e588af88f1bb473a8f3d0e3d5c716d30/gallery/9ff6eace95b8957e8666acee4e654d30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T21:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge.md",
+      "title": "IOTech edge software platform to support Computer Vision and AI at the IoT edge",
+      "excerpt": "IOTech edge software platform to support Computer Vision and AI at the IoT edge . Edge software company IOTech has announced that the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/",
+      "originalUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/IOTech-edge-software-platform-to-support-Computer-Vision-and-AI.jpg",
+          "width": 1200,
+          "height": 677,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/pc/iotech-edge-software-platform-to-support-computer-vision-and-ai-at-the-iot-edge/amp/",
+      "publishedDateTime": "2021-02-11T21:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the recipient of a large increase in short interest during the month of January. As of January 29th, there was short interest totalling 15,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/02/11/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/02/11/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/02/11/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/02/11/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.html/amp",
+      "publishedDateTime": "2021-02-11T17:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-how-to-manage-your-power-bill-while-adopting-ai.md",
+      "title": "How to manage your power bill while adopting AI",
+      "excerpt": "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
+      "originalUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-the-coming-technology-boom.md",
+      "title": "The Coming Technology Boom",
+      "excerpt": "Discoveries in information technology have obviously been massive — the internet and the smartphone. Thanks in part to public investment, clean energy innovation has been fast and plentiful. The price of solar modules has declined by 99.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/11/opinion/11brooks-alternate/11brooks-alternate-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/opinion/science-technology.amp.html",
+      "publishedDateTime": "2021-02-11T16:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-generate-positivity-with-machine-learning.md",
+      "title": "Generate Positivity With Machine Learning",
+      "excerpt": "If you’re new to Tensorflow, though, we have featured some projects that can do reliable object recognition using little more than a Raspberry Pi and a camera.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "originalUrl": "https://hackaday.com/2020/08/06/generate-positivity-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/08/atltvhead-main.png",
+          "width": 1185,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-israel-automotive-industry-report-2017-2030-by-goldstein-market-intelligence.md",
       "title": "Israel Automotive Industry Report 2017-2030 by Goldstein Market Intelligence",
       "excerpt": "According to the Goldstein Market Intelligence, Israel automotive market is anticipated to grow at a CAGR of 7.0% during the forecast period. Israeli automakers are focusing on enhancing the technologies and human interaction with vehicles.",
@@ -584,15 +852,15 @@
       "title": "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester",
       "excerpt": "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg",
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg",
           "width": 1200,
           "height": 1195,
           "title": null,
@@ -602,8 +870,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
       "publishedDateTime": "2021-02-11T11:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -627,8 +895,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AWS AI",
+        "AI",
         "Microsoft AI"
       ]
     },
@@ -924,282 +1192,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands.md",
-      "title": "Nvidia: Researchers train AI to reward dogs for responding to commands",
-      "excerpt": "Researchers Jason Stock and Tom Cavey have published a paper on an AI system that rewards dogs for doing tricks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/",
-      "originalUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/dog.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/nvidia-researchers-train-ai-to-reward-dogs-for-responding-to-commands/amp/",
-      "publishedDateTime": "2021-02-11T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
-      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
-      "excerpt": "Keysight Technologies, Inc., a leading technology company that helps enterprises, service providers and governments accelerate innovation to connect and secure the world, announced the latest release of the Eggplant Digital Automation Intelligence platform that enables organizations to automate the testing of high-speed applications",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with",
-      "originalUrl": "https://www.nasdaq.com/press-release/keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-hear-this-kandinsky-painting-with-googles-psychedelic-ai-tool.md",
-      "title": "‘Hear’ this Kandinsky painting with Google’s psychedelic AI tool",
-      "excerpt": "Google Arts & Culture's latest machine learning experiment explores the artist's synesthesia and the connections between music and painting.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-11T124053.154-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/11/google-ai-tool-hear-kandinsky-painting-synesthesia/amp/",
-      "publishedDateTime": "2021-02-11T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-fieldfisher-launches-new-financial-services-advisory-firm.md",
-      "title": "Fieldfisher launches new financial services advisory firm",
-      "excerpt": "European law firm, Fieldfisher LLP, has announced the launch of its new financial services advisory firm, Fieldfisher Capital LLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
-      "originalUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fieldfisher",
-        "domain": "fieldfisher.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming.md",
-      "title": "Bowery CTO Injong Rhee on the grand challenge of AI for indoor farming",
-      "excerpt": "Bowery has opened what it calls ones of the largest indoor farming R&D operations in the world to tackle challenges using machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
-      "originalUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Bowery-Farming_LEDS_Photo-Cred-Courtesy-of-Bowery-Farming.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/bowery-cto-injong-rhee-on-the-grand-challenge-of-ai-for-indoor-farming/amp/",
-      "publishedDateTime": "2021-02-11T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-microsoft-and-volkswagen-will-collaborate-on-self-driving-car-software.md",
-      "title": "Microsoft and Volkswagen will collaborate on self-driving car software",
-      "excerpt": "VW plans to use Microsoft's expertise to build a cloud-based platform for future autonomous technologies and driver-assist systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-volkswagen-self-driving-car-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/Uxb-ku5Ohm5TlkF7oBGUQ-AjDd4=/2021/02/11/08b48d05-cd96-4e30-bf94-9a371a41ae28/ogi-vw.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-volkswagen-self-driving-car-software/",
-      "publishedDateTime": "2021-02-11T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

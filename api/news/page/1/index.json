@@ -2,6 +2,204 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
+      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
+      "excerpt": "In today technology news, we covered about the AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection/",
+      "originalUrl": "https://www.compsmag.com/news/technology/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
+          "width": 960,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection/amp/",
+      "publishedDateTime": "2021-03-01T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
+      "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
+      "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
+      "originalUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NSCAI-final-meeting.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
+      "publishedDateTime": "2021-03-01T18:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-how-chinas-synthetic-media-startup-surreal-nabs-funding-in-3-months.md",
+      "title": "How China’s synthetic media startup Surreal nabs funding in 3 months",
+      "excerpt": "What if we no longer needed cameras to make videos and can instead generate them through a few lines of coding? Advances in machine learning are turning the idea into a reality. We’ve seen how deepfakes swap faces in family photos and turn one’s selfies into famous video clips.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/01/surreal-profile/",
+      "originalUrl": "https://techcrunch.com/2021/03/01/surreal-profile/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/%E8%AF%97%E4%BA%91-%E7%94%B5%E5%95%86%E8%A7%86%E9%A2%91%E6%8D%A2%E8%84%B8.gif",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/01/surreal-profile/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/01/surreal-profile/amp/",
+      "publishedDateTime": "2021-03-01T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-markforged-a-3d-printing-startup-will-go-public-in-a-spac-merger.md",
+      "title": "Markforged, a 3D Printing Startup, Will Go Public in a SPAC Merger",
+      "excerpt": "Per details of the deal, which is expected to be finalized sometime this summer, the combined valuation of the merged companies is expected to be $2.1 billion",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932",
+      "originalUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lqp819fkyto0ykyrywne.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932/amp",
+      "publishedDateTime": "2021-03-01T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-tesla-to-launch-full-self-driving-subscription-within-4-months.md",
       "title": "Tesla to launch Full Self-Driving subscription within 4 months",
       "excerpt": "Elon Musk says that Tesla will launch its subscription service for its Full Self-Driving package within the next three to four months. Get ready for a high monthly premium, though. Last year ...",
@@ -10,7 +208,7 @@
       "originalUrl": "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -928,7 +1126,7 @@
       "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1072,188 +1270,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives.md",
-      "title": "AI Tool “Deep Nostalgia” Lets You Reanimate Your Dead Relatives",
-      "excerpt": "The genealogy platform MyHeritage has introduced a new tool called Deep Nostalgia that allows you to animate old photos of dead relatives.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives",
-      "originalUrl": "https://futurism.com/the-byte/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2021/02/deep-nostalgia-1-600x315.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp",
-      "publishedDateTime": "2021-02-27T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there.md",
-      "title": "Convincing A Self-Driving Car To Go Where You Want It To Go When It Won’t Go There",
-      "excerpt": "Examining how to deal with a self-driving car that refuses to go where you want it to go, as exemplified via an interesting use case involving a tow truck situation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60333239db18f3b0d0e7a3d8%2F0x0.jpg%3FcropX1%3D14%26cropX2%3D845%26cropY1%3D55%26cropY2%3D670",
-          "width": 831,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/27/convincing-a-self-driving-car-to-go-where-you-want-it-to-go-when-it-wont-go-there/amp/",
-      "publishedDateTime": "2021-02-27T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations.md",
-      "title": "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations",
-      "excerpt": "Zorroa Corp., a leading provider of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google’s AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.boonai.io/",
-      "originalUrl": "https://insidebigdata.com/2021/02/27/zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.wixstatic.com/media/d62994_0310bd063a82416ba45b427605492ac0~mv2.png/v1/fill/w_1839,h_998,al_c/d62994_0310bd063a82416ba45b427605492ac0~mv2.png",
-          "width": 1839,
-          "height": 998,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-27T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-commentary-how-robotics-are-changing-jobs-in-canada.md",
-      "title": "COMMENTARY: How robotics are changing jobs in Canada",
-      "excerpt": "One widely cited study estimates that 47 per cent of jobs in the United States are at risk of being replaced by robots and artificial intelligence. Read more: The 5-minute shopping spree.",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/",
-      "originalUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/385346/original/file-20210219-13-hcqsmp.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
-          "width": 754,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-02-27T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

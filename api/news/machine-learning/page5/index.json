@@ -2,6 +2,114 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-31-amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises.md",
+      "title": "Amazon’s Unique Approach To AutoML Makes AI Accessible To Enterprises",
+      "excerpt": "AutoML is a technique where customers bring their data and walk away with a model without worrying about the complex workflow involved in training machine learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60168f6c53f27a98a70bf662%2F0x0.png",
+          "width": 1000,
+          "height": 780,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/01/31/amazons-unique-approach-to-automl-makes-ai-accessible-to-enterprises/amp/",
+      "publishedDateTime": "2021-01-31T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI",
+        "IBM AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-ai-needs-an-open-labeling-platform.md",
+      "title": "AI needs an open labeling platform",
+      "excerpt": "Training data platforms are emerging as the best way to handle the collection, labeling, and feeding of data into supervised learning models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
+      "originalUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/labeling.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/30/ai-needs-an-open-labeling-platform/amp/",
+      "publishedDateTime": "2021-01-30T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-76-of-enterprises-prioritize-ai-machine-learning-in-2021-it-budgets.md",
       "title": "76% Of Enterprises Prioritize AI & Machine Learning In 2021 IT Budgets",
       "excerpt": "AI and Machine Learning (ML) initiatives matter “more than we thought,” with one in four saying AI and ML should have been their top priority sooner. 50% of enterprises plan to spend more on AI and ML this year,",
@@ -1277,103 +1385,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
-      "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
-      "excerpt": "Ehave has been using artificial intelligence and machine learning since the first version of its Ehave Dashboard to transform clinical research, identify treatment protocols, and increase the virtual care capabilities of health providers. Before the COVID ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-2021-01-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare-2021-01-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T17:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-spraois-machine-learning-solution-deployed-for-reliance-standards-retirement-services-operations.md",
-      "title": "Spraoi’s Machine Learning Solution Deployed for Reliance Standard’s Retirement Services Operations",
-      "excerpt": "Spraoi announced today that Reliance Standard Life Insurance Company (Reliance Standard) successfully deployed models for the identification of operational inconsistencies (e.g. churning, anomalous activity) across new business and in-force transactions within their block of traditional and indexed annuity business.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/business-financial-services-life-insurance-providers-insurance-industry-1cd972f5778f677a438716a1503955d7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

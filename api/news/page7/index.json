@@ -2,6 +2,249 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-23-this-translation-device-streamlines-international-communication.md",
+      "title": "This Translation Device Streamlines International Communication",
+      "excerpt": "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365661",
+      "originalUrl": "https://www.entrepreneur.com/article/365661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613626452-Ent-Langogo.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365661",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365661",
+      "publishedDateTime": "2021-02-23T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-uconn-startup-stemify-improves-math-education-with-ai.md",
+      "title": "UConn Startup Stemify Improves Math Education With AI",
+      "excerpt": "New AI-powered startup Stemify, created by UConn professor, helps make math education less intimidating for students.",
+      "sourceUrl": null,
+      "webUrl": "https://today.uconn.edu/2021/02/uconn-startup-stemify-improves-math-education-with-ai/",
+      "originalUrl": "https://today.uconn.edu/2021/02/uconn-startup-stemify-improves-math-education-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2015/10/Savkar150918b042cropped-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UConn Today",
+        "domain": "uconn.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
+      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-302017/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "publishedDateTime": "2021-02-23T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-a-trusty-robot-to-carry-farms-into-the-future.md",
+      "title": "A trusty robot to carry farms into the future",
+      "excerpt": "To feed 10 billion by 2050, the world’s farmers will need to increase food production by up to 70%. Bring in the robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/af8a66be-a00d-4526-b1cd-b401c71fdada/future-acres.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "publishedDateTime": "2021-02-23T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
+      "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
+      "excerpt": "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms",
+      "publishedDateTime": "2021-02-23T03:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-youtuber-asks-an-ai-for-video-ideas-gets-a-surprising-response.md",
       "title": "YouTuber asks an AI for video ideas, gets a surprising response",
       "excerpt": "British YouTuber Tom Scott has such a distinctive style to his videos that they can — and have — lent themselves quite well to parody in the past, both from humans and AIs alike. But for his latest video,",
@@ -940,229 +1183,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-democratizing-science-education-starts-with-expanded-accessibility.md",
-      "title": "Democratizing Science Education Starts With Expanded Accessibility",
-      "excerpt": "Higher education institutions had to pivot quickly last March when Covid-19 forced the nation into lockdown. Even eleven months into the pandemic, universities are still trying to figure out how to attract, retain and engage students. A particular ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.elearninginside.com/democratizing-science-education-starts-with-expanded-accessibility/",
-      "originalUrl": "https://news.elearninginside.com/democratizing-science-education-starts-with-expanded-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/louis-reed-pwcKF7L4-no-unsplash-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eLearningInside News",
-        "domain": "elearninginside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-apple-in-talks-with-suppliers-for-self-driving-sensors-report.md",
-      "title": "Apple In Talks With Suppliers For Self-Driving Sensors – Report",
-      "excerpt": "Meanwhile, Apple (AAPL) has been working on its autonomous car project for the past several years and while it has developed most of the necessary software and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
-      "originalUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
-      "publishedDateTime": "2021-02-22T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-wall-streets-robots-are-taking-on-the-confusing-world-of-reddit.md",
-      "title": "Wall Street’s Robots Are Taking on the Confusing World of Reddit",
-      "excerpt": "Reddit forum WallStreetBets is hard for humans to follow at the best of times. But spare a thought for the machines. After the retail stock frenzy last month caused unprecedented havoc, hedge funds trawling the platform with algorithms have a renewed sense of purpose in their mission to figure out the next market craze.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP05Z8gOcuVo/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-behind-the-scenes-of-ai-iot-and-5g-advancement.md",
-      "title": "Behind The Scenes Of AI, IoT And 5G Advancement",
-      "excerpt": "On the bright side, such disruptive innovation dynamics and marketing wars will stimulate ongoing technological progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37b6f7aa2f00006297975%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/behind-the-scenes-of-ai-iot-and-5g-advancement/amp/",
-      "publishedDateTime": "2021-02-22T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-how-marketers-can-start-using-ai-for-stronger-results.md",
-      "title": "How marketers can start using AI for stronger results",
-      "excerpt": "AI is no longer the “future of marketing”. It is very much the here and now, and outlined below are a few ways how you can start using AI for stronger marketing results in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/",
-      "originalUrl": "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.searchenginewatch.com/wp-content/uploads/2021/02/How-marketers-can-start-using-AI-for-stronger-results.png",
-          "width": 728,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginewatch-com.cdn.ampproject.org/c/s/www.searchenginewatch.com/2021/02/22/how-marketers-can-start-using-ai-for-stronger-results/amp/",
-      "publishedDateTime": "2021-02-22T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Watch",
-        "domain": "searchenginewatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

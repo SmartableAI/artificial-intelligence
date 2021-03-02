@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "COVID-19 increased the use of AI. Here’s why it’s here to stay"
-    excerpt: "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Kerri Reynolds, SVP Crowdsourcing and HR, Appen Due to"
-    publishedDateTime: 2021-02-25T11:01:00Z
-    webUrl: "https://europeansting.com/2021/02/25/covid-19-increased-the-use-of-ai-heres-why-its-here-to-stay/"
-    ampWebUrl: "https://europeansting.com/2021/02/25/covid-19-increased-the-use-of-ai-heres-why-its-here-to-stay/amp/"
-    cdnAmpWebUrl: "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/02/25/covid-19-increased-the-use-of-ai-heres-why-its-here-to-stay/amp/"
-    type: article
-    provider:
-      name: europeansting.com
-      domain: europeansting.com
-    quality: 59
-    images:
-      - url: "https://europeansting.files.wordpress.com/2021/02/robot.jpeg?w=1200"
-        width: 1200
-        height: 863
-        isCached: true
   - title: "Rwanda to use Artificial Intelligence in Covid-19 forecast"
     excerpt: "Rwanda is set to be the first country on the African continent to use Artificial Intelligence (AI) in predicting the burden of Covid-19 in its territory in particular periods of time. On Friday, February 26,"
     publishedDateTime: 2021-02-26T17:18:00Z

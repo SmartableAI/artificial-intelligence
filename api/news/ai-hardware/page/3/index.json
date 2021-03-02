@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
+      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
+      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19366126",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19366126",
+      "publishedDateTime": "2021-01-28T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-nvidia-shows-off-the-first-a100-gpu-systems-built-to-handle-ai-workloads.md",
       "title": "Nvidia shows off the first A100 GPU systems built to handle AI workloads",
       "excerpt": "As AI workloads can be complex and demanding, Nvidia has unveiled a new program that makes it easier for businesses to choose servers geared towards machine learning and analytics. This new class of accelerated servers from the company's partners are given the Nvidia-Certified Systems branding as they are designed to power organization's journeys into AI and data analytics.",
@@ -1421,58 +1455,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip.md",
-      "title": "Snapdragon 870 5G gives OnePlus, Moto & more a cheaper flagship chip",
-      "excerpt": "Qualcomm has revealed its newest mobile chipset, with the Snapdragon 870 5G slotting in just below the most potent Snapdragon 888 as the company expands its flagship series. Successor to the",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/",
-      "originalUrl": "https://www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/01/Snapdragon-870-5G-Mobile-Platform.jpg",
-          "width": 1680,
-          "height": 946,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/snapdragon-870-5g-gives-oneplus-moto-more-a-cheaper-flagship-chip-19655779/amp/",
-      "publishedDateTime": "2021-01-19T12:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

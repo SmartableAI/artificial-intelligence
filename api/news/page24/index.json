@@ -2,6 +2,300 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-10-cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem.md",
+      "title": "Cloud lock-in: Why the microservices cure might be worse than the problem",
+      "excerpt": "Commentary: Microservices can be a great thing to drive enterprise agility, but it can also create all sorts of costs for those trying to avoid cloud lock-in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "originalUrl": "https://www.techrepublic.com/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/01/15/98642495-f0c8-4f9a-b6a0-174c72f25a4e/resize/1200x/9f13f7c198aee893a1cb3813c8b1adba/istock-1172882387.jpg",
+          "width": 1200,
+          "height": 833,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-lock-in-why-the-microservices-cure-might-be-worse-than-the-problem/",
+      "publishedDateTime": "2021-02-09T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-healthcare-needs-more-diverse-experts-to-guide-innovation.md",
+      "title": "Healthcare Needs More Diverse Experts To Guide Innovation",
+      "excerpt": "Shelli Pavone is tackling the knowledge gap in healthtech innovation by ensuring diverse viewpoints are better represented",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6022d60f9b9a1ef605f23d23%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D190%26cropY2%3D3396",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceywelsonrossman/2021/02/09/healthcare-needs-more-diverse-experts-to-guide-innovation/amp/",
+      "publishedDateTime": "2021-02-09T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-toyota-denso-team-with-aurora-on-self-driving-cars-for-uber-others.md",
+      "title": "Toyota, Denso team with Aurora on self-driving cars for Uber, others",
+      "excerpt": "DETROIT (Reuters) - Toyota Motor Corp and longtime supplier partner Denso Corp will team up with self-driving car startup Aurora to develop and build autonomous minivans for ride hailing networks ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0",
+      "originalUrl": "https://www.reuters.com/article/us-autos-autonomous-toyota-idUSKBN2A92G0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550913326&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181IR",
+          "width": 781,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A92G0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92G0",
+      "publishedDateTime": "2021-02-09T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-massachusetts-based-parlance-corporation-partners-with-hendrick-health-to-provide-speech-recognition-solutions.md",
+      "title": "Massachusetts-based Parlance Corporation partners with Hendrick Health to provide speech-recognition solutions",
+      "excerpt": "With the recent purchase of two hospitals, Texas-based Hendrick Health understands the importance of quickly connecting and unifying services throughout the organization. To create a consistent brand experience and superior service for the organization’s callers,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-north-america-medical-technology-health-massachusetts-8813b9c582a27ea39f15299a30d71458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-months-after-buying-uber-self-driving-project-aurora-signs-toyota-deal.md",
+      "title": "Months after buying Uber self-driving project, Aurora signs Toyota deal",
+      "excerpt": "Autonomous driving startup Aurora announced on Tuesday that it has scored a partnership with Toyota to build self-driving taxis based on the Toyota Sienna minivan. Aurora says it's aiming to have ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2021/02/toyota-partners-with-startup-aurora-to-develop-self-driving-taxis/",
+      "originalUrl": "https://arstechnica.com/cars/2021/02/toyota-partners-with-startup-aurora-to-develop-self-driving-taxis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/aurora_car-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T09:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-dahua-facial-recognition-praises-real-time-uyghur-warnings.md",
+      "title": "Dahua facial recognition praises ‘real-time Uyghur warnings’",
+      "excerpt": "Dahua facial recognition praises 'real-time Uyghur warnings' Facial recognition software developed by China-based Dahua, one of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/",
+      "originalUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Dahua-facial-recognition-praises-real-time-Uyghur-warnings.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/dahua-facial-recognition-praises-real-time-uyghur-warnings/amp/",
+      "publishedDateTime": "2021-02-09T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-iron-pillar-leads-5-million-funding-round-in-ai-startup-ushur.md",
       "title": "Iron Pillar leads $5 million funding round in AI startup Ushur",
       "excerpt": "Ushur is Iron Pillars second investment from its second fund, which is expected to announce its first close in a couple of months, co-founder Mohanjit Jolly says.",
@@ -839,291 +1133,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology.md",
-      "title": "Glory Star Signs Agreement With GTCOM Entertainment to Empower Consumption Through AI Technology",
-      "excerpt": "In light of the growing market demand and consumption growth, Glory Star signed the Agreement with GTCOM Entertainment to integrate resources from both parties. Under the Agreement, GTCOM Entertainment will provide to Glory Star access to AI and certain computer technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology-2021-02-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology-2021-02-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T00:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020.md",
-      "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
-      "excerpt": "leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020. Focusing on making ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-301224536.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020-301224536.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1434535/Mech_Mind_Product_Map.jpg?p=facebook",
-          "width": 1264,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-bengaluru-airport-bags-voice-of-the-customer-global-recognition.md",
-      "title": "Bengaluru airport bags 'Voice of the Customer' global recognition",
-      "excerpt": "The 'Voice of the Customer' initiative by the Airports Council International World recognises airports that continued to prioritise their customers and remained committed to ensuring that their voice",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
-      "originalUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition-11612852413561.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/02/09/600x338/Bangalore_International_Airport_Limited_1612853485727_1612853517355.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/bengaluru-airport-bags-voice-of-the-customer-global-recognition/amp-11612852413561.html",
-      "publishedDateTime": "2021-02-08T23:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-artificial-intelligence-software-detects-ocean-plastics-from-the-air.md",
-      "title": "Artificial intelligence software detects ocean plastics from the air",
-      "excerpt": "As millions of tons of plastic wash into the ocean everyday, scientists have their work cut out for them in trying to keep tabs on its whereabouts, but they may soon have a useful new tool at the their disposal.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
-      "originalUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/518a071/2147483647/strip/true/crop/531x354+95+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F33%2F15%2Fe832521e480ab36b0212d149d76a%2F255516-web.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/environment/artificial-intelligence-ocean-plastics-air/?amp=true",
-      "publishedDateTime": "2021-02-08T22:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-22-million-seed-round.md",
-      "title": "Bangladesh-based Maya, a startup focused on accessible healthcare, raises $2.2 million seed round",
-      "excerpt": "Based in Bangladesh, Maya is dedicated to making it easier for women to get healthcare, especially for sensitive issues like reproductive and mental health. The startup announced today it has raised $2.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/",
-      "originalUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/29.jpg?w=1024",
-          "width": 1024,
-          "height": 845,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/08/bangladesh-based-maya-a-startup-focused-on-accessible-healthcare-raises-2-2-million-seed-round/amp/",
-      "publishedDateTime": "2021-02-08T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud.md",
-      "title": "As Jeff Bezos steps down, Amazon stakes its future on the cloud",
-      "excerpt": "Among them, Jassy has championed one of Amazon's most controversial products: the facial recognition software, Rekognition. Amazon generally doesn't identify its Rekognition customers, but they ...",
-      "sourceUrl": null,
-      "webUrl": "https://trib.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_44149922-4eb4-58e6-8d74-b28498b7f9b8.html",
-      "originalUrl": "https://trib.com/lifestyles/technology/as-jeff-bezos-steps-down-amazon-stakes-its-future-on-the-cloud/article_44149922-4eb4-58e6-8d74-b28498b7f9b8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/trib.com/content/tncms/assets/v3/editorial/b/38/b383447c-5e1b-53a9-90a9-b67f73ea7375/601c56e7f3d1a.image.jpg?resize=576%2C324",
-          "width": 576,
-          "height": 324,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Casper Star-Tribune",
-        "domain": "trib.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

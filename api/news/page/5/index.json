@@ -2,6 +2,207 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-25-interested-in-ai-master-deep-learning-get-nlp-certified.md",
+      "title": "Interested In AI? Master Deep Learning & Get NLP Certified",
+      "excerpt": "The world of artificial intelligence (AI) is revolutionizing the way we live, though it has become something of an acronym soup. From DL to ML, SSD to CN",
+      "sourceUrl": null,
+      "webUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "originalUrl": "https://www.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.iflscience.com/images/d85e6d6d-d4b8-5b58-8447-d6f9b67788eb/default-1614187290-ai.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/editors-blog/interested-in-ai-master-deep-learning-get-nlp-certified/",
+      "publishedDateTime": "2021-02-24T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IFLScience",
+        "domain": "iflscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-tech-firms-train-voice-assistants-to-understand-atypical-speech.md",
+      "title": "Tech Firms Train Voice Assistants to Understand Atypical Speech",
+      "excerpt": "Voice assistants like Alexa and Siri often can’t understand people with dysarthria or a stutter. Their creators say that may change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "originalUrl": "https://www.wsj.com/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-303573/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-firms-train-voice-assistants-to-understand-atypical-speech-11614186019",
+      "publishedDateTime": "2021-02-24T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-the-healthcare-revolution-at-home.md",
+      "title": "The Healthcare Revolution At Home",
+      "excerpt": "Using new health technology provided by startups, hospitals and doctors are offering an increasing number of services in the homes of patients. The Covid-19 pandemic has accelerated this approach, which evidence shows can result in better patient outcomes and lower costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60367d808a68c8a739aee0bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
+      "publishedDateTime": "2021-02-24T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-aquarium-scores-26m-seed-to-refine-machine-learning-model-data.md",
+      "title": "Aquarium scores $2.6M seed to refine machine learning model data",
+      "excerpt": "Aquarium, a startup from two former Cruise employees, wants to help companies refine their machine learning model data more easily and move the models into production faster. Today the company announced a $2.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
+      "originalUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/60301667d6a4b05d1ccbdcde_team-copy.png?w=680",
+          "width": 680,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
+      "publishedDateTime": "2021-02-24T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-mit-technology-review-presents-10-breakthrough-technologies-of-2021.md",
       "title": "MIT Technology Review Presents 10 Breakthrough Technologies of 2021",
       "excerpt": "MIT Technology Review announced its 10 Breakthrough Technologies list for 2021, featuring 10 advances predicted to have a big impact",
@@ -41,6 +242,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-zorroa-launches-boon-ai-no-code-machine-learning-for-media-driven-organizations.md",
+      "title": "Zorroa Launches Boon AI; No-code Machine Learning for Media-driven Organizations",
+      "excerpt": "Zorroa Corp., one of the world's leading providers of accessible machine learning (ML) integration solutions backed by Gradient Ventures, Google's AI-focused venture fund, today officially launched a first-of-its-kind ML SaaS platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-19667110.html",
+      "originalUrl": "https://www.lelezard.com/en/news-19667110.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -958,266 +1203,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon.md",
-      "title": "SoundCommerce raises $15 million for big data insights that help retailers compete with Amazon",
-      "excerpt": "SoundCommerce, a platform that unifies retailers' data from across multiple systems to deliver insights, has raised $15 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/SoundCommerce-Delivery-KPI.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/soundcommerce-raises-15-million-for-big-data-insights-that-help-retailers-compete-with-amazon/amp/",
-      "publishedDateTime": "2021-02-23T15:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world.md",
-      "title": "Thomson Reuters to stress AI, machine learning in a post-pandemic world",
-      "excerpt": "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-thomson-reuters-results/thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world-idUSKBN2AN12M?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552588578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M0MG",
-          "width": 848,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AN12M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M",
-      "publishedDateTime": "2021-02-23T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers.md",
-      "title": "Enterprises customize Clinc’s conversational AI to connect with their customers",
-      "excerpt": "Clinc's conversational AI platform uses NLP to streamline customer queries and collect related data for financial enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1614002657936.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
-      "publishedDateTime": "2021-02-23T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-t-cell-screening-launched-to-detect-prior-covid-infections.md",
-      "title": "T-Cell Screening Launched to Detect Prior Covid Infections",
-      "excerpt": "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T12:56:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
-      "title": "Facebook expands AI PhD research program to University College London",
-      "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "originalUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "publishedDateTime": "2021-02-23T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

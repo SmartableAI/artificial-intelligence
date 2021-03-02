@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-12-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts.md",
+      "title": "A Small College Hopes to Claim Artificial Intelligence for the Liberal Arts",
+      "excerpt": "Colby College is carving out space in the liberal arts canon for artificial intelligence. Thanks to a $30 million gift from an alumnus, the small,",
+      "sourceUrl": null,
+      "webUrl": "https://www.edsurge.com/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "originalUrl": "https://www.edsurge.com/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edsurge.imgix.net/uploads/post/image/14030/shutterstock_439178773-1613062935.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop",
+          "width": 640,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.edsurge.com/amp/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "cdnAmpWebUrl": "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2021-02-11-a-small-college-hopes-to-claim-artificial-intelligence-for-the-liberal-arts",
+      "publishedDateTime": "2021-02-11T11:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdSurge",
+        "domain": "edsurge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-developing-a-turing-test-for-ethical-ai.md",
       "title": "Developing a Turing test for ethical AI",
       "excerpt": "AI’s Turing test focused on the wizardry needed to trick us into thinking that scarecrows might be flesh-and-blood humans (if we ignore the stray straws bursting out of their britches). However, I agree with the argument recently expressed by Rohit Prasad,",
@@ -1414,60 +1457,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-ai-ethics-really-come-down-to-security.md",
-      "title": "AI Ethics Really Come Down To Security",
-      "excerpt": "If we're going to rely on them to take more active and responsible roles in our lives, we must be able to trust that they're not only ethical but that the AI and the machine learning that underpins them operate safely and securely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg",
-          "width": 1200,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/ai-ethics-really-come-down-to-security/amp/",
-      "publishedDateTime": "2021-01-27T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics",
-        "AI in Security"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
 type: article
 quality: 89
-heat: 140
+heat: 120
 published: true
 
 provider:
@@ -60,34 +60,6 @@ related:
       - url: "https://vtdigger.org/wp-content/uploads/2019/01/20190123LEGIE9.jpg"
         width: 2000
         height: 1498
-        isCached: true
-  - title: "Dubai Airports introduces facial recognition to fast-track immigration processes"
-    excerpt: "A new fast-track passport control service that uses face and iris-recognition technologies has been launched across 122 smart gates at Dubai airports."
-    publishedDateTime: 2021-02-25T09:48:00Z
-    webUrl: "https://www.futuretravelexperience.com/2021/02/dubai-airports-introduces-facial-recognition-to-fast-track-immigration-processes/"
-    type: article
-    provider:
-      name: Future Travel Experience
-      domain: futuretravelexperience.com
-    quality: 49
-    images:
-      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2021/02/Dubai-Airports-biometrics.jpg"
-        width: 768
-        height: 403
-        isCached: true
-  - title: "Moscow to expand metro facial recognition network"
-    excerpt: "Moscow authorities have allocated more than US$10mil (RM40.38mil) to purchase and install across the city’s sprawling metro system high-definition cameras that can recognise faces and track fast movements,"
-    publishedDateTime: 2021-02-25T09:48:00Z
-    webUrl: "https://www.thestar.com.my/index.php/tech/tech-news/2021/02/25/moscow-to-expand-metro-facial-recognition-network"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2021/02/25/1056856.jpg"
-        width: 1240
-        height: 827
         isCached: true
   - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
     excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."

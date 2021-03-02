@@ -2,6 +2,274 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-01-20-microsoft-partners-with-gm-cruise-on-self-driving-vehicles.md",
+      "title": "Microsoft partners with GM, Cruise on self-driving vehicles",
+      "excerpt": "Cruise will use Azure, Microsoft's cloud computing platform, for its self-driving vehicles ... automaker's digitization initiatives, including artificial intelligence, and explore opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "originalUrl": "https://www.autoblog.com/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/1864x1049+56+133/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2021/01/19095351/Cruise-Web-Press-Release.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2021/01/19/microsoft-gm-cruise-self-driving-cars/",
+      "publishedDateTime": "2021-01-19T22:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-private-sector-expects-to-lose-control-of-ai-governance-within-five-years-says-new-study.md",
+      "title": "Private Sector Expects to Lose Control of AI Governance Within Five Years, Says New Study",
+      "excerpt": "A lack of accountability within the private sector will lead to governments taking over responsibility for AI regulation over the next five years, according to new research by Pegasystems Inc. (NASDAQ: PEGA),",
+      "sourceUrl": null,
+      "webUrl": "https://www.pega.com/tech-trends-future-proof-2025",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-government-regulations-government-and-politics-artificial-intelligence-computing-and-information-technology-f1a05847b8dcfdd326e70a97c46083cc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pega.com/sites/default/files/media/images/2021-01/pega-tech-trends-og.jpg",
+          "width": 2501,
+          "height": 1307,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T22:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-dunnhumby-extends-machine-learning-automation-tool-built-on-microsoft-azure.md",
+      "title": "dunnhumby Extends Machine Learning Automation Tool Built on Microsoft Azure",
+      "excerpt": "Customer data science company dunnhumby is preparing to launch an Enterprise Edition of dunnhumby Model Lab, a machine learning automation tool for data scientists built on Microsoft Azure. As retailers and CPGs begin to reimagine their business operations,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-data-management-computing-and-information-technology-9b0e49504cdf4f22936c3414ca648f45",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-rsip-vision-announces-versatile-medical-image-segmentation-tool-delivering-efficient-anatomical-measurements-and-better-treatment-options.md",
+      "title": "RSIP Vision Announces Versatile Medical Image Segmentation Tool, Delivering Efficient Anatomical Measurements and Better Treatment Options",
+      "excerpt": "Jan 19, 2021-- RSIP Vision, a leading innovator in medical imaging through advanced AI and computer vision solutions, today announces a general purpose, AI-based segmentation and measurement tool for detecting objects of interest and their boundaries quickly and automatically,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/science-business-technology-products-and-services-diagnosis-and-treatment-1d5c5f5c3dfb449a9a6125ce5e87091b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T21:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-reply-signs-an-agreement-with-aws-to-develop-industry-solutions.md",
+      "title": "Reply Signs an Agreement with AWS to Develop Industry Solutions",
+      "excerpt": "Reply, specialized on new communications channels and digital media, announces today it has signed a Strategic Collaboration Agreement (SCA)",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/reply-signs-an-agreement-with-aws-to-develop-industry-solutions-1029976790",
+      "publishedDateTime": "2021-01-19T20:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users.md",
+      "title": "Facebook enhances AI used to describe photos for visually impaired users",
+      "excerpt": "the company trained its two-stage object detector using an open-source platform developed by Facebook AI Research. \"We trained the models to predict locations and semantic labels of the objects ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "originalUrl": "https://www.zdnet.com/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/01/20/320b9ac2-461d-41c8-a63f-477d00d43a01/nrp-cross-post-using-ai-to-improve-photo-descriptions-for-the-blind-banner-2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-enhances-ai-used-to-describe-photos-for-visually-impaired-users/",
+      "publishedDateTime": "2021-01-19T19:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-how-to-train-a-robot-using-ai-and-supercomputers.md",
       "title": "How to train a robot (using AI and supercomputers)",
       "excerpt": "Computer scientists developed a deep learning method to create realistic objects for virtual environments that can be used to train robots. The researchers used TACC's Maverick2 supercomputer to train the generative adversarial network.",
@@ -902,284 +1170,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official.md",
-      "title": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official",
-      "excerpt": "Delhi airport evaluating 'computer vision' tech to track flyers, ensure social distancing: Official Delhi: Man held for operating 46 fake firms, helping businesses evade tax Calling all fitness ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/articleshow/80347698.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-80348042/80348042.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/delhi-airport-evaluating-computer-vision-tech-to-track-flyers-ensure-social-distancing-official/amp_articleshow/80347698.cms",
-      "publishedDateTime": "2021-01-19T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to-text-technology.md",
-      "title": "Eden Health selects nVoq to increase productivity by enabling home health caregivers with speech to text technology.",
-      "excerpt": "PRNewswire/ -- nVoq, a leading provider of HIPAA compliant speech recognition solutions for post-acute care, is pleased to announce Eden Health has selected nVoq's innovative",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/eden-health-selects-nvoq-to-increase-productivity-by-enabling-home-health-caregivers-with-speech-to/article_944431e1-4d0a-5d4e-9c97-01a5f6b32192.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/29/c2976269-6db7-5b99-882a-d63d5cc8eeec/600714215fe49.image.jpg?resize=400%2C400",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-opinion-facial-recognition-vital-to-nab-capitol-assailants.md",
-      "title": "Opinion: Facial Recognition Vital to Nab Capitol Assailants",
-      "excerpt": "While cities ranging from San Francisco to Boston have worked to ban facial recognition outright, without that technology, the FBI and Capitol Police would have had a harder job arresting the Capitol insurrectionists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
-      "originalUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/security/Opinion-Facial-Recognition-Vital-to-Nab-Capitol-Assailants.html?AMP",
-      "publishedDateTime": "2021-01-19T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-microsoft-backs-general-motors-cruise-automation-self-driving-car-venture.md",
-      "title": "Microsoft backs General Motors' Cruise Automation self-driving car venture",
-      "excerpt": "Microsoft is in on the future of self-driving cars. On Tuesday, General Motors' self-driving car subsidiary, Cruise Automation, announced the company participated in the latest round of funding. Although the firm didn't provide breakout figures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/microsoft-general-motors-cruise-automation-self-driving-car/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/microsoft-general-motors-cruise-automation-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/LZpr8HjlX48MqL6KBPa68NERksc=/2021/01/19/892566c0-08fd-4bf3-b65e-93ca003faf97/ogi-cruise.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-general-motors-cruise-automation-self-driving-car/",
-      "publishedDateTime": "2021-01-19T08:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption.md",
-      "title": "Following a Year of Privacy Worries and Security Breaches, Ring Implements End-to-End Encryption",
-      "excerpt": "Some of Ring’s products will now be getting end-to-end encryption for the first time, six years after the company's flagship doorbell camera product first launched.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/",
-      "originalUrl": "https://www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2021/01/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/amp/",
-      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/following-a-year-of-privacy-worries-and-security-breaches-ring-implements-end-to-end-encryption/amp/",
-      "publishedDateTime": "2021-01-19T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-14-tech-products-from-ces-2021-i-cant-wait-to-buy.md",
-      "title": "14 Tech Products From CES 2021 I Can’t Wait To Buy",
-      "excerpt": "Here is a roundup of our 14 favorite gadgets from CES. Most of these things are close to shipping to retail, though a few are a little less complete and might not hit store shelves this year. Either way,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6006f9b57ef354a6bce2696a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D866%26cropY1%3D0%26cropY2%3D577",
-          "width": 866,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2021/01/19/best-of-ces-2021/amp/",
-      "publishedDateTime": "2021-01-19T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

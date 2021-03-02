@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-
 webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception#!"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "This Chinese startup attains unicorn status in 100 days since inception"
-    excerpt: "The latest pre-series A round of the Chinese graphics processing creator was led by Sequoia Capital China, GGV Capital, and Shenzhen Capital Group."
-    publishedDateTime: 2021-02-25T09:27:00Z
-    webUrl: "https://www.techinasia.com/sequoia-backed-chinese-startup-attains-unicorn-status-100-days-inception"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 47
   - title: "This Chinese startup attained unicorn status in 100 days since inception"
     excerpt: "Moore Threads, a Chinese startup that provides graphics processing unit (GPU ... TikTok owner ByteDance, China Merchants Venture, Pony.ai, Riverhead Capital, Oceanpine Capital, Wenming Investment Fund, First Capital, 5Y Capital, and Shenzhen H&T ..."
     publishedDateTime: 2021-02-26T04:34:00Z

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge"
-excerpt: "Lumen Technologies is a key edge compute partner to integrate IBM Cloud Satellite for 180,000 enterprise locationsMore than 65 ecosystem"
-publishedDateTime: 2021-03-01T17:28:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646"
+excerpt: "... also extending Watson Anywhere with the availability of IBM Cloud Pak for Data as a Service with IBM Cloud Satellite. This gives clients a flexible, secure way to run their AI and analytics ..."
+publishedDateTime: 2021-03-02T02:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030135689"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030135689"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -22,6 +22,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "X6pFWTVb5ojswcjCG8uAjxca9LgKJHDM3PpeDekxJ9flDT3YrEtKRjJhqDuCzWVPBB/2UUU8ulDLiljdhwPOPuBYSY+yjdqo6I+TdOuQS3AWzmOqeA/UOQ+vMdeqdJWVB+sIwMbuGFyYmo/6ogCVQdInwhxLZcPicZrHB35AVKsRiOTt4xbqV5KbLMup2Ll/IT7UUyJ3gndQiyjmTd3YR05CMtXR0iV9tcuqSYdMdUBqtOA3bNdO8yAwon+RgFCr0+zsLPGlKWKZs3n7z/BKkxW+W8YSE6AzVOg83//McduP5PkdBlSDThwNRFIot5FsXKfdNY5EvzWsOku5UY7fQxhzGOtH7YNwvcKoGEzCe7Y=;Ve005f3I1Hx5EhgsixKpEQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "yynup4eVkvhP/UPS4IdbzArME69vCh8cajtH+eSw1XsYMWtPcQrTNKFnsoMuwp7EMfhdrpCEU6Sl5GCwEe4+/HbIwLdrgCFcol+vd1cxahgiwo+TqVKgmT35+zWrQzShtWzkVc12gXam6tWxnnrgQUb25geGH3LGSJ2lyjmiCoRvCWYd6uq1OIcXBHNRssGwEA5NuPAjfqQu+QczPHGAQKOnr8U6ILiyXJGP7WCXnl2hNbrC2uS3YBQTqNfULOCR8s+6fOzcY6hhRFgs6h7Yt36OmNktk0Zhp26qcFW/ZinE+Q/tTMf9I17iLKzuLqc0OkgAMyn3eb3WJpFtYtvfKYwMU/KcCqOaF5lfUV7xPBI=;09ysR9/pQ8NKtJT/jdn0rA=="
 ---
 
