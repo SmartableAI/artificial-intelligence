@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "ppl_ai"
   url: "https://twitter.com/ppl_ai"
-  followers: 1501
+  followers: 1503
 
 size: 51-200 employees
 yearFounded: 2016
