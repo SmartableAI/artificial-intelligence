@@ -1,0 +1,329 @@
+---
+category: news
+title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
+excerpt: "During Microsoft Ignite 2021, Microsoft announced Azure Percept, a family of edge devices optimized for AI workloads."
+publishedDateTime: 2021-03-02T14:01:00Z
+originalUrl: "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/"
+webUrl: "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/"
+ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-unveils-azure-percept-a-family-of-edge-devices-optimized-for-ai/amp/"
+type: article
+quality: 117
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2018/07/microsoft-logo.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "Microsoft launches Azure Arc machine learning and container services"
+    excerpt: "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads."
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/"
+    ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 136
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft’s Azure Arc multi-cloud platform now supports machine learning workloads"
+    excerpt: "With Azure Arc, Microsoft offers a service that allows its customers to run Azure in any Kubernetes environment, no matter where that container cluster is hosted. From Day One, Arc supported a wide range of use cases,"
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsofts-azure-arc-multi-cloud-platform-now-supports-machine-learning-workloads/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 115
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1156205785.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "With Azure Percept, Microsoft adds new ways for customers to bring AI to the edge"
+    excerpt: "Standalone edge devices can take advantage of AI tools for things like translating text or recognizing images without having to constantly access cloud computing capabilities. At its Ignite digital conference,"
+    publishedDateTime: 2021-03-02T14:05:00Z
+    webUrl: "https://blogs.microsoft.com/ai/with-azure-percept-microsoft-adds-new-ways-for-customers-to-bring-ai-to-the-edge/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 114
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2021/03/Azure-Percept-platform-1-1024x360.jpg"
+        width: 1024
+        height: 360
+        isCached: true
+  - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
+    excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 113
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/01/601c9a30-49f7-40ba-941d-afd15e0ae59a/azurepercept.jpg"
+        width: 1040
+        height: 809
+        isCached: true
+  - title: "Microsoft launches Azure Percept, its new hardware and software platform to bring AI to the edge"
+    excerpt: "Microsoft today announced Azure Percept, its new hardware and software platform for bringing more of its Azure AI services to the edge. Percept combines Microsoft’s Azure cloud tools for managing devices and creating AI models with hardware from Microsoft’s device partners."
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/azure_percept.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "At Microsoft Ignite, expanding reach for Azure ML & Purview, Power BI Premium"
+    excerpt: "With enough data and ML announcements to go around, I'll cover news pertaining to Azure Machine Learning, Power BI and Azure Purview in this post. ZDNet comrade-in-data Tony Baer covers Ignite's NoSQL, Redis, Synapse and Azure Arc news in a separate story ..."
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.zdnet.com/article/at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/at-microsoft-ignite-expanding-reach-for-azure-ml-purview-power-bi-premium/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 98
+  - title: "Microsoft announces AI-powered Teams speakers with titanic transcription abilities"
+    excerpt: "At its Ignite conference today, Microsoft announced plans to release AI-powered speakers for Teams calls. The company will release these devices in a private preview later this year. These intelligent speakers will use seven mic arrays to identify up to 10 speakers in a Microsoft Teams room."
+    publishedDateTime: 2021-03-02T14:11:00Z
+    webUrl: "https://thenextweb.com/plugged/2021/03/02/microsoft-teams-ai-speakers-transcription/"
+    ampWebUrl: "https://thenextweb.com/plugged/2021/03/02/microsoft-teams-ai-speakers-transcription/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2021/03/02/microsoft-teams-ai-speakers-transcription/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 98
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Micrsoft-speaker-796x418.jpg"
+        width: 796
+        height: 418
+        isCached: true
+  - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
+    excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.html"
+    ampWebUrl: "https://www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+    cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3609864/microsoft-still-loves-smart-devices-rolling-out-azure-percept-camera-mic-and-services.amp.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 96
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/ai-devkit-shot-2_under-embargo-until-march-2-at-6am-pt-100879175-large.jpg"
+        width: 1200
+        height: 422
+        isCached: true
+  - title: "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure"
+    excerpt: "During Microsoft Ignite 2021, Microsoft unveiled new Azure AI and Cognitive Services aimed at solving enterprise-scale challenges."
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/"
+    ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-semantic-search-feature-for-enterprises-and-new-form-recognizing-features-in-azure/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Microsoft wants to use AI to unlock the potential of HPC"
+    excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
+    publishedDateTime: 2021-02-27T10:29:00Z
+    webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 76
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
+        width: 1069
+        height: 693
+        isCached: true
+  - title: "Microsoft debuts its edge AI service Azure Percept at Ignite"
+    excerpt: "Microsoft Corp. is stepping up its artificial intelligence capabilities within its Azure Cloud platform with the launch of a new service called Azure Percept that’s designed to enable a wealth of new AI capabilities for devices at the network edge."
+    publishedDateTime: 2021-03-02T14:44:00Z
+    webUrl: "https://siliconangle.com/2021/03/02/microsoft-brings-ai-edge-azure-percept/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 73
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Azure-Percept-Dev-Kit.png"
+        width: 1242
+        height: 641
+        isCached: true
+  - title: "Microsoft Releases Azure Attestation into General Availability"
+    excerpt: "Sindhuri Dittakavi, program manager, Cloud & AI Security at Microsoft, explains in a Microsoft Security and Compliance blog post how Attestion works: An attestation provider is a service endpoint of Azure Attestation that provides REST contract."
+    publishedDateTime: 2021-03-02T12:15:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/microsoft-azure-attestation-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 69
+    images:
+      - url: "https://res.infoq.com/news/2021/03/microsoft-azure-attestation-ga/en/headerimage/header-1614502680637.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
+    excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power o"
+    publishedDateTime: 2021-03-01T08:24:00Z
+    webUrl: "https://www.cxotoday.com/press-release/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 67
+    images:
+      - url: "https://www.cxotoday.com/ashojoac/2018/09/azure-logo.jpeg"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "NXP announces i.MX 9, and extends i.MX 8 with security and Microsoft Azure Sphere"
+    excerpt: "NXP has announced i.MX 9, a series for intelligent multi-sensor applications, and i.MX 8ULP-CS (cloud secured), a family off Microsoft Azure Sphere-certifi"
+    publishedDateTime: 2021-03-01T05:12:00Z
+    webUrl: "https://www.electronicsweekly.com/news/products/micros/nxp-announces-i-mx-9-extends-i-mx-8-security-microsoft-azure-sphere-2021-03/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 66
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/05/29112104/EW-Bright-Sparks-114-all-the-winners-steph-400.jpg"
+        width: 300
+        height: 249
+        isCached: true
+  - title: "Ignite 2021: Microsoft opens another data center in China, announces new tools for Azure Data and AI"
+    excerpt: "Ignite 2021 conference is underway, and there’s a lot of Azure and cloud news coming out of the event. The biggest of them all is the announcement that Microsoft is"
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://www.onmsft.com/news/ignite-2021-microsoft-opens-another-data-center-in-china-announces-new-tools-for-azure-data-and-ai"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 54
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2019/01/Azure-Server-Room.jpg"
+        width: 1365
+        height: 768
+        isCached: true
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
+    publishedDateTime: 2021-03-02T14:15:00Z
+    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+    type: article
+    provider:
+      name: Cloud Pro
+      domain: cloudpro.co.uk
+    quality: 54
+    images:
+      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
+        width: 845
+        height: 475
+        isCached: true
+  - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
+    excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
+    publishedDateTime: 2021-03-02T14:10:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 54
+    images:
+      - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
+        width: 501
+        height: 375
+        isCached: true
+  - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
+    excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
+    publishedDateTime: 2021-02-26T19:10:00Z
+    webUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/"
+    ampWebUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
+    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 49
+    images:
+      - url: "https://www.cmswire.com/-/media/ac25ec3e0b9543dba4a25056d8afdd68.ashx?mw=1024"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
+    excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services in India."
+    publishedDateTime: 2021-03-01T16:05:00Z
+    webUrl: "https://uniindia.com/~/apollo-24-7-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/States/news/2332241.html"
+    type: article
+    provider:
+      name: United News of India
+      domain: uniindia.com
+    quality: 47
+  - title: "Microsoft Ignite 2021: Check Out All the Major Announcements from the Virtual Developer Conference"
+    excerpt: "Microsoft Ignite 2021 is underway with big announcements including Azure Percept, Azure Data changes, and Microsoft Teams improvements."
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://winbuzzer.com/2021/03/02/microsoft-ignite-2021-check-out-all-the-major-announcements-from-the-virtual-developer-conference-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2021/03/02/microsoft-ignite-2021-check-out-all-the-major-announcements-from-the-virtual-developer-conference-xcxwbn/?amp"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2021/03/02/microsoft-ignite-2021-check-out-all-the-major-announcements-from-the-virtual-developer-conference-xcxwbn/?amp"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 45
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2021/03/Microsoft-Ignite-Logo-1.jpg"
+        width: 1267
+        height: 495
+        isCached: true
+
+secured: "jJGnoKxKN2PxHw1gLcAqec57olS+q3tHLnk4OAK98ItnCZqHO2hi8GfslpihxDhJxOI0SvCtgdUzYImEdO+d5kCaANGaUYwg4g1gFykB8vg9+9C62GPxFJzR/uK9mhsI22MpIzdXYpbQmGMRPpRQoE3Ev1XQrHRCGqBInXL5w9z935jz+xvDEj754cAoZr2P1EziNMnPk4ligFYeShf92OckX1M3T6c507fNY07ha3xkQlk8zJswnr/ZZh6Y/YL3ou0SGTJ91MBeNOhWSHRN8H0qpLOHver7SRGqqEl+ezJ/KYq/vNfh7xusDW10Q9zKlPcO3gXTxBT0WF6XLTrHY9cvHB5tDPA0w9UEnDOBQSE=;o1ZXK0SzdBVmnvYQmKsMwQ=="
+---
+

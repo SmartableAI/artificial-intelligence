@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-27-more-than-a-name-ibm-support-for-watson-college-remains-strong.md",
+      "title": "More than a name: IBM support for Watson College remains strong",
+      "excerpt": "If you want to see the connections between IBM Corp. and Watson College, you need to look no further than the name of the school itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
+      "originalUrl": "https://www.binghamton.edu/news/story/2858/more-than-a-name-ibm-support-for-watson-college-remains-strong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.binghamton.edu/news/images/uploads/features/_normal/IBM_car.jpg",
+          "width": 770,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Binghamton University",
+        "domain": "binghamton.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ibm-i-marketplace-continues-to-expand.md",
       "title": "IBM i marketplace continues to expand",
       "excerpt": "The IBM i platform continues to show solid growth as customers upgrade hardware and software to support key business apps.",

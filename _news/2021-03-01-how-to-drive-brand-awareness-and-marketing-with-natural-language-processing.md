@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-l
 webUrl: "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/"
 type: article
 quality: 134
-heat: 134
+heat: 135
 published: true
 
 provider:

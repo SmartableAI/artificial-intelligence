@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Fears for children's privacy as Delhi schools install facial recognition"
-excerpt: "Use of facial recognition is problematic with a low accuracy rate and few safeguards against data breaches or misuse"
-publishedDateTime: 2021-03-02T06:58:00Z
-originalUrl: "https://news.trust.org/item/20210302065548-ew5ti"
-webUrl: "https://news.trust.org/item/20210302065548-ew5ti"
+excerpt: "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an \"overreach\" by Indian authorities and an invasion of children's privacy, digital rights advocates said on Tuesday."
+publishedDateTime: 2021-03-02T14:36:00Z
+originalUrl: "https://www.dhakatribune.com/world/south-asia/2021/03/02/fears-for-children-s-privacy-as-delhi-schools-install-facial-recognition"
+webUrl: "https://www.dhakatribune.com/world/south-asia/2021/03/02/fears-for-children-s-privacy-as-delhi-schools-install-facial-recognition"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Thomson Reuters Foundation
-  domain: trust.org
+  name: Dhaka Tribune
+  domain: dhakatribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/13c49f77-54a3-4605-bab7-06f801bc5387/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-    width: 1100
-    height: 733
+  - url: "https://media-eng.dhakatribune.com/uploads/2020/10/watermarked/360097/1614695714120new-1603622904561.gif"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 648
         isCached: true
 
-secured: "G2hxRbnFyQJmaVFzvpkeH41P55mk55xq0tzqhoSLnt1xW0+SWDwGJpXg4K354aSZDdSatAPKcGHkJPQjcG6ZEVvy1cSPSJuwZe4NC+6OPDQ0sT1plNgXiipV5XsGV9MoLOkrlb8gT76gqUG3WEN3YBtJFFGLqQZGmi87DTwDWXDpCePE4b1G9HXoJHRDlJFFnd5YlFsFJxpUi6qsA9tyqZFQ3p6Idy+UR+A64ko9I7vRlqDoMh7RFTNLTpGJrYjIihbzukUd6LB8QVIqt2HaVff1/5GtALR8enyPquae4Javk7eHEIDInURxPvH/i3TRhEWe8igJl21PGP0x0BIQRzF/qzONDf5LlcgaWAWiGjFBGbw6IJqZkSo4wMUH97uoqt0TlXkQILKgLW+axIlpjibIX5xn5CP6Wa/zx0OdqV+MYWuzZTQAlRmJb9wuu5Ex9zwvxXMGMbyHoVb/TQpojQOaewthgmXOiC2vstp7k1SvSAWZaaogSo7Vdo0MDExpqdtDRWnolpp6+kA7Mcwy9A==;QGktgu7JS0jkrMlzzFpa2g=="
+secured: "NxHgVwZKqPgvjVlJhz4SrYKDPw2yQ8vPx1EQSEYS5EN+YjYPgdrIDQmqabcjoT0juSBiozsSK5Lm+4w9kb3qOF+OJ1L5XRgApFkAthFua25Wu1/tVdVlOjNk52TDIEOw/FOK3O1aoGGaYss6yeToIXkX4FSlpKUl2FKzd/WeKjhiItpKMXJKgQeVjsmL94P7K8QPyZyru+HIW9DnCQyKWt5QzF/Sm4GPcj6GV0NT2Q4cHbxfBY++9Ejmy1jGIoJwfIreCQgP3Q/Sv1dYej586/V5OYmltXQELH9zi4ql86LSs7eyU3GdIBKYjje1eTttfHDQuAnEpC2855aqp8ueh9ImtWY7glohtBOPGAYoPFU=;V/m2fsIb0UmCihIuhwn2uQ=="
 ---
 

@@ -1,45 +1,22 @@
 ---
 category: news
 title: "Kinetix Makes Strategic Investment in Senfino AI"
-excerpt: "Senfino AI, a leading fintech company that provides AI solutions for Asset Management, today announced the close of a strategic investment from Kinetix"
-publishedDateTime: 2021-02-25T19:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kinetix-makes-strategic-investment-in-senfino-ai/article_a4a77030-7664-55b4-b844-300b45b3271e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kinetix-makes-strategic-investment-in-senfino-ai/article_a4a77030-7664-55b4-b844-300b45b3271e.html"
+excerpt: "Senfino AI, a leading fintech company that provides AI solutions for Asset Management, today announced the close of a strategic investment from Kinetix Trading Solutions, an innovator in Trade Management and Compliance software. Senfino AI, a leading ..."
+publishedDateTime: 2021-02-25T19:10:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/02/p19861940/kinetix-makes-strategic-investment-in-senfino-ai"
+webUrl: "https://www.benzinga.com/pressreleases/21/02/p19861940/kinetix-makes-strategic-investment-in-senfino-ai"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19861940"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19861940"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-related:
-  - title: "Artificial Intelligence Provokes Shift in Asset-Allocation Strategies"
-    excerpt: "Artificial intelligence affords investment specialists the ability to make autonomous assessment of market conditions, removed from the frailties of human decision"
-    publishedDateTime: 2021-02-26T13:42:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-provokes-shift-in-asset-allocation-strategies/article_2c05f664-9666-5032-b484-b15398b1f1a3.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/cd/8cdec9a4-37c8-5710-9aa6-652a295ae590/60397b8aa8ceb.image.jpg?resize=855%2C630"
-        width: 855
-        height: 630
-        isCached: true
-
-secured: "5taC8nkK5uhi29nrlrfTEFMAWJoXCg62Zihm4VgwUmvhHFnUysMPNyabwVIHig84WXrwwQpvEbtKEg1Nh0IwrCGYC2DSoS1DBmwcvuIqUv4/SmIRpY7pmz+wol/vGqj+I8ptOKOjJadN5TX4RkSShycGsekb+eQnzFqB2R2wRx4PjgIC3wqdp5wLXC07WTLQCm9zU+SoyHMtbQzH6pQgrWSczTaHdh/LuZrZAmP+5QqXbKC0zX8TOBYAueQhCUFwm5vGl4aky68sluE3KrTbdeDQlQHCeWeDFhAd63eWkSMeotaiIK8dRN8SJknTdEeXuuOcy0U0PsC0wmr0bP5E0gBwPfjdZtamHURPzCDxfvE=;BA0U9hvgvBvvDsFwsLTJqg=="
+secured: "YLOeJH+6Sy1kFQjZnFT0gk0CoJGjjx5gcCW8XHV7O/XQISDgNjVjxQriX1aIAgY3QQ4t+puY2A+SLVDqUZD1vAFDJxNcQfE5eHAMQsIooLAkxg7LSIa5yScJuT/nOdhYDVZ/YwHArrShvpSFggmVlK/qrLDlEKwsCUA+dVqpM+S1A4f8vWh6RJbtDnrHsGsYI6b2XQuZ5jEdWQYKdiSiIzVbSnYaiwxZu6stE5xULimF5vtqoYWsfHh0kg21AQQ3iceb8FsZn0WuTfYet1eJRmyflquOpOI9fCWP5XPTPpqku5Xoh2u1ITf/wMhBYvQqqDSFZaNDzboOKyNUuWFfWhPuk7AVh2lYtKov4zomI+k=;ZziKvZAXWn6Ww0u3zqFCDw=="
 ---
 

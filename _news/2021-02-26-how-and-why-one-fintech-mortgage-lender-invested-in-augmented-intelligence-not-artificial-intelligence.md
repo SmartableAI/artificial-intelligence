@@ -63,6 +63,34 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 24
+  - title: "Fiserv to Present at Evercore ISI’s 2021 Payments and FinTech Innovators Forum"
+    excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present virtually at the Evercore ISI Payments and FinTech Innovators Forum on March 4,"
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=430572"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 20
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Fintech Provider Empaxis Strengthens Compliance Credentials, Earns ISO 22301 Certification"
+    excerpt: "Empaxis Data Management, a global provider of financial technology and operations outsourcing for investment firms, has added to its compliance qualifications, becoming ISO 22301 certified. ISO 22301 is an international standard for"
+    publishedDateTime: 2021-03-02T13:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-19677297.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "YAI6nkdQ/xZbIxRY5vC0/kYNtT16NyMv+AvXZjo+JpRb2znlai9uXtZRfr77woMN7FwGiS8d0kedlOhfYSNcJZjT49w6r5RL+UBvd+O3k4C9Hqb5ZG6Mv3TJfldqd8TY4zgdfGbdwTbJR640f18A4vHP02RJypMZUC1QpOG2WrPIPafQk0XxPZLXG7Dsky8WpP6AWT/zsWW/GOKGN9l7nmIWujcPKoME0j/bI7TvP2BO8z9WHSbqv3+py3OiX+C0scmgmBFhPeHJ5gnIXmhnBSZdHYj+MV0t7mSnZVkzGahM13xbWEWiU22kKtnsnHB+Z5X4VuJ7nW70Xz9k53hckBmXQlhJN1fiWV9nYYIKgmHcOB7KdT2ckKlAx8aqTyYOxhT5UpW2V3E5zPBL3tGCHNU81M5QbTNT9X+x4MgV4dQAw9IN+KT54IApaISn6gadoPKtFBrNPKLq+QHN8a7krtlb0Ea0HxkrJGg9qrOpZ2gzUwIyC2P4OjL27twa47CyV3n+ccNIWxihaDI3XNZafw==;+ZllHp0arCkk2DmODQLJOw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrad
 cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/siri/siri-to-get-atypical-speech-upgrades?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Training Siri to Better Understand People With Atypical Speech"
-    excerpt: "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall"
-    publishedDateTime: 2021-02-25T21:42:00Z
-    webUrl: "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/"
-    ampWebUrl: "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 59
-    images:
-      - url: "https://images.macrumors.com/t/mivQrgPpAEzYsUPg1wq5M8-c2-E=/1920x/https://images.macrumors.com/article-new/2020/06/ios14siriinterface.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Siri May Soon Get Better at Handling Atypical Speech Patterns Like Stuttering"
     excerpt: "While there’s room for reasonable debate as to how well Siri’s voice recognition works in general, there’s been one area where it’s inarguably fallen"
     publishedDateTime: 2021-02-26T17:59:00Z
@@ -72,20 +56,6 @@ related:
       - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/06/siri-shortcut-pulled-over.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Apple, Google training their voice assistants to understand people with speech disabilities"
-    excerpt: "Tech firms, including Apple and Google are working on improving their voice assistants to understand atypical speech."
-    publishedDateTime: 2021-02-26T05:38:00Z
-    webUrl: "https://pocketnow.com/apple-google-training-their-voice-assistants-to-understand-people-with-speech-disabilities"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 29
-    images:
-      - url: "https://pocketnow.com/wp/../files/2018/08/Hey-Siri.jpg"
-        width: 780
-        height: 439
         isCached: true
 
 secured: "hmWbSczPxAoYGgQAJPa+L41RjZa7bphqozwiiUEa+bXkorLBd/JgraUTa/64h8ICS99IyeCPaoWBZC/KyyRr7PqLdNyK6b4sVXoZIaEWvPdK4+mn+hJnS1dfLgXCGAaMDvbbUb7mgrEAkqFReayPW8HLjkKSGjurxMAcV6n+KaXWkIMxEOl2n1lfPHuV805afcF3cxD+ER5XhMYKqnRO04X1zrOgPpLmzMxn9EhzVpWh8cJSek4GeK+xZ4ScgJY1imV/xbCObsPSNWh7eoYY7Gr3+DpY/hWe2f7j5/U01ey4B/X+XB7ekKZFoKIwFRum8NAhFLdOCfFSZk0tlWUGSLIYo5Kbv6lKc7NWrDsbT6PEE4vP03SJZuCtsz2JdVRVk820hyrDAOIZJOPXXQoQ23u6+ktDhe9G9h1WGPiTdphzpsEC3YJF1KZMp76YaV3P+oE33iCk2k/Fp7FBLyIw3w9b4iurU3nn2hoByiFG4KcCmTn/kB3V4DDfOR/Yd7YdNYwRc3R6LyA3XcxCe7e63g==;vpF8FiyslMG+Cdz8A5LHSw=="

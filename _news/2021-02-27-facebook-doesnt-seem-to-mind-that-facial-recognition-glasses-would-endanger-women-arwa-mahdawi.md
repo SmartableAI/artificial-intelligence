@@ -167,6 +167,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facebook Facial Recognition Lawsuit: Social Media Giant To Pay $650 Million Settlement Fee"
+    excerpt: "Facebook has been in the news repeatedly for its privacy policies related to user data collection. Read on to about the recent Facebook lawsuit."
+    publishedDateTime: 2021-03-02T12:38:00Z
+    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-facial-recognition-lawsuit-social-media-giant-to-pay-650-dollars-million-settlement-fee.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 29
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/gv8f383fr6tsvffl_1614672737.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
   - title: "Facebook mulls face biometrics for forthcoming smart glasses"
     excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."
     publishedDateTime: 2021-03-01T20:23:00Z

@@ -1,30 +1,23 @@
 ---
 category: news
-title: "Hospice & Palliative Care Charlotte Region First to Adopt Muse's Powerful Machine Learning Tool in North Carolina"
-excerpt: "Hospice & Palliative Care Charlotte Region (HPCCR) will be the first hospice in North Carolina to adopt Muse Healthcare's machine learning"
-publishedDateTime: 2021-03-02T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/hospice--palliative-care-charlotte-region-first-to-adopt-muses-powerful-machine-learning-tool-in-north-carolina-301236753.html"
-webUrl: "https://www.prnewswire.com/news-releases/hospice--palliative-care-charlotte-region-first-to-adopt-muses-powerful-machine-learning-tool-in-north-carolina-301236753.html"
+title: "Hospice & Palliative Care Charlotte Region First to Adopt Muse’s Powerful Machine Learning Tool in North Carolina"
+excerpt: "Hospice & Palliative Care Charlotte Region (HPCCR) will be the first hospice in North Carolina to adopt Muse Healthcare’s machine learning and predictive modeling tool to help deliver personalized care to their patients."
+publishedDateTime: 2021-03-02T13:12:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-charlotte-health-united-states-584a4725c85a1e4a5642517be4e87cdc"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-charlotte-health-united-states-584a4725c85a1e4a5642517be4e87cdc"
 type: article
-quality: 20
-heat: 20
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "q6s55i6YDz7eHE1aq03xMhRWKDEbkQ58jpmDYENAKIfIEDHOS0sPCtxNGbA1LpRfV91qGCmnk0DWJDi0KhWyseds249PtMkBYpXSAxLP2p2PkIq0Pss5uLrc8NLr8m2AgifQ5qQtErRfvNrgtu4K1xJeQcM8cd92HZEfQ76WUfTu+saWhjLSM2eiBpUMXUmg1ripOQeniaD8sEJXc72u/6vKajn8cMpn5srVsMUUdkGpwOuRNNl78hN4Bf5Mj7SBVHAUUQySbNgN+c6ZS8wp9WPyaxe7vlbIAexoKxc6hWd3SfUBgJ7xqcBsOKXAovrQo6OSOInSy2yQmDMgRHxpgxQWCYv2gjmLS20LxopPhRY=;wiqUgBYDdltKNnh+X02IsA=="
+secured: "tq5JxKDLwgf3uoFq5l6OiG3oyBPxoPNrDcnCysLr+9dUq8Pu7g9GWevjA6r0I2ckJpoyqcpsL47ecWbhVIEhFQs9Xf2Ruq8DblnQwwXzKrfAFl/GhWUoicG/6Yr0Tk26eKWhNbr32PgsO5MGb62flw73wuXiqmkfqGTj0VZB8vZIOuaePBNKaeFTir3znrY2gvZxeIzshpEh/xUx73f9dxCA89Q/PXdL8sAfMNEbZxh1iosFbshYAjfgrvB5nTUPOLpma6FtaxcIBHz+3UMBHk7qS2aw7qWJyVMT5PXyuOVYu+PLGJYrlFuQfwzS9iSBqJkHMTCZuUaoFULQ2pLRjUmcc7b6/dim/FNeWX7tJHc=;4nQEvRYVjZq0ffWIpOxZjg=="
 ---
 

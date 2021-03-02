@@ -40,20 +40,6 @@ related:
         width: 1330
         height: 800
         isCached: true
-  - title: "A Global Pandemic and the Evolution of Artificial Intelligence"
-    excerpt: "While the global pandemic may have hindered many industries, it accelerated the development and application of artificial intelligence."
-    publishedDateTime: 2021-02-25T21:51:00Z
-    webUrl: "https://asiasociety.org/video/global-pandemic-and-evolution-artificial-intelligence"
-    type: article
-    provider:
-      name: Asia Society
-      domain: asiasociety.org
-    quality: 37
-    images:
-      - url: "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-02/210225-AGlobalPandemicandtheEvolutionofAI_THUMB.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "ipnPYvZkLsDLTc1RuESzJc84chkzt97UJC7r9cc7ebl0q/xDLVGEYROTPf1yiPBkp4cZr7wu0YnFsF4j2lruI7Iez//fv0VTThuOW405VhJgbJOOH+/nArHiVOiZJMNFT0b9V+VIj61nZlWsOYlOARHwlXlms7mbKMnV+PBIgYQqMVjtCuvuSh5V36w+zjqysLyWUYHTpp33A3xgwLwLoRGIp+Mb6Iwj+uY3Ksuiet7XIFHBDk0qI1u42rUD5RLVL3XLtuRrbmLw/20amJ87/gmoN/Kjmkvksf0tomXmW8B9lcgVKxj8HydgJ9u9PFr44XZEyjz5V/mzgL5lwsfU+y+nAxmQaOQ4BQRxeFBzXoc=;q22DcAsK2cgwpuFT3kJMmw=="
 ---

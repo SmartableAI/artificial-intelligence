@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud, MongoDB Take Their Alliance To The Next Level"
-    excerpt: "MongoDB and Google Cloud are expanding their strategic alliance to more tightly integrate the MongoDB Atlas cloud database with GCP services like BigQuery."
-    publishedDateTime: 2021-02-25T22:32:00Z
-    webUrl: "https://www.crn.com/news/applications-os/google-cloud-mongodb-take-their-alliance-to-the-next-level"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
-        width: 611
-        height: 343
-        isCached: true
   - title: "MongoDB deepens Google Cloud partnership with new Atlas integrations"
     excerpt: "MongoDB, one of the world’s most popular and trusted NoSQL databases, has deepened its Google Cloud partnership with new Atlas integrations."
     publishedDateTime: 2021-02-26T11:14:00Z

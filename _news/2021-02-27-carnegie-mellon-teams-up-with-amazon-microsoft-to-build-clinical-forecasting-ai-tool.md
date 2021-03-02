@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/ehrs/carnegie-mellon-teams-u
 webUrl: "https://www.beckershospitalreview.com/ehrs/carnegie-mellon-teams-up-with-amazon-microsoft-to-build-clinical-forecasting-ai-tool.html"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Microsoft wants to use AI to unlock the potential of HPC"
-    excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
-    publishedDateTime: 2021-02-27T10:29:00Z
-    webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 76
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
-        width: 1069
-        height: 693
-        isCached: true
-  - title: "Microsoft Releases Azure Attestation into General Availability"
-    excerpt: "Sindhuri Dittakavi, program manager, Cloud & AI Security at Microsoft, explains in a Microsoft Security and Compliance blog post how Attestion works: An attestation provider is a service endpoint of Azure Attestation that provides REST contract."
-    publishedDateTime: 2021-03-02T12:15:00Z
-    webUrl: "https://www.infoq.com/news/2021/03/microsoft-azure-attestation-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 69
-    images:
-      - url: "https://res.infoq.com/news/2021/03/microsoft-azure-attestation-ga/en/headerimage/header-1614502680637.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KnIP8pfux7FzcF2ZafXkmMmzmmAaeJRBK7FoUrPVlmrLWwoxFyjX6krPCEbQ92DTXF8FeNzV35iZkNB3/qtu64x45Y7blLe9N/pYWTxXPcD6Nmy+JW+Vms1UB3U8nwpgeJenZCXZn1Dfe/wdERtnHdUuEyqkeht0kDzTMadRzyfZaU5lUbFYhtUHnjozzsOao55Vc+yDnP5gHoitduSGEXq+/r00T7N82VvLS/j7MVlgAtsECDc8Pd3cl3t8D2DbGQF6MRRppSXRpbX0pdeqZRDBE4i2KowmrcpJsLa8L47AGejR2IrHtGcko7Oz9jHEnt5aw0+sdPJu+cdu/CDx6grEvUFI1aU/n35T5I0cYYwK5HKm0XsN7sGn4ygH4iFdlBoBAJNv4R1dfHh/hRF6Pbb7p80qYi6W5bRkayluHTTjln4uEbG+AWlYnwAOAzLFCfrbnQQRFcySKXaMGEkk+///9GQ46uP1Fh+Y0vFaStIoAv/5QK/WHTBXX58NEJOzsz+ULE6NX35g0a3ENBi2qA==;Y0LFRlNo7MHYckOKE2zCew=="
 ---

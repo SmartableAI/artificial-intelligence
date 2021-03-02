@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-bu
 ampWebUrl: "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"

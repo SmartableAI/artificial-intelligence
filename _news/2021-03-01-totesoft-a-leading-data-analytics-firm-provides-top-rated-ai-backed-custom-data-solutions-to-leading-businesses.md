@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43426056/totesoft-a-leading-data-analyt
 webUrl: "https://www.wboc.com/story/43426056/totesoft-a-leading-data-analytics-firm-provides-top-rated-ai-backed-custom-data-solutions-to-leading-businesses"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,52 @@ images:
     height: 480
     isCached: true
 
-secured: "LIKsz8rZBgo6kGE3JBu9hZ7D6jsegXZTitEekbJhUBFKkjr9YHfOI4PvhQI6WrAunPKCFuHLGTrAi4uhccRlmqpQW2MvQ3RlscNDahJCwFgscmA5qUqOrMkpn/39v1mQ1aAVgiZGEmga/92/tkpBLiFFYeHxbRBWfGT6CY/5FlsHBej6ipTTeiRwgE+NX54P6w8D26Ar30ApbwtoGO3vE4xzgljd+GGCr3UK9xMqL4UNMhE0yrGASI3MVJJuixOsk8ElXtNgaIFWwOaNXszcorxRhF9ZytIGPCPv2wCN8CpQauD5UjhtPntLdI4/MFjEWkWYuQbgxiuqSIbDyR9E8Kf69aKMstH4VXXEim+n5ZQ=;OyaEguqpBlTEGZr5CxMt/A=="
+related:
+  - title: "Microsoft Ignite Data and Analytics roundup: Platform extensions are the key theme"
+    excerpt: "Microsoft is introducing a new Apache Cassandra Azure service, while adding new onramps to Azure Synapse Analytics. And it’s the first third-party cloud to cleanroom engineer its own MongoDB 4.0 API."
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 83
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/02/52301473-0c68-49f2-af2f-0da96be3e28e/cosmos.jpg"
+        width: 900
+        height: 400
+        isCached: true
+  - title: "Analytics Insight Publishes Vendor Analysis Report for Artificial Intelligence"
+    excerpt: "Analytics Insight recently published its first AI Review report to offer insights on how artificial intelligence service providers are positioned in the industry. The report named AI Vendor Analysis 2021 analyses artificial intelligence vendors."
+    publishedDateTime: 2021-03-02T11:10:00Z
+    webUrl: "https://www.analyticsinsight.net/analytics-insight-publishes-vendor-analysis-report-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Review.jpg"
+        width: 1500
+        height: 900
+        isCached: true
+  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
+    excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
+    publishedDateTime: 2021-03-02T10:22:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
+        width: 341
+        height: 400
+        isCached: true
+
+secured: "zXZfj7m5VzK6S34LPZ4WAmT4Fte3YUGizDFuM7B2u5tPGnuBjOVwvzZIvtgUjgVxS4fvqrU+OtjPr38xTJoobjMrkmIGTqk3ej6YIHLpQ7x6ueupma39S11hMSbqswJdgm8cJ0QHLFlFqtmUlGsHcobZyCrlZqY1NUjpmgfDSLxUWLWfc1VUasDD3w+1GckwAgmLyxHk/O9OmEYOz8G+9CgPjkRhInfVfIjh5+s9LWtrTxvzucJmf5fHsVUpdfFsExTZyLUgU5lErUIis+VnXhX2vBYQeoSgB69V3UVnKa2+DBNXjQ3wKJzolOTCGThbrRf6uOF5ltgI8kNBi07C9aVg+TsSmtmc11F3R9d2tXUsCr9Eoqh7ZjByIFpJONYwaqaSLP3ed1cTwTm4DkAzuFgFGsr5GZlDynK3RXz1RXXBXAPGyb84rVSTG+FG638dqWvIRsm+fhEmUyt1sC3idx0od1+vFUxQ/+xbu/W4CJBOKPkWiLov3FWMhPvslhsV0DueXX36p6fTkK0ca1s+RQ==;p+a3ewuFdoJ7jY+o8ELXnw=="
 ---
 

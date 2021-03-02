@@ -2,33 +2,33 @@
 category: news
 title: "Strike Graph Introduces First-Ever AI Technology Platform to Automate Security Questionnaires"
 excerpt: "Strike Graph, a compliance automation startup, today announces the launch of its new AI technology platform. The first feature on the new Strike Graph AI platform is the ability to answer each question on a company’s Security Questionnaire based upon an organization’s security habits and procedures."
-publishedDateTime: 2021-03-02T05:40:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-first-time-events-washington-data-management-0355b90e4009477b94f732ea2bd4624f"
-webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-first-time-events-washington-data-management-0355b90e4009477b94f732ea2bd4624f"
+publishedDateTime: 2021-03-02T14:14:00Z
+originalUrl: "https://www.financialbuzz.com/strike-graph-introduces-first-ever-ai-technology-platform-to-automate-security-questionnaires/"
+webUrl: "https://www.financialbuzz.com/strike-graph-introduces-first-ever-ai-technology-platform-to-automate-security-questionnaires/"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Financial Buzz
+  domain: financialbuzz.com
 
 topics:
   - AI
   - AI in Security
 
 related:
-  - title: "OneTrust Acquires DocuVision's Redacted.ai to Expand Automated Data Redaction"
-    excerpt: "OneTrust today announced the acquisition of DocuVision Inc. and its Redacted.ai solution to expand OneTrust automated data redaction capabilities. The combined technology – OneTrust Data Redaction – is available today and helps privacy,"
-    publishedDateTime: 2021-03-02T06:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/onetrust-acquires-docuvision-s-redacted-ai-to-expand-automated-data-redaction-1030135135"
+  - title: "Strike Graph Introduces First-Ever AI Technology Platform to Automate Security Questionnaires"
+    excerpt: "Strike Graph, a compliance automation startup, today announces the launch of its new AI technology platform. The first feature on the new Strike Graph"
+    publishedDateTime: 2021-03-01T15:59:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210301005014/en/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: Business Wire
+      domain: businesswire.com
+    quality: 23
 
-secured: "/Zq8LJj3XCuAelmhONJUy81ypBmAWQa005+ufk+wTJVSfEH6ApcvIltr26ceNVzRX8b09b6Guh8w3/bgs6VjoMlBRBoN4UnycxeeYa5oI6NqLulnjyKzKid+cE0Ka9ojKp5G/31qafW7prfkx3ovkd915dTPmRY7Wng/JsOb+K6pejphADbjeTzWAgt13zlpGglhUp4xAv9JA8Hi6EghUWzGIRR8/lha4ehq8O+j3BKGUkfqYdugO8461y6zRmB0CIvSzHgECXY5VDhz1Nbu18o37fuK/k5tfossg+cjs2PmJuVsVu1ZPoRTEmKr/OIAvwhaIgXlXEfhCjGVub4fDRvfenSrFOFo42oPBXHAh+g=;zoMzau/6T7uoih94ScBUSw=="
+secured: "5vFfu3jF7YCWpp8QP8z3QOMq75x+4gWdIgyCKM3WuRQEy116eHHzeGBJ7eEFRpoHweIkFJ+E6BhzjljzClZfArZd4ePx0vUvGAyGrM9PNfIrQ+yrXNemk03kR04r2CUxLs456AcDIl3vn/K0CrcgArSx0mmM+696yD9uF3SVVdeJ/HRm4rn2FLHeHLvXGJsy+B+O49es+IP3i/AEc63OktoHDZJAOIpr4Q+oaquqFxZkFEiCTIYL4Jif6MmJ0JZQz7aBVih3nlSpCwpFw4BQQ39W0MtqAhliqp8TeE1cpSoLJQJnrVcA8iQlAR+QpiCDr60blHzn+5GWVqH1vsFIE7BiiXu17BIuNFVB4cAPrIE=;cTqOHOpwTJKvF5eUFrAIyQ=="
 ---
 

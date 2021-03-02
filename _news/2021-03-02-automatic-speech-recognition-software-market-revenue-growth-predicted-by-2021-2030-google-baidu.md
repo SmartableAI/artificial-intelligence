@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Voice and Speech Recognition Market Share, Growth, Challenges, & Global Forecast 2021 to 2026"
+    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market experienced robust growth during 2015-2020."
+    publishedDateTime: 2021-03-02T13:18:00Z
+    webUrl: "https://ipsnews.net/business/2021/03/02/voice-and-speech-recognition-market-share-growth-challenges-global-forecast-2021-to-2026/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 28
+    images:
+      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Voice%20and%20Speech%20Recognition%20Market.jpg?1614687366276"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
     publishedDateTime: 2021-02-27T14:40:00Z

@@ -53,6 +53,34 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Fiserv to Present at Evercore ISI’s 2021 Payments and FinTech Innovators Forum"
+    excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present virtually at the Evercore ISI Payments and FinTech Innovators Forum on March 4,"
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=430572"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 20
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Fintech Provider Empaxis Strengthens Compliance Credentials, Earns ISO 22301 Certification"
+    excerpt: "Empaxis Data Management, a global provider of financial technology and operations outsourcing for investment firms, has added to its compliance qualifications, becoming ISO 22301 certified. ISO 22301 is an international standard for"
+    publishedDateTime: 2021-03-02T13:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-19677297.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 14
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "How and why one fintech mortgage lender invested in augmented intelligence, not artificial intelligence"
     excerpt: "Wyndham Capital adopted the nomenclature of augmented intelligence, a concept that treats robots as aides to human intelligence instead of the next best thing here to supersede it. Those robots assist team members in executing tasks to their highest caliber and ability."
     publishedDateTime: 2021-02-25T23:08:00Z

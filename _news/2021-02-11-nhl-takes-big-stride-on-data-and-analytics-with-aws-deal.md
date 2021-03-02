@@ -1,28 +1,26 @@
 ---
 category: news
 title: "NHL takes big stride on data and analytics with AWS deal"
-excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking.The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
-publishedDateTime: 2021-02-11T00:18:00Z
-originalUrl: "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal"
-webUrl: "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal"
-ampWebUrl: "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/amp"
-cdnAmpWebUrl: "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/amp"
+excerpt: "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,"
+publishedDateTime: 2021-02-11T06:21:00Z
+originalUrl: "https://www.washingtonpost.com/business/technology/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/2021/02/10/742c8952-6c07-11eb-a66e-e27046e9e898_story.html"
+webUrl: "https://www.washingtonpost.com/business/technology/nhl-takes-big-stride-on-data-and-analytics-with-aws-deal/2021/02/10/742c8952-6c07-11eb-a66e-e27046e9e898_story.html"
 type: article
 
 provider:
-  name: The Oklahoman
-  domain: oklahoman.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://cdn2.newsok.biz/cache/1280x720_blur-ed4f6edd59917d020496a60408c651a4.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.washingtonpost.com/pbox.php?url=https://www.washingtonpost.com/pb/resources/img/twp-social-share.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517"
+    width: 1484
+    height: 779
     isCached: true
 
-secured: "vtS3onD/7CGXpm47nB0vh0tRxMoHDqxcU+5vOqtyoqt8Zaw5G/M6gQkvrje2cUk9C7lcyD7tIZD7RvuNhp8aSHGa8WXPKss/dSvFmeLXQ52h1VMiA44rHh0Se0VoDn/QyGvx3hcdUZq96Xd/l+6UU/xMJVAAzKoKl0+qIA6P2Tmb7sKkBFuhNXVAI6YQFt2S99uLHnC3dkUS++/Lng7a2BQrlVloI+IiZZEynLg9gehBr9Y5EAdQjtBSEpIC8fmQxwxZ189kne8RbLuAy02siiS5AsEfRDGCZCCyhlPaTkyOKMqXutLj1rxCcFw97Db0NYYqWDVPaHVX9wjsi7Udspfzt/5br+zEW8zlqn4jPZGN/pGrvyFYvwzvgZ8Ml2S6Oe1asKF2TNxJGU9iVp+SD2tBdfk0mMTHWl3ijZt+TtO4BxF0QWbMYvB8h6ulqT1LqOmT748NuT2uk4p49GWc+jzdzA6s6nuZVAkAMS9lMwjux+nBKPtTQV7gtZca2w+f7ITM2p/OdVyCa9aSiPVHbw==;G0405iESak2zj7sZlkhQ5A=="
+secured: "d+YoHPrWbJ4OIjIBNRdR/A3ruvF6/VX0UkQafaVxOSFe4yqTjGdSFtzlAKTKC1vpFKVbWWT/YXtPMP708aKstKVbjA09cTn9FVWxasejnNkqyv16uTjPybL6aR/q/MDOzppceF/Of/19wn88GLE3yE378mZ/RPFI3dO3OKSNsbs3mWN+++9Iu09ASxqbOevsF2NKz0NyMotoNe66oHqyjA6RBEQHo+BtfCJS2zcGHMM4TLUMdvcYkoISfvtBbsaWgThaw2IpV0Ewa4xQDmedcwofkqo5vRRuXo8TOgnYB8BYy0+Hs5newlvO6tBxXdRZVSeGc+3tUnBLZigX/yn2paZRy66JW6UDSD7aPpwj4K4=;pH3NjeVfssCHuye1FXs+zQ=="
 ---
 

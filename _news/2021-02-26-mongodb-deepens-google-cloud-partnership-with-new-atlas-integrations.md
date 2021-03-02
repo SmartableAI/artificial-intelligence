@@ -7,7 +7,7 @@ originalUrl: "https://developer-tech.com/news/2021/feb/26/mongodb-deepens-google
 webUrl: "https://developer-tech.com/news/2021/feb/26/mongodb-deepens-google-cloud-partnership-new-atlas-integrations/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud, MongoDB Take Their Alliance To The Next Level"
-    excerpt: "MongoDB and Google Cloud are expanding their strategic alliance to more tightly integrate the MongoDB Atlas cloud database with GCP services like BigQuery."
-    publishedDateTime: 2021-02-25T22:32:00Z
-    webUrl: "https://www.crn.com/news/applications-os/google-cloud-mongodb-take-their-alliance-to-the-next-level"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 24
-    images:
-      - url: "https://www.crn.com/resources/0266-11994ea39568-3217137abc5a-1000/1010819940.jpg"
-        width: 611
-        height: 343
-        isCached: true
   - title: "MongoDB deepens Google Cloud integration"
     excerpt: "MongoDB and Google Cloud have struck an expanded partnership that will see the NoSQL database platform vendor deepen the integration of its global cloud database with the cloud vendor’s products."
     publishedDateTime: 2021-03-01T00:08:00Z

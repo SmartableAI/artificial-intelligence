@@ -9,8 +9,8 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-lau
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-launches-programme-on-healthcare-analytics/article33962975.ece/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: 59
+published: false
 
 provider:
   name: Business Line
@@ -25,52 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
-    excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
-    publishedDateTime: 2021-02-26T19:10:00Z
-    webUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/"
-    ampWebUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 49
-    images:
-      - url: "https://www.cmswire.com/-/media/ac25ec3e0b9543dba4a25056d8afdd68.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "Analytics Insight Publishes Vendor Analysis Report for Artificial Intelligence"
-    excerpt: "Analytics Insight recently published its first AI Review report to offer insights on how artificial intelligence service providers are positioned in the industry. The report named AI Vendor Analysis 2021 analyses artificial intelligence vendors."
-    publishedDateTime: 2021-03-02T11:10:00Z
-    webUrl: "https://www.analyticsinsight.net/analytics-insight-publishes-vendor-analysis-report-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 33
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Review.jpg"
-        width: 1500
-        height: 900
-        isCached: true
-  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
-    excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
-    publishedDateTime: 2021-03-02T10:22:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
-        width: 341
-        height: 400
-        isCached: true
 
 secured: "Ac+qZul01MSxGoPyvleOUuKgfFefpe7umMEVtUu2UvGi1iky+1EuxGtoiVsymma9P/td/FYvz7j0KrEY6/51tRJ8KsPi3ol1yJWX1S3c/MebVm+/5F0NVIGmGiCgfjhBxEL/I8R1AU166+wm2MGVqhHY47KBoO7pSfeCyayZDJdl8nGWFtx8GY2+C/r/ufHdZ5M8JEIJeAi45CWs4nsPIAHNnDlAmmRxlFc0KuSh6RbrnqpEwAYtF8dXC9J1q38HCFwi0EFRNDtyDin+UcMIKQ3Zsv6PbPn7V7hZem3nnrPVaVknLIetvzkAx189vhBSi8wgWe50p+xWjHdkAHznjp6DBgTHVwLxr2QXn+25014=;vtqlqC4mn7ffUl2BKE/NKg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26"
 type: article
 quality: 74
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -119,6 +119,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Analytics Industry (2020 to 2026) – Key Market Trends and Drivers – Kennethresearch.com"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
+    publishedDateTime: 2021-03-02T14:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-industry-2020-to-2026-key-market-trends-and-drivers-kennethresearchcom-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
+    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2021-03-02T14:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-report-2021-key-trends-and-opportunities-to-2026-kennethresearchcom-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

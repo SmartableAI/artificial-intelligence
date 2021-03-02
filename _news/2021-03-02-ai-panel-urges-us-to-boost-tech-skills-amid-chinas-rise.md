@@ -36,6 +36,20 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Artificial intelligence panel urges US to boost tech skills amid China's rise"
+    excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons — something that Google itself has shied away from on ethical grounds."
+    publishedDateTime: 2021-03-02T13:03:00Z
+    webUrl: "https://www.timesfreepress.com/news/business/aroundregion/story/2021/mar/02/ai-panel-urges-us-boost-tech-skills-amid-chin/542499/"
+    type: article
+    provider:
+      name: Times Free Press
+      domain: timesfreepress.com
+    quality: 34
+    images:
+      - url: "https://media.timesfreepress.com/img/photos/2020/02/04/gettyimages11428451306346810399_t1070_h88a3aacbd75f0a79a6500773695a57326ed748ca.jpg"
+        width: 1070
+        height: 713
+        isCached: true
 
 secured: "ehwV63oh7kVlkdkiRX8C2QK2lCxlGryU/bTfVgSPfbY/ntTDAIP6MbsjgUYuxxqSoB21DhptFVFbFzIRAY6y8qlgt9LRHYZYdzLik2wJ0Yl8yvgHC42gkSxhyWrjy4kW5Kp/jG1Hj45Sk0+KFl6KDrHr7aHmLavFmTVGjRGMpaAbT5vviwuoxHBxoLDUQgTs2bq+njFVNRWEhi+CmcY459AlMjyf54iCbslizNKoAZUDuubmUdTW2SdTiKfpQM/KEFkxtCMhDuSv8VNHLBPAv6gS409CwXFW2gIBCxJMuqXuyDcdjbxq1nXMaXflwQ38rmsyI/RkZKo7C5uk9/YQSOr6V8aCoTZX/9qpTd3bK7KiVvbzulOR0qzH3rUNW8kRISWCkPX4Z6oaJC/FYOiLz7U4lu/KH2b6CjvkRwnHw5xAQXT2EEea+ndaPWZtHg/w1vbGSobLiqAIBBg+T1v8+KWNiLSbXGNqCSzPjDoWHSI9tGsfnZrIKpT8eEHUMe8IYAyz38AKkZrzqwOVLkfu7A==;7uFBQEWlYrBdpczUxgVz+Q=="
 ---
