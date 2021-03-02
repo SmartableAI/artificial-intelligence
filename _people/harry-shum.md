@@ -22,7 +22,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=9akH-n8AAAAJ
-  citations: 45976
+  citations: 45998
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Harry_Shum
