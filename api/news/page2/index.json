@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-01-googles-deep-learning-finds-a-critical-path-in-ai-chips.md",
+      "title": "Google’s deep learning finds a critical path in AI chips",
+      "excerpt": "ZDNet spoke with Google Brain director Jeff Dean about how the company is using artificial intelligence to advance its internal development of custom chips to accelerate its software. Dean noted that deep learning forms of artificial intelligence can in some cases make better decisions than humans about how to lay out circuitry in a chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/28/20a98f86-7db6-4412-8a12-57ad8196ad80/google-brain-2021-violin-plots-of-chip-design-optimization.png",
+          "width": 1860,
+          "height": 1214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
+      "publishedDateTime": "2021-02-28T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-how-covid-19-broke-ai-and-why-ai-may-break-again.md",
       "title": "How COVID-19 Broke AI, And Why AI May Break Again",
       "excerpt": "The unprecedented circumstances caused by COVID-19 caused many AIs to break. How did these AIs break and what can your business do to ensure that future AIs do not suffer from the same vulnerabilities?",
@@ -391,7 +444,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -888,7 +941,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1127,21 +1180,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-27-6-robotics-startups-raising-millions-in-vc-funding-as-they-help-retailers-meet-surging-e-commerce-demand.md",
-      "title": "6 robotics startups raising millions in VC funding as they help retailers meet surging e-commerce demand",
-      "excerpt": "Retailers are facing unprecedented demand for e-commerce during the COVID-19 pandemic. And they believe robots can help.",
+      "path": "_news/2021-02-27-war-mongering-for-artificial-intelligence.md",
+      "title": "War Mongering for Artificial Intelligence",
+      "excerpt": "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/startups-raising-millions-to-create-robots-used-in-retail-fulfillment-2021-2",
-      "originalUrl": "https://www.businessinsider.com/startups-raising-millions-to-create-robots-used-in-retail-fulfillment-2021-2",
+      "webUrl": "https://www.modernghana.com/news/1064364/war-mongering-for-artificial-intelligence.html",
+      "originalUrl": "https://www.modernghana.com/news/1064364/war-mongering-for-artificial-intelligence.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/602692b72edd0f001a8d579e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cdn.modernghana.com/images/content/715202080935-vbqduhgtsn-dr.binoy-kampmark.png",
+          "width": 800,
+          "height": 472,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1149,23 +1202,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T09:21:00-08:00",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html",
+      "publishedDateTime": "2021-02-26T09:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1174,61 +1218,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-translate-and-analyze-text-using-sql-functions-with-amazon-athena-amazon-translate-and-amazon-comprehend.md",
-      "title": "Translate and analyze text using SQL functions with Amazon Athena, Amazon Translate, and Amazon Comprehend",
-      "excerpt": "You have Amazon Simple Storage Service (Amazon S3) buckets full of files containing incoming customer chats, product reviews, and social media feeds, in many languages. Your task is to identify the products that people are talking about, determine if they’re expressing happy thoughts or sad thoughts,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-athena-amazon-translate-and-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-and-analyze-text-using-sql-functions-with-amazon-athena-amazon-translate-and-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/22/ML-2620-1.jpg",
-          "width": 587,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T09:13:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

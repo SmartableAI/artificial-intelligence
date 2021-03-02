@@ -2,6 +2,154 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-16-artificial-intelligence-and-the-end-of-work.md",
+      "title": "Artificial Intelligence And The End Of Work",
+      "excerpt": "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-who-should-stop-unethical-ai.md",
+      "title": "Who Should Stop Unethical A.I.?",
+      "excerpt": "“Curious if there have been discussions around having ethics review boards at either conferences or with funding agencies (like IRB) to guide AI research,” one person wrote. (An organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
+      "originalUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newyorker.com/photos/600afc0db35e198f98bd5577/master/pass/Hutson-AIEthics.jpg",
+          "width": 2560,
+          "height": 3200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
+      "cdnAmpWebUrl": "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
+      "publishedDateTime": "2021-02-15T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Yorker",
+        "domain": "newyorker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-ai-da-the-first-robot-artist-to-be-exhibiting-herself.md",
+      "title": "Ai-Da, the first robot artist to be exhibiting herself",
+      "excerpt": "The robot was named Ai-Da after the 19th century mathematician Ada Lovelace. According to its creators, it is capable of drawing real people using its camera eye and a pencil in hand. She 'looks' in the mirror that is integrated with her camera eyes and with the help of algorithm programs transforms it into coordinates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365453",
+      "originalUrl": "https://www.entrepreneur.com/article/365453",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613421336-Ai-Da-Robot-Lucy-Seal.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365453",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453",
+      "publishedDateTime": "2021-02-15T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-ibms-hybrid-cloud-strategy-is-gaining-steam.md",
       "title": "IBM’s hybrid cloud strategy is gaining steam",
       "excerpt": "IBM is quietly acquiring capabilities and establishing partnerships that may make it the number one provider of hybrid cloud solutions.",
@@ -102,6 +250,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-tesla-and-apple-are-incredibly-important-companies-but-their-progress-on-self-driving-vehicles-is-pathetic.md",
+      "title": "Tesla and Apple are incredibly important companies, but their progress on self-driving vehicles is pathetic",
+      "excerpt": "Every year, the California Department of Motor vehicles releases a \"Disengagement Report\" for companies that are authorized to operate and test self-driving vehicles on the state's roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
+      "originalUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe25c2ca644880018193012?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -984,203 +1184,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-covid-19-has-made-americans-lonelier-than-ever-but-ai-can-help.md",
-      "title": "COVID-19 has made Americans lonelier than ever, but AI can help",
-      "excerpt": "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg",
-          "width": 754,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "publishedDateTime": "2021-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive.md",
-      "title": "Salesforce: Combining AI and automation can give us superpowers and make us more productive",
-      "excerpt": "Salesforce Einstein Automate is just the beginning. John Kucera, SVP of Product Management for Automation at Salesforce, believes the combination of AI and automation into voice-enabled digital assistants will give us \"superpowers\" that help people build relationships and make us more productive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
-      "originalUrl": "https://www.zdnet.com/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/12/4cb48ac5-f691-492f-944c-19f1e080e286/john-kucera-1.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/salesforce-combining-ai-and-automation-can-give-us-superpowers-and-make-us-more-productive/",
-      "publishedDateTime": "2021-02-14T15:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-will-artificial-intelligence-produce-synthetic-sociopaths.md",
-      "title": "Will Artificial Intelligence Produce Synthetic Sociopaths?",
-      "excerpt": "Some day soon, computers may convincingly mimic human empathy. Will this lead to ethical artificial intelligence, or synthetic sociopathy?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/",
-      "originalUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029a751dfccae5aa987e466%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5100%26cropY1%3D281%26cropY2%3D3151",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertzafft/2021/02/14/will-artificial-intelligence-produce-synthetic-sociopaths/amp/",
-      "publishedDateTime": "2021-02-14T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup.md",
-      "title": "Forethought's CEO Deon Nicholas On Growing An Enterprise Software Startup",
-      "excerpt": "Taking on the challenge of creating customer service chatbots that learn and continually improve the quality of responses instead of providing rote, canned remarks is ideal for AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60298820884f59ff7c920b5a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
-      "publishedDateTime": "2021-02-14T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

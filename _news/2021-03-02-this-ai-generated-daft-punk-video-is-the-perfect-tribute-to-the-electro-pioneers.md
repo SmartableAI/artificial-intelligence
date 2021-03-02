@@ -3,10 +3,10 @@ category: news
 title: "This AI-generated Daft Punk video is the perfect tribute to the electro pioneers"
 excerpt: "Computer artist Glenn Marshall paid homage to Daft Punk by using AI to produce a music video for the duo's 2001 track \"Voyager.\""
 publishedDateTime: 2021-03-01T20:33:00Z
-originalUrl: "https://thenextweb.com/neural/2021/03/01/this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers/"
-webUrl: "https://thenextweb.com/neural/2021/03/01/this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers/"
-ampWebUrl: "https://thenextweb.com/neural/2021/03/01/this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/01/this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers/amp/"
+originalUrl: "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/"
+webUrl: "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/"
+ampWebUrl: "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/amp/"
 type: article
 quality: 82
 heat: 82
@@ -29,6 +29,6 @@ images:
     height: 417
     isCached: true
 
-secured: "fXP3ciqhzBgURhy72nM+wSr7s664KgbHD1Tz0oEFPBYixeN5KBA3xOaFiJcqC6FPMtzuN9H7jCOtQbIm2g+LRBJwmjG+8rNV0GIX7WPA+aTmPaY1nfakGO5IlBdqW1IBhD8iDmJEIJ0/WVDqD07CPSRCijz1WJvN3yAh77EA56GQ1nQIkOBij5RnRdSEKvAJbaI/o6G/Jb++VDxixg2ZO/0b+ZQ/W+qPLqMV6f5iOMslh7z0xLBx0/uWny2yaEorz3EyDMpZVxvznPKxw9ddgYbzFA5FrqcBGkL8BPU4CInph/GMD0cjL4NmAL25lN0yWNcVGWDZlLOlAbtmFZ+LrR3dcoRqWkzT8av3lhJSpP3NNvumRbLNBDmEQEJxjOV5sKWY+N5FmeBcpihZtMalWctk9MVpF2QxrWjoD5hK/Zp3VyLg58GklwX03LylDrjbO6m2RNjZIDy2ZwloDzvHSY+Z7+yq5Zu43vQd33+uF9m1pIHnV+rssC6qWTW01F2YtyeWD0DZk3Jd5AoK23Biyw==;6YwX7E3s4CD9SeFPFLd0UQ=="
+secured: "SNPZexHpqyLWG/AR/o2QgOQJ7zirNQZKtVSSGoN9H2qJdoJnLBZ0lHJSFO7y/DBg3IOSNRUV9FvHx/nuCyBHonef1RgX9EQSDua4Mey/WSuEt6B4v2eDNo+spPcUi6cFqdWToQ0/E6Kvr7w1aVEN0nLffC4c+gXKQg18x+Av/2muYbJIigJ1RN6oh9Al6q0FHuT+IfofjLGcRv+lmk8TXYkGwPb5MSLfe6dfJfUyc8Z20caYNPpiB0HhH8wT84KPa7TKXfFfDZ/t8iwlxXvAepgrHghFzy4NFm3FV18x6W03w0VpTgAsl/spEVvosejT+OeQOscmteTUO+OZ6noOHXVKTzlWa8F/km3Mw4zFRfM=;qD21GICrN5uPYjIRGFTb5w=="
 ---
 

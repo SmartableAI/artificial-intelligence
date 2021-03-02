@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Core Scientific Achieves AWS High Performance Computing Competency Status"
-excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that"
-publishedDateTime: 2021-03-01T22:00:00Z
-originalUrl: "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/"
-webUrl: "https://www.hpcwire.com/off-the-wire/core-scientific-achieves-aws-high-performance-computing-competency-status/"
+excerpt: "Core Scientific, a leading infrastructure and software solutions provider for artificial intelligence and blockchain that is led by CEO Kevin Turner, the former COO of Microsoft, announced today that it has achieved Amazon Web Services (AWS) High Performance Computing (HPC) Competency status."
+publishedDateTime: 2021-03-02T05:39:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-7b996c6672a5b5d6e8b934e38f74be48"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-7b996c6672a5b5d6e8b934e38f74be48"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
-    width: 440
-    height: 440
-    isCached: true
-
-secured: "m7R9cYmmxJZ+poerweAF7MAk5JJpgoe/p9IccCm1TGpPPGnjemGbR2m9Eg6eaGeSj4pwJFOXB99hoti/tT3C2cw3STcBF6Ov+0o5Lc0e6acaVbDEUBxSRqPzKvHuVDQCpNZldkcIX2bTmvXDO21TebI/EcIT2mElEJ/jxvPWYVKP6wSzsxrCyx6OHEnXzDq9uQloLOd6Az+bmki+Zc0H0agPKn8in1fg54KPiFZRoc3FDmI0Zxd5fvcp0BeHmXrq4O6H3pl7Zpc/rbH1RCvDqI0GYMkqObxY1e9CIUq1z7OPOowUBeTkJdLFO3Qd5rFEFEeS2rDxAju9pq80MAoHTo7WA1AxjLymKmJcIaQGZ8Y=;e7UpSlSquhFxFSSlDTV5JQ=="
+secured: "buP/U+9mxQyN1MXk9b5MNcSRTv+4/PHE82bu/DBtJigct3R/ryn+i4F4kW7qmfBSlUWyyqkOAbur01FEGoa+bimbax60SeuHByg/OOJwTYML+VvnVAupkdwGQEc79cg/uPxqEKCuTOr3el8aLiSlqEx6klkZcr9wQQW7qOkNo39tYOLIepJHKR8mZFX8DfG7DuXw0HWtp266+wLQkIl5PWWqxMiTK1v+gVyCb7uFk250K0pa3BtzM0lhwK0ZRcWjq3Pg5cQ8pYOLAqZilwE/r5lZ1dr/07W2OPS/qmckgrS62zKDinbuXbCsWhcsz45nSgOJUr7kBC/qrfK4Gv9BaNKHaLNzMeePXBobybnwS9s=;HzZ1qipOdHHd0meqpVG/9g=="
 ---
 

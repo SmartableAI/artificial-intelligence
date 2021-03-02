@@ -9,7 +9,7 @@ ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/1/22308081/panel-on
 cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/1/22308081/panel-on-artificial-intelligence-urges-us-boost-tech-skills-amid-chinas-rise"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -28,22 +28,17 @@ images:
 
 related:
   - title: "AI panel urges US to boost tech skills amid China’s rise"
-    excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing “AI-enabled” weapons –"
-    publishedDateTime: 2021-03-01T20:17:00Z
-    webUrl: "https://www.cbs17.com/news/technology/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
-    ampWebUrl: "https://www.cbs17.com/news/technology/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/technology/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/amp/"
+    excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons – something that Google itself has shied away from on ethical grounds."
+    publishedDateTime: 2021-03-02T06:02:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
+    ampWebUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
     type: article
     provider:
-      name: CBS17 Raleigh
-      domain: cbs17.com
-    quality: 59
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2021/03/db14de4ac1e84d259cf3c783ef5a5b02.jpg?w=1280"
-        width: 1280
-        height: 853
-        isCached: true
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
-secured: "zO7S+pXXYz3RWQqdEQK9r3Lw6341XHg1mAgoFVdf88CwGTkrdvKjJ+2kBGrGjau/C68UcUvGEfqL620JBN82UM2at0tjzO1arRIKBxAi3fpntiG8Fjmn0eVjH27oT+c7zrpOiQImWHy0ftWcmO1o8bTGtPDAKI9SPtnfPXya+V2wJRYh/mxeAelLU0+1DFycmESjT6pmbNhQaBU19e2X5W1gg+ZMeZfnKXaQR4QTpWnxZchNRcD/YztwSASUfD1rr9Fy7czvYvyUtQTwMCzjS3y+PpxLpJZR4LWH9rgpF6E9gckkpEt+NMY5Gzi2zNg2HQEadeQeNWfYfr+rKJvY2fgL/hxae8etHmLp7jxUPQs=;zTbFXQFU7PBcO0cJxeG46Q=="
+secured: "VqHOm9ypmw/J9lL5koTPoa++/f/mL+vBd8BLE/MWlrG5vYa8XhelXggqL1VijjzK7k4JcdWr87hQbrVMlnKXGbORIGbo1oHGFcyqrrhUOMYYOS9egbZGzw+VcCrKk6qiuE99ag2EdLS/vq721r7l+BmRNnXzFxXHrk5Z+sCZpKYFLTPkdKIg2q1X2F/rNv28TpK85mWY/+tjp225GbJTICTH5OubqQxGdCyadhQ57SJRFnBL/8WYkuQsN2QURdDBAWDW97XLTEmRoBAf7oAHWUNEM7CJqQ6tYLSKWasmmWqp81V0YjLsIbqK6QesTKtJJwJCC3cN9UwhbAoelxbR1nxqFrIReImYySFnut+2EvcLUhXWdk537uJ3ErgbV7Es56xqDEcn4AOIKGtRy6ySGlYUlzmuHQPzxChIHdobXQRDqUJ+fA3U7htmkIhPP7CRY7DXdBeWU4AnPCQaF5RDCw0nSnIdq+wWLKHEKwCO2oMXi+E7NnSwM3PJgc3T6tiaPFHJ0hfIgUHAOArMRV7jew==;7lqx7tx5jgvqBYn0L8SEYA=="
 ---
 

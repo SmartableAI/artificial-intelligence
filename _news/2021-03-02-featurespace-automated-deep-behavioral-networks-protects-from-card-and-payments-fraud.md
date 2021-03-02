@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems"
-    excerpt: "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud."
-    publishedDateTime: 2021-02-25T17:01:00Z
-    webUrl: "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/"
-    ampWebUrl: "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/anti-fraud-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Featurespace unveils Automated Deep Behavioral Networks for card, payments industry"
     excerpt: "Featurespace has introduced Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defense to protect consumers from scams, account takeover, card and payments fraud."
     publishedDateTime: 2021-02-26T10:52:00Z

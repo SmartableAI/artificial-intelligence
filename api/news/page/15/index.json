@@ -2,6 +2,91 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-17-vision-computer-solutions-achieves-platinum-partner-status-with-datto.md",
+      "title": "Vision Computer Solutions Achieves Platinum Partner Status With Datto",
+      "excerpt": "Vision Computer Solutions is pleased to announce it has been designated as an exclusive Platinum Partner with Datto, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/n19680693/vision-computer-solutions-achieves-platinum-partner-status-with-datto",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/n19680693/vision-computer-solutions-achieves-platinum-partner-status-with-datto",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19680693",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19680693",
+      "publishedDateTime": "2021-02-16T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-what-cios-need-to-know-about-adding-ai-to-their-processes.md",
+      "title": "What CIOs need to know about adding AI to their processes",
+      "excerpt": "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/1200x675/84554d7fe79b29a1d4a50bd6fb608e03/20210211-alxcel-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "publishedDateTime": "2021-02-16T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-this-robotic-glove-uses-ai-to-help-people-with-hand-weakness-regain-muscle-grip.md",
       "title": "This robotic glove uses AI to help people with hand weakness regain muscle grip",
       "excerpt": "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness.",
@@ -757,6 +842,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner.md",
+      "title": "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner",
+      "excerpt": "SINGAPORE, Feb. 15, 2021 /PRNewswire/ -- BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-301228609.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-301228609.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1438689/image_5012959_7295078.jpg?p=facebook",
+          "width": 2498,
+          "height": 1309,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023.md",
       "title": "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023",
       "excerpt": "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,",
@@ -1039,154 +1167,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-artificial-intelligence-and-the-end-of-work.md",
-      "title": "Artificial Intelligence And The End Of Work",
-      "excerpt": "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-who-should-stop-unethical-ai.md",
-      "title": "Who Should Stop Unethical A.I.?",
-      "excerpt": "“Curious if there have been discussions around having ethics review boards at either conferences or with funding agencies (like IRB) to guide AI research,” one person wrote. (An organization ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
-      "originalUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newyorker.com/photos/600afc0db35e198f98bd5577/master/pass/Hutson-AIEthics.jpg",
-          "width": 2560,
-          "height": 3200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
-      "cdnAmpWebUrl": "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
-      "publishedDateTime": "2021-02-15T14:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Yorker",
-        "domain": "newyorker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-ai-da-the-first-robot-artist-to-be-exhibiting-herself.md",
-      "title": "Ai-Da, the first robot artist to be exhibiting herself",
-      "excerpt": "The robot was named Ai-Da after the 19th century mathematician Ada Lovelace. According to its creators, it is capable of drawing real people using its camera eye and a pencil in hand. She 'looks' in the mirror that is integrated with her camera eyes and with the help of algorithm programs transforms it into coordinates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/365453",
-      "originalUrl": "https://www.entrepreneur.com/article/365453",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613421336-Ai-Da-Robot-Lucy-Seal.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365453",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365453",
-      "publishedDateTime": "2021-02-15T12:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

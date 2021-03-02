@@ -29,7 +29,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -91,6 +91,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Size, Share, Growth, Trends, Analysis and Forecast - 2027"
+    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
+    publishedDateTime: 2021-03-02T08:13:00Z
+    webUrl: "https://www.openpr.com/news/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "U6Poe8qx2Qwdm/kiC97j5rM93x3a2kaadXEztZsY1edqO23iF1+PJf7482g7jMshcGsyrGS/cCkH3Tmb7H7ofTKsLUHj2L/cK0ZJOmkmkmmhpHNVPWzyhQAxtwXlqi/Jqz7Jjymwnmej8E5ylgu7H3f6b/Nys2hXFJIxgHHQbY39TnewWNka8ByRl9z1nkZbSKQzlV1Eb8OAItv9tVYjU4lMIs9FjKxogW8/ta6Y5h+CG+TPetj9WMTgpyedN2QVIO/krwMfAqF0q+9KSw+ElzzkfWsSO4s2TKAR74i9JYkt9Gh3x7IwpAP1xQdYrpuyvjG/QzltjAxGH9g69JIAJbaDsvXOttwJ/cHVy3T0YnA=;O9fleWhCvm7vQ8hf8iG7vg=="
 ---

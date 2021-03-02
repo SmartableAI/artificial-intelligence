@@ -41,20 +41,6 @@ related:
         width: 1069
         height: 693
         isCached: true
-  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
-    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
-    publishedDateTime: 2021-02-25T15:19:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 54
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "New Azure HPC and AI Collaboration Center Program Announced"
     excerpt: "Microsoft Azure is proud to have recently launched the Azure HPC & AI Collaboration Centers program, which funds collaborations with"
     publishedDateTime: 2021-02-25T18:10:00Z

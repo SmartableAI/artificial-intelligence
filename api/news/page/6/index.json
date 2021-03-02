@@ -2,6 +2,94 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-24-next-generation-search-engines-market-is-booming-worldwide-google-microsoft-facebook.md",
+      "title": "Next Generation Search Engines Market is Booming Worldwide | Google, Microsoft, Facebook",
+      "excerpt": "Latest released the research study on Global Next Generation Search Engines Market offers a detailed overview of the factors influencing the global business scope Next Generation Search Engines Market research report shows the latest market insights current situation analysis with",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2247641/next-generation-search-engines-market-is-booming-worldwide",
+      "originalUrl": "https://www.openpr.com/news/2247641/next-generation-search-engines-market-is-booming-worldwide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U224674541_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-microsoft-launches-new-azure-arc-machine-learning-and-container-services.md",
+      "title": "Microsoft launches new Azure Arc machine learning and container services",
+      "excerpt": "Microsoft unveiled two new Azure Arc services aimed at data scientists and enterprises with containerized workloads.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/microsoft-launches-new-azure-arc-machine-learning-and-container-services-9845754",
+      "publishedDateTime": "2021-02-23T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-bank-machine-learning-models-hit-hard-by-covid.md",
       "title": "Bank machine learning models hit hard by Covid",
       "excerpt": "Over a third of UK banks have reported a negative impact on the performance of mcahine learning models as a result of the coronavirus pandemic.",
@@ -1122,92 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom.md",
-      "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report – ResearchAndMarkets.com",
-      "excerpt": "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarkets-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-from-the-data-and-ai-expert-labs-its-not-whether-you-adopt-ai-its-when.md",
-      "title": "From the Data and AI Expert Labs: It’s not whether you adopt AI. It’s when.",
-      "excerpt": "You wouldn’t be reading this if you didn’t have the sense that AI is the future. But the breadth of solutions can be so paralyzing that it stops business leaders cold. Firms like PricewaterhouseCoopers and McKinsey predict that the global AI economy will grow to $13-15 trillion by 2030. But today only",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/02/data-and-ai-expert-labs-adopt-ai/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/02/data-and-ai-expert-labs-adopt-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/DataAI_Expert_Labs_Toby_Cappello_Blog_Leadspace_Small_1-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T06:00:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

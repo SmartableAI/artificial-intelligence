@@ -1,25 +1,29 @@
 ---
 category: news
 title: "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection"
-excerpt: "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS. OAKLAND,"
-publishedDateTime: 2021-03-01T22:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01"
-webUrl: "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01"
-ampWebUrl: "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp"
+excerpt: "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS."
+publishedDateTime: 2021-03-02T07:51:00Z
+originalUrl: "https://cn.reuters.com/article/wavecomputing-mips-idCNL2N2KZ33N"
+webUrl: "https://cn.reuters.com/article/wavecomputing-mips-idCNL2N2KZ33N"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL2N2KZ33N"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2KZ33N"
 type: article
 quality: 83
 heat: 83
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "cBDXScRqahrL5LA8njfG0UYo3Lh5qoI7Pca/AiG2ip349mbTnR0bSwwf6EfXxpY7NQD/gwRo+DnLneslttEHQLPdv9Cha8UPmE73tnEJTHp1h3+zxHkX0mN/vc89ZOb6P3sPLYsBiyujTP3rkQ+/1wITeLX9yC6+JgWJ0nz3VI0Xz7fb8RrkxveN6zJiqj65zm95/U0WImgFcZVVAxTFLiL72hmNv7deKIAnrjTHTLuDxt9xFSnudFN3NFTyrjXXkeq1wR1Xy8rLw0VRFfvwNz+cS1iFjED8d7jm6SSrQ4j/FOxFlS/WiZ3j4gE7cmmDHKbUdXTPXSiJDfCd4VpnpEl1QYWrDyeF+Qyttwja+xc=;zD21Oh6evHoS/d0u1lVtMw=="
+secured: "MoO39573BumvkEvsmZ7+8FGk8q66mUeBbvxkha+oWOcZRQtiee+8ZuIXnpIP6Ve8zepuPkE7s8cmwmAPJZmpIV8p5VV4G45mUWQkNuoC8blAKkBmVnmSdgYq90Vx6/kvhJf5aHyIXuqyCljQRUFZFvrz9L7G1/dxTwb8C/6Blqg40j9I5MvpkGdhX0RVczEJVz+dgQC1h9wX+XX+CaETzwMRkUY6XokHNawx89OpEPzQHmXoiFUIxllgH+ghu/E75KBGHabH3KPLrYLKDMTyaMNmXol8zuAc93phPugTVnuLQnmNtw8q2RInXsKiDJfI3DD3axhwR7wQN0PNg5CWknjAyCRdusgKGP5MAbq3w2Y=;X65FApt0soEsYIQZ+yy3PQ=="
 ---
 

@@ -4,10 +4,10 @@
     {
       "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
       "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
-      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS. OAKLAND,",
+      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
+      "webUrl": "https://cn.reuters.com/article/wavecomputing-mips-idCNL2N2KZ33N",
+      "originalUrl": "https://cn.reuters.com/article/wavecomputing-mips-idCNL2N2KZ33N",
       "featuredContent": null,
       "highlight": null,
       "heat": 83,
@@ -15,14 +15,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
-      "publishedDateTime": "2021-03-01T14:58:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL2N2KZ33N",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL2N2KZ33N",
+      "publishedDateTime": "2021-03-01T23:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -97,7 +106,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {

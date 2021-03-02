@@ -1,29 +1,26 @@
 ---
 category: news
 title: "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner"
-excerpt: "BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped APAC startups develop their own explainable AI (XAI) solutions."
-publishedDateTime: 2021-02-16T04:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-singapore-asia-artificial-intelligence-computing-and-information-technology-7112b4e59660d3e73e45e04c07c79a69"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-singapore-asia-artificial-intelligence-computing-and-information-technology-7112b4e59660d3e73e45e04c07c79a69"
+excerpt: "SINGAPORE, Feb. 15, 2021 /PRNewswire/ -- BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped ..."
+publishedDateTime: 2021-02-16T08:52:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-301228609.html"
+webUrl: "https://www.prnewswire.com/news-releases/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-301228609.html"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1438689/image_5012959_7295078.jpg?p=facebook"
+    width: 2498
+    height: 1309
     isCached: true
 
-secured: "2YQpMoleCcdxw9g/QOT3tjqvojFHEewNaKZTwg+WqNkIs66GL1T2QdeptbKlQKn2/KMJvDubtHSknyxxXCefrAqf0ZosXuMph9rohDpAhub6bOsuykbRlAX2gqNgW64WWVxcUDwfOzaF9VCLqYwg7orwl66wVSkspGczaSCvHSD1/kOUObdcTpENuhTxcCYtFfOHhX6TkBFYkTQFSkCsmxL/Zu1LUSYZRDY5DTpNNh0SRgrPX9oJdfSFF7CxyxLkmPNDK6kTEJ7jhSmxsqLa504uW1XLEcL0/mI+c9QQN4+gHH76ESKpQvuujEKhnH3cFpdotOwKzwalxJywF0fSTi9sqUz8u7ICQPueHN7opvY=;p3lPfbIBM+bbfxYxr6Guqw=="
+secured: "V2AlxqNbSuos7sTwTTbTSPVr9Zk4+cdjNAzuhB0WlYZgdDW3AAc6//ab7S70dSdrZkwDB0yig0jvoYFIuV8U7bdwhgNgDBsv3+Bm/efau0pBJk63Am9dzzI1lTDig5SO4SIvnz7bWWTNYYmgLxC+HJOCYg1Y4L59/tpww0qzha7l8UgNAj75cDu+j0WWdVJ2btFIehHwxPbze+/VnPoAdNJQXbgGgC7eaIOpsFysmJNaLBfsQiydkWB++hsk3pRwWjV86tFbUdENz9H4nH+pff8DL/xJDVvU/U4dvi5I6edDPnXXr7LfupsexjjoucdM9O/wL2eZHDaURZz6GWy0KT3+d/YornOnTzHbbHJgfCk=;GkvKBp4e/hxFvdvMQUTULQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.bernama.com/en/business/news.php?id=1935525"
 webUrl: "https://www.bernama.com/en/business/news.php?id=1935525"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems"
-    excerpt: "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud."
-    publishedDateTime: 2021-02-25T17:01:00Z
-    webUrl: "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/"
-    ampWebUrl: "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/anti-fraud-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Featurespace Automated Deep Behavioral Networks protects from card and payments fraud"
     excerpt: "Featurespace introduces Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defense to protect consumers from scams, account takeover, card and payments fraud,"
     publishedDateTime: 2021-03-01T23:45:00Z

@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Artificial ‘brain’ reveals why we can’t always believe our eyes"
-    excerpt: "A computer network closely modelled on part of the human brain is enabling new insights into the way our brains process moving images - and explains"
-    publishedDateTime: 2021-02-25T15:34:00Z
-    webUrl: "https://www.miragenews.com/artificial-brain-reveals-why-we-cant-always-519799/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/news-and-developments.jpg"
-        width: 640
-        height: 423
-        isCached: true
-  - title: "Artificial ‘brain’ reveals why we can’t always believe our eyes"
     excerpt: "By using decades’ worth of data from human motion perception studies, researchers have trained an artificial neural network to estimate the speed and direction of image sequences. The new system, called MotionNet,"
     publishedDateTime: 2021-02-26T09:32:00Z
     webUrl: "https://cambridgenetwork.co.uk/news/artificial-‘brain’-reveals-why-we-can’t-always-believe-our-eyes"

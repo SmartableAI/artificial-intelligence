@@ -253,6 +253,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-tesla-and-apple-are-incredibly-important-companies-but-their-progress-on-self-driving-vehicles-is-pathetic.md",
+      "title": "Tesla and Apple are incredibly important companies, but their progress on self-driving vehicles is pathetic",
+      "excerpt": "Every year, the California Department of Motor vehicles releases a \"Disengagement Report\" for companies that are authorized to operate and test self-driving vehicles on the state's roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
+      "originalUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe25c2ca644880018193012?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
       "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
       "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
@@ -1411,58 +1463,6 @@
         "name": "Engineering News-Record",
         "domain": "enr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-toyota-and-aurora-craft-deal-to-develop-self-driving-taxis.md",
-      "title": "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis",
-      "excerpt": "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
-      "originalUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/02/Aurora-Sienna-1200px.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
-      "publishedDateTime": "2021-02-09T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

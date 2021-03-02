@@ -1,32 +1,22 @@
 ---
 category: news
 title: "Former SAP Co-CEO Jim Snabe Joins C3 AI Board of Directors"
-excerpt: "Luminary enterprise software veteran brings extensive experience as trusted advisor to the world’s leading companies a"
-publishedDateTime: 2021-03-02T02:20:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2021-03-01/former-sap-co-ceo-jim-snabe-joins-c3-ai-board-of-directors"
-webUrl: "https://www.bloomberg.com/press-releases/2021-03-01/former-sap-co-ceo-jim-snabe-joins-c3-ai-board-of-directors"
+excerpt: "C3 AI (NYSE: AI), a leading enterprise AI software provider, today announced that software industry veteran Jim H. Snabe has joined the C3 AI Board of Directors. Mr. Snabe’s renowned career spans more than three decades in the information technology industry,"
+publishedDateTime: 2021-03-02T05:29:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-software-industry-135a4bf410ab41b1817182e6b61aae61"
+webUrl: "https://apnews.com/press-release/business-wire/science-technology-business-corporate-news-software-industry-135a4bf410ab41b1817182e6b61aae61"
 type: article
-quality: 67
-heat: 67
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "1gQG+xhMg2AmoWbR9+ZquJKh9BxND79xX0louUTcmWWjGCmpvoeBHs6klqFeJmZfuPQbgZlmjyC9BVH0ASUHdCIL5GKBhlggy2A7UnyxHy0+fXwBNwp7q4zwx3qUV6epaz7Ug3EXURh/hxNKWDgDU1xEghmq/G0kJL13aCtjr/DRiVZ+tLRP+qKFl/tJFswkQvdE9XDsFwggdyPJxqAXdkw2Lk3MQuUBXtswMMQZq2FZf8JDTa5Kwtx+fgx0d3yyE/LUlLFNaXFMbx6M5IP2Mh2oNFTbrFX232reJwHx7CfeuWut1pJhAWt/rqgwdHXd0l13YBLG0Vn27CNwLseVYy932+aTiQ0Mi8FIcnWW4lY=;I4u2AtImLCuKptpyl3poIw=="
+secured: "Cizl88cpCq5/GE2m5kcWvQNkVIgu/u66SPzStfabM5kLeywqXI8ov5rzdveRsIgvFyUL8YR3xMfyd3RE/oxZIQMAKK+pmMSLSpkzVxxOYQ/Wnl38Bs8c48S6XKnEWSomFjSzlJg0zcFG+pEM6jtuiUM4dUOhS0eSPn5XVsRDQBE1ADYEbThlGUVb1Ct+FkLVH6JpBy1edZzmcK4NVa2kpS5jxkSrPmX+XQ53j7MBoRJeAv/+Gm+88HdlHSUJSSgCkP+I0Ik/ogva/RUgGiaV8DhwS/Q3vMOuPi7LBObA0M0zHq41WgEdQfdl8Afymt9Uyv3QKmeE2XE6iHJas9HMQluyev3h5JjW4xAlG8SNjBA=;gpmGg40JZ8yIlsRxMR+EIg=="
 ---
 

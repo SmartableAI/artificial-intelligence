@@ -41,20 +41,6 @@ related:
         width: 1069
         height: 693
         isCached: true
-  - title: "Profisee Includes Microsoft Azure Native Integration to its Platform"
-    excerpt: "Profisee, a provider of master data management (MDM) solutions, is offering its platform-as-service (PaaS) multi-domain MDM solution with a new native integration with Microsoft Azure data services."
-    publishedDateTime: 2021-02-25T15:19:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Profisee-Includes-Microsoft-Azure-Native-Integration-to-its-Platform-145427.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 54
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Carnegie Mellon teams up with Amazon, Microsoft to build clinical forecasting AI tool"
     excerpt: "Carnegie Mellon University in Pittsburgh, Pa., developed a new machine learning tool to be used in clinical forecasting, according to a study supported by Amazon Web Services and Microsoft Azure. In a Feb."
     publishedDateTime: 2021-02-26T20:03:00Z

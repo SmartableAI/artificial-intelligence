@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-10-toyota-and-aurora-craft-deal-to-develop-self-driving-taxis.md",
+      "title": "Toyota And Aurora Craft Deal To Develop Self-Driving Taxis",
+      "excerpt": "A deal between Toyota and a fast-growing self-driving technology company shows how the autonomous vehicle market is developing. Car buyers look to be the last option for this kind of self-driving.  Toyota and its auto parts subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
+      "originalUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/wheels/wp-content/uploads/2021/02/Aurora-Sienna-1200px.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/wheels/news/toyota-aurora-deal-develop-self-driving-taxis/?amp",
+      "publishedDateTime": "2021-02-09T15:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-apple-more-than-doubled-autonomous-car-road-tests-in-2020.md",
       "title": "Apple More Than Doubled Autonomous-Car Road Tests in 2020",
       "excerpt": "Apple Inc. more than doubled road testing of its self-driving cars in 2020 as its autonomous technology improved, though it still significantly lags behind rivals as it looks eventually to launch ...",
@@ -1366,58 +1418,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-daimler-to-spin-off-trucks-in-shift-to-electric-self-driving-vehicles.md",
-      "title": "Daimler to spin off trucks in shift to electric, self-driving vehicles",
-      "excerpt": "German carmaker Daimler plans to spin-off Daimler Truck, the world's largest truck and bus maker, to allow it to focus on zero-emission vehicles and self-driving technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-daimler-trucks-divestiture-idCAKBN2A329T",
-      "originalUrl": "https://www.reuters.com/article/us-daimler-trucks-divestiture-idCAKBN2A329T",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210203&t=2&i=1550192910&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH121KT",
-          "width": 824,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2A329T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2A329T",
-      "publishedDateTime": "2021-02-03T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

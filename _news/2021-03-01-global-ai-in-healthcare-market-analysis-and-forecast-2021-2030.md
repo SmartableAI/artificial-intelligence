@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
+    excerpt: "The Neural Network Software Market share is segmented on the lines of its artificial component, type, vertical and"
+    publishedDateTime: 2021-03-02T08:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous Vehicles Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
     excerpt: "Mar 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Autonomous vehicle also known"
     publishedDateTime: 2021-03-01T15:35:00Z
@@ -115,6 +129,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 28
+  - title: "Artificial Intelligence for Automotive Applications Market: 2021 Analysis Report, Share, Trends, and Overview 2021-2027"
+    excerpt: "Artificial intelligence AI in the automotive industry is expected to cause serious disruption by streamlining production capacity and boosting business growth The design and deployment of new technologies including autonomous mobility vehicle simulation rapid prototyping and AI enabled car factories"
+    publishedDateTime: 2021-03-02T07:58:00Z
+    webUrl: "https://www.openpr.com/news/2250584/artificial-intelligence-for-automotive-applications-market"
+    ampWebUrl: "https://www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "McLdZkBsS2UeSDVoh5SwLE6goemFNpRRW/d9wkPy5IJ2UZqSj5CEu26OPbOYbCUpnvwbb3mSFNvjaoQYK4xVGd4piXQcFjgwilEKjNodJh0L0kmVjicAwMoyAh17cNsASk1mxQV4p/xabHY5li31pr6bEIr+cg8rHJLkY+EQ7sPYoY047wsG/+GeJkwf7Z5QPNMY3iBSdr1w613FUiDyF1p0rZKz9Ma49880dKq+GgOWVbkZB4DT3fZu3nechXvF/E+HSwjmqQVC4P2zw2aua2QDKrgGPOI5r2TTqaVmZDmeaI88Tqq7pAi6dX226CBaMSAGsW53m17dSMtEBBkckFkd3woeJd7FSt3I147Vw+w=;zqxZN5MydmVkhVFE53z2cg=="
 ---

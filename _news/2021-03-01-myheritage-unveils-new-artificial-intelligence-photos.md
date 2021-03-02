@@ -40,22 +40,6 @@ related:
         width: 796
         height: 417
         isCached: true
-  - title: "MyHeritage unveils AI tool that turns photos of dead relatives into videos"
-    excerpt: "The technology allows MyHeritage’s 60m users to map their photographs over the facial expressions of real people, in this case MyHeritage employees, to create realistic videos in which lips, eyes and faces move."
-    publishedDateTime: 2021-02-25T15:04:00Z
-    webUrl: "https://www.ft.com/content/841fb089-1e7f-45fd-a3d4-bc36f13ec1a5"
-    ampWebUrl: "https://amp.ft.com/content/841fb089-1e7f-45fd-a3d4-bc36f13ec1a5"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/841fb089-1e7f-45fd-a3d4-bc36f13ec1a5"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 55
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F11d5f85b-3971-4575-b37a-291600c37509.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
   - title: "'Spooky' AI tool brings dead relatives' photos to life"
     excerpt: "Genealogy company MyHeritage launched its \"Deep Nostalgia\" feature earlier this week, allowing users to turn stills into short videos showing the person in the photograph smiling, winking and nodding."
     publishedDateTime: 2021-02-27T07:26:00Z

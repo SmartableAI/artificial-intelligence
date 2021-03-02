@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brookings.edu/podcast-episode/proposals-to-meet-global-c
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/podcast-episode/proposals-to-meet-global-challenges-in-artificial-intelligence-and-technology-regulation/amp/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,33 @@ images:
     isCached: true
 
 related:
-  - title: "Juniper ties 128's SD-WAN technology into Mist AI"
-    excerpt: "Juniper says that by now bringing telemetry data from Session Smart Routers into the Mist AI engine, customers can better manage service levels across the WAN, and proactively detect anomalies to improve user experience."
-    publishedDateTime: 2021-02-26T22:47:00Z
-    webUrl: "https://www.lightreading.com/sd-wan/juniper-ties-128s-sd-wan-technology-into-mist-ai/d/d-id/767724"
+  - title: "Trust and Tech: AI Education in The Military"
+    excerpt: "The average life expectancy of a non-instrument trained pilot in instrument conditions is 178 seconds — or so says a 1954 study that pilots have"
+    publishedDateTime: 2021-03-02T08:47:00Z
+    webUrl: "https://warontherocks.com/2021/03/trust-and-tech-ai-education-in-the-military/"
     type: article
     provider:
-      name: Light Reading
-      domain: lightreading.com
+      name: War on the Rocks
+      domain: warontherocks.com
+    quality: 54
+    images:
+      - url: "https://warontherocks.com/wp-content/uploads/2021/03/chapa.jpg"
+        width: 1330
+        height: 800
+        isCached: true
+  - title: "A Global Pandemic and the Evolution of Artificial Intelligence"
+    excerpt: "While the global pandemic may have hindered many industries, it accelerated the development and application of artificial intelligence."
+    publishedDateTime: 2021-02-25T21:51:00Z
+    webUrl: "https://asiasociety.org/video/global-pandemic-and-evolution-artificial-intelligence"
+    type: article
+    provider:
+      name: Asia Society
+      domain: asiasociety.org
     quality: 37
     images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
+      - url: "https://asiasociety.org/sites/default/files/styles/1200w/public/2021-02/210225-AGlobalPandemicandtheEvolutionofAI_THUMB.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ipnPYvZkLsDLTc1RuESzJc84chkzt97UJC7r9cc7ebl0q/xDLVGEYROTPf1yiPBkp4cZr7wu0YnFsF4j2lruI7Iez//fv0VTThuOW405VhJgbJOOH+/nArHiVOiZJMNFT0b9V+VIj61nZlWsOYlOARHwlXlms7mbKMnV+PBIgYQqMVjtCuvuSh5V36w+zjqysLyWUYHTpp33A3xgwLwLoRGIp+Mb6Iwj+uY3Ksuiet7XIFHBDk0qI1u42rUD5RLVL3XLtuRrbmLw/20amJ87/gmoN/Kjmkvksf0tomXmW8B9lcgVKxj8HydgJ9u9PFr44XZEyjz5V/mzgL5lwsfU+y+nAxmQaOQ4BQRxeFBzXoc=;q22DcAsK2cgwpuFT3kJMmw=="

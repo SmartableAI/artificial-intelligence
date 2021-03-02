@@ -107,6 +107,22 @@ related:
         width: 1600
         height: 901
         isCached: true
+  - title: "Facebook smart glasses could have facial recognition — here’s why that’s a terrible idea"
+    excerpt: "We’ve already heard news that Facebook is developing smart glasses, even if the earliest models don’t have any sort of AR or mixed reality features. But apparently, they may come with facial recognition cameras."
+    publishedDateTime: 2021-03-02T08:04:00Z
+    webUrl: "https://www.tomsguide.com/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
+    ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Fo9ovefx8AwWmfGZ2N3M5B-480-80.jpeg"
+        width: 480
+        height: 272
+        isCached: true
   - title: "Judge approves $650 million settlement in lawsuit over Facebook’s photo face-tagging"
     excerpt: "A federal judge on Friday approved a $650 million settlement of a privacy lawsuit against Facebook for allegedly using photo face-tagging and other biometric data without the permission of its"
     publishedDateTime: 2021-02-27T04:29:00Z
