@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "meet_cleo"
   url: "https://twitter.com/meet_cleo"
-  followers: 16095
+  followers: 16105
 
 size: 11-50 employees
 yearFounded: 2016
@@ -47,6 +47,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "HOJAPCTILaZUOLdmsMhU7mhWSPxIV20DXWNOH6SxHQDNL5Hw54Rq9VSxQKRsUV1pnKb8wJisBuDsAGD/GLL0WGAKpJ9LsWvO72T8SInn1d3pnqni1kUg7gRNk7Cg/+M2lAwzG9N0GkxUHR5CmGN6B2/s0vOdAinogbhZttTVaMkONUBiF2Ieqhjhsxf7w1EYZ87i7/D0m3f6nYCIqxwh4iRvYOQmiogYu64mtDskJPMPtAJNStlwF1whJ3JhQ40y8/1lGJRsFm0oMRRUoh6A8L75xgKh18XOMh8DHB1VmddahDzwPPP5wypuHk9G3ZD+YfHatW//CtlODw/1ENcpT3hR0xj0pRVnOMGw7tFxbs/llH/1wX17l73yUt29N3L7Ps2IFX4yQNLB8/ir6St7LNtykAEjIg5KHffXuZv7um0=;pCkRmTqUQe5cKfUukjdcfA=="
+secured: "k5YVdunDL/IiY2aYo/LPmbNDdfkVXRja2oBDGZkur8x3zc+ilEL5cH+Q0o2CD7sC6Qk8TqT+cRUXf1+ZoZhWRvOo2PE2gc1iMGIDZJuJvIF/mp4AJTZQNrb9fc9vT0Q8zjEHEJ8mZVQjH89tXCFg02o77iwfjR0fwLFgK/aSKcJYeKt+RVlzQTzChufKOpve4Fr7txHAeMKNiOgS/uOpe8p6VyZrwS+amQbXfRoLDYwu9qgn2TevEUxJWcDBLalWir4yeULAh/YnAD8bnzKc8Use+Y6MGiQ1xK1Riu1X7SmhdVHSr9/3tXXOMbjFvnY3/FgstqixfRI24bsMx/8RvD+UOMMeZiRxDDHIj6dyBZ9zYvh/TavA9hZpZ3cnC6PTVwaqoeSOobFPed5FGuqq/mi2Li3tSNKzfKpo/kKj9oQ=;vtGRNO28vaQ3SOL+R1mopg=="
 ---
 

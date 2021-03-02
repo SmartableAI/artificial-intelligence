@@ -2,7 +2,7 @@
 name: "Deep 6 AI"
 overview: "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://deep6.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "deep6ai"
   url: "https://twitter.com/deep6ai"
-  followers: 1315
+  followers: 1314
 
 size: 11-50 employees
 yearFounded: 2015
@@ -45,6 +45,6 @@ images:
     height: 425
     title: "banner"
 
-secured: "HhK2GTjKB6yH53U3eDonbu6SHzFnxlvV9Lg72lqZ1OyDCRrfawU938JmKiP7AOmWsWKbCmDVK9IkAe2WX7WcQVa0+coD7wCX+JG00UuHg2ej5MX4foy5fo8TlkL0kprCcWVx0tP6oGex9qal5ZDz9huhsdaLOHWSeaCaAaKcTgujUluNNKVznnjxPC2H3A3KIrhu32yRZWfCFdPg4Uk7w0TXK+rP/OQGfj/S0ErjALkHiIS9Md+NyWqEuqZ/IGcQaY67eB4CyQuATYjUHVQROHK6Yx18zXR1Qp+7jHk/QvsHgvQ/BWE762FrUxyLhJtEik4dAP9sW+33trNCB+GkKdNTaEIZG8mm4S9rJ3L8zfaXiuBnlMlCm27YKbTS0ZhvrIZSf5ntjSt8hhTBLzm67ZOZLvz3Yz4TLm0BH3pAS5Y=;F+G+ufglBHgyoSjtIU+6QA=="
+secured: "5EWWsUYkIR34otO3r+99SaMVufxiO0IPEGniUOp1M3mASZ0xS2Fk4QF/gTkDSwOgjiRCwSPohqtfv/5KKl+1OghSsWsYH5vU+dhShRR3N0PdrJ40HqXGOFKTzzgfh1wRiDw5puozbV+ED7YRhU0QpMccIO0KM3IkYQdBXaXo4aO2NG8y9j2HK95fDhWnKsnAj4OIdTi1cjclFKeCaJSp0gXkQKJLoTt5HNGKxVL1vX3qiZNJwNSEmQqPlCxni6qKJ+ml4ygLUXqrZJLIxuFK5ZMbProjXGU+rDC1sP20LA80D6MXq3QKtZgd/Alv7RhrKoiF2r3ZkYxXmrP5EyanX0eqq8wNsCCulMbl9C73FoJsFBkKgAsODzLROSVr2f04tJdRt6Mvpn6QJmEaRAeK+g5l9OE6c45W/jGfanQfWAk=;gguecdDXyiAoiTYR8RyNpg=="
 ---
 
