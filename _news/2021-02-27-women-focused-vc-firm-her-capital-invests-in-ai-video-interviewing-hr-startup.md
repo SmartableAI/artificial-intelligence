@@ -3,8 +3,8 @@ category: news
 title: "Women-focused VC firm Her Capital invests in AI video interviewing HR startup"
 excerpt: "With the new funds, Neufast plans to expand its product suite as well as expand into the Greater China and Southeast Asia markets."
 publishedDateTime: 2021-02-26T18:16:00Z
-originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?comments=true"
-webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?comments=true"
+originalUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-675453"
+webUrl: "https://www.techinasia.com/womenfocused-vc-firm-her-capital-invests-ai-video-interviewing-hr-startup?ref=recommender-675453"
 type: article
 quality: 44
 heat: 44
@@ -37,6 +37,6 @@ related:
         height: 600
         isCached: true
 
-secured: "qxTr11XEODc0ifR8yvfO7W9iakifei42Fy9B5zJYVuUV4EMbqvi59EzOBGwo1JMRaAuUX+HI5Z8BK7gFgfb8ruofEuzNkFWxpqVxv7T/BB8K9beKNpNs4Wv2j+LtXIkDCBx4uz/vp2PPGlksKKqgZ0XFER4+O6g0YbTfeXXHSV33k3FX1qXKeMmp2F8NjU79D4GN8TPquEnoW9U+D8Ov+KLREInMzSsBySkAi9/upnrEBjb10WJ64gIjEV4XoPCqSZnz9rwWUTpUgTcanMsAuXjwRfZCNvpMxwen489qn2dz4Ri28LfTPoPs3ThoRdBR6WxuzpHMzcZc0wmsc0Hjoaii3ulywHEo2CVV6GhOvNPvpTGO7emuvEcTZ0TlYUPLORwM+dHm7jL9KY0tVJUAkvVDU6H5gtA6ihixbuthfeKwYWTKDUzegR3pCtPaPDnwSXPjy6IVh+kAzWtRI3dedDlC3bVPpP6o4Fv1aHmX1hdYOhcMp4znDZLMTEpC5AMO5HVA5AQuSQKoR07VSeVHZA==;QrAx8XESBs9OLsgtrWoedA=="
+secured: "YjbhwuoYFCcykTeCRD8S45n8PlYCPb0sKbNLYdNNsay5mXWX49ZNM4cxV6GIcs9VlwOTJzEv6GjqZgA9LQ/VENGkwQkJ34fQE9LpHXMb/BhyeqsF67umiCo/KFD8SpN4YxzQ27VzSZMXIAn19HG7+201HgCTMcZfRuPCy1v2biuBOToB9tt6jsq5W8jgKz+Adjgq8mHH8GOStLU/t6shtEpN/GSM1wc+4cli6mxlvgGt0z9UgLJvH+WgeMio5QCKG0A2QDCvj7coV5NWNZL3C8FhQ8rW+vZxVsG7+KJWD5lhO9ET/7kX/nqSqVSKeuOsxSn6XQBxKaA7EJd24f/d8xXIRnJwU4bHpDu8nTc+LGtugHpl9brpl9kQdYqWkOCWGCOQZ4YQ6hpTiTsIszcgViVAWZylzAEDvyPG6Jgw4/15M0qecLkM9vC9aGd4pNReKiYXfBRkjHwxUw3hlIHlrxhKKCi6Te/WnzxMwq6XzJe+1Ibi1Kbs78sEZSYqmF/a1gFCaunKuQpQigbj01Qvqw==;v7p4vUrZQ6VagAKt8I7gZg=="
 ---
 

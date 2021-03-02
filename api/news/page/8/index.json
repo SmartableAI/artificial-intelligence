@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-22-disrupting-tech-hiring-how-ai-connects-companies-to-talent.md",
+      "title": "Disrupting tech hiring: How AI connects companies to talent",
+      "excerpt": "AI and big data technology are spearheading the evolution in recruitment technology -- taking hiring far beyond LinkedIn.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
+      "originalUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/hiring.GettyImages-508480019.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
+      "publishedDateTime": "2021-02-22T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-democratizing-science-education-starts-with-expanded-accessibility.md",
       "title": "Democratizing Science Education Starts With Expanded Accessibility",
       "excerpt": "Higher education institutions had to pivot quickly last March when Covid-19 forced the nation into lockdown. Even eleven months into the pandemic, universities are still trying to figure out how to attract, retain and engage students. A particular ...",
@@ -1139,58 +1191,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-ai-for-deplorable-writers-how-artificial-intelligence-will-revolutionize-writing.md",
-      "title": "AI for Deplorable Writers: How Artificial Intelligence Will Revolutionize Writing",
-      "excerpt": "When you think of artificial intelligence (AI) and automation, what comes to mind? Maybe you think of self-driving cars or robots performing mundane tasks. But not writing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEYft5BEVm1vQ/article-cover_image-shrink_600_2000/0/1613909700539?e=1620259200&v=beta&t=Mdm6I9mpKgap_kIWJIp5jVM7TbOVAazHNTtMbhv_mkY",
-          "width": 770,
-          "height": 437,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

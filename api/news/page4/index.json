@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
+      "title": "Otter.ai raises $50 million for AI transcription",
+      "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 763,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/",
+      "publishedDateTime": "2021-02-25T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-artificial-intelligence-leveling-the-business-playing-field.md",
       "title": "Artificial Intelligence: Leveling The Business Playing Field",
       "excerpt": "Covid-19 has catalyzed the accelerated adoption of AI-based business analytics, workflow and process automation.",
@@ -1197,58 +1249,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-band-of-ai-startups-launch-rebel-alliance-for-interoperability.md",
-      "title": "Band of AI startups launch ‘rebel alliance’ for interoperability",
-      "excerpt": "The AI Infrastructure Alliance wants to improve interoperability between tools and fraemworks made by small to medium-size AI startups.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
-      "publishedDateTime": "2021-02-24T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

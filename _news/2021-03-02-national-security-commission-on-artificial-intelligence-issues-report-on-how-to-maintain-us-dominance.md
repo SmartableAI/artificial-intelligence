@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/01/national-security-commission-on-arti
 ampWebUrl: "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/"
 type: article
-quality: 105
-heat: 105
+quality: 107
+heat: 107
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Security
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/NSCAI-final-meeting.png?w=1200&strip=all"
@@ -31,6 +32,6 @@ images:
     height: 600
     isCached: true
 
-secured: "+tNauTCejIRC5ywcAJFkZJHBv62xKAzQOFSOpwe23HlNyaQe8+BBRvYTrn56Itvmkepi+J6wa7HouBdaUSCVz27rJYo/hj5QHN0E0hsZIBqE59VAxGeKyQNUP2/kgQhPEQnFjkxYw/oVoSs9OOGopQX3k+Vm9l4xbJQ/jCHYeBSjEseKnbXgV9ex5JJ138bRtKc1yLL/ge560nJpFEg5xLTifeuZZrbN4zgUgASUeu4iRIC3pG4EgR9XXZw190kd6BcbizjXMGe95VZuZ1jIHcq1mDAcjTzezNuNIAPre/jpXo2rl6kjAk+o98NJcWCcIaZk1Z76ij4gPyh79P2zqk6UpivhUyircmoR1AEXa1w=;yJv8NcRx5AtmJDKl1ZD1kw=="
+secured: "rTWfSo++nfHt1XE/t/3H3GpC2E7aj1LQQJwurGGt0nUqQIT/JoRbkaXdhVfJvs1CSjVvn9VztD+TUdT1NdttvQXpD1si6EuxE12RtHKplmXJqfoviTNMMW9JL9si1pspZCLAJZvXgZg+T6xGZ0F4U7vs5pEC0u4tpp6w8DPmMXkB/N72lb/kF399yrDoTYd3Zl3h/srHs6xdqBdlDD/64K49zqVgHYzLtEEuLIb3ercH3kt595bHcM1MWYh4RmTIU2oBOs196DL3F8jyrSWV7QwST9oRPybX1f4EbCaxpblRbKVxLtTOPyrqYKK77hi09tyv+UIKI8vYv0+XF1wnImE98szV8WWPPZJC5tUKCuHGtNe5vF+bpMOUSH80KjGSXgigTLwDvc4hjIWOaLGK8e8lKj2muQHXMSSEYPJ/CxCt/zByCY6Pp8KH95UJu9Q0wAeEKLu2QHf6HIMWMI8v83u4okJ4KYMf9UsGZlTLb3/jEorbqFthL6kVKs0zkekgHprshn5untxmjKdFrgW3Vg==;ldhhBi7N9dqCFTQ1RqQu/w=="
 ---
 

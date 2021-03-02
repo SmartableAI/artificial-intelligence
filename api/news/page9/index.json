@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-21-ai-for-deplorable-writers-how-artificial-intelligence-will-revolutionize-writing.md",
+      "title": "AI for Deplorable Writers: How Artificial Intelligence Will Revolutionize Writing",
+      "excerpt": "When you think of artificial intelligence (AI) and automation, what comes to mind? Maybe you think of self-driving cars or robots performing mundane tasks. But not writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEYft5BEVm1vQ/article-cover_image-shrink_600_2000/0/1613909700539?e=1620259200&v=beta&t=Mdm6I9mpKgap_kIWJIp5jVM7TbOVAazHNTtMbhv_mkY",
+          "width": 770,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-facial-recognition-sexual-predator-caught-on-cctv.md",
       "title": "Facial recognition: Sexual predator caught on CCTV",
       "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
@@ -1120,49 +1172,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-immunai-raises-60m-to-decode-the-immune-system-with-machine-learning-and-ai.md",
-      "title": "Immunai Raises $60M to Decode the Immune System with Machine Learning and AI",
-      "excerpt": "Immunai, cofounded by Noam Solomon, is decoding the immune system to help better detect, diagnose, and treat disease using machine learning and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "originalUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2021/02/Noam-Solomon_immunai-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "publishedDateTime": "2021-02-19T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

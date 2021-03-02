@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-03-scania-tests-self-driving-trucks-in-motorway-traffic.md",
+      "title": "Scania tests self-driving trucks in motorway traffic",
+      "excerpt": "SÖDERTÄLJE, Sweden, Feb. 3, 2021 /PRNewswire/ -- Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/scania-tests-self-driving-trucks-in-motorway-traffic-301220989.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/scania-tests-self-driving-trucks-in-motorway-traffic-301220989.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-vw-group-will-handle-self-driving-car-development-in-house-report-says.md",
       "title": "VW Group will handle self-driving car development in-house, report says",
       "excerpt": "Not only is developing self-driving car technology incredibly difficult, but it's also expensive. That has led many car companies to partner up with smaller, self-driving car-specific startups. Ford and Argo or Honda and Cruise,",
@@ -1413,58 +1456,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california.md",
-      "title": "Baidu is the sixth company approved to test fully driverless cars in California",
-      "excerpt": "Baidu has gotten the green light to test fully autonomous vehicles on public roads in California. While Baidu has had permission from California regulators to test autonomous vehicles with safety drivers since 2016,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-      "originalUrl": "https://www.msn.com/en-us/finance/other/baidu-is-the-sixth-company-approved-to-test-fully-driverless-cars-in-california/ar-BB1d9fg2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 300,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/S95q_iD3ihUt3noy9_u01hZfVBA=/0x0:950x633/1400x933/filters:focal(399x241:551x393):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68730144/baidu.0.jpeg",
-          "width": 950,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-      "publishedDateTime": "2021-01-27T13:09:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-        "domain": "theverge.com/2021/1/27/22252944/baidu-driverless-cars-test-permit-california-dmv",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

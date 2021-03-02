@@ -62,38 +62,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Medisafe raises $30 million for predictive AI that reminds people to take their pills"
-    excerpt: "Medisafe, a startup developing a platform to promote medication adherence, has raised $30 million in venture capital."
-    publishedDateTime: 2021-02-25T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/"
-    ampWebUrl: "https://venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/medisafe-feature-image-e1614182033247.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Medisafe raises $30 million for predictive AI that reminds people to take their pills – Jaweb"
-    excerpt: "Medisafe, a startup developing a personalized medication management platform designed to help patients stay on top of their prescriptions, today announced that it raised $30 million. The company says this new investment will enable it to expand its solutions while accelerating revenues growth."
-    publishedDateTime: 2021-02-25T12:19:00Z
-    webUrl: "https://elmoudjaweb.com/medisafe-raises-30-million-for-predictive-ai-that-reminds-people-to-take-their-pills-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/medisafe-raises-30-million-for-predictive-ai-that-reminds-people-to-take-their-pills-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/medisafe-raises-30-million-for-predictive-ai-that-reminds-people-to-take-their-pills-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 46
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Medisafe-raises-30-million-for-predictive-AI-that-reminds-people.jpg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "QE+UJW7Rcc5Tl7BmCYuanVy5k+7IJa2i6ts3aEBtwwO9q44mSoSkrcK5uaCbOkRKRsJDjQ9nVjI8ZQyeBGN12sgKvhtc8LxDsfQXd3iLHBcry3bIofzIPLM+rswyR8Ki5kx9Nt5h/UtmGYlm+Vf7V+4Xgd+1WEOmjwh0HvY+ULD3NYTAl5CjXTILsVTdZO8h2FJrxRhs5WVPrN79OGkRMmBXW16Y9SsT0BsCvAQEWgTiJwtvCwCxlNDhc6yy5FTUGnH3zoaxzeNPe/I2f5nJPUmHnXGP+MqnLq9THKrhId7jk+KnJ5tZ+vKri+HATNO/rBjh5Ux3sXjvndYjASeg71oFjCOa/amFVSL6gdSDGEZQYq3uAtgoiP46Ov8U2DBFMuolNu4lsCvlAMNI/smIPXemAHhMWYA0nwhANurTFJUPfLl1Q+Mz8pkyLXFGqKq2WZABwSDNtc/wO2yEHVwfeDrNiOEq1C4kxubgF4Z4jt4MB9SaddrB/AgeI1r6Xabv//4LCrCDkHXQfXrf7Fibbw==;+WVL4frAZXsrjxxK5CpVrg=="
 ---

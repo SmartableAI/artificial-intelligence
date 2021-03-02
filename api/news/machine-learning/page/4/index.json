@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-08-machine-learning-could-aid-mental-health-diagnoses.md",
+      "title": "Machine learning could aid mental health diagnoses",
+      "excerpt": "A way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms has been developed by researchers at the University of Birmingham.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/27-machinelearn.jpg",
+          "width": 1920,
+          "height": 1238,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-aid-mental-health.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-aid-mental-health.amp",
+      "publishedDateTime": "2021-02-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
       "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
       "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
@@ -1327,49 +1370,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-tech-talks-rise-in-machine-learning-artificial-intelligence-in-2021.md",
-      "title": "Tech talks: Rise in Machine Learning, Artificial Intelligence in 2021",
-      "excerpt": "Tech industry insiders are gearing up for a 2021 filled with Machine Learning and the even greater rise of Artificial Intelligence in all aspects of our daily lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.html",
-      "originalUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/2/1/w600X390/Technology.JPG",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/lifestyle/tech/2021/feb/01/tech-talks-rise-in-machine-learningartificial-intelligence-in-2021-2257710.amp",
-      "publishedDateTime": "2021-01-31T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Massachusetts is one of the first states to create rules around facial recognition in criminal investigations."
+    excerpt: "A police reform bill in Massachusetts has managed to strike a balance on regulating facial recognition, allowing law enforcement to harness the benefits of the tool while building in protections that might prevent the false arrests that have happened before,"
+    publishedDateTime: 2021-03-02T03:07:00Z
+    webUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/27/business/27facialrecognition-02-copy/27facialrecognition-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Attorney general’s office asks lawmakers to loosen ban on facial recognition"
     excerpt: "The attorney general wants police to be able to use the technology to help solve child sexual exploitation cases."
     publishedDateTime: 2021-02-25T13:56:00Z

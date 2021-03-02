@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-16-this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market.md",
+      "title": "This AI-powered gadget could completely disrupt the ridiculous hearing aid market",
+      "excerpt": "Hearing loss sucks. It’s exhausting. I’ve suffered from partial hearing loss in both ears since the mid 2000’s. In order to function in the real world, I’m forced to exist in a state of constant vigilance.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/whisper-796x448.jpg",
+          "width": 796,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/this-ai-powered-gadget-could-completely-disrupt-the-ridiculous-hearing-aid-market/amp/",
+      "publishedDateTime": "2021-02-15T11:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
       "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
       "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
@@ -1137,58 +1188,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care.md",
-      "title": "How Hardware, Data And Artificial Intelligence Are Changing Diabetes Care",
-      "excerpt": "According to Søren Smed Østergaard, Vice President, Digital Health of Novo Nordisk, the most significant innovations in the diabetes space centered around hardware, artificial intelligence (AI) and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60298237aed9da9a21c7f6a8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/",
-      "publishedDateTime": "2021-02-14T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

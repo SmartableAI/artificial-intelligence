@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-23-fundguard-raises-12-million-to-help-manage-assets-with-ai.md",
+      "title": "FundGuard raises $12 million to help manage assets with AI",
+      "excerpt": "FundGuard, a startup developing an AI-powered asset management platform, has raised $12 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/support-lvl-3-img.png?w=1200&strip=all",
+          "width": 657,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/fundguard-raises-12-million-to-help-manage-assets-with-ai/amp/",
+      "publishedDateTime": "2021-02-23T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-this-translation-device-streamlines-international-communication.md",
       "title": "This Translation Device Streamlines International Communication",
       "excerpt": "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech.",
@@ -1131,58 +1183,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-disrupting-tech-hiring-how-ai-connects-companies-to-talent.md",
-      "title": "Disrupting tech hiring: How AI connects companies to talent",
-      "excerpt": "AI and big data technology are spearheading the evolution in recruitment technology -- taking hiring far beyond LinkedIn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
-      "originalUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/hiring.GettyImages-508480019.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
-      "publishedDateTime": "2021-02-22T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

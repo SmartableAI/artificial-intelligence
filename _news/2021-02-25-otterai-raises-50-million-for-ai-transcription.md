@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-it
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 109
 published: true
 
 provider:
@@ -62,38 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/02/January.ai-_Logo.jpg?w=1200&strip=all"
         width: 1200
         height: 627
-        isCached: true
-  - title: "Medisafe raises $30 million for predictive AI that reminds people to take their pills"
-    excerpt: "Medisafe, a startup developing a platform to promote medication adherence, has raised $30 million in venture capital."
-    publishedDateTime: 2021-02-25T12:02:00Z
-    webUrl: "https://venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/"
-    ampWebUrl: "https://venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/medisafe-raises-30-million-to-promote-medication-adherence-using-ai-and-big-data/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 80
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/medisafe-feature-image-e1614182033247.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Medisafe raises $30 million for predictive AI that reminds people to take their pills – Jaweb"
-    excerpt: "Medisafe, a startup developing a personalized medication management platform designed to help patients stay on top of their prescriptions, today announced that it raised $30 million. The company says this new investment will enable it to expand its solutions while accelerating revenues growth."
-    publishedDateTime: 2021-02-25T12:19:00Z
-    webUrl: "https://elmoudjaweb.com/medisafe-raises-30-million-for-predictive-ai-that-reminds-people-to-take-their-pills-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/medisafe-raises-30-million-for-predictive-ai-that-reminds-people-to-take-their-pills-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/medisafe-raises-30-million-for-predictive-ai-that-reminds-people-to-take-their-pills-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 46
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/02/Medisafe-raises-30-million-for-predictive-AI-that-reminds-people.jpg"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "77u02JUVL7R55Z/ebaiDKBYyjNeWW4TsapshtcjHedaAHdLVOdnrfwYseJjLPjP352Ln/H75KxeysSgOaemxw35p/aFG7z0PBUQ0qVtCl8T0stqNBlrZVukA/smGIuCZWG/3CFmIwVsDQGzSkC4JuiaX4mJ9Dz8l46mjaeF2MJXXmo0sk/nbw/kSsIKkzZlf8aPBNYtzXow1SYhBN5OH4UVgFYiQ4JIOe7yiSszpT2OH+uNkXxm+t7uY1JgOGPG0bplUSTQWYcvsgupWwErFRdhcfbHjWlsg0DN6lM4GtqhLePRNwk07RHzIu9cUTmvS+LNjjm95+TLnxKfKmoT8+ATjjjsrnCY+09s2nq/AHtFJwz1Y5AwOOWvyZnS2rNHcB+58LNmwv9vUZHdaeTOXt9n53m+sHS/AK4dRz4+BOJaLA+fC/YYa1+V8KL84xwIJjU4WpLyRWYVsflKwsJxVpcChvoCqFaXfjZTwq2rC3ETCvXRrXRBgPpwC2CoDyf1ZFDf5eBirAe78xWYIyKL/nQ==;IE740e1YSRct1FAxjb7Byw=="
