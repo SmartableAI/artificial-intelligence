@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-01-tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21.md",
+      "title": "Tech firms to benefit on FM's push for digital census, use of AI, ML on MCA-21",
+      "excerpt": "Finance minister Nirmala Sitharaman said that government will use data analytics, Artificial Intelligence, Machine Learning to launch the next version of the Ministry of Corporate Affairs portal MCA 21 3.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/articleshow/80627824.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/articleshow/80627824.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-452528,msid-80627864/information-technology.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms",
+      "publishedDateTime": "2021-01-31T23:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-tech-talks-rise-in-machine-learning-artificial-intelligence-in-2021.md",
       "title": "Tech talks: Rise in Machine Learning, Artificial Intelligence in 2021",
       "excerpt": "Tech industry insiders are gearing up for a 2021 filled with Machine Learning and the even greater rise of Artificial Intelligence in all aspects of our daily lives",
@@ -1331,50 +1375,6 @@
         "AI",
         "AI in Healthcare",
         "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-ai-and-ml-in-intelligent-analytics-can-drive-the-efficiency-in-business.md",
-      "title": "AI and ML in intelligent analytics can drive the efficiency in business",
-      "excerpt": "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/",
-      "originalUrl": "https://www.analyticsinsight.net/the-role-of-artificial-intelligence-and-ml-in-intelligent-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/01/Intelligent-Analysis.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "Machine Learning"
       ]
     }

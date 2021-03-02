@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-04-15-examples-of-how-telcos-are-moving-to-the-public-cloud.md",
+      "title": "15 examples of how telcos are moving to the public cloud",
+      "excerpt": "I’m the world’s expert when it comes to moving to the public cloud. I’ve been talking with hundreds of telco execs and the flywheel is starting to turn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
+      "originalUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native-telco/15-examples-of-how-telcos-are-moving-to-the-public-cloud-40803/amp/",
+      "publishedDateTime": "2021-02-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-using-amazon-translate-to-provide-language-support-to-amazon-kendra.md",
       "title": "Using Amazon Translate to provide language support to Amazon Kendra",
       "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra supports English. This post provides a set of techniques to provide non-English language support when using Amazon Kendra. We demonstrate these techniques within the context of",
@@ -1425,59 +1468,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app.md",
-      "title": "Looking for free cloud training? Check out the AWS Dev Hour on Twitch and learn to build an app",
-      "excerpt": "SEE: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ... The video archive has dozens of broadcasts ranging from machine learning to conversations with Amazon partners. Scott Barneson, director of Learning Products, AWS Training ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "originalUrl": "https://www.techrepublic.com/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/05/21/26d99b4f-7045-42a2-9d05-72827c4c35a2/resize/1200x/5295fe73cfe208e7c1d271b4bc1a790d/istock-1209016407.jpg",
-          "width": 1200,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/looking-for-free-cloud-training-check-out-the-aws-dev-hour-on-twitch-and-learn-to-build-an-app/",
-      "publishedDateTime": "2021-01-26T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

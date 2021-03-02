@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-09-arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform.md",
+      "title": "Arize AI Partners with Spell to Bring ML Observability to the Spell Platform",
+      "excerpt": "Observability company, and Spell, a powerful ML Ops platform, announce a partnership giving Spell customers access to Arize AI's model observability capabilities. Spell users will be able to monitor,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/arize-ai-partners-with-spell-to-bring-ml-observability-to-the-spell-platform-1030057114",
+      "publishedDateTime": "2021-02-08T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-machine-learning-could-aid-mental-health-diagnoses.md",
       "title": "Machine learning could aid mental health diagnoses",
       "excerpt": "A way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms has been developed by researchers at the University of Birmingham.",
@@ -1326,50 +1370,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21.md",
-      "title": "Tech firms to benefit on FM's push for digital census, use of AI, ML on MCA-21",
-      "excerpt": "Finance minister Nirmala Sitharaman said that government will use data analytics, Artificial Intelligence, Machine Learning to launch the next version of the Ministry of Corporate Affairs portal MCA 21 3.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/articleshow/80627824.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/articleshow/80627824.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-452528,msid-80627864/information-technology.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/tech-firms-to-benefit-on-fms-push-for-digital-census-use-of-ai-ml-on-mca-21/amp_articleshow/80627824.cms",
-      "publishedDateTime": "2021-01-31T23:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

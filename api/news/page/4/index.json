@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-25-google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations.md",
+      "title": "Google and MongoDB double down on cloud alliance with deeper Atlas integrations",
+      "excerpt": "Google and MongoDB expand alliance to make it simpler for developers to consume a wider range of backend cloud services.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/consortium-2x1-1.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
+      "publishedDateTime": "2021-02-25T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
       "title": "Otter.ai raises $50 million for AI transcription",
       "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
@@ -1198,57 +1250,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-13-common-mistakes-that-can-derail-your-ai-initiatives.md",
-      "title": "13 Common Mistakes That Can Derail Your AI Initiatives",
-      "excerpt": "If you’re looking to implement artificial intelligence in your business, make sure you go in with a well-considered plan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/?sh=18b9557368b0",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603665d1ad8d15fb0697b410%2F0x0.jpg",
-          "width": 1200,
-          "height": 1213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/24/13-common-mistakes-that-can-derail-your-ai-initiatives/amp/",
-      "publishedDateTime": "2021-02-24T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -42,43 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Education Sector Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
-    excerpt: "A recent market intelligence report on Artificial Intelligence in the Education Sector market takes a closer look at the major driving forces, restraints and opportunities anticipated to shape the future of the Artificial Intelligence in the Education Sector market for the forecast period,"
-    publishedDateTime: 2021-02-27T02:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-02-26"
+  - title: "Global AI-Based Fever Detection Camera Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19"
+    excerpt: "What will the AI-Based Fever Detection Camera Market growth rate of Nuclear Medicines Radioisotopes market in 2026? What are the key factors driving the global Nuclear Medicines Radioisotopes market?"
+    publishedDateTime: 2021-03-02T06:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-detection-camera-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 Leading Competitors, Regional Trends and Growth Trends 2025"
-    excerpt: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity,"
-    publishedDateTime: 2021-03-01T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-life-sciences-services-market-2020-leading-competitors-regional-trends-and-growth-trends-2025-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
-    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Edge AI Software Market is valued at approximately USD 0."
-    publishedDateTime: 2021-02-25T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-software-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -98,17 +70,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
-    publishedDateTime: 2021-02-27T14:40:00Z
-    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "IeGOv97AFVyX9ql+MRtIDMihKIG3HfbmaW/Rz21DrlIVVGPWp0lQOWWuRvQambFzuuxOIXgFoUoXakKmU6CnacKd0ccvvcEGgd7RwgPcSGRPUrttja+lLheIFW2oCh7fpFwy3T7okoZ5+D2R3MR7XgdDzxWIq23zLEg5kExqiho2UPCuSBByf1iPFnUQDLuS93KpaRIOEoGGDTZ9i0GHzl+hsoHsBRDDt+VHeZWxcP+slF3WyNmi9BU5fWr1BubaMksrM6FzjN4LCm7Gz3zPAsfjbWma5T08fss5keFL7lZpRWq+lB/yjvEBOuumD1kJOCZM1iHOfL3Q2IccZy6PMNhqtTVH+E/g3p486ZNokpk=;fWO3pjW8NKk1DXYhC5FLog=="
 ---

@@ -23,22 +23,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "Konexial Launches My20 LogiCam Ai™ - Providing Drivers and Fleets with Live Supply Chain™ Visibility"
-    excerpt: "Konexial today launched the My20 LogiCam Ai™ video management system (VMS) technology that integrates road and driver facing cameras with live telemetry data to create the ultimate Live Supply Chain™ solution to detect,"
-    publishedDateTime: 2021-02-25T14:57:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-entertainment-and-media-technology-computer-and-data-security-high-definition-video-3a751323ead40766774daed3630c88da"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "eAOnTF7iueEMEl29VtR5Ex7BLOjhpQh8m7YvHLy3Hsu8JIMzLBhCfMT37SNtbufMwl6TZZv/NaeN4DaffIq2rqdQ6L53nwusIBjhO783UAXQ8MsO8gbAduI4DkGpLdS8tKPdbl05PSM52XKhL75FiQvj1Qy1YhlEibZnfFwLDEFf1nt+RRRhL1cTvjKwnc/Uhe5p11QXZvN3pH99XxKURMUBzXKskYc1f1t393SgxpNuLP/AEzuE3Nrf8QgCQJ4U+78sTqaJZlC/LHo/NzJrRlvWWe5HwlqRSKBDsjSKSeU//6Ry6BefpfTglh4Fk3+oNyIFRpuAH10Hf+YGG36g0j1EbmM4mF3ARbhKrR+YSr0=;NQZ2aTPF8mXUQLXjzDHb6w=="
 ---
 

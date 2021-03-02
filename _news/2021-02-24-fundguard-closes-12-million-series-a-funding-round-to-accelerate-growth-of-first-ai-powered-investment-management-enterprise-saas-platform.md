@@ -1,20 +1,30 @@
 ---
 category: news
 title: "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform"
-excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures ."
-publishedDateTime: 2021-02-24T08:37:00Z
-originalUrl: "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/"
-webUrl: "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/"
+excerpt: "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series"
+publishedDateTime: 2021-02-24T04:33:00Z
+originalUrl: "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23"
+webUrl: "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "mTCsrnYm5iiRVmR3OyFtA/RjgS28FJmq7FTnvN7Z+VYbGDD0a3U0ubYNj+PXsmOK3dLWrCp9ep/AiL5qopdxsPk6UbNupR4wcIiWu8Gry5C1FGpIb3guG20Zr3aiZdS1dGmnDxQbz7e3chA1qbNo5nS3B0g7xGo0giblszjYBBuPoHWf75h+9cAFJtOn2AtPRGaPLpMQnVxuOl6CJBvgNuUdl/9+vIOerFcZ/ZOZ6RC67gMmw2C27buAxljFK2opo3AM2mqGThN9xqUSGX8cB21zLuZvkwSEKmyb9Z+Yg+FqPk60K9/vF1c3J1gIKOI7DBWMTFy/7HwTQMW+nSiYDif3SJ+4zQ61VDu9aCS7o/w=;GcalR5cZPbPgfjxiEKS7BA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "gu9qX6IyS+fmnLwarfhleLoCJUCiwuzlgvdvjK84Ats4sdzczh5kVemSdG1X9UGTZM7jKcrB5DLpXgrVdJ92W6+ItJ0yT7Nm/TOym4VPFvVzhIB8nJSteupAdA7d+m0Pq6gKOLe2+TijlSM948aF7/Yd2oRVsIYbUnpTrArgUoWmSEE62BeVQhmyZiD4qbVNVvtc7Ilwb6rAjMRGrql/PaDZCsNZLSyq22qHpU0kWjYlQQSqlda/+yJLiuqFH75hes8mqbmiRGD9OPPgkuLA0EFPK4QyvJZmfRumUOhK2s7Uxjs1oLBY2BfNB8La2SZyZ22OpQIZq6oHLr8/nTKuNM+dZAzHmDzemu+nMovp9KA=;DoBVFTg8nAwHZ5OoxH9Y3w=="
 ---
 

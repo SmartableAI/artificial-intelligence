@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Attorney general’s office asks lawmakers to loosen ban on facial recognition"
-    excerpt: "The attorney general wants police to be able to use the technology to help solve child sexual exploitation cases."
-    publishedDateTime: 2021-02-25T13:56:00Z
-    webUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/"
-    ampWebUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: VTDigger
-      domain: vtdigger.org
-    quality: 56
-    images:
-      - url: "https://vtdigger.org/wp-content/uploads/2019/01/20190123LEGIE9.jpg"
-        width: 2000
-        height: 1498
-        isCached: true
   - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
     excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
     publishedDateTime: 2021-03-01T16:51:00Z
@@ -92,6 +76,6 @@ related:
         height: 481
         isCached: true
 
-secured: "2i5yqewZnIAHXqe7JLp9o2w9bfeHii9D+TIwXAnLnDXGLQ+/rexsaJ6UCkWgymZxw7gCva6TPu0GCzaMY7iB0YuGz/8OBC4nY24OeI0ibhAXugAzYh9rfXmv7TYv4cf5jmh8duAhIYk2apOmR3TvpHvyh6JBOE4XNchVPIydb0JV7swrLE0Yal7Z++4NyFj05V1pMUlGnrfcgOF/ved/ZURM74OUgYw7omCD8TISB8su3huBZxJXVDua1bF2xGlD3aPLGDcjPGvdO7v5gqHYDRAeHBZNyM2UjwXI7ukRIiO4+ACTMQGlvz4XwLlDAcimDoeAHH6YpPCKVI8Y42X0HDy3kqYqikc70nZ1N/iR4M8=;p18meLuwq8vnjsgP+AbHfA=="
+secured: "PtSmbbrOpfEPireh8lQckjiDQq3SSZOewcGy2aMwD30og5riYsCGGZK1BYrq2onilfnpBkFX/GUFvZAkUmzJi7JXHAS4QNb2wiD3+7PINRxQHMGa3Le62GncKBtbMF5o94GiqummssFRutP0Zufpaxy1XEnoJwsnwkdOyHC67WGcRCpbRrG+A4ANIb7AXrAPWgNEGuYoeYnPv254jpH5dtaN5G1m7DPJtHd3kmE50fT4QaYZsEMwgNZeCZ7iiiT94tNozCIytot63xWN2mi52ZqnpgJnCsNIgDnoDFlAKPUJclwQYjYLOqp6iKN0Y84gOgGmigFqfDgsQXAYBp9kFHenNmElRb7Bv0FVJa0ntsB8Xl4xL2v6mxgDIPuRqTEHTB6i661bgPzBDkrxhCoO05gKK66s0NNeUE7F3zwyQGaY5/YH3EkYGWxHVQxisS9k8+1yzCPzOjPx6kzI3fR9zCX5Wgzl3oPccOHPu3DD+4nn2XhFwAfmdE2ZS8d+NacvB6pVc7xUYAY8rZ5Xp7RDAA==;bTeSuOyIowVsAIdPyop+DA=="
 ---
 

@@ -28,24 +28,38 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts"
-    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
-    publishedDateTime: 2021-02-25T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-global-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-2021-02-25"
+  - title: "Machine Learning as a Service (MLaaS) Market by Application and Geography Trends, Growth and Forecast 2020 - 2027 by ARC"
+    excerpt: "pune, India, Tue, 02 Mar 2021 01:00:21 / Comserve Inc. / -- Acumen Research and Consulting added Most up-to-date research on \"Global Machine Learning as a Service (MLaaS) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027\" to its huge ..."
+    publishedDateTime: 2021-03-02T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020---2027-by-arc-2021-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Enabled Medical Imaging Market Revenue, Growth Rate, Customer Needs, Trend, Manufacturers and Forecast to 2025"
-    excerpt: "Artificial Intelligence (AI) Enabled Medical Imaging is the process of adoption of AI technology in the medical imaging to provide vast supply of medical case data and train its algorithms to find patterns in images,"
-    publishedDateTime: 2021-02-25T14:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-enabled-medical-imaging-market-revenue-growth-rate-customer-needs-trend-manufacturers-and-forecast-to-2025-2021-02-25"
+  - title: "Artificial Intelligence in the Education Sector Market Types, Applications, Products, Share, Growth, Insights and Forecasts Report 2027"
+    excerpt: "A recent market intelligence report on Artificial Intelligence in the Education Sector market takes a closer look at the major driving forces, restraints and opportunities anticipated to shape the future of the Artificial Intelligence in the Education Sector market for the forecast period,"
+    publishedDateTime: 2021-02-27T02:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-education-sector-market-types-applications-products-share-growth-insights-and-forecasts-report-2027-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 Leading Competitors, Regional Trends and Growth Trends 2025"
+    excerpt: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity,"
+    publishedDateTime: 2021-03-01T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-life-sciences-services-market-2020-leading-competitors-regional-trends-and-growth-trends-2025-2021-03-01"
     type: article
     provider:
       name: MarketWatch
@@ -55,22 +69,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Proposals to meet global challenges in artificial intelligence and technology regulation"
-    excerpt: "See below for excerpts from the transcript. MELTZER: So this is the paper coauthored with Cameron Kerry, and it focuses on strengthening international cooperation on artificial intelligence. And the basic approach of the paper is to identify what the ..."
-    publishedDateTime: 2021-02-26T10:25:00Z
-    webUrl: "https://www.brookings.edu/podcast-episode/proposals-to-meet-global-challenges-in-artificial-intelligence-and-technology-regulation/"
-    ampWebUrl: "https://www.brookings.edu/podcast-episode/proposals-to-meet-global-challenges-in-artificial-intelligence-and-technology-regulation/amp/"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/podcast-episode/proposals-to-meet-global-challenges-in-artificial-intelligence-and-technology-regulation/amp/"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 48
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2021/02/earth-networks.jpg"
-        width: 6000
-        height: 3375
         isCached: true
   - title: "Global Artificial Intelligence (AI) Consulting Market 2020 Upcoming Trends, Latest Innovation, Advance Technology and Top Companies to 2025"
     excerpt: "Global Artificial Intelligence (AI) Consulting Market 2020 by Company, Regions, Type and Application, Forecast"
@@ -86,6 +84,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
+    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
+    publishedDateTime: 2021-02-27T14:40:00Z
+    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
 
 secured: "dyt6HA5mdqmD/b+doMrjWOwBgACNWKKh34To977fMadNvWZynvjD0DAFGwY+0xhxUBMc4Ge/K+/bp5DwgmVhpMrYX2Fl6CVVOh5Jm3xvQ+xRPtnPa4A41PwFAmS6ie7rdeNfAACewllthZ0JAlBtaUL5Ay0GW9pCstcAdDP9aUZiHU3nylQVfgOeAxkuH+PuLqJHdx27pdXyOUfXm0FHirNc9K/5g6XHSwshpNK8HgcCbONWeOSdFvD4b1I3ol6140Yw0QD4G0T+W0fSqUxYCMjlzqQxP9jFpEUTJqPAqVRy78n9h9RGE8lXDZUrdSR9hw/jlzSKFo0vbASowVmTyz1TqVAKpKiYRU+NDoUC6QU=;5r6oZWidlA5+4HaJ6+VRGQ=="
 ---

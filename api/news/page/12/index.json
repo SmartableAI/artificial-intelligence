@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-18-selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai.md",
+      "title": "Selecting AI Solutions For Your Customer Journey Should Also Depend On Capabilities Beyond AI",
+      "excerpt": "The success of AI in the enterprise depends on the AI platform’s ability to solve a few core enterprise system challenges beyond what data scientists are hired for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
+      "publishedDateTime": "2021-02-18T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
       "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
       "excerpt": "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr.",
@@ -1142,57 +1193,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding.md",
-      "title": "World's fastest supercomputer and AI tapped to predict tsunami flooding",
-      "excerpt": "Fujitsu's supercomputer Fugaku is powering AI capabilities that could help predict coastal flooding conditions. \"Ordinary PCs\" can run the Fugaku-trained AI model, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/17/be02f4dc-c95e-41ed-8dda-23573633fccf/resize/1200x/ef9e38a811d483a5cadd3e7096532b4b/petrovich9.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
-      "publishedDateTime": "2021-02-17T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,92 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-02-08-camera-board-for-battery-powered-iot-image-capture.md",
+      "title": "Camera board for battery-powered IoT image capture",
+      "excerpt": "“A companion smartphone application [iOS, GooglePlay] provides a user interface for the platform and acts as the gateway to cloud-based AI-enabled object recognition services.” On the board is On’s ARX3A0 360 frame/s mono camera module (centre of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/products/sensors-products/camera-board-battery-powered-iot-image-capture-2021-02/",
+      "originalUrl": "https://www.electronicsweekly.com/news/products/sensors-products/camera-board-battery-powered-iot-image-capture-2021-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/02/08163917/RSL10-SnapCamBoard-800.jpg",
+          "width": 800,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-ibm-leads-in-quantum-computing-ford-in-driverless-car-patents.md",
+      "title": "IBM leads in quantum computing, Ford in driverless car patents",
+      "excerpt": "Artificial intelligence, quantum computers and autonomous vehicles are among the fastest-growing areas of technology, with American companies often in the lead, according to a new study of US ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2021/01/13/ibm-leads-in-quantum-computing-ford-in-driverless-car-patents",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2021/01/12/1005733.jpg",
+          "width": 1240,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-what-happened-to-all-of-the-self-driving-cars.md",
       "title": "What Happened to All of the Self-Driving Cars?",
       "excerpt": "Tech-savvy consumers spent much of the last decade thinking they could get behind the wheel of self-driving cars by 2020. But a series of legal and technological roadblocks have left us still waiting.",
@@ -1105,101 +1191,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
-      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
-      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-295591/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "publishedDateTime": "2021-02-05T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-designing-and-evaluating-medical-deep-learning-systems.md",
-      "title": "Designing and evaluating medical deep learning systems",
-      "excerpt": "Deep learning facilitates utilization of large data sets through direct learning of correlations between raw input data and target output, providing systems that may use intricate structures in ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-medical-deep.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-medical-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/601d4b19d7633.jpg",
-          "width": 2880,
-          "height": 1919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-medical-deep.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-medical-deep.amp",
-      "publishedDateTime": "2021-02-05T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020-2027-by-arc.md",
+      "title": "Machine Learning as a Service (MLaaS) Market by Application and Geography Trends, Growth and Forecast 2020 - 2027 by ARC",
+      "excerpt": "pune, India, Tue, 02 Mar 2021 01:00:21 / Comserve Inc. / -- Acumen Research and Consulting added Most up-to-date research on \"Global Machine Learning as a Service (MLaaS) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027\" to its huge ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020---2027-by-arc-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020---2027-by-arc-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T22:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-quality-match-raises-6-million-to-build-better-ai-datasets.md",
+      "title": "Quality Match raises $6 million to build better AI datasets",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Quality Match, a Heidelberg, Germany-based quality data annotation provider, today announced that it raised a €5 million ($6 million) seed round from LEA Partners.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/",
+      "publishedDateTime": "2021-03-01T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
       "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
       "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
@@ -10,7 +113,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -52,7 +155,8 @@
         "AI Ethics",
         "AI",
         "AI in Security",
-        "Facebook AI"
+        "Facebook AI",
+        "AWS AI"
       ]
     },
     {
@@ -1160,109 +1264,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-how-covid-19-broke-ai-and-why-ai-may-break-again.md",
-      "title": "How COVID-19 Broke AI, And Why AI May Break Again",
-      "excerpt": "The unprecedented circumstances caused by COVID-19 caused many AIs to break. How did these AIs break and what can your business do to ensure that future AIs do not suffer from the same vulnerabilities?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c15323845b94ba5c85f92%2F0x0.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/amp/",
-      "publishedDateTime": "2021-02-28T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-americans-want-self-driving-cars-but-want-safety-first.md",
-      "title": "Americans Want Self-Driving Cars, But Want Safety First",
-      "excerpt": "Americans are not known for prioritizing road safety. No state currently bans all cell use phone behind the wheel, and two states still allow drivers to text. And the United States consistently lags behind other developed nations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2021/02/28/americans-want-self-driving-cars-but-want-safety-first/",
-      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2021/02/28/americans-want-self-driving-cars-but-want-safety-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60396bff8a7a7cf26a50f147%2F0x0.jpg%3FcropX1%3D33%26cropX2%3D990%26cropY1%3D0%26cropY2%3D538",
-          "width": 957,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2021/02/28/americans-want-self-driving-cars-but-want-safety-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2021/02/28/americans-want-self-driving-cars-but-want-safety-first/amp/",
-      "publishedDateTime": "2021-02-28T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

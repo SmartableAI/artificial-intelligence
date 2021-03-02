@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-22-nanit-raises-another-25m-for-its-ai-powered-baby-monitor.md",
+      "title": "Nanit raises another $25M for its AI-powered baby monitor",
+      "excerpt": "Nanit’s nursery camera pairs computer vision with specially-patterned clothing to help answer the question that most new parents ask themselves roughly every 90 seconds: “Is my baby still breathing?” This morning the company is announcing that it has raised an additional $25",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/",
+      "originalUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/nanit.jpg?w=1024",
+          "width": 1024,
+          "height": 572,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/amp/",
+      "publishedDateTime": "2021-02-22T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-disrupting-tech-hiring-how-ai-connects-companies-to-talent.md",
       "title": "Disrupting tech hiring: How AI connects companies to talent",
       "excerpt": "AI and big data technology are spearheading the evolution in recruitment technology -- taking hiring far beyond LinkedIn.",
@@ -1147,50 +1198,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-a-set-of-jupyter-notebooks-to-analyze-the-performance-of-a-deepracer-model.md",
-      "title": "A set of Jupyter notebooks to analyze the performance of a DeepRacer model.",
-      "excerpt": "This is a set of notebooks and utilities to enable analysis of logs for AWS DeepRacer. This project is a redo of analysis solutions provided in the AWS DeepRacer Workshops repository. There are a few motivations leading a decision to reorganise the ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
-      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars.githubusercontent.com/u/55031406?s=400&v=4",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -1,23 +1,23 @@
 ---
 category: news
 title: "AWS Launches Second Region in Japan"
-excerpt: "Local Region expanded into a standard AWS Region to accommodate an even greater variety of use cases and serve Japan with even lower latency Customers and AWS Partners across Japan welcome the new AWS Asia Pacific (Osaka) Region,"
-publishedDateTime: 2021-03-01T21:37:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210301006110/aws-launches-second-region-in-japan"
-webUrl: "https://www.morningstar.com/news/business-wire/20210301006110/aws-launches-second-region-in-japan"
+excerpt: "AWS Launches Second Region in Japan Stockhouse.com use cookies on this site. By continuing to use our service, you agree to our use of cookies. Cookies are used to offer you a better browsing experience and to analyze our traffic."
+publishedDateTime: 2021-03-02T05:16:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/03/01/aws-launches-second-region-in-japan"
+webUrl: "https://stockhouse.com/news/press-releases/2021/03/01/aws-launches-second-region-in-japan"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "/v5fCIYeshFwSWK8s015oGmNKtDbBjNcu3eRAEin8sMHiEcz0y/wGZmia74XggBD6yG9V17aa5vdBZ2yaDWjf/pUGfsxHn1G5jS812v4MrtbZNofjfFnwe0XUHNiEHpQr/AYFnkypXoKai02MPiNJ3bHpfnyJ3fVK0bnjR3Obq/rFQDGgO/8WTSVIuyqH822e+MV+K2BDHgM4ZF0lfz8qYNR/Fic4KmNewFu3VK1dQ/jK/k37fjYYOyrFtBoxCOA3sYhIVTMNlQtO7um6JLFNs/1xrl04EL/eim3enG5FxkkeHUmnQonwk4cN9CeVm5PKtGcbpSyrUrgUhfzNKiPZrMwylBI6+sHfG1VH1Z+fAY=;/3lG/YGmQGOm1UEdmWmdkw=="
+secured: "J0l30PTyf/5W0fP/FTKwxPcc9yEG49HKlK7USWXk7LpNwpExQ17oaqHHQRMwHZ6wXJbbNNxsqLf7Cs38+NZo/FtnZuxLcq6FqA4JIPZB93gtT2frFY/+BmVW6PaAjRSLyfZ6s4NShHPBpBLVMM66KUMIxET8dorDdP9iNKeSN3AUowJzINOscUogtA4+9DsxQoLaxPSCSDT6kA6zMm+RaJueqnj3ZbxbMmYMrZRfb6hXcIbrEcLxKQELB+nLxIZ0dCtsm7rjjhfPeToPhhogr0x/H9hTU9w37KA/q9O/nlwC8cwZ0p6ffh9jqek8zaH0Al47GZdWJLl5r9yjR1c5MLMRiuQuyidh2uC8M/qfRX8=;e+tk31VbbM1H4WOUzvcB2g=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
-      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
-      "excerpt": "That’s according to a recent study from Google’s DeepMind that looked at the positive and negative effects of AI on people who identify as lesbian, gay, bisexual, transgender, or asexual.",
+      "path": "_news/2021-02-19-optax-is-a-gradient-processing-and-optimization-library-for-jax.md",
+      "title": "Optax is a gradient processing and optimization library for JAX.",
+      "excerpt": "If nothing happens, download GitHub Desktop and try again. mihaelacr-google and OptaxDev optax-dev@google.com Ensure the number of update functions and states is the same in chain.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
+      "webUrl": "https://github.com/deepmind/optax",
+      "originalUrl": "https://github.com/deepmind/optax",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1148800397.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
+          "width": 400,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "publishedDateTime": "2021-02-18T15:44:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -51,6 +42,50 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-reverb-is-an-efficient-and-easy-to-use-data-storage-and-transport-system-designed-for-machine-learning-research.md",
+      "title": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research",
+      "excerpt": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research. Reverb is primarily used as an experience replay system for distributed reinforcement learning algorithms but the system also supports multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/deepmind/reverb",
+      "originalUrl": "https://github.com/deepmind/reverb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1169,57 +1204,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai.md",
-      "title": "Selecting AI Solutions For Your Customer Journey Should Also Depend On Capabilities Beyond AI",
-      "excerpt": "The success of AI in the enterprise depends on the AI platform’s ability to solve a few core enterprise system challenges beyond what data scientists are hired for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
-      "publishedDateTime": "2021-02-18T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

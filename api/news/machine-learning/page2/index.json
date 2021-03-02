@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-23-iiit-hyderabad-offers-certificate-online-course-on-artificial-intelligence-and-machine-learning.md",
+      "title": "IIIT Hyderabad Offers Certificate Online Course on Artificial Intelligence and Machine Learning",
+      "excerpt": "IIIT Hyderabad is currently offering a certificate online course on artificial intelligence and machine learning for technology professionals",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
+      "originalUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/electronic-5902163_640.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iiit-hyderabad-offers-certificate-online-course-artificial-intelligence-machine-learning/amp/",
+      "publishedDateTime": "2021-02-22T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl.md",
       "title": "Hands-On Guide to Model Search: A Tensorflow-based Framework for AutoML",
       "excerpt": "In recent years, automated ML or AutoML has really helped researchers and developers to create high quality deep learning models without human intervention and to extend its usability, Google has developed a new framework called Model Search. Model Search ...",
@@ -1393,49 +1436,6 @@
       "provider": {
         "name": "Hindustan Times Tech",
         "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-most-indian-firms-to-turn-to-ai-for-decision-making-by-2023.md",
-      "title": "Most Indian firms to turn to AI for decision-making by 2023",
-      "excerpt": "Over 40 per cent of consumer-focused AI systems in finance, healthcare, government and other regulated sectors in India will include provisions to explain their analysis and decisions by 2023, a new IDC report said on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=802078",
-      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=802078",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.daijiworld.in/images3/rayan_160221_Buiss1.jpg",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daijiworld",
-        "domain": "daijiworld.com",
         "images": null,
         "publishers": null,
         "authors": null

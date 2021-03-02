@@ -1,45 +1,32 @@
 ---
 category: news
 title: "The Wealthiest Self-Driving Car Add-On Options"
-excerpt: "Consider that during the first era of self-driving cars there will be add-ons, and those will likely one day become standard fare."
-publishedDateTime: 2021-02-13T16:50:00Z
-originalUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
-webUrl: "https://www.newsoneplace.com/6956032012/wealthiest-car-options-self-driving"
+excerpt: "Shifting gears, consider that the future of cars involves the emergence of self-driving cars. We are gradually going to witness the advent of AI-based true self-driving cars, whereby the vehicle ..."
+publishedDateTime: 2021-02-13T21:58:00Z
+originalUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/"
+webUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: newsoneplace.com
-  domain: newsoneplace.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/601dc225367d07fd58a05945/0x0.jpg?cropX1=0&cropX2=4595&cropY1=266&cropY2=3328"
-    width: 5616
-    height: 3728
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dc225367d07fd58a05945%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4595%26cropY1%3D266%26cropY2%3D3328"
+    width: 1200
+    height: 800
     isCached: true
 
-related:
-  - title: "Self-driving platform Ekar launches car subscription service"
-    excerpt: "Carsharing platform ekar has introduced a subscription-based long-term car leasing service. Ekar Subscription allows users to book cars, from one to nine months, with a single monthly subscription cost and no down payments or long-term commitment."
-    publishedDateTime: 2021-02-17T14:56:00Z
-    webUrl: "https://gulfbusiness.com/self-driving-platform-ekar-launches-car-subscription-service/"
-    type: article
-    provider:
-      name: Gulf Business
-      domain: gulfbusiness.com
-    quality: 24
-    images:
-      - url: "https://gulfbusiness.com/wp-content/uploads/2021/02/Vilhelm-Hedberg.jpg"
-        width: 930
-        height: 620
-        isCached: true
-
-secured: "9iZc5oE2C+ppe1iCVSwnDq3QX4fT0z9+/fgBThEs5NObYPG/5hD21ZDp4xy/+y2xRvhuC2cmtJjkaNmWja2ylDj8u8E8z1J7T0HuW6XvqA3aSVQxnx5NU9KuAtz8PLvT3kEkcaJBPe09pWvShst/qMOGETnMRzWwH16HW37HRM75f8zfvCCP2iegQ8FJf7e1Y5BGfQzAr8q7p42TDd0ph3jTkZYbHwvRBO0SPsNZRlrz3S+2iIfi1Iej+ap9x2OidxTN94q7xKe89OfZPnscKojw/RHvTRNfc/jj6WMNZHN4unZhYuIbIVE9uAkbmN5arVm8AhZNKOCj6qB/yX3+mTyoGoKSJ1J6pCTHUfcCpzJ6aTqbpuCPw1UdRqSZ4gj+3I9CTvzGvdmcCA/JNtiyHLt1IH3lU5MrX1WdtumDc6F7QA6maBmwljS+mI6Zak6Y1nNlaNXosLP143CKRgh5NPzYWhwg6Lp5oSJ2aVMRQf/ykZdI3XO0Sa/3p6BlYhsY2Ey7xPN5XTkAElZQvZjsgw==;bddFarsZBTCIsAqnMpF8WQ=="
+secured: "Td7p+qaQLajoEwNLDa4J0OE5AD5r+WG++WVwC02ZdJTc6/C9hmLr4APZQdyWDAtU0u7VLxgo5lpQb/PMlEI6PCSyZRD+1U3qlnqUKalOtkyP+yjyOl8ZOHwsv+5b7aPkNpukb4kYitP7QweSe/cH9OX7D6fUBNksxG9IbbBt6nlkv9OCktjz5E9gE1yvUtwsDVo5qRiLLHHEmNrZBKB/x8G+K+v++3eHG5tkpVgSNytyXiOr0xfSQvN8vvLgVtZGhs4OpfRR80HJukTSQqTkFN0jKO6Lrq0MAvV50gBDDygyeBv5OudxMlMJPyGMQeds7ThFWOqH11STQZHau1Z5rfY/C9B9aZ59IBDVLlXXQZ0=;86vulV0zAWgOVMUWloa1gQ=="
 ---
 

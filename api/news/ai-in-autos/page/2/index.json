@@ -348,6 +348,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-14-the-wealthiest-self-driving-car-add-on-options.md",
+      "title": "The Wealthiest Self-Driving Car Add-On Options",
+      "excerpt": "Shifting gears, consider that the future of cars involves the emergence of self-driving cars. We are gradually going to witness the advent of AI-based true self-driving cars, whereby the vehicle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dc225367d07fd58a05945%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4595%26cropY1%3D266%26cropY2%3D3328",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
+      "publishedDateTime": "2021-02-13T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
       "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
       "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
@@ -1404,58 +1456,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-apple-more-than-doubled-autonomous-car-road-tests-in-2020.md",
-      "title": "Apple More Than Doubled Autonomous-Car Road Tests in 2020",
-      "excerpt": "Apple Inc. more than doubled road testing of its self-driving cars in 2020 as its autonomous technology improved, though it still significantly lags behind rivals as it looks eventually to launch ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-09/apple-more-than-doubled-road-tests-of-autonomous-cars-in-2020",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-09/apple-more-than-doubled-road-tests-of-autonomous-cars-in-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iWcY5NiVS37c/v1/1200x801.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

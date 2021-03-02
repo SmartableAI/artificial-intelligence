@@ -2,6 +2,61 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
+      "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
+      "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
+      "originalUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NSCAI-final-meeting.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/",
+      "publishedDateTime": "2021-03-01T18:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security",
+        "Facebook AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-aws-reorganizes-deepracer-league-to-encourage-more-newbies.md",
       "title": "AWS reorganizes DeepRacer League to encourage more newbies",
       "excerpt": "AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it’s been building on the idea ever since. Today, it announced the latest league season with two divisions: Open and Pro.",
@@ -1451,50 +1506,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap.md",
-      "title": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,",
-      "excerpt": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
-      "originalUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png",
-          "width": 960,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap/amp/",
-      "publishedDateTime": "2021-02-13T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Changes Go Far Beyond Just AI, Machine Learning"
-    excerpt: "SambaNova Systems is a technology startup founded in 2017 by a group of far-sighted engineers and data scientists who saw that the current approaches to"
-    publishedDateTime: 2021-02-25T14:55:00Z
-    webUrl: "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/"
-    ampWebUrl: "https://www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/25/changes-go-far-beyond-just-ai-machine-learning/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 80
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Untitled-design-5.jpg"
-        width: 1300
-        height: 500
-        isCached: true
   - title: "War Mongering for Artificial Intelligence"
     excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence."
     publishedDateTime: 2021-02-26T17:25:00Z

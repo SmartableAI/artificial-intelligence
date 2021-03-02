@@ -29,29 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated"
-    publishedDateTime: 2021-02-26T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
+  - title: "Machine Learning as a Service (MLaaS) Market by Application and Geography Trends, Growth and Forecast 2020 - 2027 by ARC"
+    excerpt: "pune, India, Tue, 02 Mar 2021 01:00:21 / Comserve Inc. / -- Acumen Research and Consulting added Most up-to-date research on \"Global Machine Learning as a Service (MLaaS) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027\" to its huge ..."
+    publishedDateTime: 2021-03-02T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020---2027-by-arc-2021-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
-    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
-    publishedDateTime: 2021-02-26T18:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -71,33 +57,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge Artificial Intelligence (AI) Software Market : Analysis and In-depth Study on Size Trends, Emerging Growth Factors and Regional Forecast"
-    excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Edge AI Software Market is valued at approximately USD 0."
-    publishedDateTime: 2021-02-25T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-software-market-analysis-and-in-depth-study-on-size-trends-emerging-growth-factors-and-regional-forecast-2021-02-25"
+  - title: "Global Artificial Intelligence (AI) Consulting Market 2020 Upcoming Trends, Latest Innovation, Advance Technology and Top Companies to 2025"
+    excerpt: "Global Artificial Intelligence (AI) Consulting Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-02-28T18:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-consulting-market-2020-upcoming-trends-latest-innovation-advance-technology-and-top-companies-to-2025-2021-02-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
-    excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
-    publishedDateTime: 2021-02-26T15:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=429011"
+  - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
+    excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
+    publishedDateTime: 2021-03-01T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-2020-strong-development-rising-comprehensive-industry-outlook-offers-future-business-growth-2027-2021-03-01"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
     excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"

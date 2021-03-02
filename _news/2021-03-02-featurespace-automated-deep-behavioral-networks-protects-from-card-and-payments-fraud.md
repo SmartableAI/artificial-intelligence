@@ -41,20 +41,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "Featurespace introduces Automated Deep Behavioral Networks"
-    excerpt: "Featurespace introduces Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defence to protect consumers from scams, account takeover, card and payments fraud,"
-    publishedDateTime: 2021-02-25T15:00:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86301/featurespace-introduces-automated-deep-behavioral-networks"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Featurespace unveils Automated Deep Behavioral Networks for card, payments industry"
     excerpt: "Featurespace has introduced Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defense to protect consumers from scams, account takeover, card and payments fraud."
     publishedDateTime: 2021-02-26T10:52:00Z

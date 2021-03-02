@@ -240,58 +240,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-nvidia-ceo-talks-q4-earnings-results-says-ai-is-driving-cloud-adoption.md",
-      "title": "Nvidia CEO talks Q4 earnings results, says AI is driving cloud adoption",
-      "excerpt": "Nvidia CEO Jensen Huang joined Jim Cramer on \"Mad Money\" to discuss the chipmaker's performance from the latest quarter, comment on the chip shortage impacting industry and give his outlook for the artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/02/25/nvidia-ceo-talks-q4-earnings-results-says-ai-is-driving-cloud-adoption.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/02/25/nvidia-ceo-talks-q4-earnings-results-says-ai-is-driving-cloud-adoption.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106846030-16142966525ED3-MM-Block-A2-022521.jpg?v=1614296651",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T17:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
       "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
       "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
@@ -1452,6 +1400,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-how-to-manage-your-power-bill-while-adopting-ai.md",
+      "title": "How to manage your power bill while adopting AI",
+      "excerpt": "Embracing AI doesn't mean blowing up your electric bill. Here's how to minimise the pain. Artificial intelligence (AI) and machine learning (ML) can be invaluable tools to spur innovation, but they have different management requirements than typical enterprise IT applications that run at moderate CPU and memory utilisation rates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
+      "originalUrl": "https://www.arnnet.com.au/article/685701/how-manage-your-power-bill-while-adopting-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg",
+          "width": 700,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T17:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

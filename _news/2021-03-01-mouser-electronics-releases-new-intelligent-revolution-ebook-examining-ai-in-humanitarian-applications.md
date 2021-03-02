@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-01T12:00:00Z
 originalUrl: "https://www.businesswire.com/news/home/20210301005097/en/"
 webUrl: "https://www.businesswire.com/news/home/20210301005097/en/"
 type: article
-quality: 1
+quality: 3
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 related:
   - title: "Chisel AI Sheds Light on the Insurance Industry's Most Urgent Digital Underwriting Priorities in New eBook"

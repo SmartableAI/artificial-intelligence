@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Detects Biomarkers of Autism Spectrum Disorder"
-    excerpt: "Machine learning tools were able to identify biomarkers in blood that could enable earlier diagnosis of children with autism spectrum disorder."
-    publishedDateTime: 2021-02-25T14:31:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-detects-biomarkers-of-autism-spectrum-disorder"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-09-30-Getty-Images.png"
-        width: 690
-        height: 400
-        isCached: true
   - title: "Machine Learning Identifies Autism Blood Biomarkers"
     excerpt: "Using machine learning tools to analyze hundreds of proteins, researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder and,"
     publishedDateTime: 2021-02-26T09:46:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-united-kingdom-e93048a9814d4c82b2db249b9afb7579"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "French insurtech start-up Zelros nabs $11m Series A for AI-powered insurance distribution platform"
-    excerpt: "French insurtech start-up Zelros has secured $11 million Series A funding to scale operations across Europe and expand its artificial intelligence-driven insurance distribution platform into North America."
-    publishedDateTime: 2021-02-25T13:09:00Z
-    webUrl: "https://www.intelligentinsurer.com/news/french-insurtech-start-up-zelros-nabs-11m-series-a-for-ai-powered-insurance-distribution-platform-24948"
-    type: article
-    provider:
-      name: Intelligent Insurer
-      domain: intelligentinsurer.com
-    quality: 23
-    images:
-      - url: "https://www.intelligentinsurer.com/images/meta-logo.png"
-        width: 620
-        height: 345
-        isCached: true
 
 secured: "vvVIfgplAbnIfB8cPbuQFyGD8+TpaulY4PEO8uaIdrOYy8aqa7r6ctTovswiuFc6q9e7ngSA9d8tnUlv2DCw2j0HmW/eN7Hpf4u2YeeNPL1BZ5goe3du+a4FccSKLSsRGP7Q0THEU9XnvG2w5ShGvNmBwI/kCGWX3Vl+koRxDNiisYEwWFGUyxHt/nHS49pxNxLff+D3z9eH8QB/2Yz5vA6YUyuL9ZkqoE3ZBMGrKKdx31q/p/I3i2T3Q4uGoTTlTWrt7yOvfsSu1ATeoGdqJiyda6qcGHbBvWVUP9hVZSZN9q3imQXYTkBnd0QZv9ueOlBpA1exz4znaPYFfwORGYiOQeT+zeWL8cIBzI1fgWc=;mDrNctUXKosYdC2JPD631Q=="
 ---

@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Dolbey is Best in KLAS for Speech Recognition: Front-End Imaging and Computer-Assisted Coding"
-    excerpt: "Since Dolbey’s founding in 1914, the Dolbey name has stood for dependability and industry-leading technology. The Dolbey suite of solutions include physician-facing applications for speech recognition and dictation as well as solutions for document creation and transcription and revenue cycle solutions for clinical documentation improvement (CDI) and computer-assisted coding (CAC)."
-    publishedDateTime: 2021-02-25T13:27:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-voice-recognition-computing-and-information-technology-23e5e211bde411b50d2bdcbf060719f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "W/z/eD29ibBf2x4qDvJ7tTusPTevoXPGQFLAVuq+YkDPtXVjuI0pOiCXS1CVXzU7tqD4VqgsbAnjHafbmJMp2nJYV7IaRemmf0wCsslURRBjWm9l7yQmdx6VkgaXWqQGnubVkQZT5APrlYpCya2GNgy+uCg2MC1Bn9/BuWcn4nEPIbl0UmZTBMvw/wN5e6LK6L7/ZxC5Ffe5kdrceF4najWFYwdfUAPtCLffdXR2ToHVw/MUAWfZ5+HarN2qjvMTFMrv25OqGQOkWvRHHdh1jLVWg1knIrMbtXJZP3OOTlbPjjJ5HuW08yyOhv+bT0xVM5ddraOkRz1CsFaGIknCuM82ZanPItf2J3u68D1nZOc=;V9/hl8U5hciYCJOjAGb5qQ=="
 ---

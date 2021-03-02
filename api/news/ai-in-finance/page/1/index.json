@@ -154,25 +154,43 @@
     {
       "path": "_news/2021-02-24-fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform.md",
       "title": "FundGuard Closes $12 Million Series A Funding Round to Accelerate Growth of First AI-Powered Investment Management Enterprise SaaS Platform",
-      "excerpt": "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series A funding round. The financing is being led by Team8 and existing investors Blumberg Capital and LionBird Ventures .",
+      "excerpt": "FundGuard, the AI-powered SaaS investment management and asset servicing enterprise platform, today announced that it has closed a $12 million Series",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/",
-      "originalUrl": "https://www.financialbuzz.com/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform/",
+      "webUrl": "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/fundguard-closes-12-million-series-a-funding-round-to-accelerate-growth-of-first-ai-powered-investment-management-enterprise-saas-platform-2021-02-23",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T00:37:00-08:00",
+      "publishedDateTime": "2021-02-23T20:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

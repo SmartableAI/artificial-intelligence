@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-27-robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action.md",
+      "title": "Robot Spas Are Coming: Watch The New LUUM Lash Extension Robot In Action",
+      "excerpt": "How does taking a 2.5 hour lash extension spa appointment down to 30 minutes sound? According to LUUM CEO Philippe Sanchez, that’s just the beginning: up next are brows, spray tanning, microdermabrasions",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603925fc1fd3e2761266bca3%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/02/26/robot-spas-are-coming-watch-the-new-luum-lash-extension-robot-in-action/amp/",
+      "publishedDateTime": "2021-02-26T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks.md",
+      "title": "Aurora Buys Chip Startup To Cut Laser Lidar Costs For Robot Cars And Trucks",
+      "excerpt": "The self-driving tech developer is acquiring Silicon Valley startup OURS Technology to integrate its lidar sensor into a single chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60385e3c8ad3227117d6102c%2F0x0.jpg",
+          "width": 1200,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2021/02/26/aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks/amp/",
+      "publishedDateTime": "2021-02-26T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028.md",
       "title": "Artificial Intelligence in Security Market Statistics and Research Analysis Detailed in Latest Research Report 2021-2028",
       "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given",
@@ -324,7 +430,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -366,58 +472,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-nvidia-ceo-talks-q4-earnings-results-says-ai-is-driving-cloud-adoption.md",
-      "title": "Nvidia CEO talks Q4 earnings results, says AI is driving cloud adoption",
-      "excerpt": "Nvidia CEO Jensen Huang joined Jim Cramer on \"Mad Money\" to discuss the chipmaker's performance from the latest quarter, comment on the chip shortage impacting industry and give his outlook for the artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/02/25/nvidia-ceo-talks-q4-earnings-results-says-ai-is-driving-cloud-adoption.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/02/25/nvidia-ceo-talks-q4-earnings-results-says-ai-is-driving-cloud-adoption.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106846030-16142966525ED3-MM-Block-A2-022521.jpg?v=1614296651",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T17:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -629,7 +683,7 @@
       "originalUrl": "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -973,7 +1027,7 @@
       "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1205,58 +1259,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations.md",
-      "title": "Google and MongoDB double down on cloud alliance with deeper Atlas integrations",
-      "excerpt": "Google and MongoDB expand alliance to make it simpler for developers to consume a wider range of backend cloud services.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/consortium-2x1-1.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/",
-      "publishedDateTime": "2021-02-25T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

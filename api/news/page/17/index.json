@@ -2,6 +2,50 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-15-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
+      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+      "excerpt": "Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. T2T was developed by researchers and engineers in the Google Brain team and a community of users ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/tensorflow/tensor2tensor",
+      "originalUrl": "https://github.com/tensorflow/tensor2tensor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/15658638?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care.md",
       "title": "How Hardware, Data And Artificial Intelligence Are Changing Diabetes Care",
       "excerpt": "According to Søren Smed Østergaard, Vice President, Digital Health of Novo Nordisk, the most significant innovations in the diabetes space centered around hardware, artificial intelligence (AI) and data.",
@@ -372,6 +416,58 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-the-wealthiest-self-driving-car-add-on-options.md",
+      "title": "The Wealthiest Self-Driving Car Add-On Options",
+      "excerpt": "Shifting gears, consider that the future of cars involves the emergence of self-driving cars. We are gradually going to witness the advent of AI-based true self-driving cars, whereby the vehicle ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dc225367d07fd58a05945%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4595%26cropY1%3D266%26cropY2%3D3328",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
+      "publishedDateTime": "2021-02-13T13:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1117,112 +1213,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-clearview-ai-thinks-the-solution-to-dating-is-facial-recognition.md",
-      "title": "Clearview AI Thinks The Solution to Dating Is Facial Recognition",
-      "excerpt": "Clearview AI, now the byword for unchecked surveillance, has filed a wide-ranging patent application that envisions handing over the most reviled uses of facial recognition technology to just about anyone.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
-      "originalUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 216,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wi4p4fthvs7j24g09anp.jpg",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ai-thinks-the-solution-to-dating-is-facial-re-1846260117/amp",
-      "publishedDateTime": "2021-02-12T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation.md",
-      "title": "AI Weekly: Techno-utopianism in the workplace and the threat of excessive automation",
-      "excerpt": "Arguments in favor of shared prosperity and in opposition to excessive robots, AI, and automation in the workplace.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/",
-      "originalUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/you-x-ventures-Oalh2MojUuk-unsplash-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/12/ai-weekly-techno-utopianism-in-the-workplace-and-the-threat-of-excessive-automation/amp/",
-      "publishedDateTime": "2021-02-12T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
         "Facebook AI"
       ]
     }

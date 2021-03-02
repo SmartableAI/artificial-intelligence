@@ -61,22 +61,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Attorney general’s office asks lawmakers to loosen ban on facial recognition"
-    excerpt: "The attorney general wants police to be able to use the technology to help solve child sexual exploitation cases."
-    publishedDateTime: 2021-02-25T13:56:00Z
-    webUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/"
-    ampWebUrl: "https://vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://vtdigger-org.cdn.ampproject.org/c/s/vtdigger.org/2021/02/25/attorney-generals-office-asks-lawmakers-to-loosen-ban-on-facial-recognition/amp/"
-    type: article
-    provider:
-      name: VTDigger
-      domain: vtdigger.org
-    quality: 56
-    images:
-      - url: "https://vtdigger.org/wp-content/uploads/2019/01/20190123LEGIE9.jpg"
-        width: 2000
-        height: 1498
-        isCached: true
   - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
     excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
     publishedDateTime: 2021-03-01T16:51:00Z

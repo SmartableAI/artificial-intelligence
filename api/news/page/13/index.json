@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-18-worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding.md",
+      "title": "World's fastest supercomputer and AI tapped to predict tsunami flooding",
+      "excerpt": "Fujitsu's supercomputer Fugaku is powering AI capabilities that could help predict coastal flooding conditions. \"Ordinary PCs\" can run the Fugaku-trained AI model, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/17/be02f4dc-c95e-41ed-8dda-23573633fccf/resize/1200x/ef9e38a811d483a5cadd3e7096532b4b/petrovich9.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/worlds-fastest-supercomputer-and-ai-tapped-to-predict-tsunami-flooding/",
+      "publishedDateTime": "2021-02-17T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-samsung-creates-ram-with-integrated-ai-processing-hardware.md",
       "title": "Samsung creates RAM with integrated AI processing hardware",
       "excerpt": "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads.",
@@ -1156,59 +1207,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-swift-for-tensorflow-project-shuts-down.md",
-      "title": "Swift for TensorFlow project shuts down",
-      "excerpt": "Google pulls the plug on effort to integrate the Swift language and TensorFlow machine learning library, while citing multiple achievements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
-      "originalUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/10/grave_tombstone_rip_cemetery_1920_cc0_via_pixabay_by_rob_van_der_meijden-100740483-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
-      "publishedDateTime": "2021-02-17T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

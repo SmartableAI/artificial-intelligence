@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google and MongoDB double down on cloud alliance with deeper Atlas integrations"
-    excerpt: "Google and MongoDB expand alliance to make it simpler for developers to consume a wider range of backend cloud services."
-    publishedDateTime: 2021-02-25T14:03:00Z
-    webUrl: "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/"
-    ampWebUrl: "https://venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/consortium-2x1-1.jpg?w=1200&strip=all"
-        width: 1000
-        height: 500
-        isCached: true
   - title: "Google Cloud, MongoDB Take Their Alliance To The Next Level"
     excerpt: "MongoDB and Google Cloud are expanding their strategic alliance to more tightly integrate the MongoDB Atlas cloud database with GCP services like BigQuery."
     publishedDateTime: 2021-02-25T22:32:00Z
@@ -68,6 +52,20 @@ related:
       - url: "https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"
         width: 1470
         height: 885
+        isCached: true
+  - title: "MongoDB Expands Partnership With Google Cloud With New Multi-Year Agreement"
+    excerpt: "The partnership will allow developers to integrate Atlas with Google Cloud products including BigQuery, Dataproc, Tensorflow and more."
+    publishedDateTime: 2021-03-02T06:11:00Z
+    webUrl: "https://analyticsindiamag.com/mongodb-expands-partnership-with-google-cloud-with-new-multi-year-agreement/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 22
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/mongodb-headquarters-1.jpg"
+        width: 600
+        height: 399
         isCached: true
 
 secured: "YRrM7NDcP4IcSH803dWpnnsK/0E000qyVXmSauMh7dp6pQGnI35a9VomjIEBw/daKK4xowA5ciO9IkD3e1e0QoT996zmqQS4m0O5MvL23joNdCUDiR/zZ5/777r7D5YFbmdA1dl7ZUAqAMPBntRNUr0vCouthUtmmk/doRxn6J4I/pU+YnRai3DCiNLnthldDxEFTxDaO9VZ2Eovza4UcRhIak/DLV77iOdOvu46rRtegi+Cf/KeNk+xdNU9BV26Vhok1D8o64o/JBuooWLXyVriKvgEyfYIiBaBY7CqXQV8UrlO3neoyA+sq1RzSxAVbwRD8WftCJYjz7VoAoW54dZ09FOTpuTPbYphsJvDc3E=;kmYZSOCeuLk1yP/anpcA7A=="

@@ -30,37 +30,37 @@ images:
     isCached: true
 
 related:
-  - title: "Otter.ai raises $50 million for AI transcription"
-    excerpt: "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million."
-    publishedDateTime: 2021-02-25T14:00:00Z
-    webUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/"
-    ampWebUrl: "https://venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/otter-ai-raises-50-million-for-its-ai-transcription-service/amp/"
+  - title: "Quality Match raises $6 million to build better AI datasets"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Quality Match, a Heidelberg, Germany-based quality data annotation provider, today announced that it raised a €5 million ($6 million) seed round from LEA Partners."
+    publishedDateTime: 2021-03-02T05:01:00Z
+    webUrl: "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/"
+    ampWebUrl: "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/otter-hero-screens-2-e1579832515149.png?w=1200&strip=all"
-        width: 1200
-        height: 763
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Boosted by the pandemic, meeting transcription service Otter.ai raises $50M"
-    excerpt: "Over the past year or so, voice transcription startup Otter.ai doubled down on the future of remote work by integrating its product with meeting apps like Zoom and Google Meet. With the COVID-19 pandemic having sent so many to work from home,"
-    publishedDateTime: 2021-02-25T14:01:00Z
-    webUrl: "https://techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/"
-    ampWebUrl: "https://techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/25/boosted-by-the-pandemic-meeting-transcription-service-otter-ai-raises-50m/amp/"
+  - title: "Quality Match raises $6 million to build better AI datasets – Jaweb"
+    excerpt: "Quality Match, a Heidelberg, Germany-based quality data annotation provider, today announced that it raised a €5 million ($6 million) seed round from LEA Partners. The company says it’ll use the proceeds to expand its team and accelerate product development."
+    publishedDateTime: 2021-03-02T05:37:00Z
+    webUrl: "https://elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 57
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/otter-hero-screens-2.png?w=1024"
-        width: 1024
-        height: 651
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/03/Quality-Match-raises-6-million-to-build-better-AI-datasets.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "URrP9KyoZwuS+OjsGGLv4LE11gbgZcZiPtfPglwF90S12QcKLsX1sKwL8lo3d0fCRotKn4KGrkeOUW0OeZr3PGxBpz48lyb3bHCX+6uxFvE+yDxZMfTrFVtH7lpkAlesLXuYrnf2xtIO0LQERCrHf7pBbSPC+vCs0xGg9KBvOJPTJqwHjMkm6+esbEm30MgMCj7b5y34CqJux8oIThx12c8CQSX07JrhaBzILOM6f4zZZfs9DOAVnf47X/yC+c1NFDxxXG2KzxFYC22s0Jl89iEdoWtYgbDnvWd5j3+17omQcJKSsVVfSI4xQV/WB03v3exONs+7DXId7+6QLMbBZL+7a6AKeFEgnyZr1jThFkbWr11UybYVSXXD4pdsVUUZI/eOL6JWfP4T5C5B2GLj3sl8DEgAZSfLYxHIWI2NPvPhhB2b63lyA1iMpnA6diF9LCN5754BbSYb9AcUiBkDVCVhnXBn4V4V/m4Q18de4gBy2vQ1QEx0PR3dqu7s5JJpMCjMMCXRBv2pv7kOoZHtoQ==;9bSv5mujGnoyCfqi+67iOg=="

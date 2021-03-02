@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/01/national-security-commission-on-arti
 ampWebUrl: "https://venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/"
 type: article
-quality: 107
-heat: 107
+quality: 109
+heat: 109
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - AI in Security
   - Facebook AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/NSCAI-final-meeting.png?w=1200&strip=all"
