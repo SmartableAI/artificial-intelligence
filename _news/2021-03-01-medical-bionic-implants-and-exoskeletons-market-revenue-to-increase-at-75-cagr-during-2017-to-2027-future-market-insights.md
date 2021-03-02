@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-
 webUrl: "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 448
     isCached: true
-
-related:
-  - title: "Deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026"
-    excerpt: "The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,427.2 million by 2026. North America held the major share of the global deep learning market in 2018."
-    publishedDateTime: 2021-02-26T00:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "kS3dnnCq9eh7o9HDAyJqYTLiESSznK0eq3CiP/lLFz2OYLGyzNqvPtOXh+MrYvDFH5N5aoZwQtn41tzabh3s6VaG5x1rORORFxQop/NugUWcNTffhNLX6eFhEgerEAoaiP5dfQasj7DwDzVyu5TnxaBH3PkHZ22e+7qSazZltlMJ95dztNZpGa/nkYFb4w32x4oe30GlAP9yIsK0x5JlJFttbdIVb4tR6V9OBlAcZy2Wan9It98etNJUpYJyPB7sFtcIH8buJilM2FU8FHzhDq9hf3E7R7//B7TKSuTqAt3is1W3rYC650k6Z5V3Kj/EK0iD7OjCH/J5AGWvzOVhPx2nPF3VeT99GeGZdtz2w/Y=;9aNEPFO3JekgIrdt3ESr7g=="
 ---

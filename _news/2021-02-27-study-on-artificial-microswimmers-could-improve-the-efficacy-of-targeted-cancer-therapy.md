@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210227/Study-on-artificial-m
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 51
+published: false
 
 provider:
   name: News Medical
@@ -25,33 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Artificial microswimmers slow down and accumulate in low-fuel regions"
-    excerpt: "A researcher has discovered that artificial microswimmers accumulate where their speed is minimized, an idea that could have implications for improving the efficacy of targeted cancer therapy ... \"They don't have any intelligence. They end up where ..."
-    publishedDateTime: 2021-02-26T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/02/210226121303.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
-  - title: "New research on artificial microswimmers uncovers a possible solution for delivering targeted cancer treatments"
-    excerpt: "A Mason Engineering researcher has discovered that artificial microswimmers accumulate where their speed is minimized, an idea that could have implications for improving the efficacy of targeted cancer therapy."
-    publishedDateTime: 2021-02-26T00:00:00Z
-    webUrl: "https://phys.org/news/2021-02-artificial-microswimmers-uncovers-solution-cancer.html"
-    ampWebUrl: "https://phys.org/news/2021-02-artificial-microswimmers-uncovers-solution-cancer.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-artificial-microswimmers-uncovers-solution-cancer.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 24
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/cell.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "k08xxIfE3O5pelwXkmQvcW2Cj4/O92O4d5KxVDYKetca4NRuiabsq6TfJhzWsw/f5UQTpjUmMRk7IoDol+0VPKVG4cGSefKtLrrHR0VQYm8WZmuXk5Ld/s9pBebSgdza9mUi5999p9IHMpK0BfA6FfTbCCbVxzmTKk34k7EbqBcNOOb1H7vNiPCcxgMXiCKIw+wGyM+GOF6voxuDj5F+5A90+pcWnBb5HO/AEwXHzeaDUEVheRrkg5iLEEmQMM4tPYzQSBB8+q8FtTf1xOhJXihgAY2CvEaswrY4Vypyb/20zjzhUnY5o/mi+YYKH+1BxDPje++27tdiQyI99WaWoanhIV8+JRSB3BzV9u7ipjSDfura0LiNXWHZ5+jW3Ht5zcvx7SIb4Eq1YwiZcxJZlapUOXku3FLfttwq5WyvOQFSFzM60jsl1XqzTjotFpCIj/plsGjx3uz8/+DFT9Jy7m0ojxdUjr9OGpB/fcGgLEHrUD6Ao93/KFqXR+6ErWoz7y+wFZLgX6GT4brXudczZg==;0PQSUavMPbrmX6RJNOKxKQ=="
 ---

@@ -40,6 +40,15 @@ related:
         width: 900
         height: 400
         isCached: true
+  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
+    excerpt: "Global competition calls on aspiring data scientists to innovate for sustainable economic growth- AI models to focus on helping prevent loss of"
+    publishedDateTime: 2021-03-02T10:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "Totesoft, A Leading Data Analytics Firm, Provides Top-Rated, AI-Backed Custom Data Solutions To Leading Businesses"
     excerpt: "The company recently announced two key services, multi-language text to speech and speech to text translation, which will be available ... to help businesses implement advanced open-source AI solutions and cloud-based AI technologies as cost-efficient ..."
     publishedDateTime: 2021-03-01T00:00:00Z
@@ -54,20 +63,15 @@ related:
         width: 550
         height: 480
         isCached: true
-  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
-    excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
-    publishedDateTime: 2021-03-02T10:22:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
+  - title: "The New Era of Deep-Learning Based Video Analytics"
+    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
+    publishedDateTime: 2021-03-02T15:52:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
-        width: 341
-        height: 400
-        isCached: true
+      name: Security
+      domain: securityinfowatch.com
+    quality: 4
 
 secured: "FU4VZuwsjJ6zejqgupmHqjTGWkT4YjOk+jkGFcvW533bgGMNpAmJUqLPZOVbGSwWWu5dj0tNQwltqoUBqwYA7cZ9DvN/44oIm1ETfkc9WiMyO8c+T7sS6UZhkEQkjqCUuoZ6iiD2wTN0o7NRBEDkv0GX0cBk0a2juoXQkUKv7tDg3iat4HE1SuDHylNh2Y/208yacWJ4gDG+VyFSDN9e0hjoo54KAHo56UMjaEoz+/ApcQPEzXKaKsVhbWZNxnsXVG8tsnZgb/FVrF2ldDRQRZmzJKLyyF+jrAVXNGw/TLqGl2zlc3h2DfsKSbzl4YatnKnzIb2Mh3ylS/CbOteMD9sC+w6b4JyH1USHvuQLZB4=;3OXEKwWlYFgpvaAhU8MBiQ=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk says Tesla's 'full self-driving' subscription is launching at some point before July, marking a slight delay"
+    excerpt: "The reason for the slight delay in release date was that Tesla needs more time to build out the AI in the \"full self-driving\" software, Musk said."
+    publishedDateTime: 2021-03-02T11:58:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/603e18c787d37600190d0918?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "DoGqk1JRf+xoAe2tQv9mkGCCia50Gk8q8rNxsc1HxQ5Yg+YH8l9UpMVWF+X69YZHwR2wOmdtCK8UcuvitR/HTBBz7pzyIxNqxDdmq+ONn07oxERswxncfghxATNTI3rX0ByjXmLEKNTpdhDsFuIdF6t0G4Z6s1t7+QoQrB1upEK6bGejx9tpxMzNqBAcpwW6vatX2ObGXsEuA9PNRlPlMC93bZ/ViHjaSaiS/TidFqhg13M0ur3aYVEyOQ9a+88xjy89Us3C6uRb7fB2eXQVMhpnXK5lIqGBRWucLQDqsfDbWFJs+PEa/qRhuwboeukhyJQUX+60ZwXE5rucchq8FxUM06uUNFw3jAtsgpmn5dIXtDHCwiEbAN2Mx8abxY9VCvq0tljinzabw4uBJIx1o0Ba4dktlv3j+FbjYm5tt+auWVt8u1/theqkrsjQNqVrPI5JepDFUVoBFloQCL09b3+Vb8od8KPh0mLYxSxA+/+bgvKSAH48i9ccSOOjeO0aVMhzQ7TFV+lb7Qa3jDWF5A==;rgyr9pt8XdeTmCzff5/r0w=="
 ---

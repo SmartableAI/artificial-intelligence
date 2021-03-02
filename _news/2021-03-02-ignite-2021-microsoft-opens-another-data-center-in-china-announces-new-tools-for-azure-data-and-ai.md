@@ -119,6 +119,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "The hope is that this new platform will help create a Microsoft-powered ecosystem of edge devices designed for low-power implementations, in essence replicating its success with t"
+    publishedDateTime: 2021-03-02T14:04:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
+        width: 4800
+        height: 2700
+        isCached: true
   - title: "At Microsoft Ignite, expanding reach for Azure ML & Purview, Power BI Premium"
     excerpt: "With enough data and ML announcements to go around, I'll cover news pertaining to Azure Machine Learning, Power BI and Azure Purview in this post. ZDNet comrade-in-data Tony Baer covers Ignite's NoSQL, Redis, Synapse and Azure Arc news in a separate story ..."
     publishedDateTime: 2021-03-02T14:00:00Z
@@ -145,6 +161,22 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Micrsoft-speaker-796x418.jpg"
         width: 796
         height: 418
+        isCached: true
+  - title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
+    excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
+    publishedDateTime: 2021-03-02T16:48:00Z
+    webUrl: "https://www.techradar.com/au/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 98
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
     excerpt: "Microsoft has announced Microsoft Azure Percept, consisting of its Percept Vision camera module and Percept Audio smart mic. They'll form the foundation for intelligent devices built by partners."
@@ -193,6 +225,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
         width: 1069
         height: 693
+        isCached: true
+  - title: "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning"
+    excerpt: "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence."
+    publishedDateTime: 2021-03-02T15:48:00Z
+    webUrl: "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/"
+    ampWebUrl: "https://www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp"
+    cdnAmpWebUrl: "https://www-avepoint-com.cdn.ampproject.org/c/s/www.avepoint.com/blog/office-365/avepoint-microsoft-turing/?amp"
+    type: article
+    provider:
+      name: AvePoint
+      domain: avepoint.com
+    quality: 75
+    images:
+      - url: "https://www.avepoint.com/blog/wp-content/uploads/2020/10/machine-learning-hands-of-robot-and-human-touching-on-big-data-picture-id1206796363.jpg"
+        width: 1024
+        height: 545
         isCached: true
   - title: "Microsoft debuts its edge AI service Azure Percept at Ignite"
     excerpt: "Microsoft Corp. is stepping up its artificial intelligence capabilities within its Azure Cloud platform with the launch of a new service called Azure Percept that’s designed to enable a wealth of new AI capabilities for devices at the network edge."
@@ -250,24 +298,24 @@ related:
         width: 300
         height: 249
         isCached: true
-  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
-    excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
-    publishedDateTime: 2021-03-02T14:15:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+  - title: "Ignite 2021: Microsoft announces Azure Percept – AI technologies on the edge, simplified"
+    excerpt: "Microsoft has launched a new hardware and software platform called Azure percept in the public preview today. The latest offering makes it easier for customers to develop and implement AI"
+    publishedDateTime: 2021-03-02T15:17:00Z
+    webUrl: "https://www.onmsft.com/news/ignite-2021-microsoft-announces-azure-percept-ai-technologies-on-the-edge-simplified"
     type: article
     provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
+      name: On MSFT
+      domain: onmsft.com
+    quality: 60
     images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
-        width: 845
-        height: 475
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/03/Azure-Percept.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
     type: article
     provider:
       name: CRN
@@ -320,6 +368,6 @@ related:
         height: 495
         isCached: true
 
-secured: "mIY11pVD78GzApp2iWI0ZzbaYIjNsPY+LLft+7O0lSMyumqCTkHFAfZD34V3NgPbQ+Y3oVqiCXBa5t3g/yQFo38noLFLOfSJfSBfo6dOFEO9yElXpxa7jsQxc55tiR79O318YFMfJZ+a3PIf5QJZg/GR+PygSVBG90CRi0VjDNhO9DT332ZzuvpUXvuxO/OskEszrr3VxtNwqPFexuX/FKEeSKNHTxKl86DT9xvpMUAO/8DPqQcTiD17SL95n4g0usVdA7SJdAqvH4EOf8EfbJS6Qmin75keKLn5EE2s3/wMeMGua1nl/n7lr/OOXLDLtV8b0eNUBkUAl6LzUxfRvV0M1TX1fHD45+l1e7YRyks=;8b9IV61jRdxUXe1dSFbd6w=="
+secured: "zfRj7mdjTSZRUL6CCoGg87XamRBYKLU9MM06KpKaKxxMrlGt0euAbPMwa1m4ovGdPlD5mIi76vKkFtVkPX2gy3WiykZQx9ommobMQ4L+D3rhSbiDGiFnR2uJK3flAqyRn2pd7IteAKV+2t9RnrZDrzgUtZBptZ0FPsllkMg85qwSG0xmrBGHPpAuecjjdgBwyc28Lmfhyi7Ws3ofWXvRjPumXTF2LcN4bLigAC0AoznoARPCG8bt0BtBceqD1HGe+5pOagGKk0CDwVyheVzxrImL62zlVbFDpILrco8UPzFlZ1hFsXLdVGwM6Kdig+cEGNf7jtKFPBU4+atkfZPlrB+VBN/QROsBBejaCfM1WNH9htRe/gKzYg59eFaTwfPhcMVasuZ8vuo7m/mKRmzwm1nScmUraRfKRAp62epRf0TIxLJfOsZNkhB+Ia4iesPdZDurC2NyMrDy+C8OGCoFWeqq+bEm4LOBgZvLDUDIxgglnh6WrFXoadKrhT/oCHCjIlNOQVVAVCBSEx3PzXYbpA==;v8ZWwcmvieIztTvD6tqzag=="
 ---
 

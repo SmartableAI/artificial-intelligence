@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-rean
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI App Puts New Life in Old Photos"
+    excerpt: "Nostalgia website MyHeritage has launched a new service that allows you to create lifelike animations of faces in still photos. The AI-powered service called Deep Nostalgia, launched last week, is free to try and is remarkably accurate in depicting how a person would look if captured on video."
+    publishedDateTime: 2021-03-02T12:42:00Z
+    webUrl: "https://www.technewsworld.com/story/87039.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-my-heritage-1.jpg"
+        width: 620
+        height: 335
+        isCached: true
   - title: "'Spooky' AI tool brings dead relatives' photos to life"
     excerpt: "Genealogy company MyHeritage launched its \"Deep Nostalgia\" feature earlier this week, allowing users to turn stills into short videos showing the person in the photograph smiling, winking and nodding."
     publishedDateTime: 2021-02-27T07:26:00Z

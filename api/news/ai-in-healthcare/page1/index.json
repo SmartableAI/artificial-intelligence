@@ -150,49 +150,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-27-study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.md",
-      "title": "Study on artificial microswimmers could improve the efficacy of targeted cancer therapy",
-      "excerpt": "A Mason Engineering researcher has discovered that artificial microswimmers accumulate where their speed is minimized, an idea that could have implications for improving the efficacy of targeted cancer therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/6/swimming_pool_under_water_...-Andrey_Armyagov_a70e8a1426b94ac2bc67e031fd0448c3-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210227/Study-on-artificial-microswimmers-could-improve-the-efficacy-of-targeted-cancer-therapy.aspx",
-      "publishedDateTime": "2021-02-27T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-27-ibm-watson-why-is-healthcare-ai-so-tough.md",
       "title": "IBM Watson: Why Is Healthcare AI So Tough?",
       "excerpt": "A pivotal event for AI happened when IBM’s Watson beat two all-time champions of Jeopardy! in 2011. This showed that the technology was far from being experimental. IBM would soon go on to make Watson the centerpiece of its AI strategy. And a big part of ...",
@@ -201,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -740,22 +697,13 @@
       "title": "Infosenseglobal Launches New Artificial Intelligence Division",
       "excerpt": "Infosenseglobal is proud to announce its newest division, focusing exclusively on building innovative artificial intelligence solutions for businesses looking to accelerate digital transformation. With decades of experience in information technology,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8",
+      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-42dadfc941f1adf621407806e055e7ef",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1458,6 +1406,50 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-machine-learning-used-to-generate-aav-capsids-for-gene-therapy.md",
+      "title": "Machine learning used to generate AAV capsids for gene therapy",
+      "excerpt": "A study has used artificial intelligence to reveal adeno-associated virus (AAV) capsid variants for use in gene therapies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
+      "originalUrl": "https://www.drugtargetreview.com/news/83481/machine-learning-used-to-generate-aav-capsids-for-gene-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.drugtargetreview.com/wp-content/uploads/Gene-therapy-7.jpg",
+          "width": 750,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "drugtargetreview.com",
+        "domain": "drugtargetreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk says Tesla's 'full self-driving' subscription is launching at some point before July, marking a slight delay"
+    excerpt: "The reason for the slight delay in release date was that Tesla needs more time to build out the AI in the \"full self-driving\" software, Musk said."
+    publishedDateTime: 2021-03-02T11:58:00Z
+    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/603e18c787d37600190d0918?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla’s Full Self-Driving subscription is coming in Q2 2021"
     excerpt: "Tesla CEO Elon Musk confirmed today that the electric automaker’s Full Self-Driving subscription program would be available in Q2 2021. Tesla’s Full Self-Driving suite is a robust, semi-autonomous driving functionality that allows owners to experience arguably the best self-driving program available in the world currently."
     publishedDateTime: 2021-03-01T00:00:00Z

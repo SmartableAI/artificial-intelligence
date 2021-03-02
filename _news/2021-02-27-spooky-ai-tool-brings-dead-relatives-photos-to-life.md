@@ -40,6 +40,20 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "AI App Puts New Life in Old Photos"
+    excerpt: "Nostalgia website MyHeritage has launched a new service that allows you to create lifelike animations of faces in still photos. The AI-powered service called Deep Nostalgia, launched last week, is free to try and is remarkably accurate in depicting how a person would look if captured on video."
+    publishedDateTime: 2021-03-02T12:42:00Z
+    webUrl: "https://www.technewsworld.com/story/87039.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2021-my-heritage-1.jpg"
+        width: 620
+        height: 335
+        isCached: true
   - title: "MyHeritage unveils new artificial intelligence photos"
     excerpt: "My Heritage, which uses DNA testing to help you figure out your genealogy, has unveiled a new service that uses artificial intelligence to bring still photos to life."
     publishedDateTime: 2021-03-01T15:20:00Z

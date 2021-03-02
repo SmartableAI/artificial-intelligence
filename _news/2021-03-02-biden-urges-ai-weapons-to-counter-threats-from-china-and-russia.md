@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/biden-urges-ai-weapons-to-c
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/biden-urges-ai-weapons-to-counter-threats-from-china-and-russia/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1342
     height: 778
     isCached: true
+
+related:
+  - title: "Sber among pioneers adopting AI ethics principles in Russia"
+    excerpt: "The board of Sberbank has adopted ethical principles behind AI development and use across Sber Group. Principle #1: Secure AI · The AI technologies Sber"
+    publishedDateTime: 2021-03-02T16:17:00Z
+    webUrl: "https://www.akm.ru/eng/press/sber-among-pioneers-adopting-ai-ethics-principles-in-russia/"
+    type: article
+    provider:
+      name: akm.ru
+      domain: www.akm.ru
+    quality: 54
+    images:
+      - url: "https://www.akm.ru/upload/iblock/3cb/SBER.jpg"
+        width: 320
+        height: 213
+        isCached: true
 
 secured: "nkDy+cw+vih8RUDrL9ctceO4M2sM/Thx5DuMPu1xVIAYtOdxOc/HaW03v2LZEN79r6w2M2DX5EsAKy2sNUfySCICvC9KDUTTASoIGrmh9C+CVTuRNX7+lLuv61Ohz7QEeBH2W0KjfJ5jweyRSOdmyjX4zgc0jX9gwJeT21eQR8Xk8nBStNyioHA6N0MEn4b/WF9r84S1KwMUGYy7zVxlKvzu7HstHMxH1c5hiidj+Dr1j+wuUAW3N7CPyYJMKlnSYjeo3n7GsMc5DwCVuvfRsIK6ZiaHTRKCa/Iz7XbmvRG5FePN0GRtWNftlrL858On7QhTzOVPxJsSnpCoujqdgI/rGcTwpeH/yCI6l9h+ryQ=;Yb35cQyRQNhBXBKhhkNVog=="
 ---

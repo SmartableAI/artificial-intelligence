@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/press-releases/2021-02-26/virtus-allianz
 webUrl: "https://www.bloomberg.com/press-releases/2021-02-26/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-of-special-meeting-of-sh"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) Announces Results of Special Meeting of Shareholders"
-    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) announced today that its shareholders have voted to approve a new investment advisory agreement with Virtus Investment Advisers (VIA) as well as a new subadvisory agreement by and among the fund,"
-    publishedDateTime: 2021-02-26T00:29:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-of-special-meeting-of-shareholders-1030126634"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 29
 
 secured: "DCT/JR+RedTFGrm4wk/FRu5w32YZ+U0GM9iTqmN4zcBDUdZbLvr9Nv78DrxGCDMzMPTgs3dwSYXT16uN8APdETkLdY0iliMd5GlBdDFsEU1CFclK8KVHtQUtm+CIw+Pnq6JZFIYhVlo3dqnYdk/ijRTu17/76/OpYhO+jak6PGHKk5lY4RVKQCwaYheYNFebw+aQ52LAcgc4MR86xRFSZ76YlPUDGUZKV+APqhoedYEmxTHWEv+K9Mt6vdY1nKgaxpNLGGoMoQEFf8+bMlzfh5bDkVw6QQ7OI4kprRtUNKg2UVdklC9YQRT0KYx9ktmptbc23SYJgayRVDaBt9WpkN2psQ2HtDEA1TMYKIX2uic=;sIKT0OC2OhGu+6nYiYUtnA=="
 ---

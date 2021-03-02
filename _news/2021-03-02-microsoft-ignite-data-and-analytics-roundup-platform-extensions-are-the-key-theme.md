@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-ignite-data-and-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
 type: article
 quality: 83
-heat: 113
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1500
         height: 900
         isCached: true
+  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
+    excerpt: "Global competition calls on aspiring data scientists to innovate for sustainable economic growth- AI models to focus on helping prevent loss of"
+    publishedDateTime: 2021-03-02T10:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
   - title: "Totesoft, A Leading Data Analytics Firm, Provides Top-Rated, AI-Backed Custom Data Solutions To Leading Businesses"
     excerpt: "The company recently announced two key services, multi-language text to speech and speech to text translation, which will be available ... to help businesses implement advanced open-source AI solutions and cloud-based AI technologies as cost-efficient ..."
     publishedDateTime: 2021-03-01T00:00:00Z
@@ -59,20 +68,15 @@ related:
         width: 550
         height: 480
         isCached: true
-  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
-    excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
-    publishedDateTime: 2021-03-02T10:22:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
+  - title: "The New Era of Deep-Learning Based Video Analytics"
+    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
+    publishedDateTime: 2021-03-02T15:52:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
-        width: 341
-        height: 400
-        isCached: true
+      name: Security
+      domain: securityinfowatch.com
+    quality: 4
 
 secured: "f4uBvirlGacQ5iBH1C8NYPhFC+BRVW7GUytvxBaw32UqbNEhfBbUc3CiwgSLR0yUCsDxis5oWGlA7AeMJMZsD0FIvKTiVRdw7d5rrmvFpc3PivM8NEa05z4cVFz2gBD7nKLJlMwJZZZIZguK421VnAGtyeSA3TjafKB6MB25Bv20yM647eUgoHYAoLLUCP3ZCARGj63nd5tUYEItpSvt5grtAYr3nvXfDXEyY+PxkjSFHmzY6CFe3uvHeCYfzv7eIxtoaJdo5Iz+NAQmOvdMhZcpUur9OYajZndz2UgZp8SfRiSJPaIaZz6zvE7iYYODWOybU8GU7b81iQH/C35zBdFdBBrvo4VVxw2ehbePCrc=;fO+W2wtscfmFhJ6L+kYmnQ=="
 ---

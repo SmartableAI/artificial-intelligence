@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thedailystar.net/backpage/news/driverless-bus-hits-stree
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless bus hits streets of Malaga"
-    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
-    publishedDateTime: 2021-02-26T00:36:00Z
-    webUrl: "https://www.brecorder.com/news/40068121"
-    ampWebUrl: "https://www.brecorder.com/news/amp/40068121"
-    cdnAmpWebUrl: "https://www-brecorder-com.cdn.ampproject.org/c/s/www.brecorder.com/news/amp/40068121"
-    type: article
-    provider:
-      name: Business Recorder
-      domain: brecorder.com
-    quality: 59
-    images:
-      - url: "http://www.brecorder.com/_img/social-default.jpg"
-        width: 1200
-        height: 768
-        isCached: true
   - title: "How Can Driverless Cars Take Account of Human Selfishness?"
     excerpt: "A new study has found that the percentage of individuals willing to sacrifice their own safety increased by two-thirds when informed that their peers were more likely to sacrifice their own safety, programming their vehicle to hit a wall rather than hit pedestrians who were at risk."
     publishedDateTime: 2021-02-26T11:11:00Z

@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International"
-excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of"
+excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence division, Lionbridge AI, to TELUS International,"
 publishedDateTime: 2021-03-02T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus-international-301238148.html"
-webUrl: "https://www.prnewswire.com/news-releases/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus-international-301238148.html"
+originalUrl: "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus"
+webUrl: "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus"
 type: article
-quality: 45
-heat: 45
+quality: 53
+heat: 63
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
-  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "C3 AI and Baker Hughes to Provide Enterprise AI Solutions to Accelerate PETRONAS Digital Transformation Program"
@@ -35,6 +28,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "MsdQlZkTnNEhBhytl184A0ZV7lhxl5WIKg6i48KNiziczFVRwrmKSBnFd6gVV3ur+Afuk7CB4q3QPpWS3Zibz5Uhqy+N2wx6TU43Nim3LctyS2yrnjYxjLAM8PFUSnlN2WlVIjlOka8jtYWc3nzsMPFVwQJCrW2Nj8tuEfRxC+kyJh2CMr64iuB6yEA4LK1Lcg3JxDXeSgNekkaFPcKhZfLt0lrNq47CmX1srrOY5VAObB+nRCjMxoSRkv0rzUdYls6J+6t5JLzq+G+iM3WSc96K5u/ZShFrZ0JHQcPL1IUq8kkS3bDpvWsDyg6T3cAY7VA5NoyhaRQUlysS/CdVqpnnxrMIZz0gXS0SYBljfAo=;qfnO7NfwtvesYTRyQJkBVw=="
+secured: "VdqzGl8VHRpIkjid6SP4XPEKZoBoLg8kli5wU7wGIhI4aCvtcP7aFO9WlatinyFEjFQenht9j4tYrIfGgx3B8tik6uth0mw6MQ8YvTV+zP6ydpCfawqNJvL3h1OjaoFoZkRVSrYAbT1tW2zARLWKv1WBjo/wXEncZV8EqnWcc3L+fDBRngY5DaPtTk1iQOaLbePHcRtKaIHbQ2/r3Xvu802LILrYjK7VMoan9iqgruIbigMAB1NbKDO+CybAiI+AYwggTfW+WnQ73K1YwyN8YcLvOWym0xDk8nkYbQPjEVM5T3NJFSm957HKvmXGrnRXc+PJXxlpyQW/8VTnH55mQNTTlqlORY6AvZNwVEWMCIY=;bBt2Ghq2JoFhqT/0YAv9vg=="
 ---
 

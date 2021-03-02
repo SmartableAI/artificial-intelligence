@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2021/02/27/ibm-watson-why-is-healthcare-ai-so-tough/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "The Logic Behind IBM’s Watson Healthcare Exit"
-    excerpt: "Watson promised to revolutionize medicine, so why is IBM abandoning it? The reason, in one pundit's opinion, may be due to regulations making it impossible for Watson to fully work."
-    publishedDateTime: 2021-02-25T23:42:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/the-logic-behind-ibms-watson-healthcare-exit/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 56
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/02/AdobeStock_254131481.jpeg"
-        width: 1200
-        height: 759
-        isCached: true
 
 secured: "KqmHQKdbYE8p3ukyFFt3Jt9SCUPUlqLcmoWwuaMd5EpY7/bVg2yIuGBIxUouJJNYf9sUYw1oJ7xUXDiLn7tTzwWHilD5V3LH9bn7dPvSIjaOd9hZkQI0dbbOJhaH8vTC0ulXTKdFU2E+Gh2DoT2w7fnncvCnYcHnCdixKFN/adBzVryzQ6wy31DIc89pxtliZO00xI0VG3/HdkvLQNynuEam5eDHO8kabo6gyicqIIm6EbCWIZolDzYrOF7At0dDr70YHoRtJ71ydfK5nxOlEZgC0SfINGfuqKuCCyEn2WANkMeOPc7ZdNGJsAPyksV0YRtUE60bZqD2pZdLXTBwrm3BD58eoihYe4XZ8kFvKYTksc7J53MM1dPOmhADVhjLfi3Mn5sQbRt7BAinIcmiypBhxI4waKIUhQTjoXbeZRv/UWM8V6n9iRxFdhq4+DU9+sFqWpKKjo/TLMAeykYHn6z4Y9K5xe92Rmdz8Z+6FOT8RdUT+h9XUKatkMc3WiCYOxIaWOT5LNas72aYXK+7kQ==;iOZyLtC1CH8qWhQeNmHe7Q=="
 ---

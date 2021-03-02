@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Technology Solutions Announces Executive Team Expansion"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Secretary of AITX. Reinharz is the founder and President of AITX’s subsidiaries and the majority and controlling owner of AITX."
+    publishedDateTime: 2021-03-02T14:01:00Z
+    webUrl: "https://www.oaoa.com/news/business/artificial-intelligence-technology-solutions-announces-executive-team-expansion/article_b833aa95-a109-5f13-adfc-ab8cf41134c2.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 35
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/4/cd/4cd52637-d9d2-5be9-9cde-099f018b95f3/603e4928239dd.image.jpg?resize=630%2C630"
+        width: 630
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Technology Solutions Announces Accelerated Order Activity - New Orders From Fortune Ranked Clients"
     excerpt: "education and healthcare. To learn more, visit www.aitx.ai and www.roboticassistancedevices.com, or follow Steve Reinharz on Twitter @SteveReinharz. SHARE THIS POST Artificial Intelligence ..."
     publishedDateTime: 2021-03-01T15:10:00Z

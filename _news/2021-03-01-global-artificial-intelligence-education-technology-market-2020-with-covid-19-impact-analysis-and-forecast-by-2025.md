@@ -59,6 +59,20 @@ related:
         width: 873
         height: 491
         isCached: true
+  - title: "Today's D Brief: FBI chief on the Hill; AI plan; Troops deploy to help vaccinate; COVID-variants warning; And a bit more."
+    excerpt: "FBI Director Chris Wray is testifying this morning before lawmakers with the Senate Judiciary Committee, his first public trip to Capitol Hill since September. The scope of his hearing is apt to be both incredibly broad and quite specific: lawmakers want to zero in on Wray’s oversight of the bureau in light of the Jan."
+    publishedDateTime: 2021-03-02T15:47:00Z
+    webUrl: "https://www.defenseone.com/threats/2021/03/the-d-brief-march-02-2021/172380/"
+    type: article
+    provider:
+      name: Defense One
+      domain: defenseone.com
+    quality: 12
+    images:
+      - url: "https://cdn.defenseone.com/media/img/upload/2021/03/02/DB_lander/open-graph.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "xOz0t82CFAezVqZ3uZ7hCkxAuGcXIu6MJ1DynUc16fVGLjAJ4u9YJNEG1Ytz1tBbZS5vA/AO4xTDydMjuVTm1ua7h9CN9XN+z6sOmgLyiEWm3cLCpOnRslP6t4quqcCepK6B2/zCzCNDQ3z+DLQacvcIOy2Xfyfdc40AfmA1Q2T+aGXhtUv+1AOmtJOIjnYq7LMtlwV1F1P/u/pvkNqusthSGwdyYmyYpP0M4BV2zRqDkkpaEZ6X0kK97L0ffKW1BpzTuBRDDdFcn9COubbl/mFEwtDAS2pLLEIfmISygcpsEdK5K6Ibanojq6gszGxDjnaNDo35puXJfeh/jyB3q6R51HRo1dC+oZmYBAnrkwM=;QOvqdW7o3gy6L77jr+NWgA=="
 ---

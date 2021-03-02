@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Why driverless cars are paradise on wheels for some"
-excerpt: "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ..."
+excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
 publishedDateTime: 2021-02-24T09:59:00Z
-originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews"
-webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews"
+originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
+webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "CPFpp8pyG51fFPr0/ewkkr3cN9YsqhKNv1XrhJhh49bQ9v2nhdTQXIELW9EJDeYHlmnCLzaYSkiYTWZwTL4Rw4C0HVnRbPtC+Cg/eHLHjeJq/aZetFK6XzfGO6OBTYUXk473g/dH8scOsqDOvAtar8ywLToB2rFmadJBQT4bjVfMp7jaR+Glgt1CdDvTWoNi5x3H6Yd+UX3AEXOY7fWT1RScsjsyVVPvSBfhVMY/OUwkor+XiIirEyFsqmrKdbHmYoREId0oiMNmpMzENz/QFJa2i7l42aZg63qMytieRE85jQIra7SpME9m8gOObmDUlHXMhot+avUlIdr7Iu0xyAkMZiF22KIOuzzeRbDcNuM=;Tfe0ku3S+ZodvAuyysxrTA=="
+secured: "De6DpqK6E1ggoxystHkQvOE/uq8qQbh5be7szSP4hzzSqCoJobYxaUbXrTeA8lsSbD2TLGQQuRyE/n5fVO9zMRqnHk5/Esigzp171VjBqal+ea4wzuAwd8QnP/IUGrYLz3f4fZHYrg25ROTNxQ6Sndcn1r9UNOPCElBXnP6mnNy/ur8iM6+NGghRsBJaCcZJNujKMNTcXDSNXyiz46uKPxYuoI02Lp9nLjyk0+8VaIjoVFFNJLodmfjABd+VK07f2pYu2HkOcfXNKRpzQo1iTGRgxRgXKJXeETSDMW8hejgoZsTHDJ5HnPMFUdTd6qPakrBUAkB4zxT7BVj7dAIK+McCBr3gj2elkiFhF/syaB4=;RWVFvUuSeLUVsnc6DG2USw=="
 ---
 

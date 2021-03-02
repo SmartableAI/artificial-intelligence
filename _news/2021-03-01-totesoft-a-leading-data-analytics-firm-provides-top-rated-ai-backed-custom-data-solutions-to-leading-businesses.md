@@ -56,19 +56,23 @@ related:
         height: 900
         isCached: true
   - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
-    excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
-    publishedDateTime: 2021-03-02T10:22:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
+    excerpt: "Global competition calls on aspiring data scientists to innovate for sustainable economic growth- AI models to focus on helping prevent loss of"
+    publishedDateTime: 2021-03-02T10:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
-    images:
-      - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
-        width: 341
-        height: 400
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 27
+  - title: "The New Era of Deep-Learning Based Video Analytics"
+    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
+    publishedDateTime: 2021-03-02T15:52:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 4
 
 secured: "zXZfj7m5VzK6S34LPZ4WAmT4Fte3YUGizDFuM7B2u5tPGnuBjOVwvzZIvtgUjgVxS4fvqrU+OtjPr38xTJoobjMrkmIGTqk3ej6YIHLpQ7x6ueupma39S11hMSbqswJdgm8cJ0QHLFlFqtmUlGsHcobZyCrlZqY1NUjpmgfDSLxUWLWfc1VUasDD3w+1GckwAgmLyxHk/O9OmEYOz8G+9CgPjkRhInfVfIjh5+s9LWtrTxvzucJmf5fHsVUpdfFsExTZyLUgU5lErUIis+VnXhX2vBYQeoSgB69V3UVnKa2+DBNXjQ3wKJzolOTCGThbrRf6uOF5ltgI8kNBi07C9aVg+TsSmtmc11F3R9d2tXUsCr9Eoqh7ZjByIFpJONYwaqaSLP3ed1cTwTm4DkAzuFgFGsr5GZlDynK3RXz1RXXBXAPGyb84rVSTG+FG638dqWvIRsm+fhEmUyt1sC3idx0od1+vFUxQ/+xbu/W4CJBOKPkWiLov3FWMhPvslhsV0DueXX36p6fTkK0ca1s+RQ==;p+a3ewuFdoJ7jY+o8ELXnw=="
 ---

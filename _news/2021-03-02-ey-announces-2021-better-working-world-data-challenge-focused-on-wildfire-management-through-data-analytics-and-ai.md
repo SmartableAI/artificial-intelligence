@@ -1,28 +1,26 @@
 ---
 category: news
 title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
-excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
-publishedDateTime: 2021-03-02T10:22:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
+excerpt: "Global competition calls on aspiring data scientists to innovate for sustainable economic growth- AI models to focus on helping prevent loss of"
+publishedDateTime: 2021-03-02T10:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
+webUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
 type: article
-quality: 17
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
-    width: 341
-    height: 400
-    isCached: true
 
 related:
   - title: "Microsoft Ignite Data and Analytics roundup: Platform extensions are the key theme"
@@ -69,7 +67,16 @@ related:
         width: 550
         height: 480
         isCached: true
+  - title: "The New Era of Deep-Learning Based Video Analytics"
+    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
+    publishedDateTime: 2021-03-02T15:52:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 4
 
-secured: "8rV6oqkCNDLo/jh8mdk1w1OzPxUjBBSSW+wLHPHCOkI5AR94YherH+YJfT1xkqeO8bl4OpPVwVR8ZVGzmgxeQCfBYLv7Tz+PokWcLfpQHSuvyK7n0a12Lr1eI5N9NkTNTfwKftpHkyRoBwFWDKCwU7UIC+7L/lwcutKKkvqoHBLgYkEH+CndEdKhfvW/GOuEDJx80BvdMeIt8FfqUdCgJxcE5xXsPOi/lzY8xtL8MrYY0hBG00sorgA1ox6rVKzzrVqyVDu++x5v84Ud57nrmQRyYkTH45FQP3ZSF5IQRdH5zh594GLz+xUsbnehlj44T8yzpFT2Vo75f9e1VEeKXbSTIOYdF5qNDYg8rXKh4Cs=;vEkYeGUJBzA73KpNV3PASg=="
+secured: "PcEGdKxX20z1gpnSa5GMbrAJvYkEr2j+Vknl1hwx8qWPIJtqz4hBBLN/adzHfR7BNaYlRvNcxbKVKrqaqQ/g0hsuDdyChNVJYD3R9yZliP1OfZECN2B0CwGoWRh6M6y277FE7lnJs4QYF3goD8qMu4xZX8Bn6IwRQ5qERkHcwJpnO4xc7YTT/2/8drGR14WB2MD2WV2mWfcIDKOHfyfb1d4J2OsPZffBhBazNXELcyLWNQv9XioDuTW9vNucLG9+C63gagsILdkV/MQk6Buo25rLGjVGrmpPa5s6bP266oXCNQjQFTY26tN8xqw6mBlSefnQVER4sLKsUK7Wq8tLX0vBB3gEp7U73RNDOX8CaWc=;76mBspRW+O6iHBfLj6Esjg=="
 ---
 
