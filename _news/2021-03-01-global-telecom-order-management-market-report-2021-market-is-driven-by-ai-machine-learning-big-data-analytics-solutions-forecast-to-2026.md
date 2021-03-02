@@ -202,6 +202,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Computing Market (2021 to 2026) – Share, Size, Trends & Industry Analysis Report – Kennethresearch.com"
+    excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2021-03-02T19:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-to-2026-share-size-trends-industry-analysis-report-kennethresearchcom-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence for Automotive Applications Market: 2021 Analysis Report, Share, Trends, and Overview 2021-2027"
     excerpt: "Artificial intelligence AI in the automotive industry is expected to cause serious disruption by streamlining production capacity and boosting business growth The design and deployment of new technologies including autonomous mobility vehicle simulation rapid prototyping and AI enabled car factories"
     publishedDateTime: 2021-03-02T07:58:00Z

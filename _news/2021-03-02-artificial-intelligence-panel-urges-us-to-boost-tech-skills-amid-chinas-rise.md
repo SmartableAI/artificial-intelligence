@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI panel urges US to boost tech skills amid China's rise"
+    excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons – something that Google itself has shied away from on ethical grounds."
+    publishedDateTime: 2021-03-02T05:39:00Z
+    webUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
   - title: "Panel on artificial intelligence urges US to boost tech skills amid China’s rise"
     excerpt: "Former Google CEO Eric Schmidt and current executives from Google, Microsoft, Oracle and Amazon are among the 15 members of the National Security Commission on Artificial Intelligence, which released its final report to Congress on Monday."
     publishedDateTime: 2021-03-02T06:01:00Z
@@ -40,17 +51,6 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "AI panel urges US to boost tech skills amid China’s rise"
-    excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons – something that Google itself has shied away from on ethical grounds."
-    publishedDateTime: 2021-03-02T06:02:00Z
-    webUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
-    ampWebUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 37
 
 secured: "5HMvOkZDwOAzcNu9J4uk5FvlX5pfqYUA7OyI2VfbPw1PoXHnXlHqONfmeC6VfRT0K2M3Sbfa6QWNIK4LB4ggnlcrzpSi5ffVCWffAoDo0cBlaepVTIH6Q/TpCg8BXYQy9MMsLlkQQt4BkMptRlf2WJ6jsgHNOr+MSuOp+xufDHpt8BgDXrprYxBwkaHQro9dDo13EpkKLAMPzdNi9yC/kGtyKWbvNVB9O3DS0px9EdndhwW4HYvcm8qNSzpcyOLHf4GgRsvPBBv1cHOuYsi+4khNcwO666xeQCnRQn2RKdCM7GWMKdfqgKpUrN/yzT0PbAMdZKTJwDrKuG1B5PG/p7AYlTVg/qkzxVaIDN8hHcGMJ0A9EE2CT8RUUvqRkPw5su8n1he4g5q60QVfITb/NsOHlfR1lrQZb1Pi8VENkjvepCw/na4xvLtuiECTeXjpI0Zp5mtY9fe2pI+ef74nlCnQIMIdFWsTxnwbg0u5OhC8Myoaax5HELaIR282oZIQkE0y9seYG/NQm/iUgqnQEg==;4zfnGw+gUrYWdTV9Hy2ZYA=="
 ---

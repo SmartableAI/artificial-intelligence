@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that the PGA TOUR (TOUR) has selected AWS as the Official"
+    publishedDateTime: 2021-03-02T19:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "PGA Tour Partners With AWS for Cloud Services"
     excerpt: "SEATTLE—The PGA Tour is adding Amazon Web Services (AWS) into its bag, choosing AWS to be its official cloud provider to help transform the way golf content is created, distributed and experienced for fans,"
     publishedDateTime: 2021-03-02T16:56:00Z

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Kaskada data science automation platform aims to speed machine learning models into production"
+    excerpt: "Kaskada says it aims to democratize feature engineering, an often laborious process that requires data scientists to select, clean and validate the data to be fed into machine learning training models prior to moving them into production."
+    publishedDateTime: 2021-03-02T19:26:00Z
+    webUrl: "https://siliconangle.com/2021/03/02/kaskada-data-science-automation-platform-aims-speed-machine-learning-models-production/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/18298.jpg"
+        width: 7501
+        height: 4001
+        isCached: true
 
 secured: "jztae0gb4b5YAuUQ4br7G/LKoLoEHq6skIemOi3pMEgXyZbRUUQKkWqUvY2mjpqycOVt1B59cmlZ9xMoZsxJ+/Jl26+bEokEgslNnEiMCc27790YBpDUH6YRT36aaO7tVK18F9ihzU/93HZfm8KVc7F7sazNksxh7apepuE3N5D/gWz9dJ3TxbKfbbpdLmc+HbyAdaSaKPZepdC13XPtxiUw4bNUPDaO25aS9GnojmiAmFQreMoTrNj7WMGW4KrGxCoW0rOpwa7IGjVPZiiA/S1p8YOLBBP+hHjpoX4oTWKNJ2dMWeDQZso/XCOyHhtJmFjwwy36AyaJ7mjpcwye+zI3/9+RpEOTmGfWD1AgtgA=;j6zFqw4G/NknL4VGk3jtsg=="
 ---

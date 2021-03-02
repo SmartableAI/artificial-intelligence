@@ -119,6 +119,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Mesh brings mixed-reality apps to Azure"
+    excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
+    publishedDateTime: 2021-03-02T20:37:00Z
+    webUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
+    ampWebUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 104
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "At Microsoft Ignite, expanding reach for Azure ML & Purview, Power BI Premium"
     excerpt: "With enough data and ML announcements to go around, I'll cover news pertaining to Azure Machine Learning, Power BI and Azure Purview in this post. ZDNet comrade-in-data Tony Baer covers Ignite's NoSQL, Redis, Synapse and Azure Arc news in a separate story ..."
     publishedDateTime: 2021-03-02T14:00:00Z
@@ -147,11 +163,11 @@ related:
         height: 418
         isCached: true
   - title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
-    excerpt: "the Azure Arc enabled data services has been enhanced to include Azure Machine Learning as well. “By using Azure Arc to extend machine learning (ML) capabilities to hybrid and multicloud environments, customers can train ML models directly where the data ..."
-    publishedDateTime: 2021-03-02T17:05:00Z
-    webUrl: "https://www.techradar.com/in/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
+    publishedDateTime: 2021-03-02T16:48:00Z
+    webUrl: "https://www.techradar.com/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
     type: article
     provider:
       name: TechRadar
@@ -380,6 +396,6 @@ related:
         height: 495
         isCached: true
 
-secured: "NhpFVgF/D5G2V2w8YKPEqYANKp0K03/EuyFry/5mdwpHgbVnWwm8VlY6On+Bi5N2TfxmtRhMbMXVE9OTfQniZdSxirERO79FVpcPARUoNFCDQpzPDCYPYQoD2Kmo7iVmcxj4pqKzcSwWB2FSOzlHi2h1Mr/I5IYvMrciFsNCWHbX4Y4fUEAGXm53TQg/VcC9llbpA0qbQwuab9WzaGWMXabRTYL0SvIPLLf/gdT98v+HqWBJVvUu+aQ/lf3eHLTWZSxfbYjSVTWJGyT9VvY4VFeT+Dap4r1tzUxPSFzq1a6uCD+9brVk4Z58LhGNcw+EYj6KPSbPLdg/P29mhAqyiYNKtEEDcaeI+U1s+/WNnc0=;/yxMZeENPv9sP9ZlJUeC6Q=="
+secured: "XgFrnlNYxggf7aADt293cSXRp0sFoRgyFInGa3F/OUya2LyfTKrLXOFdICjr9aAypGEynCpND3Q/Z4sfv6cFxHxl3Ar+/+EieaqQBZnA11lTjCtYJousgzj1H4WLiIp94L135iveXy5EGNHddDijJr/NF36n15BLeytyWqqFuRMWBwLm9z7P65c8eWxog5GsNs8c6J1lSgpz49kXitEn2FSFmGOa2aUR+ttOnKwd4Ns9glcKa3gHQjFpAfTLNGc0JQkdO15uFjCea+ub5JNQ1nS0aBTBKVssbOCLN5HJX4vzN1jifalsxequLOUhgkL/gSPYL59QnxxGCwH9eQi+BfwejJiqcWqmrJInBg90yvs=;1IGCNT/pdVTTCTt+FIrMeA=="
 ---
 

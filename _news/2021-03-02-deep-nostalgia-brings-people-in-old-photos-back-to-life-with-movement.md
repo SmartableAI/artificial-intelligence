@@ -57,6 +57,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "AI ‘Deep Nostalgia’ Images Have Deep Limitations"
+    excerpt: "News outlets and social media accounts have been overrun with old photos that have been animated with MyHeritage’s “Deep Nostalgia” feature, an AI-based"
+    publishedDateTime: 2021-03-02T19:05:00Z
+    webUrl: "https://petapixel.com/2021/03/02/ai-deep-nostalgia-images-have-deep-limitations/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 39
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/03/wedidnotdetectfeat.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "'Deep Nostalgia': Tech company animates photos of dead relatives"
     excerpt: "Genealogy company MyHeritage introduced its “Deep Nostalgia” tool Thursday. Similar to so-called “deep fakes,” the feature allows users to turn still photos of their dead relatives into briefly animated videos,"
     publishedDateTime: 2021-02-28T02:10:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,7 +47,21 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Kaskada data science automation platform aims to speed machine learning models into production"
+    excerpt: "Kaskada says it aims to democratize feature engineering, an often laborious process that requires data scientists to select, clean and validate the data to be fed into machine learning training models prior to moving them into production."
+    publishedDateTime: 2021-03-02T19:26:00Z
+    webUrl: "https://siliconangle.com/2021/03/02/kaskada-data-science-automation-platform-aims-speed-machine-learning-models-production/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 42
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/18298.jpg"
+        width: 7501
+        height: 4001
+        isCached: true
 
-secured: "DF4e+CFB0QNT0zTfZbWGbu/Wl+8sHzH3whdSKOt8V963mG9hjNsiZylBA69/DiN7lJNqLfMLpxha4jyAcCBsn/6MDCAJaoxkffTu0ensywmaRfgVGXW762ZwE6jtsB5aEmVWEhYhkK9ovJaCws/QSpljlmbGwLQ64uTex5BGKh3BEkmFToQMRj+1kDBcjkwfcHvlOs3mNZmMcCKnA9x1spcjhcjVr3VpPWoDi4d7RFst9MbYNrTv0KvfdijXa5Gd24CyUqK53HyKaCPkYmKSu96ssi9yngHR+8+jh378a3e4DVUL2mO7DSOPrXurR4i77RIjqBFZQjEVEqZkmDu+HSlX39vJRJGlXEarfyuLhOY=;MmBYhCX3DyAZkUYxDLjn2Q=="
+secured: "3hr4V8XO/Iq+Ne1AuxTnpY0NkYQNcfpEXBIW8bM6YX9Km8ixeAO8lWMu/TtT5z2EQNppEtGmYzjFjKqaEkEgPhCCxLGahGuZC+IkJ3OnYWJCS7ImqIOLqWAbCZf48I7isfUqiUugH+DKej9cDbMbccP/aeetPG853pdI4IfD9/i7LW5KcpPPpnXGLYKCCBoezr2m7imlVsgCJZ0KH3KcmzeRNR55scrx8UpnxKMidFBpDBvpp6r3c3Hw8FrvCUadz4GDJwUXQi49uI7CcTfftKqjfSfOKAXmKrAW3BP4pXu0N/Lf+MgRaz3FKEAFOxVZQ+MDCgz2CNy3wz38svBsl7BOYSPVB+O5G55RC8xW8dy/JXZU7VJT0K2Z3uqWztGWFpJEtzlNn+kSV4LPNKqLFdHEJeaQS0Mz7t/8GuGYF1u9F3UEZdH7CIqTKXlAR0zR4jKPQt3ikTstm2R67GN+tr/vipSncpz+BHKEewcCdbEPLl/yicLApMC3uPjArvwGjAfZDoo+M/5CssJ4lbSeSQ==;yyx97nbBgdF98GOnDQITqA=="
 ---
 

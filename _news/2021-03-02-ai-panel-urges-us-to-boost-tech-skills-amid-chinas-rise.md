@@ -1,20 +1,24 @@
 ---
 category: news
-title: "AI panel urges US to boost tech skills amid China’s rise"
+title: "AI panel urges US to boost tech skills amid China's rise"
 excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons – something that Google itself has shied away from on ethical grounds."
-publishedDateTime: 2021-03-02T06:02:00Z
-originalUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
-webUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
-ampWebUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
+publishedDateTime: 2021-03-02T05:39:00Z
+originalUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3"
+webUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3"
+ampWebUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3?amp"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -51,6 +55,6 @@ related:
         height: 713
         isCached: true
 
-secured: "ehwV63oh7kVlkdkiRX8C2QK2lCxlGryU/bTfVgSPfbY/ntTDAIP6MbsjgUYuxxqSoB21DhptFVFbFzIRAY6y8qlgt9LRHYZYdzLik2wJ0Yl8yvgHC42gkSxhyWrjy4kW5Kp/jG1Hj45Sk0+KFl6KDrHr7aHmLavFmTVGjRGMpaAbT5vviwuoxHBxoLDUQgTs2bq+njFVNRWEhi+CmcY459AlMjyf54iCbslizNKoAZUDuubmUdTW2SdTiKfpQM/KEFkxtCMhDuSv8VNHLBPAv6gS409CwXFW2gIBCxJMuqXuyDcdjbxq1nXMaXflwQ38rmsyI/RkZKo7C5uk9/YQSOr6V8aCoTZX/9qpTd3bK7KiVvbzulOR0qzH3rUNW8kRISWCkPX4Z6oaJC/FYOiLz7U4lu/KH2b6CjvkRwnHw5xAQXT2EEea+ndaPWZtHg/w1vbGSobLiqAIBBg+T1v8+KWNiLSbXGNqCSzPjDoWHSI9tGsfnZrIKpT8eEHUMe8IYAyz38AKkZrzqwOVLkfu7A==;7uFBQEWlYrBdpczUxgVz+Q=="
+secured: "+sufTPW/Dx2tZqjcHKcRp4Xt9Xs1m5zWrXy2gax8Hf/QQZeXrBBdVv+ceZEs7TwrgYyk+RIq/sBl4ex9098Amqxf0lJVRHM4vX0O6wSuaGqb3Hls7IsjZ+AKoEKofR5b1H4NRiic/PVh9sM5ODZY4XttL/rAtKA1Qq94DLPnhBv71sfaPPrY49XPuoDkjtCt9mscrFq52ep4FYSNu5x3t7v2LzAoOkIK2JsnXjE9gAaQ4gRyuszyDM0Ing5czgNv+5VBWlt2cyBq3kJrzeVqNn/ijU6QR/ByBW0XPR3uWqI4HiMjuZHZrEkS4qMlf+NAD0GNkAT3k/A55wN5UwJ6g7UywmvXfYf6P1sXHoXsjGc=;B44FzHrHODo3hUxEw4jVrg=="
 ---
 

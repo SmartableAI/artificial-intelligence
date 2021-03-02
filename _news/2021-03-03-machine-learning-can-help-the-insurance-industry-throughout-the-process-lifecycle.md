@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can
 ampWebUrl: "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515"
@@ -30,6 +31,6 @@ images:
     height: 493
     isCached: true
 
-secured: "KPFdM+74IoQSbdC0uZx9VfrDiQkLU6O2fWfsskPG4YF20KZbsdefGfs2cDSgUhfoV7dyz9opY6f9jDKijtUo5ow45DRrY+dVUPQ3prlgOIDrHgi54a9Ww3GJfHEQMmaUYb7rXUZkglpGGfwJyYtY/HJk5/+eaet2MVxI/gR3X8pIKNMUlUH2/b97YvuKx6DHqYWYq/9SAvFo30VBW64FWAz6BUvH4czEj7xzOlRtQAhwbYGDFSzITc48d6MMm9rstb7wNn5Wv97iM3rjwSbO5xua0SZT2Z4GwRqJFMhv//HGj/lISghJthSHSz4XQ5TsBmCs8FaA8yd+F0txcyf75ABLkMdyCn/gnfGg+GPZt0w=;CVe55J7sbXoMMeIAd20j4g=="
+secured: "/enpyIxeE+W637EguTHTNnHsjVNcAp1NHpRdtSoy2HVUiMBhUXqzMd9rmBcmwTOVCEZOdQYCtTn5zBTj10uzZoUr/4FD9PdtPaTmbvp+FY3ygiHRPOxwh6gF7tfEZdOtY9ifQzuqLlAaaIoRi8tgv4+IqFnuGY27kVZS9UTkVtCG+hjoQJK4+2UzU7Pjwkk70Mvu1rVsYMk/rfDDeeSk6ErT5SQWitgXBWwWfF0FWRsagwe7UmB9k7U5kWCQspCbgbq4G4/SgB4dbu+CGXLnA6QOjr0XYwANIHkvT3o0Yztxmw24NiSG94LEh0EVQjAjn5YGVO9XdOqzvEmmMUdDnHokPDml/rrZr1TCR4hrOXljDRb4d7l2w+YHZ5iNMiF5iYUQptMsmYE3NyZH5JRFeMOMuLibgEu/CkCCqqxvpCUo5Ri4OSMnzahMGfBvr5jbxjoesL1l4/QU5JYosBomJlUvmBDn3HBjyb/8puQ26ZLOlDZ///G1yjays5/ikuNydh3b1RwPWiEN/IKx+tOBaw==;mTEVXlmFtY3A1BVbsc23eg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10"
         width: 600
         height: 360
+        isCached: true
+  - title: "AI ‘Deep Nostalgia’ Images Have Deep Limitations"
+    excerpt: "News outlets and social media accounts have been overrun with old photos that have been animated with MyHeritage’s “Deep Nostalgia” feature, an AI-based"
+    publishedDateTime: 2021-03-02T19:05:00Z
+    webUrl: "https://petapixel.com/2021/03/02/ai-deep-nostalgia-images-have-deep-limitations/"
+    type: article
+    provider:
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 39
+    images:
+      - url: "https://petapixel.com/assets/uploads/2021/03/wedidnotdetectfeat.jpg"
+        width: 1600
+        height: 840
         isCached: true
   - title: "'Deep Nostalgia': Tech company animates photos of dead relatives"
     excerpt: "Genealogy company MyHeritage introduced its “Deep Nostalgia” tool Thursday. Similar to so-called “deep fakes,” the feature allows users to turn still photos of their dead relatives into briefly animated videos,"

@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Why Baidu Stock Soared Today"
-excerpt: "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company."
-publishedDateTime: 2021-02-20T02:58:00Z
-originalUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
-webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
+excerpt: "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ..."
+publishedDateTime: 2021-02-20T03:25:00Z
+originalUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602"
+webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602"
 ampWebUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
   name: Nasdaq
@@ -20,17 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Why is Baidu car-making not favored by the industry?"
-    excerpt: "Baidu announced the construction of cars, the industry is boiling, but seems to watch more lively. On January 11, Baidu officially announced that it would enter the automobile industry as a vehicle manufacturer."
-    publishedDateTime: 2021-02-24T14:03:00Z
-    webUrl: "https://news.metal.com/newscontent/101404179/Why-is-Baidu-car-making-not-favored-by-the-industry/"
-    type: article
-    provider:
-      name: Metal
-      domain: metal.com
-    quality: 19
-
-secured: "6OXD0eVwZVdmSwm5I67PrgEG7HFGr2BUruhKNVaAt8XFc0JJluzJZen+65Cdu9BHI1c/4Nrplidvy+ps68lAWHjoc/tsrR0Gaf/OqkH1bEj0ln8/t9k4XUzY6zAPLKosDaCFQjo8mTMhHoQWOEgpe7NWurCD4orRSeDHp1wMQkqFmwG7rqc5RvO9K2Z/LYzsLD9LFn0aKc7loDbioeyfdXS/thmqMjj5zbKpOYzuE1NMUyy8HkWR1xBDtA0JpOTmE7hfhaPKHrtA56M9LsfGlFYrXIldJjBQfyYF6b7ky+UNbJrJriq0MqmFCqX5K5+GO7ds5XdvhmbBdCI5o7XJyOqAuXywUM+aNLZz+ky863Y=;sMwwDRSOgh8eYmrX5qHp5Q=="
+secured: "fHRVEngfd9c2GoRh9f6WBclhroSjW14J6YS02AjtbDru1x0hHVQMSB6DbOUzXgCC7MkOvLbMmBSljj7oQhPAMDiwreKZaEOgUjhe2Drav4IKdmaZ3MTPur5lMZbIVmzvbAQYGwpi289zCdZ7kHX+CJPfJKEuLPssiZpV/Lgu+gYvUCVtAxd9ee5It+0mzVFiJKWAhbiV3Bw9UkUdUBpqwtmQI6dHEKuiaU4QtinaLv9IeRb4QmePoDt5ho6iKw6nOpbbWNUTMU34Bqabi1XJo9XK3upmIE9NsYnJxpd4yb5AreCGYhMsc+vWDnpm+f9WMuOJEbUW/rYqQ/zUlFMw2cLS/ypboIvZKrlP5EEQxCQ=;UaqSox/3u8jycHQjiu8WPA=="
 ---
 
