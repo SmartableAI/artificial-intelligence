@@ -24,6 +24,22 @@ images:
     height: 342
     isCached: true
 
+related:
+  - title: "Workflow towards automated segmentation of agglomerated, non-spherical particles from electron microscopy images using artificial neural networks"
+    excerpt: "We present a workflow for obtaining fully trained artificial neural networks that can perform automatic particle segmentations of agglomerated, non-spherical nanoparticles from scanning electron microscopy images “from scratch”,"
+    publishedDateTime: 2021-03-02T12:05:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-84287-6"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 2
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84287-6/MediaObjects/41598_2021_84287_Fig1_HTML.png"
+        width: 685
+        height: 362
+        isCached: true
+
 secured: "jy7SMOSDFnxCOhyHAkGlnK3Q2ZPC1xPf9v0G8GTFOOwu0QuL9ygarqbAgzh0F+p5Qy5VUH/buBrRu5iGzlRhWaUsTfDA6m7zwBZajPJIu3BDc9sM06+pVwtZpe6G83u3TMJrkNzl5bopgLoPAw8O1ZDUOy1/jvODtaDfJ89Ki8AGNHC+OgoBQ52DJ0F7mteCJd7ovlfnThokMiwmLijiRfWzAnQbKDHt5qhCNJYcjdw3WO5S0tCkjRLTJpjqLqmD/uwi+k6Bt+IUz4FQxWRnhWRm0S/gbSKYTy0Y3UT/prdSJZWCjdxcuZeH7RuKU7ZwqoO9mis+SJOTO57s26pIp2jbTybits9ni6+M+pDEUQg=;SxloU69sQFH20NHhf7fZ2A=="
 ---
 

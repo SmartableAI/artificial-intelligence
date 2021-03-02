@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-10-ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.md",
+      "title": "Ford to invest $1 billion in artificial intelligence for your car",
+      "excerpt": "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "originalUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Albuquerque Journal",
+        "domain": "abqjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-how-artificial-intelligence-can-transform-construction.md",
       "title": "How Artificial Intelligence Can Transform Construction",
       "excerpt": "Recent advancements in machine learning provide advice on bidding, scheduling and labor allocation, pointing the way to a more data-driven project life cycle",
@@ -1384,59 +1418,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces.md",
-      "title": "Using the AWS DeepRacer new Soft Actor Critic algorithm with continuous action spaces",
-      "excerpt": "AWS DeepRacer is the fastest way to get started with machine learning (ML). You can train reinforcement learning (RL) models by using a 1/18th scale autonomous vehicle in a cloud-based virtual simulator and compete for prizes and glory in the global AWS DeepRacer League. We’re excited to bring you two",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-the-aws-deepracer-new-soft-actor-critic-algorithm-with-continuous-action-spaces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/03/Thumbnail.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T14:03:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

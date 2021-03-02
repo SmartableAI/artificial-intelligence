@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
+      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
+      "excerpt": "Amazon wants to encourage more newcomers to the world of machine learning, and has given a new spin to an old idea to try and make it happen. Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020-2027-by-arc.md",
       "title": "Machine Learning as a Service (MLaaS) Market by Application and Geography Trends, Growth and Forecast 2020 - 2027 by ARC",
       "excerpt": "pune, India, Tue, 02 Mar 2021 01:00:21 / Comserve Inc. / -- Acumen Research and Consulting added Most up-to-date research on \"Global Machine Learning as a Service (MLaaS) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027\" to its huge ...",
@@ -1415,59 +1468,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
-      "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
-      "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T07:13:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

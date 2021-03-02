@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-18-baidu-revenue-beats-estimates-as-core-search-business-recovers.md",
+      "title": "Baidu revenue beats estimates as core search business recovers",
+      "excerpt": "In January, the company announced it is teaming up with Zhejiang Geely Holding Group to produce smart electric vehicles, prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. With its AI applications still in the early ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/18/2a03049c-7188-11eb-ba58-f8f0a43119e3_image_hires_094224.jpg?itok=M_qgViAc&v=1613612550",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "publishedDateTime": "2021-02-18T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-breakingviews-capital-calls-baidu-hits-its-ai-stride.md",
       "title": "Breakingviews - Capital Calls: Baidu hits its AI stride",
       "excerpt": "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,",
@@ -661,11 +713,11 @@
     },
     {
       "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com",
-      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),",
+      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
+      "excerpt": "The “Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By Demand Category, By Company, By Region, Forecast & Opportunities, 2026” report has been ...",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -675,11 +727,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:08:00-08:00",
+      "publishedDateTime": "2021-02-12T04:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1437,40 +1489,6 @@
       "provider": {
         "name": "Mashable",
         "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.md",
-      "title": "Ford to invest $1 billion in artificial intelligence for your car",
-      "excerpt": "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
-      "originalUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
         "images": null,
         "publishers": null,
         "authors": null

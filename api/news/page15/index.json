@@ -2,6 +2,144 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-17-ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise.md",
+      "title": "IBM’s Arin Bhowmick explains why AI trust is hard to achieve in the enterprise",
+      "excerpt": "IBM's Arin Bhowmick explains why in the absence of explainability, it remains difficult for enterprise organizations to trust AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-Design-Explainability-1.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/ibms-arin-bhowmick-explains-why-ai-trust-is-hard-to-achieve-in-the-enterprise/amp/",
+      "publishedDateTime": "2021-02-16T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-baidus-share-price-bounces-back-ahead-of-earnings.md",
+      "title": "Baidu’s share price bounces back ahead of earnings",
+      "excerpt": "On 18 March, Baidu’s share price fell to $83.62 on the stock’s worst day of trading — its lowest close since 2013. Over the following months, Baidu’s share price had a lacklustre performance and didn’t return to the green until 4 November,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "originalUrl": "https://www.cmcmarkets.com/en-gb/opto/baidus-share-price-bounces-back-ahead-of-earnings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.cmcmarkets.com/images/Baidu1602_medium.jpg",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMC Markets",
+        "domain": "cmcmarkets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-incorporating-artificial-intelligence-in-indian-healthcare.md",
+      "title": "Incorporating artificial intelligence in Indian healthcare",
+      "excerpt": "AI has a capacity to take charge of rural areas with a mobile device, without having the doctors to travel from village to village, says the eExpedise founder",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "originalUrl": "https://www.thehansindia.com/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/02/16/1031670-artificial-intelligence.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/health/incorporating-artificial-intelligence-in-indian-healthcare-672463",
+      "publishedDateTime": "2021-02-16T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-global-application-release-automation-market-2021-to-2026-growth-trends-covid-19-impact-and-forecasts-researchandmarketscom.md",
       "title": "Global Application Release Automation Market (2021 to 2026) – Growth, Trends, COVID-19 Impact, and Forecasts – ResearchAndMarkets.com",
       "excerpt": "Growth, Trends, COVID-19 Impact, and Forecasts (2021 – 2026)” report has been added to ResearchAndMarkets.com’s offering. The application release automation market is expected to reach USD 4.47 billion by 2026 from the present estimate of USD 1.",
@@ -1013,154 +1151,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner.md",
-      "title": "BasisAI Helps APAC Tech Firms Adopt Responsible AI as an Open Loop Partner",
-      "excerpt": "SINGAPORE, Feb. 15, 2021 /PRNewswire/ -- BasisAI, an artificial intelligence technology firm and Singaporean partner of Open Loop, a global experimental governance programme, has recently helped ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-301228609.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/basisai-helps-apac-tech-firms-adopt-responsible-ai-as-an-open-loop-partner-301228609.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1438689/image_5012959_7295078.jpg?p=facebook",
-          "width": 2498,
-          "height": 1309,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T00:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023",
-      "excerpt": "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-uae-face-recognition-market-size-to-witness-huge-growth-by-2025.md",
-      "title": "UAE Face Recognition Market Size to Witness Huge Growth by 2025",
-      "excerpt": "Selbyville, Delaware According to the latest study on 'UAE Face Recognition Market Analysis, 2020', available with Market Study Report LLC, the United Arab Emirates face recognition market is projected to showcase tremendous growth trends through 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/uae-face-recognition-market-size-to-witness-huge-growth-by-2025-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

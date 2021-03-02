@@ -43,6 +43,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Analytics Insight Publishes Vendor Analysis Report for Artificial Intelligence"
+    excerpt: "Analytics Insight recently published its first AI Review report to offer insights on how artificial intelligence service providers are positioned in the industry. The report named AI Vendor Analysis 2021 analyses artificial intelligence vendors."
+    publishedDateTime: 2021-03-02T11:10:00Z
+    webUrl: "https://www.analyticsinsight.net/analytics-insight-publishes-vendor-analysis-report-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Review.jpg"
+        width: 1500
+        height: 900
+        isCached: true
   - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
     excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
     publishedDateTime: 2021-03-02T10:22:00Z

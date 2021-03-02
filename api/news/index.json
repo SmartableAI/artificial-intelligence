@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-who-leads-the-world-on-ai-a-decade-from-now-it-might-not-be-the-us.md",
+      "title": "Who leads the world on AI? A decade from now, it might not be the US",
+      "excerpt": "National Security Commission on Artificial Intelligence fears US dominance in AI could be lost to China within 10 years due to a serious boost in investments and computing capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/who-leads-the-world-on-ai-a-decade-from-now-it-might-not-be-the-us/",
+      "originalUrl": "https://www.zdnet.com/article/who-leads-the-world-on-ai-a-decade-from-now-it-might-not-be-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-leads-the-world-on-ai-a-decade-from-now-it-might-not-be-the-us/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-leads-the-world-on-ai-a-decade-from-now-it-might-not-be-the-us/",
+      "publishedDateTime": "2021-03-02T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
+      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
+      "excerpt": "Amazon wants to encourage more newcomers to the world of machine learning, and has given a new spin to an old idea to try and make it happen. Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
+      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
+      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3",
+      "originalUrl": "https://www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3?amp",
+      "publishedDateTime": "2021-03-02T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu.md",
       "title": "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu",
       "excerpt": "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.",
@@ -158,7 +296,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -510,40 +648,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
-      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
-      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS. The company traces its origins back to MIPS Computer Systems Inc,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-03-01?amp",
-      "publishedDateTime": "2021-03-01T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -972,7 +1076,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1160,101 +1264,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-deep-learning-based-splice-ai-can-help-predict-the-onset-of-alzheimers-disease.md",
-      "title": "Deep learning-based splice-AI can help predict the onset of Alzheimer's disease",
-      "excerpt": "Korea Brain Research Institute (KBRI, President Suh Pann-ghill) announced that the research team led by Dr. Jae-Yeol Joo discovered new cryptic splice variants and SNVs in PLCg1 gene of AD-specific models for the first time using Splice-AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
-      "publishedDateTime": "2021-02-28T21:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-most-ads-you-see-are-chosen-by-a-reinforcement-learning-model-heres-how-it-works.md",
-      "title": "Most ads you see are chosen by a reinforcement learning model — here’s how it works",
-      "excerpt": "Every day, digital advertisement agencies serve billions of ads on news websites, search engines, social media networks, video streaming websites, and other platforms. And they all want to answer the same question: Which of the many ads they have in their catalog is more likely to appeal to a certain viewer?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/1-copy-60-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/amp/",
-      "publishedDateTime": "2021-02-28T20:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

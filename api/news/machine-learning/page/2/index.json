@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
+      "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
+      "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T07:13:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-dynamic-yield-improves-ecommerce-sales-with-deep-learning-based-personalized-listing-pages.md",
       "title": "Dynamic Yield Improves eCommerce Sales with Deep Learning-Based Personalized Listing Pages",
       "excerpt": "Solution uses a self-training ranking engine to dynamically transform static, one-size-fits-all listing pages into fully individualized",
@@ -1394,59 +1447,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond.md",
-      "title": "Data meets science: Open access, code, datasets, and knowledge graphs for machine learning research and beyond",
-      "excerpt": "An new interconnected ecosystem for research is shaping up, and machine learning is just the tip of the iceberg.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "originalUrl": "https://www.zdnet.com/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/15/147ee85a-6053-45a1-baf8-385ec67125b0/annie-spratt-dank9gjvdy-unsplash.jpg",
-          "width": 3432,
-          "height": 5145,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond/",
-      "publishedDateTime": "2021-02-16T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
         "Machine Learning"
       ]
     }

@@ -57,6 +57,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Analytics Insight Publishes Vendor Analysis Report for Artificial Intelligence"
+    excerpt: "Analytics Insight recently published its first AI Review report to offer insights on how artificial intelligence service providers are positioned in the industry. The report named AI Vendor Analysis 2021 analyses artificial intelligence vendors."
+    publishedDateTime: 2021-03-02T11:10:00Z
+    webUrl: "https://www.analyticsinsight.net/analytics-insight-publishes-vendor-analysis-report-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Review.jpg"
+        width: 1500
+        height: 900
+        isCached: true
 
 secured: "8rV6oqkCNDLo/jh8mdk1w1OzPxUjBBSSW+wLHPHCOkI5AR94YherH+YJfT1xkqeO8bl4OpPVwVR8ZVGzmgxeQCfBYLv7Tz+PokWcLfpQHSuvyK7n0a12Lr1eI5N9NkTNTfwKftpHkyRoBwFWDKCwU7UIC+7L/lwcutKKkvqoHBLgYkEH+CndEdKhfvW/GOuEDJx80BvdMeIt8FfqUdCgJxcE5xXsPOi/lzY8xtL8MrYY0hBG00sorgA1ox6rVKzzrVqyVDu++x5v84Ud57nrmQRyYkTH45FQP3ZSF5IQRdH5zh594GLz+xUsbnehlj44T8yzpFT2Vo75f9e1VEeKXbSTIOYdF5qNDYg8rXKh4Cs=;vEkYeGUJBzA73KpNV3PASg=="
 ---

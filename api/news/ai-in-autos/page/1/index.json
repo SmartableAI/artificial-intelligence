@@ -307,6 +307,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
+      "title": "Driverless bus hits streets in southern Spain",
+      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
+      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
+          "width": 560,
+          "height": 292,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "publishedDateTime": "2021-02-26T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks.md",
       "title": "Aurora Buys Chip Startup To Cut Laser Lidar Costs For Robot Cars And Trucks",
       "excerpt": "The self-driving tech developer is acquiring Silicon Valley startup OURS Technology to integrate its lidar sensor into a single chip.",
@@ -458,10 +501,10 @@
     {
       "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
       "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
+      "excerpt": "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=mw_latestnews",
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1348,58 +1391,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-baidu-revenue-beats-estimates-as-core-search-business-recovers.md",
-      "title": "Baidu revenue beats estimates as core search business recovers",
-      "excerpt": "In January, the company announced it is teaming up with Zhejiang Geely Holding Group to produce smart electric vehicles, prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. With its AI applications still in the early ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/18/2a03049c-7188-11eb-ba58-f8f0a43119e3_image_hires_094224.jpg?itok=M_qgViAc&v=1613612550",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
-      "publishedDateTime": "2021-02-18T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

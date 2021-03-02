@@ -2,6 +2,143 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-01-29-robust-artificial-intelligence-tools-to-predict-future-cancer.md",
+      "title": "Robust artificial intelligence tools to predict future cancer",
+      "excerpt": "MIT researchers have improved their machine learning system, Mirai, developed to predict cancer risk from mammogram images, and validated their effectiveness with studies across several hospitals.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
+      "originalUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202101/MIT-Mirai_0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-googles-updated-voice-access-leverages-ai-to-detect-in-app-icons.md",
+      "title": "Google’s updated Voice Access leverages AI to detect in-app icons",
+      "excerpt": "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "publishedDateTime": "2021-01-28T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-artificial-intelligence-in-epidemiology-market-by-ai-type-infrastructure-deployment-model-and-services-global-forecast-to-2026-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services - Global Forecast to 2026 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This global AI epidemiology and public health market report provides a comprehensive evaluation of the positive impact that AI technology will produce with respect to healthcare informatics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-kitovai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual-inspection-solutions.md",
       "title": "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions",
       "excerpt": "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition",
@@ -1009,151 +1146,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-starship-raises-17-million-to-develop-driverless-delivery-robots.md",
-      "title": "Starship Raises $17 Million To Develop Driverless Delivery Robots",
-      "excerpt": "Starship has raised $17 million to keep working on autonomous deliveries, a post on Medium from the company says. The company has also added two new service campuses, UCLA and Bridgewater State ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "originalUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/01/starship-delivery-robots-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "publishedDateTime": "2021-01-28T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-carlyle-invests-in-ai-startup-after-year-as-client.md",
-      "title": "Carlyle Invests in AI Startup After Year as Client",
-      "excerpt": "Carlyle Group Inc. is converting from a client of SESAMm SAS to an investor in the French developer of artificial intelligence-powered analytical software used by investment managers and banks to crunch through large data sets and analyze reams of text to identify investment opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000",
-      "originalUrl": "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-291450/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-envision-ai-glasses-a-game-changer-in-helping-blind-people-master-their-environment.md",
-      "title": "Envision AI Glasses – A Game-Changer In Helping Blind People Master Their Environment",
-      "excerpt": "Envision AI glasses are a game-changer for blind people. In addition to advanced audio rendition of scenes, text and objects, the device offers a unique video calling feature. This enables blind people to receive effective sighted guidance from friends and family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60129a7e6b3b784671f1ce9c%2F0x0.jpg%3FcropX1%3D181%26cropX2%3D1738%26cropY1%3D0%26cropY2%3D730",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/amp/",
-      "publishedDateTime": "2021-01-28T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

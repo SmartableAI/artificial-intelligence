@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-20-google-fires-second-ai-ethics-researcher-following-internal-investigation.md",
+      "title": "Google fires second AI ethics researcher following internal investigation",
+      "excerpt": "Margaret Mitchell was using an automated script to look through her emails for evidence of discrimination against Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "originalUrl": "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/O1BP3JZVk2HBAEmcX_KBvD3zFuQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68845703/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "publishedDateTime": "2021-02-19T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-second-google-ai-ethics-leader-fired-she-says-amid-staff-protest.md",
+      "title": "Second Google AI ethics leader fired, she says amid staff protest",
+      "excerpt": "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation",
+      "sourceUrl": null,
+      "webUrl": "https://wsau.com/2021/02/19/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest/",
+      "originalUrl": "https://wsau.com/2021/02/19/second-google-ai-ethics-leader-fired-she-says-amid-staff-protest/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-02/19/2021-02-19T222922Z_3_LYNXMPEH1I1GF_RTROPTP_3_EU-ALPHABET.JPG",
+          "width": 800,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSAY",
+        "domain": "wsau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i.md",
+      "title": "Reviewing online fraud using Amazon Fraud Detector and Amazon A2I",
+      "excerpt": "Each year, organizations lose tens of billions of dollars to online fraud globally. Organizations such as ecommerce companies and credit card companies use machine learning (ML) to detect online fraud. Some of the most common types of online fraud include email account compromise (personal or business),",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/15/1559Architecture.jpg",
+          "width": 800,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T13:15:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology.md",
       "title": "AI in the OR: One company is closing the gaps in surgery using technology",
       "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
@@ -1048,136 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-will-robots-rule-the-world-new-haven-author-has-the-answers-to-artificial-intelligence-questions.md",
-      "title": "Will robots rule the world? New Haven author has the answers to artificial intelligence questions",
-      "excerpt": "Steve Shwartz isn’t particularly worried about artificial intelligence, and if anyone should know whether or not to panic, it’s him. He’s been working in artificial intelligence since 1979, when he enrolled in a post-doctorate program at Yale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
-      "originalUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/16/54/00/20627507/3/rawImage.jpg",
-          "width": 1900,
-          "height": 1267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Middletown Press",
-        "domain": "middletownpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
-      "title": "The Power of Artificial Intelligence (AI)",
-      "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
-      "originalUrl": "https://www.cioreview.com/cioviewpoint/the-power-of-artificial-intelligence-ai-nid-27058-cid-202.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/7ZAitg5M.jpeg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T22:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
-      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
-      "excerpt": "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223",
-      "publishedDateTime": "2021-02-18T22:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

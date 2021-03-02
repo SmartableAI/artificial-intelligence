@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-01-deep-learning-based-splice-ai-can-help-predict-the-onset-of-alzheimers-disease.md",
+      "title": "Deep learning-based splice-AI can help predict the onset of Alzheimer's disease",
+      "excerpt": "Korea Brain Research Institute (KBRI, President Suh Pann-ghill) announced that the research team led by Dr. Jae-Yeol Joo discovered new cryptic splice variants and SNVs in PLCg1 gene of AD-specific models for the first time using Splice-AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/2/Alzheimers_amyloid_plaque_-_Juan_Gaertner_9638f1223d534b518a192c8478871d65-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx",
+      "publishedDateTime": "2021-02-28T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-most-ads-you-see-are-chosen-by-a-reinforcement-learning-model-heres-how-it-works.md",
+      "title": "Most ads you see are chosen by a reinforcement learning model — here’s how it works",
+      "excerpt": "Every day, digital advertisement agencies serve billions of ads on news websites, search engines, social media networks, video streaming websites, and other platforms. And they all want to answer the same question: Which of the many ads they have in their catalog is more likely to appeal to a certain viewer?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/1-copy-60-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/28/how-ads-are-chosen-by-reinforcement-learning-model-syndication/amp/",
+      "publishedDateTime": "2021-02-28T20:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-fore-launches-programme-on-healthcare-analytics.md",
       "title": "Fore launches programme on healthcare analytics",
       "excerpt": "The Fore School of Management has announced the launch of online certificate programme on healthcare analytics, which commences from April 2021. It is a completely hands-on, interactive online programme on machine learning and artificial intelligence.",
@@ -10,7 +105,7 @@
       "originalUrl": "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-launches-programme-on-healthcare-analytics/article33962975.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -539,7 +634,7 @@
       "originalUrl": "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1079,21 +1174,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-27-fast-food-drive-thrus-are-getting-smarter-heres-how.md",
-      "title": "Fast-food drive-thrus are getting smarter. Here's how",
-      "excerpt": "Drive-thrus are a lead generator of fast-food sales during the pandemic, and many chains, like McDonald's are trying to speed up the process by deploying new tech, including artificial intelligence for ordering.",
+      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
+      "title": "Driverless bus hits streets in southern Spain",
+      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/fast-food-drive-thrus-are-getting-smarter-heres-how/ar-BB1e2Apw",
+      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
+      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 104,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223152154-restricted-01-fast-food-drive-thru-technology-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
+          "width": 560,
+          "height": 292,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1101,13 +1196,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-      "publishedDateTime": "2021-02-26T12:15:46-08:00",
+      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
+      "publishedDateTime": "2021-02-26T12:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-        "domain": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1117,109 +1212,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-ai-conquers-challenge-of-1980s-platform-games.md",
-      "title": "AI conquers challenge of 1980s platform games",
-      "excerpt": "Scientists have come up with a computer program that can master a variety of 1980s exploration games, paving the way for more self-sufficient robots. They created a family of algorithms (software-based instructions for solving a problem) able to complete classic Atari games,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/science-environment-56194855",
-      "originalUrl": "https://www.bbc.com/news/science-environment-56194855",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14820/production/_117300048_screenshot2021-02-25at14.28.52.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/science-environment-56194855",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-56194855",
-      "publishedDateTime": "2021-02-26T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions.md",
-      "title": "Eight Things Machine Learning Can Do To Improve Your Daily Customer Interactions",
-      "excerpt": "Below, eight leaders from Young Entrepreneur Council attempt to quell some of those fears by discussing the merits of machine learning and how they see it affecting their own daily interactions with customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603910fa2f4af9b2fb66bca1%2F0x0.jpg",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2021/02/26/eight-things-machine-learning-can-do-to-improve-your-daily-customer-interactions/amp/",
-      "publishedDateTime": "2021-02-26T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI"
       ]
     }

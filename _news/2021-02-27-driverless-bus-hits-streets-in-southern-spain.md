@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thedailystar.net/backpage/news/driverless-bus-hits-stree
 cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: The Daily Star
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless bus hits streets of Malaga in southern Spain"
-    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
-    publishedDateTime: 2021-02-25T20:34:00Z
-    webUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html"
-    ampWebUrl: "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/theelectricp.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Driverless bus hits streets of Malaga"
     excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe. The bus, which began running on Saturday, is equipped with sensors and cameras and links Malaga’s port to the city centre on an eight-kilometre (five-mile) loop it does six times a day."
     publishedDateTime: 2021-02-26T00:36:00Z

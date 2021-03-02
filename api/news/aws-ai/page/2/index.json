@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-15-exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store-jaweb.md",
+      "title": "Exploring AWS SageMaker’s new features — Clarify, Pipelines, Feature Store – Jaweb",
+      "excerpt": "Welcome to part 2 of our two-part series on AWS SageMaker. If you haven’t read part 1, hop over and do that first. Otherwise, let’s dive in and look at some important new SageMaker features: Clarify, which claims to “detect bias in ML models” and ...",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2021/02/Exploring-AWS-SageMakers-new-features-—-Clarify-Pipelines-Feature-Store.jpg",
+          "width": 1200,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/exploring-aws-sagemakers-new-features-clarify-pipelines-feature-store-jaweb/?amp",
+      "publishedDateTime": "2021-02-14T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-artificial-intelligence-ai-in-retail-market-2020-emerging-trends-and-technology-ibm-microsoft-nvidia-amazon-web-services-oracle-sap.md",
       "title": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology – IBM, Microsoft, Nvidia, Amazon Web Services, Oracle, SAP,",
       "excerpt": "Artificial intelligence (AI) in retail market 2020 emerging trends and Technology - IBM, Microsoft, Nvidia, Amazon Web Services, Oracle,",
@@ -1366,58 +1409,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish.md",
-      "title": "Creating a BankingBot on Amazon Lex V2 Console with support for English and Spanish",
-      "excerpt": "Amazon Lex is a service for building conversational interfaces into any application. The new Amazon Lex V2 Console and APIs make it easier to build, deploy, and manage bots. In this post, you will learn about about the 3 main benefits of Amazon Lex V2 Console and API, basic bot building concepts, and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-a-bankingbot-on-amazon-lex-v2-console-with-support-for-english-and-spanish/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/01/ML-2423-NEW-1.jpg",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T16:37:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

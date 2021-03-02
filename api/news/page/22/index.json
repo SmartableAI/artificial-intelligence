@@ -2,6 +2,153 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-11-how-to-design-ai-into-your-applications.md",
+      "title": "How to design AI into your applications",
+      "excerpt": "3 conscious experience design principles that will help you integrate ‘living’ AI into your applications and how to implement them. AI is in nearly every application nowadays. A frequently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.html",
+      "originalUrl": "https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_neural_networks_technology_brain_by_4x-image_gettyimages_997524096-100817778-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.amp.html",
+      "publishedDateTime": "2021-02-10T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-building-secure-machine-learning-environments-with-amazon-sagemaker.md",
+      "title": "Building secure machine learning environments with Amazon SageMaker",
+      "excerpt": "As businesses and IT leaders look to accelerate the adoption of machine learning (ML) and artificial intelligence (AI), there is a growing need to understand how to build secure and compliant ML environments that meet enterprise requirements. One major challenge you may face is integrating ML workflows",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/ML-1341-1.jpg",
+          "width": 800,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:53:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-nhl-takes-big-stride-on-data-and-analytics-with-aws-deal.md",
+      "title": "NHL takes big stride on data and analytics with AWS deal",
+      "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking.The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
+      "sourceUrl": null,
+      "webUrl": "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal",
+      "originalUrl": "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.newsok.biz/cache/1280x720_blur-ed4f6edd59917d020496a60408c651a4.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/amp",
+      "cdnAmpWebUrl": "https://oklahoman-com.cdn.ampproject.org/c/s/oklahoman.com/article/feed/10201124/nhl-takes-big-stride-on-data-and-analytics-with-amazon-deal/amp",
+      "publishedDateTime": "2021-02-10T16:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Oklahoman",
+        "domain": "oklahoman.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-ibm-and-palantir-debut-no-code-platform-for-open-ai-applications.md",
       "title": "IBM and Palantir debut no-code platform for open AI applications",
       "excerpt": "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications.",
@@ -1016,165 +1163,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-chinese-search-giant-baidu-looks-to-launch-ai-chip-company.md",
-      "title": "Chinese Search Giant Baidu Looks to Launch AI Chip Company",
-      "excerpt": "Image source: Getty Images. Baidu is already heavily involved in AI and AI chips. Its AI-based platform-as-a-service serves numerous customers in China, including banks and economic development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612596%2Fartificial-intelligence-ai-neural-network-machine-learning-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "publishedDateTime": "2021-02-10T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
-      "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
-      "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "publishedDateTime": "2021-02-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
-      "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
-      "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "publishedDateTime": "2021-02-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

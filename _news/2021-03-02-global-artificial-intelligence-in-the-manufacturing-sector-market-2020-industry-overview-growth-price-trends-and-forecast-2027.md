@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-02T10:03:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-2020-industry-overview-growth-price-trends-and-forecast-2027-2021-03-02"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-2020-industry-overview-growth-price-trends-and-forecast-2027-2021-03-02"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

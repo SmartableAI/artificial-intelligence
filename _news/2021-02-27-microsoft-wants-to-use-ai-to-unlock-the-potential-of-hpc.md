@@ -9,7 +9,7 @@ ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-t
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Releases Azure Attestation into General Availability"
+    excerpt: "Sindhuri Dittakavi, program manager, Cloud & AI Security at Microsoft, explains in a Microsoft Security and Compliance blog post how Attestion works: An attestation provider is a service endpoint of Azure Attestation that provides REST contract."
+    publishedDateTime: 2021-03-02T12:15:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/microsoft-azure-attestation-ga/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 69
+    images:
+      - url: "https://res.infoq.com/news/2021/03/microsoft-azure-attestation-ga/en/headerimage/header-1614502680637.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Carnegie Mellon teams up with Amazon, Microsoft to build clinical forecasting AI tool"
     excerpt: "Carnegie Mellon University in Pittsburgh, Pa., developed a new machine learning tool to be used in clinical forecasting, according to a study supported by Amazon Web Services and Microsoft Azure. In a Feb."
     publishedDateTime: 2021-02-26T20:03:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2021-02-28T08:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2021-02-28"
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2021-02-28"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -2,6 +2,160 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-24-companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works.md",
+      "title": "Companies are using AI to hit business goals, even though they can't explain how it works",
+      "excerpt": "A new survey of tech decision makers finds that security concerns are high and trust is low when it comes to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
+      "originalUrl": "https://www.techrepublic.com/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/08/c72c3495-4430-4506-a732-ccffd727714b/resize/1200x/38c546efe64f75f3cbb60431c1a91006/istock-1183313700.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/companies-are-using-ai-to-hit-business-goals-even-though-they-cant-explain-how-it-works/",
+      "publishedDateTime": "2021-02-24T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-heres-why-your-saas-startup-should-buy-not-build.md",
+      "title": "Here’s why your SaaS startup should buy, not build",
+      "excerpt": "Creating a great business is about figuring out what makes your business great, then executing that as well as you possibly can.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/",
+      "originalUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design10-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2021/02/24/saas-startup-should-buy-not-build/amp/",
+      "publishedDateTime": "2021-02-24T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
+      "title": "Why driverless cars are paradise on wheels for some",
+      "excerpt": "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-301724/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed.md",
       "title": "Way of using machine learning to aid mental health diagnoses developed",
       "excerpt": "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research ' Bulletin'.",
@@ -1035,163 +1189,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience.md",
-      "title": "Talkdesk and AWS: What AI and speech-to-text mean for the future of contact centers and a better customer experience",
-      "excerpt": "This is a guest post authored by Ben Rigby, the VP, Global Head of Product &amp; Engineering, Artificial Intelligence and Machine Learning at Talkdesk. Talkdesk broadens contact center machine learning capabilities with AWS Contact Center Intelligence. At Talkdesk, we’re driven to reduce friction in",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/talkdesk-and-aws-what-ai-and-speech-to-text-mean-for-the-future-of-contact-centers-and-a-better-customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T09:13:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-qualcomm-and-sophos-strike-cybersecurity-deal-that-highlights-benefits-of-5g-and-ai-in-pcs.md",
-      "title": "Qualcomm and Sophos strike cybersecurity deal that highlights benefits of 5G and AI in PCs",
-      "excerpt": "The two companies announced that an Arm-compatible version of the Sophos Intercept X cybersecurity software application will be available on Snapdragon-powered PCs in the second half of 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
-      "originalUrl": "https://www.techspot.com/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/02/2021-02-23-image-7.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/88720-qualcomm-sophos-strike-cybersecurity-deal-highlights-benefits-5g.html",
-      "publishedDateTime": "2021-02-23T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
-      "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
-      "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176838131%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8400%26cropY1%3D642%26cropY2%3D5367",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
-      "publishedDateTime": "2021-02-23T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     }
   ],

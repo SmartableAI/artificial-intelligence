@@ -9,7 +9,7 @@ ampWebUrl: "https://bloncampus.thehindubusinessline.com/b-school-corner/fore-lau
 cdnAmpWebUrl: "https://bloncampus-thehindubusinessline-com.cdn.ampproject.org/c/s/bloncampus.thehindubusinessline.com/b-school-corner/fore-launches-programme-on-healthcare-analytics/article33962975.ece/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.cmswire.com/-/media/ac25ec3e0b9543dba4a25056d8afdd68.ashx?mw=1024"
         width: 640
         height: 480
+        isCached: true
+  - title: "Analytics Insight Publishes Vendor Analysis Report for Artificial Intelligence"
+    excerpt: "Analytics Insight recently published its first AI Review report to offer insights on how artificial intelligence service providers are positioned in the industry. The report named AI Vendor Analysis 2021 analyses artificial intelligence vendors."
+    publishedDateTime: 2021-03-02T11:10:00Z
+    webUrl: "https://www.analyticsinsight.net/analytics-insight-publishes-vendor-analysis-report-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Review.jpg"
+        width: 1500
+        height: 900
         isCached: true
   - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
     excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."

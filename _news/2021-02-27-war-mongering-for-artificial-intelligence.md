@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernghana.com/amp/news/1064364/war-mongering-for-artif
 cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Looking For An AI Ethicist? Good Luck"
+    excerpt: "As more companies adopt AI, the risks posed by AI are becoming clearer to business leaders. That is driving many companies to hire AI ethicists to help"
+    publishedDateTime: 2021-03-02T12:17:00Z
+    webUrl: "https://www.datanami.com/2021/03/02/looking-for-an-ai-ethicist-good-luck/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/businessman_ladder_shutterstock_Ollyy.jpg"
+        width: 1000
+        height: 738
+        isCached: true
   - title: "War Mongering for Artificial Intelligence"
     excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
     publishedDateTime: 2021-02-26T06:20:00Z
