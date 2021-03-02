@@ -3,10 +3,10 @@ category: news
 title: "Codecademy partners with Black and Brilliant for 10-week AI course"
 excerpt: "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias."
 publishedDateTime: 2021-03-01T22:57:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
-webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
 type: article
 quality: 89
 heat: -1
@@ -48,6 +48,6 @@ related:
         height: 800
         isCached: true
 
-secured: "UrhYa/WWe7Kh+ouLjcNWXshYwXS2GEnMPTyU0O/K7eS4md8P5iF0RtBOFm65Kbl/TcoRVVFw5pgU3IW9rpjko/h3VO/8AEFWYYDuoxVkhxLviYJvh1Ec5BPM7+ZVuPuzXf7pIerQJJ0a80V1a3+v02EZGtrTOLv/4x8A1Zt8rceL8Mk92GtnIRTSlGhcxQb/KziJ6vHySrgfPBxt3x0N01wZz2X+RXovJ+REcuSqlvOHcQWvODTW5ohNxyL5RSYinLVIsDjcp8/9M0VsWSythI/FE3unCR/w+9jXqx8Ivy5AlsmLqAST09bpzKxv/sTmyMuTXM/a/mRGHY+KyLtwLi5ZnFcysrQqUa75hL8+gfs=;s7StOog/h8KAmXC/ujnWjQ=="
+secured: "b5obsM+DvrIIM8OtTCBAyXhg4Jth5P/twRBNEIrN7L7euCHQ+yPVmljOVGeXrwUJvKVoTmeFBONpPIBM8snssmcRiETPK9xOPj6uWKZfqfopJ6JDjHuNhVhth8177Ras6Pj25v3lRLJtH0h9Uz6QOXi3+rr0nNQdU1Mitc4xIqDd9QpyqPo/QCtpNvNJQ/s4Q80proEkSCuN09Nwk5fxiXegNm98pcWSl9I6xg1f+e5LRyqEnObbxIp3Il0hT4PmwMzIo3voY1xykfp2pofjyjRQpLKs8RWnTZ+hQb/xut6qa3E51Afd5c2WYKLIiRi5J5e6hXbrbmPtW1yNVAATGXYPTk9J8bk84Wdxss6VtVg=;O+w4zOT9MryeiiEJWl4jQw=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-is-
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026-2021-02-26"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automotive voice recognition system market anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 to 2027."
-    excerpt: "The global automotive voice recognition system market size is expected to reach around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 to 2027."
-    publishedDateTime: 2021-02-25T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-anticipated-to-grow-at-a-cagr-of-around-21-in-terms-of-revenue-during-the-forecast-period-2020-to-2027-2021-02-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights"
     excerpt: "The global medical bionic implants and exoskeletons market stood at U$ 454.5 Mn in 2016. It is expected to expand at a CAGR of 7.5% during the period 2017-2027 to reach U$ 1,001.4 Mn. Factors such as rising amputation rates,"
     publishedDateTime: 2021-03-01T11:02:00Z

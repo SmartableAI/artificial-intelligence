@@ -1,20 +1,22 @@
 ---
 category: news
 title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) Announces Results of Special Meeting of Shareholders"
-excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) announced today that its shareholders have voted"
-publishedDateTime: 2021-02-26T00:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/n19870750/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/n19870750/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19870750"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19870750"
+excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE: AIO) announced today that its shareholders have voted to approve a new investment advisory agreement with Virtus Investment Advisers (VIA) as well as a new subadvisory agreement by and among the fund,"
+publishedDateTime: 2021-02-26T00:29:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-of-special-meeting-of-shareholders-1030126634"
+webUrl: "https://markets.businessinsider.com/news/stocks/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyse-aio-announces-results-of-special-meeting-of-shareholders-1030126634"
 type: article
-quality: 19
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -35,6 +37,6 @@ related:
         height: 630
         isCached: true
 
-secured: "KGCyYmVTFLc53N1aL9Ecn8WKvGQLyecnzI+VkluzDp4+eOP7DHYwQSO47hZih8+ibCSWl6ZsMRns1zPgbaQuWy11ZKNL71gQu0TKy0vH0HpTruq2DgSQyBtGmnzxm5l9v/pEep7Xi9SkXZRFtVIMyeCwkEBSWqOJ58yAfj9kaL9BpDUySi9Q5CYEFKCxuYv4lbxH/eFna6Uh6NeL4ZlgNYNuBKlwrLoPZsc/GkGSsz7uWI+NJcvhwSAT2U8u8p2mn4FcwhBxYiMRDjZG4952uVB5Vp8irmb5ctDNVWQvdq6JJCNT0YbsjI/O/MtID0vror3bbNrR469SmpHEd6/t/zL7MpfUo+k/Z5EI4/uSWl4=;tQpusRCjFqunC7bw7ggrpQ=="
+secured: "YjGzXCPhkxMn+hJX7WrNtKeQyif5cwW9QLZzdTG6r/rVneSd15qA5LNfBSxagPplel3e20U5gHJteJaWPdkXMXVgCswl2l7UsE+O6d9n0FRpy2W+M+FRlxTXa6M3nJ3r+OaTzcJOUrX2N0aIrybGqwY7U/q4WYWSScMiJrumktA2yGm2ujHPYWxpOqNkg7iInKDO9otL0EFjsO33hG8tTjkq5CHsnA51GnHODglux16qYTF2JGXb8ZvCZX7yWVIOSwTKnv6Q15bQEqdjBboKMbkOlBVPyrmC9P9J4FWuUxCKui57ASPjZCwqfU4slzA/u54/a7BV9GjaRsfkHyiAKiPttpTB0srfrD+sKpWJgeA=;kNPINDuxZH5P+BiJ65t8Fg=="
 ---
 

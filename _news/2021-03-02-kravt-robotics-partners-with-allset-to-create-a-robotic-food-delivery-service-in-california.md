@@ -1,18 +1,24 @@
 ---
 category: news
 title: "Kravt Robotics Partners with Allset to Create a Robotic Food Delivery Service in California"
-excerpt: "LOS ANGELES, CA /  / March 1, 2021 / The IT development company Kravt Robotics has entered into a strategic partnership with Allset Technologies, a startup providing a food pre-ordering service. The LA-based companies have teamed up to create a food order and delivery platform utilizing robotic delivery solutions instead of couriers."
-publishedDateTime: 2021-03-01T18:36:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/267976670/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california"
-webUrl: "https://www.bignewsnetwork.com/news/267976670/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california"
+excerpt: "LOS ANGELES, CA / ACCESSWIRE / March 1, 2021 / The IT development company Kravt Robotics has entered into a strategic partnership with Allset"
+publishedDateTime: 2021-03-01T21:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701"
+webUrl: "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 94
+heat: 94
+published: true
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -24,6 +30,6 @@ images:
     height: 1024
     isCached: true
 
-secured: "qIaT50jLJEbOdbUSzTwd4jz076PskRh/pRUSYrYtx1qq6VCiiE1+fKXAbv8Ua864nh30fb5NSbKGju3hk0vUo5h7mukfM3I/BBb2pcgb9s7Hvp9BrYlz95GypS1JqfFyR1QYfr3CswY5gnKS2ZmoKm1d5dhiPchMM4bnjXReWE8USdWDvyAQYAOwxoKKtP9L39Og1UxuNioSXn2wzRfRn7PQSOhIFbFm3d3tege3vrRzwNwCP49y8Nphm2VbJOvp86W6Z8yMr+KnD2bEYKyiW+Y3wSrOFW4VedVeBxdCy/pGFO6T6/3ENvBgHMiXUUVoz0QazPFxfpdipyW5FrlXcU1dg/aYE7clwVZPt34Geoc=;BZH6PLycwHjVCIsJPCvePw=="
+secured: "l+0pD0Rw6Td1AYF5gciL9aN41oJ0A2R67Kbjkxm07YAjJPr29H8a8tj84QvWV90oAolgNh+H99PLDscxODMU+cZ+xiPPq/0/BGXbmGLrfZNhcALMxcwu7J9jxViIEmrbTHUrN8UOlgGNLNASpPh4l8kzmMiIZeWwGZ0gPADnAhGNS5C+C/8gRWEDKj6+xIHdBTBy+RVNi3BuO1VRC/w8+ye9pfuCbdxLL/xJL184qpSIqGuip8i3IVXbS2bPfbTa+loE5y8aZ+aWTOOYGuC+ESzASlZ5BQZmD9bhOdnEJ6CRUrvFDAOtcUatUnyf4ZmP4Ap7ad049DJbiP6hpqfPDUVqdmjlrek4rjBaQUCiOgM=;q+eQmwckxkOGdwUTpKN4ew=="
 ---
 

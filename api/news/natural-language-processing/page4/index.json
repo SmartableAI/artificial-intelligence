@@ -2,6 +2,156 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-22-call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game.md",
+      "title": "Call of Duty: How Much Translation, Localization Volumes Go Into a Popular Game?",
+      "excerpt": "Interview with audio team behind popular game franchise, Call of Duty, indicates why game localization continues to thrive through Covid-19.",
+      "sourceUrl": null,
+      "webUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
+      "originalUrl": "https://slator.com/demand-drivers/call-of-duty-how-much-translation-localization-volumes-go-into-a-popular-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://slator.com/assets/2021/01/Translation-and-Localization-of-Call-of-Duty-Game-2020.png",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-21T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Slator",
+        "domain": "slator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-cisco-uses-ai-to-add-hand-gestures-to-webex.md",
+      "title": "Cisco uses AI to add hand gestures to Webex",
+      "excerpt": "Cisco is bringing hand gestures to its Webex video conferencing software to make it easier for participants to express themselves even while on mute. Gestures and non-verbal cues have long been an important part of face-to-face meetings as they allow a speaker to emphasize or support their ideas and give the audience a chance to provide real-time feedback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "originalUrl": "https://www.techradar.com/sg/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4WKi6coauTPjCXCiWYscdW-1200-80.jpg",
+          "width": 721,
+          "height": 403,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cisco-uses-ai-to-add-hand-gestures-to-webex",
+      "publishedDateTime": "2021-01-21T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
+      "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
+      "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
+      "originalUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg",
+          "width": 2400,
+          "height": 1352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
+      "publishedDateTime": "2021-01-21T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-01-21-researchers-find-conventional-voice-ai-overlooks-trans-and-nonbinary-users.md",
       "title": "Researchers find conventional voice AI overlooks trans and nonbinary users",
       "excerpt": "A study published in the Association for Computing Machinery finds issues with the way conventional voice assistants treat",

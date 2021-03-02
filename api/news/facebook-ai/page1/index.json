@@ -924,6 +924,84 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-samsung-tops-ai-patent-list.md",
+      "title": "Samsung tops AI patent list",
+      "excerpt": "“The Korean company is expanding its research scope around AI technologies focused on improving ... Chris Griffith11.00am: Maryland votes to tax Google, Facebook online ad revenue A US state ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "originalUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "publishedDateTime": "2021-02-15T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-who-should-stop-unethical-ai.md",
+      "title": "Who Should Stop Unethical A.I.?",
+      "excerpt": "“Curious if there have been discussions around having ethics review boards at either conferences or with funding agencies (like IRB) to guide AI research,” one person wrote. (An organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
+      "originalUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newyorker.com/photos/600afc0db35e198f98bd5577/master/pass/Hutson-AIEthics.jpg",
+          "width": 2560,
+          "height": 3200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
+      "cdnAmpWebUrl": "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
+      "publishedDateTime": "2021-02-15T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Yorker",
+        "domain": "newyorker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
       "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
       "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
@@ -1391,112 +1469,6 @@
         "name": "MediaPost",
         "domain": "mediapost.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-cye-raises-120-million-for-security-that-uses-hackers-and-ai.md",
-      "title": "CYE raises $120 million for security that uses hackers and AI",
-      "excerpt": "CYE has raised $120 million for a service that uses AI to probe defenses and human hackers to conduct attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
-      "originalUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/OKN_1440_websize-e1612959250260.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/cye-raises-120-million-for-security-that-uses-hackers-and-ai/amp/",
-      "publishedDateTime": "2021-02-10T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Security",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-chatbot-market-in-2021-stats-trends-and-companies-in-the-growing-ai-chatbot-industry.md",
-      "title": "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry",
-      "excerpt": "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
-      "originalUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

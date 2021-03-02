@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future"
-    excerpt: "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,"
-    publishedDateTime: 2021-02-25T07:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 76
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Retail Market |Global Opportunities, Size, Share, Emerging Trends, Technological Innovation and Forecasts"
     excerpt: "Global Size, Share Report,Market Trends, Industry Forecast, Growth, Trends Analysis, Keyplayers & Regional Analysis (Latin America, North America, Asia Pacific, Europe, Middle East) \"Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29."
     publishedDateTime: 2021-02-25T13:13:00Z
@@ -52,6 +38,36 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Proposals to meet global challenges in artificial intelligence and technology regulation"
+    excerpt: "See below for excerpts from the transcript. MELTZER: So this is the paper coauthored with Cameron Kerry, and it focuses on strengthening international cooperation on artificial intelligence. And the basic approach of the paper is to identify what the ..."
+    publishedDateTime: 2021-02-26T10:25:00Z
+    webUrl: "https://www.brookings.edu/podcast-episode/proposals-to-meet-global-challenges-in-artificial-intelligence-and-technology-regulation/"
+    ampWebUrl: "https://www.brookings.edu/podcast-episode/proposals-to-meet-global-challenges-in-artificial-intelligence-and-technology-regulation/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/podcast-episode/proposals-to-meet-global-challenges-in-artificial-intelligence-and-technology-regulation/amp/"
+    type: article
+    provider:
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 48
+    images:
+      - url: "https://www.brookings.edu/wp-content/uploads/2021/02/earth-networks.jpg"
+        width: 6000
+        height: 3375
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) Consulting Market 2020 Upcoming Trends, Latest Innovation, Advance Technology and Top Companies to 2025"
+    excerpt: "Global Artificial Intelligence (AI) Consulting Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2021-02-28T18:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-consulting-market-2020-upcoming-trends-latest-innovation-advance-technology-and-top-companies-to-2025-2021-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

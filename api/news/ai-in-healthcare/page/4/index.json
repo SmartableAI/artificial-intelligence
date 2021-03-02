@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-19-remote-care-startup-k-health-valued-at-over-14-billion.md",
+      "title": "Remote Care Startup K Health Valued at Over $1.4 Billion",
+      "excerpt": "K Health raised $132 million in a funding round led by GGV Capital and Valor Equity Partners after the Covid-19 pandemic led to a surge in use for remote health-care apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-01-19/health-care-startup-k-health-valued-at-over-1-4-billion",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3bIuOotwAsw/v0/1200x660.jpg",
+          "width": 1200,
+          "height": 660,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-19T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-diagnosis-ai-data-centric-approach-creates-the-internet-of-healthcare.md",
       "title": "Diagnosis AI: Data-Centric Approach Creates the ‘Internet of Healthcare’",
       "excerpt": "AI-centric platform Olive claims it is building the first healthcare “AI workforce” that automates workflows and streamlines manual tasks. Here's a look.",

@@ -105,7 +105,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -352,58 +352,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026.md",
-      "title": "Deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026",
-      "excerpt": "The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,427.2 million by 2026. North America held the major share of the global deep learning market in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-is-expected-to-grow-at-a-cagr-of-around-511-over-the-forecast-period-2019-to-2026-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T16:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-featurespace-touts-breakthrough-in-machine-learning-for-anti-fraud-systems.md",
       "title": "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems",
       "excerpt": "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud.",
@@ -412,7 +360,7 @@
       "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1458,6 +1406,51 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl.md",
+      "title": "Hands-On Guide to Model Search: A Tensorflow-based Framework for AutoML",
+      "excerpt": "In recent years, automated ML or AutoML has really helped researchers and developers to create high quality deep learning models without human intervention and to extend its usability, Google has developed a new framework called Model Search. Model Search ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/",
+      "originalUrl": "https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/02/Feature-Images.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "TensorFlow"
       ]
     }
   ],

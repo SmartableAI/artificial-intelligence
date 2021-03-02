@@ -34,9 +34,9 @@ related:
   - title: "Codecademy partners with Black and Brilliant for 10-week AI course"
     excerpt: "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias."
     publishedDateTime: 2021-03-01T22:57:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/10250/4/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/codecademy-partners-with-black-and-brilliant-for-10-week-ai-course/"
     type: article
     provider:
       name: TechRepublic

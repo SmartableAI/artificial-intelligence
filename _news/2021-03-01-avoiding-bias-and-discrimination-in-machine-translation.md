@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoidi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 885
     isCached: true
-
-related:
-  - title: "Smart New Features and Capabilities Added to SDL Machine Translation"
-    excerpt: "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, includi"
-    publishedDateTime: 2021-02-25T08:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
 
 secured: "ZBb53h9gYkuME8d14cGoE1AQvu/V4vilOvYIvzNqgWBF7xc9DiT0lHIcNpRkQP6GNwAsLK1G1+aRBPrLIZhauoA+DkI/CkLnfVg092lMHt3zTy1lplpKhzNj/OyWudMftOsc64m5MfJHWwK06t0moFT6OBXzsmhUR8s582TN8/ajkuJsRUIe3qOTw2K+IVBi1BwXnfqHSic0RErW8sb6Wm+frzp8g/5fDdpkW/naWBJX11DqxAcBMSKoolCnEtZMD8KQJ/i5T/JlUbIMGPPzRWnjkAyrLylzPZAOhWHac6/OgiSfahKnE6RCSicNrioA60x4rCNmVC0ytr3sScpi/93PStvviyLUwWif6MJf9at/O9Qj+MzaAjJ48GBxEOGGc0WwkDNu17k/jRhED6BN4AwD+FYXJ/zZMmFSj4H6G9khBRWZutFop/xNOzRk/lJ0iNJ2aQqM/Fq3hFZNYb3V65n/AqelZdHD/zPC58xBo7tZfnJlubL6UwTNTPmLUIAm6uS+OIns1VC91ljy+f+1zg==;Q7Mr7Q5C+myyt9JlaJhCNA=="
 ---

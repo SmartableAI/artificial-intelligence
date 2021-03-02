@@ -2,6 +2,161 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-tesla-to-launch-full-self-driving-subscription-within-4-months.md",
+      "title": "Tesla to launch Full Self-Driving subscription within 4 months",
+      "excerpt": "Elon Musk says that Tesla will launch its subscription service for its Full Self-Driving package within the next three to four months. Get ready for a high monthly premium, though. Last year ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/",
+      "originalUrl": "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/",
+      "publishedDateTime": "2021-03-01T15:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-overlooked-c3ai-stock-looks-attractive-on-the-pullback.md",
+      "title": "Overlooked C3.ai Stock Looks Attractive on the Pullback",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As I write this, C3.ai (NYSE:AI) stock has lost a third of its value in 12",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/overlooked-c3-ai-stock-looks-attractive-on-the-pullback-1030137355",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/overlooked-c3-ai-stock-looks-attractive-on-the-pullback-1030137355",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://investorplace.com/2021/03/overlooked-c3-ai-stock-looks-attractive-on-the-pullback/?amp",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/03/overlooked-c3-ai-stock-looks-attractive-on-the-pullback/?amp",
+      "publishedDateTime": "2021-03-01T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california.md",
+      "title": "Kravt Robotics Partners with Allset to Create a Robotic Food Delivery Service in California",
+      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / March 1, 2021 / The IT development company Kravt Robotics has entered into a strategic partnership with Allset",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/632539/image-20210301005808-1.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "publishedDateTime": "2021-03-01T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers.md",
       "title": "This AI-generated Daft Punk video is the perfect tribute to the electro pioneers",
       "excerpt": "Computer artist Glenn Marshall paid homage to Daft Punk by using AI to produce a music video for the duo's 2001 track \"Voyager.\"",
@@ -374,7 +529,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -720,7 +875,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1099,146 +1254,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-researchers-are-developing-3d-structural-sensing-robots-to-handle-healthcare-tasks.md",
-      "title": "Researchers are developing 3D structural-sensing robots to handle healthcare tasks",
-      "excerpt": "Robots that could take on basic healthcare tasks to support the work of doctors and nurses may be the way of the future. Who knows, maybe a medical robot can prescribe your medicine someday? That's the idea behind 3D structural-sensing robots being developed and tested at Simon Fraser University by Woo Soo Kim,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/1/HEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx",
-      "publishedDateTime": "2021-02-27T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc.md",
-      "title": "Microsoft wants to use AI to unlock the potential of HPC",
-      "excerpt": "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/",
-      "originalUrl": "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg",
-          "width": 1069,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/",
-      "publishedDateTime": "2021-02-27T02:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-how-one-state-managed-to-actually-write-rules-on-facial-recognition.md",
-      "title": "How One State Managed to Actually Write Rules on Facial Recognition",
-      "excerpt": "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
-      "publishedDateTime": "2021-02-27T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

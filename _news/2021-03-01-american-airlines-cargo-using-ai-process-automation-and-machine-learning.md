@@ -35,6 +35,22 @@ related:
         width: 1860
         height: 1214
         isCached: true
+  - title: "Delving deep into potential of Artificial Intelligence"
+    excerpt: "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution"
+    publishedDateTime: 2021-03-01T22:45:00Z
+    webUrl: "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
+    ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 59
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "c25WyriqFMeisSnuoSeNP4ssK++qD+iDR85BdUkohoVN4SNzsJJ0sh+5DCMpQBg/+C5ftV6o0A6ewYIr1Z4hJg2vAd72DHTyp6Dv397LwMHZAtysYw6vRIpPKH7Bou+sRLcxBmF89rSGfPqnJRgi+AnrJH+HI6YB/pSBcpcRa4hVV+jaL2ALa47nZvI6I2QC/mzS9IC8+Pl6vcaI53/N4HFIoXUnrqIUwjvwQFDClW3DfImx1axoIFTA627lqefrUZeqg3yfudgv71IVMobF8/lm9KvQi//a1PVk0gPUjMmctMmhA3H6CUxB5YlQasm63wxSFAOb1jibNT0b3Fh3eohRAoy5/alErheNoWBwEU4=;YiaOl6HGuybls6cuHhC4fA=="
 ---

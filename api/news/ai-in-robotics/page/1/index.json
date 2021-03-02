@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california.md",
+      "title": "Kravt Robotics Partners with Allset to Create a Robotic Food Delivery Service in California",
+      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / March 1, 2021 / The IT development company Kravt Robotics has entered into a strategic partnership with Allset",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/632539/image-20210301005808-1.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "publishedDateTime": "2021-03-01T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
       "title": "Underwater robot rises from the depths to save drowning swimmers",
       "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
@@ -697,17 +749,17 @@
       "title": "Automated eats: Meet the Silicon Valley robot serving healthy grain bowls for $4.99",
       "excerpt": "Mezli, a local startup founded by current and former Stanford students, wants to use robotics to make cheap, convenient, high-quality food available to the masses.",
       "sourceUrl": null,
-      "webUrl": "https://www.paloaltoonline.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
-      "originalUrl": "https://www.paloaltoonline.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
+      "webUrl": "https://almanacnews.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
+      "originalUrl": "https://almanacnews.com/news/2021/02/23/automated-eats-meet-the-silicon-valley-robot-serving-healthy-grain-bowls-for-499",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.paloaltoonline.com/news/photos/2021/february/23/89822_col.jpg",
-          "width": 2400,
-          "height": 1948,
+          "url": "https://almanacnews.com/news/photos/2021/february/23/50825_col.jpg",
+          "width": 2000,
+          "height": 1500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -717,11 +769,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T08:35:00-08:00",
+      "publishedDateTime": "2021-02-23T10:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Palo Alto Weekly",
-        "domain": "paloaltoonline.com",
+        "name": "Almanac",
+        "domain": "almanacnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1347,59 +1399,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-why-developing-ai-to-defeat-us-may-be-humanitys-only-hope.md",
-      "title": "Why developing AI to defeat us may be humanity’s only hope",
-      "excerpt": "One glance at the state of things and it’s evident humanity’s evolved itself into a corner. On the one hand, we’re smart enough to create machines that learn. On the other, people are dying in Texas because elected officials want to keep the government out of Texas.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/11/poorrobot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/18/why-developing-ai-defeat-us-humanitys-only-hope/amp/",
-      "publishedDateTime": "2021-02-18T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

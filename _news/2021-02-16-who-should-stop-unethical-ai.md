@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.newyorker.com/photos/600afc0db35e198f98bd5577/master/pass/Hutson-AIEthics.jpg"

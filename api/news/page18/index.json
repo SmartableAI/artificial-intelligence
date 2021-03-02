@@ -2,6 +2,290 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-13-4-ai-tools-to-help-you-reach-your-marketing-goals.md",
+      "title": "4 AI tools to help you reach your marketing goals",
+      "excerpt": "Marketing isn't one-size-fits-all; depending on the industry, strategies, and tools, results differ. These AI marketing tools are helping marketers and small businesses increase their effectiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
+      "originalUrl": "https://www.techrepublic.com/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/11/d87fc0a6-07da-42da-905b-57926006c6f3/resize/1200x900/396b64a892a5fd7cac8938cf3055dd17/autoleadstar-new.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-tools-to-help-you-reach-your-marketing-goals/",
+      "publishedDateTime": "2021-02-12T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata.md",
+      "title": "Graph Database Market Growing at a CAGR 22.2% | Key Player Microsoft, AWS, Orientdb, Tibco, Teradata",
+      "excerpt": "MarketsandMarkets forecasts the Graph Database Market size to grow from USD 1.0 billion in 2019 to USD 2.9 billion",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata-2021-02-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata-2021-02-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-new-machine-learning-theory-raises-questions-about-nature-of-science.md",
+      "title": "New machine learning theory raises questions about nature of science",
+      "excerpt": "A novel computer algorithm, or set of rules, that accurately predicts the orbits of planets in the solar system could be adapted to better predict and control the behavior of the plasma that fuels fusion facilities designed to harvest on Earth the fusion energy that powers the sun and stars.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-02-machine-theory-nature-science.html",
+      "originalUrl": "https://phys.org/news/2021-02-machine-theory-nature-science.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-newmachinele.jpg",
+          "width": 468,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-02-machine-theory-nature-science.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-theory-nature-science.amp",
+      "publishedDateTime": "2021-02-12T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money.md",
+      "title": "What if Artificial Intelligence Decided How to Allocate Stimulus Money?",
+      "excerpt": "New Treasury Department software points the way. But research suggests that it’s impossible to show that an artificial “superintelligence” can be contained.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idPjnJhMfI0M/v1/1200x772.jpg",
+          "width": 1200,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-photo-hoarding.md",
+      "title": "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding",
+      "excerpt": "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
+      "originalUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg",
+          "width": 800,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
+      "publishedDateTime": "2021-02-12T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-bonus-episode-in-conversation-reframing-black-history-and-culture.md",
+      "title": "Bonus Episode: In Conversation: Reframing Black History and Culture",
+      "excerpt": "ADAMS SIMMONS: And Tara will be posting updates about her travels on Instagram and Facebook ... to let people know about research that's being done by Black AI researchers. I wonder if you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationalgeographic.com/podcasts/overheard/season-5/bonus-conversation-reframing-black-history-culture-month/",
+      "originalUrl": "https://www.nationalgeographic.com/podcasts/overheard/season-5/bonus-conversation-reframing-black-history-culture-month/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Geographic news",
+        "domain": "nationalgeographic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
       "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com",
       "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),",
@@ -837,301 +1121,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-israel-automotive-industry-report-2017-2030-by-goldstein-market-intelligence.md",
-      "title": "Israel Automotive Industry Report 2017-2030 by Goldstein Market Intelligence",
-      "excerpt": "According to the Goldstein Market Intelligence, Israel automotive market is anticipated to grow at a CAGR of 7.0% during the forecast period. Israeli automakers are focusing on enhancing the technologies and human interaction with vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101594583/Israel-Automotive-Industry-Report-2017-2030-by-Goldstein-Market-Intelligence",
-      "originalUrl": "https://menafn.com/1101594583/Israel-Automotive-Industry-Report-2017-2030-by-Goldstein-Market-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-penn-state-covid-19-research-uses-artificial-intelligence.md",
-      "title": "Penn State COVID-19 research uses artificial intelligence",
-      "excerpt": "CENTRE COUNTY, Pa. (WTAJ) — 11 months ago today, the World Health Organization officially declared COVID-19 a global pandemic. Now, research out of Penn State University is shaping how",
-      "sourceUrl": null,
-      "webUrl": "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/",
-      "originalUrl": "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wearecentralpa.com/wp-content/uploads/sites/69/2021/01/b3b2ef8865ae4d82a998e7a873c4b268.jpg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-wearecentralpa-com.cdn.ampproject.org/c/s/www.wearecentralpa.com/health/coronavirus/penn-state-covid-19-research-uses-artificial-intelligence/amp/",
-      "publishedDateTime": "2021-02-11T15:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WEARECENTRALPA",
-        "domain": "wearecentralpa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-these-2-stock-market-ev-and-self-driving-favorites-soared-today.md",
-      "title": "These 2 Stock Market EV and Self-Driving Favorites Soared Today",
-      "excerpt": "Wall Street had another topsy-turvy day on Thursday, with major market benchmarks staying relatively close to the unchanged mark. The Dow Jones Industrial Average ( DJINDICES:^DJI) wasn't able to poke its way back into positive territory after a midday swoon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F613003%2Fcar-dashboard-gettyimages-638880710.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/11/these-2-stock-market-ev-and-self-driving-favorites/",
-      "publishedDateTime": "2021-02-11T15:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-deep-learning-software-market-global-analysis-2021-2027-applications-growth-trends-top-companies-and-more.md",
-      "title": "Deep Learning Software Market Global Analysis 2021-2027, Applications, Growth Trends, Top Companies and more…",
-      "excerpt": "Deep Learning Software MarketThis report studies the global Deep Learning Software market, analyzes and researches the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-global-analysis-2021-2027-applications-growth-trends-top-companies-and-more-2021-02-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-software-market-global-analysis-2021-2027-applications-growth-trends-top-companies-and-more-2021-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-cbp-facial-recognition-scanners-failed-to-find-a-single-imposter-at-airports-in-2020.md",
-      "title": "CBP Facial Recognition Scanners Failed to Find a Single Imposter At Airports in 2020",
-      "excerpt": "Customs and Border Protection used facial recognition tools to scan over 23 million travelers’ faces at 30-plus points of entry in 2020, and failed to turn up a single example of an individual impersonating someone else at an airport,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
-      "originalUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ptk8qwz2lidkcnm3uwul.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cbp-facial-recognition-scanners-failed-to-find-a-single-1846251680/amp",
-      "publishedDateTime": "2021-02-11T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-researchers-propose-platform-for-evaluating-disease-forecasting-ai-methods.md",
-      "title": "Researchers propose platform for evaluating disease-forecasting AI methods",
-      "excerpt": "Researchers at the University of Southern California propose a platform --EpiBench -- to compare disease-forecasting AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/",
-      "originalUrl": "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/11/researchers-propose-platform-for-evaluating-ai-disease-forecasting-methods/amp/",
-      "publishedDateTime": "2021-02-11T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

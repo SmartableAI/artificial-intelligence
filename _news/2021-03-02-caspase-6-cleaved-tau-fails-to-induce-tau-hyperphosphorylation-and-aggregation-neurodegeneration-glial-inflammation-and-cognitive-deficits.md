@@ -99,20 +99,6 @@ related:
         width: 1240
         height: 827
         isCached: true
-  - title: "ZTE showcases under-display facial recognition system"
-    excerpt: "According to an Engadget report, the company, which was the first manufacturer to include an under-display selfie camera in a mass-produced smartphone, may have found a balance between allowing enough data to pass through the display to make the system work and ensuring the screen still looks good when the camera isn't being used."
-    publishedDateTime: 2021-02-25T08:42:00Z
-    webUrl: "https://www.ianslive.in/index.php?param=news/ZTE_showcases_under_display_facial_recognition_system-763776/Latest News/31"
-    type: article
-    provider:
-      name: IANS live
-      domain: ianslive.in
-    quality: 39
-    images:
-      - url: "http://ianslive.in/upload/2021/February/25/r-1614241372202102251352521928_l.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "dO/QKWpNvz+wsZAAyO8ptizVcHmaJha9x81VsgslZyr8Pg4nHqblIIrwYGpN91dXCQ8E/VWI7sBukvGtvW/QRQIAVlM16Znsa426Qw+xVlAVVzjpdssgJvnojFxeFAmNNXrucvp6qxKFbYiU23+k1f1cnWHGXcuTG2BCT/nCxtboyJ2xRZ1wCnSq9QJXOQ7Wvs1Zqg+NN6I5vu8AkMJhdsl5tsZflAhOmqamcFooj0Mk1vrOQBUfxWIpSYaUfeCTU/8N6NfxVF/PYs8/AJv8/ckXsQlsqjWGuezADdIQkLxxu2xL56o6vuo8fsaqtKFvZGmmfCvGu9nMyTMSuLkbD01VUUUn5H5JsFpMNTg865k=;ojUt6tgCUBZyeWEcgfLATA=="
 ---

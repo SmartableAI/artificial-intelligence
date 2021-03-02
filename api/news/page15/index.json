@@ -2,6 +2,236 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-16-lemonade-adds-bestows-ai-powered-life-insurance-in-cross-selling-move.md",
+      "title": "Lemonade adds Bestow's AI-powered life insurance in cross-selling move",
+      "excerpt": "Lemonade added Bestow's term life insurance coverage, which may help its latest offering stand out from traditional term life coverage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2",
+      "originalUrl": "https://www.businessinsider.com/lemonade-added-bestow-term-life-insurance-coverage-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ede79ca3f73700e047225f8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T05:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-gov-desantis-education-commissioner-announce-florida-pathways-to-career-opportunities-grant-awardees.md",
+      "title": "Gov. DeSantis, Education Commissioner announce Florida Pathways to Career Opportunities grant awardees",
+      "excerpt": "The $10 million is awarded to school districts, colleges, state universities, and private training entities to start or expand registered apprenticeship and pre-apprenticeship programs throughout the state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.flgov.com/2021/02/16/governor-ron-desantis-and-education-commissioner-richard-corcoran-announce-florida-pathways-to-career-opportunities-grant-awardees-2/",
+      "originalUrl": "https://www.wtxl.com/news/local-news/gov-desantis-education-commissioner-announce-florida-pathways-to-career-opportunities-grant-awardees",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTXL ABC 27",
+        "domain": "wtxl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-vevo-launches-ai-driven-moods-to-target-ads-to-attitudes.md",
+      "title": "Vevo Launches AI-Driven ‘Moods’ To Target Ads To Attitudes",
+      "excerpt": "Vevo launches Moods, an artificial-intelligence tool that groups music videos into specific moods to improve the targeting of ads that run alongside them. Four Moods will be initially available, with more to come in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602b176e4a5a3bd579411f15%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/amp/",
+      "publishedDateTime": "2021-02-16T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-bearingai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains.md",
+      "title": "Bearing.ai emerges from stealth to power recommendations for shipping boat captains",
+      "excerpt": "Bearing.ai provides the maritime shipping industry with predictive recommendations and launches with support from AI Fund and Mitsui & Co.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/",
+      "originalUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/bearingai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/",
+      "publishedDateTime": "2021-02-16T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-robot-artist-ai-da-presents-her-first-art-exhibition.md",
+      "title": "Robot Artist Ai-Da Presents Her First Art Exhibition",
+      "excerpt": "The world's first robot artist is set to have her first exhibition in London's Design Museum. The exhibition, Ai-Da Self Portraits is to open in May 2021 and will present three large scale self-portraits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "originalUrl": "https://www.albawaba.com/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/ERF9_g_UcAARz1I.jpg?itok=ShJsHWV0",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "publishedDateTime": "2021-02-16T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-number-of-data-analysts-scientists-to-adopt-automl-will-double-by-2025-idc.md",
       "title": "Number of data analysts, scientists to adopt AutoML will double by 2025: IDC",
       "excerpt": "The report further says that the number of data analysts and scientists adopting AutoML for an end-to-end machine learning pipeline from data preparation to model deployment will grow two-fold by 2025. ALSO READ: Researchers introduce first artificial ...",
@@ -349,6 +579,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-samsung-tops-ai-patent-list.md",
+      "title": "Samsung tops AI patent list",
+      "excerpt": "“The Korean company is expanding its research scope around AI technologies focused on improving ... Chris Griffith11.00am: Maryland votes to tax Google, Facebook online ad revenue A US state ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "originalUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
+      "publishedDateTime": "2021-02-15T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-the-worlds-struggle-against-hypertension-the-role-of-artificial-intelligence.md",
       "title": "The World’s Struggle Against Hypertension – The Role of Artificial Intelligence",
       "excerpt": "Introduction When one considers the vast array of diseases the world contends with on a daily basis, hypertension (HTN) ranks among the top being a major risk factor for heart and circulatory health.",
@@ -492,7 +756,8 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -942,291 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.md",
-      "title": "Pediatric brain tumors can be classified using diffusion weighted imaging and machine learning",
-      "excerpt": "Diffusion weighted imaging and machine learning can successfully classify the diagnosis and characteristics of common types of pediatric brain tumors a UK-based multi-center study, including WMG at the University of Warwick has found.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/Pediatric-brain-tumors-can-be-classified-using-diffusion-weighted-imaging-and-machine-learning.aspx",
-      "publishedDateTime": "2021-02-15T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-how-ai-could-spot-your-weaknesses-and-influence-your-choices.md",
-      "title": "How AI could spot your weaknesses and influence your choices",
-      "excerpt": "In experiments, an AI system successfully learned to influence human decisions. That could be useful in behavioral sciences, public policy, and welfare.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/AI-decision-making-hed-796x404.jpg",
-          "width": 796,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/15/how-ai-could-spot-your-weaknesses-and-influence-your-choices-syndication/amp/",
-      "publishedDateTime": "2021-02-15T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-is-ai-just-a-fairy-tale-not-in-these-successful-use-cases.md",
-      "title": "Is AI just a fairy tale? Not in these successful use cases",
-      "excerpt": "Getting artificial intelligence past the fairy tale stage is a challenge for some organizations. Here are two examples of AI that's granted its users' wishes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "originalUrl": "https://www.techrepublic.com/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/09/84a95e88-ad1b-4afb-b847-24f13638789e/resize/1200x/38a9af191aba9d784eff432b4006b4a2/istock-1127391950.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/is-ai-just-a-fairy-tale-not-in-these-successful-use-cases/",
-      "publishedDateTime": "2021-02-15T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-call-for-papers-deep-learning-algorithms-and-techniques-to-identify-deepfakes.md",
-      "title": "Call for Papers: Deep Learning Algorithms and Techniques to Identify Deepfakes",
-      "excerpt": "Recent years have witnessed the rise and widespread use of deep learning techniques in a variety of areas, ranging from simple data analysis to complex image classification tasks. Lately, deep learning techniques have also been employed to produce ...",
-      "sourceUrl": null,
-      "webUrl": "https://peerj.com/blog/post/115284883642/cfp-identifying-deepfakes/",
-      "originalUrl": "https://peerj.com/blog/post/115284883642/cfp-identifying-deepfakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d6vn5uj5sr4f6.cloudfront.net/wp-content/uploads/2021/01/PeerJ-CS-300x280.jpg",
-          "width": 300,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PeerJ",
-        "domain": "peerj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-a-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-covid-19.md",
-      "title": "A machine learning approach to identify drugs that could be repurposed to fight COVID-19",
-      "excerpt": "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
-      "publishedDateTime": "2021-02-15T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
-      "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
-      "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
-      "originalUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a55b98a743748242cd9bf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D34%26cropY2%3D709",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/niallmccarthy/2021/02/15/the-self-driving-car-companies-going-the-distance-infographic/amp/",
-      "publishedDateTime": "2021-02-15T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

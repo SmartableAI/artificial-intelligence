@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-23-hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl.md",
-      "title": "Hands-On Guide to Model Search: A Tensorflow-based Framework for AutoML",
-      "excerpt": "In recent years, automated ML or AutoML has really helped researchers and developers to create high quality deep learning models without human intervention and to extend its usability, Google has developed a new framework called Model Search. Model Search ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/",
-      "originalUrl": "https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/02/Feature-Images.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_news/2021-02-23-google-alto-is-a-little-teachable-object-for-machine-learning.md",
       "title": "Google Alto is “A Little Teachable Object” for machine learning",
       "excerpt": "Google Creative Lab this week revealed a project called Alto. Alto by Google Creative Lab is a “teachable object using the Coral USB Accelerator.” It’s made to allow users to get",
@@ -944,6 +899,59 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-how-to-explain-ai-ml-and-nlp-to-business-leaders-in-plain-language.md",
+      "title": "How to Explain AI, ML, and NLP to Business Leaders in Plain Language",
+      "excerpt": "Your ability to explain artificial intelligence and its components to business leaders could mean the difference between acceptance and resistance. Here's how to do it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/how-explain-ai-ml-nlp-business-leaders-plain-language-rajeev-ghai",
+      "originalUrl": "https://www.linkedin.com/pulse/how-explain-ai-ml-nlp-business-leaders-plain-language-rajeev-ghai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media/AAYQAgQLAAkAAQAAAAAAAA196XghfnplQFCx7y__C0e55w.png",
+          "width": 1400,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
