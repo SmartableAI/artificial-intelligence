@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2021/02/28/how-covid-19-broke-ai-and-why-ai-may-break-again/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Machine Learning Shows Social Media Greatly Affects COVID-19 Beliefs"
+    excerpt: "Machine learning tools analyzed tweets about COVID-19 and showed that social media can significantly infleunce people"
+    publishedDateTime: 2021-03-02T18:05:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-shows-social-media-greatly-affects-covid-19-beliefs"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
+        width: 690
+        height: 400
         isCached: true
   - title: "Rwanda to use Artificial Intelligence in Covid-19 forecast"
     excerpt: "Rwanda is set to be the first country on the African continent to use Artificial Intelligence (AI) in predicting the burden of Covid-19 in its territory in particular periods of time. On Friday, February 26,"

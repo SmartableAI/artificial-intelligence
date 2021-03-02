@@ -2,6 +2,215 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles.md",
+      "title": "Motional Selects Ambarella CVflow® AI Vision Processors for its Driverless Vehicles",
+      "excerpt": "Ambarella, Inc. (Nasdaq: AMBA), an AI vision silicon company, today announced that Motional, a global leader in driverless technology, has",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-cisco-webex-aims-to-help-you-break-through-the-language-barrier.md",
+      "title": "Cisco Webex aims to help you break through the language barrier",
+      "excerpt": "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "originalUrl": "https://www.techradar.com/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YxvvNThwqyZZZAbYACwvgB-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
+      "publishedDateTime": "2021-03-02T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-kaskada-launches-platform-to-prep-data-for-ai-models.md",
+      "title": "Kaskada launches platform to prep data for AI models",
+      "excerpt": "Kaskada, a startup developing a platform for feature engineering, has launched its platform in general availability.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
+      "publishedDateTime": "2021-03-02T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle.md",
+      "title": "Machine Learning Can Help The Insurance Industry Throughout The Process Lifecycle",
+      "excerpt": "Not all insurance is alike. Life insurance and automobile insurance are not (as far as I know) the same thing. There are many similar processes, but data and numerous flows can be different. Machine learning (ML) is being applied to multiple aspects of insurance practice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
+      "publishedDateTime": "2021-03-02T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-aws-selected-as-official-cloud-provider-of-pga-tour.md",
       "title": "AWS selected as official cloud provider of PGA Tour",
       "excerpt": "The partnership will offer new fan experiences and engagement opportunities with features like Every Shot Live and access to historical events dating back nearly 100 years.",
@@ -10,7 +219,7 @@
       "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -322,7 +531,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 366,
+      "heat": 376,
       "tags": null,
       "images": [
         {
@@ -1052,213 +1261,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-markforged-a-3d-printing-startup-will-go-public-in-a-spac-merger.md",
-      "title": "Markforged, a 3D Printing Startup, Will Go Public in a SPAC Merger",
-      "excerpt": "Per details of the deal, which is expected to be finalized sometime this summer, the combined valuation of the merged companies is expected to be $2.1 billion",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932",
-      "originalUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/lqp819fkyto0ykyrywne.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/markforged-a-3d-printing-startup-will-go-public-in-a-1846384932/amp",
-      "publishedDateTime": "2021-03-01T17:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-aws-reorganizes-deepracer-league-to-encourage-more-newbies.md",
-      "title": "AWS reorganizes DeepRacer League to encourage more newbies",
-      "excerpt": "AWS launched the DeepRacer League in 2018 as a fun way to teach developers machine learning, and it’s been building on the idea ever since. Today, it announced the latest league season with two divisions: Open and Pro.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
-      "originalUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-01-at-4.47.14-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/01/aws-reorganizes-deepracer-league-to-encourage-more-newbies/amp/",
-      "publishedDateTime": "2021-03-01T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-tesla-to-launch-full-self-driving-subscription-within-4-months.md",
-      "title": "Tesla to launch Full Self-Driving subscription within 4 months",
-      "excerpt": "Elon Musk says that Tesla will launch its subscription service for its Full Self-Driving package within the next three to four months. Get ready for a high monthly premium, though. Last year ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/",
-      "originalUrl": "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/",
-      "publishedDateTime": "2021-03-01T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-overlooked-c3ai-stock-looks-attractive-on-the-pullback.md",
-      "title": "Overlooked C3.ai Stock Looks Attractive on the Pullback",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips As I write this, C3.ai (NYSE:AI) stock has lost a third of its value in 12",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/overlooked-c3-ai-stock-looks-attractive-on-the-pullback-1030137355",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/overlooked-c3-ai-stock-looks-attractive-on-the-pullback-1030137355",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2021/03/overlooked-c3-ai-stock-looks-attractive-on-the-pullback/?amp",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2021/03/overlooked-c3-ai-stock-looks-attractive-on-the-pullback/?amp",
-      "publishedDateTime": "2021-03-01T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

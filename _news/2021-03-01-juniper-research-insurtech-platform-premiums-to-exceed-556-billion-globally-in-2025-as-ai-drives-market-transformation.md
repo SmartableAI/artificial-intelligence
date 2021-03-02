@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-europe-financial-technology-united-kingdom-e93048a9814d4c82b2db249b9afb7579"
 type: article
 quality: 12
-heat: 12
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 700
     height: 450
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Retail Market Worth $ 15.05 Billion, Globally, by 2028 at 29.18 % CAGR: Verified Market Research(TM)"
+    excerpt: "According to Verified Market Research, the Global Artificial Intelligence in Retail Market was valued at USD 1.94 Billion in 2020 and is projected to reach USD 15.05 Billion by 2028, growing at a CAGR of 29."
+    publishedDateTime: 2021-03-02T18:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-worth-1505-billion-globally-by-2028-at-2918-cagr-verified-market-researchtm-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vvVIfgplAbnIfB8cPbuQFyGD8+TpaulY4PEO8uaIdrOYy8aqa7r6ctTovswiuFc6q9e7ngSA9d8tnUlv2DCw2j0HmW/eN7Hpf4u2YeeNPL1BZ5goe3du+a4FccSKLSsRGP7Q0THEU9XnvG2w5ShGvNmBwI/kCGWX3Vl+koRxDNiisYEwWFGUyxHt/nHS49pxNxLff+D3z9eH8QB/2Yz5vA6YUyuL9ZkqoE3ZBMGrKKdx31q/p/I3i2T3Q4uGoTTlTWrt7yOvfsSu1ATeoGdqJiyda6qcGHbBvWVUP9hVZSZN9q3imQXYTkBnd0QZv9ueOlBpA1exz4znaPYFfwORGYiOQeT+zeWL8cIBzI1fgWc=;mDrNctUXKosYdC2JPD631Q=="
 ---

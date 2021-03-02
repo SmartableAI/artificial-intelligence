@@ -2,17 +2,17 @@
 category: news
 title: "Who will lead the world in artificial intelligence?"
 excerpt: "National security threats and opportunities posed by AI should be a catalyst for changes to defense requirements and resourcing processes, the authors argue."
-publishedDateTime: 2021-03-01T18:03:00Z
-originalUrl: "https://www.c4isrnet.com/opinion/2021/03/01/who-will-lead-the-world-in-artificial-intelligence/"
-webUrl: "https://www.c4isrnet.com/opinion/2021/03/01/who-will-lead-the-world-in-artificial-intelligence/"
+publishedDateTime: 2021-03-01T17:55:00Z
+originalUrl: "https://www.armytimes.com/opinion/2021/03/01/who-will-lead-the-world-in-artificial-intelligence/"
+webUrl: "https://www.armytimes.com/opinion/2021/03/01/who-will-lead-the-world-in-artificial-intelligence/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: C4ISRNET
-  domain: c4isrnet.com
+  name: Army Times
+  domain: armytimes.com
 
 topics:
   - AI
@@ -36,6 +36,6 @@ related:
       domain: zdnet.com
     quality: 67
 
-secured: "UE84K/f/PgKFE9WOF4KJWmQtF8fR1EiFO6rfE801KBm1OEv9IoNFXdNGn4xFZd5z26LqnpyMnqgUjV8+NbsZOeMJKXve1k010e7EvmQEfBDDOrX66tfvAiaBY82CB/ecxBzBrtbJss/+0KmG9rqX3TeuTDxcRSCMPGnn5NANkp7KjxvsYLqo079YDb7gEm6+qe4Clh4ODqgAp00aMozJdPDh3VhmqFU0c155ZUpVK5c+t0PG6v0lgKGHYhbwaLqTbGWJShdTJ2O/eCFq0HTkDxYkcwh1III8tazEv/r5kl0zACWb+JFHYwGjdTPAFsuDDHMbpkJu5WsFn2elIiTnC8wHUcFQhvg7J7UTwh68iUMjO5QJerKINqfg3i2ngRuDHOZU6DPnVz7l+2fcRcxB15jjbUp803VHO6ZA+ebTFe2c4SlThATiLKYvgB72mDTiqpMHTIjQfCWQhNByPI4G6cLQR05KpFudjZ/CKcVCmavzbB0pHh/2NMcjGwkwhV+jYVOMoCqQ+j8ihRMUDPUWlw==;4cv1Y8Y1RYYm3LA5WYb2/A=="
+secured: "sdYlCSbQPNOqU/LRgGCVLIl+KJsvtSjP62VgzZc3khjCV+kVgGY44QxMWoYJRL8toFH2YJIML7oLYLEruszS5VviGkAcxmB04b3LclSUADeL8QcrwG73xGdOJP5TRzsy4LwsR9QR9HriAJMe3Ve5eljFdG2Ns8rNls6x2p+FP93+qFlOsZA5mtWyZ3PY1vLmoV964+ecQJKrF7G3Zvy8matC1ZAW1Su64lIg663ieeERZYWpYI90YYYXnp7JD8+j9uoKi7ySoXw6mkvRyG71aFGheEfdFiBfxDcq2G06B5/4ZbYxXaZrlfF7BZ/rUT5adt14ldInTmSnT4//z4dEfXDuxRnsJ05FeO16QVk21vM=;AA3Y0Rifeq5tMn6g/SWHZA=="
 ---
 

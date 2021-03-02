@@ -1,33 +1,27 @@
 ---
 category: news
 title: "Microsoft Azure Percept promises to make edge computing a doddle"
-excerpt: "The hope is that this new platform will help create a Microsoft-powered ecosystem of edge devices designed for low-power implementations, in essence replicating its success with t"
-publishedDateTime: 2021-03-02T14:04:00Z
-originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
-cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
+publishedDateTime: 2021-03-02T14:15:00Z
+originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
 type: article
-quality: 104
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: IT Pro
-  domain: itpro.co.uk
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
-      width: 50
-      height: 50
+  name: Cloud Pro
+  domain: cloudpro.co.uk
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
-    width: 4800
-    height: 2700
+  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
+    width: 845
+    height: 475
     isCached: true
 
 related:
@@ -96,9 +90,9 @@ related:
   - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
     excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
     publishedDateTime: 2021-03-02T14:02:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
     type: article
     provider:
       name: ZDNet
@@ -153,11 +147,11 @@ related:
         height: 418
         isCached: true
   - title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
-    excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
-    publishedDateTime: 2021-03-02T16:48:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    excerpt: "the Azure Arc enabled data services has been enhanced to include Azure Machine Learning as well. “By using Azure Arc to extend machine learning (ML) capabilities to hybrid and multicloud environments, customers can train ML models directly where the data ..."
+    publishedDateTime: 2021-03-02T17:05:00Z
+    webUrl: "https://www.techradar.com/in/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
     type: article
     provider:
       name: TechRadar
@@ -260,6 +254,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Ignite 2021: Azure Percept pushes AI to the edge"
+    excerpt: "Microsoft may have given up on smart speakers for the consumer, but the company hasn’t given up on letting others build intelligent devices based on its own technologies and hardware. On Tuesday Microsoft launched Azure Percept,"
+    publishedDateTime: 2021-03-02T17:14:00Z
+    webUrl: "https://www.techcentral.ie/F9R84"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 69
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/03/Percept_Dev_Kit.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
     excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power o"
     publishedDateTime: 2021-03-01T08:24:00Z
@@ -319,7 +327,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN
@@ -372,6 +380,6 @@ related:
         height: 495
         isCached: true
 
-secured: "B5wDfe+9Hp8V9gdTBTRdpywNtuHRXlMyyyiNxXEkw6FE9o43mmyGFH6HbVBd3HokNe/mOxgjiJFuD3lQ8Lmt5v1KzfqRhnDSkKEw4YpxQBfwmu3yhqrDXNKtZeifHmO4iCiM++MGYGaQupyDWKDNCASaJ+9zTegYkhYfqUCzPAex5GoJafL33EWE23ZWtIY3az0deFNMrgtMD0ELPiMzGOIkHuCDDDwz/F4RESRdSx4/EU5TozlSP1c0hPWBf0hW+XRNmlZty6Dw6JofavfawO5rk/q+KBOLX7+CbwfIHL+PoeKD4W6LsBDPeNK7o5Qmejd6MLqSNH4QN7baVU/lA+LHeUdWbGKL5NYPhLJkyNs=;5I45CgvzZUKbfY4NpLEEzg=="
+secured: "82GbQSKfnk3D8tq9Ivs05qshEQbMgoWM4nf8tXOQjdpz+YJ51wT2IE90vNn11yIjOWJrKv7sEL0mFT/6Qa5Ukk59YVdIQkIOzqVt1uezclF8qbxcfB0XCMIcgF7m4nmz7eZSHz48RLGEKD22KkE2y5v3NnaoH7pzm58V5DxJsFC+RC3Jc8mII2po1SSRgorFvfRvv1JERXCvOU4TgC/9dGO3NI6/QMEYTJIgouuhOK+/it/ds084LSNrwCahNDdbN62Goy0MyWKp6/TdQkBss9vUED8bwYpP/aJDwbkaCRypuW+N0EXMUm/SlCiP9vwlumJCOGWekjROpo94kixJafmhwEHPITgiNOCp8zoI1cs=;IeK34p5p84D4TtSCZl7pwQ=="
 ---
 

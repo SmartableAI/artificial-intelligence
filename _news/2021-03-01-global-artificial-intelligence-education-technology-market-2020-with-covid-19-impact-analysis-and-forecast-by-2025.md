@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Machine Learning Shows Social Media Greatly Affects COVID-19 Beliefs"
+    excerpt: "Machine learning tools analyzed tweets about COVID-19 and showed that social media can significantly infleunce people"
+    publishedDateTime: 2021-03-02T18:05:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-shows-social-media-greatly-affects-covid-19-beliefs"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/Apps_and_Software.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Rwanda to use Artificial Intelligence in Covid-19 forecast"
     excerpt: "Rwanda is set to be the first country on the African continent to use Artificial Intelligence (AI) in predicting the burden of Covid-19 in its territory in particular periods of time. On Friday, February 26,"
     publishedDateTime: 2021-02-26T17:18:00Z

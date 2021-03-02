@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dolbey is Best in KLAS for Speech Recognition: Front-End Imaging and Computer-Assisted Coding"
-    excerpt: "Since Dolbey's founding in 1914, the Dolbey name has stood for dependability and industry-leading technology. The Dolbey suite of solutions include physician-facing applications for speech recognition and dictation as well as solutions for document creation and transcription and revenue cycle solutions for clinical documentation improvement (CDI) and computer-assisted coding (CAC)."
-    publishedDateTime: 2021-02-26T02:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dolbey-is-best-in-klas-for-speech-recognition-front-end-imaging-and-computer-assisted-coding-1030123597"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "CyberLink integrates its facial recognition SDK FaceMe into Vypin eScreener kiosks"
     excerpt: "CyberLink announced a partnership integrating its facial recognition software development kit (SDK) FaceMe into Vypin eScreener kiosks."
     publishedDateTime: 2021-03-01T00:31:00Z

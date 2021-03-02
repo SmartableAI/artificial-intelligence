@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-02T13:00:00Z
 originalUrl: "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus"
 webUrl: "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 related:
   - title: "C3 AI and Baker Hughes to Provide Enterprise AI Solutions to Accelerate PETRONAS Digital Transformation Program"

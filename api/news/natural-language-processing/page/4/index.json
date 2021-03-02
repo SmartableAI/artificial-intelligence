@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-23-tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win.md",
+      "title": "TripAdvisor Beats Speech Recognition IP Suit After PTAB Win",
+      "excerpt": "Mimzi LLC on Thursday agreed to permanently dismiss an infringement suit against TripAdvisor LLC over a speech recognition patent after the Patent Trial and Appeal Board found all the claims invalid.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
+      "originalUrl": "https://www.law360.com/articles/1347471/tripadvisor-beats-speech-recognition-ip-suit-after-ptab-win",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.law360.com/amp/articles/1347471",
+      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1347471",
+      "publishedDateTime": "2021-01-22T14:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law360",
+        "domain": "law360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-23-voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026.md",
+      "title": "Voice and Speech Recognition Market: Key Drivers, Challenges and Trends by 2026",
+      "excerpt": "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026-2021-01-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-how-to-set-up-speech-to-text-in-windows-10.md",
       "title": "How to set up speech-to-text in Windows 10",
       "excerpt": "Windows 10 conveniently groups its voice commands under Speech Recognition, which interprets the spoken word across the operating system for various tasks. We’ll teach you how to get everything ...",

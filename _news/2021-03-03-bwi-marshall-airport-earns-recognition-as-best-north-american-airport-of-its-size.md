@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-02T16:45:00Z
 originalUrl: "https://afro.com/bwi-marshall-airport-earns-recognition-as-best-north-american-airport-of-its-size/"
 webUrl: "https://afro.com/bwi-marshall-airport-earns-recognition-as-best-north-american-airport-of-its-size/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://afro.com/wp-content/uploads/2021/03/bwi-airport3.jpg"
@@ -24,6 +25,6 @@ images:
     height: 270
     isCached: true
 
-secured: "ah94yck5ZPyzkbzq10GaT7CU/wCnLSS1+6Q9EzAMy9+TJ8jYyQFZ11s3La22aHT0oNX2F9Cfv1hRXVrZ1CtotiDskoqZWJq4A6JidO0IdhpK/bmpbniESTiQKC9cnl/soqVxqeD/yfxjffAk5tnKAsqzfXXKPzh9G/Xru1wFdk+w102crXXCZIx6v/V31ZaON718toAu0JBfALXpEEMR2p3pXxch5zJ79dRJ58FWIlpwYSW3uMpSy2OEsJvYMk9SSmBVhg8L/16fL5jGJeCiKG2UD9PQwAkqgSBmYvfvzpb9qOIRx+e0qDYs5RDbGYRo0bo2dDYZrb41WRE48DQFEoriYBmp+kxgwDplka5il54=;JnifmWAjIjO483sL2+H0gQ=="
+secured: "q6FZ5KMHjrSsQ3V5G8RUY8y2ggpGVvbBIFgHkDIMwOm2UMTkpKMkgwkNjD4zShW9+qd1f1x7kxKLreqZIx8dzLg8eY2VRoJHrXTIyKWqph3TAexzX7fT8gI/0Rn3+M8GNGxR4sgtPJZV7fV8x+AlIGDNayECsqWb5l9eJUYxCgWP3KqL0m3SmovjVXEzdRvZQrsYp7mDV+i9UDQ4YXYKewcf2wydKrj78msA3TFk6YJzgvix1PaBXmUCF6NCpAptWCIRXmvdqz45bt4BtdksLUOZ1IvcBKDVWuZF7jUCfbuolhwNWtLGUoH5culy9X/ccpq+lK1BbS7grlR3sWoNiRdkWXr6PDSpA0UNlr7QwZ4UxESSihJzS9/CCAEsXawgkGg4PCzC35LVQv6msZgeDl6NuA3y8vTCm0lV4+lmTTyJtGfLTkulC5hKu1CjxG6dLyhVMT12fS9fDXF6zpazogZIh0jiUjU/oZD7cMpBwPWyrFN7gKm83oXZXHq3h8Zgy/CaL6c/keRxw3QmdoJ/mQ==;jQNnDpsPOWEJhYO7WhuybA=="
 ---
 

@@ -25,43 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Computer Vision Market 2021-2024:Size, Definition, Development, News and significant Growth with Regional Trends by Forecast"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Feb (AmericaNewsHour) -- Market Synopsis. The AI In Computer Vision Market is estimated"
-    publishedDateTime: 2021-02-26T02:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2021-2024size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2021-02-26"
+  - title: "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027"
+    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
+    publishedDateTime: 2021-03-02T18:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
-    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
-    publishedDateTime: 2021-02-26T18:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI-Based Fever Detection Camera Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19"
-    excerpt: "What will the AI-Based Fever Detection Camera Market growth rate of Nuclear Medicines Radioisotopes market in 2026? What are the key factors driving the global Nuclear Medicines Radioisotopes market?"
-    publishedDateTime: 2021-03-02T06:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-detection-camera-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

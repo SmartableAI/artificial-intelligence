@@ -55,6 +55,31 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "PGA Tour Partners With AWS for Cloud Services"
+    excerpt: "SEATTLE—The PGA Tour is adding Amazon Web Services (AWS) into its bag, choosing AWS to be its official cloud provider to help transform the way golf content is created, distributed and experienced for fans,"
+    publishedDateTime: 2021-03-02T16:56:00Z
+    webUrl: "https://www.tvtechnology.com/news/pga-tour-partners-with-aws-for-cloud-services"
+    type: article
+    provider:
+      name: TV Technology
+      domain: tvtechnology.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/m2x8rKwg43TSUpdSUor4nd-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "PGA Tour teams up with AWS to improve fan engagement during tournaments"
+    excerpt: "PGA Tour selects Amazon Web Services as its official cloud provider partner as it sets about revamping tournament viewing experience for golf fans."
+    publishedDateTime: 2021-03-02T17:54:00Z
+    webUrl: "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments"
+    ampWebUrl: "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
   - title: "AWS official cloud provider of PGA Tour"
     excerpt: "Amazon Web Services (AWS), an Amazon company, has announced that the PGA Tour has selected AWS as the Official Cloud Provider of the Tour. AWS and the Tour a"
     publishedDateTime: 2021-03-02T16:13:00Z

@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Humayun Sheikh, CEO of Fetch.ai – Interview Series"
+    excerpt: "Humayun Sheikh is an innovation entrepreneur, a founding investor in DeepMind and is the CEO of Fetch.ai, an innovative platform for connecting IoT devices and algorithms to enable collective learning."
+    publishedDateTime: 2021-03-02T17:41:00Z
+    webUrl: "https://www.unite.ai/humayun-sheikh-ceo-of-fetch-ai-interview-series/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/02/HumayunSheikh1.png"
+        width: 1000
+        height: 600
+        isCached: true
+
 secured: "4C0dHM3kE4+bY1SNvlGIj7KmiDWNsmdca+Ia7z1s5O5nCvoNWepY+Pi1DllntRriUzvQwTFlaTGqFIllv1AlXozpDm/OX/uxIj/3a72sNcRfrIAk8iUp+CwVOn50iZXMeo2AD1wUiASE0OExwXwezCHwEwkYTtk/n3tn2nAuZwPUD12s6fuZkK7SRLUzhnG6rBzC6mL8kXoXRUWF7sG0mFgPoT0xU4tXuENCo219qkSKq4SrnvzKJgyKh15Br7cTJuiNjcLzb5JcAiBHuM8qe7oXGn59cvuAtWjo1lXY9hsz++UoAOSROYcL13BYB/SE7D5GYB85kqDFNAC/anrZKQVUP8B6Tt3lQohIIxM3GHM0zq07qvVt+XxMsdvJMYqSsepvhlRUVCMC7pfHFp+a7Z7Nd38xsmKpHNeYCqP2110YakWPs1wLIVsuMvRnzVQd80+Ytm9TlQrAhJMhXdh1eowjMqrNy8qmkLlYvtRrkaSvACBoq0bCFd25GsN8cqsdzkD9/wz1RUla65Ixv+MEpA==;jO+PQF5JU7E5Dk4kP52VBg=="
 ---
 

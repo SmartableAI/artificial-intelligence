@@ -39,15 +39,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Dolbey is Best in KLAS for Speech Recognition: Front-End Imaging and Computer-Assisted Coding"
-    excerpt: "Since Dolbey's founding in 1914, the Dolbey name has stood for dependability and industry-leading technology. The Dolbey suite of solutions include physician-facing applications for speech recognition and dictation as well as solutions for document creation and transcription and revenue cycle solutions for clinical documentation improvement (CDI) and computer-assisted coding (CAC)."
-    publishedDateTime: 2021-02-26T02:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dolbey-is-best-in-klas-for-speech-recognition-front-end-imaging-and-computer-assisted-coding-1030123597"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
 
 secured: "jaOGVoF+2tkdqtk2O3RZ5JFwvhpdo5YqbeOehicODutCjUi25oydniv2wHYprWq92sxyaOGpPbNKAQhyR7MWeVG/mk8rNy2gXnIL3D2A1OB37qwpusZjJF64nu4hjsWA4PpteRb+bJSqNVndzCysvlIEaTxcFbMt5zcusEMo88SkVo+WO/Itx9nL25euN1VK59NBqpkRz4reuEQUjWpaWQCfJF9D/5gFxK2Qk+pATklO3PlOKxKROglnToauRVpYV8R2LPMSP6z9zQwSb0PyVIIPrWhVTNj74lR+/y7WPIjEs7Z2Qz8/IX4ZJzxU1rln12YzeFlFnN86HFO4E7q9c8F3vzLAtEj0pt7EW+EZcMg=;Of1rly2W0Hd+9I+8Icpdng=="
 ---
