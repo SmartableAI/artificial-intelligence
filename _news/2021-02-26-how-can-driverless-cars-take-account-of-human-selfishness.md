@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "Driverless electric bus hits the road in Spanish city of Málaga"
-    excerpt: "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe"
-    publishedDateTime: 2021-02-25T18:41:00Z
-    webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Driverless bus hits streets of Malaga in southern Spain"
     excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
     publishedDateTime: 2021-03-01T01:19:00Z

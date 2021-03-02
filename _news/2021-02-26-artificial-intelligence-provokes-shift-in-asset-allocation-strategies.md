@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artif
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-provokes-shift-in-asset-allocation-strategies/article_2c05f664-9666-5032-b484-b15398b1f1a3.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 855
     height: 630
     isCached: true
-
-related:
-  - title: "Kinetix Makes Strategic Investment in Senfino AI"
-    excerpt: "Senfino AI, a leading fintech company that provides AI solutions for Asset Management, today announced the close of a strategic investment from Kinetix"
-    publishedDateTime: 2021-02-25T19:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/kinetix-makes-strategic-investment-in-senfino-ai/article_a4a77030-7664-55b4-b844-300b45b3271e.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "0jtbRdPEKvbwkA8UoH6/EE0HOl6BzkOkD/Frnb9daGJPErx9b/HhjHCeRSm8iFO9MmvJivMZPJpgAc4PuYvOCLMnbFevdt49F76gOkNf44RE91/xqq5bGolsaqxMATVFLaj0A5z4W+BaTbv1R8w76So29OoHDF0Nceol+3FDJTdQ4jgkjIrCWO5QoAU2zYQ/U6vx+bE6MdyqPWvRJyToKPSB71PU1xakIxhnB4/IiqS0S1SLXRDYsD8KbWeydjcHyxmOpNi5RkxenjMymnvBSrU/Ovj6n6xPtlZSTcLxS2eYp6tCkTpG/n+l4tX0zOkuwi8HLDrENuhHmOLnghpougzcRIH2e+uAwcrYkqQDyP4=;9Pdrhx8UxSw8Zyx+jl9txw=="
 ---

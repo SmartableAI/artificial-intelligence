@@ -90,17 +90,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
-    publishedDateTime: 2021-02-27T14:40:00Z
-    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
+  - title: "Global Artificial Intelligence in the Manufacturing Sector Market 2020: Industry Overview, Growth, Price, Trends and Forecast 2027"
+    excerpt: "Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2021-03-02T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-2020-industry-overview-growth-price-trends-and-forecast-2027-2021-03-02"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4pNaaQKJ/fbKjsU6sclH+TJw1DhHydcz0fxj3qQO5urK6dzLjxRg0LQTNiXJdK4V8TdX1qg2r+IlHlw1oHywyeAVTNeEWqdiMeygC3paPqBIntIdhPF3UmzoUHAR8o2P32jywxTwSyBit1MEBcwXPYe652NOkOHqOJGxmK25NvDlH3Ms+k9mgllhr1m19sgfW80wSWw5b3B7CM08BeKn+wuq8iu6kH7Br2Ba6O3mvcglgm+U0HyOHa+cqFh2INbd5bXa9vnC4k5Cm47ByCu/1M2IROwMW3HEuWIJKBS5X8mo5UyFf6uXjgRk22uOqW34E6xe0XiuJ1zCoca3+EZIEOxKYEfKr7kuG4nVX6PhbqE=;iv8xjxYc0RgP6SwzoCaZhg=="
 ---

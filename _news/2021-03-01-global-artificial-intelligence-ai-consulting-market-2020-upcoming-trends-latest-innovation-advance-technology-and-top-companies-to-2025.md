@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence in the Manufacturing Sector Market 2020: Industry Overview, Growth, Price, Trends and Forecast 2027"
+    excerpt: "Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2021-03-02T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-2020-industry-overview-growth-price-trends-and-forecast-2027-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Size, Share, Growth, Trends, Analysis and Forecast - 2027"
     excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
     publishedDateTime: 2021-03-02T08:13:00Z
@@ -95,17 +109,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
-    publishedDateTime: 2021-02-27T14:40:00Z
-    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "dbKzpH0BoThfZKPDf8vpNAsm5x/U7FP2P2Gp8Me14KYNKNUuIXhKb24hshdFaraLPp7LApIv6qYqEBVHD5XjV8hgWuGrDkNemTnTZ9LMrPBxqSeV4g3WxmAiPTXpWSs1cGKPnr55VSwLDnzccq2huto4JrK+pc4Uro/qwb2HSmHrHXCyqqS30UamQlKztHpiHXhCLzVJuyce5pqQKTrIi6ddiS+79eUYDGuTkfrCRw6/akvfrJhL6TIs1685bypNealiqGqQECrCHGMzfF1MObVbPLlgBJyvmDU25GveLGMKIVuboNPTbG5llIxLM2tJja83OqNeFnwNddHnZ+bQ5M1LCKFyrrOEFspF0Niz8DM=;7G7Cn4AwRcsaeP7uzN66XA=="
 ---

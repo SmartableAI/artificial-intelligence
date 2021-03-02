@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Smart Robot Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The scope of the report includes a detailed study of Smart Speaker Market with the reasons given for variations in the"
+    publishedDateTime: 2021-03-02T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-robot-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
     publishedDateTime: 2021-02-26T16:55:00Z
@@ -110,6 +124,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027"
+    excerpt: "Global “ AI in Fintech Market ” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and industry chain structure. The AI in Fintech Market report also concentrate on the development trends as well as history,"
+    publishedDateTime: 2021-03-02T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

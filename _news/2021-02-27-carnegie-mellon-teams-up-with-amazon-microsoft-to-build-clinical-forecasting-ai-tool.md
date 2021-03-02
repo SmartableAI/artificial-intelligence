@@ -41,20 +41,6 @@ related:
         width: 1069
         height: 693
         isCached: true
-  - title: "New Azure HPC and AI Collaboration Center Program Announced"
-    excerpt: "Microsoft Azure is proud to have recently launched the Azure HPC & AI Collaboration Centers program, which funds collaborations with"
-    publishedDateTime: 2021-02-25T18:10:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/new-azure-hpc-and-ai-collaboration-center-program-announced/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/Japan-wisteria_shutterstock-1329118010_700x-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "KnIP8pfux7FzcF2ZafXkmMmzmmAaeJRBK7FoUrPVlmrLWwoxFyjX6krPCEbQ92DTXF8FeNzV35iZkNB3/qtu64x45Y7blLe9N/pYWTxXPcD6Nmy+JW+Vms1UB3U8nwpgeJenZCXZn1Dfe/wdERtnHdUuEyqkeht0kDzTMadRzyfZaU5lUbFYhtUHnjozzsOao55Vc+yDnP5gHoitduSGEXq+/r00T7N82VvLS/j7MVlgAtsECDc8Pd3cl3t8D2DbGQF6MRRppSXRpbX0pdeqZRDBE4i2KowmrcpJsLa8L47AGejR2IrHtGcko7Oz9jHEnt5aw0+sdPJu+cdu/CDx6grEvUFI1aU/n35T5I0cYYwK5HKm0XsN7sGn4ygH4iFdlBoBAJNv4R1dfHh/hRF6Pbb7p80qYi6W5bRkayluHTTjln4uEbG+AWlYnwAOAzLFCfrbnQQRFcySKXaMGEkk+///9GQ46uP1Fh+Y0vFaStIoAv/5QK/WHTBXX58NEJOzsz+ULE6NX35g0a3ENBi2qA==;Y0LFRlNo7MHYckOKE2zCew=="
 ---

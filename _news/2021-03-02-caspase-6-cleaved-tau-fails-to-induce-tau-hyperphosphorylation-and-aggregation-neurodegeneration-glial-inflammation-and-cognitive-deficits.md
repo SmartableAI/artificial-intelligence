@@ -71,6 +71,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Law on collection of facial recognition data to be proposed at two sessions"
+    excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
+    publishedDateTime: 2021-03-02T10:36:00Z
+    webUrl: "https://www.globaltimes.cn/page/202103/1217051.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-02/31e0a973-240a-4047-84d1-21645e9e20c2.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
 
 secured: "dO/QKWpNvz+wsZAAyO8ptizVcHmaJha9x81VsgslZyr8Pg4nHqblIIrwYGpN91dXCQ8E/VWI7sBukvGtvW/QRQIAVlM16Znsa426Qw+xVlAVVzjpdssgJvnojFxeFAmNNXrucvp6qxKFbYiU23+k1f1cnWHGXcuTG2BCT/nCxtboyJ2xRZ1wCnSq9QJXOQ7Wvs1Zqg+NN6I5vu8AkMJhdsl5tsZflAhOmqamcFooj0Mk1vrOQBUfxWIpSYaUfeCTU/8N6NfxVF/PYs8/AJv8/ckXsQlsqjWGuezADdIQkLxxu2xL56o6vuo8fsaqtKFvZGmmfCvGu9nMyTMSuLkbD01VUUUn5H5JsFpMNTg865k=;ojUt6tgCUBZyeWEcgfLATA=="
 ---

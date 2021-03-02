@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Leading Translation Services London Now Quotes Prices within 1-Hour"
-excerpt: "Leading Translation Services London announced yesterday that the company's much-awaited feature is live. The ability to quote prices for translation jobs within an hour significantly reduces the time businesses will need to decide."
-publishedDateTime: 2021-03-02T08:36:00Z
-originalUrl: "https://www.lelezard.com/en/news-19676504.html"
-webUrl: "https://www.lelezard.com/en/news-19676504.html"
+excerpt: "Translation Services UK has announced that it is now equipped to quote prices within 1-Hour, making it one of the swiftest in the translation industry. LONDON, UK /  / March 2, 2021 / Leading Translation Services London announced yesterday that the company's much-awaited feature is live."
+publishedDateTime: 2021-03-02T09:02:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/267982878/leading-translation-services-london-now-es-prices-within-1-hour"
+webUrl: "https://www.bignewsnetwork.com/news/267982878/leading-translation-services-london-now-es-prices-within-1-hour"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/theme/lezard2.png"
-    width: 500
-    height: 414
+  - url: "https://cdn.bignewsnetwork.com/cus1614465501108.jpg"
+    width: 630
+    height: 420
     isCached: true
 
-secured: "saso4cR3IbcQbMlwnm9QwCa9WPPTvrFXaleWCFNHnbqVUyTj2dxiyF/9SQRXBJchgcxaCJT7B0MLrZT/3YXx9xxiOZvwj1e6YnUshFL/Sd/dR0f+xhcteLu5UThsZvEWOWVFmr5nHirzdTgdR271hM4JAOsmgaR5IqLvghAYX24RjCi5Kk1E1rC5UaR0KsBcSVvjk7YAjb+04+XVFWZ5lnsFo3eqRFx96/vAX/c3dQqmjAZO3oFeG+gmOWw+Qh5TU8vnS/MSujNbBCR8hamXFlX7zQUhzZ+RYwYi52VRbJkGs0k5df5p48kutv60s3h9KGh3Dl2VTNham0Devw3nmfiF81Y1Xeu4eQK8NYdMgRQ=;KVMh/oovJB51kZSgTw//Dg=="
+secured: "JjuUG1Im4YjQrkHyRrnRkZfX9sa9ZmxE8Nn3TOhbblIktWZR+Xal3b0ILB4y5k5bDZS2fBdvONyK+R91eWuaWV1uorRPB+PMZtK9huTpny6qScv7eDMSmR8wobxul8zJVkf2UrlRRn7QxK1WwBAOZyvyZpImPBnZBHiS85H9js1PulfAEs8ka6mbzXu1N+LL93XW4dqv8bDlaSvmUXSfTw9heUvxEiXuHtykPbzFiCIafyhy3G5GQdtWzETlmx94FoHoikOKrQc3AcrndR/XMVksoEOsgZpTKuMMolQDgYa02zgTeJxGCE8p1P0o8jfLKQaViORkx18elnSGvU/IF4LNgTmiJh3qeZFkG3VWT6k=;Juhhq03hDLDaV8Dl2N5ggw=="
 ---
 

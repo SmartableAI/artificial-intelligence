@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 768
         isCached: true
-  - title: "Driverless electric bus hits the road in Spanish city of Málaga"
-    excerpt: "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe"
-    publishedDateTime: 2021-02-25T18:41:00Z
-    webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242"
-        width: 600
-        height: 360
-        isCached: true
   - title: "How Can Driverless Cars Take Account of Human Selfishness?"
     excerpt: "A new study has found that the percentage of individuals willing to sacrifice their own safety increased by two-thirds when informed that their peers were more likely to sacrifice their own safety, programming their vehicle to hit a wall rather than hit pedestrians who were at risk."
     publishedDateTime: 2021-02-26T11:11:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "January AI raises $8.8 million for AI that helps people manage their diabetes"
-    excerpt: "AI, a startup developing a platform that predicts diabetic patients’ responses to certain foods, today announced that it raised $8.8 million. Notable investors in the round included Salesforce CEO Marc Benioff,"
-    publishedDateTime: 2021-02-25T17:37:00Z
-    webUrl: "https://venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/"
-    ampWebUrl: "https://venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/January.ai-_Logo.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Quality Match raises $6 million to build better AI datasets – Jaweb"
     excerpt: "Quality Match, a Heidelberg, Germany-based quality data annotation provider, today announced that it raised a €5 million ($6 million) seed round from LEA Partners. The company says it’ll use the proceeds to expand its team and accelerate product development."
     publishedDateTime: 2021-03-02T05:37:00Z

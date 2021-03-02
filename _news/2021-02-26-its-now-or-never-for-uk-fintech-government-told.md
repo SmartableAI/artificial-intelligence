@@ -37,19 +37,21 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Fintech Company Zoe Financial Celebrates 3 Years as a Leader in the Wealth Management Industry"
-    excerpt: "Zoe Financial today celebrates three years empowering consumers to find the best and most trustworthy financial advisors. \"The"
-    publishedDateTime: 2021-02-25T18:30:00Z
-    webUrl: "https://www.lelezard.com/en/news-19669934.html"
+  - title: "Top tech trends that will define fintech this year"
+    excerpt: "Technology in the financial sector is evolving rapidly to offer solutions and stay ahead of the curve. A clutch of tech trends will shape the fintech space."
+    publishedDateTime: 2021-03-02T10:08:00Z
+    webUrl: "https://www.dqindia.com/top-tech-trends-will-define-fintech-year/"
+    ampWebUrl: "https://www.dqindia.com/top-tech-trends-will-define-fintech-year/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/top-tech-trends-will-define-fintech-year/amp/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 12
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/Top-tech-trends-that-will-define-fintech-this-year.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "How and why one fintech mortgage lender invested in augmented intelligence, not artificial intelligence"
     excerpt: "Wyndham Capital adopted the nomenclature of augmented intelligence, a concept that treats robots as aides to human intelligence instead of the next best thing here to supersede it. Those robots assist team members in executing tasks to their highest caliber and ability."

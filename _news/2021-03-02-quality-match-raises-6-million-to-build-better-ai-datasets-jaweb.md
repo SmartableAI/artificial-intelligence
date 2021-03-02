@@ -42,22 +42,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "January AI raises $8.8 million for AI that helps people manage their diabetes"
-    excerpt: "AI, a startup developing a platform that predicts diabetic patients’ responses to certain foods, today announced that it raised $8.8 million. Notable investors in the round included Salesforce CEO Marc Benioff,"
-    publishedDateTime: 2021-02-25T17:37:00Z
-    webUrl: "https://venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/"
-    ampWebUrl: "https://venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/january-ai-raises-8-8-million-for-ai-that-helps-people-manage-their-diabetes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 84
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/January.ai-_Logo.jpg?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "W+vH3zXDbjp5ge66CIFTUI/Q5jqbJw70lkmIN5X659E5Wn7Daha9EA1zUrDyUMqExBjOVx61WTJRGk0fq5isnAlmYfPSDJ2hHE94yawyAbYSrbYtmW0s1brPoTB8GOiwAPtzX02bK9naYBUnT8YyStRddv1V9gvDHdmeljQVBzLb8wCvOXH9yPmbUe20Zxe6x1nrzeTvphupHxkJL2CEugQJ9n7JtJ4GINmq2MbqiJqXSxqFKGv4NcZgI9xvDAqtzAHI36wm5ti5JO1ns56pXxK4d5+6tJmE1MsPaS6GtCyk/u9LW5ZH/ff3zfmfEIJwS3f3ir+7/RdXJsePrKbX5juOAiRu6/evNCFSoMwwwxg=;+tXQtFdS8vsFoxkfuY9NSw=="
 ---

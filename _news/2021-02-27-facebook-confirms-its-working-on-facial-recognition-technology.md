@@ -61,6 +61,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Law on collection of facial recognition data to be proposed at two sessions"
+    excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
+    publishedDateTime: 2021-03-02T10:36:00Z
+    webUrl: "https://www.globaltimes.cn/page/202103/1217051.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-02/31e0a973-240a-4047-84d1-21645e9e20c2.jpeg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
     excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
     publishedDateTime: 2021-03-01T16:51:00Z

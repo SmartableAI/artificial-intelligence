@@ -43,6 +43,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
+    excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
+    publishedDateTime: 2021-03-02T10:22:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
+        width: 341
+        height: 400
+        isCached: true
 
 secured: "pXrv4Eqxp0dis3odbqVh2jVUT1oMn8kZfJCsYVPUFSwhmqaAu0jYzaOX8+73fuYFJtUfpOqB39nPn5gN1OoKDoN2qZy9LNfMNKpdRmajM4mTHLWLxrPfIOtJBfEre01mhMudEm3JNTJyDNi59TJBdacpJglO5MNm82/MJ6FBM5kl0zOt0FkmDYXllS9+plbdtUBaz/DX1Ovi0poTV/LvDqVX8sTPCcYmfo2RH2WG9bJ0Qg8IPLTFBU5MH90ARS+O7vyLytvKM8Y0revAJjKJ/djgIbIrAB+07zjjbtsDuwh4g+fmYYYFT0GAMqmvE6VSY1B8AuJamD4egL3OeComnxWgpgvVSzllPCvjA5Y40O1R/Fed0RJeuIUoPnCmaFYdpfI17lkgfTN0YYBhPpkaMFuSX4lpRdVHY/Q8blD043S98jwGIQAvkwSjcjtGgsqg7mxbraLJBXE0fJPrxlGW+k2pV9s100GUH3nZLNYB2W6jbx1nxTtO/d5j4j2Cp1634rQhN8mWWwPz6ggrDSrJ7A==;y2QaH/cJ705HzyKrCHDtSg=="
 ---

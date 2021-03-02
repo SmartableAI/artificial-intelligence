@@ -24,22 +24,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Unioncommunity integrates face biometrics with licence plate readers for motorcycle parking system"
-    excerpt: "The Unioncommunity parking management solution for motorcycles that combines face biometric authentication with automated license-plate recognition."
-    publishedDateTime: 2021-02-25T18:11:00Z
-    webUrl: "https://www.biometricupdate.com/202102/unioncommunity-integrates-face-biometrics-with-licence-plate-readers-for-motorcycle-parking-system"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/25130802/Unioncommunity-face-biometrics-licence-plate-readers-motorcycle-parking.png"
-        width: 751
-        height: 381
-        isCached: true
-
 secured: "RxmogHxSIzSOgSQKRCsYIv15a/hlt5b7kajzTEf2oLBhdSJuAXG4nadFjXcAvf/umamfvdd26WZxXV8EFN/CztCaLwBgibaWuYVG/9zMd6UNgSvJD+us8iYmPRVu9iZParXqFfd4kyHG5qv1gA8LCavxsV2wKE0oXCsmxjCRkXsyXMkAoya2B/Bj4JEelY+YIbb4GgBkBAwcmeXfeglfrRr7kuehMBBrATvjF+8chDkx4A6fUufTgMYvEr9fZ3OFFtX1Zh5GKndwDpXNNx5MbMCxIFG8AXsbSU6vB+Cfyx002y3JdUMLhXdWnYepjb5HzDTSDI6BsZBgXxHIp1wuF0FXW7xBZRskMEYAjY1sEyk=;3waMDB71PdUfgPuoa0EppQ=="
 ---
 
