@@ -31,6 +31,18 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/people/demis-hassabis/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/yann-lecun/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/people/geoffrey-hinton/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,31 +55,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/kate-crawford/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/yann-lecun/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/demis-hassabis/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/joy-buolamwini/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/people/chelsea-finn/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/fei-fei-li/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -79,7 +73,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/fei-fei-li/</loc>
+    <loc>https://smartable.ai/apps/ai/people/joy-buolamwini/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -103,13 +97,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/jack-clark/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/laurence-moroney/</loc>
+    <loc>https://smartable.ai/apps/ai/people/kate-crawford/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -121,19 +109,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/kyle-cranmer/</loc>
+    <loc>https://smartable.ai/apps/ai/people/nando-de-freitas/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/bernhard-scholkopf/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/martin-ford/</loc>
+    <loc>https://smartable.ai/apps/ai/people/laurence-moroney/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -145,31 +127,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/verity-harding/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://smartable.ai/apps/ai/people/alex-smola/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/andrew-moore/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/harry-shum/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/john-krafcik/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -181,43 +139,97 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/carol-e-reiley/</loc>
+    <loc>https://smartable.ai/apps/ai/people/mariya-yao/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/madeline-gannon/</loc>
+    <loc>https://smartable.ai/apps/ai/people/bernhard-scholkopf/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/sebastian-thrun/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/christopher-m-bishop/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/jean-liu/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/nando-de-freitas/</loc>
+    <loc>https://smartable.ai/apps/ai/people/jack-clark/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/people/sougwen-chung/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/andrew-moore/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/rodney-brooks/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/harry-shum/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/huahai-yang/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/kyle-cranmer/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/martin-ford/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/carol-e-reiley/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/rosalind-picard/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/daniele-bonacorsi/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/javier-m-duarte/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/verity-harding/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/alice-agogino/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -235,6 +247,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/people/christopher-m-bishop/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/people/chuen-tsai-sun/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -242,12 +260,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/people/daniela-l-rus/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/daniele-bonacorsi/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -284,12 +296,6 @@
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/people/james-peng/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/javier-m-duarte/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -421,13 +427,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/alice-agogino/</loc>
+    <loc>https://smartable.ai/apps/ai/people/jean-liu/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/huahai-yang/</loc>
+    <loc>https://smartable.ai/apps/ai/people/madeline-gannon/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -439,19 +445,19 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://smartable.ai/apps/ai/people/vishal-sikka/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://smartable.ai/apps/ai/people/john-krafcik/</loc>
+    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://smartable.ai/apps/ai/people/rajat-monga/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/rosalind-picard/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/rodney-brooks/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -463,19 +469,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://smartable.ai/apps/ai/people/mariya-yao/</loc>
+    <loc>https://smartable.ai/apps/ai/people/sebastian-thrun/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://smartable.ai/apps/ai/people/taryn-southern/</loc>
-    <lastmod>2021-03-01T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://smartable.ai/apps/ai/people/vishal-sikka/</loc>
     <lastmod>2021-03-01T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
