@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-natural-language-processing-market-worth-351-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
+      "title": "Natural Language Processing Market worth $35.1 billion by 2026 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "According to the new market research report \"Natural Language Processing Market by Component, Type (Statistical, Hybrid),",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-worth-35-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--827191659.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-worth-35-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--827191659.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
+          "width": 666,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T07:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
       "title": "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
       "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The Voice Recognition Market was valued at USD 10.",
@@ -1343,58 +1386,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-stylescan-is-disrupting-fashion-industry-with-ai.md",
-      "title": "StyleScan Is Disrupting Fashion Industry With AI",
-      "excerpt": "The fashion commerce market-wide need attracted competition for a digital sizing solution. StyleScan is a standout.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601c535e184ca08a78256b04%2F0x0.jpg",
-          "width": 1200,
-          "height": 891,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephanrabimov/2021/02/04/stylescan-is-disrupting-fashion-industry-with-ai/amp/",
-      "publishedDateTime": "2021-02-04T14:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

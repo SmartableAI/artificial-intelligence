@@ -55,6 +55,20 @@ related:
         width: 598
         height: 448
         isCached: true
+  - title: "MediaTek’s new 4K TV chip will power the next generation of smart televisions"
+    excerpt: "Perhaps better known for producing smartphone processors such as the Dimensity 1200, MediaTek also supplies chips for devices ranging from smart speakers,"
+    publishedDateTime: 2021-03-03T19:33:00Z
+    webUrl: "https://www.talkandroid.com/363685-mediatek-4k-tv-chip-next-gen-television/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 36
+    images:
+      - url: "https://i2.wp.com/img.talkandroid.com/uploads/2021/03/MediaTek.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MediaTek unveils new AI-based 4K smart TV chip"
     excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
     publishedDateTime: 2021-03-03T14:45:00Z

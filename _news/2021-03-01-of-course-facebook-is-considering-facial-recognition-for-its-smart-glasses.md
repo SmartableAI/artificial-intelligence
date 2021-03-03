@@ -41,22 +41,6 @@ related:
         width: 480
         height: 272
         isCached: true
-  - title: "Judge approves $650 million settlement in lawsuit over Facebook’s photo face-tagging"
-    excerpt: "A federal judge on Friday approved a $650 million settlement of a privacy lawsuit against Facebook for allegedly using photo face-tagging and other biometric data without the permission of its"
-    publishedDateTime: 2021-02-27T04:29:00Z
-    webUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/"
-    ampWebUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 37
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/02/Facebook.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facebook doesn't seem to mind that facial recognition glasses would endanger women | Arwa Mahdawi"
     excerpt: "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Continue"
     publishedDateTime: 2021-02-27T14:33:00Z
@@ -86,6 +70,6 @@ related:
         height: 900
         isCached: true
 
-secured: "FjfxNwJNddqI4DLBYt9BaD3XaoqwxWlA9uc3QW8h8uaACbiMIXkdX9MbcDFEyoJzwS+3JjOUY8ylAuNYh9ajIqUn4kmSDgfPbcCNt0WruaoIVS/MQxItjvXdOLsJpw7WewXA910gIevHxPOXxjNfKk4PhvRAOmPLsvANHpfAHYkidE/latAIcPMx6uf+W0tPezarF2wGAdOGb3IQhLjON2cB1IMR48pEaRwT6SFmNt/XAJ7b/JlHzBr1Ri9KAh6ijUCfuLDeyoqHfaHhOClKktNL+FeW9hbyNLBmlAjgXrO18KxVEA1D72lDVd1sPlpzGPGrmza2Oo5dORpCYCFVGPzcWGOYfjYLOpWre+/vVE8=;mowd8YiF2OSFhJ1K5MNEhw=="
+secured: "KOVHbGntlmO9/oIEEvg4FSYXByH9Io3iPehb22lgk2Bppg2n9w5YCYyBaLVQ+rd0t49FRsuZkmYKAsT9qXjfG570JssyATOjFk2cXYjEG3ZdIW/nzY0qCADu0rrC4nTKDCSS/+D0kMXCjXaOoH52qIQJ9/roG/5ANt8igU/N8fXx9biraFQlCDrzlfcE/AGkdXyVuf9TIyh4HrvlOgv8W2jZfeqyJIlBs1IdxchIVgeu4qsA2E45gBZJOTcVOMwNebDdLjHq3LRiVdcqNPsYkY37KKHBHKHSA+Jk6Hk+WNfYwhvFNrPvv+IQ9A3qGJyHMNlBQvNNe8vCN+qFg8BeRtp0grSvsabCr1KtD9cXXCsS1UqneCVLor4hf+n0hEotWx8wH6HrdCnpuqS9/ZAMGFz7J1/T3Dw9mVZAwS6ZuDXnUIsQ2KGRFfc60kjepJNAyx0ZJlHXvZ7gsyS6CGU1lmFBLTWn/QA9CpHVDnr455oo3sPgpQeGtNG5nzMZ45KY4XmX1XObBzC6KW9aiYoVww==;iN3lV14yuaGbkylrPIS94g=="
 ---
 

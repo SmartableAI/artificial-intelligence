@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-03T10:22:00Z
 originalUrl: "https://www.nature.com/articles/d41586-021-00530-0"
 webUrl: "https://www.nature.com/articles/d41586-021-00530-0"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-021-00530-0/d41586-021-00530-0_18901926.jpg"
@@ -24,6 +25,6 @@ images:
     height: 576
     isCached: true
 
-secured: "S84iR7TbwSneyG2LT/ZB9Pqw9iRocrZTJyNJPuQ0u/TLrY7qzcCeLhncDOQYPh/p4vFoJrqVqm29BgSxml4P53Qp1PVSFYkBPVHtQG9xxu7y0h68LjJnMgE92V1gan0Ok71fqkT7hMPff+aQ0wcfxjnYi0CbbHPLuswLZ2YqnA5x0CggJi+hkrBI9RR337M4u1adBtwluF2k/lAwyXqN0R9zlClsFDx1EgsyXJ8vNrhJpsKUS5P33ajeLmNUWJKgLupYlyVAmvgz006SQLbSJWM/U6mogOQjtqfGfP+rCXccgfOc1h+SoBGegwyHFOTYZLYFb0bnOIWQro7wq645EgaDXeGEfSFFPufHkIgknag=;2x3S0ir7PtOrOPnog8ienQ=="
+secured: "psCSu5/5agw4/+3bkWGsAY+gw/tVyxhk6BH25iYg16H8SmpqpVv4z6g1XnHD2eq1ZNtJNFxG/F4WSjChYNVTBGBPAzuWF8vGUIG+5WaXa/IFOShAEqlbFoVrTsCZEC0DZfzfefdpRpvQ7wrOB4XKFUVeimlf6dRMu4ijVgaLi0fEkg25J9wOkjqn3Sesbz7/iL0LSN0Fx4TPrir4Ckp4JGcHdYzEpUbgIp/BVbSMBq+0+sl3PIyfiIUasCvRUkujrOsoLTQCrCVKpCmM7KhL2ZB805gxOPndzhPFy6ws0jlOyL99y+zetE7S1SQAPJjzhSOEZNf0xqN6ckq1xr4t9crgeAGYMaI0ERFPc8wSqAc2FUQLbJFO42nFV4tABZv9ALHoNWl1VpHNVrN7W+EgfY7/fQ/juG46LjmteVdcKB4d5KMEz3kjCRpe75ha6GWN3Qd/DDzW7lmFvzjXCq306+/9Fn+C6tZA2HEZ55234efMsV+VuWdXfprVi2lFkk0KTBwIpWmw0UNUlmmAFYRbVg==;qGH95/gGabt673gTDfEctQ=="
 ---
 

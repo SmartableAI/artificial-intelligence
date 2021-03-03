@@ -357,6 +357,22 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP"
+    excerpt: "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors"
+    publishedDateTime: 2021-03-03T19:34:00Z
+    webUrl: "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
+    images:
+      - url: "https://cdn.openpr.com/U/3/U303350659_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Ignite 2021: Microsoft announces Azure Percept – AI technologies on the edge, simplified"
     excerpt: "Microsoft has launched a new hardware and software platform called Azure percept in the public preview today. The latest offering makes it easier for customers to develop and implement AI"
     publishedDateTime: 2021-03-02T15:17:00Z
@@ -388,7 +404,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN
@@ -460,7 +476,7 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
         width: 444

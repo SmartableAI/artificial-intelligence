@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 648
         isCached: true
+  - title: "Privacy fears as India’s gov’t schools install facial recognition"
+    excerpt: "Experts say facial recognition systems being installed in schools without laws to regulate collection and use of data."
+    publishedDateTime: 2021-03-02T09:06:00Z
+    webUrl: "https://www.aljazeera.com/news/2021/3/2/privacy-fears-as-indias-govt-schools-install-facial-recognition"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/3/2/privacy-fears-as-indias-govt-schools-install-facial-recognition"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/3/2/privacy-fears-as-indias-govt-schools-install-facial-recognition"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 59
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/03/2013-07-18T120000Z_46226478_GM1E97I0W8V01_RTRMADP_3_INDIA-CHILDREN-POISON.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fears for children’s privacy as Delhi schools install facial recognition"
     excerpt: "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an “overreach” by Indian authorities and an invasion of children’s privacy, digital rights advocates said on Tuesday."
     publishedDateTime: 2021-03-03T02:05:00Z

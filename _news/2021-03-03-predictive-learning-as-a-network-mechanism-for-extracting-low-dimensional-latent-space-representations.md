@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/articles/s41467-021-21696-1"
 webUrl: "https://www.nature.com/articles/s41467-021-21696-1"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 685
     height: 284
     isCached: true
+
+related:
+  - title: "Can Deep Learning Replace Numerical Weather Prediction?"
+    excerpt: "Numerical weather prediction (NWP) is a mainstay of supercomputing. Some of the first applications of the first supercomputers dealt with climate"
+    publishedDateTime: 2021-03-03T10:32:00Z
+    webUrl: "https://www.hpcwire.com/2021/03/03/can-deep-learning-replace-numerical-weather-prediction/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/shutterstock_us_weather_hurricane.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "01/aac4ACKKU/O2D+zr3TH3h6iraDMJB9f5GGtTam+dn/s30Sb9udBFNeWyFM6hmwfw+YqyLQdhZkCbuEsHHTJA7hYBTXcTB/4mz4CjqJxID1+8N6oJTDpwpGp6vq/wlgMoiFNbDm7bRlr1sCOjechVxAzvOgAm7U2buZTqf9Jjw8vybdxR+VX3fmWUJDDVx9P8IdfmOESxpWR/JkDG+PFDOBqOLTbP4rJo6OzA+3HQ+fEPW3PYYcoIQfk+90xU65lgSMj6dnWfxHX03Ua9mPPAnomBQ+TK/DUU+WVrN9m4qYtwo9ZBlW9q+ax6Ol6gh5FHW6Zbyv6R5NtnpoI6TvUQJ/xCxODydVzB0u5bkbDY=;26fND06l0fyt7aA6zM3G3g=="
 ---

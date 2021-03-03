@@ -7,7 +7,7 @@ originalUrl: "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-
 webUrl: "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 598
         height: 448
         isCached: true
+  - title: "MediaTek’s new 4K TV chip will power the next generation of smart televisions"
+    excerpt: "Perhaps better known for producing smartphone processors such as the Dimensity 1200, MediaTek also supplies chips for devices ranging from smart speakers,"
+    publishedDateTime: 2021-03-03T19:33:00Z
+    webUrl: "https://www.talkandroid.com/363685-mediatek-4k-tv-chip-next-gen-television/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 36
+    images:
+      - url: "https://i2.wp.com/img.talkandroid.com/uploads/2021/03/MediaTek.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MediaTek unveils new AI-based 4K smart TV chip"
     excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
     publishedDateTime: 2021-03-03T14:45:00Z
@@ -69,6 +83,6 @@ related:
       domain: webindia123.com
     quality: 34
 
-secured: "kaT3GCnE3/jWlSjQD5YKfuO/gc10+vL+bc5C/JijzcvFFkMvxWaKRFnhhggxjr4C6EcQMa730/5u99pRb5dzabI45MW0i8AcBMhnBPA/JKqPR3SS9f5AIl7H+QKXVuDyWpyFM3gsQ0+ezXrxOJrFhdyDheTIQWskypUnhsYKb+HchZfgbbH23HnKhJuhcboFp4kauKrLIpNNVPj3iGHNSuFbHcxHUGZSDt2Z15maO80yPrHdeEBQcC2ZZpU+UABoW2waOMccQm4HkHilpvM8FKDM5JL42ckdfkeJxB/k1NLiO3VOBuSyovIVig2YFOojO/799y4cpiDj7iW7OXqQHd2f9R0VkI72KheHXsuPZq4=;xlsl9hRhlbohm/1vsnAunQ=="
+secured: "clIq8n6uzt5y4K3Irm4WUzuDu5iqsDv8lJajTmcYD9d/+em9dAhc0UKVosIx46MCyLVKXuDdcex5tTZk7DvefNuu94c0FJ+6rtfnmOyn3SJsTl67XHT3ffiy4xuSUrQbHOGR1cirCPLhpCz95uhHNZyBn+3OXZM0lUYQS5aWt4EiZnWq64PjRMl1BT1nKxO/pxI7dQhVz810eQzlqkFvjbDIPm3CBccrw2EbUBRooAT2qCmS3L7OAb2iqDd6ah4fRopLweAotPpQXgV6mEUP8OdH2Gr/tNHhkqsHF1+kqcDew2VDW0WWKsbTnEvQFjRRTzr7CkL/F5aMceHLKxzUtIqfQnvWBzLnDvi8H4Lldi5P96EpkoSbAy7pK3D8i6TYpxHq+S3Z4ivapMMTcPByE0H6w7ctNyb25EMDGGY665DaKQ7mHxCTX7QOeqww/5ntfSnMroR4JONqEFZsS+eew04mN2XzkTsbgzcMkC21ebCbP9fD4HYuwzuRjI2DoKHMsileg3aifbqYgqNwa0y3LQ==;Y4S6SjoQdshZUG7JyRJw8w=="
 ---
 

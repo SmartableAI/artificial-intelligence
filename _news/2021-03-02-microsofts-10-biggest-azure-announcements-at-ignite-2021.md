@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T14:10:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -369,6 +369,22 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP"
+    excerpt: "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors"
+    publishedDateTime: 2021-03-03T19:34:00Z
+    webUrl: "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
+    images:
+      - url: "https://cdn.openpr.com/U/3/U303350659_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Ignite 2021: Microsoft announces Azure Percept – AI technologies on the edge, simplified"
     excerpt: "Microsoft has launched a new hardware and software platform called Azure percept in the public preview today. The latest offering makes it easier for customers to develop and implement AI"
     publishedDateTime: 2021-03-02T15:17:00Z
@@ -458,13 +474,13 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
         width: 444
         height: 250
         isCached: true
 
-secured: "abbvGurkx58IrYTb7OnM7YIo2005krEBQj0WbglAiqIvFgiaFst8EFneeLVxDWshjoZdfjYQrMcSdeDLVrqW4LwXUgeSBVidGEDU7YzyFj/FVrTdCC6zZ8C36i4SjDTfaxFxJ2nhgFGD6r3z7vMh6JMuRLy4VIjGe/6OvE7TUi1rPJArDlOpMUlAobbLmJ0M+weFy42RRNM/LztpBVL0kJf7s7w9RkJrEswdfCDd23jd3CoopYWTNahdVSdrmSWDMjMCZKlnTWUyxKHYU1IMpMiQ/N8IY2mcs8vsyz5tm7OgNtBEH+lRLvG3LMqHyrDSmPwAWaPPLzoFTIFvKlxyqibiLDuIwmd9OtrFwIiX1vY=;ahYIB3j+msyh8yS9/G87rA=="
+secured: "YwVIP9KWIJlS9gjfIuI57W7cfY6oFuY1zeu7D203fajzNEUyHwuHa96glAzVCHhaIdT0rb3iVYzZ03mwZ8/H+4TzmcZ5EpA4EzLIjdsnl0huX1tTEaOHdwKjj8l3WJfGu9Bb4Dgauj7OFkgsf6cj22dZkCf01ave50WZBGRxmaaSFZjbcnixu+aYXFWTAQcFInQ+sbztjdAsDRLKrx0HEpeBtxefMjQC8lCOPxnZratv5m0fTn93XfexmvnLmT+vh3IjBioxJdQHXhGsYJT0hEdlxSKFfqXZLLr6L7O3eaaIGJVOSg8EAxStbaQz8eywhu+OwS8yso+BwjWUI+Rrk4pEHQHWfKCFAKayTcFWKUk=;o+53seahrF7pvXCpw0b4Vw=="
 ---
 

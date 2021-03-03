@@ -63,6 +63,20 @@ related:
         width: 598
         height: 448
         isCached: true
+  - title: "MediaTek’s new 4K TV chip will power the next generation of smart televisions"
+    excerpt: "Perhaps better known for producing smartphone processors such as the Dimensity 1200, MediaTek also supplies chips for devices ranging from smart speakers,"
+    publishedDateTime: 2021-03-03T19:33:00Z
+    webUrl: "https://www.talkandroid.com/363685-mediatek-4k-tv-chip-next-gen-television/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 36
+    images:
+      - url: "https://i2.wp.com/img.talkandroid.com/uploads/2021/03/MediaTek.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TiSxIDc0MlvGrSqDT/snn8oQQ4qPFHmFg1bX8kmZMX6PiGqE02wNRVPUWafU2MhaXNPz035aVfeOPVarVUHnfd2exk8n53fWJ76HToVslDrJzQl9tTLh/4NgErm0qB/TkqUKPAMNz9YmicR4CfRCFAEFRXCwojeW/Wo6M+cSNYL3eAZ5LQU7LZm5vf22Pb3ZiTB4b5cHnKIryHPdjpP6Us6rp+FhlZ0x7V9OshIuuhLWWsuPVQ/AK768WiAtdu+frZVPnWktZQcmjyECmFkVqilEgN4lukObMjzqG5LRSaIA1282rbpSmN0slZiISeP1N0KcUf/gx/KKPLwTRBai9UgY9TGHS8y7josMGU/Drwk=;6OghE0zhKY+3Dj97yhwnXg=="
 ---

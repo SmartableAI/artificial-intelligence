@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-h
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
 type: article
 quality: 50
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Judge approves $650 million settlement in lawsuit over Facebook’s photo face-tagging"
-    excerpt: "A federal judge on Friday approved a $650 million settlement of a privacy lawsuit against Facebook for allegedly using photo face-tagging and other biometric data without the permission of its"
-    publishedDateTime: 2021-02-27T04:29:00Z
-    webUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/"
-    ampWebUrl: "https://ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/california/judge-approves-650-million-settlement-in-lawsuit-over-facebooks-photo-face-tagging/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 37
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2021/02/Facebook.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Of course Facebook is considering facial recognition for its smart glasses"
     excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
     publishedDateTime: 2021-03-01T12:24:00Z

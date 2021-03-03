@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210301/Deep-learning-based-s
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Predicts the onset of Alzheimer's Disease (AD) using deep learning-based Splice-AI"
-    excerpt: "This study reported for the first time, which identified the gene mutations and abnormal splicing of PLCg1 gene in AD using both high-throughput screening data and a deep learning-based prediction (Sp"
-    publishedDateTime: 2021-02-27T05:02:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/kbri-pto022521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 48
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/257540_web.jpg"
-        width: 480
-        height: 549
-        isCached: true
 
 secured: "uRt2eMklahSgRJ+aXplKcLfQeLkqP9BpgtweRLHUXWqfxPtzIetDFnOhaJ1SyLfUI3K6ElvTNWjUuDs5uq3Q4+2OC7GxvaiU1h9dnDkxDXkH3kVF2zFHf5SlOWfEKh/MQ0ZtEGNLBJOgTB6gSiuDqNbkC0xsZrsUWflcFg33CvTEQxXzGjw4PIDYOuXQed0/71vEkwqWc/Mw66ouqtxhoRES8eZ/ubKB9i/jSYzCpqP7egzkvhEBuSOG7sqnb9Sr74mfN4RJNjTnsVVK6mZDhfGyYmFNjnhGDO7HWbHwVsMXKYmutTqEuth9k6Hv7B6TBPCU+EuOavEBbNYTFpSJS2s7S8qgu8LSKBW2POpna7g=;o6G4uAAO17ox7ST8uw9MPg=="
 ---
