@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
 type: article
 quality: 72
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2021-02-26T16:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

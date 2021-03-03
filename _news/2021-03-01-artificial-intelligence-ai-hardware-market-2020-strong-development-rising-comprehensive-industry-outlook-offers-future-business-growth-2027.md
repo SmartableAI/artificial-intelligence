@@ -28,29 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025"
-    excerpt: "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,"
-    publishedDateTime: 2021-03-03T01:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
+  - title: "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026."
+    excerpt: "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,"
+    publishedDateTime: 2021-03-03T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare AI Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
-    excerpt: "Mar 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Healthcare AI Market report elaborates"
-    publishedDateTime: 2021-03-02T16:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -70,44 +56,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market by Application and Geography Trends, Growth and Forecast 2020 - 2027 by ARC"
-    excerpt: "pune, India, Tue, 02 Mar 2021 01:00:21 / Comserve Inc. / -- Acumen Research and Consulting added Most up-to-date research on \"Global Machine Learning as a Service (MLaaS) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027\" to its huge ..."
-    publishedDateTime: 2021-03-02T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020---2027-by-arc-2021-03-02"
+  - title: "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights"
+    excerpt: "The global medical bionic implants and exoskeletons market stood at U$ 454.5 Mn in 2016. It is expected to expand at a CAGR of 7.5% during the period 2017-2027 to reach U$ 1,001.4 Mn. Factors such as rising amputation rates,"
+    publishedDateTime: 2021-03-01T11:02:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI in Healthcare Market: Analysis and Forecast, 2021-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Global AI in Healthcare Market: Analysis and Forecast, 2021-2030\""
-    publishedDateTime: 2021-03-01T09:39:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/g19905890/global-ai-in-healthcare-market-analysis-and-forecast-2021-2030"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19905890"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19905890"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-  - title: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 Leading Competitors, Regional Trends and Growth Trends 2025"
-    excerpt: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity,"
-    publishedDateTime: 2021-03-01T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-life-sciences-services-market-2020-leading-competitors-regional-trends-and-growth-trends-2025-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 448
         isCached: true
 
 secured: "dyt6HA5mdqmD/b+doMrjWOwBgACNWKKh34To977fMadNvWZynvjD0DAFGwY+0xhxUBMc4Ge/K+/bp5DwgmVhpMrYX2Fl6CVVOh5Jm3xvQ+xRPtnPa4A41PwFAmS6ie7rdeNfAACewllthZ0JAlBtaUL5Ay0GW9pCstcAdDP9aUZiHU3nylQVfgOeAxkuH+PuLqJHdx27pdXyOUfXm0FHirNc9K/5g6XHSwshpNK8HgcCbONWeOSdFvD4b1I3ol6140Yw0QD4G0T+W0fSqUxYCMjlzqQxP9jFpEUTJqPAqVRy78n9h9RGE8lXDZUrdSR9hw/jlzSKFo0vbASowVmTyz1TqVAKpKiYRU+NDoUC6QU=;5r6oZWidlA5+4HaJ6+VRGQ=="

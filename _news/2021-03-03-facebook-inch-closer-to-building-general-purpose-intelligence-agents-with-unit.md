@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Critics Have Much to Say About The 'FB' Facial Recognition Technology"
+    excerpt: "Facebook announced that it’s considering including facial recognition technology in its “smart glasses”, and critics have a lot to say."
+    publishedDateTime: 2021-03-03T08:51:00Z
+    webUrl: "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
+    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-03/shutterstock_731158624.jpg?itok=yYHG1H7c"
+        width: 1000
+        height: 647
+        isCached: true
   - title: "Facebook Weighing Up Legality of Facial Recognition in Upcoming Smart Glasses"
     excerpt: "Facebook is reportedly weighing up the legal implications of building facial recognition technology into a pair of smart glasses that the company"
     publishedDateTime: 2021-02-27T13:31:00Z
@@ -88,22 +104,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Fo9ovefx8AwWmfGZ2N3M5B-480-80.jpeg"
         width: 480
         height: 272
-        isCached: true
-  - title: "Facebook reveals creepy ‘facial recognition scanner’ built into smart glasses – and they’re coming in 2021"
-    excerpt: "FACEBOOK could put facial recognition tech in the smart glasses it plans to release later this year. The firm is still debating the controversial idea because it wants to be sure “authority"
-    publishedDateTime: 2021-02-26T16:27:00Z
-    webUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/14174452/facebook-smart-glasses-facial-recognition/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 41
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2020/09/MB-COMP-GLASSES.jpg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Judge approves $650 million settlement in lawsuit over Facebook’s photo face-tagging"
     excerpt: "A federal judge on Friday approved a $650 million settlement of a privacy lawsuit against Facebook for allegedly using photo face-tagging and other biometric data without the permission of its"
@@ -194,6 +194,6 @@ related:
         height: 382
         isCached: true
 
-secured: "Bss5oBnTBauD+/WlKAfj6a6314+NLLKX5Yud27LDo5sTLieHICW7pLbTaU/y8BslBcHq/LwHl/4a0JAyhQwaSm7nwUHmX1hfhZ2TE25uPGLYPO9scdj1txHK5Mhr8DnujwXk3OdVGyRUo3HtVaIwgtXwN/tmt5YYyCWCqxGiBHovafY2Ou3xxg7cP9xgX6sg+o5VZ1u85+rsgPqVFG/6fOYwDACKd4rOab1MM+ssdog42Ysz0I0ACwXYJ9+eJzZMaz+nxjxFsriwOGxoveLs6OSgOsoYrcSfJnYyo2hCjRLibO5vLQfHAR5NuP3Wy1dgiW2QeyMAOZ7AijfTP6CNjirYvNEO6pfs3LX8bFqAnzA=;vgBiLe+Oc0jCFPELDhyetw=="
+secured: "Fxn7efW3424pBxvgcSs2aWUiFdqMZ7AtQTlBlpmjp6/uCeZCc4pTPdK3cnpdQxnMPO0c8wLQDGlTLH4MtcS2zuv1XoIv9XsoO8PLYH69IH/ezA+Tn8s8/pcW335/KZACajhORDHS4YKyNYZgUe/cjpAQGbw7B/d3p6R/pTQ2+l4q5g0CUVBuqreDxtLLl4isL+trFYcwuLPalI6BNuNkLdc29Kao40bYBWg+WdVYd0zpczrPWvBrC7js3JHLQc8LgX4yF2IeGr7v/NyYL6cXvNOnOVLBuNrgm7ZFYXgz3+3GQ1wLrr+OA28InNZqtEvf+4leSF/e6dvveVUAt0IOA0UyE58z5s3kSUP5kFUbZ2kEjxgvI0eiV9ttXQzxdovxjGu3mYV6fSrFj2nGTAhqjHXkvpMjScubcLUEIjr8jK/ThcPg6n7NNd9SLxLLFXhkpQeSpAcCaa8cOhZv+xp1QxurYjqxWmIPq1GMMxXabYifJ+W7td0sCLhjsOlcEULk0fHrXffeaAh9NjoP4+1ekQ==;Me0FLocMzrBSFF8l6UZ9zQ=="
 ---
 

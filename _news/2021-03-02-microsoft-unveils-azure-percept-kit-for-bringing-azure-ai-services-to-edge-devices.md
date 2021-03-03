@@ -3,10 +3,10 @@ category: news
 title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
 excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
 publishedDateTime: 2021-03-02T14:02:00Z
-originalUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
 type: article
 quality: 113
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://www.zdnet.com/a/hub/i/2021/03/01/601c9a30-49f7-40ba-941d-afd15e0ae59a/azurepercept.jpg"
@@ -437,13 +437,13 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
         width: 444
         height: 250
         isCached: true
 
-secured: "W2Xz9sAYpzDofir7aaGDL8ZyopJ39QeiYKnCSS/Heu45e8b3/+ktx1F8uss4OW7axMD/JyEeiOIk/xOZ755MgSKmuzG4sR7x7U0stXKTz7xxxybC1mISK2V5AiW2e65Ao5Ze42OpRaS9+z7u2VS/CPuu9v5jGjQYW4b4BEq1G2fd1xLXaKqmz4ByKZ5CdUf5dPUpUqC4zaSl5vwsWrt+XbKcH2GWnFP3ZrAUAI0nwQ9KaPTj2SurTbtymtf+PGLoY98uAK9+sFQ1578W8p4eWEySCiGrat0gjzEqP7ByLtGR+ohSbiZGS0oSo6pvSa5lkVIHFSrOUffTLjDwJjc6AKKqq8iHe5RPrC0hVOIxDPA=;QZYBFCIhfaY41zZSE174HA=="
+secured: "oFjYoqLKTFbB2l77bCJbQ8yBHEgjROszh0Pve5OHACzpq3ABYVfF7pX/7BASo4DTNC6bI7WRKZmv8i1e4R41M72TxKEWdQFHMy8KomwvvRfc63nPEBxfS/ef8wEUX0xAR4vXxYowGJQn6XdaUU6Sa0IQh80l39jweoiv7IvMcxCLth9Irxwxg8i1i2Pb3xMghD+/3zzdp0wJ3MZ22nsFLEjKTfXFaV+IcU60RymtspVEGzl735OUs+5KiqTD46P62ZQQHS31IlJOQ9t6iY7it2n627i7INJUnpLfAxffT+Xnl5zrr1d7dEd/0Jtfg6r/iX4G+UlKTuMRn3uIsAaVR0nDcT0RvsQcQq8voQDUgFg=;csz3bDjq/xKvS9MQ0AsCdg=="
 ---
 

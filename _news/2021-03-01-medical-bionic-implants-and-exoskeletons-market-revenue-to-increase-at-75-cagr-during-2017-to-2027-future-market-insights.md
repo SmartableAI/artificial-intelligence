@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-
 webUrl: "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     width: 1200
     height: 448
     isCached: true
+
+related:
+  - title: "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026."
+    excerpt: "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,"
+    publishedDateTime: 2021-03-03T08:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Market Leading Companies Capabilities, Goals and Strategies During 2020"
+    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
+    publishedDateTime: 2021-03-01T00:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
+    excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
+    publishedDateTime: 2021-03-01T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-2020-strong-development-rising-comprehensive-industry-outlook-offers-future-business-growth-2027-2021-03-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "kS3dnnCq9eh7o9HDAyJqYTLiESSznK0eq3CiP/lLFz2OYLGyzNqvPtOXh+MrYvDFH5N5aoZwQtn41tzabh3s6VaG5x1rORORFxQop/NugUWcNTffhNLX6eFhEgerEAoaiP5dfQasj7DwDzVyu5TnxaBH3PkHZ22e+7qSazZltlMJ95dztNZpGa/nkYFb4w32x4oe30GlAP9yIsK0x5JlJFttbdIVb4tR6V9OBlAcZy2Wan9It98etNJUpYJyPB7sFtcIH8buJilM2FU8FHzhDq9hf3E7R7//B7TKSuTqAt3is1W3rYC650k6Z5V3Kj/EK0iD7OjCH/J5AGWvzOVhPx2nPF3VeT99GeGZdtz2w/Y=;9aNEPFO3JekgIrdt3ESr7g=="
 ---

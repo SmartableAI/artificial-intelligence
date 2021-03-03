@@ -2,6 +2,257 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-21-researchers-propose-ethically-correct-ai-for-smart-guns-that-locks-out-mass-shooters.md",
+      "title": "Researchers propose ‘ethically correct AI’ for smart guns that locks out mass shooters",
+      "excerpt": "A trio of computer scientists from the Rensselaer Polytechnic Institute in New York recently published research detailing a potential AI intervention for murder: an ethical lockout. The big idea here is to stop mass shootings and other ethically incorrect uses for firearms through the development of an AI that can recognize intent,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cybersecurity1200-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/19/researchers-ethically-correct-ai-smart-guns-lock-out-mass-shooters/amp/",
+      "publishedDateTime": "2021-02-20T22:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-google-fires-another-top-researcher-on-its-ai-ethics-team.md",
+      "title": "Google Fires Another Top Researcher on Its AI Ethics Team",
+      "excerpt": "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173",
+      "originalUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qor3uucrnhamtzuoqiyn.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-fires-another-top-researcher-on-its-ai-ethics-te-1846314173/amp",
+      "publishedDateTime": "2021-02-20T16:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-a-set-of-jupyter-notebooks-to-analyze-the-performance-of-a-deepracer-model.md",
+      "title": "A set of Jupyter notebooks to analyze the performance of a DeepRacer model.",
+      "excerpt": "This is a set of notebooks and utilities to enable analysis of logs for AWS DeepRacer. This project is a redo of analysis solutions provided in the AWS DeepRacer Workshops repository. There are a few motivations leading a decision to reorganise the ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
+      "originalUrl": "https://github.com/aws-deepracer-community/deepracer-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/55031406?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-ai-for-deplorable-writers-how-artificial-intelligence-will-revolutionize-writing.md",
+      "title": "AI for Deplorable Writers: How Artificial Intelligence Will Revolutionize Writing",
+      "excerpt": "When you think of artificial intelligence (AI) and automation, what comes to mind? Maybe you think of self-driving cars or robots performing mundane tasks. But not writing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-deplorable-writers-how-artificial-intelligence-writing-tsamados",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEYft5BEVm1vQ/article-cover_image-shrink_600_2000/0/1613909700539?e=1620259200&v=beta&t=Mdm6I9mpKgap_kIWJIp5jVM7TbOVAazHNTtMbhv_mkY",
+          "width": 770,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-facial-recognition-sexual-predator-caught-on-cctv.md",
+      "title": "Facial recognition: Sexual predator caught on CCTV",
+      "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
+      "originalUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
       "title": "Salesforce Research wields AI to study medicine, economics, and speech",
       "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
@@ -929,240 +1180,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-googles-model-search-automatically-optimizes-and-identifies-ai-models.md",
-      "title": "Google’s Model Search automatically optimizes and identifies AI models",
-      "excerpt": "Google open-sourced Model Search, a tool that automatically optimizes and identifies AI models given a dataset and task.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/googles-model-search-automatically-optimizes-and-identifies-ai-models/amp/",
-      "publishedDateTime": "2021-02-19T11:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-ibm-is-reportedly-considering-a-sale-of-its-watson-health-business.md",
-      "title": "IBM is reportedly considering a sale of its Watson Health business",
-      "excerpt": "But Watson stumbled in the healthcare sector, the Wall Street Journal writes, \"in part because physicians were hesitant to adopt artificial intelligence\". In 2018, IBM laid off a percentage of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-is-reportedly-considering-a-sale-of-its-watson-health-business/",
-      "publishedDateTime": "2021-02-19T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-immunai-raises-60m-to-decode-the-immune-system-with-machine-learning-and-ai.md",
-      "title": "Immunai Raises $60M to Decode the Immune System with Machine Learning and AI",
-      "excerpt": "Immunai, cofounded by Noam Solomon, is decoding the immune system to help better detect, diagnose, and treat disease using machine learning and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "originalUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2021/02/Noam-Solomon_immunai-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/02/immunai-immune-system-machine-learning-learning-ai-mapping-noah-solomon/amp/",
-      "publishedDateTime": "2021-02-19T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
-      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/4510493001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001",
-      "publishedDateTime": "2021-02-19T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-facial-recognition-cardiff-rapist-caught-on-cctv.md",
-      "title": "Facial recognition: Cardiff rapist caught on CCTV",
-      "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-wales-56130226",
-      "originalUrl": "https://www.bbc.com/news/uk-wales-56130226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

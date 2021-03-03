@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-02-02-women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek.md",
-      "title": "Women in Robotics Update: Andra Keay, Nguyen Sao Mai and Selin Alara Örnek",
-      "excerpt": "Here’s a Women in Robotics Spotlight, where we share stories from women who are working on all sorts of interesting projects who haven’t yet been featured in our Annual Showcase. We hope these stories provide inspiration to everyone to join us working in the field of robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
-      "originalUrl": "https://robohub.org/women-in-robotics-update-andra-keay-nguyen-sao-mai-and-selin-alara-ornek/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://robohub.org/wp-content/uploads/2021/02/WIR-Update-15_10-for-Robohub-2-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robohub",
-        "domain": "robohub.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
       "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
       "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
@@ -1366,6 +1323,58 @@
         "name": "Robotics Tomorrow",
         "domain": "roboticstomorrow.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-german-robot-being-designed-to-prune-fruit-trees.md",
+      "title": "German robot being designed to prune fruit trees",
+      "excerpt": "According to Germany's University of Hohenheim, about 80 percent of the fruit trees in that country aren't regularly pruned – despite the fact that doing so makes them structurally stronger and more resistant to disease.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
+      "originalUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/aa51c6a/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F04%2Fa3ab894841ba8a1e05a227aaa875%2Froboter2-jung.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
+      "publishedDateTime": "2021-01-26T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

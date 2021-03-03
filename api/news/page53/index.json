@@ -2,6 +2,281 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-01-22-ai-robots-and-play-2021-predictions-for-a-virtual-workplace.md",
+      "title": "AI, Robots And Play: 2021 Predictions For A Virtual Workplace",
+      "excerpt": "Founder and President of Virbela, building immersive virtual worlds for remote work, learning and events. While no one may have predicted just what 2020 would throw our way, my crystal ball is indicating that we have many more changes in store for 2021 — and some of them are promising,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6009d9db7af670a4e54c019d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/22/ai-robots-and-play-2021-predictions-for-a-virtual-workplace/amp/",
+      "publishedDateTime": "2021-01-22T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east.md",
+      "title": "5G, fintech and mega projects: what 2021 will mean for tech in the Middle East",
+      "excerpt": "G, fintech and mega projects: what 2021 will mean for tech in the Middle East The MENA region is in the midst of a digital",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "originalUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/5G-fintech-and-mega-projects-what-2021-will-mean-for.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/5g-fintech-and-mega-projects-what-2021-will-mean-for-tech-in-the-middle-east/amp/",
+      "publishedDateTime": "2021-01-22T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-what-nonprofits-stand-to-gain-from-artificial-intelligence.md",
+      "title": "What Nonprofits Stand To Gain From Artificial Intelligence",
+      "excerpt": "Nonprofits have the opportunity to develop AI powerful algorithms to raise more funds, improve the efficiency of their resources and learn more about their members' needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee37866b8beb90007c3a79a%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2021/01/22/what-nonprofits-stand-to-gain-from-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-01-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-the-leader-of-the-alphabet-workers-union-looks-beyond-wages.md",
+      "title": "The Leader of the Alphabet Workers Union Looks Beyond Wages",
+      "excerpt": "How are you able to make Alphabet executives do anything they don ... Yeah, dozens have been messaging our union, and we’re having really great conversations with workers at other tech companies. I think that having a concrete example of an organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://alphabetworkersunion.org/press/releases/retaliation-against-margaret-mitchell/",
+      "originalUrl": "https://www.bloombergquint.com/businessweek/alphabet-workers-union-leader-parul-koul-takes-on-google-googl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://alphabetworkersunion.org/img/static/og-banner.png",
+          "width": 1024,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BloombergQuint",
+        "domain": "bloombergquint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-ai-could-make-healthcare-fairerby-helping-us-believe-what-patients-tell-us.md",
+      "title": "AI could make healthcare fairer—by helping us believe what patients tell us",
+      "excerpt": "A new study shows how training deep-learning models on patient outcomes could help reveal gaps in existing medical knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
+      "originalUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/01/pain-scale.png?w=3000",
+          "width": 3000,
+          "height": 1688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/01/22/1016577/ai-fairer-healthcare-patient-outcomes/amp/",
+      "publishedDateTime": "2021-01-22T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-how-four-qdic-startups-are-driving-innovation-in-indias-industrial-robotics-and-automation-sector.md",
+      "title": "How four QDIC startups are driving innovation in India's industrial robotics and automation sector",
+      "excerpt": "Today, businesses are well-aware of the potential and impact of emerging technologies in industrial robotics and automation in improving process efficiencies and transforming business operations. While the initial high cost of infrastructure and complex operations have been key deterrents,",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
+      "originalUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/18d4ab20d08111e99775a119527191d8/Imagesac6-1611302832921.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/01/qdic-startups-driving-innovation-india-industrial-robotics-automation/amp",
+      "publishedDateTime": "2021-01-22T00:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-the-real-self-driving-revolution-remains-years-away.md",
       "title": "The real self-driving revolution remains years away",
       "excerpt": "But that doesn't mean their cars will be fully self-driving -- that day still remains far in the future. Automakers like General Motors (GM), Ford (F) and Stellantis (the company formed in the ...",
@@ -869,299 +1144,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-how-to-find-your-purpose-in-life-using-emotional-ai.md",
-      "title": "How To Find Your Purpose In Life Using Emotional AI",
-      "excerpt": "Aliya Grig, Founder of The Human Cosmos, recently released the brand's mental wellness app that uses emotional AI-powered technology to create personalized recommendations to help users find their purpose in life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/",
-      "originalUrl": "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600617850dc6c7010ea3edb3%2F0x0.jpg%3FcropX1%3D47%26cropX2%3D1442%26cropY1%3D0%26cropY2%3D997",
-          "width": 1200,
-          "height": 858,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/njfalk/2021/01/21/how-to-find-your-purpose-in-life-using-emotional-ai/amp/",
-      "publishedDateTime": "2021-01-21T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-new-deep-learning-discovery-paves-way-for-ai-interpretation-of-brainwave-data.md",
-      "title": "New Deep Learning Discovery Paves Way for AI Interpretation of Brainwave Data",
-      "excerpt": "Machine learning has the potential to relieve some of this burden, but EEG data is extremely multidimensional and can be expensive, and time-consuming to annotate. It also requires the deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210121005681/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20210121005681/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics.md",
-      "title": "Self-Driving Cars Being Blocked By Human Drivers Using Road Bouldering Tactics",
-      "excerpt": "Human drivers use road bouldering to block other cars, and the question arises as to how self-driving cars will handle such machinations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6008b4ae194950933a679a95%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5200%26cropY1%3D264%26cropY2%3D3189",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/01/21/self-driving-cars-being-blocked-by-human-drivers-using-road-bouldering-tactics/amp/",
-      "publishedDateTime": "2021-01-21T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration.md",
-      "title": "AI spacefarers and cosmic testbeds: Robust robotic systems forge path for human space exploration",
-      "excerpt": "With global dust storms, extreme temperature fluctuations, and cosmic radiation, life beyond the Earth's comparatively cozy confines is no picnic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/07/16/c951a0d1-cc8b-46da-988f-c58fe571e60b/resize/1200x/c86c0af5787ca81d7c75643556e811bc/mars-2020.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-spacefarers-and-cosmic-testbeds-robust-robotic-systems-forge-path-for-human-space-exploration/",
-      "publishedDateTime": "2021-01-21T07:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-artificial-intelligence-researchers-rank-the-top-ai-labs-worldwide.md",
-      "title": "Artificial intelligence researchers rank the top A.I. labs worldwide",
-      "excerpt": "Artificial intelligence researchers don’t like it when you ask them to name the top AI labs in the world, possibly because it’s so hard to answer. There are some obvious contenders. U.S. Big Tech — Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "publishedDateTime": "2021-01-21T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-south-african-startup-aerobotics-raises-17m-to-scale-its-ai-for-agriculture-platform.md",
-      "title": "South African startup Aerobotics raises $17M to scale its AI-for-agriculture platform",
-      "excerpt": "As the global agricultural industry stretches to meet expected population growth and food demand, and food security becomes more of a pressing issue with global warming, a startup out of South Africa is using artificial intelligence to help farmers manage their farms,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
-      "originalUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Image-5-1024x683-1.png?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/01/21/south-africa-startup-aerobotics-raises-17m-led-by-naspers-foundry/amp/",
-      "publishedDateTime": "2021-01-21T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,292 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-11-keysight-technologies-enhances-eggplant-digital-automation-intelligence-platform-with-high-speed-computer-vision.md",
+      "title": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
+      "excerpt": "Keysight Technologies Enhances Eggplant Digital Automation Intelligence Platform with High-Speed Computer Vision",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210211005635/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210211005635/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-facial-recognition-has-come-a-long-way-its-problems-have-a-long-way-to-go.md",
+      "title": "Facial recognition has come a long way. Its problems have a long way to go.",
+      "excerpt": "Over the last 80 years, facial recognition tech has gone from pen and paper to large-scale automation. But at what cost?",
+      "sourceUrl": null,
+      "webUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "originalUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehustle.co/wp-content/uploads/2021/02/News-Brief-Midroll-Images_2021-02-11T012507.977Z.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehustle.co/02112021-facial-recognition/",
+      "cdnAmpWebUrl": "https://thehustle-co.cdn.ampproject.org/c/s/thehustle.co/02112021-facial-recognition/",
+      "publishedDateTime": "2021-02-10T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hustle",
+        "domain": "thehustle.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey.md",
+      "title": "AWS and NHL partner to turn game data into new ways of experiencing hockey",
+      "excerpt": "Soon-to-be Amazon CEO Andy Jassy has touted the partnership will bring an entirely new perspective and layer of fan involvement to the game of hockey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "originalUrl": "https://www.zdnet.com/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/11/e12be20c-fc14-4f39-a5c7-2b6bd2de23c1/nhl-aws.jpg",
+          "width": 2089,
+          "height": 1183,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-and-nhl-partner-to-turn-game-data-into-new-ways-of-experiencing-hockey/",
+      "publishedDateTime": "2021-02-10T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-how-to-design-ai-into-your-applications.md",
+      "title": "How to design AI into your applications",
+      "excerpt": "3 conscious experience design principles that will help you integrate ‘living’ AI into your applications and how to implement them. AI is in nearly every application nowadays. A frequently ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.html",
+      "originalUrl": "https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_neural_networks_technology_brain_by_4x-image_gettyimages_997524096-100817778-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606769/how-to-design-ai-into-your-applications.amp.html",
+      "publishedDateTime": "2021-02-10T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-building-secure-machine-learning-environments-with-amazon-sagemaker.md",
+      "title": "Building secure machine learning environments with Amazon SageMaker",
+      "excerpt": "As businesses and IT leaders look to accelerate the adoption of machine learning (ML) and artificial intelligence (AI), there is a growing need to understand how to build secure and compliant ML environments that meet enterprise requirements. One major challenge you may face is integrating ML workflows",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-secure-machine-learning-environments-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/06/ML-1341-1.jpg",
+          "width": 800,
+          "height": 527,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T16:53:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-ibm-and-palantir-debut-no-code-platform-for-open-ai-applications.md",
+      "title": "IBM and Palantir debut no-code platform for open AI applications",
+      "excerpt": "IBM and Palantir have announced a jointly developed product for AI applications called Palantir for IBM Cloud Pak for Data. Built on Red Hat OpenShift, the new platform offers a no-code/low-code environment for building and deploying AI -based applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
+      "originalUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1612799848/itpro/IBM_Palantir_Cloud_Pak_for_Data_Screenshot.jpg",
+          "width": 2252,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/hybrid-cloud/358558/ibm-and-palantir-debut-no-code-platform-for-openai-applications?amp",
+      "publishedDateTime": "2021-02-10T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-are-ai-investors-shorting-black-lives.md",
       "title": "Are AI investors shorting Black lives?",
       "excerpt": "So who’s fault is it? Setting aside intentionally malicious uses of AI software, such as facial recognition and crime prediction systems for law enforcement, we can assume the problem is with bias.",
@@ -875,296 +1161,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-genethon-and-whitelab-genomics-join-forces-to-enhance-gene-therapy-through-artificial-intelligence.md",
-      "title": "Genethon and WhiteLab Genomics Join Forces to Enhance Gene Therapy Through Artificial Intelligence",
-      "excerpt": "a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy. The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-2004.md",
-      "title": "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04",
-      "excerpt": "If you're looking to add machine learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/category/2242/13/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2242/13/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2242/13/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2242/13/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
-      "publishedDateTime": "2021-02-10T08:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-chinese-search-giant-baidu-looks-to-launch-ai-chip-company.md",
-      "title": "Chinese Search Giant Baidu Looks to Launch AI Chip Company",
-      "excerpt": "Image source: Getty Images. Baidu is already heavily involved in AI and AI chips. Its AI-based platform-as-a-service serves numerous customers in China, including banks and economic development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "originalUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612596%2Fartificial-intelligence-ai-neural-network-machine-learning-getty.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
-      "publishedDateTime": "2021-02-10T08:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
-      "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
-      "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
-      "publishedDateTime": "2021-02-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Google AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
-      "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
-      "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024",
-          "width": 1024,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
-      "publishedDateTime": "2021-02-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-spider-legs-build-webs-without-the-brains-helpproviding-a-model-for-future-robot-limbs.md",
-      "title": "Spider legs build webs without the brain's help—providing a model for future robot limbs",
-      "excerpt": "Arachnophobes often cite spiders' unpredictable movement as the basis of their fear, pointing out how each spindly leg seems to lift, flex and probe with a menacing degree of autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
-      "originalUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spiderlegsbu.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
-      "publishedDateTime": "2021-02-10T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

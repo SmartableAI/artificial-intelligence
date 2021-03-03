@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International"
-excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence (AI) division, Lionbridge AI, to TELUS International (NYSE and TSX: TIXT),"
-publishedDateTime: 2021-03-03T05:46:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-ownership-changes-f2c3b8803117b46cd09ae6fe291a6428"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-ownership-changes-f2c3b8803117b46cd09ae6fe291a6428"
+excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence (AI) division, Lionbridge AI , to TELUS International (NYSE and TSX: TIXT),"
+publishedDateTime: 2021-03-03T08:44:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TIXT-T/pressreleases/1234476/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TIXT-T/pressreleases/1234476/"
 type: article
 quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Globe and Mail
+  domain: theglobeandmail.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "e80S6IlZ+GJPk3lBJn/hgyUBcfOyECUJjqLwdGBFdY93X/81sZM7ieMwN/JfL2co7CTdu7/M6LhQ8s7+fpHQ4PG0kmUITXkAJ3kDmTaG7Y0z0NXgNwRffYgrWJX/JkUzA5ni4CSIFbaTSSZSkTCPFx1KNy3E4Whbrwklknt++ranvuTA2HaxNR5iC/W3Cm0vzvyizCfJumfKO/NMcwLiXuiqHHhYtry7Y0Tlfk/ZM/UwVuYGxTbD3ML8PC6wCNInS2AY5kt8B5Nz0vlDK6AmOI6ZoG5rriKahc1I4Tz0Tweey5706DGq9KOVW1umL7aq7CrHRA8md5bEXzX/2KtWicP0SdEjOBJPRUWZ/l06Pk8=;xFoqUVOE/aQlUK/2BsmuXQ=="
+secured: "ooJarKqZqKlcMzqZctie69plFzSJXNd9SWwjjUeo1xQDzu4un1LxXdAbCPU6JYtvPR6gdwWjHSR28agXPpTV3xztLBWcWlBof0umFKrLN7lcpnatgq12L53tjdM+W5C6QLxmF1iR01lb/9kAV7s/ILVSUPmPH6Eq4B1ZDO9/8wrg65G3wPqdTF5DVNt7gt8uM+Gw3FCUI8VkLlGfuAGTakP8ag/Ox7yfw7YsWsBHJhLI5WYnJuWmvx1t0XcEqstdeacPJWZlYfbQBBcy7rK/dn9f3cKjsWOBY8WeO4PL8b+2sYnrrYPCRFZcR+RcENWAI+oGYsh0+IZoiqqVXgwJ96ZrfpGw71qrZeYLUtfV8xc=;IdnF/KObw+Pw7Pa/h7FU3A=="
 ---
 

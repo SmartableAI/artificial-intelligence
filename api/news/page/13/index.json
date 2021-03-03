@@ -2,6 +2,232 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-19-deep-learning-and-future-of-healthcare.md",
+      "title": "Deep Learning and Future of Healthcare",
+      "excerpt": "Deep Learning and Future of Healthcare By Sanjib Basak, Former Director of Data Science & Artificial Intelligence, Carlson Wagonlit Travel - As Artificial Intelligence (AI) gains popularity in the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/BYa6ufyT.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-ibm-exploring-sale-of-its-watson-health-unit.md",
+      "title": "IBM exploring sale of its Watson Health unit",
+      "excerpt": "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-exploring-sale-of-its-watson-health-unit-11613698827?mod=hp_minor_pos20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-244594/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T17:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-optax-is-a-gradient-processing-and-optimization-library-for-jax.md",
+      "title": "Optax is a gradient processing and optimization library for JAX.",
+      "excerpt": "If nothing happens, download GitHub Desktop and try again. mihaelacr-google and OptaxDev optax-dev@google.com Ensure the number of update functions and states is the same in chain.",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/deepmind/optax",
+      "originalUrl": "https://github.com/deepmind/optax",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-reverb-is-an-efficient-and-easy-to-use-data-storage-and-transport-system-designed-for-machine-learning-research.md",
+      "title": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research",
+      "excerpt": "Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research. Reverb is primarily used as an experience replay system for distributed reinforcement learning algorithms but the system also supports multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://github.com/deepmind/reverb",
+      "originalUrl": "https://github.com/deepmind/reverb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-privacy-tip-272-to-get-up-to-speed-on-facial-recognition-technology-read-this.md",
+      "title": "Privacy Tip #272 – To Get Up to Speed on Facial Recognition Technology Read This",
+      "excerpt": "It’s called This is how we lost control of our faces in the February 5, 2021 edition of MIT Technology Review, written by Karen Hao.  The article outlines a study rec",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read",
+      "originalUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp",
+      "publishedDateTime": "2021-02-18T14:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-new-obstacles-for-robotics-in-2021.md",
       "title": "New Obstacles for Robotics in 2021",
       "excerpt": "With better functionality, mapping, sustainability, ethics, and privacy, robotics as a whole can solidify itself as a game-changer in every facet of life.",
@@ -997,231 +1223,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-orlando-police-testing-amazons-real-time-facial-recognition.md",
-      "title": "Orlando Police Testing Amazon's Real-Time Facial Recognition",
-      "excerpt": "which noticed that law enforcement customers were mentioned in the marketing of Amazon's \"Rekognition\" service. Until now, American police have used facial recognition primarily to compare still photos from crime scenes with mug shots. But now Amazon and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
-      "originalUrl": "https://www.wgbh.org/news/science-and-technology/2018/05/22/orlando-police-testing-amazons-real-time-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgbh.brightspotcdn.com/dims4/default/7c2557d/2147483647/strip/true/crop/1064x550+0+0/resize/1064x550!/quality/70/?url=https%3A%2F%2Fwgbh.brightspotcdn.com%2F2d%2F2e%2F42ef53b806b11e04f8d057f1ae93%2Famazonytscreengrab-custom-bd108a3518dfcadc437bffd9c0384a153f4f166b.jpg",
-          "width": 1064,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGBH",
-        "domain": "wgbh.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-guru-iot-the-leader-in-digital-twin-based-self-driving-wheelchair-rd.md",
-      "title": "Guru IoT, the Leader in Digital Twin-based Self-driving Wheelchair R&D",
-      "excerpt": "Guru IoT, Korea's IoT products developer, plans to come up with a self-driving wheelchair for the handicapped based on digital-twin map data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210218005414/en/Guru-IoT-the-Leader-in-Digital-Twin-based-Self-driving-Wheelchair-RD",
-      "originalUrl": "https://www.businesswire.com/news/home/20210218005414/en/Guru-IoT-the-Leader-in-Digital-Twin-based-Self-driving-Wheelchair-RD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai.md",
-      "title": "Selecting AI Solutions For Your Customer Journey Should Also Depend On Capabilities Beyond AI",
-      "excerpt": "The success of AI in the enterprise depends on the AI platform’s ability to solve a few core enterprise system challenges beyond what data scientists are hired for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f5f6cf8354f6bad0561dc14%2F0x0.jpg",
-          "width": 1200,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/18/selecting-ai-solutions-for-your-customer-journey-should-also-depend-on-capabilities-beyond-ai/amp/",
-      "publishedDateTime": "2021-02-18T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company.md",
-      "title": "MindMed Reaches Agreement to Acquire HealthMode, a Leading Machine Learning Digital Medicine Company",
-      "excerpt": "Acquisition will help build a full stack digital mental health platform for psychedelic medicines; Ex-Pfizer Digital Medicine Executive Dr.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mindmed-reaches-agreement-to-acquire-healthmode-a-leading-machine-learning-digital-medicine-company-1030096653",
-      "publishedDateTime": "2021-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-artificial-intelligence-can-bring-skynet-to-life-reality-or-myth.md",
-      "title": "Artificial intelligence can bring Skynet to life, reality or myth?",
-      "excerpt": "Is it possible that, like Skynet in the Terminator movie, the machines become aware of themselves and wage a war against humans to exterminate them? Should we fear artificial intelligence or is it just a myth?",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/365683",
-      "originalUrl": "https://www.entrepreneur.com/article/365683",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613592356-skynet1.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365683",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365683",
-      "publishedDateTime": "2021-02-18T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoidi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
+    publishedDateTime: 2021-03-02T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "ZBb53h9gYkuME8d14cGoE1AQvu/V4vilOvYIvzNqgWBF7xc9DiT0lHIcNpRkQP6GNwAsLK1G1+aRBPrLIZhauoA+DkI/CkLnfVg092lMHt3zTy1lplpKhzNj/OyWudMftOsc64m5MfJHWwK06t0moFT6OBXzsmhUR8s582TN8/ajkuJsRUIe3qOTw2K+IVBi1BwXnfqHSic0RErW8sb6Wm+frzp8g/5fDdpkW/naWBJX11DqxAcBMSKoolCnEtZMD8KQJ/i5T/JlUbIMGPPzRWnjkAyrLylzPZAOhWHac6/OgiSfahKnE6RCSicNrioA60x4rCNmVC0ytr3sScpi/93PStvviyLUwWif6MJf9at/O9Qj+MzaAjJ48GBxEOGGc0WwkDNu17k/jRhED6BN4AwD+FYXJ/zZMmFSj4H6G9khBRWZutFop/xNOzRk/lJ0iNJ2aQqM/Fq3hFZNYb3V65n/AqelZdHD/zPC58xBo7tZfnJlubL6UwTNTPmLUIAm6uS+OIns1VC91ljy+f+1zg==;Q7Mr7Q5C+myyt9JlaJhCNA=="

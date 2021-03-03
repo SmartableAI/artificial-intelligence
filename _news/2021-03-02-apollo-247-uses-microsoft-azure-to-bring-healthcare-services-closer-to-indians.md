@@ -85,9 +85,9 @@ related:
   - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
     excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
     publishedDateTime: 2021-03-02T14:02:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
     type: article
     provider:
       name: ZDNet
@@ -433,7 +433,7 @@ related:
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
         width: 444

@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-03T05:28:00Z
 originalUrl: "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM"
 webUrl: "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AWS AI
   - AI
   - Microsoft AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
@@ -91,9 +92,9 @@ related:
   - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
     excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
     publishedDateTime: 2021-03-02T14:02:00Z
-    webUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    ampWebUrl: "https://www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/84394/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
     type: article
     provider:
       name: ZDNet
@@ -441,6 +442,6 @@ related:
         height: 495
         isCached: true
 
-secured: "ukpFNhv/ul/0GpUosgFK2bZAGbDBlmJVSaf7nFP5lLQSOGNrvRHgEbFQJADvy52dsG5Dz+rN/UEyihdjy1GXZJO+5NFIH/O43tYNc9wCNwO41eO9J21diJYT78+/UyhBbvevgo52r6D+safuRpy1x38dC+J6YWf/9bAqyOPmK567+SG2vdxqBQa2uihEHzoo6MTLolTCZq/bcY4aCz8d8LtAVZw+B/Ik1qfreEolBS3ZFq5eGhRBfgEiXld4YW/7X78jPuxdDWNa9OW7EU0b6gPvyV+6jpK7VpFDkHNlVmyZaTNT1doEES1BV+xZzXJwu+TgFt1BKfmJ5fJtmxQO/PeSqR8okMvGNs/Bpb+EQVM=;KtvYLEvr1bQ7BBsK4bkYvQ=="
+secured: "CD8om5sr2nAudjhJFG7FSZxrdu4pfyJM04ZuCB83UAZQLdiiCBiURhz0LQPcUgzsCKHFQ9NGfnaRZ3VofC6huB7aS9XlvGClymOTkCk/MWJLGcZapvFTqMUNaTlZSMO8RYbdCKj0UFZeYOMnV9/v37FU0vpvrjO0cTRz5C/tFcCqzx3+qU/p15jdxvHVlxF8Q0ZhfwFiJ63V+NL0R2iWmbwNXKV4lSnJ8fG5qJhD1V5DIxTu6AvjK3oE/7/u3YCtW1Az9hqGLKY40BA9hWlcTmKcCz+d4X5ExNeImhavSo26M4ZAZUl+S9PtC3SQvUWqbMLvR4JYi9mT+218U3KLyAEYYB/9mXwJol5WR+NZKaL88A0X/2mM7LjcpdinGZDsBFivKXqxjgfQvm6oWbjEYrWL25d8laNI1bWqNm9xYT9qg89/tWnumYU2zUSmrA9NuGBtEMLQTHxhq/fsclCo2sRMsaIcnT2obYAcitzI2BmoJKkoHezhoLFJDmKV+VHTn39M4/7eP5U9j60NfcH02A==;BLnm1U0/Pl5pWDEyPBjcPw=="
 ---
 

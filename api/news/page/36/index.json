@@ -2,6 +2,282 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-02-03-cyber-ai-for-saas-security-protecting-your-dynamic-workforce.md",
+      "title": "Cyber AI for SaaS Security: Protecting Your Dynamic Workforce",
+      "excerpt": "To protect today's dynamic workforce, security teams must be equipped to discern when and how a trusted account has been leveraged for",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/cyber-ai-for-saas-security-protecting-your-dynamic-workforce/",
+      "publishedDateTime": "2021-02-03T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-jeff-bezos-is-stepping-down-as-amazon-ceo-and-will-be-replaced-by-aws-boss-andy-jassy.md",
+      "title": "Jeff Bezos is stepping down as Amazon CEO and will be replaced by AWS boss Andy Jassy",
+      "excerpt": "Bezos announced the change in an email to staff on Tuesday afternoon and as the company reported bumper 2020 Q4 earnings of more than $100billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html?ci=73931&si=24249205",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-9216343/Jeff-Bezos-stepping-Amazon-CEO.html?ci=73931&si=24249205",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2021/02/02/21/38803406-0-image-a-27_1612302759925.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9216343/amp/Jeff-Bezos-stepping-Amazon-CEO.html",
+      "publishedDateTime": "2021-02-03T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-xiaomi-founder-lei-jun-acquires-controlling-stake-in-ai-chip-developer-cvitek.md",
+      "title": "Xiaomi Founder Lei Jun acquires controlling stake in AI chip developer CVITEK",
+      "excerpt": "Earlier today (3rd February 2021), a new report surfaced that revealed that the Founder and CEO of Xiaomi has acquired stakes in a Chinese artificial intelligence development based firm called CVITEK.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
+      "originalUrl": "https://www.gizmochina.com/2021/02/03/xiaomi-lei-jun-acquires-controlling-stake-in-cvitek/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/02/abt-b.4202f298-e1612343206607.png",
+          "width": 768,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-scania-tests-self-driving-trucks-in-motorway-traffic.md",
+      "title": "Scania tests self-driving trucks in motorway traffic",
+      "excerpt": "SÖDERTÄLJE, Sweden, Feb. 3, 2021 /PRNewswire/ -- Scania has been granted permission by the Swedish Transport Agency to test self-driving trucks on the E4 motorway between Södertälje and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/scania-tests-self-driving-trucks-in-motorway-traffic-301220989.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/scania-tests-self-driving-trucks-in-motorway-traffic-301220989.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T00:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-lilt-included-in-gartners-market-guide-for-ai-enabled-translation-services.md",
+      "title": "Lilt Included in Gartner’s Market Guide for AI-Enabled Translation Services",
+      "excerpt": "Lilt, a leading provider of human-powered, AI-enabled translation services and technology, today announced that it has been identified as a Representative Vendor in the Gartner ” Market Guide for AI-Enabled Translation Services” report.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-55d4a7ddc9d20796c31730febd3a85ab",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-55d4a7ddc9d20796c31730febd3a85ab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-02T23:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-vw-group-will-handle-self-driving-car-development-in-house-report-says.md",
+      "title": "VW Group will handle self-driving car development in-house, report says",
+      "excerpt": "Not only is developing self-driving car technology incredibly difficult, but it's also expensive. That has led many car companies to partner up with smaller, self-driving car-specific startups. Ford and Argo or Honda and Cruise,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/vw-group-self-driving-development-in-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/mHimEO5D4t57G21MdHwHA29Gl_U=/2019/08/30/b94c197b-f23c-4c0b-8248-a67c9d9108ef/ogi-vw.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/vw-group-self-driving-development-in-house/",
+      "publishedDateTime": "2021-02-02T17:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-sas-teams-with-microsoft-to-offer-viya-analytics-on-azure.md",
       "title": "SAS Teams With Microsoft To Offer Viya Analytics On Azure",
       "excerpt": "Big data software vendor SAS is making its Viya AI, analytics and data management system available on the Microsoft Azure cloud platform.",
@@ -887,308 +1163,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-salesforces-ai-ethics-chief-shares-3-ways-to-use-tech-when-planning-a-safe-return-to-the-office.md",
-      "title": "Salesforce's AI ethics chief shares 3 ways to use tech when planning a safe return to the office",
-      "excerpt": "With vaccinations rolling out, companies must carefully plan next steps and map out how to get employees back to their desks safely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/salesforces-ai-ethics-chief-kathy-baxter-safely-return-office-2021-2",
-      "originalUrl": "https://www.businessinsider.com/salesforces-ai-ethics-chief-kathy-baxter-safely-return-office-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60198cb101504a00197fb2d1?width=1200&format=jpeg",
-          "width": 1085,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-02T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters.md",
-      "title": "How Normal People Deployed Facial Recognition on Capitol Hill Protesters",
-      "excerpt": "Facial recognition is now freely accessible to random people on Twitter using a Polish website called Pimeyes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "originalUrl": "https://www.vice.com/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/601989938019b80095f88ce7/lede/1612286477494-gettyimages-1230453278.jpeg?crop=1xw:0.8429xh;0xw,0.1571xh",
-          "width": 5128,
-          "height": 2881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5k3/how-normal-people-deployed-facial-recognition-on-capitol-hill-protesters",
-      "publishedDateTime": "2021-02-02T09:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors.md",
-      "title": "Radiological Analysis Leveraging Artificial Intelligence Is Moving Past Pure Identification Of Tumors",
-      "excerpt": "In the medical area of lung health, there is significant movement past the early success of AI for identification of objects in radiological images, into machine learning for more high level analysis for identification,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D26%26cropY2%3D519",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/02/02/radiological-analysis-leveraging-artificial-intelligence-is-moving-past-pure-identification-of-tumors/amp/",
-      "publishedDateTime": "2021-02-02T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures.md",
-      "title": "BioWare used AI upscaling to remaster Mass Effect’s original textures",
-      "excerpt": "BioWare rescued many of the textures in the original Mass Effect games through the use of AI upscaling, which can make them look more modern.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/",
-      "originalUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/eden-prime.png?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/bioware-used-ai-upscaling-to-remaster-mass-effects-original-textures/amp/",
-      "publishedDateTime": "2021-02-02T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research.md",
-      "title": "PercayAI and Saint Louis University Partner to Accelerate AI Adoption across Biomedical Sciences Research",
-      "excerpt": "Biotech startup PercayAI and Saint Louis University (SLU) announced a partnership today to provide SLU researchers with access to PercayAI's augmented intelligence (AI) drug discovery platform. One of the primary components of the PercayAI platform is CompBio™,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/percayai-and-saint-louis-university-partner-to-accelerate-ai-adoption-across-biomedical-sciences-research-1030034010",
-      "publishedDateTime": "2021-02-02T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-case-studies-of-successful-ai-startups.md",
-      "title": "Case studies of successful AI startups",
-      "excerpt": "Unsurprisingly, artificial intelligence is a small part -- albeit an important one -- of a successful product management strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/?via=indexdotco",
-      "originalUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/artificial-intelligence-startup-case-studies.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/case-studies-of-successful-ai-startups/amp/",
-      "publishedDateTime": "2021-02-02T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

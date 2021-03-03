@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-13-healthcare-is-adopting-ai-much-faster-since-the-pandemic-began.md",
+      "title": "Healthcare is adopting AI much faster since the pandemic began",
+      "excerpt": "While healthcare organizations are hesitant to adopt AI technology, the COVID-19 pandemic has increased their interest.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
+      "originalUrl": "https://www.techrepublic.com/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/02/12/4f1c9e68-dd61-4f33-b817-8aee45a569f0/thumbnail/1200x675/7150d226ed634629837143d254c00fa5/20210211-healthcareai-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/healthcare-is-adopting-ai-much-faster-since-the-pandemic-began/",
+      "publishedDateTime": "2021-02-12T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-machine-learning-used-to-generate-aav-capsids-for-gene-therapy.md",
       "title": "Machine learning used to generate AAV capsids for gene therapy",
       "excerpt": "A study has used artificial intelligence to reveal adeno-associated virus (AAV) capsid variants for use in gene therapies.",
@@ -1330,59 +1382,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report.md",
-      "title": "Artificial Intelligence (AI) In Fintech Market Qualitative Insights on Application and Drivers & Growth Opportunity Analysis Report",
-      "excerpt": "In Fintech Market Estimation, Global Share, Industry Outlook, Price Trend, Growth Opportunity and Top Regional Forecast (Latin America, North America, Asia Specific, Europe, Middle East ) \" Market Overview: Global Artificial Intelligence (AI) in Fintech Market is valued approximately USD 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-qualitative-insights-on-application-and-drivers-growth-opportunity-analysis-report-2021-02-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

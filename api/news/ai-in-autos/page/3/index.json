@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-10-volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles.md",
+      "title": "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles",
+      "excerpt": "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "originalUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-297352/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
+      "publishedDateTime": "2021-02-10T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-baidu-in-talks-to-raise-money-for-a-stand-alone-ai-chip-company.md",
       "title": "Baidu in talks to raise money for a stand-alone A.I. chip company",
       "excerpt": "Baidu's semiconductor business would aim to sell to chips to customers in various industries including automakers.",
@@ -1340,58 +1392,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ai-reading-list-8-interesting-books-about-artificial-intelligence-to-check-out.md",
-      "title": "AI reading list: 8 interesting books about artificial intelligence to check out",
-      "excerpt": "These eight books about artificial intelligence cover a range of topics, including ethical issues, how AI is affecting the job market, and how organizations can use AI to gain a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/02/12791f95-34d0-4745-b925-969861beab17/resize/1200x900/c78d0cc8a33af41d91857d238e02bdef/t-minus-ai.jpg",
-          "width": 603,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out/",
-      "publishedDateTime": "2021-02-04T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

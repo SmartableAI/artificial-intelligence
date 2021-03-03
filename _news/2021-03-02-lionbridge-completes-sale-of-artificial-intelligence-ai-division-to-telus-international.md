@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International"
-    excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence (AI) division, Lionbridge AI, to TELUS International (NYSE and TSX: TIXT),"
-    publishedDateTime: 2021-03-03T05:46:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-ownership-changes-f2c3b8803117b46cd09ae6fe291a6428"
+    excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence (AI) division, Lionbridge AI , to TELUS International (NYSE and TSX: TIXT),"
+    publishedDateTime: 2021-03-03T08:44:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/TIXT-T/pressreleases/1234476/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 45
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.theglobeandmail.com/resources/assets/meta/facebook-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "C3 AI and Baker Hughes to Provide Enterprise AI Solutions to Accelerate PETRONAS Digital Transformation Program"
     excerpt: "C3 AI (NYSE: AI) and Baker Hughes today announced an artificial intelligence (AI) collaboration with PETRONAS, a global energy and solutions company f"

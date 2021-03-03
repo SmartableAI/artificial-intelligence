@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: MarketWatch
@@ -42,20 +42,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
-    excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
-    publishedDateTime: 2021-02-26T15:11:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=429011"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "jbpip+5otwemrYS3ih21dfaBZ1WEH3U09fTIoPt4rW4r14hITxx/uTi75FlwnIQ6o/Pfxwzc+xBPU0hA0MJiyY9nBsblX/KscKEV43Je/0cu0c4hTXQuDjO6VjxYzoWCB1UWHGMjgoikVb/wGFJ4203e/HoViTmVvquhZoGKl7uOHeADqzLeIXXqT33G5Q4iwYr7dPvD3HXVVLOuX8bidirDipwdJfhB4eAhShmjiNJfAitAgEubC/JWBZvCMbWL2PZrtgddgbBdieyOzJxWarEFmLehOwFGrTN3f+bvMqDzahdVbz7zXTfz/HVk6JGZ7/4+ORYVd7k9F1EjlhFnKOFP92zoeBtWC0QMzjhdMmI=;uGqDWG9v2BAICDE+tqaUoA=="

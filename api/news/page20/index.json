@@ -2,6 +2,319 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-13-ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes.md",
+      "title": "AI Emerges as Crucial Tool for Groups Seeking Justice for Syria War Crimes",
+      "excerpt": "Rights groups are using machine learning to sort through a mammoth trove of video, photo and other evidence to build Syrian war-crimes cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "originalUrl": "https://www.wsj.com/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-296975/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-emerges-as-crucial-tool-for-groups-seeking-justice-for-syria-war-crimes-11613228401",
+      "publishedDateTime": "2021-02-13T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy.md",
+      "title": "Thought-detection: AI has infiltrated our last bastion of privacy",
+      "excerpt": "Research from the UK and an update from Elon Musk on human trials at his brain interface company show software is now eating the mind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
+      "originalUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/crowd_electromagnetic.jpg?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/13/thought-detection-ai-has-infiltrated-our-last-bastion-of-privacy/amp/",
+      "publishedDateTime": "2021-02-13T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-a-new-artificial-intelligence-makes-mistakeson-purpose.md",
+      "title": "A New Artificial Intelligence Makes Mistakes—on Purpose",
+      "excerpt": "But one artificial intelligence program is taking a few steps backward, to appreciate how average humans play—blunders and all. The AI chess program, known as Maia, uses the kind of cutting-edge AI behind the best superhuman chess-playing programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/",
+      "originalUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/602711ff6c104aea63dc51d9/master/pass/business_chess-ai_1294495770.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-artificial-intelligence-mistakes-purpose-chess/amp",
+      "publishedDateTime": "2021-02-13T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets.md",
+      "title": "Forget Self-Driving Cars—the Pentagon Wants Autonomous Ships, Choppers and Jets",
+      "excerpt": "The U.S. military’s automation push is outpacing commercial efforts in the air, on land and underwater as officials seek to counter adversaries’ advances with technology that could later find civilian uses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "originalUrl": "https://www.wsj.com/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-297635/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/forget-self-driving-carsthe-pentagon-wants-autonomous-ships-choppers-and-jets-11613212200",
+      "publishedDateTime": "2021-02-13T02:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-self-driving-cars-wont-go-mainstream-until-we-solve-this-problem.md",
+      "title": "Self-Driving Cars Won’t Go Mainstream Until We Solve This Problem",
+      "excerpt": "There’s a major controversy that needs to be addressed before we can let our cars do all the driving for us, and it’s not a technical one. It’s ethical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60269ee58ebec1fae0b0c3cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2021/02/13/self-driving-cars-wont-go-mainstream-until-we-solve-this-problem/amp/",
+      "publishedDateTime": "2021-02-13T02:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-silicon-valleys-safe-space.md",
+      "title": "Silicon Valley’s Safe Space",
+      "excerpt": "Slate Star Codex was a window into the psyche of many tech leaders building our collective future. Then it disappeared.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/08/business/00Rationalists-vid-still/00Rationalists-vid-still-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.amp.html",
+      "publishedDateTime": "2021-02-13T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-predictiv-ai-partners-with-mcl-sustainable-cleaning-solutions-to-sell-into-education-government-and-food-service-sectors-across.md",
       "title": "Predictiv AI Partners With MCL Sustainable Cleaning Solutions To Sell Into Education, Government and Food Service Sectors Across",
       "excerpt": "Canada Canada NewsWire TORONTO, Feb. 12, 2021 MCL",
@@ -935,262 +1248,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money.md",
-      "title": "What if Artificial Intelligence Decided How to Allocate Stimulus Money?",
-      "excerpt": "New Treasury Department software points the way. But research suggests that it’s impossible to show that an artificial “superintelligence” can be contained.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-02-12/what-if-artificial-intelligence-decided-how-to-allocate-stimulus-money",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idPjnJhMfI0M/v1/1200x772.jpg",
-          "width": 1200,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-photo-hoarding.md",
-      "title": "Canon's New iOS App Uses AI To Marie Kondo Your Digital Photo Hoarding",
-      "excerpt": "Even without the limits of a 36-shot roll of film or memory cards that quickly max out, it doesn’t take long to fill an iPhone and cloud storage with photos. So Canon has released an iOS app that can make the hard decisions for you when it’s time to clear out some memories using AI to objectively decide which shots aren’t worth keeping.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
-      "originalUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dtklqj3drv6rsxuv4jhs.jpg",
-          "width": 800,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/canons-new-ios-app-uses-ai-to-marie-kondo-your-digital-1846257384/amp",
-      "publishedDateTime": "2021-02-12T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-bonus-episode-in-conversation-reframing-black-history-and-culture.md",
-      "title": "Bonus Episode: In Conversation: Reframing Black History and Culture",
-      "excerpt": "ADAMS SIMMONS: And Tara will be posting updates about her travels on Instagram and Facebook ... to let people know about research that's being done by Black AI researchers. I wonder if you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalgeographic.com/podcasts/overheard/season-5/bonus-conversation-reframing-black-history-culture-month/",
-      "originalUrl": "https://www.nationalgeographic.com/podcasts/overheard/season-5/bonus-conversation-reframing-black-history-culture-month/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Geographic news",
-        "domain": "nationalgeographic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com",
-      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-qa-improving-access-to-government-services-through-inclusive-virtual-agents.md",
-      "title": "Q&A: Improving access to Government services through inclusive virtual agents",
-      "excerpt": "Dr Lea El Samarji, AI and IoT lead for EMEA at Avanade, discussed improving virtual agents and increasing accessibility to public services",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
-      "originalUrl": "https://www.information-age.com/qa-improving-access-government-services-virtual-agents-123493801/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/qa-helping-government-singapore-improve-virtual-agents.jpg",
-          "width": 924,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-quantiphi-named-as-an-idc-innovator-in-artificial-intelligence-services.md",
-      "title": "Quantiphi Named as an IDC Innovator in Artificial Intelligence Services",
-      "excerpt": "Quantiphi, an applied AI and data science software and services company, today announced that it has been named an IDC Innovator in the IDC Innovators: Artificial Intelligence Services, 2020 ( Doc # US45733220,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-19648625.html",
-      "originalUrl": "https://www.lelezard.com/en/news-19648625.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

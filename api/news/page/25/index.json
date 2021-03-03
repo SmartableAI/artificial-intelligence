@@ -2,6 +2,296 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-11-genethon-and-whitelab-genomics-join-forces-to-enhance-gene-therapy-through-artificial-intelligence.md",
+      "title": "Genethon and WhiteLab Genomics Join Forces to Enhance Gene Therapy Through Artificial Intelligence",
+      "excerpt": "a specialist in artificial intelligence applied to gene and cell therapies, has signed a partnership agreement with Genethon, a pioneering research center in the field of gene therapy. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20210210005707/en/Genethon-and-WhiteLab-Genomics-Join-Forces-to-Enhance-Gene-Therapy-Through-Artificial-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-2004.md",
+      "title": "How to expand your machine learning capabilities by installing TensorFlow on Ubuntu Server 20.04",
+      "excerpt": "If you're looking to add machine learning to your Python development, Jack Wallen shows you how to quickly install TensorFlow on Ubuntu Desktop 20.04.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/category/2242/13/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2242/13/index.php/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/04/15/c4cd780e-d300-42ff-bed2-b5a9f568dc3f/resize/1200x/93ee1e53acaf6f50c163d1dc759fc216/tensorflowgoogle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2242/13/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2242/13/index.php/google-amp/article/how-to-expand-your-machine-learning-capabilities-by-installing-tensorflow-on-ubuntu-server-20-04/",
+      "publishedDateTime": "2021-02-10T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-chinese-search-giant-baidu-looks-to-launch-ai-chip-company.md",
+      "title": "Chinese Search Giant Baidu Looks to Launch AI Chip Company",
+      "excerpt": "Image source: Getty Images. Baidu is already heavily involved in AI and AI chips. Its AI-based platform-as-a-service serves numerous customers in China, including banks and economic development ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "originalUrl": "https://www.fool.com/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F612596%2Fartificial-intelligence-ai-neural-network-machine-learning-getty.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/02/10/chinese-search-giant-baidu-looks-to-launch-ai-chip/",
+      "publishedDateTime": "2021-02-10T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-four-predictions-for-artificial-intelligence-and-machine-learning-in-2021.md",
+      "title": "Four Predictions For Artificial Intelligence And Machine Learning In 2021",
+      "excerpt": "I believe we will increasingly see AI in the boardroom - as top executives embrace new technologies like never before, leading even the most stagnant of industries to begin modernizing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60232ac426cce9126ef609d0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7886%26cropY1%3D400%26cropY2%3D4837",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/evansparks/2021/02/10/four-predictions-for-artificial-intelligence-and-machine-learning-in-2021/amp/",
+      "publishedDateTime": "2021-02-10T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-langai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses.md",
+      "title": "Lang.ai snags $2M to remove technical burden of implementing AI for businesses",
+      "excerpt": "Lang.ai, which has developed a no-code platform for businesses, closed on a $2 million seed funding round. The company’s SaaS platform aims to allow business users to structure any free-text data with custom categories built through a drag & drop interface,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
+      "originalUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Lang.ai_.jpg?w=1024",
+          "width": 1024,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/10/lang-ai-snags-2m-to-remove-technical-burden-of-implementing-ai-for-businesses/amp/",
+      "publishedDateTime": "2021-02-10T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-spider-legs-build-webs-without-the-brains-helpproviding-a-model-for-future-robot-limbs.md",
+      "title": "Spider legs build webs without the brain's help—providing a model for future robot limbs",
+      "excerpt": "Arachnophobes often cite spiders' unpredictable movement as the basis of their fear, pointing out how each spindly leg seems to lift, flex and probe with a menacing degree of autonomy.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
+      "originalUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/spiderlegsbu.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-spider-legs-webs-brain-helpproviding.amp",
+      "publishedDateTime": "2021-02-10T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-self-driving-car-firms-reveal-2020-testing-data-cruise-and-waymo-improve-apple-stalls.md",
       "title": "Self-driving car firms reveal 2020 testing data: Cruise and Waymo improve, Apple stalls",
       "excerpt": "The California Department of Motor Vehicles reveals how companies operating autonomous cars in the state are progressing.",
@@ -909,274 +1199,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-uber-riders-might-be-able-to-hail-self-driving-toyota-minivans-with-help-of-aurora.md",
-      "title": "Uber riders might be able to hail self-driving Toyota minivans with help of Aurora",
-      "excerpt": "At the end of last year, it looked like Uber's self-driving cars were done for good when autonomous vehicle tech startup Aurora took over its robocars unit as part of a $400 million deal.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides/",
-      "originalUrl": "https://mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F02%252F09%252F96%252F9dcda36f8d5f4ae381b66173d17682b6.09d37.jpg%252F1200x630.jpg?signature=i6khbDn4luwz2MajncVoX7Chil8=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/aurora-self-driving-toyota-minivan-uber-rides.amp",
-      "publishedDateTime": "2021-02-09T19:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-gms-super-cruise-feels-like-its-self-driving-but-its-not.md",
-      "title": "GM's Super Cruise feels like it's self-driving, but it's not",
-      "excerpt": "A January survey from online car shopping site Autolist.com found that 36 percent of 3,380 car buyers think self-driving features like Super Cruise make a car safer. Another 36 percent of ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/gm-super-cruise-advanced-driving-system/",
-      "originalUrl": "https://mashable.com/article/gm-super-cruise-advanced-driving-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F02%252F10%252F8c%252Ff0d750adf40d4ec0a2507b20a0d5c453.cc92b.png%252F1200x630.png?signature=BEoLdtOZ3YH9Oaa4BxqN_83dX-s=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/gm-super-cruise-advanced-driving-system.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/gm-super-cruise-advanced-driving-system.amp",
-      "publishedDateTime": "2021-02-09T18:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-10-affordable-and-free-online-data-science-courses-from-mit-harvard-google-ibm-and-more.md",
-      "title": "10 affordable and free online data science courses from MIT, Harvard, Google, IBM, and more",
-      "excerpt": "Developing AI Applications on Azure LearnQuest is an Apple Authorized Global Training Provider, and this course introduces the concepts of artificial intelligence and machine learning to students ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "originalUrl": "https://www.businessinsider.com/data-science-courses-online",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe0c444d366e600180994d7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/data-science-courses-online?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp",
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-fighting-fires-and-floods-with-robotics-ai-and-iot.md",
-      "title": "Fighting Fires and Floods with Robotics, AI, and IoT",
-      "excerpt": "In collaboration with Karen Panetta, an IEEE fellow and dean of Graduate Education at Tufts University’s School of Engineering, the department is using AI for object recognition. The goal is to be able to use a drone or robot that can locate objects in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "originalUrl": "https://www.designnews.com/automation/fighting-fires-and-floods-robotics-ai-and-iot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_0.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.md",
-      "title": "Ford to invest $1 billion in artificial intelligence for your car",
-      "excerpt": "Ford will pour $1 billion over the next five years into an artificial intelligence company tasked ... will put Ford in direct competition with Waymo, Google’s self-driving car company, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
-      "originalUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
-      "cdnAmpWebUrl": "https://www-abqjournal-com.cdn.ampproject.org/c/s/www.abqjournal.com/947509/ford-to-invest-1-billion-in-artificial-intelligence-for-your-car.html/amp",
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Albuquerque Journal",
-        "domain": "abqjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-microsoft-cognitive-services-speech-sdk-samples.md",
-      "title": "Microsoft Cognitive Services Speech SDK Samples",
-      "excerpt": "This project hosts the samples for the Microsoft Cognitive Services Speech SDK. To find out more about the Microsoft Cognitive Services Speech SDK itself, please ...",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/samples/azure-samples/cognitive-services-speech-sdk/sample-repository-for-the-microsoft-cognitive-services-speech-sdk/",
-      "originalUrl": "https://docs.microsoft.com/en-us/samples/azure-samples/cognitive-services-speech-sdk/sample-repository-for-the-microsoft-cognitive-services-speech-sdk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-09T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

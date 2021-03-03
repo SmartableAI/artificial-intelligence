@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026.md",
+      "title": "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026.",
+      "excerpt": "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong.md",
+      "title": "Border control systems are gearing up to use facial analysis tech — what could go wrong?",
+      "excerpt": "While national security can benefit from advanced surveillance tech, it creates risks for the misuse of personal data and the violation of human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Smartgates-head-image-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/amp/",
+      "publishedDateTime": "2021-03-02T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025.md",
       "title": "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025",
       "excerpt": "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -704,58 +808,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027.md",
-      "title": "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027",
-      "excerpt": "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-cisco-webex-aims-to-help-you-break-through-the-language-barrier.md",
       "title": "Cisco Webex aims to help you break through the language barrier",
       "excerpt": "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software.",
@@ -764,7 +816,7 @@
       "originalUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1214,58 +1266,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme.md",
-      "title": "Microsoft Ignite Data and Analytics roundup: Platform extensions are the key theme",
-      "excerpt": "Microsoft is introducing a new Apache Cassandra Azure service, while adding new onramps to Azure Synapse Analytics. And it’s the first third-party cloud to cleanroom engineer its own MongoDB 4.0 API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/02/52301473-0c68-49f2-af2f-0da96be3e28e/cosmos.jpg",
-          "width": 900,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/",
-      "publishedDateTime": "2021-03-02T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

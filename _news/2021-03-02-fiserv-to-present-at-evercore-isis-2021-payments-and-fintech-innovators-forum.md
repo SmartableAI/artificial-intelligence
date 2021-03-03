@@ -57,17 +57,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "It’s now or never for UK fintech, government told"
-    excerpt: "The UK government faces a ‘now or never’ moment if it wants financial technology to play a central role in the economy for years to come."
-    publishedDateTime: 2021-02-26T15:18:00Z
-    webUrl: "https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told"
-    ampWebUrl: "https://www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252496993/Its-now-or-never-for-UK-fintech-government-told?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
   - title: "Fintech Provider Empaxis Strengthens Compliance Credentials, Earns ISO 22301 Certification"
     excerpt: "Empaxis Data Management, a global provider of financial technology and operations outsourcing for investment firms, has added to its compliance qualifications, becoming ISO 22301 certified. ISO 22301 is an international standard for"
     publishedDateTime: 2021-03-02T13:41:00Z

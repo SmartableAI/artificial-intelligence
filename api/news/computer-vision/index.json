@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong.md",
+      "title": "Border control systems are gearing up to use facial analysis tech — what could go wrong?",
+      "excerpt": "While national security can benefit from advanced surveillance tech, it creates risks for the misuse of personal data and the violation of human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Smartgates-head-image-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/amp/",
+      "publishedDateTime": "2021-03-02T23:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing.md",
       "title": "Brazil’s Biggest Metro Could Get Facial Recognition Cameras That Reinforce Racist Policing",
       "excerpt": "Facial recognition cameras commit minimal errors in recognizing the faces of white men, but they misidentified black women up to nearly 35 percent of the time, according to a recent study.",
@@ -682,24 +734,33 @@
     {
       "path": "_news/2021-02-25-aws-announces-general-availability-of-amazon-lookout-for-vision.md",
       "title": "AWS Announces General Availability of Amazon Lookout for Vision",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Lookout for Vision, a",
+      "excerpt": "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision",
-      "originalUrl": "https://www.businesswire.com/news/home/20210224006095/en/AWS-Announces-General-Availability-of-Amazon-Lookout-for-Vision",
+      "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/",
+      "originalUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T18:29:00-08:00",
+      "ampWebUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/",
+      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/",
+      "publishedDateTime": "2021-02-24T17:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "digitalproducer.com",
+        "domain": "digitalproducer.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -843,6 +904,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-continental-invests-in-object-recognition-start-up.md",
+      "title": "Continental invests in object recognition start-up",
+      "excerpt": "Logo of German tyre company Continental is seen before the annual news conference in Hanover, Germany March 2, 2017. REUTERS/Fabian Bimmer",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/continental-invests-in-object-recognitio-idUSKBN2AN0NJ",
+      "originalUrl": "https://www.reuters.com/news/picture/continental-invests-in-object-recognitio-idUSKBN2AN0NJ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552563820&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1M0DO",
+          "width": 810,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T23:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1307,75 +1420,6 @@
       "provider": {
         "name": "Times Union",
         "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications.md",
-      "title": "OnLogic Now Offering Cincoze GM-1000 Embedded GPU Computer For Machine Vision Applications",
-      "excerpt": "The Cincoze GM-1000 features an embedded MXM GPU, high-speed I/O and Intel® Xeon® CPUs to meet the demands of advanced embedded vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-vision-computer-solutions-achieves-platinum-partner-status-with-datto.md",
-      "title": "Vision Computer Solutions Achieves Platinum Partner Status With Datto",
-      "excerpt": "Vision Computer Solutions is pleased to announce it has been designated as an exclusive Platinum Partner with Datto, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/n19680693/vision-computer-solutions-achieves-platinum-partner-status-with-datto",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/n19680693/vision-computer-solutions-achieves-platinum-partner-status-with-datto",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19680693",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19680693",
-      "publishedDateTime": "2021-02-16T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

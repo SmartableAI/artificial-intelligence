@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-20-nextech-ar-integrates-microsoft-azure-cloud-computing-platform.md",
+      "title": "Nextech AR Integrates Microsoft Azure Cloud Computing Platform",
+      "excerpt": "Azure, Microsoft’s cloud, and edge computing platform is the gold standard. Nextech AR will enter Microsoft’s Co-sell program, opening additional opportunities to extend the reach of Nextech products and create new customer connections.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-virtual-reality-technology-products-and-services-cloud-computing-73b4c77f87f8708468bd2b0f4ab0fb69",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-20T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-microsoft-gm-cruise-partner-on-self-driving-cars.md",
       "title": "Microsoft, GM, Cruise Partner on Self-Driving Cars",
       "excerpt": "A strategic partnership with Microsoft was announced Tuesday by General Motors and Cruise aimed at speeding up the commercialization of shared self-driving vehicles. In addition, Microsoft will be joining GM,",

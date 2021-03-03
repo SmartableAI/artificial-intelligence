@@ -456,6 +456,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-27-aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road.md",
+      "title": "Aurora acquires a second lidar company in push to bring self-driving trucks to the road",
+      "excerpt": "Aurora, the autonomous vehicle company that recently closed its acquisition of Uber’s self-driving subsidiary, has snapped up another startup.  This time, Aurora is buying OURS Technology, the second lidar startup it has acquired in less than two years.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/",
+      "originalUrl": "https://techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/Project-Switch-Wafer.jpg?w=1024",
+          "width": 1024,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/26/aurora-acquires-a-second-lidar-company-in-push-to-bring-self-driving-trucks-to-the-road/amp/",
+      "publishedDateTime": "2021-02-26T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-aurora-buys-chip-startup-to-cut-laser-lidar-costs-for-robot-cars-and-trucks.md",
       "title": "Aurora Buys Chip Startup To Cut Laser Lidar Costs For Robot Cars And Trucks",
       "excerpt": "The self-driving tech developer is acquiring Silicon Valley startup OURS Technology to integrate its lidar sensor into a single chip.",
@@ -1383,58 +1435,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-anthony-levandowski-closes-his-church-of-ai.md",
-      "title": "Anthony Levandowski closes his Church of AI",
-      "excerpt": "The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski, the former Google engineer who avoided an 18-month prison sentence after receiving a presidential pardon last month,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
-      "originalUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/levandowski-church-AI-1-1.gif?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
-      "publishedDateTime": "2021-02-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

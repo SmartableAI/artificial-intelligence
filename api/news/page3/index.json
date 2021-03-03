@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-02-skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech.md",
+      "title": "Skydio hits billion-dollar valuation for autonomous drone tech",
+      "excerpt": "Autonomous drone company Skydio has just raised another $170 million in funding, with its “flying robot” tech earning it a $1+ billion valuation as it evolves beyond its initial",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
+      "originalUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/skydio-2-11.jpg",
+          "width": 1500,
+          "height": 942,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
+      "publishedDateTime": "2021-03-01T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
+      "title": "Underwater robot rises from the depths to save drowning swimmers",
+      "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "originalUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b75d88c/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb7%2F1b%2F3c8d4a5849178bc676e0adc06053%2Fiosb-ast-an-autonomous-underwater-robot-saves-people-from-drowning-pic-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "publishedDateTime": "2021-03-01T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision.md",
       "title": "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision",
       "excerpt": "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ...",
@@ -357,7 +461,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1133,111 +1237,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020-2025.md",
-      "title": "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-the-deep-south-has-a-rich-history-of-resistance-as-amazon-is-learning.md",
-      "title": "The Deep South Has a Rich History of Resistance, as Amazon Is Learning",
-      "excerpt": "The Deep South is not generally known for its labor agitation, which is why it might come as a surprise for some to learn that it is in Alabama where workers have mounted one of the largest and most aggressive efforts to unionize Amazon in recent memory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/01/opinion/26bouie-lead-print/26bouie-lead-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/opinion/amazon-union-south-us.amp.html",
-      "publishedDateTime": "2021-02-26T21:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

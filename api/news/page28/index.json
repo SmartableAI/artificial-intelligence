@@ -2,6 +2,283 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-02-09-ibm-partners-with-palantir-on-low-code-ai-applications.md",
+      "title": "IBM partners with Palantir on low-code AI applications",
+      "excerpt": "IBM Corp. said Monday it’s teaming up with Palantir Technologies Inc. to meld its hybrid cloud and artificial intelligence technologies with that company’s data analytics tools. Called Palantir for IBM Cloud Pak,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/",
+      "originalUrl": "https://siliconangle.com/2021/02/08/ibm-partners-palantir-low-code-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/image_2021-02-09_065434.png",
+          "width": 1303,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space.md",
+      "title": "IBM, Palantir forge partnership in low-code AI data processing space",
+      "excerpt": "will \"simplify how businesses build and deploy AI-infused applications with IBM Watson and help users access, analyze, and take action on the vast amounts of data that is scattered across hybrid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "originalUrl": "https://www.zdnet.com/index.php/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/08/7368a792-536c-4a26-adaa-06c09ca5f6c3/screenshot-2021-02-08-at-13-39-51.png",
+          "width": 1170,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ibm-palantir-forge-partnership-in-low-code-ai-data-processing-space/",
+      "publishedDateTime": "2021-02-08T16:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-machine-learning-can-help-improve-predictions-of-mortality-risk.md",
+      "title": "Machine learning can help improve predictions of mortality risk",
+      "excerpt": "Researchers at Geisinger have found that a computer algorithm developed using echocardiogram videos of the heart can predict mortality within a year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210208/Machine-learning-can-help-improve-predictions-of-mortality-risk.aspx",
+      "publishedDateTime": "2021-02-08T16:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-how-driverless-scooters-could-boost-healthcare.md",
+      "title": "How Driverless Scooters Could Boost Healthcare",
+      "excerpt": "The latest entry to the growing fleet of driverless vehicles is the autonomous mobility scooter, developed jointly by MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL), the National University of Singapore, and the Singapore-MIT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
+      "originalUrl": "https://www.mddionline.com/rd/how-driverless-scooters-could-boost-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-nuance-acquires-seattle-digital-health-startup-saykara-to-boost-healthcare-ai-products.md",
+      "title": "Nuance acquires Seattle digital health startup Saykara to boost healthcare AI products",
+      "excerpt": "Nuance Communications has acquired Saykara, a Seattle health-tech startup that makes a voice assistant for clinicians. Nuance, based in Boston and publicly traded, will use the deal to boost its",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
+      "originalUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/10/20181003_GeekWire_Summit_813-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/nuance-acquires-seattle-digital-health-startup-saykara-boost-healthcare-ai-products/amp/",
+      "publishedDateTime": "2021-02-08T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge.md",
       "title": "Learn from the winner of the AWS DeepComposer Chartbusters Track or Treat challenge",
       "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters Track or Treat challenge, Greg Baker. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June 2020, we launched Chartbusters, a global competition in which developers use AWS DeepComposer",
@@ -924,282 +1201,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles.md",
-      "title": "LIZHI Enters Into Partnership With Established AI Chip Maker to Enhance Audio Services for Internet of Vehicles",
-      "excerpt": "LIZHI INC. (\"LIZHI\" or the \"Company\") (NASDAQ: LIZI), a leading online UGC audio community and interactive audio entertainment platform in China, today announced that it has entered into a cooperation agreement with Horizon Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles-2021-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/lizhi-enters-into-partnership-with-established-ai-chip-maker-to-enhance-audio-services-for-internet-of-vehicles-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics.md",
-      "title": "4 Funds to Boom as Deep Learning Paves the Way for Robotics",
-      "excerpt": "Artificial intelligence (AI) and machine learning are frequently used to improve robots and make them more capable in industrial use. Industrial robotics systems are now being consolidated with computer vision,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
-      "originalUrl": "https://www.nasdaq.com/articles/4-funds-to-boom-as-deep-learning-paves-the-way-for-robotics-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T05:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily.md",
-      "title": "Jigsaw’s AI-powered toxic language detector is now processing 500 million requests daily",
-      "excerpt": "Perspective, a hate speech detection service built by Alphabet-backed company Jigsaw, now sees 500 million requests per day.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
-      "originalUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/jigsaw-e1574185322346.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/jigsaws-ai-powered-toxic-language-detector-is-now-processing-500-million-requests-daily/amp/",
-      "publishedDateTime": "2021-02-08T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-mind-written-couplets-add-technology-to-spring-festival-celebrations.md",
-      "title": "\"Mind-written\" couplets add technology to Spring Festival celebrations",
-      "excerpt": "Then, the system can decode the operator's intent and control the robot to write the character,\" Xu said. The mind-controlled writing system allows two people to work on a character simultaneously by dividing it into two parts. In 2019, Xu's team developed ...",
-      "sourceUrl": null,
-      "webUrl": "https://en.ce.cn/main/latest/202102/08/t20210208_36301673.shtml",
-      "originalUrl": "https://en.ce.cn/main/latest/202102/08/t20210208_36301673.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://i.ce.cn/english/main/latest/202102/09/W020210209359794030713.jpg",
-          "width": 320,
-          "height": 217,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "China Economic Net",
-        "domain": "en.ce.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions.md",
-      "title": "Self-driving Ships Market Growth (2021-2027), Size, Industry Growth by Global Major Companies Profile, Competitive Landscape and Key Regions.",
-      "excerpt": "Feb 08, 2021 (The Expresswire) -- Global \"Self-driving Ships Market\" (2021-2027) Research report covers the present situation and the development possibilities of the Self-driving Ships market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-ships-market-growth-2021-2027-size-industry-growth-by-global-major-companies-profile-competitive-landscape-and-key-regions-2021-02-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-artificial-intelligence-and-robotics-in-aerospace-and-defense-market-enhancement-latest-trends-growth-and-opportunity-during-2021-to-2025.md",
-      "title": "Artificial Intelligence and Robotics in Aerospace and Defense Market Enhancement, Latest Trends, Growth and Opportunity during 2021 to 2025",
-      "excerpt": "(MENAFN - Ameliorate Solutions) MarketInsightsReports has recently published a global Artificial Intelligence and Robotics in Aerospace and Defense market research study with more than 100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101563639/Artificial-Intelligence-and-Robotics-in-Aerospace-and-Defense-Market-Enhancement-Latest-Trends-Growth-and-Opportunity-during-2021-to-2025",
-      "originalUrl": "https://menafn.com/1101563639/Artificial-Intelligence-and-Robotics-in-Aerospace-and-Defense-Market-Enhancement-Latest-Trends-Growth-and-Opportunity-during-2021-to-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?855950",
-          "width": 333,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T01:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

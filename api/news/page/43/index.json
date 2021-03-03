@@ -2,6 +2,273 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-29-the-role-of-ai-social-media-marketers-in-a-b2b-marketing-campaign.md",
+      "title": "The role of AI & social media marketers in a B2B marketing campaign",
+      "excerpt": "The alignment between advanced technologies and B2B marketing has evolved. Artificial Intelligence (AI) has the potential and capabilities to push B2B marketing to new heights. In past AI was just a thing of sci-fi movies and scientific laboratories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign",
+      "originalUrl": "https://www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.clickz.com/wp-content/uploads/2021/01/B2B-Marketing-Campaign.png",
+          "width": 768,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign/264854/amp/",
+      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/ai-and-social-media-marketers-in-b2b-marketing-campaign/264854/amp/",
+      "publishedDateTime": "2021-01-28T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClickZ",
+        "domain": "clickz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-28-managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker.md",
+      "title": "Managing your machine learning lifecycle with MLflow and Amazon SageMaker",
+      "excerpt": "With the rapid adoption of machine learning (ML) and MLOps, enterprises want to increase the velocity of ML projects from experimentation to production. During the initial phase of an ML project, data scientists collaborate and share experiment results in order to find a solution to a business need.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/05/ML-1367-1.jpg",
+          "width": 800,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T13:48:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-robust-artificial-intelligence-tools-to-predict-future-cancer.md",
+      "title": "Robust artificial intelligence tools to predict future cancer",
+      "excerpt": "MIT researchers have improved their machine learning system, Mirai, developed to predict cancer risk from mammogram images, and validated their effectiveness with studies across several hospitals.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
+      "originalUrl": "https://news.mit.edu/2021/robust-artificial-intelligence-tools-predict-future-cancer-0128",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202101/MIT-Mirai_0.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-googles-updated-voice-access-leverages-ai-to-detect-in-app-icons.md",
+      "title": "Google’s updated Voice Access leverages AI to detect in-app icons",
+      "excerpt": "Google says it's leveraging AI to detect in-app icons, toward the goal of making Android apps more accessible.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "originalUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1281329514.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/28/googles-updated-voice-access-leverages-ai-to-detect-in-app-icons/amp/",
+      "publishedDateTime": "2021-01-28T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-artificial-intelligence-in-epidemiology-market-by-ai-type-infrastructure-deployment-model-and-services-global-forecast-to-2026-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services - Global Forecast to 2026 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services 2021 - 2026\" report has been added to ResearchAndMarkets.com's offering. This global AI epidemiology and public health market report provides a comprehensive evaluation of the positive impact that AI technology will produce with respect to healthcare informatics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210128005734/en/Artificial-Intelligence-in-Epidemiology-Market-by-AI-Type-Infrastructure-Deployment-Model-and-Services---Global-Forecast-to-2026---ResearchAndMarkets.com/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-28T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-29-kitovai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual-inspection-solutions.md",
+      "title": "Kitov.ai Combines 3D coverage, Intelligent Robotic planner and Deep Learning for KITOV Smart Visual Inspection Solutions",
+      "excerpt": "Israeli-based smart visual inspection company Kitov.ai introduces its KITOV ONE inspection system to North America. A novel, hybrid approach combining 3D image acquisition",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/p19379252/kitov-ai-combines-3d-coverage-intelligent-robotic-planner-and-deep-learning-for-kitov-smart-visual",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19379252",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19379252",
+      "publishedDateTime": "2021-01-28T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-facial-recognition-now-used-for-border-screenings-at-msp-airport.md",
       "title": "Facial recognition now used for border screenings at MSP Airport",
       "excerpt": "St. Paul International Airport from other countries can now choose to go through border control using facial recognition scanners. U.S. Customs and Border Protection announced on Wednesday that \"Simplified Arrival\" is now available at both MSP Airport terminals for international arrivals.",
@@ -889,280 +1156,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-graphic-processing-unit-gpu-market-size-to-hit-usd-19877-billion-by-2027.md",
-      "title": "Graphic Processing Unit (GPU) Market Size to Hit USD 198.77 Billion by 2027",
-      "excerpt": "The global graphic processing unit (GPU) market is poised to grow at a compound annual growth rate (CAGR) 33.4% during the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/01/g19366126/graphic-processing-unit-gpu-market-size-to-hit-usd-198-77-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19366126",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19366126",
-      "publishedDateTime": "2021-01-28T05:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-the-next-target-for-a-facial-recognition-ban-new-york.md",
-      "title": "The Next Target for a Facial Recognition Ban? New York",
-      "excerpt": "San Francisco, Oakland, and other cities have enacted moratoriums on government use of the tech. New York looks like a harder sell.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "originalUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6010bfcaea675c9b9e49067c/master/pass/Business-Police-Facial-Recognition-1177427464.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/next-target-facial-recognition-ban-new-york/amp",
-      "publishedDateTime": "2021-01-28T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-starship-raises-17-million-to-develop-driverless-delivery-robots.md",
-      "title": "Starship Raises $17 Million To Develop Driverless Delivery Robots",
-      "excerpt": "Starship has raised $17 million to keep working on autonomous deliveries, a post on Medium from the company says. The company has also added two new service campuses, UCLA and Bridgewater State ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "originalUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/01/starship-delivery-robots-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/delivery/2021/starship-raises-17-million-to-develop-driverless-delivery-robots/amp/",
-      "publishedDateTime": "2021-01-28T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-carlyle-invests-in-ai-startup-after-year-as-client.md",
-      "title": "Carlyle Invests in AI Startup After Year as Client",
-      "excerpt": "Carlyle Group Inc. is converting from a client of SESAMm SAS to an investor in the French developer of artificial intelligence-powered analytical software used by investment managers and banks to crunch through large data sets and analyze reams of text to identify investment opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000",
-      "originalUrl": "https://www.wsj.com/articles/carlyle-invests-in-ai-startup-after-year-as-client-11611837000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-291450/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T04:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-envision-ai-glasses-a-game-changer-in-helping-blind-people-master-their-environment.md",
-      "title": "Envision AI Glasses – A Game-Changer In Helping Blind People Master Their Environment",
-      "excerpt": "Envision AI glasses are a game-changer for blind people. In addition to advanced audio rendition of scenes, text and objects, the device offers a unique video calling feature. This enables blind people to receive effective sighted guidance from friends and family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/",
-      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60129a7e6b3b784671f1ce9c%2F0x0.jpg%3FcropX1%3D181%26cropX2%3D1738%26cropY1%3D0%26cropY2%3D730",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2021/01/28/envision-ai-glasses--a-game-changer-in-helping-blind-people-master-their-environment/amp/",
-      "publishedDateTime": "2021-01-28T03:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-baidu-gets-california-nod-for-testing-empty-self-driving-cars.md",
-      "title": "Baidu gets California nod for testing empty self-driving cars",
-      "excerpt": "Click here to subscribe for free.) Baidu Inc has received a permit from the state of California to test self-driving cars without a driver behind the wheel, the state's Department of Motor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/6dgq1r/article33526855.ece/ALTERNATES/LANDSCAPE_615/baidu-reutersjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/baidu-gets-california-nod-for-testing-empty-self-driving-cars/article33682117.ece/amp/",
-      "publishedDateTime": "2021-01-28T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Apple is working on Siri to improve its atypical speech recognition"
-    excerpt: "Apple is working on ways to improve Siri's recognition of atypical speech, as per a new report by The Wall Street Journal. Current voice assistants have a"
-    publishedDateTime: 2021-02-26T16:20:00Z
-    webUrl: "https://www.ithinkdiff.com/apple-working-siri-improve-atypical-speech-recognition/"
-    type: article
-    provider:
-      name: iThinkDifferent
-      domain: ithinkdiff.com
-    quality: 39
-    images:
-      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2020/06/siri-shortcut-pulled-over.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hmWbSczPxAoYGgQAJPa+L41RjZa7bphqozwiiUEa+bXkorLBd/JgraUTa/64h8ICS99IyeCPaoWBZC/KyyRr7PqLdNyK6b4sVXoZIaEWvPdK4+mn+hJnS1dfLgXCGAaMDvbbUb7mgrEAkqFReayPW8HLjkKSGjurxMAcV6n+KaXWkIMxEOl2n1lfPHuV805afcF3cxD+ER5XhMYKqnRO04X1zrOgPpLmzMxn9EhzVpWh8cJSek4GeK+xZ4ScgJY1imV/xbCObsPSNWh7eoYY7Gr3+DpY/hWe2f7j5/U01ey4B/X+XB7ekKZFoKIwFRum8NAhFLdOCfFSZk0tlWUGSLIYo5Kbv6lKc7NWrDsbT6PEE4vP03SJZuCtsz2JdVRVk820hyrDAOIZJOPXXQoQ23u6+ktDhe9G9h1WGPiTdphzpsEC3YJF1KZMp76YaV3P+oE33iCk2k/Fp7FBLyIw3w9b4iurU3nn2hoByiFG4KcCmTn/kB3V4DDfOR/Yd7YdNYwRc3R6LyA3XcxCe7e63g==;vpF8FiyslMG+Cdz8A5LHSw=="
 ---

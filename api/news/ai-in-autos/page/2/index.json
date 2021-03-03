@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-anthony-levandowski-closes-his-church-of-ai.md",
+      "title": "Anthony Levandowski closes his Church of AI",
+      "excerpt": "The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski, the former Google engineer who avoided an 18-month prison sentence after receiving a presidential pardon last month,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
+      "originalUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/levandowski-church-AI-1-1.gif?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
+      "publishedDateTime": "2021-02-18T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-guru-iot-the-leader-in-digital-twin-based-self-driving-wheelchair-rd.md",
       "title": "Guru IoT, the Leader in Digital Twin-based Self-driving Wheelchair R&D",
       "excerpt": "Guru IoT, Korea's IoT products developer, plans to come up with a self-driving wheelchair for the handicapped based on digital-twin map data.",
@@ -1423,58 +1475,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles.md",
-      "title": "Volvo Aims to Ease the Queasiness of Riding in Self-Driving Vehicles",
-      "excerpt": "The car maker is testing audio cues to prevent motion sickness in autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "originalUrl": "https://www.wsj.com/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-297352/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/volvo-aims-to-ease-the-queasiness-of-riding-in-self-driving-vehicles-11612970951",
-      "publishedDateTime": "2021-02-10T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

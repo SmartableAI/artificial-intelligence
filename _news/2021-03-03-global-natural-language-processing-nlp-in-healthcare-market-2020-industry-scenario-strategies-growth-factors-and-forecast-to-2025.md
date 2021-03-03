@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
 type: article
 quality: 70
-heat: 130
+heat: 110
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Leading Companies Capabilities, Goals and Strategies During 2020"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2021-03-01T00:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,20 +78,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
-    excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
-    publishedDateTime: 2021-03-01T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-2020-strong-development-rising-comprehensive-industry-outlook-offers-future-business-growth-2027-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
