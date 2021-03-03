@@ -2,7 +2,7 @@
 name: "Blue Hexagon"
 overview: "Blue Hexagon is a deep learning innovator focused on protecting organizations from cyberthreats. We've built the industry's first real-time deep learning platform for network threat protection. We have a world class team of deep learning and security experts innovating and setting a new standard for cyber defense. We are headquartered in Sunnyvale, CA."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://bluehexagon.ai/
 
@@ -45,6 +45,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "p5gPY5UYtISWg3lMUH1u6/d7In5dn8iBS+DjIKi6Iq5M/cQZjhhR9I/BX2FRSb+y/07pE1UnJZu+WKnz+OmAc/0GUCpnnectYdnrDeyNnugSA6uHEXRPjN1cIpfLMxVnsYRM9WuwHlTsKUci2zpzvqSb4KogOTxExhIKN+9iaOnYOB7MoxK+aauuml2/wu4p5+G8a0LUNtIh7LeNiBztZJpxaFMseFhRPfGS7kUMxUY00ZOqt2QlBNILfeLHAaVV3QLPQMUMevvV+6/9WFUAesH8r8NGpEgKYUpTLmKAe0GL37n5Qaa09MmwQ0D8H1+x/KOJ+nYTntyDQAqHm/I65xBvEi/H4T6FDnZutsrPHhOM8UzD85afj+lBZFwJgiB20qOCbsuCcB3qstx6z/NEkQ==;38eNIi6AXT+wIDh3NQ4QfQ=="
+secured: "ldPPX/9OCU8DDxRw3LYcarl+lD3P5rrAcPW1DkwYCr3iUobbYc3kvZH6kX3uwEBm0coiiRlno1HVVfaXcekW+D2bVVmmreiZ2cI5U78VHM3tfB2f9vo3EHNi8q7TBnq+WBTnsAwW7b0ne0+DvsrIVbDOueI3LgYeK1FBWfilIzjl9CdRQWjT3sPytfOLGl6r2o13tkwvuNCsVIIzJTjG9EhfCgEwlu552b9tm5UuLWJedvMOmRC1tPObiBxL6uT5LULQg/1K2ih5HzqBNqAdLuLKcpp3RJAz/xPM3+xfXXI+bBb3bDBpLiZffMO+Lg5cThGJD5+shDDJF3XQ4iqvcSMwsYeFUe5S6/3mksV3U70peNG9CEDtsmjczUzC8dxdXVtHDty3jdL0NI25zZdocg==;trgwwYkQreZUP8W8clBQtg=="
 ---
 
