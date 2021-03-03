@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp"
 type: article
 quality: 57
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10"
         width: 600
         height: 360
+        isCached: true
+  - title: "‘Deep Nostalgia’ tool animates photos with unintended creepy results"
+    excerpt: "Late last month, genealogy website MyHeritage announced a new tool for animating photos called “Deep Nostalgia.” But while the tech was intended to let users “bring beloved ancestors back to life” and “experience your family history like never before,"
+    publishedDateTime: 2021-03-03T00:19:00Z
+    webUrl: "https://nypost.com/2021/03/02/deep-nostalgia-tool-animates-photos-with-creepy-results/"
+    ampWebUrl: "https://nypost.com/2021/03/02/deep-nostalgia-tool-animates-photos-with-creepy-results/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/02/deep-nostalgia-tool-animates-photos-with-creepy-results/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/heriage-4.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI ‘Deep Nostalgia’ Images Have Deep Limitations"
     excerpt: "News outlets and social media accounts have been overrun with old photos that have been animated with MyHeritage’s “Deep Nostalgia” feature, an AI-based"

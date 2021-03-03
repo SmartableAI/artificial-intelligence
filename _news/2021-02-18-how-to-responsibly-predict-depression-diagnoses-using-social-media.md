@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.brookings.edu/wp-content/uploads/2021/02/2021-01-16T000000Z_907895639_MT1HNSLCS0003XVR9G_RTRMADP_3_HANS-LUCAS.jpg"

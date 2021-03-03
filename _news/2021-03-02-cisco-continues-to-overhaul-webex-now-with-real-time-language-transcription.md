@@ -30,9 +30,9 @@ related:
   - title: "Cisco Webex aims to help you break through the language barrier"
     excerpt: "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software."
     publishedDateTime: 2021-03-02T18:10:00Z
-    webUrl: "https://www.techradar.com/uk/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-    ampWebUrl: "https://www.techradar.com/uk/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+    webUrl: "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
     type: article
     provider:
       name: TechRadar

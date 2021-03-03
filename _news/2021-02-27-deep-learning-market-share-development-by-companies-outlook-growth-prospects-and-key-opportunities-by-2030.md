@@ -44,17 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
-    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
-    publishedDateTime: 2021-02-26T08:50:00Z
-    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 54
 
 secured: "08qbycuENxto/ubzBYh/RhIGcwwEReF11TTK4UXuMv6EtOkNfKnnD96h+YmesOaExDf/w5Ibd41hdw7hojjne0WU7CptgQm7TWRkcfZoTHD5fhOf4qlTYVcvYqva03i+K06ed+tfPwT6ozkPpMmndxJsxxRr1JC9V601d3TkjAQMoxaC2msUlsMaY0X0ZB/KjxtSlwSLbknc/C5erv4vJ5WSZcO3riHNG9MPd5kTgEH0Yz3Z4KKKHiXGH+pvD8+U6qCfUDfF9r1rkcbv63xfD9OgR6elQTQsDPnNI+irwMSBdeWwGLIZ/Pm8RCpmP4wQvIynYpwI9IYIQL6V2IR5R4N6OYjTHmuxEnBDolOh01I=;fH3828xc8cBqFjCmVdSefw=="
 ---

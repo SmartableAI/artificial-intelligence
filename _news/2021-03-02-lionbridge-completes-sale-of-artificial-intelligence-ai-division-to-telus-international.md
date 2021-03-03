@@ -15,8 +15,8 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 related:
   - title: "C3 AI and Baker Hughes to Provide Enterprise AI Solutions to Accelerate PETRONAS Digital Transformation Program"
@@ -29,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "VdqzGl8VHRpIkjid6SP4XPEKZoBoLg8kli5wU7wGIhI4aCvtcP7aFO9WlatinyFEjFQenht9j4tYrIfGgx3B8tik6uth0mw6MQ8YvTV+zP6ydpCfawqNJvL3h1OjaoFoZkRVSrYAbT1tW2zARLWKv1WBjo/wXEncZV8EqnWcc3L+fDBRngY5DaPtTk1iQOaLbePHcRtKaIHbQ2/r3Xvu802LILrYjK7VMoan9iqgruIbigMAB1NbKDO+CybAiI+AYwggTfW+WnQ73K1YwyN8YcLvOWym0xDk8nkYbQPjEVM5T3NJFSm957HKvmXGrnRXc+PJXxlpyQW/8VTnH55mQNTTlqlORY6AvZNwVEWMCIY=;bBt2Ghq2JoFhqT/0YAv9vg=="
+secured: "fU2RiSZHyeqNePqcKLD9ZIEuI+AcUnbhNGyCtXpvzlrKEOJrjH1IhXC4+4yHYH6NwN7q+JsNiQHQ3fuFjGAvmKQg9Tt65uMaduSe/RE1SLo0j6fnq0KIfMOyPuhCCZykQANmU707cHuT7q6vjRCb+Ytyc93lJv9iUuOUZQ+/ghNGDCj0H4+meBjb212WrN8gg1eTOCg77FcE/tzlOAabT0H88Q32cmrqtn/oTiIjEr+qBm0wUQY9bhC7d6lKjhwMG8W5tncFO3TpA7+QNTTwuWUVI+LTj73Es2OSRGWuqDWm/b2xBtOHxC2cl76dBgonMdOsniMMZxz0p/YScnm76m/B32nONq6payHI1+/CRp0=;E/MGvob5KOtXapItsIx07Q=="
 ---
 

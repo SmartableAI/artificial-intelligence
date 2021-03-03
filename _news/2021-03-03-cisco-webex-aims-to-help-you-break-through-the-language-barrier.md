@@ -3,10 +3,10 @@ category: news
 title: "Cisco Webex aims to help you break through the language barrier"
 excerpt: "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software."
 publishedDateTime: 2021-03-02T18:10:00Z
-originalUrl: "https://www.techradar.com/uk/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-webUrl: "https://www.techradar.com/uk/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+originalUrl: "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+webUrl: "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+ampWebUrl: "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
 type: article
 quality: 89
 heat: 99
@@ -48,6 +48,6 @@ related:
         height: 675
         isCached: true
 
-secured: "U+6FldTdu6xVkIMI0zWM/SE5opEaLDiKOlpvFab92hIorcK+IJpWD4WTw9EDezecJD3z3n4e2lQtYSN3VgDCLk3+xjiSnydlO66EbqRq5FsLgFX9meWM0XF3V82gr7yuXIIL4IECSCzPS3XWks3m7Gu+FdJFcwWuQpnSYZrOW82E+T2gvQlc/5DpXED0Df6v6+WJLb2q9CzBevhh+ZGW4KYnGAHcWrwcBOv0rtDSxp4ZldSrpF/nWICchcl7Ecfyc5glDlj4EScusxaipAGVP+DnQvliibRlC5KDAVaYzATyaSNs9ztuMS7V0g+xu7w9z697qS4LJMJd4uMFm3znbQGbQqT3nSJrsJ6aOADr+C0=;KdfKw5WWcnODs9IAYWNAiA=="
+secured: "qAtj+QkmzGmpUIATk8CDeJEYggUR60HjiZno89JtDTNUKXhfpB06f3w6bj1rRAlhSSWTybbQfY092TkMV6Bq89dU7tqD0syGzJmWKUBqwx5Vk2LlVTvCaFx3Rsj44z8rh85NOZwMl+e37lkyycFI0Q4mL0dX1rDj+ONkM+C0ppCgeK9fK4J8VypmFTKNwAwqU56/Bw3B1ZrkKXDTt6yZnAwt80KorlLGJB9C5ytzLNlb2l5Xj3nVsihL6W3LTS+kmsu+C0UhM1xHk6K2yjzpYJIPx6VYXNhWfwFXTY7X8kSwBC7GF3+y9VYQPntQLnbhgPqhufPzE8lxuUucGsQvXIXx3HnT6bMUWxL2Jymj1a0=;0+J+EFvHyaabjMLa1EJXCw=="
 ---
 

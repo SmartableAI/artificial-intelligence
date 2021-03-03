@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Startups Can Formulate Data-Driven Marketing Strategies Using AI"
-    excerpt: "There are a lot of great reasons to utilize data-driven marketing if you want to help your startup grow and thrive."
-    publishedDateTime: 2021-02-26T08:50:00Z
-    webUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/"
-    ampWebUrl: "https://www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-startups-can-formulate-data-driven-marketing-strategies-using-ai/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 54
   - title: "Deep Learning Market Share, Development by Companies Outlook, Growth Prospects and Key Opportunities by 2030"
     excerpt: "The Deep Learning Market Share is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given"
     publishedDateTime: 2021-02-26T16:51:00Z
