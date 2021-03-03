@@ -2,6 +2,49 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2021-01-18-toy-robot-for-your-little-ones.md",
+      "title": "Toy robot for your little ones",
+      "excerpt": "Kids are fond of robots and artificial intelligence. If your little one is also fascinated by robots, here are some you might want to buy for your kid. Image Source: Unsplash Transformers ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/articleshow/80331483.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/articleshow/80331483.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-80331585/80331585.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/amp_articleshow/80331483.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/most-searched-products/pregnancy-and-parenting/kids/toy-robot-for-your-little-ones/amp_articleshow/80331483.cms",
+      "publishedDateTime": "2021-01-18T05:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-simporter-ai-software-startup-raises-seed-round-and-adds-former-nielsen-ceo-to-board.md",
       "title": "Simporter, AI Software Startup, Raises Seed Round and Adds Former Nielsen CEO to Board",
       "excerpt": "Simporter, a SaaS startup that uses Artificial Intelligence (\"AI\") to predict consumer demand for new products, closed a $600,000 seed",

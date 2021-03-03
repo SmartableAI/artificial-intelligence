@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-13-meet-russias-new-killer-robot.md",
+      "title": "Meet Russia’s New Killer Robot",
+      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-bias-allegations-against-facial-recognition-prompt-legal-challenge-threat.md",
       "title": "Bias allegations against facial recognition prompt legal challenge, threat",
       "excerpt": "Allegations of poor performance for women and people of color by face biometrics systems have resulted in legal action and the threat of a lawsuit.",
@@ -1105,49 +1148,6 @@
         "name": "Financial Buzz",
         "domain": "financialbuzz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter.md",
-      "title": "Microsoft is going to have lots of clouds for industries. Here's why they matter",
-      "excerpt": "Industry clouds like healthcare and retail are there for Microsoft partners to build services on top of. Microsoft already has two vertical ' clouds for industry ' for healthcare and retail; expect more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
-      "publishedDateTime": "2021-02-12T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

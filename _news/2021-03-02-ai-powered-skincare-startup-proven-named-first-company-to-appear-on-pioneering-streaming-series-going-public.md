@@ -3,8 +3,8 @@ category: news
 title: "AI-Powered Skincare Startup PROVEN Named First Company to Appear on Pioneering Streaming Series \"Going Public\""
 excerpt: "Crush Capital, the fintech firm behind new entrepreneurship series \"Going Public,\" today announced that AI-powered skincare company PROVEN will be the first venture"
 publishedDateTime: 2021-03-02T13:38:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-powered-skincare-startup-proven-named-first-company-to-appear-on-pioneering-streaming-series-going/article_72159687-a36f-5cf9-85b3-5693b253ec9a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ai-powered-skincare-startup-proven-named-first-company-to-appear-on-pioneering-streaming-series-going/article_72159687-a36f-5cf9-85b3-5693b253ec9a.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ai-powered-skincare-startup-proven-named-first-company-to-appear-on-pioneering-streaming-series-going/article_72159687-a36f-5cf9-85b3-5693b253ec9a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ai-powered-skincare-startup-proven-named-first-company-to-appear-on-pioneering-streaming-series-going/article_72159687-a36f-5cf9-85b3-5693b253ec9a.html"
 type: article
 quality: 19
 heat: 19
@@ -19,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/92/492ff652-ac9c-5e2a-b509-2a56b46c9ca2/603e6c8c893fc.image.jpg?resize=564%2C630"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/92/492ff652-ac9c-5e2a-b509-2a56b46c9ca2/603f16f55761e.image.jpg?resize=564%2C630"
     width: 564
     height: 630
     isCached: true
 
-secured: "e0Ji9+EJyrxOgp9ZjZXgAcWM4JU5TPjH3amGiAsb8sjHdp9rED1H5pUId8uknh47R+G96A8+8+Q7YQQeD0bWXX+o1lR92EgP971Bfb/6G2s65x9aYuYKEsddfRsBhZByQm/2l5H7JJGky7b1HaW53rg1ISQfwL22TvMvh5l36tBp1saH3S5j8d+l96//wnayaIT0H7NCoAUas+W8NWM93s+ficcgXM5cnZQRtmcWljwqUi0AflpUUDvq59GgAQLFMA7LXfzVj+jQHzWFeDcaVH+ldSKEmnsWRbY9vY4+aIqiorQvlG1u8dzr6VaJceNzqqDHUKAQUPrX8PrdU6dcHQpF4hRNVe8q+7ONgWGSn/kIH8l5Ss0qd0AW0q8KgVWEMvw+k683CO2TSfeGHgyR9ePtN8RuGoUgIqGW7m2g487GFioQ0dSUi/7+HJvCL+63vpn6BKsglLrGtldjuKQfu2B33HEJlUwoyiCCnX+fWAThZ9wd/71ZrxlN+3W+kxUimfeHuy+g45THbDhQS9g9cA==;WHcqsfQ/6zREuB/g5Til2A=="
+secured: "cYi7v9jqPsOlsznEI4TIxdLpumtpdmvKEEnQT5WbCI3fcKTqFJMIwudhbTSw05BdfTOm7Cv9+TtbUjwPGrpc9wJEqqhUzmtrmdOxlGX8enpTgd0Ul9XUCvnsMZ+3/Mqt6IU5LbkORgXlxWsgne7JuvAjBF+AB+JBhc5FYQgg2B0Ee/hrCDGiDpD3cV+IDiqrzO+7c02lqur82wwGkbkFDZISXNvjMQqM7yhUalgKNxTbp1IFTllfiG4rqi+vHGL4B8awKPKMSUh7tRB3EbI1JKghQRrHZcb+m7N+kntQA3mtxJlduspEC7+u8hzc1EgA8w8b2LDMydiGrjIBBdwibsHvekNt1VHbJjcGct2JMqM=;tlhIPUZv5+iUAql3NPHSZQ=="
 ---
 

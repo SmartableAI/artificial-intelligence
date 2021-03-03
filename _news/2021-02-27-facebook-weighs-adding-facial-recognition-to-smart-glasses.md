@@ -9,8 +9,8 @@ ampWebUrl: "https://nypost.com/2021/02/26/facebook-weighs-adding-facial-recognit
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/facebook-weighs-adding-facial-recognition-to-smart-glasses/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: New York Post
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Mulls 2021 Launch Of Facial Recognition Glasses With Ray-Ban"
-    excerpt: "A Facebook executive confirmed that the social media giant could release facial recognition glasses this year in partnership with Luxottica, the maker of Ray-Ban."
-    publishedDateTime: 2021-02-26T12:24:00Z
-    webUrl: "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/"
-    ampWebUrl: "https://www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/facebook/2021/facebook-mulls-2021-launch-of-facial-recognition-glasses-with-ray-ban/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/02/ray-bans-facebook-facial-recognition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Facebook's AR smart glasses could feature facial recognition technology"
     excerpt: "Facebook Head of Hardware Andrew Bozworth that Facebook is 'looking at' facial recognition tech for its upcoming AR smart glasses, as long as consumers are comfortable with it."
     publishedDateTime: 2021-02-26T19:23:00Z

@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-11-microsoft-and-hpe-team-up-to-connect-azure-cloud-to-international-space-station.md",
+      "title": "Microsoft and HPE team up to connect Azure cloud to International Space Station",
+      "excerpt": "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
+      "originalUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg",
+          "width": 630,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
+      "publishedDateTime": "2021-02-11T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-ex-microsoft-amazon-execs-join-indian-voice-tech-startup-vernacularai.md",
       "title": "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai",
       "excerpt": "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021.",
@@ -1052,59 +1104,6 @@
       "sourceUrl": null,
       "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-sdk-setup-local",
       "originalUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-sdk-setup-local",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-tutorial-train-your-first-machine-learning-model-part-3-of-4.md",
-      "title": "Tutorial: Train your first machine learning model (part 3 of 4)",
-      "excerpt": "This tutorial shows you how to train a machine learning model in Azure Machine Learning. In this tutorial, you take the next step by submitting a script that trains a machine learning model. This example will help you understand how Azure Machine Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-sdk-train",
-      "originalUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-sdk-train",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

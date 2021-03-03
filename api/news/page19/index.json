@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-15-forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup.md",
+      "title": "Forethought's CEO Deon Nicholas On Growing An Enterprise Software Startup",
+      "excerpt": "Taking on the challenge of creating customer service chatbots that learn and continually improve the quality of responses instead of providing rote, canned remarks is ideal for AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60298820884f59ff7c920b5a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
+      "publishedDateTime": "2021-02-14T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
       "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
       "excerpt": "Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. T2T was developed by researchers and engineers in the Google Brain team and a community of users ...",
@@ -1178,49 +1229,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-meet-russias-new-killer-robot.md",
-      "title": "Meet Russia’s New Killer Robot",
-      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machin
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 457
     height: 274
     isCached: true
+
+related:
+  - title: "Yum! Brands to Acquire Kvantum’s Leading Artificial Intelligence-Based Consumer Insights and Marketing Performance Analytics Business"
+    excerpt: "Yum! Brands to Acquire Kvantum’s Leading Artificial Intelligence-Based Consumer Insights and Marketing Performance Analytics Business"
+    publishedDateTime: 2021-03-02T17:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210302005600/en/Yum%21-Brands-to-Acquire-Kvantum’s-Leading-Artificial-Intelligence-Based-Consumer-Insights-and-Marketing-Performance-Analytics-Business"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
 
 secured: "ZXtVJKPqNeuTPU84HELxU1B+f6AtQ6Tme4LE/QNSLU3oDTGnz2Dv92Dop6d7R5AV2n3PUAfNwKIdUvLfh7D2lbe7+XkElUD79vXYhVBws/XrVVZZsTuk8lClCbedljSsqhVyQbHQXZBuTnTgNeH6iSQFbKLqP3MH67QP3jITNYAwLQuM0U0vj3o/M4E9/QhCFr+dGl5Y+KaBroOPl6qWYO6QbV6EN0KJtYRDoy8Vsw7o2vD1y8+Lv6+dxkIZwunV0TYWbfUYADOFgdk8l0oQNaj8lu4fnIMonUjIPXQETGFV5oES4a75ZXe2+zmFu4p6G6pbdUBXv0SVbSO07vXCx5Y9NAXYq5FLwcRRt4apNS2sv3pIfaXkRBJF6yvSsCenjoByOoFRYoIVXlEnKdkeBtIIJzc7/AXvE297HmnDXBB61BnZ4J5a2mf/QeUikIS7SdwlGU/kKYKxnt/1GbSp5U4dXKNMpftu7Yy6+VfEv2nv9XxHkgQC1MBfM/yMEQT+sw34e3y2GgFeDaYsM73lvg==;p5H5IHpvhdTf2WSzJntBBg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.arnnet.com.au/article/686588/mongo-db-deepens-google-c
 webUrl: "https://www.arnnet.com.au/article/686588/mongo-db-deepens-google-cloud-integration/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "MongoDB deepens Google Cloud partnership with new Atlas integrations"
-    excerpt: "MongoDB, one of the world’s most popular and trusted NoSQL databases, has deepened its Google Cloud partnership with new Atlas integrations."
-    publishedDateTime: 2021-02-26T11:14:00Z
-    webUrl: "https://developer-tech.com/news/2021/feb/26/mongodb-deepens-google-cloud-partnership-new-atlas-integrations/"
-    type: article
-    provider:
-      name: Developer Tech
-      domain: developer-tech.com
-    quality: 24
-    images:
-      - url: "https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg"
-        width: 1470
-        height: 885
-        isCached: true
   - title: "MongoDB Expands Partnership With Google Cloud With New Multi-Year Agreement"
     excerpt: "The partnership will allow developers to integrate Atlas with Google Cloud products including BigQuery, Dataproc, Tensorflow and more."
     publishedDateTime: 2021-03-02T06:11:00Z

@@ -2,6 +2,57 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-16-goldman-sachs-to-offer-its-investing-know-how-to-the-masses.md",
+      "title": "Goldman Sachs to Offer Its Investing Know-How to the Masses",
+      "excerpt": "The Wall Street firm is set to unveil Marcus Invest, a low-cost digital platform that allocates and automatically rebalances individuals’ wealth across portfolios of stocks and bonds based on the models developed by the firm’s investment-strategy committee.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
+      "originalUrl": "https://www.wsj.com/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-298699/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/goldman-sachs-to-offer-its-investing-know-how-to-the-masses-11613471402",
+      "publishedDateTime": "2021-02-16T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-data-meets-science-open-access-code-datasets-and-knowledge-graphs-for-machine-learning-research-and-beyond.md",
       "title": "Data meets science: Open access, code, datasets, and knowledge graphs for machine learning research and beyond",
       "excerpt": "An new interconnected ecosystem for research is shaping up, and machine learning is just the tip of the iceberg.",
@@ -1137,58 +1188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-tesla-and-apple-are-incredibly-important-companies-but-their-progress-on-self-driving-vehicles-is-pathetic.md",
-      "title": "Tesla and Apple are incredibly important companies, but their progress on self-driving vehicles is pathetic",
-      "excerpt": "Every year, the California Department of Motor vehicles releases a \"Disengagement Report\" for companies that are authorized to operate and test self-driving vehicles on the state's roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
-      "originalUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fe25c2ca644880018193012?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T09:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

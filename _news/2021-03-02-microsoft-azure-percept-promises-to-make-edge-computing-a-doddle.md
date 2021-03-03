@@ -349,7 +349,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN
@@ -387,15 +387,15 @@ related:
     quality: 47
   - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
     excerpt: "Microsoft Azure Percept houses camera module and smart mic, forming the foundation for intelligent devices built by partners."
-    publishedDateTime: 2021-03-02T22:46:00Z
-    webUrl: "https://www.reseller.co.nz/article/686649/microsoft-still-loves-smart-devices-rolling-azure-percept-camera-mic-services/"
+    publishedDateTime: 2021-03-03T03:38:00Z
+    webUrl: "https://www.arnnet.com.au/article/686649/microsoft-still-loves-smart-devices-rolling-azure-percept-camera-mic-services/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 46
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/microsoft_ai_devkit.jpg"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_ai_devkit.jpg"
         width: 800
         height: 500
         isCached: true
@@ -416,6 +416,6 @@ related:
         height: 495
         isCached: true
 
-secured: "Z7iXIjtybQC0Fjg92a9yLvi+KBW1gcjfPgMjI/GAT3ZTdy2dhW2WjDQkSWZ7VtC5dPpm8+7tzFU7ND1xKSRqKwPtuChEkBsYpS1Xt65od1TEADrJ+w4LLucNFxQwt6LZFGCfrOA5PKx2tRkkndzPqF7PfDuNt4/HbN3uU76ZSiCmDPQihtZv5QGMEAg6dztDp51v8ROm0OozkCwditUUqebVn9w8pWk+yQV1rj0yRpY5aRN/zT/u8HjY1TqVGnDphpZZ7SkeM1BKMSQn02h4SFGSSB6p2IKpaP0cYE4Jtm36G/1LN7/YzTd+OvkXEGAB55mctUYAAqYJxtaOKutBqumxRb5IViRivbkIi3Ozdyg=;xVUkjLJLP2Oo8//Pjm7gQQ=="
+secured: "zMOZAxWSclXGqZobjoLJkrCBScvPpBHMLL/WzZUeZmJzD1ixYQ/InTxPlc6HbHnQ1B3e+G7bvtnWLvrpzbyRNUVF46RjmOmK51HHUsrx3LvKolo+RvlRQqzX/AAqOT02I4vdeLU2XF4ihsdGN/0Cgxca32PBuaJCR2fDqljOlEwD64Bw9dgfcV0Rkbw1wkyFlQRuKJxSpQ5OwhG+TsWMdSR2JAD7JmQMIf99OEexIDQfVCd0L97z4RZobDYILvbgEtGzQ2+axEMkJUnyYXxx4F6WKlgUr6M95tXWGa5n+CPpKeO2mgxQ8E86vtbedDgWdVXK5eVZcfCOeXf8zRSAaSLTAg7u18k59UZ1XbT9gpOu1Rc90FtkdspcqagHXQ0ticQR9GVAQdfFCjZ64Wz3R6He4rQWiVziadBdoPE5l8i9uYLPznVvr7qVuYz8vL2UOT15DXXeMlQ4hX/tBy+MmMYKkPnSPW1ezmg9ioxaxt//mBAWcF6XQluHvjv39WDQz0LrllWkX+P+W2LLTT4JBQ==;MsPv7eotJ7RKCi9eZOeygA=="
 ---
 

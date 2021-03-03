@@ -2,6 +2,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-17-the-ai-driven-platform-powering-the-future-of-fresh-food.md",
+      "title": "The AI-Driven Platform Powering The Future Of Fresh Food",
+      "excerpt": "The question is, how can stores make sure they have enough of the fresh foods their customers crave at just the right, ripe moment, while minimizing losses from past-its-prime or expired offerings?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
+      "originalUrl": "https://www.forbes.com/sites/sharongoldman/2021/02/17/the-ai-driven-platform-powering-the-future-of-fresh-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://specials-images.forbesimg.com/imageserve/602c2f48e7cffddc942ebce0/960x0.jpg?fit=scale",
+          "width": 960,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-natural-language-processing-market-worth-351-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
       "title": "Natural Language Processing Market worth $35.1 billion by 2026 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "According to the new market research report \"Natural Language Processing Market by Component, Type (Statistical, Hybrid),",
@@ -1163,57 +1214,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-this-ai-reads-childrens-emotions-as-they-learn.md",
-      "title": "This AI reads children's emotions as they learn",
-      "excerpt": "A Hong Kong company has developed facial expression-reading AI that monitors students' emotions as they study. With many children currently learning from home, they say the technology could make the virtual classroom even better than the real thing.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215012844-emotion-recognition-ai-4-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/tech/emotion-recognition-ai-education-spc-intl-hnk/index.html",
-      "publishedDateTime": "2021-02-16T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

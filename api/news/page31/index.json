@@ -2,6 +2,49 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-02-05-genetec-europe-launches-digital-badges-for-certified-channel-partners.md",
+      "title": "Genetec Europe launches digital badges for certified channel partners",
+      "excerpt": "IR illumination and traditional thermal security cameras, after all, are only able to provide black-and-white images, whereas object recognition software often identifies objects based on their color. White light illuminators installed alongside AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/genetec-secures-the-very-group-920x533.JPG",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/genetec-europe-digital-badges-certified-channel-partners-co-2566-ga-npr.1612502406.html",
+      "publishedDateTime": "2021-02-04T21:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-may-the-force-be-with-you-how-ai-can-change-the-future.md",
       "title": "May the Force Be with You - How AI Can Change the Future",
       "excerpt": "Speakers Helene von Schwichow, MOTIF - Institute for Digital Culture Lindsay Gorman, Alliance for Securing Democracy Moderator Laura Groenendaal, The German Marshall Fund of the United States",
@@ -1148,58 +1191,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-ex-google-organizer-says-biden-and-the-pentagon-need-more-than-an-ethics-paper-to-win-back-tech-workers.md",
-      "title": "Ex-Google organizer says Biden and the Pentagon need more than an ethics paper to win back tech workers",
-      "excerpt": "Here's what she told Insider about the Pentagon's efforts around AI ethics, the urgency of the tech worker movement for AI, and encouraging signs from the Biden team: Pentagon spending big on AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/meredith-whittaker-google-ai-says-pentagon-needs-ai-accountability-2021-2",
-      "originalUrl": "https://www.businessinsider.com/meredith-whittaker-google-ai-says-pentagon-needs-ai-accountability-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/601b5b51ee136f00183aa367?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

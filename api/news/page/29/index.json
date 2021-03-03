@@ -2,6 +2,48 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-02-08-c3ai-an-interesting-prospect.md",
+      "title": "C3.ai: An Interesting Prospect",
+      "excerpt": "C3.ai is a unique company offering full-service AI solutions to Enterprise level customers. With a large addressable market and strong management, C3.ai is set to navigate an uncertain time.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4404209-c3-ai-interesting-prospect",
+      "originalUrl": "https://seekingalpha.com/article/4404209-c3-ai-interesting-prospect",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.seekingalpha.com/uploads/2021/2/4/saupload_C3_Logo_500_black.jpg",
+          "width": 500,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4404209-c3-ai-interesting-prospect",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4404209-c3-ai-interesting-prospect",
+      "publishedDateTime": "2021-02-07T19:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-mind-written-couplets-add-technology-to-chinas-cny.md",
       "title": "'Mind-written' couplets add technology to China's CNY",
       "excerpt": "Then, the system can decode the operator's intent and control the robot to write the character,\" Prof Xu said. The mind-controlled writing system allows two people to work on a character ...",
@@ -1122,57 +1164,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-ukuma-taai-newcastle-thunder-sign-ex-huddersfield-giants-back-rower.md",
-      "title": "Ukuma Ta'ai: Newcastle Thunder sign ex-Huddersfield Giants back-rower",
-      "excerpt": "Newcastle Thunder have signed former Huddersfield Giants back-rower Ukuma Ta'ai for the 2021 season. Ta'ai spent seven years at the Giants following his move from New Zealand Warriors in the National Rugby League,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/sport/rugby-league/55956761",
-      "originalUrl": "https://www.bbc.com/sport/rugby-league/55956761",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E469/production/_116837485_r045_0646.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/sport/amp/rugby-league/55956761",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/rugby-league/55956761",
-      "publishedDateTime": "2021-02-05T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

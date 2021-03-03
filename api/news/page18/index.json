@@ -2,12 +2,64 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-16-tesla-and-apple-are-incredibly-important-companies-but-their-progress-on-self-driving-vehicles-is-pathetic.md",
+      "title": "Tesla and Apple are incredibly important companies, but their progress on self-driving vehicles is pathetic",
+      "excerpt": "Every year, the California Department of Motor vehicles releases a \"Disengagement Report\" for companies that are authorized to operate and test self-driving vehicles on the state's roads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
+      "originalUrl": "https://www.businessinsider.com/tesla-and-apple-progress-on-self-driving-vehicles-is-pathetic-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fe25c2ca644880018193012?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand.md",
       "title": "Self Driving Trucks Market Research Report 2021 Covers Updated Data Considering Impact of Covid 19 on Share Size and Future Demand",
       "excerpt": "Feb 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15?tesla=y",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1136,57 +1188,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup.md",
-      "title": "Forethought's CEO Deon Nicholas On Growing An Enterprise Software Startup",
-      "excerpt": "Taking on the challenge of creating customer service chatbots that learn and continually improve the quality of responses instead of providing rote, canned remarks is ideal for AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60298820884f59ff7c920b5a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2021/02/14/forethoughts-ceo-deon-nicholas-on-growing-an-enterprise-software-startup/amp/",
-      "publishedDateTime": "2021-02-14T12:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

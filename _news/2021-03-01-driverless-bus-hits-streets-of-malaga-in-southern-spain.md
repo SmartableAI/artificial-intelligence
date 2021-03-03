@@ -41,22 +41,6 @@ related:
         width: 560
         height: 292
         isCached: true
-  - title: "How Can Driverless Cars Take Account of Human Selfishness?"
-    excerpt: "A new study has found that the percentage of individuals willing to sacrifice their own safety increased by two-thirds when informed that their peers were more likely to sacrifice their own safety, programming their vehicle to hit a wall rather than hit pedestrians who were at risk."
-    publishedDateTime: 2021-02-26T11:11:00Z
-    webUrl: "https://www.technologynetworks.com/informatics/news/how-can-driverless-cars-take-account-of-human-selfishness-346050"
-    ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/how-can-driverless-cars-take-account-of-human-selfishness-346050"
-    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/how-can-driverless-cars-take-account-of-human-selfishness-346050"
-    type: article
-    provider:
-      name: technologynetworks.com
-      domain: technologynetworks.com
-    quality: 59
-    images:
-      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/how-can-driverless-cars-take-account-of-human-selfishness-346050.jpg?v=11127545"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "5Q/hev9so87b2zyI+pBxxX2e8Ydhc+nVQVj1WmTV+pbG/8bqKoUbjO7MCqT17LI6cFSGGe35PFiekQsvvhvsCt5BUJtCLxa0+UTNEBONPjZcMjSObmLs2nfBExWMVhX3jFXAJGf/+PydXvNm47lAQjht2OVZbaot9gLHjBjO0yGknBq4BpzHVkMYxapagaflVs6LomeYo+fTF4FR2X4ZnGaTQCRUQD9dsxQix13yWacoZgyDoTk501UD/VD6nGpFpXnyFpKMaFwp7SY0bD1El3ECHK6B2ONuZ06uQW3cxeO35hR5U7iBHpHuJoxfaVEPGPDen3X6ffAmuTE5/G69oSVzqx1jQZbvUXJfovWQDD4QMow44cu30wSQQeWOo0XTTmqQlMKETg7olHsOVcX1QRNpFFH6UX1jUGXNamS/yxX3LTijDzp27/05VCNsGfq1VIvfCNqMFWkm+/ZXoXCTaTxAfBMd/IYE7WlFwS9n91ZAtiHuwZ9kcmUImu5EwTZzZMcM+Yngt1n9zjeDNN2VAw==;++nAnXstUT7o0ZoiLl+xfg=="
 ---

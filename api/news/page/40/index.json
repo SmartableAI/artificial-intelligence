@@ -2,6 +2,58 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-01-30-op-ed-gamestops-costly-financial-lesson-for-retail-investors.md",
+      "title": "Op-ed: Gamestop's costly financial lesson for retail investors",
+      "excerpt": "Retail investors buying frenzy for Gamestop shares resulted in $10 billion in losses when Robinhood halted trading in the stock. It was a costly lesson.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "originalUrl": "https://www.cnbc.com/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105079975-GettyImages-547017701.jpg?v=1532563666",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/29/op-ed-gamestops-costly-financial-lesson-for-retail-investors.html",
+      "publishedDateTime": "2021-01-29T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-inbox-it-brings-advanced-artificial-intelligence-to-targeted-email-marketing.md",
       "title": "INbox-iT Brings Advanced Artificial Intelligence to Targeted Email Marketing",
       "excerpt": "Hackensack, NJ – iNbox-iT co-founders Frank Corallo and Henry Skull bring some real heat to the email marketing field. Corallo arrives with a long track record of success, serving as",
@@ -1146,49 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-south-korean-ai-technology-brings-back-folk-singers-voice.md",
-      "title": "South Korean AI technology brings back folk singer's voice",
-      "excerpt": "Even though South Korean folk rock singer Kim Kwang-seok has been dead for nearly 25 years, his fans will be able to hear him perform a new song cover on Friday thanks to artificial intelligence (AI) technology used to recreate his voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O",
-      "originalUrl": "https://www.reuters.com/article/us-southkorea-ai-voice-recreation-idUSKBN29Y18O",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y18O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y18O",
-      "publishedDateTime": "2021-01-29T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

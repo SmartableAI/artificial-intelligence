@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "GCHQ sets out the rules for AI in cyber"
-    excerpt: "GCHQ sets out the rules for AI in cyber Used responsibly, artificial intelligence (AI) technology will in the future help cyber analysts"
-    publishedDateTime: 2021-02-26T12:51:00Z
-    webUrl: "https://www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/"
-    ampWebUrl: "https://www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/hacking/gchq-sets-out-the-rules-for-ai-in-cyber/amp/"
+  - title: "How AI is Transforming Cybersecurity in 2021?"
+    excerpt: "This post will let you know about the role of Artificial Intelligence (AI) in improving cybersecurity in 2021 and beyond."
+    publishedDateTime: 2021-03-02T15:46:00Z
+    webUrl: "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/"
+    ampWebUrl: "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 59
+      name: SmartData Collective
+      domain: smartdatacollective.com
+    quality: 57
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/GCHQ-sets-out-the-rules-for-AI-in-cyber.jpeg"
-        width: 1200
-        height: 400
+      - url: "https://www.smartdatacollective.com/wp-content/uploads/2021/03/AI-and-cybersecurity-challenges.jpg"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "eFFeo6QcT9nvLVHayLknFd4iArsgkaQGROgCwxz6XBrdSDmGOCv0TGJ/5vdc0HCnD5+xRyWICA0TQbZM6EgrxrWGn1YuPTgFt4CDi8Y6C2lmHxrZG5v0WSO9LepnzFNgZ53nArFng8zatE/NA8IVl6XK8Ed1OaW5kOb/4CLUN2TdtfWAPOaQ0TTO1uky5acIN3ZzXASMJrCDO8ZpbnZvKdGam5j/BYc9FWDC6Sb0aPHt9xXd5DcIcW9nzEqRLDRcLHVO44iHPjA8j/KaM/hg880e6nE+kvkwunBTPmhg7XAmWbgK9qmrGXVFerb874DMN99PKe6PWCpFTuQVFmesfkye2P/SH1AXP6IsIuInad8=;ODPL3/g7MF7pr+GdY6KlPQ=="

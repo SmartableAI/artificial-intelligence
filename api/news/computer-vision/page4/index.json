@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-01-check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool.md",
+      "title": "Check if your photos were used to develop facial recognition systems with this free tool",
+      "excerpt": "A new online tool called Exposing.AI can help you find out if photos of your face were used in AI surveillance research.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-01T125910.904-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/01/check-if-your-photos-were-used-to-develop-facial-recognition-systems-with-this-free-tool/amp/",
+      "publishedDateTime": "2021-02-01T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-how-computer-vision-and-ai-make-new-revenue-from-old-media.md",
       "title": "How Computer Vision And AI Make New Revenue From Old Media",
       "excerpt": "Ryff can place new products in old media, creating new integrated advertising opportunities where there were none.",
@@ -1298,49 +1350,6 @@
       "provider": {
         "name": "Global News",
         "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming.md",
-      "title": "A scary proposal to use facial recognition and AI by an Indian state has experts fuming",
-      "excerpt": "The Lucknow police are installing cameras with facial recognition technology, powered by artificial intelligence (AI), in prominent harassment hotspots. The cameras will gauge whether a woman is in distress based on her facial expression and send an alert to the police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
-      "originalUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/articleshow/80421935.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/photo/80422279/Master.jpg",
-          "width": 500,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/news/a-scary-proposal-to-use-facial-recognition-and-ai-by-an-indian-state-has-experts-fuming/amp_articleshow/80421935.cms",
-      "publishedDateTime": "2021-01-23T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
         "images": null,
         "publishers": null,
         "authors": null
