@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
+      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
+      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T09:54:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger.md",
       "title": "Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger",
       "excerpt": "Open-source workflow managers are popular because they make it easy to orchestrate machine learning (ML) jobs for productions. Taking models into productions following a GitOps pattern is best managed by a container-friendly workflow manager, also known as MLOps. Kubeflow Pipelines (KFP) is one of the",
@@ -10,7 +63,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1429,51 +1482,6 @@
         "name": "KMWorld Magazine",
         "domain": "kmworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio.md",
-      "title": "Lumiata Extends Data Preparation for Healthcare Customers on AWS and Azure in Partnership with Ascend.io",
-      "excerpt": "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation process. This relationship will ensure that all Lumiata customers,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

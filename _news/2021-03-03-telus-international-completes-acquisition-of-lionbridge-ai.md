@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-03T05:36:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-c5aa2e3ea73144178210186b22261493"
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-c5aa2e3ea73144178210186b22261493"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

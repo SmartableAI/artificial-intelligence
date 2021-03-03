@@ -2,6 +2,110 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-24-enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers.md",
+      "title": "Enterprises customize Clinc’s conversational AI to connect with their customers",
+      "excerpt": "Clinc's conversational AI platform uses NLP to streamline customer queries and collect related data for financial enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "originalUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1614002657936.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
+      "publishedDateTime": "2021-02-23T13:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-t-cell-screening-launched-to-detect-prior-covid-infections.md",
+      "title": "T-Cell Screening Launched to Detect Prior Covid Infections",
+      "excerpt": "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T12:56:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
       "title": "Facebook expands AI PhD research program to University College London",
       "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
@@ -1115,111 +1219,6 @@
         "AI",
         "AI in Education",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
-      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
-      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-302017/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
-      "publishedDateTime": "2021-02-23T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-a-trusty-robot-to-carry-farms-into-the-future.md",
-      "title": "A trusty robot to carry farms into the future",
-      "excerpt": "To feed 10 billion by 2050, the world’s farmers will need to increase food production by up to 70%. Bring in the robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
-      "originalUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/af8a66be-a00d-4526-b1cd-b401c71fdada/future-acres.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
-      "publishedDateTime": "2021-02-23T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "A Framework for Successful AI Adoption"
+    excerpt: "The demands of pandemic response accelerated state and local government interest in data-driven decision-making and implementation of early AI-related projects."
+    publishedDateTime: 2021-03-03T17:11:00Z
+    webUrl: "https://www.govtech.com/sponsored/A-Framework-for-Successful-AI-Adoption-.html"
+    ampWebUrl: "https://www.govtech.com/sponsored/A-Framework-for-Successful-AI-Adoption-.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/A-Framework-for-Successful-AI-Adoption-.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/Shutterstock_Smart+Cities_Header.jpg"
+        width: 770
+        height: 513
+        isCached: true
 
 secured: "7nu2bTuNvWYPLFnrmWoTKOlPYg+aACCwgp3HwKoFVvHtKGssAhcvyE45U+scnHe8B5otobdBmI+3kLEzqHkFbWI7UI5wgvtbz7xgkGcOCyvf0mhihMtPm2iW2+WaPhboNed3S7jzfgFKp+LwrYfxvYKX+3QtD+5JRdT6pLCOFbbJy2khK2GLRhbqnSHKchl40e+kbxCrIcFZXzzQAF/6MXmwITgNAWchSb6bQQOGgDIXCd6UANE2ZcubhdFS6eSPSAzj5mwqmT651J99VbaEjyo46iPxjRYRKoJE8Iln4ZgrSjPbOgWKEcuRkct7JkobrDnmwUIMCEy5r8g9YYD5POGKzXdCr74zX7ROUbIyG6SWeaY3zDj85OdFL2gDjDjMmX30bEN/kqWwABApoND9IawxLQSXHB2I+N46ykpnl0tQA/IkBt7PYyURd+U62JyfBWs8NGi96lw6LMKcXz7HD3Ki/yOLr4ggDAA5KXzMjUVGiAW9DGNovgR7bh2Cz/BGmunRQS+bP1AASHVohJJc0A==;7FIKp3cpx3cAqtuYUi2NHA=="
 ---

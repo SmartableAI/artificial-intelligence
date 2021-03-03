@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-26-how-to-shift-your-ai-focus-from-accuracy-to-value.md",
+      "title": "How to shift your AI focus from accuracy to value",
+      "excerpt": "All models are wrong, but some are useful.” This is a famous quote from 20th century statistical thinker, George E.P. Box. This might seem like a strange message- shouldn’t all the models we build be as correct as possible?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/money1-1200x622.jpg",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
+      "publishedDateTime": "2021-02-25T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
+      "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
+      "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "originalUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/eCJ7iQntKWNQZywfs7Zr3Q-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
+      "publishedDateTime": "2021-02-25T14:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-powow-ai-selected-into-google-voice-ai-startup-accelerator.md",
       "title": "Powow AI selected into Google Voice AI Startup Accelerator",
       "excerpt": "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems.",
@@ -1107,110 +1210,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale.md",
-      "title": "Microsoft: How we deliver industry-specific cloud computing at scale",
-      "excerpt": "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/25/34c32e8e-79f4-4866-81e0-3f312dc07b23/resize/400x/0d173a80a5e76ca17f533fc8925f9e00/ms-erik-arnold-tr.jpg",
-          "width": 400,
-          "height": 353,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
-      "publishedDateTime": "2021-02-25T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles.md",
-      "title": "Mobileye partners with Lohr and Transdev to develop self-driving shuttles",
-      "excerpt": "Mobileye announced that it's partnering with Lohr and Transdev to develop self-driving shuttles for public transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Mobileye-Transdev-Lohr-iCristal-shuttle_image1-e1614042008523.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
-      "publishedDateTime": "2021-02-25T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,212 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-01-27-neural-network-software-market-size-share-growth-future-scope-trends-2020-2026.md",
+      "title": "Neural Network Software Market Size, Share, Growth, Future Scope, Trends 2020-2026",
+      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-growth-future-scope-trends-2020-2026-2021-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T19:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-us-commission-cites-moral-imperative-to-explore-ai-weapons.md",
+      "title": "U.S. commission cites 'moral imperative' to explore AI weapons",
+      "excerpt": "The United States should not agree to ban the use or development of autonomous weapons powered by artificial intelligence (AI) software, a government-appointed panel said in a draft report for Congress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-usa-military-ai/u-s-commission-cites-moral-imperative-to-explore-ai-weapons-idUSKBN29V2M0?edition-redirect=ca",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549163391&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P1K3",
+          "width": 924,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29V2M0",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V2M0",
+      "publishedDateTime": "2021-01-26T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-artificial-intelligence-ai-delivers-for-cloudcommerce.md",
+      "title": "Artificial Intelligence (AI) Delivers for CloudCommerce",
+      "excerpt": "\"Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.\" The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-delivers-for-cloudcommerce-2021-01-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-delivers-for-cloudcommerce-2021-01-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-tesla-will-never-achieve-full-self-driving-capabilities-waymo-ceo-says.md",
+      "title": "Tesla will never achieve full self-driving capabilities, Waymo CEO says",
+      "excerpt": "John Krafcik called Tesla's approach a \"misconception,\" while Google's sister company tackles lidar and more advanced systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/AVtNDbflfjRE8PTezweZ2ehMrBE=/2019/12/20/5d1f0f70-a427-4959-bc2c-7714bcc0c954/ogi-autopilot.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-will-never-achieve-full-self-driving-capabilities-says-waymo-ceo/",
+      "publishedDateTime": "2021-01-26T18:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ehave-inc-utilizes-artificial-intelligence-and-machine-learning-for-big-data-management-in-mental-healthcare.md",
       "title": "Ehave, Inc. Utilizes Artificial Intelligence and Machine Learning for Big Data Management in Mental Healthcare",
       "excerpt": "Ehave has been using artificial intelligence and machine learning since the first version of its Ehave Dashboard to transform clinical research, identify treatment protocols, and increase the virtual care capabilities of health providers. Before the COVID ...",
@@ -937,195 +1143,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-how-to-deliver-natural-conversational-experiences-using-amazon-lex-streaming-apis.md",
-      "title": "How to deliver natural conversational experiences using Amazon Lex Streaming APIs",
-      "excerpt": "Natural conversations often include pauses and interruptions. During customer service calls, a caller may ask to pause the conversation or hold the line while they look up the necessary information before continuing to answer a question. For example, callers often need time to retrieve credit card details",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/delivering-natural-conversational-experiences-using-amazon-lex-streaming-apis/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/delivering-natural-conversational-experiences-using-amazon-lex-streaming-apis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/26/Lex-Streaming-API-Image-01.26.21.jpg",
-          "width": 680,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T11:19:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-german-robot-being-designed-to-prune-fruit-trees.md",
-      "title": "German robot being designed to prune fruit trees",
-      "excerpt": "According to Germany's University of Hohenheim, about 80 percent of the fruit trees in that country aren't regularly pruned – despite the fact that doing so makes them structurally stronger and more resistant to disease.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
-      "originalUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/aa51c6a/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F41%2F04%2Fa3ab894841ba8a1e05a227aaa875%2Froboter2-jung.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/phoenix-robot-prune-fruit-trees/?amp=true",
-      "publishedDateTime": "2021-01-26T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.md",
-      "title": "Machine learning identifies patterns of maternal autoantibodies associated with autism",
-      "excerpt": "Using machine learning, researchers at the UC Davis MIND Institute have identified several patterns of maternal autoantibodies highly associated with the diagnosis and severity of autism.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Autism-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210126/Machine-learning-identifies-patterns-of-maternal-autoantibodies-associated-with-autism.aspx",
-      "publishedDateTime": "2021-01-26T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-dell-precision-workstations-for-ai.md",
-      "title": "Dell Precision Workstations for AI",
-      "excerpt": "Why developers are turning to ultra-powerful workstations for more creative freedom at less cost. Research shows that",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/dell-precision-workstations-for-ai/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/dell-precision-workstations-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/dell-precision-workstations-for-ai/",
-      "publishedDateTime": "2021-01-26T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

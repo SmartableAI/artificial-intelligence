@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-25-microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale.md",
+      "title": "Microsoft: How we deliver industry-specific cloud computing at scale",
+      "excerpt": "Microsoft is building clouds for nine priority industries by connecting and customising public cloud services for specific workloads and partner integrations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/25/34c32e8e-79f4-4866-81e0-3f312dc07b23/resize/400x/0d173a80a5e76ca17f533fc8925f9e00/ms-erik-arnold-tr.jpg",
+          "width": 400,
+          "height": 353,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-how-we-deliver-industry-specific-cloud-computing-at-scale/",
+      "publishedDateTime": "2021-02-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles.md",
+      "title": "Mobileye partners with Lohr and Transdev to develop self-driving shuttles",
+      "excerpt": "Mobileye announced that it's partnering with Lohr and Transdev to develop self-driving shuttles for public transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Mobileye-Transdev-Lohr-iCristal-shuttle_image1-e1614042008523.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/mobileye-partners-with-lohr-and-transdev-to-develop-self-driving-shuttles/amp/",
+      "publishedDateTime": "2021-02-25T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-dont-rely-on-data-scientists-to-do-ai-heavy-lifting-former-ibm-exec-warns.md",
       "title": "Don't rely on data scientists to do AI heavy lifting, former IBM exec warns",
       "excerpt": "Ex-IBM Watson lead Phil Westcott says he has witnessed “a lot of overspending and wasted resources” during his career",
@@ -1129,110 +1233,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-the-healthcare-revolution-at-home.md",
-      "title": "The Healthcare Revolution At Home",
-      "excerpt": "Using new health technology provided by startups, hospitals and doctors are offering an increasing number of services in the homes of patients. The Covid-19 pandemic has accelerated this approach, which evidence shows can result in better patient outcomes and lower costs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
-      "originalUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60367d808a68c8a739aee0bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
-      "publishedDateTime": "2021-02-24T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-aquarium-scores-26m-seed-to-refine-machine-learning-model-data.md",
-      "title": "Aquarium scores $2.6M seed to refine machine learning model data",
-      "excerpt": "Aquarium, a startup from two former Cruise employees, wants to help companies refine their machine learning model data more easily and move the models into production faster. Today the company announced a $2.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
-      "originalUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/60301667d6a4b05d1ccbdcde_team-copy.png?w=680",
-          "width": 680,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
-      "publishedDateTime": "2021-02-24T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

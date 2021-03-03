@@ -8,8 +8,8 @@ webUrl: "https://www.countingpips.com/2021/03/the-worlds-largest-network-of-recr
 ampWebUrl: "https://www.countingpips.com/2021/03/the-worlds-largest-network-of-recruiters-adds-ai-video-to-its-arsenal/amp/"
 cdnAmpWebUrl: "https://www-countingpips-com.cdn.ampproject.org/c/s/www.countingpips.com/2021/03/the-worlds-largest-network-of-recruiters-adds-ai-video-to-its-arsenal/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.countingpips.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"

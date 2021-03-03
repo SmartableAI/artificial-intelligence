@@ -34,6 +34,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 55
+  - title: "Broadridge LTX gets patent on AI-powered RFX trading protocol"
+    excerpt: "Empowering broker-dealers and institutional investors to better connect and trade corporate bonds digitally, Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that the U."
+    publishedDateTime: 2021-03-03T06:41:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86441/broadridge-ltx-gets-patent-on-ai-powered-rfx-trading-protocol"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "oLRUc9fOi19QTpqTFmTgU5vd3Aj3IUF1GcTCTVhmEAWfYhmIP1r052uKpx8OXB54qujkWAtEnp1vK3UNkCUD/Dk6KodCdYXrjvI+9tb5hWY/Lsudbu4A4sraowDxAoqi+uDvJWTNubB3EC4lTrgfW86ZKedUvlGHT8WPVcK4ptJyXbyr6TNy0aGlC4uf2TjuzowiIJBJcXHDJn0WjZ0fHaLBUDkOHl4CgYxfqbX3pS4JzFeKCVYnPr3AfgG1VT9bmaaS5HpT/kGWubV+TR2AyV3Kke5jmBb/7BDr8xnpn0QMY4JEtkYdMIyhHInu6UXoyIsrERQjOXSrwcILWFRnBNpqabKCDwZgcJvLnR3oz5E=;IdeRzrYmwcz2BKzCmEeEpw=="
 ---

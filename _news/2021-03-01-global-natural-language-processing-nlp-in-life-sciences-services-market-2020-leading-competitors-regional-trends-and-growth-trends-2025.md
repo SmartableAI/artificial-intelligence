@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
+    excerpt: "Global AI in Healthcare Market OverviewArtificial Intelligence is the development of computer systems that are able"
+    publishedDateTime: 2021-03-03T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Healthcare Market: Analysis and Forecast, 2021-2030"
     excerpt: "Reportlinker.com announces the release of the report \"Global AI in Healthcare Market: Analysis and Forecast, 2021-2030\""
     publishedDateTime: 2021-03-01T09:39:00Z

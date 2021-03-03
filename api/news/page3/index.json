@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
+      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
+      "excerpt": "Amazon wants to encourage more newcomers to the world of machine learning, and has given a new spin to an old idea to try and make it happen. Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-artificial-intelligence-spac-goldenbridge-acquisition-prices-50-million-ipo.md",
+      "title": "Artificial intelligence SPAC Goldenbridge Acquisition prices $50 million IPO",
+      "excerpt": "Goldenbridge Acquisition, a blank check company targeting the artificial intelligence industry, raised $50 million by offering 5 million units at $10. Each unit consists of one share of common stock;",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-spac-goldenbridge-acquisition-prices-%2450-million-ipo-2021-03-02",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-spac-goldenbridge-acquisition-prices-%2450-million-ipo-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-spac-goldenbridge-acquisition-prices-%2450-million-ipo-2021-03-02?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-spac-goldenbridge-acquisition-prices-%2450-million-ipo-2021-03-02?amp",
+      "publishedDateTime": "2021-03-02T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-beam-raises-80-million-for-ai-driven-dental-coverage-that-rewards-good-hygiene.md",
       "title": "Beam raises $80 million for AI-driven dental coverage that rewards good hygiene",
       "excerpt": "Beam Dental, a Columbus, Ohio-based dental benefits provider, today announced it has raised $80 million in an oversubscribed series E round led by Mercato Partners. Beam says the funds will be put toward expanding its offering to new markets,",
@@ -1122,109 +1208,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-volkswagen-and-argo-ai-plan-to-launch-a-self-driving-electric-taxi-in-2025.md",
-      "title": "Volkswagen and Argo AI Plan to Launch a Self-Driving Electric Taxi in 2025",
-      "excerpt": "Volkswagen ( OTC:VWAGY) said that it plans to launch a self-driving electric van for urban ride-hailing service in 2025. Volkswagen said on Monday that a commercial version of its ID. Buzz, an electric minivan inspired by the iconic 1960s VW Microbus,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F615901%2Flarge-13019-volkswagencommercialvehiclesmovesaheadwithautonomousdrivingrdformobilityasaservice.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
-      "publishedDateTime": "2021-03-01T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience.md",
-      "title": "Only 50% Of Hires Are Successful: How AI Is Optimizing The Experience",
-      "excerpt": "Organizations need to have processes to handle the increased number of applicants the best way possible, especially for industries that had to let go of many employees, to recruit the best candidates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/",
-      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603cfb88adb5fdfd03d7427c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/amp/",
-      "publishedDateTime": "2021-03-01T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

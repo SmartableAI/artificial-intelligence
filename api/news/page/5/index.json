@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-27-ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage.md",
+      "title": "AI Weekly: Biden calls for $37 billion to address chip shortage",
+      "excerpt": "President Biden this week signed a supply chain executive order and pledged support for $37 billion to address a semiconductor shortage.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/",
+      "originalUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1303925325.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/amp/",
+      "publishedDateTime": "2021-02-26T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-myheritages-new-ai-tool-turns-photos-of-the-dead-into-unnerving-videos.md",
+      "title": "MyHeritage’s new AI tool turns photos of the dead into unnerving videos",
+      "excerpt": "Genealogy site MyHeritage has released an AI tool called DeepNostalgia that turns photos of deceased relatives into creepy videos.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-26T180643.190-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
+      "publishedDateTime": "2021-02-26T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
       "title": "Driverless bus hits streets in southern Spain",
       "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
@@ -1144,109 +1248,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-how-to-shift-your-ai-focus-from-accuracy-to-value.md",
-      "title": "How to shift your AI focus from accuracy to value",
-      "excerpt": "All models are wrong, but some are useful.” This is a famous quote from 20th century statistical thinker, George E.P. Box. This might seem like a strange message- shouldn’t all the models we build be as correct as possible?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/money1-1200x622.jpg",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/25/how-to-shift-your-ai-focus-from-accuracy-to-value/amp/",
-      "publishedDateTime": "2021-02-25T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases.md",
-      "title": "Amazon's latest cloud tool will spot any chips or scratches in your online purchases",
-      "excerpt": "Putting Artificial Intelligence (AI) and Computer Vision (CV) to novel use, Amazon Web Services (AWS) has launched a new tool that is able to spot defects in manufactured goods. Named Amazon Lookout for Vision, the tool is designed for manufacturing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "originalUrl": "https://www.techradar.com/nz/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/eCJ7iQntKWNQZywfs7Zr3Q-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazons-latest-cloud-tool-will-spot-any-chips-or-scratches-in-your-online-purchases",
-      "publishedDateTime": "2021-02-25T14:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

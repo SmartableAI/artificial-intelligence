@@ -2,6 +2,110 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-25-the-healthcare-revolution-at-home.md",
+      "title": "The Healthcare Revolution At Home",
+      "excerpt": "Using new health technology provided by startups, hospitals and doctors are offering an increasing number of services in the homes of patients. The Covid-19 pandemic has accelerated this approach, which evidence shows can result in better patient outcomes and lower costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60367d808a68c8a739aee0bd%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katiejennings/2021/02/24/the-healthcare-revolution-at-home/amp/",
+      "publishedDateTime": "2021-02-24T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-aquarium-scores-26m-seed-to-refine-machine-learning-model-data.md",
+      "title": "Aquarium scores $2.6M seed to refine machine learning model data",
+      "excerpt": "Aquarium, a startup from two former Cruise employees, wants to help companies refine their machine learning model data more easily and move the models into production faster. Today the company announced a $2.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
+      "originalUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/60301667d6a4b05d1ccbdcde_team-copy.png?w=680",
+          "width": 680,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/24/aquarium-scores-2-6m-seed-to-build-more-accurate-machine-learning-models/amp/",
+      "publishedDateTime": "2021-02-24T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-mit-technology-review-presents-10-breakthrough-technologies-of-2021.md",
       "title": "MIT Technology Review Presents 10 Breakthrough Technologies of 2021",
       "excerpt": "MIT Technology Review announced its 10 Breakthrough Technologies list for 2021, featuring 10 advances predicted to have a big impact",
@@ -1107,110 +1211,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers.md",
-      "title": "Enterprises customize Clinc’s conversational AI to connect with their customers",
-      "excerpt": "Clinc's conversational AI platform uses NLP to streamline customer queries and collect related data for financial enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1614002657936.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/enterprises-customize-clincs-conversational-ai-to-connect-with-their-customers/amp/",
-      "publishedDateTime": "2021-02-23T13:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-t-cell-screening-launched-to-detect-prior-covid-infections.md",
-      "title": "T-Cell Screening Launched to Detect Prior Covid Infections",
-      "excerpt": "The post T-Cell Screening Launched to Detect Prior Covid Infections appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-23/t-cell-screening-test-launched-to-detect-prior-covid-infections",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOwpSZf8xkWI/v0/1200x788.jpg",
-          "width": 1200,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T12:56:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

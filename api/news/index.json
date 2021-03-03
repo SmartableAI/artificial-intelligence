@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
+      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
+      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T09:54:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
       "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
       "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
@@ -348,49 +401,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more.md",
-      "title": "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more",
-      "excerpt": "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more",
-      "sourceUrl": null,
-      "webUrl": "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
-      "originalUrl": "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/03/35179/mediatek-tv-chip_425_735.jpg",
-          "width": 735,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
-      "cdnAmpWebUrl": "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
-      "publishedDateTime": "2021-03-03T02:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile",
-        "domain": "themobileindian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-critics-have-much-to-say-about-the-fb-facial-recognition-technology.md",
       "title": "Critics Have Much to Say About The 'FB' Facial Recognition Technology",
       "excerpt": "Facebook announced that it’s considering including facial recognition technology in its “smart glasses”, and critics have a lot to say.",
@@ -430,6 +440,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-mediatek-announces-mt9638-ai-chipset-for-next-generation-4k-smart-tvs.md",
+      "title": "MediaTek announces MT9638 AI chipset for next-generation 4K Smart TVs",
+      "excerpt": "MediaTek, the Taiwan-based chipset maker, has been a market leader when it comes to chips powering the Smart TVs. The company has a wide range of offerings for TV chips — from entry-level to flagship-grade smart TVs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/",
+      "originalUrl": "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/10/MediaTek-Smart-TV-SoC-Chipset-Featured.jpg",
+          "width": 1118,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -841,7 +903,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -894,7 +956,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1185,58 +1247,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon.md",
-      "title": "Artificial Intelligence in Retail Market May See a Big Move | Major Giants IBM, Nvidia, Amazon",
-      "excerpt": "The report brings clarity about the market key players and also about the significant contributors associated. The study elaborates factors of Global Artificial Intelligence in Retail market such as market opportunities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

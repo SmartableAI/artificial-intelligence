@@ -2,6 +2,74 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
+      "title": "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
+      "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The Voice Recognition Market was valued at USD 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697414",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697414",
+      "publishedDateTime": "2021-02-16T18:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
+      "title": "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
+      "excerpt": "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697382",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697382",
+      "publishedDateTime": "2021-02-16T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-translating-json-documents-using-amazon-translate.md",
       "title": "Translating JSON documents using Amazon Translate",
       "excerpt": "JavaScript Object Notation (JSON) is a schema-less, lightweight format for storing and transporting data. It’s a text-based, self-describing representation of structured data that is based on key-value pairs. JSON is supported either natively or through libraries in most major programming languages,",
@@ -1317,83 +1385,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-gomoxies-see-ai-wins-industry-accolades.md",
-      "title": "goMoxie’s SEE (AI) Wins Industry Accolades",
-      "excerpt": "Moxie®, the leading provider of customer guidance solutions, today announced that its solution, SEETM , an AI solution that delivers actionable insi",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
-      "originalUrl": "https://www.businesswire.com/news/home/20210204005332/en/goMoxie’s-SEE-AI-Wins-Industry-Accolades",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-speech-and-voice-recognition-market.md",
-      "title": "Speech and Voice Recognition Market",
-      "excerpt": "Verified Market Research offers a comprehensive analysis Report Study of the Global Speech and Voice Recognition market where users can benefit from market research reports complete with all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2236565/speech-and-voice-recognition-market-study-report-increasing",
-      "originalUrl": "https://www.openpr.com/news/2236565/speech-and-voice-recognition-market-study-report-increasing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/2/U204668184_g.jpg",
-          "width": 572,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2236565/speech-and-voice-recognition-market-study-report-increasing",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2236565/speech-and-voice-recognition-market-study-report-increasing",
-      "publishedDateTime": "2021-02-04T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

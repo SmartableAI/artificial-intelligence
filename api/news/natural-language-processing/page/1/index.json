@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format.md",
+      "title": "Integrating Amazon Polly with legacy IVR systems by converting output to WAV format",
+      "excerpt": "Amazon Web Services (AWS) offers a rich stack of artificial intelligence (AI) and machine learning (ML) services that help automate several components of the customer service industry. Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrating-amazon-polly-with-legacy-ivr-systems-by-converting-output-to-wav-format/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T09:54:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025.md",
       "title": "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025",
       "excerpt": "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -147,6 +200,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus-international.md",
+      "title": "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International",
+      "excerpt": "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence division, Lionbridge AI, to TELUS International,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
+      "originalUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1409,74 +1496,6 @@
       "provider": {
         "name": "PR Newswire",
         "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
-      "title": "Voice Recognition Market 2020 By Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
-      "excerpt": "The report offers overview of leading companies encompassing their successful marketing strategies, market contribution, recent developments in both historic and present contexts. The Voice Recognition Market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697414/voice-recognition-market-2020-by-growth-size-share-demand-trends-and-analysis-research-report-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697414",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697414",
-      "publishedDateTime": "2021-02-16T18:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-research-report-2025.md",
-      "title": "Natural Language Processing Market 2020 By Industry Growth, Size, Share, Demand, Trends and Analysis Research Report 2025",
-      "excerpt": "The global natural language processing (NLP) market was valued at USD 10.93 billion in 2019, and it is expected to be worth USD 34.80 billion by 2025, registering a CAGR of 21.5% during 2020-2025. Over the past few years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/19697382/natural-language-processing-market-2020-by-industry-growth-size-share-demand-trends-and-analysis-re",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19697382",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19697382",
-      "publishedDateTime": "2021-02-16T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

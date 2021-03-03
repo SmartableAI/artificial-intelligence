@@ -2,29 +2,37 @@
 category: news
 title: "MediaTek unveils new AI-based 4K smart TV chip"
 excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
-publishedDateTime: 2021-03-03T13:11:00Z
-originalUrl: "https://www.dailypioneer.com/2021/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip.html"
-webUrl: "https://www.dailypioneer.com/2021/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip.html"
+publishedDateTime: 2021-03-03T14:45:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20210303/3717296.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20210303/3717296.html"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/mediatek-unveils-new-ai-based-4k-smart-tv-chip-2021-03-03.jpg"
-    width: 1000
-    height: 800
-    isCached: true
-
 related:
+  - title: "MediaTek announces MT9638 AI chipset for next-generation 4K Smart TVs"
+    excerpt: "MediaTek, the Taiwan-based chipset maker, has been a market leader when it comes to chips powering the Smart TVs. The company has a wide range of offerings for TV chips — from entry-level to flagship-grade smart TVs."
+    publishedDateTime: 2021-03-03T08:44:00Z
+    webUrl: "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/MediaTek-Smart-TV-SoC-Chipset-Featured.jpg"
+        width: 1118
+        height: 629
+        isCached: true
   - title: "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more"
     excerpt: "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more"
     publishedDateTime: 2021-03-03T10:34:00Z
@@ -56,6 +64,6 @@ related:
         height: 448
         isCached: true
 
-secured: "EjqA/8HeinwYhKlrYxky3vDHB3k10/0gONG7Chcb6J5jVO0DEynPWa77d1VCtzhWmnmc2IwCTiXpLXwCQP81v0ZWgD1wiz6C6HSDXw47YRg2g+8Sho332VsWyvu2nzk7b7mP+UajRobKIlYgJvvhLgs99ZASBRk1xI9LOiC8SDjli/D8jzdPaiePRUYijB+NrrW6PX9dAbve7K1bs8YZH+fEeSsYeq0mYQPmP/hp5IDbjAj6iXGclnW7mEQnM4Whon8GcvD/74hlgMuPULbSpyhwue/2Gff8XTHL/c8kRMRRORwAvovE/APUdk5ICgwtjomTmm0S/Rdzd9rvnc6BythbhBESF6d5rZvYDC+eo46NQuaNSMnOV84/bGXFX7LeqQ/v8NrYmhTv5XFB1nJaZZ4tepETpcvcPxkl+EtgCXMClCqz8tBGS9tYUXEeJQfrYpA9NO6QGIHwGXxBAXMZQ+h/sLXIguGm08x8sPuY6Dyu8g8FxcdocNRGW4kk4KSy5ezcvrwTa3VLmN9lQsUQOg==;z9GRJO9eufQmVfmTJRUAZw=="
+secured: "TiSxIDc0MlvGrSqDT/snn8oQQ4qPFHmFg1bX8kmZMX6PiGqE02wNRVPUWafU2MhaXNPz035aVfeOPVarVUHnfd2exk8n53fWJ76HToVslDrJzQl9tTLh/4NgErm0qB/TkqUKPAMNz9YmicR4CfRCFAEFRXCwojeW/Wo6M+cSNYL3eAZ5LQU7LZm5vf22Pb3ZiTB4b5cHnKIryHPdjpP6Us6rp+FhlZ0x7V9OshIuuhLWWsuPVQ/AK768WiAtdu+frZVPnWktZQcmjyECmFkVqilEgN4lukObMjzqG5LRSaIA1282rbpSmN0slZiISeP1N0KcUf/gx/KKPLwTRBai9UgY9TGHS8y7josMGU/Drwk=;6OghE0zhKY+3Dj97yhwnXg=="
 ---
 

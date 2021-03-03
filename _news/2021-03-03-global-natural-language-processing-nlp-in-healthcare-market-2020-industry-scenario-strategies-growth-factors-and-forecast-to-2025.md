@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
+    excerpt: "Global AI in Healthcare Market OverviewArtificial Intelligence is the development of computer systems that are able"
+    publishedDateTime: 2021-03-03T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

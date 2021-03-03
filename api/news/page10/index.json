@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-23-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
+      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-302017/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "publishedDateTime": "2021-02-23T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-a-trusty-robot-to-carry-farms-into-the-future.md",
+      "title": "A trusty robot to carry farms into the future",
+      "excerpt": "To feed 10 billion by 2050, the world’s farmers will need to increase food production by up to 70%. Bring in the robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/af8a66be-a00d-4526-b1cd-b401c71fdada/future-acres.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "publishedDateTime": "2021-02-23T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
       "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
       "excerpt": "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions.",
@@ -1078,92 +1183,6 @@
         "AWS AI",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-apple-in-talks-with-suppliers-for-self-driving-sensors-report.md",
-      "title": "Apple In Talks With Suppliers For Self-Driving Sensors – Report",
-      "excerpt": "Meanwhile, Apple (AAPL) has been working on its autonomous car project for the past several years and while it has developed most of the necessary software and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
-      "originalUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/apple-in-talks-with-suppliers-for-self-driving-sensors-report-2021-02-22?amp",
-      "publishedDateTime": "2021-02-22T06:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-wall-streets-robots-are-taking-on-the-confusing-world-of-reddit.md",
-      "title": "Wall Street’s Robots Are Taking on the Confusing World of Reddit",
-      "excerpt": "Reddit forum WallStreetBets is hard for humans to follow at the best of times. But spare a thought for the machines. After the retail stock frenzy last month caused unprecedented havoc, hedge funds trawling the platform with algorithms have a renewed sense of purpose in their mission to figure out the next market craze.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP05Z8gOcuVo/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

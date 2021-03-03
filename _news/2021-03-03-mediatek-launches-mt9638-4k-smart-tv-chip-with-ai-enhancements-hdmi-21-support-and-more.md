@@ -9,8 +9,8 @@ ampWebUrl: "https://www.themobileindian.com/news/lite/mediatek-launches-mt9638-4
 cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mobile
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek announces MT9638 AI chipset for next-generation 4K Smart TVs"
+    excerpt: "MediaTek, the Taiwan-based chipset maker, has been a market leader when it comes to chips powering the Smart TVs. The company has a wide range of offerings for TV chips — from entry-level to flagship-grade smart TVs."
+    publishedDateTime: 2021-03-03T08:44:00Z
+    webUrl: "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 84
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/MediaTek-Smart-TV-SoC-Chipset-Featured.jpg"
+        width: 1118
+        height: 629
+        isCached: true
   - title: "MediaTek MT9638 AI chip will power the next generation of 4K smart TVs"
     excerpt: "The first television sets with the new MediaTek SoC are expected to become available by the second quarter of this year. MediaTek already powers most smart speakers and smart home products unbeknownst to most users."
     publishedDateTime: 2021-03-03T07:01:00Z
@@ -43,18 +57,13 @@ related:
         isCached: true
   - title: "MediaTek unveils new AI-based 4K smart TV chip"
     excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
-    publishedDateTime: 2021-03-03T13:11:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip.html"
+    publishedDateTime: 2021-03-03T14:45:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20210303/3717296.html"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/mediatek-unveils-new-ai-based-4k-smart-tv-chip-2021-03-03.jpg"
-        width: 1000
-        height: 800
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "LSyxuJKOsccEsYmdtd1V2L7DAiHM4pcC6x3GtJ6H+I1GBZrrH+ctw5ePGSU730AXc+sOC7jx2uK80fm/wF/kR391wiWW0b0CqpJ3rdGct+d4i7OmOm5RtWmqQdIVDYC59lpYJJzYYuDDEkD41KYr5zNt4179+2jLouBc4oJc87Bs3IzB4wV0sSIibFgVErFEcJOUvlUFl6gHP767EyqpsUeD9925OiswGZ7NBChLSLzXz+er1Ya0lJ+7BCTQoF/kL/THpwgMUtBtLlt5YlYnVOGK0rVM35256klN1tdbgz37XiJB8lFZX2LcfOmZvxVHzAB2bJx7z20F57TrYpqBDouCBKOOb/JPoansfmjwMTmY/k63u0Pi7pqyBp7EY+Fevu8wfKNH4MED1YBrnfK2ex/SQJkGbxR4zIJbVbNsGTc33OBpetOb6F4ILGI0TyJpcrxyaGSCWofPAgNPAuxw2As/gtxi3ktNdJwgXe3GFiBuZ1OlcmhNceBq0+sT08Jk7vOom21ybtdol55+BSVfVA==;kkh7iKe3Sdj0mBFTSywEAw=="
 ---

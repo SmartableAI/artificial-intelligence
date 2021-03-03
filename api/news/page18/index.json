@@ -2,6 +2,126 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-17-onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications.md",
+      "title": "OnLogic Now Offering Cincoze GM-1000 Embedded GPU Computer For Machine Vision Applications",
+      "excerpt": "The Cincoze GM-1000 features an embedded MXM GPU, high-speed I/O and Intel® Xeon® CPUs to meet the demands of advanced embedded vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-vision-computer-solutions-achieves-platinum-partner-status-with-datto.md",
+      "title": "Vision Computer Solutions Achieves Platinum Partner Status With Datto",
+      "excerpt": "Vision Computer Solutions is pleased to announce it has been designated as an exclusive Platinum Partner with Datto, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/n19680693/vision-computer-solutions-achieves-platinum-partner-status-with-datto",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/n19680693/vision-computer-solutions-achieves-platinum-partner-status-with-datto",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19680693",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19680693",
+      "publishedDateTime": "2021-02-16T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-what-cios-need-to-know-about-adding-ai-to-their-processes.md",
+      "title": "What CIOs need to know about adding AI to their processes",
+      "excerpt": "AI can help many types of businesses get more from their data. In 2021, one expert believes adoption of AI will take leaps forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/16/7751f414-51d9-40f4-9bd1-2b30677827d2/thumbnail/1200x675/84554d7fe79b29a1d4a50bd6fb608e03/20210211-alxcel-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/what-cios-need-to-know-about-adding-ai-to-their-processes/",
+      "publishedDateTime": "2021-02-16T08:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-this-robotic-glove-uses-ai-to-help-people-with-hand-weakness-regain-muscle-grip.md",
       "title": "This robotic glove uses AI to help people with hand weakness regain muscle grip",
       "excerpt": "A Scottish biotech startup has invented an AI-powered glove for people suffering from muscle mass loss due to age or illness.",
@@ -610,6 +730,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-how-can-fintech-offer-our-smes-a-fighting-chance.md",
+      "title": "How can fintech offer our SMEs a fighting chance?",
+      "excerpt": "Current fintech offerings can help SME survive. In normal circumstances, life as a small and medium-sized enterprise (SME) is far from straight forward. Throw in a year-long global pandemic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "originalUrl": "https://www.itproportal.com/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HeCsiY6yjxpnUybtYHdeu9-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "publishedDateTime": "2021-02-16T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-most-indian-firms-to-turn-to-ai-for-decision-making-by-2023.md",
       "title": "Most Indian firms to turn to AI for decision-making by 2023",
       "excerpt": "Over 40 per cent of consumer-focused AI systems in finance, healthcare, government and other regulated sectors in India will include provisions to explain their analysis and decisions by 2023, a new IDC report said on Tuesday.",
@@ -995,188 +1158,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-how-saas-startup-credgenics-is-helping-banks-nbfcs-and-fintechs-recover-their-bad-debts-through-aiml.md",
-      "title": "How SaaS startup Credgenics is helping banks, NBFCs, and fintechs recover their bad debts through AI/ML",
-      "excerpt": "Credgenics is an end-to-end, SaaS-based, collection management tool, which delivers customised strategies and recommends optimal legal routes to facilitate faster resolution of stressed assets.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
-      "originalUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/Imagew5qh-1613396698748.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/saas-startup-credgenics-helping-banks-nbfcs-fintech-bad-debts/amp",
-      "publishedDateTime": "2021-02-15T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-samsung-tops-ai-patent-list.md",
-      "title": "Samsung tops AI patent list",
-      "excerpt": "“The Korean company is expanding its research scope around AI technologies focused on improving ... Chris Griffith11.00am: Maryland votes to tax Google, Facebook online ad revenue A US state ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "originalUrl": "https://www.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/business/technology/google-facebook-face-new-tax-nightmare/news-story/294e4e6341c6ec441d48b78bc024997f",
-      "publishedDateTime": "2021-02-15T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-the-worlds-struggle-against-hypertension-the-role-of-artificial-intelligence.md",
-      "title": "The World’s Struggle Against Hypertension – The Role of Artificial Intelligence",
-      "excerpt": "Introduction When one considers the vast array of diseases the world contends with on a daily basis, hypertension (HTN) ranks among the top being a major risk factor for heart and circulatory health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/worlds-struggle-against-hypertension-role-artificial-brian-lenahan/",
-      "originalUrl": "https://www.linkedin.com/pulse/worlds-struggle-against-hypertension-role-artificial-brian-lenahan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEPBw7MmjioEg/article-cover_image-shrink_720_1280/0/1613494040226?e=1619654400&v=beta&t=vVW322Ea8q1LifpDcvFR4_ubsgvw9_guFju9F9ktgpg",
-          "width": 1079,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-artificial-intelligence-and-the-end-of-work.md",
-      "title": "Artificial Intelligence And The End Of Work",
-      "excerpt": "The notion that, at its best, AI will augment rather than replace humans is both reassuring and deeply misguided.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/02/15/artificial-intelligence-and-the-end-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6029b4de0f413e9fd6a1984b%2F0x0.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
