@@ -5,8 +5,6 @@ excerpt: "Samsung, the world's largest memory chip producer, said its HBM-PIM so
 publishedDateTime: 2021-02-17T09:06:00Z
 originalUrl: "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html"
 webUrl: "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html"
-ampWebUrl: "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "pUeupN7YhMMzRdU2eGjJhlxTM95EK+3B3aUpw18/Nbc5L08EE9eOdDXs61d2rUn2X08QXBNxBokUHV6gx5/csHkoSXlKMisvlsV5w+VE4BvVrbfYN3ubVPN7LNAXuFiKpBGKu0vcESnqAhubiFZlNCriKoxuhYZ+9s+FY9LAfaFJXyn3Zrx5HlbulfjcZYjzGu9ioSuPpLYI38cMmuNgajMx6Tm8UekbpNjANeqw7BxoYUi+c3+VtEtbImGWJ9VDqRLrxqaurLF/15C5loJh8mAkmYKlejrDkmnKitYcfEvo6saQzhsnMX942BjHNZ1Py520aoE5OD/2FyRYb/lb/5wJLVr0djGbWmLZx6i9ILA=;Ng4HByD2hmPe+kx1HWihgg=="
+secured: "okD4WTdtjx1sc1BGfQhJcrztdg848dTxZvjyOGUjQHg9lXhyiKpgwVwftCT0OxTDlroqvbBZ4QhGghe4lVHOTI2361GGH7xhnww98vL+krxG+hn7wWNJfCpN7yeHVDzuxHdaTFtmqitH4jUtNtIruvbzdy2AVBvVIMK8VqSxyghPuuJ5E9m+mJ5dwlI3bK4AZgIw4hQ5fE4RwdSZpD/BXZbgIwznzL+dC2aQRjkzyJZrFZu7jIN4+Qma+13t8AgXZRNKtbXsbh7tPJUsnjv4HXSeHMGNYMyj5HMR39EbnM/fj8NcJy/qhjvxvlROBzvz5hwmincG3siUyuKYj8djz9f/6Fyga6NiW8kao1UtxxY=;Hx+0N+pTzoxrj1OOr7fPUA=="
 ---
 

@@ -1,23 +1,20 @@
 ---
 category: news
 title: "AWS Launches Second Region in Japan"
-excerpt: "Local Region expanded into a standard AWS Region to accommodate an even greater variety of use cases and serve Japan with even lower latency Customers and AWS Partners across Japan welcome the new AWS Asia Pacific (Osaka) Region,"
-publishedDateTime: 2021-03-01T21:37:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20210301006110/aws-launches-second-region-in-japan"
-webUrl: "https://www.morningstar.com/news/business-wire/20210301006110/aws-launches-second-region-in-japan"
+excerpt: "(AWS), an Amazon.com company (NASDAQ:AMZN), today announced the launch of a second full region in Japan, the AWS Asia Pacific (Osaka) Region. The region is an expansion of the existing AWS Osaka Local Region,"
+publishedDateTime: 2021-03-02T03:37:00Z
+originalUrl: "https://www.dailyamerican.com/ap/business/aws-launches-second-region-in-japan/article_8662e760-9bb9-51fe-8b23-14d98a3d90a8.html"
+webUrl: "https://www.dailyamerican.com/ap/business/aws-launches-second-region-in-japan/article_8662e760-9bb9-51fe-8b23-14d98a3d90a8.html"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Daily American
+  domain: dailyamerican.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "53qiWzycIfTTr2jNIViUuAOM6GZp3uC8cavb2B5GP8nVZm3rrBc7lzEfx/NzBq1IT1wdFmRFVPMeKSsXbr5tLIn8Y2jIUhEsfSQncNX/D0U1PylwIVhh2o+6eWjy9clxjYtvHr3r8rFvrM7Fl5FL4V4RtVc4pxe3r7r01wzovSygoni+iiAMK4TVHfGFktoteWQyk3fJvLYJ4OBwgeunrQu1ZyGlu1/UE1LUfrE/wuxFhZ2lbu8aYIutNDJaEeu7GSsKyJ8Zi3RCFj5TlMZ5JcZvABKydfTmNujYhqEt6OR5vUJrOEr0yOnY2f9XI2qlpwjtTjKRG2cX1Z3AUM6y+R9mv6T3qWpTcoUZViSRURQ=;N/U9ShjeuDu5uDG3Hom+fQ=="
+secured: "ch4D4AncKQaDHnKFvS8fU0xr8cPlmVdzm+XuXVJsErmvEYW91S3U14K6bbE78eNblByVdVYhNQwcEBmc2cDAKqRUYimUEBqeAz8noMhSxJBlxysej4Z0ZjIjeiPGSyqXMEabT5iDOddFwNu1C9H4OmXhpHA2Ne5LNW7rBMwO80/bDy6ziXIxkLlERONixypfHMEQMotpsb22oGNO8ULHsoqRtGuLme6xCTd+XUIzO297d4FxwKrRYqGFPj6wlrW93jMBjg1QVpf+rGOIgnRc0XfLHrQQ1i0GoNIqWj/OLdTPKfB3ytbIhCdKBO1F6qyUyqUC8D2YNfGhohq1WC0DNB+Sye+BlFyJyJ8bbHrJRec=;eVvajbt/0SnDeVeNoDrtlw=="
 ---
 
