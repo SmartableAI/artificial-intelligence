@@ -3,10 +3,10 @@ category: news
 title: "Lotus Cars Selects Industry Leaders Cerence and ECARX to Deliver Voice-Powered Innovations"
 excerpt: "Cerence Inc. (NASDAQ: CRNC), AI for a world in motion, today announced that it and ECARX will partner with Lotus Cars on voice-powered technologies. The initiative will bring simplified interaction and enhanced safety,"
 publishedDateTime: 2021-03-02T13:15:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
 type: article
-quality: 0
+quality: 14
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Lotus Cars Selects Industry Leaders Cerence and ECARX to Deliver Voice-Powered Innovations Nasdaq:CRNC"
@@ -36,6 +42,6 @@ related:
         height: 655
         isCached: true
 
-secured: "Rw8Z0+wXdBFT0KQgAatRopYoSNim9VpTGZchm0LOnNZw2MQTQMSXUKy8lsfC3ocKtVGWnTTAmBf3p6wk8kj/aK6ncXsRgGjlqevTJbiizHDUF9NFWBSHOT2KXKVqyHAUzx+QhaRkZYEzp8e9mEUbkran2sdh9kgjySnxt2Rexb2zz9PNLTNg2XbsLWXgqHf9XWT4UpYnCrsGRphYedT7f3xPvmNfW9HiOpf/Xi/gRuQ9sV9i+t3NSNDg781H4gAmSThjBqS5y7P1geMYCViyAB5N8LBjP1mmtDTnU4vQ3160+OqnwFEnhWTOBwiiEUqQLI8Ovwosx+pCBrUrzkFzpHn8NrfCQ1shQ5Q0/LvLEjc=;HVxClTWuMKfUAn8i9yJXWg=="
+secured: "FZZhMsRDhRAW/DWHlKimY6VCgkI4NAZ+frJWW7NcTu3YTCcjmATZ/EPdHshXLkWc0XB0kvNjPk8OeBUBFx4pYOaPaNXpzGDtlOfivYVmXV1Nnf+k3Q/9necELWJCH6Cr6Q0JpcrvNiMlqAB4rYtucx7bnM2EohHtzzF7NO8pzzCunmbqAXjk394oDVvhcImv1J2DqiEOMOE7XPnHwCr2I05jXwmXDSQQ1ybJhViVX0oHKAC9CrXFixVNKJAs/K+l1tSQymsJYkqvqJJwnJC6aRxBsdXgEyyi3+g9xFVjaz/TUk/QtTPiFvAe2rPUc1ROImJ+oOY9bh5y2K0GCwDTBpVvvq0Do0DENfuOIyB9hRc=;nYEmG2pyTsTO5pTEWq7H9g=="
 ---
 

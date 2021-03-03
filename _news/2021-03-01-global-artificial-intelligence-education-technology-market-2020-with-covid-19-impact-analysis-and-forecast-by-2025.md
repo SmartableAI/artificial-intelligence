@@ -59,20 +59,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Rwanda to use Artificial Intelligence in Covid-19 forecast"
-    excerpt: "Rwanda is set to be the first country on the African continent to use Artificial Intelligence (AI) in predicting the burden of Covid-19 in its territory in particular periods of time. On Friday, February 26,"
-    publishedDateTime: 2021-02-26T17:18:00Z
-    webUrl: "https://www.newtimes.co.rw/news/rwanda-use-artificial-intelligence-covid-19-forecast"
-    type: article
-    provider:
-      name: The New Times
-      domain: newtimes.co.rw
-    quality: 37
-    images:
-      - url: "https://www.newtimes.co.rw/sites/default/files/main/articles/2021/02/26/audace-nakeshimana-the-founder-of-insightiv.jpg"
-        width: 873
-        height: 491
-        isCached: true
   - title: "Today's D Brief: FBI chief on the Hill; AI plan; Troops deploy to help vaccinate; COVID-variants warning; And a bit more."
     excerpt: "FBI Director Chris Wray is testifying this morning before lawmakers with the Senate Judiciary Committee, his first public trip to Capitol Hill since September. The scope of his hearing is apt to be both incredibly broad and quite specific: lawmakers want to zero in on Wray’s oversight of the bureau in light of the Jan."
     publishedDateTime: 2021-03-02T15:47:00Z

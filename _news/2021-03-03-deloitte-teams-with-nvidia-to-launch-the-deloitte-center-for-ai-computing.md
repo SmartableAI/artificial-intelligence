@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Deloitte Teams With NVIDIA to Launch the Deloitte Center for AI Computing"
-excerpt: "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate the development of innovative artificial intelligence (AI) solutions for Deloitte clients."
-publishedDateTime: 2021-03-03T05:36:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-f630ff9a57c1ad99da348086a50d0299"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-f630ff9a57c1ad99da348086a50d0299"
+title: "Deloitte Teams with NVIDIA to Launch the Deloitte Center for AI Computing"
+excerpt: "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate"
+publishedDateTime: 2021-03-02T20:09:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/"
+webUrl: "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_hpe-405x228.jpg"
+    width: 405
+    height: 228
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 399
         isCached: true
 
-secured: "89o4Cj/kNd74jiksj0at30Fq72lFsNnVkiX4YKGI8kUyaxSugbKjy0Vmae3fEMt0SVEFt5rzmmXM7ZpWRhjrYzZUN0lqpHeUaMWtQe+S8Lzdrk2v4avBWdOhvAV74q4LtHjOdHgS2OAsCvCrVRoIq7wOzY/lz96f+S0IcZuVH5X69goyDNnxmFEKZ2kEX5/otsKeRLLJVqD5xkpJMQ6++nxoGMZILm8evjXO0AXZI9mYVsWOEZaNmE4iqQlKZwa/47FcT8JuiF2virNCYMuzpuwd2exlt0oxfOOCSz5FuAUG0Gg2s4m87xRpBP9UIIvhQH8WuHBcfijnLUen+rbu0ssA2Sz7tQ6BAdxJ4K3NjGM=;f4LP9y7dzK89kPgRK8gGWQ=="
+secured: "fj3nnFqkmz3zaBUhbnkPaXnVkn/8Z5R4LuJbwY3qQ2AFX0r977F7x+ipVYj157Qajj5kXsAzrMWgbGwcjLaB0q/Fur7KZQl0nVubyjKf35Ly6PmSGe+cSq0D+pa091pUPx4IwuKE9MW5fjCJChSU6MfNdjNx1vPDJ2mW2+W3rq2pSoFgxxs/P4dTTgMwjrvaYzYUX6PkMN/X0C9xIeL0mExfy4OgNE11/9m9sXt9eBY1nev/C5dhJPR+WZFjUkVJpktwIkGfN7Nr2i8Duag0ZtivBJOFMonI+dWANFHqy3i+uis5B+LhqNFy7iGt9FQNzzE6DqgN2eyu7Y/D+0O3mg/z9Pij+V1oLDq3arPD/yA=;750ZgGBnwpLPXKXfL5feTQ=="
 ---
 

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Maana and Aramco Trading Company Launch AI Application to Optimize Maritime Fleet and Shipping Operations"
-excerpt: "Aramco Trading Company (ATC) and Maana today announced the launch of Fanar, the first Artificial Intelligence (AI)-driven maritime fleet optimization application on Microsoft Azure purpose-built for the oil and gas industry."
-publishedDateTime: 2021-03-03T08:43:00Z
-originalUrl: "https://www.financialbuzz.com/maana-and-aramco-trading-company-launch-ai-application-to-optimize-maritime-fleet-and-shipping-operations/"
-webUrl: "https://www.financialbuzz.com/maana-and-aramco-trading-company-launch-ai-application-to-optimize-maritime-fleet-and-shipping-operations/"
+excerpt: "Tuesday 2 March 2021 [ AETOS Wire ]  (BUSINESS WIRE )-- Aramco Trading Company (ATC) and Maana today announced the launch of Fanar, the first Artificial Intelligence (AI)-driven maritime fleet optimization application on Microsoft Azure purpose-built for the oil and gas industry."
+publishedDateTime: 2021-03-03T10:43:00Z
+originalUrl: "https://menafn.com/1101688212/Maana-and-Aramco-Trading-Company-Launch-AI-Application-to-Optimize-Maritime-Fleet-and-Shipping-Operations"
+webUrl: "https://menafn.com/1101688212/Maana-and-Aramco-Trading-Company-Launch-AI-Application-to-Optimize-Maritime-Fleet-and-Shipping-Operations"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Oeexq7ZtxJluvVol4jAM1chaspJFBvFDJxtA3hpziPjz4wAshTx6l2qDX30exYHJARVy2HfhqxHJUV+vKEIuQO2CX7LD9p72sBxQgHwFw95lbKrTCPoS6Hi/DbJNPWth8EXeHJewQW4QaWiPiFuYuRIj4P022SHNnpX61GnT4iciS4xZz6TwQ1J8KUcwgwS/OFO4YpLzN4sU6nuBwM0CxhAEnVg4mas9Aj0EoozYn4WOqeliZ/gFfNS5RATvXADUNDcMw8hCEEOMGq/Y/+Bb8CStW7XeXOsRfsOXDG8cUGqIlgXP97oLldzYnrD71azGKpIKLL2tU/wCaKZD4k2JichhBtJBQvJLbhvQhkGAN5E=;oJMteCR3NcUos4H9GPwe+g=="
+images:
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "9yethz8G1nxd5aAfOk85ZlHSwARxbPT4xPS1ztboivyb4ijtmEkhcEd6QtP89HTd75BuGmXCkkjLX1WxPQq+1VSwkpNTPwlOJt5br4r6hT06k0ilViHFHnvWyWhnJwtsY2MxuIaJHDbrd8nJVuUUESeRNH8d6XeJ3S3/8CMBL5kt6qQ0u8lQYtDrqodrrkvVgejGpQZbcwqTV1pNuomLovWaPJyShzhEBUbJIv1pGLGdRz7pGCK8Xax11xb2hI/a8V6rwT4m3/lIV52oxrniFF7NH4Kd2vk7QC/a4JqEN03m4HSqjnfiaIZqZc5q1KktyUQJOMDE16S/szELwUav6HS6WgB8hsSeXTCm8LdFoDA=;vgpdmXvppzz8ReE0jPGhPA=="
 ---
 

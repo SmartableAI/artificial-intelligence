@@ -7,7 +7,7 @@ originalUrl: "https://www.notebookcheck.net/MediaTek-MT9638-AI-chip-will-power-t
 webUrl: "https://www.notebookcheck.net/MediaTek-MT9638-AI-chip-will-power-the-next-generation-of-4K-smart-TVs.525958.0.html"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,18 +26,36 @@ images:
 
 related:
   - title: "MediaTek unveils new AI-based 4K smart TV chip"
-    excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
-    publishedDateTime: 2021-03-03T08:35:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=807072"
+    excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial"
+    publishedDateTime: 2021-03-03T09:34:00Z
+    webUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip"
+    ampWebUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
+    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
-    quality: 54
+      name: glamsham.com
+      domain: glamsham.com
+    quality: 74
     images:
-      - url: "http://www.daijiworld.in/images3/square_daijiworld247.jpg"
-        width: 280
-        height: 250
+      - url: "https://www.glamsham.com/wp-content/uploads/2021/03/30a5d7450287576ef93cde74849b907b.jpg"
+        width: 400
+        height: 263
+        isCached: true
+  - title: "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more"
+    excerpt: "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more"
+    publishedDateTime: 2021-03-03T10:34:00Z
+    webUrl: "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179"
+    ampWebUrl: "https://www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179"
+    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179"
+    type: article
+    provider:
+      name: Mobile
+      domain: themobileindian.com
+    quality: 65
+    images:
+      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/03/35179/mediatek-tv-chip_425_735.jpg"
+        width: 735
+        height: 425
         isCached: true
 
 secured: "9d8djThJo5zdQbyfVfKvAj1+xyNQ2Tt3iKNBm9+4NuPLPAzUxW0HjIvx53vF7p8KpYplevflFcBIkSkaGHuObwWVHWBa/6xhmWIGrBDYrqXCfgexw7A1uU4Zf33CiBCrZvFRp3uUmA2EqwTntlgqX9KElvtuNk1jmdK+Xv5PtXzaRtmNPaoYp3V87rWiqdyWzHs71H07Lscn/+ZNueAOQFFjJGI9C/3qTlJDExEu4IpUU36+z8PNqoDsK9exCXdoFsfbzkXk2co4ZfZllUPSh6ZwLH/rOOHMQvzLm9iLt/WsIqVi+FxTqbN/MOdE4ed8TE+iONNgydps+cqeow+mhZTJQmrvM3m5bqts6XtmoRE=;IhNu/LG5HJmN8lKsUh9ObQ=="

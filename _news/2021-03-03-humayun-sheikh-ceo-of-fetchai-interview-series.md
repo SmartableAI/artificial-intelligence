@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-02T17:41:00Z
 originalUrl: "https://www.unite.ai/humayun-sheikh-ceo-of-fetch-ai-interview-series/"
 webUrl: "https://www.unite.ai/humayun-sheikh-ceo-of-fetch-ai-interview-series/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/02/HumayunSheikh1.png"

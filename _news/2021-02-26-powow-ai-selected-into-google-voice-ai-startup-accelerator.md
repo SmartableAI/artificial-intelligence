@@ -2,24 +2,18 @@
 category: news
 title: "Powow AI selected into Google Voice AI Startup Accelerator"
 excerpt: "Powow AI has been selected to participate in Google’s prestigious Voice AI Startup Accelerator program. Powow AI’s SaaS platform unleashes the power of AI in business meetings for the enterprise. Powow uses proprietary AI algorithms to analyze meetings and provides actionable context sensitive insights in its app as well as to downstream systems."
-publishedDateTime: 2021-02-25T17:58:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4d6ddab579894fceb605f1b24d13e4df"
-webUrl: "https://apnews.com/press-release/business-wire/technology-computing-and-information-technology-artificial-intelligence-4d6ddab579894fceb605f1b24d13e4df"
+publishedDateTime: 2021-02-25T22:48:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210225005963/en/Powow-AI-selected-into-Google-Voice-AI-Startup-Accelerator"
+webUrl: "https://www.businesswire.com/news/home/20210225005963/en/Powow-AI-selected-into-Google-Voice-AI-Startup-Accelerator"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Ws8UGL1rYG2o53es5pDqbtrEDFlaozLUiuU0xpmmOgCRwSyZBCIWUF+ONk+RwzU0GA1Tn/T9o8v4yCgsXjbm1ghBKV8u1vvvTrAIRVmHfPoBDRaEcYZHGdP9Uc9HiEyPsrNS31B353wZ+WBDBITcQZZknRTvzvlol5Hi5mnAp2LnKSvngcvuV1AGpXjCl8g2l7Bxq1Z398BTn1mSeCHKO9+GBOH+fpPI7XIRZ6B152qm2x12Uth6WzAwsdQQproccyHCgzpEOiu8LuMEK9U9SPOzVwhZKI2UQG+8fohgdczop1wlio24zJeHvir0l2Yrr0QYuL1VG5RSp6Qvaedfhgwfhk6rJw8s0du5jal64/o=;wGAGwH8UG3nER9PuIab5RA=="
+secured: "ExhGzJu9AaQ5e4/4u4h4+shX+gNKBz46Gdzeh+ym5sr+8HHtpUaKdCBAVqy5fEJLhE5OLEHEm9bvVp8VQ+Wycct6c21Yww5P0AlWe96nFWe+4wvCU6gPb6WsmiSwbWSf+grd1yl3mnX8bbO40UEC3G2BAWIr9yswaNPdMNN3VMlGfvfEAsmOO6iJTfZ5RqtxIAd0oU22nz09Sm3JFN23KJlmvG8wPLWYnXd0SGHmONPAHi2DTqC+okyVtsM+kZ2izAW7IBVN9UwiSdI/rosmuv6qwhXSKJKnqRUBt318L6mlGtCDa/0fNIAPRzqVP+K60/an9BzaJABRmQdIWhRY/07FpzH+EwZwYUDSLFHy7qg=;m6tm8CYqPyRB7jWZKaQ0Ag=="
 ---
 

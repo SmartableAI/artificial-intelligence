@@ -68,20 +68,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Rwanda to use Artificial Intelligence in Covid-19 forecast"
-    excerpt: "Rwanda is set to be the first country on the African continent to use Artificial Intelligence (AI) in predicting the burden of Covid-19 in its territory in particular periods of time. On Friday, February 26,"
-    publishedDateTime: 2021-02-26T17:18:00Z
-    webUrl: "https://www.newtimes.co.rw/news/rwanda-use-artificial-intelligence-covid-19-forecast"
-    type: article
-    provider:
-      name: The New Times
-      domain: newtimes.co.rw
-    quality: 37
-    images:
-      - url: "https://www.newtimes.co.rw/sites/default/files/main/articles/2021/02/26/audace-nakeshimana-the-founder-of-insightiv.jpg"
-        width: 873
-        height: 491
-        isCached: true
 
 secured: "GE9CeSvOnyw9Wz/Kro6GI5ObJ+hnzFe8qeqsyHKnGRp0lBcbGQXTlFVUGM6mrDnJX3hjiPaLjXoCOsKliqWchBMoINBlcPjWfNwiNu7fOXxewsdHKWBB2f9keRZ7zg/D5MQSf+/NEbh7+F1+23E3rE7T1R+seeg8P+QYawDHnKcm9nDB56D3UygK9k8233ZLG/ZI7bwMR55lcbsH+uc5xJPlBsUNo2wk+gSsuK0mZ8iF3BWDPJvANFgBb8OE2JInJxtH3x5zwNLhkugCbrVyfTVcjk8Lv2mIbClf2wDvSIBtOZ+ODVh22fU2HiSSlrEf1VoE30KqjUJaD6Hl9kxb5jivR94A7Au8DACWhDN+i7o=;4axRleAmI9WgzHy8PBBWJg=="
 ---

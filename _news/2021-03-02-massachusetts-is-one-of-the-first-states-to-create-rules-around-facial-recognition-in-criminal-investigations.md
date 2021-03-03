@@ -63,20 +63,6 @@ related:
         width: 2500
         height: 1569
         isCached: true
-  - title: "Facebook Confirms Its Working On 'Facial Recognition' Technology"
-    excerpt: "Social media giant Facebook (NASDAQ:FB) has confirmed media reports that the company is planning to incorporate facial recognition technology into its upcoming smart glasses device. Facebook's head of hardware,"
-    publishedDateTime: 2021-02-26T18:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facebook-confirms-its-working-on-facial-recognition-technology-2021-02-26-71973028"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Law on collection of facial recognition data to be proposed at two sessions"
     excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
     publishedDateTime: 2021-03-02T10:36:00Z

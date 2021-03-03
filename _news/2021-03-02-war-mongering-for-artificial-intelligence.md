@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "War Mongering for Artificial Intelligence"
-    excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence."
-    publishedDateTime: 2021-02-26T17:25:00Z
-    webUrl: "https://www.modernghana.com/news/1064364/war-mongering-for-artificial-intelligence.html"
-    ampWebUrl: "https://www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
-    cdnAmpWebUrl: "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1064364/war-mongering-for-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Modernghana.com
-      domain: modernghana.com
-    quality: 57
-    images:
-      - url: "https://cdn.modernghana.com/images/content/715202080935-vbqduhgtsn-dr.binoy-kampmark.png"
-        width: 800
-        height: 472
-        isCached: true
   - title: "Looking For An AI Ethicist? Good Luck"
     excerpt: "As more companies adopt AI, the risks posed by AI are becoming clearer to business leaders. That is driving many companies to hire AI ethicists to help"
     publishedDateTime: 2021-03-02T12:17:00Z

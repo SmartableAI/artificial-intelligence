@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com"
-excerpt: "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),"
-publishedDateTime: 2021-02-12T12:08:00Z
-originalUrl: "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/"
-webUrl: "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/"
+title: "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com"
+excerpt: "The “Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By Demand Category, By Company, By Region, Forecast & Opportunities, 2026” report has been ..."
+publishedDateTime: 2021-02-12T12:14:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6"
 type: article
 
 provider:
-  name: Financial Buzz
-  domain: financialbuzz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "55zWEqoBEywLyqpc/ScsyS88Yy6rneZX6hIWnX0mmnpqTPsjXTL1Nh5RHV3B6HipcgybBNfH91LuXhLCwyjh4a4oQlXOlNp1YWwT7FD7BLWkqzvXVyFi0KDEE27CoWNnrIqoXRksFm64ZLtjjTvDsFqD1vvDcZryEApKV9RRBRLWnONbFp21+ao8/5EBJNJ18CxdgxV1aUr0iLl3j/BdV7tCWyqzYFLi6XHF623il9bkYbbCT6Qu1OjahJ99m9T8oQzmSgVpaVKoeBuN7gyt+cfQflPy0AF49lA7HLwq2M+zZgzkDNOCSZBFMf7ZUtzWU0GTUhlnfC9LoquBEeFEmEMfC420xFV6K0vJO7yUmY0=;0BGrq0T6EzqLIyz3Ee3FJg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Y2sL92YsTDmuxC/SKQ7Gg1DPAhXwj3nxV9Xr3WH+itRkuR29XSAEH+tvV1yqVBci7jSESPrCISOCbac/Vj6XVg4wpv1fl4MLXWc/3sRWQHN1LLsR8HIyODmC9YYIPS7+P8FXzy3pe0moF2O6jd7XFeEdO0OTGvrOavRHyEhnVNJWup00Vr9z0Qapb6Hqk+JWJLb7WbWQxBCTc/I6myt46hXibkspwfkin2kjr32smS6jQMi5UNp1J3QREPpjSiYH/S0Qk/7K672BnKFFFGusPrt750zNNL2eWqSw/mHEZDqI/+ojs/6tM7GEY4GG0n2XlLIlN1/jGxOB3k9ol5/v11f5+yEOeODZ5tJtF4tZrQU=;X91gHe0qdNRZ+Im1v3e8TQ=="
 ---
 

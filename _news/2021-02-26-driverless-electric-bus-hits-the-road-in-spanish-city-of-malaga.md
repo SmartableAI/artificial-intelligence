@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Driverless electric bus hits the road in Spanish city of Málaga"
-excerpt: "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ..."
-publishedDateTime: 2021-02-25T18:34:00Z
-originalUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ"
-webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ"
+excerpt: "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe"
+publishedDateTime: 2021-02-25T17:34:00Z
+originalUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
+webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 ampWebUrl: "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "G681LTvzCMINXwgb8nmJLRj1R1kfDor5eP51Gl8egwFy7I9TLSxVeFeq7tlNhWx9ltqg0NP79P51IgarT1p6GdTVNZ7uW1nJR89hg717xR4KRla+i+RPMBKLxXgX5yzhVLOIynt1UVpwFHZn2Q8yBM37cunNxDgmwrfIkk9ZBr77qTbJ9jHocfa8fT9lueWyQSv+8qwMkfukfsVl3UWpDMoWOHxo36upBa+daMUlYWrOVMiYEqufy0bXs9gAN9XRBCPZ+dyD09XD9n5l1FwUEwn569Ak5a7cpkutEeReTRJhZTqH9z4lBpqsQtnW1b7nYyh/NCDJLFkuTFamGBl0HUM1aNWpM5ApaDDJRg/GdQg=;3q69wMycLy5ewr5HZaTgsg=="
+secured: "sfrhXBfwFuEwK17Q1rEOV8zolp9DCeKhcGwAMOgGykoCPmUX7EhIO2SZh8/mhfWhGG4jmwLNqgGJty9G5YEXcRMJfMizQiFa4+++fPzu1ICNuAif7F6GJWJBiIjkJu4T9w668X5IUsAzLQqpEgAiwSuX3UEjaoq4wbmEtAmXXmQq4Ijb6tkHgpFn+P4Zn0iyvQAGulVq67q3iAlhNtpa7uNp8ok/HWzvoPS12LJO6XbZjbArly4JBq6EbpAhjdkxMm3UEKl9q5Gdin9n8MsmCSdsWmc7Tnb7jv7Vs3xrNcPxQd3oTbAwfTrbtCgjG8e+ZAwucu+Y6P+FHJXVHcH7XQtaJ+JZBy4InWmhLe3ArW4=;CObwpE6Omc3MyqWUs2Hm0Q=="
 ---
 

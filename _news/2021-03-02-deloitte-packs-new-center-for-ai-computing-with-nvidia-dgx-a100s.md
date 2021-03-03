@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Deloitte Teams With NVIDIA to Launch the Deloitte Center for AI Computing"
-    excerpt: "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate the development of innovative artificial intelligence (AI) solutions for Deloitte clients."
-    publishedDateTime: 2021-03-03T05:36:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-f630ff9a57c1ad99da348086a50d0299"
+  - title: "Deloitte Teams with NVIDIA to Launch the Deloitte Center for AI Computing"
+    excerpt: "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate"
+    publishedDateTime: 2021-03-02T20:09:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: HPCwire
+      domain: hpcwire.com
     quality: 38
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_hpe-405x228.jpg"
+        width: 405
+        height: 228
         isCached: true
 
 secured: "pWRxHfkQ1OmfDiyRaDQzTH9CgNoDt2+/soJDn4M16cZUmCSGSFp4HP2FeiRlTZhUK2krmD6oQLPTtvt9F0vRXECnHVe07/blrnFN9dzr1dPE7QVRRR2xx9UoK0VNj58FXbov3M/zDjPJHrX2rV2cP/hMyBVeqD6VdI4AFAtVjtRsxXU5KHGrkP8hhKJACZsbRRZ//fbNx/DazhTNbJ3ZZA3T+AsGGUWULsWVzH4/O6aGRyJRKVogeu/KeyB6dk7OX5yf26VNg7aa4aL5Qyw7tMfBeKnQxGkg8dJMcddsJFjn6yJMji+M6riNoreb4/RO8Bt/rmgl+lTYbjCHH970kg5/XSsahhCQEd5wEyk+XYQ=;65RJi9vcEApzFMxV1tVahg=="
