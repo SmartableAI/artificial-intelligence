@@ -2,6 +2,316 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-02-09-artificial-intelligence-for-good-how-ai-is-helping-humanity.md",
+      "title": "Artificial Intelligence For Good: How AI Is Helping Humanity",
+      "excerpt": "AI empowers organizations, governments and communities to build a high-performing ecosystem, and its profound impact on human lives is solving some of the most critical challenges faced by society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6021b467587cf7b5bcb663a7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6720%26cropY1%3D0%26cropY2%3D3780",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/02/09/artificial-intelligence-for-good-how-ai-is-helping-humanity/amp/",
+      "publishedDateTime": "2021-02-09T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-how-ai-not-automation-will-revolutionize-commercial-trucking.md",
+      "title": "How AI (not automation) will revolutionize commercial trucking",
+      "excerpt": "Beset with labor shortages and the whims of markets and new technologies, truckers are getting a boost from digital brains.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "originalUrl": "https://www.zdnet.com/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2021/02/09/392d2866-a608-414d-a822-19cfafd9e5f7/semi-truck.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-ai-not-automation-will-revolutionize-commercial-trucking/",
+      "publishedDateTime": "2021-02-09T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-data-collection-and-labeling-market-size-worth-822-billion-by-2028-grand-view-research-inc.md",
+      "title": "Data Collection And Labeling Market Size Worth $8.22 Billion By 2028: Grand View Research, Inc.",
+      "excerpt": "Data gathering and its annotation, combined with artificial intelligence (AI ... to its autonomous driving customers, including Waymo LLC; Lyft, Inc.; Zoox; and Toyota Research Institute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/data-collection-and-labeling-market-size-worth-8-22-billion-by-2028-grand-view-research-inc-301224275.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
+          "width": 1400,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-legal-tech-artificial-intelligence-market-outlook-2021-big-things-are-happening-judicata-legal-robot-inc-justia.md",
+      "title": "Legal Tech Artificial Intelligence Market Outlook 2021: Big Things are Happening | Judicata, Legal Robot Inc., Justia",
+      "excerpt": "This report elaborates the market size, market characteristics, and market growth of the Legal Tech Artificial Intelligence industry, and breaks down according to the type, application, and consumption area of Legal Tech Artificial Intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2021/02/09/legal-tech-artificial-intelligence-market-outlook-2021-big-things-are-happening-judicata-legal-robot-inc-justia/",
+      "originalUrl": "https://ipsnews.net/business/2021/02/09/legal-tech-artificial-intelligence-market-outlook-2021-big-things-are-happening-judicata-legal-robot-inc-justia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-do-you-trust-this-computer-director-on-the-dangers-of-artificial-intelligence.md",
+      "title": "\"Do You Trust This Computer?\" director on the dangers of artificial intelligence",
+      "excerpt": "Artificial intelligence is the technology behind everything from self-driving cars to military drones. Last week, a new documentary premiered that focuses on both the benefits and the dangers of A ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/do-you-trust-this-computer-director-on-the-dangers-of-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/video/do-you-trust-this-computer-director-on-the-dangers-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/04/14/0f00778d-b66e-401c-b395-db6d651d63ed/thumbnail/1200x630/d637e3163555a82f5b763d931ad474f4/0414-ctm-paine-aidocumentary-1545935-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T01:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-finch-capital-launches-third-fund-to-invest-in-european-fintech-at-series-a-and-b.md",
+      "title": "Finch Capital launches third fund to invest in European fintech at Series A and B",
+      "excerpt": "Finch Capital, the early-stage fintech VC with a presence in London and Amsterdam, has raised a third fund. Targeting a final close of €150 million, the fund has already secured €85 million from LPs ready to deploy.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/",
+      "originalUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/IMG_6638.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/09/finch-capital-launches-third-fund/amp/",
+      "publishedDateTime": "2021-02-09T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-02-09-rsl10-smart-shot-camera-from-on-semiconductor-enables-event-triggered-imaging-with-ai.md",
+      "title": "RSL10 Smart Shot Camera from ON Semiconductor Enables Event Triggered Imaging with AI",
+      "excerpt": "A companion smartphone application provides a user interface for the platform and acts as the gateway to cloud-based, AI-enabled object recognition services. The platform brings together a number ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210208005117/en/RSL10-Smart-Shot-Camera-from-ON-Semiconductor-Enables-Event-Triggered-Imaging-with-AI",
+      "originalUrl": "https://www.businesswire.com/news/home/20210208005117/en/RSL10-Smart-Shot-Camera-from-ON-Semiconductor-Enables-Event-Triggered-Imaging-with-AI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-glory-star-signs-agreement-with-gtcom-entertainment-to-empower-consumption-through-ai-technology.md",
       "title": "Glory Star Signs Agreement With GTCOM Entertainment to Empower Consumption Through AI Technology",
       "excerpt": "In light of the growing market demand and consumption growth, Glory Star signed the Agreement with GTCOM Entertainment to integrate resources from both parties. Under the Agreement, GTCOM Entertainment will provide to Glory Star access to AI and certain computer technology.",
@@ -865,333 +1175,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-better-data-cheaper-tech-promise-to-unlock-natures-secrets.md",
-      "title": "Better Data, Cheaper Tech Promise to Unlock Nature’s Secrets",
-      "excerpt": "Conservationists hope newly launched open-source tools will lend more insight into endangered species and the effects of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "originalUrl": "https://www.wsj.com/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-294425/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/better-data-cheaper-tech-promise-to-unlock-natures-secrets-11612800044",
-      "publishedDateTime": "2021-02-08T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-softbank-turns-11-billion-profit-helped-by-doordash.md",
-      "title": "SoftBank Turns $11 Billion Profit, Helped by DoorDash",
-      "excerpt": "The Japanese technology investor rode red-hot stock markets to a big quarterly profit, largely on the back of investment gains at its $100 billion Vision Fund and its $10 billion successor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
-      "originalUrl": "https://www.wsj.com/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510?mod=newsviewer_click",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-296084/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-turns-11-billion-profit-helped-by-doordash-11612768510",
-      "publishedDateTime": "2021-02-08T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-it-veterans-launch-15-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-salesforce-needs.md",
-      "title": "IT Veterans launch $1.5 million artificial intelligence Startup BiQ Robot, in response to evolving Salesforce needs.",
-      "excerpt": "Top-tier IT Consultants Tim McAdam and Vanessa Laughlin today announced the upcoming open BETA availability of their AI Startup BiQ Robot, soon available on the Salesforce AppExchange. BiQ Robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ab19543999/it-veterans-launch-1-5-million-artificial-intelligence-startup-biq-robot-in-response-to-evolving-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19543999",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19543999",
-      "publishedDateTime": "2021-02-08T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-alphabet-and-dolby-lead-the-balance-sheet-powerhouses.md",
-      "title": "Alphabet And Dolby Lead The Balance Sheet Powerhouses",
-      "excerpt": "When choosing a stock to buy don't just look at earnings. Pay attention to a company’s balance sheet (assets versus liabilities). These companies pass six tests of strength.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
-      "originalUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020bb1d9bfddccf852d90d8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johndorfman/2021/02/08/alphabet-and-dolby-lead-the-balance-sheet-powerhouses/amp/",
-      "publishedDateTime": "2021-02-08T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us.md",
-      "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
-      "excerpt": "BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20210208005050/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20210208005050/bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages.md",
-      "title": "Microsoft details Speller100, an AI system that checks spelling in over 100 languages",
-      "excerpt": "Microsoft's machine learning-powered Speller100 system handles spell correction for over 100 languages on Bing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
-      "originalUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/Bing2520Logo2520HD2520Wallpaper-1-e1574091045750.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/08/microsoft-details-speller100-an-ai-system-that-checks-spelling-in-over-100-languages/amp/",
-      "publishedDateTime": "2021-02-08T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-when-self-driving-cars-get-embroiled-in-massive-car-pileups.md",
-      "title": "When Self-Driving Cars Get Embroiled In Massive Car Pileups",
-      "excerpt": "Exploring why self-driving cars will indeed be mired in massive car pileups and are not invincible for such tragedies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6020d8f3a91e85b44784b7e1%2F0x0.jpg%3FcropX1%3D1144%26cropX2%3D3871%26cropY1%3D436%26cropY2%3D1970",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/08/when-self-driving-cars-get-embroiled-in-massive-car-pileups/amp/",
-      "publishedDateTime": "2021-02-08T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

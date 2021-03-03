@@ -2,6 +2,344 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-01-26-traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics.md",
+      "title": "TraQiQ makes big bet on Machine learning by acquiring Kringle, Leader in Loyalty, Rewards and Data analytics.",
+      "excerpt": "Ajay Sikka, CEO of TraQiQ said “Bringing the Kringle product suite and team into the TraQiQ family will allow us to provide a seamless solution for the post COVID hyper-digital, Contactless economy by integrating Kringle’s mobile and web products for end-to-end digital commerce solutions”.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/traqiq-makes-big-bet-on-machine-learning-by-acquiring-kringle-leader-in-loyalty-rewards-and-data-analytics-1030004935",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/TraQiQ-makes-big-bet-on-Machine-learning-by-acquiring-Kringle-Leader-in-Loyalty-Rewards-and-Data-analytics-1030004935",
+      "publishedDateTime": "2021-01-26T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge.md",
+      "title": "Artificial Intelligence Will Define Google’s Future. For Now, It’s a Management Challenge.",
+      "excerpt": "Google’s parent, Alphabet, has waded through one controversy after another involving its top researchers and executives in the field over the past 18 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "originalUrl": "https://www.wsj.com/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-290370/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/artificial-intelligence-will-define-googles-future-for-now-its-a-management-challenge-11611676945",
+      "publishedDateTime": "2021-01-26T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-sophiathe-humanoid-robotwill-be-rolled-out-this-year-potentially-replacing-workers.md",
+      "title": "Sophia—The Humanoid Robot—Will Be Rolled Out This Year Potentially Replacing Workers",
+      "excerpt": "Hanson Robotics, the company behind Sophia, plans to mass produce robots this year to help people during the pandemic. The Hong Kong-based company contends that the human-like robots can “replace workers across industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6010260bc7ace6371462f7ef%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2021/01/26/sophia-the-humanoid-robot-will-be-rolled-out-this-year-potentially-replacing-workers/amp/",
+      "publishedDateTime": "2021-01-26T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-urikar-the-most-advanced-powerful-percussion-massager-with-ai-chip-for-daily-stress-relief-and-workout-recovery.md",
+      "title": "URIKAR - the Most Advanced & Powerful Percussion Massager with AI Chip for Daily Stress Relief and Workout Recovery",
+      "excerpt": "Percussion massage guns have truly become more and more popular in the past year. As a home massage tool, it is a super useful innovation, especially in this difficult COVID-19 period. If you haven’t yet jumped in on the trend,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf",
+      "originalUrl": "https://apnews.com/press-release/pr-com/lifestyle-diet-and-exercise-exercise-ace576e3331cb0fea0f5d7f6ba60c2cf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-sales-startup-insentai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots.md",
+      "title": "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots",
+      "excerpt": "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/sales-startup-insent-ai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots/amp/",
+      "publishedDateTime": "2021-01-26T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments.md",
+      "title": "Why the OECD wants to calculate the AI compute needs of national governments",
+      "excerpt": "The OECD is working to help countries better understand their AI compute demand needs and prepare for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
+      "originalUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/01/oecd.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/why-the-oecd-wants-to-calculate-the-ai-compute-needs-of-national-governments/amp/",
+      "publishedDateTime": "2021-01-26T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-container-approach-to-boosting-gpu-utilization-secures-bigger-backing.md",
+      "title": "Container Approach to Boosting GPU Utilization Secures Bigger Backing",
+      "excerpt": "Getting peak utilization out of GPU farms in the age of AI will be the unending quest. From being able to partition a GPU into small fractions to scaling",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
+      "originalUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/ab_traffic_smart.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/01/26/container-approach-to-boosting-gpu-utilization-secures-bigger-backing/amp/",
+      "publishedDateTime": "2021-01-26T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-leading-hr-technology-company-launches-ai-ethics-advisory-board.md",
       "title": "Leading HR Technology Company launches AI Ethics Advisory Board",
       "excerpt": "BALTIMORE, Jan. 26, 2021 /PRNewswire/ -- Arena Analytics launched its external AI Ethics Advisory Board - the first human resource technology firm to do so - on January 12, 2021. Arena's ...",
@@ -871,325 +1209,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution.md",
-      "title": "SVI Teams with IDEMIA NSS to Offer World's Most Advanced FMCW 4D LiDAR Biometric Recognition Solution",
-      "excerpt": "StereoVision Imaging, Inc. (SVI), the emerging world leader in 2D and 3D/4D LiDAR based facial/object recognition and remote",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/43229319/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
-      "originalUrl": "https://www.wboc.com/story/43229319/svi-teams-with-idemia-nss-to-offer-worlds-most-advanced-fmcw-4d-lidar-biometric-recognition-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T01:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-artificial-intelligence-in-drug-discovery-market-key-players-ibm-watson-exscientia-gns-healthcare-benevolent-ai.md",
-      "title": "Artificial Intelligence In Drug Discovery Market Key Players: IBM Watson, Exscientia, GNS Healthcare, Benevolent AI",
-      "excerpt": "The global Artificial Intelligence In Drug Discovery market size is expected to be worth around US$ 3.4 billion by 2027, according to a new report by Vision Research Reports. The global Artificial Intelligence In Drug Discovery market size was valued at US$ 473.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-key-players-ibm-watson-exscientia-gns-healthcare-benevolent-ai-2021-01-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-key-players-ibm-watson-exscientia-gns-healthcare-benevolent-ai-2021-01-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-artificial-intelligence-ai-delivers-for-cloudcommerce.md",
-      "title": "Artificial Intelligence (AI) Delivers for CloudCommerce",
-      "excerpt": "Our clients are reaping the benefit of our real-world application of artificial intelligence. Our goal is to continue to work toward potentially reducing the costs of advertising by as much as 50%.” The Company is developing SWARM into a cloud hosted software platform that will harness the power of artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-marketing-and-advertising-corporate-news-marketing-campaigns-66fd70c577a5eeeb50e3990141edbed3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T00:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai.md",
-      "title": "OpenCV opens $400,000 contest to solve real-world problems with spatial AI",
-      "excerpt": "Backed by Intel and Microsoft Azure, the OpenCV AI Competition consists of two phases: Phase 1 requires a team to identify a real-world AI problem that can be solved over a three-month period with ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/opencvai.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/opencv-opens-400000-contest-to-solve-real-world-problems-with-spatial-ai/amp/",
-      "publishedDateTime": "2021-01-26T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-why-most-ai-projects-fail.md",
-      "title": "Why most AI projects fail",
-      "excerpt": "This is the case especially in AI, a relatively new field fueling business worldwide and shifting the attention of investors to more technologically powered, sustainable and cost-effective solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/why-most-ai-projects-fail/",
-      "originalUrl": "https://gulfbusiness.com/why-most-ai-projects-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2020/10/GettyImages-1157984833.jpg",
-          "width": 800,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T22:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla.md",
-      "title": "Chinese electric carmaker Xpeng rolls out autonomous highway driving features in challenge to Tesla",
-      "excerpt": "Xpeng Motors' Navigation Guided Pilot or NGP is rolling out to eligible customers of its P7 sedan in a challenge to Tesla's own software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-      "originalUrl": "https://www.msn.com/en-us/news/other/chinese-electric-carmaker-xpeng-rolls-out-autonomous-highway-driving-features-in-challenge-to-tesla/ar-BB1d5vjM",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106720636-1601341909516-Image_from_iOS_4.jpg?v=1601342118&w=720&h=405",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-      "publishedDateTime": "2021-01-25T21:40:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-        "domain": "com/2021/01/26/xpeng-rolls-out-autonomous-driving-features-in-challenge-to-tesla.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-face-recognition-kiosks-let-you-leave-your-wallet-at-home.md",
-      "title": "Face-recognition kiosks let you leave your wallet at home",
-      "excerpt": "He came to the world of customer engagement platforms after having worked on facial recognition for access control in the security industry. “We were looking to do something that brings ROI [return on investment] to the customers who bought the system ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.israel21c.org/face-recognition-kiosks-let-you-leave-your-wallet-at-home/",
-      "originalUrl": "https://www.israel21c.org/face-recognition-kiosks-let-you-leave-your-wallet-at-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.israel21c.org/wp-content/uploads/2021/01/main-pic-5.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Israel21c",
-        "domain": "israel21c.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

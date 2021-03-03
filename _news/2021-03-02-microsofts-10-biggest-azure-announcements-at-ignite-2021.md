@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T14:10:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -118,6 +118,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2021/02/azure_percept.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "The hope is that this new platform will help create a Microsoft-powered ecosystem of edge devices designed for low-power implementations, in essence replicating its success with t"
+    publishedDateTime: 2021-03-02T14:04:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
+        width: 4800
+        height: 2700
         isCached: true
   - title: "Microsoft Mesh brings mixed-reality apps to Azure"
     excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
@@ -340,20 +356,6 @@ related:
         width: 1365
         height: 768
         isCached: true
-  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
-    excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
-    publishedDateTime: 2021-03-02T14:15:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
-        width: 845
-        height: 475
-        isCached: true
   - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
     excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
     publishedDateTime: 2021-02-26T19:10:00Z
@@ -410,6 +412,6 @@ related:
         height: 495
         isCached: true
 
-secured: "/f/3VNpOnCBHwct8ORWHuIUmHLk+h39/iv2E1QxTydpCyr+hO3CzKl//Rwqh6l13YV6f/Kv1b6CHyGHWnxd2m0ub0qbuWMh5y3hDmHlEoqtL64Z0AzG1SXYR7cgXHNmO+dwsUgglTMjxzVyyXl/JSY+A3rVirBTHMj/El0qZfqKoliDhMXYuQ/GIw5jQ4TTFOSkoHyiENZE7IETUB4/oCyaqRJQ+sWffIjvRNgPldXnK84vWZmdI8LPROqJVPF3R9Bpf71oHJ5Ok/pHqnaScVIVKdfD5oO92EWHU306SxqRPDB6GwktSCnbO0PVFdg1VNKCMiilqN2PrID22Y2PaJa1umoYaLPG0yxQ6OwSkInY=;9G5H1So2wXckcVeCB6UvqA=="
+secured: "ZF1ggJ7pNz/EV6aqYwdcX1g8kn2c2DZFKnKDAdFclPtyY+qJBxrkwcqFkAOSfr75rVabz3yaXg89IIJz+KbSXWHdwu5xeavDjqgrgDxYXmruqRbDyfET6aKxbzhf3N5lNgZl3K4Va5ZV09v+/jYSJlAQId1WcXynIs2Dw587KT5/tiEN6IrP9lbuVwnDjvHgVpREeftGKl3AWCfB7xmzZjy2SQemtMnDm3IKQGtaA/j+HvyvM9nW8iL8VxFlT4vPbaT05bmuUMNyBgvrvGBi1fYSzKsrx/eoeIWZd4vfa6EAZiwHhlOg6Ei4ElysQDRAlkqGJSbnRgy6IdoGzX4KXdw9x3cc6EXKkNHaKGDkIe4=;dVToK344buXF6lxDAXLmTQ=="
 ---
 

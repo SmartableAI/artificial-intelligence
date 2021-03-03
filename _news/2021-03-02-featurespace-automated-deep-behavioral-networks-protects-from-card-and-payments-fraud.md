@@ -7,7 +7,7 @@ originalUrl: "https://www.helpnetsecurity.com/2021/03/01/featurespace-automated-
 webUrl: "https://www.helpnetsecurity.com/2021/03/01/featurespace-automated-deep-behavioral-networks/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 627
     isCached: true
-
-related:
-  - title: "Featurespace unveils Automated Deep Behavioral Networks for card, payments industry"
-    excerpt: "Featurespace has introduced Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defense to protect consumers from scams, account takeover, card and payments fraud."
-    publishedDateTime: 2021-02-26T10:52:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=1935525"
-    type: article
-    provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 18
-    images:
-      - url: "https://www.bernama.com/bm/img/bernama.png"
-        width: 2483
-        height: 2942
-        isCached: true
 
 secured: "gV7vg9kmRcXS6zD6oS7eS9yHzOTkOrTJFmaUziG+KJKro5bkLfq2RX0qbBXvyWwdgefpmL5exCK4aH05mY4Dz9/HdNOWPfSl0TxudQ76xVH8H/JiJy0lLdTuh18lkO/CHRF8E3BusjvlkBJu+PcFxaexRNeRk9o+no+AdYkz6tfI9/dD2QXll2EGgkgXwfpWWA88ZIA94s/bJrkdKYyCM9oI3xooIOwR7GTo8grFZ9uZuE4oAiThalJBoBibKHKa+8ho8CF8JWHvZrFjSRgbdEx6GeJkpabN2zn9OzbClY0GtxUiVgM0SjcLDVmk2B6ArqIpezL4/kQIgpIDtKiQwIOgEMkAIS9gUQg6AhDakl0=;1Mnuv/rCUDEgzT79X/j0tw=="
 ---

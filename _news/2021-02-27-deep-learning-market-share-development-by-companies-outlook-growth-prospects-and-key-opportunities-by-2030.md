@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-sha
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-share-development-by-companies-outlook-growth-prospects-and-key-opportunities-by-2030-2021-02-26"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -30,15 +30,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Market Leading Companies Capabilities, Goals and Strategies During 2020"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2021-03-01T00:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01"
+  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
+    publishedDateTime: 2021-02-26T18:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
+    excerpt: "Global Deep Learning Market AnalysisDeep learning can be defined as a machine learning technique that teaches computers"
+    publishedDateTime: 2021-02-28T08:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2021-02-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

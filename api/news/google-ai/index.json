@@ -1302,6 +1302,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-17-stacktrace-podcast-123-swift.md",
+      "title": "Stacktrace Podcast 123: “Swift++”",
+      "excerpt": "John and Rambo discuss the recent discontinuation of Swift for TensorFlow, and whether open sourcing commercial projects is a good idea.",
+      "sourceUrl": null,
+      "webUrl": "https://9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/",
+      "originalUrl": "https://9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/01/StacktraceWide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/amp/",
+      "publishedDateTime": "2021-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai.md",
       "title": "Introduction to Tensorflow 3D for 3D Scene Understanding by Google AI",
       "excerpt": "Google AI has introduced Tensorflow 3D, designed to bring 3D deep learning capabilities into TensorFlow. The library can be used for state-of-the-art 3D semantic segmentation, 3D object detection, and 3D instance segmentation Understanding the 3D sparse ...",
@@ -1429,49 +1472,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
-      "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
-      "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
-      "originalUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

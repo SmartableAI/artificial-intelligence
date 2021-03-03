@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Microsoft Azure Percept promises to make edge computing a doddle"
-excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
-publishedDateTime: 2021-03-02T14:15:00Z
-originalUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+excerpt: "The hope is that this new platform will help create a Microsoft-powered ecosystem of edge devices designed for low-power implementations, in essence replicating its success with t"
+publishedDateTime: 2021-03-02T14:04:00Z
+originalUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
 type: article
-quality: 54
+quality: 104
 heat: -1
 published: false
 
 provider:
-  name: Cloud Pro
-  domain: cloudpro.co.uk
+  name: IT Pro
+  domain: itpro.co.uk
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
-    width: 845
-    height: 475
+  - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
+    width: 4800
+    height: 2700
     isCached: true
 
 related:
@@ -343,7 +349,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN
@@ -410,6 +416,6 @@ related:
         height: 495
         isCached: true
 
-secured: "Arr+f949HbWOPi+4zCKzIFwP9DrWURF0L+uT5jW+kcIb6E3m+YqstzFl3zv1txBM92GPftc/pP8fohE6DkbIqla10sdkLQEfJ+HqwnZIODhUteoUzk//0oVZls/6eGiRDynfiMl1jdD6Wb8dwwrI3H2GzWtzjVLs8hzcaU7o0+jGp/ssmDCIB/6PDKwxIkQnu9GNozlmau2IU9MZSNywlJ7Q2UuSF2DPAVSEzomrN4zMmhV7Ic8fPCqrR2rJucsfI25XV7QpfdsMA6ra8oBiKND/ncvyablA7qdp+Oi5uJyWX+vEOixvsceysRQnxmaOW7jew47K2sa91s5+bhYVU/NXMFjiaCsTVl5G+5a8euzydzqS6qv3tpF0N+Q495BmpGmm6MRNAM34icBY7ldZtlNJ+RmlRugEXJasB+SzF+t6rE3gkTP6hFDAi7m/eHobxaCpeHSm8OO+7i1CNgbPYa0ysBhmxGWulvPlxIXbyt6XCgpYyvqOBMR7U01tyEDOCexsHZyzvEaEfbxeeCPTpg==;tKQ4DFESd8GCWxnKLcpRSw=="
+secured: "Z7iXIjtybQC0Fjg92a9yLvi+KBW1gcjfPgMjI/GAT3ZTdy2dhW2WjDQkSWZ7VtC5dPpm8+7tzFU7ND1xKSRqKwPtuChEkBsYpS1Xt65od1TEADrJ+w4LLucNFxQwt6LZFGCfrOA5PKx2tRkkndzPqF7PfDuNt4/HbN3uU76ZSiCmDPQihtZv5QGMEAg6dztDp51v8ROm0OozkCwditUUqebVn9w8pWk+yQV1rj0yRpY5aRN/zT/u8HjY1TqVGnDphpZZ7SkeM1BKMSQn02h4SFGSSB6p2IKpaP0cYE4Jtm36G/1LN7/YzTd+OvkXEGAB55mctUYAAqYJxtaOKutBqumxRb5IViRivbkIi3Ozdyg=;xVUkjLJLP2Oo8//Pjm7gQQ=="
 ---
 

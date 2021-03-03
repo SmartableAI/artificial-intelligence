@@ -115,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -155,7 +155,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {

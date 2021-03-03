@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-ana
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2021-02-28"
 type: article
 quality: 50
-heat: 60
+heat: -1
 published: false
 
 provider:
@@ -31,15 +31,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global AI-Based Fever Detection Camera Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19"
-    excerpt: "What will the AI-Based Fever Detection Camera Market growth rate of Nuclear Medicines Radioisotopes market in 2026? What are the key factors driving the global Nuclear Medicines Radioisotopes market?"
-    publishedDateTime: 2021-03-02T06:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-detection-camera-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-01"
+  - title: "Deep Learning Market Share, Development by Companies Outlook, Growth Prospects and Key Opportunities by 2030"
+    excerpt: "The Deep Learning Market Share is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given"
+    publishedDateTime: 2021-02-26T16:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-share-development-by-companies-outlook-growth-prospects-and-key-opportunities-by-2030-2021-02-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automotive Artificial Intelligence Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The Automotive Artificial Intelligence Market Share is expected to exceed more than US$ 10.5 Billion by 2024 at a CAGR"
+    publishedDateTime: 2021-02-26T18:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

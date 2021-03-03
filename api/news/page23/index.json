@@ -2,6 +2,316 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-11-ex-microsoft-amazon-execs-join-indian-voice-tech-startup-vernacularai.md",
+      "title": "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai",
+      "excerpt": "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673760",
+      "originalUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673760",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-when-automation-and-machine-learning-work-together-and-when-they-dont.md",
+      "title": "When Automation and Machine Learning work together and when they don’t?",
+      "excerpt": "Fortunately, today, various stages of the machine learning pipeline are becoming automated through the use of ML techniques, giving rise to Automated Machine Learning (AutoML) tools, both commercial (e.g., DataRobot, Dataiku DSS, Google Cloud HyperTune ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/data-automation-machine-learning-does-automl-integrate-them-all/",
+      "originalUrl": "https://www.analyticsinsight.net/data-automation-machine-learning-does-automl-integrate-them-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/02/Data-Automation-Machine-Learning-Does-AutoML-integrate-them-all.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular ...",
+      "excerpt": "GBT Technologies Inc. ( OTC PINK: GTCH ) (“GBT” or the “Company”), is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-products-and-services-integrated-circuits-2a4b00b19267a47f20cbabaa81b898f9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.md",
+      "title": "How to use facial recognition from your Photos library with Apple HomeKit Secure Video",
+      "excerpt": "Apple lets you know who is at the door or another camera when used in conjunction with its secure video system.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.html",
+      "originalUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/12/mac911-homekit-face-rec-config-100872057-medium.jpg",
+          "width": 300,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.amp.html",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/3602210/how-to-use-facial-recognition-from-your-photos-library-with-apple-homekit-secure-video.amp.html",
+      "publishedDateTime": "2021-02-11T03:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-can-privacy-coexist-with-technology-that-reads-and-changes-brain-activity.md",
+      "title": "Can privacy coexist with technology that reads and changes brain activity?",
+      "excerpt": "An onslaught of new technology aims to listen to — and maybe even change — your brain activity. Readers, scientists and ethicists grapple with the ethical implications of new ways to get inside the skull.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics",
+      "originalUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2021/02/021321_LS_brain-kavli_feat_1440-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/technology-brain-activity-read-change-thoughts-privacy-ethics/amp",
+      "publishedDateTime": "2021-02-11T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-developing-a-turing-test-for-ethical-ai.md",
+      "title": "Developing a Turing test for ethical AI",
+      "excerpt": "AI’s Turing test focused on the wizardry needed to trick us into thinking that scarecrows might be flesh-and-blood humans (if we ignore the stray straws bursting out of their britches). However, I agree with the argument recently expressed by Rohit Prasad,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
+      "originalUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/08/care_nurture_support_people_human_resources_thinkstock_176436790-100409939-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3606472/developing-a-turing-test-for-ethical-ai.amp.html",
+      "publishedDateTime": "2021-02-11T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-gbt-researching-a-development-of-a-radio-based-computer-vision-system-for-cardiovascular-applications.md",
+      "title": "GBT Researching a Development of a Radio Based Computer Vision System For Cardiovascular Applications",
+      "excerpt": "GBT Technologies Inc., is researching the potential development of a radio based computer vision system to be guided by AI for cardiovascular applications. This is the first phase of the research to evaluate an autonomous arterial clog cleaning mini-probe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for",
+      "originalUrl": "https://www.nasdaq.com/press-release/gbt-researching-a-development-of-a-radio-based-computer-vision-system-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-superannotate-a-computer-vision-platform-partners-with-with-open-source-to-spread-visual-ml.md",
       "title": "SuperAnnotate, a computer vision platform, partners with with open-source to spread visual ML",
       "excerpt": "SuperAnnotate, a NoCode computer vision platform, is partnering with OpenCV, a non-profit organization that has built a large collection of open-source computer vision algorithms. The move means startups and entrepreneurs will be able to build their own AI models and allow cameras to detect",
@@ -839,320 +1149,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals.md",
-      "title": "Artificial intelligence can influence human decision-making, new Data61 study reveals",
-      "excerpt": "A new study by researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, in partnership with the Australian National University and researchers from Germany,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
-      "publishedDateTime": "2021-02-10T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-ai-displays-bias-and-inflexibility-in-civility-detection-study-finds.md",
-      "title": "AI displays bias and inflexibility in civility detection, study finds",
-      "excerpt": "Researchers at the University of Pennsylvania find that AI systems like Jigsaw's Perspective API have trouble classifying incivility.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/amp/",
-      "publishedDateTime": "2021-02-10T13:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-what-to-watch-in-artificial-intelligence-in-2021.md",
-      "title": "What to Watch in Artificial Intelligence in 2021",
-      "excerpt": "Artificial intelligence continues to be a focus and concern for businesses, regulators, and lawmakers alike. As we recently wrote, there was much activity and focus on artificial intelligence and",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
-      "originalUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
-      "publishedDateTime": "2021-02-10T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-chinese-tech-giant-baidu-reportedly-plans-to-launch-an-ai-chip-company.md",
-      "title": "Chinese tech giant Baidu reportedly plans to launch an AI chip company",
-      "excerpt": "Baidu is reportedly planning to launch a subsidiary AI chip firm, which could boost China‘s efforts to develop a domestic semiconductor industry. CNBC reports that the search giant is in talks with venture capital firms GGV and IDG Capital about investing in the venture.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-10T204402.317-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/",
-      "publishedDateTime": "2021-02-10T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed.md",
-      "title": "AI reveals how those coveted Super Bowl LV commercials failed",
-      "excerpt": "Each of the $5.5 million-per-30-second spot commercials--which often gain as much attention as the game itself--were analyzed and assessed for effectiveness through AI and facial coding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/10/d8c8cc44-d7bf-4f6c-a623-90f18b799829/resize/1200x/3949dc60a46d5230f31a56197b20c481/springsteen-jeep-superbowl.jpg",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
-      "publishedDateTime": "2021-02-10T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-new-hyundai-tiger-concept-combines-robotics-with-transportation-comes-up-with-walking-car.md",
-      "title": "New Hyundai TIGER concept combines robotics with transportation, comes up with walking car",
-      "excerpt": "aka the transforming intelligent ground excursion robot. Branded as the company’s first uncrewed ultimate mobility vehicle (UMV), TIGER is meant to transform from a four-wheel drive vehicle to a four-legged walking machine. “Vehicles like TIGER ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
-      "originalUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/02/large-44915-hyundaimotorgroupunveilstigeruncrewedultimatemobilityvehicleconcept.jpg?offset-y=0",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
-      "publishedDateTime": "2021-02-10T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-new-porsche-sports-car-design-shown-in-recently-filed-patent.md",
-      "title": "New Porsche sports car design shown in recently-filed patent",
-      "excerpt": "Porsche recently filed for a patent of a new sports car design, and the internet has dug up the images to take a look",
-      "sourceUrl": null,
-      "webUrl": "https://pdfaiw.uspto.gov/.aiw?PageNum=1&docid=20210034843&IDKey=9F055AB1185B&HomeUrl=http%3A%2F%2Fappft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%2526Sect2%3DHITOFF%2526d%3DPG01%2526p%3D1%2526u%3D%2Fnetahtml%2FPTO%2Fsrchnum.html%2526r%3D1%2526f%3DG%2526l%3D50%2526s1%3D20210034843.PGNR.%2526OS%3D%2526RS%3D",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/new-porsche-sports-car-design-shown-in-recently-filed-patent/ss-BB1dzIj1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T12:35:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pgnr.%2526os%3d%2526rs%3d",
-        "domain": "pgnr.%2526os%3d%2526rs%3d",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

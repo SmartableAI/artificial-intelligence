@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles.md",
+      "title": "A Match Made In Heaven For The Cloud And Autonomous Vehicles",
+      "excerpt": "Here's why there is an ongoing clamor for AV entities to sign-up with cloud providers, ostensibly a mutually beneficial match-up.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602b53749a59972aa0994920%2F0x0.jpg%3FcropX1%3D908%26cropX2%3D5284%26cropY1%3D48%26cropY2%3D2643",
+          "width": 1200,
+          "height": 712,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/16/a-match-made-in-heaven-for-the-cloud-and-autonomous-vehicles/amp/",
+      "publishedDateTime": "2021-02-16T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-alt-inc-has-released-ai-based-automated-minutes-system-ai-gijiroku-english-ver.md",
       "title": "Alt Inc. has released AI-based automated minutes system \"AI GIJIROKU\" English ver.",
       "excerpt": "Personalized Artificial Intelligence (P.A.I.) developer Alt Inc. (Head office: Minato-ku, Tokyo, Japan, CEO: Kazutaka Yonekura,  ) has released an English version of AI GIJIROKU,  Japan's first AI minutes creation subscription software.",
@@ -1352,59 +1404,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-using-amazon-translate-to-provide-language-support-to-amazon-kendra.md",
-      "title": "Using Amazon Translate to provide language support to Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra supports English. This post provides a set of techniques to provide non-English language support when using Amazon Kendra. We demonstrate these techniques within the context of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-translate-to-provide-language-support-to-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-translate-to-provide-language-support-to-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/12/ML-2024-3.jpg",
-          "width": 825,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T15:44:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

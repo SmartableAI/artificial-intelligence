@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-us
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: businesslive.co.za
@@ -40,6 +40,20 @@ related:
       - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/13c49f77-54a3-4605-bab7-06f801bc5387/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
         width: 1100
         height: 733
+        isCached: true
+  - title: "Fears for children’s privacy as Delhi schools install facial recognition"
+    excerpt: "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an “overreach” by Indian authorities and an invasion of children’s privacy, digital rights advocates said on Tuesday."
+    publishedDateTime: 2021-03-03T02:05:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/03/fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 38
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/02/1062682.jpeg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "dchygXNcgVE+wjiKE8J1jUYsxf4zqnQQpUKcarKdhWmqkotOrKQ7Rf0iHKTZi8l5hDp4I3oBZ7vBKPKjMrkprvP4ttDpUkmDhW2YnOlDqmCO9uBl59liHxfopyDhs+BQauxrozZW4zRbEWD3jsdr/fpd9/rrvUZ0o4jWBaGx1m6rTdB8cqSlJn0VrpOe9yQJkl8FPiOr2sIITMd5Oc4lL6iCvwNJCziAAKXiBARf54G5t0xC3rOlOj9gLudrN8/vQ6vGErZJpknuvP8jjAjtReN7nVV0a743oRE7rjDWeB5GptlMB/RClZnZ2RrTwQTHoxdzP7xjGMCu7tkr+RaTbs8CcyonJ44yA6o+ultR3yMOlwiqdD2aDEI9c/OWLGJp01a5tzoqn3JUz77cKyEnba46W450zu5r2Fu5IPgN8Ik8VknKDx597QY6JcbTe+1z5LD7447jjchKlnFQ37dN9SmxigsAjXeoZVJltj/FqYpn0laammMq7bo6KY8dVoADFlz6iZYMyaxhXpsCTR5Spw==;hxt8JKG5vvTpnlaI9p0yfw=="

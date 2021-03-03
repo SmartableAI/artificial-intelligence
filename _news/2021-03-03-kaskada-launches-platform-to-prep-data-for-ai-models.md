@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platfo
 ampWebUrl: "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?w=1200&strip=all"

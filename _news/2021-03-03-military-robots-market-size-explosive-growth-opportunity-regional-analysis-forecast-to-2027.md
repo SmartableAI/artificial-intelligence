@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Chipsets Market Size, Share, Growth, Trends, Analysis and Forecast - 2027"
+    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
+    publishedDateTime: 2021-03-02T08:13:00Z
+    webUrl: "https://www.openpr.com/news/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
   - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
     excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
     publishedDateTime: 2021-02-26T15:11:00Z

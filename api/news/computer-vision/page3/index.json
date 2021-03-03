@@ -2,6 +2,197 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-07-the-tiniest-computer-vision-platform-just-got-better.md",
+      "title": "The Tiniest Computer Vision Platform Just Got Better",
+      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-9-scary-revelations-from-40-years-of-facial-recognition-research.md",
+      "title": "9 scary revelations from 40 years of facial recognition research",
+      "excerpt": "Facebook showed how the collection ... These faults go beyond just being offensive. Research has shown that discrimination in AI can reinforce discrimination in the real-world.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/facial-recognition-databases-privacy-study/",
+      "originalUrl": "https://mashable.com/article/facial-recognition-databases-privacy-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2021%252F02%252F06%252F5b%252F5cc3a57c860a458fb507f0df2a2ada7b.5b35a.jpg%252F1200x630.jpg?signature=jPPathIhT3DNb1Vb0uNGBWjY6YE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/facial-recognition-databases-privacy-study.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-databases-privacy-study.amp",
+      "publishedDateTime": "2021-02-06T13:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-delta-expanding-facial-recognition-technology-to-domestic-flights-in-detroit.md",
+      "title": "Delta expanding facial recognition technology to domestic flights in Detroit",
+      "excerpt": "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
+      "publishedDateTime": "2021-02-05T17:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
+      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
+      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-295591/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
+      "publishedDateTime": "2021-02-05T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-computer-vision-in-the-fight-against-the-covid-19-pandemic.md",
       "title": "Computer vision in the fight against the COVID-19 pandemic",
       "excerpt": "Computer vision technology helped Taiwan nip COVID-19 dissemination in the bud. The technology proved efficient for virus spread prevention.",
@@ -1231,198 +1422,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-how-computer-vision-and-ai-make-new-revenue-from-old-media.md",
-      "title": "How Computer Vision And AI Make New Revenue From Old Media",
-      "excerpt": "Ryff can place new products in old media, creating new integrated advertising opportunities where there were none.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6017508d4c82f5970c432c25%2F0x0.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
-      "publishedDateTime": "2021-02-01T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos.md",
-      "title": "Here’s a Way to Learn if Facial Recognition Systems Used Your Photos",
-      "excerpt": "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/22/business/22facedata/merlin_182626764_00ff9955-a389-4061-a12f-e547bae6948d-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
-      "publishedDateTime": "2021-01-31T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-minneapolis-st-paul-airport-gets-facial-recognition-tech.md",
-      "title": "Minneapolis-St. Paul Airport gets facial recognition Tech",
-      "excerpt": "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
-      "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg",
-          "width": 940,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
-      "publishedDateTime": "2021-01-29T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-dial-tests-computer-vision-for-added-security-distancing.md",
-      "title": "DIAL tests ‘computer vision’ for added security, distancing",
-      "excerpt": "After installing over 500 overhead sensors inside Terminal-3 of the Delhi airport to ensure social distancing, Delhi International Airport .",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/articleshow/80593615.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/articleshow/80593615.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/amp_articleshow/80593615.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/amp_articleshow/80593615.cms",
-      "publishedDateTime": "2021-01-29T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

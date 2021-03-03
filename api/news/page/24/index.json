@@ -2,6 +2,320 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-11-artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals.md",
+      "title": "Artificial intelligence can influence human decision-making, new Data61 study reveals",
+      "excerpt": "A new study by researchers from the Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, in partnership with the Australian National University and researchers from Germany,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
+      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/artificial-intelligence-can-influence-human-decision-making-new-data61-study-reveals/",
+      "publishedDateTime": "2021-02-10T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-ai-displays-bias-and-inflexibility-in-civility-detection-study-finds.md",
+      "title": "AI displays bias and inflexibility in civility detection, study finds",
+      "excerpt": "Researchers at the University of Pennsylvania find that AI systems like Jigsaw's Perspective API have trouble classifying incivility.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/",
+      "originalUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/ai-displays-bias-and-inflexibility-in-civility-detection-study-finds/amp/",
+      "publishedDateTime": "2021-02-10T13:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-what-to-watch-in-artificial-intelligence-in-2021.md",
+      "title": "What to Watch in Artificial Intelligence in 2021",
+      "excerpt": "Artificial intelligence continues to be a focus and concern for businesses, regulators, and lawmakers alike. As we recently wrote, there was much activity and focus on artificial intelligence and",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
+      "originalUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/what-to-watch-artificial-intelligence-2021?amp",
+      "publishedDateTime": "2021-02-10T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-chinese-tech-giant-baidu-reportedly-plans-to-launch-an-ai-chip-company.md",
+      "title": "Chinese tech giant Baidu reportedly plans to launch an AI chip company",
+      "excerpt": "Baidu is reportedly planning to launch a subsidiary AI chip firm, which could boost China‘s efforts to develop a domestic semiconductor industry. CNBC reports that the search giant is in talks with venture capital firms GGV and IDG Capital about investing in the venture.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/",
+      "originalUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-10T204402.317-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/10/baidu-china-plans-to-launch-an-ai-chip-company/amp/",
+      "publishedDateTime": "2021-02-10T13:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed.md",
+      "title": "AI reveals how those coveted Super Bowl LV commercials failed",
+      "excerpt": "Each of the $5.5 million-per-30-second spot commercials--which often gain as much attention as the game itself--were analyzed and assessed for effectiveness through AI and facial coding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/10/d8c8cc44-d7bf-4f6c-a623-90f18b799829/resize/1200x/3949dc60a46d5230f31a56197b20c481/springsteen-jeep-superbowl.jpg",
+          "width": 1200,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-reveals-how-those-coveted-super-bowl-lv-commercials-failed/",
+      "publishedDateTime": "2021-02-10T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-new-hyundai-tiger-concept-combines-robotics-with-transportation-comes-up-with-walking-car.md",
+      "title": "New Hyundai TIGER concept combines robotics with transportation, comes up with walking car",
+      "excerpt": "aka the transforming intelligent ground excursion robot. Branded as the company’s first uncrewed ultimate mobility vehicle (UMV), TIGER is meant to transform from a four-wheel drive vehicle to a four-legged walking machine. “Vehicles like TIGER ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
+      "originalUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fastly.syfy.com/sites/syfy/files/styles/1200x680/public/2021/02/large-44915-hyundaimotorgroupunveilstigeruncrewedultimatemobilityvehicleconcept.jpg?offset-y=0",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/hyundai-tiger-concept-walking-car?amp",
+      "publishedDateTime": "2021-02-10T12:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-new-porsche-sports-car-design-shown-in-recently-filed-patent.md",
+      "title": "New Porsche sports car design shown in recently-filed patent",
+      "excerpt": "Porsche recently filed for a patent of a new sports car design, and the internet has dug up the images to take a look",
+      "sourceUrl": null,
+      "webUrl": "https://pdfaiw.uspto.gov/.aiw?PageNum=1&docid=20210034843&IDKey=9F055AB1185B&HomeUrl=http%3A%2F%2Fappft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect1%3DPTO1%2526Sect2%3DHITOFF%2526d%3DPG01%2526p%3D1%2526u%3D%2Fnetahtml%2FPTO%2Fsrchnum.html%2526r%3D1%2526f%3DG%2526l%3D50%2526s1%3D20210034843.PGNR.%2526OS%3D%2526RS%3D",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/new-porsche-sports-car-design-shown-in-recently-filed-patent/ss-BB1dzIj1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-10T12:35:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pgnr.%2526os%3d%2526rs%3d",
+        "domain": "pgnr.%2526os%3d%2526rs%3d",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-how-one-startup-is-proving-that-ai-can-come-up-with-ethical-solutions.md",
       "title": "How one startup is proving that AI can come up with ethical solutions",
       "excerpt": "Though artificial intelligence has shown to improve efficiency in business and other aspects of our daily lives, there’s certainly no shortage of moral conundrums that arise from its use. Whether it be the fear that it will take away jobs at a large scale or stories of racial and gender bias — like a health",
@@ -878,316 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale.md",
-      "title": "NeuReality emerges from stealth to accelerate AI workloads at scale",
-      "excerpt": "NeuReality, a startup developing compute infrastructure for large-scale AI workloads, emerged from stealth with $8 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/",
-      "originalUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/10/shutterstock_102001114.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/10/neureality-emerges-from-stealth-to-accelerate-ai-workloads-at-scale/amp/",
-      "publishedDateTime": "2021-02-10T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal.md",
-      "title": "Using AI And Machine Learning To Break Past The Constraints Of The 'New Normal'",
-      "excerpt": "Getting started with AI and machine learning is becoming increasingly accessible for organizations of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/10/using-ai-and-machine-learning-to-break-past-the-constraints-of-the-new-normal/amp/",
-      "publishedDateTime": "2021-02-10T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center.md",
-      "title": "Linode Expands Commitment to APAC Users With Addition of GPU Instances to Singapore Data Center",
-      "excerpt": "Availability of Linode's virtual machine GPU instances in Singapore gives growing APAC customer base a cost-competitive alternative to hyperscale cloud providers in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/p19583315/linode-expands-commitment-to-apac-users-with-addition-of-gpu-instances-to-singapore-data-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19583315",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19583315",
-      "publishedDateTime": "2021-02-10T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-this-cutting-edge-cloud-computing-service-is-helping-doctors-track-covids-spread.md",
-      "title": "This cutting-edge cloud-computing service is helping doctors track COVID's spread",
-      "excerpt": "As computational science and data science are becoming closer than ever, a deal with Microsoft could see Verily and Broad Institute's open-source cloud platform hit new users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "originalUrl": "https://www.zdnet.com/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2021/02/09/fe1c2228-aa05-4e10-84f1-3a64d1d5e0d1/istock-1214075704.jpg",
-          "width": 1254,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/terra-the-google-and-microsoft-powered-cloud-research-platform-thats-shedding-light-on-covids-spread/",
-      "publishedDateTime": "2021-02-10T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring.md",
-      "title": "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring",
-      "excerpt": "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19581042",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042",
-      "publishedDateTime": "2021-02-10T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-how-ai-is-transforming-enterprise-operations-and-customer-experience.md",
-      "title": "How AI is transforming enterprise operations and customer experience",
-      "excerpt": "With enterprise operations and customer experience evolving in the wake of the Covid-19 pandemic, we explore the roles that AI has played To navigate through the worldwide Covid-19 health crisis, organisations from every sector have needed to adapt ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/how-ai-transforming-enterprise-operations-customer-experience-123493731/",
-      "originalUrl": "https://www.information-age.com/how-ai-transforming-enterprise-operations-customer-experience-123493731/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2021/02/how-ai-transforming-enterprise-operations-customer-experience.jpeg",
-          "width": 1080,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T01:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-indian-healthcare-companies-bet-big-on-artificial-intelligence-report.md",
-      "title": "Indian healthcare companies bet big on artificial intelligence: Report",
-      "excerpt": "Around 90% of C-level executives in healthcare companies already have an AI strategy in place from a moderate to very large extent. For 54% of the participants covid-19 played a part in driving up AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report-11612946219553.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/02/10/600x338/AI-kkGH--621x414@LiveMint_1612946535600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/indian-healthcare-companies-bet-big-on-artificial-intelligence-report/amp-11612946219553.html",
-      "publishedDateTime": "2021-02-10T01:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

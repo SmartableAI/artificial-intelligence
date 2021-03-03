@@ -125,6 +125,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
+    excerpt: "The hope is that this new platform will help create a Microsoft-powered ecosystem of edge devices designed for low-power implementations, in essence replicating its success with t"
+    publishedDateTime: 2021-03-02T14:04:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
+    ampWebUrl: "https://www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/microsoft-azure/358750/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle?amp"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 104
+    images:
+      - url: "https://media.itpro.co.uk//image/upload/v1614682842/itpro/Microsoft_Azure_Percept_press_image_1.jpg"
+        width: 4800
+        height: 2700
+        isCached: true
   - title: "At Microsoft Ignite, expanding reach for Azure ML & Purview, Power BI Premium"
     excerpt: "With enough data and ML announcements to go around, I'll cover news pertaining to Azure Machine Learning, Power BI and Azure Purview in this post. ZDNet comrade-in-data Tony Baer covers Ignite's NoSQL, Redis, Synapse and Azure Arc news in a separate story ..."
     publishedDateTime: 2021-03-02T14:00:00Z
@@ -330,24 +346,10 @@ related:
         width: 1365
         height: 768
         isCached: true
-  - title: "Microsoft Azure Percept promises to make edge computing a doddle"
-    excerpt: "Microsoft has announced a new platform designed to make it easy to build and operate artificial intelligence-powered technology for use in low-power edge devices, such as cameras"
-    publishedDateTime: 2021-03-02T14:15:00Z
-    webUrl: "https://www.cloudpro.co.uk/it-infrastructure/development/8967/microsoft-azure-percept-promises-to-make-edge-computing-a-doddle"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 54
-    images:
-      - url: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/2021/03/microsoft_azure_percept_press_image_1.jpg"
-        width: 845
-        height: 475
-        isCached: true
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN

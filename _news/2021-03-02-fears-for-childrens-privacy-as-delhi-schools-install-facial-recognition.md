@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 648
         isCached: true
+  - title: "Fears for children’s privacy as Delhi schools install facial recognition"
+    excerpt: "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an “overreach” by Indian authorities and an invasion of children’s privacy, digital rights advocates said on Tuesday."
+    publishedDateTime: 2021-03-03T02:05:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/03/fears-for-childrens-privacy-as-delhi-schools-install-facial-recognition"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 38
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2021/03/02/1062682.jpeg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "NxL1VY4r+Aed/BDDDMUFCDgrIoDtZIvFVRKUnmuW3p0Va4q79LobImjXV5Rmf/K0K4a9C+ZLgfA+3icQYC++raBCYDbHdIs3dkiAMkCkaaFlZadCuzPv2W/bdlWICfEW5rx/J8QfDtS71xO1wjV6g4jvSZkZKHGl4sVW339PxgD5m+pshPf9Y5y2Pkd8GNoJTtG2Tf+9ySqQFC+XmMN6Luuy8f/Pab/74aqw3AL9PkqIr6LmFR6DrnZ/RZz522M5fPkNgiIrLsJjSAfsuLIOkJmpYrDKbm2/0dQYHh56yLaYOed3342c0gYAT9VPbiKsDfGMZFmWhlaP7z694WHq9ZtpI3P5knE9NCZJt7DUBmuMG3o/ZtnoPKWTp8QLYuDQUb/AxZUEEdfs5tSbGFVgxoGtPUuWlS1MlwOx1pu4yJMJH4zb7xcNJmuZU9cftJVMmfqbL9umGdtc4p6ggDiVWltazYGc8tjXpesRK+QDTevrg+WNzjj1IKZzggC9FuPx0EE+ak0V91NrLzM6sLmG/w==;WW4mDPpYI5/mqn+glg9kJw=="
 ---

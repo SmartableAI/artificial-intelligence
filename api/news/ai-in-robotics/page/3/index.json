@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-10-artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-analytics-livestock-monitoring.md",
+      "title": "Artificial Intelligence in Agriculture Markets, 2030: Agricultural Robots, Precision Farming, Drone Analytics, & Livestock Monitoring",
+      "excerpt": "The \"Artificial Intelligence in Agriculture Market Research Report: By Type, Technology, Application - Global Industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19581042/artificial-intelligence-in-agriculture-markets-2030-agricultural-robots-precision-farming-drone-an",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19581042",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19581042",
+      "publishedDateTime": "2021-02-10T02:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-the-empowerment-of-ai-robotics-by-mech-mind-helped-increase-operational-efficiency-for-over-110-logistics-firms-in-2020.md",
       "title": "The Empowerment of AI Robotics by Mech-Mind Helped Increase Operational Efficiency for Over 110 Logistics Firms in 2020",
       "excerpt": "By empowering AI robotics, leading Chinese AI industrial robotics startup Mech-Mind Robotics (Mech-Mind) helped increase the operational efficiency for over 110 partners in logistics in the year 2020.",
@@ -1249,49 +1283,6 @@
       "provider": {
         "name": "Robohub",
         "domain": "robohub.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-sonys-dr-hiroaki-kitano-named-fellow-by-the-association-for-the-advancement-of-artificial-intelligence.md",
-      "title": "Sony’s Dr. Hiroaki Kitano Named Fellow by the Association for the Advancement of Artificial Intelligence",
-      "excerpt": "Dr. Hiroaki Kitano, Executive Vice President, Officer in charge of AI Collaboration at Sony Corporation, President and CEO of Sony Computer Science Laboratories, Inc. and CEO of Sony AI Inc. has been named a fellow of the Association for the Advancement of Artificial Intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-corporate-news-biology-b90bbe9dc9c400c0a39950619f48db0f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-01T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

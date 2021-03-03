@@ -2,6 +2,197 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-15-drones-with-facial-recognition-are-primed-to-flybut-the-world-isnt-ready-yet.md",
+      "title": "Drones With Facial Recognition Are Primed To Fly—But The World Isn’t Ready Yet",
+      "excerpt": "The patents are there, the tech is ready, but is the world going to accept drones that can recognise someone’s face? An Israeli startup talks about its plans to launch what’s likely to be a controversial technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a96de9e8b7a8599dfafb4%2F0x0.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
+      "publishedDateTime": "2021-02-15T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-does-everyone-see-the-same-colour-when-they-see-red.md",
+      "title": "Does everyone see the same colour when they see red?",
+      "excerpt": "How would we know? Scientists often explain why people have a colour vision in cold, analytic terms: colour is for object recognition. And this is certainly true, but it is not the whole story.",
+      "sourceUrl": null,
+      "webUrl": "https://scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
+      "originalUrl": "https://scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/128452-hfslodsqoj-1612799825.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
+      "publishedDateTime": "2021-02-14T18:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-russian-police-use-facial-recognition-or-face-control-against-protesters.md",
+      "title": "Russian police use facial recognition or ‘face control’ against protesters",
+      "excerpt": "He was detained on his way there by police using facial recognition technology in the Moscow metro. But reports from other protesters who have attend rallies in recent weeks in support of jailed opposition politician Alexei Navalny also indicate police are using facial recognition technology to make preventive arrests and detentions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/",
+      "originalUrl": "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/2021-02-11T151833Z_1_LYNXMPEH1A19D_RTROPTP_4_RUSSIA-POLITICS-NAVALNY-TECH.jpg",
+          "width": 530,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-14T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nyoooz.com",
+        "domain": "nyoooz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-14-how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks.md",
+      "title": "How a Chinese scientist in the US is helping defend AI systems from cyberattacks",
+      "excerpt": "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/14/e03680e0-69b8-11eb-8f06-a7293cc48ccd_image_hires_104100.png?itok=64dr_O8A&v=1613270469",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
+      "publishedDateTime": "2021-02-13T19:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-bias-allegations-against-facial-recognition-prompt-legal-challenge-threat.md",
       "title": "Bias allegations against facial recognition prompt legal challenge, threat",
       "excerpt": "Allegations of poor performance for women and people of color by face biometrics systems have resulted in legal action and the threat of a lawsuit.",
@@ -1159,197 +1350,6 @@
         "name": "Arizona Daily Star",
         "domain": "tucson.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-the-tiniest-computer-vision-platform-just-got-better.md",
-      "title": "The Tiniest Computer Vision Platform Just Got Better",
-      "excerpt": "The future, if you believe the ad copy, is a world filled with cameras backed by intelligence, neural nets, and computer vision. Despite the hype, this may actually turn out to be true ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "originalUrl": "https://hackaday.com/2018/09/23/the-tiniest-computer-vision-platform-just-got-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/09/openmvheader.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-07-9-scary-revelations-from-40-years-of-facial-recognition-research.md",
-      "title": "9 scary revelations from 40 years of facial recognition research",
-      "excerpt": "Facebook showed how the collection ... These faults go beyond just being offensive. Research has shown that discrimination in AI can reinforce discrimination in the real-world.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facial-recognition-databases-privacy-study/",
-      "originalUrl": "https://mashable.com/article/facial-recognition-databases-privacy-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2021%252F02%252F06%252F5b%252F5cc3a57c860a458fb507f0df2a2ada7b.5b35a.jpg%252F1200x630.jpg?signature=jPPathIhT3DNb1Vb0uNGBWjY6YE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facial-recognition-databases-privacy-study.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-databases-privacy-study.amp",
-      "publishedDateTime": "2021-02-06T13:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-delta-expanding-facial-recognition-technology-to-domestic-flights-in-detroit.md",
-      "title": "Delta expanding facial recognition technology to domestic flights in Detroit",
-      "excerpt": "Delta Air Lines is bringing facial recognition technology to domestic flights. Last week, the airline announced that it is launching its digital ID technology for domestic flights out of Detroit Metropolitan Wayne County Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
-      "originalUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Delta_iStock-1263361477.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/travel/delta-expands-facial-recognition-domestic-detroit.amp",
-      "publishedDateTime": "2021-02-05T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-145and-an-apple-watch.md",
-      "title": "Unlocking iPhones While Wearing a Face Mask: Now Easier, If You Have iOS 14.5—and an Apple Watch",
-      "excerpt": "Apple’s next iOS software updates—iOS 14.5—includes a feature we have all been waiting for: the ability to unlock an iPhone with Face ID while wearing a mask. The catch? You need an Apple Watch.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "originalUrl": "https://www.wsj.com/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-295591/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/unlocking-iphones-while-wearing-a-face-mask-now-easier-if-you-have-ios-14-5and-an-apple-watch-11612540884",
-      "publishedDateTime": "2021-02-05T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

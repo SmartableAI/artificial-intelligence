@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machin
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

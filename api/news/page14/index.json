@@ -2,6 +2,292 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-18-ai-powered-math-tutoring-app-photomath-raises-23-million.md",
+      "title": "AI-powered math tutoring app Photomath raises $23 million",
+      "excerpt": "AI-powered math tutoring app Photomath today announced that it raised $23 million in series B funding. The company says the proceeds will be used to grow headcount, invest in AI, and scale both product and marketing development.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/",
+      "originalUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/01-photomath-formula-scan-android-e1613491006395.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/ai-powered-math-tutoring-app-photomath-raises-23-million/amp/",
+      "publishedDateTime": "2021-02-18T03:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-baidu-hops-aboard-the-electric-vehicle-express.md",
+      "title": "Baidu Hops Aboard the Electric-Vehicle Express",
+      "excerpt": "Baidu’s announcement that it will venture into EVs has supercharged its shares, and though it brings some advantages, its conversion from value to presumptive growth stock has been remarkably fast.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "originalUrl": "https://www.wsj.com/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-300769/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/baidu-hops-aboard-the-electric-vehicle-express-11613644735",
+      "publishedDateTime": "2021-02-18T02:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-baidu-revenue-beats-estimates-as-core-search-business-recovers.md",
+      "title": "Baidu revenue beats estimates as core search business recovers",
+      "excerpt": "In January, the company announced it is teaming up with Zhejiang Geely Holding Group to produce smart electric vehicles, prompting analysts to hike their value estimates for Baidu’s self-driving unit Apollo. With its AI applications still in the early ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/18/2a03049c-7188-11eb-ba58-f8f0a43119e3_image_hires_094224.jpg?itok=M_qgViAc&v=1613612550",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3122125/baidu-revenue-beats-estimates-core-search-business-recovers",
+      "publishedDateTime": "2021-02-18T01:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-india.md",
+      "title": "'Artificial Intelligence and the Future of Power' a grim wake-up call for India",
+      "excerpt": "New Delhi, Feb 18 : With Artificial Intelligence helping \"biological materialism sneak in through the back door\", the world is witnessing a real clash of civilisations with \"the battle between algorithm and being\" writes Rajiv Malhotra, one of the most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prokerala.com/news/articles/a1132144.html",
+      "originalUrl": "https://www.prokerala.com/news/articles/a1132144.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prokerala.com/news/photos/imgs/450/artificial-intelligence-and-the-future-of-power-a-grim-wake-up-call-for-1151753.jpg",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.prokerala.com/news/articles/a1132144.html?amp=1",
+      "cdnAmpWebUrl": "https://www-prokerala-com.cdn.ampproject.org/c/s/www.prokerala.com/news/articles/a1132144.html?amp=1",
+      "publishedDateTime": "2021-02-18T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Prokerala",
+        "domain": "prokerala.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning.md",
+      "title": "Global AI-based Drug Discovery Markets 2020-2030: Focus on Deep Learning and Machine Learning",
+      "excerpt": "The \"AI-based Drug Discovery Market: Focus on Deep Learning and Machine Learning, 2020-2030\" report has been added",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/g19721667/global-ai-based-drug-discovery-markets-2020-2030-focus-on-deep-learning-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19721667",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19721667",
+      "publishedDateTime": "2021-02-18T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-breakingviews-capital-calls-baidu-hits-its-ai-stride.md",
+      "title": "Breakingviews - Capital Calls: Baidu hits its AI stride",
+      "excerpt": "China’s search engine operator Baidu is finally getting somewhere with its artificial intelligence bets. Sales in the quarter ending in December rose 5% year-on-year to $4.6 billion. That was powered by a 52% surge in cloud computing and other non-advertising revenue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8",
+      "originalUrl": "https://www.reuters.com/article/us-global-finance-breakingviews-idUSKBN2AI0B8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210218&t=2&i=1551939101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1H055",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AI0B8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AI0B8",
+      "publishedDateTime": "2021-02-18T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-baidus-stronger-than-expected-outlook-validates-ai-push.md",
       "title": "Baidu’s Stronger-Than-Expected Outlook Validates AI Push",
       "excerpt": "Baidu Inc. forecast sales that topped estimates as efforts by China’s internet search leader to diversify into the cloud and artificial intelligence businesses start to pay off.",
@@ -910,282 +1196,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-natural-language-processing-market-worth-351-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing Market worth $35.1 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "According to the new market research report \"Natural Language Processing Market by Component, Type (Statistical, Hybrid),",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-worth-35-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--827191659.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-worth-35-1-billion-by-2026-exclusive-report-by-marketsandmarkets-tm--827191659.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-lumiata-partners-with-ascendio-to-offer-data-preparation-for-healthcare-customers-on-aws-and-azure.md",
-      "title": "Lumiata partners with Ascend.io to offer data preparation for healthcare customers on AWS and Azure",
-      "excerpt": "The Ascend platform easily fits into any data ecosystem, providing a unified fabric for companies to run their businesses in any environment",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=145280",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-top-questions-to-ask-ai-vendors-in-2021.md",
-      "title": "Top Questions To Ask AI Vendors In 2021",
-      "excerpt": "AI advancements. To name a few: OpenAI released GPT-3, the most advanced conversational AI model yet; Google's DeepMind solved a 50-year-old protein folding problem; and MIT built an algorithm that can detect asymptomatic Covid-19 cases from the sound of a patient's cough.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5c7563f8718db968cbc63%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/top-questions-to-ask-ai-vendors-in-2021/amp/",
-      "publishedDateTime": "2021-02-17T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-when-should-you-use-ai-to-solve-problems.md",
-      "title": "When Should You Use AI to Solve Problems?",
-      "excerpt": "AI won’t supplant intuitive decision-making any time soon. But executives will need to disrupt their own decision-making styles to fully exploit AI’s capabilities. They will have to temper their convictions with data,",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems?ab=hero-subleft-1",
-      "originalUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems?ab=hero-subleft-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/02/Feb21_17_1255056887-3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
-      "publishedDateTime": "2021-02-17T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-samsung-develops-industrys-first-high-bandwidth-memory-with-ai-processing-power.md",
-      "title": "Samsung Develops Industry’s First High Bandwidth Memory with AI Processing Power",
-      "excerpt": "PIM’ will deliver over twice the system performance and reduce energy consumption",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-17/samsung-develops-industry-s-first-high-bandwidth-memory-with-ai-processing-power-kl99kzkh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-deep-learning-may-help-doctors-choose-better-lung-cancer-treatments.md",
-      "title": "Deep learning may help doctors choose better lung cancer treatments",
-      "excerpt": "Doctors and healthcare workers may one day use a machine learning model, called deep learning, to guide their treatment decisions for lung cancer patients, according to a team of Penn State Great Valley researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-deeplearning.jpg",
-          "width": 730,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-deep-doctors-lung-cancer-treatments.amp",
-      "publishedDateTime": "2021-02-17T06:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

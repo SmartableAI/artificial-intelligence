@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach.md",
+      "title": "India using facial recognition in schools is an ‘overreach’",
+      "excerpt": "Rights advocates also say it is invasion of children’s privacy with no clarity on how the data is used or stored",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "originalUrl": "https://www.businesslive.co.za/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U7RZBlL2uuTn2E9cHvf_GswuMGa8cVsYcrwvxtytYI14WsAGNOPr9vWgb1U18Np0Ssu20yh9fDJBHjJikE5EctV0zAjk4UU=s1000",
+          "width": 1000,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/",
+      "publishedDateTime": "2021-03-02T01:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businesslive.co.za",
+        "domain": "businesslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech.md",
       "title": "Skydio hits billion-dollar valuation for autonomous drone tech",
       "excerpt": "Autonomous drone company Skydio has just raised another $170 million in funding, with its “flying robot” tech earning it a $1+ billion valuation as it evolves beyond its initial",
@@ -138,6 +181,110 @@
         "Computer Vision",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-documents-show-agreements-between-cbp-and-jetblue-for-facial-recognition-boarding.md",
+      "title": "Documents Show Agreements Between CBP and JetBlue for Facial Recognition Boarding",
+      "excerpt": "The documents provide more insight into the dynamics between DHS and airlines, which are increasingly deploying biometric boarding at their gates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "originalUrl": "https://www.vice.com/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603d1b6f47fbc10094d95023/lede/1614617981504-jetblue.jpeg?crop=1xw:0.8257xh;0xw,0xh",
+          "width": 1500,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/g5bewb/jetblue-cbp-facial-recognition-biometric-boarding",
+      "publishedDateTime": "2021-03-01T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-a-wave-of-billion-dollar-computer-vision-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Computer Vision Startups Is Coming",
+      "excerpt": "Computer vision is the most technologically mature field in modern artificial intelligence. This is about to translate into enormous commercial value creation. The deep learning revolution has its roots in computer vision.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c40eb7e5ff3ab52c8fef2%2F0x0.jpg",
+          "width": 981,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/amp/",
+      "publishedDateTime": "2021-02-28T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -443,6 +590,50 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk.md",
+      "title": "CyberLink Partners With Vypin to Integrate Facial Recognition Into Security and Health Kiosk",
+      "excerpt": "Vypin launched the Vypin eScreener™ kiosk with the latest in automated screening technology to promote health and safety without sacrificing the employee or customer experience. CyberLink’s FaceMe® SDK powers the eScreener™ kiosk’s ability to detect whether a face mask is present or not,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "originalUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/d/6d/d6d14fc6-56e3-5d3b-81a1-92f51b1689aa/6037b55fdb736.image.jpg?resize=1200%2C628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1214,197 +1405,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-drones-with-facial-recognition-are-primed-to-flybut-the-world-isnt-ready-yet.md",
-      "title": "Drones With Facial Recognition Are Primed To Fly—But The World Isn’t Ready Yet",
-      "excerpt": "The patents are there, the tech is ready, but is the world going to accept drones that can recognise someone’s face? An Israeli startup talks about its plans to launch what’s likely to be a controversial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a96de9e8b7a8599dfafb4%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "publishedDateTime": "2021-02-15T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-does-everyone-see-the-same-colour-when-they-see-red.md",
-      "title": "Does everyone see the same colour when they see red?",
-      "excerpt": "How would we know? Scientists often explain why people have a colour vision in cold, analytic terms: colour is for object recognition. And this is certainly true, but it is not the whole story.",
-      "sourceUrl": null,
-      "webUrl": "https://scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "originalUrl": "https://scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/128452-hfslodsqoj-1612799825.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/986330/does-everyone-see-the-same-colour-when-they-see-red",
-      "publishedDateTime": "2021-02-14T18:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scroll",
-        "domain": "scroll.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-russian-police-use-facial-recognition-or-face-control-against-protesters.md",
-      "title": "Russian police use facial recognition or ‘face control’ against protesters",
-      "excerpt": "He was detained on his way there by police using facial recognition technology in the Moscow metro. But reports from other protesters who have attend rallies in recent weeks in support of jailed opposition politician Alexei Navalny also indicate police are using facial recognition technology to make preventive arrests and detentions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/",
-      "originalUrl": "https://www.nyoooz.com/features/technology/russian-police-use-facial-recognition-or-face-control-against-protesters.html/5476/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://499ioen9wh92k2blb3elevg9-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/2021-02-11T151833Z_1_LYNXMPEH1A19D_RTROPTP_4_RUSSIA-POLITICS-NAVALNY-TECH.jpg",
-          "width": 530,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-14T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "nyoooz.com",
-        "domain": "nyoooz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks.md",
-      "title": "How a Chinese scientist in the US is helping defend AI systems from cyberattacks",
-      "excerpt": "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/14/e03680e0-69b8-11eb-8f06-a7293cc48ccd_image_hires_104100.png?itok=64dr_O8A&v=1613270469",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "publishedDateTime": "2021-02-13T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

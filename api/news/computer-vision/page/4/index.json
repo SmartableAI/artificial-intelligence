@@ -2,6 +2,198 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-01-how-computer-vision-and-ai-make-new-revenue-from-old-media.md",
+      "title": "How Computer Vision And AI Make New Revenue From Old Media",
+      "excerpt": "Ryff can place new products in old media, creating new integrated advertising opportunities where there were none.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6017508d4c82f5970c432c25%2F0x0.jpg",
+          "width": 1200,
+          "height": 673,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2021/02/01/how-computer-vision-and-ai-make-new-revenue-from-old-media/amp/",
+      "publishedDateTime": "2021-02-01T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-01-31-heres-a-way-to-learn-if-facial-recognition-systems-used-your-photos.md",
+      "title": "Here’s a Way to Learn if Facial Recognition Systems Used Your Photos",
+      "excerpt": "An online tool targets only a small slice of what’s out there, but may open some eyes to how widely artificial intelligence research fed on personal images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/22/business/22facedata/merlin_182626764_00ff9955-a389-4061-a12f-e547bae6948d-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/31/technology/facial-recognition-photo-tool.amp.html",
+      "publishedDateTime": "2021-01-31T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-minneapolis-st-paul-airport-gets-facial-recognition-tech.md",
+      "title": "Minneapolis-St. Paul Airport gets facial recognition Tech",
+      "excerpt": "St. Paul Airport gets facial recognition Tech (TNS) - New facial recognition technology to speed international travelers",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
+      "originalUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/01/Minneapolis-St-Paul-Airport-gets-facial-recognition-Tech.jpg",
+          "width": 940,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/minneapolis-st-paul-airport-gets-facial-recognition-tech/amp/",
+      "publishedDateTime": "2021-01-29T15:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-30-dial-tests-computer-vision-for-added-security-distancing.md",
+      "title": "DIAL tests ‘computer vision’ for added security, distancing",
+      "excerpt": "After installing over 500 overhead sensors inside Terminal-3 of the Delhi airport to ensure social distancing, Delhi International Airport .",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/articleshow/80593615.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/articleshow/80593615.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/amp_articleshow/80593615.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/dial-tests-computer-vision-for-added-security-distancing/amp_articleshow/80593615.cms",
+      "publishedDateTime": "2021-01-29T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-01-30-by-africans-for-africans-female-entrepreneur-pioneers-facial-recognition-tech.md",
       "title": "'By Africans, for Africans': Female entrepreneur pioneers facial recognition tech",
       "excerpt": "Charlette N'Guessan Desiree loved maths and science as a student in Ivory Coast, but never imagined she would one day use her problem-solving savvy to develop facial recognition technology more adept at identifying and verifying African faces.",
@@ -1149,187 +1341,6 @@
       "provider": {
         "name": "Business Insider India",
         "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-staten-island-da-draws-criticism-for-facial-recognition-use.md",
-      "title": "Staten Island DA Draws Criticism for Facial Recognition Use",
-      "excerpt": "Critics argue the technology from Clearview AI treads on basic privacy and civil rights by collecting and storing data on individuals pulled from social media and Internet channels without their knowledge or consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_1392652700.jpg",
-          "width": 939,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Staten-Island-DA-Draws-Criticism-for-Facial-Recognition-Use.html?AMP",
-      "publishedDateTime": "2021-01-22T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-privacy-fears-as-indian-city-lucknow-readies-facial-recognition-to-spot-harassed-women.md",
-      "title": "Privacy fears as Indian city Lucknow readies facial recognition to spot harassed women",
-      "excerpt": "Concerns that technology will lead to intrusive policing and privacy violations, digital rights experts warned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
-      "originalUrl": "https://www.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/01/23/0b83e278-5cef-11eb-a99a-beae699a1a1d_image_hires_052038.jpg?itok=YoSvb9Te&v=1611350446",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3118937/privacy-fears-indian-city-readies-facial-recognition-spot",
-      "publishedDateTime": "2021-01-22T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-minneapolis-a-step-closer-to-banning-facial-recognition-technology.md",
-      "title": "Minneapolis a step closer to banning facial recognition technology",
-      "excerpt": "There are concerns about it leading to a surveillance state, and that it could harm disadvantaged communities.",
-      "sourceUrl": null,
-      "webUrl": "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "originalUrl": "https://bringmethenews.com/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bringmethenews.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc0MzMyNDc4ODA1MjU1ODE0/minneapolis-skyline.jpg",
-          "width": 620,
-          "height": 359,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "cdnAmpWebUrl": "https://bringmethenews-com.cdn.ampproject.org/c/s/bringmethenews.com/.amp/minnesota-news/minneapolis-a-step-closer-to-banning-facial-recognition-technology",
-      "publishedDateTime": "2021-01-22T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bring Me The News",
-        "domain": "bringmethenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-23-ban-on-facial-recognition-technology-by-minneapolis-police-advances.md",
-      "title": "Ban on facial recognition technology by Minneapolis police advances",
-      "excerpt": "A proposal to ban the use of facial recognition technology by Minneapolis police and other city departments is advancing. A council committee advanced the measure Thursday which will go to the full council Feb.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
-      "originalUrl": "https://www.wdio.com/news/ban-facial-recognition-minneapolis-/5986531/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wdio.com/wdioimages/repository/2021-01/minneapolis-police.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
-      "cdnAmpWebUrl": "https://amp-wdio-com.cdn.ampproject.org/c/s/amp.wdio.com/articles/ban-facial-recognition-minneapolis--5986531.html",
-      "publishedDateTime": "2021-01-22T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WDIO",
-        "domain": "wdio.com",
         "images": null,
         "publishers": null,
         "authors": null

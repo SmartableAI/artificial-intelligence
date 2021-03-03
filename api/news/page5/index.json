@@ -2,6 +2,246 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-26-ai-powered-information-operations-and-new-citizenship.md",
+      "title": "AI-Powered information operations and new citizenship",
+      "excerpt": "Digital information is power, and today citizens have this new power at their fingertips, channeled through reactions, comments, shares, saves and searches on our everyday digital platforms. However,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/",
+      "originalUrl": "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2021/02/25/ai-powered-information-operations-and-new-citizenship/amp/",
+      "publishedDateTime": "2021-02-25T14:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-apple-training-siri-to-better-understand-people-with-atypical-speech.md",
+      "title": "Apple Training Siri to Better Understand People With Atypical Speech",
+      "excerpt": "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "originalUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/mivQrgPpAEzYsUPg1wq5M8-c2-E=/1920x/https://images.macrumors.com/article-new/2020/06/ios14siriinterface.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "publishedDateTime": "2021-02-25T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-setting-up-amazon-personalize-with-aws-glue.md",
+      "title": "Setting up Amazon Personalize with AWS Glue",
+      "excerpt": "Data can be used in a variety of ways to satisfy the needs of different business units, such as marketing, sales, or product. In this post, we focus on using data to create personalized recommendations to improve end-user engagement. Most ecommerce applications consume a huge amount of customer data",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/setting-up-amazon-personalize-with-aws-glue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/19/ML-1069-1.jpg",
+          "width": 480,
+          "height": 271,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T13:05:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
+      "title": "Driverless bus hits streets of Malaga in southern Spain",
+      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html",
+      "originalUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/theelectricp.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-driverless-bus-streets-malaga-southern.amp",
+      "publishedDateTime": "2021-02-25T12:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos.md",
+      "title": "NortonLifeLock’s AI-powered smartphone app blurs out sensitive information in photos",
+      "excerpt": "With some regularity, sensitive information finds its way into smartphones and other mobile devices. Much of it comes from the estimated 3.2 billion images uploaded every day — people screenshot documents like tickets,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/",
+      "originalUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1079201610-e1592874115155.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/nortonlifelocks-ai-powered-smartphone-app-blurs-out-sensitive-information-in-photos/amp/",
+      "publishedDateTime": "2021-02-25T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-kinetix-makes-strategic-investment-in-senfino-ai.md",
       "title": "Kinetix Makes Strategic Investment in Senfino AI",
       "excerpt": "Senfino AI, a leading fintech company that provides AI solutions for Asset Management, today announced the close of a strategic investment from Kinetix Trading Solutions, an innovator in Trade Management and Compliance software. Senfino AI, a leading ...",
@@ -488,6 +728,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk.md",
+      "title": "CyberLink Partners With Vypin to Integrate Facial Recognition Into Security and Health Kiosk",
+      "excerpt": "Vypin launched the Vypin eScreener™ kiosk with the latest in automated screening technology to promote health and safety without sacrificing the employee or customer experience. CyberLink’s FaceMe® SDK powers the eScreener™ kiosk’s ability to detect whether a face mask is present or not,",
+      "sourceUrl": null,
+      "webUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "originalUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/d/6d/d6d14fc6-56e3-5d3b-81a1-92f51b1689aa/6037b55fdb736.image.jpg?resize=1200%2C628",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-otterai-raises-50-million-for-ai-transcription.md",
       "title": "Otter.ai raises $50 million for AI transcription",
       "excerpt": "Otter, a startup developing a speech transcription service that works at enterprise scale, has raised $50 million.",
@@ -942,314 +1226,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-why-religions-are-right-to-be-afraid-of-ai.md",
-      "title": "Why Religions Are Right to Be Afraid of AI",
-      "excerpt": "French sociologist and philosopher Raphaël Liogier, former director of the now-defunct Religion Observatory at the University of Provence Aix-Marseille, believes the Pope’s comments speak volumes about his beliefs on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "originalUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60103aa49ddb36009b1b45d0/lede/1611736717220-kfh1th.jpeg?crop=1xw:0.84375xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "publishedDateTime": "2021-02-25T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
-      "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
-      "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future-2021-02-24?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market Size, Share, COVID-19 Impact, New Technological Advancements And Geographical Forecast Till 2027",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-size-share-covid-19-impact-new-technological-advancements-and-geographical-forecast-till-2027-2021-02-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T21:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-aws-announces-general-availability-of-amazon-lookout-for-vision.md",
-      "title": "AWS Announces General Availability of Amazon Lookout for Vision",
-      "excerpt": "Amazon Lookout for Vision uses AWS-trained computer vision models on images and video streams to find anomalies and flaws in products or production processes GE Healthcare, Amazon, and Basler among customers and partners using Lookout for Vision SEATTLE--(BUSINESS WIRE)--#ai--Today,",
-      "sourceUrl": null,
-      "webUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/",
-      "originalUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/",
-      "cdnAmpWebUrl": "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-announces-general-availability-of-amazon-lookout-for-vision/amp/",
-      "publishedDateTime": "2021-02-24T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalproducer.com",
-        "domain": "digitalproducer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-using-container-images-to-run-tensorflow-models-in-aws-lambda.md",
-      "title": "Using container images to run TensorFlow models in AWS Lambda",
-      "excerpt": "TensorFlow is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they’re trained, these models",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-tensorflow-models-in-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-tensorflow-models-in-aws-lambda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/24/2181Architecture.jpg",
-          "width": 611,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:01:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-conscious-ai-the-role-and-impact-of-digital-ethics-in-2021.md",
-      "title": "Conscious AI: The Role and Impact of Digital Ethics in 2021",
-      "excerpt": "For some time, we have been in an era of unprecedented technological advancement. It has been clear to many that our ethics have not had time to keep up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/conscious-ai-role-impact-digital-ethics-2021-heather-o-halloran",
-      "originalUrl": "https://www.linkedin.com/pulse/conscious-ai-role-impact-digital-ethics-2021-heather-o-halloran",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQH4gmEpnGn3Ag/article-cover_image-shrink_720_1280/0/1614263003950?e=1620259200&v=beta&t=cj1pFEBcFlEWh3OIUSMrKQhwcEOsJnIRD5Dc9sWNqpQ",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

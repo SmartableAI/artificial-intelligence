@@ -2,6 +2,213 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-02-how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising.md",
+      "title": "How Online Privacy Issues Will Shape Future Use Of Artificial Intelligence In Advertising",
+      "excerpt": "The article discusses the use of artificial intellignece in advertising as a response to stricter privacy regulations in order to effectively target consumers while protecting sensitive information. Sheri Bachstein of IBM Watson is interviewed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
+      "originalUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d16a47be12e5f55c56714%2F0x0.jpg",
+          "width": 828,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
+      "publishedDateTime": "2021-03-01T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course.md",
+      "title": "Codeacademy partners with Black and Brilliant for 10-week AI course",
+      "excerpt": "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "originalUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2019/09/18/aa3cd281-ebbc-40b1-bce2-302abb8f1a1d/resize/1200x/bd38c37fbdae4a13baac8d1b612198fb/istock-1090216744.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
+      "publishedDateTime": "2021-03-01T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-volkswagen-and-argo-ai-plan-to-launch-a-self-driving-electric-taxi-in-2025.md",
+      "title": "Volkswagen and Argo AI Plan to Launch a Self-Driving Electric Taxi in 2025",
+      "excerpt": "Volkswagen ( OTC:VWAGY) said that it plans to launch a self-driving electric van for urban ride-hailing service in 2025. Volkswagen said on Monday that a commercial version of its ID. Buzz, an electric minivan inspired by the iconic 1960s VW Microbus,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F615901%2Flarge-13019-volkswagencommercialvehiclesmovesaheadwithautonomousdrivingrdformobilityasaservice.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/",
+      "publishedDateTime": "2021-03-01T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience.md",
+      "title": "Only 50% Of Hires Are Successful: How AI Is Optimizing The Experience",
+      "excerpt": "Organizations need to have processes to handle the increased number of applicants the best way possible, especially for industries that had to let go of many employees, to recruit the best candidates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/",
+      "originalUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603cfb88adb5fdfd03d7427c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lucianapaulise/2021/03/01/only-50-of-hires-are-successful-how-ai-is-optimizing-the-experience/amp/",
+      "publishedDateTime": "2021-03-01T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-avoiding-bias-and-discrimination-in-machine-translation.md",
       "title": "Avoiding Bias And Discrimination In Machine Translation",
       "excerpt": "Bias and discrimination have appeared time and again in various technological forms. A pressing issue is the discrimination found in many of the translation applications in use today, as Google Translate alone now serves roughly 200 million people daily.",
@@ -252,21 +459,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-01-artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020.md",
-      "title": "Artificial Intelligence In Healthcare Market Leading Companies Capabilities, Goals and Strategies During 2020",
-      "excerpt": "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market.",
+      "path": "_news/2021-03-01-a-wave-of-billion-dollar-computer-vision-startups-is-coming.md",
+      "title": "A Wave Of Billion-Dollar Computer Vision Startups Is Coming",
+      "excerpt": "Computer vision is the most technologically mature field in modern artificial intelligence. This is about to translate into enormous commercial value creation. The deep learning revolution has its roots in computer vision.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603c40eb7e5ff3ab52c8fef2%2F0x0.jpg",
+          "width": 981,
+          "height": 650,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -274,16 +481,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T16:25:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2021/02/28/a-wave-of-billion-dollar-computer-vision-startups-is-coming/amp/",
+      "publishedDateTime": "2021-02-28T17:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -299,7 +506,7 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1039,195 +1246,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage.md",
-      "title": "AI Weekly: Biden calls for $37 billion to address chip shortage",
-      "excerpt": "President Biden this week signed a supply chain executive order and pledged support for $37 billion to address a semiconductor shortage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/",
-      "originalUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1303925325.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/26/ai-weekly-biden-calls-for-37-billion-to-address-chip-shortage/amp/",
-      "publishedDateTime": "2021-02-26T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-myheritages-new-ai-tool-turns-photos-of-the-dead-into-unnerving-videos.md",
-      "title": "MyHeritage’s new AI tool turns photos of the dead into unnerving videos",
-      "excerpt": "Genealogy site MyHeritage has released an AI tool called DeepNostalgia that turns photos of deceased relatives into creepy videos.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
-      "originalUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/02/Untitled-design-2021-02-26T180643.190-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/02/26/myheritage-ai-deepfake-reanimates-photos-videos/amp/",
-      "publishedDateTime": "2021-02-26T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-driverless-bus-hits-streets-in-southern-spain.md",
-      "title": "Driverless bus hits streets in southern Spain",
-      "excerpt": "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "originalUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar",
-          "width": 560,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp",
-      "publishedDateTime": "2021-02-26T12:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-fast-food-drive-thrus-are-getting-smarter-heres-how.md",
-      "title": "Fast-food drive-thrus are getting smarter. Here's how",
-      "excerpt": "Drive-thrus are a lead generator of fast-food sales during the pandemic, and many chains, like McDonald's are trying to speed up the process by deploying new tech, including artificial intelligence for ordering.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-      "originalUrl": "https://www.msn.com/en-us/money/companies/fast-food-drive-thrus-are-getting-smarter-heres-how/ar-BB1e2Apw",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210223152154-restricted-01-fast-food-drive-thru-technology-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-      "publishedDateTime": "2021-02-26T12:15:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-        "domain": "com/2021/02/26/tech/mcdonalds-drive-thru-artificial-intelligence/index.html",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
