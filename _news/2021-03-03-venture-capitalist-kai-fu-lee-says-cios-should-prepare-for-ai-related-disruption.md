@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/venture-capitalist-kai-fu-lee-says-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/venture-capitalist-kai-fu-lee-says-cios-should-prepare-for-ai-related-disruption-11614723790"
 type: article
 quality: 82
-heat: 82
+heat: 83
 published: true
 
 provider:

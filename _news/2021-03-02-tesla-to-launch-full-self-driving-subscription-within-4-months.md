@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscr
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-1-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Elon Musk Says Tesla Will Launch Subscription for Full Self-Driving Within Months"
+    excerpt: "The advanced driver assistance system will be available as a monthly subscription sometime between April and June."
+    publishedDateTime: 2021-03-02T21:39:00Z
+    webUrl: "https://hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4"
+    ampWebUrl: "https://hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 54
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2Ftesla-elon-musk-full-self-driving-confirmed-q4-2021-cars-0-1.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
         isCached: true
 
 secured: "L7SrIWvJoOiXV+VRNZa+KqIG7ypSYdvQDaOQx5ialeaf+vzSuuqKdN7VAG3ghLznXl9SIcjndaDX0SM2U8D5CioPTsTs57UWJl5PFsm8LnP0aJ9rSU0Ubta8bcowZ9J/pktiYiLURLWBuChCz8ERrOEVnn24kG/AFQ0Ir2MObzmICv2kRxShL1E6UDeIj6BlUDS5Mt6ClnecBeEuQdnIPTZ1UO+nKDk+BevFddFSv6gX9hsNg5rt08DhBdAsXNqxszISqEjgpImnUnfLU1WfWT0j4Ay3SEaO5ph8RAedechn1++v3wAa31YJtkmC/r861VAMWxmR7cbJjdpqHFjVWy6+raNialiAzsjyolrW8qlVYGMi8kmdfZq0ywljhqxEDaRwB3VvbpPHlwwt2Cx3AM6GjcUbPzTekm+asJd6kgNGKJ18fun+rYw51pfNMOrkPs4HunLaouIvPpoU4z7pS9LkX+q8iCbqW1AtSRnBA0cwv4mYIA1YBb23T0upMk5ljJeNAmiuh7VhZpZlLPiVMQ==;QHW76oTd5VkOK/g1al7xbQ=="

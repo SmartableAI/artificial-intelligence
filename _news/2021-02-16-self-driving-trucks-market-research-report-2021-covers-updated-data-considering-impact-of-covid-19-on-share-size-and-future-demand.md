@@ -3,8 +3,8 @@ category: news
 title: "Self Driving Trucks Market Research Report 2021 Covers Updated Data Considering Impact of Covid 19 on Share Size and Future Demand"
 excerpt: "Feb 15, 2021 (Heraldkeepers) -- The scope of the report includes a detailed study of self-driving trucks market with the reasons given for variations in the growth of the industry in certain regions."
 publishedDateTime: 2021-02-15T17:07:00Z
-originalUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-trucks-market-research-report-2021-covers-updated-data-considering-impact-of-covid-19-on-share-size-and-future-demand-2021-02-15"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "t/do+YqOudQ4O5ML+NN8RpT9Jkg0rTE3c3zylmyZaYPaQcjWExmdxvqh/xyQjtwrFHQFpq0y6G82X+dvqtjsEsVb9Jd5s/GQgY1dfvZkd/xCLHUwD3qxmKSLWyXV1XOZ/LKLiCGvnzZrG7PUrQnk9/qNKiU+YsRqAunFB8bz4v9M81YBjfBa48+l0ChO2PDb9H7WN5Jk4oByMN9EljlFMfZpSfFrAGnZN6LDazpD/3jjnvZt7Tw/RfN5ugatlRwj08A7LzequKLMAnbmihkVgKEV733qcAyKjhPHzlK7N7SNKJiZHbqfU50UwGf6RGWczYC2FDTBClLUmVRduB+IRQv2wkzuXegtHL49Vm03wuA=;DMZNNXRPewSYLatXFBvliQ=="
+secured: "n0k5oG+sUfYtzQ0BPUrI9vNUZLd16y6UvoCUQiCuDgGgbZJ7XpqVxsl9FuinmU+607m8XCVuJeKfUek13LJy6vhh6jAbDtmpVBH8ApKliIQaL0jAM03Ma60ZueZX5R2iM7xL5o7nmJ0gEYOjl9hGHk/ldZvGY0aiW1l9JDrz7AzNRcRZYFJN8+x34qkVmHB/ozSyvjvOmU0xlEdN0RuCoIkskpkDPwPlcviM8FIRFYTMjvMVVV41+TdZdxPbBvKQHaP/Dg4IevhX7u6Bz0t6rkrSgqsz9G4Dq8X+HYkEodS8OJUSQzOku/nbG9mf45bweq7eeE1Sl52VgZTf1clwlNepuFcFMBJKW49yt3xxKUc=;Hl1mnI04VGriQ0cqn8QPLw=="
 ---
 

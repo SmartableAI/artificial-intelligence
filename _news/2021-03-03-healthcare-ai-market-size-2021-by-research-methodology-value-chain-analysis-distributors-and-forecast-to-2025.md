@@ -30,57 +30,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Security Market Statistics and Research Analysis Detailed in Latest Research Report 2021-2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given"
-    publishedDateTime: 2021-02-26T13:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-statistics-and-research-analysis-detailed-in-latest-research-report-2021-2028-2021-02-26"
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,"
+    publishedDateTime: 2021-03-03T01:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 70
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given"
-    publishedDateTime: 2021-02-27T05:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-02-26"
+  - title: "Artificial Intelligence In Healthcare Market Leading Companies Capabilities, Goals and Strategies During 2020"
+    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
+    publishedDateTime: 2021-03-01T00:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Robot Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
-    excerpt: "The scope of the report includes a detailed study of Smart Speaker Market with the reasons given for variations in the"
-    publishedDateTime: 2021-03-02T09:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-robot-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-03-02"
+  - title: "Machine Learning as a Service (MLaaS) Market by Application and Geography Trends, Growth and Forecast 2020 - 2027 by ARC"
+    excerpt: "pune, India, Tue, 02 Mar 2021 01:00:21 / Comserve Inc. / -- Acumen Research and Consulting added Most up-to-date research on \"Global Machine Learning as a Service (MLaaS) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027\" to its huge ..."
+    publishedDateTime: 2021-03-02T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020---2027-by-arc-2021-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations"
-    publishedDateTime: 2021-02-26T16:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -97,138 +83,34 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
-  - title: "Neural Network Software Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
-    excerpt: "The Neural Network Software Market share is segmented on the lines of its artificial component, type, vertical and"
-    publishedDateTime: 2021-03-02T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-03-02"
+  - title: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 Leading Competitors, Regional Trends and Growth Trends 2025"
+    excerpt: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity,"
+    publishedDateTime: 2021-03-01T06:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-life-sciences-services-market-2020-leading-competitors-regional-trends-and-growth-trends-2025-2021-03-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Vehicles Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
-    excerpt: "Mar 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Autonomous vehicle also known"
-    publishedDateTime: 2021-03-01T15:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-01"
+  - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
+    excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
+    publishedDateTime: 2021-03-01T15:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-2020-strong-development-rising-comprehensive-industry-outlook-offers-future-business-growth-2027-2021-03-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Demand, Growth Opportunities and Top Key Players Analysis Report 2021 - 2024 | By Kenneth Research"
-    excerpt: "As per the latest report published by Variant Market Research, Global Artificial Intelligence is estimated to reach"
-    publishedDateTime: 2021-02-26T16:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-demand-growth-opportunities-and-top-key-players-analysis-report-2021---2024-by-kenneth-research-2021-02-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Analytics Industry (2020 to 2026) – Key Market Trends and Drivers – Kennethresearch.com"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2021-03-02T14:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-industry-2020-to-2026-key-market-trends-and-drivers-kennethresearchcom-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
-    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
-    publishedDateTime: 2021-03-02T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-report-2021-key-trends-and-opportunities-to-2026-kennethresearchcom-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027"
-    excerpt: "Global “ AI in Fintech Market ” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and industry chain structure. The AI in Fintech Market report also concentrate on the development trends as well as history,"
-    publishedDateTime: 2021-03-02T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
-    publishedDateTime: 2021-03-01T06:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Computing Market (2021 to 2026) – Share, Size, Trends & Industry Analysis Report – Kennethresearch.com"
-    excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
-    publishedDateTime: 2021-03-02T19:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-to-2026-share-size-trends-industry-analysis-report-kennethresearchcom-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Telecom Order Management Market Report 2021: Market is Driven by AI, Machine Learning, & Big Data Analytics Solutions - Forecast to 2026"
-    excerpt: "The Global Telecom Order Management Market is expected to grow at an impressive rate during the forecast period. The Global Telecom Order Management Market is driven by the adoption of emerging technologies such as AI,"
-    publishedDateTime: 2021-03-01T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-telecom-order-management-market-report-2021-market-is-driven-by-ai-machine-learning-big-data-analytics-solutions-forecast-to-2026-1030135216"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
-  - title: "Artificial Intelligence for Automotive Applications Market: 2021 Analysis Report, Share, Trends, and Overview 2021-2027"
-    excerpt: "Artificial intelligence AI in the automotive industry is expected to cause serious disruption by streamlining production capacity and boosting business growth The design and deployment of new technologies including autonomous mobility vehicle simulation rapid prototyping and AI enabled car factories"
-    publishedDateTime: 2021-03-02T07:58:00Z
-    webUrl: "https://www.openpr.com/news/2250584/artificial-intelligence-for-automotive-applications-market"
-    ampWebUrl: "https://www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
 
 secured: "KovSuqTO5CSfiR9t0uoVJ9UAAYuXOgYjbCtywKUb2XCTtHE7wECal8Zrz/IYxmqCwx40kcpJiaUm4aPHYA3Z04691gEoPngjhI5qgLkNy+q5MNxvOBeEF+rFvHJdZNAY4yKw8wp+Bhv25IfWgeTfpj2yoGn889Mr5lB4XEqFscwoc7/FpPpyqtWZOMBWlsVaGGaMdFpj6ZibowFUJkQZUfAQOHXcL8prZ+vkE1swmGxBHXcPfXUckwcvm3Gp1HbQla/EBXOCBCUhHop3PgP3UuEWCUlcl2ItIfBMdOBvFsuDqmRribtqCbs45Xp+OzVcHk9Wb/hIcyoAmkZSLo7/Q8jao/4pWVwZEmQuTuoZf9s=;C15eIiSOef7CYrmZ+Xk/3Q=="
 ---

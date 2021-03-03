@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/ai-ethics-research-conference-sus
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/ai-ethics-research-conference-suspends-google-sponsorship/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:

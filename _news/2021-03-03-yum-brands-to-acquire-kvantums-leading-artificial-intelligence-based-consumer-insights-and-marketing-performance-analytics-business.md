@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Yum! Brands to Acquire Kvantum’s Leading Artificial Intelligence-Based Consumer Insights and Marketing Performance Analytics Business"
-excerpt: "Yum! Brands to Acquire Kvantum’s Leading Artificial Intelligence-Based Consumer Insights and Marketing Performance Analytics Business"
-publishedDateTime: 2021-03-02T17:30:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210302005600/en/Yum%21-Brands-to-Acquire-Kvantum’s-Leading-Artificial-Intelligence-Based-Consumer-Insights-and-Marketing-Performance-Analytics-Business"
-webUrl: "https://www.businesswire.com/news/home/20210302005600/en/Yum%21-Brands-to-Acquire-Kvantum’s-Leading-Artificial-Intelligence-Based-Consumer-Insights-and-Marketing-Performance-Analytics-Business"
+excerpt: "Yum! Brands, Inc. (NYSE: YUM) today announced that it has entered into a definitive agreement to acquire the leading artificial intelligence-based consumer insights and marketing performance analytics business of Kvantum,"
+publishedDateTime: 2021-03-03T05:35:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-ownership-changes-9510eebb785a44ee99bfa877dd9d319a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-ownership-changes-9510eebb785a44ee99bfa877dd9d319a"
 type: article
 quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
@@ -36,6 +36,6 @@ related:
         height: 274
         isCached: true
 
-secured: "0+FoT5IW6PWhD6bHHWTWFAf3y1PF/6ufgXDWU0ETgQrnBPJXsoD0AuQyZivlPSDxz7xMd03Au6UtKlfPVznSpcn5xfcLSYESqyyC3vPfYKqsI5zm5bBk3FtKH4GkOYuVR3ON64lgQCsuoxtw/yMoRxGRoTanNhbqfFX4Lrh+U55ihf5BfCxIlmuzt4wb68eN+OKX84BSIEJMAv68VzfDSXFmN7iFvbACMR27jjGSE6ZO/iGELUtrhGif5jkIEZHYdiiHeDOiQG9WXyRgLJ3Cl5hTN9f2jNHPLgoxUSJuDuCjJUp5LVBx1Gw9yKHKZEUAdA32/lZHFEfKdeGHA6cbvgxj38ixAMmWKNmpqshpjWA=;oRj49wGrwwJEeJNU1a51Jg=="
+secured: "Rj0TUKKR8l9vn10x5tvdieUde6747mFQwZYkS+KFlz4qlP3TeFRdTNms9Qj48E7/lnOxVrcF4/BS5YUmiN8KrUgT1N2mVPycnt2anjfgOBpJ0oFrcalyng6QIDTBDZyUA746gJXBRMBGl/gjoNDezrJAGkNfLKbVlaqB8NcrJGuGDdSoDuicnxLPWM10QB13ATRs22kvBiYwQTxk+RkGc1vVdl7kUMarOyNjf8Ms0hGS96oVPtJEz6ofpUHAC/h1kTMpoJWlmfnTfMOOPXOe1zUHrBJW3u8mIR8e/3LGrsxPZpXDNzrhBTjifn5bzwdVBpIVtiw1t4MlQ2VpEwHLRQh8Tk7COdKq0k88225tffM=;AhUu+DROFjl8VexXbqJm4g=="
 ---
 

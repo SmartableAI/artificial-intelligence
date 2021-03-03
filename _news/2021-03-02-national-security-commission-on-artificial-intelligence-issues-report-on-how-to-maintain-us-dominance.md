@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/01/national-security-commission-on-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-u-s-dominance/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -34,6 +34,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Commission: Immigrants Key To America’s Tech Competitiveness"
+    excerpt: "A bipartisan commission on artificial intelligence recommends new immigration laws to allow America to attract and retain talent."
+    publishedDateTime: 2021-03-03T05:12:00Z
+    webUrl: "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/"
+    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603ef7879dd35452a831675b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3374%26cropY1%3D74%26cropY2%3D1972"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Opportunity for companies in the national Security Space to Sponsor Defense Intelligence Memorial Foundation Event"
     excerpt: "Please join others in the tech community gathering at the Defense Intelligence Memorial Foundation‘s (DIMF) annual Tech Talk. The DIMF is a non-profit organization which funds scholarships for the children"
     publishedDateTime: 2021-03-02T14:32:00Z

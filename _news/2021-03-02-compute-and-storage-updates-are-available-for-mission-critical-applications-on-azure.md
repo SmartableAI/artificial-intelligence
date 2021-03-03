@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/compute-and-storage-updates-are-available
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/"
 type: article
 quality: 97
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 760
     height: 515
     isCached: true
+
+related:
+  - title: "Maana and Aramco Trading Company Launch AI Application to Optimize Maritime Fleet and Shipping Operations"
+    excerpt: "Maana Q knowledge platform enables new category of intelligent applications for mission critical operations Fanar is the first application of its kind on Microsoft Azure to be built for the oil and gas industry Aramco Trading Company (ATC) and Maana today announced the launch of Fanar,"
+    publishedDateTime: 2021-03-03T05:17:00Z
+    webUrl: "https://www.businesswireindia.com/maana-and-aramco-trading-company-launch-ai-application-to-optimize-maritime-fleet-and-shipping-operations-71820.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 2
 
 secured: "4oV52TmDeN66OCMl5XqWd1SsQj6xtOo4tE9Zp6MkhH7T6V3hZ/JBvK1uTFok8HlP52Yg7+4uWnj58jP+Eqf65GU7l5jvaVMFaxiyIpWsCPhw8t39rKdSLIp8LWkH7EP8URm4OxmM0oSf8CbBsUPlW/eLuTla92L0Kl2pOvVkrywtpPX+V624fh7wdPVQUCD5n4pDANgeMOKX5QR8xMkAHYCKlqEHcvbmc5nTUzy4TZjRGPSrf4rvpw5E3sCalxUO9D0TyJBSLmZbGECk5pV50knki/EN0ERVJ93oz6+NNJKWkuepN6bYjkzjDZpAW/bETGW7S9plZbErTZNzR1Uk2J8B7t437U1UfQEVOCsTPJmdPg3UTUYiT+N3tlii/5Iwxso5koDkWd7eoA4QttpgafbOlHsmhb/9Xd8+8iskNBy2jBDisLEDhLpadQDWeolS/0oRPfAjc3jJ8NNtDb/mGhBcXjXGMDqEVHkqNjkkoidFJVF+gLAiH4Yz2iFj8sdKXdrGUIYYhABHVVcW4JcRXA==;cKiBKMQhbW/S8P6yQiv7bw=="
 ---

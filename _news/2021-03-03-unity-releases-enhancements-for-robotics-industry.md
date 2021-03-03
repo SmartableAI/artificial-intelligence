@@ -1,33 +1,29 @@
 ---
 category: news
 title: "Unity Releases Enhancements for Robotics Industry"
-excerpt: "Unity, the world’s leading platform for creating and operating real-time 3D (RT3D) content, today released its Object Pose Estimation demonstration,"
-publishedDateTime: 2021-03-02T21:41:00Z
-originalUrl: "https://www.marketwatch.com/press-release/unity-releases-enhancements-for-robotics-industry-2021-03-02"
-webUrl: "https://www.marketwatch.com/press-release/unity-releases-enhancements-for-robotics-industry-2021-03-02"
+excerpt: "Unity, the world’s leading platform for creating and operating real-time 3D (RT3D) content, today released its Object Pose Estimation demonstration, which combines the power of computer vision and simulation technologies illustrating how Unity’s AI and Machine Learning capabilities are having real-world impact on the use of robotics in industrial settings."
+publishedDateTime: 2021-03-03T05:30:00Z
+originalUrl: "https://apnews.com/article/technology-3d-technology-entertainment-and-media-technology-robotics-artificial-intelligence-3281a87cd15b4c679c750e722324ab90"
+webUrl: "https://apnews.com/article/technology-3d-technology-entertainment-and-media-technology-robotics-artificial-intelligence-3281a87cd15b4c679c750e722324ab90"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "qswijN+qOv3utRNxWnonTu58Hk4h5vEnlIZ+FakGEoLqWOcVlzvSCh9QYEY+UGvWc37iN2Xg6H4AaSWKi/j/kw9p2ApyICKT0clcQW7ALuLaLTzVdGIb7Db3qM17KUKiFT+a7grtvnnuS/Rn9BaaujHvnwPAjrxUDzbfHNaMiKmLTk4AkYgaAfwLBxY9RepEwtVJPg8rojAbewKjne6YOzF8O4zazM0c9AKrF+xPnQBdM5qbBU+7qAUqs/pKjVELXcWqqa5vopsiEz7GEb0ByiqPi2LDGTBMZSlS/CEqWQ7jSAzUzpcxi6Q3dLBm7m3FtFAlRRayX/gri9kIMDU6ter3nG5SGL97etAdAVGAhUc=;YuQkIFKlMr3CqumyqFFwiQ=="
+secured: "VHoWWakq6sHR6RRBRBga5SeTj3ArCKT7oUffO42jcpVA0IorEtwcpI2PmcjiO5bED7ioZoHaLFu1f1jsrhRuNZWGETQROtwS6fKO36kovJqZC+FdXON06mzGXVbc1FzENy0ScfEYmOq4Sm0AkNdlTRfuvLU8wz/563pI4Z7uL1I8Pdsn6uSM9z1Ghl3ZAWr3jn0d9FHDwYr8SS6UyJ9gMhGpCKynTF2RZXKobvqziv0OZ1OHbifs9YVwypV3FbmWXI2Wbk7znEVML9esxShTJXJdLHBnG2EJJa2ZzF6q08rLJ493mL+jOgyagB+0M/b5l96gGm1kO9KjHf6Rgj5yDXav8FNWPcAd2cyZREEDGYM=;gsJQ8W98WdaIG9+OsMYEfw=="
 ---
 

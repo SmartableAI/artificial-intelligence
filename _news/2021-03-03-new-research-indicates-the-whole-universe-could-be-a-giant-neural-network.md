@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/02/new-research-indicates-the-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/02/new-research-indicates-the-whole-universe-could-be-a-giant-neural-network/amp/"
 type: article
 quality: 88
-heat: 88
+heat: 90
 published: true
 
 provider:

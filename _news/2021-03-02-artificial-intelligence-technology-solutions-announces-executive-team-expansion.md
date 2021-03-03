@@ -42,6 +42,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "Artificial Intelligence Technology Solutions Announces Executive Team Expansion"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Secretary of AITX. Reinharz is the founder and President of AITX’s subsidiaries and the majority and controlling owner of AITX."
+    publishedDateTime: 2021-03-03T05:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-transportation-infrastructure-products-and-services-866b812cf5f541b4a0cb36831092ce2f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
 
 secured: "vtDFHSSLrbgMNvfijm8MFMTEZeVxWaphT0ExzLVGhHTswWU1MXuQPsEa4Iw/SvGGuQPthrZXxl/OaQG6eRGzd7RSpSGdLAzfDZzce4LCxgmlRJ3kHfrrzrBfNF6yzIHYquk7m+Lxr29y0FPIViYnLmpgUmxWhwky/dHKQh0k4fA5zGJQpFisW1j3Yo2vrBTEbfPYy2oelfzZnjS6OKbblGbRNIKWFGMJU9O1oC1TChXlQQFTtkbTRUTZqTK34Nm+8lpiHfjI9ca/hRH2PhJdOH2l8lLlNzO2Y1+s6HeYZQQm+fxj4WAIXJ6QrmBjO/ZQr5cY+yCNIW78KHBjXsr3Qut8YfdcyGty/elE/ApyHMM=;Krf//28dh+Ss0hqiVvOswQ=="
 ---

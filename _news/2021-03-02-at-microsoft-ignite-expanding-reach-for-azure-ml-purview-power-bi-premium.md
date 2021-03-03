@@ -349,7 +349,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN
@@ -359,6 +359,20 @@ related:
       - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
         width: 501
         height: 375
+        isCached: true
+  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-03T05:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
     excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
@@ -414,6 +428,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2021/03/Microsoft-Ignite-Logo-1.jpg"
         width: 1267
         height: 495
+        isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Market Next Big Thing | Major Giants Microsoft, Teradata, IBM"
+    excerpt: "Latest released the research study on Global Artificial Intelligence and Cognitive Computing Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence and Cognitive Computing Market research report shows the latest market insights,"
+    publishedDateTime: 2021-03-03T05:28:00Z
+    webUrl: "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "nInw/B3PXBg1tF6SJQVpo1u1GbTB7UFMbFdGqWmGHfVy3BJUsdMo+2G9E9UZSqAEQI3qb7+WSAj6pzmOD34ATFH7CEKq44zh2yRf3bZqqBzctsX6/l4ldhmuyMMr8Ds3ayLns5mD6Ywl7m6yYr856fBrxxu/tK68QxaYekDIZG/WrT4n6WzKjOZN3K8tG24L1pklN2VIrVxB8xkMrbjQdRNJ5LMgMDDNaovNUGx+xbzZiVqMSNqaqlHjj1t5r0nrBdq5Q7pM0ec73hgGj3g1UEndLSlHpmywzAs2zmH7MEJHoH9FzGLHJy2HiIpKHSxdQh7C/9YG9PBMEDSxMK89L6BxZDuTzzhBgs9UpLH2OE/L5r8BxBi20XMpg4GwmHuqryFnWzd5XFf7+R91Xs3rEP6YfnXM5oMYoBbwUBItSBIWKk5g0zHFU1+r4LOl741TfiyjTp+SEtC/EqANnXQOu57jGpwbI9HaI7tvxb04LZDXi24qTNcqemS/WkmEKChCD5ViClKXM5U+GQ7fiqUabA==;tk5DqCzo4U4ov8909gjTdw=="

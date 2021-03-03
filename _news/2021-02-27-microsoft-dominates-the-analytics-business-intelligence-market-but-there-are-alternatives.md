@@ -361,7 +361,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN
@@ -371,6 +371,20 @@ related:
       - url: "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg"
         width: 501
         height: 375
+        isCached: true
+  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-03T05:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
     excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services in India."
@@ -410,6 +424,20 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2021/03/Microsoft-Ignite-Logo-1.jpg"
         width: 1267
         height: 495
+        isCached: true
+  - title: "Artificial Intelligence and Cognitive Computing Market Next Big Thing | Major Giants Microsoft, Teradata, IBM"
+    excerpt: "Latest released the research study on Global Artificial Intelligence and Cognitive Computing Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence and Cognitive Computing Market research report shows the latest market insights,"
+    publishedDateTime: 2021-03-03T05:28:00Z
+    webUrl: "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "pXrv4Eqxp0dis3odbqVh2jVUT1oMn8kZfJCsYVPUFSwhmqaAu0jYzaOX8+73fuYFJtUfpOqB39nPn5gN1OoKDoN2qZy9LNfMNKpdRmajM4mTHLWLxrPfIOtJBfEre01mhMudEm3JNTJyDNi59TJBdacpJglO5MNm82/MJ6FBM5kl0zOt0FkmDYXllS9+plbdtUBaz/DX1Ovi0poTV/LvDqVX8sTPCcYmfo2RH2WG9bJ0Qg8IPLTFBU5MH90ARS+O7vyLytvKM8Y0revAJjKJ/djgIbIrAB+07zjjbtsDuwh4g+fmYYYFT0GAMqmvE6VSY1B8AuJamD4egL3OeComnxWgpgvVSzllPCvjA5Y40O1R/Fed0RJeuIUoPnCmaFYdpfI17lkgfTN0YYBhPpkaMFuSX4lpRdVHY/Q8blD043S98jwGIQAvkwSjcjtGgsqg7mxbraLJBXE0fJPrxlGW+k2pV9s100GUH3nZLNYB2W6jbx1nxTtO/d5j4j2Cp1634rQhN8mWWwPz6ggrDSrJ7A==;y2QaH/cJ705HzyKrCHDtSg=="

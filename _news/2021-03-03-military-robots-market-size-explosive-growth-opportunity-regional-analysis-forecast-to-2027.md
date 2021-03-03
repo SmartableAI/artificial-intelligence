@@ -29,17 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chipsets Market Size, Share, Growth, Trends, Analysis and Forecast - 2027"
-    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
-    publishedDateTime: 2021-03-02T08:13:00Z
-    webUrl: "https://www.openpr.com/news/2250611/artificial-intelligence-chipsets-market-size-share-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+  - title: "Autonomous Vehicles Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
+    excerpt: "Mar 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Autonomous vehicle also known"
+    publishedDateTime: 2021-03-01T15:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-01"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Media Market Report 2021: Cloud Deployment is Expected to Witness Significant Growth - Global Growth, Trends, COVID-19 Impact, and Forecasts"
     excerpt: "The \"Cognitive Media Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering. The Cognitive Media Market is expected to register a CAGR of 22% during the forecast period (2021 - 2026)."
     publishedDateTime: 2021-02-26T15:11:00Z

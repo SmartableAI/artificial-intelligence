@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Elon Musk Says Tesla Will Launch Subscription for Full Self-Driving Within Months"
+    excerpt: "The advanced driver assistance system will be available as a monthly subscription sometime between April and June."
+    publishedDateTime: 2021-03-02T21:39:00Z
+    webUrl: "https://hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4"
+    ampWebUrl: "https://hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4?amp=1"
+    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4?amp=1"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 54
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2Ftesla-elon-musk-full-self-driving-confirmed-q4-2021-cars-0-1.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
+        width: 1170
+        height: 780
+        isCached: true
 
 secured: "DoGqk1JRf+xoAe2tQv9mkGCCia50Gk8q8rNxsc1HxQ5Yg+YH8l9UpMVWF+X69YZHwR2wOmdtCK8UcuvitR/HTBBz7pzyIxNqxDdmq+ONn07oxERswxncfghxATNTI3rX0ByjXmLEKNTpdhDsFuIdF6t0G4Z6s1t7+QoQrB1upEK6bGejx9tpxMzNqBAcpwW6vatX2ObGXsEuA9PNRlPlMC93bZ/ViHjaSaiS/TidFqhg13M0ur3aYVEyOQ9a+88xjy89Us3C6uRb7fB2eXQVMhpnXK5lIqGBRWucLQDqsfDbWFJs+PEa/qRhuwboeukhyJQUX+60ZwXE5rucchq8FxUM06uUNFw3jAtsgpmn5dIXtDHCwiEbAN2Mx8abxY9VCvq0tljinzabw4uBJIx1o0Ba4dktlv3j+FbjYm5tt+auWVt8u1/theqkrsjQNqVrPI5JepDFUVoBFloQCL09b3+Vb8od8KPh0mLYxSxA+/+bgvKSAH48i9ccSOOjeO0aVMhzQ7TFV+lb7Qa3jDWF5A==;rgyr9pt8XdeTmCzff5/r0w=="
 ---

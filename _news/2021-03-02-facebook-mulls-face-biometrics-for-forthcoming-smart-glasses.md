@@ -163,6 +163,20 @@ related:
         width: 369
         height: 276
         isCached: true
+  - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
+    excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
+    publishedDateTime: 2021-03-03T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-inch-closer-to-building-general-purpose-intelligence-agents-with-unit/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 20
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Untitled-design-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
     excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
     publishedDateTime: 2021-02-26T22:35:00Z

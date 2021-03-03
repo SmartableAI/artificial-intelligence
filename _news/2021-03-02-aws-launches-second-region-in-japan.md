@@ -1,29 +1,23 @@
 ---
 category: news
 title: "AWS Launches Second Region in Japan"
-excerpt: "(AWS), an Amazon.com company (NASDAQ:AMZN), today announced the launch of a second full region in Japan, the AWS Asia Pacific (Osaka) Region. The region is an expansion of the existing AWS Osaka Local Region,"
-publishedDateTime: 2021-03-02T03:37:00Z
-originalUrl: "https://www.marshallnewsmessenger.com/ap/business/aws-launches-second-region-in-japan/article_080d9f3e-2d8e-51b2-b455-2e6c2d3c1a8c.html"
-webUrl: "https://www.marshallnewsmessenger.com/ap/business/aws-launches-second-region-in-japan/article_080d9f3e-2d8e-51b2-b455-2e6c2d3c1a8c.html"
+excerpt: "Local Region expanded into a standard AWS Region to accommodate an even greater variety of use cases and serve Japan with even lower latency Customers and AWS Partners across Japan welcome the new AWS Asia Pacific (Osaka) Region,"
+publishedDateTime: 2021-03-01T21:37:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20210301006110/aws-launches-second-region-in-japan"
+webUrl: "https://www.morningstar.com/news/business-wire/20210301006110/aws-launches-second-region-in-japan"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: The Marshall News Messenger
-  domain: marshallnewsmessenger.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/marshallnewsmessenger.com/content/tncms/custom/image/7e780986-db6e-11e7-8b57-b3ae03229ea1.png?resize=600%2C600"
-    width: 600
-    height: 600
-    isCached: true
-
-secured: "6vCUsp/lz1z7YdRBlayyvLgG1fzGQ61G8TrtvmW3NcdqMm1VfyJYLYoFnWPxj2rJ+mXdxw/HCbMEHxAkvbcg3VextHtqCq3gSJYcNE+enk586Z/K8t7rf0PavZM6hzhUFQli9q5fjyX+Y6T71RsVZiXZab3XSF1lt8TmtcxtELgKuBL8yO+c5KQPysD+MQ+UC6g9rKbS9ILfCWBkwijNtJGtiNOLuSycqjJX9qHj/feYhqfb5e8Oat/iLfOFXN1sEBb/OOMRKhgpC+pyp0smhslXbDbj5xnJDt5rDTMeNOGwui3UGRk7I9ghRRTWeFJESoQHvExANCHbpIwH4K0U3stmuYKQVWiprS4cWN7C3LM=;HQHoK88jhni+DamkEm330A=="
+secured: "S1ZxdiMfJXHLiqg9afsdFVcc6Gp00m1jJz2N+UsoGMC/RWv3eZqXoJz/F+iXefJT79a3y/xsHjcp3G6iccWLlOEVok9I4h7DQxnlv/HMkRPX/Mbze3fC5MdK7U2CgZr/UL+/Jsbf4rzaeDls8xrs3/S9YqkizkjgyZIkKh741/mYbuUjWLERqP+uloEL2PdHyAdY9teO6SUx67CnRvA3zFyTp/7PSLMk4Nv910wS1J7DDUjVVZmHvz3oZ17KUiGeYwIO+GmM3xzl91RbWKFuQiMyZ6YyDrMvMOvdPyKvDiqnpBqisCz4xkH45MJpcFC9cHmMnxbdmcpHK1FtB18u7kJjoIXVQj49ALhugzjXcdc=;ekpRaqWc8de8ACvQJMkR5w=="
 ---
 

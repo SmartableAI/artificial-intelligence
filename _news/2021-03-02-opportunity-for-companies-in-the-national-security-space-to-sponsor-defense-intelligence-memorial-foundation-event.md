@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI Commission: Immigrants Key To America’s Tech Competitiveness"
+    excerpt: "A bipartisan commission on artificial intelligence recommends new immigration laws to allow America to attract and retain talent."
+    publishedDateTime: 2021-03-03T05:12:00Z
+    webUrl: "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/"
+    ampWebUrl: "https://www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stuartanderson/2021/03/03/ai-commission-immigrants-key-to-americas-tech-competitiveness/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603ef7879dd35452a831675b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3374%26cropY1%3D74%26cropY2%3D1972"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+wLx2WuRD++gj4dyYtJPSXKOXWxE8cRRPzMR5hNLX2AeXtwlcoa8naNXiCCdL7MzwdpIC4tLEwylVJg3Z+Mu/TJoZuTsycDr/Z2M3yr8ag9/NP3ZUqWzVa8PW3AslECfc7YlXdgsIR4/yxhUPh58C2BZ66NTO9LYaGXrCtplpw/cBzKZdvqdJms7n3JW0ilnXL1FO4ZLUriZdQ1tkGNTxyMoXVevo+wRt0Nmhh8bCibw3skKvHHNqNrnHe2f7Vae1g9jV2aknNk3jorc0PcuFIveqKCu3shYFI2AMc9+cLgTvbKIfSMwN31iJxBRLul0oA/iTuVAZaCPDiL8711u+gwcPVvMx+Y/8yvpau4Ofoc=;BLUzi5F985/4XpQL13ihzQ=="
 ---
