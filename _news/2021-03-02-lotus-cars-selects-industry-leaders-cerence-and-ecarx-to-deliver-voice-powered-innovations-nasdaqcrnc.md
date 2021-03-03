@@ -30,7 +30,7 @@ related:
   - title: "Lotus Cars Selects Industry Leaders Cerence and ECARX to Deliver Voice-Powered Innovations"
     excerpt: "Cerence Inc. (NASDAQ: CRNC), AI for a world in motion, today announced that it and ECARX will partner with Lotus Cars on voice-powered technologies. The initiative will bring simplified interaction and enhanced safety,"
     publishedDateTime: 2021-03-02T13:15:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
     type: article
     provider:
       name: Associated Press

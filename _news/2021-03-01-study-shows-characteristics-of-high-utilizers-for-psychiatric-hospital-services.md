@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/lifestyle/health/study-shows-characte
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/study-shows-characteristics-of-high-utilizers-for-psychiatric-hospital-services-101614483460893-amp.html"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Reveals Traits of High Mental Health Utilizers"
+    excerpt: "Machine learning tools analyzed EHR data and identified characteristics of high utilizers for mental health services."
+    publishedDateTime: 2021-03-03T05:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-reveals-traits-of-high-mental-health-utilizers"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Highest utilizers for mental health hospital services"
     excerpt: "Dropping out of high school having schizophrenia or being diagnosed with a co-occurring personality disorder increases the likelihood of someone becoming a h"
     publishedDateTime: 2021-02-27T12:11:00Z

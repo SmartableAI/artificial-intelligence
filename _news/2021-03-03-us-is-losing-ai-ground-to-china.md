@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-03T11:23:00Z
 originalUrl: "https://www.fudzilla.com/news/ai/52450-us-is-losing-ai-ground-to-china"
 webUrl: "https://www.fudzilla.com/news/ai/52450-us-is-losing-ai-ground-to-china"
 type: article
-quality: 37
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/e9bd74fe228e102a2538114c0a742f82_L.jpg"
@@ -39,6 +40,6 @@ related:
         height: 428
         isCached: true
 
-secured: "+fVrHEghiM9OWd1ROxzkNNR0YmeYOLEexwtEvYQ9M/8bRkcDaRvpBPHJfTC6njd0eCeETqiYY6+9lE+N32WUlmymUjIciQwj3e80r/0e4FW2eou3mru6+j+bxuruCX4si8ZyOmA6u7z59Yn0+atWn9lxkSDmzSLT+3CxdJpcpvZxeNVdW4nUZyy2TE7HxYYLmQbEuCuhlcrNcyM6uTe1IqM0sVA+k60RM7weSFGVQ0T9luUV85atcjxnHiYILAKFznIv8jXk8j5KyzBB9RDEYkUNPuGYQSduGsRho9GNpgjx5QNseFgOrjgAb6V7/KpWfefAtpn7vvsW7WrGUtQ5Gb9G6dlF9kENY574E2PMUT8=;QBYinm6fcmFSk4wyggkfXw=="
+secured: "3reCvmzsSqPsQZZAGGLMKzrJlRuSoNrAUG4vQcVNdD01r71MXU7Hk3U8pvY3vsYiZGGFB3OeREKhEpBCtdenCxRcn//vFplvx7b9p0m55S5CfosgLGtFAc69Gh0NLgCuSQofsHqcMWuF7D+7NAHVREjmYhvgIaryAel9my59QV1sahEeGt7K5udKYh85mhVwo6pyNA1vzpqNmLlzvACYCw3ZXJnCeJQEhbUwEbVdckJLCLHwCDTpnWztKl06MFqcAt9Z6hN/dX/KW9rsiblUKpWfqE0EteSLBRfrLI5OqfKxugnbNkH0xEUx4E+Di1eJOfk/JpW5Cde3kIA6kV8O4rPW/w7dANzGnz4d+nADKNIS0VdCGiM82TiYOmuRfW30iFfu8Ni8gKA6/LnNzh2tvXscVZK/vRfWGO4p5u9fNOTMxI2oQvBpRs/H/3zILNBpHvSQdh/iKGEQq0O9MqmOlxSq7r5K2dmx6t8S6OONi1yQ544+8Te5GukglGggZofQB8vVVtTXKtSIbuzuPJ5AQw==;wl4PgvTF2jcRV8kPTpj3jA=="
 ---
 

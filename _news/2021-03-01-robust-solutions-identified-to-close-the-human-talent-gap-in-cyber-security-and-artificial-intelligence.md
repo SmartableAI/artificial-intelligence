@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "IBM gift to help RIT’s Global Cybersecurity Institute enhance workforce development"
+    excerpt: "IBM is making a more than $3.3 million in-kind donation to Rochester Institute of Technology to help enhance cybersecurity capabilities in the university’s new Global Cybersecurity Institute (GCI), as well as support security training and competitions for students."
+    publishedDateTime: 2021-03-03T13:19:00Z
+    webUrl: "https://www.rit.edu/news/ibm-gift-help-rits-global-cybersecurity-institute-enhance-workforce-development"
+    type: article
+    provider:
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 18
+    images:
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2021-03/Global_Cybersecurity_ETL.jpg?itok=bH7VOasl"
+        width: 1080
+        height: 719
+        isCached: true
 
 secured: "eFFeo6QcT9nvLVHayLknFd4iArsgkaQGROgCwxz6XBrdSDmGOCv0TGJ/5vdc0HCnD5+xRyWICA0TQbZM6EgrxrWGn1YuPTgFt4CDi8Y6C2lmHxrZG5v0WSO9LepnzFNgZ53nArFng8zatE/NA8IVl6XK8Ed1OaW5kOb/4CLUN2TdtfWAPOaQ0TTO1uky5acIN3ZzXASMJrCDO8ZpbnZvKdGam5j/BYc9FWDC6Sb0aPHt9xXd5DcIcW9nzEqRLDRcLHVO44iHPjA8j/KaM/hg880e6nE+kvkwunBTPmhg7XAmWbgK9qmrGXVFerb874DMN99PKe6PWCpFTuQVFmesfkye2P/SH1AXP6IsIuInad8=;ODPL3/g7MF7pr+GdY6KlPQ=="
 ---

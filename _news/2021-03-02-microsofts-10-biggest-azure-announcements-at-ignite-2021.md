@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T14:10:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
 type: article
 quality: 54
 heat: -1
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Announces Dynamics 365 Capabilities at Ignite Event"
+    excerpt: "This morning at its Microsoft Ignite virtual users conference, Microsoft introduced a number of capabilities for Microsoft Dynamics 365, its CRM platform. Among them is real-time customer journey orchestration capabilities in Dynamics 365 Marketing as part of the April release wave 1 updates."
+    publishedDateTime: 2021-03-02T21:48:00Z
+    webUrl: "https://register.ignite.microsoft.com/auth/login"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 119
   - title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
     excerpt: "During Microsoft Ignite 2021, Microsoft announced Azure Percept, a family of edge devices optimized for AI workloads."
     publishedDateTime: 2021-03-02T14:01:00Z
@@ -225,6 +234,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Azure Percept helps Microsoft users make the most of edge AI"
+    excerpt: "Edge computing allows an increasing number of standalone mobile devices to perform tasks such as image recognition, response to voice commands and textual translation, without access to the cloud. During its 2021 Ignite digital conference,"
+    publishedDateTime: 2021-03-03T14:19:00Z
+    webUrl: "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 89
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/sarahkatzazu.jpg"
+        width: 730
+        height: 410
         isCached: true
   - title: "Microsoft wants to use AI to unlock the potential of HPC"
     excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
@@ -424,6 +449,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Zm8CruEMevzicxDB3huR2lSqdTGQYZDttdlMNdEOhFt1HXRChh2OaikryMNoLEYgAf6OBlyOLy9oGC9YASmsRQkBJJ1rl/43fasuMCOK422DT20EBmoeMKc3aaB/jVMOmK1VSqmnqzK0CVUqmpOQM/xwH6VaCIf/cOWiwWmT6DjXRQ8Dp6Vl4Qk0FIn+u25d+ETHf6ecypM87cAEatU/2SWR5DY1NXAJIwk5/Ax73/GY8+r88D1+Hvohze1HvwAs2uEk4yZ2Bdi48DI1n3Dp9iN9ruAmLQMIM90jJh239uir5VWypeFZ1f4Qdbba851chvPEBgJNpKf9BbqPzKCuscplLvx9xbsjz4TOBOMAY4o=;MYvEZMoV9PKjj92l/2CoTg=="
+secured: "jU1+TYBBSK3vqsNC4sxVc4f/bocRzO89H1+gBBj9+/wFxAS7rMRjNdq9f7tPmFrAgTOSWAwlVaIgyBPGui2yhBiQDLjk9O/mHOgxA0IDrithCKsk9rkYntBQsvhURmhwZ+9iZmubmofxFrlF2u4HC4wt+hvG/+Scl8C+FtJkqExPrle5x/VNZTfDZSNnyX74V9t8W9OEB+rF3OMFj6st8V1PhXEb6F4QhgbVxIdOY82trxGPicOMygpJoZpcCpdZP6srylIXPJEzAWtexliX3/uc6RjOrHJbOk/IrR0QaLhgBibvxB4qFhZ4hhIW1tU/Fh+l7BpQHWpD9Y6OyoauZ0XPOPLsrmvzSb7+usAIYTI=;D+ByXsSsHdyHLTMC2ZWmhw=="
 ---
 

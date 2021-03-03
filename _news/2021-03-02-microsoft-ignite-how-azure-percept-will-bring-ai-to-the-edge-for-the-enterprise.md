@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/"
 type: article
 quality: 114
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 900
     isCached: true
+
+related:
+  - title: "Recent Microsoft job listings suggest next Surface Duo could be 5G, use AI to improve picture quality"
+    excerpt: "According to recent Microsoft job listings, the successor to the Surface Duo could address some of the 1st-gen device’s shortcomings, especially the lackluster camera."
+    publishedDateTime: 2021-03-01T08:43:00Z
+    webUrl: "https://www.onmsft.com/news/recent-microsoft-job-listings-suggest-next-surface-duo-could-be-5g-use-ai-to-improve-picture-quality"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 41
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2021/02/Surface-Duo-with-Box.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "LOz/sFBf2+gE67Y++ligzVQk6w33sEfkSxq8931/OGMz5Li5onSdG5WMBwYvqTZtMwZC0PcCssnOEUCZa/pFI7uXZP+D+hcpNAGe4ZsxZmumKAI6uOkyhwioqqbwB44Lc4SZaC9e1WTFwI+RrLfP5lvaqbe7QnqFPo6ZNuzDR6gZZCYf+9IzJhtbTAqbvRkHmjWAprMmS7hzguJtMQgBi6kH1qACi1IVg3obAHfPKI33WqHlub7Df629d+c4a+eOsIxNFuG2Nkd8sOls4uRJngecCDPjXeY4YdVcljDHB/FmdNMAH6BXvEPCVGDjCdsz6QrGlWr2yCUajG8EvqAeklFHOR8MowWJKQFOKHxyprU=;9hnUC96tu8DPVSv8gHPvbw=="
 ---

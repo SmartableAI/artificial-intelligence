@@ -313,6 +313,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-10-googles-ai-firm-deepmind-considered-launching-a-food-division-with-controversial-eggless-mayo-startup-hampton-creek.md",
+      "title": "Google's AI firm DeepMind considered launching a food division with controversial eggless mayo startup Hampton Creek",
+      "excerpt": "Google AI firm DeepMind discussed a partnership with Hampton Creek on a new food division in 2016. Hampton Creek famously produced vegan products like eggless mayo and nearly imploded in 2017. Suleyman presented the plans internally but the new division never got off the ground,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/google-deepmind-ai-food-hampton-creek-eat-just-2021-2-1030145609",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/google-deepmind-ai-food-hampton-creek-eat-just-2021-2-1030145609",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images2.markets.businessinsider.com/603d63aa87d37600190d0854?format=jpeg",
+          "width": 790,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-training-and-deploying-models-using-tensorflow-2-with-the-object-detection-api-on-amazon-sagemaker.md",
       "title": "Training and deploying models using TensorFlow 2 with the Object Detection API on Amazon SageMaker",
       "excerpt": "With the rapid growth of object detection techniques, several frameworks with packaged pre-trained models have been developed to provide users easy access to transfer learning. For example, GluonCV, Detectron2, and the TensorFlow Object Detection API are three popular computer vision frameworks with",
@@ -1475,51 +1527,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-how-to-manage-your-power-bill-while-adopting-ai.md",
-      "title": "How to manage your power bill while adopting AI",
-      "excerpt": "Because AI and ML tend to run intense calculations at very high utilization rates, power and cooling costs can consume a higher proportion of the budget than an IT group might expect. It's not a new problem,",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
-      "originalUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/server_virtualization_digital_data_center_cables_by_matejmo_gettyimages-879865932_1200x800-100768150-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3603392/how-to-manage-your-power-bill-while-adopting-ai.amp.html",
-      "publishedDateTime": "2021-01-19T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
       ]
     }
   ],

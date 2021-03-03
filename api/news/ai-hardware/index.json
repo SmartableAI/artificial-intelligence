@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-03-mediatek-unveils-new-ai-based-4k-smart-tv-chip.md",
-      "title": "MediaTek unveils new AI-based 4K smart TV chip",
-      "excerpt": "MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution, AI picture quality and AI voice assistants,",
+      "path": "_news/2021-03-03-mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more.md",
+      "title": "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more",
+      "excerpt": "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more",
       "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
+      "webUrl": "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
+      "originalUrl": "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/android-tv-pixabay-1614763390.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/03/35179/mediatek-tv-chip_425_735.jpg",
+          "width": 735,
+          "height": 425,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
-      "publishedDateTime": "2021-03-03T01:23:00-08:00",
+      "ampWebUrl": "https://www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
+      "cdnAmpWebUrl": "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
+      "publishedDateTime": "2021-03-03T02:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
+        "name": "Mobile",
+        "domain": "themobileindian.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1174,6 +1174,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
+      "title": "Samsung develops AI processor-embedded memory chip",
+      "excerpt": "Samsung, the world's largest memory chip producer, said its HBM-PIM solution more than doubles the performance of an AI system and reduces its energy consumption by 70 percent compared with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
+      "originalUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
+      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
+      "publishedDateTime": "2021-02-17T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -1258,49 +1292,6 @@
       "provider": {
         "name": "Electronics Weekly",
         "domain": "electronicsweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
-      "title": "Samsung develops AI processor-embedded memory chip",
-      "excerpt": "Samsung Electronics said on Wednesday it has developed an artificial intelligence (AI) processor-embedded high bandwidth memory (Hbm) chip that boasts low energy consumption and enhanced performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.imdb.com/news/ni63197561/",
-      "originalUrl": "https://www.imdb.com/news/ni63197561/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo._CB410901634_.png",
-          "width": 1000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IMDb",
-        "domain": "imdb.com",
         "images": null,
         "publishers": null,
         "authors": null

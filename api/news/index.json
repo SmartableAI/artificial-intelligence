@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-inside-talon-the-nationwide-network-of-ai-enabled-surveillance-cameras.md",
+      "title": "Inside 'TALON,' the Nationwide Network of AI-Enabled Surveillance Cameras",
+      "excerpt": "Hundreds of pages of emails obtained by Motherboard show how little-known company Flock has expanded from surveilling individual neighborhoods into a network of smart cameras that spans the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "originalUrl": "https://www.vice.com/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/603e9a8943fa06009386247a/lede/1614715553095-flock.jpeg?crop=1xw:1xh;center,center",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/bvx4bq/talon-flock-safety-cameras-police-license-plate-reader",
+      "publishedDateTime": "2021-03-03T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning.md",
+      "title": "Streamlining data science with open source: Data version control and continuous machine learning",
+      "excerpt": "Can an open source-based workflow leveraging version control and continuous integration and deployment help streamline machine learning, like it did for software development?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
+      "originalUrl": "https://www.zdnet.com/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/03/2266fd80-0a28-4f17-8528-cedc55aea178/iterative-ai.png",
+          "width": 800,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
+      "publishedDateTime": "2021-03-03T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-ai-can-do-that-what-marketers-need-to-know-about-predictive-features.md",
       "title": "AI Can Do That? What Marketers Need To Know About Predictive Features",
       "excerpt": "Data scientists can use AI techniques to analyze past behavior and find patterns that are predictive of the outcomes they want to drive.",
@@ -155,21 +259,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-mediatek-unveils-new-ai-based-4k-smart-tv-chip.md",
-      "title": "MediaTek unveils new AI-based 4K smart TV chip",
-      "excerpt": "MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution, AI picture quality and AI voice assistants,",
+      "path": "_news/2021-03-03-mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more.md",
+      "title": "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more",
+      "excerpt": "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more",
       "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
-      "originalUrl": "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
+      "webUrl": "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
+      "originalUrl": "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/android-tv-pixabay-1614763390.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/03/35179/mediatek-tv-chip_425_735.jpg",
+          "width": 735,
+          "height": 425,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -177,13 +281,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531",
-      "publishedDateTime": "2021-03-03T01:23:00-08:00",
+      "ampWebUrl": "https://www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
+      "cdnAmpWebUrl": "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179",
+      "publishedDateTime": "2021-03-03T02:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
+        "name": "Mobile",
+        "domain": "themobileindian.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -206,7 +310,7 @@
       "originalUrl": "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -293,21 +397,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong.md",
-      "title": "Border control systems are gearing up to use facial analysis tech — what could go wrong?",
-      "excerpt": "While national security can benefit from advanced surveillance tech, it creates risks for the misuse of personal data and the violation of human rights.",
+      "path": "_news/2021-03-03-annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing.md",
+      "title": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing",
+      "excerpt": "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/",
+      "webUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Smartgates-head-image-796x419.jpg",
-          "width": 796,
-          "height": 419,
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-policy-global-map.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 731,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -315,16 +419,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/03/border-control-systems-are-gearing-up-to-use-facial-analysis-tech-what-could-go-wrong-syndication/amp/",
-      "publishedDateTime": "2021-03-02T23:14:00-08:00",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
+      "publishedDateTime": "2021-03-02T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -340,8 +444,52 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-machine-learning-reveals-traits-of-high-mental-health-utilizers.md",
+      "title": "Machine Learning Reveals Traits of High Mental Health Utilizers",
+      "excerpt": "Machine learning tools analyzed EHR data and identified characteristics of high utilizers for mental health services.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/machine-learning-reveals-traits-of-high-mental-health-utilizers",
+      "originalUrl": "https://healthitanalytics.com/news/machine-learning-reveals-traits-of-high-mental-health-utilizers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png",
+          "width": 690,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T21:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -446,6 +594,50 @@
       "topics": [
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-robotics-division-of-ubers-postmates-spins-out-into-new-company.md",
+      "title": "Robotics division of Uber's Postmates spins out into new company",
+      "excerpt": "The robotics unit of Postmates, a delivery startup that ride-hailing firm Uber Technologies acquired last year, has spun off into a new company called Serve Robotics, the company said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "originalUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/robotics-division-of-ubers-postmates-spins-out-into-new-company-2021-3?amp",
+      "publishedDateTime": "2021-03-02T17:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1003,49 +1195,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.md",
-      "title": "Fuji Invests in Motus Ventures’ Fund Focused on Robotics and AI",
-      "excerpt": "FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation, has joined Motus Ventures' Motus SWIF fund as a limited partner investor",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
-      "originalUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/motus-ventures.png",
-          "width": 1920,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-new-research-indicates-the-whole-universe-could-be-a-giant-neural-network.md",
       "title": "New research indicates the whole universe could be a giant neural network",
       "excerpt": "The core idea is deceptively simple: every observable phenomenon in the entire universe can be modeled by a neural network. And that means, by extension, the universe itself may be a neural network. Vitaly Vanchurin,",
@@ -1094,163 +1243,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-renalytixai-reports-financial-results-for-second-quarter-of-fiscal-year-2021.md",
-      "title": "RenalytixAI Reports Financial Results for Second Quarter of Fiscal Year 2021",
-      "excerpt": "NEW YORK, March 02, 2021 (GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX) (\"RenalytixAI\" or the \"Company\"), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/renalytixai-reports-financial-results-for-second-quarter-of-fiscal-year-2021-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/renalytixai-reports-financial-results-for-second-quarter-of-fiscal-year-2021-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles.md",
-      "title": "Motional Selects Ambarella CVflow® AI Vision Processors for its Driverless Vehicles",
-      "excerpt": "Ambarella, Inc. (Nasdaq: AMBA), an AI vision silicon company, today announced that Motional, a global leader in driverless technology, has",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-cisco-webex-aims-to-help-you-break-through-the-language-barrier.md",
-      "title": "Cisco Webex aims to help you break through the language barrier",
-      "excerpt": "Before a truly global, hybrid workforce can become a reality, language barriers first need to be eliminated which is why Cisco Webex is adding AI -powered, real-time translation to its video conferencing software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "originalUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YxvvNThwqyZZZAbYACwvgB-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
-      "publishedDateTime": "2021-03-02T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

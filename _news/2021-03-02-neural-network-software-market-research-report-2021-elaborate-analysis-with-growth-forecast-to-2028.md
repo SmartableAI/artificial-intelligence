@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice and Speech Recognition Market Size, Share and Forecast 2019-2025"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-03-03T13:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
     excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2021-03-02T14:24:00Z

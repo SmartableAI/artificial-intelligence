@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Announces Dynamics 365 Capabilities at Ignite Event"
+    excerpt: "This morning at its Microsoft Ignite virtual users conference, Microsoft introduced a number of capabilities for Microsoft Dynamics 365, its CRM platform. Among them is real-time customer journey orchestration capabilities in Dynamics 365 Marketing as part of the April release wave 1 updates."
+    publishedDateTime: 2021-03-02T21:48:00Z
+    webUrl: "https://register.ignite.microsoft.com/auth/login"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 119
   - title: "Microsoft unveils Azure Percept, a family of edge devices optimized for AI"
     excerpt: "During Microsoft Ignite 2021, Microsoft announced Azure Percept, a family of edge devices optimized for AI workloads."
     publishedDateTime: 2021-03-02T14:01:00Z
@@ -228,6 +237,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Azure Percept helps Microsoft users make the most of edge AI"
+    excerpt: "Edge computing allows an increasing number of standalone mobile devices to perform tasks such as image recognition, response to voice commands and textual translation, without access to the cloud. During its 2021 Ignite digital conference,"
+    publishedDateTime: 2021-03-03T14:19:00Z
+    webUrl: "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 89
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/sarahkatzazu.jpg"
+        width: 730
+        height: 410
+        isCached: true
   - title: "Microsoft wants to use AI to unlock the potential of HPC"
     excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
     publishedDateTime: 2021-02-27T10:29:00Z
@@ -347,7 +372,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN

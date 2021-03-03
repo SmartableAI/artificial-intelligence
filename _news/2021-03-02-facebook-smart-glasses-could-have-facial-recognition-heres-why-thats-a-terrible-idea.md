@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-h
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
 type: article
 quality: 50
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2021/02/Facebook.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Of course Facebook is considering facial recognition for its smart glasses"
+    excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
+    publishedDateTime: 2021-03-01T12:24:00Z
+    webUrl: "https://knowtechie.com/of-course-facebook-is-considering-facial-recognition-for-its-smart-glasses/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/03/facebook-logo-on-smartphone-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
   - title: "Facebook doesn't seem to mind that facial recognition glasses would endanger women | Arwa Mahdawi"
     excerpt: "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Continue"

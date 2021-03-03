@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Of course Facebook is considering facial recognition for its smart glasses"
+    excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
+    publishedDateTime: 2021-03-01T12:24:00Z
+    webUrl: "https://knowtechie.com/of-course-facebook-is-considering-facial-recognition-for-its-smart-glasses/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/03/facebook-logo-on-smartphone-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Facebook mulls face biometrics for forthcoming smart glasses"
     excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."
     publishedDateTime: 2021-03-01T20:23:00Z

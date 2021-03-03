@@ -3,8 +3,8 @@ category: news
 title: "Lotus Cars Selects Industry Leaders Cerence and ECARX to Deliver Voice-Powered Innovations"
 excerpt: "Cerence Inc. (NASDAQ: CRNC), AI for a world in motion, today announced that it and ECARX will partner with Lotus Cars on voice-powered technologies. The initiative will bring simplified interaction and enhanced safety,"
 publishedDateTime: 2021-03-02T13:15:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-voice-recognition-automotive-technology-computing-and-information-technology-industrial-technology-bebd246cdb1b41835660d2a638b204c7"
 type: article
 quality: 14
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 655
         isCached: true
 
-secured: "FZZhMsRDhRAW/DWHlKimY6VCgkI4NAZ+frJWW7NcTu3YTCcjmATZ/EPdHshXLkWc0XB0kvNjPk8OeBUBFx4pYOaPaNXpzGDtlOfivYVmXV1Nnf+k3Q/9necELWJCH6Cr6Q0JpcrvNiMlqAB4rYtucx7bnM2EohHtzzF7NO8pzzCunmbqAXjk394oDVvhcImv1J2DqiEOMOE7XPnHwCr2I05jXwmXDSQQ1ybJhViVX0oHKAC9CrXFixVNKJAs/K+l1tSQymsJYkqvqJJwnJC6aRxBsdXgEyyi3+g9xFVjaz/TUk/QtTPiFvAe2rPUc1ROImJ+oOY9bh5y2K0GCwDTBpVvvq0Do0DENfuOIyB9hRc=;nYEmG2pyTsTO5pTEWq7H9g=="
+secured: "lgrFoD9UzoYIwtSGy54Y6aZwKF5MF/laOO6lcQacnDEiYyPv5gwp/4wBYHVYohejnzyJuWoXTS1NBwxzCynjdYzCWnrWzG6t9WWcTSxXsWEPfIv9/z0wY7mB7Mdp1nloRAkEFyeGFfvGVKGAMojHEmBkLyyd6QXTAV29NmEGi37nSvmYhutTcKCvju729egqdjaO9pqGLGGsEuAKoEllpzc21Z+pcNFOzGNOx7Da6dX+ly/mFk0PsBxo+MkVdE6XGDuthtXD4N+gdOngbjnSmgxDAQ28U8MDpbDGPTc2ISpfi4KmphiFVyG9cUdIZhpQEo3PVu0J9aQ/FHqqY6NrmdQFVRHkK+jjg3Ji1z6lYng=;UPiq4vNjIeQySH58DyBb9Q=="
 ---
 

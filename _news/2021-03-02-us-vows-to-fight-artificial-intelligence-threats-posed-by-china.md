@@ -7,7 +7,7 @@ originalUrl: "https://www.itweb.co.za/content/LPwQ5Ml6r4KvNgkj"
 webUrl: "https://www.itweb.co.za/content/LPwQ5Ml6r4KvNgkj"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: Fudzilla
       domain: fudzilla.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.fudzilla.com/media/k2/items/cache/e9bd74fe228e102a2538114c0a742f82_L.jpg"
         width: 620

@@ -71,36 +71,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
-    excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
-    publishedDateTime: 2021-02-26T21:08:00Z
-    webUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 34
-    images:
-      - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
-    excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
-    publishedDateTime: 2021-02-26T22:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/02/26/20/37771266-0-image-a-7_1614370640794.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "Liv7Ccxydsu18J2BoJodSaSbc/xQ3ny9YuN/d0Lue8gsE5GydfHb+03xQcOeSUHZP4Z1h9pdkfQxsv7hkP3ItizyeyRmXrFP5Ppf+fA+tOCo8Wa65i1DJOUwwv8lXFXYDigaqVoFa7Sad7eWfONwky21z9cknNK6Zx3P2GTaRvIck8B2UNIfba9fAGMLhqPO0tAfM6tfzBtaruM3DMNOCB/+dh6V32IFtj5dIYFI15urCTLc0JSRA+vlmYdddYoHxCoMrZY/57sRMZyngvojWfLEdkuxOGqvX3TUu80SW3ihEE/s3Q0ncRb0Zw2Y3WBhkZvIn2vluW6Wb8LThbueEkLgYovTcwiQvv/huZaN7IvYQopKmOnym0yq0+EpybzObv3VGj6SssmbKrYoR260M1NdP0IsaKSSnyOwKkMC0CFeJYNcnmzczUD6b5fms7gH0MI5ocFxnyscHqyDMcu5qmCyFRJwepDRIjdEYU50mZPMdSUmxPLYAS9T3YGeSrYSFocAMYbhctgPkeFPo+Wq5Q==;C1g9QoPn3ou5LBRAwiu4ng=="
 ---

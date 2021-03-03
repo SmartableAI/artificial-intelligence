@@ -1,28 +1,26 @@
 ---
 category: news
 title: "MediaTek unveils new AI-based 4K smart TV chip"
-excerpt: "MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution, AI picture quality and AI voice assistants,"
-publishedDateTime: 2021-03-03T09:23:00Z
-originalUrl: "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
-webUrl: "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
-ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
-cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
+publishedDateTime: 2021-03-03T13:11:00Z
+originalUrl: "https://www.dailypioneer.com/2021/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip.html"
+webUrl: "https://www.dailypioneer.com/2021/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip.html"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: India TV
-  domain: indiatvnews.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/android-tv-pixabay-1614763390.jpg"
-    width: 1200
+  - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/mediatek-unveils-new-ai-based-4k-smart-tv-chip-2021-03-03.jpg"
+    width: 1000
     height: 800
     isCached: true
 
@@ -58,6 +56,6 @@ related:
         height: 448
         isCached: true
 
-secured: "ITGezCfTK9AgbadczhIUM6GF7Uc/vb0h5ZvQMrSVX4RA5EkXEiggd1r92Cj2sMgAulC5jguqwqSbG6ta4HxvAsCqcbrrAIFq/n/6M+yabGNMTGDxrhYHTUmc9f2Q6uhX4x8D46X3GlpMXk78/hrDxSfogrlnmenab0Pa3at9guuNzTKXQYuDzQNrq+1jgsDKTAHdl1S3x6P3QdOFaIkrl8bD4c77bx4H8MZ6UtIiAGHDotFR3a9x7AEFqoihGPi0UGfH2IjfoVUI1OmRXBAPy7gsJ0uQ4fdc7RpCAWDvKEK8N8Nkrk64XkIJjtG8SDrBTgNbl6MABTQr37xYmGWjdEW/Xeh3CN7QxlJqM+UQYjs=;JbNV6Y/5tRUc/JvV/6AEQQ=="
+secured: "UCrWfVYVDPun+dRV9W+7cxoZVn51IuLDiFgXbvfMIczwAX1vELC7lNl2T8fyRZRWfPTc7cFwJf9Y8jsYYBrwQWybOdB55uGDMSHHmmMoeOwmPMrcB9jIT0wtDS4LcesXzHGxdHCdCKZggtHrXHqf6APR0GFMMkacO8RnGypHQ1pw9C8ucRXk85ko+4RBU3vy1Owp5wRZQqi0y/zW+YsW3rsi5wtw2FQ8jCEuraBiyYTcdDzeTcxDrGiLlL9CUIoZfYk7HijgJ7qEGz3O0sHtlUv2NAEGR0w/n+Ub3pz5X2TnCNE8Gy6E5DmWSEJwbj7q7hvMhJRnIrkKTFvAR0bDx1c4XebCbQKf66zyRq0e4sI=;iQMt74SmUNH6SIOcPcbhZQ=="
 ---
 

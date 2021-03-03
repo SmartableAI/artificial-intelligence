@@ -1,19 +1,19 @@
 ---
 category: news
 title: "DeepMind researchers say AI poses a threat to people who identify as queer"
-excerpt: "© 2021 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-publishedDateTime: 2021-02-19T06:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
-webUrl: "https://markets.businessinsider.com/news/stocks/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer-9828223"
+excerpt: "That’s according to a recent study from Google’s DeepMind that looked at the positive and negative effects of AI on people who identify as lesbian, gay, bisexual, transgender, or asexual."
+publishedDateTime: 2021-02-18T23:44:00Z
+originalUrl: "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/"
+webUrl: "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/"
+ampWebUrl: "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,6 +21,12 @@ topics:
   - Google AI
   - AI
 
-secured: "1JdtMJbcy1wjW3sVIE9rVQ5+4iZu9xOE0oiWeghW1FasNxUvmGWXoUqjarLvHaaKIloyZXDo2Dns3AnTKhi+8ZaFy8r2jlXHnUlsN8qWfbmoW77G8x9MIO/aMpw38xtBi6FTIkNjn1cu0orToqu1jha1IUSY/7wrLrti/77qx0amgC/GdXPJdU1AU5OAJTsibXTMgTQhdn0U5ni1lxVU82xO9otAG4kEZLr/L2+67o40y45FfmG44gX+kJtqIF2cGl0q6+xbtO+PKRPfO+0l+BET95qoMikEw866xom3koyDjwSkkRicsY+I7D1XRghJ2ZbbnIAVAqVCGC/EKfuElVwHWxTJoKpe0k07upY0UA4=;w2U1tAX+n6vhnv6+ZIipkQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1148800397.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "uT6BmrDwri8zubVn/JjvXA2+78pWLksyMTqX9JTxgcquUK6z6FU8dVevoXALOIGalb8SaJGjZf6ZJOEjnDB2B2RFIrPvlMl/3uMTzHQn3z581OBlbd2dS+vdxfDQBRT8T+DyBl7U5WI5Hh7jtQ9s8zmXEIauhkaLPeSaMbCurs84CovAcPLKn03m/W1lYfoutNW6pNxTJ2mlFQZukWokeupBPpFgnpvBDge/5AHKCdifSOrhZWmZjQz/bSr0j4bXP3EpNRLf1iOYZAcHHhq8C3W/HZ2mNb9DhRfnpple1JWK9kAm9w9vZBnYic02FQ7qgZdT8hzvp4VR2r2wbkpynOjIz8Px0KitjkyXrn2Y9RM=;RL4FADbWZjRGqDKQQvVw+A=="
 ---
 

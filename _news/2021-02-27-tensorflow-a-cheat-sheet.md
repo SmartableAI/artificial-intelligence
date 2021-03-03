@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/g
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
 type: article
 quality: 106
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "TensorFlow 3D: Deep Learning for Autonomous Cars’ 3D Perception"
+    excerpt: "Google has released TensorFlow 3D, a library that adds 3D deep-learning capabilities to the TensorFlow machine-learning framework. The new library brings tools and resources that allow researchers to develop and deploy 3D scene understanding models."
+    publishedDateTime: 2021-03-03T13:30:00Z
+    webUrl: "https://www.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 73
+    images:
+      - url: "https://res.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/en/headerimage/TensorFlow3D-h-1614679548030.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NEEdS/StyKjwnJG10TJoOwCFO3PF2BC2kJ9QQMXvjNfh5g05/nlpvd6kHjhkLWF1ZwAxyFE8yjgSpRQFfInVS85wvnfb618DkhM5CVSXzkvQRZaa+o/kXt9+9v47eaOYHXB2DsDN058iPhk7mhfmpEl2iKOzhZFBtLFM7coXTyyL7OCJFebpqm+gvuxdgZTbOzrYI9fcfmlLhBLE3xdhNS098mrAbE74UnxwxU7AUI+unpbOCvd48GZ9YnGKovUCPOGC7OVHjWxTFDxfWdZgltne6PnplZPh2/d/b8BQGaOvfdvbNR3yca+uOjnhV/eybJxQlpmOY6DbZ0ypeOTP/7jV2unMmLJPjgPDXbTYVb+bRuHZzmfGSDMYXCMBO0+OLb/yX5oVNTSEOZ3mwWaIhnjn1zElexk63rQXfLeO4wXOgHRaHZSIhbAxS4Y3SKQUTepx4G+8FkU6Vb30IxwZ7Kxs7wSd5/n2e7T+bYHcf/8dP4PauEWPDET2Php75vKr3aRtEP5o16+q3lHhAUExCA==;HX0EjiJ/sNHwW0hclv31SQ=="
 ---

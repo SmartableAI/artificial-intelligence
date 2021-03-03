@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-01T10:01:00Z
 originalUrl: "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/"
 webUrl: "https://www.housingwire.com/articles/home-lending-pal-leverages-ai-and-machine-learning-to-efficiently-solve-lenders-and-borrowers-problems/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Facebook AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://www.housingwire.com/wp-content/uploads/2021/02/AdobeStock_290218047.jpeg"

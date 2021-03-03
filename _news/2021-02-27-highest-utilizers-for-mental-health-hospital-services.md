@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning Reveals Traits of High Mental Health Utilizers"
+    excerpt: "Machine learning tools analyzed EHR data and identified characteristics of high utilizers for mental health services."
+    publishedDateTime: 2021-03-03T05:30:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-reveals-traits-of-high-mental-health-utilizers"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 56
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png"
+        width: 690
+        height: 400
+        isCached: true
   - title: "Study shows characteristics of high utilizers for psychiatric hospital services"
     excerpt: "Dropping out of high school, having schizophrenia, or being diagnosed with a co-occurring personality disorder increases the likelihood of someone becoming a 'high utilizer' of inpatient psychiatric hospital services."
     publishedDateTime: 2021-02-28T16:52:00Z

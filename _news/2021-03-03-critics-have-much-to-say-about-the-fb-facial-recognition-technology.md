@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-ab
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
 type: article
 quality: 59
-heat: 109
+heat: 89
 published: true
 
 provider:
@@ -70,36 +70,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
-    excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
-    publishedDateTime: 2021-02-26T21:08:00Z
-    webUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
-    type: article
-    provider:
-      name: News 12 New Jersey
-      domain: news12.com
-    quality: 34
-    images:
-      - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
-    excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
-    publishedDateTime: 2021-02-26T22:35:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 6
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/02/26/20/37771266-0-image-a-7_1614370640794.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "mzuZk9QI6mUrlaHnHDGq9y8KRVLQXPwAWusABovEeZ9j/OKR9jO6d+jQX6jLxIeEGHVgKg3SjrnoSvJf5OsSHx5lWJjC/UcDPwXZ/eUQ2R9dW1gxyDZpOAG3wAKDkBWf8wVcxS8nufvisWBlb+wvlbq5n/wwesWl0eabwDNjHdnxNBEZcvRSn/SLmYIAKcPoBY3rZSov74HQZ/zYZ6uQHU6kuGqMrR9ITJOkFGhGHf5qYrtqKrBBIB9aD4bxVca5GrvhL+1RozHgCzUlmQqJ6Pfck4pJxN0EQWxciDJScIQqY4N5NhXoGgPYFLyYcEsMDcCReQ+PDyZkznBfn/P0RwR67o1K+NImAC3nsolXz8J8i9xd+ZTt+mTcEgcr74EerSqsNXmazd/6ZBPjhb1U+/XtIiqr2/UK+/AUP+70HRFxfvk3RvO8WFNYpkL+ulagzPf8SO+6DI3ikhI/FojEmN2gX6lab7PrlwSZsNuINwTMJOQhhkrxC1JXmwX6/oFrvUR+cW0lK/qM0jq79oNCkw==;SigruOGnzBa8BejsoupCZA=="

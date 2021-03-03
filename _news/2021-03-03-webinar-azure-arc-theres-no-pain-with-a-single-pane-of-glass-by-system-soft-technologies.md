@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Webinar: Azure Arc: There’s No Pain with a Single Pane of Glass by System Soft Technologies"
-excerpt: "Learn how top performers overcome challenges building a hybrid cloud platform with Microsoft Azure Arc to modernize current infrastructure, enhance digital customer experiences, drive top-line growth TAMPA,"
+excerpt: "System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is hosting a webinar at 2 p.m. ET on Thursday, March 4, 2021. The webinar—“Azure Arc: There’s No Pain with a Single Pane of Glass”—shares case studies about how top performing companies have overcome the challenges of building a Modernized Hybrid Platform."
 publishedDateTime: 2021-03-02T16:40:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
-webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "BE+X1Y4LOhNj34iM6fkzmrvv7ua3RGmVa/E4oDmslCNADU0mqMDjh2OG4RRu2dlkWZHTL2SkV12mxeSn48QXLbgCtYlbspRpmdteph734m8dFcI2aZMQ8Gc66eOnofJei5WTHOxp2XOdlJYMhbC2s/cIuIv64CtGYe8ndsWcD7exQuBlzkNYIX6dVzsa8KhgCOxUO/ahKTW2A+IpVmpIZI+cwBPTjNUle1azOp+4nB/M/igQBsAUKox3Q6tPFJY2DA7jlPhj7RoST0N7bcucvH8WJe/AAkC0pxrK8a4Ylr3Mo5iE0vMULrBc1lLglTVLz5cEgGIQTXwGjGlhxOVtsauOpHX3Q2UbQs0J9luB3dM=;yvfpEpWbd13/dQIFuXod3w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Rr8gWBtV16NvMpGT4pJ0XA/vyJZRj9raP2h7s+RSU8ObagBQaTxHzESPfxnVaBjS2KuVEtK5LyMNR8ZqogD4sfc0EsxnA9Les8Sqd7h8Xj82j7dK8Cgq2p/s2XF8MkZktmJLSHDiYghqciQoXFjrp2UI0zZPBGmQ/XZ5a+8d1N01HO6riQmg0vCYpQh12mPus5b/2mgw6QnU/Li3ZfgggdLUY7mzBo3zB5Yd9iTesSmES2+fvEquUzHZgP5nr/mqzbPCZTk91m57bHdmgW4y/pBK1ie5cCjtMgryhRx86blMKCez75E5jyrc5wmG+oKkR/FBQD0B47bem3TwdD7N7KwsRpJiY++FdfaE7I7DBM8=;BOkxowvU9AZCEGrCKwGZeQ=="
 ---
 
