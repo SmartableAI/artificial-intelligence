@@ -7,7 +7,7 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/01/driverless-bu
 webUrl: "https://www.thestar.com.my/tech/tech-news/2021/03/01/driverless-bus-hits-streets-of-malaga-in-southern-spain"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1240
     height: 827
     isCached: true
-
-related:
-  - title: "Driverless bus hits streets in southern Spain"
-    excerpt: "A new driverless electric bus has begun operating in the southern Spanish city of Malaga, in a project presented as a first in Europe."
-    publishedDateTime: 2021-02-26T20:25:00Z
-    webUrl: "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717"
-    ampWebUrl: "https://www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp"
-    cdnAmpWebUrl: "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/backpage/news/driverless-bus-hits-streets-southern-spain-2051717?amp"
-    type: article
-    provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 74
-    images:
-      - url: "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/social_share/public/feature/images/2021/02/27/bus.jpg?itok=DnMiwaar"
-        width: 560
-        height: 292
-        isCached: true
 
 secured: "5Q/hev9so87b2zyI+pBxxX2e8Ydhc+nVQVj1WmTV+pbG/8bqKoUbjO7MCqT17LI6cFSGGe35PFiekQsvvhvsCt5BUJtCLxa0+UTNEBONPjZcMjSObmLs2nfBExWMVhX3jFXAJGf/+PydXvNm47lAQjht2OVZbaot9gLHjBjO0yGknBq4BpzHVkMYxapagaflVs6LomeYo+fTF4FR2X4ZnGaTQCRUQD9dsxQix13yWacoZgyDoTk501UD/VD6nGpFpXnyFpKMaFwp7SY0bD1El3ECHK6B2ONuZ06uQW3cxeO35hR5U7iBHpHuJoxfaVEPGPDen3X6ffAmuTE5/G69oSVzqx1jQZbvUXJfovWQDD4QMow44cu30wSQQeWOo0XTTmqQlMKETg7olHsOVcX1QRNpFFH6UX1jUGXNamS/yxX3LTijDzp27/05VCNsGfq1VIvfCNqMFWkm+/ZXoXCTaTxAfBMd/IYE7WlFwS9n91ZAtiHuwZ9kcmUImu5EwTZzZMcM+Yngt1n9zjeDNN2VAw==;++nAnXstUT7o0ZoiLl+xfg=="
 ---

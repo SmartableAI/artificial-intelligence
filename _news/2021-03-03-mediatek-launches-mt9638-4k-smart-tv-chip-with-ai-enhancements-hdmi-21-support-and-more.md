@@ -28,20 +28,20 @@ images:
 
 related:
   - title: "MediaTek unveils new AI-based 4K smart TV chip"
-    excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial"
-    publishedDateTime: 2021-03-03T09:34:00Z
-    webUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip"
-    ampWebUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
+    excerpt: "MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution, AI picture quality and AI voice assistants,"
+    publishedDateTime: 2021-03-03T09:23:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: India TV
+      domain: indiatvnews.com
     quality: 74
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/03/30a5d7450287576ef93cde74849b907b.jpg"
-        width: 400
-        height: 263
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/android-tv-pixabay-1614763390.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "MediaTek MT9638 AI chip will power the next generation of 4K smart TVs"
     excerpt: "The first television sets with the new MediaTek SoC are expected to become available by the second quarter of this year. MediaTek already powers most smart speakers and smart home products unbeknownst to most users."
@@ -58,6 +58,6 @@ related:
         height: 448
         isCached: true
 
-secured: "5quiXxzJnfuoPj1KZ9GOm3bqThia0lPsYRk6b9zM+1hwImM9Jnk0XKUmwCUwBnr2eqy6yM2WQmBMyVXVAkTbZUHCmOI0n8B5fC0LPI1l1nIq4YThGyvhgCRyBwERihpPVb8JJE3HkE9GvMZtWxk7GDRrUuEaziq5o8g1ztEu0qLuSbWC4pvS/TzvDkebbXtxup1qtaxVmTTD4Rd2wLfSCT+wsmlN42DtBivOvbPurPF/aYCIwODunhdIPva46nlXBcP6gCZkL1t9D8e0wbQOIOM8MDlpI8uSgx+QkoL/wwLEa141OZSX+ACciFgOLBqDaK018916vI7j1D/ZIxrd4Ue9PVNDT+NeGN+0HbQnv70=;eGX2u+zg3neiY/wVSM3I9g=="
+secured: "NKS9amnwWyo6NaoEb4EYuLE6kh242lfm3bnDuletfxqgUFQMnmmfpkL4/ykgW2DqAVdKzuxnegxZu8UPZRWi7GsJ84+mdsyf8+GtOBKDgCvylaDdJS6e9TcTy6WCWkGYc32y4I8TIgYPgMgVt2Vr53OnNcuJ18nIQF0cLZ1DrwnSheB5NVyW+3YOGUrPcE00Rvk0xx9+hdbym7BTBQwa6jfmB/RKXFpjKKSHWKleDeYMfMiINC3DHSrhwFSg6goFwfSI0GO3sH5wkqa76XPSwpYJYZKpkTqbxV7PmRokJFsT9gJFLp6cRlip9BeEfLh/S/qxtr0dCXob4l67FTYlw93BDtHcBHQFatbmZnmvXkhPzJj79Nq+7bh906X0CH4zQIz6S+KTJcP8yh/wk+v6bZVtTZaxfVE8XEr35cGBLEtwfiP8+8s6/fhKxEC8eoB/iDSmOXdm8DF8Jdjwk8Bxj7nyPKKgkoj23dYZ3mZZ1tmIy3AkaiInc24izdwfhamnGRsyZNQ6I2cjK5fUo6P5Bw==;pWV0APc/ZY4EZ8jsBZt6Bw=="
 ---
 

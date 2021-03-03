@@ -1,29 +1,29 @@
 ---
 category: news
 title: "MediaTek unveils new AI-based 4K smart TV chip"
-excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial"
-publishedDateTime: 2021-03-03T09:34:00Z
-originalUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip"
-webUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip"
-ampWebUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
-cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
+excerpt: "MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution, AI picture quality and AI voice assistants,"
+publishedDateTime: 2021-03-03T09:23:00Z
+originalUrl: "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+webUrl: "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
 type: article
 quality: 74
 heat: 94
 published: true
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://www.glamsham.com/wp-content/uploads/2021/03/30a5d7450287576ef93cde74849b907b.jpg"
-    width: 400
-    height: 263
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/android-tv-pixabay-1614763390.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -58,6 +58,6 @@ related:
         height: 448
         isCached: true
 
-secured: "y2J/yYquBEgDPAvCznO36We0OSvk4CFWH37vZE0Lbk+0Vzyt/jLPJxZj8EBToB7PKXr+fXRMSK/n5N02+TXteDVS8jtbUrrw9cVI9b90gZuHXrROjjLr+8jOZqTkDnKKzTvy4dnwWfKEl24+PjK+35knLRTPdv00woqLU4JfeyDnUwAL6jnvskQCDeujAPkSQxgzKnIiDHT9uvI0crOm2WmmdX6QuQ0DTDh0hweU2DujP0b7AH8dESimUG4e9jVytozuRkJlys0nTL5f7tmxBEBm3HHHpVGiqO0CCUYkLyGWCOAMEfDNSzPRZRUXJdegHTrVDV258G3CPKcca/lN9tg7DBuC90UYkrw96pyVPGY=;3P/tQsr4sDI8aAXSrYDb2g=="
+secured: "ITGezCfTK9AgbadczhIUM6GF7Uc/vb0h5ZvQMrSVX4RA5EkXEiggd1r92Cj2sMgAulC5jguqwqSbG6ta4HxvAsCqcbrrAIFq/n/6M+yabGNMTGDxrhYHTUmc9f2Q6uhX4x8D46X3GlpMXk78/hrDxSfogrlnmenab0Pa3at9guuNzTKXQYuDzQNrq+1jgsDKTAHdl1S3x6P3QdOFaIkrl8bD4c77bx4H8MZ6UtIiAGHDotFR3a9x7AEFqoihGPi0UGfH2IjfoVUI1OmRXBAPy7gsJ0uQ4fdc7RpCAWDvKEK8N8Nkrk64XkIJjtG8SDrBTgNbl6MABTQr37xYmGWjdEW/Xeh3CN7QxlJqM+UQYjs=;JbNV6Y/5tRUc/JvV/6AEQQ=="
 ---
 

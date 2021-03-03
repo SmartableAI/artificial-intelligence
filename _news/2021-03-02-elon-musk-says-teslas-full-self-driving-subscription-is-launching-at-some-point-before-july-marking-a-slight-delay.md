@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk: Tesla aims to release new version of Full Self-Driving Beta next month with wider access"
+    excerpt: "Elon Musk says that Tesla aims to release new version of its Full Self-Driving Beta software with “Autosteer on city streets” next month, and it should come with a wider release to more customers. Back in October 2020,"
+    publishedDateTime: 2021-03-03T03:32:00Z
+    webUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/"
+    ampWebUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 90
+    images:
+      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla to launch Full Self-Driving subscription within 4 months"
     excerpt: "Elon Musk says that Tesla will launch its subscription service for its Full Self-Driving package within the next three to four months. Get ready for a high monthly premium, though. Last year ..."
     publishedDateTime: 2021-03-01T23:23:00Z

@@ -349,7 +349,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN
@@ -374,22 +374,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Microsoft Dominates the Analytics, Business Intelligence Market but There Are Alternatives"
-    excerpt: "The introduction of Power BI in 2014 made it possible for many enterprises working in Microsoft environments to easily deploy business intelligence (BI) analytics and BI has been around for a lot longer than that."
-    publishedDateTime: 2021-02-26T19:10:00Z
-    webUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/"
-    ampWebUrl: "https://www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
-    cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/microsoft-dominates-analytics-business-intelligence-market-but-there-are-alternatives/amp/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 49
-    images:
-      - url: "https://www.cmswire.com/-/media/ac25ec3e0b9543dba4a25056d8afdd68.ashx?mw=1024"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
     excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services in India."
     publishedDateTime: 2021-03-01T16:05:00Z
@@ -401,15 +385,15 @@ related:
     quality: 47
   - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
     excerpt: "Microsoft Azure Percept houses camera module and smart mic, forming the foundation for intelligent devices built by partners."
-    publishedDateTime: 2021-03-03T03:38:00Z
-    webUrl: "https://www.arnnet.com.au/article/686649/microsoft-still-loves-smart-devices-rolling-azure-percept-camera-mic-services/"
+    publishedDateTime: 2021-03-03T12:52:00Z
+    webUrl: "https://www.goodgearguide.com.au/article/686649/microsoft-still-loves-smart-devices-rolling-azure-percept-camera-mic-services/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Good Gear Guide
+      domain: goodgearguide.com.au
     quality: 46
     images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_ai_devkit.jpg"
+      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/microsoft_ai_devkit.jpg"
         width: 800
         height: 500
         isCached: true

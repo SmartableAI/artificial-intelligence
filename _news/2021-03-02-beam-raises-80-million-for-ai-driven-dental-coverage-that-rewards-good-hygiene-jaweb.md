@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Quality Match raises $6 million to build better AI datasets"
-    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Quality Match, a Heidelberg, Germany-based quality data annotation provider, today announced that it raised a €5 million ($6 million) seed round from LEA Partners."
-    publishedDateTime: 2021-03-02T05:01:00Z
-    webUrl: "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/"
-    ampWebUrl: "https://venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/01/quality-match-raises-6-million-to-build-better-ai-datasets/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?w=1200&strip=all"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Beam raises $80 million for AI-driven dental coverage that rewards good hygiene"
     excerpt: "Beam Dental, a Columbus, Ohio-based dental benefits provider, today announced it has raised $80 million in an oversubscribed series E round led by Mercato Partners. Beam says the funds will be put toward expanding its offering to new markets,"
     publishedDateTime: 2021-03-02T11:02:00Z

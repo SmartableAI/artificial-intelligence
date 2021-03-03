@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Commission Issues Blueprint to Boost AI Prowess in US"
+    excerpt: "Two years in the making, the report by the National Security Commission on Artificial Intelligence made a number of recommendations to make the United States a leader in the AI age. Those include: Formation of a Technology Competitiveness Council to build a strategy that accounts for the complex security,"
+    publishedDateTime: 2021-03-03T12:56:00Z
+    webUrl: "https://www.technewsworld.com/story/87040.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2017-ai-1.jpg"
+        width: 620
+        height: 360
+        isCached: true
 
 secured: "+wLx2WuRD++gj4dyYtJPSXKOXWxE8cRRPzMR5hNLX2AeXtwlcoa8naNXiCCdL7MzwdpIC4tLEwylVJg3Z+Mu/TJoZuTsycDr/Z2M3yr8ag9/NP3ZUqWzVa8PW3AslECfc7YlXdgsIR4/yxhUPh58C2BZ66NTO9LYaGXrCtplpw/cBzKZdvqdJms7n3JW0ilnXL1FO4ZLUriZdQ1tkGNTxyMoXVevo+wRt0Nmhh8bCibw3skKvHHNqNrnHe2f7Vae1g9jV2aknNk3jorc0PcuFIveqKCu3shYFI2AMc9+cLgTvbKIfSMwN31iJxBRLul0oA/iTuVAZaCPDiL8711u+gwcPVvMx+Y/8yvpau4Ofoc=;BLUzi5F985/4XpQL13ihzQ=="
 ---

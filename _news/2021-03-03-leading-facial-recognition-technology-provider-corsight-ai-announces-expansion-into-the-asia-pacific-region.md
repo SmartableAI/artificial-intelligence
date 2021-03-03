@@ -25,15 +25,82 @@ images:
     isCached: true
 
 related:
-  - title: "OneTrust Acquires DocuVision's Redacted.ai to Expand Automated Data Redaction"
-    excerpt: "OneTrust today announced the acquisition of DocuVision Inc. and its Redacted.ai solution to expand OneTrust automated data redaction capabilities. The combined technology – OneTrust Data Redaction – is available today and helps privacy,"
-    publishedDateTime: 2021-03-02T06:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/onetrust-acquires-docuvision-s-redacted-ai-to-expand-automated-data-redaction-1030135135"
+  - title: "Critics Have Much to Say About The 'FB' Facial Recognition Technology"
+    excerpt: "Facebook announced that it’s considering including facial recognition technology in its “smart glasses”, and critics have a lot to say."
+    publishedDateTime: 2021-03-03T08:51:00Z
+    webUrl: "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
+    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
+    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 59
+    images:
+      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-03/shutterstock_731158624.jpg?itok=yYHG1H7c"
+        width: 1000
+        height: 647
+        isCached: true
+  - title: "Facebook Weighing Up Legality of Facial Recognition in Upcoming Smart Glasses"
+    excerpt: "Facebook is reportedly weighing up the legal implications of building facial recognition technology into a pair of smart glasses that the company"
+    publishedDateTime: 2021-02-27T13:31:00Z
+    webUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/"
+    ampWebUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
+    type: article
+    provider:
+      name: MacRumors
+      domain: macrumors.com
+    quality: 56
+    images:
+      - url: "https://images.macrumors.com/t/ZIPkmMVdOG2CVYYdSjdM2oBwWJQ=/1600x/https://images.macrumors.com/article-new/2021/02/facebook-smart-glasses-prototype.jpg"
+        width: 1600
+        height: 901
+        isCached: true
+  - title: "Couriers say Uber’s ‘racist’ facial recognition tech got them fired"
+    excerpt: "BAME couriers working for Uber Eats and Uber claim that the company’s flawed facial recognition technology is costing them their livelihoods"
+    publishedDateTime: 2021-03-01T06:04:00Z
+    webUrl: "https://www.wired.co.uk/article/uber-eats-couriers-facial-recognition"
+    type: article
+    provider:
+      name: Wired UK
+      domain: wired.co.uk
+    quality: 39
+    images:
+      - url: "https://wi-images.condecdn.net/image/y2g75vbzyvD/crop/1440/0.5235602094240838/f/wired-uber-courier-3.jpg"
+        width: 1440
+        height: 753
+        isCached: true
+  - title: "Facebook explores facial recognition tech in smart glasses despite ethic concerns"
+    excerpt: "Despite some ethical concerns, the social media giant says it'll consider the public's opinion when looking into the possibility."
+    publishedDateTime: 2021-02-26T21:08:00Z
+    webUrl: "https://longisland.news12.com/facebook-explores-facial-recognition-tech-in-smart-glasses-despite-ethic-concerns"
+    type: article
+    provider:
+      name: News 12 New Jersey
+      domain: news12.com
+    quality: 34
+    images:
+      - url: "https://img.chdrstatic.com/media/c2ad5bb0-9ae0-46aa-afe9-9d86abd48f68.jpg?source=backend&crop=1200:675,smart&width=1200&height=675&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Facebook is 'looking at' adding facial recognition to its upcoming smart glasses set to be released next year, but staff are weary about the 'controversial technology,' report says"
+    excerpt: "At a recent meeting, Facebook Reality Labs director Andrew Bosworth said the company would look at facial recognition's legal and privacy issues before adding it to its upcoming smart glasses."
+    publishedDateTime: 2021-02-26T22:35:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-9305307/amp/Facebook-considering-adding-facial-recognition-smart-glasses-wants-solve-privacy-issues.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 6
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/02/26/20/37771266-0-image-a-7_1614370640794.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "ThsQ0jCkU4oEpfved0rkQGFfcOTEOAiR8emPL8Y1NoZnq6perBj+uwjhWcCMLvSD0ToVM78Hf01DgLRrDoF7Cyu8I1Hd3hnrCMlVfCR5boK/wiP9fJFqEgSnJAo8/gt1PiWbdZaoSj6COcj5DISbko0iKKRqJuEohK+7j/fU+gwLyaWViIMfshsPO5KOrSu7cohzrk7z8yWKV84A21DDV8xo5ghDWLporN+R3rMNkwR6WwrjlqMuTJCovywk+2D3Qr7B+8oAYm7XsYEX6yLhd6q2qtM+MaJm3sUqUJ8sruZ997UbZhn5WUj4b1niKYYLuZ6mDVL3sTd3pjnej7aBrfRzT4PeKMYyu2HFaFD/ojs=;XZHzLZ61zcr344bNdEj1zA=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 885
         isCached: true
+  - title: "Amazon sued by Black senior manager alleging assault, discrimination"
+    excerpt: "A black senior manager at Amazon on Monday filed a lawsuit against the company and several of its employees for alleged racial and gender discrimination,"
+    publishedDateTime: 2021-03-03T00:39:00Z
+    webUrl: "https://www.compsmag.com/news/technology/amazon-sued-by-black-senior-manager-alleging-assault-discrimination/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/amazon-sued-by-black-senior-manager-alleging-assault-discrimination/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/amazon-sued-by-black-senior-manager-alleging-assault-discrimination/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/03/1-187.jpg"
+        width: 1026
+        height: 692
+        isCached: true
   - title: "Black Female Manager Alleges Blatant Sexual Harassment and Racial Discrimination In Amazon"
     excerpt: "One of the senior employees of the tech giant, Andres Maz, \"felt free to sexually harass Ms. Newman and at times in plain view of others,\" asserts the lawsuit."
     publishedDateTime: 2021-03-02T11:36:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://data.ibtimes.sg/en/full/44467/amazon.jpg"
         width: 1024
         height: 768
+        isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
+    publishedDateTime: 2021-03-02T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "4RkHDd550bk2GdQS50ALtYAV9K22OE5aaafI6A9FmTKXbnn3H1CKOty08LAkG2AS9I4aiAVDIisDQBMNH1pztLhBS6DxzDXZoHYAxj/6rG/tbYjX5IB0mACjQ8qS4kYm+vUOJc9K4Ntlgz+YN0p1OO9zatugIyWrJUus2zd5KwLdkkRMvP3x7W9Dub3L94k41jZyo63fdAuInUUvIibQUfbY6Yj6dltGyJTx15qqudVrC0ZlwSI+MqwkeIWzW0rPjHsm62MScTWp0xKRSg88s6V1yIWNIwf4oPAaDB00BiwufV1Q8YolrNiJBgIsA83x3tcFfTWdUKwHTsydhJwlOLI1u465/7ouEDVHIrpY6Ks=;Ky7XNYBIeaB7QCmhDMm9pA=="

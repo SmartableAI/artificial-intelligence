@@ -26,20 +26,20 @@ images:
 
 related:
   - title: "MediaTek unveils new AI-based 4K smart TV chip"
-    excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial"
-    publishedDateTime: 2021-03-03T09:34:00Z
-    webUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip"
-    ampWebUrl: "https://www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
-    cdnAmpWebUrl: "https://www-glamsham-com.cdn.ampproject.org/c/s/www.glamsham.com/world/technology/mediatek-unveils-new-ai-based-4k-smart-tv-chip?amp"
+    excerpt: "MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution, AI picture quality and AI voice assistants,"
+    publishedDateTime: 2021-03-03T09:23:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-mediatek-unveils-new-ai-based-4k-smart-tv-chip-688531"
     type: article
     provider:
-      name: glamsham.com
-      domain: glamsham.com
+      name: India TV
+      domain: indiatvnews.com
     quality: 74
     images:
-      - url: "https://www.glamsham.com/wp-content/uploads/2021/03/30a5d7450287576ef93cde74849b907b.jpg"
-        width: 400
-        height: 263
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/android-tv-pixabay-1614763390.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more"
     excerpt: "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more"

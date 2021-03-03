@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Commission Issues Blueprint to Boost AI Prowess in US"
+    excerpt: "Two years in the making, the report by the National Security Commission on Artificial Intelligence made a number of recommendations to make the United States a leader in the AI age. Those include: Formation of a Technology Competitiveness Council to build a strategy that accounts for the complex security,"
+    publishedDateTime: 2021-03-03T12:56:00Z
+    webUrl: "https://www.technewsworld.com/story/87040.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2017-ai-1.jpg"
+        width: 620
+        height: 360
+        isCached: true
   - title: "Opportunity for companies in the national Security Space to Sponsor Defense Intelligence Memorial Foundation Event"
     excerpt: "Please join others in the tech community gathering at the Defense Intelligence Memorial Foundation‘s (DIMF) annual Tech Talk. The DIMF is a non-profit organization which funds scholarships for the children"
     publishedDateTime: 2021-03-02T14:32:00Z

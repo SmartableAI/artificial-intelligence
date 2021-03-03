@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-03T05:46:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-ownership-changes-f2c3b8803117b46cd09ae6fe291a6428"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-ownership-changes-f2c3b8803117b46cd09ae6fe291a6428"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

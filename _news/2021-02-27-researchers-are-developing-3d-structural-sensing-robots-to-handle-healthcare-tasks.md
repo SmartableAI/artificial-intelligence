@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210227/Researchers-are-devel
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210227/Researchers-are-developing-3D-structural-sensing-robots-to-handle-healthcare-tasks.aspx"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
     quality: 64
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/sensingrobot.jpg"
-        width: 1440
-        height: 837
-        isCached: true
-  - title: "Sensing robot healthcare helpers being developed at SFU"
-    excerpt: "Robots that could take on basic healthcare tasks to support the work of doctors and nurses may be the way of the future. Who knows, maybe a medical robot can prescribe your medicine someday? That's the idea behind 3D structural-sensing robots being developed and tested at Simon Fraser University by Woo Soo Kim,"
-    publishedDateTime: 2021-02-26T19:50:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-02/sfu-srh022621.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 56
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/257627_web.jpg"
         width: 1440
         height: 837
         isCached: true
