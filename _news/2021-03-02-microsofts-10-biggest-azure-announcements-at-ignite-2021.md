@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T14:10:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -218,6 +218,22 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/03/ai-devkit-shot-2_under-embargo-until-march-2-at-6am-pt-100879175-large.jpg"
         width: 1200
         height: 422
+        isCached: true
+  - title: "Microsoft launches ‘Group Transcribe,’ a transcription and translation app for in-person meetings"
+    excerpt: "A new project from Microsoft’s in-house incubator, Microsoft Garage, introduces a different take on meeting transcriptions. While today there are a number of real-time transcription apps to use on your phone — like Otter."
+    publishedDateTime: 2021-03-03T16:06:00Z
+    webUrl: "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/"
+    ampWebUrl: "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 93
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/Group-Transcribe-Blog-Image-_-Date-updated-2.png?w=1024"
+        width: 1024
+        height: 415
         isCached: true
   - title: "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure"
     excerpt: "During Microsoft Ignite 2021, Microsoft unveiled new Azure AI and Cognitive Services aimed at solving enterprise-scale challenges."
@@ -449,6 +465,6 @@ related:
         height: 250
         isCached: true
 
-secured: "jU1+TYBBSK3vqsNC4sxVc4f/bocRzO89H1+gBBj9+/wFxAS7rMRjNdq9f7tPmFrAgTOSWAwlVaIgyBPGui2yhBiQDLjk9O/mHOgxA0IDrithCKsk9rkYntBQsvhURmhwZ+9iZmubmofxFrlF2u4HC4wt+hvG/+Scl8C+FtJkqExPrle5x/VNZTfDZSNnyX74V9t8W9OEB+rF3OMFj6st8V1PhXEb6F4QhgbVxIdOY82trxGPicOMygpJoZpcCpdZP6srylIXPJEzAWtexliX3/uc6RjOrHJbOk/IrR0QaLhgBibvxB4qFhZ4hhIW1tU/Fh+l7BpQHWpD9Y6OyoauZ0XPOPLsrmvzSb7+usAIYTI=;D+ByXsSsHdyHLTMC2ZWmhw=="
+secured: "19s4oqRyrKdtI0A6H4qxUODoGVldnXidAWAfTo/xqVUAlG9PZvYkyt1Y6wE1dY4IwJiXDmzb3dXG0HGnynAqhub7bSSrT+3DHBLUqrHwFx49Vl43Hz3hIG79qZOVi9sj6Kt37lCh3yYCFktcYcm/x4UhPAPVtbdYlOkbzI90gYgTUY7rHBt5/uS/J/evsrZ1IbbKmfSdZ6c+ae201NJp/N3RvEGBmqcp2PLobsLgWdhXqB6ZPND7TxgqARoyxofrrdTEPHtp43KUKtIwY9JjJzsj0jjlQuErG2Jx1oi2htZPnaJiql6lPtXjKqPtRRGDv6xeY6chcVCBUoW4yfZ1EudJmzv+2Ozcfb2b06JFPBU=;kVqeQpKbXkmtGhJ+lO7yog=="
 ---
 

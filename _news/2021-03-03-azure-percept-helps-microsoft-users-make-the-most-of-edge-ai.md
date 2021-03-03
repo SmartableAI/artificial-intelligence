@@ -221,6 +221,22 @@ related:
         width: 1200
         height: 422
         isCached: true
+  - title: "Microsoft launches ‘Group Transcribe,’ a transcription and translation app for in-person meetings"
+    excerpt: "A new project from Microsoft’s in-house incubator, Microsoft Garage, introduces a different take on meeting transcriptions. While today there are a number of real-time transcription apps to use on your phone — like Otter."
+    publishedDateTime: 2021-03-03T16:06:00Z
+    webUrl: "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/"
+    ampWebUrl: "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 93
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/Group-Transcribe-Blog-Image-_-Date-updated-2.png?w=1024"
+        width: 1024
+        height: 415
+        isCached: true
   - title: "Microsoft launches semantic search feature for enterprises and new form-recognizing features in Azure"
     excerpt: "During Microsoft Ignite 2021, Microsoft unveiled new Azure AI and Cognitive Services aimed at solving enterprise-scale challenges."
     publishedDateTime: 2021-03-02T14:01:00Z
@@ -370,7 +386,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN
@@ -449,6 +465,6 @@ related:
         height: 250
         isCached: true
 
-secured: "+ulQckQtV3Rfv6JvepYArK/AaQvFHVwBbEqsrX2BNFdbfS3TI6iFsh8reXx/3JNTi84mr96MgCpcjl77Y5VT2qlBQYgkhZs8ZlLcSQo8Yyi1Csd2Lk4/lB953UKWmKzqng+8h8VCmbJZtNbuzSvjpDWPwlseBhcD/+PSIRIAlihXFvF+704C7QMRhpl7jFDDKUbMu5Lc87BDN0IzymDTUSj0OoeeuoTcQ+b5qdNOhb/eUVcBYL+jj1Gx8c3dFuKy8mk34IDWFg2nWkdMi6ABDdz2xWoYFHLoVLabtI+3ZqdKi3bNz8qrwyoNivYIcP5UIL5IG4Oqf1snCsChGUFYw/AIQzO6jlhl9Itc4iCQ+o0=;3Q+QQIJ9l73pDr0FfaR9Pg=="
+secured: "/Lfo1LwNPvCF84EhncuRL+xb4YZ4DydMH/IKrk863/E8AROp/RGZjVEunuzLkl0jF+QB2M941olg8O6FlbdlkxtlTbgPlw4aKedPXdaQ0B99jB3rmYZ0VSiJNTLgaX2K3PpgSihndVr+fUC1YBbcr3yZxk2HHvO3hdNYF+sd9NuKA+CRDV2+ThW9l4VzZ8OJb4HvMBJPdk7Ud77xIcZtPyE7cGpLzuFgttd/Z2XOCoDEMPQUJoFzdkcXu28ePsu+jpTupkSAd/DK3P5Wrw8wZH5PSfLvpUjGiAZ3gHRrh/opmpx52CtW9M7MczHw2S6XJl1O6lCYh6HPtmZH8UAast+elvSlyF5yLp7rxmmKGvNDABCLcGaMmxMZDDqlrttYA8k7Jd2AaT7duTNvLA5wDuGMZFVvJEuUutvCZ8yojf/e4ruzsaT/KnhXf5OZTz1j5AsR30HHGGF4iOm67zKl8Ed9/zlHk2XFFEPTqtWLLWScP6ZiUY2OzVBu7rULzRoiJuCT/DpjyT/0FlFId+Rw1Q==;LCkU1LXM3q0fH7U/6cIbUw=="
 ---
 

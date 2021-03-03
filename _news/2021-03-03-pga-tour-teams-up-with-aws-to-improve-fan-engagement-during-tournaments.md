@@ -104,6 +104,15 @@ related:
       name: Advanced Television
       domain: advanced-television.com
     quality: 19
+  - title: "PGA Tour Chooses AWS as Official Cloud Provider"
+    excerpt: "Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR. Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR."
+    publishedDateTime: 2021-03-03T08:15:00Z
+    webUrl: "https://www.financialbuzz.com/pga-tour-chooses-aws-as-official-cloud-provider/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 19
 
 secured: "+MRzEpvJMRmc3M1lCNPfH0FWRqKPaYLzggpN5/xnUzgvdLxxPawusXsEMZolfbQi66m0mvI0njTX+srgr2H9FEMPeL5igKoSFc/EWG0waAMvUcM+RFieLOZLVPyznBNU958mvnT++M52bqiehIqmOxNJxYfC7YZJsu21hVKNGyIcI+qzwtS0o9P9tl9M90sU+3P8NKTpnkjBB6QIdbPesWo7LvMoU1XrgJ+iVWtUhGGChqYwEcXqSmHsc7sM4HCcoY0xCzyooSM8JEmfQVU+UIl0Jl1n/PIys9GZiatnPznzztmEW2USe1+7Wx1Y7qJeATZcESC76+gC43uGrEpj2Me345+eiDECE3osW5JujOsrXQsabKRcUq+8ct65HZjTTmEGlWmWunShbTVwC5AiXv+zyumyjF8pDPCCXoh4ZUL6A/mZdVpV/26MyD/MSFtnXPjOfgAhJ9xMrk1sGRY4bnREQ/FIFPyyvJSZ1U0o/CvxGq5UbHiforaOHsJjQIIjo1IGH+M4s4A5yGCC/mYnGA==;QKWtzjcXoPMugXcmoofrDw=="
 ---

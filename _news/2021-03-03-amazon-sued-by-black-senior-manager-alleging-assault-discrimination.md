@@ -73,21 +73,7 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
-    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
-    publishedDateTime: 2021-03-02T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
-secured: "iqHKA45W7fbczQIXthBdml2adM2PJchWwmvd7ILMopbp2b9g3yH/odB+/rrnC6kNfZMWq0rYPNGYwgooRvX+s8fLtb7S9eFylzTn2P87gWyj+lY0mPsX3JS2Iu3/HngOVZ0yFICNxTGoaGrTjjv9qjVZ2lKk0BPDYdL+7Wpr1YpMy4K36DY10/X0xNw1JzKsxAnNJXmsJ2QDGkHKtlPxEHzz0ZYL1JtieUiRdb1TxIr1heUDXKXJO4gtA9NA8Yu4vz1YBCi3iVv4Q7fiGU9sMylnnh5Yn/e7WkG2kF7YtmdedZ5OJtlIABSrm+RmI4Yf7YkQujhKNCmmk6RZ2v8gkFIBamlQhQQopMcHNoNn/G0=;YICyJr3Dv6bdzd4UOmXJjg=="
+secured: "6Z0jbt+fxUlFnbAEXVbfXORTYXQj7ZAzkL8ngIubPuY5820+CMT1U0Kion9s2iSxZlbAYKBQY6PGbnposQ7MbNCAvKQx8U2ygllFIMUbjbL3llJGbNVQDh0Xu9XWqNAuHFjKfGRg1m95RP64rlW43s76ButbsIfyRv/d6+D0WGXL8gBNh264637lepjZt5yogEmwsn+JGwiEty+MGRxjdsPWiyvz4WPwTx+NIKG3Bip8Eb4xdGTCrU10Viqg5biEE7uRyAub0R/iMvWbKZttdcsED6D8clci/S9hRCwduFZGweZbfn9HxAhxFRFGSOnxQUhv9EFDCRDK5UfQkX7FLRwEhhG6BUWWCUcaC4D5pmjVPBeawHCcy8ejHxPtx3ExNMh1UXIXf4nNv5oCJInk6dQiV8LQDMLsNopoeUyb2GaRxfOLjFlMm+jMLLBCCrQnuJCCqAX54d9XkPZ/Dp2qYKO3a6+P1Ps4OuXFdwTYIzqTjoyjBN++bFQ2g4Wn+wKB2X2N70vuMnVeISSVRAmt4g==;kdHKkkLOrE0enmOhJ1yh5w=="
 ---
 
