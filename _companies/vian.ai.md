@@ -2,7 +2,7 @@
 name: "Vianai"
 overview: "Our vision is to empower millions to build machine learning applications. CEOs, Senior Executives and Developers can use Vianai to turn AI into ROI."
 type: "profile"
-heat: 31
+heat: 57
 
 website: https://www.vian.ai
 
@@ -36,6 +36,6 @@ images:
     isCached: true
     title: "Vianai"
 
-secured: "q5lGw2ielOemDLJqZ8lAEQ09Q9R3f00KMmc7SEYy5gilJWOIr+JzavjOlk8789h0Ae5H5BFmZ3AqZ/s/e+t+haR49WMLWLvLjKS/DOfok3HH7Vj+VX79c+P+adaVqcZKoGsXlTNb3wPZKMykUdO6DEqOGVDpGtue6FMb+oNY6IXpM/prAIheIYpceXg7dB6pvUGyV6ZksM3G+m5PiOLd4Z+HUO3AFZRsobH8xyI9fmqs4xlc+qj5yU0Z/tR7jYgJP5NYO1F1jSr/vJG2vBPQSHxsbAiTu2F9jPW7bi6fIPk4HTj7EZ1fA1ZvgdaDQdZuayjahy42S3ASzXWqkXfoxt/cewMa/roCLt/TORykWk0M2UlwpJGEewrH5Wi8pye8jnoE9dqYxWCYYkeIyFI+TA==;KwCR3FG+WVpdQSdz5yhPAQ=="
+secured: "ti1+6P6FwCFj8ce2mvbYEKCOVJGyUZc/sVZP/kDV0R+UMyucHPUnNStkl3bl2vFRS1q6Vy8wQyTXVKTqqLXQwdJsT5FB+DgdRvGqp8e5aISlATnOJ496CTocDlTU2ovS3PYNYJrSUfJ/NLtFPBc32xN4gHdAIho3hlQTyyiJpzv5E/3g6hdiqWUG2xNleOnq/SmuOv0HPfwgcA0oMHDCx2aw/CBr6YIL30icUd9IEaF4X3Wnnm+IDYj3WSHU0ohCvLMzrKPTpjUtZLDInUa0zOfDZknuZttYECaRTVFb7Bs2twQkdNTr/IgzRf+975iujuJ+hfN65V/7HbP3qx44WsTEc7SptMezS5+W8SbieTmEOrWFf56CmB9TD5N1RbOGg6MSF27Jfl90Ed0FxecDwg==;BhK2SSXJGkB3xbWoF+xFeg=="
 ---
 
