@@ -26,6 +26,22 @@ topics:
   - Natural Language Processing
 
 related:
+  - title: "Facebook trains A.I. to ‘see’ using 1 billion public Instagram photos"
+    excerpt: "Facebook has built an AI program called \"SEER\" that can tell what it is looking at. It did this by feeding it over 1 billion public images from Instagram."
+    publishedDateTime: 2021-03-04T20:00:00Z
+    webUrl: "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 89
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106747364-1602836839452-gettyimages-1228865133-dicola-notitle201003_npbdv.jpeg?v=1602837049"
+        width: 4256
+        height: 2832
+        isCached: true
   - title: "AI: Facebook's new algorithm was trained on one billion Instagram pics"
     excerpt: "Facebook's researchers have achieved a breakthrough in self-supervised learning, by training an AI system on one billion unlabeled Instagram pictures."
     publishedDateTime: 2021-03-04T16:27:00Z

@@ -55,6 +55,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Amazon's (AMZN) AWS Selected by TOUR, Strengthens Clientele"
+    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. PGA TOUR— commonly known as TOUR — recently selected Amazon Web Services (“AWS”) as its official cloud provider. This highlights the efficiency and reliability of AWS’s innovative cloud products and services."
+    publishedDateTime: 2021-03-04T15:05:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "PGA Tour Partners With AWS for Cloud Services"
     excerpt: "SEATTLE—The PGA Tour is adding Amazon Web Services (AWS) into its bag, choosing AWS to be its official cloud provider to help transform the way golf content is created, distributed and experienced for fans,"
     publishedDateTime: 2021-03-02T16:56:00Z

@@ -1,28 +1,20 @@
 ---
 category: news
 title: "IBM’s retreat from Watson highlights broader AI struggles in health"
-excerpt: "Mr. Krishna has said AI, along with cloud-computing, would be pivotal for IBM’s prospects. Watson Health was one of IBM’s first and the largest AI efforts, said Toni Sacconaghi, an analyst at ..."
-publishedDateTime: 2021-02-21T01:39:00Z
-originalUrl: "https://www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613894526025.html"
-webUrl: "https://www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613894526025.html"
-ampWebUrl: "https://www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/amp-11613894526025.html"
-cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/amp-11613894526025.html"
+excerpt: "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ..."
+publishedDateTime: 2021-02-21T04:09:00Z
+originalUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48"
+webUrl: "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48"
 type: article
 
 provider:
-  name: Mint
-  domain: livemint.com
+  name: The Australian
+  domain: theaustralian.com.au
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://images.livemint.com/img/2021/02/21/600x338/2021-01-22T020615Z_1_LYNXMPEH0L04G_RTROPTP_3_IBM-RESULTS_1613894867868_1613894895396.JPG"
-    width: 600
-    height: 338
-    isCached: true
-
-secured: "lz7184mR9YfIC+GsSJixnf1mip1BFtOAVsgsf7gDH57JAZ8qrvr5IlTuj4xdA8gUUcNmes7LDzdoiinwYCgaqgONCMTCQ0eqp6DJjQNDKm73jlpX1wzpY8f8H942EJiHnlHLe1FplWZ2I8BHtid51p2DANdkgAmmC51WYGQ8GBfJeUZPkkmrM06kIPYANYRxZYs3gLbB1d6bq1BHB3HTxTT9Zmtelm/VXEKxu92apXeeLnJwnClB6BIJN1/oKfh3uQPlhlek++OCKRchdWmoqhD/G4UFiXiwLTlkWxCiSoYPIZ2HVqYiIf/vQ8Dlfk1lT6LuqA05VvzAVzxa2qYexzKCkRnSfuNkD+yf/OMvKiI=;KfaglrWvzpaU9rwkCWlMrQ=="
+secured: "SLXgJ/Tc1Y9Ti1Yq0ShuV6EFZXIiS5hIwVOpMAXVPjeZAt+2YpYLZbKVl7W7UnJtneVwmKDEwWJoFZJzBKSnCokZR85W+BWwliQxH/7uHFVMXXjr0Cwn+wg3QzgjY+Cp7xu5JAfDAkPS/g6L6OMguM6ymfJ1FNESpYiMoMiq6xbW3tsoQCopIVYVuuEkhLwCD2HBAnEYHdzoxhYG5iMHYGcaxCuAW/uXwv/N8v6g2658rclOIzFFO+i3tnPWgtoT3t0gluVGTXqxi6H1BOgJYEmOX95K0t50pkm8L7JKOy+8vIQvdnPri3mZzpZCviqx62Uxv8CYVfL7wlvsUjbOKkr3uU14LFhrd15rXu7T1tM=;lH8nCJTabn4UTOnd1FnQCQ=="
 ---
 

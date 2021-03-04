@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/362254"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362254"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 600
     height: 338
     isCached: true
+
+related:
+  - title: "Want a career in AI, Machine Learning or Robotics? Here are 3 reasons why you should take up the Robotics Systems programme"
+    excerpt: "In response to the growing demand for talent in robotics and automation, the Singapore Institute of Technology (SIT) has launched a new programme.. Read more at straitstimes.com."
+    publishedDateTime: 2021-03-04T12:00:00Z
+    webUrl: "https://www.straitstimes.com/singapore/parenting-education/want-a-career-in-ai-machine-learning-or-robotics-here-are-3-reasons"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 60
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/26/sit_bachelor_of_engineering_in_robotics_systems_graphic.jpg?itok=Gie8eRsc"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "1P4KeSqjt+S3SHE87EZCxDvisXjdqzvdngYpgiV3TOciNP3Ji8PrtsaTJNThBdXMCSsMmMAQti6KVu+qlSU83h6VWtHexSo8Li+dW1Iouf+YmrI/VKX4Sb1QTpL8/p8gvFH5l5mt856jOQbueb/S3wyt0Uy17ajrX43Nk4tY/2vuK50lIo/i/dyaTDrD9TcBbCepysmzv16v9/BZkBjbTYlw+M+KxrPZgQodfBrffvCoxnFSFXdeSx3W0bUw2bBxXJpBjcTwnk9xsXEBvlRtuG/ZqBF8snaIZN4snSTFo3Bs3+91WLgHFLOV/tJ4HAVaaAhNoqYulmVv6OMY7t0i1P9fNXk3Zw5TXAGHV7erf62Ta1txRCwQ/5rwLBNve/Cwld1CDsOx6GY/mXKaZ1FL1QY1RxLLYMd7eJ/TnP/bkaEHggUTUKJ3Ulqm4m6aa6u/d1ubSImiVzTDj5MeiBZpYdK69NzQKf/rGhWAXQYQjwD5wugFOllU5AkQmeM1sPu9We+eF+z0d0n9joQxuVCR8w==;0nsez9PWIZ5Sn1SpL0u45A=="
 ---

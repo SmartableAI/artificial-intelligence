@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210301/Deep-learning-based-s
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx"
 type: article
 quality: 70
-heat: 70
+heat: 90
 published: true
 
 provider:
@@ -25,6 +25,36 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Engaging AI in the battle against Alzheimer’s"
+    excerpt: "A team of researchers has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease. The method could represent a rapid and inexpensive way to repurpose existing therapies."
+    publishedDateTime: 2021-03-04T12:23:00Z
+    webUrl: "https://news.harvard.edu/gazette/story/2021/03/ai-reveals-current-drugs-that-may-help-combat-alzheimers/"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://news.harvard.edu/wp-content/uploads/2021/03/iStock-sudok1-945x630.jpg"
+        width: 945
+        height: 630
+        isCached: true
+  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
+    excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
+    publishedDateTime: 2021-03-04T19:32:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 31
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/alzheimersdi.jpg"
+        width: 775
+        height: 812
+        isCached: true
 
 secured: "uRt2eMklahSgRJ+aXplKcLfQeLkqP9BpgtweRLHUXWqfxPtzIetDFnOhaJ1SyLfUI3K6ElvTNWjUuDs5uq3Q4+2OC7GxvaiU1h9dnDkxDXkH3kVF2zFHf5SlOWfEKh/MQ0ZtEGNLBJOgTB6gSiuDqNbkC0xsZrsUWflcFg33CvTEQxXzGjw4PIDYOuXQed0/71vEkwqWc/Mw66ouqtxhoRES8eZ/ubKB9i/jSYzCpqP7egzkvhEBuSOG7sqnb9Sr74mfN4RJNjTnsVVK6mZDhfGyYmFNjnhGDO7HWbHwVsMXKYmutTqEuth9k6Hv7B6TBPCU+EuOavEBbNYTFpSJS2s7S8qgu8LSKBW2POpna7g=;o6G4uAAO17ox7ST8uw9MPg=="
 ---

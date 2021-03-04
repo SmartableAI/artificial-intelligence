@@ -415,33 +415,24 @@
     {
       "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
       "title": "IBM’s retreat from Watson highlights broader AI struggles in health",
-      "excerpt": "Mr. Krishna has said AI, along with cloud-computing, would be pivotal for IBM’s prospects. Watson Health was one of IBM’s first and the largest AI efforts, said Toni Sacconaghi, an analyst at ...",
+      "excerpt": "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ...",
       "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613894526025.html",
-      "originalUrl": "https://www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613894526025.html",
+      "webUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
+      "originalUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/02/21/600x338/2021-01-22T020615Z_1_LYNXMPEH0L04G_RTROPTP_3_IBM-RESULTS_1613894867868_1613894895396.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/amp-11613894526025.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/news/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/amp-11613894526025.html",
-      "publishedDateTime": "2021-02-20T17:39:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T20:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
         "images": null,
         "publishers": null,
         "authors": null

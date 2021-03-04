@@ -2,9 +2,9 @@
 category: news
 title: "This AI-powered chatbot startup raised $17 million to help brands like Domino's streamline calling in your pizza order"
 excerpt: "Kea's AI-powered chatbots have been tested by a number of big chains. But the company's expanded partnership with Domino's is a game changer."
-publishedDateTime: 2021-03-03T06:25:00Z
-originalUrl: "https://www.businessinsider.com/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3"
-webUrl: "https://www.businessinsider.com/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3"
+publishedDateTime: 2021-03-03T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3-1030145810"
+webUrl: "https://markets.businessinsider.com/news/stocks/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3-1030145810"
 type: article
 quality: 43
 heat: 43
@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/603d69a987d37600190d0877?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://images2.markets.businessinsider.com/603d5ed613b221001876afab?format=jpeg"
+    width: 701
+    height: 526
     isCached: true
 
-secured: "g8Y703yHWEO6WRi+UrZXZNZ7knu0KCE3Vy1ce36P89J3DbfKN4Qh3GftcQV2tUGeqSomKk1LTG88f6H5nkTk4E1lFMH7qbk5dKbwHTbdwpsRsdT5JQsNqzo2KHw5sWiYhfsieuniZB8lS3uKi4BnZF1xUf8bFB7PIwDdHuWJBekG6E5fnc2BtogjjLBrFFcnWaX67RqctRwIcJEFBTaFRSgCf5FsNVz468gwGPenDLwngQUT6ltEG98XzzWlXCwt7xGoqBULd02kMZq6mupUrWFLrh2yZ7Zdjizj4Y/n/viIWj2bx6ZPd+bRNJ/XjYaa6U6vE8XG4eq48sqOSZ5vTziCgjgUmirCGfm043lxYZhRfZFSIvULvNvIreXshZ9KYHLg72RFQfn+ZyG4Ga9LQYu/7Fn/GTUCggnRygzdigzDMRwMUDifyGVIaKVRViVxD8xHo7rts4E6bVP9bIHRDq5c7pXeNsI+9WU7bDwMeKbC5yRXAAh42qYlMoly+fCChCvM3jyFEFZ2RSAdX3DeNg==;j3S0DyzcCWKwLXGrFbEAsg=="
+secured: "bu8WZnIacae8te93jGIr8ZZW1lq6+IiXgHAXFNCxfa98/hwTuspQfD1d7Nldgimi8eoaHSzXgAywkgZX4okCmtJQL9T1rG3bDc5wfOs7oMH3NjzsT8naoN7OmEDLIT9qvYyZ76qbqYwGtZkFtiZeTrtjf+M/0LPvMs9navdLJVES5wKgERC5XDqrXw1XliMf35OrrqqF2+WcvvcgwVE4RKT0AID2wx4qs8RmSJ/H+Zpa2ZrkiRuW24vjOjC8LhaKtmWVEMDy8laa+uQ8J+kk1zgd4o+SkvWvX01aJbd1nc0zkbhAM5SpoScevXOFDSEy0UOqtM+Oh7QEngEgR49a1WS6B3+d5TX3l3OSDcketl8=;ytUQtPy+KnukgjIm/WpBVg=="
 ---
 

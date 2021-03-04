@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-pla
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/"
 type: article
 quality: 91
-heat: 112
+heat: 111
 published: true
 
 provider:

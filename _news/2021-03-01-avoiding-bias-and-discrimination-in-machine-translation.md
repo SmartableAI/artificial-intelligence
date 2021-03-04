@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoidi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/03/1-187.jpg"
         width: 1026
         height: 692
+        isCached: true
+  - title: "BLEND scores $10M to help global brands from getting lost in translation"
+    excerpt: "The need for fast paced localization tools continues to grow with enterprises accelerating global product expansion. BLEND, an Israeli startup enabling multi-market localization technologies, announced the completion of a $10 million funding round,"
+    publishedDateTime: 2021-03-03T06:13:00Z
+    webUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/"
+    ampWebUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 43
+    images:
+      - url: "https://www.geektime.com/content/images/2021/03/BLEND-Founders---CEO.-Photo---BLEND.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Black Female Manager Alleges Blatant Sexual Harassment and Racial Discrimination In Amazon"
     excerpt: "One of the senior employees of the tech giant, Andres Maz, \"felt free to sexually harass Ms. Newman and at times in plain view of others,\" asserts the lawsuit."
