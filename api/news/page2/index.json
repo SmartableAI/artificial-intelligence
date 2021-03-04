@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization-innovation.md",
+      "title": "Looking Ahead: Thriving In An Increasingly Digitalized World With AI, Hyper-Personalization & Innovation",
+      "excerpt": "As information technology continues to advance at an exponential rate, it gets harder and harder for companies to keep up and know what to focus their efforts on.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e96607f4ba4ed58a14155%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/amp/",
+      "publishedDateTime": "2021-03-02T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-an-ai-was-taught-to-play-the-worlds-hardest-video-game-and-still-couldnt-set-a-new-record.md",
       "title": "An AI Was Taught to Play the World's Hardest Video Game and Still Couldn't Set a New Record",
       "excerpt": "What’s the hardest video game you’ve ever played? If it wasn’t QWOP then let me tell you right know that you don’t know how truly difficult a game can be. The deceptively simple running game is so challenging to master that even an AI trained using machine learning still only mustered a top 10 score instead of shattering the record.",
@@ -261,7 +312,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -439,6 +490,49 @@
       "provider": {
         "name": "Windows",
         "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.md",
+      "title": "Fuji Invests in Motus Ventures’ Fund Focused on Robotics and AI",
+      "excerpt": "FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation, has joined Motus Ventures' Motus SWIF fund as a limited partner investor",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
+      "originalUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/motus-ventures.png",
+          "width": 1920,
+          "height": 832,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -670,7 +764,7 @@
       "originalUrl": "https://www.techradar.com/in/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1131,7 +1225,7 @@
       "originalUrl": "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1161,110 +1255,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing.md",
-      "title": "Brazil’s Biggest Metro Could Get Facial Recognition Cameras That Reinforce Racist Policing",
-      "excerpt": "Facial recognition cameras commit minimal errors in recognizing the faces of white men, but they misidentified black women up to nearly 35 percent of the time, according to a recent study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "originalUrl": "https://www.vice.com/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/603d34e458f56d0096504362/lede/1614628311772-gettyimages-1218336354.jpeg?crop=1xw:0.8419xh;0xw,0.1065xh",
-          "width": 3897,
-          "height": 2188,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/5dp8wq/brazils-biggest-metro-could-get-facial-recognition-cameras-that-reinforce-racist-policing",
-      "publishedDateTime": "2021-03-02T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
-      "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
-      "excerpt": "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
-      "publishedDateTime": "2021-03-02T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

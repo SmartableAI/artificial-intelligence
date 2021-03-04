@@ -9,7 +9,7 @@ ampWebUrl: "https://www.smartdatacollective.com/how-ai-is-transforming-cybersecu
 cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/how-ai-is-transforming-cybersecurity/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is Transforming Pro AV"
+    excerpt: "Shashua explained that AI is narrow; it is software that is optimized to solve a single problem. \"What Mobileye is doing is all about pattern recognition; cameras and other sensors understanding the visual world and then using that interpretation to drive decisions to do self-driving."
+    publishedDateTime: 2021-03-04T12:40:00Z
+    webUrl: "https://www.avnetwork.com/features/how-ai-is-transforming-pro-av"
+    type: article
+    provider:
+      name: AV Network
+      domain: avnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/V72y8XMd49H5UAWKf4h6RH-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Robust solutions identified to close the human talent gap in Cyber Security and Artificial Intelligence"
     excerpt: "Partnership Excellence, a non-profit international think tank for multi-stakeholder partnership development, today announced the expert report resulting from their Council Summit"
     publishedDateTime: 2021-03-01T13:05:00Z

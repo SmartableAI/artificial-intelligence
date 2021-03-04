@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02"
 type: article
 quality: 72
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "NVIDIA Inception recruits Peritus for AI advancements"
+    excerpt: "Peritus.ai has joined forces with NVIDIA Inception, a program designed to nurture start-ups revolutionising industries with advancements in AI and data sciences."
+    publishedDateTime: 2021-03-04T11:50:00Z
+    webUrl: "https://www.capacitymedia.com/articles/3827899/nvidia-inception-recruits-peritus-for-ai-advancements"
+    type: article
+    provider:
+      name: Capacity Media
+      domain: capacitymedia.com
+    quality: 37
+    images:
+      - url: "https://capacityliveblobstorage.blob.core.windows.net/files/technology-3389917_640.jpg"
+        width: 640
+        height: 359
+        isCached: true
 
 secured: "ovNIjkhfAfg1hjTyzvkCEDmhSr7M6UGGW8yXYgoIwQWhzvfABLJiZ8g8Cl952XzOj91UOs20k5+nKieqMUtmO9UhMxc6UzQInKZSnV14I6CiTa8h5YLsDW/Pwyk4GsRTdzWk4dGU2k2o2ACEoGsKHnYdJXImxtwzx3MfInnxyW/qgUBsxvD+qd1Wk2Pc+7A87pqERFVvL0jh3PV4wC+A+P5SA0r56dUPoXydFn3OmWuPgttoMKKfx5TLnpapOA/LXu2ejxFi3UowM8k82tnT2uhhPCKn5twvQyKYbyqdjwayfrI+vKOXPWg9/JpK5WHNaqy6gb7BxpzNJLf/w2t0uNRUAyokdFNvl/GX6rhrzuU=;NonUb8lc62Q1QIyrPz5Geg=="
 ---

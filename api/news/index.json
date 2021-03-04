@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-04-how-tytocare-uses-ai-to-improve-diagnostic-care.md",
+      "title": "How TytoCare uses AI to improve diagnostic care",
+      "excerpt": "TytoCare, a startup developing an AI-powered telehealth platform, raised $50 million in venture capital backing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/1200x630.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/amp/",
+      "publishedDateTime": "2021-03-03T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops.md",
       "title": "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops",
       "excerpt": "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software",
@@ -1208,57 +1259,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization-innovation.md",
-      "title": "Looking Ahead: Thriving In An Increasingly Digitalized World With AI, Hyper-Personalization & Innovation",
-      "excerpt": "As information technology continues to advance at an exponential rate, it gets harder and harder for companies to keep up and know what to focus their efforts on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e96607f4ba4ed58a14155%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1200%26cropY1%3D0%26cropY2%3D675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/amp/",
-      "publishedDateTime": "2021-03-02T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

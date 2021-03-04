@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/Business/Automobiles/Honda-launches-world-
 webUrl: "https://asia.nikkei.com/Business/Automobiles/Honda-launches-world-s-first-level-3-self-driving-car"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1024
     height: 512
     isCached: true
+
+related:
+  - title: "Honda’s part self-driving Legend a big step for autonomous tech"
+    excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
+    publishedDateTime: 2021-03-04T12:18:00Z
+    webUrl: "https://www.metro.us/hondas-part-self-driving-legend/"
+    ampWebUrl: "https://www.metro.us/hondas-part-self-driving-legend/amp/"
+    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/hondas-part-self-driving-legend/amp/"
+    type: article
+    provider:
+      name: Metro US
+      domain: metro.us
+    quality: 44
+    images:
+      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXNPEH230FT-BASEIMAGE.jpg"
+        width: 800
+        height: 538
+        isCached: true
 
 secured: "KafpqB9RV1U/KJLF/QTHVYjSfTYMZFdXh2aZ+bL/YC9+aWw+/VfGEnt2qXI6PWoXu2ILH2Y4U79Bf8wOUjaUKjxIoh4yqvKI0AyCJi1BVA+2gFN8LiDv/hd/O2kLm2OMRgDk1zhguTf+l8DT9ekD9c0QZsDAgCLHKndOhuoXyHvI9FU03b5iMJHLACKPn7hlqbUVyBSQzcrphuCNRPSB/SI1Vw9vRzuODUZQlvXcDWWlqMMn7mtloldO0IMgQtGZsQj1/wEhTtACXyW5oSqr/tK3r3Yt4R80rfLoSSpl5p7AO869NsCqjcIqhzZ8khl5ZeBYVjjvCxTXaj9MB4JA0Qtzp4R3K25/cgHr032RkW8=;eI15SUfr3TM6NsSyS4OEfA=="
 ---
