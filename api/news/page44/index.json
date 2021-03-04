@@ -2,6 +2,49 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-01-29-academic-city-university-college-launches-bsc-robotics-engineering-programme.md",
+      "title": "Academic City University College launches BSc Robotics Engineering Programme",
+      "excerpt": "He revealed that in the Robotics programme, emphasis is placed on design, analysis and modeling, programming, integration of Artificial Intelligence (AI) and manufacturing. \"Additionally, the need to industrialise has been effectively articulated by the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "originalUrl": "https://www.modernghana.com/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.modernghana.com/content__/600/400/129202164730-h41o266fea-whatsapp-image-2021-01-28-at-11.04.26-pm.jpeg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "cdnAmpWebUrl": "https://www-modernghana-com.cdn.ampproject.org/c/s/www.modernghana.com/amp/news/1058182/academic-city-university-college-launches-bsc-robo.html",
+      "publishedDateTime": "2021-01-28T22:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modernghana.com",
+        "domain": "modernghana.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-the-amazing-ways-wild-me-uses-artificial-intelligence-and-citizen-scientists-to-help-with-conservation.md",
       "title": "The Amazing Ways Wild Me Uses Artificial Intelligence And Citizen Scientists To Help With Conservation",
       "excerpt": "Wildlife conservation is an enormous challenge. Wild Me, a non-profit organization, is leveraging the photos and videos of citizen scientists and the cloud, artificial intelligence, and computer vision to help track individual animals and to inform wildlife conservation efforts.",
@@ -1129,40 +1172,6 @@
         "AI",
         "Machine Learning",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-decentralized-machine-learning-24-hour-volume-hits-440900-dml.md",
-      "title": "Decentralized Machine Learning 24 Hour Volume Hits $4,409.00 (DML)",
-      "excerpt": "Decentralized Machine Learning (CURRENCY:DML) traded 5% higher against the dollar during the 24-hour period ending at 12:00 PM Eastern on January 28th. Over the last week, Decentralized Machine Learning has traded 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
-      "originalUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/01/28/decentralized-machine-learning-24-hour-volume-hits-4409-00-dml.html/amp",
-      "publishedDateTime": "2021-01-28T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

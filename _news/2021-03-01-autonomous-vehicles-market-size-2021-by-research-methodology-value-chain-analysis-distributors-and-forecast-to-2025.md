@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pharmaceutical Robots Market Size Worth $297.4 Million By 2028: Grand View Research, Inc."
+    excerpt: "The global pharmaceutical robots market size is expected to reach USD 297.4 million by 2028, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 9.3% from 2021 to 2028."
+    publishedDateTime: 2021-03-04T09:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19681934.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Size, Share, Growth, Trends, Analysis and Forecast - 2027"
     excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
     publishedDateTime: 2021-03-02T08:13:00Z

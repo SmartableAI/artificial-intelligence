@@ -105,6 +105,57 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-deep-nostalgia-creepy-new-service-uses-ai-to-animate-old-family-photos.md",
+      "title": "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos",
+      "excerpt": "Service from MyHeritage uses deep learning technique to automatically animate faces",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
+      "originalUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
+      "publishedDateTime": "2021-03-01T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
       "title": "Underwater robot rises from the depths to save drowning swimmers",
       "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
@@ -1177,58 +1228,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-how-one-state-managed-to-actually-write-rules-on-facial-recognition.md",
-      "title": "How One State Managed to Actually Write Rules on Facial Recognition",
-      "excerpt": "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
-      "publishedDateTime": "2021-02-27T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

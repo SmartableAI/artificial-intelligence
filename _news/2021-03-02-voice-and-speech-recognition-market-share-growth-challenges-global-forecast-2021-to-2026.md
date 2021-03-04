@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-03-04T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2027-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2027"
     excerpt: "Global Speech and Voice Recognition Market to reach USD 43.8 Billion by 2027. Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17."
     publishedDateTime: 2021-03-03T10:07:00Z

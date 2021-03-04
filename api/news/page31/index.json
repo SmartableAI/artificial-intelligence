@@ -2,6 +2,50 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-02-08-psa-security-network-release-the-schedule-for-the-upcoming-tec-2021-live-and-virtual-events.md",
+      "title": "PSA Security Network release the schedule for the upcoming TEC 2021 live and virtual events",
+      "excerpt": "IR illumination and traditional thermal security cameras, after all, are only able to provide black-and-white images, whereas object recognition software often identifies objects based on their color. White light illuminators installed alongside AI-powered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/touchless-security-biometrics-post-pandemic-solutions.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html",
+      "publishedDateTime": "2021-02-07T22:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-making-ai-real-a-2019-report-into-ai-machine-learning.md",
       "title": "Making Ai Real: A 2019 Report Into Ai & Machine Learning",
       "excerpt": "Making AI Real report surveys global business about real world AI usage. This report reveals how technologies such as machine learning and AI are being used in 2019. To achieve this we surveyed a panel of 2,",
@@ -1104,59 +1148,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence.md",
-      "title": "Amazon DevOps Guru is powered by pre-trained ML models that encode operational excellence",
-      "excerpt": "On December 1, 2020, we announced the preview of Amazon DevOps Guru, a machine learning (ML)-powered service that gives operators of cloud-based applications a simpler way to measure and improve an application’s operational performance and availability to reduce expensive downtime. Amazon DevOps Guru",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-devops-guru-is-powered-by-pre-trained-ml-models-that-encode-operational-excellence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/02/ML-2395-3.jpg",
-          "width": 800,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T11:25:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

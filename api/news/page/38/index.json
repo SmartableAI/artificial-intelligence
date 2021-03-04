@@ -2,6 +2,58 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-02-03-apple-safari-builds-speech-recognition-into-the-web-with-macos-113.md",
+      "title": "Apple Safari builds speech recognition into the web with MacOS 11.3",
+      "excerpt": "Apple has added support for speech recognition technology into a version of its Safari web browser the company is testing with the release of MacOS 11.3 Big Sur for developers. The speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/apple-safari-builds-speech-recognition-into-the-web-with-macos-11-3/",
+      "originalUrl": "https://www.cnet.com/news/apple-safari-builds-speech-recognition-into-the-web-with-macos-11-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/MGkMSkGX9Qmyh5V3vAzzSRuZ1C0=/1200x630/2018/11/14/c0a4ff85-0dda-4344-b7ee-4c42432ec1ab/safari-technology-preview-icon-logo-4sts.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/apple-safari-builds-speech-recognition-into-the-web-with-macos-11-3/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/apple-safari-builds-speech-recognition-into-the-web-with-macos-11-3/",
+      "publishedDateTime": "2021-02-02T16:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-ai-maths-whiz-creates-tough-new-problems-for-humans-to-solve.md",
       "title": "AI maths whiz creates tough new problems for humans to solve",
       "excerpt": "Algorithm named after mathematician Srinivasa Ramanujan suggests interesting formulae, some of which are difficult to prove true.",
@@ -1130,57 +1182,6 @@
         "AI in Marketing",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-happyfox-applies-conversational-ai-to-support-requests-made-via-slack.md",
-      "title": "HappyFox applies conversational AI to support requests made via Slack",
-      "excerpt": "HappyFox today announced it is using conversational AI to automatically resolve requests made to help or service desk platforms it supports via a Slack communications channel. Assist AI from HappyFox analyzes each request made via Slack to determine if a way to solve that issue already exists within an IT organization’s knowledge base.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
-      "originalUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/HappyFox-why-assist-ai-image-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/02/happyfox-applies-conversational-ai-to-support-requests-made-via-slack/amp/",
-      "publishedDateTime": "2021-02-02T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

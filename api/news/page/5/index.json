@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-27-how-one-state-managed-to-actually-write-rules-on-facial-recognition.md",
+      "title": "How One State Managed to Actually Write Rules on Facial Recognition",
+      "excerpt": "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html",
+      "publishedDateTime": "2021-02-27T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-the-company-using-robots-and-fan-input-to-pitch-stories-to-hollywood.md",
       "title": "The company using robots and fan input to pitch stories to Hollywood",
       "excerpt": "Wattpad, a social storytelling platform with 90 million users, is becoming a rich source of intellectual property for film and TV producers.",
@@ -1196,60 +1248,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-why-machine-learning-strategies-fail.md",
-      "title": "Why machine learning strategies fail",
-      "excerpt": "Most companies are still trying to figure out how to make AI work. A recent survey looks at some of the barriers to machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "originalUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/cloud-machine-learning-strategy.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/25/why-machine-learning-strategies-fail/amp/",
-      "publishedDateTime": "2021-02-26T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI",
-        "AI in Finance"
       ]
     }
   ],

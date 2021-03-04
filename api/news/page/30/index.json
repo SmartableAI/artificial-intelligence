@@ -2,6 +2,58 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-02-09-chatbot-market-in-2021-stats-trends-and-companies-in-the-growing-ai-chatbot-industry.md",
+      "title": "Chatbot market in 2021: Stats, trends, and companies in the growing AI chatbot industry",
+      "excerpt": "Get a sneak peak into the chatbot and AI chat market that is growing fast! The latest industry research, trends and stats from ou Report.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
+      "originalUrl": "https://www.businessinsider.com/chatbot-market-stats-trends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6011cef11d2df20018b71349?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-researchers-find-that-labels-in-computer-vision-datasets-poorly-capture-racial-diversity.md",
       "title": "Researchers find that labels in computer vision datasets poorly capture racial diversity",
       "excerpt": "In a study, researchers at Northeastern University find evidence that lables in computer vision datasets poorly reflect racial diversity.",
@@ -1139,50 +1191,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-psa-security-network-release-the-schedule-for-the-upcoming-tec-2021-live-and-virtual-events.md",
-      "title": "PSA Security Network release the schedule for the upcoming TEC 2021 live and virtual events",
-      "excerpt": "IR illumination and traditional thermal security cameras, after all, are only able to provide black-and-white images, whereas object recognition software often identifies objects based on their color. White light illuminators installed alongside AI-powered ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/touchless-security-biometrics-post-pandemic-solutions.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/psa-security-network-release-schedule-upcoming-co-3292-ga.1612759875.html",
-      "publishedDateTime": "2021-02-07T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel"
-    excerpt: "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,"
-    publishedDateTime: 2021-03-04T03:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
     excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
     publishedDateTime: 2021-03-01T15:51:00Z

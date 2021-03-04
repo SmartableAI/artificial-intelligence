@@ -56,6 +56,17 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "AI panel urges US to boost tech skills amid China’s rise"
+    excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons – something that Google itself has shied away from on ethical grounds."
+    publishedDateTime: 2021-03-03T14:54:00Z
+    webUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/"
+    ampWebUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
   - title: "Artificial intelligence panel urges US to boost tech skills amid China's rise"
     excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons — something that Google itself has shied away from on ethical grounds."
     publishedDateTime: 2021-03-02T13:03:00Z

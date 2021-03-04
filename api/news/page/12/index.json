@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-22-deep-learning-chipset-market-size-surpass-around-us-352-bn-by-2027.md",
+      "title": "Deep Learning Chipset Market Size Surpass Around US$ 35.2 Bn by 2027",
+      "excerpt": "According to Nova One Advisor Reports, the global Deep Learning Chipset market size was valued at US$ 6.4 Bn in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-surpass-around-us-352-bn-by-2027-2021-02-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-size-surpass-around-us-352-bn-by-2027-2021-02-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-21T17:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-artificial-intelligence-technology-solutions-is-an-overvalued-ai-company.md",
       "title": "Artificial Intelligence Technology Solutions Is An Overvalued AI Company",
       "excerpt": "The company has developed a security robot named ROAMEO and is valued at more than $700 million as of time of writing.",
@@ -1131,58 +1183,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i.md",
-      "title": "Reviewing online fraud using Amazon Fraud Detector and Amazon A2I",
-      "excerpt": "Each year, organizations lose tens of billions of dollars to online fraud globally. Organizations such as ecommerce companies and credit card companies use machine learning (ML) to detect online fraud. Some of the most common types of online fraud include email account compromise (personal or business),",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reviewing-online-fraud-using-amazon-fraud-detector-and-amazon-a2i/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/15/1559Architecture.jpg",
-          "width": 800,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T13:15:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

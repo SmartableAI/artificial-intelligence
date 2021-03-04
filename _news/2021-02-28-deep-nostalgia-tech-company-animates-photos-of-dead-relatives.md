@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Tool “Deep Nostalgia” Lets You Reanimate Your Dead Relatives"
-    excerpt: "The genealogy platform MyHeritage has introduced a new tool called Deep Nostalgia that allows you to animate old photos of dead relatives."
-    publishedDateTime: 2021-02-27T17:47:00Z
-    webUrl: "https://futurism.com/the-byte/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives"
-    ampWebUrl: "https://futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-tool-deep-nostalgia-lets-you-reanimate-your-dead-relatives/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2021/02/deep-nostalgia-1-600x315.png"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos"
     excerpt: "Service from MyHeritage uses deep learning technique to automatically animate faces"
     publishedDateTime: 2021-03-01T19:35:00Z

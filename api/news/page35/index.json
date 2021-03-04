@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-02-04-artificial-intelligence-helping-to-prevent-disinformation-for-investors.md",
+      "title": "Artificial Intelligence Helping to Prevent Disinformation for Investors",
+      "excerpt": "That’s further proof investors have turned to chat rooms for investing ideas. Unfortunately, not all information gathered in such chat rooms is truthful information. However, with a good deal of rampant disinformation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-helping-to-prevent-disinformation-for-investors-2021-02-04-41974517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-ai-and-the-list-of-dirty-naughty-obscene-and-otherwise-bad-words.md",
       "title": "AI and the List of Dirty, Naughty, Obscene, and Otherwise Bad Words",
       "excerpt": "It started as a way to restrict autocompletes on Shutterstock. Now it grooms search suggestions on Slack and influences Google's artificial intelligence research.",
@@ -1136,49 +1188,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-incorporating-intrinsic-suppression-in-deep-neural-networks-captures-dynamics-of-adaptation-in-neurophysiology-and-perception.md",
-      "title": "Incorporating intrinsic suppression in deep neural networks captures dynamics of adaptation in neurophysiology and perception",
-      "excerpt": "When trained to classify natural images, these models describe the stages of ventral visual stream processing of brief stimulus presentations with unprecedented accuracy (28–33), while capturing essential aspects of object recognition behavior and ...",
-      "sourceUrl": null,
-      "webUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
-      "originalUrl": "https://advances.sciencemag.org/content/6/42/eabd4205.full",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://advances.sciencemag.org/content/6/42/eabd4205/F1.large.jpg",
-          "width": 1400,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science",
-        "domain": "sciencemag.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

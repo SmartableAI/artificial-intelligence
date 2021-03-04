@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pharmaceutical Robots Market Size Worth $297.4 Million By 2028: Grand View Research, Inc."
+    excerpt: "The global pharmaceutical robots market size is expected to reach USD 297.4 million by 2028, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 9.3% from 2021 to 2028."
+    publishedDateTime: 2021-03-04T09:16:00Z
+    webUrl: "https://www.lelezard.com/en/news-19681934.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 30
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "4pNaaQKJ/fbKjsU6sclH+TJw1DhHydcz0fxj3qQO5urK6dzLjxRg0LQTNiXJdK4V8TdX1qg2r+IlHlw1oHywyeAVTNeEWqdiMeygC3paPqBIntIdhPF3UmzoUHAR8o2P32jywxTwSyBit1MEBcwXPYe652NOkOHqOJGxmK25NvDlH3Ms+k9mgllhr1m19sgfW80wSWw5b3B7CM08BeKn+wuq8iu6kH7Br2Ba6O3mvcglgm+U0HyOHa+cqFh2INbd5bXa9vnC4k5Cm47ByCu/1M2IROwMW3HEuWIJKBS5X8mo5UyFf6uXjgRk22uOqW34E6xe0XiuJ1zCoca3+EZIEOxKYEfKr7kuG4nVX6PhbqE=;iv8xjxYc0RgP6SwzoCaZhg=="
 ---

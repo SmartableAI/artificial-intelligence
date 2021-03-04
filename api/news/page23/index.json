@@ -2,6 +2,49 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-12-microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter.md",
+      "title": "Microsoft is going to have lots of clouds for industries. Here's why they matter",
+      "excerpt": "Industry clouds like healthcare and retail are there for Microsoft partners to build services on top of. Microsoft already has two vertical ' clouds for industry ' for healthcare and retail; expect more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-going-to-have-lots-of-clouds-for-industries-heres-why-they-matter/",
+      "publishedDateTime": "2021-02-12T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-self-driving-car-market-trend-and-forecast.md",
       "title": "Self-Driving Car Market Trend and Forecast",
       "excerpt": "Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024.",
@@ -1120,49 +1163,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-nhl-reaches-deal-with-aws-to-put-all-video-and-data-on-the-cloud.md",
-      "title": "NHL reaches deal with AWS to put all video and data on the cloud",
-      "excerpt": "The NHL is taking another step forward in data, analytics, and puck and player tracking. The league has reached an agreement with Amazon Web Services to put all its video and data on the cloud. The hope is to provide everyone from coaches,",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021",
-      "originalUrl": "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://b.fssta.com/uploads/2021/02/pi-nhl-blues-justin-faulk-jake-walman-021021.jpg",
-          "width": 2480,
-          "height": 1395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true",
-      "cdnAmpWebUrl": "https://www-foxsports-com.cdn.ampproject.org/c/s/www.foxsports.com/midwest/story/nhl-amazon-web-services-data-video-cloud-021021?amp=true",
-      "publishedDateTime": "2021-02-11T11:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Sports",
-        "domain": "foxsports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

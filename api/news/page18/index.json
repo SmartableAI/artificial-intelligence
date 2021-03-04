@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-17-viewpoint-regulate-facial-recognition-tool-dont-outlaw-it.md",
+      "title": "Viewpoint: Regulate facial recognition tool, don't outlaw it",
+      "excerpt": "Like any innovation, facial recognition has its risks, but it’s many times better than the alternative. Before cameras often captured crimes in progress, the crucial evidence in many cases came not from video images but from eyewitnesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/opinion/article/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "originalUrl": "https://www.timesunion.com/opinion/article/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesunion.com/opinion/amp/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/opinion/amp/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
+      "publishedDateTime": "2021-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-ai-hypervisor-gets-a-gpu-boost.md",
       "title": "AI Hypervisor Gets a GPU Boost",
       "excerpt": "Sunlight, the U.K.-based specialist in virtualizing data-intensive applications, announced Nvidia GPU support for its “lightweight” hypervisor designed to",
@@ -1124,40 +1167,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-gov-desantis-education-commissioner-announce-florida-pathways-to-career-opportunities-grant-awardees.md",
-      "title": "Gov. DeSantis, Education Commissioner announce Florida Pathways to Career Opportunities grant awardees",
-      "excerpt": "The $10 million is awarded to school districts, colleges, state universities, and private training entities to start or expand registered apprenticeship and pre-apprenticeship programs throughout the state.",
-      "sourceUrl": null,
-      "webUrl": "https://www.flgov.com/2021/02/16/governor-ron-desantis-and-education-commissioner-richard-corcoran-announce-florida-pathways-to-career-opportunities-grant-awardees-2/",
-      "originalUrl": "https://www.wtxl.com/news/local-news/gov-desantis-education-commissioner-announce-florida-pathways-to-career-opportunities-grant-awardees",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTXL ABC 27",
-        "domain": "wtxl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

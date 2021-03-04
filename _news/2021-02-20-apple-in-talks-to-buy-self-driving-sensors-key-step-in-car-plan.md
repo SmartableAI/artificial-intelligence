@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan"
-excerpt: "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle."
-publishedDateTime: 2021-02-19T16:17:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
-webUrl: "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
+excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence algorithms ... Alphabet Inc.’s Waymo unit and General Motors ..."
+publishedDateTime: 2021-02-19T19:40:00Z
+originalUrl: "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
+webUrl: "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
 type: article
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg"
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
-secured: "+vnFN8m0nWnrpJncbxZr8MgEdkZrpva7CpxX2VY/hUSihDaPwFCBXCyAJsd53ZCB+xhnpgj1ujf+vBsNcECehLsqAujjIJ0UKNmWGrOFt727Q1+JkG0Ea08i94OeMpqetlp/fxw8FHO72vdS6Ixg0CuqO+Q/ZbeX4YRZCW45k5Flx0wJmAFedhM0EoIYBGGumNQTk8Fe0TbaMWBOBJhjMju4uKx49ckEY1a9ywmksRcoC+LEq8q5Csp3C34a/qblwTQgRHy4jZ62UzykZPmL0V+K+fy3/7dvQOWr4aRHQlloZipzt+SLxu1re4smcOD+ttdQgHZgD3nfT7QFrtPNor2mrLvFMUCncA+wJEPQtd4=;7Y9jq2gu1WHT99kge6NRNA=="
+secured: "W1Dg6DhgV+n2CHYh9KTl9RqZgb0kkG0nvb/OInX9cvXP3GB2qXOLlpg6Gw4xsao3GmCURd8Q/TWSCXnq6XGSP7dKYbBdGwOAnF1+FkALk+dk9Ji6g9agSNfjtQ4RQxROuiiycyQ/fe1nsjuIScy8ioeeounJBCFkmrzNFFWg/soRNN7uUEQnv/qWbRxVHQuG3LAYpvlm/R6uNGgSr3Dkpdh/+IdJbhWWQhIyNlaY+1j4ye90o1qw/tVWf92GIOUL/xt7ZXc2ScJOx5+exhRyRCezmfghVUeeKm5443R1ZctCitkLMYBz8T8Nj8YmCHQxPeCzLbx/hjmg9JG0VtKc78MvdkOJVH1pGPSIYTB3nOo=;1dbNvwy/lzJsHxQt5sRN5w=="
 ---
 

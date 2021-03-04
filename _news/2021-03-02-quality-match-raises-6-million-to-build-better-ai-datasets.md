@@ -47,6 +47,17 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Dooly raises $20 million to organize sales information with AI"
+    excerpt: "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.Read MoreRead"
+    publishedDateTime: 2021-03-04T10:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 84
   - title: "Dooly closes on $20M for AI-based tools to help salespeople with their busywork"
     excerpt: "Robotic process automation has taken the enterprise world by storm, by providing a set of tools for those doing repetitive, volume-based tasks to use software to remove some of that labor to let those people focus on more complicated tasks."
     publishedDateTime: 2021-03-03T11:04:00Z

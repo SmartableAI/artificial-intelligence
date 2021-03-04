@@ -99,9 +99,9 @@ related:
   - title: "Microsoft unveils Azure Percept kit for bringing Azure AI services to edge devices"
     excerpt: "Microsoft is working to make the idea of bringing Azure AI services to edge devices easier via a hardware/services kit it's calling \"Azure Percept.\" On March 2, the opening day of its virtual Spring Ignite 2021 conference,"
     publishedDateTime: 2021-03-02T14:02:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    webUrl: "https://www.zdnet.com/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-unveils-azure-percept-kit-for-bringing-azure-ai-services-to-edge-devices/"
     type: article
     provider:
       name: ZDNet
@@ -311,6 +311,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Microsoft Debuts AI-Based Semantic Search on Azure"
+    excerpt: "Microsoft has been steadily upgrading its enterprise search capabilities, recently targeting previously “unsearchable” unstructured data in the form of"
+    publishedDateTime: 2021-03-03T15:01:00Z
+    webUrl: "https://www.datanami.com/2021/03/03/microsoft-debuts-ai-based-semantic-search-on-azure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 69
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/search_engine.png"
+        width: 702
+        height: 478
+        isCached: true
   - title: "Microsoft Ignite 2021: Azure Percept pushes AI to the edge"
     excerpt: "Microsoft may have given up on smart speakers for the consumer, but the company hasn’t given up on letting others build intelligent devices based on its own technologies and hardware. On Tuesday Microsoft launched Azure Percept,"
     publishedDateTime: 2021-03-02T17:14:00Z
@@ -509,6 +523,6 @@ related:
         height: 800
         isCached: true
 
-secured: "kBqGvi0NX0/V+qQUiwy5QuFw4dV7JuejvtaSVZbXYelsejHXAV8Z56+wow/JvPJucquXs7HSi2mKMhcRxqjLs4gxG6pmxjd7cjF/7pYPrioDu21mA4tBFvBX4lOSUaposniq/KlImIkvjj0ZRtLa68N3xlNH3ydF0BcsybZxILRaidkEBoWypmF76oGPxMKLKmhIft0v1nhYp1iyJ9AU3VSoegCS534he1vU2zj2GD/bCB/ymqKxAOwsLKQ0qisFgACtaZk6vYS7O5b1dsROUfL7V/P/8QF5l4idIeutrYlFZcoxAZ2mo6+2iCH2KIBBV2s2D3rTOpM08iD5hA4D0/9ZrDWRGzw48juhd0hikOY=;qmXf/D2HEr579AuBzrNQGg=="
+secured: "NMJf/II05aKaEfbLSr9RuqRY1Ur13XdTPSkNo+CcoBdqD9faTsudnSlvC0+zclNjz00if1HltNsqm7jDyl1e+XkpMfJIGXxmiM7FXYroWlFYzQScXekH8usQQoWcCh2g1ZrrznblwL5E0sxy+kEHBsY45vtVNtaWu6Du6PZ4k3pNFqAIl+AkxYoiCZDF5UT3z0j0Q2V7aGtdtmBuhGIGj5EyZrFNaFypssx+gxBvWUDXQHqyKoTT6DVLFNgxAKzWxeaS6i3dKD7zNDzSVXasjZlUfJGsdxnxhOPcSf83IMVTsZ3Qevfw0stqZJ6G8AUQ2FrVumVUBVntgOkt4S1MuqECTj5haaiHV2KjWjYv9ac=;WlmIYdzuSiKWntg6pmeknw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-17-recogni-raises-489-million-for-ai-powered-perception-chips.md",
+      "title": "Recogni raises $48.9 million for AI-powered perception chips",
+      "excerpt": "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/",
+      "originalUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/e728073b-d9dd-4a6a-b6e8-6ff14821da0a-e1613450016151.png?w=1200&strip=all",
+          "width": 900,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/",
+      "publishedDateTime": "2021-02-17T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio.md",
       "title": "Lumiata Extends Data Preparation for Healthcare Customers on AWS and Azure in Partnership with Ascend.io",
       "excerpt": "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation process. This relationship will ensure that all Lumiata customers,",
@@ -1135,49 +1187,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-viewpoint-regulate-facial-recognition-tool-dont-outlaw-it.md",
-      "title": "Viewpoint: Regulate facial recognition tool, don't outlaw it",
-      "excerpt": "Like any innovation, facial recognition has its risks, but it’s many times better than the alternative. Before cameras often captured crimes in progress, the crucial evidence in many cases came not from video images but from eyewitnesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesunion.com/opinion/article/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
-      "originalUrl": "https://www.timesunion.com/opinion/article/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesunion.com/opinion/amp/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
-      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/opinion/amp/Viewpoint-Regulate-facial-recognition-tool-15955270.php",
-      "publishedDateTime": "2021-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Union",
-        "domain": "timesunion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
