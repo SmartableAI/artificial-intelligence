@@ -7,8 +7,8 @@ originalUrl: "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-
 webUrl: "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/"
 type: article
 quality: 84
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmochina
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops"
+    excerpt: "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software"
+    publishedDateTime: 2021-03-04T01:47:00Z
+    webUrl: "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/"
+    ampWebUrl: "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 104
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/03/mediatek-tv.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more"
     excerpt: "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more"
     publishedDateTime: 2021-03-03T10:34:00Z

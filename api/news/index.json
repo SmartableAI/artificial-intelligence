@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-04-mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops.md",
+      "title": "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops",
+      "excerpt": "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
+      "originalUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/mediatek-tv.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
+      "publishedDateTime": "2021-03-03T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-deno-18-preps-for-gpu-accelerated-machine-learning.md",
       "title": "Deno 1.8 preps for GPU-accelerated machine learning",
       "excerpt": "WebGPU API for GPU rendering and computation is supported in the latest upgrade to the JavaScript/TypeScript runtime.",
@@ -601,58 +653,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-mediatek-announces-mt9638-ai-chipset-for-next-generation-4k-smart-tvs.md",
-      "title": "MediaTek announces MT9638 AI chipset for next-generation 4K Smart TVs",
-      "excerpt": "MediaTek, the Taiwan-based chipset maker, has been a market leader when it comes to chips powering the Smart TVs. The company has a wide range of offerings for TV chips — from entry-level to flagship-grade smart TVs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/",
-      "originalUrl": "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/10/MediaTek-Smart-TV-SoC-Chipset-Featured.jpg",
-          "width": 1118,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-apply-ai-to-your-most-critical-business-needs-with-new-azure-ai-capabilities.md",
       "title": "Apply AI to your most critical business needs with new Azure AI capabilities",
       "excerpt": "Tens of thousands of customers, such as Pepsi, Amway, Airbus, BBC, and Progressive Insurance are using Azure AI to deliver immersive customer experiences, identify new business opportunities, and drive impact.",
@@ -900,50 +900,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-machine-learning-reveals-traits-of-high-mental-health-utilizers.md",
-      "title": "Machine Learning Reveals Traits of High Mental Health Utilizers",
-      "excerpt": "Machine learning tools analyzed EHR data and identified characteristics of high utilizers for mental health services.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/machine-learning-reveals-traits-of-high-mental-health-utilizers",
-      "originalUrl": "https://healthitanalytics.com/news/machine-learning-reveals-traits-of-high-mental-health-utilizers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/article_headers/_normal/2019-11-04-GettyImages-1003444920.png",
-          "width": 690,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T21:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1233,6 +1189,57 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-an-ai-was-taught-to-play-the-worlds-hardest-video-game-and-still-couldnt-set-a-new-record.md",
+      "title": "An AI Was Taught to Play the World's Hardest Video Game and Still Couldn't Set a New Record",
+      "excerpt": "What’s the hardest video game you’ve ever played? If it wasn’t QWOP then let me tell you right know that you don’t know how truly difficult a game can be. The deceptively simple running game is so challenging to master that even an AI trained using machine learning still only mustered a top 10 score instead of shattering the record.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137",
+      "originalUrl": "https://gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nb864sizqsp27pyivtp4.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/an-ai-was-taught-to-play-the-worlds-hardest-video-game-1846388137/amp",
+      "publishedDateTime": "2021-03-02T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

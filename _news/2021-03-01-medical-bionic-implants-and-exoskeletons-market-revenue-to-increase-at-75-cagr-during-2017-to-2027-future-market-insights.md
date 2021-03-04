@@ -53,22 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%"
-    excerpt: "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno"
-    publishedDateTime: 2021-03-03T23:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998482/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-at-a-cagr-of-44-9"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19998482"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19998482"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 63
-    images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market9.jpg"
-        width: 630
-        height: 344
-        isCached: true
   - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
     excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
     publishedDateTime: 2021-03-01T15:51:00Z
@@ -82,6 +66,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%"
+    excerpt: "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno"
+    publishedDateTime: 2021-03-04T02:52:00Z
+    webUrl: "https://www.wboc.com/story/43442289/artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-at-a-cagr-of-449"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 43
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
         isCached: true
 
 secured: "kS3dnnCq9eh7o9HDAyJqYTLiESSznK0eq3CiP/lLFz2OYLGyzNqvPtOXh+MrYvDFH5N5aoZwQtn41tzabh3s6VaG5x1rORORFxQop/NugUWcNTffhNLX6eFhEgerEAoaiP5dfQasj7DwDzVyu5TnxaBH3PkHZ22e+7qSazZltlMJ95dztNZpGa/nkYFb4w32x4oe30GlAP9yIsK0x5JlJFttbdIVb4tR6V9OBlAcZy2Wan9It98etNJUpYJyPB7sFtcIH8buJilM2FU8FHzhDq9hf3E7R7//B7TKSuTqAt3is1W3rYC650k6Z5V3Kj/EK0iD7OjCH/J5AGWvzOVhPx2nPF3VeT99GeGZdtz2w/Y=;9aNEPFO3JekgIrdt3ESr7g=="

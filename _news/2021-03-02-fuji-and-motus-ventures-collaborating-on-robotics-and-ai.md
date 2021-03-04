@@ -1,22 +1,28 @@
 ---
 category: news
 title: "FUJI and Motus Ventures Collaborating on Robotics and AI"
-excerpt: "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corpor"
-publishedDateTime: 2021-03-02T05:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210301005906/en/FUJI-and-Motus-Ventures-Collaborating-on-Robotics-and-AI"
-webUrl: "https://www.businesswire.com/news/home/20210301005906/en/FUJI-and-Motus-Ventures-Collaborating-on-Robotics-and-AI"
+excerpt: "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,"
+publishedDateTime: 2021-03-02T05:28:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Fuji Invests in Motus Ventures’ Fund Focused on Robotics and AI"
@@ -34,6 +40,6 @@ related:
         height: 832
         isCached: true
 
-secured: "gkqarTqFXM/eZgvfxMFP+BjquG8uodWLtctNXU4eNuAhfmdaVV1xySXgnBB1tUYEUWkRhNtU98nGWROfrGYDl+e1VNgy9D0NLPm34xCH2Ao5tn4GbadCc+WFtpo4AaTuOkEySUIfCRJ/SvbxB9LipZndwbo4HAwc0ZZFntVcynLL553WilhRbtphiV189yDM5ysC8VJ081vZR6nGTy63BwwYlZuKjs8uwP1BX9MFkwp2C9GqtZR66vfuohkxzOf7HFL97ilnB4FzegA2KCIy0HzGM0BddVLy2/3Os1hpBuhtdmMwZ9SjVNyF1oC4OvB+hPWhKUyyp+tIdgYdPqhY3ogc57O+irzY7plMW09kx/M=;qxO9/Vj+ZlmS+dLPysRE8Q=="
+secured: "MOpVdF7u5gtDN58rHDC3DsgrgRxJh9U+SuDYPatNdTfi0Kcs0GS3yZwXtLUHAjSdNgsNp+n2UVtSELsHt17xnxqdn7tVv6OsQ7oong09/OtVCYCYTxOeEQ0nCj+/nc7uwlJ0HxB8zEPrQpw+5J5Mxd/T+TlErhIn31cRBcDU28uOt08vtq6poajkg3M0VcXSOiRj5q7t5rjHoXuJP49h3oVSDFBiB+vRVVE/jP6u23sUzEwscaVAhWABAgqXVfB57HA/1P0aK9AbFrYMHPNGyrAobUhfw4DekvN9X24E+p5kbah+1BsL39xEJx6WK7tCI+u3OGUwYI0cLUkT0Pzv+Ru375W8bFhV4Ud9yhQJEkg=;Zmzu9xSSNpQy6FpS2tWHVw=="
 ---
 

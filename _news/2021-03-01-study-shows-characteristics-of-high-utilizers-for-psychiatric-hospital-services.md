@@ -41,20 +41,6 @@ related:
         width: 690
         height: 400
         isCached: true
-  - title: "Highest utilizers for mental health hospital services"
-    excerpt: "Dropping out of high school having schizophrenia or being diagnosed with a co-occurring personality disorder increases the likelihood of someone becoming a h"
-    publishedDateTime: 2021-02-27T12:11:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267954833/highest-utilizers-for-mental-health-hospital-services"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1614427149.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "IbS5QslUJGh8+GUi6zE3w/xHhIAyjWZFQGJQbMiEpyVkLjIqY6y14hf1SeSYPzGk3D9T6TLtrd38W4Dngx5BbepWaDedVhTKsHzjxGo9JzzB54JsThCTfa3939a4TLh7Dp0OUgGUhEuFLO7++C52Bo1qwd6YM96i+MhmrFGMz4viZWw685TBaS0Uj0a1cFHOOk1kvpVHoGMiFpsw0aG8hy2D2jKvpRcjk1SJ4ScnIDtZHeQ9lUEFjNnOhfy43oVMxZctPOusZsFNBjj1WZ06F/lDX8nCyb6tpzhyDgAW70fGJAdJTiYgqDgmvl9hsYSot/o6dnYPs6SQqaaBkP5GwOjdBBz9MkJ08JYkBtDZxwSroFrVelLpXOVY94lmlU+sqTnJTQYWUxwumfRb5iuqUed8dVZembJecgYXlUbbFybpwdSakEFDsQ+lhDUtvS+rIMEYL82/x550OivwRM4k0qVoM2nvGfs60f6PInBOlm+ozhRpVsVXSTaYbLm3oLxOvh/LljMkSKNDUuQRUqV8+w==;ITRl/mTeSueRJb7KWlpbjA=="
 ---

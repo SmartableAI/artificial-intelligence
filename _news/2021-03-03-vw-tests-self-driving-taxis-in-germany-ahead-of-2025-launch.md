@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Porsche, Audi and Volkswagen use Artificial Intelligence to minimise sustainability risks"
+    excerpt: "Intelligent sustainability radar for the supply chain: the Porsche, Audi and Volkswagen brands are using Artificial Intelligence (AI) to identify sustainability risks such as environmental pollution,"
+    publishedDateTime: 2021-03-03T19:29:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/porsche-audi-and-volkswagen-use-artificial-intelligence-to-minimise-sustainability-risks/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 23
 
 secured: "PtFBb1O4dWz50L1LbP4e6QJ9xdzDLVSC0y9aY/7YhFGRuXrVmU/4/6QETYGTWlwLAkLxs/xAGsEiTGoVg2Fk9Sj6Ar8Ryz0+T74l7BH/n4Bt/LD3tCriq2wAtAyEZLtSdc0werU1lT/5kD6mlIsKouxZBYLdaiehxE1B/omXKcX2SLNfiQG7mdbT4Hn//Zl/fRGeDHvavfst4vOQ2ibYf+glnjarr8NxBOJ6U+aiNs40xqy9s5gFAlKM9TJrvHg+ZKg2sG1ePob8rXgnWidFXD7LTIgzqJcJ+aF9I0QOzsPexlN/PXsu6gNBORJ2CC1LO7K3WeA531MC2bnEibHIXiUk4pzhvzlqoDQcMrx6XPFzgaFh7x8AxL4+DtvdCYHAYG216OXMLvKiXB1P1K7x0Z/T00F2JDZAkftrL9FKqPf6XzUiVALDQA9WTt+dIxnhrZZM4m8eqgXmVa3qvlhgUxH63rJbl212PuyHoO8Z7tLF4nZC7FoLndlB5RZWza2rjdmpgsQPn4H5tN6MpqtDHQ==;bwKYhjviABFw2uQBnSmjog=="
 ---

@@ -2,48 +2,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2021-02-17-the-most-anticipated-books-of-spring-2021.md",
-      "title": "The Most Anticipated Books of Spring 2021",
-      "excerpt": "Drawn from the 14,000+ titles in PW's Spring Announcements issue, we asked our reviews editors to pick the most notable books publishing in Spring 2021. Links to reviews are included when available. The Committed by Viet Thanh Nguyen (Grove,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/",
-      "originalUrl": "https://www.publishersweekly.com/pw/by-topic/industry-news/tip-sheet/article/85492-the-most-anticipated-books-of-spring-2021.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5a0a046174c62b689459d7c4/master/pass/LEAD%20Anthony%20Levandoski_Michelle%20Le03.JPG",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/anthony-levandowski-artificial-intelligence-religion/amp",
-      "publishedDateTime": "2021-02-17T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Publishers Weekly",
-        "domain": "publishersweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-ai-startup-founders-reveal-the-artificial-intelligence-trends-for-2021.md",
       "title": "AI startup founders reveal the artificial intelligence trends for 2021",
       "excerpt": "From AI's increased use across industry to the challenge of data, 16 AI startup founders reveal the artificial intelligence trends for 2021",
@@ -1157,6 +1115,57 @@
         "name": "InvestorPlace",
         "domain": "investorplace.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-automating-boring-tasks-made-these-three-startup-founders-rich.md",
+      "title": "Automating Boring Tasks Made These Three Startup Founders Rich",
+      "excerpt": "They do business in areas that could be described as mundane, and they’ve pushed their founders in the league of the ultra-wealthy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-16/the-work-from-home-tech-scene-that-made-these-founders-rich",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-16/the-work-from-home-tech-scene-that-made-these-founders-rich",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5YqHx2u5e3Y/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2021-02-16/the-work-from-home-tech-scene-that-made-these-founders-rich",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-02-16/the-work-from-home-tech-scene-that-made-these-founders-rich",
+      "publishedDateTime": "2021-02-16T13:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

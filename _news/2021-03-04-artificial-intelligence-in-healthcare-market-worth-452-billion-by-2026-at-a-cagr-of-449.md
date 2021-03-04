@@ -2,28 +2,26 @@
 category: news
 title: "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%"
 excerpt: "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno"
-publishedDateTime: 2021-03-03T23:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998482/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-at-a-cagr-of-44-9"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998482/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-at-a-cagr-of-44-9"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19998482"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19998482"
+publishedDateTime: 2021-03-04T02:52:00Z
+originalUrl: "https://www.wboc.com/story/43442289/artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-at-a-cagr-of-449"
+webUrl: "https://www.wboc.com/story/43442289/artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-at-a-cagr-of-449"
 type: article
-quality: 63
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WBOC
+  domain: wboc.com
 
 topics:
   - AI
   - AI in Healthcare
 
 images:
-  - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market9.jpg"
-    width: 630
-    height: 344
+  - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -84,6 +82,6 @@ related:
         height: 448
         isCached: true
 
-secured: "W+lHTQEUwYj/JxyD7TLIZG3zR+DlNYCIm6nXCFkxvTa6r4qCaJeVGRe81ckFSFLq+8dbO27EaGW6sXaTvYZH//IwDYL95U68WAikoXGqjeZMYHwayXmBXiP2MUtCWO7XDKlqYF1wdFS5Yi3hCNMHsmijlmFxAA0jFi0VdkPwesC547oWcg+01oycNw5jepsnBvlROChtEoJq8itnsmIQc/xp53kHXAR+E/LuGfaNHDcmCxOFa1ldFy+q+wPNDX2O1S2aU/480mESW72K4+gU3Bx9Z3wkMmBXSy0/IAdjSL7Q52J7Sl7+v1WmCdtWDLoR3iD6kCCBLpIlWav8M5NIE6DG7Wbi7BMKL3R64NXfwI4=;FA2euh3QHhQolkGvVhgfPQ=="
+secured: "jSxITFv+he5ANMWzqBG9kXMezWnnCWTr1GgL/KizMhMy+kRar7a+61zqhYQX6G0SGgmEdFbY7ThqKxHMXjYdtnhAz+9wwqWmk3dhUaF4lXupeZrhiOxtRU7O6HBQMLNO/S6J7DSpqDxIdBy/Yjt39QxUTL9YOaPbmtxWrJ71Kpv8vyAE5wsURnC3lDU5/NaHYwq87VYMH07mfybPVHFX1sib5S9mkcwJ2URgQzUjtLP+ixbs2vsPLvUZILz3/cqv5L3Z03A+I1XH2RyUtxb943P7xR9VXtcPVea7nvuYwK6tax5w/NDm3W4UcntNmaLKbKWSgeJzw90bY9XwXvObiaXO1vRAiAL708R+JduTwrI=;vLJkeZqSXb+BcNXTgdP5jg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/01/volkswagen-and-argo-ai-will-launch-self-driving-el/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -59,6 +59,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Porsche, Audi and Volkswagen use Artificial Intelligence to minimise sustainability risks"
+    excerpt: "Intelligent sustainability radar for the supply chain: the Porsche, Audi and Volkswagen brands are using Artificial Intelligence (AI) to identify sustainability risks such as environmental pollution,"
+    publishedDateTime: 2021-03-03T19:29:00Z
+    webUrl: "https://www.automotiveworld.com/news-releases/porsche-audi-and-volkswagen-use-artificial-intelligence-to-minimise-sustainability-risks/"
+    type: article
+    provider:
+      name: Automotive World
+      domain: automotiveworld.com
+    quality: 23
 
 secured: "RYKOovij4/HR6EbYF5FVDamm1GGcvayjMPjYGT9a+2isMZYtz2qMU7i4zF5d8xt/D2aFygWY0IskbPiGQpf/TV46BGwLTXbe3d92Vz7aF+k+E68JrSn7nQuV0Uwn/1TEEYP1f5yzfJG0zJCWRRGMbjR7z5HmoNFA/+3fY8fSOM+Uy5PIVabyojuQjXCikUkWXE4VdRryJe4kIsJ7IYvaa9N7IzoP8EH9NDp/TGULyHVKNRO1ZX62KqEyZcxNF1ZXITcUGRDv86ToKZdMmCsw3oCA4PJRrBB9GWrKT2LqlDVEN7gy/kemQoeAb3uHZTire5LAhucQjt+d9IJVcafEjDhygxSRt+OagLgbfpgvqIyH26yeWXtLit4pqtbnhqe0hdsRRririiV5cfsmlpJdgn9+RPgUfI4Tkc1Q8xv9+qUcVEO5H5PNzujbPy0sY1lH1Jb1QZFNihmGX5uBfgnF5h+GBwrQ+w66kUKWEXcJGrxngK08z2+Occ7KUuwlISI3jjjnMiWtVM5caBVY95UKBA==;4HBVNFPnbQLmSspaGNRECw=="
 ---

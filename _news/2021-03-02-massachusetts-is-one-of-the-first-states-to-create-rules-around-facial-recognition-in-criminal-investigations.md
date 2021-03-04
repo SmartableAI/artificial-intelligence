@@ -107,20 +107,6 @@ related:
         width: 685
         height: 481
         isCached: true
-  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
-    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
-    publishedDateTime: 2021-03-02T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "PtSmbbrOpfEPireh8lQckjiDQq3SSZOewcGy2aMwD30og5riYsCGGZK1BYrq2onilfnpBkFX/GUFvZAkUmzJi7JXHAS4QNb2wiD3+7PINRxQHMGa3Le62GncKBtbMF5o94GiqummssFRutP0Zufpaxy1XEnoJwsnwkdOyHC67WGcRCpbRrG+A4ANIb7AXrAPWgNEGuYoeYnPv254jpH5dtaN5G1m7DPJtHd3kmE50fT4QaYZsEMwgNZeCZ7iiiT94tNozCIytot63xWN2mi52ZqnpgJnCsNIgDnoDFlAKPUJclwQYjYLOqp6iKN0Y84gOgGmigFqfDgsQXAYBp9kFHenNmElRb7Bv0FVJa0ntsB8Xl4xL2v6mxgDIPuRqTEHTB6i661bgPzBDkrxhCoO05gKK66s0NNeUE7F3zwyQGaY5/YH3EkYGWxHVQxisS9k8+1yzCPzOjPx6kzI3fR9zCX5Wgzl3oPccOHPu3DD+4nn2XhFwAfmdE2ZS8d+NacvB6pVc7xUYAY8rZ5Xp7RDAA==;bTeSuOyIowVsAIdPyop+DA=="
 ---
