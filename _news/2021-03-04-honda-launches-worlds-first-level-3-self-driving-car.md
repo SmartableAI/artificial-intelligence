@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Honda is offering cars with Level 3 self-driving capability in Japan"
+    excerpt: "Just 100 Legend Hybrid EX sedans will be fitted with the automaker's new Honda Sensing Elite suite of driver aids."
+    publishedDateTime: 2021-03-04T17:36:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/honda-level-3-self-driving/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-level-3-self-driving/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/D0btXYulbnYdqIouS_lMYmjLPQs=/2021/03/04/655c7e08-f365-4bb4-ba45-d33186fab4f7/honda-sensing-elite-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Honda’s part self-driving Legend a big step for autonomous tech"
     excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
     publishedDateTime: 2021-03-04T12:18:00Z

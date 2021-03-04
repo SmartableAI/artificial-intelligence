@@ -9,7 +9,7 @@ ampWebUrl: "https://www.metro.us/hondas-part-self-driving-legend/amp/"
 cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/hondas-part-self-driving-legend/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Honda is offering cars with Level 3 self-driving capability in Japan"
+    excerpt: "Just 100 Legend Hybrid EX sedans will be fitted with the automaker's new Honda Sensing Elite suite of driver aids."
+    publishedDateTime: 2021-03-04T17:36:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/honda-level-3-self-driving/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-level-3-self-driving/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/D0btXYulbnYdqIouS_lMYmjLPQs=/2021/03/04/655c7e08-f365-4bb4-ba45-d33186fab4f7/honda-sensing-elite-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Honda Launches Safer Self-Driving Cars, But They Will Be Hard To Come By: Here’s Why"
     excerpt: "Honda Motor Co. rolled out a safer version of its self-driving vehicles that it will begin leasing on Friday, March 5, but the limited edition car will not be offered to the masse"
     publishedDateTime: 2021-03-04T14:31:00Z

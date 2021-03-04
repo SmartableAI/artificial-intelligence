@@ -60,17 +60,22 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "'Deep Nostalgia': Tech company animates photos of dead relatives"
-    excerpt: "Genealogy company MyHeritage introduced its “Deep Nostalgia” tool Thursday. Similar to so-called “deep fakes,” the feature allows users to turn still photos of their dead relatives into briefly animated videos,"
-    publishedDateTime: 2021-02-28T02:10:00Z
-    webUrl: "https://www.washingtonexaminer.com/news/deep-nostalgia-technology-animate-dead-relatives"
-    ampWebUrl: "https://www.washingtonexaminer.com/news/deep-nostalgia-technology-animate-dead-relatives?_amp=true"
-    cdnAmpWebUrl: "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/news/deep-nostalgia-technology-animate-dead-relatives?_amp=true"
+  - title: "'Deep Nostalgia' Tool from MyHeritage Brings Motion to Old Family Photos: 'A Wow Moment'"
+    excerpt: "Gilad Japhet, the founder and CEO of MyHeritage, said the new feature \"provides a profound new way of connecting to our family history\""
+    publishedDateTime: 2021-03-04T17:34:00Z
+    webUrl: "https://people.com/human-interest/deep-nostalgia-tool-from-myheritage-brings-motion-to-old-family-photos/"
+    ampWebUrl: "https://people.com/human-interest/deep-nostalgia-tool-from-myheritage-brings-motion-to-old-family-photos/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/human-interest/deep-nostalgia-tool-from-myheritage-brings-motion-to-old-family-photos/?amp=true"
     type: article
     provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 24
+      name: People
+      domain: people.com
+    quality: 35
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F03%2F02%2Famelia-earhart.jpg"
+        width: 1500
+        height: 750
+        isCached: true
   - title: "‘Deep Nostalgia’ Brings People in Old Photos Back to Life with Movement"
     excerpt: "Deep Nostalgia is a new AI that can breathe new life into historical photos by animating people who have long passed. The results are both creepy and"
     publishedDateTime: 2021-03-01T17:11:00Z

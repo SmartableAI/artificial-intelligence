@@ -5,6 +5,8 @@ excerpt: "AI may be capable of assuming many tasks, but it will be some time, if
 publishedDateTime: 2021-02-13T11:10:00Z
 originalUrl: "https://www.forbes.com/sites/joemckendrick/2021/02/13/needed-people-to-put-the-intelligence-in-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/joemckendrick/2021/02/13/needed-people-to-put-the-intelligence-in-artificial-intelligence/"
+ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2021/02/13/needed-people-to-put-the-intelligence-in-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/02/13/needed-people-to-put-the-intelligence-in-artificial-intelligence/amp/"
 type: article
 quality: 69
 heat: 69
@@ -21,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602753a61617f212088bab41%2F0x0.jpg"

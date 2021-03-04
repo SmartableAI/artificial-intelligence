@@ -2,6 +2,147 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-18-why-voice-will-lead-biometrics-in-hearables.md",
+      "title": "Why Voice Will Lead Biometrics In Hearables",
+      "excerpt": "In the rapidly growing Hearables market, however, the powerful integration of biometric sensors, and the multiple biomarkers that can be tracked via the ear for health and wellness, are taking a back seat to other market-driving feature sets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/",
+      "originalUrl": "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602e18bb17e2d67a6c7a7a37%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frankfitzpatrick/2021/02/18/why-voice-will-lead-biometrics-in-hearables/amp/",
+      "publishedDateTime": "2021-02-18T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-daimlers-self-driving-truck-company-torc-robotics-picks-aws-as-preferred-cloud-provider.md",
+      "title": "Daimler's self-driving truck company Torc Robotics picks AWS as preferred cloud provider",
+      "excerpt": "Torc Robotics, the self-driving truck startup majority-owned by automotive giant Daimler, plans to use Amazon Web Services as its preferred cloud provider. The company, which operates as a semi-independent subsidiary,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/",
+      "originalUrl": "https://www.datacenterdynamics.com/en/news/daimlers-self-driving-truck-company-torc-robotics-picks-aws-preferred-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/Torc_Robotics.2e16d0ba.fill-1200x630.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T03:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-smart-machines-ai-technologys-impact-on-floridas-business-sectors.md",
+      "title": "Smart Machines: AI technology’s impact on Florida’s business sectors",
+      "excerpt": "AI can’t replace humans, but the technology is making inroads in more and more business sectors. In an oft-quoted interview with Life magazine in 1970, Marvin Minsky, an MIT researcher and pioneer in artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/",
+      "originalUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tampabay.com/resizer/utyknz4ZES4gecWGUel9wrw-fh8=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/JQLH2WUYRJHPRI63JKOFIHE5DA.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/business/2021/02/18/smart-machines-ai-technologys-impact-on-floridas-business-sectors/?outputType=amp",
+      "publishedDateTime": "2021-02-18T03:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tampa Bay Times",
+        "domain": "tampabay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-top-five-latest-industrial-robotics-trends-explained.md",
       "title": "Top five latest industrial robotics trends explained",
       "excerpt": "Annual installations of industrial robots have more than tripled in 10 years, reaching 381 thousand units in factories around the world.",
@@ -1033,135 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-when-should-you-use-ai-to-solve-problems.md",
-      "title": "When Should You Use AI to Solve Problems?",
-      "excerpt": "Several years ago, my startup had produced two promising products: a sales AI and a fintech AI solution for operations. We used AI to run forecasting scenarios based on the assessments of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems",
-      "originalUrl": "https://hbr.org/2021/02/when-should-you-use-ai-to-solve-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/02/Feb21_17_1255056887-3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/02/when-should-you-use-ai-to-solve-problems",
-      "publishedDateTime": "2021-02-17T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-natural-language-processing-market-worth-351-billion-by-2026-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing Market worth $35.1 billion by 2026 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "CHICAGO, Feb. 17, 2021 /PRNewswire/ -- According to the new market research report \"Natural Language Processing Market by Component, Type (Statistical, Hybrid), Application (Automatic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/natural-language-processing-market-worth-35-1-billion-by-2026--exclusive-report-by-marketsandmarkets-301229704.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/natural-language-processing-market-worth-35-1-billion-by-2026--exclusive-report-by-marketsandmarkets-301229704.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-samsung-creates-ram-with-integrated-ai-processing-hardware.md",
-      "title": "Samsung creates RAM with integrated AI processing hardware",
-      "excerpt": "Using its HBM2 RAM chips as a basis, Samsung added simple processing units that can speed up machine learning and inference workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php",
-      "originalUrl": "https://www.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-news-47794.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fdn.gsmarena.com/imgroot/news/21/02/samsung-memory-with-builtin-ai/-1220x526/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php",
-      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/samsung_creates_ram_with_integrated_ai_processing_hardware-amp-47794.php",
-      "publishedDateTime": "2021-02-17T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GSM Arena",
-        "domain": "gsmarena.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

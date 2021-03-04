@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-singapore-academy-of-law-considers-the-impact-of-robotics-and-artificial-intelligence-on-the-law.md",
+      "title": "Singapore Academy of Law Considers the Impact of Robotics and Artificial Intelligence on the Law",
+      "excerpt": "The Law Reform Committee (LRC) of the Singapore Academy of Law (SAL) established a Subcommittee on Robotics and Artificial Intelligence to consider and make recommendations regarding the application o",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law",
+      "originalUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp",
+      "publishedDateTime": "2021-03-04T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-an-era-of-coding-robotics-and-ai-for-education.md",
       "title": "An era of coding, robotics and A.I. for education",
       "excerpt": "Coding, robotics and Artificial Intelligence (A.I.) are important skills of the 21st century to succeed professionally.",
@@ -1369,58 +1412,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-a-trusty-robot-to-carry-farms-into-the-future.md",
-      "title": "A trusty robot to carry farms into the future",
-      "excerpt": "To feed 10 billion by 2050, the world’s farmers will need to increase food production by up to 70%. Bring in the robots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
-      "originalUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/af8a66be-a00d-4526-b1cd-b401c71fdada/future-acres.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
-      "publishedDateTime": "2021-02-23T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
