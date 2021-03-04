@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/"
 ampWebUrl: "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp"
 type: article
-quality: 87
-heat: 117
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media.wired.com/photos/603d9d652d6b6299017ee0dd/master/pass/business_ai_1288382287.jpg"
@@ -72,6 +73,6 @@ related:
         height: 713
         isCached: true
 
-secured: "G+w+o4g5fj59hEQQpzeUlUJeCGTrAbzPvvNfk8O4uxn1nTTX5LZBFKQRlnMIrYlxUKp/+eBfYIcIlr100LInEYdyJAF2e3ZV3cusVan5UieyMKeAlH4701VLduklxnDj9BiGiwvkI0JPOsianHdfV58WVd68qUIwnHXoXuxE6ge5rjITN/lwEjuAKwWUi5c4nqr7iKhEmBDd7CbGQNQSSTpFkBv8OJp+ZIV0Vz9PrdUi59rLFOjyh9jWhVejZpIUgx18csMQFob/+AgtleSa7VETAW6G2LMCBVlvoAbZrny8A6webN1UGZKJ36Xzb3+vJ7O/ZMmzx+wJFL4jj/LyF+GWzXx9DR3VIIedy5oPj84=;kiH8+gpAw17VZgudmfEGTA=="
+secured: "Xgjm9/cgcuQekm9YlGFXID98017Uut2VwYH9O1kOZ98JtU//u4WoJ7LAekjHyj0yB0Hs8T4Es4A/1MF/lzSQNriaqSXZ2sNfCl+JAvHolrkP7Nh6tG8917ckQUGLiB/O0GQfeZWgx6P0ZEItHoaoM2wD9uqgwdGkYlP+tgg6e7KYmOxteAiOzjD2kN9tJBxUm2iUTq89Fs/46N2l6qb+0qFOAjsZP7wbz2k9Lj7KYyT7/3kZENO78aOaceriwT49F5gCf/8Dr7Yslx0ZJXgX2RN33n7ZkjFbUg0WmXuswlKO/NeF2uJKd4R6WYcFb7b11AZEaamNV5TC42WaQgcZDXhJl28m1L83EzeII55elHWcEUgFVLNyh2xL2ccKS6pnbwPzJ9EKqdw87kQH/ZTRaaZR4Izo4G3rdKfPFao2wHpHZr4/YL/lNGaL+zvMxTKVpLNOiQB6yf7apqTMXO4x+dV4HDLpgQ8sIKgW9YoeFgdQrA5aRvFv4PTdxY+QnE8bc1VYTmiG+21GDrrnhQQU1w==;M1RKUrLrX9u8nnau/6isvg=="
 ---
 

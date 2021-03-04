@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-acce
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.amp.html"
 type: article
 quality: 108
-heat: 108
+heat: 110
 published: true
 
 provider:

@@ -2,6 +2,83 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2021-01-27-pluralsight-inc-class-a-common-stock-ps.md",
+      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
+      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-01-27-the-neurochemistry-of-flow-states-with-steven-kotler.md",
+      "title": "The Neurochemistry of Flow States, with Steven Kotler",
+      "excerpt": "Steven Kotler is an award-winning journalist, a New York Times bestselling author, and executive director of Flow Research Collective. His books include the non-fiction works The Rise of Superman ...",
+      "sourceUrl": null,
+      "webUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
+      "originalUrl": "https://bigthink.com/videos/the-neurochemistry-of-flow-states-with-steven-kotler",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.rebelmouse.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHBpcmVzX2F0IjoxNjEzMzEwNjM4LCJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJlYmVsbW91c2UuaW8vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBiV0ZuWlNJNkltaDBkSEJ6T2k4dllYTnpaWFJ6TG5KaWJDNXRjeTh5TlRZeU1UWTRNQzl2Y21sbmFXNHVhbkJuSWl3aVpYaHdhWEpsYzE5aGRDSTZNVFkyTlRZMU9EWTBPSDAuTDBIaG5MRUt0c0dkcjNuYXZ1bTFYQ1JHYjFudkIwMWQ5SmQzLTEzdEFRSS9pbWcuanBnP3dpZHRoPTQwMCZjb29yZGluYXRlcz0xMDElMkMwJTJDMTAlMkMwJmhlaWdodD03MTEuNDI4NTcxNDI4NTcxNCZxdWFsaXR5PTY1In0.W4o6Ku-o_bRALLO7QiJvxfUGzmhg6jmtJ_ABC5ja1iE/img.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
+      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/the-neurochemistry-of-flow-states-with-steven-kotler-2604491068",
+      "publishedDateTime": "2021-01-26T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Think",
+        "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-the-science-of-temptation-why-you-can-or-cant-resist.md",
       "title": "The Science of Temptation: Why You Can (or Can’t) Resist",
       "excerpt": "It's all in your mind. Really. Everything bad in the world might be coming from one particular part of the human brain. Robert M. Sapolsky holds degrees from Harvard and Rockefeller Universities ...",
@@ -1065,100 +1142,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform.md",
-      "title": "Reveal And Brainspace Merge to Become Leading Artificial Intelligence Powered eDiscovery Platform",
-      "excerpt": "Press Release Reveal, a global provider of the leading AI-powered eDiscovery platform, and Brainspace, a global provider of visual analytics for eDiscovery and investigations, announced today that they have joined forces.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/",
-      "originalUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/01/26/reveal-and-brainspace-merge-to-become-leading-artificial-intelligence-powered-ediscovery-platform/amp/",
-      "publishedDateTime": "2021-01-26T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-humans-wouldnt-be-able-to-control-a-superintelligent-ai-according-to-a-new-study.md",
-      "title": "Humans wouldn't be able to control a superintelligent AI, according to a new study",
-      "excerpt": "Not only does the research suggest humans wouldn't be able to control machines — we may not even know when superintelligent machines have arrived.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "originalUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/601024131d2df20018b70d21?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mankind-will-not-be-able-to-control-artificial-intelligence-according-to-study?amp",
-      "publishedDateTime": "2021-01-26T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

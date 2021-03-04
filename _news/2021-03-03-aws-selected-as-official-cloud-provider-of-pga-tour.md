@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-selected-as-offi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "PGA TOUR Selects AWS as Its Official Cloud Provider | Morningstar"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-03-02T14:09:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210302005466/pga-tour-selects-aws-as-its-official-cloud-provider"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 19
   - title: "AWS official cloud provider of PGA Tour"
     excerpt: "Amazon Web Services (AWS), an Amazon company, has announced that the PGA Tour has selected AWS as the Official Cloud Provider of the Tour. AWS and the Tour a"
     publishedDateTime: 2021-03-02T16:13:00Z

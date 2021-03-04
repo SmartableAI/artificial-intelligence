@@ -41,20 +41,6 @@ related:
         width: 2500
         height: 1569
         isCached: true
-  - title: "Law on collection of facial recognition data to be proposed at two sessions"
-    excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
-    publishedDateTime: 2021-03-02T10:36:00Z
-    webUrl: "https://www.globaltimes.cn/page/202103/1217051.shtml"
-    type: article
-    provider:
-      name: Global Times
-      domain: globaltimes.cn
-    quality: 37
-    images:
-      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-02/31e0a973-240a-4047-84d1-21645e9e20c2.jpeg"
-        width: 1200
-        height: 720
-        isCached: true
   - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Asia Pacific region"
     excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout"
     publishedDateTime: 2021-03-03T10:30:00Z

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -116,7 +116,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -156,6 +156,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-as-china-rises-the-us-builds-toward-a-bigger-role-in-ai.md",
+      "title": "As China Rises, the US Builds Toward a Bigger Role in AI",
+      "excerpt": "After decades of staying out of industrial policy, a Pentagon-appointed commission recommends more spending on research and support for US chip makers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/",
+      "originalUrl": "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/603d9d652d6b6299017ee0dd/master/pass/business_ai_1288382287.jpg",
+          "width": 2400,
+          "height": 1589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp",
+      "publishedDateTime": "2021-03-01T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI Hardware"
       ]
@@ -1409,41 +1461,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications.md",
-      "title": "OnLogic Now Offering Cincoze GM-1000 Embedded GPU Computer For Machine Vision Applications",
-      "excerpt": "The Cincoze GM-1000 features an embedded MXM GPU, high-speed I/O and Intel® Xeon® CPUs to meet the demands of advanced embedded vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

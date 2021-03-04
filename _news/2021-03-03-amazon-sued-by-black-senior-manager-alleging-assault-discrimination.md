@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 885
         isCached: true
+  - title: "Microsoft Group Transcribe provides real-time transcription and translation"
+    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones."
+    publishedDateTime: 2021-03-04T00:13:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4af662c9-9e9c-523d-a589-77b6bd55c576"
+        width: 410
+        height: 230
+        isCached: true
   - title: "Massachusetts is one of the first states to create rules around facial recognition in criminal investigations."
     excerpt: "A police reform bill in Massachusetts has managed to strike a balance on regulating facial recognition, allowing law enforcement to harness the benefits of the tool while building in protections that might prevent the false arrests that have happened before,"
     publishedDateTime: 2021-03-02T03:07:00Z
@@ -102,6 +118,20 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-021-03506-0/MediaObjects/41419_2021_3506_Fig1_HTML.png"
         width: 685
         height: 481
+        isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
+    publishedDateTime: 2021-03-02T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "6Z0jbt+fxUlFnbAEXVbfXORTYXQj7ZAzkL8ngIubPuY5820+CMT1U0Kion9s2iSxZlbAYKBQY6PGbnposQ7MbNCAvKQx8U2ygllFIMUbjbL3llJGbNVQDh0Xu9XWqNAuHFjKfGRg1m95RP64rlW43s76ButbsIfyRv/d6+D0WGXL8gBNh264637lepjZt5yogEmwsn+JGwiEty+MGRxjdsPWiyvz4WPwTx+NIKG3Bip8Eb4xdGTCrU10Viqg5biEE7uRyAub0R/iMvWbKZttdcsED6D8clci/S9hRCwduFZGweZbfn9HxAhxFRFGSOnxQUhv9EFDCRDK5UfQkX7FLRwEhhG6BUWWCUcaC4D5pmjVPBeawHCcy8ejHxPtx3ExNMh1UXIXf4nNv5oCJInk6dQiV8LQDMLsNopoeUyb2GaRxfOLjFlMm+jMLLBCCrQnuJCCqAX54d9XkPZ/Dp2qYKO3a6+P1Ps4OuXFdwTYIzqTjoyjBN++bFQ2g4Wn+wKB2X2N70vuMnVeISSVRAmt4g==;kdHKkkLOrE0enmOhJ1yh5w=="

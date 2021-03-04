@@ -2,6 +2,91 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-20-ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology.md",
+      "title": "AI in the OR: One company is closing the gaps in surgery using technology",
+      "excerpt": "ExplORe Surgical was created because there were often waiting times in surgery, so they created a tool to help.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2021/02/19/374589df-8512-4af3-aeeb-d9900f36d1a0/thumbnail/1200x675/22323cb58db91a75bc98eef8d6f6b044/20210218-exploresurgical-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-the-or-one-company-is-closing-the-gaps-in-surgery-using-technology/",
+      "publishedDateTime": "2021-02-19T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-a-robotics-revolution-unpacking-the-actively-managed-arkq.md",
+      "title": "A Robotics Revolution? Unpacking the Actively Managed ‘ARKQ’",
+      "excerpt": "Robotics is one of the more rapidly evolving various disruptive technology themes. Investors can join the party with the ARK Autonomous Technology & Robotics ETF (CBOE: ARKQ). The actively managed ARKQ invests in companies that stand to benefit from the increased adoption and utilization of robotics and artificial intelligence (AI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "originalUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/a-robotics-revolution-unpacking-the-actively-managed-arkq-2021-02-19?amp",
+      "publishedDateTime": "2021-02-19T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ibm-and-palantir-partner-to-help-businesses-deploy-ai-applications-and-unlock-valuable-data-across-hybrid-cloud-environments.md",
       "title": "IBM and Palantir Partner to Help Businesses Deploy AI Applications and Unlock Valuable Data Across Hybrid Cloud Environments",
       "excerpt": "IBM and Palantir Technologies have announced a new partnership consisting of IBM's hybrid cloud data platform designed to deliver AI for business, with Palantir's next-generation operations platform for building applications.",
@@ -235,49 +320,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
-      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/4510493001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001",
-      "publishedDateTime": "2021-02-19T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-20-facial-recognition-cardiff-rapist-caught-on-cctv.md",
       "title": "Facial recognition: Cardiff rapist caught on CCTV",
       "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
@@ -467,6 +509,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
+      "title": "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan",
+      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1095,101 +1189,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-canada-vows-to-be-next-country-to-go-after-facebook-to-pay-for-news.md",
-      "title": "Canada vows to be next country to go after Facebook to pay for news",
-      "excerpt": "Canada vowed on Thursday to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349",
-      "originalUrl": "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552079740&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I006",
-          "width": 796,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2AI349",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AI349",
-      "publishedDateTime": "2021-02-18T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-path-to-digital-leadership-in-financial-services-collaboration-with-fintech.md",
-      "title": "The Path to Digital Leadership in Financial Services: Collaboration with Fintech",
-      "excerpt": "Collaboration with Fintech By Preet Chhokar, Industry Practice Advisor, Financial Services, Cisco - The financial services industry continues to weather near-constant change, and it is clear a digital storm has touched down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/cxoinsight/the-path-to-digital-leadership-in-financial-services-collaboration-with-fintech-nid-25876-cid-189.html",
-      "originalUrl": "https://www.cioreview.com/cxoinsight/the-path-to-digital-leadership-in-financial-services-collaboration-with-fintech-nid-25876-cid-189.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/newsimages/special/26vu9iFs.gif",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T21:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

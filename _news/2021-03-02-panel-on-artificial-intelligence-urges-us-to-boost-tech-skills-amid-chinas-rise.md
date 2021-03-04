@@ -37,7 +37,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://media.wired.com/photos/603d9d652d6b6299017ee0dd/master/pass/business_ai_1288382287.jpg"
         width: 2400

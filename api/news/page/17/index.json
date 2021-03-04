@@ -2,6 +2,103 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-17-lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascendio.md",
+      "title": "Lumiata Extends Data Preparation for Healthcare Customers on AWS and Azure in Partnership with Ascend.io",
+      "excerpt": "Lumiata has announced a new partnership with Ascend.io in order to provide customers with access to its proprietary data preparation process. This relationship will ensure that all Lumiata customers,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lumiata-extends-data-preparation-for-healthcare-customers-on-aws-and-azure-in-partnership-with-ascend-io-1030092317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-this-cloud-computing-billing-expert-is-very-funny-seriously.md",
+      "title": "This Cloud Computing Billing Expert Is Very Funny. Seriously.",
+      "excerpt": "Corey Quinn has made it his business to understand Amazon’s cloud-computing charges and have some fun at the company’s expense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/14/business/00amazonpest1/00amazonpest1-facebookJumbo-v3.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/technology/corey-quinn-amazon-aws.amp.html",
+      "publishedDateTime": "2021-02-17T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-what-does-it-take-to-operationalize-ai.md",
       "title": "What Does It Take To Operationalize AI?",
       "excerpt": "Software development processes and team structures have evolved a lot over the years, from waterfall and agile to DevOps and beyond.",
@@ -1081,100 +1178,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-hypervisor-gets-a-gpu-boost.md",
-      "title": "AI Hypervisor Gets a GPU Boost",
-      "excerpt": "Sunlight, the U.K.-based specialist in virtualizing data-intensive applications, announced Nvidia GPU support for its “lightweight” hypervisor designed to",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/",
-      "originalUrl": "https://www.datanami.com/2021/02/16/ai-hypervisor-gets-a-gpu-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/data_pipeline_shutterstock_posteriori.jpg",
-          "width": 1000,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds.md",
-      "title": "AI can persuade people to make ethically questionable decisions, study finds",
-      "excerpt": "From TikTok to Instagram, Facebook to YouTube, and more, learn how data is key to ensuring ad creative will actually perform on every platform. AI shapes people’s lives on a daily basis.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/",
-      "originalUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/ai-can-persuade-people-to-make-ethically-questionable-decisions-study-finds/amp/",
-      "publishedDateTime": "2021-02-16T15:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

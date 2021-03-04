@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "National recognition for Kitchener tech worker"
-    excerpt: "The phone call from an unknown number came in December, and Omar Salaymeh almost didn’t answer it after facing a deluge of spam calls in recent weeks. The voice on the other end of the phone claimed to be from the governor general’s office,"
-    publishedDateTime: 2021-03-01T20:31:00Z
-    webUrl: "https://www.therecord.com/news/waterloo-region/2021/03/01/national-recognition-for-kitchener-tech-worker.html"
+  - title: "Amazon-made Rekognition software now able to detect fear"
+    excerpt: "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ..."
+    publishedDateTime: 2021-03-01T00:00:00Z
+    webUrl: "https://mashable.com/video/amazon-rekognition-adds-fear/"
+    ampWebUrl: "https://mashable.com/video/amazon-rekognition-adds-fear.amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/amazon-rekognition-adds-fear.amp"
     type: article
     provider:
-      name: Waterloo Region Record
-      domain: therecord.com
-    quality: 24
+      name: Mashable
+      domain: mashable.com
+    quality: 91
     images:
-      - url: "https://images.thestar.com/FHeFR3YCO2exDjPqVdagcg7E9Fo=/1086x1307/smart/filters:cb(1614630124586)/https://www.therecord.com/content/dam/therecord/news/waterloo-region/2021/03/01/national-recognition-for-kitchener-tech-worker/bonfire1.jpg"
-        width: 1086
-        height: 1307
+      - url: "https://mondrian.mashable.com/2019%252F08%252F14%252F5c%252Fd535431604e94fd58731c9b7cc541e31.7b409.jpg%252F1200x630.jpg?signature=kObCpPJ-dBTpK78Z0j4YY8TPxt4="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Law on collection of facial recognition data to be proposed at two sessions"
+    excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
+    publishedDateTime: 2021-03-02T10:36:00Z
+    webUrl: "https://www.globaltimes.cn/page/202103/1217051.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 37
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2021/2021-03-02/31e0a973-240a-4047-84d1-21645e9e20c2.jpeg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "cgg98Dcp9Oachq6OkS01xdAwwzZnH5xaPZqxywkCUntkkJ1t1yhB9AdaNB7Ez+7LdYcQFeY9Ae5ScDNrYHr9hWOWW6o/8AK6fVajpsA2Nu5U2wCj4E8oYjMF1LH26Pmm5yn4DXE//Cj/jMnq8FA/c8nrkIhsoC/x3iWIsgKUJqWGIkouSuioftuOpIbKyZ2t7EHVa5LNWG5u/+BGRglWuQlUdWSCFTOEWiVaMd/2oCHYLoROmYgK0WJD2h8Q6Usaw62eLY4I1fzlPp3+gEJ/4Y1XtTCCYIangA+EXgWyJm3Kr/Ct0R4qRrS45ohBHLqfUqnDJYqOsp6SZVMu77jcyCtk2ArJ0OxlAjRw2VssIzg=;ycFhp1PLlHB0McRszkZ8VQ=="

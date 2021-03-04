@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel"
+    excerpt: "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,"
+    publishedDateTime: 2021-03-04T03:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
     excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
     publishedDateTime: 2021-03-01T15:51:00Z
@@ -98,6 +112,6 @@ related:
         height: 448
         isCached: true
 
-secured: "lA3/5Ntwl6c8c/yrwE7fhVYq46nQyvxnHKXZsQJVoRC+65Ooz8T0YpXqVpYYHSrTsN7zU+SD90byZZzKEYVGKkWdwOie2+8L44IzMBbBlVIJvFGA92nClprbdWuqb5lW4sGfT6imYrJ/RGn0cY7RVYlzaIZcLtrcLSUPm5q1Uyegw5n0vRDXHbT5lcry2wYPLvTpHXolnPKItMkaInHVvbFdOczp0qeN+u81zU11rkV7fyEw4/HfWBmB1L9VP1mIPtC0O8LNMVHQa8GKq+2nleZtuuw7dPtnoDyO6huD0BEXSef+rVgp3KpSECcgUI03GoVfr3ww65ZBZ5VELN45ZLcv6oO8WMBoQWe26lZaN24=;hfF4ksi897sUfaS1U9HNwA=="
+secured: "fvlQDyTBzK7XJae+r0wXNTEkZ6J2bli5ykN5G2CUio7lJrJKkaBdvssJh4g8FeRK7RBE5S2oS/laOytm0Uwg1SbNpppCe9p1t/pxJeLDSAeMJe4FY4CD6+ztpWCKnVseD3IBQCyVs389vXExaF+gtIrwVk0H4GCNLGSW7o//0E82kwnrGLM/lstH4+4ncj9Pi0jdA8XbZR1AreCy40Dm6LfUIfnC0t0fKQJtUMn04k5AQTNPN9D64CBC1abOm8359Qwy1uK3HSMuc50teWv3sTFaykTCnhlsUC0+AojtNfxt2XD/flafWXqhYj9le7kRF0F1pmAsN/ktET3AVqAw3ijLSMjFc2Gcwry0Lkzo3JbHqyR+lO+TebT070w1uaAHSktT1NPVoHp1UwvXjmAoY3x5RlSzwo931fpM4LGqWDkBLLSB3OBCf4T5PZlMFFHwbG+bu6izknOKsgznWtjI3pXiaYXhsr0F08P+1WuyAIC7Cnwzk/kUQNwTUQQ5r4Ft65dmF434v70cxMXuRyyR5Q==;oyi6jATC/SAP7LwTv2fAEA=="
 ---
 

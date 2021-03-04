@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-19-canada-vows-to-be-next-country-to-go-after-facebook-to-pay-for-news.md",
+      "title": "Canada vows to be next country to go after Facebook to pay for news",
+      "excerpt": "Canada vowed on Thursday to make Facebook Inc pay for news content, seeking allies in the media battle with tech giants and pledging not to back down if the social media platform shuts off the country's news as it did in Australia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349",
+      "originalUrl": "https://www.reuters.com/article/us-australia-media-facebook-canada-idUKKBN2AI349",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552079740&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I006",
+          "width": 796,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2AI349",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AI349",
+      "publishedDateTime": "2021-02-18T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-the-path-to-digital-leadership-in-financial-services-collaboration-with-fintech.md",
+      "title": "The Path to Digital Leadership in Financial Services: Collaboration with Fintech",
+      "excerpt": "Collaboration with Fintech By Preet Chhokar, Industry Practice Advisor, Financial Services, Cisco - The financial services industry continues to weather near-constant change, and it is clear a digital storm has touched down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/the-path-to-digital-leadership-in-financial-services-collaboration-with-fintech-nid-25876-cid-189.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/the-path-to-digital-leadership-in-financial-services-collaboration-with-fintech-nid-25876-cid-189.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/26vu9iFs.gif",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T21:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-is-artificial-intelligence-the-future-of-network-security.md",
       "title": "Is Artificial Intelligence the Future of Network Security?",
       "excerpt": "Is Artificial Intelligence the Future of Network Security? By Jeffrey W Brown, CSIRO, BNY Mellon - Cyber attacks have become more sophisticated, happen faster and cause more business disruption than ever before.",
@@ -1120,110 +1215,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning.md",
-      "title": "AI: IBM showcases new energy-efficient chip to power deep learning",
-      "excerpt": "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/18/11b45681-8657-434c-80e1-31ea97d3626d/ibm-new-chip.jpg",
-          "width": 768,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "publishedDateTime": "2021-02-18T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-how-ai-affects-employment.md",
-      "title": "How AI Affects Employment",
-      "excerpt": "Most of this generation of artificial intelligence could actually improve jobs and even can increase employment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/",
-      "originalUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602981e9c61d4beb08920b5a%2F0x0.jpg%3FcropX1%3D15%26cropX2%3D750%26cropY1%3D0%26cropY2%3D414",
-          "width": 735,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2021/02/18/how-ai-affects-employment/amp/",
-      "publishedDateTime": "2021-02-18T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

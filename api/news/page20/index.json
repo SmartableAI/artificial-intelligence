@@ -2,6 +2,111 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
+      "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
+      "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "originalUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/15/28709f80-89eb-4c9d-8680-a943ce1b8691/isscc-2021-virtual-lounge.png",
+          "width": 2330,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "publishedDateTime": "2021-02-15T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-drones-with-facial-recognition-are-primed-to-flybut-the-world-isnt-ready-yet.md",
+      "title": "Drones With Facial Recognition Are Primed To Fly—But The World Isn’t Ready Yet",
+      "excerpt": "The patents are there, the tech is ready, but is the world going to accept drones that can recognise someone’s face? An Israeli startup talks about its plans to launch what’s likely to be a controversial technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
+      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a96de9e8b7a8599dfafb4%2F0x0.jpg",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
+      "publishedDateTime": "2021-02-15T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person-centered-care.md",
       "title": "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care",
       "excerpt": "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of",
@@ -1073,102 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
-      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
-      "excerpt": "Tensor2Tensor, or T2T for short, is a library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. T2T was developed by researchers and engineers in the Google Brain team and a community of users ...",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/tensorflow/tensor2tensor",
-      "originalUrl": "https://github.com/tensorflow/tensor2tensor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars.githubusercontent.com/u/15658638?s=400&v=4",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-14T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care.md",
-      "title": "How Hardware, Data And Artificial Intelligence Are Changing Diabetes Care",
-      "excerpt": "According to Søren Smed Østergaard, Vice President, Digital Health of Novo Nordisk, the most significant innovations in the diabetes space centered around hardware, artificial intelligence (AI) and data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60298237aed9da9a21c7f6a8%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/02/14/how-hardware-data-and-artificial-intelligence-are-changing-diabetes-care/amp/",
-      "publishedDateTime": "2021-02-14T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

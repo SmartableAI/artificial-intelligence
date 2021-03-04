@@ -211,7 +211,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -658,58 +658,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
-      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
-      "excerpt": "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ",
-      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "publishedDateTime": "2021-02-25T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
       "title": "Driverless bus hits streets of Malaga in southern Spain",
       "excerpt": "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ...",
@@ -740,6 +688,58 @@
         "name": "RFI",
         "domain": "www.rfi.fr",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
+      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
+      "excerpt": "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "publishedDateTime": "2021-02-25T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -807,10 +807,10 @@
     {
       "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
       "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
+      "excerpt": "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page",
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -829,7 +829,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T02:01:00-08:00",
+      "publishedDateTime": "2021-02-24T01:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1320,10 +1320,10 @@
     {
       "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
       "title": "Why Baidu Stock Soared Today",
-      "excerpt": "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company.",
+      "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ...",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
-      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
+      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602",
+      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1333,54 +1333,11 @@
       "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "publishedDateTime": "2021-02-19T18:58:00-08:00",
+      "publishedDateTime": "2021-02-19T19:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
-      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/4510493001",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001",
-      "publishedDateTime": "2021-02-19T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1427,6 +1384,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
+      "title": "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan",
+      "excerpt": "Apple Inc. is in discussions with multiple suppliers of self-driving car sensors known as lidar, according to people familiar with the matter, a key milestone toward development of its first passenger vehicle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-02-24-machine-learning-aids-in-simulating-dynamics-of-interacting-atoms.md",
+      "title": "Machine learning aids in simulating dynamics of interacting atoms",
+      "excerpt": "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal. This automated approach to \"interatomic potential development\" could transform the field of computational materials discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
+      "originalUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-19-machinelearn.jpg",
+          "width": 1027,
+          "height": 1147,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
+      "publishedDateTime": "2021-02-24T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027.md",
+      "title": "Nanorobotics Market Size Poised to Touch USD 12.72 billion by 2027",
+      "excerpt": "Global Nanorobotics Market to reach USD 12.72 billion by 2027. Global Nanorobotics Market is valued approximately USD 5.53 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 10.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-next-generation-search-engines-market-is-booming-worldwide-google-microsoft-facebook.md",
       "title": "Next Generation Search Engines Market is Booming Worldwide | Google, Microsoft, Facebook",
       "excerpt": "Latest released the research study on Global Next Generation Search Engines Market offers a detailed overview of the factors influencing the global business scope Next Generation Search Engines Market research report shows the latest market insights current situation analysis with",
@@ -1116,111 +1211,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-thomson-reuters-to-stress-ai-machine-learning-in-a-post-pandemic-world.md",
-      "title": "Thomson Reuters to stress AI, machine learning in a post-pandemic world",
-      "excerpt": "Thomson Reuters Corp will streamline technology, close offices and rely more on machines to prepare for a post-pandemic world, the news and information group said on Tuesday, as it reported higher sales and operating profit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-thomson-reuters-results-idUSKBN2AN12M",
-      "originalUrl": "https://www.reuters.com/article/us-thomson-reuters-results-idUSKBN2AN12M",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552588578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M0MG",
-          "width": 848,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AN12M",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AN12M",
-      "publishedDateTime": "2021-02-23T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
-      "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
-      "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg",
-          "width": 800,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T07:13:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

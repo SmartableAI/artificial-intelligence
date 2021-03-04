@@ -104,6 +104,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "PGA TOUR Selects AWS as Its Official Cloud Provider | Morningstar"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2021-03-02T14:09:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20210302005466/pga-tour-selects-aws-as-its-official-cloud-provider"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 19
   - title: "PGA Tour Chooses AWS as Official Cloud Provider"
     excerpt: "Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR. Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR."
     publishedDateTime: 2021-03-03T08:15:00Z

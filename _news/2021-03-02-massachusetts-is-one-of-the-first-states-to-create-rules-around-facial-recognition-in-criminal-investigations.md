@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 885
         isCached: true
+  - title: "Microsoft Group Transcribe provides real-time transcription and translation"
+    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones."
+    publishedDateTime: 2021-03-04T00:13:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4af662c9-9e9c-523d-a589-77b6bd55c576"
+        width: 410
+        height: 230
+        isCached: true
   - title: "Amazon sued by Black senior manager alleging assault, discrimination"
     excerpt: "A black senior manager at Amazon on Monday filed a lawsuit against the company and several of its employees for alleged racial and gender discrimination,"
     publishedDateTime: 2021-03-03T00:39:00Z
@@ -106,6 +122,20 @@ related:
       - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-021-03506-0/MediaObjects/41419_2021_3506_Fig1_HTML.png"
         width: 685
         height: 481
+        isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
+    publishedDateTime: 2021-03-02T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "PtSmbbrOpfEPireh8lQckjiDQq3SSZOewcGy2aMwD30og5riYsCGGZK1BYrq2onilfnpBkFX/GUFvZAkUmzJi7JXHAS4QNb2wiD3+7PINRxQHMGa3Le62GncKBtbMF5o94GiqummssFRutP0Zufpaxy1XEnoJwsnwkdOyHC67WGcRCpbRrG+A4ANIb7AXrAPWgNEGuYoeYnPv254jpH5dtaN5G1m7DPJtHd3kmE50fT4QaYZsEMwgNZeCZ7iiiT94tNozCIytot63xWN2mi52ZqnpgJnCsNIgDnoDFlAKPUJclwQYjYLOqp6iKN0Y84gOgGmigFqfDgsQXAYBp9kFHenNmElRb7Bv0FVJa0ntsB8Xl4xL2v6mxgDIPuRqTEHTB6i661bgPzBDkrxhCoO05gKK66s0NNeUE7F3zwyQGaY5/YH3EkYGWxHVQxisS9k8+1yzCPzOjPx6kzI3fR9zCX5Wgzl3oPccOHPu3DD+4nn2XhFwAfmdE2ZS8d+NacvB6pVc7xUYAY8rZ5Xp7RDAA==;bTeSuOyIowVsAIdPyop+DA=="

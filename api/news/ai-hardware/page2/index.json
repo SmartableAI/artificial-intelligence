@@ -2,12 +2,12 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
-      "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
-      "excerpt": "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint.",
+      "path": "_news/2021-02-17-onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications.md",
+      "title": "OnLogic Now Offering Cincoze GM-1000 Embedded GPU Computer For Machine Vision Applications",
+      "excerpt": "The Cincoze GM-1000 features an embedded MXM GPU, high-speed I/O and Intel® Xeon® CPUs to meet the demands of advanced embedded vision.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
-      "originalUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
+      "webUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2021/02/16/onlogic-now-offering-cincoze-gm-1000-embedded-gpu-computer-for-machine-vision-applications/16269/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -17,11 +17,46 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T01:00:00-08:00",
+      "publishedDateTime": "2021-02-16T08:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
+      "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
+      "excerpt": "GPU-accelerated workloads such as artificial intelligence (AI) running in edge environments. Modern GPUs require massive amounts of throughput to feed the data pipeline. However, legacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
+      "originalUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1374,49 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-stem-cell-ai-brain-on-a-chip-project-aims-to-revolutionize-computing-power.md",
-      "title": "Stem cell AI -- 'brain on a chip' project aims to revolutionize computing power",
-      "excerpt": "Scientists have started work on a project that will see human brain stem cells used to power artificial intelligence (AI) devices and bring about a revolution in computing. The Neu-ChiP project, an international collaboration led by researchers at Aston University,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2021-01/au-sca012621.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/254606_web.jpg",
-          "width": 720,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T16:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

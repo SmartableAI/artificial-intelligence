@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-08-learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge.md",
+      "title": "Learn from the winner of the AWS DeepComposer Chartbusters Track or Treat challenge",
+      "excerpt": "AWS is excited to announce the winner of the AWS DeepComposer Chartbusters Track or Treat challenge, Greg Baker. AWS DeepComposer gives developers a creative way to get started with machine learning (ML). In June 2020, we launched Chartbusters, a global competition in which developers use AWS DeepComposer",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/learn-from-the-winner-of-the-aws-deepcomposer-chartbusters-track-or-treat-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/08/ML-1854-1.jpg",
+          "width": 640,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T15:19:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-bae-systems-debuts-groundbreaking-ai-products-on-aws-govcloud-us.md",
       "title": "BAE Systems Debuts Groundbreaking AI Products on AWS GovCloud (US)",
       "excerpt": "BAE Systems announced today it is offering a suite of groundbreaking artificial intelligence capabilities and a new data labeling service offering on the Amazon Web Services (AWS) Marketplace for ...",
@@ -1422,58 +1474,6 @@
         "Microsoft AI",
         "IBM AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-forecasting-aws-spend-using-the-aws-cost-and-usage-reports-aws-glue-databrew-and-amazon-forecast.md",
-      "title": "Forecasting AWS spend using the AWS Cost and Usage Reports, AWS Glue DataBrew, and Amazon Forecast",
-      "excerpt": "AWS Cost Explorer enables you to view and analyze your AWS Cost and Usage Reports (AWS CUR). You can also predict your overall cost associated with AWS services in the future by creating a forecast of AWS Cost Explorer, but you can’t view historical data beyond 12 months. Moreover, running custom machine",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/forecasting-aws-spend-using-the-aws-cost-and-usage-reports-aws-glue-databrew-and-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/forecasting-aws-spend-using-the-aws-cost-and-usage-reports-aws-glue-databrew-and-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/21/ML-2179-1.jpg",
-          "width": 800,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T16:36:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

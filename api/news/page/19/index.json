@@ -2,6 +2,108 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-16-vevo-launches-ai-driven-moods-to-target-ads-to-attitudes.md",
+      "title": "Vevo Launches AI-Driven ‘Moods’ To Target Ads To Attitudes",
+      "excerpt": "Vevo launches Moods, an artificial-intelligence tool that groups music videos into specific moods to improve the targeting of ads that run alongside them. Four Moods will be initially available, with more to come in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602b176e4a5a3bd579411f15%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/02/16/vevo-launches-ai-driven-moods-to-target-ads-to-attitudes/amp/",
+      "publishedDateTime": "2021-02-16T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-bearingai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains.md",
+      "title": "Bearing.ai emerges from stealth to power recommendations for shipping boat captains",
+      "excerpt": "Bearing.ai provides the maritime shipping industry with predictive recommendations and launches with support from AI Fund and Mitsui & Co.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/",
+      "originalUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/bearingai.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/16/bearing-ai-emerges-from-stealth-to-power-recommendations-for-shipping-boat-captains/amp/",
+      "publishedDateTime": "2021-02-16T05:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-robot-artist-ai-da-presents-her-first-art-exhibition.md",
       "title": "Robot Artist Ai-Da Presents Her First Art Exhibition",
       "excerpt": "The world's first robot artist is set to have her first exhibition in London's Design Museum. The exhibition, Ai-Da Self Portraits is to open in May 2021 and will present three large scale self-portraits.",
@@ -174,6 +276,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
+      "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
+      "excerpt": "GPU-accelerated workloads such as artificial intelligence (AI) running in edge environments. Modern GPUs require massive amounts of throughput to feed the data pipeline. However, legacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
+      "originalUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-how-ai-can-remedy-racial-disparities-in-healthcare.md",
       "title": "How AI Can Remedy Racial Disparities In Healthcare",
       "excerpt": "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine.",
@@ -274,40 +410,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
-      "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
-      "excerpt": "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
-      "originalUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1079,111 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
-      "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
-      "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "originalUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/15/28709f80-89eb-4c9d-8680-a943ce1b8691/isscc-2021-virtual-lounge.png",
-          "width": 2330,
-          "height": 1045,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
-      "publishedDateTime": "2021-02-15T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-drones-with-facial-recognition-are-primed-to-flybut-the-world-isnt-ready-yet.md",
-      "title": "Drones With Facial Recognition Are Primed To Fly—But The World Isn’t Ready Yet",
-      "excerpt": "The patents are there, the tech is ready, but is the world going to accept drones that can recognise someone’s face? An Israeli startup talks about its plans to launch what’s likely to be a controversial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "originalUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602a96de9e8b7a8599dfafb4%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2021/02/15/drones-with-facial-recognition-are-primed-to-fly-but-the-world-isnt-ready-yet/amp/",
-      "publishedDateTime": "2021-02-15T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

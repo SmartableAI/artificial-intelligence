@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-01-27-zara-meets-netflixthe-fashion-house-where-ai-removes-designers-and-overstock.md",
+      "title": "“Zara Meets Netflix”—The Fashion House Where AI Removes Designers And Overstock",
+      "excerpt": "Described by its founder Ramin Ahmari as “Zara meets Netflix,” FINESSE creates products their Gen Z target audience want when they want them, and in the quantities they demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/",
+      "originalUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60115f7de603b45fc40bca93%2F0x0.jpg",
+          "width": 1200,
+          "height": 788,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookerobertsislam/2021/01/27/zara-meets-netflix-the-fashion-house-where-ai-replaces-designers-eliminating-overstock/amp/",
+      "publishedDateTime": "2021-01-27T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ai-and-ml-in-intelligent-analytics-can-drive-the-efficiency-in-business.md",
       "title": "AI and ML in intelligent analytics can drive the efficiency in business",
       "excerpt": "The role of AI and ML in intelligent analytics is quite fruitful as it quickens the data transformation process. Artificial intelligence and ML frameworks exist that utilize analytics data to assist businesses with foreseeing results and effective blueprints.",

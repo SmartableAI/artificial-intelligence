@@ -1,41 +1,26 @@
 ---
 category: news
 title: "Smart New Features and Capabilities Added to SDL Machine Translation"
-excerpt: "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, includi"
-publishedDateTime: 2021-02-25T08:31:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation"
-webUrl: "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation"
+excerpt: "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, including content insight, expanded options for adaptation,"
+publishedDateTime: 2021-02-25T07:58:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869"
+webUrl: "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Avoiding Bias And Discrimination In Machine Translation"
-    excerpt: "Bias and discrimination have appeared time and again in various technological forms. A pressing issue is the discrimination found in many of the translation applications in use today, as Google Translate alone now serves roughly 200 million people daily."
-    publishedDateTime: 2021-03-01T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6037caffab9aedca931f7676%2F0x0.jpg"
-        width: 1200
-        height: 885
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "JXqVgp2/SwInx4NxBBpAEbz8RyBycBVr2POQoUMVilhDoNF+3xKTOQx/Oz+PxNAvcj2eqtZuqvxQdQnZd2AYNjcVjaBRABLbeicc/77iX7c25LL2m8qRVyO5j+6Z6yeiMY6fq/XSN6ysE4CJvSMrBdvPPL62KuKoAgvIFKv8izfgl1iSpX+1I2GJml6DJH5aIa8AwXffQMSlae8wGoHwOIxhaVon9W8NiA1teqyKUA32BXsLhm3OyqzR+du43cASVz7krDaRdAUgbnbqju7lBjfeYqaO9R/jogOkUegBuXSdj/kRDONgo/iTFY0ay0/dTY+kPpvri2PXo5g9Jhj0zNSGKd8ntxW4Ux4lNr7SQ7w=;LJmN4sxoLHOUS+ib0VJnSQ=="
+secured: "oCR3LpeTw4fo2AAOti6NUHOrSJJAcesBU81iGZjP3wZAIkmW03w3f8yFbSJWys77lSnaAJ+gCLskgo3MUbpW7D+3Z5KZMorzKL5JT+cFYnbJSvbT48NCIsF6ylQ1FQap+nrQ3kecr/L1yeejVmWmV7l7Gsblcr91Hi7CdoH9v7mvIRJZBzw0Tyy3fkOilBLoKAGiO6a3gdX4/LeJ4SQZ4lgw10dWFqWd8PAstHOzxYAAfo43L/2nG4xGeQQViPXJkGMVblpgF+0UfQo6AYNIvQtAoosv7fT1JUTEElTPJhWtAvf1lEVZMDxc1fOppTlN9oQfDckRI/t7PlPLd04/BHnf9C33NuLLBd1628cgtqU=;uO3devSKw2SGWSJukYaInw=="
 ---
 

@@ -2,6 +2,102 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-12-aws-ibm-google-and-microsoft-are-taking-ai-from-10-to-20-according-to-forrester.md",
+      "title": "AWS, IBM, Google, and Microsoft are taking AI from 1.0 to 2.0, according to Forrester",
+      "excerpt": "A new report says that the hyperscalers are using reinforcement learning and transformer networks to make AI smarter and more mobile.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/11/a2618a6b-a205-4004-ab8d-b706d8ab359d/resize/1200x/0b71a3953d86fcf6ce37b4af796e8aed/forrester-ai-chart.jpg",
+          "width": 1200,
+          "height": 1195,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/aws-ibm-google-and-microsoft-are-taking-ai-from-1-0-to-2-0-according-to-forrester/",
+      "publishedDateTime": "2021-02-11T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-new-polyp-image-classification-technique-using-transfer-learning-of-network-in-network-structure-in-endoscopic-images.md",
+      "title": "New polyp image classification technique using transfer learning of network-in-network structure in endoscopic images",
+      "excerpt": "This research improved the performance of polyp classification through the fine-tuning of Network-in-Network (NIN) after applying a pre-trained model of the ImageNet database. Random shuffling is performed 20 times on 1000 colonoscopy images.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/s41598-021-83199-9",
+      "originalUrl": "https://www.nature.com/articles/s41598-021-83199-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-83199-9/MediaObjects/41598_2021_83199_Fig1_HTML.jpg",
+          "width": 685,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-reductvideo-raises-4m-to-simplify-video-editing.md",
       "title": "Reduct.Video raises $4M to simplify video editing",
       "excerpt": "The startup’s technology is already used by customers including Intuit, Autodesk, Facebook ... Reduct uses artificial intelligence, natural language processing and other technologies to simplify ...",
@@ -1085,101 +1181,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-microsoft-and-hpe-team-up-to-connect-azure-cloud-to-international-space-station.md",
-      "title": "Microsoft and HPE team up to connect Azure cloud to International Space Station",
-      "excerpt": "Microsoft is partnering with Hewlett Packard Enterprise to bring its Azure cloud computing service to the International Space Station.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
-      "originalUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 280,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/210210-spacestation2-630x464.jpg",
-          "width": 630,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/microsoft-hpe-team-connect-azure-cloud-international-space-station/amp/",
-      "publishedDateTime": "2021-02-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-ex-microsoft-amazon-execs-join-indian-voice-tech-startup-vernacularai.md",
-      "title": "Ex-Microsoft, Amazon execs join Indian voice tech startup Vernacular.ai",
-      "excerpt": "Besides the hiring of these two top-level execs, Vernacular.ai said it looks to grow its workforce further by 2x in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673760",
-      "originalUrl": "https://www.techinasia.com/exmicrosoft-amazon-execs-join-indian-voice-tech-startup-vernacularai?ref=recommender-673760",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

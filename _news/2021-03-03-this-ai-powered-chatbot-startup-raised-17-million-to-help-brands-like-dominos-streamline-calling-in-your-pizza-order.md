@@ -2,9 +2,9 @@
 category: news
 title: "This AI-powered chatbot startup raised $17 million to help brands like Domino's streamline calling in your pizza order"
 excerpt: "Kea's AI-powered chatbots have been tested by a number of big chains. But the company's expanded partnership with Domino's is a game changer."
-publishedDateTime: 2021-03-03T06:25:00Z
-originalUrl: "https://www.businessinsider.com/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3"
-webUrl: "https://www.businessinsider.com/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3"
+publishedDateTime: 2021-03-03T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3-1030145810"
+webUrl: "https://markets.businessinsider.com/news/stocks/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3-1030145810"
 type: article
 quality: 43
 heat: 43
@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/603d69a987d37600190d0877?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://images2.markets.businessinsider.com/603d5ed613b221001876afab?format=jpeg"
+    width: 701
+    height: 526
     isCached: true
 
-secured: "GEyImdERMm9Mi5/qslb7di1OfR3XiUFiO0t1N0ibdod21OG2gUXjIwuA6Fl1S3rYLTrQysWe4QLQlsr/6iWrVcGupqxHPSZIvZgvcaP7bTaFcYMXJpiQdBf3crvWDMTH72o3cBkI2iPcFCDAMZjZJk+hD69i9SkANrDQ/khNi5yMq+7E9v9Cjau1F5qIbeuJLlFHGeGlAmImwcnWxMA1Zy6Wrfv+Eys44yRBSgCEjUbDytSk3D10hZ5qcS0fl17x7Y+3ZcaLwUfBn6djES69aPUwrMlIipeF32eaPeAUov0/44+2X03nGtnQdA6IAp/hCA0J8lZhFJbrfhaNrnknqvOs6G1WtrcKla7L3W6Mwbs=;apJZVgRnDgDwzHdWRytJMQ=="
+secured: "9OcQ6d9jr6HT8sk75Kt+5DumrwHd6CejmgbBtIcF1/Yx3FZRY3yNv/b0kdSx8gRoHQo6Gyx6eRyKunl/4WtylHW0JOvdOQGCWwBtGDEOTExVlkOqI4f6q9aEzvfu3IoMn3la1hcie7XduX+ZX2njoQvH0/w1hysapq8La4m/czmkNYr1w+HcSsjeHMzi4Mar4KINxkaGTQnL7ppy0KDV8yJ6wp4JuCQHPPaEQv2Qau/daRqWZBrnVSm0uIkozkIHjQKk7gNDnYm39NPRs9IyGQEjorbNVzepqNxQDa2HkWU88+wou/vDbvq4HqgoXVKZHRXRsFvVtgzxv1Ga5MFSsIw7Jz3ayTuKYsMe3Ip1VaE=;KkFPtqJ4J+rDm9b3VzyBdg=="
 ---
 
