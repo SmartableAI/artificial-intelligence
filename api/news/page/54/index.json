@@ -2,6 +2,58 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-01-23-microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror.md",
+      "title": "Microsoft’s AI Chatbot Patent Resembles A Particularly Disturbing Episode Of ‘Black Mirror’",
+      "excerpt": "According to documents from the US Patent and Trademark Office, Microsoft has been granted a patent that would allow the tech giant to construct an AI-assisted chatbot using the personal data of the deceased,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/",
+      "originalUrl": "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F600b4538ef819ee40beeb605%2F0x0.jpg",
+          "width": 1199,
+          "height": 783,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danidiplacido/2021/01/22/microsofts-ai-chatbot-patent-resembles-a-particularly-disturbing-episode-of-black-mirror/amp/",
+      "publishedDateTime": "2021-01-22T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-voice-and-speech-recognition-market-key-drivers-challenges-and-trends-by-2026.md",
       "title": "Voice and Speech Recognition Market: Key Drivers, Challenges and Trends by 2026",
       "excerpt": "Selbyville, Delaware According to the research report titled 'Voice and Speech Recognition Market Share, Size, Trends, Industry Analysis Report By Component; By Interface; By End-User; By Regions, Segments & Forecast,",
@@ -1102,49 +1154,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand.md",
-      "title": "‘Hybrid roles, the new norm: IELTS, Azure, software testing in demand’",
-      "excerpt": "The report is based on data from the global companies using the Udemy for Business platform and a survey of more than 500 learning and development professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
-      "originalUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2020/12/e-class-1200.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/business/economy/hybrid-roles-the-new-norm-ielts-azure-software-testing-in-demand-7156602/lite/",
-      "publishedDateTime": "2021-01-21T14:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

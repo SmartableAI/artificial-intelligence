@@ -2,9 +2,9 @@
 category: news
 title: "This AI-powered chatbot startup raised $17 million to help brands like Domino's streamline calling in your pizza order"
 excerpt: "Kea's AI-powered chatbots have been tested by a number of big chains. But the company's expanded partnership with Domino's is a game changer."
-publishedDateTime: 2021-03-03T06:25:00Z
-originalUrl: "https://www.businessinsider.com/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3"
-webUrl: "https://www.businessinsider.com/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3"
+publishedDateTime: 2021-03-03T14:34:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3-1030145810"
+webUrl: "https://markets.businessinsider.com/news/stocks/kea-tech-startup-tapped-by-dominos-to-automate-phone-ordering-2021-3-1030145810"
 type: article
 quality: 43
 heat: 43
@@ -22,11 +22,11 @@ topics:
   - AI
 
 images:
-  - url: "https://i.insider.com/603d69a987d37600190d0877?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://images2.markets.businessinsider.com/603d5ed613b221001876afab?format=jpeg"
+    width: 701
+    height: 526
     isCached: true
 
-secured: "aF9rGzQkxb1Uq3bpmL259/Vg+1YeovQhcwoo1RGtLgJjyqXH+xr/0qePfHUyWztCCE351YFFV7NxS2LGQzDsKngPL3kkqt920l78KAwWrVlj+bd3DcQK+viQYNn7MJdUFkhd28NHVhOKoj8wkCbSjYWzQqQfDvEMbevBR7QeiDdkQfoIFVnVFfeA/JlbRloPNlNYXxVPVbsdl/4SxBdkafjRuSXweaJxqejxGId4h8hApp/yywSuMXiviyoJd2e3Iq5MzXz335+AO6HuIXp5jnKVY2Z3QPDiyzJb1zCeyejqXaCdQXZ3wj/UorFWvu6l1JJU5fo9hjABtdShbEGk7ifhEC91UZRJgVmP7dKxpJy+809lhSPn1M2M+aa/nRrNvOZRhjp7+z+wl+aPBcPWWbhY8i8aaKvJ/s+45lYlNAX7NTVyiEE6wq+4wlMFOEtYq8jnK9kfGyR7xAfoPTLIp1e+GUlBQTQtNdfLZ3AQgkaNYebiscj+W751xvz1JwbUQXYWjO4Qms52t75pK555+Q==;FvtASAqLfF3rK6QRYvg5zw=="
+secured: "KSvdt7sk5Z3INEkw41cxi1nkBUhvBQ4wdoCjKLC+QBPU7EcRVJJhwGU+HfXtcRhpg+qonmku01LoqI7a0oKX8c9ZyiwC/2dqPK8RB/oKrEcq6/wrI99OphoQuL9pg1WTB1I3bzayM/zEXgZQTlu/g4P+v1MU7VPFskkdFjJJOOozPR5KwFk0kUnW24sC/gBsfTAI5gcKuWdzAkFf51RyZAWvziWEr5g+WCCYINdLqcTX8Ve3y8GqV2D/AVWarzdTWJDZm7VCE0iXLw1iweog3tkxGYVu1BL2aAftHgIbsuc53VvIqOLFO77efdmc2qEkvCIGX7r58W5Aaya/Oy0JcvJfgg8SFpzPUznb3RFqatA=;c5HaqH6+xS+LPwwlJwZx+A=="
 ---
 

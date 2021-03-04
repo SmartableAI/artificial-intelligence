@@ -268,22 +268,6 @@ related:
         width: 730
         height: 410
         isCached: true
-  - title: "Microsoft wants to use AI to unlock the potential of HPC"
-    excerpt: "In collaboration with its partners, Microsoft has established the Azure HPC & AI Collaboration Centers program that funds collaborations with well-known"
-    publishedDateTime: 2021-02-27T10:29:00Z
-    webUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/microsoft-wants-to-use-ai-to-unlock-the-potential-of-hpc/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 76
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/1-375-e1614421589723.jpg"
-        width: 1069
-        height: 693
-        isCached: true
   - title: "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning"
     excerpt: "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence."
     publishedDateTime: 2021-03-02T15:48:00Z
@@ -417,7 +401,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN
@@ -496,6 +480,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Q45gf8vQNNHfgm69pgLBBTnXNUPQGgVo9VOODJNcRuPKBcqo2E5ABpcbfC8KKhaeExvJcgsBsg8IwvQr0NIMRSao1HMcxF0xqvSf0HU+nFDk02GUD3kS31q0R08WiIVlTG5oN8D7dTa56vkOcb4qt1FMwPJ8sBzwUS7D6IC+MmEw3p/quAGubeKEhYTzJEo65LzCgVxHZhwbT633s2tJyeTFs+fj8LFRNZQVOnm1M5/+jJQLnEdtNSy+dUKZunSV28+hl8no848wTRsDjPRbhZMlMWSBrI6NAg9XoNf3S7sXsWXwp08K8S5CrKloTtm7lntVuP9BjTysqGt8/dEsGv2gJazn6zh5y1YSdX4ydXY=;RTC+BysTJ2EOC90JUZIz5A=="
+secured: "Ua37LBgzdPwqSuEILGbN0/I+91T8udDAQEpV9P5BAURjSIe6Q9epkBOKhZ6+yCYwPAYYodEJm37DGQdCnib+EubKDAQtQBCBtegk8Jr7mpYWSj0HLKG/WCG5kgGsSi9IAP6HCQ6pxZFaZHIcrH1XTIFjA5hkkEhHEh3aYDc9XOk/yfIgu5L55GB178sWXpnNytYH1PTzyaRIsunM7a89TGTBKVVJg1Wl9i4auPHNq8/Ce1Ov/w1HIxqDR6Khj7wpKCUkU1Lfx8sKXKwXnwg0WU63lnRGrxp7sumaAgYYTHyzANMzteVj680oq9rYBJgbolDv+PQLVQPrh2uLFHkywVyPH3YDFyYcYaL5A+J0T1K6uHpekjodh5la/wQec50Z9bfqXzbJXVAdmPYutT8FG8SkTTCiNNs+ocpQLi+2iFgSM0q1XoEG6DOQHqxAiS2ZNNGYW2KGpk4ucyrkS6OnLIn/vhQwMNisOtXvb+DodDFsGPhOuXp88M30QI4/v1WOZ0/PnO/YiEE7LrMPNnna3g==;puxzoVnMjXF0KzPEZwHxiw=="
 ---
 

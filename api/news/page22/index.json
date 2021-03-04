@@ -2,6 +2,57 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-13-buzzfeed-uses-ai-to-create-romantic-partners-in-its-latest-quiz.md",
+      "title": "BuzzFeed uses AI to create romantic partners in its latest quiz",
+      "excerpt": "A new BuzzFeed quiz is the first in what VP of Product Chris Johanesen said he’s hoping will be a series of “stunt-y experiments” that the publisher launches this year. The quiz, timed for Valentine’s Day weekend,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/02/12/buzzfeed-ai-quiz/",
+      "originalUrl": "https://techcrunch.com/2021/02/12/buzzfeed-ai-quiz/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/02/AI-thumb.jpg?w=1000",
+          "width": 1000,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/02/12/buzzfeed-ai-quiz/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/12/buzzfeed-ai-quiz/amp/",
+      "publishedDateTime": "2021-02-12T12:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-how-ai-technology-makes-manufacturing-smarter.md",
       "title": "How AI Technology Makes Manufacturing Smarter",
       "excerpt": "Advances in the Industrial Internet of Things (IIoT), artificial intelligence (AI), machine learning, and advanced analytics are turbocharging the move to Industry 4.0. To stay competitive, companies are using AI-powered IoT tools to alert manufacturers to failures in equipment,",
@@ -1087,57 +1138,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock.md",
-      "title": "Valentine’s Day Your Hotel Might Have This AI Bed Funded By Adobe Founder John Warnock",
-      "excerpt": "As Elon Musk, Larry Ellison and Peter Thiel flee California in the tech exodus, Adobe co-founder John Warnock remains unfazed. He shares how his legendary deal with Apple co-founder Steve Jobs prompted him to fund the Bryte AI bed and why Silicon Valley will always be home to tech innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/",
-      "originalUrl": "https://www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60205d3765f7e00da62d90d8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D959%26cropY1%3D98%26cropY2%3D638",
-          "width": 959,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2021/02/12/valentines-day-your-hotel-might-have-this-ai-bed-funded-by-adobe-founder-john-warnock/amp/",
-      "publishedDateTime": "2021-02-11T22:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

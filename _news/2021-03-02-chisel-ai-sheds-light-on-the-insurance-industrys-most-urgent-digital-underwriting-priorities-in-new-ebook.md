@@ -28,7 +28,7 @@ related:
   - title: "Mouser Electronics Releases New Intelligent Revolution eBook Examining AI in Humanitarian Applications"
     excerpt: "Mouser announces the third eBook from The Intelligent Revolution series, examining fascinating new uses for AI in farming and other applications."
     publishedDateTime: 2021-03-01T12:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20210301005097/en/"
+    webUrl: "https://www.businesswire.com/news/home/20210301005097/en/Mouser-Electronics-Releases-New-Intelligent-Revolution-eBook-Examining-AI-in-Humanitarian-Applications"
     type: article
     provider:
       name: Business Wire

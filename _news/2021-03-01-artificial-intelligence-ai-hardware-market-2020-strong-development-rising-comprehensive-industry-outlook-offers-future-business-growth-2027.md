@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%"
+    excerpt: "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno"
+    publishedDateTime: 2021-03-03T23:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998482/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-at-a-cagr-of-44-9"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19998482"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19998482"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 63
+    images:
+      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market9.jpg"
+        width: 630
+        height: 344
+        isCached: true
   - title: "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights"
     excerpt: "The global medical bionic implants and exoskeletons market stood at U$ 454.5 Mn in 2016. It is expected to expand at a CAGR of 7.5% during the period 2017-2027 to reach U$ 1,001.4 Mn. Factors such as rising amputation rates,"
     publishedDateTime: 2021-03-01T11:02:00Z

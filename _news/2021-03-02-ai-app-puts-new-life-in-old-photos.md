@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Spooky AI tool brings to life photos of deceased relatives"
-    excerpt: "Like the animated paintings that adorn the walls of Harry Potter’s school, a new online tool promises to bring portraits of deceased relatives to life, sparking discussion about the use of technology to pose as human beings."
-    publishedDateTime: 2021-02-27T13:23:00Z
-    webUrl: "https://www.compsmag.com/news/technology/spooky-ai-tool-brings-to-life-photos-of-deceased-relatives/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/spooky-ai-tool-brings-to-life-photos-of-deceased-relatives/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/spooky-ai-tool-brings-to-life-photos-of-deceased-relatives/amp/"
+  - title: "A new program can animate old photos. But there's nothing human about artificial intelligence"
+    excerpt: "Deep Nostalgia is a likely predecessor of technology that could change our reality. And our emotions make it hard to resist."
+    publishedDateTime: 2021-03-02T16:30:00Z
+    webUrl: "https://www.cnn.com/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
+      name: CNN
+      domain: cnn.com
+    quality: 76
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302153937-myheritage-deep-nostalgia-photo-2-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "aolS3wCR4WVXXQrzigViItdTjdepdfJIPHtQx4QFH3qxJnXrueYCRo3guNhYOAutb7R44Zub1rAdkuT9IebyQBhTuEKXUHnH7Qa3IStGKHKF/i+ips6+MpQ7dl76rRwe+sLi2Wi/ljfFzb2ZqwCXIKtAOv7+7yDn9aB06fin2yonjbk24nnZjVobYAaYu54ZMMpFZtZ2Sb7AtziCmxqNMC0K7W/zd6G+3C7iU1sP2JIs00dZWK6UVGwbkkfifkP5qrYOY0eeSZ1xHqkTTVLq5tgrdoBrApIyumCjvAWKOBu/VfgumJHHP7bzuBkuiS5gQQ1HFdiKO6qxvsxxtdlWs9kCMOhv0DqRvJEaY57fVN/9Wn/+7Td23uQWfwsIsMAmGDVjO7Aj8uyal/1ktiTKn9KOOG2KpVSH68lmb4iPajPXG46nCp0VaYXILM3T9yu2FcfMvTpnDr4iNejGMVfyXXzx3P/AMMZijyc8XSXGuv+vrLmhC03BTWJU+uqCvMVcdiTbx6jcw5PjzvKCWqxkrA==;NvLCLEwdRhaD7D7RZuPiFw=="

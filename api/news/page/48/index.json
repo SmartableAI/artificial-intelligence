@@ -2,6 +2,59 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-01-27-state-of-the-art-applied-artificial-intelligence-defined.md",
+      "title": "State-Of-The-Art Applied Artificial Intelligence Defined",
+      "excerpt": "If the AI industry wants to shake off buyers’ perception of being sold snake oil, it should stop selling it. For users, it’s important to be aware of what makes a solution truly state-of-the-art, and which are just sprinkling AI on as an afterthought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60104fb1a4f5ba2187cb3cf4%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/01/27/state-of-the-art-applied-artificial-intelligence-defined/amp/",
+      "publishedDateTime": "2021-01-27T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-sales-startup-insentai-raises-2-million-to-expand-its-data-strategy-with-automated-chatbots.md",
       "title": "Sales startup Insent.ai raises $2 million to expand its data strategy with automated chatbots",
       "excerpt": "B2B enterprise sales platform Insent.ai has raised $2 million to expand its data visibility and automated chatbot integrations.Read MoreRead more",
@@ -1120,49 +1173,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-27-global-natural-language-processing-in-bfsi-market-2020-segmentation-demand-growth-trend-opportunity-and-forecast-to-2025.md",
-      "title": "Global Natural Language Processing in BFSI Market 2020 Segmentation, Demand, Growth, Trend, Opportunity and Forecast to 2025",
-      "excerpt": "Wiseguyreports.Com Adds ' Natural Language Processing in BFSI - Market Demand, Growth, Opportunities, Manufacturers and Analysis of Top Key Players to 2025 To Its Research Database. According to ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101496919/Global-Natural-Language-Processing-in-BFSI-Market-2020-Segmentation-Demand-Growth-Trend-Opportunity-and-Forecast-to-2025",
-      "originalUrl": "https://menafn.com/1101496919/Global-Natural-Language-Processing-in-BFSI-Market-2020-Segmentation-Demand-Growth-Trend-Opportunity-and-Forecast-to-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/banners/ebdc13ce-4.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-26T15:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-fa
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 138
+published: true
 
 provider:
   name: Newsweek
@@ -32,37 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "How One State Managed to Actually Write Rules on Facial Recognition"
-    excerpt: "Massachusetts is one of the first states to put legislative guardrails around the use of facial recognition technology in criminal investigations."
-    publishedDateTime: 2021-02-27T10:09:00Z
-    webUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/technology/Massachusetts-facial-recognition-rules.amp.html"
+  - title: "Facebook Weighing Up Legality of Facial Recognition in Upcoming Smart Glasses"
+    excerpt: "Facebook is reportedly weighing up the legal implications of building facial recognition technology into a pair of smart glasses that the company"
+    publishedDateTime: 2021-02-27T13:31:00Z
+    webUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/"
+    ampWebUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: MacRumors
+      domain: macrumors.com
+    quality: 56
     images:
-      - url: "https://static01.nyt.com/images/2021/02/28/business/27FacialRecognition-01/27FacialRecognition-01-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Massachusetts is one of the first states to create rules around facial recognition in criminal investigations."
-    excerpt: "A police reform bill in Massachusetts has managed to strike a balance on regulating facial recognition, allowing law enforcement to harness the benefits of the tool while building in protections that might prevent the false arrests that have happened before,"
-    publishedDateTime: 2021-03-02T03:07:00Z
-    webUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/27/business/27facialrecognition-02-copy/27facialrecognition-02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://images.macrumors.com/t/ZIPkmMVdOG2CVYYdSjdM2oBwWJQ=/1600x/https://images.macrumors.com/article-new/2021/02/facebook-smart-glasses-prototype.jpg"
+        width: 1600
+        height: 901
         isCached: true
   - title: "Law on collection of facial recognition data to be proposed at two sessions"
     excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
@@ -78,19 +62,47 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
-    excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
-    publishedDateTime: 2021-03-01T16:51:00Z
-    webUrl: "https://www.nature.com/articles/s41419-021-03506-0"
+  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Asia Pacific region"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout"
+    publishedDateTime: 2021-03-03T10:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-asia-pacific-region-824292980.html"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 4
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-021-03506-0/MediaObjects/41419_2021_3506_Fig1_HTML.png"
-        width: 685
-        height: 481
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Facebook Facial Recognition Lawsuit: Social Media Giant To Pay $650 Million Settlement Fee"
+    excerpt: "Facebook has been in the news repeatedly for its privacy policies related to user data collection. Read on to about the recent Facebook lawsuit."
+    publishedDateTime: 2021-03-02T12:38:00Z
+    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-facial-recognition-lawsuit-social-media-giant-to-pay-650-dollars-million-settlement-fee.html"
+    type: article
+    provider:
+      name: RepublicWorld
+      domain: republicworld.com
+    quality: 29
+    images:
+      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/gv8f383fr6tsvffl_1614672737.jpeg?tr=f-jpeg"
+        width: 1242
+        height: 710
+        isCached: true
+  - title: "New Affiliation Agreement Brings Together Industry-Leading Incentive and Recognition Associations"
+    excerpt: "The affiliation gives both organizations a larger network and scope of education and combines their reach and resources to build a stronger voice for the incentive, reward and recognition industry. It also offers operational efficiencies and provides a ..."
+    publishedDateTime: 2021-03-03T16:53:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/new-affiliation-agreement-brings-together-industry-leading-incentive-and-recognition-associations/article_3c539b2d-9210-51f8-ba9f-bc893e65876e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "FQIir3gIRAMLRi7MuP6P8IYxKxyk/dIK9gdv6syzpXifECjMCsH8EOrIRJ9EhYG5SKr/QYg1goArkIApB3Umk6mOzRNGgS3waI0aU9MQfLO4Az1ZK/Wwc7bTwdnAv23WbCZTf4nzVbYX/KXEg/RnL8kWAN8y+jv8Kl4S3dxXMP6Iiv5k0sUpnrg05uuQvtuKNfrqGSUpyn0FqluJgSNVP6YQMy5PnjAgP/LcjfvbZM6Luj/hQOeiPfQ5dOISLKeInWFaz26it/ZsGG17itTBRrq1Quv6nMb/tIaHIr/fMxgc7msY4dRXWovoaFHXP4uEUxt4rUgaDVwlrYqSPPBaoV5zkGn5dl+dLTsWFAKp0DXkOGRmhGrweB/L0ZH2NVQWNUDGiQB+iKt3iYH29Av7r3XpiUM3Nxqm2NFrl7DRa8cA/vGZqoAXtOuu/yON+kO8Lo6vaUbJzoDtLbTaiQbVuudvHwJUNt3ZpJ6sEc55P1mi/9kwstew+8RoiBg8RFGQ/az+o6OBxX3+SQcywvATGA==;9OACk9lh6BNxH05DBaMVfA=="

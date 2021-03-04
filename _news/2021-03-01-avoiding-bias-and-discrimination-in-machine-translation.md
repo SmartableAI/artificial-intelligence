@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoidi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 149
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Massachusetts is one of the first states to create rules around facial recognition in criminal investigations."
+    excerpt: "A police reform bill in Massachusetts has managed to strike a balance on regulating facial recognition, allowing law enforcement to harness the benefits of the tool while building in protections that might prevent the false arrests that have happened before,"
+    publishedDateTime: 2021-03-02T03:07:00Z
+    webUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/27/business/27facialrecognition-02-copy/27facialrecognition-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Amazon sued by Black senior manager alleging assault, discrimination"
     excerpt: "A black senior manager at Amazon on Monday filed a lawsuit against the company and several of its employees for alleged racial and gender discrimination,"
     publishedDateTime: 2021-03-03T00:39:00Z
@@ -76,6 +92,34 @@ related:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
+    excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
+    publishedDateTime: 2021-03-01T16:51:00Z
+    webUrl: "https://www.nature.com/articles/s41419-021-03506-0"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 4
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-021-03506-0/MediaObjects/41419_2021_3506_Fig1_HTML.png"
+        width: 685
+        height: 481
+        isCached: true
+  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
+    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
+    publishedDateTime: 2021-03-02T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
 
 secured: "ZBb53h9gYkuME8d14cGoE1AQvu/V4vilOvYIvzNqgWBF7xc9DiT0lHIcNpRkQP6GNwAsLK1G1+aRBPrLIZhauoA+DkI/CkLnfVg092lMHt3zTy1lplpKhzNj/OyWudMftOsc64m5MfJHWwK06t0moFT6OBXzsmhUR8s582TN8/ajkuJsRUIe3qOTw2K+IVBi1BwXnfqHSic0RErW8sb6Wm+frzp8g/5fDdpkW/naWBJX11DqxAcBMSKoolCnEtZMD8KQJ/i5T/JlUbIMGPPzRWnjkAyrLylzPZAOhWHac6/OgiSfahKnE6RCSicNrioA60x4rCNmVC0ytr3sScpi/93PStvviyLUwWif6MJf9at/O9Qj+MzaAjJ48GBxEOGGc0WwkDNu17k/jRhED6BN4AwD+FYXJ/zZMmFSj4H6G9khBRWZutFop/xNOzRk/lJ0iNJ2aQqM/Fq3hFZNYb3V65n/AqelZdHD/zPC58xBo7tZfnJlubL6UwTNTPmLUIAm6uS+OIns1VC91ljy+f+1zg==;Q7Mr7Q5C+myyt9JlaJhCNA=="

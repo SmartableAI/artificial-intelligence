@@ -7,7 +7,7 @@ originalUrl: "https://www.techdigest.tv/2021/02/tech-digest-daily-round-up-tikto
 webUrl: "https://www.techdigest.tv/2021/02/tech-digest-daily-round-up-tiktok-settles-facial-recognition-lawsuit.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1024
     height: 768
     isCached: true
-
-related:
-  - title: "Facebook Facial Recognition Lawsuit: Social Media Giant To Pay $650 Million Settlement Fee"
-    excerpt: "Facebook has been in the news repeatedly for its privacy policies related to user data collection. Read on to about the recent Facebook lawsuit."
-    publishedDateTime: 2021-03-02T12:38:00Z
-    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-facial-recognition-lawsuit-social-media-giant-to-pay-650-dollars-million-settlement-fee.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 29
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/gv8f383fr6tsvffl_1614672737.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
 
 secured: "35sKlgREqpLSOVlyqAfDENovjfScphpgoP6p3c2qA9rfqWldS9/Xiavr24L+cTwJRejRGJiT64Qn0uwJk8k6YyS0aU0866w9eRzXHOtezlMwHGTeFxo7Hg2AQ11mV6QA7L0NoS3WKxI01H4+4jpL7qErkWmN7c2GMLsXKtny5acLbtmFe4QJiHxh41hoZoJWWv94jTV6sAaqS3FfBz5zMCjiL4vksJod/FzF7ddV1woFhLxNqXcFkfPiWC+ZOKcR1zzdjQAT4hgsjnH9dnXdRCalCSAEaRIaKDOJJtwylYWp0MP7Wr0YlQQJ++4zSg6LI/SdLh/REH6PjajK9XdRUCA15G/N6e9Np09WwAOCZN82Y+w5fxRovTDD5XnCltIP/HYStbyiCp5spn9nNgp+G2VqKVFe9Uq8nzJdymyStsmanuuz2WOsE5iGu8nvLNckuWrXHBuf8FoY8QnFn+Ouz2Bdr7dJTcFACVfDHfzHHoV7/oW8P8zADNBMOp3Itk4odnZnX+WSzrWu0fcTfqDulg==;q2b2KNkmnpn3FwF1C/92sg=="
 ---
