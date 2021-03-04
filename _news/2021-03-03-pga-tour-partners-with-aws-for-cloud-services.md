@@ -80,6 +80,17 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
+    excerpt: "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world's greatest golf tournaments AWS, First Tee,"
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/b19937805/pga-tour-selects-aws-as-its-official-cloud-provider"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19937805"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19937805"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "PGA Tour teams up with AWS to improve fan engagement during tournaments"
     excerpt: "PGA Tour selects Amazon Web Services as its official cloud provider partner as it sets about revamping tournament viewing experience for golf fans."
     publishedDateTime: 2021-03-02T17:54:00Z

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Honda's part self-driving Legend a big step for autonomous tech"
+    excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
+    publishedDateTime: 2021-03-04T21:04:00Z
+    webUrl: "https://www.reuters.com/article/us-honda-autonomous-legend-idUSKBN2AW0TZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH230FT"
+        width: 810
+        height: 545
+        isCached: true
   - title: "Honda Launches Safer Self-Driving Cars, But They Will Be Hard To Come By: Here’s Why"
     excerpt: "Honda Motor Co. rolled out a safer version of its self-driving vehicles that it will begin leasing on Friday, March 5, but the limited edition car will not be offered to the masse"
     publishedDateTime: 2021-03-04T14:31:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F5%252F2%252F4%252F7%252F32787425-1-eng-GB%252FJX2103049%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2592%25E3%2582%259A%25E3%2583%25BC.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Honda to sell advanced 'level 3' self-driving car"
+    excerpt: "Honda on Thursday said it would sell a limited batch of its flagship Legend sedans equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways. Ciara"
+    publishedDateTime: 2021-03-04T20:30:00Z
+    webUrl: "https://www.timesnews.net/photo-video/video/honda-to-sell-advanced-level-3-self-driving-car/html_04f46180-7d10-11eb-97f2-8b8d75fe19c7.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/0/4f/04f46180-7d10-11eb-97f2-8b8d75fe19c7/60411ae21f79a.preview.png?crop=1815%2C1021%2C40%2C0&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "t/IT2ucXE1ZreohDYMuBgYvWbLBgli1CwYutZ3ZjteyPN8mdCLXRwmtmYRTkV9nOxC0IRJtnmFeAKw9uuvtqldDCokcD0sVxVoENAvcIL5W5tbhq68euxWI7qIcGto2RoW5HVJs6w6PCn9/A8cziTxsTMuRvjrmNIVfvBxQScfJCO4jomqMqxjjaQM6nz/9OVtipWuBgzpfovV074XORBgtFYm+xtjLt/7R+QPRSvkR4pzSuElRjRalTottmeUGL0sP9RHJKsh7TV7xbiFNgGlvMzZ+UqyP7GHzMSiNJiMgUfVb8hb0lCv/grfNv4qxPEOF7ffFj6BUZbybDXHbHXSSOQSjEqNO+TicnKwEm2+U=;ZMArVA8Lf22vdT0lGQkwlA=="

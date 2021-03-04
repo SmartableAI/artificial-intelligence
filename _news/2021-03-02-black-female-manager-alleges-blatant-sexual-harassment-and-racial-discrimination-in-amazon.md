@@ -75,6 +75,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2021-03-04T22:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft’s new iPhone app ‘Group Transcribe,’ offers real-time transcription and translation"
     excerpt: "Microsoft recently announced a new app, Group Transcribe, exclusively for iPhone users who converse in multiple languages and accessibility needs. Group"
     publishedDateTime: 2021-03-04T16:38:00Z

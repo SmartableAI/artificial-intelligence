@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-ab
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Al Bawaba News
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "China using ‘emotion recognition technology’ for surveillance"
+    excerpt: "China has been ramping up surveillance known as “emotion recognition technology” in order to monitor human feelings — and help them with law enforcement, according to reports."
+    publishedDateTime: 2021-03-04T21:09:00Z
+    webUrl: "https://nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/"
+    ampWebUrl: "https://nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/stock-artificial-intelligence-biometric-identification-facial-recognition.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Couriers say Uber’s ‘racist’ facial recognition tech got them fired"
     excerpt: "BAME couriers working for Uber Eats and Uber claim that the company’s flawed facial recognition technology is costing them their livelihoods"
     publishedDateTime: 2021-03-01T06:04:00Z

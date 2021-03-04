@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook Researchers Report Advance in Computer Vision"
+    excerpt: "Facebook said it has developed a self-supervised learning AI system that could help companies create highly accurate computer vision software."
+    publishedDateTime: 2021-03-04T20:00:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-researchers-report-advance-in-computer-vision-11614870001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 71
+    images:
+      - url: "https://images.wsj.net/im-307134/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Of course Facebook is considering facial recognition for its smart glasses"
     excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
     publishedDateTime: 2021-03-01T12:24:00Z

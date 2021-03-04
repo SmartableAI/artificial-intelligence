@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43447462/former-trump-advisor-debuts-ne
 webUrl: "https://www.wboc.com/story/43447462/former-trump-advisor-debuts-new-show-on-real-americas-voice"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "India Tightens Grip On Big Tech, America Addresses Chip Drought And More In This Week’s Top News"
-    excerpt: "On Wednesday, the President of the United States signed an executive order directing a broad review of supply chains for critical materials."
-    publishedDateTime: 2021-02-28T05:14:00Z
-    webUrl: "https://analyticsindiamag.com/india-big-tech-chip-shortage-top-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/top-news-28-feb-2021.jpg"
-        width: 1601
-        height: 901
-        isCached: true
 
 secured: "smDEJrp+9dDdtJ3UDvKkyctY4EzVu6TsX5HmHKaTaQFrd6Fh7z1k+MrjqZNxfkTVOQtgLUL8N7swA4jUpBPxoyWee78sxPh+LtU0r88WkdH2tf2cvGfS8z5SJk3A59SrEjrveIzA0cqzkYNyU7n8JfuWr3iLeZOZs7JczYQNgX8zDnQdf2E9Own01EmGZPRoFd8OTF6a/UE90DhU9FxG5NOifrV08AL36n9k5Jb1y438BIxJEblNCzxGBWXx5rIoYJa41BhChgRazWMrCcoyNw3kYBLL3fhaHrFXBkYMuof/mBbLSfT5VInUZ2AbCc4yilrj4OgX0Uwzl4rhQqsjoNbBiSO3QjT7556RAETx/4A=;ZQcDMCr01EF+pO5zdGQCcg=="
 ---

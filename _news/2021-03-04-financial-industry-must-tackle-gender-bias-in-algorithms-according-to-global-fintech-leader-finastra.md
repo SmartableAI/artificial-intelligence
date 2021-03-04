@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Katapult to Present at the 2021 Wolfe Research Fintech Conference"
+    excerpt: "Katapult Holding, Inc. (“Katapult”), an e-commerce focused financial technology company, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Orlando Zayas,"
+    publishedDateTime: 2021-03-04T21:05:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=432474"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "An in-depth look into the Kalifa Fintech Review ahead of the 2021 Budget"
     excerpt: "The release of Ron Kalifa OBE’s Review into the future of UK fintech set off a tidal wave of support across the industry. The Review outlines a plan to “bolster” the UK’s dominance in a global setting,"
     publishedDateTime: 2021-03-02T15:45:00Z

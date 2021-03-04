@@ -3,10 +3,10 @@ category: news
 title: "TensorFlow: A cheat sheet"
 excerpt: "TensorFlow is an open source software library developed by Google for numerical computation with data flow graphs. This TensorFlow guide covers why the library matters, how to use it, and more."
 publishedDateTime: 2021-02-26T23:15:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/"
 type: article
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     isCached: true
 
-secured: "vEqMtFdy+PofaHVXWMg90dY820R+SBwJYbsanT8rRhPVOeFKrNFfJ7oAK1I6vBAjkukQPLQBr6BXCDrYm2S1NQSCMeVjPz3zq54jURwdaWc8jKbaBz5Erf5abA56q/Dk2QQVzNWvTAB56CB+6arEuK+1rmqO61kDqvo33RfpuPNHNX371E7yP3WhZGuCjTqBBr4uhiAChZhdeKknaTtr+35H10FAj1tTb4YrvNIYKe9YA51AkMqhnMRfnDQR1cqXwc0H+yXqZUu3smL6+YZIiVCIfO/JgXOSqneIKlQ2lyswkSQxqc+RXiK+wWgRl4SFAkSkljZu9L3NjXmk79TIvX3ElT/S5lXSTDnVlzgRuTLteM7O3qxuA/Aczj1TbrlHMXtggVlXHPe4WhcDa/eKTNPndOhwqX5ZW+2rMDY3bF+hwyXtow9m2uC2tjzqMRmZBF2buCJWYzwllPOL5CUDWGgj95ZQRpZ8C2RhqBquZ9QqdCeEW6ahaIkmIVYSlohb8aaWwbI2EMJtfmovkscvgQ==;qXu+CBoNkqP++yi3eoMmEA=="
+secured: "SpnVI1EiXV1AA+1eAIvGQdyfElZ5NIFyHFNW5U+tYirGySNjrlADdFzjXTLoPFu+fBwbGgwh7Ed7F4IxfcjdPlKypuxT9FkGNmi2pImqSqUchITeuJ2OVh7A5bSrxG1HA3WYvhYkqG837G0KsTEqvTeMFiEwqTVqTbKFUwHIOab/zPkLoFrKDH3uI2cwLAiX43UAymh47aZH6aqay7No5CNtLiWjjOsSOgGOGSzlBxqLy0F1pTAgd3SRot1U88TDdhrkxi4cfFIFDv7ZlatHVA4DrkC3RN/Ayi34tEWTGIxw36CXqTBXMlIZZPygJX/CHPJeCOdppUvYFoWox+0UtUrI3xt5VEmpc/2Ip3Eqvzs=;51jvUZnKFn/xF7WVZ795KQ=="
 ---
 

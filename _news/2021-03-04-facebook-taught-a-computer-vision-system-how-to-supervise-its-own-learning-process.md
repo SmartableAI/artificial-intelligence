@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/facebook-has-taught-an-computer-vision-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Facebook Researchers Report Advance in Computer Vision"
+    excerpt: "Facebook said it has developed a self-supervised learning AI system that could help companies create highly accurate computer vision software."
+    publishedDateTime: 2021-03-04T20:00:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-researchers-report-advance-in-computer-vision-11614870001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 71
+    images:
+      - url: "https://images.wsj.net/im-307134/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Facebook smart glasses could have facial recognition — here’s why that’s a terrible idea"
     excerpt: "We’ve already heard news that Facebook is developing smart glasses, even if the earliest models don’t have any sort of AR or mixed reality features. But apparently, they may come with facial recognition cameras."

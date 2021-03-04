@@ -65,6 +65,17 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
+    excerpt: "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world's greatest golf tournaments AWS, First Tee,"
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/b19937805/pga-tour-selects-aws-as-its-official-cloud-provider"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19937805"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19937805"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "PGA Tour Partners With AWS for Cloud Services"
     excerpt: "SEATTLE—The PGA Tour is adding Amazon Web Services (AWS) into its bag, choosing AWS to be its official cloud provider to help transform the way golf content is created, distributed and experienced for fans,"
     publishedDateTime: 2021-03-02T16:56:00Z
@@ -132,6 +143,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "ZCc5GNjDkkf/gvPukF0ND9+xX8RR2jlNSkjYOptPxbwPzlFXqzI7UGfIwmHvDhkfNEvf+SMWkn8oDGBWtf0ywD9UrzYrmoz/z2plZmncBcNUEKRMwN1rdPG1jX9ZozsRKg9MUkTbdzCxnT5EP3DSavRRg8nFRX2VPFPXUeKfpn6av5bnsjSJ1sSSbXG2iP1vU8+ekwyPheMDUswdJxUsfusvMHSzelTJfEoYlDsoSdQuArQZi2myA/sRz2CDlRYzr8KZ0zbl3qj9oX7redRX1WWcgBP+EkZ+IVR5OlikYRzwNVCD1BiLKg8UahqqAxpaUT3bRz/cf6DsmxSTRdOuTyrs+P6mYne5ALaAAfUgEnA=;rvdLI+WcnWLR0k8U8D8GKg=="
+secured: "vwBs8gXYqLp+YRkDM7XNzDEFXXJMN0dcTLKoUWXDBnHOqa2BOhdxjX+yPaoMLRWuG1Prs4gWKnZR/3SH+SpTQArVcXLgpcQGm5TYXbh5p/5h1g4xJea9eROrP5a6IfZophRbByliiYX2vMa91PK1zIXGBqnfK4VXhY7MhzINyzXh5ZJWDmcskBvBNd4ikSxKGzDhL5FqPRxwo6p4RIrUsjRGU2Q3WyEb/4zDAEkYkWSDYWaL3eOsPswM/MoET++dCsuG86sZHdX+RwmZup4ScBJn4aKYlbS3JA9B6EgpXbKB1/hPGDs9YH5MC5epbo05R312SAfZW+yBsMdnkPAN9eUGxhcWUQ+NAv4PyYeTvJUN4PBhTc2YMAhKDvxVQQECI4LXDPyCxyYQ7QH6gD9hTn68kQXFZ0fhaVoGUR1sGvXz7iGTWE3wR3R4DQZoZ7HogQ0ZRhrYIPxC3kZOqnYQgsWJ3sN9D26le387Tf36a836VF/neL58JjudKl98wBw5aq+KzvrbiGQNE/ZiguiKag==;ehteu0ZVh1vTOoN9s+ol4g=="
 ---
 

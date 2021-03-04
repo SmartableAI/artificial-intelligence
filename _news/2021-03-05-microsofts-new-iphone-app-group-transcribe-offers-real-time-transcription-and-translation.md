@@ -74,6 +74,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2021-03-04T22:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon sued by Black senior manager alleging assault, discrimination"
     excerpt: "A black senior manager at Amazon on Monday filed a lawsuit against the company and several of its employees for alleged racial and gender discrimination,"
     publishedDateTime: 2021-03-03T00:39:00Z

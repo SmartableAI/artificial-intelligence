@@ -75,6 +75,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2021-03-04T22:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft’s new iPhone app ‘Group Transcribe,’ offers real-time transcription and translation"
     excerpt: "Microsoft recently announced a new app, Group Transcribe, exclusively for iPhone users who converse in multiple languages and accessibility needs. Group"
     publishedDateTime: 2021-03-04T16:38:00Z
@@ -150,6 +164,6 @@ related:
         height: 481
         isCached: true
 
-secured: "vy7J6hiVbLUPskHfd37KltYXHw2tpnxVhZwO5Tp/0gCQ+MWG8BalQYoBtVjJmnOs2Yfq51d7f8ADldgKDloFtkHk25zULALQJkATiM5ivztFfWI0UePXzuVqOEDBzdBOt3vPTUBjAE+5Jh2B8Vf3kKiPBkgOk5ufAoaUbbErP02mOoP3JmHe/O9FX/Na3meDNwgXW+vajgl3uhJ5/gNqGbxruJoi8g9zsLs6tDbFrvFn54yhcrmggRmhEYt+4FF1VX0ekYqN9UmiN6O5YlY6sqkNw4I+LacPM8KazxdtevXxj9YVVFOmHd8rpBQRGm2cfNsflgtQEOituoBP/as1ssioUD7j4HYiDMkE3Nnw4rI=;uboVi6/6MrJTm/Exr6RMJQ=="
+secured: "fcIHm8R98rPpHquUSGxg2NCNBKTlQvhoX4c/kNhT5mXQoX5kOAttjeqVGEzLu9f90rPalUoq7VK+Qey5PfwDE4D/iyp8n9oDX/N8PxqEIqoV2XX8E+mq58YSHuA3Sb8hxhsCBsvg12PqBeh7KILpBEtaBSZrCTs3jbmblm+uQM/+/zErLWpr4pbB718Lc9ho83CeDWoRKlRczs8rPUrSrai2/jsjq7dRcPiQzlFRbJd27NO5enux2UEgS0XjMmfCBjUVUlOZLyBQDJRgHeKI6dNCm8CEPC7p1IGRqmyHr3xILmgSspHkg1W8OieotoJriNnmjmvFHnWg0pr/jWpBGORcP1iCK3s5bs6awEDGwlBigiAHiPVesrRhmvuOqp24b3AO02lfigtYq+SleymXkuhyK741rwmv42alWx592mwWazrb6KyQIA1F4QMqIEcfnIxze7pLILyfvxCYLrhu7674Ut5a4f/L+GrHdm+JIVh1ByDJN9LsDxYp2agXsQNGfXv5ulBLyjzGZlM1/D15bg==;5Y6fFYhvnH9E1qdZthMGfQ=="
 ---
 

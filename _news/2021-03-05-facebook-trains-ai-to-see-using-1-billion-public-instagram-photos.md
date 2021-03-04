@@ -8,8 +8,8 @@ webUrl: "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billi
 ampWebUrl: "https://www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106747364-1602836839452-gettyimages-1228865133-dicola-notitle201003_npbdv.jpeg?v=1602837049"
@@ -73,6 +74,6 @@ related:
         height: 800
         isCached: true
 
-secured: "cqOlB8oX3mScxpK5HWvmXMS8yU44er6XLRL0FTo1BfaG/VHVGq3FAulo30ALBKDSfnwtZa34oOUAqDfewgPWC3TT8oT5w1mGfSvJz/bg5TVyR6+9RIg3qRv6PumI2lGvezzUCaNd238WUtUoeGRMoTRAjxLuWsevkFniWK985tbRGIfpla0PLD1lf0JGtkaFcpRJktEz+pb4w2txI7tt+de/LiaNy7gLs105qAapqM/g8n00BTpqZhZS6oreaHLHyN628KKfeEbubq2uqE+nOmwPC5B2GiCBaFe5s0bAi+5pgVrELZWvyDxVXykXKQ7N+DJxzqbSjL1d0jNDM0cCfnD75FYGbifvCY9etqR8Pak=;Nmu6HVV2xMXb4nrjGGYf1Q=="
+secured: "eRrRwW47zj6VffELifOZ4oUTgzClx83V2GwqRjqMc42qv5VK0cKQZys3uzSSaTUgfBdtjqwjBBHXqU0yylg7UmYQ+rRynRG7Mt6BXiYi3pV4m6DoZ5pDbXTNob6/fxWnFD4kBBurw3n80WRbAMtyBpRGUSNwk29HqUW1MGc0sdyeUQeevFF4nfP+Kkuvt0nLDYyECWySJvNM//OCyppFKLoYr5rv/xszCicFkRIg9IcTejF+ScNdZz4BN0/oLHlNmBSZSLYoMyd2py1DZ5umjNyId7ZrI+bPnZZ3mkaF9p9sbMft7ZCFe+J7XXv1e79rr3sbnZR2nfFMH02KslsOSCrd9IPXg7V85y/0vr+lWgZEZzGw0/4xSwX1kzyAKEfWODYCXkjZdYai1L0VkyNAyGbNdO/exq07NoNMvFrIjg2ID4fwJFPh+fVvLWcd7aGdPiom0r95RtQtxsPsFvxcrzirdljMwk74FSX5KoC74HPd4/BO/Ws1iXjoOTJus3okATFKfIUgfLyrzk8fPSA1Cg==;JshogKaWm6E6iHjXHr7ZWQ=="
 ---
 

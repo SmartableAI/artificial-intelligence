@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Honda's part self-driving Legend a big step for autonomous tech"
+    excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
+    publishedDateTime: 2021-03-04T21:04:00Z
+    webUrl: "https://www.reuters.com/article/us-honda-autonomous-legend-idUSKBN2AW0TZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH230FT"
+        width: 810
+        height: 545
+        isCached: true
   - title: "Honda’s part self-driving Legend a big step for autonomous tech"
     excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
     publishedDateTime: 2021-03-04T12:18:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/jx2103008-1200x899.jpg"
         width: 1200
         height: 899
+        isCached: true
+  - title: "Honda to sell advanced 'level 3' self-driving car"
+    excerpt: "Honda on Thursday said it would sell a limited batch of its flagship Legend sedans equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways. Ciara"
+    publishedDateTime: 2021-03-04T20:30:00Z
+    webUrl: "https://www.timesnews.net/photo-video/video/honda-to-sell-advanced-level-3-self-driving-car/html_04f46180-7d10-11eb-97f2-8b8d75fe19c7.html"
+    type: article
+    provider:
+      name: Times News
+      domain: timesnews.net
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/0/4f/04f46180-7d10-11eb-97f2-8b8d75fe19c7/60411ae21f79a.preview.png?crop=1815%2C1021%2C40%2C0&resize=1120%2C630&order=crop%2Cresize"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "KafpqB9RV1U/KJLF/QTHVYjSfTYMZFdXh2aZ+bL/YC9+aWw+/VfGEnt2qXI6PWoXu2ILH2Y4U79Bf8wOUjaUKjxIoh4yqvKI0AyCJi1BVA+2gFN8LiDv/hd/O2kLm2OMRgDk1zhguTf+l8DT9ekD9c0QZsDAgCLHKndOhuoXyHvI9FU03b5iMJHLACKPn7hlqbUVyBSQzcrphuCNRPSB/SI1Vw9vRzuODUZQlvXcDWWlqMMn7mtloldO0IMgQtGZsQj1/wEhTtACXyW5oSqr/tK3r3Yt4R80rfLoSSpl5p7AO869NsCqjcIqhzZ8khl5ZeBYVjjvCxTXaj9MB4JA0Qtzp4R3K25/cgHr032RkW8=;eI15SUfr3TM6NsSyS4OEfA=="

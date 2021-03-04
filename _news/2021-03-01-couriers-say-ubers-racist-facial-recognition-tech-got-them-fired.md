@@ -41,6 +41,22 @@ related:
         width: 1000
         height: 647
         isCached: true
+  - title: "China using ‘emotion recognition technology’ for surveillance"
+    excerpt: "China has been ramping up surveillance known as “emotion recognition technology” in order to monitor human feelings — and help them with law enforcement, according to reports."
+    publishedDateTime: 2021-03-04T21:09:00Z
+    webUrl: "https://nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/"
+    ampWebUrl: "https://nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 44
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/stock-artificial-intelligence-biometric-identification-facial-recognition.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "3kUmLLSeGzpL8qzXeiJjHBL0qXfd4/KAH/cGi3Rh8A1NuMtdWYbkv3lMTSWlv9JhlZUyq37edh1p//nMNi7pE7k9UExe9NFUpByWCRKNTZtWWvJtRkt+z3/NV7OucWfrM/CFCcZVGoaGCbmgXWmGgF62nrxagaZKFNUi4BOF8WD/ux1WKODxLc9TyheLh/G1CAK6u3MxLk6wVEZ5qzsaVGYNiq0NSHb/hqQI/4Jr0jXEoF0sH1vK+oHxLCFN9PRtGCxPHe061RgvjnCQT22R4TBYqRPdKB1mvNB2jqdMXHBekKkpeAhv8lJO0V2ceBN4NmUn6soAMftGjAVXAguUCAGoV2Ja+yeMRMp2B7Xbqbn9WUeBFgUZLgJyLlyqFaGxVdPNod1xPjf20aNgBAN3wRUolunPbLl1A3sUgEcibvBHg6IbtYwZRwPN9Bf8Nt2LzZZMcHkVD5wn617x4XDbqlDSaRVGFGFgCvyssiITavjtj1vXpZXYQkbVo+RXol0JS8T8roC5wApT5rovfDeoAQ==;DV1feqUqPmP6DEGtaNCvhA=="
 ---
