@@ -7,7 +7,7 @@ originalUrl: "https://www.itweb.co.za/content/LPwQ5Ml6r4KvNgkj"
 webUrl: "https://www.itweb.co.za/content/LPwQ5Ml6r4KvNgkj"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 761
     height: 428
     isCached: true
-
-related:
-  - title: "US is losing AI ground to China"
-    excerpt: "Looks like the free market not so good as captialised socialism after all The US, which once had a dominant head start in artificial intelligence, now has just a few years' lead on China and risks being overtaken unless the government steps in,"
-    publishedDateTime: 2021-03-03T11:23:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/52450-us-is-losing-ai-ground-to-china"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/e9bd74fe228e102a2538114c0a742f82_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "9NpagawtoE6FKjBNcUdI/fCdOPZO611pzWauvBbSDMzlhG59M1u86zCsSPYr7qYO8egLTAjOtKHBB8GjYh+4A5/ZmSOBsyHopVU+T/CeIXwFEtUcmib0jo/unWhe4OS/fCdgPNmsfBm9XxzLjGKn7IkOlvXGa3E70x7Zp+zT4tB/qe2aSiGSQKytpDMh5y1Y5Xa4OMGq9BXXZwzS03hg4IoFNmRgWLswMijx5/bD/sswS7M095dSST6E0J3JRxspviqe+sIAE38Y/5+WcsRIysXNoWcgsFrmxtiDY5Bd13IJlZ25PRd8HDsu3PkwwlxxVFewQbrjF2AvfMuBBOuiIFi+gbVtYZAbHuGxDThpx/XJHNqrXxLKmfGXHM4fuWDCWGr5dZc6zWyFFJPM/LvkuJphmi4Uakza6K77JkseOSF2ppez+dzJ030SOFj9CIlBfpa8fQIKHTG4FJ0YcCFuJGbq8MerLMjHpny0GTBxZRNIcv8Oo8KT36YDSSRH5qQKy1t+MTK7YIDdE9s8swrgag==;EFtxzJVnyX+d5yzPjuXlbg=="
 ---

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
+      "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
+      "excerpt": "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
+      "originalUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
       "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
       "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
@@ -1382,49 +1416,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.md",
-      "title": "NVIDIA Expands vGPU Software To Accelerate Workstations, AI Compute Workloads",
-      "excerpt": "Support for NVIDIA A40 gives remote users best-in-class RTX graphics performance; NVIDIA GPU Operator support streamlines management of containerised AI workloads. SINGAPORE—January 28, 2021—Designers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/WO2101/S00265/nvidia-expands-vgpu-software-to-accelerate-workstations-ai-compute-workloads.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.scoop.co.nz/stories/images/1908/scoop_image.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-28T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
         "images": null,
         "publishers": null,
         "authors": null

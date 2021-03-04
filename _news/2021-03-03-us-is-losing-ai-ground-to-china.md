@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/52450-us-is-losing-ai-ground-to-c
 webUrl: "https://www.fudzilla.com/news/ai/52450-us-is-losing-ai-ground-to-china"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "US vows to fight artificial intelligence threats posed by China"
-    excerpt: "The US government recommends instituting measures to ensure China doesn’t overtake America in the production of semiconductors that are essential in the development of AI."
-    publishedDateTime: 2021-03-02T08:45:00Z
-    webUrl: "https://www.itweb.co.za/content/LPwQ5Ml6r4KvNgkj"
+  - title: "Demystifying Artificial Intelligence and Its History"
+    excerpt: "Although it’s among the most advanced technologies of the era, opinions are still divided regarding AI. On the one hand, people see it as an innovative approach to resolve problems, boost productivity,"
+    publishedDateTime: 2021-03-02T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/demystifying-artificial-intelligence-its-history-achille-ettorre"
     type: article
     provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 37
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://lh3.googleusercontent.com/ZWZyJVZTfMWwuWgYLIXhh1IsDUPAARi8Mi3NKf0Cur-IdWCH5KFhqwPnLwoZd-gEgLGTNWzMh2O6lSmir4oN4lNqLgBaCKvo7TRB=w816-h428"
-        width: 761
-        height: 428
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHqbry1vu0VEQ/article-cover_image-shrink_600_2000/0/1614696981977?e=1620259200&v=beta&t=ZNctAqLAMXckFnpfxzdez3KdT-vB2UclonoAzColYNo"
+        width: 1797
+        height: 600
         isCached: true
 
 secured: "3reCvmzsSqPsQZZAGGLMKzrJlRuSoNrAUG4vQcVNdD01r71MXU7Hk3U8pvY3vsYiZGGFB3OeREKhEpBCtdenCxRcn//vFplvx7b9p0m55S5CfosgLGtFAc69Gh0NLgCuSQofsHqcMWuF7D+7NAHVREjmYhvgIaryAel9my59QV1sahEeGt7K5udKYh85mhVwo6pyNA1vzpqNmLlzvACYCw3ZXJnCeJQEhbUwEbVdckJLCLHwCDTpnWztKl06MFqcAt9Z6hN/dX/KW9rsiblUKpWfqE0EteSLBRfrLI5OqfKxugnbNkH0xEUx4E+Di1eJOfk/JpW5Cde3kIA6kV8O4rPW/w7dANzGnz4d+nADKNIS0VdCGiM82TiYOmuRfW30iFfu8Ni8gKA6/LnNzh2tvXscVZK/vRfWGO4p5u9fNOTMxI2oQvBpRs/H/3zILNBpHvSQdh/iKGEQq0O9MqmOlxSq7r5K2dmx6t8S6OONi1yQ544+8Te5GukglGggZofQB8vVVtTXKtSIbuzuPJ5AQw==;wl4PgvTF2jcRV8kPTpj3jA=="

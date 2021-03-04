@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02"
 type: article
 quality: 70
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -113,17 +113,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
-    publishedDateTime: 2021-02-27T14:40:00Z
-    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "hCuqal4CNWDyRWd3S/0BivbMRA2UpkH34tOsJN95xCuK1Scgc6klOqzG/X+0GopYoppnpFAFZgXYoSkBIIwbIjzmdoz47AKsDLOHKIWsJukJpK+IJYiZGZpsLcdeqAaJszsPQOgQhYg2WoCA59NpUi09w07AB/s4KXLeSXYLYzi3Gw0Rg7pidEuaaWUX/fLAoKJd+/loHHhQsgrytfhhHz9Gxki7n7nNE2N1wdFZcHoh6CX+0dIFIhZ5ZX1ZIbUx+GIEo/M8eX5Hhd/wR98/To4ekgPpfxCtI6nh6XXXLV7R9EwkBCY/tUppjLMrwCsXYMTx9dAv0zIdicl05zpKHiQWlz0BoaTCVXHVJtU6pj4=;uTAthpRd/rDZg7k85porNA=="
 ---

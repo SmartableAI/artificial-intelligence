@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Webinar: Azure Arc: There’s No Pain with a Single Pane of Glass by System Soft Technologies"
-excerpt: "System Soft Technologies (SSTech), a leader in enterprise IT services, solutions and products, today announced the company is hosting a webinar at 2 p.m. ET on Thursday, March 4, 2021. The webinar—“Azure Arc: There’s No Pain with a Single Pane of Glass”—shares case studies about how top performing companies have overcome the challenges of building a Modernized Hybrid Platform."
+excerpt: "Learn how top performers overcome challenges building a hybrid cloud platform with Microsoft Azure Arc to modernize current infrastructure, enhance digital customer experiences, drive top-line growth TAMPA,"
 publishedDateTime: 2021-03-02T16:40:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-business-corporate-news-north-america-products-and-services-19edcb89ab4e5fd699b117300e19c230"
 type: article
 quality: 44
 heat: 44
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "UQl2OGodWrgD+1tZrVA2cG6L59otHiLgqZQBm95rYXnJmY2E/lXx+X1wT/2Ld44OaFVvSThVB7hkza6m6HV537NT87hvn1feDb7hcyVpKJm/VAyRSWJ2H07WaAM/vZ8IzFScqHGOJbC9vb8LuUxV/zc/s6CK1Tad98VoPVWJg0qgT3lGrv2sScPEf3wdgfB7mvzaGT2ItAa8153kNEKWy4iuP72rG0u5Rd2t1oxpLvCxuHuTAFSoCprZF3BNfjveMkv6zKhj5LS4Yw2UkVxylS2eEF6ndUYCOh6aOm8X1ObHdcieE+mICwJRy0+ipraQwIxm8KpsZZ2A1/5h5fC0xrUU6GbFNA0RzGkhTvfbhU0=;AIHkdn8KKoBEjRBNoybB/A=="
+secured: "yrB1dgpzjTCbwSjeu7FcTn5QkoaU5LdwMVQgH32ws6aOms7fbUfxNf/3UXHTMXwu6Qh/bfSvEy6mjEfuIjaGl22zzbPg+dRu3z42rPoSHp4wmqY65HMFXgB6JVOzhM7QVomFFXxagSIHND3qc3EOpg6Aa8dX0b5/tg6egpsmSfgWZLeypweAs//iJgGoxssJwrJKu2t82IcR6rCBM5km6kG2kOfxBxYDlK9b5AiE6Qw783cpHmlF9b5U9uzv53+nVbewCA1BaYZesQcdkQ/N8Psrd+AztSkm/J7qO3lFACOW3mfGhIhvAXK8Kl9M455AqJIfs4FrtHfT/Cb+rCc9zjmVsH4lKGPD+z0m0M51nGQ=;BwfNF/4/iw6RQZpxcz0Png=="
 ---
 

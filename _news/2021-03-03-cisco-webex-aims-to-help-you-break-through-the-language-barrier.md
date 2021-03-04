@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-b
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cisco Webex AI-powered, real-time translation expands to 100+ languages"
+    excerpt: "AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions."
+    publishedDateTime: 2021-03-03T22:42:00Z
+    webUrl: "https://www.dqindia.com/cisco-webex-ai-powered-real-time-translation-expands-100-languages/"
+    ampWebUrl: "https://www.dqindia.com/cisco-webex-ai-powered-real-time-translation-expands-100-languages/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/cisco-webex-ai-powered-real-time-translation-expands-100-languages/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/translation.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Cisco continues to overhaul Webex, now with real-time language transcription"
     excerpt: "Cisco users will soon be able to have their in-meeting speech translated in real time into over 100 languages, a feature first teased at the copany’s WebexOne event."
     publishedDateTime: 2021-03-02T10:32:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 136
-heat: 446
+heat: 466
 published: true
 
 provider:
@@ -388,6 +388,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "This Microsoft app transcribes, translates group conversations in real-time"
+    excerpt: "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi"
+    publishedDateTime: 2021-03-04T06:00:00Z
+    webUrl: "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/04/full/1614837760-6327.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Ignite 2021: Microsoft opens another data center in China, announces new tools for Azure Data and AI"
     excerpt: "Ignite 2021 conference is underway, and there’s a lot of Azure and cloud news coming out of the event. The biggest of them all is the announcement that Microsoft is"
     publishedDateTime: 2021-03-02T14:01:00Z
@@ -405,7 +421,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN
@@ -482,6 +498,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
         width: 444
         height: 250
+        isCached: true
+  - title: "Record group meet transcriptions with new Microsoft app"
+    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
+    publishedDateTime: 2021-03-04T06:18:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "EjjlbNIifuZ/YOrI8mzfC4Jt/yaks6eVT7ixVsTK8NUFdQR3PNb91QOViDAqeen8iNj3XDo0yPlVFYRQpx831RlLCD27m+FJOIZj7ux+FR22h0bX/g9Fcn2u1X8o8ATJ7q1KDW+2T06xo7EFwtsbORoV2HkThdNn07PhZ1xgq99c5sEDjRIFFukSVrfC5J4em82kfi1ys9KmsNpwebB/uhET3GKAwHLpn+lrLChao6Z9iJIaxYN0AUdlIvWj8RgzoR0QgzTr1q9X4/PfVlvQu0aKPKu+Q3bd4hCYYS3hVAdBvB/DNEjZTxzIlB2KQC49OoWVt16hdPmcrILIhdRTDmYIed7Q0lx+grp6z8KqjaPy0Hg7pzgHq3kji7V2JrNijILC4f8JExmXU97mFIDbeD2/UdPr41iKKYxLU6BNc4i+CKkTr3OMjKJCv45osy5xRwz81AooQqgQHOGtUtthD4+sz4w+FuMO1LL8/N9TMqHDhCe52PltaHRRhYwU0fjitrE2dIfbWlaeyeMrJK8PcA==;YJT83nzd14dlbliBfK7gLg=="

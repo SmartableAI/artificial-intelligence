@@ -399,6 +399,22 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "This Microsoft app transcribes, translates group conversations in real-time"
+    excerpt: "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi"
+    publishedDateTime: 2021-03-04T06:00:00Z
+    webUrl: "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/04/full/1614837760-6327.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Ignite 2021: Microsoft opens another data center in China, announces new tools for Azure Data and AI"
     excerpt: "Ignite 2021 conference is underway, and there’s a lot of Azure and cloud news coming out of the event. The biggest of them all is the announcement that Microsoft is"
     publishedDateTime: 2021-03-02T14:01:00Z
@@ -416,7 +432,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN
@@ -477,6 +493,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
         width: 444
         height: 250
+        isCached: true
+  - title: "Record group meet transcriptions with new Microsoft app"
+    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
+    publishedDateTime: 2021-03-04T06:18:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "tfxyymHu5z8Za3xZ7Zeggthvh4YmaUuP1IrITZ3DyAbEuZG7w4bWjCITtde6795Y33PJZ7vDrr5x1ps9pPn1WVoHJKxlugzxOx2QLA8Y53wz/16QDFD7YpxgJNgd9nyHOAaV+yRcmj66CQyibk7IGe4pNfU8T7BL6HWjR0Gsr4ifk0SM8ESSsmbE9gDLCdSl7s9oYIFDonukiRVHhjb+A9G/yvZ7KCVTGWn0W0LPBfFYqbet6i4Y6fA78ioLRu6ipm5ayoL94nhQigHQ4Mv+E6N/RSdpmP5QlmeGCkY7V8L6bI+yYezgghg9IlUNL4/lRrVcRDUTo3W6zXnQR11r8sjyahHOLHy3m4duQlLMsyrli/RNcK1Jb7uciwQWlApUkRcnFgYht2LRYGU4EVcavzw6dD0fYHXxzjkCWXglcjz6fzAmB2OgMPhZl5P3+FSfBIA9N1oqXsv/P463Zi+ohxZgK1QjGJYvppj1qFxa2Oy8iJ0Buo/iTUUUQQtz19D3KWePyIidNVFbUWt+nzCp4w==;dUvB9Kmegvt0L7uumPuWBQ=="

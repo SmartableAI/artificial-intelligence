@@ -5,10 +5,12 @@ excerpt: "Kubeflow Components, a toolkit supporting the company’s AWS RoboMake
 publishedDateTime: 2021-03-03T13:25:00Z
 originalUrl: "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/"
 webUrl: "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/"
+ampWebUrl: "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/amp/"
 type: article
-quality: 50
-heat: 50
-published: false
+quality: 92
+heat: 92
+published: true
 
 provider:
   name: VentureBeat
@@ -22,7 +24,14 @@ topics:
   - AWS AI
   - AI
   - AI in Robotics
+  - Machine Learning
 
-secured: "bF7ywu3Sk0CTnNWmS8vecnzucjTtylZVqZWcKXrDnGEuKzaureO979vW48KKV4+q1/PHqG1pLiRH430FQm/DIR88afklCv/M2pB3cDuJTf945d3uPnFNPTdBFgUbkt6FoGBDXHEuJP54sCwovPWdIKiy1ZaBNbmAkPn9dy3ciBpr3DSWMoJDkk8OFtcF8nD9bdPEhqU6piSKG+zUeop6RIcpmsjfDTIAc/xs7eShLzMWYdMI/rx9z/980n3X24I5avhWgGldOItXz2hX/J1aHAUSnU+71bUSbvRKYUDBR8qGv7PPnHoFe9zR8n4W4vnAqUe1d4g/3mZIRjdsHKEZ+GOIdVy13O9vhWB4E2+oO/QoWoVn/PnCqnHDfFpKMv8BHMIj08OXhHz7fx+LcZSMwwkhyV698ZzVdBsnGYsboEJDnKW0/86aQQxdrmwBARyhtAaV/pgVvp5XyA5hywJHyCjQh65720Ut9TW1IiDOBnomL06dWpHOdoLtMT+nsLh1k0z02iDCz52I4D9hIdv83A==;M/bZaOFwXf40EG1jCIdOlQ=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "BVk+DT1GT3stBdVqSJo3GkQtxRQBuqcflzTaLdrIp7r0Rwf2AMMljR/g+rV1kn17YplbTujX3IF+UJOO4MzAyDbCNEer0PoWZyOH4TSqj8VV2r89cF2BgV87nKArIZFOKOoyC7PhULfA0QVRZsUHX3uSwrhqbR2soAsbKNZHn7pe3ZAqAM5Qn2dVqVcsZ2Y+URUfzlOpJgE1X2fEZHHpcF+jfvoDc+9lWgrzphZh8SPk/XErirTHbJ61vW+rHwidbAXZzNosLiU01N1mSmkW/TD6JM2EmLos/aqxuKnSr6/zmm4fYqp9igii6XdpxvAew78ofRJ3fnHAmN/L+Fo3/w+aShnXsSiN3O+dUMiSTwk=;ThNhSVVMBfHl8p9Ame4gaQ=="
 ---
 

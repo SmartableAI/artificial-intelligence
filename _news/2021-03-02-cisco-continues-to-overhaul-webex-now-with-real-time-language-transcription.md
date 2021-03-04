@@ -43,6 +43,22 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Cisco Webex AI-powered, real-time translation expands to 100+ languages"
+    excerpt: "AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions."
+    publishedDateTime: 2021-03-03T22:42:00Z
+    webUrl: "https://www.dqindia.com/cisco-webex-ai-powered-real-time-translation-expands-100-languages/"
+    ampWebUrl: "https://www.dqindia.com/cisco-webex-ai-powered-real-time-translation-expands-100-languages/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/cisco-webex-ai-powered-real-time-translation-expands-100-languages/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/translation.jpg"
+        width: 850
+        height: 400
+        isCached: true
   - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
     excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10 x better than in person interactions Webex innovation paving the way for real-time translation beyond English."
     publishedDateTime: 2021-03-02T13:00:00Z

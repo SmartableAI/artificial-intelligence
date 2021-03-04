@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skil
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3?amp"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -24,6 +24,22 @@ topics:
   - AI
 
 related:
+  - title: "As China Rises, the US Builds Toward a Bigger Role in AI"
+    excerpt: "After decades of staying out of industrial policy, a Pentagon-appointed commission recommends more spending on research and support for US chip makers."
+    publishedDateTime: 2021-03-02T07:00:00Z
+    webUrl: "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/"
+    ampWebUrl: "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/603d9d652d6b6299017ee0dd/master/pass/business_ai_1288382287.jpg"
+        width: 2400
+        height: 1589
+        isCached: true
   - title: "Panel on artificial intelligence urges US to boost tech skills amid China’s rise"
     excerpt: "Former Google CEO Eric Schmidt and current executives from Google, Microsoft, Oracle and Amazon are among the 15 members of the National Security Commission on Artificial Intelligence, which released its final report to Congress on Monday."
     publishedDateTime: 2021-03-02T06:01:00Z

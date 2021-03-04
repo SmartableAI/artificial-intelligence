@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Why Baidu Stock Soared Today"
-excerpt: "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ..."
-publishedDateTime: 2021-02-20T03:25:00Z
-originalUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602"
-webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602"
+excerpt: "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company."
+publishedDateTime: 2021-02-20T02:58:00Z
+originalUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
+webUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20"
 ampWebUrl: "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp"
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "IZbKSOFfcFI3XFMloqW5gWt9qJoOYLpKDdsj5WWVB+AcOZJIJo4USOFLfhcdpVJvYnGv/JGtaDJDLyuNnngN/aeCbyhm0lgysOoEXbYNUycfSCjxALRuaHdDhGDYTWb+TDHlh441RaG7XMujVl+aQnO6RPM43zvLSUKQSJ345ftMQmUvImKzXjkZJC6OTE99nIP/rC0RYJu3mF09innawvuFxg0bJN1HWFFkXM7f9KouEPXSJOsEvgnXqE1Uf2Cj4xlkj2zSC5QKrCXJ7v4MEJXEAsZLymp3CkPfuNISnsEOuwiZmv74toXE+TxxIF4x4O3v/p8kfPQgHE6HuvkKmw4EuaVhdWeWmXUJVHrI1WE=;I9rcyJhMcGIOnWGD/BYR5A=="
+secured: "obt5wRTsDeWsTukSuPMLChiBm3vb7Zu3j2kwt0TTmySIE1jsFMp0FYEPputePszsk40reagOVo+pzGPK56Uv2vCwMKNpaGthbfcKyTAziWIpOG0l++Yi6t97C35p3pZs1fTvo/GlYbPVcd89Wi7F6C9trW7kn7w5K4XhxrxtDlyEV51v9eMpDE9yd9/M+JyJ6011oWwjmrgI3kzCz5uwQEcxwusdKJJUDUdHjoaIcXHvCl+r5vyDMdUTzCP7XKl+YNAspo3YnaCaJwU2rQKCKE85sgcz0FNK7kkbEYfDPS3SvcpYQz/udXRb/P3BaVO7mhRB+5DxswzxgmxXwrM9RDJUejsgv4kyOY0pjOyHI5A=;EuUNc3shob90tjWf5JWy6Q=="
 ---
 

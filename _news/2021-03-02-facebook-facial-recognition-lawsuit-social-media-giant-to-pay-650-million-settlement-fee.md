@@ -41,22 +41,6 @@ related:
         width: 2500
         height: 1569
         isCached: true
-  - title: "Facebook Weighing Up Legality of Facial Recognition in Upcoming Smart Glasses"
-    excerpt: "Facebook is reportedly weighing up the legal implications of building facial recognition technology into a pair of smart glasses that the company"
-    publishedDateTime: 2021-02-27T13:31:00Z
-    webUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/"
-    ampWebUrl: "https://www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/27/facebook-facial-recognition-smart-glasses-legal/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 56
-    images:
-      - url: "https://images.macrumors.com/t/ZIPkmMVdOG2CVYYdSjdM2oBwWJQ=/1600x/https://images.macrumors.com/article-new/2021/02/facebook-smart-glasses-prototype.jpg"
-        width: 1600
-        height: 901
-        isCached: true
   - title: "Law on collection of facial recognition data to be proposed at two sessions"
     excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
     publishedDateTime: 2021-03-02T10:36:00Z

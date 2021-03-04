@@ -2,6 +2,94 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-19-is-artificial-intelligence-the-future-of-network-security.md",
+      "title": "Is Artificial Intelligence the Future of Network Security?",
+      "excerpt": "Is Artificial Intelligence the Future of Network Security? By Jeffrey W Brown, CSIRO, BNY Mellon - Cyber attacks have become more sophisticated, happen faster and cause more business disruption than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/is-artificial-intelligence-the-future-of-network-security-nid-26353-cid-135.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/is-artificial-intelligence-the-future-of-network-security-nid-26353-cid-135.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/21H056v8.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T21:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-deep-learning-and-future-of-healthcare.md",
+      "title": "Deep Learning and Future of Healthcare",
+      "excerpt": "Deep Learning and Future of Healthcare By Sanjib Basak, Former Director of Data Science & Artificial Intelligence, Carlson Wagonlit Travel - As Artificial Intelligence (AI) gains popularity in the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
+      "originalUrl": "https://www.cioreview.com/cxoinsight/deep-learning-and-future-of-healthcare-nid-27230-cid-212.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/newsimages/special/BYa6ufyT.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T18:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-ibm-exploring-sale-of-its-watson-health-unit.md",
       "title": "IBM exploring sale of its Watson Health unit",
       "excerpt": "International Business Machines Corp. is exploring a potential sale of its IBM Watson Health business, according to people familiar with the matter, as",
@@ -1136,100 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-mit-csail-taps-ai-to-reduce-sheet-metal-waste.md",
-      "title": "MIT CSAIL taps AI to reduce sheet metal waste",
-      "excerpt": "Researchers at MIT's Computer Science and Artificial Intelligence Laboratory have created a tool that taps AI to minimize sheet metal waste.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/Fabricaides-packing-algorithm-can-arrange-parts-onto-sheets-in-an-optimally-efficient-way-in-real-time-e1612993356643.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/mit-csail-taps-ai-to-reduce-sheet-metal-waste/amp/",
-      "publishedDateTime": "2021-02-18T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-infosenseglobal-launches-new-artificial-intelligence-division.md",
-      "title": "Infosenseglobal Launches New Artificial Intelligence Division",
-      "excerpt": "Infosenseglobal is proud to announce its newest division, focusing exclusively on building innovative artificial intelligence solutions for businesses looking to accelerate digital transformation. With decades of experience in information technology,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8",
-      "originalUrl": "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-new-products-and-services-79b807e3055dafe7489f7795739846f8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

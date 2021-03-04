@@ -55,20 +55,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Facebook doesn't seem to mind that facial recognition glasses would endanger women | Arwa Mahdawi"
-    excerpt: "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Continue"
-    publishedDateTime: 2021-02-27T14:33:00Z
-    webUrl: "https://www.newsoneplace.com/8501672012/facebook-arwa-mahdawi-facial-recognition-glasses-endanger"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 26
-    images:
-      - url: "https://images.weserv.nl/?url=https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f71f1fa92e15a62c7144241/0x0.jpg&h=276&fit=inside&cbg=white"
-        width: 369
-        height: 276
-        isCached: true
 
 secured: "SeEqa38NSsNOFppQsKl6DKXtC32mdxvBIbfSWYdYHRcarwA6lcFAWIaMxb8wJnQV64X7uUbpZDeJ0nfuxBj47nLGIuFcNVqoUhTz7eU2p3SobivLYq+KgVJBH23hA+vr6tsw8mIXZLlS4xXSCr98j7m8aUMDxcfxvToIb/yULoKhzrJJnY5qZC82HsnX8efG+7NKqpZ+n955CiRHNoXUeQ7uqY20bOb8jM3Ak+OoMsYDuJUSJLTso01zjVF+kMFDPblr2LX8PXsvTfsNzL4dRlxUjbe9UeTuIm7vPMa7Abfp7AbH2ka/BsP/ZJXEQQrITUMBUtA3pzphSWxH0Uxa2SaqGbltdiCHCJOPm706WqY=;Xo76RpNlbtlLbFqi9usW4Q=="
 ---

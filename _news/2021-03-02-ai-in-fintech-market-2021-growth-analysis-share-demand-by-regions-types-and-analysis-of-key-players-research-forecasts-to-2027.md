@@ -113,17 +113,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Far Field Speech Voice Recognition Market - Global Industry Analysis, Size, Share, Growth, Trends and Forecast 2021-2027"
-    excerpt: "The Global Far Field Speech Voice Recognition Market size is expected to grow at an annual average of 20 3 during 2021 2027 Far field speech and speech recognition are technologies used in machines that allow humans to interact with"
-    publishedDateTime: 2021-02-27T14:40:00Z
-    webUrl: "https://www.openpr.com/news/2249703/far-field-speech-voice-recognition-market-global-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2249703/far-field-speech-voice-recognition-market-global-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 0
 
 secured: "ujX7ekOiWgyjmduQlEotvCPwO3if0dTvhZIbxT39Gkh47HXfgygAIEVbFtTAICn6HQYvk3TXBFB1drIYzh2Dudnm5+QLutV3EWURNcL2LVjFwuUhFAZlii0xkjecIsHdm6pHHhB6YtAFVg32CYByEFa9v7fCXehNMfHkuNuddOex2kL87V3TX6eqMeXr30XRGImXGLDysmFJrmHp069q2ryY0CdnsOx+qwmA7DC1USR8Gi9Vm4RiWvg8kh0tqMUNhIlWpx+OnraxLesdADyhciZ06Wzt5dAOHQFMDaflpkw4jmmcxYbYjqI8DyGxjghcZCG9EBzmfx/3bdGU2Q5XK6YXiGb2T1SQupIzESNRZEY=;HywepfMfu+XdcqzXnOuxJQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-h
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/03/facebook-logo-on-smartphone-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Facebook doesn't seem to mind that facial recognition glasses would endanger women | Arwa Mahdawi"
-    excerpt: "Facebook is considering building facial recognition capabilities into its smart glasses – which would make life easy for stalkers Continue"
-    publishedDateTime: 2021-02-27T14:33:00Z
-    webUrl: "https://www.newsoneplace.com/8501672012/facebook-arwa-mahdawi-facial-recognition-glasses-endanger"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 26
-    images:
-      - url: "https://images.weserv.nl/?url=https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/5f71f1fa92e15a62c7144241/0x0.jpg&h=276&fit=inside&cbg=white"
-        width: 369
-        height: 276
         isCached: true
   - title: "Facebook mulls face biometrics for forthcoming smart glasses"
     excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."
