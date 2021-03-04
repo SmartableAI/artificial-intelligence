@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
+    publishedDateTime: 2021-03-03T22:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-report-2021-2026-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qcXShGD85Z4uC2rDLI2kKy6nk8HufrsJytaC+weY4O7Qf0uqJ1S9AWOlxZNWaGEnpWz3k6elQBgPunnewEChyak18RSwwc631N2rgYPWqvjoiBgqQ3DpiNPAans5+xXicWl6TxeOXEi7p/vW/r2IBZhThTJlBlUOnwVoszlwRn7bfZ5xneOdzT7HOrATD3bMQfNoummSwqMgf4gw78QGIKt5Nn/uVtQI/WInrJeQsq03JyZFZGIDxDR3iPKWadGwW+B8j4hkVf7divMHEp3DsThSJnTEa1feMpxIq4OOUvxuSH1byS7c2kQht9UcHSed1RXKCB18CogLVh++9rKrZHh/IAxCDk9vxnWALuuhplk=;a/IVq/ORxJU8mWdKHYKKFA=="
 ---

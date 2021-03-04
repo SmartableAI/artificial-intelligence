@@ -41,6 +41,20 @@ related:
         width: 2500
         height: 1569
         isCached: true
+  - title: "Congress to renew fight over facial recognition ban"
+    excerpt: "Following a failed attempt at reform in the previous Congress, Capitol Hill is poised to reignite the thorny debate over law enforcement’s use of facial-recognition technology. But after two impeachments,"
+    publishedDateTime: 2021-03-02T17:18:00Z
+    webUrl: "https://www.nationaljournal.com/wp/congress-to-renew-fight-over-facial-recognition-banwith-the-house-poised-to-pass-some-restrictions-this-week-democrats-in-both-chambers-are-prepping-a-broader-moratorium-on-law-enforcements/"
+    type: article
+    provider:
+      name: National Journal
+      domain: nationaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.nationaljournal.com/wp-content/uploads/2021/03/AP21027000725384-scaled.jpg"
+        width: 2560
+        height: 1524
+        isCached: true
   - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Asia Pacific region"
     excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout"
     publishedDateTime: 2021-03-03T10:30:00Z

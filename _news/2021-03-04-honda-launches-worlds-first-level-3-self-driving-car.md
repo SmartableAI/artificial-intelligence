@@ -41,6 +41,22 @@ related:
         width: 800
         height: 538
         isCached: true
+  - title: "Honda Launches Safer Self-Driving Cars, But They Will Be Hard To Come By: Here’s Why"
+    excerpt: "Honda Motor Co. rolled out a safer version of its self-driving vehicles that it will begin leasing on Friday, March 5, but the limited edition car will not be offered to the masse"
+    publishedDateTime: 2021-03-04T14:31:00Z
+    webUrl: "https://www.ibtimes.com/honda-launches-safer-self-driving-cars-they-will-be-hard-come-heres-why-3156386"
+    ampWebUrl: "https://www.ibtimes.com/honda-launches-safer-self-driving-cars-they-will-be-hard-come-heres-why-3156386?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/honda-launches-safer-self-driving-cars-they-will-be-hard-come-heres-why-3156386?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 37
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/jx2103008-1200x899.jpg"
+        width: 1200
+        height: 899
+        isCached: true
 
 secured: "KafpqB9RV1U/KJLF/QTHVYjSfTYMZFdXh2aZ+bL/YC9+aWw+/VfGEnt2qXI6PWoXu2ILH2Y4U79Bf8wOUjaUKjxIoh4yqvKI0AyCJi1BVA+2gFN8LiDv/hd/O2kLm2OMRgDk1zhguTf+l8DT9ekD9c0QZsDAgCLHKndOhuoXyHvI9FU03b5iMJHLACKPn7hlqbUVyBSQzcrphuCNRPSB/SI1Vw9vRzuODUZQlvXcDWWlqMMn7mtloldO0IMgQtGZsQj1/wEhTtACXyW5oSqr/tK3r3Yt4R80rfLoSSpl5p7AO869NsCqjcIqhzZ8khl5ZeBYVjjvCxTXaj9MB4JA0Qtzp4R3K25/cgHr032RkW8=;eI15SUfr3TM6NsSyS4OEfA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-b
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -62,6 +62,34 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/12/in-meeting-reaction-hand-gesture-100870294-large.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Polygot conferencing: Cisco adding real-time translation of 108 languages to Webex"
+    excerpt: "Cisco is adding the capability of real-time translation from English to 108 additional languages, including Afrikaans, Armenian, Malay, Vietnamese, Hindi, and Zulu, to its Webex conferencing system."
+    publishedDateTime: 2021-03-02T17:27:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/02/polygot-conferencing-cisco-adding-real-time-translation-of-108-languages-to-webex/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 18
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/webex-translation-e1614704928960-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Cisco Webex To ‘Level The Playing Field’ With Real-Time Translation In 100+ Languages"
+    excerpt: "The popular Cisco Webex is including real-time language translation in more than 100 languages, Cisco's Security and Applications leader Jeetu Patel said."
+    publishedDateTime: 2021-03-01T21:00:00Z
+    webUrl: "https://www.crn.com/news/networking/cisco-webex-to-level-the-playing-field-with-real-time-translation-in-100-languages"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 17
+    images:
+      - url: "https://www.crn.com/resources/0267-11b22c7454bb-5785152192e9-1000/realtimetranslations_jg.jpg"
+        width: 1500
+        height: 845
         isCached: true
   - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
     excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10 x better than in person interactions Webex innovation paving the way for real-time translation beyond English."

@@ -41,6 +41,20 @@ related:
         width: 2500
         height: 1569
         isCached: true
+  - title: "Congress to renew fight over facial recognition ban"
+    excerpt: "Following a failed attempt at reform in the previous Congress, Capitol Hill is poised to reignite the thorny debate over law enforcement’s use of facial-recognition technology. But after two impeachments,"
+    publishedDateTime: 2021-03-02T17:18:00Z
+    webUrl: "https://www.nationaljournal.com/wp/congress-to-renew-fight-over-facial-recognition-banwith-the-house-poised-to-pass-some-restrictions-this-week-democrats-in-both-chambers-are-prepping-a-broader-moratorium-on-law-enforcements/"
+    type: article
+    provider:
+      name: National Journal
+      domain: nationaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.nationaljournal.com/wp-content/uploads/2021/03/AP21027000725384-scaled.jpg"
+        width: 2560
+        height: 1524
+        isCached: true
   - title: "Facebook Facial Recognition Lawsuit: Social Media Giant To Pay $650 Million Settlement Fee"
     excerpt: "Facebook has been in the news repeatedly for its privacy policies related to user data collection. Read on to about the recent Facebook lawsuit."
     publishedDateTime: 2021-03-02T12:38:00Z

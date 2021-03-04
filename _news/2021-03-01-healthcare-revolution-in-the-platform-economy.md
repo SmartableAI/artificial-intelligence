@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2021/03/01/healthcare-revolution-in-the-platform-economy/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "The Fourth Healthcare Revolution - Digital Technologies Are Driving a New Frontier in Medical Treatment"
+    excerpt: "Healthcare has a long way to go before it reaches the level of digitalisation the manufacturing industry possesses. However, this slower pace doesn’t mean digitalisation isn’t already beginning to show its benefits in the medical sector."
+    publishedDateTime: 2021-03-04T13:57:00Z
+    webUrl: "https://www.roboticstomorrow.com/article/2021/03/the-fourth-healthcare-revolution--digital-technologies-are-driving-a-new-frontier-in-medical-treatment/16383"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 23
+    images:
+      - url: "https://www.roboticstomorrow.com/images/articles/16383.jpg"
+        width: 680
+        height: 340
+        isCached: true
 
 secured: "M2dSNoLtVzXtwvQ6CvV68fP4aQuvrPY+hiDomdrG4KzbmRKhgiOIcF8BRy2CSSB9QAQO/TLEpnIQ8tIdt7DUXdicczondtAIOLK5o54RJVIaAOQNCQzEnNt9suaWVBBfR2A5yHjj2STgp0rJ6Nf2wr1KBegqjKsfdw5xpjA4XGwBiU9xDoKugHXEYll81dy9mS5umzlRqqkmwg2YeDr1MPHEg3/Ep8Z8BE74gzzKDC69CUohQwwNmw3OWtcb8rKxMlJCP6SyQEP2msTqvOFsnV6owSBr2cNC0/ZMyumaD4hbAbQgjc6F729vl7XMfo626+W+/XxPEeQEeo24iKTwu9edOYapCpWz4HNA7//lP/DWssNphqjiu9yXr6Lb6oTn6qDZuMQECfDQ7E8aSujq/r6DWPav+JUagorSEkpijB0XNYUhv3HRlpRzzZiShTqSbJ4RduON5C65RGb1qmGaPRJIxDwMGPnWwsVBtSyh4Ed4mYJ/6aKYwkWtIhe0JL4tVbFRjJvZqwbkHPHnYKfSxg==;AmxhOkUYiAlkto2s+uMH2A=="
 ---
