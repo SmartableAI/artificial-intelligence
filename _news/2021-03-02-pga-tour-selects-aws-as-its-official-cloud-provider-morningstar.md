@@ -36,20 +36,18 @@ related:
         height: 900
         isCached: true
   - title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
-    excerpt: "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world’s greatest golf tournaments AWS, First Tee, and the TOUR will partner to empower children and teenagers to build inner-strength,"
-    publishedDateTime: 2021-03-03T03:05:00Z
-    webUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/"
-    ampWebUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/"
-    cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that the PGA TOUR (TOUR) has selected AWS as the Official"
+    publishedDateTime: 2021-03-02T19:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
     type: article
     provider:
-      name: digitalproducer.com
-      domain: digitalproducer.com
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
     images:
-      - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "PGA Tour signs up with AWS, looks to AI as engagement driver"
     excerpt: "The PGA Tour has selected AWS as its official cloud provider, utilising artificial intelligence (AI), deep learning and machine learning."

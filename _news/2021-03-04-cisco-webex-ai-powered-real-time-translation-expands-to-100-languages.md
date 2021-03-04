@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Polyglot conferencing: Cisco adding real-time translation of 108 languages to Webex"
+    excerpt: "Cisco is adding the capability of real-time translation from English to 108 additional languages, including Afrikaans, Armenian, Malay, Vietnamese, Hindi, and Zulu, to its Webex conferencing system."
+    publishedDateTime: 2021-03-03T06:29:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/02/polyglot-conferencing-cisco-adding-real-time-translation-of-108-languages-to-webex/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 18
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/webex-translation-e1614704928960-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
   - title: "Polygot conferencing: Cisco adding real-time translation of 108 languages to Webex"
     excerpt: "Cisco is adding the capability of real-time translation from English to 108 additional languages, including Afrikaans, Armenian, Malay, Vietnamese, Hindi, and Zulu, to its Webex conferencing system."
     publishedDateTime: 2021-03-02T17:27:00Z

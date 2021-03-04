@@ -75,6 +75,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Microsoft’s new iPhone app ‘Group Transcribe,’ offers real-time transcription and translation"
+    excerpt: "Microsoft recently announced a new app, Group Transcribe, exclusively for iPhone users who converse in multiple languages and accessibility needs. Group"
+    publishedDateTime: 2021-03-04T16:38:00Z
+    webUrl: "https://www.ithinkdiff.com/microsofts-group-transcribe-ios-app/"
+    type: article
+    provider:
+      name: iThinkDifferent
+      domain: ithinkdiff.com
+    quality: 45
+    images:
+      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2021/03/Group-Transcribe-app-Microsoft.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Amazon sued by Black senior manager alleging assault, discrimination"
     excerpt: "A black senior manager at Amazon on Monday filed a lawsuit against the company and several of its employees for alleged racial and gender discrimination,"
     publishedDateTime: 2021-03-03T00:39:00Z

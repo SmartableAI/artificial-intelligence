@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Cambridge Quantum Announce Largest Ever Natural Language Processing Implementation on a Quantum Computer"
-excerpt: "Separate experiments, each of over 100 sentences, provide a strong proof of concept that Quantum Natural Language Processing is within reach"
-publishedDateTime: 2021-03-02T05:06:00Z
-originalUrl: "https://www.nationthailand.com/noname/30403208"
-webUrl: "https://www.nationthailand.com/noname/30403208"
+excerpt: "Cambridge Quantum Computing (CQC) announces the publication of a research paper on the online pre-print repository arxiv (available here)"
+publishedDateTime: 2021-03-02T00:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-301237921.html"
+webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-301237921.html"
 type: article
-quality: 2
-heat: 2
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: nationthailand
-  domain: nationthailand.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "0+/OppFZ5m1rDkkJsDlZK/vhwNb0SRbM3m8X0fUHBNZ+ydeXy+tJ42OmmVLpv1eonJZOAlWJcNCnmhPDJeHksUHQx0NPu+UV5EI2asmBuVT5Fvh7oygWtU77M93/dYZCnlBJ2iSKRcGzWmzye/qvKJDWv2pR4y4Gpka4irtObhHSiYoOxMrB0Uz5UqpznJRIxpfL1gAd6rbQV1LlW7SDjilD9c+ykt0l/h5iNo2byUX4O6H53u5jGEj6/30o0OaBx4imrjvUsInfe9NczuEOMdEQ/YfnDDs/f/ZdwMkX2VBlNiNMQc0s+ogEMz+0egOXu+tnQlEyuhbded++2E7k5vrFNBXyefFYzDWqJh5/qhvl6SNQfI1f1SlRILJTE7Q6kS0Sl7URNYDTosAMj9S2tEXpSVw1LvD0IBG6quDw3ObwbSOHSvE4kGiUroRUjpydYxcq6Izchmbyl106sGwXSDGgj+6C+yzWpCOMx795ApvljYrGqNWO73OE0+E7VxUXkbeixj6A9/jhhIV+8sCBOQ==;xT+x5lcvnxFT+95hQg/E+g=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "jCSZFlQvhl3Ej+MmVyDvvsdWe9fGrBSSHaNxQ9qb63EI0GlnH6kq1o6uDL1fkgxZMc7APrWGVDjjH2VjrUKRv/GkD3lvCBGGg8w60Fx31NPCGweqkOwJC5brAUNQWMFtc9k5cJ2bf3fUXFT85ejtfoKjIM8sbWqh4F9mmnI+1vbX4J7odP1tPGi0JVw0hhf/P9m4YnHpmPdBMszNh/Obf8m+LTjTcZQC+iIlqdRXUmWhbHO8dqWTEr66hpOl96DQwKdtnz4Lq8pLjFBuCIihWqoCLS1Zhg9mnELiU0ueH0b4IyQxcg1lV9SSG/+rFnGGeid0BvjRlXKdDpT5VbJ52VQUoFc7mESsi3P3PDmhuuo=;1XwyG4R1nr1To51GTO/2DA=="
 ---
 

@@ -1,29 +1,31 @@
 ---
 category: news
 title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
-excerpt: "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world’s greatest golf tournaments AWS, First Tee, and the TOUR will partner to empower children and teenagers to build inner-strength,"
-publishedDateTime: 2021-03-03T03:05:00Z
-originalUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/"
-webUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/"
-ampWebUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/"
-cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that the PGA TOUR (TOUR) has selected AWS as the Official"
+publishedDateTime: 2021-03-02T19:14:00Z
+originalUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
+webUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
 type: article
-quality: 59
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: digitalproducer.com
-  domain: digitalproducer.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-    width: 735
-    height: 552
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -124,6 +126,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "z/92mhoRf9eloaXWrAL23VuyxGZpzlvUDR993Ug2TqNU6e/CAlnbHKfAdSFWXixPFBg2EmXGx2aT/2QC4uMFQbCI71G5wIczKQkTMEOlhu2I2tyCFSg2jJKrFCb5TsKlgZ+ZXSFRfXcCvHFPvgC9BxBuEGS9hHGGzDLNELojd6Jv8uBsD0cMBynNM5tZoEE8j5VI0lns+tpuIsGxksOMWJ6k+xpoXyIrpwaknEm5nSYWwNsPYEskgxeXkci/LsNo7x3Hflqn8G8CxRJc+BuCagqrvgRv2e3bBQr867jWA3rgfvDebaO1n0kBl5vfsWhrEUk+aOHQivHpI5y+IfVbc8GxkhB4arroE7W9NkP/EOlW+UdIMw22jpGd45Vl8fXVMkEtDFv7IXyfMDo7naafvQqm47cYZxwxb2KVEXsbvrvFl5rRvGVh7NHOqwoTmKt84NBqLtYNxfJDHG07+Wwx0gqrb8nej7DqsFKMmMw8ZLJ4UtUb5hgzrREXsFaG/k84ij2Lk9h7UyedKjgg+L6gUw==;mbHrefri4Tv3kOErQQz5MQ=="
+secured: "RH1kuje8sDyM6pS/a+kOU7Tw2oXJpAQOfxOmTPEJLT4dkw/l0yFf9mUy5TreStNX4i17ZC6uIJvAbEUg3xoIJNo1zDuS6PsEzgRGqxfJI3NElc7fIjXGeLGyD22+LqG3alkfqfxb6BT92aJ869h50qru3VzkVPT8fSYK46MxH5F3L6M8ZH4/rWk1uDj2jtWJLP4ey3DfBxSDY1PMdwt0TMKBgezG0zGF2seDgpCFqWuhJULazob7jIZ+8d61IYgXvi2CwYMJisn8FcggaCwUGlsj/gPRwtUmh7fWIEQdYmxVZREkd+IXdDKm2Yl1a2ZTcyuGK6ta3QQAOXu6BiwSwdOwQdi4aWIug4yYDSGR7Ok=;tdkAIQ3deabteTthK6w6ow=="
 ---
 

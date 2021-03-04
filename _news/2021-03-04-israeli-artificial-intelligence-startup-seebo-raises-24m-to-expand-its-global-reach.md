@@ -23,22 +23,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "Colombian-Israeli AI Startup Aims to Revolutionize Coffee Industry"
-    excerpt: "In first, Demetria’s artificial intelligence technology can determine taste and quality of green coffee beans For centuries, the coffee industry has relied on the time-consuming process of cupping to determine the quality and taste of coffee beans grown around the world."
-    publishedDateTime: 2021-03-02T12:02:00Z
-    webUrl: "https://themedialine.org/life-lines/colombian-israeli-ai-startup-aims-to-revolutionize-coffee-industry/"
-    type: article
-    provider:
-      name: The Media Line
-      domain: themedialine.org
-    quality: 37
-    images:
-      - url: "https://themedialine.org/wp-content/uploads/2021/03/5a.jpg"
-        width: 1911
-        height: 1075
-        isCached: true
-
-secured: "HchGz1zk90zVt53CdsE92ltHs/PS7e6XGiqHsbI6nTMymmIExq5viMWp4D4jPv/uMnGb6WAGQiZA4IxGTGzggj9x9RAYTyLQ88AU3pFY93DzszixZ+ScMHpnjeTEipO6xXPNP0kTPMf3gN0fiPToUc/XHLNt9Kv5+O32Nla2vKCaWamlH8wqHwxMuxluBWRoM5CzNIk6bGYkYhBVmcKdH42XbwHL+OdK1F74kZqyAj432ChaVW2192Fp8s6n1W6vHTrZvkE+vMJ8bfjP1GfIaK1PBC85KH+tBp7YlzRv2rl0YJ+i4XKrL4i0tv3hvvB+idqgeuACC3UxQ4EPyOX5LD9Z4H6AXVU+X02iV+FktTs=;83zrzWXsRXosqEDB4mxG1w=="
+secured: "g6Jq0Cf4WwSI8FYxBxa6Z6FID6TsoB4u36eMvLr1Ex3BoDUotde/7rneOdqUVB9B8+xotKN/8ELMS6fbqZFTC3zmbQdSHAcCO63Q81u8NnFH8/v4aH6h4/eEPI6KQ7dN2a04YTnmDIdtmWjK+Pu1U2oUocA7HPLi7xCh7b8NPfVGlUODerJmDnrpRLUrSyDm82rtwYodnrzUOu+PYuGa1Prazo1FriLx7gXw+ERRgf5gsCvZ8/tmvHa+Kn7TAI5FytTf5kG/HUGvZCPFuhH+jBw+bqxRnN2BCkYxg59RJTsCyRp+CI0HEeKYly5f3kK8JD1LPH7kKNfmJmUnbiIEMqEWgo7zDj6UVlHfzIvHB3ebGmL2CTHKC8BOE6vtuAEcMJRdNfSM5xAQQftvcTag/MVEY7FGFY7RtTeyd9x2YysJ3F8ky8MI+uOPWnAeE0cFFKeCE8ux06npL2Ve7FegWaecw91It9+aHn2pbajes+Sc8i0OKoORT7+dOVcnRlrpDsptfWafk7ElfqanFHComw==;JSBB5ntvS4453ET4RnlWzA=="
 ---
 

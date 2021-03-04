@@ -66,7 +66,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 63
+    quality: 65
     images:
       - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market9.jpg"
         width: 630

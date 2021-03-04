@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Israeli artificial intelligence startup Seebo raises $24M to expand its global reach"
-    excerpt: "today announced it has raised an additional $24 million in funding to expand its global reach and enhance its proces"
-    publishedDateTime: 2021-03-04T05:00:00Z
-    webUrl: "https://siliconangle.com/2021/03/04/israeli-artificial-intelligence-startup-seebo-raises-24m-expand-global-reach/"
+  - title: "New AI tool can revolutionize microscopy"
+    excerpt: "An AI tool developed at the University of Gothenburg offers new opportunities for analyzing images taken with microscopes. A study shows that the tool, which has already received international recognition,"
+    publishedDateTime: 2021-03-04T15:00:00Z
+    webUrl: "https://phys.org/news/2021-03-ai-tool-revolutionize-microscopy.html"
+    ampWebUrl: "https://phys.org/news/2021-03-ai-tool-revolutionize-microscopy.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-ai-tool-revolutionize-microscopy.amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 45
+      name: Phys.org
+      domain: phys.org
+    quality: 57
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/11/seebo-1.png"
-        width: 600
-        height: 400
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/6040ec8b46a14.jpg"
+        width: 2160
+        height: 2160
         isCached: true
 
 secured: "l0IMp0EykWNNIBNbjJ9QIRReSTfnH/EP1EQBphndE5pCTvL869RZ8xo/Ech/eYmRLpc5z2218nSDTK6qqGelVExuEuZDq+sK1gycG2OnaO7TqiWsm+7cZJB60JZ2vv3fHKdn+2ZGq4juUHDaDnCr0JUUYy7eDlDzRBvNplbJh46SkanHMrfzOG29bnPg/uSCj3rGqvMb2m1a+OwoLGR1JTBQ0dY0C44dyFImxhjY5DYxKeb42I3nxLQsAN37VZ6TGmsd5QYg3HYrcP3EvTu2foZ42YvoO+0MmJghpsBNNVaGa5HQEzjqTJKeDmBdE2RgMg7RkR2rNPu8Q3VJeq7j+Y99TsJutuBGLUbaQmuT+Fp5Zo8/WStD+reutns/AbbMLH5VJ3Pm5OAPneD9ZCXASOA/3jom/02juLQrqoCGaXyNXFr+/H1QknVZS5zmegmOCrcd+ODeSY8dww0xHsC5IiWckhw6EE7l6hp0CU/6adNn8yi+zQTUw7sOBMhspVdr+8fIxgpyQK6wn1OedC+k6Q==;v3ITajWKBnGVdtLG+Av4rA=="

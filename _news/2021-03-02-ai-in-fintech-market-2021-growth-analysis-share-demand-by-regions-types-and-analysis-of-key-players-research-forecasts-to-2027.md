@@ -29,103 +29,65 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
-    publishedDateTime: 2021-03-02T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02"
+  - title: "Fintech Tools To Help You Master Money Mindfulness In 2021"
+    excerpt: "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology."
+    publishedDateTime: 2021-03-04T15:31:00Z
+    webUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/"
+    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg"
+        width: 660
+        height: 336
         isCached: true
-  - title: "Voice and Speech Recognition Market Size, Share and Forecast 2019-2025"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-03-03T13:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03"
+  - title: "Top tech trends that will define fintech this year"
+    excerpt: "Technology in the financial sector is evolving rapidly to offer solutions and stay ahead of the curve. A clutch of tech trends will shape the fintech space."
+    publishedDateTime: 2021-03-02T10:08:00Z
+    webUrl: "https://www.dqindia.com/top-tech-trends-will-define-fintech-year/"
+    ampWebUrl: "https://www.dqindia.com/top-tech-trends-will-define-fintech-year/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/top-tech-trends-will-define-fintech-year/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Dataquest
+      domain: dqindia.com
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/Top-tech-trends-that-will-define-fintech-this-year.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "Neural Network Software Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
-    excerpt: "The Neural Network Software Market share is segmented on the lines of its artificial component, type, vertical and"
-    publishedDateTime: 2021-03-02T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-03-02"
+  - title: "An in-depth look into the Kalifa Fintech Review ahead of the 2021 Budget"
+    excerpt: "The release of Ron Kalifa OBE’s Review into the future of UK fintech set off a tidal wave of support across the industry. The Review outlines a plan to “bolster” the UK’s dominance in a global setting,"
+    publishedDateTime: 2021-03-02T15:45:00Z
+    webUrl: "https://www.finextra.com/the-long-read/152/an-in-depth-look-into-the-kalifa-fintech-review-ahead-of-the-2021-budget"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: Finextra
+      domain: finextra.com
+    quality: 23
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finextra.com/finextra-images/oped/152.jpg"
+        width: 800
+        height: 449
         isCached: true
-  - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
-    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
-    publishedDateTime: 2021-03-02T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-report-2021-key-trends-and-opportunities-to-2026-kennethresearchcom-2021-03-02"
+  - title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
+    excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to"
+    publishedDateTime: 2021-03-04T09:49:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra-817541755.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 8
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2021-03-04T09:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2027-2021-03-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2027"
-    excerpt: "Global Speech and Voice Recognition Market to reach USD 43.8 Billion by 2027. Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17."
-    publishedDateTime: 2021-03-03T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-historical-growth-analysis-opportunities-and-forecast-to-2027-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice and Speech Recognition Market Share, Growth, Challenges, & Global Forecast 2021 to 2026"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market experienced robust growth during 2015-2020."
-    publishedDateTime: 2021-03-02T13:18:00Z
-    webUrl: "https://ipsnews.net/business/2021/03/02/voice-and-speech-recognition-market-share-growth-challenges-global-forecast-2021-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 28
-    images:
-      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Voice%20and%20Speech%20Recognition%20Market.jpg?1614687366276"
-        width: 1280
-        height: 720
+      - url: "https://mma.prnewswire.com/media/967510/Finastra_Logo.jpg?p=facebook"
+        width: 1292
+        height: 676
         isCached: true
 
 secured: "ujX7ekOiWgyjmduQlEotvCPwO3if0dTvhZIbxT39Gkh47HXfgygAIEVbFtTAICn6HQYvk3TXBFB1drIYzh2Dudnm5+QLutV3EWURNcL2LVjFwuUhFAZlii0xkjecIsHdm6pHHhB6YtAFVg32CYByEFa9v7fCXehNMfHkuNuddOex2kL87V3TX6eqMeXr30XRGImXGLDysmFJrmHp069q2ryY0CdnsOx+qwmA7DC1USR8Gi9Vm4RiWvg8kh0tqMUNhIlWpx+OnraxLesdADyhciZ06Wzt5dAOHQFMDaflpkw4jmmcxYbYjqI8DyGxjghcZCG9EBzmfx/3bdGU2Q5XK6YXiGb2T1SQupIzESNRZEY=;HywepfMfu+XdcqzXnOuxJQ=="

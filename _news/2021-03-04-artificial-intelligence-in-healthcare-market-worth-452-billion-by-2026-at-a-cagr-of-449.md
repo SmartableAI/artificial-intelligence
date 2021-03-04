@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998482/artificial-inte
 ampWebUrl: "https://amp.benzinga.com/amp/content/19998482"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19998482"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market9.jpg"

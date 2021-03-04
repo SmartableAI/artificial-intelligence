@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/top-tech-trends-will-define-fintech-year/amp
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/top-tech-trends-will-define-fintech-year/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,17 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "FDIC Innovation Chief Aims To 'Move The Needle' On Fintech"
-    excerpt: "The Federal Deposit Insurance Corp.'s first chief innovation officer said he sees digital banking as a tool for economic inclusivity and that he aims to roll out a series of programs that will \"move the needle\" on key questions in banking technology."
-    publishedDateTime: 2021-03-01T23:28:00Z
-    webUrl: "https://www.law360.com/banking/articles/1358759/fdic-innovation-chief-aims-to-move-the-needle-on-fintech"
-    ampWebUrl: "https://www.law360.com/amp/articles/1358759"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1358759"
+  - title: "Fintech Tools To Help You Master Money Mindfulness In 2021"
+    excerpt: "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology."
+    publishedDateTime: 2021-03-04T15:31:00Z
+    webUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/"
+    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg"
+        width: 660
+        height: 336
+        isCached: true
+  - title: "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027"
+    excerpt: "Global “ AI in Fintech Market ” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and industry chain structure. The AI in Fintech Market report also concentrate on the development trends as well as history,"
+    publishedDateTime: 2021-03-02T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "An in-depth look into the Kalifa Fintech Review ahead of the 2021 Budget"
     excerpt: "The release of Ron Kalifa OBE’s Review into the future of UK fintech set off a tidal wave of support across the industry. The Review outlines a plan to “bolster” the UK’s dominance in a global setting,"
     publishedDateTime: 2021-03-02T15:45:00Z
@@ -51,20 +70,6 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/152.jpg"
         width: 800
         height: 449
-        isCached: true
-  - title: "Fiserv to Present at Evercore ISI’s 2021 Payments and FinTech Innovators Forum"
-    excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present virtually at the Evercore ISI Payments and FinTech Innovators Forum on March 4,"
-    publishedDateTime: 2021-03-02T14:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=430572"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 20
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
   - title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
     excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to"

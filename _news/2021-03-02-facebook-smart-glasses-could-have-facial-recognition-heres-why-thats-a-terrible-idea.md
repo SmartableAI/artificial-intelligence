@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-h
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 50
+published: false
 
 provider:
   name: Tom's Guide
@@ -25,36 +25,6 @@ images:
     width: 480
     height: 272
     isCached: true
-
-related:
-  - title: "Of course Facebook is considering facial recognition for its smart glasses"
-    excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
-    publishedDateTime: 2021-03-01T12:24:00Z
-    webUrl: "https://knowtechie.com/of-course-facebook-is-considering-facial-recognition-for-its-smart-glasses/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 37
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/03/facebook-logo-on-smartphone-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Facebook mulls face biometrics for forthcoming smart glasses"
-    excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."
-    publishedDateTime: 2021-03-01T20:23:00Z
-    webUrl: "https://www.biometricupdate.com/202103/facebook-mulls-face-biometrics-for-forthcoming-smart-glasses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 24
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/15105857/facebook.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "NGxBUbuDkvoa0t5wwXdleCM5fLj6uUJwW1zokCQzicA3v61U2wnPJksLbAO83KLEa5fRcZemqCy+Nh3ffr3+gYn0Gd+XkwL0oWeAsKcqc/THgS4+QZHZQ20fD0d048nEn32cwlHrpuXdxbSQbPXPUowtAaabys7aYOWawlTDqGBZRhqS7cMdskH9aKKukUPrmnoLivQXHlpVxMZbI0+twMOhO1kScKsR2AdsUnbJBanI/Kk51wQz4sxDhBVBJ88A67t7Y4TkksRQu4nLqLn+6VBdthfceeo/sy9lvUhc4417I1GItiEwWp0Mce2nvO3CSydwcZVwag7eqTFUiYBUd88yMCtGtDlRdXJT1anSHNKsodE/svf8SBO7t9kHfHSf82EbzhDiCwtAa9MAdNN/m8gImz4i22ZDe0ajiebItPyEIGx6nUmyT8OXSHTfxhMV47O0oHuAmJ971VYBUDK5JNgstVk3z2RsEIAiA4gUd9m6itRhPSShNaXxBXtb+VLXqlakm2Z7FPwREb+weRbEEA==;4AztChL0pIlzw5tQAyT4tA=="
 ---

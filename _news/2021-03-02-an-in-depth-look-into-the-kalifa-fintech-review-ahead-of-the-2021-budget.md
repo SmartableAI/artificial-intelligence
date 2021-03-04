@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fintech Tools To Help You Master Money Mindfulness In 2021"
+    excerpt: "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology."
+    publishedDateTime: 2021-03-04T15:31:00Z
+    webUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/"
+    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg"
+        width: 660
+        height: 336
+        isCached: true
   - title: "Top tech trends that will define fintech this year"
     excerpt: "Technology in the financial sector is evolving rapidly to offer solutions and stay ahead of the curve. A clutch of tech trends will shape the fintech space."
     publishedDateTime: 2021-03-02T10:08:00Z
@@ -41,30 +57,19 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "FDIC Innovation Chief Aims To 'Move The Needle' On Fintech"
-    excerpt: "The Federal Deposit Insurance Corp.'s first chief innovation officer said he sees digital banking as a tool for economic inclusivity and that he aims to roll out a series of programs that will \"move the needle\" on key questions in banking technology."
-    publishedDateTime: 2021-03-01T23:28:00Z
-    webUrl: "https://www.law360.com/banking/articles/1358759/fdic-innovation-chief-aims-to-move-the-needle-on-fintech"
-    ampWebUrl: "https://www.law360.com/amp/articles/1358759"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1358759"
+  - title: "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027"
+    excerpt: "Global “ AI in Fintech Market ” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and industry chain structure. The AI in Fintech Market report also concentrate on the development trends as well as history,"
+    publishedDateTime: 2021-03-02T09:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 39
-  - title: "Fiserv to Present at Evercore ISI’s 2021 Payments and FinTech Innovators Forum"
-    excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present virtually at the Evercore ISI Payments and FinTech Innovators Forum on March 4,"
-    publishedDateTime: 2021-03-02T14:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=430572"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 20
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
     excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to"

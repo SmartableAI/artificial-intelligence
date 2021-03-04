@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook smart glasses could have facial recognition — here’s why that’s a terrible idea"
-    excerpt: "We’ve already heard news that Facebook is developing smart glasses, even if the earliest models don’t have any sort of AR or mixed reality features. But apparently, they may come with facial recognition cameras."
-    publishedDateTime: 2021-03-02T08:04:00Z
-    webUrl: "https://www.tomsguide.com/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
-    ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
+  - title: "Facebook’s new computer vision model achieves state-of-the-art performance by learning from random images"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today announced that it’s created an AI model trained on a billion images that ostensibly achieves state-of-the-art results in a range of computer vision benchmarks."
+    publishedDateTime: 2021-03-04T07:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/"
+    ampWebUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 50
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Fo9ovefx8AwWmfGZ2N3M5B-480-80.jpeg"
-        width: 480
-        height: 272
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook mulls face biometrics for forthcoming smart glasses"
     excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."

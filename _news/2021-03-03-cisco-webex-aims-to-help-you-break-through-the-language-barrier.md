@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-b
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2020/12/in-meeting-reaction-hand-gesture-100870294-large.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Polyglot conferencing: Cisco adding real-time translation of 108 languages to Webex"
+    excerpt: "Cisco is adding the capability of real-time translation from English to 108 additional languages, including Afrikaans, Armenian, Malay, Vietnamese, Hindi, and Zulu, to its Webex conferencing system."
+    publishedDateTime: 2021-03-03T06:29:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/02/polyglot-conferencing-cisco-adding-real-time-translation-of-108-languages-to-webex/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 18
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/webex-translation-e1614704928960-1024x575.jpg"
+        width: 1024
+        height: 575
         isCached: true
   - title: "Polygot conferencing: Cisco adding real-time translation of 108 languages to Webex"
     excerpt: "Cisco is adding the capability of real-time translation from English to 108 additional languages, including Afrikaans, Armenian, Malay, Vietnamese, Hindi, and Zulu, to its Webex conferencing system."
