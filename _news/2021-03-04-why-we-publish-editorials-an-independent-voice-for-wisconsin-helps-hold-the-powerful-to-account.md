@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T20:53:00Z
 originalUrl: "https://www.jsonline.com/story/news/solutions/2021/03/03/why-we-publish-editorials-we-hold-wisconsins-powerful-account/6879000002/"
 webUrl: "https://www.jsonline.com/story/news/solutions/2021/03/03/why-we-publish-editorials-we-hold-wisconsins-powerful-account/6879000002/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Milwaukee Journal Sentinel

@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T21:00:00Z
 originalUrl: "https://www.prnewswire.com/il/news-releases/blend-raises-10m-to-fuel-global-growth-with-ai-powered-end-to-end-localization-services-301239576.html"
 webUrl: "https://www.prnewswire.com/il/news-releases/blend-raises-10m-to-fuel-global-growth-with-ai-powered-end-to-end-localization-services-301239576.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: PR Newswire

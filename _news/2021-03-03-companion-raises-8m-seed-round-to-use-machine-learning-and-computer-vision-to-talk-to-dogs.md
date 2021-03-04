@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T14:30:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: WFMZ-TV

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Size, Share, Growth, Trends, Analysis and Forecast - 2027"
+    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
+    publishedDateTime: 2021-03-02T08:13:00Z
+    webUrl: "https://www.openpr.com/news/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "jbpip+5otwemrYS3ih21dfaBZ1WEH3U09fTIoPt4rW4r14hITxx/uTi75FlwnIQ6o/Pfxwzc+xBPU0hA0MJiyY9nBsblX/KscKEV43Je/0cu0c4hTXQuDjO6VjxYzoWCB1UWHGMjgoikVb/wGFJ4203e/HoViTmVvquhZoGKl7uOHeADqzLeIXXqT33G5Q4iwYr7dPvD3HXVVLOuX8bidirDipwdJfhB4eAhShmjiNJfAitAgEubC/JWBZvCMbWL2PZrtgddgbBdieyOzJxWarEFmLehOwFGrTN3f+bvMqDzahdVbz7zXTfz/HVk6JGZ7/4+ORYVd7k9F1EjlhFnKOFP92zoeBtWC0QMzjhdMmI=;uGqDWG9v2BAICDE+tqaUoA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T20:51:00Z
 originalUrl: "https://petapixel.com/2021/03/03/tokkingheads-lets-you-animate-portraits-using-artificial-intelligence/"
 webUrl: "https://petapixel.com/2021/03/03/tokkingheads-lets-you-animate-portraits-using-artificial-intelligence/"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: PetaPixel

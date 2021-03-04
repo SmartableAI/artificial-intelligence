@@ -1,16 +1,13 @@
 ---
 category: news
 title: "ADT announces that its Command & Control smart home platform has reached 1 million installations"
-excerpt: "ADT has reached a milestone as its award-winning smart home security platform, ADT Command & Control, surpassed 1 million installations this month. This milestone was achieved less than two"
-publishedDateTime: 2021-02-18T04:12:00Z
-originalUrl: "https://www.sourcesecurity.com/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html?ref=nav"
+excerpt: "IR illumination and traditional thermal security cameras, after all, are only able to provide black-and-white images, whereas object recognition software often identifies objects based on their color. White light illuminators installed alongside AI-powered ..."
+publishedDateTime: 2021-02-18T00:00:00Z
+originalUrl: "https://www.sourcesecurity.com/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html"
+webUrl: "https://www.sourcesecurity.com/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/adt-command-control-smart-home-platform-installations-co-5961-ga-npr.1613566835.html"
 type: article
-quality: 31
-heat: 31
-published: false
 
 provider:
   name: SourceSecurity
@@ -26,6 +23,6 @@ images:
     height: 355
     isCached: true
 
-secured: "r68iWY1MAcagFjZdiWBGXnQ/m2jCBa93HaMR6AwrBWaCa8Mlryeu5lmQqQd9NTNKs1xf8/gpWvaYf5aLuCLCnaJKWKDkHccm32eFg2KNEKnjvx4WGk9oAvh8rkdX0r9WKqiSVndI+jkEOc+LdY3fHSyA/lmaO8fFFjn7+Q5OToNWUl7Qm1/J3tqyBEs/Rkki3o+7RlmhLRVVMa8JDAp2FhnBNhai6F7WPCRGeLEgux5pYIuHyQPEvj9hPqtrNCHapVa4NlwRn7OpQBfMkMv4j0wU8pDzOwyxWsMgSQ+tMhWRzkvWgHsMj0euf6+/j4W6Hzj5qYnPoBzrG9KasX3y+fDXE+0Zm3Y4aSpbmjK5B7g=;SQKZ/VVI6zEvSBXqhcd2eQ=="
+secured: "hx8t3KvZpwoF2/fkzo0nGlGCE300UGaZgEDLaujFmoDQAa5C+7DT0j9r+OgcyzPKu2S9SZKIL4/cSdRGYrhbk1Oxme8Mc6FLsKhk476LNRWgeUv6HVGPbY11g7YS39stbum/XEpMiBSMzhhbU82k1QdOomeHW13VjInFS1EGq0LQAwSXcqBN/mW8TumuD5SGLCjm3GPgWn3RYVb9Z/BPClsLSK6kHdkDjmiK21MbG0J5cQN6K1AsXzLF0cx4A9PT9cs61K55xY4csu2YcnggtnpuiuoVIR/he+G2M2RoC7qb6aq5J4Xc03F8uD5TRB3tVJTOdR6htiXF2CYPA+466uNA7TlCnjynhggN9UmLI+I=;ybbMy8Sn9BfyUWBk7x8AoA=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-02T05:06:00Z
 originalUrl: "https://www.nationthailand.com/noname/30403208"
 webUrl: "https://www.nationthailand.com/noname/30403208"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: nationthailand

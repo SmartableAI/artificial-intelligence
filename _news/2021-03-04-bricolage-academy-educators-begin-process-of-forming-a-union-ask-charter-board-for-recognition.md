@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T21:45:00Z
 originalUrl: "https://www.nola.com/news/education/article_289bdb4a-7c39-11eb-bd89-9f22c15167b0.html"
 webUrl: "https://www.nola.com/news/education/article_289bdb4a-7c39-11eb-bd89-9f22c15167b0.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: NOLA.com

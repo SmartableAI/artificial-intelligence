@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-02T13:38:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ai-powered-skincare-startup-proven-named-first-company-to-appear-on-pioneering-streaming-series-going/article_72159687-a36f-5cf9-85b3-5693b253ec9a.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ai-powered-skincare-startup-proven-named-first-company-to-appear-on-pioneering-streaming-series-going/article_72159687-a36f-5cf9-85b3-5693b253ec9a.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: WFMZ-TV

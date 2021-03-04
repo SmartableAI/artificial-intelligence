@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-02T03:37:00Z
 originalUrl: "https://www.dailyamerican.com/ap/business/aws-launches-second-region-in-japan/article_8662e760-9bb9-51fe-8b23-14d98a3d90a8.html"
 webUrl: "https://www.dailyamerican.com/ap/business/aws-launches-second-region-in-japan/article_8662e760-9bb9-51fe-8b23-14d98a3d90a8.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily American

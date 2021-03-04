@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T13:25:00Z
 originalUrl: "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/"
 webUrl: "https://venturebeat.com/2021/03/03/amazon-launches-reinforcement-learning-tools-to-manage-robots-workflows/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: VentureBeat

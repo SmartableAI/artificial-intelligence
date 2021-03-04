@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T08:30:00Z
 originalUrl: "https://www.cbr.com/tmnt-the-last-ronin-raphael-could-be-villain/"
 webUrl: "https://www.cbr.com/tmnt-the-last-ronin-raphael-could-be-villain/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CBR

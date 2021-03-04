@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
 excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
 publishedDateTime: 2021-03-02T16:48:00Z
-originalUrl: "https://www.techradar.com/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-webUrl: "https://www.techradar.com/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-ampWebUrl: "https://www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+originalUrl: "https://www.techradar.com/au/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+webUrl: "https://www.techradar.com/au/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
 type: article
 quality: 98
 heat: -1
@@ -359,6 +359,20 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Microsoft’s new Garage app can transcribe and translate in-person meetings in real-time"
+    excerpt: "The Group Transcribe app can transcribe and translate languages spoken in over 80 regions, but it is meant for in-person meetings only."
+    publishedDateTime: 2021-03-03T15:50:00Z
+    webUrl: "https://pocketnow.com/microsofts-new-garage-app-can-transcribe-and-translate-in-person-meetings-in-real-time"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 63
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/03/live-transcribe.jpg"
+        width: 1221
+        height: 696
+        isCached: true
   - title: "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP"
     excerpt: "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors"
     publishedDateTime: 2021-03-03T19:34:00Z
@@ -485,6 +499,6 @@ related:
         height: 250
         isCached: true
 
-secured: "JJEmF7lcDhjaNJ7/mv6K1MJIzhMAx9azM7Qovd9SwjtxnBpuvXm9RRS0u6HzhpvXUNungM6l36ipe/Sr/v0GvdSjxR9crkmOrRYjCXL4FoOgReZNDsbIaZkx3khvwLudSijxXEyNDSEEcvUHomlVXqLZ04b71YBMDVCM2/3l1yueVlm8shSFSbqIJVxINYETuaU9ofsAz5EliZOM+s92QFzSwjEH5cWnn3s4Ug2XB5KthD60L+YtGbLpcptd6O17+Li668USeMy3MUXgeVSXwwB1cPwuRwnrh3BLNg3q8YIa+gXNslwZU+wUQ0Jh/4yK9N3rT/UDU1LJc82RBcjiBQlxrZqzISFGkTEpbG50JfY=;4mYwhvLjhSH6uKpIJjasHQ=="
+secured: "KPNVZCz5dEVkA6+oBPVymFQEzG3o9LTgYKGyhcfy5Ca2GC0Hn9GpVRTMbr4n/6yAIlllqDz3cTrUcTIJsCrn/mLh/00mx0NTQ9Osq4xZFFpqF9DTYHsL6tpdsNpoooQrWDggcUVdA7hn32fjp4xdPfX7OxtztFeobMBTUresLejy8OjKl2CTHcCAu5NPmZi6Lio1wUMfj5Z5pnjMPti5jKy9ax5tUMSMnZMBw6fss075I9oUgNqhke0luYKuOUzLWZuPfkJGicCOgyZnfo7a2enrfihqcAICvBzkUhfnie61B4X8kPXnnl7yNn9rT/rTA74Cmq2uASe3kZzK18GX3T8/tbc0W+RiPJC0SM7zGdY=;Ui3cv4er2lhGkqvujIl2wQ=="
 ---
 

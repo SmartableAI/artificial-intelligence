@@ -39,6 +39,15 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Graph + AI Summit 2021, Industry's Only Open Conference For Accelerating Analytics and AI With Graph, Returns in April"
+    excerpt: "REDWOOD CITY, Calif., March 03, 2021 (GLOBE NEWSWIRE) -- TigerGraph, provider of the leading graph analytics platform, today announced Graph + AI Summit 2021, the first and only open industry conference devoted to democratizing and accelerating analytics,"
+    publishedDateTime: 2021-03-03T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/graph-ai-summit-2021-industrys-only-open-conference-for-accelerating-analytics-and-ai-with-graph-returns-in-april-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
 
 secured: "1I8jBsHqC8CSt/a7zQgLBKAG7ZrH1yqzqghjk0/iop5sNz26XASEpPGyF8ZIM9F+lH7b+6xeZ0u0sSe6sCvnHyx1w312mDu0h5HLcpir1Ti07NgbK+iegT6vrbDhN/uHK7G2zRhprl80bf8jiUupqFiM6f0F4acvsL6TmEYO4q6JQhcko61a8oimpcpHYQypQybopLOv5VkE8mfu6Pn0JWUi/fA6w3E1r+zwZcafOqgZMa58eKEpvX8cQb8vTJh6fz6RRz+UIOvyZSl3uJawWXACf1UCiUyj4BxDPaqflslrowfywQJcx7NzIcPTkmkZLoHJVwGrcJubK+cLLZ94XYdR/jlyl5TlVLnOpJqjTCQ=;MEBRcqZk3ywDCA1J4Gv0BA=="
 ---

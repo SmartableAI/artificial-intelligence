@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T22:19:00Z
 originalUrl: "https://www.forbes.com/sites/hessiejones/2021/03/03/d-id-this-start-ups-betting-synthetic-media-can-democratize-content-creation-in-the-age-of-privacy/"
 webUrl: "https://www.forbes.com/sites/hessiejones/2021/03/03/d-id-this-start-ups-betting-synthetic-media-can-democratize-content-creation-in-the-age-of-privacy/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Forbes

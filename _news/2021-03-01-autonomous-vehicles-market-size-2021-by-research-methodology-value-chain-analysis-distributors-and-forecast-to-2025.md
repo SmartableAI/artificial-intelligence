@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Size, Share, Growth, Trends, Analysis and Forecast - 2027"
+    excerpt: "Artificial Intelligence Chipsets Market size exceeded USD 8 billion in 2019 and is estimated to grow at around 35 CAGR between 2021 and 2027 Artificial intelligence chipset market has reported a significant increase in size and value thanks to the"
+    publishedDateTime: 2021-03-02T08:13:00Z
+    webUrl: "https://www.openpr.com/news/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250611/artificial-intelligence-chipsets-market-size-share-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 24
 
 secured: "0vFztUgRGHAQEgBI23XoWwd/0qMn+vjmLMrquWZjMnXTz3yCnxtR6MLttHtEPEau9FISGqya4rBPOyNcUN9dfMqROZOM5G83SaFgC4dd0MNT3jNA9k9F911Uk3/Z0wvoqw01FFgUghW/bD18VO0bQ+d91HXBBDhXyC9ym32R/v4qZcwXPI+nNycuRm9p14fO+qlW8zeAg5geqepEBrHOx78OrHS0ybH7Qwj04/MusELMUp3t4JwEi0RpM6SJ+mmkFrX4XsKE6XyuXU0PlMb4gAdwg4z8H1M+8GUJLpoDe0/W8my7EE5DvHDxITpTQrS8GVdEOY1Fu2HRZaizjuc5huf+KDsoT0ovF5zNDIy5DQ4=;NBeAQQuGUNsuGXh/kOi9xA=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Why driverless cars are paradise on wheels for some"
-excerpt: "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up."
-publishedDateTime: 2021-02-24T09:59:00Z
-originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
-webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415"
+excerpt: "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ..."
+publishedDateTime: 2021-02-24T10:01:00Z
+originalUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
+webUrl: "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "TfDgW3AyEeORrBmLSh5f4GqqRAQ8jivJ/AtZAQ1trmmXmbC2ggzJnqn43t6pztQ34/5F8TErShfMUhpT72YW9Vffx1EvflFoUClkWQ3SxuCIbTZpJfoWs847CInnqRPpVXJj8xGnWKaxia6uAZiBeFxqDhK01etCoV55Ff9O4qiM2B7j2o1ccBsQp0MjJzTB0P3toQrYJ7HTkuE8e7iObiziZAus4XEWPohE633TTNc5Ynpv/cKZTwANqGeiTRJi6UuJW7CiSpC6arBp7l4ZnTQfs9HwC5j0qbF9K3c8Ooni1UNrkBghwLRfo6auizsodbvo50iBKX7gI1eNU5a8Vjt6++Z0Ul1Vk+5T0VUjMt9ztD9uy0vYzflcyF16G7XzlYM8lr5tjFoBukAFYsF50a/XaNAdIJp3VqDYpD3mj9CqqDla3IpACuUxjW2mBWaSX+Vb8/OKCHWmNdTLkfFXBqn2isSOmiYvSnh2mY4ONgQuRJJ12HAR7s/rjacSkZ1Umse/hJ226NvFU8Y6lrZbaw==;mhZ2K+X0sAKUaD1lo3KWcA=="
+secured: "LqsWRl73XFY6hFNKaThG0FTOW0g9Ly2ndm9FkvZm0kU0fW/gIuZ+LuKBehwX5ps5EWsY2+QpZpMWPzzHaJ8Fz/lV7iL5dFaoQwSDpBT2GyDQv5IH419y6hEYWy+RBOK6f3yFGfdLVRvBz2S2mMfD0A8znV1zQLK72SbC8OfAIOLcrQ5MbD/2Rzq+3FDzGYWiiBdMaGdXclOA5pvz1Ti/W4Xi6p2SJ96ypZyuw2D88D4Cn+k2PTW9UmWO+EdnRYtXigOX8kUzz4B+e1l2iRAfZ+5teo/xJMdEyVA2llR6r0raINJFuCalSZPcpWPv3JpuUAZ+CZzVp/0ORJegLrMj6Xx9R51oFXupVutu7zHD83A=;NmCdeiLja0F8ObfDwsr0Kg=="
 ---
 

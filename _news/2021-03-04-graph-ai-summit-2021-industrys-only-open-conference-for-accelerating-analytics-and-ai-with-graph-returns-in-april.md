@@ -6,6 +6,9 @@ publishedDateTime: 2021-03-03T22:11:00Z
 originalUrl: "https://www.marketwatch.com/press-release/graph-ai-summit-2021-industrys-only-open-conference-for-accelerating-analytics-and-ai-with-graph-returns-in-april-2021-03-03"
 webUrl: "https://www.marketwatch.com/press-release/graph-ai-summit-2021-industrys-only-open-conference-for-accelerating-analytics-and-ai-with-graph-returns-in-april-2021-03-03"
 type: article
+quality: 23
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -17,6 +20,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Can Employers Use Artificial Intelligence And Data Analytics To Track Remote Workers?"
+    excerpt: "Notwithstanding federal, state, and local privacy and cybersecurity laws that may apply, employers may generally use artificial intelligence, data analytics, and other software and technologies to tra"
+    publishedDateTime: 2021-03-03T20:04:00Z
+    webUrl: "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers"
+    ampWebUrl: "https://www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 50
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
+  - title: "Global Telecom Order Management Market Report 2021: Market is Driven by AI, Machine Learning, & Big Data Analytics Solutions - Forecast to 2026"
+    excerpt: "The Global Telecom Order Management Market is expected to grow at an impressive rate during the forecast period. The Global Telecom Order Management Market is driven by the adoption of emerging technologies such as AI,"
+    publishedDateTime: 2021-03-01T14:15:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/global-telecom-order-management-market-report-2021-market-is-driven-by-ai-machine-learning-big-data-analytics-solutions-forecast-to-2026-1030135216"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 28
 
 secured: "krJHLoh4tPtXA0sd5hQJnNr3PRbtfjlWltpY+kWP001umw9Tj3TPgQ7VEPVKibZhszXnl/KWcz5dGmzVsUpnzegWZVieJKh3ET6s1WnG46lWbg7ajwkKE9EEJRMaD9tIZj1zrujFFgXzDTod93DpO+jhFzS14npd1CD3uTby8qp+abIRVhMTfRxcISHZ+jKCBEYZLRzGe3OjftUhB7/WHbkYCMUis5XUdi2Q5nW928flkcBd/730ylLRlR+efrbnc1QuLuEuTfZz35de2Wn28HMMZ5QzJIYLbFOuU4gJHsTw5pmvKU2JqeAD4hiT9/hf+9NUC0CIsHP3d4rdd354N3NjGfPUnwrecTqlqWV6reY=;nZkqMrrVuPUBHfmhhfk4ig=="
 ---
