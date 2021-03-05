@@ -1,0 +1,47 @@
+---
+category: news
+title: "How is AI and big data transforming the maritime industry?"
+excerpt: "Over the last decade, a myriad of industries and sectors have increasingly utilized data collection and artificial intelligence (AI) to help streamline many aspects of their business. The maritime ind"
+publishedDateTime: 2021-03-05T18:34:00Z
+originalUrl: "https://www.workboat.com/bluewater/how-is-ai-and-big-data-transforming-the-maritime-industry"
+webUrl: "https://www.workboat.com/bluewater/how-is-ai-and-big-data-transforming-the-maritime-industry"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: WorkBoat
+  domain: workboat.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://divcomplatform.s3.amazonaws.com/www.workboat.com/images/70ccd7e45a97fdf7d6b70f00d107e636.jpeg"
+    width: 2058
+    height: 1143
+    isCached: true
+
+related:
+  - title: "Annual index finds AI is ‘industrializing’ but needs better metrics and testing"
+    excerpt: "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy."
+    publishedDateTime: 2021-03-03T06:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/"
+    ampWebUrl: "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 85
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/AI-policy-global-map.png?w=1200&strip=all"
+        width: 1200
+        height: 731
+        isCached: true
+
+secured: "2kliZO3DRlWSefXwJRwD5kQYdtqd0Y2uDqATpT1YYxY/QNPgQQkdnGIJwalu/7TiRFkO0YDitd1vGXQB8st0AD2hVVtB8fPQhfdPpu+Sx1M5UvXeFvKs2gVGSAavhiWB6v86PjPL062liwGZK78MfeN8QD0iyxsIKDdc9FKSmo8iieQo74DKdlm46FNlJLgf/siP+tuRCv6Yt/Ru6sye8hYyESQPA/ahjrpHkbNzjxWiMVbMfE+P8+8/Hh4sfTpAfd5cK8DqdH6ZYjVc2/Mf6O5XC8vTDJdxhhw2xI931McCSstfsNTrbTv5xyrsoKOqxaBv7Y92HrR2VAnNAA240JQu55fGNmA9GuqvMM+qJRw=;MO0gYpm3g7CInORfeIpvmA=="
+---
+

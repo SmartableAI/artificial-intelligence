@@ -43,6 +43,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "7 ideas for how artificial intelligence can enhance teaching"
+    excerpt: "Artificial intelligence will power more complex and collaborative learning activities along with deeper assessments of students' knowledge, experts say."
+    publishedDateTime: 2021-03-05T10:26:00Z
+    webUrl: "https://districtadministration.com/ideas-use-artificial-intelligence-machine-learning-teaching-education/"
+    type: article
+    provider:
+      name: District Administration Magazine
+      domain: districtadministration.com
+    quality: 39
+    images:
+      - url: "https://districtadministration.com/wp-content/uploads/2021/03/AdobeStock_224585219.png"
+        width: 648
+        height: 426
+        isCached: true
   - title: "War Mongering for Artificial Intelligence"
     excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
     publishedDateTime: 2021-03-02T08:50:00Z
