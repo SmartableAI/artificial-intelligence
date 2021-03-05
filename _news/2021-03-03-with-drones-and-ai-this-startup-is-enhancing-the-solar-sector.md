@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366459"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366459"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "BLEND Raises $10M to Fuel Global Growth with AI-Powered End-to-End Localization Services"
+    excerpt: "Existing investor Fortissimo Capital led the round following a year of strategic expansion reflected in the company's new brand and offering. BLEND leverages OneHourTranslation's AI-driven language technology,"
+    publishedDateTime: 2021-03-03T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/blend-raises-10m-to-fuel-global-growth-with-ai-powered-end-to-end-localization-services-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vpply: The Aussie startup shaking up job search with video and AI"
     excerpt: "Vpply is a video job platform that allows job seekers to record and upload short videos, providing applicants with the chance to showcase character and people skills. “The application process starts with a simple job search with filters which will take you to a list of job opportunities on Vpply,"
     publishedDateTime: 2021-03-02T07:46:00Z

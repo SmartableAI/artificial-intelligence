@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design.md",
+      "title": "How AI trained to beat Atari games could impact robotics and drug design",
+      "excerpt": "Uber and OpenAI researchers say an advance in Go-Explore AI in beating Atari games could have applications for robotics and drug design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "originalUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/atari.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "publishedDateTime": "2021-03-05T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-singapore-academy-of-law-considers-the-impact-of-robotics-and-artificial-intelligence-on-the-law.md",
       "title": "Singapore Academy of Law Considers the Impact of Robotics and Artificial Intelligence on the Law",
       "excerpt": "The Law Reform Committee (LRC) of the Singapore Academy of Law (SAL) established a Subcommittee on Robotics and Artificial Intelligence to consider and make recommendations regarding the application o",
@@ -1397,50 +1449,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition.md",
-      "title": "Tech newsletter: Horrifying robot dog’s paintball rampage, Biden + facial recognition",
-      "excerpt": "Welcome to the Tuesday edition of the Internet Insider, where we dissect tech and politics news unfolding online. Today: Pranksters show how horrifying Boston Dynamics’ police robot dog is by strapping a paintball gun to it Civil rights groups want Biden to halt government use of facial recognition No,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
-      "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/02/Tech-News-Newsletter-Image-02-23-2021.jpg?fm=pjpg&ixlib=php-3.3.0",
-          "width": 1938,
-          "height": 969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
-      "publishedDateTime": "2021-02-23T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -77,6 +77,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
+    excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"
+    publishedDateTime: 2021-03-05T14:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=432885"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Katapult to Present at the 2021 Wolfe Research Fintech Conference"
     excerpt: "Katapult Holding, Inc. (“Katapult”), an e-commerce focused financial technology company, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Orlando Zayas,"
     publishedDateTime: 2021-03-04T21:05:00Z

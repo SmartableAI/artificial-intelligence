@@ -62,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 180,
       "tags": null,
       "images": [
         {
@@ -303,6 +303,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-delving-deep-into-potential-of-artificial-intelligence.md",
+      "title": "Delving deep into potential of Artificial Intelligence",
+      "excerpt": "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
+      "originalUrl": "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713",
+      "publishedDateTime": "2021-03-01T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -923,19 +966,19 @@
     {
       "path": "_news/2021-02-23-opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025.md",
       "title": "Opportunities for The Global Artificial Intelligence Market to Reach $70 Billion By 2025",
-      "excerpt": "DALLAS, TX / ACCESSWIRE /  / According to a new market report published by Lucintel, the future of the global artificial intelligence market looks attractive",
+      "excerpt": "DALLAS, TX / ACCESSWIRE / February 22, 2021 / According to a new market report published by Lucintel, the future of the global artificial intelligence market looks attractive with opportunities in the healthcare,",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ac19780757/opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ac19780757/opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025",
+      "webUrl": "https://apnews.com/press-release/accesswire/technology-north-america-dallas-united-states-asia-58b98b35fe5a25e920fa07cd2b021c61",
+      "originalUrl": "https://apnews.com/press-release/accesswire/technology-north-america-dallas-united-states-asia-58b98b35fe5a25e920fa07cd2b021c61",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.accesswire.com/users/newswire/images/630968/image-20210222160809-2.png",
-          "width": 592,
-          "height": 375,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -943,13 +986,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/19780757",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19780757",
-      "publishedDateTime": "2021-02-22T11:00:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T11:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1426,59 +1469,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market Insights, Growth, Share, Trends and Dynamics By 2023",
-      "excerpt": "The surge in AI-based products engaging in data capturing capability is seeing a large number of users in the current pandemic, which will benefit the artificial intelligence systems market. The healthcare IT industry reports are formed by Market Research Future,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-insights-growth-share-trends-and-dynamics-by-2023-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

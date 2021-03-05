@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Stop Experimenting with AI and Machine Learning"
+    excerpt: "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning (ML) so they can replace guesswork with data-powered certainty to reorient strategy and optimize operations for success in an uncertain future."
+    publishedDateTime: 2021-03-02T20:41:00Z
+    webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 56
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg"
+        width: 1200
+        height: 851
+        isCached: true
   - title: "More Indian Healthcare Firms to Harness the Power of Artificial Intelligence"
     excerpt: "Recent reports observe that India’s many healthcare firms are now looking at harnessing the power of Artificial Intelligence."
     publishedDateTime: 2021-03-02T08:24:00Z
@@ -77,6 +91,6 @@ related:
         height: 450
         isCached: true
 
-secured: "UuRKzC4Im+Ct5Cce6sMnlwyuIECsc5Ij7i8NWYnNSteEaubvLvkfgP369WXzuOIBGpWdgAdojdk0A216iZZTJ3eyckOoAQi6D8f9QACPzNWBqoqm4k6PPD3U3FJB39UIY/ffvXzpZlsUQ6fywug0EKQKp8O6BEib8ZW3v9BB7v0T+oTwVPMUJxS9bZ5bT0XpLgj9+yBKSzGNwPmBypwqBYlhH8pC3hHnjP2f5Z48eA7th0KDjUBgduhv2Gjf3XF0aEq7BbZW5igT+5vcXh+/8c3c0H6tUuTweNvTZS+owI4qsXVEU9CNk8kuIl0BAqxg0eaJrGYu0YMS8OEFd2xdTJwq4+9Y4f97hbN/ZQQox5o=;r/2Nvv6hI4Iq2wqT0KQxMw=="
+secured: "4GW/B8h0yzIF6iKKBs+VKzgmtjz4jWLQX0ilmAYHVwuOJY7OcZQ+NF+kLWAzqujm/WY2M/z5DlCihcAMsqUfju+WSC8L8RT8duKgW8SLfcJx3YLUig6J2SyV8nciAZJEImZwgdxTd23aMSUD6XXJ9E69z8jgaWmZ8h2xc9cTMXX6KLHEYOvrzQXCgqYdbBDMmylUI/EE72cDNCAMsHDLI+l50lQKbXCHeDvIoOQWHskbign2tFijiQv1lq9BpKiNd6hNclvOrZ6Y//djeGh3ooT9Ee27Izr/aYuXw04v4jNYngM+jhvP3K8g6puWYN/kRldzvM9HDyDNM0y0khk9najJTKXS5u0OtK/OLR2rQIxVD03IVy3QbWL4q2TNYGvnUDJ11/jSycHt8mzEwfCmTuX4FrJclO6rn+EhuR8yzrcjTtKLDQF/ctjCp6Dp1N+wFqkkXvw013fIzzZ9nST5SlQgqtKllDGCVdoEVXq7Eh+SmXMcD1qOyX2AHSZ6Prj0TGC7Ly8safCHCCaLb1R/FA==;4d4VYlRJjPUQ7q7iNuM1ng=="
 ---
 

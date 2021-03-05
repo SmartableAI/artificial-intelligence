@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees.md",
+      "title": "IDC: Ethical AI is a team sport that requires smart and strong referees",
+      "excerpt": "New research finds that the lack of responsible artificial intelligence guidelines is one of the top three barriers to wider adoption.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "originalUrl": "https://www.techrepublic.com/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/05/fb1dd7e4-3c17-4e5b-9ccd-017d2aa60e7a/resize/1200x/0f2fe69a0f1a68f01de5707589eb5521/aigovernance.jpg",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/idc-ethical-ai-is-a-team-sport-that-requires-smart-and-strong-referees/",
+      "publishedDateTime": "2021-03-05T07:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring.md",
+      "title": "NHAI introduces AI-based face recognition system for attendance monitoring",
+      "excerpt": "In line with its commitment to adopt technology to enhance transparency and accountability, the National Highways Authority of India (NHAI) has deployed artificial intelligence (AI)-based face recogni",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/dd046b/article33220251.ece/ALTERNATES/LANDSCAPE_615/BL02AI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
+      "publishedDateTime": "2021-03-05T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-in-battle-with-us-china-to-focus-on-7-frontier-technologies-from-chips-to-brain-computer-fusion.md",
       "title": "In battle with U.S., China to focus on 7 'frontier' technologies from chips to brain-computer fusion",
       "excerpt": "China laid out seven technology areas it will focus research on including artificial intelligence, quantum computing, semiconductors and space.",
@@ -62,7 +157,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -137,6 +232,109 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design.md",
+      "title": "How AI trained to beat Atari games could impact robotics and drug design",
+      "excerpt": "Uber and OpenAI researchers say an advance in Go-Explore AI in beating Atari games could have applications for robotics and drug design.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "originalUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/atari.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
+      "publishedDateTime": "2021-03-05T00:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-pinterest-details-the-ai-that-powers-its-content-moderation.md",
+      "title": "Pinterest details the AI that powers its content moderation",
+      "excerpt": "Pinterest pulled back the curtains on the AI and machine learning technologies powering its content moderation engine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
+      "originalUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/pinterest-e1575661763261.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
+      "publishedDateTime": "2021-03-05T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -773,7 +971,7 @@
       "originalUrl": "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -929,7 +1127,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1067,187 +1265,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-candlestick-launches-stock-picking-service-centered-around-top-performing-ai.md",
-      "title": "Candlestick Launches Stock Picking Service Centered Around Top Performing AI",
-      "excerpt": "Recent events involving Gamestop’s stock have started a national conversation about unfair differences in power between institutional and retail investors. Candlestick,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20002121/candlestick-launches-stock-picking-service-centered-around-top-performing-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20002121/candlestick-launches-stock-picking-service-centered-around-top-performing-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/64c8adf8d0bd6da51754be95d18cc5b7.png",
-          "width": 407,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20002121",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20002121",
-      "publishedDateTime": "2021-03-04T00:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting.md",
-      "title": "AMP Robotics looks to push the boundaries of artificial intelligence in sorting",
-      "excerpt": "US recycling technology company AMP Robotics Corp. has launched a second pilot to advance robotic sorting systems. The Denver-based artificial",
-      "sourceUrl": null,
-      "webUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "originalUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://recyclinginternational.com/wp-content/uploads/2021/03/SSR_Facility_FiberLines.jpg",
-          "width": 1460,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling International",
-        "domain": "recyclinginternational.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-conocophillips-sparks-tooling-for-seismic-hpc-cloud-aiml.md",
-      "title": "ConocoPhillips Sparks Tooling For Seismic HPC, Cloud, AI/ML",
-      "excerpt": "Seismic processing and analysis at scale take scalable HPC resources but also need an analytics backend that can scale with massive datasets. And as if",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
-      "originalUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_571864537.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
-      "publishedDateTime": "2021-03-03T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging.md",
-      "title": "Snapcommerce raises $85M for AI-powered ecommerce messaging",
-      "excerpt": "Toronto, Canada-based ecommerce startup Snapcommerce today announced that it raised $85 million in a funding round led by Inovia Capital and Lion Capital, bringing its total venture capital raised to over $100 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/husshen_SnapTravel.jpg?w=1200&strip=all",
-          "width": 1050,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
-      "publishedDateTime": "2021-03-03T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -19,66 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Google’s deep learning finds a critical path in AI chips"
-    excerpt: "ZDNet spoke with Google Brain director Jeff Dean about how the company is using artificial intelligence to advance its internal development of custom chips to accelerate its software. Dean noted that deep learning forms of artificial intelligence can in some cases make better decisions than humans about how to lay out circuitry in a chip."
-    publishedDateTime: 2021-02-28T23:24:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
+  - title: "BWI Marshall Airport earns recognition as best North American airport of its size"
+    excerpt: "Airport Service Quality Award Reflects Passenger Feedback on Service Baltimore/Washington International Thurgood Marshall Airport was named as the top North American airport in its size category in the 2020 Airport Service Quality (ASQ) Awards."
+    publishedDateTime: 2021-03-02T16:45:00Z
+    webUrl: "https://afro.com/bwi-marshall-airport-earns-recognition-as-best-north-american-airport-of-its-size/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
+      name: Afro
+      domain: afro.com
+    quality: 36
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/02/28/20a98f86-7db6-4412-8a12-57ad8196ad80/google-brain-2021-violin-plots-of-chip-design-optimization.png"
-        width: 1860
-        height: 1214
+      - url: "https://afro.com/wp-content/uploads/2021/03/bwi-airport3.jpg"
+        width: 395
+        height: 270
         isCached: true
-  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
-    excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."
-    publishedDateTime: 2021-03-03T20:39:00Z
-    webUrl: "https://www.enterpriseirregulars.com/172990/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
+  - title: "BWI Thurgood Marshall Airport Earns Recognition as Best North American Airport of its Size"
+    excerpt: "Baltimore/Washington International Thurgood Marshall Airport was named as the top North American airport in its size category in the 2020 Airport Service Quality (ASQ) Awards. The annual awards are presented by Airports Council International World (ACI World),"
+    publishedDateTime: 2021-03-02T19:14:00Z
+    webUrl: "https://www.aviationpros.com/airports/press-release/21212428/baltimorewashington-international-thurgood-marshall-airport-bwi-bwi-thurgood-marshall-airport-earns-recognition-as-best-north-american-airport-of-its-size"
     type: article
     provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 71
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/10-Ways-AI-And-Machine-Learning-Are-Improving-Marketing-In-2021--600x439.jpg"
-        width: 600
-        height: 439
-        isCached: true
-  - title: "Delving deep into potential of Artificial Intelligence"
-    excerpt: "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution"
-    publishedDateTime: 2021-03-01T22:45:00Z
-    webUrl: "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Stop Experimenting with AI and Machine Learning"
-    excerpt: "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning (ML) so they can replace guesswork with data-powered certainty to reorient strategy and optimize operations for success in an uncertain future."
-    publishedDateTime: 2021-03-02T20:41:00Z
-    webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
-    images:
-      - url: "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg"
-        width: 1200
-        height: 851
-        isCached: true
+      name: AviationPros
+      domain: aviationpros.com
+    quality: 9
 
 secured: "c25WyriqFMeisSnuoSeNP4ssK++qD+iDR85BdUkohoVN4SNzsJJ0sh+5DCMpQBg/+C5ftV6o0A6ewYIr1Z4hJg2vAd72DHTyp6Dv397LwMHZAtysYw6vRIpPKH7Bou+sRLcxBmF89rSGfPqnJRgi+AnrJH+HI6YB/pSBcpcRa4hVV+jaL2ALa47nZvI6I2QC/mzS9IC8+Pl6vcaI53/N4HFIoXUnrqIUwjvwQFDClW3DfImx1axoIFTA627lqefrUZeqg3yfudgv71IVMobF8/lm9KvQi//a1PVk0gPUjMmctMmhA3H6CUxB5YlQasm63wxSFAOb1jibNT0b3Fh3eohRAoy5/alErheNoWBwEU4=;YiaOl6HGuybls6cuHhC4fA=="
 ---

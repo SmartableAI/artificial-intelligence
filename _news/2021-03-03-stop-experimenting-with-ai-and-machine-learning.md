@@ -26,61 +26,68 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s deep learning finds a critical path in AI chips"
-    excerpt: "ZDNet spoke with Google Brain director Jeff Dean about how the company is using artificial intelligence to advance its internal development of custom chips to accelerate its software. Dean noted that deep learning forms of artificial intelligence can in some cases make better decisions than humans about how to lay out circuitry in a chip."
-    publishedDateTime: 2021-02-28T23:24:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
+  - title: "Harnessing The Power Of Artificial Intelligence In Accounting"
+    excerpt: "Instead of fearing technological advancements, CPAs should embrace them and find ways to augment their skills rather than replace them."
+    publishedDateTime: 2021-03-05T13:10:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/02/28/20a98f86-7db6-4412-8a12-57ad8196ad80/google-brain-2021-violin-plots-of-chip-design-optimization.png"
-        width: 1860
-        height: 1214
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f402c3e474a1d4b8fb150c8%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
-    excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."
-    publishedDateTime: 2021-03-03T20:39:00Z
-    webUrl: "https://www.enterpriseirregulars.com/172990/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
+  - title: "2021 – The Golden Year Of AI"
+    excerpt: "Investment in artificial intelligence (AI) will reach an all-time high in 2021. The COVID-19 pandemic has upended"
+    publishedDateTime: 2021-03-01T18:06:00Z
+    webUrl: "https://www.benzinga.com/general/biotech/21/03/19918935/2021-the-golden-year-of-ai"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19918935"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19918935"
     type: article
     provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 71
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/10-Ways-AI-And-Machine-Learning-Are-Improving-Marketing-In-2021--600x439.jpg"
-        width: 600
-        height: 439
-        isCached: true
-  - title: "Delving deep into potential of Artificial Intelligence"
-    excerpt: "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution"
-    publishedDateTime: 2021-03-01T22:45:00Z
-    webUrl: "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 59
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg"
-        width: 1000
-        height: 600
+      - url: "https://www.benzinga.com/files/images/story/2012/photo-1516110833967-0b5716ca1387.jpeg"
+        width: 967
+        height: 725
         isCached: true
-  - title: "American Airlines Cargo using AI, process automation and machine learning"
-    excerpt: "CAPA publishes more than 400 global News Briefs every weekday, covering all aspects of the aviation and travel industry. It’s the most comprehensive source of market intelligence in the world, with around 50 per cent of content translated from non-English sources. The breadth of our coverage means you won’t need any other news sources to monitor competitors and stay informed about the latest developments in the wider aviation sector. Our daily News Briefs are only available to CAPA Members. Membership provides access to more than 400 News Briefs every weekday, with quick links to our Analysis Reports, Research Publications, Data Centre and more. It’s easy to keep your News Briefs relevant by customising your email alerts based on topic, region, sector, frequency and more. Once you’ve saved your settings, you can stay up-to-date wherever you are, by quickly scanning our News Briefs online or via the CAPA mobile app. Membership also provides full access to our Analysis Reports, in-depth Research Publications and comprehensive Data Centre. Premium CAPA Members can also access add-ons such as our exclusive Fleet Database, Airline Cask Data tools and more, to enjoy the full capabilities of our global platform. CAPA Membership provides access to all news and analysis on the site, along with access to many areas of our comprehensive databases and toolsets."
-    publishedDateTime: 2021-03-01T02:22:00Z
-    webUrl: "https://centreforaviation.com/news/american-airlines-cargo-using-ai-process-automation-and-machine-learning-1055163"
+  - title: "Building trust in AI systems is essential"
+    excerpt: "The two well-respected researchers say they were fired by the company after criticising Google’s lack of diversity and warning of the risks of some of its AI systems. While expressing regret for their departure,"
+    publishedDateTime: 2021-03-02T17:46:00Z
+    webUrl: "https://www.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
+    ampWebUrl: "https://amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
     type: article
     provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 33
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcb95c328-6401-471a-ade4-3e48af6a14e3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "More Indian Healthcare Firms to Harness the Power of Artificial Intelligence"
+    excerpt: "Recent reports observe that India’s many healthcare firms are now looking at harnessing the power of Artificial Intelligence."
+    publishedDateTime: 2021-03-02T08:24:00Z
+    webUrl: "https://www.cxotoday.com/ai/more-indian-healthcare-firms-to-harness-the-power-of-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 53
+    images:
+      - url: "https://www.cxotoday.com/ashojoac/2020/05/AI_healthcare.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "uoX5mgHgrhZjtNCmM6SWomNO/affpzFxu5LyC6gOe5codtawA4kpdcI56Knw01Q1KvWpnw04y5l4A9RpyDUu9FpxtXkMOmWsrqrDhHCG93IeCvEJhmJ/0MGgZoPtmDNOQpnjtqw1CCacWvqCYdTbcUQEVX8zs1VsOAH1S/r9Kmq2Yp7wNInZFSQg8DP9gyPlHUtSGON0daUkceWh3s0feIF5HCcGDC3sebW0M+yGpnSHit/2DzNBLAhrsROiE1dgtxJy3TQgpxantA6ShYBm9LgMzAhh8p9ZV8uc86j4sCLyuwKtb+ykj7uZ8RJQTQ4IHTNn5WPhm9qOm0Osb+OA++ip1MKAZMDfEEQWauCr7GA=;2od02ThYNGUEYUZHNrOU8g=="
 ---

@@ -42,6 +42,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Exploring the Intersection of Genomic Data and AI in Healthcare"
+    excerpt: "While artificial intelligence in healthcare has the potential to gain actionable insights from genomic data, longstanding challenges could hamper efforts to achieve precision medicine."
+    publishedDateTime: 2021-03-05T06:01:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
   - title: "Self-driving Bus Market Competition, Status and Forecast, Market Size by Players, Regions, Type, Application by 2021-2025"
     excerpt: "Global “Self-driving Bus Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
     publishedDateTime: 2021-03-02T00:59:00Z

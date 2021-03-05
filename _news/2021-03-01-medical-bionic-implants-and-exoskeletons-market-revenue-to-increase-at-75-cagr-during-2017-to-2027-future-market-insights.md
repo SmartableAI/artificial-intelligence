@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Market Leading Companies Capabilities, Goals and Strategies During 2020"
-    excerpt: "A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market."
-    publishedDateTime: 2021-03-01T00:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-leading-companies-capabilities-goals-and-strategies-during-2020-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%"
     excerpt: "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno"
     publishedDateTime: 2021-03-03T23:25:00Z

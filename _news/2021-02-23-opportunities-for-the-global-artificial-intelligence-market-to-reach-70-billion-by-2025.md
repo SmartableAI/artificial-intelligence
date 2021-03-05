@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Opportunities for The Global Artificial Intelligence Market to Reach $70 Billion By 2025"
-excerpt: "DALLAS, TX / ACCESSWIRE /  / According to a new market report published by Lucintel, the future of the global artificial intelligence market looks attractive"
-publishedDateTime: 2021-02-22T19:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/02/ac19780757/opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025"
-webUrl: "https://www.benzinga.com/pressreleases/21/02/ac19780757/opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025"
-ampWebUrl: "https://amp.benzinga.com/amp/content/19780757"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19780757"
+excerpt: "DALLAS, TX / ACCESSWIRE / February 22, 2021 / According to a new market report published by Lucintel, the future of the global artificial intelligence market looks attractive with opportunities in the healthcare,"
+publishedDateTime: 2021-02-22T19:30:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-north-america-dallas-united-states-asia-58b98b35fe5a25e920fa07cd2b021c61"
+webUrl: "https://apnews.com/press-release/accesswire/technology-north-america-dallas-united-states-asia-58b98b35fe5a25e920fa07cd2b021c61"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.accesswire.com/users/newswire/images/630968/image-20210222160809-2.png"
-    width: 592
-    height: 375
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "0unxoa6mLOov3xgd9cP2KWNNqcv3C/dZGtoGuIaAKXogFS4Ml0POmZfLK+rpGsowN9mmFnZy4cN1zvJReJKPbV619awHH1b0muWFi3Soak2zGqTwlOQbb5wO2qf/+q6ytgy/FYju6wSiny6EgpgvEO21vFFtvLSyXa3t8b3QMVjRcIAL3IOF7fwwODRj2nvgNZL/qYMcba9K+YucNP/0JqYHpW4QY5gJsN502CWkNIsjUYSM8T9/UnDtqN49gc8akHiEJ9KQx15ZhVBRbFah8ZtKvlD69Nk46AIaI3UGVVO3hPd+FbzB9ge6rdp/3z1+ofcPU5EG++V6Ied6Cffi9udpVKTyWAZ0U/tjLdfcesw=;cAxAc+nVpoD68sYhD2A6Sg=="
+secured: "EewS7EvkRHCs0ULOO9iPWKILKE2LfGapuO92tQAKB929uVXWLPBuYvA9b6qhW3URJu/TXiIwayQrvSzSBB8fnsYvJgle5O3Mu8iobru3S8hZhR8Um/jIVDRz51FKHtss/VDSKj9MofOKPzx1Ri4UTyOXN2KOSZKtgCUHqZKoI15qXa29PwUhVuqClkBJ5HAbNGe/kPNzkkBwfG8Nl0UjxAB2Eao9l07QUXbTwwLtZg5o+8fOaNOOjUgOjhoWkBK4b2B458Ii+MFrO5TDEKFMQgO6sxhsIvoPV7cugKEJf2NN++V7tQzD3/P2HKBs8BrMPWtYA8ai2iZWuaq5qv9mYoXLCWeZZNpjdWYee5Z2N70=;m5i7GYJ9q78PLeu94ZNdZw=="
 ---
 

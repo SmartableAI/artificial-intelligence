@@ -86,22 +86,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Tesla’s Full Self-Driving subscription is coming in Q2 2021"
-    excerpt: "Tesla CEO Elon Musk confirmed today that the electric automaker’s Full Self-Driving subscription program would be available in Q2 2021. Tesla’s Full Self-Driving suite is a robust, semi-autonomous driving functionality that allows owners to experience arguably the best self-driving program available in the world currently."
-    publishedDateTime: 2021-03-01T00:00:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q2-2021/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q2-2021/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-q2-2021/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-1-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "fi77/9Qt2RMqReqh4ygeEC6HT/LEnkmE8QqvkUiB/WK4Ql8i6wc6V6VB9x+dryRuMnaIsLmqRlyicU5sh3C6aI6GSMxs5yUdsYWeQSRutF8zas3kwyKkL21W2sJqErbQw2AqR4j/kTf1Wvm45uFheMg60/5gBmU/293PDysrHHDg/EDIclvg5FyTUtzZD4QL/amooFXVdlLSVIGT30FhGfPSPazDD+Kzi9je0mpQEtSxoRAwe1WEffmf/zO1cj0qj7OYtpHrrbbb0CyXz0Yziq9iBe7GAf2xlLsd37lPFjDzliyz2F3rBNkH7GO/Bk+IaASwlal5OV9UPBe+IE5K0mNxK/y+quslRCEjiuQ4FjDlQSrppPy1UpI8hcoXxG+VJZivm942a7iPtbyyj58T0JS7JfZsLdiBeK3OH5mTxVAU54UiGvFmoiLwAiNRXsNwyZ3WE1+TntYRz4UQPx7K3Ji5b+Mk5GCKI1dzBUIZRnd+UcSXHMxHoOVl6erwiocWnKS3opkMpVZx/Z8QUOECwA==;dweB/HZEuoHP7qEJSy/3Kg=="
 ---

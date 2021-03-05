@@ -3,8 +3,8 @@ category: news
 title: "Leading Translation Services London Now Quotes Prices Within One Hour"
 excerpt: "Translation Services UK has announced that it is now equipped to quote prices within 1-Hour, making it one of the swiftest in the translation industry. Leading translation services London announced yesterday that the company’s much-awaited feature is live."
 publishedDateTime: 2021-03-04T20:16:00Z
-originalUrl: "https://apnews.com/press-release/marketersmedia/business-europe-corporate-news-products-and-services-united-kingdom-af29df33db4d020134cc8359a0443d0d"
-webUrl: "https://apnews.com/press-release/marketersmedia/business-europe-corporate-news-products-and-services-united-kingdom-af29df33db4d020134cc8359a0443d0d"
+originalUrl: "https://apnews.com/press-release/marketers-media/business-europe-corporate-news-products-and-services-united-kingdom-af29df33db4d020134cc8359a0443d0d"
+webUrl: "https://apnews.com/press-release/marketers-media/business-europe-corporate-news-products-and-services-united-kingdom-af29df33db4d020134cc8359a0443d0d"
 type: article
 quality: 24
 heat: -1
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "UeY3t3vzhAlo9tRpdMOkZiVUqzeSPYVcb/n9q5HJfWDnfT6hQRfEauTWTQLDp8ZLVdxPjP1xOIKr5YxOQqvTEmb8C8meFZd7jr81g60oDjmFzy5144/DzoqY9OKWlUKTjqDub1peCbLJyeHQBvLU+ziVOr395EdNJgGr6mLa5rzUzlSfQZrFt4MKQ6ELC/yZrMcn4jAR70I529yxSDAHmyqsZqei9tZEVOV2SsnCInsJAOQvCbkaZj6wTV/xX5Mbg9zo8PJ7cLWC9qBgPNtA6X4r+hWDnoWMd3O6d4U81NTJdsF9sddl6mc1elGRL4994tsTtye3/DJapZ3QzoaSVMYUZFqRUczoYUTeVhHRWNc=;lumS1NFpeseFdD1SkC8EMw=="
+secured: "iN1BmCPck3qr4F0rQ589+LwWmcTKusGxtzRAYEdm/860Tse2A6JGrnurCF/O6lP+eCu9tDzpHMPahjOOt83dugeUvpOsp8QMhIyEsTJgjAWBxdLFzcs5xoXTlIRshxnMlkSvcLdlCrkdHxcFfUR+CuBqt706pMrzDluBzkxmeDtFv61rD9UorvA5fCUozQsPX9MRmnvhYElwuc7kSNL9C8xSWYhgcHGs8xDrDibqJmGF5AO2E2kWraUiG8Nr5fkZnWdvjIyEDUo4+rRzACOWtsnG2WftyMV6Py9F3rEd/I6udm2BbG8+5baM7xteS79k0ZS/VX797EY9XN/aOOvIuoagmINwnN/9tWV4y7OhKNQ=;qNkHgz4WJYuSY284fc716w=="
 ---
 

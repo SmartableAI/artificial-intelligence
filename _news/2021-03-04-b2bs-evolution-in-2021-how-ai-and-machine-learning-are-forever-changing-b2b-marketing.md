@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing/amp/"
 type: article
 quality: 113
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
+    excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."
+    publishedDateTime: 2021-03-03T20:39:00Z
+    webUrl: "https://www.enterpriseirregulars.com/172990/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
+    type: article
+    provider:
+      name: Enterprise Irregulars
+      domain: enterpriseirregulars.com
+    quality: 71
+    images:
+      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/10-Ways-AI-And-Machine-Learning-Are-Improving-Marketing-In-2021--600x439.jpg"
+        width: 600
+        height: 439
+        isCached: true
   - title: "The cloud revolution is just the start for B2B payments"
     excerpt: "The mass shift to remote work has blurred lines between consumer and business pay, creating a greater push for digitization, says Billtrust's."
     publishedDateTime: 2021-03-02T16:03:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring.md",
+      "title": "NHAI introduces AI-based face recognition system for attendance monitoring",
+      "excerpt": "In line with its commitment to adopt technology to enhance transparency and accountability, the National Highways Authority of India (NHAI) has deployed artificial intelligence (AI)-based face recogni",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/info-tech/dd046b/article33220251.ece/ALTERNATES/LANDSCAPE_615/BL02AI",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/",
+      "publishedDateTime": "2021-03-05T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-study-warns-deepfakes-can-fool-facial-recognition.md",
       "title": "Study warns deepfakes can fool facial recognition",
       "excerpt": "According to startup Deeptrace, the number of deepfakes on the web increased 330% from October 2019 to June 2020, reaching over 50,000 at their peak. That’s troubling not only because these fakes might be used to sway opinion during an election or implicate a person in a crime,",
@@ -210,7 +253,7 @@
       "originalUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -1397,58 +1440,6 @@
         "name": "The National Law Review",
         "domain": "natlawreview.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance.md",
-      "title": "Facial recognition executive talks vaccine passports, data privacy, and surveillance",
-      "excerpt": "\"I do not want to live in an Orwellian society,\" said Rob Watts, CEO of Corsight AI, who says his company's tech could enhance virtual passport efforts and airport security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "originalUrl": "https://www.techrepublic.com/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2021/02/18/ea971936-7d75-4771-9a21-38255a37a3e0/resize/1200x/292a86bce86937a351a3cc9d50bd66e6/metamorworks.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/facial-recognition-executive-talks-vaccine-passports-data-privacy-and-surveillance/",
-      "publishedDateTime": "2021-02-18T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

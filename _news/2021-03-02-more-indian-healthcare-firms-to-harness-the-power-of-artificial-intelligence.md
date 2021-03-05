@@ -74,6 +74,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Stop Experimenting with AI and Machine Learning"
+    excerpt: "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning (ML) so they can replace guesswork with data-powered certainty to reorient strategy and optimize operations for success in an uncertain future."
+    publishedDateTime: 2021-03-02T20:41:00Z
+    webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 56
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg"
+        width: 1200
+        height: 851
+        isCached: true
 
 secured: "BEYk4w5NceNRyWYhC/zSbWJxYwcem4qSMRr3l7xuJZIizTJ3KmL3M8LM6gKEydXoz2kvV2GNppT+GQxuAK8SLanc16RvWHwlX5AMnoQPqClUNlSWlBkuYoiVfo9qgbj0rUvjv9IqAfGKtgHBEEOrM5h6MVx+fvxeOwf03it6BVO3vsxq1PcNO/8VZpYLRXSj/LVWV3V0nVBdK+ZzKNps/rHelqlDLxaapyDCvojfb2w8BKMKv441YGHK3pXnh/Qj4UlV95gsxIC4p/JWMdIEVe1ArILek/oklaJkLebGJuEp+1boKJSQpv9Elmp3rsD0UpDEJyESbUMN3au2I2ns2bZhip8ne+uA/i5S9badm74=;H0BbmClnEqQX3jalijDQTg=="
 ---

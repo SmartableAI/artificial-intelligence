@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
+    excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"
+    publishedDateTime: 2021-03-05T14:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=432885"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "An in-depth look into the Kalifa Fintech Review ahead of the 2021 Budget"
     excerpt: "The release of Ron Kalifa OBE’s Review into the future of UK fintech set off a tidal wave of support across the industry. The Review outlines a plan to “bolster” the UK’s dominance in a global setting,"
     publishedDateTime: 2021-03-02T15:45:00Z

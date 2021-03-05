@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-natural-language-
 webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
 type: article
 quality: 70
-heat: 170
+heat: 180
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
     excerpt: "Global AI in Healthcare Market OverviewArtificial Intelligence is the development of computer systems that are able"
     publishedDateTime: 2021-03-03T18:56:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
+    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-03-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
     type: article
     provider:
       name: MarketWatch

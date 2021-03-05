@@ -114,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
+    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-03-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Healthcare Market: Analysis and Forecast, 2021-2030"
     excerpt: "Reportlinker.com announces the release of the report \"Global AI in Healthcare Market: Analysis and Forecast, 2021-2030\""
     publishedDateTime: 2021-03-01T09:39:00Z

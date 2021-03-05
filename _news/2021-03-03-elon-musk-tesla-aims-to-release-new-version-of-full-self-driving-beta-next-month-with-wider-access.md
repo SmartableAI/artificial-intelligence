@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-f
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
 type: article
 quality: 90
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://i.insider.com/603e18c787d37600190d0918?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Tesla’s Full Self-Driving subscription is coming in Q2 2021"
-    excerpt: "Tesla CEO Elon Musk confirmed today that the electric automaker’s Full Self-Driving subscription program would be available in Q2 2021. Tesla’s Full Self-Driving suite is a robust, semi-autonomous driving functionality that allows owners to experience arguably the best self-driving program available in the world currently."
-    publishedDateTime: 2021-03-01T00:00:00Z
-    webUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q2-2021/"
-    ampWebUrl: "https://www.teslarati.com/tesla-full-self-driving-subscription-q2-2021/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-q2-2021/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 59
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-1-1024x576.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Elon Musk Says Tesla Will Launch Subscription for Full Self-Driving Within Months"
     excerpt: "The advanced driver assistance system will be available as a monthly subscription sometime between April and June."

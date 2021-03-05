@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/india-artificial-intelli
 webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring the Intersection of Genomic Data and AI in Healthcare"
+    excerpt: "While artificial intelligence in healthcare has the potential to gain actionable insights from genomic data, longstanding challenges could hamper efforts to achieve precision medicine."
+    publishedDateTime: 2021-03-05T06:01:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
   - title: "Artificial Intelligence in Payments Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025"
     excerpt: "Artificial Intelligence in Payments market across the globe is forecast to grow at the exponential CAGR during 2020-25. The major contributing factor for the growth of the Global Artificial Intelligence in the Payments market is increasing digitalization in banking and financial instruction."
     publishedDateTime: 2021-03-05T12:13:00Z

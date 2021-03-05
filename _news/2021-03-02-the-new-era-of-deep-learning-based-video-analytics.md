@@ -58,20 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Totesoft, A Leading Data Analytics Firm, Provides Top-Rated, AI-Backed Custom Data Solutions To Leading Businesses"
-    excerpt: "The company recently announced two key services, multi-language text to speech and speech to text translation, which will be available ... to help businesses implement advanced open-source AI solutions and cloud-based AI technologies as cost-efficient ..."
-    publishedDateTime: 2021-03-01T00:00:00Z
-    webUrl: "https://www.wboc.com/story/43426056/totesoft-a-leading-data-analytics-firm-provides-top-rated-ai-backed-custom-data-solutions-to-leading-businesses"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 17
-    images:
-      - url: "https://www.getnews.info/uploads/89ea9e773b8e7465d89f587b82873c7b.png"
-        width: 550
-        height: 480
-        isCached: true
 
 secured: "D+xX8zNGlfFeCUT0Nw9rjr0qBNWZoDMdjiz/2MMPIkWAtTfbYmAGZ4e3gz1sGzy6Gvlt9Fz+ceWbOr4FHYqPlTEvD73EGDepPWsN95+FioQL4dWjnDmKlqQDbI6uiIUW9XfVjKpFOp1z2nd739QAFVg1l6PfB5LnFPDu5pZVPvSEMsfmy497KuYIyuOV6ib8g1u4/0ntKnpFPwM4zW4g1XXNDJKrOP1lBG3DYJRQ1eclCT2Fx5GybfnSh+uzU+gKq79xqk9zhqel6TOQMk/iPnqd8yq4g3bzqJHE9sNc4aG+qtvNh/ExPkfTz9rswdkrV8SWX1oMw2ROT5/4QHG/1gFs6YaNZd2PkE826irHqXKaOlbIx8WrDMlUT+F+ooA5ALXknkWyM21GW+msGnjSUPdaBXNuighwbWLhZseLjRbent15CbEMRJ56ymP4yUhHKPFGmdUec1GEhsabb5QAl837JG+xPwxwhAyw0CFbQZXhQjzwNGwMaHE069ZFxtPnr6Ao6mkuX7RSv0f7IBkDkQ==;OYLYHOK94/DzJzxhZHKZzw=="
 ---

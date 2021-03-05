@@ -53,20 +53,6 @@ related:
         width: 1500
         height: 900
         isCached: true
-  - title: "Totesoft, A Leading Data Analytics Firm, Provides Top-Rated, AI-Backed Custom Data Solutions To Leading Businesses"
-    excerpt: "The company recently announced two key services, multi-language text to speech and speech to text translation, which will be available ... to help businesses implement advanced open-source AI solutions and cloud-based AI technologies as cost-efficient ..."
-    publishedDateTime: 2021-03-01T00:00:00Z
-    webUrl: "https://www.wboc.com/story/43426056/totesoft-a-leading-data-analytics-firm-provides-top-rated-ai-backed-custom-data-solutions-to-leading-businesses"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 17
-    images:
-      - url: "https://www.getnews.info/uploads/89ea9e773b8e7465d89f587b82873c7b.png"
-        width: 550
-        height: 480
-        isCached: true
   - title: "The New Era of Deep-Learning Based Video Analytics"
     excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
     publishedDateTime: 2021-03-02T15:52:00Z
