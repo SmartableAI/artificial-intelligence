@@ -41,11 +41,27 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "AI: Facebook's new algorithm was trained on one billion Instagram pics"
+    excerpt: "Facebook's researchers have achieved a breakthrough in self-supervised learning, by training an AI system on one billion unlabeled Instagram pictures."
+    publishedDateTime: 2021-03-04T16:27:00Z
+    webUrl: "https://www.zdnet.com/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/04/80f9fa38-8617-4009-80cf-8e93e55ea22e/facebook-ai-seer.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook’s new computer vision model achieves state-of-the-art performance by learning from random images"
     excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today announced that it’s created an AI model trained on a billion images that ostensibly achieves state-of-the-art results in a range of computer vision benchmarks."
@@ -76,6 +92,20 @@ related:
       - url: "https://images.wsj.net/im-307134/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Facebook AI learned object recognition from 1 billion Instagram pics"
+    excerpt: "Artificial intelligence built by Facebook has learned to classify images from 1 billion Instagram photos. The AI used a different learning technique to many other similar algorithms, relying less on input from humans."
+    publishedDateTime: 2021-03-04T15:26:00Z
+    webUrl: "https://www.newscientist.com/article/2270102-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 56
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/03/04125442/adobestock_heroimage_web.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facebook smart glasses could have facial recognition — here’s why that’s a terrible idea"
     excerpt: "We’ve already heard news that Facebook is developing smart glasses, even if the earliest models don’t have any sort of AR or mixed reality features. But apparently, they may come with facial recognition cameras."

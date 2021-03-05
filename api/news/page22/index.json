@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2021-02-15-bahrain-fintech-bay-announces-partnership-with-sigma-ratings-to-develop-ai-rating-services.md",
+      "title": "Bahrain Fintech Bay Announces Partnership With Sigma Ratings to Develop AI Rating Services",
+      "excerpt": "Maissan Al Maskati, Chairman of Fintech Consortium, said: “AI technology in the realm of risk ratings offers investors something totally new in the form of real time and relevant ratings data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "originalUrl": "https://www.albawaba.com/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/pr_new/Maissan_Almaskati.jpg?itok=ZqcJMakI",
+          "width": 655,
+          "height": 436,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/bahrain-fintech-bay-announces-partnership-sigma-ratings-develop-ai-non-credit-risk-ratin",
+      "publishedDateTime": "2021-02-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-covid-19-has-made-americans-lonelier-than-ever-but-ai-can-help.md",
       "title": "COVID-19 has made Americans lonelier than ever, but AI can help",
       "excerpt": "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing",
@@ -1158,58 +1201,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-silicon-valleys-safe-space.md",
-      "title": "Silicon Valley’s Safe Space",
-      "excerpt": "Slate Star Codex was a window into the psyche of many tech leaders building our collective future. Then it disappeared.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/08/business/00Rationalists-vid-still/00Rationalists-vid-still-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.amp.html",
-      "publishedDateTime": "2021-02-13T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

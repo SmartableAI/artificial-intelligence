@@ -36,6 +36,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
+  - title: "Why Is Amazon (AMZN) Down 9.3% Since Last Earnings Report?"
+    excerpt: "A month has gone by since the last earnings report for Amazon (AMZN). Shares have lost about 9.3% in that time frame, underperforming the S&P 500. Will the recent negative trend continue leading up to its next earnings release,"
+    publishedDateTime: 2021-03-04T16:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-last-earnings-report-2021-03-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-last-earnings-report-2021-03-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-last-earnings-report-2021-03-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "l+5Yj6t0iCRHjfhPDBxdpeFV+d0O+lnmvH0gBLHBy4z8h/rzsOswEUNpsWJp7IE3z2D3lVInRzG5NM9Kbosdy6Kg6Wk1DsfgQCowesZvj6UlsHCYjJ4ENhypBKz7JcQ5DfNQlQm37jven2hOc5FHOV/+lLU42p3UNN11PlldnNsrMXfIM+zarBLZY8fbWqLbrr1hZ9NA3BiWLxeb/V6yslBA2d9+nVBQm9XvwNO8Y1FBgUOKyGktzSwwcf1gtShxflFnuRD2sY8VG7l6EjqsHCY4cXfNqv/q2XSclf/L0IBivEozi5f/rSXAjagpLb5h5YQbvYC5IoYI/EM4rVyQn7STZIIFGN0sa4r6a3HKfNKotcZlL+o7Wl/hyaffP3M1Wk7UR0xFe7lMpCcX6W7aVGjTd7+tavJadbzZCnz6x5kp4EsbaCmnF42NlAWP4Y5KmIIuhCkDT9TfVApUV11mvxk55XeJlu77QVDYXHxXT5eIi5GJolS2rwYYvxccYqHHUpN1fK9XnxlI8weo0Qk2eQ==;67edfQxEn0Z/onJYiAmTYg=="
 ---

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
+      "title": "Cables could help soft robots transform into harder structures",
+      "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "originalUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/MIT-Adjustable-Robots-01-PRESS_0.jpg?w=900",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
+      "publishedDateTime": "2021-03-03T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
       "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
       "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
@@ -548,7 +600,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1204,59 +1256,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-hunting-sexual-predators-a-political-fight-in-facial-recognition-legislation.md",
-      "title": "Hunting Sexual Predators A Political Fight in Facial Recognition Legislation",
-      "excerpt": "Political polarization over government use of facial recognition technology continues to mount, as Massachusetts became one of the first states to pass comprehensive regulations curbing law enforcement's use of the software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303",
-      "originalUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1715323/china-ai-security-cameras.jpg",
-          "width": 2500,
-          "height": 1569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1",
-      "publishedDateTime": "2021-03-02T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

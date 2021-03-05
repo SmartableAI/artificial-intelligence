@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-wit
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - AWS AI
 
 related:
+  - title: "Why Is Amazon (AMZN) Down 9.3% Since Last Earnings Report?"
+    excerpt: "A month has gone by since the last earnings report for Amazon (AMZN). Shares have lost about 9.3% in that time frame, underperforming the S&P 500. Will the recent negative trend continue leading up to its next earnings release,"
+    publishedDateTime: 2021-03-04T16:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-last-earnings-report-2021-03-04"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-last-earnings-report-2021-03-04?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-last-earnings-report-2021-03-04?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Amazon Unveils A New Computer Vision Service To Spot Product Defects At Manufacturing Stage"
     excerpt: "The service uses Machine Learning to study images as a person would, at a higher degree of accuracy and much larger scale."
     publishedDateTime: 2021-03-01T11:31:00Z

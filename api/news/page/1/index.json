@@ -10,7 +10,7 @@
       "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,8 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "AI Hardware"
+        "AI Hardware",
+        "Facebook AI"
       ]
     },
     {
@@ -158,6 +159,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-tiktok-owner-bytedance-said-to-make-foray-into-smart-cars-with-investment-in-self-driving-start-up-qcraft.md",
+      "title": "TikTok owner ByteDance said to make foray into smart cars with investment in self-driving start-up QCraft",
+      "excerpt": "A ByteDance spokesman had no immediate comment. A representative for QCraft declined to comment. The deal, which may be announced as early as next week, follows a spate of similar investments and tie-ups between technology firms and car manufacturers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/03/05/82e8aa26-7d6d-11eb-9fc3-2f3c8e08d261_image_hires_140939.jpg?itok=11HNHV11&v=1614924586",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start",
+      "publishedDateTime": "2021-03-04T14:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says.md",
       "title": "Moscow metro facial ID payment system raises privacy concerns, rights group says",
       "excerpt": "A new facial recognition payment system on the Moscow metro, due to be launched this year, raises concerns about privacy and human rights, a Russian digital rights group said on Thursday.",
@@ -218,7 +271,7 @@
       "originalUrl": "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1207,58 +1260,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
-      "title": "Cables could help soft robots transform into harder structures",
-      "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
-      "originalUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/MIT-Adjustable-Robots-01-PRESS_0.jpg?w=900",
-          "width": 900,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/cables-could-help-soft-robots-transform-into-harder-structures/amp/",
-      "publishedDateTime": "2021-03-03T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

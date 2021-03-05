@@ -664,6 +664,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-fuji-and-motus-ventures-collaborating-on-robotics-and-ai.md",
+      "title": "FUJI and Motus Ventures Collaborating on Robotics and AI",
+      "excerpt": "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-national-security-commission-on-artificial-intelligence-issues-report-on-how-to-maintain-us-dominance.md",
       "title": "National Security Commission on Artificial Intelligence issues report on how to maintain U.S. dominance",
       "excerpt": "The National Security Commission on AI report makes recommendations ranging from 5G and China to immigration policy and civil rights.",
@@ -1180,41 +1223,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision.md",
-      "title": "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision",
-      "excerpt": "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
-      "publishedDateTime": "2021-03-01T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

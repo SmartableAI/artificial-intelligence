@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-02-17-isscc2021-artificial-intelligence-chips.md",
+      "title": "ISSCC2021: Artificial intelligence chips",
+      "excerpt": "This was a packed session, with nine presentations, on chips from 5nm and 7nm processors for mobile and cloud use, to ultra-low-power application-specific accelerators for wearables. IBM and Samsung both presented ML processors for phones, where local AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/design/isscc2021-artificial-intelligence-chips-2021-02/",
+      "originalUrl": "https://www.electronicsweekly.com/news/design/isscc2021-artificial-intelligence-chips-2021-02/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2021/02/17151548/ISSCC2021-paper-9.1-IBM-AI-for-mobiles-lowres.jpg",
+          "width": 1086,
+          "height": 885,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-it-takes-a-village-to-raise-a-child-and-the-same-goes-for-building-a-chatbot-ai-during-ongoing-digital-transformation.md",
       "title": "It takes a village to raise a child. And the same goes for building a Chatbot AI during ongoing digital transformation.",
       "excerpt": "One of the most exemplary team efforts I have had the honor of leading was our effort to implement the first AI Chatbot within our organization. A little less than a year after getting the assignment,",
@@ -1126,48 +1169,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-semeon-analytics-wins-major-artificial-intelligence-contract-with-us-military.md",
-      "title": "Semeon Analytics Wins Major Artificial Intelligence Contract with U.S. Military",
-      "excerpt": "Semeon Analytics, an ATW Tech Inc. company, is pleased to announce its most recent contract with a branch of the U.S. military to apply its technology to better understand how complex composite materials can fail and therefore facilitate the development of processes that safeguard components assembled with these new materials.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/semeon-analytics-wins-major-artificial-intelligence-contract-with-u-s-military-1030087520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Semeon-Analytics-Wins-Major-Artificial-Intelligence-Contract-with-U-S-Military-1030087520",
-      "publishedDateTime": "2021-02-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

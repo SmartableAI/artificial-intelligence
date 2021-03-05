@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook trains A.I. to ‘see’ using 1 billion public Instagram photos"
-    excerpt: "Facebook has built an AI program called \"SEER\" that can tell what it is looking at. It did this by feeding it over 1 billion public images from Instagram."
-    publishedDateTime: 2021-03-04T20:00:00Z
-    webUrl: "https://www.cnbc.com/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/04/facebook-trains-ai-to-see-using-1-billion-public-instagram-photos-.html"
+  - title: "Facebook’s New AI Teaches Itself to See With Less Human Help"
+    excerpt: "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling."
+    publishedDateTime: 2021-03-05T02:22:00Z
+    webUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/"
+    ampWebUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 91
+      name: Wired
+      domain: wired.com
+    quality: 93
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106747364-1602836839452-gettyimages-1228865133-dicola-notitle201003_npbdv.jpeg?v=1602837049"
-        width: 4256
-        height: 2832
+      - url: "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "AI: Facebook's new algorithm was trained on one billion Instagram pics"
     excerpt: "Facebook's researchers have achieved a breakthrough in self-supervised learning, by training an AI system on one billion unlabeled Instagram pictures."
@@ -58,17 +58,110 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facebook’s new image-recognition A.I. is trained on 1 billion Instagram photos"
-    excerpt: "Facebook has developed a powerful new image-recognition A.I. that's trained on over a billion public Instagram images. It could be a game changer"
-    publishedDateTime: 2021-03-04T07:00:00Z
-    webUrl: "https://www.digitaltrends.com/features/facebook-seer-image-recognition-ai/"
-    ampWebUrl: "https://www.digitaltrends.com/features/facebook-seer-image-recognition-ai/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-seer-image-recognition-ai/?amp"
+  - title: "Facebook taught a computer vision system how to supervise its own learning process"
+    excerpt: "We’ve developed SEER (SElf-supERvised), a new billion-parameter self-supervised computer vision model that can learn from any random group of images on the internet, without the need for careful curation and labeling that goes into most computer vision training today,"
+    publishedDateTime: 2021-03-04T15:04:00Z
+    webUrl: "https://www.engadget.com/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html"
+    ampWebUrl: "https://www.engadget.com/amp/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 67
+      name: Engadget
+      domain: engadget.com
+    quality: 83
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/Fxx6a8B8w.WLpaR72TGyXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/os/creatr-uploaded-images/2021-03/90eeee00-7c69-11eb-b3bd-389505b94bd2"
+        width: 2000
+        height: 1125
+        isCached: true
+  - title: "Facebook’s new computer vision model achieves state-of-the-art performance by learning from random images"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today announced that it’s created an AI model trained on a billion images that ostensibly achieves state-of-the-art results in a range of computer vision benchmarks."
+    publishedDateTime: 2021-03-04T07:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/"
+    ampWebUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facebook Researchers Report Advance in Computer Vision"
+    excerpt: "Facebook said it has developed a self-supervised learning AI system that could help companies create highly accurate computer vision software."
+    publishedDateTime: 2021-03-04T20:00:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-researchers-report-advance-in-computer-vision-11614870001"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 71
+    images:
+      - url: "https://images.wsj.net/im-307134/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Facebook smart glasses could have facial recognition — here’s why that’s a terrible idea"
+    excerpt: "We’ve already heard news that Facebook is developing smart glasses, even if the earliest models don’t have any sort of AR or mixed reality features. But apparently, they may come with facial recognition cameras."
+    publishedDateTime: 2021-03-02T08:04:00Z
+    webUrl: "https://www.tomsguide.com/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
+    ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 50
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/Fo9ovefx8AwWmfGZ2N3M5B-480-80.jpeg"
+        width: 480
+        height: 272
+        isCached: true
+  - title: "Facebook’s new AI model SEER can teach itself to recognize images"
+    excerpt: "The SEER model, outlined in a paper released March 2, was fed 1 billion publicly available images without annotations or labels from Instagram. It then worked through the dataset, learning as it progressed,"
+    publishedDateTime: 2021-03-04T17:42:00Z
+    webUrl: "https://siliconangle.com/2021/03/04/facebooks-new-ai-model-seer-can-teach-recognize-images/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 41
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/156601563_444871796757659_6553158605407931420_n.jpg"
+        width: 2048
+        height: 1075
+        isCached: true
+  - title: "Of course Facebook is considering facial recognition for its smart glasses"
+    excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
+    publishedDateTime: 2021-03-01T12:24:00Z
+    webUrl: "https://knowtechie.com/of-course-facebook-is-considering-facial-recognition-for-its-smart-glasses/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 37
+    images:
+      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/03/facebook-logo-on-smartphone-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
+  - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
+    excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
+    publishedDateTime: 2021-03-03T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-inch-closer-to-building-general-purpose-intelligence-agents-with-unit/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 20
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Untitled-design-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
 secured: "0nmQcbNMzhuChp+xsKdggltsgIIGpX7Lpg3yDUGBGKVWvvmDABa/89Gn3pXwBpA92pRZTWNU8dDriSMdtGcwTzW8YwVOCH9uXhSU7ihYxhFQOzG5nI/3nrnevJZYmiHqbDxHHE3r8rU7RTJ3n3mxH73gklRLzG66B+DHeybpgMRDMtSqzvLkBDPn9u7yEyoWdoPq2lH3+mFlEVRVd4M+i0ijLkqNKX7syEswHrBgsSoVlzXpf+x05aCM1XUyVOVNGmfZdLcSAcSUSH7/pK6JiunWwEIyEdQ87DBHsWpMS/k5RIBrbgD9L8X3zEkqy7O3h1GZrMFL2Icrr9K+NxefxDuw/d2dFwkCmFmBV69KubKVLnIETgzO86rC2lm/zQJ/8ZCUjsBdTOjG0sqPznDdjQoK/rPwCgy0f2Q8eZabgJ65dbqDTGb4cQ2K6poWUF3zTG35Q2dD53OHIx+atNi1O6nnzzzILf4PvitEyQWPduPrR+vvrSsVGckk6zZAJLR/qv0bYyaaPNjwWjvyljjzSw==;cyojjCeOfSLQFOf2VPAfUQ=="
 ---

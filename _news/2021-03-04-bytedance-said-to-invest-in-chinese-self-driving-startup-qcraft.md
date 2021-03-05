@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/markets/bytedance-said-to-invest-in
 webUrl: "https://www.bloombergquint.com/markets/bytedance-said-to-invest-in-chinese-self-driving-startup-qcraft"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "TikTok owner ByteDance said to make foray into smart cars with investment in self-driving start-up QCraft"
+    excerpt: "A ByteDance spokesman had no immediate comment. A representative for QCraft declined to comment. The deal, which may be announced as early as next week, follows a spate of similar investments and tie-ups between technology firms and car manufacturers,"
+    publishedDateTime: 2021-03-04T22:09:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start"
+    ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 72
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/03/05/82e8aa26-7d6d-11eb-9fc3-2f3c8e08d261_image_hires_140939.jpg?itok=11HNHV11&v=1614924586"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "R0hew/7ArZCywihjzcNFMSEXzzC6l2bC/2H5Cmjxd5Ly3nJRlSZsMJzviMJwycOooFMhkTe36iSFC5eXKRNq5eaJYOSz/S2xmIB6ejFQWfsYNm4OYD9ouiIOgcGI0/M8meezZk/BTxk44JxcLcuNQK3otMR498zyzrvz6PQJOm3w5ha4psSlODkFJGzueWcG5XYw9Sinb8khdYDipkO6jXOXw8Tzf2BOiRkgm38y/759rPIr0f44VapuYmFVsiOm1FBNXxMdhFdIr436reY95nlNrRsaqdiOWHtSl7aTfT0rALoBMqW8s3wSkAlUWvn7BUxabEwsLaxNIH0KkArgVTRuVXFTgI6APHmTgbhULzA=;kFWeX0eeV3YO6cux5th+Tw=="
 ---

@@ -3,11 +3,11 @@ category: news
 title: "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector"
 excerpt: "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,"
 publishedDateTime: 2021-03-04T03:16:00Z
-originalUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
-webUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+originalUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
 type: article
-quality: 10
-heat: 10
+quality: 8
+heat: 8
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Finance
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "RQgyRixmvlD+AhoP3ZCHN3SSlbI1emQKknPso+M9qoTJLTHPvvsvYXzmQjnganu6BoShXPp6U8Db+5opLnCBxOSZtLqhx0y4KnnnKDRZcIgGU0hmWULkHd7UoPGN6xU7CPFsbJ7X8fRYpIJSgqfabqtN5o5jecr7EK0KdGYBIUzVB1hq5Uf4WkbQy2RNAaaUyJ7VkLUROa4+x/mGX5/bbOqTLuY8MREQOa8Pid84HCOKIphETf12v7nDSWWgiQCPx0mGc1Hw3NIrhwsitC7LLpgOTqhO3QUpOZOHvGC7Cx8NBEkfUn55mkLIX/e8GOyKtg75Ny0Jt6IsOQKgpeP5051vzkeSWQewUQEr3WfcxTA=;BhSO4mYa0tt1Z7TIpPLqyA=="
+secured: "atirv7u2kTlSkz2rMl5dhfhJLSSmFbd20FZDG+6orwUrqeGhWKUyEpxKnE3leql95tsA8lfosUpVonk2z7jBvgZ14btQnW8Ny8Mk4JTQjcNvZexi5iPvfYplindiUotC6wqsiF+6X20k3d9NXBFr1z8RrKhb6oEKJOAgDR4GGGPYLn6FgUxigMIZ5/dd5lK1VwcUPLCB7Xba5LtNeIiwWHXNadzj4CafbjFJ17LMtnbQwd29NU21iCzxztTapNPEIiqEFOgsKOijJxPSSbyu9NaXyznAD40ro2l88tYnJlygmG8hj4hyRJ6nof5Mh8+lxDC4qEk9WnM+hXAZsEfKvSsi9F5a93ZvSwkp1JK9PPg=;HebVhOJP+9LUxYEmyJ3gtA=="
 ---
 

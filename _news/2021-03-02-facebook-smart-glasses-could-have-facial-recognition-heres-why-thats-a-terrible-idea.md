@@ -37,11 +37,27 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "AI: Facebook's new algorithm was trained on one billion Instagram pics"
+    excerpt: "Facebook's researchers have achieved a breakthrough in self-supervised learning, by training an AI system on one billion unlabeled Instagram pictures."
+    publishedDateTime: 2021-03-04T16:27:00Z
+    webUrl: "https://www.zdnet.com/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/04/80f9fa38-8617-4009-80cf-8e93e55ea22e/facebook-ai-seer.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facebook taught a computer vision system how to supervise its own learning process"
     excerpt: "We’ve developed SEER (SElf-supERvised), a new billion-parameter self-supervised computer vision model that can learn from any random group of images on the internet, without the need for careful curation and labeling that goes into most computer vision training today,"
@@ -88,6 +104,20 @@ related:
       - url: "https://images.wsj.net/im-307134/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Facebook AI learned object recognition from 1 billion Instagram pics"
+    excerpt: "Artificial intelligence built by Facebook has learned to classify images from 1 billion Instagram photos. The AI used a different learning technique to many other similar algorithms, relying less on input from humans."
+    publishedDateTime: 2021-03-04T15:26:00Z
+    webUrl: "https://www.newscientist.com/article/2270102-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 56
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2021/03/04125442/adobestock_heroimage_web.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Facebook’s new AI model SEER can teach itself to recognize images"
     excerpt: "The SEER model, outlined in a paper released March 2, was fed 1 billion publicly available images without annotations or labels from Instagram. It then worked through the dataset, learning as it progressed,"

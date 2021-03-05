@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-19-will-robots-rule-the-world-new-haven-author-has-the-answers-to-artificial-intelligence-questions.md",
+      "title": "Will robots rule the world? New Haven author has the answers to artificial intelligence questions",
+      "excerpt": "Steve Shwartz isn’t particularly worried about artificial intelligence, and if anyone should know whether or not to panic, it’s him. He’s been working in artificial intelligence since 1979, when he enrolled in a post-doctorate program at Yale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
+      "originalUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/54/00/20627507/3/rawImage.jpg",
+          "width": 1900,
+          "height": 1267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Middletown Press",
+        "domain": "middletownpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-the-power-of-artificial-intelligence-ai.md",
       "title": "The Power of Artificial Intelligence (AI)",
       "excerpt": "By Aaron Gette, CIO, The Bay Club Company - If you’re an avid fan of HBO's Silicon Valley, as I am, you may have recently downloaded the iOS app",
@@ -1154,58 +1198,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-4-ways-to-bridge-the-ai-integrity-gap.md",
-      "title": "4 Ways To Bridge The AI-Integrity Gap",
-      "excerpt": "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg",
-          "width": 588,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "publishedDateTime": "2021-02-18T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
