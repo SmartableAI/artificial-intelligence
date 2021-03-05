@@ -263,8 +263,8 @@
       "title": "TensorFlow: A cheat sheet",
       "excerpt": "TensorFlow is an open source software library developed by Google for numerical computation with data flow graphs. This TensorFlow guide covers why the library matters, how to use it, and more.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -281,8 +281,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/tensorflow-googles-open-source-software-library-for-machine-learning-the-smart-persons-guide/",
       "publishedDateTime": "2021-02-26T15:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1052,6 +1052,50 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-google-releases-tensorflow-3d-what-exactly-is-it.md",
+      "title": "Google Releases Tensorflow 3D. What Exactly Is It?",
+      "excerpt": "TensorFlow provides a set of operations, loss function, data processing tools, metrics, and other models for developing, training, and deploying state-of-art 3D scene understanding models. Autonomous vehicles, robots, and other ML-learning systems have to ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/google-releases-tensorflow-3d-what-exactly-is-it/",
+      "originalUrl": "https://analyticsindiamag.com/google-releases-tensorflow-3d-what-exactly-is-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/02/tensor.png",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-18T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-optax-is-a-gradient-processing-and-optimization-library-for-jax.md",
       "title": "Optax is a gradient processing and optimization library for JAX.",
       "excerpt": "If nothing happens, download GitHub Desktop and try again. mihaelacr-google and OptaxDev optax-dev@google.com Ensure the number of update functions and states is the same in chain.",
@@ -1452,49 +1496,6 @@
         "Machine Learning",
         "Google AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-stacktrace-podcast-123-swift.md",
-      "title": "Stacktrace Podcast 123: “Swift++”",
-      "excerpt": "John and Rambo discuss the recent discontinuation of Swift for TensorFlow, and whether open sourcing commercial projects is a good idea.",
-      "sourceUrl": null,
-      "webUrl": "https://9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/",
-      "originalUrl": "https://9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/01/StacktraceWide.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2021/02/17/stacktrace-podcast-123-swift/amp/",
-      "publishedDateTime": "2021-02-16T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

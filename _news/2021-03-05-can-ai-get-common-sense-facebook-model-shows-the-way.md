@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Can AI get common sense? Facebook model shows the way"
-excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training"
-publishedDateTime: 2021-03-05T11:59:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=807915"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=807915"
+excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
+publishedDateTime: 2021-03-05T11:49:00Z
+originalUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+webUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+ampWebUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "http://www.daijiworld.in/images3/sq_chitki.jpg"
-    width: 280
-    height: 250
-    isCached: true
 
 related:
   - title: "Facebook’s New AI Teaches Itself to See With Less Human Help"
@@ -192,6 +188,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "TmoaemgjELGS68UsTzZBb5guEocVTLsMhY1rwE6UVgRtBZeLz/V8mZxXZkeW+DB1GmaCf9jpOhRbz73auImVNGGZirLrm8CeQ37GEs6xMLjYQ0oa6UCXkIC9/+D2EK/EFlAYSqKQ9b3BO8f0RmvKmx5mGKLeSGJJx3Y7EloqtEDy3iTwOzLfsFhsw+TzsclGsf4RJxK0mIXF4scLOfjQaWqxrKrx48sadH+t9AzaFUzCtDshbmFiESZdZwSIXP3vx9tiYpWunFZelmyLcCT1OufW46PWWIOn+ises5UqhVYuYDX0cDNapqUMlbharZLD65agNX0/uMpWG5p7S6UqSSuRrrQE5Hi0mS+HKEQtAgk=;kcbTYEM1TwJsQymXWT1CIQ=="
+secured: "JaEEvSBxQg4/ui9JiTI8CBT0GXseZs2DpQtetsz0JNqVQ2J++V8KKX+UCCNehcKPGjWQkpRKGzzYmA4+nzaUUGHMedz53DziOTwuldi2Gth6J2T99mXZ8kJm4zXzGzGLgn6BUfatCEsQ6n7adbPVwJW4wC2wJ0XEk8rDXjZUJIOgZT7PIfAyz+fcREWbuWc1OHfRvTDmmyUocoFCsAwQWqHbSCHmWqk1gN6wFIOGTsK6/Tk6AJcUeQBZ/G7fgqmWez0ANDUNufesRgZGjiiJcN3+3C0qThm/3OK2zRtGfSe89DhtYEU77LCP4wHZqlGWi/06odOfm10sLvqAJZ88e2MvWDkPEdBAnxMAhODPKzc=;AAaEZwgBe6eB/uAl3A2lvw=="
 ---
 

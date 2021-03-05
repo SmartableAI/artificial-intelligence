@@ -151,19 +151,16 @@ related:
         height: 272
         isCached: true
   - title: "Can AI get common sense? Facebook model shows the way"
-    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training"
-    publishedDateTime: 2021-03-05T11:59:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=807915"
+    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
+    publishedDateTime: 2021-03-05T11:49:00Z
+    webUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+    ampWebUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 39
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_chitki.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Of course Facebook is considering facial recognition for its smart glasses"
     excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
     publishedDateTime: 2021-03-01T12:24:00Z

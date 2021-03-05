@@ -24,6 +24,17 @@ images:
     height: 799
     isCached: true
 
+related:
+  - title: "Video: DeepRoute.ai begins self-driving robotaxi service in Wuhan"
+    excerpt: "Autonomous vehicle vendor DeepRoute.ai has started offering robotaxi service in Wuhan, China. The project will be led by Dongfeng Motor and 42 self-driving vehicles have already been deployed with 26 of them powered by DeepRoute."
+    publishedDateTime: 2021-03-05T13:50:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16434/video-deeproute-ai-begins-self-driving-robotaxi-service-in-wuhan"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 19
+
 secured: "EcVOKkakcsfWKPZOsEGAFDq5xZVT4e0tEMOMDMZmtEugZc3VyDZaayoPOoXltSKCcEXGYxboMmeLcaFm92NmGy4Sk9JXFTXXTeAeZt1oOCqqb2P5BungSSRJwhyAlnAOl6RgAXyBgw6GXPmRLYRl3iJ244YM071dAC3V9TBqf0VFbFnvfFrEJIKv2/2BN+DhNIeA0mJwpcPcOwMr0YlurvsJzN8pdEbIWmheR1qnyMiTdlR27BoZ0v4cuGKaTUlFPZOK/En5tyGNRHUQZUApmrdd9Ql/8+w7UOOYy35HdE3Idtz3UkLuIKzv5FFK5l+3rQq3jBmqA86JIouzjjoAO/5//vwiGO0ndvtB/q/YVzc=;rOFyPzZmW9ph8j+9PTsGbA=="
 ---
 

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "C3.ai Digital Transformation Institute Announces Shell as New Industry Partner"
+    excerpt: "The C3.ai Digital Transformation Institute (DTI) today announced that global energy company Shell is the newest industry partner to join the consortium of universities, national laboratories, and companies that make up the Institute."
+    publishedDateTime: 2021-03-05T14:26:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/content.php?post=16610"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 15
   - title: "Mouser Electronics Releases New Intelligent Revolution eBook Examining AI in Humanitarian Applications"
     excerpt: "Mouser announces the third eBook from The Intelligent Revolution series, examining fascinating new uses for AI in farming and other applications."
     publishedDateTime: 2021-03-01T12:00:00Z

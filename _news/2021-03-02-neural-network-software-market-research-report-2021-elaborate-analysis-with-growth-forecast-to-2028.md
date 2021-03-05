@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software Market 2021 Trend Analysis, Growth Status, Revenue Expectation to 2031"
+    excerpt: "The worldwide Artificial Intelligence Software market report is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i."
+    publishedDateTime: 2021-03-05T13:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2021-trend-analysis-growth-status-revenue-expectation-to-2031-2021-03-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
     excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2021-03-02T14:24:00Z

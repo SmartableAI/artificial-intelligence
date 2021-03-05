@@ -33,6 +33,15 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "C3.ai Digital Transformation Institute Announces Shell as New Industry Partner"
+    excerpt: "The C3.ai Digital Transformation Institute (DTI) today announced that global energy company Shell is the newest industry partner to join the consortium of universities, national laboratories, and companies that make up the Institute."
+    publishedDateTime: 2021-03-05T14:26:00Z
+    webUrl: "https://www.manufacturingtomorrow.com/content.php?post=16610"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturingtomorrow.com
+    quality: 15
 
 secured: "VogSPTgITrVPfuVQTGJ4vZu28z8iyoOrKgfawMY2FlJYVyAI1Wqt4hPgND7wM6FjyYRZtZ+EwmyEIsxk+46YpT5MqGKz8V5WytSbEu3F8DEqvh7zso9H4GAOuzBc4zBIk9qxDgRDy++rRGEOs7oj6lC4/EHJQrv+jyxqyCLXbl+iYomA8gxrjPeJb4vxnGopTFCkIy5W94MVHz5BfJBLENzSjaW6YJIkEtU+wbhkHoHig5nwMKtAiu1ISAmS0hmVMvOzLvGl9gKFv9htlHeD/9hUfK6VkQipwvQbpU4EC+mOLESj8wQjkiWBIV4uoFrlpr8lMYSdadvpFZ9/DFNM3Q3+l9iRxQ9bxCGvhnQYm60DSfxxDOMuyoptbASgcvKhm3k2RCjBj9yilzQPkN2LPjfMOmUTlJF1Mo2yMzlCr+L2B8g0XRMtyaAus5acb6bnIiHg8trKs39ORjJdGyvE1PDCnhFkHahIqjPZP1Do4XDp4FVCWOSmQuMZul9rDijGZCiC4rvQlmnA+yvgCfVXjg==;R6FTuwosl1afdl2Jir4oIg=="
 ---

@@ -164,19 +164,16 @@ related:
         height: 1075
         isCached: true
   - title: "Can AI get common sense? Facebook model shows the way"
-    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training"
-    publishedDateTime: 2021-03-05T11:59:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=807915"
+    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
+    publishedDateTime: 2021-03-05T11:49:00Z
+    webUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+    ampWebUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 39
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_chitki.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
     excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
     publishedDateTime: 2021-03-03T05:31:00Z

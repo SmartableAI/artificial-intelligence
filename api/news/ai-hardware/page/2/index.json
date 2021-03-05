@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-recogni-raises-489-million-for-ai-powered-perception-chips.md",
+      "title": "Recogni raises $48.9 million for AI-powered perception chips",
+      "excerpt": "Recogni, a startup developing a perception system for autonomous vehicles, has raised $48.9 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/",
+      "originalUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/e728073b-d9dd-4a6a-b6e8-6ff14821da0a-e1613450016151.png?w=1200&strip=all",
+          "width": 900,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/recogni-raises-48-9-million-for-ai-powered-perception-chips/amp/",
+      "publishedDateTime": "2021-02-17T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-the-cambrian-ai-landscape-nvidia-the-800lb-gorilla.md",
       "title": "The Cambrian AI Landscape: NVIDIA, The 800Lb Gorilla",
       "excerpt": "We look at NVIDIA, the leader in data center Artificial Intelligence, and outline the company's strengths and weaknesses.",
@@ -1352,58 +1404,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems.md",
-      "title": "Who needs a supercomputer? Your desktop PC and a GPU might be enough to solve some of the largest problems",
-      "excerpt": "A new method significantly reduces the amount of memory needed for brain simulations, freeing some AI models from the need for a supercomputer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "originalUrl": "https://www.zdnet.com/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/02/43f7be8f-9cba-4383-86c1-dd00d73b639a/james-knight-and-thomas-nowotny.jpg",
-          "width": 1154,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-needs-a-supercomputer-your-desktop-pc-and-a-gpu-might-be-enough-to-solve-some-of-the-largest-problems/",
-      "publishedDateTime": "2021-02-03T02:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

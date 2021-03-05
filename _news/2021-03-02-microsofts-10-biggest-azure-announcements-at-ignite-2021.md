@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T06:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
 type: article
 quality: 54
 heat: -1
@@ -568,7 +568,16 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
+    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
+    publishedDateTime: 2021-03-05T13:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
-secured: "yoHqK1MWBzMKd/nUp54Phcuu4xx+APyMPJ3Nf7uDq1SFSHFsZzlmopfgtsCzZjVoKxBaX/8owxlmwAgDcNxxIurBZ3p5PA8r1saRx9eIU+SdtiJ8Hkn6byH6+s5W+XMONnM0QNX1KWFkqh1CS7Fd+G+TzVhHYKwB8Q0/r1Dn29fkkfVob4j5Tdcx8g+z2nMcfLyvAI0OxqoDfgpB42jv01b/ngSjSaPAwezsts1WuHk5Nn6kBT581c1Uxb7bzUgvxzEfFLhSbkfa/5pVhyQKzpmgadjrvLmUIclSMOJWS4Wa6fnAatZeYl9njrlhX6ErpedXSp3FBARIrklg/QUwMbjXRDpAZj2AvLmOrKHJq2A=;xWv2Om4F29p+XzSwvZIchg=="
+secured: "bBHuUtSRJo1NFW3Q62lZ9+/Bl/bkgi3pBIw4tUBVoaF2G5I/q+YWGOh/01AsQNEMBartBEbEuHUoa0I9J5rDrm4MwbH1ETo6OYRgslSGRmPA4Uz8jbuLMmxnumDbPgkLIoQcmQTJnd+u02HqqH1uoH85WafKOfKSXxYJIr7LIt/Snr6ozEkdF5cGFkAUVmzpSJPb+ya8pW8wkVzCnbfH6eew3rFOrZYWpEEpUkitvaRS367lzeGv1Kfck6n9633G6zvaM/0yOUu1LbbUatKTWz4AW16nFfoB/9CGkTBcb8IEjFt5a0d8Q5KM6BmEYZwMocZa7eB5JAEa1CLsNICpmnG/Hq+vTWa256bxb/xVLwo=;qLdYmYu1vnWD1ZXvXfo43w=="
 ---
 

@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "NFL hopefuls use AI for a leg up ahead of predraft season"
+    excerpt: "NFL hopefuls are leveraging AI to enhance their performance ahead of the looming 2021 draft. For the past several months, coaches at EXOS training camp in Phoenix have used skeletal tracking software by Intel in a move that gives coaches and players ways to judge an athlete’s performance other than with their naked eyes."
+    publishedDateTime: 2021-03-05T06:24:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/03/04/ai-nfl-draft/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/03/04/ai-nfl-draft/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/03/04/ai-nfl-draft/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 57
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G35D25LCAZBLRAROJ74AYUYR2E.png&w=1440"
+        width: 1440
+        height: 764
+        isCached: true
 
 secured: "GI0FAZkgQK93o3YLabQ2baFq9nMccEnT0Cc4YcbDGzfPnVdJFdyZ+NjhaceVkucu5GpSPj+Y457yRqfzpsR1gSyEXk/8emcZsrbHkYEtzDjna0JpR/APU/t3H/Ge6/nMgDIYvqR7Vp0g8DcrYY+899b4ZhZxc5Z4XN/9Kgp/UtbTBJp+zA+KVjP2Z6fN6IO/qJIa5afYTlsdhYwWmfqkETlLLC5hxrjuGBrk19245yUKx1RXyCjoStnmuLtZ4MlizI/v6J+Bs7qINxjOAqlffQAVmv7RX0EJn5cQ638fc1gPSBROvl6BjkwF2+wcd3TcvtuW89hddKsRLSE1XbI+615LHdXRsL5ZizAouar5NV9m/O2olFmYD2md+Y0mN0rLi4GagIBnd/XBHK9AsLjlxKy8kaBl8IF56jh+6GWrVIQH+XZNYfDr37aDATU4ZDtKB9i3/XrVhpR9iELEYjoaw4dgBrwH4UL1JDGErf9I0dDI8Pgy4tDxF5kQ3oEmEvWR8B5VVG0/hEQeOYl1He+2jg==;UomLsUNSq2kd34ZtS99BTQ=="
 ---

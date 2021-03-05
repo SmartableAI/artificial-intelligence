@@ -150,19 +150,16 @@ related:
         height: 1075
         isCached: true
   - title: "Can AI get common sense? Facebook model shows the way"
-    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training"
-    publishedDateTime: 2021-03-05T11:59:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=807915"
+    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
+    publishedDateTime: 2021-03-05T11:49:00Z
+    webUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+    ampWebUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Sify.com
+      domain: sify.com
     quality: 39
-    images:
-      - url: "http://www.daijiworld.in/images3/sq_chitki.jpg"
-        width: 280
-        height: 250
-        isCached: true
   - title: "Of course Facebook is considering facial recognition for its smart glasses"
     excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
     publishedDateTime: 2021-03-01T12:24:00Z
@@ -192,6 +189,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "Br8Ml4zZaP/fSHv1kueG8oI4DRXDJw3V+39mYxuxps6zWjVO9gTp2TzHVkXogaRzrG4hz7y/pEZGcvCGb4kJj2s+XSiSMmlt345CHxluC8S0goHKT2//1aoEQyRoLF2V0877WEDacamknmbxBCtILuweg1Ltrs3d44lOkFbKv3dCU2sRIEmf8uHAUsBuWiEpyq8IRWFMgKyBsjR5Ny0TT1dW084RgoTe0MYVNQ9sr35PMUHfetKc1zwaz+hqT0Szr9v3pBhUr6jX9G8+Fi5v/N4im7bHa2u61Hofj9PNbqkTClQheoMFiPQBP0G6bJP+M8yjD3/1AOyPbnBW9OvxvFISwBDx5ZMzQAcpKPUUdCo=;J3tL0J9o8JP6jc0Fbf1w0g=="
+secured: "HrapMbavw34Mh9cQMD89kFxhjJ5LOJ+txduHDxwk/01PmTi64ANmrv3qoUeV/GUKq4wSQwY82Ewix46wSaf8uoqBdS1RkKJwBcKlynxRSi2VGtIObyebAdYIVDVmsRm3u1WFgifRsqEX4k2XjoALF4RlWjoRSkp8q+0NQRYo5ICAli2V7Ov33gmCJS7iNn7XjD+6z5bH2/Df6ZoaKnohUDQzCxDDeeqe/wQUWWZO8Cj8x1OwnT+rC8yi+itHxsC8Ugkkw/C8IFXAq99m8sMxIAV11A4XMDSX2l0hassZTpLzoIA2H47L3gFoQF+8qJDidSI6u87pk/uZroMU0HelvVjeZJsKSShFN+MDOxiyM0ZjTwfCWCYbi8A0+P8mblhI8sf4Z7FLdGGoGi3HtPFI+xr7RfuHaXR+ZmnzH9pOEvKh/dYMeY3KVwF+ZTV0YqlXO9yoXz+zyLdP/A1GobBoxk5JlbIsgfHBSkM74epJOGQXaSrzoRJwzMSNV42sIT/EsjUPyklOsrFG/efAfjWdjA==;wrTtbSRi8m96P0BKjcaZpA=="
 ---
 

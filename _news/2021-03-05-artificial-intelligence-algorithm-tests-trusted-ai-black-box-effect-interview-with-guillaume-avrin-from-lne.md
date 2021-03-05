@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-05T11:53:00Z
 originalUrl: "https://www.actuia.com/english/artificial-intelligence-algorithm-tests-trusted-ai-black-box-effect-interview-with-guillaume-avrin-from-lne/"
 webUrl: "https://www.actuia.com/english/artificial-intelligence-algorithm-tests-trusted-ai-black-box-effect-interview-with-guillaume-avrin-from-lne/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.actuia.com/wp-content/uploads/2021/03/Guillaume-Avrin-LNE-interview.jpg"

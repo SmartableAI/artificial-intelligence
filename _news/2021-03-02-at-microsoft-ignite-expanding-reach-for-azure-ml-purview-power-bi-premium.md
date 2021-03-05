@@ -466,7 +466,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T06:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN
@@ -572,6 +572,15 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
+    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
+    publishedDateTime: 2021-03-05T13:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "nInw/B3PXBg1tF6SJQVpo1u1GbTB7UFMbFdGqWmGHfVy3BJUsdMo+2G9E9UZSqAEQI3qb7+WSAj6pzmOD34ATFH7CEKq44zh2yRf3bZqqBzctsX6/l4ldhmuyMMr8Ds3ayLns5mD6Ywl7m6yYr856fBrxxu/tK68QxaYekDIZG/WrT4n6WzKjOZN3K8tG24L1pklN2VIrVxB8xkMrbjQdRNJ5LMgMDDNaovNUGx+xbzZiVqMSNqaqlHjj1t5r0nrBdq5Q7pM0ec73hgGj3g1UEndLSlHpmywzAs2zmH7MEJHoH9FzGLHJy2HiIpKHSxdQh7C/9YG9PBMEDSxMK89L6BxZDuTzzhBgs9UpLH2OE/L5r8BxBi20XMpg4GwmHuqryFnWzd5XFf7+R91Xs3rEP6YfnXM5oMYoBbwUBItSBIWKk5g0zHFU1+r4LOl741TfiyjTp+SEtC/EqANnXQOu57jGpwbI9HaI7tvxb04LZDXi24qTNcqemS/WkmEKChCD5ViClKXM5U+GQ7fiqUabA==;tk5DqCzo4U4ov8909gjTdw=="
 ---

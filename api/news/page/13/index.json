@@ -2,6 +2,203 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-22-why-explainability-is-the-next-step-for-ai-in-manufacturing.md",
+      "title": "Why ‘Explainability’ Is The Next Step For AI In Manufacturing",
+      "excerpt": "Now that we’ve overcome the issue of whether AI is needed or not, the new pressing question is \"why\" AI makes its decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6011c98f32810780e7c9bdc6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/why-explainability-is-the-next-step-for-ai-in-manufacturing/amp/",
+      "publishedDateTime": "2021-02-22T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-cutting-through-confusion-the-true-value-of-ai-for-sales-teams.md",
+      "title": "Cutting Through Confusion: The True Value Of AI For Sales Teams",
+      "excerpt": "More top-performing sales reps are jumping ship. Over the last decade, the sales industry has witnessed rep tenure rapidly decline from 3 years in 2010 to a mere 1.5 years in 2019. This trend has only been expedited by the remote world forged by the Covid-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602fe611a2778c1746f06424%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/22/cutting-through-confusion-the-true-value-of-ai-for-sales-teams/amp/",
+      "publishedDateTime": "2021-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas.md",
+      "title": "Motional is now testing fully autonomous vehicles in Las Vegas",
+      "excerpt": "Add Motional to the very short list of companies that have tested fully autonomous vehicles on public roads. The Hyundai-Aptiv joint venture announced that it has tested its vehicles without safety drivers behind the steering wheel on public streets in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/motional-is-now-testing-fully-autonomous-vehicles-in-las-vegas/ar-BB1dTYx1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/wMyEN4GjNku-j3tevvKBInkwsEA=/0x0:1877x1252/1400x933/filters:focal(789x476:1089x776):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68854024/Motional1.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+      "publishedDateTime": "2021-02-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+        "domain": "theverge.com/2021/2/22/22291682/motional-fully-driverless-autonomous-cars-las-vegas",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-the-real-value-of-open-source-in-the-cloud.md",
+      "title": "The real value of open source in the cloud",
+      "excerpt": "It’s a mistake to believe that running open source in the cloud will protect you from vendor lock-in. But open source certainly offers freedom and independence to developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
+      "originalUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/03/ladder_escape-100714285-large.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608648/the-real-value-of-open-source-in-the-cloud.amp.html",
+      "publishedDateTime": "2021-02-22T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process.md",
       "title": "This flying AI robot can pick fruit – preventing waste in the process",
       "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Douglas Broom, Senior Writer, Formative Content There’s a",
@@ -573,6 +770,40 @@
       ]
     },
     {
+      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s retreat from Watson highlights broader AI struggles in health",
+      "excerpt": "“You have to understand where you can insert AI and where it can be helpful” without slowing things down in the clinic. IBM’s Watson in use in an oncology department. For IBM, the retreat ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
+      "originalUrl": "https://www.theaustralian.com.au/business/the-wall-street-journal/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health/news-story/635829e0b4f5e4511f137967960bac48",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-20T20:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-google-fires-another-top-researcher-on-its-ai-ethics-team.md",
       "title": "Google Fires Another Top Researcher on Its AI Ethics Team",
       "excerpt": "Google has fired another top artificial intelligence researcher, Margaret Mitchell, in the latest escalation of internal tensions at the company following December’s controversial ouster of Timnit Gebru,",
@@ -773,40 +1004,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-21-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
-      "title": "IBM's Retreat from Watson Highlights Broader AI Struggles in Health",
-      "excerpt": "Mr. Krishna has said AI, along with cloud-computing, would be pivotal for IBM's prospects. Watson Health was one of IBM's first and the largest AI efforts, said Toni Sacconaghi, an analyst at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/dow-jones/202102201357/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health",
-      "originalUrl": "https://www.morningstar.com/news/dow-jones/202102201357/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-21-salesforce-research-wields-ai-to-study-medicine-economics-and-speech.md",
       "title": "Salesforce Research wields AI to study medicine, economics, and speech",
       "excerpt": "Salesforce Research is involved with a number of different projects, from biomedical AI to debiasing in natural language processing.",
@@ -995,195 +1192,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims.md",
-      "title": "Google sacks founder of its artificial intelligence ethics programme amid 'sexism and discrimination' claims",
-      "excerpt": "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349",
-      "originalUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-sexism-and-discrimination-claims-12223349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "publishedDateTime": "2021-02-19T23:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc.md",
-      "title": "Wearable Artificial Intelligence Ai Market 2020 Growth and Forecast Survey Till 2027 | By ARC",
-      "excerpt": "The global Wearable Artificial Intelligence (AI) market is expected to grow at noteworthy CAGR around 27 % throughout the forecast period and reach around US$ 185 billion by 2026. The Wearable Artificial Intelligence Ai Market is highly competitive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-2020-growth-and-forecast-survey-till-2027-by-arc-2021-02-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-how-to-watch-live-as-nasa-lands-its-perseverance-rover-on-mars-today.md",
-      "title": "How to watch live as NASA lands its Perseverance rover on Mars today",
-      "excerpt": "Here's the start time, the livestream and everything else you need to know as NASA's latest Mars rover tries for a dramatic touchdown on the red planet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/",
-      "originalUrl": "https://www.cnet.com/news/nasas-perseverance-rover-mars-landing-how-to-watch-the-epic-event-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T21:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim.md",
-      "title": "Google sacks founder of its artificial intelligence ethics programme amid 'smear campaign' claim",
-      "excerpt": "Margaret Mitchell has been critical of her former employer, accusing the firm of having a sexism and discrimination problem.",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "originalUrl": "https://news.sky.com/story/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/21/02/1600x900/skynews-google-logo-window_5258589.jpg?20210202104638",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/google-sacks-founder-of-its-artificial-intelligence-ethics-programme-amid-smear-campaign-claim-12223349",
-      "publishedDateTime": "2021-02-19T20:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
