@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-20-alexander-levandowski-former-google-executive-pardoned-by-trump-shutters-ai-church-and-donates-funds-to-naacp.md",
+      "title": "Alexander Levandowski: Former Google executive pardoned by Trump shutters AI church and donates funds to NAACP",
+      "excerpt": "A former tech executive at Google who was pardoned by Donald Trump has shuttered his church - which worshiped artificial intelligence - and donated its funds to the NAACP. Anthony Levandowski, who founded Google's self-driving car initiative, Waymo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "originalUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/31/15/anthony-levandowski.jpg?width=1200&auto=webp&quality=75",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
+      "publishedDateTime": "2021-02-20T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-ex-google-engineer-anthony-levandowski-has-closed-his-artificial-intelligence-church.md",
       "title": "Ex-Google engineer Anthony Levandowski has closed his artificial intelligence church",
       "excerpt": "Anthony Levandowski, a former Google engineer convicted of stealing self-driving car secrets, is closing his artificial intelligence-focused church Way of the Future (WOTF), TechCrunch reports.",
@@ -56,10 +99,10 @@
     {
       "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
       "title": "Why Baidu Stock Soared Today",
-      "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ...",
+      "excerpt": "Shares of Baidu (NASDAQ: BIDU) surged 14% on Friday after the Chinese technology titan reportedly chose a well-regarded CEO for its new electric vehicle joint venture. Baidu announced in January its intention to create a new electric vehicle company.",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602",
-      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602",
+      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
+      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -69,54 +112,11 @@
       "type": "article",
       "ampWebUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
-      "publishedDateTime": "2021-02-19T19:25:00-08:00",
+      "publishedDateTime": "2021-02-19T18:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan",
-      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence algorithms ... Alphabet Inc.’s Waymo unit and General Motors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
-      "originalUrl": "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -163,6 +163,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
+      "title": "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan",
+      "excerpt": "Apple’s self-driving car system has improved from a few years ago, but is still lagging the competition. Last year, Apple test cars drove more than 18,800 miles in California with a human driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-19/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivKAzHWasdqE/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1259,25 +1311,34 @@
     },
     {
       "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 – Key Forecasts & Opportunities – ResearchAndMarkets.com",
-      "excerpt": "The Global Automotive Artificial Intelligence Market is expected to grow at a steady rate during the forecast period. The Global Automotive Artificial Intelligence Market is driven by the growing adoption of advanced automotive solutions such as advanced driver assistance system (ADAS),",
+      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
+      "excerpt": "The “Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By Demand Category, By Company, By Region, Forecast & Opportunities, 2026” report has been ...",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarkets-com/",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:08:00-08:00",
+      "publishedDateTime": "2021-02-12T04:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1385,58 +1446,6 @@
         "AI in Autos",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-the-coming-technology-boom.md",
-      "title": "The Coming Technology Boom",
-      "excerpt": "Discoveries in information technology have obviously been massive — the internet and the smartphone. Thanks in part to public investment, clean energy innovation has been fast and plentiful. The price of solar modules has declined by 99.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/11/opinion/11brooks-alternate/11brooks-alternate-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/11/opinion/science-technology.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/opinion/science-technology.amp.html",
-      "publishedDateTime": "2021-02-11T16:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

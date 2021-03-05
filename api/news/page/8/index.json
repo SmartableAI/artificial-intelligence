@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-26-apple-training-siri-to-better-understand-people-with-atypical-speech.md",
+      "title": "Apple Training Siri to Better Understand People With Atypical Speech",
+      "excerpt": "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "originalUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/mivQrgPpAEzYsUPg1wq5M8-c2-E=/1920x/https://images.macrumors.com/article-new/2020/06/ios14siriinterface.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "publishedDateTime": "2021-02-25T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-volvo-and-geely-call-off-merger.md",
+      "title": "Volvo and Geely call off merger",
+      "excerpt": "Both firms agree to more collaboration on electric and self-driving vehicles The Volvo 360c ... pacts with search-engine heavyweight Baidu Inc., Apple Inc.'s Taiwanese manufacturing partner ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "originalUrl": "https://gulfnews.com/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/02/25/auto-volvo_177d9e2e491_large.jpg",
+          "width": 750,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/auto/news/volvo-and-geely-call-off-merger-1.1614268303251",
+      "publishedDateTime": "2021-02-25T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-setting-up-amazon-personalize-with-aws-glue.md",
       "title": "Setting up Amazon Personalize with AWS Glue",
       "excerpt": "Data can be used in a variety of ways to satisfy the needs of different business units, such as marketing, sales, or product. In this post, we focus on using data to create personalized recommendations to improve end-user engagement. Most ecommerce applications consume a huge amount of customer data",
@@ -139,58 +225,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
-      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
-      "excerpt": "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ",
-      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "publishedDateTime": "2021-02-25T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
       "title": "Driverless bus hits streets of Malaga in southern Spain",
       "excerpt": "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ...",
@@ -221,6 +255,58 @@
         "name": "RFI",
         "domain": "www.rfi.fr",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
+      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
+      "excerpt": "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "publishedDateTime": "2021-02-25T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1133,101 +1219,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators.md",
-      "title": "Unity, Adobe, Snap, and Facebook Among 12 AR Companies Identified by ABI Research as Key Innovators",
-      "excerpt": "Global tech market advisory firm ABI Research examined the current Augmented Reality(AR) market and identified 12 AR solution providers in bo",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/unity-adobe-snap-and-facebook-among-12-ar-companies-identified-by-abi-research-as-key-innovators-1030122448",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-why-religions-are-right-to-be-afraid-of-ai.md",
-      "title": "Why Religions Are Right to Be Afraid of AI",
-      "excerpt": "French sociologist and philosopher Raphaël Liogier, former director of the now-defunct Religion Observatory at the University of Provence Aix-Marseille, believes the Pope’s comments speak volumes about his beliefs on the subject.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "originalUrl": "https://www.vice.com/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com/articles/60103aa49ddb36009b1b45d0/lede/1611736717220-kfh1th.jpeg?crop=1xw:0.84375xh;center,center",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/4ad5yd/why-religions-are-right-to-be-afraid-of-ai",
-      "publishedDateTime": "2021-02-25T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

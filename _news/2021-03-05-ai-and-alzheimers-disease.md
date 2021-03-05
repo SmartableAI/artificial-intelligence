@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers developed an AI that scours existing drugs for new Alzheimer’s treatments"
+    excerpt: "Scientists used a machine-learning framework called DRIAD to identify a range of medications that could be repurposed to treat Alzheimer's disease."
+    publishedDateTime: 2021-03-05T20:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 80
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-05T193302.899-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Deep learning-based splice-AI can help predict the onset of Alzheimer's disease"
     excerpt: "Korea Brain Research Institute (KBRI, President Suh Pann-ghill) announced that the research team led by Dr. Jae-Yeol Joo discovered new cryptic splice variants and SNVs in PLCg1 gene of AD-specific models for the first time using Splice-AI."
     publishedDateTime: 2021-03-01T05:17:00Z
@@ -71,6 +87,15 @@ related:
         width: 945
         height: 630
         isCached: true
+  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
+    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
+    publishedDateTime: 2021-03-05T20:19:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
   - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
     publishedDateTime: 2021-03-04T19:32:00Z

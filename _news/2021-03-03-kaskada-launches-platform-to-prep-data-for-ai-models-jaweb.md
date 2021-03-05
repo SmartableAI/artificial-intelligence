@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "IBM launches AI platform to discover new materials"
+    excerpt: "IBM has launched a platform, MolGX, that leverages AI to discovery new materials with particular characteristics."
+    publishedDateTime: 2021-03-05T12:45:00Z
+    webUrl: "https://venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/"
+    ampWebUrl: "https://venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all"
+        width: 1024
+        height: 663
+        isCached: true
   - title: "Kaskada data science automation platform aims to speed machine learning models into production"
     excerpt: "Kaskada says it aims to democratize feature engineering, an often laborious process that requires data scientists to select, clean and validate the data to be fed into machine learning training models prior to moving them into production."
     publishedDateTime: 2021-03-02T19:26:00Z

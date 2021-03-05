@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-robotics-funding-and-investme
 webUrl: "https://www.analyticsinsight.net/top-robotics-funding-and-investments-in-february-march-2021/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -31,6 +31,22 @@ related:
     webUrl: "https://www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-funding-rounds-of-february-2021/"
     ampWebUrl: "https://www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-funding-rounds-of-february-2021/amp/"
     cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-funding-rounds-of-february-2021/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 44
+    images:
+      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/01/2021-NYC-TECH-INFLUENCERS.jpg"
+        width: 800
+        height: 419
+        isCached: true
+  - title: "The 11 Largest Global Startup Funding Rounds of February 2021"
+    excerpt: "Everything you need to need to know about the largest global startup funding rounds of February 2021; broken down by industry, stage, investors, and"
+    publishedDateTime: 2021-03-05T07:27:00Z
+    webUrl: "https://www.alleywatch.com/2021/03/global-startup-funding-top-largest-february-2021-vc/"
+    ampWebUrl: "https://www.alleywatch.com/2021/03/global-startup-funding-top-largest-february-2021-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/global-startup-funding-top-largest-february-2021-vc/amp/"
     type: article
     provider:
       name: alleywatch.com

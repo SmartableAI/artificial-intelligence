@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers developed an AI that scours existing drugs for new Alzheimer’s treatments"
+    excerpt: "Scientists used a machine-learning framework called DRIAD to identify a range of medications that could be repurposed to treat Alzheimer's disease."
+    publishedDateTime: 2021-03-05T20:00:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 80
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-05T193302.899-796x417.png"
+        width: 796
+        height: 417
+        isCached: true
   - title: "Deep learning-based splice-AI can help predict the onset of Alzheimer's disease"
     excerpt: "Korea Brain Research Institute (KBRI, President Suh Pann-ghill) announced that the research team led by Dr. Jae-Yeol Joo discovered new cryptic splice variants and SNVs in PLCg1 gene of AD-specific models for the first time using Splice-AI."
     publishedDateTime: 2021-03-01T05:17:00Z
@@ -85,6 +101,15 @@ related:
         width: 2000
         height: 1160
         isCached: true
+  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
+    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
+    publishedDateTime: 2021-03-05T20:19:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 39
 
 secured: "qgs6mXwu+miJncXX9wYm5WOU8ELqcgxWK33uKzEMK8xNDV+T1UlI7xeotbRPHLGgYiGwJjn5V9wXVTjzi2YMMyGzLKfBP91D1btrLRn7PFksxHtp7xcGP8c82hflz4tmgbFhUBjuJ5/lOsgifyKXtmadu0LIr7sTdf+BYVhos0ItfeqoUG3LEt/azxKYN1/8AdcWsQAHR/Gj8N1VZ2BrkYZs5CSpEqUI6d13FXaw7dbvLMwwvF9BYKqbPLWpAbL7uzEhZZKS4VuipQkh7503ktYyomA5eW04wVJ4KFMKaHYr42x0au5hbbaSn2K+c7GlOPZOITAWdkgP4+qov9FpdXZOdHAVz/mjqKREZ7H9F0+EqPEDs3svQLW/XK10DlBGOracJdA5C2QFo3Wak2uB+Krxo1rWO81UAeJw+HNoNfgjOhDAA7zLnPJSb9d8veCmE+vpsGUq9Q5+MDCn7Ugv6ePn5+6tS+vlD9hAxJjaUEJ0qI4pHmDfRZfqxGh7TbktuRYtr/FgqrBaffALhw8oLg==;5WkeIWO72XuvlNDJXKXp0Q=="
 ---

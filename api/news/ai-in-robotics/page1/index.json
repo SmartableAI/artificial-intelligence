@@ -184,50 +184,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-well-never-have-true-ai-without-first-understanding-the-brain.md",
-      "title": "“We’ll never have true AI without first understanding the brain”",
-      "excerpt": "Neuroscientist and tech entrepreneur Jeff Hawkins claims he knows how intelligence works and he wants every AI lab in the world to read his book.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/03/03/1020247/artificial-intelligence-brain-neuroscience-jeff-hawkins/",
-      "originalUrl": "https://www.technologyreview.com/2021/03/03/1020247/artificial-intelligence-brain-neuroscience-jeff-hawkins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/02/20151114DSC_7099-crop.jpg?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/03/03/1020247/artificial-intelligence-brain-neuroscience-jeff-hawkins/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/03/1020247/artificial-intelligence-brain-neuroscience-jeff-hawkins/amp/",
-      "publishedDateTime": "2021-03-03T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-cables-could-help-soft-robots-transform-into-harder-structures.md",
       "title": "Cables could help soft robots transform into harder structures",
       "excerpt": "The sub-category of soft robotics has transformed the way many think about the field. Oft-influenced by natural phenomenon, the technology offers a dramatically different approach than the sort of rigid structures we traditionally think of when we discuss robots.",
@@ -342,7 +298,7 @@
       "originalUrl": "https://www.analyticsinsight.net/top-robotics-funding-and-investments-in-february-march-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -517,49 +473,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.md",
-      "title": "Fuji Invests in Motus Ventures’ Fund Focused on Robotics and AI",
-      "excerpt": "FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation, has joined Motus Ventures' Motus SWIF fund as a limited partner investor",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
-      "originalUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/motus-ventures.png",
-          "width": 1920,
-          "height": 832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027.md",
       "title": "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027",
       "excerpt": "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during",
@@ -641,6 +554,49 @@
       "provider": {
         "name": "USA Today",
         "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-fuji-and-motus-ventures-collaborating-on-robotics-and-ai.md",
+      "title": "FUJI and Motus Ventures Collaborating on Robotics and AI",
+      "excerpt": "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1449,6 +1405,50 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition.md",
+      "title": "Tech newsletter: Horrifying robot dog’s paintball rampage, Biden + facial recognition",
+      "excerpt": "Welcome to the Tuesday edition of the Internet Insider, where we dissect tech and politics news unfolding online. Today: Pranksters show how horrifying Boston Dynamics’ police robot dog is by strapping a paintball gun to it Civil rights groups want Biden to halt government use of facial recognition No,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
+      "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uploads.dailydot.com/2021/02/Tech-News-Newsletter-Image-02-23-2021.jpg?fm=pjpg&ixlib=php-3.3.0",
+          "width": 1938,
+          "height": 969,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
+      "publishedDateTime": "2021-02-23T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

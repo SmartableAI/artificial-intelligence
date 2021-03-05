@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-10-women-changing-the-landscape-of-leadership.md",
+      "title": "10 Women Changing the Landscape of Leadership",
+      "excerpt": "In critical fields like agriculture, science, finance and technology, they have staked a claim with their pioneering work and are building a path for the next generation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
+      "originalUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/04/multimedia/womenpromo2/womenpromo2-videoSixteenByNineJumbo1600.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/05/world/women-leadership.amp.html",
+      "publishedDateTime": "2021-03-05T03:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-tiktok-owner-bytedance-said-to-make-foray-into-smart-cars-with-investment-in-self-driving-start-up-qcraft.md",
       "title": "TikTok owner ByteDance said to make foray into smart cars with investment in self-driving start-up QCraft",
       "excerpt": "A ByteDance spokesman had no immediate comment. A representative for QCraft declined to comment. The deal, which may be announced as early as next week, follows a spate of similar investments and tie-ups between technology firms and car manufacturers,",
@@ -857,58 +909,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
-      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
-      "excerpt": "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ",
-      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
-      "publishedDateTime": "2021-02-25T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-driverless-bus-hits-streets-of-malaga-in-southern-spain.md",
       "title": "Driverless bus hits streets of Malaga in southern Spain",
       "excerpt": "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ...",
@@ -939,6 +939,58 @@
         "name": "RFI",
         "domain": "www.rfi.fr",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga.md",
+      "title": "Driverless electric bus hits the road in Spanish city of Málaga",
+      "excerpt": "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "originalUrl": "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/4e65f04a132d4e69e807a175f51a55a52fb46dbd/0_365_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=82b3488a2af737d2f4b4ddce24386242",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga",
+      "publishedDateTime": "2021-02-25T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1006,10 +1058,10 @@
     {
       "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
       "title": "Why driverless cars are paradise on wheels for some",
-      "excerpt": "In a series of conversations between film director Martin Scorsese, 78, and the famously acerbic humorist Fran Lebowitz, in the Netflix series “Pretend It’s a City,” somehow the subject of self-driving cars came up.",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
-      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415",
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=home-page",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1028,7 +1080,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-24T01:59:00-08:00",
+      "publishedDateTime": "2021-02-24T02:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1409,49 +1461,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-alexander-levandowski-former-google-executive-pardoned-by-trump-shutters-ai-church-and-donates-funds-to-naacp.md",
-      "title": "Alexander Levandowski: Former Google executive pardoned by Trump shutters AI church and donates funds to NAACP",
-      "excerpt": "A former tech executive at Google who was pardoned by Donald Trump has shuttered his church - which worshiped artificial intelligence - and donated its funds to the NAACP. Anthony Levandowski, who founded Google's self-driving car initiative, Waymo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "originalUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/05/31/15/anthony-levandowski.jpg?width=1200&auto=webp&quality=75",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/world/americas/alexander-levandowski-google-trump-pardon-ai-church-naacp-b1804927.html",
-      "publishedDateTime": "2021-02-20T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

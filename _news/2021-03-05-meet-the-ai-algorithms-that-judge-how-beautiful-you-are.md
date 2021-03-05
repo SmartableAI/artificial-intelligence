@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-b
 ampWebUrl: "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Facebook AI
   - AI
   - AI Hardware
+  - AI in Robotics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-04-at-7.49.31-PM.png?w=505"

@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "BIS reports on Big Data and machine learning in central banking"
-    excerpt: "The world is changing and so is the way it is measured. For decades, policymakers and the private sector have relied on data released by official statistical institutions to assess the state of the economy."
-    publishedDateTime: 2021-03-04T09:16:00Z
-    webUrl: "https://www.finextra.com/pressarticle/86476/bis-reports-on-big-data-and-machine-learning-in-central-banking"
+  - title: "Defending smart systems on the machine learning framework level"
+    excerpt: "Smart cities run on code that is widely shared by developers. How do you identify which ones can be hacked to produce undesirable outcomes? SMU Professor David Lo is working on a solution."
+    publishedDateTime: 2021-03-04T05:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/smu-dss030421.php"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 41
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258248_web.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Defending smart systems on the machine learning framework level (image)"
+    excerpt: "Smart cities run on code that is widely shared by developers. How do you identify which ones can be hacked to produce undesirable outcomes? SMU Professor David Lo is working on a solution."
+    publishedDateTime: 2021-03-05T14:23:00Z
+    webUrl: "https://www.eurekalert.org/multimedia/pub/258248.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 39
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258248_web.jpg"
+        width: 600
+        height: 400
         isCached: true
 
 secured: "Se35obUUBazxv1yokKAtRshuqLEj3dX4TK6kciWebdn080RkGbnwDP6unPlnx5VV5GPPet2mldFDPl1ySNjy9kgkmu81FDfnbRfFjqXXh9FcP+IvRrMOXN6tSDGLzyJvVScb/LsPVIcXS1bs5cb6wriUT6Y4pYN9qe+sADRQyHZYEwuWit9Eols6C/8yzCLCX2XHmBhFOqJVs0WplohdPYiALQQodWqxxXS5H3LELhiH7BRtXtq27KWM6GEUw1umWzFIRBprJsn5Kwm6/l4R45wBIvWX6o35giveZDKSUKb/QbqoTXLHyMaWLoFJNb2A5UeutbY7b8pr6g+3Be7fD/X17ylS9qoQm/yEeoIVxwA=;EUrtcd3gQwxPLe6fz+KwFg=="

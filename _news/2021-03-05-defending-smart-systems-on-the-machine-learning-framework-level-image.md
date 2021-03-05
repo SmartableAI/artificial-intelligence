@@ -33,11 +33,25 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.eurekalert.org/multimedia/pub/web/258248_web.jpg"
         width: 600
         height: 400
+        isCached: true
+  - title: "Working the Feline Supply and Demand in Learning Factory"
+    excerpt: "Consumers have needs and businesses try to meet them; it's the nature of every exchange since people came up with the idea of wanting more.  Generally the"
+    publishedDateTime: 2021-03-03T13:07:00Z
+    webUrl: "https://hardcoregamer.com/2021/03/03/working-the-feline-supply-and-demand-in-learning-factory/399986/"
+    type: article
+    provider:
+      name: Hardcore Gamer
+      domain: hardcoregamer.com
+    quality: 24
+    images:
+      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2021/03/LearningFactoryFeature.jpg"
+        width: 698
+        height: 289
         isCached: true
 
 secured: "xk1s/Y2Q7voGPxVVks7/dVIXu+HgN/wvACEQfHfUifwbO0Sd1I/ZbxtJ+Eo2zOoe9osrRx7aJIYGEnhNVRYRC0IUGM3exQ67A56IMMYJfGoDliIAueDn13svC18UcrSQnjrO3/F8ddCWO8lDAcqGPiDk+P+80TWQBFvhgddKvqw3LaClZMw4ISxZAicS6mBZZykLwVl+Wg/vueML5+NadjQIAOuy6oKuKvda4sAAaeT07ZcUSkIOcap2dYKulZk4HA1MzM9djv2j/g7mCLUfeDbjtHlPulJGkXT5GpG1ZJBnxw4Miatf6wh96YPnSJE1i0zx1/+VyBY81SCjU4ErSlz+cpvC8AqxZ9N1Zm00Qd8IUoMHEZBPzNT9q2RhyZMI9v1UBwMFezXlrhrlfRzQf06mIrXZKayQiAjf3IMrUQyFC8MPHaj6WZRkpraX1z/H0IxOFuMWVQbajH/YK4scwNpz1Onnm6z2RU9RoPiK0zqb88+VdpjWo6txsJb1p5Uf4I9YXCe8h02KEdnB8+6WJw==;QkHm2mlK+7wSrlq6ESpiPg=="
