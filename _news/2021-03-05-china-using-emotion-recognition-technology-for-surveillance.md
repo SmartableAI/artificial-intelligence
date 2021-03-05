@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 647
         isCached: true
-  - title: "Couriers say Uber’s ‘racist’ facial recognition tech got them fired"
-    excerpt: "BAME couriers working for Uber Eats and Uber claim that the company’s flawed facial recognition technology is costing them their livelihoods"
-    publishedDateTime: 2021-03-01T06:04:00Z
-    webUrl: "https://www.wired.co.uk/article/uber-eats-couriers-facial-recognition"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/y2g75vbzyvD/crop/1440/0.5235602094240838/f/wired-uber-courier-3.jpg"
-        width: 1440
-        height: 753
-        isCached: true
 
 secured: "1/YFGoSua8f9H2xdeFEiGxo+IwJtDLhoG7JZkGYSeCJbvMLG0PO2gNpwlyNc5VeEvSSWWtdt5wCtkOmyRc/NZ2ZIL52SJhR/4OL2FIGWvWylG/cV8e6LOaVkA1pD9vTatxhKi4kBcqZOrybHS8x7gcnj3nrVksS4o5dbsIju2pOFr11fPToBdgcXbL+TE7NvYD640DFKQTovZrUia4PBhjRvxwRqWRrMfwzZLr3HqnocoO8u7KPtbNJAVgcGgYdV9NTgIQuiZixID2MGS2EVFAtgfgZi8SR9JqIR4yONdDhEbRj8BAeUiwrW90OXSmkurrA2XtB45pg906Cxp1/k7HlJEZ8lI+jhjX7tuuAR8lI=;ux0AGrC+pvrh8h8lIK7EJg=="
 ---

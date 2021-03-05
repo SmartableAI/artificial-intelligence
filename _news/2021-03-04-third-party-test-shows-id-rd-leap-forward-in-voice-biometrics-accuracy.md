@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Corsight AI addresses face biometrics ethics in Asia Pacific expansion"
+    excerpt: "Corsight AI has appointed William Tan and Amit Sarkar to lead the company’s efforts in the rapidly expanding Asia Pacific (APAC) market for face biometrics."
+    publishedDateTime: 2021-03-05T13:08:00Z
+    webUrl: "https://www.biometricupdate.com/202103/corsight-ai-addresses-face-biometrics-ethics-in-asia-pacific-expansion"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Facebook mulls face biometrics for forthcoming smart glasses"
     excerpt: "Facebook is assessing whether face biometrics could be an added feature to its upcoming smart glasses due to launch this year."
     publishedDateTime: 2021-03-01T20:23:00Z

@@ -2,11 +2,11 @@
 category: news
 title: "AWS rekindles a crafty scheme to get developers into machine learning"
 excerpt: "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model."
-publishedDateTime: 2021-03-02T11:47:00Z
-originalUrl: "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-webUrl: "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-ampWebUrl: "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+publishedDateTime: 2021-03-02T14:55:00Z
+originalUrl: "https://www.techradar.com/in/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+webUrl: "https://www.techradar.com/in/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+ampWebUrl: "https://www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
 type: article
 quality: 106
 heat: 116
@@ -49,6 +49,6 @@ related:
         height: 270
         isCached: true
 
-secured: "mTA3WRKpFcKfsgEhkj7fct5OynRVtDFy0sP3/PC+Y4NCKdAfVmwN6RZGpTzpZScra7WD5CTYmOowQfdgyXS1onj8b/GTq3SSh38PHouqkeuCd0IjY7mTeC5O4VenlqBiXwgdAjiPlmZH1Wug7m4n+4MirmeF062YhIiEP5I7KNmpRdlC7f/UzKxZAPYs3Xh1atwT7C+QklhNVirxEDoW9H/Q2uZP3n8+d2yjw7OnYAzfuE0fvSAHNZjWQ6S+wY9Q/Jwp7W/CaBHmHp1FxMsguE0e8ZgOC+2aS7Pve5GOlYRTKNNikewVWePkiEnkCbrxVSfayyTKvL0WZKEXFSuGBXrEPPVWPBskeHELF7FCo/o=;tyKRpspA7y2rNYLRRiQt1Q=="
+secured: "5KpJxfxLFLwR3qeWksCuHqc0Guaiqp0q0Zz7D7d+fvrTFPgHWt+sxOfoZVQx/O/gABXY6kJ0c2oHcTmIKYe/3+C/A01F2P4rYXl4OITar8xf7//3Q2DHETyT91yIWsm1T75zTUmGA4l/5wIrM+TpsMwPEjalbAQ0QTOU484ClP3pMjlLKfYP7HShUu4ZZgWiWr1bFg6aR5RvKelTKQ5aHBDE16EAhmGasrKtoSwZgf+5ceTSe1qSOrbiVBhJxzX6GxPHfR0uOXAqOEcfm5kDVAETWxVOS/WKPSMyXw8FyGP969D/v8UMT8P2LqqExEpGFCrjpwoWg/nXbK2oqAXLlnVQwkyvULDoIsUYUd4XSyA=;zaOKeBqfoLLSMQc9eBhuPQ=="
 ---
 

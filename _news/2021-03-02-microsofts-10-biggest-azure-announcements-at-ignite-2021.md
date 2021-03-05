@@ -385,20 +385,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "NXP announces i.MX 9, and extends i.MX 8 with security and Microsoft Azure Sphere"
-    excerpt: "NXP has announced i.MX 9, a series for intelligent multi-sensor applications, and i.MX 8ULP-CS (cloud secured), a family off Microsoft Azure Sphere-certifi"
-    publishedDateTime: 2021-03-01T05:12:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/micros/nxp-announces-i-mx-9-extends-i-mx-8-security-microsoft-azure-sphere-2021-03/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 66
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/05/29112104/EW-Bright-Sparks-114-all-the-winners-steph-400.jpg"
-        width: 300
-        height: 249
-        isCached: true
   - title: "Microsoft’s new Garage app can transcribe and translate in-person meetings in real-time"
     excerpt: "The Group Transcribe app can transcribe and translate languages spoken in over 80 regions, but it is meant for in-person meetings only."
     publishedDateTime: 2021-03-03T15:50:00Z
@@ -578,6 +564,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "p+p9SzQjgfxsVII+M8Dg+7dfJR1PKCEpGg4inVL7Dduip+37QjKQGgzkVkeA1se+EvP7xJ5wxrGqdBnigQ990f2LsT+kScLDjduGdN5sVu6v7XFfzx/VQZoIx9HzSxjtkBpeFFKbRg8MDOYgaldNpf6Oq3y2VGkHGiEhZveGUbBjw4+i7BexxgYkrazo7cQlEaiDWvDtNFKzm4bxnbolqYSRbmIstLw6CBwFjLHM/SeGWKglnI9Ny02eLRH0mYcfm6Sc2/CA+X2TR4glTyetiZo4kvpPoZHtj7fF4fZJ2V0sbI9E9cBLvG86+MVkENMS3gLcoIWk4yB83ZTS8pdWZ23mcwdMNldrgwi3q9ZjfiE=;jUmlSgjmZbkx62IhIhhAWw=="
+secured: "U1yXkHAK4WmHnF5BMWOYBti8g02yDTYXnB9rzA1jNbzv0uMbF4931EJlMhCY3geGqfEcjj3+H1dQHjn+4ckMiGH0t+nbd6070TfuGYt1fmILWZaNcJ3KyACXXJ+0UxXK7ijoSWxj6S5EygrohEFKZvxgobr10ooQ8iDvwh4YRf+8366TKhM8SmXm1I1hA6IsS+WqCB4mntlrATfItTuudH+xYrh6aJvPv9bbOdtW+21R2k60JJzu9/M8v5g7cNJi2q3w11vS/JvKT94qnJADQ99nCyVSES8sQ8Rs7VFU/IxQywDaD92KO25abVMx2bzKdbkvbRRaolXrNdIYsLdkiK1QOyYJ1tvSjQymQ6XHWEhk2DTndWBJ/q/QAXwpLSY3fUbs2jLO1Ei84vratneAsVm1UmXfPoc1MpcqlczsQa3HLcbWyVZkYV0Wq3W/0QbtLSWcDsHAuunGGF5I8UShGPJeHoB8tHyPMNY7TlOMNTVUnUzhmJNFiHnFtpt4QtlYDntqueyLrGguoqWYlKNq1g==;yV9gtXQEryigfffIsfnu8w=="
 ---
 

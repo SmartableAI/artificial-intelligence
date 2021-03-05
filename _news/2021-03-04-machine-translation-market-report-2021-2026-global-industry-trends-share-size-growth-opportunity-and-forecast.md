@@ -138,20 +138,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 56
-  - title: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 Leading Competitors, Regional Trends and Growth Trends 2025"
-    excerpt: "Global Natural Language Processing (NLP) in Life Sciences Services Market 2020 by Company, Regions, Type and Application, Forecast to 2025 delivers an in-depth analysis of the market by value, by production capacity,"
-    publishedDateTime: 2021-03-01T06:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-life-sciences-services-market-2020-leading-competitors-regional-trends-and-growth-trends-2025-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence in the Manufacturing Sector Market 2020: Industry Overview, Growth, Price, Trends and Forecast 2027"
     excerpt: "Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
     publishedDateTime: 2021-03-02T10:03:00Z

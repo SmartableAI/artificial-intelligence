@@ -373,20 +373,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "NXP announces i.MX 9, and extends i.MX 8 with security and Microsoft Azure Sphere"
-    excerpt: "NXP has announced i.MX 9, a series for intelligent multi-sensor applications, and i.MX 8ULP-CS (cloud secured), a family off Microsoft Azure Sphere-certifi"
-    publishedDateTime: 2021-03-01T05:12:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/micros/nxp-announces-i-mx-9-extends-i-mx-8-security-microsoft-azure-sphere-2021-03/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 66
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/05/29112104/EW-Bright-Sparks-114-all-the-winners-steph-400.jpg"
-        width: 300
-        height: 249
-        isCached: true
   - title: "Microsoft’s new Garage app can transcribe and translate in-person meetings in real-time"
     excerpt: "The Group Transcribe app can transcribe and translate languages spoken in over 80 regions, but it is meant for in-person meetings only."
     publishedDateTime: 2021-03-03T15:50:00Z

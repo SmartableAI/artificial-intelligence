@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
     excerpt: "Katapult Holding, Inc. (“Katapult”), an e-commerce focused financial technology company, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Orlando Zayas,"
     publishedDateTime: 2021-03-04T21:05:00Z
     webUrl: "https://us.acrofan.com/detail.php?number=432474"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "Paysafe to Present at the 2021 Wolfe Research Fintech Conference"
+    excerpt: "Paysafe Group Holdings Limited (“Paysafe”), a leading integrated payments platform, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Philip McHugh,"
+    publishedDateTime: 2021-03-05T21:05:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=433071"
     type: article
     provider:
       name: 아크로팬

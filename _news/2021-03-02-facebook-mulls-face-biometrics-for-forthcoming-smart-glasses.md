@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202103/facebook-mulls-face-biometr
 webUrl: "https://www.biometricupdate.com/202103/facebook-mulls-face-biometrics-for-forthcoming-smart-glasses"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Corsight AI addresses face biometrics ethics in Asia Pacific expansion"
+    excerpt: "Corsight AI has appointed William Tan and Amit Sarkar to lead the company’s efforts in the rapidly expanding Asia Pacific (APAC) market for face biometrics."
+    publishedDateTime: 2021-03-05T13:08:00Z
+    webUrl: "https://www.biometricupdate.com/202103/corsight-ai-addresses-face-biometrics-ethics-in-asia-pacific-expansion"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
+        isCached: true
   - title: "Third-party test shows ID R&D leap forward in voice biometrics accuracy"
     excerpt: "The increased accuracy level now rivals a PIN, according to ID R&D, opening up new practical applications for voice biometrics."
     publishedDateTime: 2021-03-04T07:20:00Z
