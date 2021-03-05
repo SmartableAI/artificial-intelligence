@@ -51,7 +51,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all"
         width: 1200

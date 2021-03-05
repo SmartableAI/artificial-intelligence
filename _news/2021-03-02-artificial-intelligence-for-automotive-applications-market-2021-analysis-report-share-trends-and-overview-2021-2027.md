@@ -20,15 +20,29 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
-    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
-    publishedDateTime: 2021-03-01T06:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
+  - title: "India Artificial Intelligence in Healthcare Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "India artificial intelligence in healthcare market likely to growing due to the rising usages of AI for the improving"
+    publishedDateTime: 2021-03-03T05:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Bus Market Competition, Status and Forecast, Market Size by Players, Regions, Type, Application by 2021-2025"
+    excerpt: "Global “Self-driving Bus Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
+    publishedDateTime: 2021-03-02T00:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-competition-status-and-forecast-market-size-by-players-regions-type-application-by-2021-2025-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

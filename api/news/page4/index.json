@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-02-from-the-data-and-ai-expert-labs-break-open-your-processes.md",
+      "title": "From the Data and AI Expert Labs: Break open your processes",
+      "excerpt": "Today, I want to reinforce that you shouldn’t rely on a compelling incident. You don’t need to wait until a system breaks to make it better. A great example is the Interactive Voice Response systems (IVR) that are pretty standard in customer service. We’ve all interacted with them. They’re slow, they’re",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-break-open-your-processes/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-break-open-your-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/DataAI_Expert_Labs_Toby_Cappello_Blog_Leadspace_Small_2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T06:00:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes.md",
+      "title": "Sonantic uses AI to infuse emotion in automated speech for game prototypes",
+      "excerpt": "Sonantic has figured out how to use AI to turn written words into spoken words in a script, and it can infuse those words with the proper emotion. And it turns out this is a pretty good way to prototype the audio storytelling in triple-A video games.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/sonantic-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
+      "publishedDateTime": "2021-03-02T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus-international.md",
+      "title": "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International",
+      "excerpt": "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence division, Lionbridge AI, to TELUS International,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
+      "originalUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-who-leads-the-world-on-ai-a-decade-from-now-it-might-not-be-the-us.md",
       "title": "Who leads the world on AI? A decade from now, it might not be the US",
       "excerpt": "National Security Commission on Artificial Intelligence fears US dominance in AI could be lost to China within 10 years due to a serious boost in investments and computing capabilities.",
@@ -52,7 +189,7 @@
       "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -1086,163 +1223,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-how-to-drive-brand-awareness-and-marketing-with-natural-language-processing.md",
-      "title": "How to drive brand awareness and marketing with natural language processing",
-      "excerpt": "To grow brand awareness, a successful marketing campaign must be data-driven, using market research into customer sentiment, the buyer’s journey, social segments, social prospecting, competitive analysis and content strategy. For sophisticated results, this research needs to dig into unstructured data",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/brand-awareness-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/2020_10_16blog_imagery_NLP_1980x996_v3-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T09:00:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising.md",
-      "title": "How Online Privacy Issues Will Shape Future Use Of Artificial Intelligence In Advertising",
-      "excerpt": "The article discusses the use of artificial intellignece in advertising as a response to stricter privacy regulations in order to effectively target consumers while protecting sensitive information. Sheri Bachstein of IBM Watson is interviewed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
-      "originalUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603d16a47be12e5f55c56714%2F0x0.jpg",
-          "width": 828,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charlesrtaylor/2021/03/01/how-online-privacy-issues-will-shape-future-use-of-artificial-intelligence-in-advertising/amp/",
-      "publishedDateTime": "2021-03-01T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course.md",
-      "title": "Codeacademy partners with Black and Brilliant for 10-week AI course",
-      "excerpt": "The two organizations are hoping to increase diversity within the artificial intelligence field and prevent AI bias.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "originalUrl": "https://www.techrepublic.com/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2019/09/18/aa3cd281-ebbc-40b1-bce2-302abb8f1a1d/resize/1200x/bd38c37fbdae4a13baac8d1b612198fb/istock-1090216744.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/codeacademy-partners-with-black-and-brilliant-for-10-week-ai-course/",
-      "publishedDateTime": "2021-03-01T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -56,7 +56,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all"
         width: 1200
@@ -107,6 +107,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "AgQ7w2bU/DjBz7qfKFSuVkrY3rRFBslKXjSfkmP97rL0pTsBpqVXYgf8EPjG7OmWbadCmbZLB1AtuTvXGEO8FYAgYW7PsWVHvoLnyMB6NCL8uivmnUWlt14NLY95Xb2+4a+VYOrfwYFo+u3fFau/G/1S0aFgSYt+FtZ24e1pF+rwXTrBT2hPZbCmzeROymPaW3OdagYrq/QGKH/FJGaW9nXX/dMERtoA/yt7y6Gk6MZXIRCvQvorAPP/1xHsUwyq3ViEUpcb3byExwyNEC6olKi8QABap64BpLfq0KpotjHj18x+9L4B6SI93grH0GL3mX1hIbuxMAQenk5ZDk+a7XZhUCrpg9MTy91Ji7p/Mbk=;KAVWvT/U04zGWg6PJaJSJQ=="
+secured: "XS4ozuBhxUZ8aFurpSsuCfO358NhmDPcjbFA+kSAiJqxoe6tY9smn/Hv+sX4QMPYfLdcazhHN+C+Dt/rWfu0PzFbUstPG9qEjI//D8ucQQBS5vkFABgtGJdADz4qiunsfd0MgjINzChKuagX+r0OB3OVEll/CH0HGDvkWugm8AF3uKgVjCzG3uPNGAmPmDS9ZhyoVqNYHLtCo0jDzj5hpB4YU1uCcvyXRa5nQPgPKDhVaqaE5YIrdIFJP5urXekEcI3VRO9foui7YFKKLDYgfNUoTYtVGIZ5KpI9T3j+zi53rYV5c82wO9l2QzrRdkprT0TQMHvcZQBEW/ohLHC+7tLi6sbod0aLxFb9JYf5anhccKUo79upe4twMIlRnpsWrlxLOD3dqSMq7fbsowRliE7XNDq911HskGvBz6aVaSUbi5nbtEcIDb6fjuKExcVr70uUxTCQe5KmS8bMwDxoEJ3b7GQ5qEcTicBBgHksrVqhWWNXR9+rSxC5gI4XRlLu0b5BNphcw2DY1kNgycKNvA==;LPIoo074Ng2b21wDz5Os5g=="
 ---
 

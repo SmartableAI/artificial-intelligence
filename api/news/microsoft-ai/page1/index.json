@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
+      "title": "What the swarm of new Azure announcements mean",
+      "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
+      "publishedDateTime": "2021-03-04T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-conocophillips-sparks-tooling-for-seismic-hpc-cloud-aiml.md",
       "title": "ConocoPhillips Sparks Tooling For Seismic HPC, Cloud, AI/ML",
       "excerpt": "Seismic processing and analysis at scale take scalable HPC resources but also need an analytics backend that can scale with massive datasets. And as if",
@@ -158,7 +210,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -210,7 +262,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 476,
+      "heat": 496,
       "tags": null,
       "images": [
         {
@@ -1411,59 +1463,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata.md",
-      "title": "Graph Database Market Growing at a CAGR 22.2% | Key Player Microsoft, AWS, Orientdb, Tibco, Teradata",
-      "excerpt": "MarketsandMarkets forecasts the Graph Database Market size to grow from USD 1.0 billion in 2019 to USD 2.9 billion",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata-2021-02-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/graph-database-market-growing-at-a-cagr-222-key-player-microsoft-aws-orientdb-tibco-teradata-2021-02-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
         "Microsoft AI"
       ]
     }

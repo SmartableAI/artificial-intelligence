@@ -3,8 +3,8 @@ category: news
 title: "Moscow metro facial ID payment system raises privacy concerns, rights group says"
 excerpt: "A new facial recognition payment system on the Moscow metro, due to be launched this year, raises concerns about privacy and human rights, a Russian digital rights group said on Thursday."
 publishedDateTime: 2021-03-04T20:33:00Z
-originalUrl: "https://www.reuters.com/article/us-russia-technology-metro/moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says-idUSKBN2AW23F"
-webUrl: "https://www.reuters.com/article/us-russia-technology-metro/moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says-idUSKBN2AW23F"
+originalUrl: "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F"
+webUrl: "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW23F"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW23F"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 545
     isCached: true
 
-secured: "R2rXLmC2X2myfnYEPe0io9/9w6UPbO8Q8Z9AErq4JKSW2zqtPMiVxNU+UCbFjpM8r4i87zaCg7YtLddeConVsv174cRKS39Nqzasj5XsICroIG+WFsndCSW4415bWuXnzvWqkpGzrEsDiOmSOLGKuPsDjtKW1UwgVGpbY2K7/TfEWDOakqVfdNo/gw119s+sdgLDPCIUgD3z0k4u4LG1hNGqNV3A14RZWtrjurG49xD9wN4wLXxRn/PqAu+rkgKQU4bmmQjZCWv1Vj/Voc4WCMFxRYn4K1EnNYW9jfF+Advs+GHH/3facMG/VjvbY9wgS/YNknUVAEfuvWYfKek5tVKBnOwlVgVJz0Q/RXz+gv8=;htVupLwMGKSMIKZcRPPiIQ=="
+secured: "LZOt/BAyhT3vkmTzGUOmwB7z/RkMgcFxiJGhOoA19WMPZlBa/o+FVHqYGdNh0G1eYjlNnpE3viVsWKsocKAIgddoSavrpBcB/JsYscCpv6rrBaLhB0+xincud5YpflYzwJenXFJYReZ4cv5nlWfzYi/Yc2bslpx4bNX1n05b52syNNEKDK+axjFbf0lHdKh3GcY8OBD1mI/o/elGBt4fzNUXxozB4Z0iaUrkdeBz8X/oVNUPy6DTdk/vMOicX5pvfHDSb1zYBy+ehpA3gFFWSPSaMmEIaDE/J7S8B2DI3e+mP3Isxkq7cRJtPAuDweJmLWhlzfS3zOFES/exiOi5Q5rmwzQ4ERPbyDRwERss1Rs=;n27I082vI0pr/0x7Jf/lKg=="
 ---
 

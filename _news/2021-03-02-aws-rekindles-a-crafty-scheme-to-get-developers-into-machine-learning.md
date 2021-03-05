@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:

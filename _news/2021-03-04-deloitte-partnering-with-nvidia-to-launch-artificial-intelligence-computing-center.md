@@ -3,13 +3,13 @@ category: news
 title: "Deloitte partnering with NVIDIA to launch artificial intelligence computing center"
 excerpt: "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications."
 publishedDateTime: 2021-03-03T16:17:00Z
-originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
-webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
-ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
+originalUrl: "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
+webUrl: "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
 type: article
-quality: 81
-heat: 101
+quality: 83
+heat: 103
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -59,6 +60,6 @@ related:
         height: 228
         isCached: true
 
-secured: "3aicXQV/VIdc7UmZ6gG4+hAqB9i+UJiHqNxjn9E/pP1ctn9nLr1/X7Zguk6l4ygqFv4BoTAkDXv8WaWv8Tizh87ETPN5RdKTzcQoeKxB8sn5JMRFzU1uOGdb3KF1AGkRD0JALW8bIbVe1WTRLlZ/9yIe6uT7H+EAmggX2SjTLyvNECs4KPS7mYH5HCjt0RGGZipJLz+0q6H6ucWn8JGX/prsJOB9ngVmFoqhmzDsa+JK4iuRRERvbR1Nz6dQ799MBE6l8P0W5KjHIjx5TJEP3DhfdBvjDdf5Sd3yHSKTH14Eurzw/lOLzLdABXfHekMsa+RxV2mnCKEAP+kREpFdxyaD/LGnUEuwldcf90uy6T0=;LFnUbn25l/TyZ4ATwPsMYg=="
+secured: "fk+L+B1j969zQUGUMMqZM8Hvd1jHMgYfdGvwNR4afosuGzhrJZeDBkkmXnHk/IlJmwr9LgEvaBLerER8mzOAyoqcFvhkJXK5C9NetVa9RHz+fFP9/YNNvEjXtnbOAVp1z5Yyy79pZIR4u0g8kuhg3srsiLAX7HYXd2vtiHGtxuCxByNKCCYTCtWNqHTnn6jVEfUStenZ8iCKtZ0AAjTBPe8q/KhRmTnPNx6bAaG/mKoYdrhWz8bVRTvauL6BmhV+ef/FI+y9bfDaxRTPGLT0j5xS7y0l4DGqHzqBP7kJd2/spgcqurtnYk1+d/7AXI2M9dKmRkKgt+uAQ4Rhmw84GBqmftzUVXzav1kBUGMHyMY=;jFALupH50cXxsmzoE+GtKw=="
 ---
 

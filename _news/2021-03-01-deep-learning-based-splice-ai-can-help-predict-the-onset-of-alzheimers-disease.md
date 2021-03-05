@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210301/Deep-learning-based-s
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210301/Deep-learning-based-splice-AI-can-help-predict-the-onset-of-Alzheimers-disease.aspx"
 type: article
 quality: 70
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://news.harvard.edu/wp-content/uploads/2021/03/iStock-sudok1-945x630.jpg"
         width: 945
         height: 630
+        isCached: true
+  - title: "AI and Alzheimer's Disease"
+    excerpt: "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now, a team at Harvard Medical School and Massachusetts General Hospital has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease."
+    publishedDateTime: 2021-03-04T22:50:00Z
+    webUrl: "https://hms.harvard.edu/news/ai-alzheimers-disease"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://hms.harvard.edu/sites/default/files/teaser-images/GettyImages-1064220756%20750.jpg"
+        width: 2000
+        height: 1160
         isCached: true
   - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."

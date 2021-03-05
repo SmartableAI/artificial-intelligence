@@ -8,8 +8,8 @@ webUrl: "https://www.computerworld.com/article/3610374/friday-fry-up-special-ins
 ampWebUrl: "https://www.computerworld.com/article/3610374/friday-fry-up-special-inside-etnzs-tech-for-the-americas-cup.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3610374/friday-fry-up-special-inside-etnzs-tech-for-the-americas-cup.amp.html"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Google AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2021/03/03.-etnz-flying-3-emirates-team-new-zealand-100879533-large.jpg"

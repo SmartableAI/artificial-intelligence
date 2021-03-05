@@ -2,6 +2,154 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
+      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
+      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "publishedDateTime": "2021-03-02T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon.md",
+      "title": "Artificial Intelligence in Retail Market May See a Big Move | Major Giants IBM, Nvidia, Amazon",
+      "excerpt": "The report brings clarity about the market key players and also about the significant contributors associated. The study elaborates factors of Global Artificial Intelligence in Retail market such as market opportunities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-4-reasons-why-workers-should-welcome-artificial-intelligence-in-the-workplace.md",
+      "title": "4 Reasons Why Workers Should Welcome Artificial Intelligence In the Workplace",
+      "excerpt": "We are also witnessing a significant rise in interest for robotic process automation (RPA), intelligent automation and artificial intelligence among business leaders who realize that intelligent automation demonstrates strong transformative potential across all industries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/362254",
+      "originalUrl": "https://www.entrepreneur.com/article/362254",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1614630869-GettyImages-1223789411.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/362254",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/362254",
+      "publishedDateTime": "2021-03-02T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-gatik-raises-9-million-to-winterize-self-driving-box-trucks.md",
       "title": "Gatik raises $9 million to winterize self-driving box trucks",
       "excerpt": "Gatik, a company developing autonomous driving technology for short-haul logistics, has raised $9 million in funding.",
@@ -148,7 +296,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/03/02/new-research-indicates-the-whole-universe-could-be-a-giant-neural-network/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -964,7 +1112,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1016,7 +1164,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 476,
+      "heat": 496,
       "tags": null,
       "images": [
         {
@@ -1111,143 +1259,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-from-the-data-and-ai-expert-labs-break-open-your-processes.md",
-      "title": "From the Data and AI Expert Labs: Break open your processes",
-      "excerpt": "Today, I want to reinforce that you shouldn’t rely on a compelling incident. You don’t need to wait until a system breaks to make it better. A great example is the Interactive Voice Response systems (IVR) that are pretty standard in customer service. We’ve all interacted with them. They’re slow, they’re",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-break-open-your-processes/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-break-open-your-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/DataAI_Expert_Labs_Toby_Cappello_Blog_Leadspace_Small_2-990x498.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T06:00:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes.md",
-      "title": "Sonantic uses AI to infuse emotion in automated speech for game prototypes",
-      "excerpt": "Sonantic has figured out how to use AI to turn written words into spoken words in a script, and it can infuse those words with the proper emotion. And it turns out this is a pretty good way to prototype the audio storytelling in triple-A video games.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/sonantic-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
-      "publishedDateTime": "2021-03-02T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus-international.md",
-      "title": "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International",
-      "excerpt": "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence division, Lionbridge AI, to TELUS International,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
-      "originalUrl": "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

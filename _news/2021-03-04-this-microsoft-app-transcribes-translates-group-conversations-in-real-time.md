@@ -269,6 +269,22 @@ related:
         width: 730
         height: 410
         isCached: true
+  - title: "Microsoft Power BI Premium: New platform and pricing, what you need to know"
+    excerpt: "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance."
+    publishedDateTime: 2021-03-04T11:11:00Z
+    webUrl: "https://www.techrepublic.com/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg"
+        width: 1200
+        height: 651
+        isCached: true
   - title: "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning"
     excerpt: "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence."
     publishedDateTime: 2021-03-02T15:48:00Z
@@ -430,7 +446,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T14:10:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN
@@ -521,6 +537,20 @@ related:
       - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
         width: 1000
         height: 800
+        isCached: true
+  - title: "Microsoft’s 7 Biggest Product Announcements At Ignite 2021"
+    excerpt: "Microsoft unveiled new product announcements at Ignite 2021 including updates for the Azure cloud platform and Microsoft Teams app, as well as the new Microsoft Mesh mixed-reality platform."
+    publishedDateTime: 2021-03-04T23:56:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-7-biggest-product-announcements-at-ignite-2021/2"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/0267-11b8454f0dd8-b94385869e97-1000/satya-ignite-2_20210304175420.jpg"
+        width: 609
+        height: 457
         isCached: true
 
 secured: "CRMVdhHQ0eFSSX3c0O3kspKRnQWuKnPwZvPT7z/mJUNPU5PW7ctoLI0nqAG8TzDotDWFgyQfaAFDAgK+7Rs/Usabqril9Q7eXLH6F9svm0t+EVFh36MFBV7qSGWK5ectxEGTnTXihPdlHq5gFKWcG7y6cGZkHHubgCAjLfmR7FiRvsZb7tZSU1tYQa+lNQURHOMJblRBD0pKXTFP2uz9dC7sRocD2hQEVVNTUl5p8ZCg84vNQ6QC4Nbr5IlRUt1BRSi0qCYXZ3PqBk+0MP5u4DgA7idlB34L2PE0+nueJqhymTXpb09KBsTRhNMsu9cWdwO3kQGykZuzS1dxzSjYTtRKpuLIHw9r209nO1nZ836gYRYeA8W4q2QRAnvhaoAkBSYwKzlw9EHrAxytNeDxe0sCgtLbfCA0lfaslzwp78nk19aK4WsPbIca04K7jZPbuBzNR8qQfKsn5Ht4n0/J/+e5RROev/iSM4CBmo5TdhhyenlLJI+PJi8alS3rHnGlWJmhDjAGQIm8blwyN7XfRA==;isJHFKjEaUDpzWjZzkPdWg=="

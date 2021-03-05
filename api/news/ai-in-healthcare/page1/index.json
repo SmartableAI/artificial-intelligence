@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
+      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
+      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
+      "publishedDateTime": "2021-03-03T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026.md",
       "title": "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026.",
       "excerpt": "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -54,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-03-india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021.md",
+      "title": "India Artificial Intelligence in Healthcare Market By Type, By Application, By Segmentation, By Region, and By Country 2021",
+      "excerpt": "India artificial intelligence in healthcare market likely to growing due to the rising usages of AI for the improving",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T21:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025.md",
       "title": "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025",
       "excerpt": "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,",
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -819,19 +923,19 @@
     {
       "path": "_news/2021-02-23-opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025.md",
       "title": "Opportunities for The Global Artificial Intelligence Market to Reach $70 Billion By 2025",
-      "excerpt": "DALLAS, TX / ACCESSWIRE / February 22, 2021 / According to a new market report published by Lucintel, the future of the global artificial intelligence market looks attractive with opportunities in the healthcare,",
+      "excerpt": "DALLAS, TX / ACCESSWIRE /  / According to a new market report published by Lucintel, the future of the global artificial intelligence market looks attractive",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-north-america-dallas-united-states-asia-58b98b35fe5a25e920fa07cd2b021c61",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-north-america-dallas-united-states-asia-58b98b35fe5a25e920fa07cd2b021c61",
+      "webUrl": "https://www.benzinga.com/pressreleases/21/02/ac19780757/opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/02/ac19780757/opportunities-for-the-global-artificial-intelligence-market-to-reach-70-billion-by-2025",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://www.accesswire.com/users/newswire/images/630968/image-20210222160809-2.png",
+          "width": 592,
+          "height": 375,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -839,13 +943,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T11:30:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/19780757",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19780757",
+      "publishedDateTime": "2021-02-22T11:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1375,101 +1479,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-the-worlds-struggle-against-hypertension-the-role-of-artificial-intelligence.md",
-      "title": "The World’s Struggle Against Hypertension – The Role of Artificial Intelligence",
-      "excerpt": "Introduction When one considers the vast array of diseases the world contends with on a daily basis, hypertension (HTN) ranks among the top being a major risk factor for heart and circulatory health.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/worlds-struggle-against-hypertension-role-artificial-brian-lenahan/",
-      "originalUrl": "https://www.linkedin.com/pulse/worlds-struggle-against-hypertension-role-artificial-brian-lenahan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEPBw7MmjioEg/article-cover_image-shrink_720_1280/0/1613494040226?e=1619654400&v=beta&t=vVW322Ea8q1LifpDcvFR4_ubsgvw9_guFju9F9ktgpg",
-          "width": 1079,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person-centered-care.md",
-      "title": "Mental Health Startup Announce Release of Success-Focused Artificial Intelligence (SF-AI) to Support Person-Centered Care",
-      "excerpt": "Because of the pandemic, mental health is top of mind for many of us. From the switch to telehealth to the introduction of",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/mental-health-startup-announce-release-of-success-focused-artificial-intelligence-sf-ai-to-support-person/article_6dee4ab5-db51-58d5-b23c-46a3b7104b0b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

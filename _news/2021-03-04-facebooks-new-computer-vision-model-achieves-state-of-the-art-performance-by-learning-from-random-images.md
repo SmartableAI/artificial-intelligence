@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-
 ampWebUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Computer Vision
   - AI
   - Facebook AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all"

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-de
 webUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-detection-camera-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-01"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Analysis With Impact of COVID-19, Top Companies, Trends, Demand, Future Opportunity Outlook 2025"
-    excerpt: "Global Deep Learning Market AnalysisDeep learning can be defined as a machine learning technique that teaches computers"
-    publishedDateTime: 2021-02-28T08:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-analysis-with-impact-of-covid-19-top-companies-trends-demand-future-opportunity-outlook-2025-2021-02-28"
+  - title: "Global Artificial Intelligence Drug R&D Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
+    excerpt: "MarketsandResearch.biz has announced the addition of a new report entitled Global Artificial Intelligence Drug"
+    publishedDateTime: 2021-03-01T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-drug-rd-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2021-03-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

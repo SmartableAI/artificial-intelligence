@@ -41,6 +41,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI and Alzheimer's Disease"
+    excerpt: "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now, a team at Harvard Medical School and Massachusetts General Hospital has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease."
+    publishedDateTime: 2021-03-04T22:50:00Z
+    webUrl: "https://hms.harvard.edu/news/ai-alzheimers-disease"
+    type: article
+    provider:
+      name: Harvard Medical School
+      domain: harvard.edu
+    quality: 39
+    images:
+      - url: "https://hms.harvard.edu/sites/default/files/teaser-images/GettyImages-1064220756%20750.jpg"
+        width: 2000
+        height: 1160
+        isCached: true
   - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
     publishedDateTime: 2021-03-04T19:32:00Z

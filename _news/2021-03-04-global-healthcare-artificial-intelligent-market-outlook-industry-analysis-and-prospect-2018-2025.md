@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025"
+    excerpt: "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,"
+    publishedDateTime: 2021-03-05T00:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI in Healthcare Market: Analysis and Forecast, 2021-2030"
     excerpt: "Reportlinker.com announces the release of the report \"Global AI in Healthcare Market: Analysis and Forecast, 2021-2030\""
     publishedDateTime: 2021-03-01T09:39:00Z
