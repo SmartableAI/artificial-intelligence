@@ -3,8 +3,8 @@ category: news
 title: "Robo-writers: the rise and risks of language-generating AI"
 excerpt: "It’s far more coherent than any AI language system I’ve ever tried. All you have to do is write a prompt and it’ll add text it thinks would plausibly follow. I’ve gotten it to write songs, stories, press releases,"
 publishedDateTime: 2021-03-03T10:22:00Z
-originalUrl: "https://www.nature.com/articles/d41586-021-00530-0?error=cookies_not_supported&code=f17f431d-6e6d-46f6-a4c8-31a2de8c5faa"
-webUrl: "https://www.nature.com/articles/d41586-021-00530-0?error=cookies_not_supported&code=f17f431d-6e6d-46f6-a4c8-31a2de8c5faa"
+originalUrl: "https://www.nature.com/articles/d41586-021-00530-0"
+webUrl: "https://www.nature.com/articles/d41586-021-00530-0"
 type: article
 quality: 39
 heat: 39
@@ -15,7 +15,7 @@ provider:
   domain: nature.com
 
 topics:
-  - Facebook AI
+  - Natural Language Processing
   - AI
 
 images:
@@ -24,6 +24,6 @@ images:
     height: 576
     isCached: true
 
-secured: "9dNOSSOeC3TBV4vPBnQ3Lfkqe0dLXx8wCS1BugMARvCjkmVntyxpgXZz2D0n+10zcNvsA45zuXnCoAi5g69eEVqXJONQtD2dkr7A8BExhvLisXIIT/RHi5QZwcO4X/Jwm8HvHkSngKMcrjpGHAdOhNMT80KSLvdpSzIAc9/wWDv4in9fQxhvkajZxY4QcYrO1kmcF1uGQ9uClch8c1YMhgPnW44XWJqQug3ew8mE5AETB30lk5iJdQAkhry4D6uNQLsbKTvQo55/iHqbYxxss0ErToqmSrKXW0uBZ7YZGNcQSy1CgxYsZTa37eQ8IhxcW53FecWzU5tJP2frslNGVSmM8IafOKw2lfsRjUlSN4A=;2hBdNASLanwIZEZIE0adiA=="
+secured: "MAVa2tUMVuw18sAO6/mnvi7yPVG0yJYybfLWXPlOoT/DC4v+pfhhZbTLIRt3GMpurIqaGBzCYKrW3llCzUw8Hwa0Saa/MMHFx6GgsuDgpvuNTNgIV4Sm5p0fGz26fupy2F5s7UhlsvmTMarGksqiVMhM6V0GyhUNEwnDLZFC3YDGsAsXn0XwaZ2quIkZhIeMsxU/IajGsJ0xIlZ9+RQfuXUKGZUitUqDryAQ6DXEci/eQDTOD/hj2nFQqv1yuSEJtdlSdNSj04XiL8xUTNtifjYRbjNh6h/EIc1s9wlPs7dsG82qe+u1FRTDXC56DDWknuRkIcsfeU41a/vFJu3OCRTeuf82r1ru737/1YSKNVk=;OnGO6ZDllBYesQqtNEO0Xg=="
 ---
 

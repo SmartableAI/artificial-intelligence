@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-16-botz-cost-efficient-etf-with-a-reasonable-income-stream.md",
+      "title": "BOTZ: Cost-Efficient ETF With A Reasonable Income Stream",
+      "excerpt": "The Global X Robotics & Artificial Intelligence Thematic ETF looks to invest in companies that potentially stand to benefit from the increasing adoption and utilization of robotics and artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4406192-botz-cost-efficient-etf-reasonable-income",
+      "originalUrl": "https://seekingalpha.com/article/4406192-botz-cost-efficient-etf-reasonable-income",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static3.seekingalpha.com/uploads/2021/2/13/39580-1613229570011182.png",
+          "width": 640,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4406192-botz-cost-efficient-etf-reasonable-income",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4406192-botz-cost-efficient-etf-reasonable-income",
+      "publishedDateTime": "2021-02-15T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-tesla-and-apple-are-incredibly-important-companies-but-their-progress-on-self-driving-vehicles-is-pathetic.md",
       "title": "Tesla and Apple are incredibly important companies, but their progress on self-driving vehicles is pathetic",
       "excerpt": "Every year, the California Department of Motor vehicles releases a \"Disengagement Report\" for companies that are authorized to operate and test self-driving vehicles on the state's roads.",
@@ -1128,49 +1171,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-covid-19-has-made-americans-lonelier-than-ever-but-ai-can-help.md",
-      "title": "COVID-19 has made Americans lonelier than ever, but AI can help",
-      "excerpt": "In the isolation of the COVID-19 pandemic, many people are missing a sympathetic ear. Would a response like that make you feel heard, less alone, even if it were a machine writing",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "originalUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/covid19hasma.jpg",
-          "width": 754,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-02-covid-americans-lonelier-ai.amp",
-      "publishedDateTime": "2021-02-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

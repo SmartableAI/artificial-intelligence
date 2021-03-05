@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-17-samsung-develops-ai-processor-embedded-memory-chip.md",
+      "title": "Samsung develops AI processor-embedded memory chip",
+      "excerpt": "Samsung, the world's largest memory chip producer, said its HBM-PIM solution more than doubles the performance of an AI system and reduces its energy consumption by 70 percent compared with the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
+      "originalUrl": "https://www.sify.com/news/samsung-develops-ai-processor-embedded-memory-chip-news-education-vcrdPDcbdcaej.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
       "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
       "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
@@ -180,10 +214,10 @@
     {
       "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
       "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
-      "excerpt": "GPU-accelerated workloads such as artificial intelligence (AI) running in edge environments. Modern GPUs require massive amounts of throughput to feed the data pipeline. However, legacy ...",
+      "excerpt": "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
-      "originalUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
+      "webUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
+      "originalUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -193,11 +227,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T02:01:00-08:00",
+      "publishedDateTime": "2021-02-16T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1367,51 +1401,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-why-future-advances-in-ai-need-a-new-architecture.md",
-      "title": "Why Future Advances In AI Need A New Architecture",
-      "excerpt": "Businesses will need to adopt AI technologies not just because they can, but because they must - AI is the technology that will help businesses to be",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/",
-      "originalUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg",
-          "width": 432,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/02/02/why-future-advances-in-ai-need-a-new-architecture/amp/",
-      "publishedDateTime": "2021-02-02T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Hardware",
-        "Google AI"
       ]
     }
   ],

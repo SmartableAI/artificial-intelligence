@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-hum
 ampWebUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
 type: article
-quality: 87
-heat: 157
+quality: 91
+heat: 161
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - AI Hardware
 
 images:
   - url: "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg"
@@ -100,7 +102,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/156601563_444871796757659_6553158605407931420_n.jpg"
         width: 2048
@@ -135,6 +137,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "kkeHS2TXnZvSeobzxJC0sjjTJcrL7v2ozIiXK4PZo9IrHiJj7t1xmbnN0NPuIAwJoy01XHCiWdqHykOhbmMKqVz2Q8YaYNes2UgZah3uOKRoeZ9dauT4MF9/36xJI6l88KRuM2co97euQCqTXcEc0sMhRhd9uf5rIHqPEjzZLgcYVb2v4KBXFkeQ3ifirTX7qyBYyvX9OWfoG1Mo4aLkuM9aA6K0ggy8uvybVQ+7HqaN4ZO3EwQzlT/S3bm9RJEkgSopneIFSgqJNg/isQhq9gGMC0Hs2SK9s8/ICuPt53wparEjMBbHEvl8Im9nzRRPgFilDjH/VY3SX4Ku88klv34gEkRehDopDziBb8Z3P8E=;iQWppY4KV9InmIwPKybRvA=="
+secured: "NDA1b+ePSOKvp7JRvDefSVsEG2nLxziDg0sRvHLyuxNPPZN6XkZEFzGCdXt4E8xbEYBCpt4h+huRCCMy8sgoPLrtlboQRuCTAQjlqVBoWAgU1XCP+dyQc9lPHYuY/VT93qpvnvELAU3Tp9DhPwfwS2pGsr8G6xrTV2AqcYF++okdwh/Wz2VeXrbul7za+oKlHjCneGY7BReJscEut9Gemk3W0yBPlJnP/XoZ7hzpUBj6OkvS3Chjkk2uosjOzBkWzs2YUMd8x5Ki9QGon8KUSfD3ZtBqU/9Vft9cQbPc/dyYGw1SF1O5DJTeMVeG2WBpkOhPLhqZSlNmnPg4slDC1+7NgbjOBbERhCLz28Y7aMjxqMIqylpYclsQO2qNLt2kSkMgBQELUVfvUESDldjIxZt7upauQiTs0CJZBdtc+LL8P15ocGe1JBUDwnaBqBxMyCQEwOLzffGh+in5BM1GB4yU3T/lyYIQY7Xn05FvzTQrpAPNRm3ap8qkKC2FftxgKFC6GS4TT2unksW4A383rA==;tZQT2rOz4ONUK/jCq7mIjg=="
 ---
 

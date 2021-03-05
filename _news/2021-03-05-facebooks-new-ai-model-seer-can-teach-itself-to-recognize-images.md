@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-04T17:42:00Z
 originalUrl: "https://siliconangle.com/2021/03/04/facebooks-new-ai-model-seer-can-teach-recognize-images/"
 webUrl: "https://siliconangle.com/2021/03/04/facebooks-new-ai-model-seer-can-teach-recognize-images/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/156601563_444871796757659_6553158605407931420_n.jpg"
@@ -35,7 +36,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg"
         width: 2400

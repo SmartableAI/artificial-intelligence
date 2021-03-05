@@ -43,7 +43,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 87
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg"
         width: 2400
@@ -103,7 +103,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/156601563_444871796757659_6553158605407931420_n.jpg"
         width: 2048

@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-16-tickeron-releases-ai-trading-robots-with-trailing-stops.md",
+      "title": "Tickeron Releases AI Trading Robots with Trailing Stops",
+      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, launched its new AI Robots tool for setting trailing stops for cryptos and stocks. \"AI Robots\" are automated trading rooms where AI makes trades based on several neural networks.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tickeron-releases-ai-trading-robots-with-trailing-stops-1030087605",
+      "publishedDateTime": "2021-02-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-lemonade-adds-bestows-ai-powered-life-insurance-in-cross-selling-move.md",
       "title": "Lemonade adds Bestow's AI-powered life insurance in cross-selling move",
       "excerpt": "Lemonade added Bestow's term life insurance coverage, which may help its latest offering stand out from traditional term life coverage.",
@@ -361,40 +404,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
-      "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
-      "excerpt": "GPU-accelerated workloads such as artificial intelligence (AI) running in edge environments. Modern GPUs require massive amounts of throughput to feed the data pipeline. However, legacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
-      "originalUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-16-how-ai-can-remedy-racial-disparities-in-healthcare.md",
       "title": "How AI Can Remedy Racial Disparities In Healthcare",
       "excerpt": "Examining how artificial intelligence (AI) can break down the barriers of individual bias and institutional racism in American medicine.",
@@ -495,6 +504,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
+      "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
+      "excerpt": "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
+      "originalUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Buzz",
+        "domain": "financialbuzz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1119,49 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-botz-cost-efficient-etf-with-a-reasonable-income-stream.md",
-      "title": "BOTZ: Cost-Efficient ETF With A Reasonable Income Stream",
-      "excerpt": "The Global X Robotics & Artificial Intelligence Thematic ETF looks to invest in companies that potentially stand to benefit from the increasing adoption and utilization of robotics and artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4406192-botz-cost-efficient-etf-reasonable-income",
-      "originalUrl": "https://seekingalpha.com/article/4406192-botz-cost-efficient-etf-reasonable-income",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static3.seekingalpha.com/uploads/2021/2/13/39580-1613229570011182.png",
-          "width": 640,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4406192-botz-cost-efficient-etf-reasonable-income",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4406192-botz-cost-efficient-etf-reasonable-income",
-      "publishedDateTime": "2021-02-15T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
