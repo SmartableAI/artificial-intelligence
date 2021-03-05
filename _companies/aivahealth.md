@@ -2,7 +2,7 @@
 name: "Aiva Health"
 overview: "We strive to make every search interaction meaningful & rewarding with developer-friendly, enterprise-grade APIs. Need help? Reach us at support@algolia.com."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://aivahealth.com/
 
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=WrteXpQ5n7Q"
 
-secured: "8Q8L8iYiA8BD6XLpk/5K0MuYk+Ddz1Lvep8XRnO7hepwJclb1QB6yflrewPdftPG+r4l07F8KSfUWI/Vo7/30J59opqi55Ap5lR+n7AHYx4+QJP8LYFxqkyz3+Ii9GIjeutNMOodkpx7boTHpzyS/PkQ3AaXUMcFWQQyPtY1qgBVXi33gIiW0NnvcBG6U7oJHN48guopPiVdfBw86gDIp8fSqP+stgoHIuJTvSHt6s2TxrLqPoRvg7CZsR+qi85jQxrdRgqHZBXchxcSMWSSfp/azAxnUhW0nL+Wdj24VL45V2flp71ujFvfxOr9xrRgXNE5tkfKViyNTzpI3Wo9FOAQjROP23JTIuBEt7GYeJ1MpoVS4FwMoR4aYZcJhzglpLbu+bKpc+jnRPm6W9XCoQ==;TqjiFb0jzZilszXcUj4RZA=="
+secured: "vgFW4DmAqUyLBRbtp6Oim6jpt5/T37xLX4HXgruDDneobBBxlmQQlRAExdhSVjxosxlE7jcSXUCMsId/AsRVujns4K8gXgO3CDSS9oe8wNLpcdzgAK3NssSyCS8PjZvZUjDY+GVeajcQnb65tJPszGjmnXkcqCaNoE69N038/pWA2XAGp+IKe48sfQBsI5j5F3TJ50nSNnlQWjGp6RFdZali9niT8pZot1SPhDZDw9MkEtrsKvSRo2MY7wxXJ15tP3uWrt4XBsFwBKHa5uGLGIazQBu+9eT+Qj55CFYob+oTybzFj9VL92MRwxSg+tkt+53LjlU3mkiybckpuNUDekP+woZjSlMSoe+xOINpXITPfF0pdnY/K7JsECwSRxCnU2UL1f3eebi3JcarHYAmUg==;lzRulloJdUG6ZNCJP+2DqQ=="
 ---
 
