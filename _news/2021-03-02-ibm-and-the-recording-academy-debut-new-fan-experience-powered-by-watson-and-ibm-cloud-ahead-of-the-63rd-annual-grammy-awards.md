@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM and the Recording Academy® Debut New Fan Experience powered by Watson and IBM Cloud, Ahead of the 63rd Annual GRAMMY Awards®"
-excerpt: "\"These are the same core technologies – hybrid cloud and AI – that we're using to drive digital transformation for clients around the world.\" In addition to GRAMMY Debates with Watson ..."
-publishedDateTime: 2021-03-02T13:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-and-the-recording-academy-debut-new-fan-experience-powered-by-watson-and-ibm-cloud-ahead-of-the-63rd-annual-grammy-awards-301237995.html"
+excerpt: "IBM (NYSE: IBM), the Official Cloud and AI partner for the Recording Academy®, announced today the launch of GRAMMY® Debates with Watson, a new digital fan experience, powered by IBM Watson’s natural language processing (NLP) capabilities and cloud technologies."
+publishedDateTime: 2021-03-02T13:33:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-business-corporate-news-products-and-services-e108fc16c39967d915632cda286e2711"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-entertainment-business-corporate-news-products-and-services-e108fc16c39967d915632cda286e2711"
 type: article
 quality: 10
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1447324/GRAMMY_Debates_with_Watson_interface.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 300
         isCached: true
 
-secured: "8MGEsyZJD7P0C8Hn1D8Crl0spe5PcHFSpdrJ/Z/7WqykHpTWI6Kh2e8CB3Ih0o0zc3UJOwTBXlf1+Jwqy3r4JtFqA6e8TFvrNnzy+krqwbsyl74U373QX8/pUzE+gM0AysWr9/eYC45O4vcn3isqKRQHLCc0/uc+4bmuMQbgw6I2NXuVKz8SeOIcxhs9G/Ftm9ZMwSQhFyNwhkluVmeQKQcwhOYx8o93Rzl9eBbumYO1vwYuN5Ay1zxRf5W8UpuIswKUH4LDV1OqTclFO2d0KztJn9hhN/IIniennmHvZaacU7K3NxQm0ZoP8snNuyPBYq8MCRJasRkIUG8dJWVmkDMRPzRmMdI2denwXD5c6oE=;y29CGLuhhesICf1rmrOh4w=="
+secured: "xbWdSrZPxVThSMHTX0346VjcU75f+hLtDkLS8zkauqBbs/6HwIDTLNa+w/E9+rZ091CDL5d7laIGj0A/oA3Xykxtv/l8OT52MwlrWy0H4i63L8MASugXDNJVlOpJOTG/ixv+VPOTBr4yR4bm5A0294wTi1/v4cvCiaH+lgTS9JlVZh5DWCJiPn+sg8GOQ2a2niBjhVzpFM6Nr3LSRRK8IQ0T2cdTAfrpdZ/u3JQDdcBUzy3Q+Xjwtp5hdwuEBvyEvPGR1Qqj9ijzWqIzEajWo4+4/B3KY/ynPZ0lTdTMtXW20GVLvd+ESQoVx9HN9awR+WfG8gzFW4VQyWE0FDkudc5aosfaSzkpXXGGuOSXgGs=;mwL8jM+huTgWElG3W6qeNw=="
 ---
 

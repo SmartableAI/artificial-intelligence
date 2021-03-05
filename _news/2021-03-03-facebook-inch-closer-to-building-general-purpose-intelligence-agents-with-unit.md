@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook’s New AI Teaches Itself to See With Less Human Help"
+    excerpt: "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling."
+    publishedDateTime: 2021-03-05T02:22:00Z
+    webUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/"
+    ampWebUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 87
+    images:
+      - url: "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Facebook taught a computer vision system how to supervise its own learning process"
     excerpt: "We’ve developed SEER (SElf-supERvised), a new billion-parameter self-supervised computer vision model that can learn from any random group of images on the internet, without the need for careful curation and labeling that goes into most computer vision training today,"
     publishedDateTime: 2021-03-04T15:04:00Z
@@ -86,6 +102,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/Fo9ovefx8AwWmfGZ2N3M5B-480-80.jpeg"
         width: 480
         height: 272
+        isCached: true
+  - title: "Facebook’s new AI model SEER can teach itself to recognize images"
+    excerpt: "The SEER model, outlined in a paper released March 2, was fed 1 billion publicly available images without annotations or labels from Instagram. It then worked through the dataset, learning as it progressed,"
+    publishedDateTime: 2021-03-04T17:42:00Z
+    webUrl: "https://siliconangle.com/2021/03/04/facebooks-new-ai-model-seer-can-teach-recognize-images/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/156601563_444871796757659_6553158605407931420_n.jpg"
+        width: 2048
+        height: 1075
         isCached: true
   - title: "Of course Facebook is considering facial recognition for its smart glasses"
     excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."

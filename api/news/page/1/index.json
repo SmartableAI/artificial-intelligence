@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
+      "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
+      "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "publishedDateTime": "2021-03-04T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
       "title": "What the swarm of new Azure announcements mean",
       "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
@@ -458,58 +509,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-facebook-taught-a-computer-vision-system-how-to-supervise-its-own-learning-process.md",
-      "title": "Facebook taught a computer vision system how to supervise its own learning process",
-      "excerpt": "We’ve developed SEER (SElf-supERvised), a new billion-parameter self-supervised computer vision model that can learn from any random group of images on the internet, without the need for careful curation and labeling that goes into most computer vision training today,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html",
-      "originalUrl": "https://www.engadget.com/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/Fxx6a8B8w.WLpaR72TGyXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/os/creatr-uploaded-images/2021-03/90eeee00-7c69-11eb-b3bd-389505b94bd2",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html",
-      "publishedDateTime": "2021-03-04T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

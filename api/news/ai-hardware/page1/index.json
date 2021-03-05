@@ -319,6 +319,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
+      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
+      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3",
+      "originalUrl": "https://www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-2021-3?amp",
+      "publishedDateTime": "2021-03-02T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-as-china-rises-the-us-builds-toward-a-bigger-role-in-ai.md",
       "title": "As China Rises, the US Builds Toward a Bigger Role in AI",
       "excerpt": "After decades of staying out of industrial policy, a Pentagon-appointed commission recommends more spending on research and support for US chip makers.",
@@ -1444,61 +1487,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-artificial-intelligence-ai-chipsets-market-growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020-2027.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market - Growth, Trends, Case Study Analysis, COVID-19 Impact, and Forecasts (2020 - 2027)",
-      "excerpt": "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market---growth-trends-case-study-analysis-covid-19-impact-and-forecasts-2020---2027-2021-02-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AWS AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],
