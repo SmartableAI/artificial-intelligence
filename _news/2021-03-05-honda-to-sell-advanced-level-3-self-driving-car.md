@@ -57,6 +57,17 @@ related:
         width: 810
         height: 545
         isCached: true
+  - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
+    excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
+    publishedDateTime: 2021-03-05T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Honda’s part self-driving Legend a big step for autonomous tech"
     excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
     publishedDateTime: 2021-03-04T12:18:00Z

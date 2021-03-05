@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/googles-deep-learning-finds-a-critical-path-in-ai-chips/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
+    excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."
+    publishedDateTime: 2021-03-03T20:39:00Z
+    webUrl: "https://www.enterpriseirregulars.com/172990/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
+    type: article
+    provider:
+      name: Enterprise Irregulars
+      domain: enterpriseirregulars.com
+    quality: 71
+    images:
+      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/10-Ways-AI-And-Machine-Learning-Are-Improving-Marketing-In-2021--600x439.jpg"
+        width: 600
+        height: 439
+        isCached: true
   - title: "Delving deep into potential of Artificial Intelligence"
     excerpt: "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution"
     publishedDateTime: 2021-03-01T22:45:00Z

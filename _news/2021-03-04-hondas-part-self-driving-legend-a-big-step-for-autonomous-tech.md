@@ -59,6 +59,17 @@ related:
         width: 810
         height: 545
         isCached: true
+  - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
+    excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
+    publishedDateTime: 2021-03-05T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Honda Launches Safer Self-Driving Cars, But They Will Be Hard To Come By: Here’s Why"
     excerpt: "Honda Motor Co. rolled out a safer version of its self-driving vehicles that it will begin leasing on Friday, March 5, but the limited edition car will not be offered to the masse"
     publishedDateTime: 2021-03-04T14:31:00Z

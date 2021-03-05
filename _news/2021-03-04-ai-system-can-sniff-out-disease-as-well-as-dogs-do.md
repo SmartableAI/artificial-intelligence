@@ -23,22 +23,6 @@ images:
     height: 496
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Powers a Disease-Sniffing Device That Rivals a Dog’s Nose"
-    excerpt: "Trained dogs can detect cancer and other diseases by smell. A miniaturized detector can analyze trace molecules to mimic the process. Numerous studies have shown that trained dogs can detect many kinds of disease — including lung,"
-    publishedDateTime: 2021-02-28T17:35:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-powers-a-disease-sniffing-device-that-rivals-a-dogs-nose/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 32
-    images:
-      - url: "https://scitechdaily.com/images/Andreas-Mershin-With-Disease-Sniffing-Dog.jpg"
-        width: 2200
-        height: 1467
-        isCached: true
-
 secured: "1LtJM+XfvYKAga6R5fJYhR2/5wY+ymhAXFEfsuEvwdDheaPhkBTTV34M4DfwRoGVIWHzKUXGchogC7IjrvuWkfoSFXL/HYIxy6eYXWL6BvACJPkRzANUm+k6IpT6sXbi2odjND/3QRwycfpYvh+lpP+ExAeOmTI+5FN/PfsGPLdmRg520UjGRBXhhRbtn0e0hSHC7KuHPLyAHtBoTG7LHcv/4ZUGAI0MnE34HCcMbC1pz8dwBqByHt4kIeUsQZvz0VMCzn3zOWaCe5YpN3h5iqi7LUep8EDOV4/zXfS4Q+T1DpbrKfjg6pQbxKbJk3bYH8ofhmtK1UG+1rkWSx5qUazkMb44hYwLBbsuQbcuWE5JYk5AZeyvCVG3egmHSzMR2fSENoYedgcPaW7mGdvwfPnahGryEM9kogTv3lEdtUbolapchZ1CROM93dYvyewiMkYGcqQZHwl+4qhh/3EueFrhrKN4zhJbakQy7wdQAhYDTe4v9WmcXGv115N5KNhCVkO9u7SaCj3qGol99c32cA==;GlSJh/Vr2VfYYUqhyBZKag=="
 ---
 

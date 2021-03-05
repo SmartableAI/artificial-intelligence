@@ -22,18 +22,18 @@ topics:
 
 related:
   - title: "Mercurity Fintech Holding Inc. Announced Changes to Board Composition"
-    excerpt: "Mercurity Fintech Holding Inc. (the \"Company\" or \"MFH\") (Nasdaq: MFH) today announced that Mr. Cong Huang has been appointed as Independent Director to the Company's Board of Directors (the \"Board\"),"
-    publishedDateTime: 2021-03-04T13:05:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20210304cn99651/mercurity-fintech-holding-inc-announced-changes-to-board-composition"
+    excerpt: "Mercurity Fintech Holding Inc. (the \"Company\" or \"MFH\") (Nasdaq: MFH) today announced that Mr. Cong Huang has been appointed as Independent Director to the"
+    publishedDateTime: 2021-03-04T14:08:00Z
+    webUrl: "https://www.fltimes.com/business/national/mercurity-fintech-holding-inc-announced-changes-to-board-composition/article_c8d89521-ba4f-537c-b053-0d73b0a00d82.html"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
+      name: Finger Lakes Times
+      domain: fltimes.com
     quality: 24
     images:
-      - url: "https://mma.prnewswire.com/media/1243971/20200826103407_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qpmZ90KpqNFWD09jDS6vr/yrxuTsMGNz0FPhkJB7dvcoGXyfEEi9j8L0JNnriUF63pTlyaJ94JLHnFm61gIWCCNyMCwdqapTgTyM+cD568k6Mmlie5bhh1pdBzGVB8wfCaiOvwcAEIEX9fGEnsocGnyv8JiEdjjsipdjRy6yqp+TZaAQ1RKsJ2Xm5REfOQlOOzIiv5pXOlgau4JMWkuM0oYS0J2CRyezykW8KBYX3dr5eKKS8vU7oFENdcFYB1XUAxDmhdQ4vdTT6xrf+qSlE9HQrYVHUYRqeqkMjOWRXLEaOIDZrG/8UZlNh1pDjJ9Vwh8Vz1MQggxsubYHHhKdQ19bSO8u39TkTARmoq88nVs=;YPQx4cthdyEFGRw8X2qbAw=="

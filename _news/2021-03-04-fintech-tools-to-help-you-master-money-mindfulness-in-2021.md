@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Blockchain, fintech get name checks in 14th Five-Year Plan"
+    excerpt: "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight."
+    publishedDateTime: 2021-03-05T02:50:00Z
+    webUrl: "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/"
+    ampWebUrl: "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/1280px-Beijing_skyline_from_northeast_4th_ring_road.jpg?fit=1280%2C576&ssl=1"
+        width: 1280
+        height: 576
+        isCached: true
   - title: "Top tech trends that will define fintech this year"
     excerpt: "Technology in the financial sector is evolving rapidly to offer solutions and stay ahead of the curve. A clutch of tech trends will shape the fintech space."
     publishedDateTime: 2021-03-02T10:08:00Z

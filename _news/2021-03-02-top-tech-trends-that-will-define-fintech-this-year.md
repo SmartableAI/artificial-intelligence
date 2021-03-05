@@ -43,6 +43,22 @@ related:
         width: 660
         height: 336
         isCached: true
+  - title: "Blockchain, fintech get name checks in 14th Five-Year Plan"
+    excerpt: "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight."
+    publishedDateTime: 2021-03-05T02:50:00Z
+    webUrl: "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/"
+    ampWebUrl: "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/1280px-Beijing_skyline_from_northeast_4th_ring_road.jpg?fit=1280%2C576&ssl=1"
+        width: 1280
+        height: 576
+        isCached: true
   - title: "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027"
     excerpt: "Global “ AI in Fintech Market ” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and industry chain structure. The AI in Fintech Market report also concentrate on the development trends as well as history,"
     publishedDateTime: 2021-03-02T09:54:00Z

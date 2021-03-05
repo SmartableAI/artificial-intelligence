@@ -268,6 +268,22 @@ related:
         width: 730
         height: 410
         isCached: true
+  - title: "Microsoft’s Most Impactful Announcements At Ignite 2021"
+    excerpt: "Between pre-briefs, executive Q&As and the live event, I attended around twenty hours of Ignite 2021. Typically, Microsoft holds three focused events each year: one for developers ( Build ), channel partners ( Inspire) and end customers ( Ignite )."
+    publishedDateTime: 2021-03-04T21:43:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604153c5909583eb1a3a7db0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2807%26cropY1%3D0%26cropY2%3D1579"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Microsoft Power BI Premium: New platform and pricing, what you need to know"
     excerpt: "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance."
     publishedDateTime: 2021-03-04T11:11:00Z
@@ -446,8 +462,8 @@ related:
         isCached: true
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
-    publishedDateTime: 2021-03-02T06:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+    publishedDateTime: 2021-03-02T14:10:00Z
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
     type: article
     provider:
       name: CRN

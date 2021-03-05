@@ -962,6 +962,51 @@
       ]
     },
     {
+      "path": "_news/2021-02-19-deep-learning-with-tensorflow-certification-training-course.md",
+      "title": "Deep Learning with TensorFlow Certification Training Course",
+      "excerpt": "IgmGuru takes great pride in introducing the well-curated Deep Learning with TensorFlow Course in which industry leaders and academia has been consulted while preparing this course. IgmGuru is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254",
+      "originalUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.speakingtree.in/b/777254-1350-420-5-1613712045/deep-learning-with-tensorflow-certification-training-course-777254.img",
+          "width": 560,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254/m-lite",
+      "cdnAmpWebUrl": "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254/m-lite",
+      "publishedDateTime": "2021-02-19T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Speaking Tree",
+        "domain": "speakingtree.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
       "title": "AI & ML latest: Google disbands another AI ethics committee",
       "excerpt": "This time problems arose after disputes between panel members and Google-owned DeepMind over access to information, the WSJ reports citing unnamed sources. Panel members were also unhappy about ...",
@@ -1450,50 +1495,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai.md",
-      "title": "Introduction to Tensorflow 3D for 3D Scene Understanding by Google AI",
-      "excerpt": "Google AI has introduced Tensorflow 3D, designed to bring 3D deep learning capabilities into TensorFlow. The library can be used for state-of-the-art 3D semantic segmentation, 3D object detection, and 3D instance segmentation Understanding the 3D sparse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsvidhya.com/blog/2021/02/introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai/",
-      "originalUrl": "https://www.analyticsvidhya.com/blog/2021/02/introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/chi-square-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Vidhya",
-        "domain": "analyticsvidhya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

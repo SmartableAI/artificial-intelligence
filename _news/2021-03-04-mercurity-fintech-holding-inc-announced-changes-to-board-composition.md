@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Mercurity Fintech Holding Inc. Announced Changes to Board Composition"
-excerpt: "Mercurity Fintech Holding Inc. (the \"Company\" or \"MFH\") (Nasdaq: MFH) today announced that Mr. Cong Huang has been appointed as Independent Director to the Company's Board of Directors (the \"Board\"),"
-publishedDateTime: 2021-03-04T13:05:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20210304cn99651/mercurity-fintech-holding-inc-announced-changes-to-board-composition"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20210304cn99651/mercurity-fintech-holding-inc-announced-changes-to-board-composition"
+excerpt: "Mercurity Fintech Holding Inc. (the \"Company\" or \"MFH\") (Nasdaq: MFH) today announced that Mr. Cong Huang has been appointed as Independent Director to the"
+publishedDateTime: 2021-03-04T14:08:00Z
+originalUrl: "https://www.fltimes.com/business/national/mercurity-fintech-holding-inc-announced-changes-to-board-composition/article_c8d89521-ba4f-537c-b053-0d73b0a00d82.html"
+webUrl: "https://www.fltimes.com/business/national/mercurity-fintech-holding-inc-announced-changes-to-board-composition/article_c8d89521-ba4f-537c-b053-0d73b0a00d82.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Finger Lakes Times
+  domain: fltimes.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1243971/20200826103407_Logo.jpg"
-    width: 400
-    height: 400
+  - url: "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/custom/image/b0352330-9d33-11e5-a934-9bac0af3ff38.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "c09j+DDEn7dHcDPh4xSLAk1ZHN8FwuBPPuHRCfJGdQZh5FAL+bB/mpJtv4woymMLOgPkJtTvcqM7+QLVFqENP83GG9vZeAYpr1SxKv80CEbBBoIu+c+ckj36RdTpLOfNiydlX84D2/HdUK+t8uMop0H1uJhouc769M+I9lxcRcZsHD3WX0SEMmwZH68iW55cIVJw+XFtqAv3HoxUJCCxNb9jSyhLbEwktRLBdWHdqH/ETT6gfgzXQLZIdpiJJO8q3Buoz4CUCwBRYeNzX2+lGO215K4AFkuRY20KlTrmbsLeTBCNr8YG1JqRTNAc+eYqEVr1w77Rx0T/B4SNPylj4tPyuZPDotWR+4miIhEDUb8=;YodTCiIPsCGAaLLsnbscpw=="
+secured: "UEZ0aLgBuwTcUVvs/acQztUr5ZOC1l3fY1nRrIU5qr1sVwc3vCTD+16EdEWfDineTNnM6FGfmCmlq1Rdh2CMl63T4W2PAvze2o/YDkh1fxiRgyAwKE4NMpHzSfR3cCClQu8KvqsnBsFt7IF2eYhvEEa8XdbB/ao4nfKesP27NGBBAsZRTvuajdW6DMLQ8tjZ8yzxiVZ4dLbRQR61n6njh0ju1kdroZ4alG6/h+5rrJml1k/fQydzvWbOsMLzfVAaOXAaf4qxcclu1ST7zNf1ZsSYiX/ARRzK81J19cRyxuUTB6X59nSuQuzF0AUHZhGQf2c8HbW0wdYzL7c/I3OVDmHOKw9oi3MgTkpbPggxvdQ=;x7XXIDnOga9LtqJ+ImORGA=="
 ---
 

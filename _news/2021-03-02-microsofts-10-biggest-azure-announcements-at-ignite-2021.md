@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
-publishedDateTime: 2021-03-02T06:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+publishedDateTime: 2021-03-02T14:10:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
 type: article
 quality: 54
 heat: -1
@@ -266,6 +266,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2021/sarahkatzazu.jpg"
         width: 730
         height: 410
+        isCached: true
+  - title: "Microsoft’s Most Impactful Announcements At Ignite 2021"
+    excerpt: "Between pre-briefs, executive Q&As and the live event, I attended around twenty hours of Ignite 2021. Typically, Microsoft holds three focused events each year: one for developers ( Build ), channel partners ( Inspire) and end customers ( Ignite )."
+    publishedDateTime: 2021-03-04T21:43:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/"
+    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604153c5909583eb1a3a7db0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2807%26cropY1%3D0%26cropY2%3D1579"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft Power BI Premium: New platform and pricing, what you need to know"
     excerpt: "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance."
@@ -553,6 +569,6 @@ related:
         height: 457
         isCached: true
 
-secured: "+oiO4EZZfGGEHlStLHNtAbbhLhf7Se5nb7BevyigwO+/IYRdCsWcSWhmC5uC8O5xtcVhDIw7KLZcsEvbE2EgTzoFuvfZIbRZiBKyKEe/wb0z2nfU6nCNTrFMgp/GPw9y7AYLEnDVO9XuB1wR9KTuCdwtqU1/PWpK7EX0bZLU4LfeDvaIuHVt3x38Zanc1q93FreduFHtNbmUew91JX+Nt07AZo4tzdPcOqmBku0loE05Quc8cR4r+4EFoEWqxXKlkmbdZWFApecyooX0CC3i79pSx99Axiz1VF9nGT4SQQpkkIw5b+WY40WvmLeaqcd6MkU0aEveu2qVHYppr7xnfHtACU3wjO+cGx9Xv90EjRY=;gsBI6DUsKatYnWSyCvoDHQ=="
+secured: "nGFjAqgb/wqtqAJgJwJL0x2GpyV/UkDy3f9Bv4iaV8hF59XNEDjzcMPUkdpaEdmKDyw0GaswauCho2/+rdeye/+7Snr4WnoeEuo0fsxkEpv+E5Ot6sBw+SE3z6af8GNT5xU3bzXe1byssO8Eu4hm/yKhS6AyD7YPS0Oa1QQZvAz7J4BTB1/Ia/wjE3JlFiEpt60uEreMZeuphJTp4fD2W1ERWzlK5RlMss0oO8YO8tG6Fmubm4SGK74LuiXxsdjd5MAujwBHdWzy0YlI+nJFF4HVabAcmy740Lq/pCHMA3tFfzUZPz+eh1q24X963CDDlXT6IppwZBq3uWBphEuqi6miy2aQZbHcABeL/hy0X3Q=;7DhkOIolvZ881opolCkzdA=="
 ---
 

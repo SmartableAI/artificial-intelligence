@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-02-microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise.md",
+      "title": "Microsoft Ignite: How Azure Percept will bring AI to the edge for the enterprise",
+      "excerpt": "Microsoft unveiled a preview of Azure Percept at its Ignite digital conference on Tuesday. Percept is a platform of hardware and services intended to simplify how customers use Azure artificial intelligence technologies on the edge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/ef472406-e9f6-486e-ab38-67e6271bb39b/resize/1200x/1410bf3bab3a660a5e63c96e93ddaa5f/ai-devkit.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-ignite-how-azure-percept-will-bring-ai-to-the-edge-for-the-enterprise/",
+      "publishedDateTime": "2021-03-02T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
+      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
+      "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/in/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme.md",
       "title": "Microsoft Ignite Data and Analytics roundup: Platform extensions are the key theme",
       "excerpt": "Microsoft is introducing a new Apache Cassandra Azure service, while adding new onramps to Azure Synapse Analytics. And it’s the first third-party cloud to cleanroom engineer its own MongoDB 4.0 API.",
@@ -62,7 +167,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 496,
+      "heat": 506,
       "tags": null,
       "images": [
         {
@@ -336,59 +441,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning.md",
-      "title": "AWS rekindles a crafty scheme to get developers into machine learning",
-      "excerpt": "Amazon wants to encourage more newcomers to the world of machine learning, and has given a new spin to an old idea to try and make it happen. Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dUxibtp8fAtsBHpwYssG4o-480-80.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "publishedDateTime": "2021-03-02T03:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1182,58 +1234,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech.md",
-      "title": "Skydio hits billion-dollar valuation for autonomous drone tech",
-      "excerpt": "Autonomous drone company Skydio has just raised another $170 million in funding, with its “flying robot” tech earning it a $1+ billion valuation as it evolves beyond its initial",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
-      "originalUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/skydio-2-11.jpg",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
-      "publishedDateTime": "2021-03-01T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,83 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-20-why-baidu-stock-soared-today.md",
+      "title": "Why Baidu Stock Soared Today",
+      "excerpt": "\"At Baidu, we have long believed in the future of intelligent driving and have over the past decade invested heavily in AI to build a portfolio of world-class self-driving services,\" Baidu CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602",
+      "originalUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?time=1613790602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-baidu-stock-soared-today-2021-02-20?amp",
+      "publishedDateTime": "2021-02-19T19:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-google-fires-2nd-ai-ethics-leader-as-dispute-over-research-diversity-grows.md",
+      "title": "Google Fires 2nd AI Ethics Leader as Dispute Over Research, Diversity Grows",
+      "excerpt": "Alphabet Inc.'s Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its December dismissal of AI ethics researcher Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.voanews.com/silicon-valley-technology/google-fires-2nd-ai-ethics-leader-dispute-over-research-diversity-grows",
+      "originalUrl": "https://www.voanews.com/silicon-valley-technology/google-fires-2nd-ai-ethics-leader-dispute-over-research-diversity-grows",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://im-media.voltron.voanews.com/Drupal/01live-166/reuters-images/2021/01/reuters_com_2020_newsml_RC2NOK9R60TI.jpg",
+          "width": 5000,
+          "height": 3334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.voanews.com/silicon-valley-technology/google-fires-2nd-ai-ethics-leader-dispute-over-research-diversity-grows?amp",
+      "cdnAmpWebUrl": "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/google-fires-2nd-ai-ethics-leader-dispute-over-research-diversity-grows?amp",
+      "publishedDateTime": "2021-02-19T19:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Voice of America",
+        "domain": "voanews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-google-cloud-platform-a-cheat-sheet.md",
       "title": "Google Cloud Platform: A cheat sheet",
       "excerpt": "Some of the latest products added to Google Cloud Platform are Cloud Inference API, allowing developers to run large-scale correlations over datasets, Shielded VMs, Cloud Tasks, Cloud IoT Edge, Cloud AutoML, and the AI Hub, allowing developers to share and ...",
@@ -1095,108 +1172,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-alexa-what-does-the-smart-home-teach-us-about-ai.md",
-      "title": "Alexa, What Does The Smart Home Teach Us About AI?",
-      "excerpt": "We don’t often get a real glimpse of the future before it happens, but I believe that's what the smart home grants business leaders for the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ebe9ecc4962fb6150f91a%2F0x0.jpg",
-          "width": 752,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "publishedDateTime": "2021-02-19T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
-      "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
-      "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "originalUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "publishedDateTime": "2021-02-19T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

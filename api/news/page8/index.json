@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-25-cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes.md",
+      "title": "Cloudera aims to fast track enterprise machine learning use cases with Applied ML Prototypes",
+      "excerpt": "Cloudera's AMPs don't replace what data scientists do but give them a starting-off point so they can focus on the code, nuances, and iterating for the business use case.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "originalUrl": "https://www.zdnet.com/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/24/94ba4cfc-3950-4830-a2e6-368e11058911/cloudera-ml-4.png",
+          "width": 706,
+          "height": 523,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cloudera-aims-to-fast-track-enterprise-machine-learning-use-cases-with-applied-ml-prototypes/",
+      "publishedDateTime": "2021-02-25T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-google-and-mongodb-double-down-on-cloud-alliance-with-deeper-atlas-integrations.md",
       "title": "Google and MongoDB double down on cloud alliance with deeper Atlas integrations",
       "excerpt": "Google and MongoDB expand alliance to make it simpler for developers to consume a wider range of backend cloud services.",
@@ -1177,49 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
-      "title": "Researchers use machine learning to identify autism blood biomarkers",
-      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "publishedDateTime": "2021-02-24T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

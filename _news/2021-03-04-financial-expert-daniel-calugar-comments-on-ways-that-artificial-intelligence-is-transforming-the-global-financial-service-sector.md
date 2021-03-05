@@ -3,8 +3,8 @@ category: news
 title: "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector"
 excerpt: "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,"
 publishedDateTime: 2021-03-04T03:16:00Z
-originalUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
-webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+originalUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+webUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
 type: article
 quality: 10
 heat: 10
@@ -15,8 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI
   - AI in Finance
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "atirv7u2kTlSkz2rMl5dhfhJLSSmFbd20FZDG+6orwUrqeGhWKUyEpxKnE3leql95tsA8lfosUpVonk2z7jBvgZ14btQnW8Ny8Mk4JTQjcNvZexi5iPvfYplindiUotC6wqsiF+6X20k3d9NXBFr1z8RrKhb6oEKJOAgDR4GGGPYLn6FgUxigMIZ5/dd5lK1VwcUPLCB7Xba5LtNeIiwWHXNadzj4CafbjFJ17LMtnbQwd29NU21iCzxztTapNPEIiqEFOgsKOijJxPSSbyu9NaXyznAD40ro2l88tYnJlygmG8hj4hyRJ6nof5Mh8+lxDC4qEk9WnM+hXAZsEfKvSsi9F5a93ZvSwkp1JK9PPg=;HebVhOJP+9LUxYEmyJ3gtA=="
+secured: "mGf4SSFTweKj/bWvFtjo94yO4Cz/wa0OHc7yEgDNybuBfLNa675D134D7N+zX5wTQG2v3iSxogfxZe5ksl8el1WuAwznDNWKHI07RrWRSOFnZak7YjWmiqxg/jVOawS7iI4mP+UGDHqQOMZ27eDWLsAX7HB6rhRxfP7V1rZO4wKcZW9pvsEm7etm3lqis9MOghpzSUkeBMGZ9uo5pxpPEsgmwTNQX4zHZAd1qrEtQSp26ApyyQL11Yzcg1QvvjjtjLcx5gnU3nwIphbgpJLqnavM7TJ0TiQEUNGD4kFIIsczqXZbzSEl1QJCsXINCbbi9bWe/rj6e2lKkvMwenRPUSP8H6zqoBAzJ3S7C7048cY=;mrYad5UqU9Bq1XZM8r2YVQ=="
 ---
 

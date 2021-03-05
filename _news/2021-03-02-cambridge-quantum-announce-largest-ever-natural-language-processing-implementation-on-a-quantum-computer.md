@@ -2,9 +2,9 @@
 category: news
 title: "Cambridge Quantum Announce Largest Ever Natural Language Processing Implementation on a Quantum Computer"
 excerpt: "Cambridge Quantum Computing (CQC) announces the publication of a research paper on the online pre-print repository arxiv (available here)"
-publishedDateTime: 2021-03-02T10:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-878170425.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-878170425.html"
+publishedDateTime: 2021-03-02T00:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-301237921.html"
+webUrl: "https://www.prnewswire.com/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-301237921.html"
 type: article
 quality: 22
 heat: 22
@@ -24,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "2acUjgAyMysZELvSHbu2w6UAj8uIhBD//cN8PRwilNJiyOOligDagooK7rcjfhsi9066QQZYH7B2nhUDTuz9UB0pq7POjHrAkP6nWlqO+WYyk2AoSXdOsWOWAyrEOSSdE7ZJeT8cDS6sq4+xmHDSQ6jNFmZKdFkKgwcoQ0StTDWSKe1RdBsLqdtNvtdM3w7KYDk3lXrrN0E4AW6kHdwihmg1G0KAxqZmwY32zEYdHjmz8/HUyHrTJZNFFerMb/2xdEIJmrLTZNPADoq5mVaK87aHSTAPLInxQ/feXRgjRmSdffgTw+CpsgpoeKQQ91o7SifJlVHfQNuBeeHLaOBJ3hUzUPLMW6CYfazH6cmMZP4=;OB4UFMsAqL9akhHRpHiprg=="
+secured: "aIB257gTM8bF3GNbWI2jGhJsKqHkNbxmRhx7HJYDJg/OwUo1EZrC5kISY+TjLLQqvlOYRBfvP157/2Bw9x4V2g1QKubb+bDEKGXmVuyEVc8RVG0UpnJAealFLfcLlFOaXLO9c6dfMIMi7qecRhsRgGuQuqLf0Z/vwka7IW5GJT/zn//4us4abCoDQp+NotKNLxVS2qHEwRxw7sns0b4GG1LBfLh25t0WXHFVDFQGIPzZHgd4Po6XnEPjwU641HLrHCfHbJ2RuoBJjjT7BjfYNtoKR6qejU0/l64aqT2iBgaMGMx4URd2af2xgERKVPoSIV6Nhi/IqPwdeuXDelMBO2+zg1Alvk77d6LSL7kPvXY=;6Nxv2n00AMPOmOvY0r9F7Q=="
 ---
 

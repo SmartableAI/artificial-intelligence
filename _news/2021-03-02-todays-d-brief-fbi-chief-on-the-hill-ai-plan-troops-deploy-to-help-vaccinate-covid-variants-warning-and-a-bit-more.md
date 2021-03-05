@@ -40,19 +40,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Global Artificial Intelligence Education Technology Market 2020 with Covid-19 Impact Analysis and Forecast by 2025"
-    excerpt: "Global Artificial Intelligence Education Technology Market 2020 by Company, Type and Application, Forecast to 2025 is a resource, which provides current as well as upcoming technical and financial details of the industry."
-    publishedDateTime: 2021-02-28T17:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-education-technology-market-2020-with-covid-19-impact-analysis-and-forecast-by-2025-2021-02-28"
+  - title: "Apps, drone deliveries and AI: How technology stepped up its game to fight COVID-19"
+    excerpt: "A new report highlights the benefits, but also the shortcomings, of data-informed technologies and AI in the response to the COVID-19 crisis."
+    publishedDateTime: 2021-03-05T10:44:00Z
+    webUrl: "https://www.zdnet.com/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
+      name: ZDNet
+      domain: zdnet.com
+    quality: 81
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/04/10af9e08-4564-4dc6-bd8c-6cd04a69a9d3/cdei-repository-breakdown-by-sector.png"
+        width: 1032
+        height: 768
         isCached: true
   - title: "Machine Learning Shows Social Media Greatly Affects COVID-19 Beliefs"
     excerpt: "Machine learning tools analyzed tweets about COVID-19 and showed that social media can significantly infleunce people"

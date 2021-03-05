@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AWS rekindles a crafty scheme to get developers into machine learning"
-excerpt: "Amazon wants to encourage more newcomers to the world of machine learning, and has given a new spin to an old idea to try and make it happen. Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model."
-publishedDateTime: 2021-03-02T11:48:00Z
-originalUrl: "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-webUrl: "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-ampWebUrl: "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+excerpt: "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model."
+publishedDateTime: 2021-03-02T14:55:00Z
+originalUrl: "https://www.techradar.com/in/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+webUrl: "https://www.techradar.com/in/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+ampWebUrl: "https://www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
 type: article
 quality: 106
 heat: 106
@@ -31,6 +31,6 @@ images:
     height: 270
     isCached: true
 
-secured: "fOsjhrgoYp2/MvWLpooeLPMHZ6fAEowc3i6ui82XRKZx3rozuDtAIdVklxxvJI1S+bijgVenjUgZfBkTpIsNEpNnRfceadeRU+xF1PiWcvMwwfM7enyxMeFFIkYNhZ2ZMpcV/BFpt24JahxdoGgPFO36fLqA2Xh69+i3pby9KB9R/S7smsbeQRK/Ct5tbsWIqdXWGd4Q7TSxz7yZFl4Q2foSlv2rJNGJQkqBK2FkY6AuBRP9cerXSYLJHMcxFkgYSewyZ0ZISoi/27288zIKlj4vWEVpIM9ZOmXkwLH9A6Y/hhN9WMKnzm4wLmL5zRbaW70MXwjVZgMNRx//6hVQZZ8/CCBnd66NlYqv8Pa7KVLD5zGl+Uppn/MOrnLU4CHW4LrRag/TOGXjTqJ3X0QIiv23WlvZQXavgqiIG3jw2d92SGc91ifXUuMFFRSh4P3oVVrEwWQvxKbUP+wKObuGK3RBV7ftufDIy62I9cTAl48ia+xkcU3c5Ear2WYWgo9d8YJdIGGsKmCxhmj5RbDLtw==;urr5/2rvQc6yBD7WgsbOrg=="
+secured: "8wH80ts3erfx6NRBQyaFpzmTOhWGVPEfEnE4925tpX+N0r5ay3ggaFCI+Tq9fT6IwCIySei6TfhZe4hd0GkGU1T8n5MtWou0GZc/0BIHN5nh3iKOcQ2CGrcGrpKRVeEVZUWxdVY/g6Bh/7ayv/qX8mMXomarx5JSwc8kI4yjq2djWj7b4Ng3QwwTwhfHmC82sPeK8HxAACo+4ZgmDXsaCunbZISeFuvneYmpvQuKFXQwo8SnvAszXhdDgvx2LI+fIAVpoVZiG3TNbP9aBNBxN+a+ENRYvBkARRoiLG37eqz3PyOoQuGYcUa2VQG83CPjdRQ+6FDdfO8N4rvcEwlLr6GW4IINx8rDPixnntnL0Gc=;/sMaiOJ0YzqiNdEKQ22L4Q=="
 ---
 
