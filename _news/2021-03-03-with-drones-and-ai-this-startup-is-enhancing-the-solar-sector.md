@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366459"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366459"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://dynamicbusiness.com.au/wp-content/uploads/2021/03/AlexTomJames.jpg"
         width: 1200
         height: 1132
+        isCached: true
+  - title: "This EdTech Startup Is Using AI To Teach Kids From Underprivileged Background"
+    excerpt: "While most of the ed-tech companies are focusing on bringing digital learning to upper-class students, ConveGenius aims at enabling learning for the masses."
+    publishedDateTime: 2021-03-05T11:25:00Z
+    webUrl: "https://thelogicalindian.com/smb-stories/convegenius-using-ai-to-teach-kids-27213"
+    ampWebUrl: "https://thelogicalindian.com/amp/smb-stories/convegenius-using-ai-to-teach-kids-27213"
+    cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/smb-stories/convegenius-using-ai-to-teach-kids-27213"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 54
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2021/03/02/191526-500-insta.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "EO3UfeyWbvZ31sj345WiBuWIm4cU9/JCqFqTIolH2Al+Fg7dld1QNs824WDPY7bwIsJgEqvg/fwHon7DzN6HzE+5R9Ogb+3LBQAAtgHM+VZw++l7y8MRHTlh50QG97Eco0l0Z8abpsiMdE3GMjp0w0ttGFdLmrZyCTzOhjtGcaTtk03i9+33boHtf6bv1+eTUHYJE/1KeMMfMJgeFGcWmk7O1N2Ou0FkONyjUbjfgLaEv4oCyRHEUBFRGoAPCZof3PRP6rKZr6MmGJm6mioH4bcPOV7MYV8jNwCLonxp72vtkCSYza49J9OHKP0RmTVknpb+ZOshyXHGKoSRAk1w+Zo1Ql7k4HlerCtmSz+QYzj/YUoKYoQngEKdWMcrxBPnJrhMkNVJoywmH5Xmg0ospxl/B3aD/PYje/SMfSbkN9hBIu0NNV5/Enn5+2oBzRUxHqmOhhX46CXTmF9ZvBrj3ZNTec69d5nuGmiTBOp6Kb2nXgUrjRk0y6hnY7mOCDIjhwYwegfgqoIhWeOnssWxDw==;f0js8lWiCoF2t8N55MjNmg=="

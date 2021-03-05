@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinnovationteam/2021/03/02/looking-ahead-thriving-in-an-increasingly-digitalized-world-with-ai-hyper-personalization--innovation/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI-based localization and classification of skin disease with erythema"
+    excerpt: "However, in dermatology, although skin disease is a common disease, one in which early detection and classification is crucial for the successful treatment and recovery of patients, dermatologists perform most noninvasive screening tests only with the naked eye."
+    publishedDateTime: 2021-03-05T11:51:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-84593-z"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 37
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84593-z/MediaObjects/41598_2021_84593_Fig1_HTML.png"
+        width: 685
+        height: 286
+        isCached: true
 
 secured: "OsJardqklz7Deh6VkWo95z77qmv6zXTbP83PVtnuOFkyWBTGj98VpNnE0I+qDyfWOuZnNPVohzerM/Rl+61pau2Ae83SGPn6uuehqrVXaaOIFrOjcJdIhntyMfpNHk3XRRUr5U30+OzX9nE5qAIQzeVCyleYpfBcJtSb3rJSqPgvV0aDk9V4y6Sc2WneeNidIHqxfdXdYN11Exvj3M72OceKqWmi24EKMlsYxWZudPpp00Tp+uzerrUaveH2p56iUzfwd8XLzvkpM5f/tUXCHen/r9XbWgvjB32sW5/nn4f1b0TcBrVKRGKCXqyESdG3MCx2xFQjZhkbSnAY6o6/C02OluMaqHqPukB6fwaDjQR8GMVl23OAz59gV9KLDyphSBXjmPgdcqnF/o5wv34FS0E5JOpSSRbenyl0d1y0jMPFHXCKFdfyDgqtfFv4XINMAM7FM0VOeiE2X3l1ZfHclBEEpgmA/rOSDV+QGTQATdIKo045Sdx0NgI8OvM2+H9ChuobxRnno2Lwdf/PnxE3kg==;x2qSl4feVZm2cYVsj2CK2g=="
 ---

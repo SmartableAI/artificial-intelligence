@@ -104,6 +104,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Can Artificial Intelligence get common sense? Facebook model shows the way"
+    excerpt: "This approach is known as self-supervised learning In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
+    publishedDateTime: 2021-03-05T12:18:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/can-artificial-intelligence-get-common-sense-facebook-model-shows-the-way-220992"
+    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/can-artificial-intelligence-get-common-sense-facebook-model-shows-the-way-220992"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/can-artificial-intelligence-get-common-sense-facebook-model-shows-the-way-220992"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 57
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/3/2021_3$largeimg_384652153.jpg"
+        width: 660
+        height: 466
+        isCached: true
   - title: "Facebook smart glasses could have facial recognition — here’s why that’s a terrible idea"
     excerpt: "We’ve already heard news that Facebook is developing smart glasses, even if the earliest models don’t have any sort of AR or mixed reality features. But apparently, they may come with facial recognition cameras."
     publishedDateTime: 2021-03-02T08:04:00Z
@@ -133,6 +149,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/156601563_444871796757659_6553158605407931420_n.jpg"
         width: 2048
         height: 1075
+        isCached: true
+  - title: "Can AI get common sense? Facebook model shows the way"
+    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training"
+    publishedDateTime: 2021-03-05T11:59:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=807915"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "http://www.daijiworld.in/images3/sq_chitki.jpg"
+        width: 280
+        height: 250
         isCached: true
   - title: "Of course Facebook is considering facial recognition for its smart glasses"
     excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."

@@ -20,19 +20,33 @@ topics:
   - Machine Learning
 
 related:
-  - title: "SAS named a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms .1 This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Quadrant."
-    publishedDateTime: 2021-03-05T09:44:00Z
-    webUrl: "https://menafn.com/1101701431/SAS-named-a-Leader-in-2021-Gartner-Magic-Quadrant-for-Data-Science-and-Machine-Learning-Platforms"
+  - title: "SAS cracks Magic Quadrant for machine learning, data science"
+    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Qua"
+    publishedDateTime: 2021-03-05T04:32:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/05/sas-cracks-magic-quadrant-for-machine-learning-data-science/"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 26
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 39
     images:
-      - url: "https://menafn.com/updates/pr/2021-03/04/PN_84391dff-4_Image_In_Body.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
+        width: 794
+        height: 446
+        isCached: true
+  - title: "SAS named a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms.1 This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic"
+    publishedDateTime: 2021-03-04T19:51:00Z
+    webUrl: "https://www.lelezard.com/en/news-19683915.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 28
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Dataiku Again Named a Leader in the Gartner 2021 Magic Quadrant for Data Science and Machine-Learning Platforms"
     excerpt: "Dataiku, the world's most advanced Enterprise AI platform, was named a Leader in the Gartner 2021 Magic Quadrant for Data Science"

@@ -42,6 +42,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "This EdTech Startup Is Using AI To Teach Kids From Underprivileged Background"
+    excerpt: "While most of the ed-tech companies are focusing on bringing digital learning to upper-class students, ConveGenius aims at enabling learning for the masses."
+    publishedDateTime: 2021-03-05T11:25:00Z
+    webUrl: "https://thelogicalindian.com/smb-stories/convegenius-using-ai-to-teach-kids-27213"
+    ampWebUrl: "https://thelogicalindian.com/amp/smb-stories/convegenius-using-ai-to-teach-kids-27213"
+    cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/smb-stories/convegenius-using-ai-to-teach-kids-27213"
+    type: article
+    provider:
+      name: The Logical Indian
+      domain: thelogicalindian.com
+    quality: 54
+    images:
+      - url: "https://thelogicalindian.com/h-upload/2021/03/02/191526-500-insta.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "GXx1cnV7jWKoQAxr6cvn91FZHAmsIm9bPHKpfxBQEFpfEsJaHfilQwHJUJvZaMe9DGaMNIsihkNcT3skxq6YV+eWi9LiSg/MTxCgAgzRqG21FjV369za0qiqNtTCORi0gShfiOcDPaGO4uf9+bvq2c7is0/nx9PpfOp+uGguEhASPvmCZImjttUF8xx7C/q+Nr7J/6QGXmgCfoZA/Xz8UFBynI2sfHF15mZjAMKYwuRpnr91Ep36bWzgz4KkbY/2SJIjxSf40AlfpinVdZRiiS0iZDgWTDsS5dPF9gGoEaHzxa1fTffKW5yWG8zrEDM1lFTL+pyVtt+yXy9QBCZcJ8/ZWbe9WWJHTsIKHaw67pg=;XTbw/hOLQbWnLItizTK1ow=="
 ---
