@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -45,7 +45,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sources: TikTok owner makes automotive bet with investment in QCraft"
+    excerpt: "ByteDance is pouring money into QCraft as part of its latest investment round, which could net the car company least US$25 million."
+    publishedDateTime: 2021-03-04T23:43:00Z
+    webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
 
-secured: "dfOBuuhflTzwjqZxPIYp3nt5rdpmB28Uze8Xsjn4N9aHqsF7RP5eXomJzeE3Zgo4m20CW5sAeSPrSjQyIGwhj1C25qysAxywZD40J9Rxm3WTyJQ9T/Oq4T63bPeW5Lfc+bOnYafc9P9DdT85DxHsS5USFT0K2VM7WnGCLYcuxNakRY7OBeCuWWWn6OimoGV3vVSLaGztvInVVwoMegLRnIeHHlMFVhXG69DBEeKdsI1Q5I4WMyoyH9WMAmxxKSf4cA84Ie/dfrrLBH6xwYCCMkHo/3zqbSRRDsmq0PmM2TweaK14rCuYL+IfSp0GhCmEqG2XzsduEQnZukxsVWRNBCZhiEahxRZcVfmx2PSjBbI=;nfBQcYmQEGTaHE86n5DGvg=="
+secured: "FAb1UBlB2VmNx8zxjo1o8Mb7QR42WjlVXzt3plpbOqJ2xgCUkGmAKFFoRca+UOY4bNW+4LebTlMsOlVX/WrZIh9ZoderBephKlf0U9Brf+bov8S7dlAv+UQMiOz8ucYveftMeE/M5QZcMiB+KQSuJ8b6QdYxgUh7lkJdzqXrkCQt9ZdnA7VvOioIDYlbHCvW3YrCbjt6K2q8HYnRUPi15jZL9yIAOwl3qiI0bVdn4Sm2cgZqlT3Sb8sbIdbRon2Hxw+JNN+5tLs0PEwdkhBP92HGiU7bjUaTykNS4KYNmjgv9n9s/hdXS4owF++WWQ3sEn4NLxrTtLy6T+Hc9DkT1lfA5vq2JvUEObnZ5jWqwyXmtMaeDf5PJORV7nZvJ1eugPsNhr2JAbFPQw3eM59tYIaYH7PPorZMisRYIBe68qmd/wHvRxBFj6shK7qXXFnpUxKYRwT5Kc6KAI7ioAybrtK6G//Gng/20msVym36oTbI7ZACu/XpA0nw2OrRzX0UkGyrA+F16Q4MDz4aIgwc3g==;g8UbmLOawWuKWGE2eeb+tw=="
 ---
 

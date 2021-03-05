@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20002121"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20002121"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Benzinga.com
@@ -40,6 +40,20 @@ related:
       - url: "https://thebridge.jp/en/wp-content/uploads/2021/03/agrist-robot-camera-green-pepper-detection.jpg"
         width: 1240
         height: 780
+        isCached: true
+  - title: "Semi-automated tracking of pain in critical care patients using artificial intelligence: a retrospective observational study | Scientific Reports"
+    excerpt: "Monitoring the pain intensity in critically ill patients is crucial because intense pain can cause adverse events, including poor survival rates; however, continuous pain evaluation is difficult. Vital signs have traditionally been considered ineffective in pain assessment;"
+    publishedDateTime: 2021-03-05T07:38:55Z
+    webUrl: "https://www.nature.com/articles/s41598-021-84714-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84714-8/MediaObjects/41598_2021_84714_Fig1_HTML.png"
+        width: 685
+        height: 643
         isCached: true
 
 secured: "/C4J43gWrNWH2iQwj7oI8LApanHgZ6OlcIfVsga9naTcWMfqOzyCAJvlX4mHkF8mTOlaGIpao08cGMLVwvAdXhq1eReK47RYL24tZC41xFZw8NeMpCyyKWpSBucjU8rnybHv6QvWgYM27RY4Oy9vD6IBXAVyqPkuAjW70hXJliLCHHWbywzQ8cevasqPmJwRgKxGnnyK6EnPu2KZEpKoq0v52TJodKxX++5M3HSx03mNyY7TYrZ+7AhMHSGqkfB2B1Il5RN7hK0txdP1/mFPAbMRTg8yH6DPosroZ7y/LoG66EweSkPb6kZSdQTQ60U13cdWG1R0VOjl7g3FG2+slIX4ec60AWVNey5mYILGTsbMV1gd6FjKy2yn7dLLY+lL9huS5SJQdv3HvE0sh8kBlIaB7b3i9iFYBvYNjA4nM32ZABPeQWBLclv0iCReu0uvAhONhFo/VTF2OIyvxlxm45JSXm1nQpjcc2UJ1DkWdaAe4EnIrnDPL7jNi5IxaJOfm1w+vT8cPzdzWpQC+GKS/g==;4W+oaugAujhpUD73HcCzmA=="

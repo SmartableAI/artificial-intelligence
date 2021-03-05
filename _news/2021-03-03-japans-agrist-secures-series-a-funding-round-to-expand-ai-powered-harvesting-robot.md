@@ -41,6 +41,20 @@ related:
         width: 407
         height: 406
         isCached: true
+  - title: "Semi-automated tracking of pain in critical care patients using artificial intelligence: a retrospective observational study | Scientific Reports"
+    excerpt: "Monitoring the pain intensity in critically ill patients is crucial because intense pain can cause adverse events, including poor survival rates; however, continuous pain evaluation is difficult. Vital signs have traditionally been considered ineffective in pain assessment;"
+    publishedDateTime: 2021-03-05T07:38:55Z
+    webUrl: "https://www.nature.com/articles/s41598-021-84714-8"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 15
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84714-8/MediaObjects/41598_2021_84714_Fig1_HTML.png"
+        width: 685
+        height: 643
+        isCached: true
 
 secured: "9dQTMTA/9ajrE1uKc9n8vZNZGCamWOlnu7O5jIjkKc6bqn0/eWEenAExNgLReaTJEdJkuJe1LwmYPpF8mOs5L/JFkglqv0NfCqOyk6jxUa7WL44g003VLvfaEkRDzUrUcVjbz3eCM6S/0iATyghKaFh75Q0Y4uiK9mHBzmnNOX4Yy5hNL0il9mbkY9HCtCzZbRGnpZHjmaf78lZEzpxuLCNCxRE/gEnun/na6VjJEc/zmITDKg/Phn/OLKNpc+imX77ufVBMJ0HiA1Ej/Sna7hL5HoOUcrC82bWdCcYRLT22yHEXVowxEUjZcVo1maA+lUDj9UrtQQh53lNyhT1F3kxo2sYtcSiLpYMrr4zK6Eef9C/VTzd4KqKfYdjAqsBBogGDYq1SQIX4vYpVr66c93sIxYEgnCG/YY12mybNQdnqKI0qUwCBlBOSkDCrDLdQ+STTdraMM6kj/ubmCuQrroeQ9I+jfHlpnM/htJDZT3FfqOedAnjoBfGHBt7koMvmVe4MQ8A8lHfOto9GOzFfSg==;1rjdmmW+UhlCJ2i0frPkkg=="
 ---
