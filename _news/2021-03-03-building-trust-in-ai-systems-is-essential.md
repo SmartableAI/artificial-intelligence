@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 500
     height: 281
     isCached: true
-
-related:
-  - title: "Delving deep into potential of Artificial Intelligence"
-    excerpt: "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution"
-    publishedDateTime: 2021-03-01T22:45:00Z
-    webUrl: "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 59
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "India has disappointing rate of AI development, needs to catch up"
-    excerpt: "According to a new book by researcher-author Rajiv Malhotra, India currently has a disappointing level of development in artificial intelligence (AI) and"
-    publishedDateTime: 2021-03-02T11:41:00Z
-    webUrl: "https://www.compsmag.com/news/technology/india-has-disappointing-rate-of-ai-development-needs-to-catch-up/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/india-has-disappointing-rate-of-ai-development-needs-to-catch-up/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/india-has-disappointing-rate-of-ai-development-needs-to-catch-up/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 57
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/03/1-117.jpg"
-        width: 909
-        height: 679
-        isCached: true
 
 secured: "dMIF0jAqtSXxWVZiqLDTifILE8Js1cOcI+UWwKDEYebaLSuqhkjQWjHl1T+LQ6nDA+NaAMIM5Chm/wFnB9wZMpKTZWOV1NMFv3+u2i2azpwZ8Ez+ueMs3PoFSq1sDQJjltMo6D5XaQ5AtBgAHqc5uKpO7QkcFWk8gJsYC6fQBhJ/+dZxhW6mlWQBQKJ36gu3mhRhuAgjkAlQnZHEtVwMUaa3I2xrYcu+w8e7kwGtU8WV9CrH9HqzE73lrsc/GO5Z6OEGKKgNbHOpHIG7zc/lgOIKPrMhc+2n9qrpvofp0+8RsM4yILjAe6SPlMgc/O033qsnMv1EO5+COxXevoB/xF3bsGAXso7P4GNLpId7rw+8aiWbx1Qzu87g2oQsVrcKqGPC7JKFgmGYqtuBXvpVwlHbeO8HdPI87fIXMoJNczYa8/ELaob6q7el4P11l4yb9PS1ctD0USZotbzXmSl4DBeQvjWUHTQyA3a3XO2hiXFMhevGlfKxKt/o48W1yOBZv1YyUaTbMlnoH1G6l0Fe9Q==;GLXzDCMWsTbBWrA789exBg=="
 ---

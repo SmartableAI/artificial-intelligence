@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-fa
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
 type: article
 quality: 88
-heat: 148
+heat: 158
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.geektime.com/content/images/2021/03/BLEND-Founders---CEO.-Photo---BLEND.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Congress to renew fight over facial recognition ban"
+    excerpt: "Following a failed attempt at reform in the previous Congress, Capitol Hill is poised to reignite the thorny debate over law enforcement’s use of facial-recognition technology. But after two impeachments,"
+    publishedDateTime: 2021-03-02T17:18:00Z
+    webUrl: "https://www.nationaljournal.com/wp/congress-to-renew-fight-over-facial-recognition-banwith-the-house-poised-to-pass-some-restrictions-this-week-democrats-in-both-chambers-are-prepping-a-broader-moratorium-on-law-enforcements/"
+    type: article
+    provider:
+      name: National Journal
+      domain: nationaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.nationaljournal.com/wp-content/uploads/2021/03/AP21027000725384-scaled.jpg"
+        width: 2560
+        height: 1524
         isCached: true
   - title: "Law on collection of facial recognition data to be proposed at two sessions"
     excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."

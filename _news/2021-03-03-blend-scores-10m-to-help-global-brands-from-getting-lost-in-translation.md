@@ -59,6 +59,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Congress to renew fight over facial recognition ban"
+    excerpt: "Following a failed attempt at reform in the previous Congress, Capitol Hill is poised to reignite the thorny debate over law enforcement’s use of facial-recognition technology. But after two impeachments,"
+    publishedDateTime: 2021-03-02T17:18:00Z
+    webUrl: "https://www.nationaljournal.com/wp/congress-to-renew-fight-over-facial-recognition-banwith-the-house-poised-to-pass-some-restrictions-this-week-democrats-in-both-chambers-are-prepping-a-broader-moratorium-on-law-enforcements/"
+    type: article
+    provider:
+      name: National Journal
+      domain: nationaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.nationaljournal.com/wp-content/uploads/2021/03/AP21027000725384-scaled.jpg"
+        width: 2560
+        height: 1524
+        isCached: true
   - title: "Law on collection of facial recognition data to be proposed at two sessions"
     excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
     publishedDateTime: 2021-03-02T10:36:00Z

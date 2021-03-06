@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
 type: article
 quality: 80
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI reveals current drugs that may help combat Alzheimer’s"
+    excerpt: "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising"
+    publishedDateTime: 2021-03-06T06:53:00Z
+    webUrl: "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/"
+    ampWebUrl: "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/"
+    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/"
+    type: article
+    provider:
+      name: ScienceBlog
+      domain: scienceblog.com
+    quality: 59
+    images:
+      - url: "https://scienceblog.com/wp-content/uploads/2021/03/iStock-sudok1-945x630-1-e1615042402287.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AI-based method for repurposing existing drugs into potential treatments for Alzheimer's"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options."
     publishedDateTime: 2021-03-04T16:49:00Z
