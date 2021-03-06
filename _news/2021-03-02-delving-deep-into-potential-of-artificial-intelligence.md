@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potent
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcb95c328-6401-471a-ade4-3e48af6a14e3.jpg?source=google-amp&fit=scale-down&width=500"
         width: 500
         height: 281
-        isCached: true
-  - title: "Continental invests in AI company"
-    excerpt: "\"Figuratively speaking, the new, highly specialized processors serve as an ultra-economical data booster: with minimal energy consumption, they enable vehicle computers to gain a rapid sense of the vehicle's immediate surroundings,"
-    publishedDateTime: 2021-03-01T19:59:00Z
-    webUrl: "https://www.rubbernews.com/automotive/continental-invests-ai-company"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Conti%20AI_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "us/XT85qWgumXuSHpinYyF4Kcei7l1/k43JPDxPyQRZ28yMmJUFPPbVqseMOT9O28XlLW9p0/fE8touCGbgNvw45v1e1A8R9JG08c+jphYuQHGHA9gtq1CWQjo7wKiVTQtYcDqSRTgvEgufQSUNUqXB9vGAOVd+B9pB5g+RM9mN4FOU0mu9UVbprlt7R/ypKm8uOEpoF4oYD9DwfyrYYoOAVdCxjkUZ1dH6du/X4c2p1aH1x0bcfgEy54u2Z+5X1Z1kLtshTIzx3Y0lOcFLwXIvpNZMa2N0lgpGH6Eb/QwxrST8QUTehg+YUYDAvoxY+va0XFsFWahxP13PtsHs28zs2m2FORXNQDAJWRxXNttajVjUsa7uUrtYHnX+U7kpvG8dVlQGXgpOBVRJvGPuhOU8seT8mk8eAbUQ6dTV4fsY9wEvAyM9NXjbzphPFDseb2OgKb8JXavMK1PUALwUsvB+eC2H9y6+nSVblKMCHGLUV/X8zdcfylPPMdjiFKj3ecGJH9reHNf32VNzGJD2Rjg==;7YL/un9qdNUrGapOrr3qLQ=="

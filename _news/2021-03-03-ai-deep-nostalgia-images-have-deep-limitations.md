@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos"
-    excerpt: "Service from MyHeritage uses deep learning technique to automatically animate faces"
-    publishedDateTime: 2021-03-01T19:35:00Z
-    webUrl: "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco"
-    ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10"
-        width: 600
-        height: 360
-        isCached: true
   - title: "‘Deep Nostalgia’ tool animates photos with unintended creepy results"
     excerpt: "Late last month, genealogy website MyHeritage announced a new tool for animating photos called “Deep Nostalgia.” But while the tech was intended to let users “bring beloved ancestors back to life” and “experience your family history like never before,"
     publishedDateTime: 2021-03-03T00:19:00Z

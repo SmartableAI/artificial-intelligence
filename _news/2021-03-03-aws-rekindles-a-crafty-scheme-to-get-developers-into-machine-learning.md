@@ -34,10 +34,10 @@ images:
 related:
   - title: "AWS rekindles a crafty scheme to get developers into machine learning"
     excerpt: "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model."
-    publishedDateTime: 2021-03-02T14:55:00Z
-    webUrl: "https://www.techradar.com/in/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+    publishedDateTime: 2021-03-02T11:47:00Z
+    webUrl: "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+    ampWebUrl: "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning"
     type: article
     provider:
       name: TechRadar

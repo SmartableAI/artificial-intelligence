@@ -101,20 +101,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Cisco Webex To ‘Level The Playing Field’ With Real-Time Translation In 100+ Languages"
-    excerpt: "The popular Cisco Webex is including real-time language translation in more than 100 languages, Cisco's Security and Applications leader Jeetu Patel said."
-    publishedDateTime: 2021-03-01T21:00:00Z
-    webUrl: "https://www.crn.com/news/networking/cisco-webex-to-level-the-playing-field-with-real-time-translation-in-100-languages"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 17
-    images:
-      - url: "https://www.crn.com/resources/0267-11b22c7454bb-5785152192e9-1000/realtimetranslations_jg.jpg"
-        width: 1500
-        height: 845
-        isCached: true
 
 secured: "WzGs5LA6988KIwNXQueqvCMzBHpspiHa+L86ySC34axOnhx4mVYYeitQk5MOlfjSb2VyM9g/m+gFIX33aH9Nw7vyq6qjjE/AcUGHCBasENy3oZGMaA4a/XmG0EMxU/1rSaNJNxKRZMiVOj2v2mDGbfangFwMO+nZfDmC0fVNLddo4/TNrIl2n8fWoWZK0VuwwUjib0ddU+AfK0apQYmyWwqC3Nxz1lReFbsMWKduHQt7hQajmkGQh/xj49vZgZqYfHdRPZVainul3T0t4XKXBZwa+N/gnqEhfRM2dIyfj3v5G/aIcqhl2NVWdsWP5aVIPKfE9Os2KtNYcg9tcczHppILrPHjjMx4IPThVAFgqCz2DITuRtbaMFU29wErUdhq+Nluy1DWxf6tmqJhXLisSFq+bcpcQMZ2oPrrQdal5a60jtk0Emq+ETV0+GlwECSlDerzR/bdvC+8CjvqcTZEHjr7hL3fnqKjC1ZFoBMKQZ/ylgD1S1rdvBsbIeYgty17Ft9B1XGWhdYGZrfcTPm6Fg==;peex4do1VvDIH1vr2xgTSg=="
 ---

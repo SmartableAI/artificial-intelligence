@@ -24,22 +24,6 @@ images:
     height: 1433
     isCached: true
 
-related:
-  - title: "Researchers present Geomic, a machine learning method based on the geometry of genomic data for Huntington’s disease"
-    excerpt: "A rare hereditary disease, Huntington’s disease affects about 6,000 people in France. It results in neurological degeneration leading to significant motor, cognitive and psychiatric disorders, loss of autonomy and death."
-    publishedDateTime: 2021-03-01T20:11:00Z
-    webUrl: "https://www.actuia.com/english/researchers-present-geomic-a-machine-learning-method-based-on-the-geometry-of-genomic-data-for-huntingtons-disease/"
-    type: article
-    provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 16
-    images:
-      - url: "https://www.actuia.com/wp-content/uploads/2021/03/Geomic-Maladie-Huntington-Inserm-Sorbonne-CNRS-MIT.jpg"
-        width: 800
-        height: 400
-        isCached: true
-
 secured: "etO+jT9knL5ZIpNxrJs6aU+TT4/HuM1W8I1wVsexWDxUWWjQafdeqYKhcTyK9oNlgYuccFyIqnXU7qXj6hurUduN+szdCRubUGCPeXQIfl/WrI12qObiGEmrmB4/uSW+CDODtEiWAbnPXdStOzgYb9MIa+4TpDaMf3bDqENYiHfNRfoMinaskMgSEvmYOMXyZnTtnKZhtq+zEkJ4NPFEjGXSBMZJU+kgS4pxHrxRTL8L/5q8QkjYDL0pOpVyxAYB1QXHOYX0ctAYF0fo+1xQprzQpXG3Qh+9VqX1ay6er5uv70cDaeb0LyebqBwaB60uyHLexNvRztaNdmpRnrjGVvKJhjGFbh16XmLE9Z0+qPE68HzeafPxctoXHToOdv/DiKgpVnX1ytHabtvnnaVAIaNg5iItaor1ytGPLiSP3eQQ3VHhP+frWmSOwfSm11mzO3dLpKxy8+vTX2MurveiklPymL5lfevk2iq0hSw/mXAZPwMowaesn6QG0eOSMaNBvYcihHpyjZ2vkIb4J/fmig==;i7uqm2byCzPgevNbU+kfJA=="
 ---
 

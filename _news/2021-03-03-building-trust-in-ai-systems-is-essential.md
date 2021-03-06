@@ -58,20 +58,6 @@ related:
         width: 909
         height: 679
         isCached: true
-  - title: "Continental invests in AI company"
-    excerpt: "\"Figuratively speaking, the new, highly specialized processors serve as an ultra-economical data booster: with minimal energy consumption, they enable vehicle computers to gain a rapid sense of the vehicle's immediate surroundings,"
-    publishedDateTime: 2021-03-01T19:59:00Z
-    webUrl: "https://www.rubbernews.com/automotive/continental-invests-ai-company"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 39
-    images:
-      - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Conti%20AI_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "dMIF0jAqtSXxWVZiqLDTifILE8Js1cOcI+UWwKDEYebaLSuqhkjQWjHl1T+LQ6nDA+NaAMIM5Chm/wFnB9wZMpKTZWOV1NMFv3+u2i2azpwZ8Ez+ueMs3PoFSq1sDQJjltMo6D5XaQ5AtBgAHqc5uKpO7QkcFWk8gJsYC6fQBhJ/+dZxhW6mlWQBQKJ36gu3mhRhuAgjkAlQnZHEtVwMUaa3I2xrYcu+w8e7kwGtU8WV9CrH9HqzE73lrsc/GO5Z6OEGKKgNbHOpHIG7zc/lgOIKPrMhc+2n9qrpvofp0+8RsM4yILjAe6SPlMgc/O033qsnMv1EO5+COxXevoB/xF3bsGAXso7P4GNLpId7rw+8aiWbx1Qzu87g2oQsVrcKqGPC7JKFgmGYqtuBXvpVwlHbeO8HdPI87fIXMoJNczYa8/ELaob6q7el4P11l4yb9PS1ctD0USZotbzXmSl4DBeQvjWUHTQyA3a3XO2hiXFMhevGlfKxKt/o48W1yOBZv1YyUaTbMlnoH1G6l0Fe9Q==;GLXzDCMWsTbBWrA789exBg=="
 ---
