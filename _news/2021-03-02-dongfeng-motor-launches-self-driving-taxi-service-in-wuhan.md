@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "VW tests self-driving taxis in Germany ahead of 2025 launch"
+    excerpt: "Volkswagen will start field tests of self-driving vehicles for ride-sharing and pooling uses using technology developed by Argo AI, its autonomous driving joint venture launched with Ford Motor. The field tests will take place in Germany this year using a highly automated version of VW's full-electric ID Buzz minivan as part of a plan to launch self-driving vehicles for ride-sharing and pooling uses in 2025."
+    publishedDateTime: 2021-03-03T02:19:00Z
+    webUrl: "https://europe.autonews.com/automakers/vw-tests-self-driving-taxis-germany-ahead-2025-launch"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/VW%20ID%20Buzz%20autonomous%20web%281%29.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Video: DeepRoute.ai begins self-driving robotaxi service in Wuhan"
     excerpt: "Autonomous vehicle vendor DeepRoute.ai has started offering robotaxi service in Wuhan, China. The project will be led by Dongfeng Motor and 42 self-driving vehicles have already been deployed with 26 of them powered by DeepRoute."
     publishedDateTime: 2021-03-05T13:50:00Z

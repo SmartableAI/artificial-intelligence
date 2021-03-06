@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T06:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
 type: article
 quality: 54
 heat: -1
@@ -489,15 +489,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
-    excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power of Microsoft Azure to transform last-mile delivery of health services in India."
-    publishedDateTime: 2021-03-01T16:05:00Z
-    webUrl: "https://uniindia.com/~/apollo-24-7-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/States/news/2332241.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 47
   - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
     excerpt: "Microsoft Azure Percept houses camera module and smart mic, forming the foundation for intelligent devices built by partners."
     publishedDateTime: 2021-03-03T12:52:00Z
@@ -580,6 +571,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "KWK41sFvgjMlh1xjPZDBRv1A5CCkZiCoJcoKpz9Cvdq8pmW3Rer0aG5n6IVrbgXP5CPs8HGBkXY6VfK6jxVoBx2Kj7M1kBX4G5PC1k+KVCxufCRbj6mjFxgIZ4dc6EQN1nyQmfeMnfvuwQlM3H0cEwYyn1FAMPYlRFyqJSpvMpx/fBhID2Ijwnm62s4NaoxkF+nN4h9QpdQKvUkQ+M7gbKYZSU5KvCOEk3m6NjWqTY45ZRxtu4roZ7YRT44h9qzw6MOaey0ri6xgh0Fyl0v7NpHTrOGHdXCFfi0EnJnKADwwMLMDYtOL+/z+rPrtlKXjVLMdgV0CdMmuZ/BnEkFJzeH7vUrv+w6hIrs2CKPRUvs=;UzCsism+Nsv7yYs51aSMHQ=="
+secured: "Ufz0bQUofBY9lLVJSd9acpFegvQoio0VCG43IgGLZXp8X9ClWYAwzQbvSZe3zH6FwTd2N/MZEKR3jVsO/ENRBeNxW6X1BS6IUT180PNCJ8/gwHtO1Ja5gna9zTM/fY+vy3x4UbTBPlweRVyUzDVp5TvTLJPyMmp6r/Auwo3uw3H32fNu8YX21EjkDIPIj6VHq9Cca1DpJynmbKkU1xwh9AyFQzrD/7Wimmge5LRt6IDK1Fu+Gh6nR8GGib6dR2Ce17NO2rrO3dZV1XWgQQhbQnmZtxJyV9VTSsTRGs/3DwXnhJm01sjrw0AYIkMP0WDj3/E0FXFrNmyocQnLUtBzOF6n13NDf/jmEiSivlAsv/s=;uhCrXtCdgnDA7xf9w+gxkg=="
 ---
 

@@ -37,15 +37,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Artificial Intelligence Technology Solutions Announces Accelerated Order Activity - New Orders From Fortune Ranked Clients"
-    excerpt: "education and healthcare. To learn more, visit www.aitx.ai and www.roboticassistancedevices.com, or follow Steve Reinharz on Twitter @SteveReinharz. SHARE THIS POST Artificial Intelligence ..."
-    publishedDateTime: 2021-03-01T15:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-announces-accelerated-order-activity-new-orders-from-fortune-ranked-clients-1030135591"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
   - title: "Artificial Intelligence Technology Solutions Announces Executive Team Expansion"
     excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Secretary of AITX. Reinharz is the founder and President of AITX’s subsidiaries and the majority and controlling owner of AITX."
     publishedDateTime: 2021-03-03T05:38:00Z

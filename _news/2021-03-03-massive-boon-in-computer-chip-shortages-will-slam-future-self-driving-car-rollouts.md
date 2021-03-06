@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/02/massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Vision Chip Drives Rise of Self-Driving Cars"
+    excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
+    publishedDateTime: 2021-03-05T23:47:00Z
+    webUrl: "https://www.thestreet.com/tech/news/ambajdm030521"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"
+        width: 620
+        height: 326
+        isCached: true
   - title: "Study finds most drivers too fearful to ride in self-driving cars, value safety improvements instead"
     excerpt: "A report from AAA found that only 22% of drivers want manufacturers to develop self-driving vehicles. A whopping 80% of drivers instead want vehicle manufacturers to focus their efforts on improving current vehicle safety systems such as automatic braking and lane keeping assistance."
     publishedDateTime: 2021-03-03T00:09:00Z

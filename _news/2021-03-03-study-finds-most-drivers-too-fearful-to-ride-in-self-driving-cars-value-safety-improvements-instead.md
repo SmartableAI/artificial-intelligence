@@ -41,6 +41,22 @@ related:
         width: 1072
         height: 603
         isCached: true
+  - title: "Vision Chip Drives Rise of Self-Driving Cars"
+    excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
+    publishedDateTime: 2021-03-05T23:47:00Z
+    webUrl: "https://www.thestreet.com/tech/news/ambajdm030521"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"
+        width: 620
+        height: 326
+        isCached: true
 
 secured: "f6ZgcdPbbcMIhDPIjNc4dwa7xhUPN9XwjBeA2OFQpzE1SiQupoGJySe2tizouo+rwKNU1UWoNgDRwggrQc7KwSxcGNC93RsQlwTA+2C2XfHp/0kLGse8ieG2/coXm6uecyIbBUDL5W8zMW0E5U1JJxem1iARN+5RG2AnbF9Hri27n80WD8XY0Nmb6f7J2r2/oGoIjbAcsJ3nylHWWS5qXmJdaKyh28zgC8UHX8YASEnxDDG2T4UbevsmoN6oqandmCi4y9ihp1ubijQQt9ZRHn8pUvIG62je8R75iZcFv63nIePgkEbxVHDYeNivajZYz4U8mBN2DqR7QAM7B/adSdiM5o4XRTXJn2uuGRJxX6A=;klPdBXPHD4XaohuvEsWZqg=="
 ---

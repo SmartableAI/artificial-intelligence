@@ -25,19 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "Top 10 Computer Vision Startups Shaping the Future of Healthcare"
-    excerpt: "Computer vision in healthcare is growing rapidly and is now a part of everyday life. As it helps diagnose complex diseases like cancer, here are the top 10 computer vision startups revolutionizing healthcare."
-    publishedDateTime: 2021-03-04T00:00:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-computer-vision-startups-shaping-the-future-of-healthcare/"
+  - title: "Why AI is the Future of the Food Industry"
+    excerpt: "Knowledge and attitudes around global food production are undergoing a transformation. The sheer scale of the food industry and rapid shifts in culture make it difficult to assess this transformation succinctly."
+    publishedDateTime: 2021-03-05T19:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 56
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "The complexity of artificial intelligence"
+    excerpt: "SMU Assistant Professor Sun Qianru says highly diverse training data is critical to ensure the machine sees a wide range of examples and counterexamples that cancel out spurious patterns."
+    publishedDateTime: 2021-03-05T16:14:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/smu-tco030521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Computer-Vision.jpg"
-        width: 900
-        height: 500
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258266_web.jpg"
+        width: 1440
+        height: 1050
         isCached: true
 
 secured: "C0o2B7tvYdPUVSaI8t542Dv6qP7ANZwWuj7Vd+9a0fnfjrL6s7mOlbToIgoQm+wrUzqFb5UG+oviMN16uCXfMAza+TFdkc+xz5kkqxNhAim5CyMDdXE/5D6uOWD1WP0sNLWx3+ZuVkV9298QfVPqFd4xn2qfDQnvBXLe00meb0PTrNndD69IGdOelFedwuKalJdsCeB+Dk9WhESaE/zV72RcCg2w3iJkBqB5U67d2O7vZ+UTWdsfKpQxtVOPqm94vSY7xMSiezxzDtXDipU/vrAQYPTDKTV0X8ep0RVmFqPu6YamjEDKvQSR2l4LIJJRQKbZYNDN5Oynr4tdOIeXfToXcD7z2Xl2ugbqstNkLbw=;MGS2XfvrU4p2BTK26hTfsA=="

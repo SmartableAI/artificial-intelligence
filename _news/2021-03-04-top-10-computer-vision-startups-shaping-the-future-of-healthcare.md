@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/top-10-computer-vision-startups-s
 webUrl: "https://www.analyticsinsight.net/top-10-computer-vision-startups-shaping-the-future-of-healthcare/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Moving Towards Brighter Future in Healthcare Industry"
-    excerpt: "The artificial intelligence in healthcare market is expected to witness substantial growth post-pandemic. The global healthcare infrastructure has observed that, in order to develop and maintain sustainable healthcare setup,"
-    publishedDateTime: 2021-03-04T08:20:00Z
-    webUrl: "https://www.pharmiweb.com/article/artificial-intelligence-moving-towards-brighter-future-in-healthcare-industry-1"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 51
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "BX2eWfSw6AnjDFFh/6fVR0rSJkSdBpK0uPydZsUsUp/8XhntpIIAhC7Srl3dLu31HmHRLFhrg08GdvKt6aEkz1/xvReeqq31ypAl/ys9dXqR0X48TMUl6GkzS1fb2Ud7Rx7sRhJQxuuDF5DkNYWY3ICk5Yu/Kg2TT840CgLoBNeArkgeYN6ch0C+qWY9QTyt02NIV+hL9FhJBcMxE6zGkx/jvKlqvqr2Q/1Yr8R89nC1B4gm/04IZDSZZYjff9nJ+uvOBikjSAZRRSHp763iWzj/uMH12D3Zsziunzdt7quwMQ1XUgpPrLPFXkvDOpPQOisCa2SEg+myOuRK7SILFVfJqMM499twFyIyi9FDyjCxTx7Z/qKmMfPzoAt76SxnOSfecLKxm+WByXF7x1Ef4rXUBGivzPbAzwkvv0XM9u+nDLl4/xN34p6X6WwyuzmW4tFPlT3/62JnShDv8qh/A1BeBEGB1Nml4gsY+7Pyg1l00uVf/wtSi4iexO2/N9fpm1lUkrwkdXc21Rhp2OhRvQ==;6BiEqcq4sJPXkRjgDgB3Yw=="
 ---

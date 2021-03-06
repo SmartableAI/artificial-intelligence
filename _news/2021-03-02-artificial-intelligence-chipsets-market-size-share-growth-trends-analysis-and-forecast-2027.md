@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Vehicles Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
-    excerpt: "Mar 01, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Autonomous vehicle also known"
-    publishedDateTime: 2021-03-01T15:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicles-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Pharmaceutical Robots Market Size Worth $297.4 Million By 2028: Grand View Research, Inc."
     excerpt: "The global pharmaceutical robots market size is expected to reach USD 297.4 million by 2028, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 9.3% from 2021 to 2028."
     publishedDateTime: 2021-03-04T09:16:00Z

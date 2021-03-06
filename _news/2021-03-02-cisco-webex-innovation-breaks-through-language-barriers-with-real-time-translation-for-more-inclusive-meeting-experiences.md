@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
-excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10 x better than in person interactions Webex innovation paving the way for real-time translation beyond English."
+excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
 publishedDateTime: 2021-03-02T13:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation"
-webUrl: "https://www.nasdaq.com/press-release/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation"
+originalUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
+webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
 type: article
-quality: 9
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
+    width: 480
+    height: 360
+    isCached: true
 
 related:
   - title: "Cisco Webex aims to help you break through the language barrier"
@@ -110,6 +116,6 @@ related:
         height: 845
         isCached: true
 
-secured: "Q7OIzbk0l9msDH/f2pDUOt0gEwQ9eojnvTQIb7ueuPaY5iYOnsm0XQ+QVqcbYq9u734vxlh+raUS//mICa2a+mnz7NYHx7d/nm4bfnw4/yBq2K+uBSc1/nGQQCX7S1vB2HFFhR4DTmwLqwnLDpTHBCE2vGWNRitLtFWw0jW75I97IzHbN7/FJtVJgnLLHWxQnYD0vgYsQ381C3WMdSp8kQ/hAlwbin0PTW8HPjtNtTnLq3gvk51EbZjK1ZLnVoSguXVcx5njLv0i8QrqZb+us5da4nMecj8bBth/zJZRM/L4IyhEPEZ1pAUPDkmwKOoIJg+J5VKO0ijvPj1ep35bGF6EL034E4KNLfvtaQvjIl4=;VcCt2FlhMRCYf+7sLQWKKw=="
+secured: "R5FvnATuk0nYvnzy4DtPSfnrwoytHaaT8FTFbfw9eT+LN1NmleBYZUup9WTXJcsinO76V+K2oPuymHAOrVowAGHYHK3jLv/7FwryyMqMcU+EA7OUdOjlI52bJzfS3x9Pt0vP8yWroK9/5Vv0X1w28MepaUAVFgt8hahwV+jEn79PtVDRnP5DKzWf/sqz7T0pJdI1fFfya+OksHS5l3oDebGp9SYBYy8zX561OjKTa30P+rY/A5ghW3SOj6AG/WtfAOgXCeCgKxT05mAn3Y9GQwDwE+EetAVhWsid79sZgBXDuJKkJcnF3FphOFzpE/6HElg45nKJFdUnkAZQXRvg4QiB24d558c7HtQKeSEEpis=;R7Lr2R5kbJfnaq6qiEEGqA=="
 ---
 

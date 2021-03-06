@@ -56,20 +56,6 @@ related:
         width: 630
         height: 344
         isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
-    excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
-    publishedDateTime: 2021-03-01T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-2020-strong-development-rising-comprehensive-industry-outlook-offers-future-business-growth-2027-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "4lhUmE0zkf64lwMrGoDaDXkDNCPGa61a8agsPlM7P9UXnvuxFo6a8J53jLQ20RAJEuyc0x2NJYUoxrp/gj6mU81x0Np7gOBzvX+A24nF1XvIpL9DCx2RN+h57Wlf8QvAElPXvmhV15ZcrgX22n8dznQ9In63nYcj5QQ3mUxfIaLrIBoBwgYvcywLvBglWsQoAzVwWS49MV/bq4bRA+c2WBLvfIF54iC82yvYpI3XcOicsbrDYW4bBNcfQdnJUfcxXHbNDmo667QBLIjZtZiMpf6U9TFedVtsntcD3N0CO/o8xbvxczxezqzyI8xc5towDIg2q+0TXO9/2QQOv15RWS6H+DGtqyZ01MBJhrZ3OFo=;xsByii9EuYr+LWFpyvkB7Q=="
 ---
