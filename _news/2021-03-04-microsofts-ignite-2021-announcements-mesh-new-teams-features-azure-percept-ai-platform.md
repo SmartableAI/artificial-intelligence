@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Microsoft launches Azure Percept, its new hardware and software platform to bring AI to the edge"
-excerpt: "Microsoft today announced Azure Percept, its new hardware and software platform for bringing more of its Azure AI services to the edge. Percept combines Microsoft’s Azure cloud tools for managing devices and creating AI models with hardware from Microsoft’s device partners."
-publishedDateTime: 2021-03-02T14:02:00Z
-originalUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
-webUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
-ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
-cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+title: "Microsoft's IGNITE 2021 Announcements: Mesh, New Teams Features, Azure Percept AI Platform"
+excerpt: "Software giant Microsoft Corporation (NASDAQ: MSFT) is holding its IGNITE 2021, a gathering of developers and IT professionals, between March 2 and 4. The annual event is"
+publishedDateTime: 2021-03-03T20:33:00Z
+originalUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/19985915/microsofts-ignite-2021-announcements-mesh-new-teams-features-azure-percept-ai-platf"
+webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/19985915/microsofts-ignite-2021-announcements-mesh-new-teams-features-azure-percept-ai-platf"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19985915"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19985915"
 type: article
-quality: 106
+quality: 79
 heat: -1
 published: false
 
 provider:
-  name: TechCrunch
-  domain: techcrunch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://techcrunch.com/wp-content/uploads/2021/02/azure_percept.jpg?w=1024"
-    width: 1024
-    height: 576
+  - url: "https://www.benzinga.com/files/images/story/2012/microsoft-mesh-1-v3-2-1536x864.jpg"
+    width: 1536
+    height: 864
     isCached: true
 
 related:
@@ -117,6 +113,22 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/03/01/601c9a30-49f7-40ba-941d-afd15e0ae59a/azurepercept.jpg"
         width: 1040
         height: 809
+        isCached: true
+  - title: "Microsoft launches Azure Percept, its new hardware and software platform to bring AI to the edge"
+    excerpt: "Microsoft today announced Azure Percept, its new hardware and software platform for bringing more of its Azure AI services to the edge. Percept combines Microsoft’s Azure cloud tools for managing devices and creating AI models with hardware from Microsoft’s device partners."
+    publishedDateTime: 2021-03-02T14:02:00Z
+    webUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/"
+    ampWebUrl: "https://techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/02/microsoft-launches-azure-percept-its-new-hardware-and-software-platform-to-bring-ai-to-the-edge/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/02/azure_percept.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Microsoft Azure Percept promises to make edge computing a doddle"
     excerpt: "The hope is that this new platform will help create a Microsoft-powered ecosystem of edge devices designed for low-power implementations, in essence replicating its success with t"
@@ -304,22 +316,6 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg"
         width: 1200
         height: 651
-        isCached: true
-  - title: "Microsoft's IGNITE 2021 Announcements: Mesh, New Teams Features, Azure Percept AI Platform"
-    excerpt: "Software giant Microsoft Corporation (NASDAQ: MSFT) is holding its IGNITE 2021, a gathering of developers and IT professionals, between March 2 and 4. The annual event is"
-    publishedDateTime: 2021-03-03T20:33:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/19985915/microsofts-ignite-2021-announcements-mesh-new-teams-features-azure-percept-ai-platf"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19985915"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19985915"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 79
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/microsoft-mesh-1-v3-2-1536x864.jpg"
-        width: 1536
-        height: 864
         isCached: true
   - title: "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning"
     excerpt: "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence."
@@ -591,6 +587,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "B6KTCmawXLUmhaNviFCx0AtlKDDVPopm41NhcRuW0/5Gya7FHYBh+C1KfKb4D7LgoXK/YHVtbJ+9juMbSOU8bd2Z9+oKnK8MBgeq7F58LTXQYlOlwDXuPjY0G8RVqLJ/dhIbZ2sALWIRsaqplmKKrt480zzrikuv0J8opJHM7X6hr4ED46+11uB3TCGUtKCbKWd2n649DUcMTbXHG592wrBheUBHhtcgilTZzXRZQNZzKP9eiu8BA0mn9Dq/ZjpxPXYWb51c4VjRlLaOcRyt90Ddu5IgIpzrg2+yJ7d8WS2IsTtJZUk2h5B8XwzfFQp+J9hY2jRe/A7odo94o8VOoxQ6Qyy+fy8vUSAnw5eYoT0Afhs1LRUXyFOdgcFz/sJMuzHTnmaqNutkVcMwev03qg8CHofR+hcC4d0HqK73Efhc/FDOfZl75ZLJJJjw9nMmPeuXVTontf/OTHdaTsauGdhO4EX6sFc1GjrYicWOit2diSWO2vReDCv0tc957Gh3hEFW473608Rh233yQP23gw==;z4+/xyeQpU5EoqX/av4hGQ=="
+secured: "HnFGDQ+F3GS9iN4oR9FnGDbQmgnPlJP+dEk4q9G76KTrjpoC8B9Bdbqg+fs5b4I3FGqeoJ2ygyM/H+d2xbKzyRoMW/fUkixCRuccdUj1s9DFLEGHlLK9OMsaGzaeyKIoED+Hwt4ApBmgMTOnJUTGwitXQk1PMx4a5bFa4sfPpmB7qWaoOVVGwqqRLFKIc3zVthf79i57Qbc5Ewwq4EuejWXyvczIRwfDo/Z+O5MJNz2IPBRUbsTPUOsb5hFV/emT2OowoDEIiFTRIOZQPSLJ9VgskStLOCq6oVJVHzpuhlVbxi3vg/9w81+1MsOKQK+OS8jLB4vR9kTZv0+xUFbv+TVHR3keTViipyqGeukRdCY=;41Rl1alV4h2l4nfsuUBycw=="
 ---
 

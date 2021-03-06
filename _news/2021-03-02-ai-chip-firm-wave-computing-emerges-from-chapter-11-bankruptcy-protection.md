@@ -1,22 +1,17 @@
 ---
 category: news
-title: "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection"
-excerpt: "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS."
-publishedDateTime: 2021-03-02T04:03:00Z
-originalUrl: "https://www.reuters.com/article/us-wavecomputing-mips/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-idUSKCN2AT3T7?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-wavecomputing-mips/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-idUSKCN2AT3T7?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AT3T7"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AT3T7"
+title: "AI Chip Firm Wave Computing Emerges From Chapter 11 Bankruptcy Protection"
+excerpt: "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS. The company traces its origins back to MIPS Computer Systems Inc,"
+publishedDateTime: 2021-03-01T23:27:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection"
+webUrl: "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection"
 type: article
-quality: 83
-heat: 83
-published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,6 +19,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "EF94BMTIkQcM9U+2VVptG3ULhxL4dcD6FmCdCxOljUR0QK3efTEj8ea9+eV0fkoYh6mSZmzeF4TEh0Mpx+78Sgr3i3EMzgyjvtUAoNm3VDYpgAoCuPRlZEpLhEwntUpN0ckFRZ3NvNdKDl0NGDG7lA+qMjnrZefSDADMRA8C8IsRqwTGrsBOL+B1H5GK7M0VyBdps2ldyvwwPAzRnNmWpeZgYwSydV8ymkrEkFGjOHcMs9+lBX5dk3jl7mRyPqxGq50jrHpT9VqWWR6SihK4IEJmFEAQostl1x4GMcSDrnpTVzMHua3EnHHH9PNS5552vWGobsq0ixL+0rc5I+na9eAsI0ayLBuxsmSesNhS0ro=;ankj4033Gr0L8AE9nxLUMQ=="
+secured: "PN3AQdAPXVlLDYmzP9SueD1LikIAy/+wh4nvK1wRlDdK3kq1Sw1Po7ShV5rM0jq57Z3/XecUtoZ2YGtKkytNEJfYlIh9zmSBQ6UHEJPzQygd5ey4oFgDn8M7Q1mzgRlnY9VQRzcIbeL9B4gyZiDzPAN/0lPcuLaEACj3tHKkdcZ27HIpBfEj5yrHClkM4yul6s9KSf9XsHEoPJGQJIUmSrXFSjCQgPzXKJuWZLxInu4jx7qjxArBiB6sFBRjU+JE1Nuty7xjkQqxXQbwHsAASlYit7oKiJBc3QVO+SX1MfUS/TPZZ12jA+g831i7AUMzDFW7xZ0RW8asEf+DGtFTvmYfI5771ipHpryRtsahsV4=;rkECl3LMrn6SpLWb7K1wnQ=="
 ---
 

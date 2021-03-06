@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T06:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
 type: article
 quality: 54
 heat: -1
@@ -315,6 +315,22 @@ related:
         width: 1200
         height: 651
         isCached: true
+  - title: "Microsoft's IGNITE 2021 Announcements: Mesh, New Teams Features, Azure Percept AI Platform"
+    excerpt: "Software giant Microsoft Corporation (NASDAQ: MSFT) is holding its IGNITE 2021, a gathering of developers and IT professionals, between March 2 and 4. The annual event is"
+    publishedDateTime: 2021-03-03T20:33:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/19985915/microsofts-ignite-2021-announcements-mesh-new-teams-features-azure-percept-ai-platf"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19985915"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19985915"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 79
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/microsoft-mesh-1-v3-2-1536x864.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning"
     excerpt: "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence."
     publishedDateTime: 2021-03-02T15:48:00Z
@@ -571,6 +587,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "aZmhwQqL0vfutR3JBZgWWth0iQ6uj/WI907Kuhwnk6BsweuEjUKG7qfCHjEYpNJ7Ozk+61QSNjTPxUsAWQjljlAMk647xgQpIaFzC/ZeHeDA6PbD8VJLWX3094+liyVaGAAhbyrO80/GR7bssgj0BUDpTzZSKO0uVaVODd/Wbh3caQr8+We6m8k9FbxXNBH0ZmPWEFxx+WxflPwZJb2EbU0AeSJ72I1NUY/wWUiwSYsHoYkhvt6ZjmZ97p+o89Q+yOY7NSlNP7g2MkTXriS0XT/mvtMB/ybyo+P/QUMpkqyGJUZt6O7/RUUvWf98Afpl/tsdFpOq8kglOq48HWFUwlsZP3+HPQAeNDf9f7uVPv8=;/hzpWBTUQf3y/SaomAV47w=="
+secured: "DJDD6CPySzXwcTISOre2jpVbbrimSN03tBh4uR0qsvIs//1DITAKL1k5KPm8d9NAKWbVNRU6xv69bB51kIwAV5uwXeo70pcEVjoFhriSwg09WoLVPs4yMdYKsZakVg0exSoZ3gi7pySaZITFZVvSl2oIdP14ji08EYAhkaskour7RF09I0SLaC7YAAJe+9G7+3DicKcW8Fr4HJ/dPpj3xERS6WNhzDTjqnuHzryt1P7MYiEjw+0Qvvn+CjOYo4kG6X5Zc81XJV8eYFkUraSnWudaE7u+wCm2n+NMy1VhIgGKym8Zaac7BaNBHlk3W002cbYRAPKuRICtG0HCrsc9oJ09Ie6bRy98VCkq2nenKgs=;mVb2RLgcMXbri7fX+9SEDA=="
 ---
 

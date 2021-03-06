@@ -306,6 +306,22 @@ related:
         width: 1200
         height: 651
         isCached: true
+  - title: "Microsoft's IGNITE 2021 Announcements: Mesh, New Teams Features, Azure Percept AI Platform"
+    excerpt: "Software giant Microsoft Corporation (NASDAQ: MSFT) is holding its IGNITE 2021, a gathering of developers and IT professionals, between March 2 and 4. The annual event is"
+    publishedDateTime: 2021-03-03T20:33:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/19985915/microsofts-ignite-2021-announcements-mesh-new-teams-features-azure-percept-ai-platf"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/19985915"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19985915"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 79
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/microsoft-mesh-1-v3-2-1536x864.jpg"
+        width: 1536
+        height: 864
+        isCached: true
   - title: "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning"
     excerpt: "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence."
     publishedDateTime: 2021-03-02T15:48:00Z
@@ -469,7 +485,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T06:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
     type: article
     provider:
       name: CRN
