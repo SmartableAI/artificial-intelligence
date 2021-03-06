@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MyHeritage 'Deep Nostalgia' program animates old photos of ancestors"
+    excerpt: "Users are invited to supply old photos of their loved ones, and the program uses deep learning to apply predetermined movements to their facial features."
+    publishedDateTime: 2021-03-06T03:32:00Z
+    webUrl: "https://abc7chicago.com/myheritage-artificial-intelligence-animate-photos-ancestors/10391618/"
+    ampWebUrl: "https://abc7chicago.com/amp/myheritage-artificial-intelligence-animate-photos-ancestors/10391618/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/myheritage-artificial-intelligence-animate-photos-ancestors/10391618/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 44
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/10391628_hypatia-h_67fef11a42b88f3159efbbe7b71200f2-h_4a79be1da3ba73a514a99a7dffa8bacb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "'Deep Nostalgia' Tool from MyHeritage Brings Motion to Old Family Photos: 'A Wow Moment'"
     excerpt: "Gilad Japhet, the founder and CEO of MyHeritage, said the new feature \"provides a profound new way of connecting to our family history\""
     publishedDateTime: 2021-03-04T17:34:00Z

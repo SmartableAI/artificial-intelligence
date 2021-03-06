@@ -647,7 +647,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1222,7 +1222,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {

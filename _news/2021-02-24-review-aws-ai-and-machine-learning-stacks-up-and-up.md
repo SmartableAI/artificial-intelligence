@@ -21,6 +21,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/01/artificial_intelligence_ai_blockchain_digital_learning_chip-100745932-large.jpg"

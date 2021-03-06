@@ -70,6 +70,20 @@ related:
         width: 648
         height: 426
         isCached: true
+  - title: "GSI introduces unprecedented AI-powered EA trading system for Forex"
+    excerpt: "Due to the Covid-19 pandemic, people worldwide have been using the forex market to make up for lost income, causing a 50% spike in daily participants and 300% daily trading volume in"
+    publishedDateTime: 2021-03-06T04:31:00Z
+    webUrl: "https://www.wboc.com/story/43451803/gsi-introduces-unprecedented-ai-powered-ea-trading-system-for-forex"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 39
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Hyundai’s Dynamic Voice Recognition System"
     excerpt: "Learn about Hyundai’s journey to develop their Dynamic Voice Recognition system for select models of the all-new 2021 Elantra and Elantra Hybrid in North America. Powered by Houndify, the Dynamic Voice Recognition system makes the driving experience safer,"
     publishedDateTime: 2021-03-01T18:17:00Z

@@ -32,20 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "Amazon Unveils A New Computer Vision Service To Spot Product Defects At Manufacturing Stage"
-    excerpt: "The service uses Machine Learning to study images as a person would, at a higher degree of accuracy and much larger scale."
-    publishedDateTime: 2021-03-01T11:31:00Z
-    webUrl: "https://analyticsindiamag.com/amazon-unveils-a-new-computer-vision-service-to-spot-product-defects-at-manufacturing-stage/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 29
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/pasted-image-0.png"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "lP96ZDs+KCpEnZqzH/E5d0y2hkf6FDXoz0baNABUm0wx093nCpb5ntPCVWU0am+gU13uokSSVX2YEA9HbxD0T/keEVoQ8BNCm/hwupFHEYPB3780QIDRDpRmeOfnUvMnhB8JyrsqVJwds3dwKmuW+ciBFzGwwycIirXgU1oxbSzgy8NhaCoeEwydDmQBUu4aruAbqYcMq0EImVdLOf6frfuKJRcBxUBqh31yudPDnEL9WYmaBMBMAPgHlUanIH6dBlhP/SFKsAiQ2RVCeXA0m6fOzOPHVE/159/Mc/cIhsDfxPQktpyLcXnazcQD/B+AtzABWDC0GzXFjsG4nP1aaqsMz8ZWWb1rFn5O9sd46RU=;cRifzbbwXwFQCzCZO83l+Q=="
 ---

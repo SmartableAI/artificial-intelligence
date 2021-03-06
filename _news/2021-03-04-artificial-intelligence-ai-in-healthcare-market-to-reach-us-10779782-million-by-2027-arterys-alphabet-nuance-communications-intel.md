@@ -1,94 +1,31 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel"
-excerpt: "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,"
-publishedDateTime: 2021-03-04T03:24:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03"
+excerpt: "Lucrative Regions for Artificial Intelligence in Healthcare Market” Artificial intelligence in healthcare market was valued at US$ 3,991.23 million in 2019 and"
+publishedDateTime: 2021-03-03T23:50:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998824/artificial-intelligence-ai-in-healthcare-market-to-reach-us-107-797-82-million-by-2027-arterys-al"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998824/artificial-intelligence-ai-in-healthcare-market-to-reach-us-107-797-82-million-by-2027-arterys-al"
+ampWebUrl: "https://amp.benzinga.com/amp/content/19998824"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19998824"
 type: article
-quality: 67
-heat: -1
+quality: 55
+heat: 55
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Robotics
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.abnewswire.com/uploads/1614763451.png"
+    width: 600
+    height: 297
     isCached: true
 
-related:
-  - title: "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026."
-    excerpt: "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,"
-    publishedDateTime: 2021-03-03T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%"
-    excerpt: "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno"
-    publishedDateTime: 2021-03-03T23:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab19998482/artificial-intelligence-in-healthcare-market-worth-45-2-billion-by-2026-at-a-cagr-of-44-9"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19998482"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19998482"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 65
-    images:
-      - url: "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market9.jpg"
-        width: 630
-        height: 344
-        isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
-    excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
-    publishedDateTime: 2021-03-01T15:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-2020-strong-development-rising-comprehensive-industry-outlook-offers-future-business-growth-2027-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Share, Size, Growth, Industry Analysis, Trends and Forecast 2026"
-    excerpt: "The global artificial intelligence market reached US$ 40.21 Billion in 2020. Artificial intelligence (AI) is a vast branch of computer science that involves using a computer to perform certain human-like tasks."
-    publishedDateTime: 2021-03-04T05:12:00Z
-    webUrl: "https://menafn.com/1101696205/Artificial-Intelligence-AI-Market-Report-2021-Share-Size-Growth-Industry-Analysis-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
-
-secured: "MITIaNf2wxyESKhTNqczTj+rmrPDeLKU08Ur36blpL48H/CuSOMe8nsJjLt2Wp9DPD692EEX4Xij4flnSmkEnK5c7lY8IZvF5OO+QuTYgUlBPDjUzQVRxejwHiQ+bJ82WK0h63tTKjLXH1Dc6VrjLKJj5FzOwRXtrkWktTQQjw1EFs1GCBuiVsARvApYmJj/U97lnV2DmgWh9HpcV8Bz6Gs9uR9GD4DNCqaYBQVg6C9RSV/Uq7qtd0VSiXCJT4DaMIMIdaB7umqye7mO41xuOewvDLUSr4yUnX7+QeO+WYxr3KtB4qMtVv81TXpr7DDQjOvoi3vF+wcSB8iFw5ORVQAFo7bHnsdb760Ysq/LvbY=;tGsoZ/thIFBfiGyRmS1bHw=="
+secured: "ysPv4PCOC9xgyRAg9Hn2bGgTf7UB4gNJGSE4EbL36MUVICf6F1cOrXpeCslaatLwz+CgUs9/T4nlifiDfkeOcMfZzNGywJ4xfwHd2ZhXcemTIy77Q8zfR3a+hN+spPjmyzbdHktaHWb2i9pezSzaLRi89ve9VN9rpL8BjiSbDVUWjxEW4nv85fo4+zbg38tFr/LtIHdIifw+5iR5F1ZOS67dkhtdrmGoA8kBxs4G/uq7D5qS8OCV2TVpcufOzfQPlhOBMwKDlUL3CzoL+9bJG75X+sxRg3Fh6aqhUQ+23c1rNSAq9NauHztXbRZOAgRk+DZhCa+kf0JezxcH5mZaxwA9VL2L2S0HvHpMWmHpFWM=;DzOSiO3jDfwmqeSmXD5B1A=="
 ---
 

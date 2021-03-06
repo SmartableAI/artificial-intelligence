@@ -261,7 +261,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1216,21 +1216,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-new-research-indicates-the-whole-universe-could-be-a-giant-neural-network.md",
-      "title": "New research indicates the whole universe could be a giant neural network",
-      "excerpt": "The core idea is deceptively simple: every observable phenomenon in the entire universe can be modeled by a neural network. And that means, by extension, the universe itself may be a neural network. Vitaly Vanchurin,",
+      "path": "_news/2021-03-03-fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.md",
+      "title": "Fuji Invests in Motus Ventures’ Fund Focused on Robotics and AI",
+      "excerpt": "FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation, has joined Motus Ventures' Motus SWIF fund as a limited partner investor",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/02/new-research-indicates-the-whole-universe-could-be-a-giant-neural-network/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/02/new-research-indicates-the-whole-universe-could-be-a-giant-neural-network/",
+      "webUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
+      "originalUrl": "https://www.finsmes.com/2021/03/fuji-invests-in-motus-ventures-fund-focused-on-robotics-and-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/06/universe-796x398.jpg",
-          "width": 796,
-          "height": 398,
+          "url": "https://www.finsmes.com/wp-content/uploads/2021/03/motus-ventures.png",
+          "width": 1920,
+          "height": 832,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1238,23 +1238,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/02/new-research-indicates-the-whole-universe-could-be-a-giant-neural-network/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/02/new-research-indicates-the-whole-universe-could-be-a-giant-neural-network/amp/",
-      "publishedDateTime": "2021-03-02T11:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T11:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "finsmes.com",
+        "domain": "finsmes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1263,7 +1254,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Robotics",
         "AI"
       ]
     }

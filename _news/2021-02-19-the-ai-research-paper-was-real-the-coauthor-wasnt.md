@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg"

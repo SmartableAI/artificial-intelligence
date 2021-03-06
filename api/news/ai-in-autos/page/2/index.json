@@ -227,20 +227,20 @@
     },
     {
       "path": "_news/2021-02-20-apple-in-talks-to-buy-self-driving-sensors-key-step-in-car-plan.md",
-      "title": "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan",
-      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence algorithms ... Alphabet Inc.’s Waymo unit and General Motors ...",
+      "title": "Apple in talks to buy self-driving sensors, key step in car plan",
+      "excerpt": "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
-      "originalUrl": "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors",
+      "webUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
+      "originalUrl": "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true",
+          "url": "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 676,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -248,13 +248,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T11:40:00-08:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/4510493001",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001",
+      "publishedDateTime": "2021-02-19T11:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BloombergQuint",
-        "domain": "bloombergquint.com",
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -727,6 +727,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-learning-how-to-drive-in-an-ai-simulator-is-becoming-more-common-in-china.md",
+      "title": "Learning how to drive in an AI simulator is becoming more common in China",
+      "excerpt": "For some students at Chinese driving schools ... to the China Highway and Transportation Society – to embrace artificial intelligence recently. “Driver training used to be a very traditional ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "originalUrl": "https://www.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/17/8c2c400c-6c5b-11eb-8f06-a7293cc48ccd_image_hires_105834.JPG?itok=ereSU4Nd&v=1613530723",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3118827/learning-how-drive-ai-simulator-becoming-more-common-china",
+      "publishedDateTime": "2021-02-17T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1383,49 +1435,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-insights-on-the-automotive-artificial-intelligence-global-market-to-2026-key-forecasts-opportunities-researchandmarketscom.md",
-      "title": "Insights on the Automotive Artificial Intelligence Global Market to 2026 - Key Forecasts & Opportunities - ResearchAndMarkets.com",
-      "excerpt": "The “Global Automotive Artificial Intelligence Market By Component (Hardware, Software, Service), By Technology, By Process, By Application, By Vehicle Type, By Demand Category, By Company, By Region, Forecast & Opportunities, 2026” report has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-driverless-cars-products-and-services-2f510f78a6da440f959f8d1b09576ec6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

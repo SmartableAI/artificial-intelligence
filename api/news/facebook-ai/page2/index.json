@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
+      "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
+      "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "originalUrl": "https://www.zdnet.com/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2021/02/15/28709f80-89eb-4c9d-8680-a943ce1b8691/isscc-2021-virtual-lounge.png",
+          "width": 2330,
+          "height": 1045,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g/",
+      "publishedDateTime": "2021-02-15T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-this-is-how-we-lost-control-of-our-faces.md",
+      "title": "This is how we lost control of our faces",
+      "excerpt": "Then, in 2014, Facebook used its user photos ... Amba Kak, the global policy director at AI Now, who did not participate in the research, says the paper offers a stark picture of how the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/",
+      "originalUrl": "https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/02/GettyImages-672156981-crop.jpeg?w=3000",
+          "width": 3000,
+          "height": 1810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/amp/",
+      "publishedDateTime": "2021-02-14T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-a-new-company-pursues-total-recallstarting-with-zoom.md",
+      "title": "A New Company Pursues Total Recall—Starting With Zoom",
+      "excerpt": "Research shows ... luminaries from Facebook, Google, and Y Combinator, approve of Siroker’s gradual approach to total recall. “When people talk about merging with AI or computers, they always ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
+      "originalUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/6025d44412d470b83c1a4fc4/master/pass/business_plaintext_memory.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/plaintext-new-company-total-recall-zoom/amp",
+      "publishedDateTime": "2021-02-12T18:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-using-container-images-to-run-pytorch-models-in-aws-lambda.md",
       "title": "Using container images to run PyTorch models in AWS Lambda",
       "excerpt": "PyTorch is an open-source machine learning (ML) library widely used to develop neural networks and ML models. Those models are usually trained on multiple GPU instances to speed up training, resulting in expensive training time and model sizes up to a few gigabytes. After they’re trained, these models",
@@ -1319,166 +1468,6 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-artificial-intelligence-researchers-rank-the-top-ai-labs-worldwide.md",
-      "title": "Artificial intelligence researchers rank the top A.I. labs worldwide",
-      "excerpt": "Artificial intelligence researchers don’t like it when you ask them to name the top AI labs in the world, possibly because it’s so hard to answer. There are some obvious contenders. U.S. Big Tech — Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "originalUrl": "https://www.cnbc.com/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/01/21/deepmind-openai-fair-ai-researchers-rank-the-top-ai-labs-worldwide.html",
-      "publishedDateTime": "2021-01-21T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-how-this-company-leveraged-ai-to-become-the-netflix-of-finland.md",
-      "title": "How this company leveraged AI to become the Netflix of Finland",
-      "excerpt": "Finnish public broadcaster Yle made impressive inroads in online streaming with its Areena service, which is more popular than Netflix.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2021/01/21/how-this-company-leveraged-ai-to-become-the-netflix-of-finland/",
-      "originalUrl": "https://thenextweb.com/artificial-intelligence/2021/01/21/how-this-company-leveraged-ai-to-become-the-netflix-of-finland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/01/Screenshot-2021-01-21-at-15.29.36-796x469.png",
-          "width": 796,
-          "height": 469,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-21T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-this-chinese-lab-is-aiming-for-big-ai-breakthroughs.md",
-      "title": "This Chinese Lab Is Aiming for Big AI Breakthroughs",
-      "excerpt": "China produces as many artificial intelligence researchers as the US, but it lags in key fields like machine learning. The government hopes to make up ground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "originalUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60089079a9a24f451b08fc1e/master/pass/Business-BAAI-Building.jpg",
-          "width": 2400,
-          "height": 1352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/chinese-lab-aiming-big-ai-breakthroughs/amp",
-      "publishedDateTime": "2021-01-21T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI",
-        "AI Ethics",
         "Natural Language Processing"
       ]
     }

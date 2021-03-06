@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
 type: article
 quality: 93
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -166,20 +166,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "Of course Facebook is considering facial recognition for its smart glasses"
-    excerpt: "Facebook has been working on its smart glasses for some time now, but according to various sources from within the company, the smart glasses project is in its late stages, and it might be available to the public as early as 2021."
-    publishedDateTime: 2021-03-01T12:24:00Z
-    webUrl: "https://knowtechie.com/of-course-facebook-is-considering-facial-recognition-for-its-smart-glasses/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 37
-    images:
-      - url: "https://mk0knowtechie1qof48y.kinstacdn.com/wp-content/uploads/2021/03/facebook-logo-on-smartphone-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Facebook’s self-supervised AI offers potential benefits—if it can overcome bias concerns"
     excerpt: "Facebook revealed a self-supervised artificial intelligence model it claims can accurately learn to categorize Instagram images with less human assistance than before. Here’s how it works: Researchers at Facebook fed the AI,"
     publishedDateTime: 2021-03-05T23:43:00Z
