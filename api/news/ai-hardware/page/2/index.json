@@ -408,10 +408,10 @@
     {
       "path": "_news/2021-02-16-sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost.md",
       "title": "Sunlight Announces NVIDIA GPU Support, Giving Edge AI a Boost",
-      "excerpt": "Sunlight, a developer of virtualization technology for data-intensive applications, today announced NVIDIA GPU support for Sunlight NexVisor, its lightweight hypervisor providing near bare-metal performance with a compact footprint.",
+      "excerpt": "GPU-accelerated workloads such as artificial intelligence (AI) running in edge environments. Modern GPUs require massive amounts of throughput to feed the data pipeline. However, legacy ...",
       "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
-      "originalUrl": "https://www.financialbuzz.com/sunlight-announces-nvidia-gpu-support-giving-edge-ai-a-boost/",
+      "webUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
+      "originalUrl": "https://www.businesswire.com/news/home/20210216005196/en/Sunlight-Announces-NVIDIA-GPU-Support-Giving-Edge-AI-a-Boost",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -421,11 +421,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T17:00:00-08:00",
+      "publishedDateTime": "2021-02-16T02:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

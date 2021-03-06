@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-c
 ampWebUrl: "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/"
 type: article
-quality: 118
-heat: 118
+quality: 120
+heat: 120
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/03/atari.png?w=1200&strip=all"

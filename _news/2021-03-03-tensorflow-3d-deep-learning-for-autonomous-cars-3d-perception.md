@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/"
 webUrl: "https://www.infoq.com/news/2021/03/tensorflow-3d-autonomous-cars/"
 type: article
 quality: 73
-heat: 74
+heat: 73
 published: true
 
 provider:

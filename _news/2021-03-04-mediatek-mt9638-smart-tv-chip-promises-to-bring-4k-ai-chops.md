@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/ai_chip.jpg"
         width: 598
         height: 448
+        isCached: true
+  - title: "MediaTek Unveils New 4K Smart TV Chip with Integrated AI Processing Unit"
+    excerpt: "MediaTek recently announced its new 4K smart TV chip, the MT9638, with an integrated high-performance AI processing unit"
+    publishedDateTime: 2021-03-06T00:26:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/19183-mediatek-unveils-new-4k-smart-tv-chip-with-integrated-ai-processing-unit"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 53
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/b9ce7f5f2a6b6d39e0e2af59adeeab7e.jpg?t=20210306_001916"
+        width: 752
+        height: 408
         isCached: true
   - title: "MediaTek’s new 4K TV chip will power the next generation of smart televisions"
     excerpt: "Perhaps better known for producing smartphone processors such as the Dimensity 1200, MediaTek also supplies chips for devices ranging from smart speakers,"

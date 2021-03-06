@@ -3,12 +3,9 @@ category: news
 title: "What do AI equity funds actually invest in? Let’s take a closer look"
 excerpt: "The term has become ubiquitous in recent years, but where is the smart money in Artificial Intelligence funds putting its money?"
 publishedDateTime: 2021-02-26T11:11:00Z
-originalUrl: "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=4"
-webUrl: "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=4"
+originalUrl: "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=22"
+webUrl: "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=22"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Citywire
@@ -24,6 +21,6 @@ images:
     height: 520
     isCached: true
 
-secured: "Z7ZRXzZPd6uhvm92zubmNnNpim19daeXftuZRFhAEQrK8pc0LpvJRYDgwgp38z41S8jxOeo6nehOUSCVxP1mTwDLSse5nbHNS0LXIyMl+hXanraS+Saf1oLvgjKIysOw5msfsJpnKvBxx48zHnJp4MxNbNnd/Hr8QMjviPVCNTD8vbS2iimHQq3kBJplOVmu+C7P8FwJInrJmkShcX+SZAh461p2krS3Fi/9oG1RCz0n3f0wjtMjg2pTMNFtpgq302oADNSIQZoYnCGXTk6Ko2/vC739R7Li4nM6FvIz8IlItSrFIctIM4VyXWUwYi3nM7JKj+vR+7YV/YF1ZDZLykP1fiYLXjcASIPAWc3mbUg=;30yHgcphC8n873Wpm/hYfg=="
+secured: "ZiIzPmU8tTYc+xuK/K00HslbMBfFGymXnJhZ+CqcbFCQvlZ89Q9dVdoh/FeQeV0skonDKkXe2HlQUFvpnn0MOPH350/NagFhBVKZtpINmMPMwpCDAinFKg2jFtOG6ZCktdL6v0ZAbIt6N6WWgxTT7jBMawGE7flM0usUY4qylD0ABwBkBmYynpburLq/wvbzZU3uE6l2R3frFL1T5B/g0ojeBtyOJZqkHCOkiG0jSsNxAvq1X2nSGB5htxgkIrOycqTKnpPXv7tELRXI5TbzM7qWri45oc6bHx0oL9kNUM5VsUzBdy/3SX13hrG9J9thL4PE4B9kymo1AnagitTBy0TV1HffIpxW7gIhjuXRvdY=;d3WkV1zOltnYc6+SmNoAIA=="
 ---
 

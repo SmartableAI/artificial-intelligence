@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facia
 ampWebUrl: "https://venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/study-warns-deepfakes-can-fool-facial-recognition/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Computer Vision
   - AI
   - AWS AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/10/grobman-Elon_Musk_Tesla_DeepFake.jpg?w=1200&strip=all"

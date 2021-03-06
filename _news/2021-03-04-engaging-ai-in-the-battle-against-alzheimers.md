@@ -57,6 +57,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
+    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
+    publishedDateTime: 2021-03-05T20:19:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "AI and Alzheimer's Disease"
     excerpt: "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now, a team at Harvard Medical School and Massachusetts General Hospital has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease."
     publishedDateTime: 2021-03-04T22:50:00Z
@@ -71,15 +80,20 @@ related:
         width: 2000
         height: 1160
         isCached: true
-  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
-    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
-    publishedDateTime: 2021-03-05T20:19:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+  - title: "AI-based method used to screen for Alzheimer’s disease drugs"
+    excerpt: "Researchers have used artificial intelligence to screen 80 FDA-approved drugs and reveal which could be used as Alzheimer's treatments."
+    publishedDateTime: 2021-03-05T22:16:00Z
+    webUrl: "https://www.drugtargetreview.com/news/84915/ai-based-method-used-to-screen-for-alzheimers-disease-drugs/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
+      name: drugtargetreview.com
+      domain: drugtargetreview.com
     quality: 39
+    images:
+      - url: "https://www.drugtargetreview.com/wp-content/uploads/Alzheimers-4.jpg"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
     publishedDateTime: 2021-03-04T19:32:00Z

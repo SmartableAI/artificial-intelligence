@@ -175,6 +175,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Facebook’s self-supervised AI offers potential benefits—if it can overcome bias concerns"
+    excerpt: "Facebook revealed a self-supervised artificial intelligence model it claims can accurately learn to categorize Instagram images with less human assistance than before. Here’s how it works: Researchers at Facebook fed the AI,"
+    publishedDateTime: 2021-03-05T23:43:00Z
+    webUrl: "https://www.emarketer.com/content/facebook-s-self-supervised-ai-offers-potential-benefits-if-overcome-bias-concerns"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 30
+    images:
+      - url: "https://contentstorage-nax2.emarketer.com/8202c040d3d2a0ccf318ee4e160ba658/257111"
+        width: 470
+        height: 273
+        isCached: true
   - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
     excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
     publishedDateTime: 2021-03-03T05:31:00Z

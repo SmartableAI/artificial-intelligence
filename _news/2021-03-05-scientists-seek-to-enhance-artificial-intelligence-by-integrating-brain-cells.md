@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20210305/Scientists-seek-to-en
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210305/Scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.aspx"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "5 steps to creating a responsible AI Center of Excellence"
-    excerpt: "Here's how to establish an AI center of excellence in your organization. Any larger company should have one in place.Read MoreRead more on"
-    publishedDateTime: 2021-03-01T07:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/5-steps-to-creating-a-responsible-ai-center-of-excellence-9861883"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/5-steps-to-creating-a-responsible-ai-center-of-excellence-9861883"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-steps-to-creating-a-responsible-ai-center-of-excellence-9861883"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
 
 secured: "hysx2taXw0geBcxGIvKA++FbkxFI6ug5lQW8nuNPT7DVBlARE0CSWXpKjK4RALlLI4ezAKBLmCnaeyjLgOl6k0+JPEOiPey5RehEcDUAxosbG1OJviGtUfttKN+7coA0qGJP619p+2x243vLIIjTjbuNndez/4ytsUKa4HAFdXvK8V7Lpoofbi5Jfvh+fmEh9TA9dt0sEsVCnKIQ1tzQteCjQG2XK1ZhodHPRIxSftrsF90ewZd1mN9dnweIrx7NkH0DZ8r9DRx1D1LYHEJ6l+CLho0osvq1Iej+DIjmYCHMIofyVZuR6swgiLGybutyojlBwoCuovXMWVV9T06Izujzw3kDpccDd+wO0SEJcSI=;368dqA+hzkSY8vdVaNi8xQ=="
 ---

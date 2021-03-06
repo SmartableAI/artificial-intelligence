@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Driverless electric bus hits the road in Spanish city of Málaga"
-excerpt: "Self-driving vehicle can interact with traffic lights and is the first project of its kind in Europe"
-publishedDateTime: 2021-02-25T17:34:00Z
-originalUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
-webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
+excerpt: "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ..."
+publishedDateTime: 2021-02-25T18:34:00Z
+originalUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ"
+webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ"
 ampWebUrl: "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "lEwDbf0GlgHXiZd6uqTd5fLLQHhWGAt4oHHhcHGLGMPtDYf7FLEOtbMc+3798ZgJw+w/o3UJc8/zPUNDxMTnGkQ5I+mj1p3WXlK1bN5ojY3w7kQU92rSWmNwJtmY2rGzLv25pR9hZIf1vrvL3Rl/Jj40XUjVmBuLvxpYPo6r9dCCK4avKKuXiM6ac/cV/+UeP2D4qpJ8UnPS9hfNAEM6/8jz2zykEuRwVw41nW4giQg/h8AHmtVEN094Es8aF0XZ53CGDsIkOXOqKm2RA9p0M7wQnkxDot+ENMExvm0iZGJZsRWhDlQ4Z9TU06dZRP/xIamNDBcqfzXkFAF+7thkU2MZUPBKbIICLdFUcMieRi+VaXP+nD9rEEOqVKc7OCOwyU5JlhvzNy0rSzUlTq0rUxL+r+qlb4x5kClY23cvp95eKJzzL2HyoQcZcWlfwv8fqw4qU2pztND+iADKMbcsegroT8BT1E0RFYWmOo/LhkfTjFyEANGlj43mmo4lq2lwKl0nZp0Q/NYrR8EkjTp5Yw==;op+fwoxLtU0gJ8KMZp+d9w=="
+secured: "bcKtUe4m2yTXT9/4jILI9J/rC7yKt4VlBWxAGckNdj2GsYqnxbIat0VQaREO4wtjMOhVh86aWEJ7r/oiDMGNYBDVKITW04D4+ekeWHTLxL0d/CPOf3vcbTurvoBJl69NkA7urCyS3GbLXUFmBlZCv8oF35O980ziyHYFLcVPAaAIHWWBqJOpeX86DkVoas7IkzFgm0T7K60EDyWDsZw/0agyr+yQxnCn76NVkB50km7xMQIl/KA6btS5FOw+zrXcnvmDHXxXuaCLjluglArUecRZLjlaYxzpZ6HTa5sRhatOivvrKgeYY/cAMr81ywtJpoXjPemUlA/Xb8wefFYoVv85Kw4Ro9Q4Iu4P8XyvodI=;0aDR+k4NqdtbP2ItYGhMZA=="
 ---
 

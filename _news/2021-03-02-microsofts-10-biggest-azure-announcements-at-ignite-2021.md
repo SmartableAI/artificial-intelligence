@@ -329,6 +329,20 @@ related:
         width: 1242
         height: 641
         isCached: true
+  - title: "Microsoft Ignite 2021: Azure Percept pushes AI to the edge"
+    excerpt: "Microsoft may have given up on smart speakers for the consumer, but the company hasn’t given up on letting others build intelligent devices based on its own technologies and hardware. On Tuesday Microsoft launched Azure Percept,"
+    publishedDateTime: 2021-03-02T08:45:00Z
+    webUrl: "https://www.techcentral.ie/microsoft-ignite-2021-azure-percept-pushes-ai-to-the-edge/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 69
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2021/03/Percept_Dev_Kit.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Microsoft Releases Azure Attestation into General Availability"
     excerpt: "Sindhuri Dittakavi, program manager, Cloud & AI Security at Microsoft, explains in a Microsoft Security and Compliance blog post how Attestion works: An attestation provider is a service endpoint of Azure Attestation that provides REST contract."
     publishedDateTime: 2021-03-02T12:15:00Z
@@ -370,20 +384,6 @@ related:
       - url: "https://www.techcentral.ie/wp-content/uploads/2021/03/Percept_Dev_Kit.jpg"
         width: 620
         height: 350
-        isCached: true
-  - title: "Apollo 24|7 uses Microsoft Azure to bring healthcare services closer to Indians"
-    excerpt: "Apollo Hospitals today announced its increased reach with a nationwide rollout of its omni-channel healthcare platform, Apollo 24|7, which leverages the power o"
-    publishedDateTime: 2021-03-01T08:24:00Z
-    webUrl: "https://www.cxotoday.com/press-release/apollo-247-uses-microsoft-azure-to-bring-healthcare-services-closer-to-indians/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 67
-    images:
-      - url: "https://www.cxotoday.com/ashojoac/2018/09/azure-logo.jpeg"
-        width: 768
-        height: 432
         isCached: true
   - title: "Microsoft’s new Garage app can transcribe and translate in-person meetings in real-time"
     excerpt: "The Group Transcribe app can transcribe and translate languages spoken in over 80 regions, but it is meant for in-person meetings only."
@@ -564,6 +564,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "U1yXkHAK4WmHnF5BMWOYBti8g02yDTYXnB9rzA1jNbzv0uMbF4931EJlMhCY3geGqfEcjj3+H1dQHjn+4ckMiGH0t+nbd6070TfuGYt1fmILWZaNcJ3KyACXXJ+0UxXK7ijoSWxj6S5EygrohEFKZvxgobr10ooQ8iDvwh4YRf+8366TKhM8SmXm1I1hA6IsS+WqCB4mntlrATfItTuudH+xYrh6aJvPv9bbOdtW+21R2k60JJzu9/M8v5g7cNJi2q3w11vS/JvKT94qnJADQ99nCyVSES8sQ8Rs7VFU/IxQywDaD92KO25abVMx2bzKdbkvbRRaolXrNdIYsLdkiK1QOyYJ1tvSjQymQ6XHWEhk2DTndWBJ/q/QAXwpLSY3fUbs2jLO1Ei84vratneAsVm1UmXfPoc1MpcqlczsQa3HLcbWyVZkYV0Wq3W/0QbtLSWcDsHAuunGGF5I8UShGPJeHoB8tHyPMNY7TlOMNTVUnUzhmJNFiHnFtpt4QtlYDntqueyLrGguoqWYlKNq1g==;yV9gtXQEryigfffIsfnu8w=="
+secured: "YeprYC3Gu0IB9kCebiHQRjaZrDEsUNXVKcMYtxElYKFV5FSceDrHHpGP6yuA/4Nr13yOuZJ1LBhCOXnhgj0gNyYJNPSeHo8o7+sfLXz/wY/74bgLk6c1J0urm4AEAN/0LkDURbrICCstNPFoCN0t0X0aATUbbryrwrQHSpgfJhyPTS6KFjPvXLlEoT6jGXAhSXFy92R4BJ+K+021ILAERf9KT2mNPeheUOTOEJx7lvmq+TdlFyRiFLKU+4G/BQ31W7eCsRiAGyfiEz6PbuZT4JtFzgs6NlvYKexSusXjZZzRkw/ivWCMyGZQ+ewroRz4IlqIoL4lDAoECipLhpL7LwYuWx+5epS//6EPI2m3KfY=;+d3bAcEILoqgwiSR3InVng=="
 ---
 

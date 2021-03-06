@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-05T16:14:00Z
 originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/smu-tco030521.php"
 webUrl: "https://www.eurekalert.org/pub_releases/2021-03/smu-tco030521.php"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/258266_web.jpg"
@@ -41,6 +42,6 @@ related:
         height: 795
         isCached: true
 
-secured: "vMAwp4FOdi61yz7nsriXH4d31hKAX07iL8/vmH9oWPUp5akW7e9xVxddOGIfRvPZvwOsa1+fLRQRbS/rCpUtSF9Em8DJXF+B8ZGLc5ILQeorZKgL9wcCAUPfJ+tYL6xP973/lqzm/IeYBZLPhp3n2iCgxgUftY9F+Q5KxlK++Ra3PS/ecbiA2bmCuUDZTCD8Ul1TbK1llvzahYNV2YeM6bpa+dYsGcwN2gzQDolOQ0JSr7uNIcLFfYiVwuQUrWj7JmuhlNUZ4kMvXwvMHpTGhyNLunLzGStlRJee0tSHaewBsqDVAnHYtnUHKuezDj3eOQc2qPOCdN5V0eBUhP8synvgmzdwC6expEWDacwHR4E=;rW2OsGKByl3A7qI3n3upqg=="
+secured: "ng0h+3XPaKswURjxM4uZxnl/l5z6WQHiDOw2iP4pr756PgXgNBwdkmDdppVO4+jYXQsk/JthwpAsJATsz1SF4DBu0QDorvmjsUsAESG24JB7uYhF+ZrlIKkhaPuPOzi8n5ZJxtY7AIaFBWmWtgskGQj5eQnvchir8WdZVR1unJzM24dS8jUngW8J5a6sKGRplH668ofqBHndVic0ZV8+ofR3vX68ndIoJ2LaIk5YmvC66tcUVmfbWtI7eGd7FrxJDaUoEcmSB53o+TznX9oksowggkKHNjR7UIREynUYCvCX0FEjvYC4f/WLvE43Dud5Yffcgnx4l4teIqg0YD9bo+Ei1RBGzKJXYGqgrp+KFKMJy1F/shjnF76wmpDmeuK1rzwj2GKfvk+hu+4lMlJ2eCy83CMGX6HKyBsBHNeEkBugyEF6J/fkApUwX+GLArqPp1BVCrGo4ahdYdmJQZahVmf/vE2SDFEfgbEIbqVtbGfFbENCdfBdxNmCBOjsYD240H6T8UpnGdowvBsmtd8pCQ==;BE6z1l2AE6k8i9Fffc+XEA=="
 ---
 

@@ -57,6 +57,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
+    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
+    publishedDateTime: 2021-03-05T20:19:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "Engaging AI in the battle against Alzheimer’s"
     excerpt: "A team of researchers has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease. The method could represent a rapid and inexpensive way to repurpose existing therapies."
     publishedDateTime: 2021-03-04T12:23:00Z
@@ -85,15 +94,20 @@ related:
         width: 2000
         height: 1160
         isCached: true
-  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
-    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
-    publishedDateTime: 2021-03-05T20:19:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+  - title: "AI-based method used to screen for Alzheimer’s disease drugs"
+    excerpt: "Researchers have used artificial intelligence to screen 80 FDA-approved drugs and reveal which could be used as Alzheimer's treatments."
+    publishedDateTime: 2021-03-05T22:16:00Z
+    webUrl: "https://www.drugtargetreview.com/news/84915/ai-based-method-used-to-screen-for-alzheimers-disease-drugs/"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
+      name: drugtargetreview.com
+      domain: drugtargetreview.com
     quality: 39
+    images:
+      - url: "https://www.drugtargetreview.com/wp-content/uploads/Alzheimers-4.jpg"
+        width: 750
+        height: 450
+        isCached: true
 
 secured: "qgs6mXwu+miJncXX9wYm5WOU8ELqcgxWK33uKzEMK8xNDV+T1UlI7xeotbRPHLGgYiGwJjn5V9wXVTjzi2YMMyGzLKfBP91D1btrLRn7PFksxHtp7xcGP8c82hflz4tmgbFhUBjuJ5/lOsgifyKXtmadu0LIr7sTdf+BYVhos0ItfeqoUG3LEt/azxKYN1/8AdcWsQAHR/Gj8N1VZ2BrkYZs5CSpEqUI6d13FXaw7dbvLMwwvF9BYKqbPLWpAbL7uzEhZZKS4VuipQkh7503ktYyomA5eW04wVJ4KFMKaHYr42x0au5hbbaSn2K+c7GlOPZOITAWdkgP4+qov9FpdXZOdHAVz/mjqKREZ7H9F0+EqPEDs3svQLW/XK10DlBGOracJdA5C2QFo3Wak2uB+Krxo1rWO81UAeJw+HNoNfgjOhDAA7zLnPJSb9d8veCmE+vpsGUq9Q5+MDCn7Ugv6ePn5+6tS+vlD9hAxJjaUEJ0qI4pHmDfRZfqxGh7TbktuRYtr/FgqrBaffALhw8oLg==;5WkeIWO72XuvlNDJXKXp0Q=="
 ---
