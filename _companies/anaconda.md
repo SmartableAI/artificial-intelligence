@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "anacondainc"
   url: "https://twitter.com/anacondainc"
-  followers: 60725
+  followers: 60729
 
 size: 51-200 employees
 yearFounded: 2012
