@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
 type: article
 quality: 80
-heat: 150
+heat: 151
 published: true
 
 provider:

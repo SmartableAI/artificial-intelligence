@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/ai-panel-urges-us-to-boost-tec
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise/?amp=1"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -20,49 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "As China Rises, the US Builds Toward a Bigger Role in AI"
-    excerpt: "After decades of staying out of industrial policy, a Pentagon-appointed commission recommends more spending on research and support for US chip makers."
-    publishedDateTime: 2021-03-02T07:00:00Z
-    webUrl: "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/"
-    ampWebUrl: "https://www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/china-rises-us-builds-bigger-role-ai/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/603d9d652d6b6299017ee0dd/master/pass/business_ai_1288382287.jpg"
-        width: 2400
-        height: 1589
-        isCached: true
-  - title: "AI panel urges US to boost tech skills amid China's rise"
-    excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons – something that Google itself has shied away from on ethical grounds."
-    publishedDateTime: 2021-03-02T05:39:00Z
-    webUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-panel-urges-us-to-boost-tech-skills-amid-chinas-rise-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-  - title: "Panel on artificial intelligence urges US to boost tech skills amid China’s rise"
-    excerpt: "Former Google CEO Eric Schmidt and current executives from Google, Microsoft, Oracle and Amazon are among the 15 members of the National Security Commission on Artificial Intelligence, which released its final report to Congress on Monday."
-    publishedDateTime: 2021-03-02T06:01:00Z
-    webUrl: "https://chicago.suntimes.com/2021/3/1/22308081/panel-on-artificial-intelligence-urges-us-boost-tech-skills-amid-chinas-rise"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/1/22308081/panel-on-artificial-intelligence-urges-us-boost-tech-skills-amid-chinas-rise"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/1/22308081/panel-on-artificial-intelligence-urges-us-boost-tech-skills-amid-chinas-rise"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 54
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
   - title: "Artificial intelligence panel urges US to boost tech skills amid China's rise"
     excerpt: "An artificial intelligence commission led by former Google CEO Eric Schmidt is urging the U.S. to boost its AI skills to counter China, including by pursuing \"AI-enabled\" weapons — something that Google itself has shied away from on ethical grounds."
     publishedDateTime: 2021-03-02T13:03:00Z

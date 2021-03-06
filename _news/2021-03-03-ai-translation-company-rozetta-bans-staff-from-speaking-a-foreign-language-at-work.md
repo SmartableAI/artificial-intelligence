@@ -9,7 +9,7 @@ ampWebUrl: "https://soranews24.com/2021/03/04/ai-translation-company-rozetta-ban
 cdnAmpWebUrl: "https://soranews24-com.cdn.ampproject.org/c/s/soranews24.com/2021/03/04/ai-translation-company-rozetta-bans-staff-from-speaking-a-foreign-language-at-work/amp/"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "AI translation company Rozetta bars staff from speaking a foreign language at work"
+    excerpt: "AI technology has come a long way in the last decade, becoming useful in a wide variety of fields, including cooking, modeling, and even drawing manga. But we haven’t really seen it come to such impressive lengths that it can change the nature of human interaction–at least,"
+    publishedDateTime: 2021-03-06T21:20:00Z
+    webUrl: "https://japantoday.com/category/tech/ai-translation-company-rozetta-bars-staff-from-speaking-a-foreign-language-at-work"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 13
 
 secured: "/o8cVqH7cHzEQpUwL2Zq/ahAt2P3fu3mpCLidDPIQHg+MWcesuzaOmFDFAjyYOmXzwK1jdoVrROBOAdEgXg/TGnunQgmoVk8ChaBasI6cMVKDC4nbipam9gxAcA4nuYdFNclp/+q14HemgirNcfDxWKgZ/BUqo8YU+VI9Lq6NfryP3RU7NPFt2U40MUdtTGdpMbYA8+VS0+KuzrLTHEis/9b7Q6N36DYhuqERVhFn2Jzdyg5Ke3KXPeQoFNSRgW7pJ/j29CjissqHV8pYt5EmKTHnnPj4u9W3WLmkwUKHPU4HS8H1kA/7LD85KRBQza6JcRQTrLCj0XJybGZWSu4/IJGO5YmCWR2QrBac1/NaNtK939QgnZlY8E4vBbJjQ/hI9X+CrNd2iH5LitmsTDV1tCaVzQjyrgAzA4Xd7Zr3vdTO58wqIg0aPrMGSfBg1XyjaeFBrNPEtFzI91faGfysc9ZqOGA5am+mNYuLdbUTCdZHB7DM8+AF0Yt/nJd57PTi0gFnwnJfPO6oddhSWORcg==;Wn/O6eqD+Q5Rc46OTjI/1Q=="
 ---

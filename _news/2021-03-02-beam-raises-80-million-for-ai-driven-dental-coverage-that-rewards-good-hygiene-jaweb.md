@@ -42,22 +42,6 @@ related:
         width: 1155
         height: 820
         isCached: true
-  - title: "Quality Match raises $6 million to build better AI datasets – Jaweb"
-    excerpt: "Quality Match, a Heidelberg, Germany-based quality data annotation provider, today announced that it raised a €5 million ($6 million) seed round from LEA Partners. The company says it’ll use the proceeds to expand its team and accelerate product development."
-    publishedDateTime: 2021-03-02T05:37:00Z
-    webUrl: "https://elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 57
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/03/Quality-Match-raises-6-million-to-build-better-AI-datasets.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "jYRAorbTM9K7bNdXaoRfTWGeHSSlBpkwcXHNUC7cvg0JRY/LQGUMjYDf1DxuNRwrut/6+7UHY01VIF3/zrt44PIQWQM0/xa50AkrKOA1ylz9EanrvJo/YjBobLB8FO9lt3cZwP+YS41/gykr+DSWSv/jBdO96NxKvTKKbTZ/dkbpanQTtKoZvvO2XGHeP+Hd0aqj6QBMmwodIeLHVtrEwPB4tWPJCufOiEy1RcoTrjByt1IXImi5HxSO6EpTaZ7RHijRekVwLD+EeDLlR2CpJeIOOO7eCBk53AYcjNx9Izmky8BSMFBeJwGUWp4qFlt1ZaXavtz3nJt95i+KZ3RMona7c+BV6tTRBsAJhhbmGE0=;7xwP8M9Jh86jx11fc2Lc9g=="
 ---

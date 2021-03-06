@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/beam-raises-80-million-for-its-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/beam-raises-80-million-for-its-ai-driven-approach-to-dental-insurance/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Quality Match raises $6 million to build better AI datasets – Jaweb"
-    excerpt: "Quality Match, a Heidelberg, Germany-based quality data annotation provider, today announced that it raised a €5 million ($6 million) seed round from LEA Partners. The company says it’ll use the proceeds to expand its team and accelerate product development."
-    publishedDateTime: 2021-03-02T05:37:00Z
-    webUrl: "https://elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/quality-match-raises-6-million-to-build-better-ai-datasets-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 57
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2021/03/Quality-Match-raises-6-million-to-build-better-AI-datasets.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Beam raises $80 million for AI-driven dental coverage that rewards good hygiene – Jaweb"
     excerpt: "Beam Dental, a Columbus, Ohio-based dental benefits provider, today announced it has raised $80 million in an oversubscribed series E round led by Mercato Partners. Beam says the funds will be put toward expanding its offering to new markets,"
     publishedDateTime: 2021-03-02T11:26:00Z

@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 648
         isCached: true
-  - title: "Fears for children's privacy as Delhi schools install facial recognition"
-    excerpt: "Use of facial recognition is problematic with a low accuracy rate and few safeguards against data breaches or misuse"
-    publishedDateTime: 2021-03-02T06:58:00Z
-    webUrl: "https://news.trust.org/item/20210302065548-ew5ti"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 38
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/13c49f77-54a3-4605-bab7-06f801bc5387/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "Fears for children’s privacy as Delhi schools install facial recognition"
     excerpt: "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an “overreach” by Indian authorities and an invasion of children’s privacy, digital rights advocates said on Tuesday."
     publishedDateTime: 2021-03-03T02:05:00Z

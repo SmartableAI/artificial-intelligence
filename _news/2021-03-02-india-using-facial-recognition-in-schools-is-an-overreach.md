@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-us
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/asia/2021-03-02-india-using-facial-recognition-in-schools-is-an-overreach/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.aljazeera.com/wp-content/uploads/2021/03/2013-07-18T120000Z_46226478_GM1E97I0W8V01_RTRMADP_3_INDIA-CHILDREN-POISON.jpg?resize=1200%2C630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Fears for children's privacy as Delhi schools install facial recognition"
-    excerpt: "Use of facial recognition is problematic with a low accuracy rate and few safeguards against data breaches or misuse"
-    publishedDateTime: 2021-03-02T06:58:00Z
-    webUrl: "https://news.trust.org/item/20210302065548-ew5ti"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 38
-    images:
-      - url: "https://d8zcwdvc14g2e.cloudfront.net/contentAsset/image/13c49f77-54a3-4605-bab7-06f801bc5387/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
         isCached: true
   - title: "Fears for children’s privacy as Delhi schools install facial recognition"
     excerpt: "Facial recognition technologies installed in at least a dozen government-funded schools in Delhi are an “overreach” by Indian authorities and an invasion of children’s privacy, digital rights advocates said on Tuesday."
