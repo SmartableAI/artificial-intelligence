@@ -7,7 +7,7 @@ originalUrl: "https://www.microsoft.com/en-us/garage/blog/2021/03/new-garage-pro
 webUrl: "https://www.microsoft.com/en-us/garage/blog/2021/03/new-garage-project-group-transcribe-helps-you-transcribe-and-translate-while-advancing-inclusive-speech-ai/"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Group Transcribe provides real-time transcription and translation"
+    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones."
+    publishedDateTime: 2021-03-04T00:13:00Z
+    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 74
+    images:
+      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4af662c9-9e9c-523d-a589-77b6bd55c576"
+        width: 410
+        height: 230
+        isCached: true
   - title: "New Garage project Group Transcribe helps you transcribe and translate while advancing inclusive speech AI"
     excerpt: "There is healthy debate about the productivity of multi-tasking. Is it possible to take excellent notes while also being fully present in a meeting? Now, you don’t have to choose between focus and productivity with our latest experiment,"
     publishedDateTime: 2021-03-05T08:55:00Z
@@ -42,6 +58,20 @@ related:
       - url: "https://www.microsoft.com/en-us/garage/wp-content/uploads/sites/5/2021/02/Group-Transcribe-Blog-Image-_-Date-updated.png"
         width: 3144
         height: 1272
+        isCached: true
+  - title: "Microsoft’s new iPhone app ‘Group Transcribe,’ offers real-time transcription and translation"
+    excerpt: "Microsoft recently announced a new app, Group Transcribe, exclusively for iPhone users who converse in multiple languages and accessibility needs. Group"
+    publishedDateTime: 2021-03-04T16:38:00Z
+    webUrl: "https://www.ithinkdiff.com/microsofts-group-transcribe-ios-app/"
+    type: article
+    provider:
+      name: iThinkDifferent
+      domain: ithinkdiff.com
+    quality: 45
+    images:
+      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2021/03/Group-Transcribe-app-Microsoft.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "w7XGODjkRhlaug0g+e95hii7pDz0FDnApDWujFUprnnxyMGl5Ledqfsni4d507Ks1AIJCNpNUuYUTyJPJSipJiYxL8XqxEYqAsEPjtZpfTE6+Qg/rYIet8VhmCdc3ivLSm9KB0zfN5eCEVHG2Xurrvm/9Jlb8wipYKvJAKJ5WtN9Qo8jk5wuPVrw00ueKlx4Vjv8cPfxLSCkJpny/IGToHf7MGJ6pYvM/IQhO+q94ObcWYpdjBUnDdtXuGHnzd4VNmQJ1xBhb3B8Gg+ARTdjS+5anlJIARZteWb1VervuIky0cAOJ9oPpvUWZ4aguqcLyuBDphCq9tUNyl+NTh7D1FWe2GwoXyuUPYtjfvFUw5wAbeVkfY6cK1z+4LuiZLLr2s1rxosEcaPty9xckZSC2myU1hE6F8uT0dFAE4P15QxeL+QL3AOSHfQiXHuSoaoBlEWxGmLjbwmwIJL9AwvLPlWMDQ0eiyl+IzpsWXmcrnGM+OlLfUro9oQY8il4MDGNiZQU/IHO3PEgxpdLWjfKEQ==;pqdu/L+5J0Z+n2iLnBeTYg=="

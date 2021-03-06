@@ -55,20 +55,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Robust solutions identified to close the human talent gap in Cyber Security and Artificial Intelligence"
-    excerpt: "Partnership Excellence, a non-profit international think tank for multi-stakeholder partnership development, today announced the expert report resulting from their Council Summit"
-    publishedDateTime: 2021-03-01T13:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robust-solutions-identified-to-close-the-human-talent-gap-in-cyber-security-and-artificial-intelligence/article_588decf3-e996-5e85-a98b-107186a01b25.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "8Y6DaotMsg3/Jm7bXCcXOT1D3b/y0T10B1mgpyHTTa8osv6ko08WVEqVaZISg1h0RjZicYS7Zvv784de9rGhB1eYWw4xa+p4Hr4fpUW7NhH+xk7lSz9BW5V6rAPJda2QgHeVGSVVCVCrHbVwKj7lpkRgtB5T2v84eqVcpmmlzwpvueMzEarTyPIv25dYci2ucW/TUowZqhgmFb71UoARCJMnd/Zugms8syRRQD5OV8ssyfLyf4zCOso2vpANYCw05B9XRpteDVfAG3ADuRPzoDZJXijiQctFnZPU26fi7iO9Ymt5eamvRpFJrRhWaeS1TR87PtLHvwM+cdnY/VZ6mogPky8oyz8plcMOYKYKhnfImTNY/qZbV/hryWQOrjsxV+Hv9SUr6JWciO0QuEng03YXk3Grbn0ynWA80173BDG3t7bPeRvDdfWvN/0KjOi8EicG9cRoLVuPjL5onbUjv2HRi3Z8sFG1ZbHwGsYjZnUdv4lJILpjA2f0zFlbzUp8ayAye/+bF+BkwVeUG9MdLw==;Ck60fhCi/4O7OVfoMFhdLw=="
 ---

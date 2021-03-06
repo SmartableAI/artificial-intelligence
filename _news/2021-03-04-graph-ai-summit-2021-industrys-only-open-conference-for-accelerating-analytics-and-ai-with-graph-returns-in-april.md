@@ -38,15 +38,20 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Global Telecom Order Management Market Report 2021: Market is Driven by AI, Machine Learning, & Big Data Analytics Solutions - Forecast to 2026"
-    excerpt: "The Global Telecom Order Management Market is expected to grow at an impressive rate during the forecast period. The Global Telecom Order Management Market is driven by the adoption of emerging technologies such as AI,"
-    publishedDateTime: 2021-03-01T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-telecom-order-management-market-report-2021-market-is-driven-by-ai-machine-learning-big-data-analytics-solutions-forecast-to-2026-1030135216"
+  - title: "2021 Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com"
+    excerpt: "Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com DUBLIN-- (BUSINESS WIRE)--Mar 5, 2021-- The “Big Data Analytics and Artificial Intelligence are Driving the Global LIMS Market” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-03-05T07:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-pharmaceutical-manufacturing-health-care-industry-artificial-intelligence-7197e209045f476da9720c187175d4ce"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "krJHLoh4tPtXA0sd5hQJnNr3PRbtfjlWltpY+kWP001umw9Tj3TPgQ7VEPVKibZhszXnl/KWcz5dGmzVsUpnzegWZVieJKh3ET6s1WnG46lWbg7ajwkKE9EEJRMaD9tIZj1zrujFFgXzDTod93DpO+jhFzS14npd1CD3uTby8qp+abIRVhMTfRxcISHZ+jKCBEYZLRzGe3OjftUhB7/WHbkYCMUis5XUdi2Q5nW928flkcBd/730ylLRlR+efrbnc1QuLuEuTfZz35de2Wn28HMMZ5QzJIYLbFOuU4gJHsTw5pmvKU2JqeAD4hiT9/hf+9NUC0CIsHP3d4rdd354N3NjGfPUnwrecTqlqWV6reY=;nZkqMrrVuPUBHfmhhfk4ig=="
 ---

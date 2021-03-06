@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Telecom Order Management Market Report 2021: Market is Driven by AI, Machine Learning, & Big Data Analytics Solutions - Forecast to 2026"
-    excerpt: "The Global Telecom Order Management Market is expected to grow at an impressive rate during the forecast period. The Global Telecom Order Management Market is driven by the adoption of emerging technologies such as AI,"
-    publishedDateTime: 2021-03-01T14:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-telecom-order-management-market-report-2021-market-is-driven-by-ai-machine-learning-big-data-analytics-solutions-forecast-to-2026-1030135216"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 28
   - title: "Graph + AI Summit 2021, Industry's Only Open Conference For Accelerating Analytics and AI With Graph, Returns in April"
     excerpt: "REDWOOD CITY, Calif., March 03, 2021 (GLOBE NEWSWIRE) -- TigerGraph, provider of the leading graph analytics platform, today announced Graph + AI Summit 2021, the first and only open industry conference devoted to democratizing and accelerating analytics,"
     publishedDateTime: 2021-03-03T22:11:00Z
@@ -44,6 +35,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "2021 Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com"
+    excerpt: "Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com DUBLIN-- (BUSINESS WIRE)--Mar 5, 2021-- The “Big Data Analytics and Artificial Intelligence are Driving the Global LIMS Market” report has been added to ResearchAndMarkets."
+    publishedDateTime: 2021-03-05T07:59:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-pharmaceutical-manufacturing-health-care-industry-artificial-intelligence-7197e209045f476da9720c187175d4ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "0Lgzh1YCF6mCQG/YyP/tU7i9qGLF61lxFPQDBWEMzNR7L4gyxFxHB5GqStPszpL8FlG33FEDL63s7VcfpcmKXn1hD12FVAgiK2XlgCFH6lbxy1dZWcqtBgOzeu7zVnuMkVizMBEVBiPp8O0E8A8/ER5NEnrXOwe6Lso3QD9I4shGeGSWNDuqHELBOuiYgyiVwfNOkdzeKGw8+w+NvopHOFeblx8UoeC2LRgry9FqQa4PtzmhqW9YekX3yQBbAczyDBk72QXKqK+Z7dQV43pvEUwbWlO1T+WbrN/xhzI7i3zjOX3TypVVKtJfOl2iNN5n0JQdE7/yCv1toPfHR1dZXi2PNMmF/20RHTCPOUjkX/Q=;hdXiYkwVSezvYu8W0XZOGA=="
 ---

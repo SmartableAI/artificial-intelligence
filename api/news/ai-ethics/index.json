@@ -987,6 +987,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-20-google-fires-second-ai-ethics-leader-as-dispute-over-research-diversity-grows.md",
+      "title": "Google fires second AI ethics leader as dispute over research, diversity grows",
+      "excerpt": "Alphabet Inc's Google fired staff scientist Margaret Mitchell on Friday, they both said, a move that fanned company divisions on academic freedom and diversity that were on display since its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/news/business/google-fires-second-ai-ethics-leader-as-dispute-over-research--diversity-grows-14241808",
+      "originalUrl": "https://www.channelnewsasia.com/news/business/google-fires-second-ai-ethics-leader-as-dispute-over-research--diversity-grows-14241808",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14241806/16x9/991/557/210d071416f159aa8c2ab4f365aff4f4/Nr/file-photo--the-google-sign-is-shown-on-one-of--the-company-s-office-buildings-in-irvine--california-1.jpg",
+          "width": 991,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T19:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-google-has-fired-another-ai-ethics-leader.md",
       "title": "Google has fired another AI ethics leader",
       "excerpt": "In December, Google pushed out AI ethics researcher Timnit Gebru, sparking a response from the team calling for her to be reinstated at a higher level. Instead of doing that, Google announced Dr ...",
@@ -1414,58 +1457,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-4-ways-to-bridge-the-ai-integrity-gap.md",
-      "title": "4 Ways To Bridge The AI-Integrity Gap",
-      "excerpt": "The tech company, always seeking new ways to improve advancement and performance, developed an algorithm to predict promotability of mid-level employees including managers. Based on items including recent quantifiable achievements and 360-degree reviews,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "originalUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ea0972c466edd200d50c2%2F0x0.jpg",
-          "width": 588,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianuzzi/2021/02/18/4-ways-to-bridge-the-ai-integrity-gap/amp/",
-      "publishedDateTime": "2021-02-18T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-fa
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
 type: article
 quality: 88
-heat: 128
+heat: 148
 published: true
 
 provider:
@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "Massachusetts is one of the first states to create rules around facial recognition in criminal investigations."
+    excerpt: "A police reform bill in Massachusetts has managed to strike a balance on regulating facial recognition, allowing law enforcement to harness the benefits of the tool while building in protections that might prevent the false arrests that have happened before,"
+    publishedDateTime: 2021-03-02T03:07:00Z
+    webUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 69
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/27/business/27facialrecognition-02-copy/27facialrecognition-02-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "BLEND scores $10M to help global brands from getting lost in translation"
+    excerpt: "The need for fast paced localization tools continues to grow with enterprises accelerating global product expansion. BLEND, an Israeli startup enabling multi-market localization technologies, announced the completion of a $10 million funding round,"
+    publishedDateTime: 2021-03-03T06:13:00Z
+    webUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/"
+    ampWebUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 43
+    images:
+      - url: "https://www.geektime.com/content/images/2021/03/BLEND-Founders---CEO.-Photo---BLEND.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Law on collection of facial recognition data to be proposed at two sessions"
     excerpt: "One of the political parties participating in the Chinese People's Political Consultative Conference (CPPCC) will submit a proposal to the upcoming two sessions for regulating the use of facial recognition technology and better protecting personal information."
     publishedDateTime: 2021-03-02T10:36:00Z

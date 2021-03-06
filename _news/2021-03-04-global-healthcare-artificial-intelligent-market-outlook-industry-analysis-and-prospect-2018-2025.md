@@ -100,6 +100,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2021-03-04T22:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
     excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
     publishedDateTime: 2021-03-05T16:46:00Z

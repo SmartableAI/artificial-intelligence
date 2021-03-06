@@ -29,157 +29,145 @@ images:
     isCached: true
 
 related:
-  - title: "Avoiding Bias And Discrimination In Machine Translation"
-    excerpt: "Bias and discrimination have appeared time and again in various technological forms. A pressing issue is the discrimination found in many of the translation applications in use today, as Google Translate alone now serves roughly 200 million people daily."
-    publishedDateTime: 2021-03-01T13:20:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/01/avoiding-bias-and-discrimination-in-machine-translation/amp/"
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,"
+    publishedDateTime: 2021-03-03T01:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 70
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6037caffab9aedca931f7676%2F0x0.jpg"
-        width: 1200
-        height: 885
-        isCached: true
-  - title: "Microsoft Group Transcribe provides real-time transcription and translation"
-    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones."
-    publishedDateTime: 2021-03-04T00:13:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
-    ampWebUrl: "https://www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/technology/software-and-internet/microsoft-group-transcribe-provides-real-time-transcription-and-translation-d3a9ec2a-c2fa-4e95-b1ae-06c4788f93f7"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 74
-    images:
-      - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4af662c9-9e9c-523d-a589-77b6bd55c576"
-        width: 410
-        height: 230
-        isCached: true
-  - title: "Massachusetts is one of the first states to create rules around facial recognition in criminal investigations."
-    excerpt: "A police reform bill in Massachusetts has managed to strike a balance on regulating facial recognition, allowing law enforcement to harness the benefits of the tool while building in protections that might prevent the false arrests that have happened before,"
-    publishedDateTime: 2021-03-02T03:07:00Z
-    webUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/business/massachusetts-is-one-of-the-first-states-to-create-rules-around-facial-recognition-in-criminal-investigations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 69
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/27/business/27facialrecognition-02-copy/27facialrecognition-02-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Microsoft’s new iPhone app ‘Group Transcribe,’ offers real-time transcription and translation"
-    excerpt: "Microsoft recently announced a new app, Group Transcribe, exclusively for iPhone users who converse in multiple languages and accessibility needs. Group"
-    publishedDateTime: 2021-03-04T16:38:00Z
-    webUrl: "https://www.ithinkdiff.com/microsofts-group-transcribe-ios-app/"
-    type: article
-    provider:
-      name: iThinkDifferent
-      domain: ithinkdiff.com
-    quality: 45
-    images:
-      - url: "https://cdn.ithinkdiff.com/wp-content/uploads/2021/03/Group-Transcribe-app-Microsoft.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Amazon sued by Black senior manager alleging assault, discrimination"
-    excerpt: "A black senior manager at Amazon on Monday filed a lawsuit against the company and several of its employees for alleged racial and gender discrimination,"
-    publishedDateTime: 2021-03-03T00:39:00Z
-    webUrl: "https://www.compsmag.com/news/technology/amazon-sued-by-black-senior-manager-alleging-assault-discrimination/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/amazon-sued-by-black-senior-manager-alleging-assault-discrimination/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/amazon-sued-by-black-senior-manager-alleging-assault-discrimination/amp/"
+  - title: "Healthcare AI Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
+    excerpt: "Mar 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Healthcare AI Market report elaborates"
+    publishedDateTime: 2021-03-02T16:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-02"
     type: article
     provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/03/1-187.jpg"
-        width: 1026
-        height: 692
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "BLEND scores $10M to help global brands from getting lost in translation"
-    excerpt: "The need for fast paced localization tools continues to grow with enterprises accelerating global product expansion. BLEND, an Israeli startup enabling multi-market localization technologies, announced the completion of a $10 million funding round,"
-    publishedDateTime: 2021-03-03T06:13:00Z
-    webUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/"
-    ampWebUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
+  - title: "Smart Robot Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
+    excerpt: "The scope of the report includes a detailed study of Smart Speaker Market with the reasons given for variations in the"
+    publishedDateTime: 2021-03-02T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-robot-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-03-02"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 43
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://www.geektime.com/content/images/2021/03/BLEND-Founders---CEO.-Photo---BLEND.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Black Female Manager Alleges Blatant Sexual Harassment and Racial Discrimination In Amazon"
-    excerpt: "One of the senior employees of the tech giant, Andres Maz, \"felt free to sexually harass Ms. Newman and at times in plain view of others,\" asserts the lawsuit."
-    publishedDateTime: 2021-03-02T11:36:00Z
-    webUrl: "https://www.ibtimes.sg/black-female-manager-alleges-blatant-sexual-harassment-racial-discrimination-amazon-55934"
-    ampWebUrl: "https://amp.ibtimes.sg/black-female-manager-alleges-blatant-sexual-harassment-racial-discrimination-amazon-55934"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/black-female-manager-alleges-blatant-sexual-harassment-racial-discrimination-amazon-55934"
+  - title: "Machine Learning as a Service (MLaaS) Market by Application and Geography Trends, Growth and Forecast 2020 - 2027 by ARC"
+    excerpt: "pune, India, Tue, 02 Mar 2021 01:00:21 / Comserve Inc. / -- Acumen Research and Consulting added Most up-to-date research on \"Global Machine Learning as a Service (MLaaS) Market: Global Industry Size, Share, Trends and Forecast, 2020-2027\" to its huge ..."
+    publishedDateTime: 2021-03-02T06:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-by-application-and-geography-trends-growth-and-forecast-2020---2027-by-arc-2021-03-02"
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 34
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
-      - url: "https://data.ibtimes.sg/en/full/44467/amazon.jpg"
-        width: 1024
-        height: 768
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Leading Translation Services London Now Quotes Prices within 1-Hour"
-    excerpt: "However, the problem with that approach is Google’s AI isn’t the best translator; also, verbatim translations read awfully, especially if a document was translated into a language like Arabic, where a single word could have multiple meanings depending ..."
-    publishedDateTime: 2021-03-02T11:17:00Z
-    webUrl: "https://www.wboc.com/story/43430624/leading-translation-services-london-now-quotes-prices-within-1-hour"
+  - title: "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025"
+    excerpt: "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,"
+    publishedDateTime: 2021-03-05T00:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 24
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Caspase-6-cleaved Tau fails to induce Tau hyperphosphorylation and aggregation, neurodegeneration, glial inflammation, and cognitive deficits"
-    excerpt: "Tau is expressed as six isoforms in the human adult brain 1, is principally located in axons, and promotes microtubules (MT) assembly and stabilization 2. In Alzheimer disease (AD), Tau aggregates as paired helical filaments-forming neurofibrillary tangles (NFT) that accumulate in neuropil threads and neuritic plaques 3."
-    publishedDateTime: 2021-03-01T16:51:00Z
-    webUrl: "https://www.nature.com/articles/s41419-021-03506-0"
+  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
+    excerpt: "Global AI in Healthcare Market OverviewArtificial Intelligence is the development of computer systems that are able"
+    publishedDateTime: 2021-03-03T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-03-03"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 4
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41419-021-03506-0/MediaObjects/41419_2021_3506_Fig1_HTML.png"
-        width: 685
-        height: 481
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
-    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10x better than in person interactions Webex innovation paving the way for real-time translation beyond English Eliminating language barriers is a key step to enabling a truly global,"
-    publishedDateTime: 2021-03-02T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation-for-more-inclusive-meeting-experiences-301238355.html"
+  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
+    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-03-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://i1.ytimg.com/vi/ePYMMXVJPYg/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
+    publishedDateTime: 2021-03-03T22:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-report-2021-2026-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence in the Manufacturing Sector Market 2020: Industry Overview, Growth, Price, Trends and Forecast 2027"
+    excerpt: "Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
+    publishedDateTime: 2021-03-02T10:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-2020-industry-overview-growth-price-trends-and-forecast-2027-2021-03-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Growth, Trends, Size, Key Players, Research Report and Forecast 2020-2025"
+    excerpt: "According to the latest report by IMARC Group, titled “Global Deep Learning Market Research: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,” the global deep learning market size is expanding at a robust rate."
+    publishedDateTime: 2021-03-04T04:30:00Z
+    webUrl: "https://ipsnews.net/business/2021/03/04/deep-learning-market-growth-trends-size-key-players-research-report-and-forecast-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 27
+    images:
+      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Deep%20Learning%20Market%202021.jpg?1614844768634"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "tQekLlKUFT28+slDQvv9+SD7hOlOq8WpvXs9oFAL/AQkwqI8M1rsM6vva0osXz0DmS5C7FaAjFKXRKUmvz7qRBUkglAfVyL/H/JgLl4snxJrvBxY+7ZyATjq8P0yCZg8MKYyjr3XvkR3uBeTrh4aDfqdgLSKjQGTK8UHOOl4ufre3e+MJf3TXF6957F9HM/o+0UD+9VMOgGKTPDS7PCHXx95mVjcU5gzfbIlihbxOx2flcJ/qCCY8RDK2OngzKxJ/ve4b9vYtSNN6qgfih8/tzKwJIpT09EuA0a1qJPOj+RSowiYujjCDwYMXzxgREQhqV1kllWu8dPAxZ2a9GN+CRDCw5bFBsH9/5/12R+enPU=;r+fi7pFDrePNE5tT/zOLmQ=="

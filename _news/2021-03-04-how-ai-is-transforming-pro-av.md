@@ -41,20 +41,6 @@ related:
         width: 1000
         height: 500
         isCached: true
-  - title: "Robust solutions identified to close the human talent gap in Cyber Security and Artificial Intelligence"
-    excerpt: "Partnership Excellence, a non-profit international think tank for multi-stakeholder partnership development, today announced the expert report resulting from their Council Summit"
-    publishedDateTime: 2021-03-01T13:05:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/robust-solutions-identified-to-close-the-human-talent-gap-in-cyber-security-and-artificial-intelligence/article_588decf3-e996-5e85-a98b-107186a01b25.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "IBM gift to help RIT’s Global Cybersecurity Institute enhance workforce development"
     excerpt: "IBM is making a more than $3.3 million in-kind donation to Rochester Institute of Technology to help enhance cybersecurity capabilities in the university’s new Global Cybersecurity Institute (GCI), as well as support security training and competitions for students."
     publishedDateTime: 2021-03-03T13:19:00Z
