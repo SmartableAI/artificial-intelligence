@@ -32,6 +32,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
+  - title: "I was interviewed for a job by a robot. Here’s how it went"
+    excerpt: "“On average, a corporate role receives 250 applications,” says Sudhanshu Ahuja, CEO and co-founder of HR tech firm Impress.ai. “Recruiters spend a lot ... HR personnel can start by picking from question templates that are put together based on ..."
+    publishedDateTime: 2021-03-06T10:40:00Z
+    webUrl: "https://www.techinasia.com/interviewed-job-robot-heres?ref=recommender-676418"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
 
 secured: "QNb5qxt4nSc4lk4oTVkMa/8+/xezLmoKM97b0WoMn//6QK7l3yvGTG6krXNeqF7xyLh5i4e0xqp8i+TNDdFShsfaB3sm5JsTV/vCX+9cHD+6fzvTmVTZs329Eu58qWL3R4ULsAW/T+xa+QMIR7Uh7jTxV2s0nwbY0fVYNf/Puuyd4O80mJYoAtOv8Cgd1dklHM8H0rFzPD4PHnIZe2Lqq15i0QMLYs9ZIkxqIF8wl+Udn6Mul4I7xjbLLT/MHZyzwFrnM65XANOZbYjP34b6s5OVFz5dxwjLv0TOniJNLAsB8mRW9/FMEB0Walrzc8P8r01Ybbe5NSOoR4MIRQsKwRegr7ONOxvA90Vg3FDaWMz14zzBmzoHUUGAQdA0nRFWuki5ccGxOoOeQoralcRgPh7IUBLHm8bFCFxeXeKFW46IC9Bs7Ly7NLToP9Ygt+ZGpGsTJpsEIYtI/dxoQ+FWMsOPzd8lgn2a66QKskLblzP63Mqk4qWX11RGD9+qn9pjxxiAUxGiOKq3fl7XRBmDuQ==;SXV60ZstHl60pMjg+nJcFA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artific
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Rises By 65.8%"
+    excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) saw a large growth in short interest during the month of February. As of February 12th, there was short interest totalling 25,"
+    publishedDateTime: 2021-03-06T08:42:00Z
+    webUrl: "https://www.modernreaders.com/news/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html"
+    ampWebUrl: "https://www.modernreaders.com/news/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp"
+    cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp"
+    type: article
+    provider:
+      name: modernreaders.com
+      domain: modernreaders.com
+    quality: 71
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks2.jpg"
+        width: 2100
+        height: 1400
+        isCached: true
   - title: "D.A. Davidson & CO. Makes New $8.95 Million Investment in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
     excerpt: "D.A. Davidson & CO. purchased a new position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) in the 4th quarter, according to the company in its most recent 13F filing with the SEC."
     publishedDateTime: 2021-03-05T01:40:00Z

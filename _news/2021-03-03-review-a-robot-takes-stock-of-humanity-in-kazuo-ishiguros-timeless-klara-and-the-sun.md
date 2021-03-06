@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6880904002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6880904002"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: USA Today
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Klara and the Sun review: Ishiguro's thought-provoking future for AI"
-    excerpt: "Klara and the Sun by Nobel prizewinning author Kazuo Ishiguro is a fascinating tale about artificial intelligence, friendship and what it means to be human"
-    publishedDateTime: 2021-03-02T00:13:00Z
-    webUrl: "https://www.newscientist.com/article/2269338-klara-and-the-sun-review-ishiguros-thought-provoking-future-for-ai/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/03/26173929/gettyimages-1196558278_web.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "In ‘Klara and the Sun,’ Kazuo Ishiguro wonders what robots can teach us about humanity"
     excerpt: "Nobel Prize laureate Kazuo Ishiguro returns with his first novel in six years, “Klara and the Sun,” in which the topography of a postindustrial society is mapped through the observations of Klara, a humanoid robot charged with keeping a"
     publishedDateTime: 2021-03-02T14:00:00Z

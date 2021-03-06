@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-f
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
 type: article
 quality: 90
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla to launch Full Self-Driving subscription within 4 months"
-    excerpt: "Elon Musk says that Tesla will launch its subscription service for its Full Self-Driving package within the next three to four months. Get ready for a high monthly premium, though. Last year ..."
-    publishedDateTime: 2021-03-01T23:23:00Z
-    webUrl: "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/"
-    ampWebUrl: "https://electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/01/tesla-launch-full-self-driving-subscription-within-4-months/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
     excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
     publishedDateTime: 2021-03-05T18:47:00Z

@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Bus Market Competition, Status and Forecast, Market Size by Players, Regions, Type, Application by 2021-2025"
-    excerpt: "Global “Self-driving Bus Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
-    publishedDateTime: 2021-03-02T00:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-competition-status-and-forecast-market-size-by-players-regions-type-application-by-2021-2025-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "D9Ybuga5sphoyWIABWKVRlHKwTwPzTj0ePstjaa2YVHXYHdX8HQzjTmyxnmYQlE0dQufc8enGKfwUBXcHpAnqwRXENO7F0GT6PlwxydQUx7824JK/zcC0LLnNN4a1Xqj7e0SVtlD0lprvhJqdaaWcLq6/VQE93nVpPCLGGDy8EDW5nzj7QFsdcHD3TuWrk5qn9WirTQ8gTrycUMchvuK9dVrTvwzRYkigF+TDGBZfORV+SiIkVqgwImb8g/Br0a00YUZMpWE1fQLNaloblUiFglAt+57MSBxqXJlEX7r3EKRrd1pdsH+A2gZY1X9aZ/5BErF8DEWYjNNI3/6+0ob2FThZ/PkA8KZ0BgTe6eopBU=;a1h6vzgSdgXIJJmFGMzesQ=="
 ---

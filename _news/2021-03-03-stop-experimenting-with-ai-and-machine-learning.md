@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and
 webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Demystifying Artificial Intelligence and Its History"
-    excerpt: "Although it’s among the most advanced technologies of the era, opinions are still divided regarding AI. On the one hand, people see it as an innovative approach to resolve problems, boost productivity,"
-    publishedDateTime: 2021-03-02T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/demystifying-artificial-intelligence-its-history-achille-ettorre"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHqbry1vu0VEQ/article-cover_image-shrink_600_2000/0/1614696981977?e=1620259200&v=beta&t=ZNctAqLAMXckFnpfxzdez3KdT-vB2UclonoAzColYNo"
-        width: 1797
-        height: 600
-        isCached: true
   - title: "US is losing AI ground to China"
     excerpt: "Looks like the free market not so good as captialised socialism after all The US, which once had a dominant head start in artificial intelligence, now has just a few years' lead on China and risks being overtaken unless the government steps in,"
     publishedDateTime: 2021-03-03T11:23:00Z

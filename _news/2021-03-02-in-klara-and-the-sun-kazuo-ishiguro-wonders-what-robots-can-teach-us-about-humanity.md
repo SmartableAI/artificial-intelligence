@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 678
         isCached: true
-  - title: "Klara and the Sun review: Ishiguro's thought-provoking future for AI"
-    excerpt: "Klara and the Sun by Nobel prizewinning author Kazuo Ishiguro is a fascinating tale about artificial intelligence, friendship and what it means to be human"
-    publishedDateTime: 2021-03-02T00:13:00Z
-    webUrl: "https://www.newscientist.com/article/2269338-klara-and-the-sun-review-ishiguros-thought-provoking-future-for-ai/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/03/26173929/gettyimages-1196558278_web.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "1WcZOAgeQ8INSDnrLbQfGRRBRJWPV+f4JI07B6vGMoQoV3OinkLi7GGNKb1ghEN1F6Y3qX3SiQ3R3vUuhxBz5Itlnl3/9dKPDYV+1omZtkSh6alfZY110UlrlMNEeyad1sTiR2ghMtZyb/qw+LHJajmY37Onk9P4AqK5xmxsSouUbFldMzHkCQtTTDrrlCzqTyk3Ui5LmJx58a7a54dR3QkpuXEN+f1fmJ5/+O9zGY/DJr17EcSQHkmgC3kd+QwgLj786TPHe9X0vG/7paUmk6adIgu/qrkfBsd/z+ko/PE7FeBDl80cdGYMGi7VKiIj01kYo1XUTYZtga0xU2mD8Cv5iZkOtqqrDaJdc4buQpYGn6hEgRnQp7q/Tf8OyfJYqmzdY+aEVEvkJHpkLxhlSH93dZHTALs28spZ5OK9fN0mrxR9ZUgk9kTzvZEP6Vq7j860jcMfGHHgYWFi0fRnvd/HiGEWxQKohUX4SRF1qzkZt+EOQSfiU8Rs2A50xEFGSHlFVfeF/9Zov6nhEbBWIQ==;BnYzy07COwq5TjkrRao2lg=="
 ---

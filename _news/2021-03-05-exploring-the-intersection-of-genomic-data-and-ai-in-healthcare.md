@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Bus Market Competition, Status and Forecast, Market Size by Players, Regions, Type, Application by 2021-2025"
-    excerpt: "Global “Self-driving Bus Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
-    publishedDateTime: 2021-03-02T00:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-competition-status-and-forecast-market-size-by-players-regions-type-application-by-2021-2025-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence for Automotive Applications Market: 2021 Analysis Report, Share, Trends, and Overview 2021-2027"
     excerpt: "Artificial intelligence AI in the automotive industry is expected to cause serious disruption by streamlining production capacity and boosting business growth The design and deployment of new technologies including autonomous mobility vehicle simulation rapid prototyping and AI enabled car factories"
     publishedDateTime: 2021-03-02T07:58:00Z

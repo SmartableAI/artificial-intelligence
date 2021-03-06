@@ -1,20 +1,22 @@
 ---
 category: news
-title: "AI Chip Firm Wave Computing Emerges From Chapter 11 Bankruptcy Protection"
-excerpt: "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS. The company traces its origins back to MIPS Computer Systems Inc,"
-publishedDateTime: 2021-03-01T23:27:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection"
+title: "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection"
+excerpt: "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS."
+publishedDateTime: 2021-03-02T04:03:00Z
+originalUrl: "https://www.reuters.com/article/us-wavecomputing-mips/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-idUSKCN2AT3T7?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-wavecomputing-mips/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-idUSKCN2AT3T7?edition-redirect=ca"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AT3T7"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AT3T7"
 type: article
-quality: 63
-heat: 63
-published: false
+quality: 83
+heat: 83
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +24,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "tyVcdr6mr/fTpwwrm7igyZuGwX9fFrUplMsgZs/s6AzRP2DYL9wibBhxNNgBs100hRWF+B2TnG9OZcXkvMoYF35ZGAuPWneJlujCXN/aI1U9sym3it6PHJ//I5+B3+czyNtozTIZuifETM/UbfyeqmdoQ8bRcfH5k1YshpimtdRguG9DyYnwsnVJiW4ZYcaec6YNDTnt4ZiR9axh3fFg5Khsd/+bBn5gumREs8eBsN6+NROB0FQn7DyZ7aZ/x5u94nisHjwV7m3nk42/gYruLw1lfhBUt22ZeDAkFpvditOlrd8L+rm33kVGy1jjo2eGpY6TfWMuA0rFNA60KzJetvhitJjxlwp6e0AIyQGFSdI=;fiIqj+0nO4ladCK4Hp5roQ=="
+secured: "EF94BMTIkQcM9U+2VVptG3ULhxL4dcD6FmCdCxOljUR0QK3efTEj8ea9+eV0fkoYh6mSZmzeF4TEh0Mpx+78Sgr3i3EMzgyjvtUAoNm3VDYpgAoCuPRlZEpLhEwntUpN0ckFRZ3NvNdKDl0NGDG7lA+qMjnrZefSDADMRA8C8IsRqwTGrsBOL+B1H5GK7M0VyBdps2ldyvwwPAzRnNmWpeZgYwSydV8ymkrEkFGjOHcMs9+lBX5dk3jl7mRyPqxGq50jrHpT9VqWWR6SihK4IEJmFEAQostl1x4GMcSDrnpTVzMHua3EnHHH9PNS5552vWGobsq0ixL+0rc5I+na9eAsI0ayLBuxsmSesNhS0ro=;ankj4033Gr0L8AE9nxLUMQ=="
 ---
 

@@ -26,22 +26,6 @@ images:
     height: 274
     isCached: true
 
-related:
-  - title: "Featurespace Automated Deep Behavioral Networks protects from card and payments fraud"
-    excerpt: "Featurespace introduces Automated Deep Behavioral Networks for the card and payments industry, providing a deeper layer of defense to protect consumers from scams, account takeover, card and payments fraud,"
-    publishedDateTime: 2021-03-01T23:45:00Z
-    webUrl: "https://www.helpnetsecurity.com/2021/03/01/featurespace-automated-deep-behavioral-networks/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 17
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "Ky0HF9wF1BPrYo9Awdx2dpMMI9U8gIWSCQpdu+mVaFoqjBAfuzRTO8hZ+Y9xTHcAoCFwGrovoQfURMqKnzOVI1Et70K52OarTo2dqnhsRcMsYJWngaBETlH5nQHVPGJ67X99+l8YglD+vXgRw5Veftj5aEt0ZtAttwrLye3HHsXbckl3uegi6O6MZfBfvsOuE2sqxCEagoSD+2J48csvatJePGMXWn+bfnyrrkH0dTO7j+mAitfwSe5CXhIrBOIJnRTn6l2TQABl+3HUSr/5po4gFY5WFEZ+7bgxSpmPddyEpBvgLDXDzxQCsMoo3PjSYXJ5xgEgW6U9jAizsTwizRKJ5PZ5melOLGBVOL+QGZ8=;8x9yLq4cZLyTr2cMRD1PmQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/india-artificial-intelli
 webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self-driving Bus Market Competition, Status and Forecast, Market Size by Players, Regions, Type, Application by 2021-2025"
-    excerpt: "Global “Self-driving Bus Market” is segmented by region, players, by Type, and by Application. Players, stakeholders,"
-    publishedDateTime: 2021-03-02T00:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-bus-market-competition-status-and-forecast-market-size-by-players-regions-type-application-by-2021-2025-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
