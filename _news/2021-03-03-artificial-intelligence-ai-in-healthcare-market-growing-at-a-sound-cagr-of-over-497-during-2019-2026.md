@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel"
+    excerpt: "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,"
+    publishedDateTime: 2021-03-04T03:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%"
     excerpt: "According to the new market research report on the “Artificial Intelligence in Healthcare Market with Covid-19 Impact Analysis by Offering (Hardware, Software, Services), Techno"
     publishedDateTime: 2021-03-03T23:25:00Z
@@ -72,20 +86,6 @@ related:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights"
-    excerpt: "The global medical bionic implants and exoskeletons market stood at U$ 454.5 Mn in 2016. It is expected to expand at a CAGR of 7.5% during the period 2017-2027 to reach U$ 1,001.4 Mn. Factors such as rising amputation rates,"
-    publishedDateTime: 2021-03-01T11:02:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 0
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
         isCached: true
 
 secured: "zVAA9akIZ9qORE5nPkdt18sghDDXSWgrUYNRZG4nw8G1ZYgFq1RqOQtdI1OfdsFJ8jWfTdJ9SoHpsgpgobNhcVYvSwwo99eQzrqax35VJk0jdaG9xH1lgTUxkFAwtBog8M43/Le5b6PZ8FhyOIF3/JapK2aFI8IXJ0dnJgb6IbX9k6/5OuBjukkdJ0nuj6sDPmy2w7k4xBWXiExnaLcgvKG7HpCA6C1F4O3vGNW/AUT9btfmLN+GXBT468N/IV1X44w8JmrdWGN72PbByaoxwd0L5B8pD6pauYRsyMP2K//rBmYeryufd2W5hNzF0RDhuqJnQboO7mwXfOjBroqgr4SVkQZJE9i/56xvxj+T66o=;HodICidZCbrqfEFnLSB9xA=="

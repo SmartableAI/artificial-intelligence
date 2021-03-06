@@ -289,6 +289,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Adds Ways for Customers on AI with Azure"
+    excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space"
+    publishedDateTime: 2021-03-06T01:40:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 89
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/09/f73fc3da-microsoft.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "How AvePoint is Leveraging Microsoft Turing and AI at Scale to Advance Corporate and Higher Education Learning"
     excerpt: "AI is the future and the Microsoft Turing model is the key. Click here to learn about AvePoint's latest venture into artifical intelligence."
     publishedDateTime: 2021-03-02T15:48:00Z
@@ -452,7 +468,7 @@ related:
   - title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
     excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
     publishedDateTime: 2021-03-02T06:00:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
     type: article
     provider:
       name: CRN

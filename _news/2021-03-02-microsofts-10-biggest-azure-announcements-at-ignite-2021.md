@@ -3,8 +3,8 @@ category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
 publishedDateTime: 2021-03-02T06:00:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021"
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
 type: article
 quality: 54
 heat: -1
@@ -282,6 +282,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604153c5909583eb1a3a7db0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2807%26cropY1%3D0%26cropY2%3D1579"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft Adds Ways for Customers on AI with Azure"
+    excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space"
+    publishedDateTime: 2021-03-06T01:40:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 89
+    images:
+      - url: "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/09/f73fc3da-microsoft.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Microsoft Power BI Premium: New platform and pricing, what you need to know"
     excerpt: "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance."
@@ -564,6 +580,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "YeprYC3Gu0IB9kCebiHQRjaZrDEsUNXVKcMYtxElYKFV5FSceDrHHpGP6yuA/4Nr13yOuZJ1LBhCOXnhgj0gNyYJNPSeHo8o7+sfLXz/wY/74bgLk6c1J0urm4AEAN/0LkDURbrICCstNPFoCN0t0X0aATUbbryrwrQHSpgfJhyPTS6KFjPvXLlEoT6jGXAhSXFy92R4BJ+K+021ILAERf9KT2mNPeheUOTOEJx7lvmq+TdlFyRiFLKU+4G/BQ31W7eCsRiAGyfiEz6PbuZT4JtFzgs6NlvYKexSusXjZZzRkw/ivWCMyGZQ+ewroRz4IlqIoL4lDAoECipLhpL7LwYuWx+5epS//6EPI2m3KfY=;+d3bAcEILoqgwiSR3InVng=="
+secured: "09I/g1vZryzdE66siHZDMoPSXdHK9WUzwubQG+6SjNVklCKQgkvRUyFWB1v3ELGhVAqTqRdgTPtGsztfc3tdR5RRvJtl4T3BXOVoz9MVbay8ljiYRXP/Alr6K+WFth7gf4J9wpaDLDXW8bjcfdgPZ/HcI+JWozaIVaFmSIxRaNFNbJeQ8+ubE0pL8fe/nxIacYUvG1qpaVM5icBEHKHNjpLl5Vi9C/ZeaLX/AM2LBQp4ldLnndL73USpfe6OD20FkUsihVemnlTTQXe64+n47lZn7oScnV4ZrmCW7PjiGp+rxBZ05AzoCV60QXK02E3CYO15VMz5CHKRMljBPBJYtKPFsus3+5Vz1QEakKqt8oI=;T1UnsfrqEJLj1bJQpNPfJw=="
 ---
 

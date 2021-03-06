@@ -130,18 +130,18 @@ related:
         height: 449
         isCached: true
   - title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
-    excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to"
-    publishedDateTime: 2021-03-04T09:49:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra-817541755.html"
+    excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to be impacting"
+    publishedDateTime: 2021-03-04T09:40:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra/article_8079a433-35c8-59a7-89bb-aa84396a9b5c.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 8
     images:
-      - url: "https://mma.prnewswire.com/media/967510/Finastra_Logo.jpg?p=facebook"
-        width: 1292
-        height: 676
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/5d/85dad0f5-6e33-5ba3-a10c-4fd203ab7182/60414b43bf162.image.jpg?resize=1200%2C589"
+        width: 1200
+        height: 589
         isCached: true
 
 secured: "PcdlnQ+f/wvoTWC+VfaAvVmboUbHF7nAD05+5uKjRCTrTuwRGXMcQgR5s9uwMpKHsYG0j8zcmaPMIlPpp5ZZZwXMbnO3SImjpIoSIkAw0NfOOkWzF35msrrSZwI6RniSVhU156a9UgCITbsr6rvUeDIBgWR2nV5/tT6fNwrCSJeqJHxr9OZCfj81G4elWNShs+jXFwN4sUi+KUxzcadt6w5x9RxQ3J3Yy/DpTTAlxTFR5eqmYcuDo3WWfeFotzf5k5xb3yDboZqLkRnJwY9cmh7dWsFAT2YjE8h5YdSEDhsijJbpeh+VMzugSDquy8eARZPVVxdya2Kd8KTZ38WvXnmIm4rgkaH2+miQKGlNCXknJVycS/ar/V5ENhISkBM9tnxjoNHVXEshUlxZbnCwL6C29vBX0J4YT2cztj7KlpokpejG2c1BDQodEccDrhSNdRtVPQIP8LyCfJ2EqhbwNlSA170iE96BNosfZOlqmSWihfYy3ODFTX/9jQEyZfKIncb8SxBpQPS97IbyzqQLAQ==;vRANMseDnXP/6xF0rLkkuQ=="

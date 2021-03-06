@@ -3,11 +3,11 @@ category: news
 title: "Robots to the fore at new national centre for artificial intelligence in Scotland"
 excerpt: "Construction has started on a new Scottish research facility to drive early-stage product development in the fields of robotics and artificial intelligence. The National Robotarium on the Edinburgh campus of Heriot-Watt University is scheduled to open in the spring of next year,"
 publishedDateTime: 2021-03-04T05:17:00Z
-originalUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/"
-webUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/"
+originalUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/?ref=rss"
+webUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/?ref=rss"
 type: article
-quality: 51
-heat: 51
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://www.heraldscotland.com/resources/images/12374270/"
@@ -25,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SCFUdWxRs+v27jQl+Esu0ZpApr3VZhDQgXreoWK0+/NOs7A5zZgyccdMOa/ltoyQLy/u8Cp+e9OcuCcnU88Ar96JGtuHefEhi/roSo99Awz2/c6e3CGG0gQ4gpzwFXker3iYgsUtlwuS0rnlYRQGMtb4PzGcPXdwXIxMUQrfnmUZ4oqNq6azWZzxIuZ1sADOEmtxcLe6szXhPqQxEaZBHZ8uYhaogGuQqDzEQ5+NxgWBADZpMOmjaEgkmvnE7nYtddcU74NBXcxRtuU5+GcTM9hqqXpMGUmoEHk16Bc3FKXUwKVjKKoH77o/MTbakrQvtch+xUxrbdTJSmoyebwKJODrKQvjMosrZ6niaJcL4IY=;Pcv0bE3cShzfYajXztZuJA=="
+secured: "pNBorRRjbc7zTCrA0jj/nwbzu3ZdWPFEHrPQXe9RvyfpNQhVLs/kpZp0NQKqeU8ncJpsXvnmuWd+MXLXU3I7ItH09DH2FGgslZn6FWqG942qDSfK8TPFsMCkSDYGk6qcvBkcJWGYCBo0LpuNNy36x1arkCNCuMfaBJMSdF2uQYCCHrUEavMU8gPXsgkmRW+boxDC9jMNEPY2x45HCmbSZ3Rm0M+PX/2XtlrEISWmncdSx2kHj4h2LSkKTvDJt9M7bOd28nNkDWsjE4Ko/Ap8ZH/HP/a7RTFxHtBK/WslfRcBNJeJ+yKhdpux2/QlBxGkhfDMyFt56gRtPVcZXkqy3OaKPnxDF7kW5rWgl9C3KoA=;42OZnp9UKDYeAzab3MElWw=="
 ---
 

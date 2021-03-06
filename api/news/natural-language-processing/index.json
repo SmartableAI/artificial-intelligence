@@ -224,7 +224,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -909,40 +909,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-25-smart-new-features-and-capabilities-added-to-sdl-machine-translation.md",
-      "title": "Smart New Features and Capabilities Added to SDL Machine Translation",
-      "excerpt": "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, includi",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation",
-      "originalUrl": "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-25-armorblox-has-raised-30-million-to-protect-against-phishing-attacks-with-ai.md",
       "title": "Armorblox has raised $30 million to protect against phishing attacks with AI",
       "excerpt": "Armorblox, a company developing a cybersecurity platform that leverages natural language processing, raised $30 million in venture capital.",
@@ -992,6 +958,49 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-smart-new-features-and-capabilities-added-to-sdl-machine-translation.md",
+      "title": "Smart New Features and Capabilities Added to SDL Machine Translation",
+      "excerpt": "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, including content insight, expanded options for adaptation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T23:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

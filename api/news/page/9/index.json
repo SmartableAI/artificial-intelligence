@@ -348,6 +348,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-smart-new-features-and-capabilities-added-to-sdl-machine-translation.md",
+      "title": "Smart New Features and Capabilities Added to SDL Machine Translation",
+      "excerpt": "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, including content insight, expanded options for adaptation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T23:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-artificial-intelligence-ai-in-retail-market-to-witness-high-growth-in-near-future.md",
       "title": "Artificial Intelligence (AI) in Retail Market to Witness High Growth in near future",
       "excerpt": "Global Artificial Intelligence (AI) in Retail Market to reach USD 24 billion by 2027. Request a sample of this premium report titled Global Artificial Intelligence (AI) in Retail Market Size study, by Offering (Solution,",
@@ -1179,58 +1222,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-band-of-ai-startups-launch-rebel-alliance-for-interoperability.md",
-      "title": "Band of AI startups launch ‘rebel alliance’ for interoperability",
-      "excerpt": "The AI Infrastructure Alliance wants to improve interoperability between tools and fraemworks made by small to medium-size AI startups.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
-      "originalUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/Facebook-servers-Lulea-data-center.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/24/band-of-ai-startups-launch-rebel-alliance-for-interoperability/amp/",
-      "publishedDateTime": "2021-02-24T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

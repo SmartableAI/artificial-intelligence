@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-f
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
 type: article
 quality: 90
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 89
     images:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
+    excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
+    publishedDateTime: 2021-03-05T18:47:00Z
+    webUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/"
+    ampWebUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
         isCached: true

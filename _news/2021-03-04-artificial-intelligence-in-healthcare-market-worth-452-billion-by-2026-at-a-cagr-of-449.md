@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market to reach US$ 107,797.82 million by 2027 – Arterys, Alphabet, Nuance Communications, Intel"
+    excerpt: "According to our new research study on “ Artificial Intelligence (AI) in Healthcare Market Forecast to 2027 – COVID-19 Impact and Global Analysis – by Component, Application, and End User,” the market is expected to reach US$ 107,"
+    publishedDateTime: 2021-03-04T03:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-to-reach-us-10779782-million-by-2027-arterys-alphabet-nuance-communications-intel-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) Hardware Market 2020 Strong Development Rising Comprehensive Industry Outlook offers Future Business Growth 2027"
     excerpt: "Global Artificial Intelligence (AI) Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027."
     publishedDateTime: 2021-03-01T15:51:00Z
@@ -69,20 +83,6 @@ related:
       - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
         width: 300
         height: 250
-        isCached: true
-  - title: "Medical Bionic Implants and Exoskeletons Market Revenue to Increase at 7.5% CAGR during 2017 to 2027: Future Market Insights"
-    excerpt: "The global medical bionic implants and exoskeletons market stood at U$ 454.5 Mn in 2016. It is expected to expand at a CAGR of 7.5% during the period 2017-2027 to reach U$ 1,001.4 Mn. Factors such as rising amputation rates,"
-    publishedDateTime: 2021-03-01T11:02:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2021-03-01/medical-bionic-implants-and-exoskeletons-market-revenue-to-increase-at-75-cagr-during-2017-to-2027"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 0
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
         isCached: true
 
 secured: "fvlQDyTBzK7XJae+r0wXNTEkZ6J2bli5ykN5G2CUio7lJrJKkaBdvssJh4g8FeRK7RBE5S2oS/laOytm0Uwg1SbNpppCe9p1t/pxJeLDSAeMJe4FY4CD6+ztpWCKnVseD3IBQCyVs389vXExaF+gtIrwVk0H4GCNLGSW7o//0E82kwnrGLM/lstH4+4ncj9Pi0jdA8XbZR1AreCy40Dm6LfUIfnC0t0fKQJtUMn04k5AQTNPN9D64CBC1abOm8359Qwy1uK3HSMuc50teWv3sTFaykTCnhlsUC0+AojtNfxt2XD/flafWXqhYj9le7kRF0F1pmAsN/ktET3AVqAw3ijLSMjFc2Gcwry0Lkzo3JbHqyR+lO+TebT070w1uaAHSktT1NPVoHp1UwvXjmAoY3x5RlSzwo931fpM4LGqWDkBLLSB3OBCf4T5PZlMFFHwbG+bu6izknOKsgznWtjI3pXiaYXhsr0F08P+1WuyAIC7Cnwzk/kUQNwTUQQ5r4Ft65dmF434v70cxMXuRyyR5Q==;oyi6jATC/SAP7LwTv2fAEA=="

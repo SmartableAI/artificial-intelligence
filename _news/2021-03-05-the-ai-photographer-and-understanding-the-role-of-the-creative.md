@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Speech, Voice, Accents and AI"
+    excerpt: "Allison Koenecke works in the Stanford University Computational Policy Lab and the Golub Capital Social Impact Lab You might also be interested in these programmes from the Free Thinking archives - all available to download as BBC Arts & Ideas podcasts What is Speech?"
+    publishedDateTime: 2021-03-06T01:10:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m000srbn"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p097ckq7.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/AzjTHuqh8sAmor3x1SfVLiPDrXjJRQdBXL1HscZ4g8Sl5HkhyrD3dXZscsCLogslra3jde1aX8RTJXPkSqX8rTQ7PB9ierSQ3YnXBNOwZYeqNiBvJp3lRghtdso0N1gyD6EzB4K/DjhqfIdcvIlSMAddnXBuP0HhZq0QpdZWBhDRPn2opygoe3d0r4F84Yn31dZAuXUsu4/92zj0+bjSIhTT2GvbbdPHIVEIsTHouSY2Vq7DYUsEGKteefBVNCskxF84UUWXKhugBP/woC+ZeIae44V3j0JUjPNGIRDHj9voW0LFEFhAmM68sZQzWBbXSXFth57Om6cpjfBiAZsY5+IpEHUlX+6ejgo9mk+7ecneCg4ncdnJqk2m46OCPoZMyffpz23QOwNEMjM+GW10nZcR35UOx2NwjzJCgEtpE9O0KaFbuNF12AswFwXRu1wZtoO7xy2pvMYOgOeED8oS0PXjtRymNWw4vm4MVS0psT5tjV5Os4sevrzZZei8OWEMLoBsiCjdzSth6anHdS7tw==;qi32RN00nzvRQn0h5KSRNw=="
 ---

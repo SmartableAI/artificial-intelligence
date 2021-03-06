@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
-excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to"
-publishedDateTime: 2021-03-04T09:49:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra-817541755.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra-817541755.html"
+excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to be impacting"
+publishedDateTime: 2021-03-04T09:40:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra/article_8079a433-35c8-59a7-89bb-aa84396a9b5c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra/article_8079a433-35c8-59a7-89bb-aa84396a9b5c.html"
 type: article
 quality: 8
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/967510/Finastra_Logo.jpg?p=facebook"
-    width: 1292
-    height: 676
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/5d/85dad0f5-6e33-5ba3-a10c-4fd203ab7182/60414b43bf162.image.jpg?resize=1200%2C589"
+    width: 1200
+    height: 589
     isCached: true
 
 related:
@@ -144,6 +144,6 @@ related:
         height: 449
         isCached: true
 
-secured: "vlW/sK685eZLTy7oMnTbYsnqc8iHBXiWYKJAX8T87yFsPV8uoHLr9mFs45ncr+eL80NFKgXTXkel5Q4aFlMsrxfUIAd2hYq+JNmzoi3ZAzLlgtUG4HlRze51EMGD0+mNGJTyDckxVPQOuviQwt7sNdbBAYJ4tJELcCHqG2mDTS2+0bsvV2imhOf4vpSYeAxiKJb2W3NwSKQZNjlZR+Ix+D4eTgfA7ZwoAT9NTzTYCtJoMqZb6gwRu3FQSzovjBnpFyPxokLdptM1467yToxh/hBYcPRhmcXnPZeiO+KBDhCovGDOloVFmw2N7m30yKVLJNXvZPMw76BjYiHvW666+OLvtKfIH48g0Z3CF1uYlMI=;Skh7zrih8y8X2gCjcsZ9sA=="
+secured: "S2O0PoXLdSzN/go2y5MKs7JulddgVSRTGsFdaxWKPOHHqTJH1aV318TkX1Daf33MpVKsBDq+DYnDvO1TZdLf1TCzjZAg8VTi1L+I33r9JQdeoM4hFiVQvEH+bpIUMQTCeVtAntfKpYkYS8zVBmpcnH4vswXkzbL/HocM77dRWF/e3HdpmqsFEIGFGTMTC9Llx3NUWzF484xjqjCjqwH0CTqVohb6lGabUkqU4emeIl1wB+MavEydBL+37RfZEsOTMOkyjCR2pjjHzXPuAkgD9VgIp+IPAAucc4Qn9wiunTjpDyWyqXLBUbf3ImZzhK2hJe/rGayIIxA7qZmZl9MQuO7SNSmmmX4vdgPSt4NaUcQ=;YrUhbqP/NJZyJ77COt1u8w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
 type: article
 quality: 79
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.thephoblographer.com/wp-content/uploads/2021/02/IMGP1466-770x514.jpg"
         width: 770
         height: 514
+        isCached: true
+  - title: "Speech, Voice, Accents and AI"
+    excerpt: "Allison Koenecke works in the Stanford University Computational Policy Lab and the Golub Capital Social Impact Lab You might also be interested in these programmes from the Free Thinking archives - all available to download as BBC Arts & Ideas podcasts What is Speech?"
+    publishedDateTime: 2021-03-06T01:10:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m000srbn"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
+    images:
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p097ckq7.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "kkmI2xR8f4FmUgu9SRPvKJk6bMF+JqqM6DKbRq4JGvFIUrFJFFh1OPIp8vDtjlEnyAKuLle8TK2c5zWOk2XsdB3J8z2IptdI0Ios8x2MOexiyExjAKMRCa69pq6xJsGTrHnszs2Zg+6WXfyNIBifrEWLGX7nVgFkTT1td72GlqNUb/YDP9uzhwFg/xKBnazRstwIdDyj65pg/XTYRevNByAqumZxHeOxnwkJ+Z23H2B/5mXaqet7938x6y6w0oMBiwrhxkosX/L4CHIJtURVUsDNKkeu0LAOvaECoJ0+DqcbYAPROV/jRQWCatzDyDZo6zoBoe4Z3MFE653q1b5bAJpyUVGHRILw272ZO2lURxs=;fGGr1Y39SfMlciPyD0dQHQ=="
