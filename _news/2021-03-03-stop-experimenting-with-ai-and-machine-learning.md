@@ -7,8 +7,8 @@ originalUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and
 webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: CIO
@@ -26,67 +26,47 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing The Power Of Artificial Intelligence In Accounting"
-    excerpt: "Instead of fearing technological advancements, CPAs should embrace them and find ways to augment their skills rather than replace them."
-    publishedDateTime: 2021-03-05T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
+  - title: "Demystifying Artificial Intelligence and Its History"
+    excerpt: "Although it’s among the most advanced technologies of the era, opinions are still divided regarding AI. On the one hand, people see it as an innovative approach to resolve problems, boost productivity,"
+    publishedDateTime: 2021-03-02T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/demystifying-artificial-intelligence-its-history-achille-ettorre"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f402c3e474a1d4b8fb150c8%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHqbry1vu0VEQ/article-cover_image-shrink_600_2000/0/1614696981977?e=1620259200&v=beta&t=ZNctAqLAMXckFnpfxzdez3KdT-vB2UclonoAzColYNo"
+        width: 1797
+        height: 600
         isCached: true
-  - title: "2021 – The Golden Year Of AI"
-    excerpt: "Investment in artificial intelligence (AI) will reach an all-time high in 2021. The COVID-19 pandemic has upended"
-    publishedDateTime: 2021-03-01T18:06:00Z
-    webUrl: "https://www.benzinga.com/general/biotech/21/03/19918935/2021-the-golden-year-of-ai"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19918935"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19918935"
+  - title: "US is losing AI ground to China"
+    excerpt: "Looks like the free market not so good as captialised socialism after all The US, which once had a dominant head start in artificial intelligence, now has just a few years' lead on China and risks being overtaken unless the government steps in,"
+    publishedDateTime: 2021-03-03T11:23:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/52450-us-is-losing-ai-ground-to-china"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/photo-1516110833967-0b5716ca1387.jpeg"
-        width: 967
-        height: 725
+      - url: "https://www.fudzilla.com/media/k2/items/cache/e9bd74fe228e102a2538114c0a742f82_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Building trust in AI systems is essential"
-    excerpt: "The two well-respected researchers say they were fired by the company after criticising Google’s lack of diversity and warning of the risks of some of its AI systems. While expressing regret for their departure,"
-    publishedDateTime: 2021-03-02T17:46:00Z
-    webUrl: "https://www.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
-    ampWebUrl: "https://amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
+  - title: "AI Tech Stocks Investing Portfolio Buying Levels and Valuations 2021 Explained"
+    excerpt: "My last look at AI stocks buying levels late November 2020 had some of the must own AI stocks trading at high valuations for instance Apple was trading on an EC of 76 against a target of 50, Nvidia on 173 against about 100!"
+    publishedDateTime: 2021-03-02T22:34:00Z
+    webUrl: "https://www.marketoracle.co.uk/Article68527.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 57
+      name: The Market Oracle
+      domain: marketoracle.co.uk
+    quality: 35
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcb95c328-6401-471a-ade4-3e48af6a14e3.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "More Indian Healthcare Firms to Harness the Power of Artificial Intelligence"
-    excerpt: "Recent reports observe that India’s many healthcare firms are now looking at harnessing the power of Artificial Intelligence."
-    publishedDateTime: 2021-03-02T08:24:00Z
-    webUrl: "https://www.cxotoday.com/ai/more-indian-healthcare-firms-to-harness-the-power-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 53
-    images:
-      - url: "https://www.cxotoday.com/ashojoac/2020/05/AI_healthcare.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.marketoracle.co.uk/images/2020/Nov/AI-stocks-buying-levels-Q4-2020.jpg"
+        width: 820
+        height: 379
         isCached: true
 
 secured: "uoX5mgHgrhZjtNCmM6SWomNO/affpzFxu5LyC6gOe5codtawA4kpdcI56Knw01Q1KvWpnw04y5l4A9RpyDUu9FpxtXkMOmWsrqrDhHCG93IeCvEJhmJ/0MGgZoPtmDNOQpnjtqw1CCacWvqCYdTbcUQEVX8zs1VsOAH1S/r9Kmq2Yp7wNInZFSQg8DP9gyPlHUtSGON0daUkceWh3s0feIF5HCcGDC3sebW0M+yGpnSHit/2DzNBLAhrsROiE1dgtxJy3TQgpxantA6ShYBm9LgMzAhh8p9ZV8uc86j4sCLyuwKtb+ykj7uZ8RJQTQ4IHTNn5WPhm9qOm0Osb+OA++ip1MKAZMDfEEQWauCr7GA=;2od02ThYNGUEYUZHNrOU8g=="

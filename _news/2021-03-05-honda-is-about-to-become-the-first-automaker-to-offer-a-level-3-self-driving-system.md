@@ -57,6 +57,17 @@ related:
         width: 810
         height: 545
         isCached: true
+  - title: "Honda to sell limited batch of level 3 self-driving cars"
+    excerpt: "Honda Motor Co Ltd on Thursday said it will sell a limited batch of its flagship Legend sedan equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways."
+    publishedDateTime: 2021-03-04T00:52:00Z
+    webUrl: "https://www.businessinsider.com/honda-to-sell-limited-batch-of-level-3-self-driving-cars-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/honda-to-sell-limited-batch-of-level-3-self-driving-cars-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/honda-to-sell-limited-batch-of-level-3-self-driving-cars-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
   - title: "Honda’s part self-driving Legend a big step for autonomous tech"
     excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
     publishedDateTime: 2021-03-04T12:18:00Z

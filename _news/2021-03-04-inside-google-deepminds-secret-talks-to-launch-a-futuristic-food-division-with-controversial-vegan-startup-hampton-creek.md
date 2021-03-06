@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google's AI lab DeepMind held secret discussions to launch a futuristic food division and one idea involved 'nutricube' vitamin supplements"
+    excerpt: "Insider spoke to multiple sources about how DeepMind, the London-based AI company acquired by Google in 2014, considered launching a food division with vegan food startup Hampton Creek ..."
+    publishedDateTime: 2021-03-04T12:47:00Z
+    webUrl: "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3"
+    ampWebUrl: "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp"
+    type: article
+    provider:
+      name: Business Insider Australia
+      domain: businessinsider.com.au
+    quality: 40
+    images:
+      - url: "https://i.insider.com/6040ba6a2dc90100183554f6?format=jpeg"
+        width: 926
+        height: 694
+        isCached: true
   - title: "In conversation with DeepMind’s Demis Hassabis"
     excerpt: "Demis Hassabis, CEO and co-founder of DeepMind, joins Greg Williams to discuss how AI can impact scientific research, building multidisciplinary teams – and how to combat algorithmic bias"
     publishedDateTime: 2021-03-05T17:15:00Z

@@ -26,65 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "Harnessing The Power Of Artificial Intelligence In Accounting"
-    excerpt: "Instead of fearing technological advancements, CPAs should embrace them and find ways to augment their skills rather than replace them."
-    publishedDateTime: 2021-03-05T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
+  - title: "Delving deep into potential of Artificial Intelligence"
+    excerpt: "Battlegrounds” is a game-changing new book by Rajiv Malhotra, analyzing society’s vulnerabilities to the current AI revolution"
+    publishedDateTime: 2021-03-01T22:45:00Z
+    webUrl: "https://www.thehansindia.com/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
+    ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f402c3e474a1d4b8fb150c8%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "2021 – The Golden Year Of AI"
-    excerpt: "Investment in artificial intelligence (AI) will reach an all-time high in 2021. The COVID-19 pandemic has upended"
-    publishedDateTime: 2021-03-01T18:06:00Z
-    webUrl: "https://www.benzinga.com/general/biotech/21/03/19918935/2021-the-golden-year-of-ai"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19918935"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19918935"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: The Hans India
+      domain: thehansindia.com
     quality: 59
     images:
-      - url: "https://www.benzinga.com/files/images/story/2012/photo-1516110833967-0b5716ca1387.jpeg"
-        width: 967
-        height: 725
+      - url: "https://assets.thehansindia.com/h-upload/2021/03/01/1034510-book.jpg"
+        width: 1000
+        height: 600
         isCached: true
-  - title: "Stop Experimenting with AI and Machine Learning"
-    excerpt: "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning (ML) so they can replace guesswork with data-powered certainty to reorient strategy and optimize operations for success in an uncertain future."
-    publishedDateTime: 2021-03-02T20:41:00Z
-    webUrl: "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html"
+  - title: "India has disappointing rate of AI development, needs to catch up"
+    excerpt: "According to a new book by researcher-author Rajiv Malhotra, India currently has a disappointing level of development in artificial intelligence (AI) and"
+    publishedDateTime: 2021-03-02T11:41:00Z
+    webUrl: "https://www.compsmag.com/news/technology/india-has-disappointing-rate-of-ai-development-needs-to-catch-up/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/india-has-disappointing-rate-of-ai-development-needs-to-catch-up/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/india-has-disappointing-rate-of-ai-development-needs-to-catch-up/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
+      name: Windows
+      domain: compsmag.com
+    quality: 57
     images:
-      - url: "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg"
-        width: 1200
-        height: 851
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/03/1-117.jpg"
+        width: 909
+        height: 679
         isCached: true
-  - title: "More Indian Healthcare Firms to Harness the Power of Artificial Intelligence"
-    excerpt: "Recent reports observe that India’s many healthcare firms are now looking at harnessing the power of Artificial Intelligence."
-    publishedDateTime: 2021-03-02T08:24:00Z
-    webUrl: "https://www.cxotoday.com/ai/more-indian-healthcare-firms-to-harness-the-power-of-artificial-intelligence/"
+  - title: "Continental invests in AI company"
+    excerpt: "\"Figuratively speaking, the new, highly specialized processors serve as an ultra-economical data booster: with minimal energy consumption, they enable vehicle computers to gain a rapid sense of the vehicle's immediate surroundings,"
+    publishedDateTime: 2021-03-01T19:59:00Z
+    webUrl: "https://www.rubbernews.com/automotive/continental-invests-ai-company"
     type: article
     provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 53
+      name: Rubber and Plastics News
+      domain: rubbernews.com
+    quality: 39
     images:
-      - url: "https://www.cxotoday.com/ashojoac/2020/05/AI_healthcare.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.rubbernews.com/s3/files/styles/800x600/public/Conti%20AI_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "dMIF0jAqtSXxWVZiqLDTifILE8Js1cOcI+UWwKDEYebaLSuqhkjQWjHl1T+LQ6nDA+NaAMIM5Chm/wFnB9wZMpKTZWOV1NMFv3+u2i2azpwZ8Ez+ueMs3PoFSq1sDQJjltMo6D5XaQ5AtBgAHqc5uKpO7QkcFWk8gJsYC6fQBhJ/+dZxhW6mlWQBQKJ36gu3mhRhuAgjkAlQnZHEtVwMUaa3I2xrYcu+w8e7kwGtU8WV9CrH9HqzE73lrsc/GO5Z6OEGKKgNbHOpHIG7zc/lgOIKPrMhc+2n9qrpvofp0+8RsM4yILjAe6SPlMgc/O033qsnMv1EO5+COxXevoB/xF3bsGAXso7P4GNLpId7rw+8aiWbx1Qzu87g2oQsVrcKqGPC7JKFgmGYqtuBXvpVwlHbeO8HdPI87fIXMoJNczYa8/ELaob6q7el4P11l4yb9PS1ctD0USZotbzXmSl4DBeQvjWUHTQyA3a3XO2hiXFMhevGlfKxKt/o48W1yOBZv1YyUaTbMlnoH1G6l0Fe9Q==;GLXzDCMWsTbBWrA789exBg=="

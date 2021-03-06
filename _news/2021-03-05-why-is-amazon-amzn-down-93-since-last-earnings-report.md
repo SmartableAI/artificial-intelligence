@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-la
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-is-amazon-amzn-down-9.3-since-last-earnings-report-2021-03-04?amp"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,19 +19,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision"
-    excerpt: "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ..."
-    publishedDateTime: 2021-03-01T18:20:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
 
 secured: "lP96ZDs+KCpEnZqzH/E5d0y2hkf6FDXoz0baNABUm0wx093nCpb5ntPCVWU0am+gU13uokSSVX2YEA9HbxD0T/keEVoQ8BNCm/hwupFHEYPB3780QIDRDpRmeOfnUvMnhB8JyrsqVJwds3dwKmuW+ciBFzGwwycIirXgU1oxbSzgy8NhaCoeEwydDmQBUu4aruAbqYcMq0EImVdLOf6frfuKJRcBxUBqh31yudPDnEL9WYmaBMBMAPgHlUanIH6dBlhP/SFKsAiQ2RVCeXA0m6fOzOPHVE/159/Mc/cIhsDfxPQktpyLcXnazcQD/B+AtzABWDC0GzXFjsG4nP1aaqsMz8ZWWb1rFn5O9sd46RU=;cRifzbbwXwFQCzCZO83l+Q=="
 ---

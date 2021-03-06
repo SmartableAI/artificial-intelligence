@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-cr
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos"
 type: article
 quality: 56
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F03%2F02%2Famelia-earhart.jpg"
         width: 1500
         height: 750
-        isCached: true
-  - title: "‘Deep Nostalgia’ Brings People in Old Photos Back to Life with Movement"
-    excerpt: "Deep Nostalgia is a new AI that can breathe new life into historical photos by animating people who have long passed. The results are both creepy and"
-    publishedDateTime: 2021-03-01T17:11:00Z
-    webUrl: "https://petapixel.com/2021/03/01/deep-nostalgia-brings-people-in-old-photos-back-to-life-with-movement/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 24
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/03/deepnostalgiafeat.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "2LMDZzIXiO4HCuh0ycvlrtnK8jeh0jFs4jbVGQDCV1fzH79KfzkdI5xyYgSwTbPJA8jdj7BrDIud7NFhwEscLnvd6mEJBgSmiBYSRvgEI1ncp/VNtkEajcS/LKUBAxmteiDpml1S64+Q//AvJd30jJTgxPAnVBJl63OVLMYrF14twjVSwlQpsfKZX14m8OsNIkogdpkltUZcEyT5HHeT88QiA+SHhhOPeKDlK3GK0+1X2/HyBVpv33LZaSin1NKO3Z7ka3KvoRCyLQvMIrysnIMdbOwB5LMhrVlZMXtVnwJABPB8e0HmwiDffCRnNsBOCds3biGM19l3FaqPzQ82YSuXaMr5keXqhTcVnOkA5Nu4w5z7mArLUD9jqBNTwWaUlnURxkNt9iF69IjJNVQHe4zsObKhX7+R4RmpLG9IbtAmy70QgQeN5V1MiWq2ih3u3lJ/+dzHDgi7SlL2kScrkoZAGwBxDBHvCf8cUHrlQFpU0chZbg6xgLbD8gJX+dYqUM4DkI3toVwWOUrewkdcmg==;kz+8uIZic+k5zZ/Kj79xPA=="

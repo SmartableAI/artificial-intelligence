@@ -89,6 +89,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facebook enhances AI computer vision with SEER"
+    excerpt: "At a time when many versions of AI rely on pre-established data sets for image recognition, Facebook has developed SEER (Self-supERvised) – a deep learning solution able to register images on the Internet independent of curated and labeled data sets."
+    publishedDateTime: 2021-03-06T09:48:00Z
+    webUrl: "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-facebook-ai-vision-seer.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 76
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/facebookenha.jpg"
+        width: 2048
+        height: 1075
+        isCached: true
   - title: "Facebook Researchers Report Advance in Computer Vision"
     excerpt: "Facebook said it has developed a self-supervised learning AI system that could help companies create highly accurate computer vision software."
     publishedDateTime: 2021-03-04T20:00:00Z

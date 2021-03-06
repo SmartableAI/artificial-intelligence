@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/who-leads-the-world-on-ai-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-leads-the-world-on-ai-a-decade-from-now-it-might-not-be-the-us/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: ZDNet
@@ -22,22 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Who will lead the world in artificial intelligence?"
-    excerpt: "National security threats and opportunities posed by AI should be a catalyst for changes to defense requirements and resourcing processes, the authors argue."
-    publishedDateTime: 2021-03-01T17:55:00Z
-    webUrl: "https://www.armytimes.com/opinion/2021/03/01/who-will-lead-the-world-in-artificial-intelligence/"
-    type: article
-    provider:
-      name: Army Times
-      domain: armytimes.com
-    quality: 37
-    images:
-      - url: "https://www.armytimes.com/resizer/tw4DuuF_K5QoEibZuKhpeUvKPDQ=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/YFKKAHFIPZB3PMZ4U3C7EBWM2M.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "slnB+JiBYv6U02Rk/HnzZNTSpPYhNeKljL6DcW/GG4ZtqIxuYHX2ERFeeJ/h/AKRBAkrqRzYiYTc2fpSZWjFHlZFb8ifxB2OwEngOrpAmWbcFmQX+6MX3t2Ikg0+Iyl2NtNXZ0wPK8oLSkJUTY2ye7pIljZ+zjk98lA9cELlw4blGOOzYFDHulGMA3MpQkGQMrrXMHU+un1SAdZyklKE5LdnMmWwpOZcBkYV01MxbMHd+5goDxoYbyY1tZq6mS44PcVJCl4lTrUSviXuMeCjyJpkqT54WjySK41GGYgh2GtVFGu48uNFbxmIAkc65e+U2HTWJHlEt6zAVhiecexHHrF6OvJ9HqY7AUB+S3qpbsg=;BW0CKOCzg/G4BkzQOJlnMQ=="
 ---

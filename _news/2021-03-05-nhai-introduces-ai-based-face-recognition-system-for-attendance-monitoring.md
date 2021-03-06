@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/economy/logistics/nhai-introduc
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/"
 type: article
 quality: 72
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Hyundai’s Dynamic Voice Recognition System"
-    excerpt: "Learn about Hyundai’s journey to develop their Dynamic Voice Recognition system for select models of the all-new 2021 Elantra and Elantra Hybrid in North America. Powered by Houndify, the Dynamic Voice Recognition system makes the driving experience safer,"
-    publishedDateTime: 2021-03-01T18:17:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/hyundais-dynamic-voice-recognition-system/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 19
 
 secured: "9GXyJxBycTu/JND0QUZSgxAlYEQ6tjI2F6JS4SAYr2sYbnZZv2eK6ThOPEqicxgaIVfOk/FbLhJ7jlxL4RXRtZdRrw7cMooXxo3NtmRA9vkXJxx4Ujf5dW1N1Pp34MqF4X9eIYQiDI/iy0FZ7kfDesrWTIr/SpJBJg7tlBxxFQmirAEOTuVgdNqqDHoU3+8KqG48iuD0NRavsvCjGfwLHxvIUR56gRWc6uEmKis+gb7rfZ19zkFVkw/mtaMR+QlzLWUzUGv+SCYqOXNtFOFPZdiIAQIgFL9QQX6rQ5v31R0OAYoJajXUyP7NfDwuBEIRYBm39TofhqQRXPuS0zBMj20Pi5E16BMv4YJc+pv/znA=;JUe19hBrr/CwiJAWy+L4/Q=="
 ---

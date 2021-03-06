@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Hyundai’s Dynamic Voice Recognition System"
-    excerpt: "Learn about Hyundai’s journey to develop their Dynamic Voice Recognition system for select models of the all-new 2021 Elantra and Elantra Hybrid in North America. Powered by Houndify, the Dynamic Voice Recognition system makes the driving experience safer,"
-    publishedDateTime: 2021-03-01T18:17:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/hyundais-dynamic-voice-recognition-system/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 19
 
 secured: "kDgAas2ySSJlgm6d2qjWGBIIJbXcYGk4kFM9+ji+rd8+kseuNShQuWs0PLpeS5FaN8uah4oLLWBfNSoLRdYg4YEtPGBJV3pqz4SS4/5qlctMXAQr31M+kfIlFSAgA1h/dA3XtFGedtWhiQQymvL34B/Lr9wWTF4DeF+Eb/ZTcYb9J4rmDicNw2FGQ9tcxxbSx26I2v4Eyln0jUB/Qu493s+jeE+SVpdIcWh2rvYvASXB3gtuIqi72T35n4l4uLy9g1G7NJ6UMSmTOafEoNMeBU/c/bK7M5tKrkvMOLC5mn6QnVf+E2cVdbnfKEUK8ZqcrWpDr3+G1cBTxWILtml+POl3n4cD6mDRQk9IUtjM+SM=;4i3Q4VUng69IVVKVbPbG6w=="
 ---

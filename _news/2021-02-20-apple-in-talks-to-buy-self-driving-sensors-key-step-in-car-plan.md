@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Apple in Talks to Buy Self-Driving Sensors, Key Step in Car Plan"
-excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence algorithms ... Alphabet Inc.’s Waymo unit and General Motors ..."
-publishedDateTime: 2021-02-19T19:40:00Z
-originalUrl: "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
-webUrl: "https://www.bloombergquint.com/business/apple-in-discussions-with-suppliers-for-self-driving-car-sensors"
+title: "Apple in talks to buy self-driving sensors, key step in car plan"
+excerpt: "The company has been working on a driverless vehicle project for several years and has developed on its own most of the necessary software, underlying processors and artificial intelligence ..."
+publishedDateTime: 2021-02-19T19:12:00Z
+originalUrl: "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/"
+webUrl: "https://www.detroitnews.com/story/business/autos/2021/02/19/apple-talks-buy-self-driving-sensors-key-step-car-plan/4510493001/"
+ampWebUrl: "https://amp.detroitnews.com/amp/4510493001"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4510493001"
 type: article
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://www.gannett-cdn.com/presto/2020/12/11/PDTN/cf955e28-6b45-48c8-9a69-d1203eb9f4cf-AP20315705413018.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
     width: 1200
-    height: 630
+    height: 676
     isCached: true
 
-secured: "QJck9GcKuBMSlBQY/7yt4BZKugGnxDAQHC25mMB4thfsKMVAM3dp1PcrGXkEqwH4Yo8Cj0T6220FxuVmDQOlX17+cGZRxPrXNlfsd+TDLMVPXEePwNx6jzyedIzu8Hr6h1AfIw08StIK/J6uZpnyXJG1OUEILmMdD4ZLraY/494mPPjnXu1M78JKQySnvWnv212KVg9VHaulb1rJfJ535C4XWKZ7BfLMisBJoGvID2SrsPMswAwsNvj4u3DVgVHKPBbaU7uMrCYZsSD8rgV5jsw8fQsAd0HpIvBqj8vX4LCLVH5jOuB0AeWwxXthafO75YnYP88T/F3SmML+/kZMMtxXz0eJrBupDjCLDfSyZ3Y=;WBw99vPKI+Qpoje1lXUvwA=="
+secured: "toojIkYIvIVmcrmCdQHU/ZZyEGuFGS2rwHXhx92IbV7KTQ2AUrtaYzr70PwftH6Q+S3lZl4IWOZHdQ7KFt2PIyzuB6uxx7dw+8bDfnYJvOLUPBgK4tvrSUmcCuPGAj1iv/T4ZKSh6KUQGaCq1yIUAMDHPG3xcvEob0BKKmrd4i1yo+UqduXncpRUGxGHmwphHavOoZ1bCUcagJegNv2lSbdMSaDnAR5U6Yp5ZG2J2rb3ETaWn5hmcHtlOLtzS2oNrG3BTck57nMr2rlZYsand0o3TxqDU+get/KadMjffMP4+VHCt6wGPNsXQNtIi5xpcXtLFeYN65B2Kq8CFxZlddfwPeVlSCwBh2JP9ZGQGnY=;F/OcL6R3B800EvoRQ2XBQg=="
 ---
 

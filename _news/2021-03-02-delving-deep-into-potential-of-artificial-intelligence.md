@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/life-style/delving-deep-into-potent
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/life-style/delving-deep-into-potential-of-artificial-intelligence-674713"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/03/1-117.jpg"
         width: 909
         height: 679
+        isCached: true
+  - title: "Building trust in AI systems is essential"
+    excerpt: "The two well-respected researchers say they were fired by the company after criticising Google’s lack of diversity and warning of the risks of some of its AI systems. While expressing regret for their departure,"
+    publishedDateTime: 2021-03-02T17:46:00Z
+    webUrl: "https://www.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
+    ampWebUrl: "https://amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/85b0882e-3e93-42e7-8411-54f4e24c7f87"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 57
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcb95c328-6401-471a-ade4-3e48af6a14e3.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
         isCached: true
   - title: "Continental invests in AI company"
     excerpt: "\"Figuratively speaking, the new, highly specialized processors serve as an ultra-economical data booster: with minimal energy consumption, they enable vehicle computers to gain a rapid sense of the vehicle's immediate surroundings,"
