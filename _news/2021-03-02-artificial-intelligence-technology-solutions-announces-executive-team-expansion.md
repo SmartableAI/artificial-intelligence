@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Technology Solutions Announces Accelerated Order Activity - New Orders From Fortune Ranked Clients"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD)"
-    publishedDateTime: 2021-03-02T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-technology-solutions-announces-accelerated-order-activity---new-orders-from-fortune-ranked-clients-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Technology Solutions Announces Executive Team Expansion"
     excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Secretary of AITX. Reinharz is the founder and President of AITX’s subsidiaries and the majority and controlling owner of AITX."
     publishedDateTime: 2021-03-03T05:38:00Z

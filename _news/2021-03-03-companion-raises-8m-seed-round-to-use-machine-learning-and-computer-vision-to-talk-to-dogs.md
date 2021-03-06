@@ -3,8 +3,8 @@ category: news
 title: "Companion Raises $8M Seed Round to Use Machine Learning and Computer Vision to Talk to Dogs"
 excerpt: "Today, Companion announces $8M in Seed funding to transform how we train, engage and communicate with our dogs. The funding comes from leading"
 publishedDateTime: 2021-03-03T14:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
 type: article
 quality: 61
 heat: 61
@@ -15,9 +15,9 @@ provider:
   domain: wfmz.com
 
 topics:
-  - Computer Vision
-  - AI
   - Machine Learning
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/59/6590a814-f273-5efc-ac0c-f8f20347b6b5/60414bd16920b.image.jpg?resize=1120%2C630"
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Lu21jp3UV7mWAnzcUWz/8kBkOKes1UanflqFUmXhlyjfWzea7GOa3tohigchfMpvoxEwaC0ODDRC+6wPVXYlj3fvhIb66SuoAaKWqLsw63rvrqRp4suFr9zI32UTKvkOhbHvMnP94uY9/P59PA0YXoZI+vh1lMXh10AbPlwA3/Zt32xQsXKY0zP2OsInehxpkR7vSTVuqCgTN9LXOEBG+Qkc4bz3TGysf8bwOElDEqk+Cn9dgJ2QfVUYyOb3cU0fJbFl0GG65vxttXYRWXxAsYE73eYNFOIkpGdqog/ZQI1Z7siIuJVgVvYWWyQl89+tjzKJeeWTnDfqrS94fdFIytLLgHkngzEUqagweou3mqg=;Rvn7dta2R5lQRmyCDFi41A=="
+secured: "zr2zLP+eC1xg6b3QDyKazQBI9HGms/CNU1yaEUQBaBHxFRXdOrhzcfZWUHZYGf55TaABWYs3eorigjkUsDiqfGpY4/4ldCLeaIg/VhkXfOIsKDdbuBC/h4sI7LJYQAqwJ4xo+fAOcmRNQvu3GcpzTiMfvvum1IeFVUKl0qKYImjYYdpjWadmMt8hWJIoomhYIcYRN5JxKsMsfpp98KCuR+I/QVoHycBBTdcp/LM+r/iW/5GOkZO65l1MNGD9lGmuP0nUMr7SrQjIiv4NXjVLoMbFXZTU+368U5ARCDCgIRMa52S4GzILAt5raIPuWU6/bw3ONpmdV+3+gfH7w1TYswhwhrEdHnCVXEx8KsZTulI=;1BpRNKFX23DULLRq1lzQRQ=="
 ---
 

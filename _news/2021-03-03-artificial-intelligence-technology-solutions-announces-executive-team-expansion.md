@@ -28,20 +28,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 45
-  - title: "Artificial Intelligence Technology Solutions Announces Accelerated Order Activity - New Orders From Fortune Ranked Clients"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD)"
-    publishedDateTime: 2021-03-02T04:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-technology-solutions-announces-accelerated-order-activity---new-orders-from-fortune-ranked-clients-2021-03-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oA5vByVGZBFLo1Qhw+FXBPEb+GbVfzgBOjIPaTt+qgbON6yXJ82mQR0kVQ05gDS1MqtWk4H94LnKPFh5oMtMPhFjDkKqPBIppckK5nPDNttfa0xeRJ7bds6YuKq/QA1xW3e84pdIyhREFA9OZQ/DTUaDf6n6aMEULAEWqfAqa0hJofwpwfWnHoZwzT1O8YBbHMJvg4H3YPUCSXVWmNtp3Rt7BopqkJG5UwpCq8hkW7t4T25GemRxKXlV7aCj35z92IUpWQCi8Be7CXYwfuZ5gx/TbsLvTghRs3eQHHiwOhlYZoJfFB8l2HZYIXowjk/BbEg1BhTi1P71k5SCcKssyzcKL5nzdDq1FpL1Vu5L3mM=;4FnxN/kTp1eZwa/+AreKKw=="
 ---

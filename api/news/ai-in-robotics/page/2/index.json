@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-02-24-nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027.md",
-      "title": "Nanorobotics Market Size Poised to Touch USD 12.72 billion by 2027",
-      "excerpt": "Global Nanorobotics Market to reach USD 12.72 billion by 2027. Global Nanorobotics Market is valued approximately USD 5.53 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027-2021-02-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-size-poised-to-touch-usd-1272-billion-by-2027-2021-02-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition.md",
       "title": "Tech newsletter: Horrifying robot dog’s paintball rampage, Biden + facial recognition",
       "excerpt": "Welcome to the Tuesday edition of the Internet Insider, where we dissect tech and politics news unfolding online. Today: Pranksters show how horrifying Boston Dynamics’ police robot dog is by strapping a paintball gun to it Civil rights groups want Biden to halt government use of facial recognition No,",
@@ -1335,6 +1283,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-robot-artist-ai-da-presents-her-first-art-exhibition.md",
+      "title": "Robot Artist Ai-Da Presents Her First Art Exhibition",
+      "excerpt": "The world's first robot artist is set to have her first exhibition in London's Design Museum. The exhibition, Ai-Da Self Portraits is to open in May 2021 and will present three large scale self-portraits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "originalUrl": "https://www.albawaba.com/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2021-02/ERF9_g_UcAARz1I.jpg?itok=ShJsHWV0",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/robot-artist-ai-da-presents-her-first-art-exhibition-1411512",
+      "publishedDateTime": "2021-02-16T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
