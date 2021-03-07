@@ -109,6 +109,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Facebook’s new AI teaches itself to see with less human help"
+    excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
+    publishedDateTime: 2021-03-07T12:06:00Z
+    webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Can Artificial Intelligence get common sense? Facebook model shows the way"
     excerpt: "This approach is known as self-supervised learning In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
     publishedDateTime: 2021-03-05T12:18:00Z

@@ -1,27 +1,30 @@
 ---
 category: news
-title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
-excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
-publishedDateTime: 2021-03-03T05:31:00Z
-originalUrl: "https://analyticsindiamag.com/facebook-inch-closer-to-building-general-purpose-intelligence-agents-with-unit/"
-webUrl: "https://analyticsindiamag.com/facebook-inch-closer-to-building-general-purpose-intelligence-agents-with-unit/"
+title: "Facebook’s new AI teaches itself to see with less human help"
+excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
+publishedDateTime: 2021-03-07T12:06:00Z
+originalUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
+webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
 type: article
-quality: 20
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Untitled-design-2.jpg"
-    width: 2240
-    height: 1260
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
+    width: 760
+    height: 380
     isCached: true
 
 related:
@@ -119,20 +122,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Facebook’s new AI teaches itself to see with less human help"
-    excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
-    publishedDateTime: 2021-03-07T12:06:00Z
-    webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Can Artificial Intelligence get common sense? Facebook model shows the way"
     excerpt: "This approach is known as self-supervised learning In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
     publishedDateTime: 2021-03-05T12:18:00Z
@@ -216,7 +205,21 @@ related:
         width: 470
         height: 273
         isCached: true
+  - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
+    excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
+    publishedDateTime: 2021-03-03T05:31:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-inch-closer-to-building-general-purpose-intelligence-agents-with-unit/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 20
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Untitled-design-2.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
 
-secured: "Fxn7efW3424pBxvgcSs2aWUiFdqMZ7AtQTlBlpmjp6/uCeZCc4pTPdK3cnpdQxnMPO0c8wLQDGlTLH4MtcS2zuv1XoIv9XsoO8PLYH69IH/ezA+Tn8s8/pcW335/KZACajhORDHS4YKyNYZgUe/cjpAQGbw7B/d3p6R/pTQ2+l4q5g0CUVBuqreDxtLLl4isL+trFYcwuLPalI6BNuNkLdc29Kao40bYBWg+WdVYd0zpczrPWvBrC7js3JHLQc8LgX4yF2IeGr7v/NyYL6cXvNOnOVLBuNrgm7ZFYXgz3+3GQ1wLrr+OA28InNZqtEvf+4leSF/e6dvveVUAt0IOA0UyE58z5s3kSUP5kFUbZ2kEjxgvI0eiV9ttXQzxdovxjGu3mYV6fSrFj2nGTAhqjHXkvpMjScubcLUEIjr8jK/ThcPg6n7NNd9SLxLLFXhkpQeSpAcCaa8cOhZv+xp1QxurYjqxWmIPq1GMMxXabYifJ+W7td0sCLhjsOlcEULk0fHrXffeaAh9NjoP4+1ekQ==;Me0FLocMzrBSFF8l6UZ9zQ=="
+secured: "NlI1znecKMyoIK2gpSL94d9UwBu7m9K6LNzfkOnPJKsGDpzH5q+iyUdyhkzw+PcDETnsVBXagLhHHV47jqnCqCU5VcI9gIwlNIujZXvkgdTRaMT7f6ua1cReJMmc7+Ch3Vg7j1BmYyK+5gCHQSMZrXdVEzitnmGZaiVv948lCdzYJb+6e4Y87EPfUkIEob2/iv+E8yKIkHYTTLx0U/BN6Hbfft/SlNIUrFufsOeeP76g8CnIbK2gnAB7EOyZf9TAkeI8mUROiUQPpsBB6xpLzcef4ef78YEIZEtISvueV9JP752+hzom2M2zWCbi4yZG6uGlNDRTuI09NeEr/6+lX4fcBhq6YG4K+TPKv6dvdEQ=;gBa0iQE1oLzULThLGnvpfg=="
 ---
 

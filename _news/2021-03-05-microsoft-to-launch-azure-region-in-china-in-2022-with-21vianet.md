@@ -28,22 +28,6 @@ related:
       name: Destination CRM
       domain: destinationcrm.com
     quality: 119
-  - title: "Microsoft Mesh brings mixed-reality apps to Azure"
-    excerpt: "The Mesh platform supports holographic experiences and mixed-reality applications for users of HoloLens and VR headsets as well as mobile devices and PCs."
-    publishedDateTime: 2021-03-02T20:37:00Z
-    webUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.html"
-    ampWebUrl: "https://www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610168/microsoft-mesh-brings-mixed-reality-apps-to-azure.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 104
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/07/cio_vr_virtual_reality_headset_by_damir_khabirov_gettyimages-1153003888_2400x1600-100802381-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Azure Percept helps Microsoft users make the most of edge AI"
     excerpt: "Edge computing allows an increasing number of standalone mobile devices to perform tasks such as image recognition, response to voice commands and textual translation, without access to the cloud. During its 2021 Ignite digital conference,"
     publishedDateTime: 2021-03-03T14:19:00Z

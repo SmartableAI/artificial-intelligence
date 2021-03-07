@@ -7,7 +7,7 @@ originalUrl: "https://recyclinginternational.com/virtual-trade-show/amp-robotics
 webUrl: "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Want a career in AI, Machine Learning or Robotics? Here are 3 reasons why you should take up the Robotics Systems programme"
+    excerpt: "In response to the growing demand for talent in robotics and automation, the Singapore Institute of Technology (SIT) has launched a new programme.. Read more at straitstimes.com."
+    publishedDateTime: 2021-03-04T12:00:00Z
+    webUrl: "https://www.straitstimes.com/singapore/parenting-education/want-a-career-in-ai-machine-learning-or-robotics-here-are-3-reasons"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 60
+    images:
+      - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/26/sit_bachelor_of_engineering_in_robotics_systems_graphic.jpg?itok=Gie8eRsc"
+        width: 763
+        height: 509
+        isCached: true
   - title: "Amp Robotics to operate secondary sorting facilities"
     excerpt: "Matanya Horowitz, founder and CEO of Amp Robotics Corp., a Denver-based company that develops artificial intelligence (AI) and robotics for the recycling industry, says the company has developed a “really good solution for secondary sortation” that uses robotics and artificial intelligence (AI)."
     publishedDateTime: 2021-03-04T22:59:00Z

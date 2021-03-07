@@ -1,32 +1,22 @@
 ---
 category: news
 title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that the PGA TOUR (TOUR) has selected AWS as the Official"
-publishedDateTime: 2021-03-02T19:14:00Z
-originalUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
-webUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
+excerpt: "The TOUR will then use Amazon Rekognition (AWS&CloseCurlyQuote;s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata like player names and sponsor logos. This will ..."
+publishedDateTime: 2021-03-03T10:13:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider"
+webUrl: "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Amazon's (AMZN) AWS Selected by TOUR, Strengthens Clientele"
@@ -50,6 +40,6 @@ related:
       domain: financialbuzz.com
     quality: 19
 
-secured: "RH1kuje8sDyM6pS/a+kOU7Tw2oXJpAQOfxOmTPEJLT4dkw/l0yFf9mUy5TreStNX4i17ZC6uIJvAbEUg3xoIJNo1zDuS6PsEzgRGqxfJI3NElc7fIjXGeLGyD22+LqG3alkfqfxb6BT92aJ869h50qru3VzkVPT8fSYK46MxH5F3L6M8ZH4/rWk1uDj2jtWJLP4ey3DfBxSDY1PMdwt0TMKBgezG0zGF2seDgpCFqWuhJULazob7jIZ+8d61IYgXvi2CwYMJisn8FcggaCwUGlsj/gPRwtUmh7fWIEQdYmxVZREkd+IXdDKm2Yl1a2ZTcyuGK6ta3QQAOXu6BiwSwdOwQdi4aWIug4yYDSGR7Ok=;tdkAIQ3deabteTthK6w6ow=="
+secured: "355/9buQqKNZfNcerwH1937ZqFxBnpRHW/fD7LaN0+1locnqZP00KA6HHKFu3egIB2rEpGB76JUlA49n5jilecan8EvPeOJtROvEUkpknI3KC8HXx6Wpoip69IB45JItGd9rkcYONqmPcNZ4hrGm7N+XOMzpfPrwLDGP+f86KYk5Uc6oNsLVUdRCjjUUvYq5P956l3TdJe7XmY/ZKIaRQmGW6O1OJYQJ1bD1k103owW21RoHieO1UcU22kd5RGjdYSwwYJPlY9yl187qWYwVDE3pdwE74uBIe/k+hN1QgTheI2b1izHizSnQwRkWh2dTSn61SSzKVwfzOhC3x/GZ6P7+5orpMHginBSbxyFnd1o=;nmWT21IaPUdEXJsVmKKHqQ=="
 ---
 

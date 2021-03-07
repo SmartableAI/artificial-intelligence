@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI ‘Deep Nostalgia’ Images Have Deep Limitations"
-    excerpt: "News outlets and social media accounts have been overrun with old photos that have been animated with MyHeritage’s “Deep Nostalgia” feature, an AI-based"
-    publishedDateTime: 2021-03-02T19:05:00Z
-    webUrl: "https://petapixel.com/2021/03/02/ai-deep-nostalgia-images-have-deep-limitations/"
-    type: article
-    provider:
-      name: PetaPixel
-      domain: petapixel.com
-    quality: 39
-    images:
-      - url: "https://petapixel.com/assets/uploads/2021/03/wedidnotdetectfeat.jpg"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "'Deep Nostalgia' Tool from MyHeritage Brings Motion to Old Family Photos: 'A Wow Moment'"
     excerpt: "Gilad Japhet, the founder and CEO of MyHeritage, said the new feature \"provides a profound new way of connecting to our family history\""
     publishedDateTime: 2021-03-04T17:34:00Z

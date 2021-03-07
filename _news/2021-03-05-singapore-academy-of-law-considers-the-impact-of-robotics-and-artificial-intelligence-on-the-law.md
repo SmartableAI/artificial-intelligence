@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/singapore-academy-law-considers
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:
