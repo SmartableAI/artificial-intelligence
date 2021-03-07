@@ -129,20 +129,6 @@ related:
         width: 702
         height: 478
         isCached: true
-  - title: "Microsoft Ignite 2021: Azure Percept pushes AI to the edge"
-    excerpt: "Microsoft may have given up on smart speakers for the consumer, but the company hasn’t given up on letting others build intelligent devices based on its own technologies and hardware. On Tuesday Microsoft launched Azure Percept,"
-    publishedDateTime: 2021-03-02T17:14:00Z
-    webUrl: "https://www.techcentral.ie/F9R84"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 69
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/03/Percept_Dev_Kit.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "This Microsoft app transcribes, translates group conversations in real-time"
     excerpt: "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi"
     publishedDateTime: 2021-03-04T06:00:00Z

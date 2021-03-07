@@ -28,22 +28,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Cognitive Computing Market (2021 to 2026) – Share, Size, Trends & Industry Analysis Report – Kennethresearch.com"
-    excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
-    publishedDateTime: 2021-03-02T19:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-to-2026-share-size-trends-industry-analysis-report-kennethresearchcom-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "oSU8WInB3gfvDXbXZpNR3kYF0o6rDffOLeTYNk3KD+tA6PfubgtPiou/0qCn25751NTCMCbGGtd6Kgs32xaiSAFHDpmqEt0G9X5LlfpvL8U8I5Mwxlqfuq8B3syPXKPPoobmTeXApdIK0p6YMAy9XSdUqTTrJViKatUa4VE8Onf5Q7zY7GXoAutM5JqhDhJnbn8HLJvM2wI0DDccDZkuRcNKIO2edwA8fdGpwu2cwzyzlaD+N3iY+MCuSlLA6QaeW3aXImHsCk3lghQH8tHZ0Su7u/e3al1niCR+6v2kajO6aTJ/ncNOEhqO19lHzFbw92DLLcb2BTpBuHNexfKLERmkABVbxq/wBp7+xgfbGUc=;oW1SdUO46mjjb89GU21sAw=="
 ---
 

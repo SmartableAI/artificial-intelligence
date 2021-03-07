@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-
 webUrl: "https://www.marketwatch.com/press-release/pga-tour-selects-aws-as-its-official-cloud-provider-2021-03-02"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,17 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "PGA Tour teams up with AWS to improve fan engagement during tournaments"
-    excerpt: "PGA Tour selects Amazon Web Services as its official cloud provider partner as it sets about revamping tournament viewing experience for golf fans."
-    publishedDateTime: 2021-03-02T17:54:00Z
-    webUrl: "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments"
-    ampWebUrl: "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
   - title: "PGA Tour Chooses AWS as Official Cloud Provider"
     excerpt: "Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR. Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR."
     publishedDateTime: 2021-03-03T08:15:00Z

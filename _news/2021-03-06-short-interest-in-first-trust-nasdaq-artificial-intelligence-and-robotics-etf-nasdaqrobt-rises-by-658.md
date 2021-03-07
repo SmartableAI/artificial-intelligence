@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "1,341 Shares in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Acquired by ShoreHaven Wealth Partners LLC"
+    excerpt: "ShoreHaven Wealth Partners LLC bought a new position in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) in the fourth quarter, according to its most recent filing with the SEC. The firm bought 1,"
+    publishedDateTime: 2021-03-05T08:37:00Z
+    webUrl: "https://theenterpriseleader.com/2021/03/05/1341-shares-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-acquired-by-shorehaven-wealth-partners-llc.html"
+    ampWebUrl: "https://theenterpriseleader.com/2021/03/05/1341-shares-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-acquired-by-shorehaven-wealth-partners-llc.html/amp"
+    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/1341-shares-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-acquired-by-shorehaven-wealth-partners-llc.html/amp"
+    type: article
+    provider:
+      name: theenterpriseleader.com
+      domain: theenterpriseleader.com
+    quality: 64
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks13.jpg"
+        width: 1024
+        height: 663
+        isCached: true
   - title: "D.A. Davidson & CO. Makes New $8.95 Million Investment in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
     excerpt: "D.A. Davidson & CO. purchased a new position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) in the 4th quarter, according to the company in its most recent 13F filing with the SEC."
     publishedDateTime: 2021-03-05T01:40:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2021-trend-analysis-growth-status-revenue-expectation-to-2031-2021-03-05"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -28,33 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027"
-    excerpt: "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during"
-    publishedDateTime: 2021-03-02T18:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02"
+  - title: "Cognitive Computing Market (2021 to 2026) – Share, Size, Trends & Industry Analysis Report – Kennethresearch.com"
+    excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2021-03-02T19:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-computing-market-2021-to-2026-share-size-trends-industry-analysis-report-kennethresearchcom-2021-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 33
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Pharmaceutical Robots Market Size Worth $297.4 Million By 2028: Grand View Research, Inc."
-    excerpt: "The global pharmaceutical robots market size is expected to reach USD 297.4 million by 2028, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 9.3% from 2021 to 2028."
-    publishedDateTime: 2021-03-04T09:16:00Z
-    webUrl: "https://www.lelezard.com/en/news-19681934.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 30
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "Wpr69xXsFAG/yS3Iw67+IhT3bypDIGzKlwyDQ9GC7+clbp07XN+sZ5pwLtRD+z6yyhStVKxLhNI2/XMh6Zeu9NUMcbvWiFq6b4+D1xQ60e+/ZBYeHszOsxmQ4x0d2VYDbI3kCAzAtNx8Cuz+GvBZhMLhYSHFiaPBRbm14Cw1DagZ4bcrpOLMF5bHvteMKZLKxeVxfSi/eKgWGaoJgM0MxHCfSgJi/Kstl6wvSQ//qZGZDRBk6IUepbhEELet7SuThQMZVicKguB84HOQpSeIu63hREdDhKWp5r4Zdaphlqg0ljpVMFs3OOb7zFdsPEn70N5kQG2eUrS2ehwusNeriC94gF3lkigSBmpQUKt5GtA=;WTTj25eDtFJuj4O11RKGMg=="

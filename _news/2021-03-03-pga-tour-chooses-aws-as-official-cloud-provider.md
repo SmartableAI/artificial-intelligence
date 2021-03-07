@@ -44,17 +44,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "PGA Tour teams up with AWS to improve fan engagement during tournaments"
-    excerpt: "PGA Tour selects Amazon Web Services as its official cloud provider partner as it sets about revamping tournament viewing experience for golf fans."
-    publishedDateTime: 2021-03-02T17:54:00Z
-    webUrl: "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments"
-    ampWebUrl: "https://www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252497159/PGA-Tour-teams-up-with-AWS-to-improve-fan-engagement-during-tournaments?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 39
 
 secured: "sCYV1pL62o68+QJWiKiK7Xkf5Q38OT8QluTgJ8HIowKsLQftO3YWiO/Cj96gcuTp2X3++LWQYsvfOkItJzGbtM3CFnSUEJ/yv0y28FFKPH0FYfJVBLB6JfGK1w37yAi/o/RJN1Sd58L8GwytztHcs7rNP+pW/Z8eEkeP7Y6eZHfa5Zur4iI2TWBjlws4nZhEK7Ll0B5E+zGGY/qrfDjgaP9o9Id4+vTTtOiUe89kcixJg9gxhr7sO7AsGA07q8tmmEyeB9VcUvzIsGxZg+A2+Mz0/HOCtNP9nD5TAaJNOoBjEkHRfvDjFC8+gcV5WLJUbfwnQ9j1jcUNK4GgCcl1YWS9HCVp1u/OIwHFM1acPUw=;G2KZCq2c7sSZRbRnlOeeHQ=="
 ---

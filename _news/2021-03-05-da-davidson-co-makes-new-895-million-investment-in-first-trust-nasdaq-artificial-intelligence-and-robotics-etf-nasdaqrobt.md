@@ -59,6 +59,22 @@ related:
         width: 450
         height: 323
         isCached: true
+  - title: "1,341 Shares in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Acquired by ShoreHaven Wealth Partners LLC"
+    excerpt: "ShoreHaven Wealth Partners LLC bought a new position in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) in the fourth quarter, according to its most recent filing with the SEC. The firm bought 1,"
+    publishedDateTime: 2021-03-05T08:37:00Z
+    webUrl: "https://theenterpriseleader.com/2021/03/05/1341-shares-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-acquired-by-shorehaven-wealth-partners-llc.html"
+    ampWebUrl: "https://theenterpriseleader.com/2021/03/05/1341-shares-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-acquired-by-shorehaven-wealth-partners-llc.html/amp"
+    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/1341-shares-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-acquired-by-shorehaven-wealth-partners-llc.html/amp"
+    type: article
+    provider:
+      name: theenterpriseleader.com
+      domain: theenterpriseleader.com
+    quality: 64
+    images:
+      - url: "https://www.marketbeat.com/logos/generic-stocks13.jpg"
+        width: 1024
+        height: 663
+        isCached: true
   - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200 Day Moving Average of $26.66"
     excerpt: "Shares of Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $26.66 and traded as high as $29."
     publishedDateTime: 2021-03-03T08:29:00Z

@@ -1,18 +1,18 @@
 ---
 category: news
-title: "AI reveals current drugs that may help combat Alzheimer’s"
-excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat"
-publishedDateTime: 2021-03-07T08:38:00Z
-originalUrl: "https://www.canindia.com/ai-reveals-current-drugs-that-may-help-combat-alzheimers/"
-webUrl: "https://www.canindia.com/ai-reveals-current-drugs-that-may-help-combat-alzheimers/"
+title: "AI reveals current drugs that may help combat Alzheimer's"
+excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications"
+publishedDateTime: 2021-03-07T09:34:00Z
+originalUrl: "https://www.glamsham.com/world/technology/ai-reveals-current-drugs-that-may-help-combat-alzheimers"
+webUrl: "https://www.glamsham.com/world/technology/ai-reveals-current-drugs-that-may-help-combat-alzheimers"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Canindia.com
-  domain: canindia.com
+  name: glamsham.com
+  domain: glamsham.com
 
 topics:
   - AI in Healthcare
@@ -133,6 +133,6 @@ related:
         height: 812
         isCached: true
 
-secured: "QI54O6KGqOhgxhza9vTOZpPzxVQHiwI8Dukqr7sY5zzGKxExsoFI3mntZXXqrWlTIfRPpCESjS6BeI0aHFVv4HaID4mFDxGT2BO4vkxdCL6oqgIscK7GfdFWcILFn2gA7p0PBPuGnd6JH98ATFN3UrP4kYOkgEXjAweZv9SyDb48CwRDwBL9XE9+EXcesGZCLqv5NDz12oYIU+uSl+ZdTAKROBLKKiEML4U7zXCeo4YBZt0wScI0TLqr7shtCWRZ1IE0wen79QGdc2fJ8REvr+wD4OKpY9er1j4k/LeyocnrLAQbGIXig8bDl/irVF4xsdQrLXtBkwf7/jeghtrep1gHvAnayXpBJX8lT8O6mDc=;FUGTVgFNOZa+tjXV3uqPVw=="
+secured: "xRb4m+112SE2LwgXSiMTqY97EaOzV0jD7CHXC+iMrO2waHjxaO0ElKpdPJjFa+sNpaQS3+XKegThpDa0RC2qCS7W5ONo6P6Hv0LSvmO7iKfCeGb4wmiBapUWhMTxWLJN7pQMZ1hjAjPd46S8o/02y/YrbaY1M5wQjGyQFt6s2Li+0Y7l9hLEPHdt7PpxC7Oll6L61n10vTMzaqHYwpDBOImCd37o2DOvpxsPCjf6rAUPOHgMyfHUxZDgsRF+WpG23fu9teIzcNbMa4AixPRb57f02sMkbQFhZ11tUveA2K81uhanMAKWIgzq5YCoLhCR8RKbFcJyhl2iXhQ9bI+g7oAMf4k5ATCVb05ZKmWZXQ8nLng2fIVtNw0SECan7oDWiL9OAtBsUagqkkC/BZLrivugRmh/cIviBdS7aQlrBTkuKVMTTqMaCPLSTsujCKzKNtbEm//pLgqadosu++aeB1L4YwxMDk55bkI6nB2ByTzP162Rqnyz8Rzkfd4mkycufsy2wWa8oXXVYf43uRXa/w==;E9Whl5EjXJp4a3dkHuSqyg=="
 ---
 
