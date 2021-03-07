@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare AI Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
-    excerpt: "Mar 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Healthcare AI Market report elaborates"
-    publishedDateTime: 2021-03-02T16:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025"
     excerpt: "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,"
     publishedDateTime: 2021-03-05T00:16:00Z

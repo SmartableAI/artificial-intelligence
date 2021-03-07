@@ -57,6 +57,22 @@ related:
         width: 810
         height: 545
         isCached: true
+  - title: "Vision Chip Drives Rise of Self-Driving Cars"
+    excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
+    publishedDateTime: 2021-03-05T23:47:00Z
+    webUrl: "https://www.thestreet.com/tech/news/ambajdm030521"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"
+        width: 620
+        height: 326
+        isCached: true
   - title: "Honda to sell limited batch of level 3 self-driving cars"
     excerpt: "Honda Motor Co Ltd on Thursday said it will sell a limited batch of its flagship Legend sedan equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways."
     publishedDateTime: 2021-03-04T00:52:00Z

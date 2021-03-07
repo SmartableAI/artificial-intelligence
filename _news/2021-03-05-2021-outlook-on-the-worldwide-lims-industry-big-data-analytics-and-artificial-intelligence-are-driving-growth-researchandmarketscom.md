@@ -50,15 +50,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
-  - title: "The New Era of Deep-Learning Based Video Analytics"
-    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
-    publishedDateTime: 2021-03-02T15:52:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 4
 
 secured: "m7afv2hx2AlGKawPnATxgEcT+pzmZQzRu224N91ExElPsP4L+JqsI4f03FJhqMNKvm5L6IEVHbZOsId4wMOygpacHoFYEv09X4EPGfRUaKNq339S9nGcfhwOE8TpSHxQlwdG1L0Xy+PnJsVjT6VcwxvjA5nxzZBGhTQ4+SJi7ZsRiOIgs6K9ZTnfpYwGZDjAdnHZgxcgTRyby8A9WHa37f43vQAvL1E6S0fFu0uF4wy8k0J7d/97HfEEZy05Oe4PfiP++ow0hFJdKc74B+a9V4Xb9GbZWZFaWyFAypxjzNLPVqHaN/hQ/qvadDckj0z7VZkzoxcc3Qba1c3hdgxbbxo4LP3Oz6+uyU8zjVWNC+M=;TlyGQypjiaJK/PRd8JTHUA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500
         height: 324
-        isCached: true
-  - title: "An in-depth look into the Kalifa Fintech Review ahead of the 2021 Budget"
-    excerpt: "The release of Ron Kalifa OBE’s Review into the future of UK fintech set off a tidal wave of support across the industry. The Review outlines a plan to “bolster” the UK’s dominance in a global setting,"
-    publishedDateTime: 2021-03-02T15:45:00Z
-    webUrl: "https://www.finextra.com/the-long-read/152/an-in-depth-look-into-the-kalifa-fintech-review-ahead-of-the-2021-budget"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 23
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/152.jpg"
-        width: 800
-        height: 449
         isCached: true
   - title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
     excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to be impacting"

@@ -58,20 +58,6 @@ related:
         width: 600
         height: 439
         isCached: true
-  - title: "The cloud revolution is just the start for B2B payments"
-    excerpt: "The mass shift to remote work has blurred lines between consumer and business pay, creating a greater push for digitization, says Billtrust's."
-    publishedDateTime: 2021-03-02T16:03:00Z
-    webUrl: "https://www.paymentssource.com/opinion/the-cloud-revolution-is-just-the-start-for-b2b-payments"
-    type: article
-    provider:
-      name: PaymentsSource
-      domain: paymentssource.com
-    quality: 22
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/d70f430/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fad%2F81%2F39cf4c614dfab01cbbbc97a5492b%2Fjustin-main-billtrust-2-1.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "tW5R9brSvu6KKMK7Ua7nAs923epahvGe/2wgHC8p6MxKHQ+nzv/mcB79oPLp6FrwAbCz2QUefASfxgN2yut3YgWvSi7DwXr5wD4nbMs2r4OaLkbAO84HUsyUmbXE2KKs8a6vx9vtoN1FpKIqorVsd4EW/udl1aSIEfDVaXOpMZNiYwyD1KJPUjctrd8J6A82cJk+cBbUhbGWnUb3FmwTm5SNmIw9P6g61eCn6xBB/3wI3vz4AVnD/71MxJ7rcDDWE99oZ1GUsx+LdgcsLIoWIgwm0EYJhTY8dgaPvt0regPUumsbT+m3la2dqlCtoMMsaYsGLyth7RbHEV3JDWLtunVHbVSe9TBaSoyvfnbT97Nl3JOcd9r7HT4CX/+Nvaab06A+N06Hi/HngBSmfvKP1H9Ddv63xQ0IyRgy8dUT15YYBt9tL0qW5nafqvVNjXgT+z2F2MD4voLMc0bLUgUmaEDbrTQV1s7N9NOZb5GJemj6JlF7YToL6AALytk81If0LCnDk6CefTU3G/fcQ7YgGQ==;v17nDTezLygfeyEbxJcl5g=="
 ---

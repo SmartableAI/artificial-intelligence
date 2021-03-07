@@ -56,22 +56,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft Azure updates allow businesses to maximize the potential of hybrid cloud"
-    excerpt: "Microsoft today announced new capabilities for its Azure Arc service that will make it useful for what it hopes are a wide number of various cloud computing use cases. Azure Arc allows users to manage their servers and Kubernetes clusters across on-premises,"
-    publishedDateTime: 2021-03-02T16:48:00Z
-    webUrl: "https://www.techradar.com/au/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 98
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-480-80.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Azure Percept helps Microsoft users make the most of edge AI"
     excerpt: "Edge computing allows an increasing number of standalone mobile devices to perform tasks such as image recognition, response to voice commands and textual translation, without access to the cloud. During its 2021 Ignite digital conference,"
     publishedDateTime: 2021-03-03T14:19:00Z
@@ -161,20 +145,6 @@ related:
       - url: "https://pocketnow.com/wp/../files/2021/03/live-transcribe.jpg"
         width: 1221
         height: 696
-        isCached: true
-  - title: "Ignite 2021: Microsoft announces Azure Percept – AI technologies on the edge, simplified"
-    excerpt: "Microsoft has launched a new hardware and software platform called Azure percept in the public preview today. The latest offering makes it easier for customers to develop and implement AI"
-    publishedDateTime: 2021-03-02T15:17:00Z
-    webUrl: "https://www.onmsft.com/news/ignite-2021-microsoft-announces-azure-percept-ai-technologies-on-the-edge-simplified"
-    type: article
-    provider:
-      name: On MSFT
-      domain: onmsft.com
-    quality: 60
-    images:
-      - url: "https://www.onmsft.com/wp-content/uploads/2021/03/Azure-Percept.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "This Microsoft app transcribes, translates group conversations in real-time"
     excerpt: "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi"

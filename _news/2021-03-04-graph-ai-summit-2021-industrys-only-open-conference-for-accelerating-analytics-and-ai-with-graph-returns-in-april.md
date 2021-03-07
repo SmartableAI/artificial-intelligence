@@ -52,15 +52,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "The New Era of Deep-Learning Based Video Analytics"
-    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
-    publishedDateTime: 2021-03-02T15:52:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 4
 
 secured: "krJHLoh4tPtXA0sd5hQJnNr3PRbtfjlWltpY+kWP001umw9Tj3TPgQ7VEPVKibZhszXnl/KWcz5dGmzVsUpnzegWZVieJKh3ET6s1WnG46lWbg7ajwkKE9EEJRMaD9tIZj1zrujFFgXzDTod93DpO+jhFzS14npd1CD3uTby8qp+abIRVhMTfRxcISHZ+jKCBEYZLRzGe3OjftUhB7/WHbkYCMUis5XUdi2Q5nW928flkcBd/730ylLRlR+efrbnc1QuLuEuTfZz35de2Wn28HMMZ5QzJIYLbFOuU4gJHsTw5pmvKU2JqeAD4hiT9/hf+9NUC0CIsHP3d4rdd354N3NjGfPUnwrecTqlqWV6reY=;nZkqMrrVuPUBHfmhhfk4ig=="
 ---

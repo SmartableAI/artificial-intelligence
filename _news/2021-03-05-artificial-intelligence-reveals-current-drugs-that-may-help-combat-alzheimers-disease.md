@@ -124,6 +124,15 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "AI reveals current drugs that may help combat Alzheimer’s"
+    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat"
+    publishedDateTime: 2021-03-07T08:38:00Z
+    webUrl: "https://www.canindia.com/ai-reveals-current-drugs-that-may-help-combat-alzheimers/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "qgs6mXwu+miJncXX9wYm5WOU8ELqcgxWK33uKzEMK8xNDV+T1UlI7xeotbRPHLGgYiGwJjn5V9wXVTjzi2YMMyGzLKfBP91D1btrLRn7PFksxHtp7xcGP8c82hflz4tmgbFhUBjuJ5/lOsgifyKXtmadu0LIr7sTdf+BYVhos0ItfeqoUG3LEt/azxKYN1/8AdcWsQAHR/Gj8N1VZ2BrkYZs5CSpEqUI6d13FXaw7dbvLMwwvF9BYKqbPLWpAbL7uzEhZZKS4VuipQkh7503ktYyomA5eW04wVJ4KFMKaHYr42x0au5hbbaSn2K+c7GlOPZOITAWdkgP4+qov9FpdXZOdHAVz/mjqKREZ7H9F0+EqPEDs3svQLW/XK10DlBGOracJdA5C2QFo3Wak2uB+Krxo1rWO81UAeJw+HNoNfgjOhDAA7zLnPJSb9d8veCmE+vpsGUq9Q5+MDCn7Ugv6ePn5+6tS+vlD9hAxJjaUEJ0qI4pHmDfRZfqxGh7TbktuRYtr/FgqrBaffALhw8oLg==;5WkeIWO72XuvlNDJXKXp0Q=="
 ---

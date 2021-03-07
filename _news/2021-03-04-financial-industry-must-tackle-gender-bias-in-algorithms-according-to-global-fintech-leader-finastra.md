@@ -113,20 +113,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "An in-depth look into the Kalifa Fintech Review ahead of the 2021 Budget"
-    excerpt: "The release of Ron Kalifa OBE’s Review into the future of UK fintech set off a tidal wave of support across the industry. The Review outlines a plan to “bolster” the UK’s dominance in a global setting,"
-    publishedDateTime: 2021-03-02T15:45:00Z
-    webUrl: "https://www.finextra.com/the-long-read/152/an-in-depth-look-into-the-kalifa-fintech-review-ahead-of-the-2021-budget"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 23
-    images:
-      - url: "https://www.finextra.com/finextra-images/oped/152.jpg"
-        width: 800
-        height: 449
-        isCached: true
 
 secured: "Q+jowSfmLa/kuTNTg6iCx/IXTlbvSVSJoQKVkqa91zthLpjuPfSgQ+DvO3/CO1j5O+sujWSSrh3jg/CRvSy21+Wxcwtsvhj69oMYP6ZMVF8qU6tsbVHT7BECGL2xsH+ifrLsa1EeTM+8Za8PUjtMOvPv3SwW1y4C2wEuiBeWjBM9atqBu0iXjk0ke/61lk74C22AeJEePw3vlUkRy9TAeGNk4k+ydFs7qEJGKnqNhpQjvTRj0Au0hJzgJBaaWGPRjpKDh7zePKw8OcJgC64WZ2fxJtQCpJYV/TKLOk3I16QbwiaDwSfC+mNtl2HlsE65NDm0GYbqDzhCmmsxEyr4V6BZUngfZj0u1lKVhwFDRRgIzOc12TY/bC/yMyWkw2TS0ArSNN56lDElrtI55NCsE8ibCpX9P/OoIARi7v/4QkZkLKmEPyOv90PQN0aCjJdab0F79daHj76nwMbN5UxQQDWt9ZQmV82CYQGb+9HQXCZ4D2Yk4A7ayVgYnjUVrmxkIFUx5bDgLiUEFmp/Y08Ckw==;uN861GXnRq7/hUXb7y0BHw=="
 ---

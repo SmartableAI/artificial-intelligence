@@ -26,6 +26,22 @@ images:
     height: 1067
     isCached: true
 
+related:
+  - title: "Study finds most drivers too fearful to ride in self-driving cars, value safety improvements instead"
+    excerpt: "A report from AAA found that only 22% of drivers want manufacturers to develop self-driving vehicles. A whopping 80% of drivers instead want vehicle manufacturers to focus their efforts on improving current vehicle safety systems such as automatic braking and lane keeping assistance."
+    publishedDateTime: 2021-03-03T00:09:00Z
+    webUrl: "https://www.kusi.com/study-finds-most-drivers-too-fearful-to-ride-in-self-driving-cars-value-safety-improvements-instead/"
+    type: article
+    provider:
+      name: KUSI
+      domain: kusi.com
+    quality: 9
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kusi.com/content/uploads/2021/03/doug-shupe.png"
+        width: 1270
+        height: 718
+        isCached: true
+
 secured: "wyEDADRvzypjHQg9WvWunjGpeoAiFQlZtRV5F8NrIfx5gBwefngZc3+ix0xUu17OH+oR64z7ZJ9djZtBDkWhNqPD51H3SFwxweocuMKw1LfskrsuTCaLmYbf9A3/4cZwpwe8cGZolN2jU28CcxhbD2Dg5ipworr+7HtZh6nHvpuATVETERv/Ci3mv6poHu5r+5CJwc83N+sMnaw2rfxgXZbwSw3rS1qjXwmvkCe6zknmrG8Lf9suCTj3UjeD9CwUxVL+lqJkqhpEkvFFBdFVVEgxMdG6CE3SNK28jm3rzks7ObbkuUQCkc2x724DRyHeMABc9kfXWGZMrAqZl2NtQO1C8RM0EXKAC70jKOAcPyOOtRTuFifL50eltO5mNFA5XNjlENNfDjdiLXI5EGdBEn4lpzQoGaRRqoWcgXwpUpgHnNgsK+I1zKGcvVitaEPlJxcOwVhgK53qGXVgoBUvJnaW6j3Ph53LfW2AuoxCunGdC+5cB9b3AH9162amQUKYD5BHAV4aQNUSsaJYrdPkRA==;UQWZRCTa0+ri4lSf+pmEkg=="
 ---
 
