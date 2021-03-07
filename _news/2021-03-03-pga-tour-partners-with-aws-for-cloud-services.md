@@ -80,17 +80,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
-    excerpt: "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world's greatest golf tournaments AWS, First Tee,"
-    publishedDateTime: 2021-03-02T14:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/b19937805/pga-tour-selects-aws-as-its-official-cloud-provider"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19937805"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19937805"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "PGA Tour teams up with AWS to improve fan engagement during tournaments"
     excerpt: "PGA Tour selects Amazon Web Services as its official cloud provider partner as it sets about revamping tournament viewing experience for golf fans."
     publishedDateTime: 2021-03-02T17:54:00Z
@@ -102,29 +91,6 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 39
-  - title: "AWS Makes It Official With the PGA Tour, Will Power the Tech Behind ‘Every Shot Live’"
-    excerpt: "Amazon Web Services will collaborate with the PGA Tour and power the technological infrastructure behind Every Shot Live, the enhanced TourCast leaderboard, historical footage indexing, and other features."
-    publishedDateTime: 2021-03-02T14:00:00Z
-    webUrl: "https://sporttechie.com/pga-tour-aws-amazon-web-services-every-shot-live-golf-technology"
-    type: article
-    provider:
-      name: SportTechie
-      domain: sporttechie.com
-    quality: 32
-    images:
-      - url: "https://sporttechie-prod.s3.amazonaws.com/pga-tour-dustin-johnson-tee-shot-social-image.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "PGA TOUR Selects AWS as Its Official Cloud Provider | Morningstar"
-    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-    publishedDateTime: 2021-03-02T14:09:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20210302005466/pga-tour-selects-aws-as-its-official-cloud-provider"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 19
   - title: "AWS official cloud provider of PGA Tour"
     excerpt: "Amazon Web Services (AWS), an Amazon company, has announced that the PGA Tour has selected AWS as the Official Cloud Provider of the Tour. AWS and the Tour a"
     publishedDateTime: 2021-03-02T16:13:00Z

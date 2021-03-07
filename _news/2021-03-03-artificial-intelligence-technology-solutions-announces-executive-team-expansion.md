@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-executive-changes-transportation-infrastructure-products-and-services-866b812cf5f541b4a0cb36831092ce2f"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "Artificial Intelligence Technology Solutions Announces Executive Team Expansion"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc.,, today announced that Garett Parsons has appointed Steven Reinharz as CEO, CFO and Secretary of AITX. Steve Reinharz CEO, Artificial Intelligence Technology Solutions,"
-    publishedDateTime: 2021-03-02T14:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/artificial-intelligence-technology-solutions-announces-executive-team-expansion-2021"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 45
 
 secured: "oA5vByVGZBFLo1Qhw+FXBPEb+GbVfzgBOjIPaTt+qgbON6yXJ82mQR0kVQ05gDS1MqtWk4H94LnKPFh5oMtMPhFjDkKqPBIppckK5nPDNttfa0xeRJ7bds6YuKq/QA1xW3e84pdIyhREFA9OZQ/DTUaDf6n6aMEULAEWqfAqa0hJofwpwfWnHoZwzT1O8YBbHMJvg4H3YPUCSXVWmNtp3Rt7BopqkJG5UwpCq8hkW7t4T25GemRxKXlV7aCj35z92IUpWQCi8Be7CXYwfuZ5gx/TbsLvTghRs3eQHHiwOhlYZoJfFB8l2HZYIXowjk/BbEg1BhTi1P71k5SCcKssyzcKL5nzdDq1FpL1Vu5L3mM=;4FnxN/kTp1eZwa/+AreKKw=="
 ---

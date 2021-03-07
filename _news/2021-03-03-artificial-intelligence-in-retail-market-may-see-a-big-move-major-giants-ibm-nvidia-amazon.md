@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon-2021-03-02"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP"
+    excerpt: "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors"
+    publishedDateTime: 2021-03-03T19:34:00Z
+    webUrl: "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
+    images:
+      - url: "https://cdn.openpr.com/U/3/U303350659_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "NVIDIA Inception recruits Peritus for AI advancements"
     excerpt: "Peritus.ai has joined forces with NVIDIA Inception, a program designed to nurture start-ups revolutionising industries with advancements in AI and data sciences."
     publishedDateTime: 2021-03-04T11:50:00Z

@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP"
+    excerpt: "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors"
+    publishedDateTime: 2021-03-03T19:34:00Z
+    webUrl: "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
+    images:
+      - url: "https://cdn.openpr.com/U/3/U303350659_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "40FzPyfJ5n6ldshoeafTaLxI3hxTlMUTUL7fRKLqHQfbIzkLKWcdK+E/5y/lc7kI1Xbm6MQPTRgoohgsHFbgFJcTHu43vrkcgz/wV80pnDQu/ts9KZwUf5vSoqU3/3tTIC9aVex7JwSx8w9Gx3XvMbM85AUo72SwIhNwMiAWWfAwzZ9tEkIJB6n/wEqUOQCZc6jyeDOaxgAaMYi1M9JMaZn3Gp+8PGXo9ZeE1mJ/SgxeVEO2MxqrOQhbAthnuTkioJjQY2DH3Dhprzv34n3lP2lSgNUooNZH8vMaYAtBmHY5iKY4Nf815PWFpfy6sHdHrMzeGIiPIcmMX3g8zEe6sQRCcagP/tXcgCCgXTsoswY=;kAEVJDPnWQbWgBSEw77oeg=="
 ---

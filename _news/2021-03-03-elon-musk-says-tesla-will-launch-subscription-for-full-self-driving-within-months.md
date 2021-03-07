@@ -70,6 +70,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon"
+    excerpt: "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."
+    publishedDateTime: 2021-03-06T00:00:00Z
+    webUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/"
+    ampWebUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 57
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/VAOG9/s1/tesla-full-self-driving-fsd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "fi77/9Qt2RMqReqh4ygeEC6HT/LEnkmE8QqvkUiB/WK4Ql8i6wc6V6VB9x+dryRuMnaIsLmqRlyicU5sh3C6aI6GSMxs5yUdsYWeQSRutF8zas3kwyKkL21W2sJqErbQw2AqR4j/kTf1Wvm45uFheMg60/5gBmU/293PDysrHHDg/EDIclvg5FyTUtzZD4QL/amooFXVdlLSVIGT30FhGfPSPazDD+Kzi9je0mpQEtSxoRAwe1WEffmf/zO1cj0qj7OYtpHrrbbb0CyXz0Yziq9iBe7GAf2xlLsd37lPFjDzliyz2F3rBNkH7GO/Bk+IaASwlal5OV9UPBe+IE5K0mNxK/y+quslRCEjiuQ4FjDlQSrppPy1UpI8hcoXxG+VJZivm942a7iPtbyyj58T0JS7JfZsLdiBeK3OH5mTxVAU54UiGvFmoiLwAiNRXsNwyZ3WE1+TntYRz4UQPx7K3Ji5b+Mk5GCKI1dzBUIZRnd+UcSXHMxHoOVl6erwiocWnKS3opkMpVZx/Z8QUOECwA==;dweB/HZEuoHP7qEJSy/3Kg=="
 ---

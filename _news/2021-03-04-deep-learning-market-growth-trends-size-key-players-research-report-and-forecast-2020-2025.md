@@ -123,20 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Share, Growth, Challenges, & Global Forecast 2021 to 2026"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market experienced robust growth during 2015-2020."
-    publishedDateTime: 2021-03-02T13:18:00Z
-    webUrl: "https://ipsnews.net/business/2021/03/02/voice-and-speech-recognition-market-share-growth-challenges-global-forecast-2021-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 28
-    images:
-      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Voice%20and%20Speech%20Recognition%20Market.jpg?1614687366276"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "tBM3zRm7PlOa9U1oKlnkFr4QcjE8R097CaMQQ/8KL79i9y4OU4DF4yiBl3jTxTCc3LPDWISXN6VfceX8ekHTbnNXtE4OTvmp8QSoarPI6GWnlE33MRSMvmpACu/QHsx4V4EPrs4CC8pzrEmkdB07UKHpZFS+W9l50T7haREM7r/G9+gawvgxPjjtu1a+akywshKhHgq/uoz0SPR/JDgh6wREEROhvdYWeMpLHoxKEb4oZBDO/28yVmRTxtBV182WKlsHQPYxoyBQaaNMsxgp/iXH0oR265XLRM3wyu7LdJoDKrDHFqOvB3mzn1SsYCfrVlmzb9iZV3dEcZG8utYUVPPuzF78J3xVhqdOB1Xa7YM=;fInj6Cqqc5M7Zw4iFw+m4w=="
 ---

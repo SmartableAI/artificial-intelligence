@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cognitive Analytics Industry (2020 to 2026) – Key Market Trends and Drivers – Kennethresearch.com"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2021-03-02T14:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-industry-2020-to-2026-key-market-trends-and-drivers-kennethresearchcom-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Computing Market (2021 to 2026) – Share, Size, Trends & Industry Analysis Report – Kennethresearch.com"
     excerpt: "Market Synopsis The Cognitive Computing Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2021-03-02T19:12:00Z

@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon"
+    excerpt: "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."
+    publishedDateTime: 2021-03-06T00:00:00Z
+    webUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/"
+    ampWebUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 57
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/VAOG9/s1/tesla-full-self-driving-fsd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk Says Tesla Will Launch Subscription for Full Self-Driving Within Months"
     excerpt: "The advanced driver assistance system will be available as a monthly subscription sometime between April and June."
     publishedDateTime: 2021-03-02T21:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/can-employers-use-artificial-in
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "The New Era of Deep-Learning Based Video Analytics"
+    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
+    publishedDateTime: 2021-03-02T15:52:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 4
 
 secured: "0Lgzh1YCF6mCQG/YyP/tU7i9qGLF61lxFPQDBWEMzNR7L4gyxFxHB5GqStPszpL8FlG33FEDL63s7VcfpcmKXn1hD12FVAgiK2XlgCFH6lbxy1dZWcqtBgOzeu7zVnuMkVizMBEVBiPp8O0E8A8/ER5NEnrXOwe6Lso3QD9I4shGeGSWNDuqHELBOuiYgyiVwfNOkdzeKGw8+w+NvopHOFeblx8UoeC2LRgry9FqQa4PtzmhqW9YekX3yQBbAczyDBk72QXKqK+Z7dQV43pvEUwbWlO1T+WbrN/xhzI7i3zjOX3TypVVKtJfOl2iNN5n0JQdE7/yCv1toPfHR1dZXi2PNMmF/20RHTCPOUjkX/Q=;hdXiYkwVSezvYu8W0XZOGA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/deloitte-partnering-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deloitte Packs New Center For AI Computing With Nvidia DGX A100s"
-    excerpt: "The new Deloitte Center for AI Computing has been established with several Nvidia DGX A100 systems to accelerate AI development for clients."
-    publishedDateTime: 2021-03-02T13:20:00Z
-    webUrl: "https://www.crn.com/news/components-peripherals/deloitte-packs-new-center-for-ai-computing-with-nvidia-dgx-a100s"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0267-11b375c42835-4f492c0cebc7-1000/nvidia-intro.jpg"
-        width: 399
-        height: 399
-        isCached: true
   - title: "Deloitte Teams with NVIDIA to Launch the Deloitte Center for AI Computing"
     excerpt: "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate"
     publishedDateTime: 2021-03-02T20:09:00Z
