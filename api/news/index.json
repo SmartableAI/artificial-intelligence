@@ -682,7 +682,7 @@
       "originalUrl": "https://www.cnbc.com/2021/03/05/china-to-focus-on-frontier-tech-from-chips-to-quantum-computing.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1131,6 +1131,40 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-exploring-the-intersection-of-genomic-data-and-ai-in-healthcare.md",
+      "title": "Exploring the Intersection of Genomic Data and AI in Healthcare",
+      "excerpt": "While artificial intelligence in healthcare has the potential to gain actionable insights from genomic data, longstanding challenges could hamper efforts to achieve precision medicine.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
+      "originalUrl": "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
+      "publishedDateTime": "2021-03-04T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
       "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
       "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
@@ -1182,58 +1216,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
-      "title": "What the swarm of new Azure announcements mean",
-      "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
-      "publishedDateTime": "2021-03-04T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

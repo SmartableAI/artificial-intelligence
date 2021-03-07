@@ -43,6 +43,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025"
+    excerpt: "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,"
+    publishedDateTime: 2021-03-05T00:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
+    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-03-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
+    publishedDateTime: 2021-03-03T22:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-report-2021-2026-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
     excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
     publishedDateTime: 2021-03-04T09:48:00Z
@@ -70,6 +112,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep Learning Market Growth, Trends, Size, Key Players, Research Report and Forecast 2020-2025"
+    excerpt: "According to the latest report by IMARC Group, titled “Global Deep Learning Market Research: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,” the global deep learning market size is expanding at a robust rate."
+    publishedDateTime: 2021-03-04T04:30:00Z
+    webUrl: "https://ipsnews.net/business/2021/03/04/deep-learning-market-growth-trends-size-key-players-research-report-and-forecast-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 27
+    images:
+      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Deep%20Learning%20Market%202021.jpg?1614844768634"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "77OMokEZCVcB2dFTr/h2X/NUZ7/fFg+4/BKWm0DvMree/a2+CYrN9lvpc98di2eeVejocrSu+i6DYmjJU+qmJTKfhwoW7XWrRhuqVXxEnZ3gmL5JiXTeMSQIiwcxQfCCoyYle9VWKKUCQcq8TVpLRMbcvjwR+ok9zPr3DyMygCXhCQ6vkIVHCYLyInL1ui53221mqkTC6gsnw5RmXsvBb1cQKalJ5j0zd3DUEA3c+6QXUmMhLdn0MTHj3McZBdvXfGQ0mNzpIca4LOo1Mp/rN/T06vFWMKCS+9uNP0hnOjTikmb68WupsyCXHS0TZMBryXZIyHQaVXI2vgie/4y6IkzUSrjz1FRKVyFhNNrmhvk=;jZsBUeQ9HUUl5ffU42ySaw=="

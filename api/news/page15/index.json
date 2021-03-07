@@ -2,6 +2,92 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-21-deepminds-alphazero-crushes-chess.md",
+      "title": "DeepMind’s AlphaZero crushes chess",
+      "excerpt": "The AlphaZero algorithm developed by Google and DeepMind took just four hours of playing against itself to synthesise the chess knowledge of one and a half millennium and reach a level where it not only surpassed humans but crushed the reigning World ...",
+      "sourceUrl": null,
+      "webUrl": "https://chess24.com/en/read/news/deepmind-s-alphazero-crushes-chess",
+      "originalUrl": "https://chess24.com/en/read/news/deepmind-s-alphazero-crushes-chess",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-eu-west-1.amazonaws.com/de.cisha.live/Qtlc_rHnRr-w3OiWaRn_FQ/410x260/original",
+          "width": 410,
+          "height": 260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-21T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "chess",
+        "domain": "chess24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
+      "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
+      "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
+      "sourceUrl": null,
+      "webUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "originalUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
+      "publishedDateTime": "2021-02-20T23:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "compsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-researchers-propose-ethically-correct-ai-for-smart-guns-that-locks-out-mass-shooters.md",
       "title": "Researchers propose ‘ethically correct AI’ for smart guns that locks out mass shooters",
       "excerpt": "A trio of computer scientists from the Rensselaer Polytechnic Institute in New York recently published research detailing a potential AI intervention for murder: an ethical lockout. The big idea here is to stop mass shootings and other ethically incorrect uses for firearms through the development of an AI that can recognize intent,",
@@ -1087,101 +1173,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-is-trying-to-end-the-controversy-over-its-ethical-ai-team-its-not-going-well.md",
-      "title": "Google is trying to end the controversy over its Ethical AI team. It's not going well",
-      "excerpt": "Croak will report to Dean. Ten teams centered around AI ethics, fairness, and accessibility — including the Ethical AI team — will report to her.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210218140829-timnit-gebru-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html",
-      "publishedDateTime": "2021-02-19T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest.md",
-      "title": "Google names exec to oversee responsible AI research after staff unrest",
-      "excerpt": "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/news/business/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest-14234970",
-      "originalUrl": "https://www.channelnewsasia.com/news/business/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest-14234970",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14234968/16x9/991/557/ac2f012b947c7ce54796194ecb1686a8/rO/file-photo--logo-of-google-is-seen-in-davos-1.jpg",
-          "width": 991,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

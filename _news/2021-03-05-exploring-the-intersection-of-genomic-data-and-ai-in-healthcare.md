@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/features/amp/exploring-the-intersectio
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Analytics
@@ -21,43 +21,34 @@ topics:
   - AI
 
 related:
-  - title: "India Artificial Intelligence in Healthcare Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "India artificial intelligence in healthcare market likely to growing due to the rising usages of AI for the improving"
-    publishedDateTime: 2021-03-03T05:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
+  - title: "A new foundation toward achieving the next generation of artificial intelligence"
+    excerpt: "This book lays a new foundation toward achieving artificial self-intelligence by future machines such as intelligent vehicles. Its chapters provide broad coverage of the three key modules behind the design and development of intelligent vehicles for the ultimate purpose of actively ensuring safe driving as well as accident prevention."
+    publishedDateTime: 2021-03-04T14:42:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/ws-anf030421.php"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258119_web.jpg"
+        width: 327
+        height: 481
         isCached: true
-  - title: "New Affiliation Agreement Brings Together Industry-Leading Incentive and Recognition Associations"
-    excerpt: "The affiliation gives both organizations a larger network and scope of education and combines their reach and resources to build a stronger voice for the incentive, reward and recognition industry. It also offers operational efficiencies and provides a ..."
-    publishedDateTime: 2021-03-03T16:53:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/new-affiliation-agreement-brings-together-industry-leading-incentive-and-recognition-associations/article_3c539b2d-9210-51f8-ba9f-bc893e65876e.html"
+  - title: "Genomic Medicine Stands on the Shoulders of Giants"
+    excerpt: "With the benefit of rich, diverse data stores and com-putational power, scientists in precision medicine are ﬁnally realizing ambitions inspired long ago by the Human Genome Project."
+    publishedDateTime: 2021-03-04T03:57:00Z
+    webUrl: "https://www.genengnews.com/topics/omics/genomic-medicine-stands-on-the-shoulders-of-giants/"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 11
+      name: GEN
+      domain: genengnews.com
+    quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-        width: 1280
-        height: 720
+      - url: "https://www.genengnews.com/wp-content/uploads/2021/03/Shaffer_GettyImages-1214010083-scaled-e1614370036216.jpg"
+        width: 1892
+        height: 1433
         isCached: true
-  - title: "Natural Language Processing Market by Component, Type, Application, Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to 2026"
-    excerpt: "Application (Automatic Summarization, Sentiment Analysis, Risk & Threat Detection), Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to"
-    publishedDateTime: 2021-03-03T21:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19681380.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 0
 
 secured: "twIGW0LWuXHXtQI1/BFRnRVlcXrVfU0XyHPV3Ub3gqqmsBt7dLmU2LNChpUFQk2rczDoqaRMJICx1haUQmjkxfC1fWa7NdHRZeAnra0+745kQX+cy8Lg4iNp1C5FLp20+faH1WRklqPkeEOMOMjMBcO63QExkEO9yqJGPq/Ef0Y0QLFvQmGFNu15TysOhA94MITpVLF/eNXw5HXK9P4wmyZ5jiLeiAqWM/a9q86Kzu7npxAVWWLSs6H9OuBV+LqebYELJcloDwWdlnXeApy/8tEgoqNgfMgpFtYpKtG0F+OLDb8gpByAiujEC3NqyGlklocST0b2botd+I2yTdD021mCUhyskZLNbej3A5bTShSlShKqxdFo1UZ6qYDYlyaP3rhZZug1ilRd/vQqnh9ZX53eJK7dwtvxFsmz8ec2EI7199ierMdm+3RzRBQxCvsEP+SplVVsPuCVu1crJrarWe2snaX0RlVQ7Eo8jZ2PsNW50xwr0zODS0CYv7GvK+FpXCbZ/36JYoNoA5slTQ2k6w==;mtPlowGfdg1LXKyYQGPXsA=="
 ---

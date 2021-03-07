@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-03-aws-selected-as-official-cloud-provider-of-pga-tour.md",
+      "title": "AWS selected as official cloud provider of PGA Tour",
+      "excerpt": "The partnership will offer new fan experiences and engagement opportunities with features like Every Shot Live and access to historical events dating back nearly 100 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "originalUrl": "https://www.techrepublic.com/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/02/da666ada-2faf-43c5-8748-55eb8091a6af/resize/1200x/14101bbdb7a1b143a5c43729a9d78fd3/aws-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-selected-as-official-cloud-provider-of-pga-tour/",
+      "publishedDateTime": "2021-03-02T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-a-new-program-can-animate-old-photos-but-theres-nothing-human-about-artificial-intelligence.md",
+      "title": "A new program can animate old photos. But there's nothing human about artificial intelligence",
+      "excerpt": "Deep Nostalgia is a likely predecessor of technology that could change our reality. And our emotions make it hard to resist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "originalUrl": "https://www.cnn.com/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302153937-myheritage-deep-nostalgia-photo-2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/business/deep-nostalgia-myhertiage-ai-learning-trnd/index.html",
+      "publishedDateTime": "2021-03-02T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-massive-boon-in-computer-chip-shortages-will-slam-future-self-driving-car-rollouts.md",
       "title": "Massive Boon In Computer Chip Shortages Will Slam Future Self-Driving Car Rollouts",
       "excerpt": "Computer chip shortages are hurting automakers, which is exactly what will happen even in the future when self-driving cars start becoming viable, here's why.",
@@ -735,8 +838,8 @@
       "title": "AWS rekindles a crafty scheme to get developers into machine learning",
       "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "webUrl": "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -753,9 +856,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "publishedDateTime": "2021-03-02T03:47:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T04:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1116,101 +1219,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-azure-percept-edge-intelligence-from-silicon-to-service.md",
-      "title": "Azure Percept: Edge intelligence from silicon to service",
-      "excerpt": "In today’s fast-paced world, there is often a need for instantaneous, real-time responses. Companies are finding the computing needed to support this 24/7 mentality generates staggering amounts of data, often from devices out in the physical world.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "originalUrl": "https://azure.microsoft.com/blog/azure-percept-edge-intelligence-from-silicon-to-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9f819b8f-c09d-4144-a93d-ba0fe7a45d83.png",
-          "width": 1024,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
-      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
-      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
-          "width": 501,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -193,6 +193,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027.md",
+      "title": "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027",
+      "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing.md",
       "title": "B2B's Evolution In 2021: How AI And Machine Learning Are Forever Changing B2B Marketing",
       "excerpt": "With the fog of hype surrounding AI, real-life use cases have been clouded by fermenting skepticism and exaggerated predictions.",
@@ -992,8 +1044,8 @@
       "title": "AWS rekindles a crafty scheme to get developers into machine learning",
       "excerpt": "Three years ago, the company created AWS DeepRacer, a racing competition where enthusiasts from all over the world would develop a 1/18 scale race car and power it with a machine learning model.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "originalUrl": "https://www.techradar.com/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "webUrl": "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1010,9 +1062,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
-      "publishedDateTime": "2021-03-02T03:47:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/aws-rekindles-a-crafty-scheme-to-get-developers-into-machine-learning",
+      "publishedDateTime": "2021-03-02T04:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -1445,49 +1497,6 @@
         "AI",
         "Machine Learning",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-featurespace-touts-breakthrough-in-machine-learning-for-anti-fraud-systems.md",
-      "title": "Featurespace Touts Breakthrough In Machine Learning For Anti-Fraud Systems",
-      "excerpt": "Featurespace said its new product for the payments industry provides a “deeper layer of defense to protect consumers from scams, account takeover\" and fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
-      "originalUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/anti-fraud-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/security-and-risk/2021/featurespace-machine-learning-anti-fraud-systems/amp/",
-      "publishedDateTime": "2021-02-25T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

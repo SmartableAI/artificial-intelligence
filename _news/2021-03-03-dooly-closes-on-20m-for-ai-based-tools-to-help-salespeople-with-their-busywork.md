@@ -31,22 +31,6 @@ images:
 
 related:
   - title: "Dooly raises $20 million to organize sales information with AI"
-    excerpt: "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million."
-    publishedDateTime: 2021-03-03T03:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/og-image-1.png?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Dooly raises $20 million to organize sales information with AI"
     excerpt: "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.Read MoreRead"
     publishedDateTime: 2021-03-04T10:25:00Z
     webUrl: "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035"

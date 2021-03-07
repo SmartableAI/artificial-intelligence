@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
+      "title": "What the swarm of new Azure announcements mean",
+      "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-the-swarm-of-new-azure-announcements-mean/amp/",
+      "publishedDateTime": "2021-03-04T15:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-scientists-seek-to-enhance-artificial-intelligence-by-integrating-brain-cells.md",
       "title": "Scientists seek to enhance artificial intelligence by integrating brain cells",
       "excerpt": "With a new grant from the U.S. Army, a team of scientists will seek to enhance artificial intelligence by integrating brain cells called astrocytes.",
@@ -93,6 +145,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027.md",
+      "title": "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027",
+      "excerpt": "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T14:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -939,6 +1043,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-04-dooly-raises-20-million-to-organize-sales-information-with-ai.md",
+      "title": "Dooly raises $20 million to organize sales information with AI",
+      "excerpt": "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.Read MoreRead",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
+      "publishedDateTime": "2021-03-04T02:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting.md",
       "title": "AMP Robotics looks to push the boundaries of artificial intelligence in sorting",
       "excerpt": "US recycling technology company AMP Robotics Corp. has launched a second pilot to advance robotic sorting systems. The Denver-based artificial",
@@ -1074,163 +1221,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-how-tytocare-uses-ai-to-improve-diagnostic-care.md",
-      "title": "How TytoCare uses AI to improve diagnostic care",
-      "excerpt": "TytoCare, a startup developing an AI-powered telehealth platform, raised $50 million in venture capital backing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/1200x630.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/tytocare-claims-its-ai-can-detect-disease-symptoms-like-swollen-tonsils/amp/",
-      "publishedDateTime": "2021-03-03T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops.md",
-      "title": "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops",
-      "excerpt": "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
-      "originalUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/mediatek-tv.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/",
-      "publishedDateTime": "2021-03-03T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-deno-18-preps-for-gpu-accelerated-machine-learning.md",
-      "title": "Deno 1.8 preps for GPU-accelerated machine learning",
-      "excerpt": "WebGPU API for GPU rendering and computation is supported in the latest upgrade to the JavaScript/TypeScript runtime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/02/neural_network_by_ktsimage_gettyimages-891769302_2400x1600-100788348-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3610391/deno-18-preps-for-gpu-accelerated-machine-learning.amp.html",
-      "publishedDateTime": "2021-03-03T15:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

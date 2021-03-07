@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/dooly-raises-$20-millio
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Business Insider
@@ -25,22 +25,6 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Dooly raises $20 million to organize sales information with AI"
-    excerpt: "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million."
-    publishedDateTime: 2021-03-03T03:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/dooly-raises-20-million-to-organize-sales-information-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/og-image-1.png?w=1200&strip=all"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Dooly closes on $20M for AI-based tools to help salespeople with their busywork"
     excerpt: "Robotic process automation has taken the enterprise world by storm, by providing a set of tools for those doing repetitive, volume-based tasks to use software to remove some of that labor to let those people focus on more complicated tasks."
     publishedDateTime: 2021-03-03T11:04:00Z

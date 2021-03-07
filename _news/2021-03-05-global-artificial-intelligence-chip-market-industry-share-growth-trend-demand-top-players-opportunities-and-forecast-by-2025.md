@@ -31,43 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025"
-    excerpt: "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,"
-    publishedDateTime: 2021-03-03T01:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
+  - title: "Voice and Speech Recognition Market Size, Share and Forecast 2019-2025"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-03-03T13:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027"
-    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
-    publishedDateTime: 2021-03-04T22:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
-    excerpt: "Global AI in Healthcare Market OverviewArtificial Intelligence is the development of computer systems that are able"
-    publishedDateTime: 2021-03-03T18:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -96,6 +68,48 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-03-04T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2027-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Payments Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025"
+    excerpt: "Artificial Intelligence in Payments market across the globe is forecast to grow at the exponential CAGR during 2020-25. The major contributing factor for the growth of the Global Artificial Intelligence in the Payments market is increasing digitalization in banking and financial instruction."
+    publishedDateTime: 2021-03-05T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2027"
+    excerpt: "Global Speech and Voice Recognition Market to reach USD 43.8 Billion by 2027. Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17."
+    publishedDateTime: 2021-03-03T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-historical-growth-analysis-opportunities-and-forecast-to-2027-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
