@@ -58,22 +58,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Elon Musk says Tesla's 'full self-driving' subscription is launching at some point before July, marking a slight delay"
-    excerpt: "The reason for the slight delay in release date was that Tesla needs more time to build out the AI in the \"full self-driving\" software, Musk said."
-    publishedDateTime: 2021-03-02T11:58:00Z
-    webUrl: "https://www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-full-self-driving-release-date-fsd-subscription-launch-musk-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
-    images:
-      - url: "https://i.insider.com/603e18c787d37600190d0918?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Elon Musk Says Tesla Will Launch Subscription for Full Self-Driving Within Months"
     excerpt: "The advanced driver assistance system will be available as a monthly subscription sometime between April and June."
     publishedDateTime: 2021-03-02T21:39:00Z

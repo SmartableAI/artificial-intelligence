@@ -85,20 +85,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Facebook Facial Recognition Lawsuit: Social Media Giant To Pay $650 Million Settlement Fee"
-    excerpt: "Facebook has been in the news repeatedly for its privacy policies related to user data collection. Read on to about the recent Facebook lawsuit."
-    publishedDateTime: 2021-03-02T12:38:00Z
-    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-facial-recognition-lawsuit-social-media-giant-to-pay-650-dollars-million-settlement-fee.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 29
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/gv8f383fr6tsvffl_1614672737.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
-        isCached: true
 
 secured: "tRrRHR8htKfi/Fbjoj/egm3G59K6ps/+5GpzELuwkB5MnJNj0WIbcyTCKKcWy+GHUxeAbsyQAGU787zhyT78iYCouluw+UHH/iYW/VZFEsBxxSrJgQGE8C1q0AKZDN9BOi6ZSEmGXuZs/ZqEHCqWHXKm+0aR5d5ifLcK/jANYVnvHCy4nu1w5i0HUKV4zM6kIglLpx181fMrEicydc3mG1IXuTG4Bv1hiMA6y1Hrbi9WNZrrCnOU3vBIaQeU4Ropihqnig+TThdylk8NZ7qoxHh6sDB4J2nFPJRRyA/iGrZpo6jrugvEzXLpTitfVrBj2OQzPi9ldDl2CbpXzb7qE4rnTgIrrbsUzo90t82eCsc=;mHySTU1RQkckCeJKmbmpVQ=="
 ---

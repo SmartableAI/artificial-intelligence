@@ -25,17 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence SPAC Goldenbridge Acquisition prices $50 million IPO"
-    excerpt: "Goldenbridge Acquisition, a blank check company targeting the artificial intelligence industry, raised $50 million by offering 5 million units at $10. Each unit consists of one share of common stock;"
-    publishedDateTime: 2021-03-02T11:42:00Z
-    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-spac-goldenbridge-acquisition-prices-%2450-million-ipo-2021-03-02"
-    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-spac-goldenbridge-acquisition-prices-%2450-million-ipo-2021-03-02?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-spac-goldenbridge-acquisition-prices-%2450-million-ipo-2021-03-02?amp"
+  - title: "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International"
+    excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence (AI) division, Lionbridge AI, to TELUS International (NYSE and TSX: TIXT),"
+    publishedDateTime: 2021-03-03T05:46:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-ownership-changes-f2c3b8803117b46cd09ae6fe291a6428"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 64
+      name: Associated Press
+      domain: apnews.com
+    quality: 45
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Broadridge LTX gets patent on AI-powered RFX trading protocol"
+    excerpt: "Empowering broker-dealers and institutional investors to better connect and trade corporate bonds digitally, Broadridge Financial Solutions, Inc. (NYSE:BR), a global Fintech leader, today announced that the U."
+    publishedDateTime: 2021-03-03T06:41:00Z
+    webUrl: "https://www.finextra.com/pressarticle/86441/broadridge-ltx-gets-patent-on-ai-powered-rfx-trading-protocol"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
 
 secured: "LRpoJO684DqdLr43ucPkDePxvtJ/Vh4HWyW4v+KbZHFcsjv17quAVh+dLGmDZ7u7v96MOUrdlfmnJ4Ay+wAdIsMoZXU8CC+li1y1y3Y7D8f/hjDL6HE1BNNpd+Ji0i5zwhragVPh+9n6eUSl2IJJ7HH3+InouNVfAG/fwEkBCMVtGKXR5CPjEJEbLDYu/nqMHk1+S/kg2YK5YSD1X9MO5eDj7HHXhG3Vou09LVEPJhfzSYVZLH49YsZA1OjWqFY1JbZkj69pWyBXgyl3N7L6XXn0+GQOPJ9n5Ie+Cn5VPsoPdGL+a2Xu9WBMRLM/MJBN2V8l+605R5lSuHlBEs7H8F8MJhiavGZmZvwSjYywl2c=;5nczjusNJFW9skJULxH/ng=="
 ---

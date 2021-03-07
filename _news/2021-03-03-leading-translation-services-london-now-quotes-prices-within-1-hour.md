@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/marketers-media/business-europe-c
 webUrl: "https://apnews.com/press-release/marketers-media/business-europe-corporate-news-products-and-services-united-kingdom-fe965bb9c38686f0c88d2a99461fe834"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leading Translation Services London Now Quotes Prices within 1-Hour"
-    excerpt: "However, the problem with that approach is Google’s AI isn’t the best translator; also, verbatim translations read awfully, especially if a document was translated into a language like Arabic, where a single word could have multiple meanings depending ..."
-    publishedDateTime: 2021-03-02T11:17:00Z
-    webUrl: "https://www.wboc.com/story/43430624/leading-translation-services-london-now-quotes-prices-within-1-hour"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 24
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Leading Translation Services London Now Quotes Prices Within One Hour"
     excerpt: "Translation Services UK has announced that it is now equipped to quote prices within 1-Hour, making it one of the swiftest in the translation industry. Leading translation services London announced yesterday that the company’s much-awaited feature is live."
     publishedDateTime: 2021-03-04T20:16:00Z

@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International"
-    excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence division, Lionbridge AI, to TELUS International,"
-    publishedDateTime: 2021-03-02T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 55
-  - title: "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International"
     excerpt: "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence (AI) division, Lionbridge AI, to TELUS International (NYSE and TSX: TIXT),"
     publishedDateTime: 2021-03-03T05:46:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-north-america-ownership-changes-f2c3b8803117b46cd09ae6fe291a6428"
@@ -43,6 +34,20 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 45
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "TELUS International completes acquisition of Lionbridge AI"
+    excerpt: "TELUS International (NYSE and TSX: TIXT), a leading digital customer experience (CX) innovator that designs, builds, and delivers next-generation solutions for global and disruptive brands, today announced the final completion of the December 31,"
+    publishedDateTime: 2021-03-03T05:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-c5aa2e3ea73144178210186b22261493"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

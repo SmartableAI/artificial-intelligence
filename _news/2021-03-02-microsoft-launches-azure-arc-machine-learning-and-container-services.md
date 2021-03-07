@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-mach
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/amp/"
 type: article
 quality: 136
-heat: 496
+heat: 486
 published: true
 
 provider:
@@ -351,20 +351,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/02/Azure-Percept-Dev-Kit.png"
         width: 1242
         height: 641
-        isCached: true
-  - title: "Microsoft Releases Azure Attestation into General Availability"
-    excerpt: "Sindhuri Dittakavi, program manager, Cloud & AI Security at Microsoft, explains in a Microsoft Security and Compliance blog post how Attestion works: An attestation provider is a service endpoint of Azure Attestation that provides REST contract."
-    publishedDateTime: 2021-03-02T12:15:00Z
-    webUrl: "https://www.infoq.com/news/2021/03/microsoft-azure-attestation-ga/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 69
-    images:
-      - url: "https://res.infoq.com/news/2021/03/microsoft-azure-attestation-ga/en/headerimage/header-1614502680637.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft Debuts AI-Based Semantic Search on Azure"
     excerpt: "Microsoft has been steadily upgrading its enterprise search capabilities, recently targeting previously “unsearchable” unstructured data in the form of"

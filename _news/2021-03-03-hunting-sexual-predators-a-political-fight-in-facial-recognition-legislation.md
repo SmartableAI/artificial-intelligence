@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-fa
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
 type: article
 quality: 88
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -75,20 +75,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Facebook Facial Recognition Lawsuit: Social Media Giant To Pay $650 Million Settlement Fee"
-    excerpt: "Facebook has been in the news repeatedly for its privacy policies related to user data collection. Read on to about the recent Facebook lawsuit."
-    publishedDateTime: 2021-03-02T12:38:00Z
-    webUrl: "https://www.republicworld.com/technology-news/apps/facebook-facial-recognition-lawsuit-social-media-giant-to-pay-650-dollars-million-settlement-fee.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 29
-    images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/gv8f383fr6tsvffl_1614672737.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 710
         isCached: true
   - title: "New Affiliation Agreement Brings Together Industry-Leading Incentive and Recognition Associations"
     excerpt: "The affiliation gives both organizations a larger network and scope of education and combines their reach and resources to build a stronger voice for the incentive, reward and recognition industry. It also offers operational efficiencies and provides a ..."

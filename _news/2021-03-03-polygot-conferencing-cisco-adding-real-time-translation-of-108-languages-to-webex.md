@@ -71,15 +71,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Cisco Webex Innovation Breaks Through Language Barriers with Real-Time Translation for More Inclusive Meeting Experiences"
-    excerpt: "Webex customers can preview real-time translations from English into 100+ languages Webex AI-powered, real-time translation drives more inclusive collaboration through virtual meeting experiences that are 10 x better than in person interactions Webex innovation paving the way for real-time translation beyond English."
-    publishedDateTime: 2021-03-02T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/cisco-webex-innovation-breaks-through-language-barriers-with-real-time-translation"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 9
 
 secured: "Q7Le+aromit1ftoqnNvlYtGLqgDubCu9AWLnozOpdME1cIV3A7zsbxWW7LxAqC87mXWBVUWo2WB8vK+CUGJTmQIEIYEFQlwPvK2frhd3n9W3+hVI894n4B4VH8XQ3YrA1FUrf8FOYfW8i4HR/qmbKE8owY8Le1Ar8AbEGn3gYo+7gV8c8wzG1FoggE8BCX7NjlMVNOuv2WFDs84fAKieNRpBTS87uMSACA1nG33jXRj6mkxFBTL7KMDVzK48E0h2B/n54j8g43HYQNoM7YRi2fcw96xvYXlLqvgSzHxrJ9ykgvMDMnkDo2SbSpABC+Z3McYekpuawpEZv1P2U/3U+hP4iSf44BF/4if/+MK/8pE=;A3aMWDGSWEed0qteQsVrzQ=="
 ---

@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in 2021: Formulas for success"
-    excerpt: "AI is expected to mature further this year. With these formulas, insurance carriers can strategically leverage it for the most impact."
-    publishedDateTime: 2021-03-02T11:17:00Z
-    webUrl: "https://www.propertycasualty360.com/2021/03/02/ai-in-2021-formulas-for-success/"
-    type: article
-    provider:
-      name: PropertyCasualty360
-      domain: propertycasualty360.com
-    quality: 19
 
 secured: "tW5R9brSvu6KKMK7Ua7nAs923epahvGe/2wgHC8p6MxKHQ+nzv/mcB79oPLp6FrwAbCz2QUefASfxgN2yut3YgWvSi7DwXr5wD4nbMs2r4OaLkbAO84HUsyUmbXE2KKs8a6vx9vtoN1FpKIqorVsd4EW/udl1aSIEfDVaXOpMZNiYwyD1KJPUjctrd8J6A82cJk+cBbUhbGWnUb3FmwTm5SNmIw9P6g61eCn6xBB/3wI3vz4AVnD/71MxJ7rcDDWE99oZ1GUsx+LdgcsLIoWIgwm0EYJhTY8dgaPvt0regPUumsbT+m3la2dqlCtoMMsaYsGLyth7RbHEV3JDWLtunVHbVSe9TBaSoyvfnbT97Nl3JOcd9r7HT4CX/+Nvaab06A+N06Hi/HngBSmfvKP1H9Ddv63xQ0IyRgy8dUT15YYBt9tL0qW5nafqvVNjXgT+z2F2MD4voLMc0bLUgUmaEDbrTQV1s7N9NOZb5GJemj6JlF7YToL6AALytk81If0LCnDk6CefTU3G/fcQ7YgGQ==;v17nDTezLygfeyEbxJcl5g=="
 ---

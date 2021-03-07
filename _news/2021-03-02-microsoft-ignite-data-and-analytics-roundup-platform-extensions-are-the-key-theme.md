@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-ignite-data-and-a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analytics Insight Publishes Vendor Analysis Report for Artificial Intelligence"
-    excerpt: "Analytics Insight recently published its first AI Review report to offer insights on how artificial intelligence service providers are positioned in the industry. The report named AI Vendor Analysis 2021 analyses artificial intelligence vendors."
-    publishedDateTime: 2021-03-02T11:10:00Z
-    webUrl: "https://www.analyticsinsight.net/analytics-insight-publishes-vendor-analysis-report-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 33
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Review.jpg"
-        width: 1500
-        height: 900
-        isCached: true
   - title: "The New Era of Deep-Learning Based Video Analytics"
     excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
     publishedDateTime: 2021-03-02T15:52:00Z
