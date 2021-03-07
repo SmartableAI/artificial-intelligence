@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger"
-    excerpt: "Open-source workflow managers are popular because they make it easy to orchestrate machine learning (ML) jobs for productions. Taking models into productions following a GitOps pattern is best managed by a container-friendly workflow manager, also known as MLOps. Kubeflow Pipelines (KFP) is one of the"
-    publishedDateTime: 2021-03-03T00:17:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Multimodal deep learning approach for event detection in sports using Amazon SageMaker"
     excerpt: "Have you ever thought about how artificial intelligence could be used to detect events during live sports broadcasts? With machine learning (ML) techniques, we introduce a scalable multimodal solution for event detection on sports video data. Recent developments in deep learning show that event detection"
     publishedDateTime: 2021-03-05T19:53:57Z

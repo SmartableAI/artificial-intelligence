@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-lear
 webUrl: "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/"
 type: article
 quality: 98
-heat: -1
-published: false
+heat: 108
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analyzing open-source ML pipeline models in real time using Amazon SageMaker Debugger"
-    excerpt: "Open-source workflow managers are popular because they make it easy to orchestrate machine learning (ML) jobs for productions. Taking models into productions following a GitOps pattern is best managed by a container-friendly workflow manager, also known as MLOps. Kubeflow Pipelines (KFP) is one of the"
-    publishedDateTime: 2021-03-03T00:17:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/analyzing-open-source-ml-pipeline-models-in-real-time-using-amazon-sagemaker-debugger/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 99
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
   - title: "Introducing Amazon SageMaker Reinforcement Learning Components for open-source Kubeflow pipelines"
     excerpt: "This blog post was co-authored by AWS and Max Kelsen. Max Kelsen is one of Australia’s leading Artificial Intelligence (AI) and Machine Learning (ML) solutions businesses. The company delivers innovation, directly linked to the generation of business value and competitive advantage to customers in Australia"
     publishedDateTime: 2021-03-03T17:03:29Z

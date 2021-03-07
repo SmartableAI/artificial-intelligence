@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/5/22314980/tom-cruise-d
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/5/22314980/tom-cruise-deepfake-tiktok-videos-ai-impersonator-chris-ume-miles-fisher"
 type: article
 quality: 135
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Deepfake' Tom Cruise takes over TikTok with some 11 million views but raises alarms with experts"
-    excerpt: "Tom Cruise has gone viral on the popular video-sharing app TikTok, but the clips ... on the app last week, dubbed 'deeptomcruise,' which shows a number of videos depicting Cruise doing a magic ..."
-    publishedDateTime: 2021-03-02T23:38:00Z
-    webUrl: "https://www.tiktok.com/@deeptomcruise"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 124
-    images:
-      - url: "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/20cc2c696e2c389c9393c21d315dc7b2~c5_720x720.jpeg?x-expires=1615215600&x-signature=utPhQdl3F2czMuDiY24pSH6cXL0%3D"
-        width: 720
-        height: 720
-        isCached: true
   - title: "Study warns deepfakes can fool facial recognition"
     excerpt: "According to startup Deeptrace, the number of deepfakes on the web increased 330% from October 2019 to June 2020, reaching over 50,000 at their peak. That’s troubling not only because these fakes might be used to sway opinion during an election or implicate a person in a crime,"
     publishedDateTime: 2021-03-05T06:40:00Z

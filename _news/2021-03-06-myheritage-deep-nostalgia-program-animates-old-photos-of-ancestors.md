@@ -9,7 +9,7 @@ ampWebUrl: "https://abc7chicago.com/amp/myheritage-artificial-intelligence-anima
 cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/myheritage-artificial-intelligence-animate-photos-ancestors/10391618/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘Deep Nostalgia’ tool animates photos with unintended creepy results"
-    excerpt: "Late last month, genealogy website MyHeritage announced a new tool for animating photos called “Deep Nostalgia.” But while the tech was intended to let users “bring beloved ancestors back to life” and “experience your family history like never before,"
-    publishedDateTime: 2021-03-03T00:19:00Z
-    webUrl: "https://nypost.com/2021/03/02/deep-nostalgia-tool-animates-photos-with-creepy-results/"
-    ampWebUrl: "https://nypost.com/2021/03/02/deep-nostalgia-tool-animates-photos-with-creepy-results/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/02/deep-nostalgia-tool-animates-photos-with-creepy-results/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/heriage-4.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "'Deep Nostalgia' Tool from MyHeritage Brings Motion to Old Family Photos: 'A Wow Moment'"
     excerpt: "Gilad Japhet, the founder and CEO of MyHeritage, said the new feature \"provides a profound new way of connecting to our family history\""
     publishedDateTime: 2021-03-04T17:34:00Z
