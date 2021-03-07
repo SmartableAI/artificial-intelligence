@@ -91,34 +91,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "New Garage project Group Transcribe helps you transcribe and translate while advancing inclusive speech AI"
-    excerpt: "There is healthy debate about the productivity of multi-tasking. Is it possible to take excellent notes while also being fully present in a meeting? Now, you don’t have to choose between focus and productivity with our latest experiment,"
-    publishedDateTime: 2021-03-03T06:56:00Z
-    webUrl: "https://www.microsoft.com/en-us/garage/blog/2021/03/new-garage-project-group-transcribe-helps-you-transcribe-and-translate-while-advancing-inclusive-speech-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 51
-    images:
-      - url: "https://www.microsoft.com/en-us/garage/wp-content/uploads/sites/5/2021/02/Group-Transcribe-Blog-Image-_-Date-updated.png"
-        width: 3144
-        height: 1272
-        isCached: true
-  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-    publishedDateTime: 2021-03-03T05:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft’s new iPhone app ‘Group Transcribe,’ offers real-time transcription and translation"
     excerpt: "Microsoft recently announced a new app, Group Transcribe, exclusively for iPhone users who converse in multiple languages and accessibility needs. Group"
     publishedDateTime: 2021-03-04T16:38:00Z

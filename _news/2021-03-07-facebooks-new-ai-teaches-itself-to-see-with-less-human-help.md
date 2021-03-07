@@ -207,20 +207,6 @@ related:
         width: 470
         height: 273
         isCached: true
-  - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
-    excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
-    publishedDateTime: 2021-03-03T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-inch-closer-to-building-general-purpose-intelligence-agents-with-unit/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 20
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Untitled-design-2.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
 
 secured: "bH+njyrUxaT9NvkHKRc7bnJqLcONqRYMufRTcGWzUc4taylKtCeD3ugGnmnj3fSaYuxYR7c+5pTkqm+b+0KwaFhvZPLBbSFNC+NLKNqXzz0r/PgjuYoIEAdFeZHL6d3+7T87/qzaOacT5W6PGaL4BnO+bLDH8g+Y5jzTYy/ukcDYlmaDEV8xX/R73H2UKNxSG4JlaaznlAqRe8z+JUp1pYX52ckF7GMpjezF7Z62bTBSQqapeKVe3cWK7ZCOZSP6nxXhUG/NojQtpj7eiUZozkgI6AjJcvYGgTwM7n7yfRbAV1AUv5h9Ici5R2YLPWVerFVd7NOY19ewD+KI/iFmTLeayXWNic+0G2/ckugVCc0IpbDaZP+W9zedw5bkKDZH5788Oi8e4cnnjbRTwx8jrpgqSGlrspqi5+6Q9splSfgLqBpS8VWpgcBKVqvBHd8p8wseboqSk7th8vg2UGu9x1Cu1NcY0A/Pkzq/EbUlpBX+Z25GQ5cMZ8ImOSeceh5FFsr7uvQogXDAVveaYVVUBA==;GL4xA0VT9hdMaP31wxu7fA=="
 ---

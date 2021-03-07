@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "How is AI and big data transforming the maritime industry?"
+    excerpt: "Over the last decade, a myriad of industries and sectors have increasingly utilized data collection and artificial intelligence (AI) to help streamline many aspects of their business. The maritime ind"
+    publishedDateTime: 2021-03-05T18:34:00Z
+    webUrl: "https://www.workboat.com/bluewater/how-is-ai-and-big-data-transforming-the-maritime-industry"
+    type: article
+    provider:
+      name: WorkBoat
+      domain: workboat.com
+    quality: 39
+    images:
+      - url: "https://divcomplatform.s3.amazonaws.com/www.workboat.com/images/70ccd7e45a97fdf7d6b70f00d107e636.jpeg"
+        width: 2058
+        height: 1143
+        isCached: true
 
 secured: "ng0h+3XPaKswURjxM4uZxnl/l5z6WQHiDOw2iP4pr756PgXgNBwdkmDdppVO4+jYXQsk/JthwpAsJATsz1SF4DBu0QDorvmjsUsAESG24JB7uYhF+ZrlIKkhaPuPOzi8n5ZJxtY7AIaFBWmWtgskGQj5eQnvchir8WdZVR1unJzM24dS8jUngW8J5a6sKGRplH668ofqBHndVic0ZV8+ofR3vX68ndIoJ2LaIk5YmvC66tcUVmfbWtI7eGd7FrxJDaUoEcmSB53o+TznX9oksowggkKHNjR7UIREynUYCvCX0FEjvYC4f/WLvE43Dud5Yffcgnx4l4teIqg0YD9bo+Ei1RBGzKJXYGqgrp+KFKMJy1F/shjnF76wmpDmeuK1rzwj2GKfvk+hu+4lMlJ2eCy83CMGX6HKyBsBHNeEkBugyEF6J/fkApUwX+GLArqPp1BVCrGo4ahdYdmJQZahVmf/vE2SDFEfgbEIbqVtbGfFbENCdfBdxNmCBOjsYD240H6T8UpnGdowvBsmtd8pCQ==;BE6z1l2AE6k8i9Fffc+XEA=="
 ---

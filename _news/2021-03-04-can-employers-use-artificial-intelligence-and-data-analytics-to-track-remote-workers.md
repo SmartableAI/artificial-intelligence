@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/can-employers-use-artificial-in
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/can-employers-use-artificial-intelligence-and-data-analytics-to-track-remote-workers?amp"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Yum! Brands to Acquire Kvantum’s Leading Artificial Intelligence-Based Consumer Insights and Marketing Performance Analytics Business"
-    excerpt: "Yum! Brands, Inc. (NYSE: YUM) today announced that it has entered into a definitive agreement to acquire the leading artificial intelligence-based consumer insights and marketing performance analytics business of Kvantum,"
-    publishedDateTime: 2021-03-03T05:35:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-ownership-changes-9510eebb785a44ee99bfa877dd9d319a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
 
 secured: "0Lgzh1YCF6mCQG/YyP/tU7i9qGLF61lxFPQDBWEMzNR7L4gyxFxHB5GqStPszpL8FlG33FEDL63s7VcfpcmKXn1hD12FVAgiK2XlgCFH6lbxy1dZWcqtBgOzeu7zVnuMkVizMBEVBiPp8O0E8A8/ER5NEnrXOwe6Lso3QD9I4shGeGSWNDuqHELBOuiYgyiVwfNOkdzeKGw8+w+NvopHOFeblx8UoeC2LRgry9FqQa4PtzmhqW9YekX3yQBbAczyDBk72QXKqK+Z7dQV43pvEUwbWlO1T+WbrN/xhzI7i3zjOX3TypVVKtJfOl2iNN5n0JQdE7/yCv1toPfHR1dZXi2PNMmF/20RHTCPOUjkX/Q=;hdXiYkwVSezvYu8W0XZOGA=="
 ---

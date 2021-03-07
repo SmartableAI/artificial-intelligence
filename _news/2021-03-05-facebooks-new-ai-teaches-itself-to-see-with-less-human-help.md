@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp"
 type: article
 quality: 93
-heat: 223
+heat: 213
 published: true
 
 provider:
@@ -207,20 +207,6 @@ related:
       - url: "https://contentstorage-nax2.emarketer.com/8202c040d3d2a0ccf318ee4e160ba658/257111"
         width: 470
         height: 273
-        isCached: true
-  - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
-    excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
-    publishedDateTime: 2021-03-03T05:31:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-inch-closer-to-building-general-purpose-intelligence-agents-with-unit/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 20
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/Untitled-design-2.jpg"
-        width: 2240
-        height: 1260
         isCached: true
 
 secured: "NDA1b+ePSOKvp7JRvDefSVsEG2nLxziDg0sRvHLyuxNPPZN6XkZEFzGCdXt4E8xbEYBCpt4h+huRCCMy8sgoPLrtlboQRuCTAQjlqVBoWAgU1XCP+dyQc9lPHYuY/VT93qpvnvELAU3Tp9DhPwfwS2pGsr8G6xrTV2AqcYF++okdwh/Wz2VeXrbul7za+oKlHjCneGY7BReJscEut9Gemk3W0yBPlJnP/XoZ7hzpUBj6OkvS3Chjkk2uosjOzBkWzs2YUMd8x5Ki9QGon8KUSfD3ZtBqU/9Vft9cQbPc/dyYGw1SF1O5DJTeMVeG2WBpkOhPLhqZSlNmnPg4slDC1+7NgbjOBbERhCLz28Y7aMjxqMIqylpYclsQO2qNLt2kSkMgBQELUVfvUESDldjIxZt7upauQiTs0CJZBdtc+LL8P15ocGe1JBUDwnaBqBxMyCQEwOLzffGh+in5BM1GB4yU3T/lyYIQY7Xn05FvzTQrpAPNRm3ap8qkKC2FftxgKFC6GS4TT2unksW4A383rA==;tZQT2rOz4ONUK/jCq7mIjg=="

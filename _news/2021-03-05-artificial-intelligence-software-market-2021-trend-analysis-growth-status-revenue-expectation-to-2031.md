@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "India Artificial Intelligence in Healthcare Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "India artificial intelligence in healthcare market likely to growing due to the rising usages of AI for the improving"
-    publishedDateTime: 2021-03-03T05:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning in Machine Vision Market to Set Phenomenal Growth from 2021 to 2026 | Qualcomm, Intel, Beijing Megvii"
     excerpt: "Get Access to PDF Sample of Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2026 @:  This study focuses on the Global Deep Learning in Machine Vision Market status, future forecast,"
     publishedDateTime: 2021-03-06T01:12:00Z

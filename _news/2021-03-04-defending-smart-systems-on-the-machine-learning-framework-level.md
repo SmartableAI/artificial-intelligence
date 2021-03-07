@@ -40,20 +40,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Working the Feline Supply and Demand in Learning Factory"
-    excerpt: "Consumers have needs and businesses try to meet them; it's the nature of every exchange since people came up with the idea of wanting more.  Generally the"
-    publishedDateTime: 2021-03-03T13:07:00Z
-    webUrl: "https://hardcoregamer.com/2021/03/03/working-the-feline-supply-and-demand-in-learning-factory/399986/"
-    type: article
-    provider:
-      name: Hardcore Gamer
-      domain: hardcoregamer.com
-    quality: 24
-    images:
-      - url: "https://hardcore-gamer.s3.amazonaws.com/uploads/2021/03/LearningFactoryFeature.jpg"
-        width: 698
-        height: 289
-        isCached: true
 
 secured: "MTuFBzgv4ImFhMyE6o9QnWqRqPWu9Ci/DOsQE2Nq0ZBZtEz/FIi1giDn1K4lNQ6UpSlBHFSkyq+GXAnCCdziPq0gNOybtpJjfHG2zkYYYU7ezhn4xjW1o+3KtJstxXustVQbf0l/4fIv5y4HT/oAMQv4zp2VAEnRNrrDLcyMRkecADOc3vup6MNSXn9zl1IS1VDB5D3twoDBNqZd9N2tf8VcDyCbS4Jm465xbC9IDqD2QfbD/5sJWhE2DdI820xUfdq3FCusWkWd0Wz5pLYyLQy20qCvC2qHP6HS9Y8JeCufFJFFhKVXw2DdBApiLupnOKeLnUOfvIcWah19SpSVkr9ftyZ0Y9QMStaUOKXugfRW8Him/451g/gcO/DuSy3TQFvYUGej+eop9fBBvO6vmlLfzQ59qDFyraJOKdkRyFATz1OqaTI23PlYyBuJGu+5pK6+ZlZD7qg2r61Y79HN0HMYIng339hWVn2i/zGaWdheYPYsZPtIoUYXXhKlWQQrAv49cvNy8M5Aj//UJIVUgQ==;G0BjBv1uV9fDXwySjPnL9A=="
 ---

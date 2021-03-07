@@ -8,9 +8,9 @@ webUrl: "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlef
 ampWebUrl: "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 104
+heat: 114
+published: true
 
 provider:
   name: Wall Street Journal
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.wsj.net/im-308486/social"

@@ -71,20 +71,6 @@ related:
         width: 735
         height: 425
         isCached: true
-  - title: "MediaTek MT9638 AI chip will power the next generation of 4K smart TVs"
-    excerpt: "The first television sets with the new MediaTek SoC are expected to become available by the second quarter of this year. MediaTek already powers most smart speakers and smart home products unbeknownst to most users."
-    publishedDateTime: 2021-03-03T07:01:00Z
-    webUrl: "https://www.notebookcheck.net/MediaTek-MT9638-AI-chip-will-power-the-next-generation-of-4K-smart-TVs.525958.0.html"
-    type: article
-    provider:
-      name: NotebookCheck
-      domain: notebookcheck.net
-    quality: 54
-    images:
-      - url: "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/ai_chip.jpg"
-        width: 598
-        height: 448
-        isCached: true
   - title: "MediaTek’s new 4K TV chip will power the next generation of smart televisions"
     excerpt: "Perhaps better known for producing smartphone processors such as the Dimensity 1200, MediaTek also supplies chips for devices ranging from smart speakers,"
     publishedDateTime: 2021-03-03T19:33:00Z

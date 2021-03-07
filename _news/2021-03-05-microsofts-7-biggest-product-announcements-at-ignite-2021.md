@@ -133,20 +133,6 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market Next Big Thing | Major Giants Microsoft, Teradata, IBM"
-    excerpt: "Latest released the research study on Global Artificial Intelligence and Cognitive Computing Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence and Cognitive Computing Market research report shows the latest market insights,"
-    publishedDateTime: 2021-03-03T05:28:00Z
-    webUrl: "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "CNs1Qe2GdpbFrWKmtRzR6+IXgA2rDFY12a7tcVngxqyabOZbT0HG6w3uKye1Had//k43eQwIfMGlpnLtm3rOWlsvOgjc4eMAnW5HB/Hi9F2Z6iEQ40IPjwPOFV/XaNnc1jJsAxtJktvLHbtnz5WSY2IRTo8X6CTi4ZN9nnjnna7AA3Hd91xcKzlGK8PqFZAw65TFmdODqAEmsSjihGxEX4NRGHJeyDMMAdf+4CLlI1c/LFD1tAySCekp+ZW+l/hiSra5aJdG2k2BN0sCyDCP0RS8xogLrxHnRZiJ+s6GtsJ+cH3KndUKuaWlE2CSG/fyjtyHoZBUCxu28M7ga2pTO26oC8Q1S+iEdLRwcZNstME=;S1wAc6QNUHZECvZQDUU6cQ=="
 ---

@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "How is AI and big data transforming the maritime industry?"
+    excerpt: "Over the last decade, a myriad of industries and sectors have increasingly utilized data collection and artificial intelligence (AI) to help streamline many aspects of their business. The maritime ind"
+    publishedDateTime: 2021-03-05T18:34:00Z
+    webUrl: "https://www.workboat.com/bluewater/how-is-ai-and-big-data-transforming-the-maritime-industry"
+    type: article
+    provider:
+      name: WorkBoat
+      domain: workboat.com
+    quality: 39
+    images:
+      - url: "https://divcomplatform.s3.amazonaws.com/www.workboat.com/images/70ccd7e45a97fdf7d6b70f00d107e636.jpeg"
+        width: 2058
+        height: 1143
+        isCached: true
   - title: "The complexity of artificial intelligence"
     excerpt: "SMU Assistant Professor Sun Qianru says highly diverse training data is critical to ensure the machine sees a wide range of examples and counterexamples that cancel out spurious patterns."
     publishedDateTime: 2021-03-05T16:14:00Z

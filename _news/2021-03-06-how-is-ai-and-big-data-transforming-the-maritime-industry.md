@@ -25,21 +25,44 @@ images:
     isCached: true
 
 related:
-  - title: "Annual index finds AI is ‘industrializing’ but needs better metrics and testing"
-    excerpt: "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy."
-    publishedDateTime: 2021-03-03T06:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/"
-    ampWebUrl: "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/"
+  - title: "Why AI is the Future of the Food Industry"
+    excerpt: "Knowledge and attitudes around global food production are undergoing a transformation. The sheer scale of the food industry and rapid shifts in culture make it difficult to assess this transformation succinctly."
+    publishedDateTime: 2021-03-05T19:17:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05"
+    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 85
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Artificial Intelligence Moving Towards Brighter Future in Healthcare Industry"
+    excerpt: "The artificial intelligence in healthcare market is expected to witness substantial growth post-pandemic. The global healthcare infrastructure has observed that, in order to develop and maintain sustainable healthcare setup,"
+    publishedDateTime: 2021-03-04T08:20:00Z
+    webUrl: "https://www.pharmiweb.com/article/artificial-intelligence-moving-towards-brighter-future-in-healthcare-industry-1"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 51
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/AI-policy-global-map.png?w=1200&strip=all"
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
-        height: 731
+        height: 448
+        isCached: true
+  - title: "The complexity of artificial intelligence"
+    excerpt: "SMU Assistant Professor Sun Qianru says highly diverse training data is critical to ensure the machine sees a wide range of examples and counterexamples that cancel out spurious patterns."
+    publishedDateTime: 2021-03-05T16:14:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/smu-tco030521.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258266_web.jpg"
+        width: 1440
+        height: 1050
         isCached: true
 
 secured: "2kliZO3DRlWSefXwJRwD5kQYdtqd0Y2uDqATpT1YYxY/QNPgQQkdnGIJwalu/7TiRFkO0YDitd1vGXQB8st0AD2hVVtB8fPQhfdPpu+Sx1M5UvXeFvKs2gVGSAavhiWB6v86PjPL062liwGZK78MfeN8QD0iyxsIKDdc9FKSmo8iieQo74DKdlm46FNlJLgf/siP+tuRCv6Yt/Ru6sye8hYyESQPA/ahjrpHkbNzjxWiMVbMfE+P8+8/Hh4sfTpAfd5cK8DqdH6ZYjVc2/Mf6O5XC8vTDJdxhhw2xI931McCSstfsNTrbTv5xyrsoKOqxaBv7Y92HrR2VAnNAA240JQu55fGNmA9GuqvMM+qJRw=;MO0gYpm3g7CInORfeIpvmA=="
