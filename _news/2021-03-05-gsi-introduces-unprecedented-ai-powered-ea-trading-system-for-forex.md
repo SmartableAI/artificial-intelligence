@@ -71,20 +71,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "War Mongering for Artificial Intelligence"
-    excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
-    publishedDateTime: 2021-03-02T08:50:00Z
-    webUrl: "https://www.counterpunch.org/2021/03/02/war-mongering-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 37
-    images:
-      - url: "https://www.counterpunch.org/wp-content/dropzone/2021/03/42108532182_1d7624d256_k.jpg"
-        width: 1200
-        height: 750
-        isCached: true
 
 secured: "FXUNugv+7GxakX62N7oCHHr+JG8HLPXagFFA8Qyq6/uVZ5cgQIuIr7D32XbTCSNJ+HLvt3i+/Ggw9SUeS7IpIEzJaS1/pP9I3Lifyf4woTJqXsCl1rHfkNorGAkskH3SFxoCmGvEf/QvZcBo9erR4zU78vft5uhM4SH6OAc7RUqQVBhF9eiQuf5oZHkMxSFZbRw9oM5mvtnlF6DPG46biSRNVKKECa6x+mKA6QTViYTPzXW1XM1C161XS3cIVAmcXFpCaRyjhLfqjcGKXGAQQMu9WJ+HRUOYFwYUb9tdU+mA8GtfAPzMW2hLuuMcuIwKCVoaqOchUgrFCElacLaspvUSo775shGIojG8o5tK/o4=;PVvkcwx8x79pyBSW5On0Qg=="
 ---

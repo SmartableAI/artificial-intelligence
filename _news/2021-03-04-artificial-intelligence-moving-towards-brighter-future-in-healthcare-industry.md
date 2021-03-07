@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "More Indian Healthcare Firms to Harness the Power of Artificial Intelligence"
-    excerpt: "Recent reports observe that India’s many healthcare firms are now looking at harnessing the power of Artificial Intelligence."
-    publishedDateTime: 2021-03-02T08:24:00Z
-    webUrl: "https://www.cxotoday.com/ai/more-indian-healthcare-firms-to-harness-the-power-of-artificial-intelligence/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 53
-    images:
-      - url: "https://www.cxotoday.com/ashojoac/2020/05/AI_healthcare.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "The complexity of artificial intelligence"
     excerpt: "SMU Assistant Professor Sun Qianru says highly diverse training data is critical to ensure the machine sees a wide range of examples and counterexamples that cancel out spurious patterns."
     publishedDateTime: 2021-03-05T16:14:00Z

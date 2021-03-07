@@ -53,17 +53,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
-  - title: "Artificial Intelligence for Automotive Applications Market: 2021 Analysis Report, Share, Trends, and Overview 2021-2027"
-    excerpt: "Artificial intelligence AI in the automotive industry is expected to cause serious disruption by streamlining production capacity and boosting business growth The design and deployment of new technologies including autonomous mobility vehicle simulation rapid prototyping and AI enabled car factories"
-    publishedDateTime: 2021-03-02T07:58:00Z
-    webUrl: "https://www.openpr.com/news/2250584/artificial-intelligence-for-automotive-applications-market"
-    ampWebUrl: "https://www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
+  - title: "Natural Language Processing Market by Component, Type, Application, Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to 2026"
+    excerpt: "Application (Automatic Summarization, Sentiment Analysis, Risk & Threat Detection), Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to"
+    publishedDateTime: 2021-03-03T21:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19681380.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
 
 secured: "uIj8QjCHc8cXgmlttDPqN3NKXZtvBSeQX2H1uZbR8byuuJ3rLLMaCOv9tU9Ldfly7+I3iwGuG1koUPOHLS2QaK1ncDzR/sy9vufqewjVQzo2PqOyaDz5qCOB9H2z7I/GM6ICunWMHI7qCelvb6QZ7pCqh4i1PzwvWJ7mncwdLaw0gqvsbzjRGwgOVVzeapOQNFxqsDZW8CY1+1a+YiRTtmA1iGQ357FOuYpTNZxj/1zBAl7xCqv4QhVxNXvK+cQROAVea6R9arhXB2ilUpCP23OH8MatujbS/QdxpPaq40fJ9tG4W2eiF1WXK4HHBmT97NUIrZTV9keG6R1qpGxkwrOPsL+yePF4CHoxdh3fD2c=;5Z96w4fNaPodkMH9yWyGOw=="
 ---

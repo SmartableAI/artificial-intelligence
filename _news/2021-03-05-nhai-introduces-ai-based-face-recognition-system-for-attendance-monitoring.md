@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/economy/logistics/nhai-introduc
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
         width: 400
         height: 225
-        isCached: true
-  - title: "War Mongering for Artificial Intelligence"
-    excerpt: "The ghost of Edward Teller must have been doing the rounds between members of the National Commission on Artificial Intelligence.  The father of the hydrogen bomb was never one too bothered by the ethical niggles that came with inventing murderous technology."
-    publishedDateTime: 2021-03-02T08:50:00Z
-    webUrl: "https://www.counterpunch.org/2021/03/02/war-mongering-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: CounterPunch
-      domain: counterpunch.org
-    quality: 37
-    images:
-      - url: "https://www.counterpunch.org/wp-content/dropzone/2021/03/42108532182_1d7624d256_k.jpg"
-        width: 1200
-        height: 750
         isCached: true
 
 secured: "9GXyJxBycTu/JND0QUZSgxAlYEQ6tjI2F6JS4SAYr2sYbnZZv2eK6ThOPEqicxgaIVfOk/FbLhJ7jlxL4RXRtZdRrw7cMooXxo3NtmRA9vkXJxx4Ujf5dW1N1Pp34MqF4X9eIYQiDI/iy0FZ7kfDesrWTIr/SpJBJg7tlBxxFQmirAEOTuVgdNqqDHoU3+8KqG48iuD0NRavsvCjGfwLHxvIUR56gRWc6uEmKis+gb7rfZ19zkFVkw/mtaMR+QlzLWUzUGv+SCYqOXNtFOFPZdiIAQIgFL9QQX6rQ5v31R0OAYoJajXUyP7NfDwuBEIRYBm39TofhqQRXPuS0zBMj20Pi5E16BMv4YJc+pv/znA=;JUe19hBrr/CwiJAWy+L4/Q=="

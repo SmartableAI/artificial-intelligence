@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-18-ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning.md",
+      "title": "AI: IBM showcases new energy-efficient chip to power deep learning",
+      "excerpt": "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/18/11b45681-8657-434c-80e1-31ea97d3626d/ibm-new-chip.jpg",
+          "width": 768,
+          "height": 781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
+      "publishedDateTime": "2021-02-18T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-smart-machines-ai-technologys-impact-on-floridas-business-sectors.md",
       "title": "Smart Machines: AI technology’s impact on Florida’s business sectors",
       "excerpt": "AI can’t replace humans, but the technology is making inroads in more and more business sectors. In an oft-quoted interview with Life magazine in 1970, Marvin Minsky, an MIT researcher and pioneer in artificial intelligence,",
@@ -1326,58 +1379,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-data-drought-slows-advance-of-ai-in-cybersecurity.md",
-      "title": "Data Drought Slows Advance of AI in Cybersecurity",
-      "excerpt": "It’s early days, but both government and business want to solidify their cyberwalls with AI. Yet training AI models requires reams of just the right sort of data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "originalUrl": "https://www.wsj.com/articles/data-drought-slows-advance-of-ai-in-cybersecurity-11612434602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-294669/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-04T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

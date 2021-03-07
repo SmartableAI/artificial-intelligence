@@ -361,20 +361,6 @@ related:
         width: 1242
         height: 641
         isCached: true
-  - title: "Microsoft Ignite 2021: Azure Percept pushes AI to the edge"
-    excerpt: "Microsoft may have given up on smart speakers for the consumer, but the company hasn’t given up on letting others build intelligent devices based on its own technologies and hardware. On Tuesday Microsoft launched Azure Percept,"
-    publishedDateTime: 2021-03-02T08:45:00Z
-    webUrl: "https://www.techcentral.ie/microsoft-ignite-2021-azure-percept-pushes-ai-to-the-edge/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 69
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2021/03/Percept_Dev_Kit.jpg"
-        width: 620
-        height: 350
-        isCached: true
   - title: "Microsoft Debuts AI-Based Semantic Search on Azure"
     excerpt: "Microsoft has been steadily upgrading its enterprise search capabilities, recently targeting previously “unsearchable” unstructured data in the form of"
     publishedDateTime: 2021-03-03T15:01:00Z

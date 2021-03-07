@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
+      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
+      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "publishedDateTime": "2021-03-02T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-artificial-intelligence-in-retail-market-may-see-a-big-move-major-giants-ibm-nvidia-amazon.md",
       "title": "Artificial Intelligence in Retail Market May See a Big Move | Major Giants IBM, Nvidia, Amazon",
       "excerpt": "The report brings clarity about the market key players and also about the significant contributors associated. The study elaborates factors of Global Artificial Intelligence in Retail market such as market opportunities,",
@@ -349,58 +392,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-renalytixai-reports-financial-results-for-second-quarter-of-fiscal-year-2021.md",
-      "title": "RenalytixAI Reports Financial Results for Second Quarter of Fiscal Year 2021",
-      "excerpt": "NEW YORK, March 02, 2021 (GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX) (\"RenalytixAI\" or the \"Company\"), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/renalytixai-reports-financial-results-for-second-quarter-of-fiscal-year-2021-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/renalytixai-reports-financial-results-for-second-quarter-of-fiscal-year-2021-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-motional-selects-ambarella-cvflow-ai-vision-processors-for-its-driverless-vehicles.md",
       "title": "Motional Selects Ambarella CVflow® AI Vision Processors for its Driverless Vehicles",
       "excerpt": "Ambarella, Inc. (Nasdaq: AMBA), an AI vision silicon company, today announced that Motional, a global leader in driverless technology, has",
@@ -451,58 +442,6 @@
         "Google AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027.md",
-      "title": "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027",
-      "excerpt": "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1130,7 +1069,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/02/microsoft-launches-azure-arc-machine-learning-and-container-services/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 506,
+      "heat": 496,
       "tags": null,
       "images": [
         {
@@ -1276,6 +1215,57 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes.md",
+      "title": "Sonantic uses AI to infuse emotion in automated speech for game prototypes",
+      "excerpt": "Sonantic has figured out how to use AI to turn written words into spoken words in a script, and it can infuse those words with the proper emotion. And it turns out this is a pretty good way to prototype the audio storytelling in triple-A video games.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/sonantic-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
+      "publishedDateTime": "2021-03-02T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

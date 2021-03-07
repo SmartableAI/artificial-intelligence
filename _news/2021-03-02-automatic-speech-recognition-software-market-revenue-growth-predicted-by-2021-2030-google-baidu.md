@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02"
 type: article
 quality: 70
-heat: 140
+heat: 130
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market Research Report 2021 Elaborate Analysis With Growth Forecast To 2028"
-    excerpt: "The Neural Network Software Market share is segmented on the lines of its artificial component, type, vertical and"
-    publishedDateTime: 2021-03-02T08:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-research-report-2021-elaborate-analysis-with-growth-forecast-to-2028-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

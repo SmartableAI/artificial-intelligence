@@ -106,6 +106,51 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-meet-the-ai-algorithms-that-judge-how-beautiful-you-are.md",
+      "title": "Meet the AI algorithms that judge how beautiful you are",
+      "excerpt": "Companies working on such technologies are a darling of venture capital, and such algorithms are used in everything from online cosmetic sales to dating apps. These beauty scoring tools, readily available for purchase online,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
+      "originalUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-04-at-7.49.31-PM.png?w=505",
+          "width": 505,
+          "height": 589,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
+      "publishedDateTime": "2021-03-05T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
       "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
       "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
@@ -1468,59 +1513,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning.md",
-      "title": "AI: IBM showcases new energy-efficient chip to power deep learning",
-      "excerpt": "IBM researchers have designed an AI accelerator chip that boosts performance, but not energy bills. By Daphne Leprince-Ringuet | February 18, 2021 -- 15:00 GMT (07:00 PST) | Topic: Innovation IBM's researchers have designed what they claim to be the world's first Ankur Agrawal and Kailash Gopalakrishnan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "originalUrl": "https://www.zdnet.com/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/18/11b45681-8657-434c-80e1-31ea97d3626d/ibm-new-chip.jpg",
-          "width": 768,
-          "height": 781,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ibm-showcases-new-energy-efficient-chip-to-power-deep-learning/",
-      "publishedDateTime": "2021-02-18T07:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

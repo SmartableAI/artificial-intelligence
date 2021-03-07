@@ -43,20 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "NASSCOM and Microsoft announce the AI Gamechangers program to accelerate AI led Innovation in India"
-    excerpt: "AI Gamechangers program by NASSCOM and Microsoft is an effort to recognize impactful and scalable AI-led innovations in India."
-    publishedDateTime: 2021-03-02T07:06:00Z
-    webUrl: "https://news.microsoft.com/en-in/nasscom-announces-the-ai-gamechangers-program-to-accelerate-ai-led-innovation-in-india/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 40
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2021/03/ai-gamechangers-microsoft-nasscom-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
 secured: "Eot0bR1PSTw9VY4YXN9eOlR9gygmpMdZ9AaJEJvy5f6YtN+2UNEOywgZGtIL4lX07vZOWVAFsL0kMJ1WiQhGmpENHIaCTPzwu3KV3eyhgjSlGXlarfzSKbNZBe6NyTyjcHX/DgxxKoizMy3052D/H+fnY50cAqlhgsoAxooqHg3YmYosy9t9ZWPo/dWhLGy47ym4gj6j9piLmSQKI10euOLDaDbix8UK6gOZ6z9z7nYfSIAbSMdLxc7jASWKQji14RMjQ0j/772gcBuK5qN6Oy6wbxbO/75SAPkeja+b7pyKejvu4SLLvVySaDYk8EhvA6miBzkrw85YSykGgrrwhGn3wdYPBwLIqpitHC6Lp7Q=;UU460n2MhPqq6WRl2jOl7Q=="
 ---

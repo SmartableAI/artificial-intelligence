@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facebook’s self-supervised AI offers potential benefits—if it can overcome bias concerns"
-excerpt: "Facebook revealed a self-supervised artificial intelligence model it claims can accurately learn to categorize Instagram images with less human assistance than before. Here’s how it works: Researchers at Facebook fed the AI,"
-publishedDateTime: 2021-03-05T23:43:00Z
-originalUrl: "https://www.emarketer.com/content/facebook-s-self-supervised-ai-offers-potential-benefits-if-overcome-bias-concerns"
-webUrl: "https://www.emarketer.com/content/facebook-s-self-supervised-ai-offers-potential-benefits-if-overcome-bias-concerns"
+title: "Facebook: New AI Teaches Itself to See with less Help"
+excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."
+publishedDateTime: 2021-03-06T15:58:00Z
+originalUrl: "https://techstory.in/facebook-new-ai-teaches-itself-to-see-with-less-help/"
+webUrl: "https://techstory.in/facebook-new-ai-teaches-itself-to-see-with-less-help/"
 type: article
-quality: 30
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: eMarketer
-  domain: emarketer.com
+  name: tech
+  domain: techstory.in
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://contentstorage-nax2.emarketer.com/8202c040d3d2a0ccf318ee4e160ba658/257111"
-    width: 470
-    height: 273
+  - url: "https://techstory.in/wp-content/uploads/2021/03/fb.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
@@ -174,19 +174,19 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "Facebook: New AI Teaches Itself to See with less Help"
-    excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."
-    publishedDateTime: 2021-03-06T15:58:00Z
-    webUrl: "https://techstory.in/facebook-new-ai-teaches-itself-to-see-with-less-help/"
+  - title: "Facebook’s self-supervised AI offers potential benefits—if it can overcome bias concerns"
+    excerpt: "Facebook revealed a self-supervised artificial intelligence model it claims can accurately learn to categorize Instagram images with less human assistance than before. Here’s how it works: Researchers at Facebook fed the AI,"
+    publishedDateTime: 2021-03-05T23:43:00Z
+    webUrl: "https://www.emarketer.com/content/facebook-s-self-supervised-ai-offers-potential-benefits-if-overcome-bias-concerns"
     type: article
     provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
+      name: eMarketer
+      domain: emarketer.com
+    quality: 30
     images:
-      - url: "https://techstory.in/wp-content/uploads/2021/03/fb.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://contentstorage-nax2.emarketer.com/8202c040d3d2a0ccf318ee4e160ba658/257111"
+        width: 470
+        height: 273
         isCached: true
   - title: "Facebook Inch Closer To Building General-Purpose Intelligence Agents With UniT"
     excerpt: "Facebook AI researchers proposed a unified Transformer encoder-decoder architecture called UniT that connects and learns multiple tasks and domains in a single model."
@@ -203,6 +203,6 @@ related:
         height: 1260
         isCached: true
 
-secured: "MlsQIBuQwopvg7kFdNsc6XgzTJjKU9xvZPeCCIyTE3AaaIVPE/nWknLSgRVp4g+Bc4VEnpt/IGzBmBpuD+jc0O1nuMb2MBkkKzpCfEnZIK9x8GdC0pvBhsCbu0mAQcCIS9Cck+PuPwsq5lik7RsY7i4bH7BTdVOtjGExYjYoNe8LnPErNpk9qP4K23BXnpd/xIWVAa6S+ek/lSNBtjCwXX9j1yKp1j7OlYBWvFJXU6+iQIOkRZSQpzMsbqeMo10G6Vkqqq0Amd++P1+AXV0VhP/JKMlfN7UTxu1Ry7/4sHOIoCphOzdLatT1Lc3utGUkOVep1pu91lnQAGQqS1zmNXHQQBNjTMC/l4mVIH6jkr74C2N3IWL6a8KmZZXuRfZQwvTR4PG8e+unm/I+ht4AdF9HzFKKOVSxeKCWo9f8vekqvys3DG+7uo4H1TpiJNnTYuzjX3CqwxoxxRUocWvZYrPWDr8A6Qgg7+qQQgNmwmB93yK5FQMLviHBDaRl6xIPJG9cSO43r+aC7uMxqNGhyQ==;QQsnrW1Pmawn90f/YJICTg=="
+secured: "Zngh/XwbMNFkVjvsRAZfiHSg83aIufA9eBg2WBtvyqK60l1rOzYl7ZPJ1YUH3wz67bGrMQuypPJY7sh4/uTfiLM0zFpTGyf4COMgY36dp8egXYUozDWHUrYjf13353kb9xw8wVbQTCkITAhWMYJq6J55kahUS9yV/C0iuu8HDm61t5Hc0NxeeobUM2qoVaXX5GI9IYYyx9ZuVzHZRs+4h1fiHRj09UUu07yvE2CZP3m6rSeVnCASI1XbGYF77hMNQP1Vfl76hHCoV3TEW0UI1hMy2+XHlFspgh/hne9BodSmDv7Ib3LJqHQPAsZ4dNTUgdXjHGBujBC0XJ42uIGSp/hyKpsZEEVix49UzwqQuwQ=;KtuLEyY93wrLacJcS4a5AA=="
 ---
 

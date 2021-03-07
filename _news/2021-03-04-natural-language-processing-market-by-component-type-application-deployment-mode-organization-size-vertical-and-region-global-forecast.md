@@ -19,21 +19,44 @@ topics:
   - AI
 
 related:
-  - title: "Compute and storage updates are available for mission-critical applications on Azure"
-    excerpt: "Microsoft has announced a host of capabilities for mission-critical workloads on Azure include optimizations to compute, storage, backup, management, development, and networking."
-    publishedDateTime: 2021-03-02T09:00:00Z
-    webUrl: "https://www.neowin.net/news/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/"
-    ampWebUrl: "https://www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/compute-and-storage-updates-are-available-for-mission-critical-applications-on-azure/"
+  - title: "India Artificial Intelligence in Healthcare Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "India artificial intelligence in healthcare market likely to growing due to the rising usages of AI for the improving"
+    publishedDateTime: 2021-03-03T05:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
     type: article
     provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 97
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2015/02/shutterstock_137488049_story.jpg"
-        width: 760
-        height: 515
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Exploring the Intersection of Genomic Data and AI in Healthcare"
+    excerpt: "While artificial intelligence in healthcare has the potential to gain actionable insights from genomic data, longstanding challenges could hamper efforts to achieve precision medicine."
+    publishedDateTime: 2021-03-05T06:01:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+  - title: "Artificial Intelligence in Payments Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025"
+    excerpt: "Artificial Intelligence in Payments market across the globe is forecast to grow at the exponential CAGR during 2020-25. The major contributing factor for the growth of the Global Artificial Intelligence in the Payments market is increasing digitalization in banking and financial instruction."
+    publishedDateTime: 2021-03-05T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "TKbmjCo4UQOjHg28R516c9Yy/awV4bZDEUzKnOtZ/y8yovRXajMN0/n6mJ5y/YXuRxYegldysVS5AbMVV4XwzKiws82/lt81R2S+cOiahFuhzdFara1jXHvgseoYY+WL6piaClnr0C57EkPzJxRvVkxZyzigHmdGr39g2cA08UDdW8Y8UuXJdcKFd2c1tLR0+gPIU8ygg+kREZdSKi50bq72mqw+XzEOA03s9exTztZv+o5f/lIn17SD0ITT9GsW+diKlGcSU4XLyimzdiYsniNxlT1tNvrbphbKqCJTw5a1FVWmyWj5Gnu3KRGhGwt8E5kuXsXi4uvB5vvNTyx+AL0aQFsAKvGRDynhn3Js9nM=;eONUXd/GrB9QLd+WMuy/Bg=="

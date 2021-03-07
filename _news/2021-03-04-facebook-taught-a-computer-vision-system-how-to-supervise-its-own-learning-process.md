@@ -139,22 +139,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Facebook smart glasses could have facial recognition — here’s why that’s a terrible idea"
-    excerpt: "We’ve already heard news that Facebook is developing smart glasses, even if the earliest models don’t have any sort of AR or mixed reality features. But apparently, they may come with facial recognition cameras."
-    publishedDateTime: 2021-03-02T08:04:00Z
-    webUrl: "https://www.tomsguide.com/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
-    ampWebUrl: "https://www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/opinion/facebook-smart-glasses-could-have-facial-recognition-heres-why-thats-a-terrible-idea"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 50
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Fo9ovefx8AwWmfGZ2N3M5B-480-80.jpeg"
-        width: 480
-        height: 272
-        isCached: true
   - title: "Facebook’s new AI model SEER can teach itself to recognize images"
     excerpt: "The SEER model, outlined in a paper released March 2, was fed 1 billion publicly available images without annotations or labels from Instagram. It then worked through the dataset, learning as it progressed,"
     publishedDateTime: 2021-03-04T17:42:00Z
@@ -180,6 +164,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "Facebook: New AI Teaches Itself to See with less Help"
+    excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."
+    publishedDateTime: 2021-03-06T15:58:00Z
+    webUrl: "https://techstory.in/facebook-new-ai-teaches-itself-to-see-with-less-help/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2021/03/fb.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Facebook’s self-supervised AI offers potential benefits—if it can overcome bias concerns"
     excerpt: "Facebook revealed a self-supervised artificial intelligence model it claims can accurately learn to categorize Instagram images with less human assistance than before. Here’s how it works: Researchers at Facebook fed the AI,"
     publishedDateTime: 2021-03-05T23:43:00Z

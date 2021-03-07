@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-moscow-metro-facial-id-payment-system-raises-privacy-concerns-rights-group-says.md",
+      "title": "Moscow metro facial ID payment system raises privacy concerns, rights group says",
+      "excerpt": "A new facial recognition payment system on the Moscow metro, due to be launched this year, raises concerns about privacy and human rights, a Russian digital rights group said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F",
+      "originalUrl": "https://www.reuters.com/article/us-russia-technology-metro-idUSKBN2AW23F",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553757520&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2316M",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AW23F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW23F",
+      "publishedDateTime": "2021-03-04T12:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-facebook-trains-ai-to-see-using-1-billion-public-instagram-photos.md",
       "title": "Facebook trains A.I. to ‘see’ using 1 billion public Instagram photos",
       "excerpt": "Facebook has built an AI program called \"SEER\" that can tell what it is looking at. It did this by feeding it over 1 billion public images from Instagram.",
@@ -1189,58 +1241,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center.md",
-      "title": "Deloitte partnering with NVIDIA to launch artificial intelligence computing center",
-      "excerpt": "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "originalUrl": "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/",
-      "publishedDateTime": "2021-03-03T08:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -54,17 +54,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Automotive Applications Market: 2021 Analysis Report, Share, Trends, and Overview 2021-2027"
-    excerpt: "Artificial intelligence AI in the automotive industry is expected to cause serious disruption by streamlining production capacity and boosting business growth The design and deployment of new technologies including autonomous mobility vehicle simulation rapid prototyping and AI enabled car factories"
-    publishedDateTime: 2021-03-02T07:58:00Z
-    webUrl: "https://www.openpr.com/news/2250584/artificial-intelligence-for-automotive-applications-market"
-    ampWebUrl: "https://www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
+  - title: "Natural Language Processing Market by Component, Type, Application, Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to 2026"
+    excerpt: "Application (Automatic Summarization, Sentiment Analysis, Risk & Threat Detection), Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to"
+    publishedDateTime: 2021-03-03T21:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19681380.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
 
 secured: "8gLeGrWbrCaRq7YvrZHO+ryDxrQOgQvvdzad7qQmrSe59pYJQOyFzowdt5wstj60PuloU6cGaVd4TYIunt5f61iVabShY8i5wba38G09M4O0nEU3I4tSZIFA6kFE6ngb11u/0tqktekCUo3GzSmoDH4tVMYCu3aaLLfJvREBKp5OS9IF604zAt7ukCdmFsWF8nbqkZCSgHsqtGlcHjtS17fxAQkCWZ2AnvKuKnsnBW4rM5TSS9wzP+dVNG7TdTaVjFrrJDnFIyF1i4tjm4DrnDXgjvv10YkIbSnEm6gBPJsDqPYfC49YzZHsiYzfAJTxEZuuS1TKsgI5Tu/uIYhsaNmGO1xrIVlZ+oxL5Fdv7xs=;zgNztfw/JWvOcKgG0s0Gfg=="
 ---

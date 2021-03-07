@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-16-who-should-stop-unethical-ai.md",
+      "title": "Who Should Stop Unethical A.I.?",
+      "excerpt": "“Curious if there have been discussions around having ethics review boards at either conferences or with funding agencies (like IRB) to guide AI research,” one person wrote. (An organization ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
+      "originalUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newyorker.com/photos/600afc0db35e198f98bd5577/master/pass/Hutson-AIEthics.jpg",
+          "width": 2560,
+          "height": 3200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
+      "cdnAmpWebUrl": "https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai/amp",
+      "publishedDateTime": "2021-02-15T14:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Yorker",
+        "domain": "newyorker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-chip-mavens-of-the-isscc-gather-virtually-for-ai-quantum-5g.md",
       "title": "Chip mavens of the ISSCC gather virtually for AI, quantum, 5G",
       "excerpt": "The International Solid State Circuits Conference, an annual gathering of chip designers that has been going on for sixty-eight years, resumed this year as a virtual event.",
@@ -1425,50 +1469,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-facebook-open-sources-multilingual-speech-recognition-deep-learning-model.md",
-      "title": "Facebook Open-Sources Multilingual Speech Recognition Deep-Learning Model",
-      "excerpt": "Facebook AI Research (FAIR) open-sourced Cross-Lingual Speech Recognition (XSLR), a multilingual speech recognition AI model. XSLR is trained on 53 languages and outperforms existing systems when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/01/facebook-multilingual-ai/",
-      "originalUrl": "https://www.infoq.com/news/2021/01/facebook-multilingual-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/01/facebook-multilingual-ai/en/headerimage/facebook-multilingual-ai-header-1610896491386.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

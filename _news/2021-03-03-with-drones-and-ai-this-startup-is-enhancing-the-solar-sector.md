@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/366459"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366459"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Vpply: The Aussie startup shaking up job search with video and AI"
-    excerpt: "Vpply is a video job platform that allows job seekers to record and upload short videos, providing applicants with the chance to showcase character and people skills. “The application process starts with a simple job search with filters which will take you to a list of job opportunities on Vpply,"
-    publishedDateTime: 2021-03-02T07:46:00Z
-    webUrl: "https://dynamicbusiness.com.au/topics/news/vpply-aussie-startup-job-search-video-ai.html"
-    ampWebUrl: "https://dynamicbusiness.com.au/topics/news/vpply-aussie-startup-job-search-video-ai.html?amp"
-    cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/news/vpply-aussie-startup-job-search-video-ai.html?amp"
-    type: article
-    provider:
-      name: Dynamic Business
-      domain: dynamicbusiness.com.au
-    quality: 57
-    images:
-      - url: "https://dynamicbusiness.com.au/wp-content/uploads/2021/03/AlexTomJames.jpg"
-        width: 1200
-        height: 1132
         isCached: true
   - title: "This EdTech Startup Is Using AI To Teach Kids From Underprivileged Background"
     excerpt: "While most of the ed-tech companies are focusing on bringing digital learning to upper-class students, ConveGenius aims at enabling learning for the masses."

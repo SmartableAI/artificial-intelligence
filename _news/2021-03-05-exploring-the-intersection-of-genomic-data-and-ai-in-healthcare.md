@@ -49,17 +49,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Automotive Applications Market: 2021 Analysis Report, Share, Trends, and Overview 2021-2027"
-    excerpt: "Artificial intelligence AI in the automotive industry is expected to cause serious disruption by streamlining production capacity and boosting business growth The design and deployment of new technologies including autonomous mobility vehicle simulation rapid prototyping and AI enabled car factories"
-    publishedDateTime: 2021-03-02T07:58:00Z
-    webUrl: "https://www.openpr.com/news/2250584/artificial-intelligence-for-automotive-applications-market"
-    ampWebUrl: "https://www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2250584/artificial-intelligence-for-automotive-applications-market"
+  - title: "Natural Language Processing Market by Component, Type, Application, Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to 2026"
+    excerpt: "Application (Automatic Summarization, Sentiment Analysis, Risk & Threat Detection), Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to"
+    publishedDateTime: 2021-03-03T21:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19681380.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 13
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
 
 secured: "twIGW0LWuXHXtQI1/BFRnRVlcXrVfU0XyHPV3Ub3gqqmsBt7dLmU2LNChpUFQk2rczDoqaRMJICx1haUQmjkxfC1fWa7NdHRZeAnra0+745kQX+cy8Lg4iNp1C5FLp20+faH1WRklqPkeEOMOMjMBcO63QExkEO9yqJGPq/Ef0Y0QLFvQmGFNu15TysOhA94MITpVLF/eNXw5HXK9P4wmyZ5jiLeiAqWM/a9q86Kzu7npxAVWWLSs6H9OuBV+LqebYELJcloDwWdlnXeApy/8tEgoqNgfMgpFtYpKtG0F+OLDb8gpByAiujEC3NqyGlklocST0b2botd+I2yTdD021mCUhyskZLNbej3A5bTShSlShKqxdFo1UZ6qYDYlyaP3rhZZug1ilRd/vQqnh9ZX53eJK7dwtvxFsmz8ec2EI7199ierMdm+3RzRBQxCvsEP+SplVVsPuCVu1crJrarWe2snaX0RlVQ7Eo8jZ2PsNW50xwr0zODS0CYv7GvK+FpXCbZ/36JYoNoA5slTQ2k6w==;mtPlowGfdg1LXKyYQGPXsA=="
 ---

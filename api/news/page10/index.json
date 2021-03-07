@@ -2,49 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2021-02-25-researchers-use-machine-learning-to-identify-autism-blood-biomarkers.md",
-      "title": "Researchers use machine learning to identify autism blood biomarkers",
-      "excerpt": "Using machine learning tools to analyze hundreds of proteins, UT Southwestern researchers have identified a group of biomarkers in blood that could lead to an earlier diagnosis of children with autism spectrum disorder (ASD) and,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/bloodtest.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-02-machine-autism-blood-biomarkers.amp",
-      "publishedDateTime": "2021-02-24T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-02-25-is-there-a-more-environmentally-friendly-way-to-train-ai.md",
       "title": "Is there a more environmentally friendly way to train AI?",
       "excerpt": "Machine learning is changing the world, and it’s changing it fast. In just the last few years, it’s brought us virtual assistants that understand language, autonomous vehicles, new drug discoveries, AI-based triage for medical scans,",
@@ -1246,6 +1203,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed.md",
+      "title": "Way of using machine learning to aid mental health diagnoses developed",
+      "excerpt": "A team of researchers at the University of Birmingham have developed a way of using machine learning to more accurately identify patients with a mix of psychotic and depressive symptoms. The findings of the research ' Bulletin'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html",
+      "originalUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/02/24/1600x900/photo-1553465528-5a213ccc0c7b_1614155850021_1614155860613.jfif",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/lifestyle/health/way-of-using-machine-learning-to-aid-mental-health-diagnoses-developed-101614149766752-amp.html",
+      "publishedDateTime": "2021-02-24T00:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
