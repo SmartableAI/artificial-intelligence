@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-02-rbac-support-is-now-generally-available-on-azure-machine-learning.md",
+      "title": "RBAC support is now generally available on Azure Machine Learning",
+      "excerpt": "At Microsoft's Ignite 2021 conference, the company has announced a host of new capabilities now available across its Azure Cognitive Search and Azure Machine Learning solutions. Additionally, it has also announced a bunch of features currently in preview ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
+      "originalUrl": "https://www.neowin.net/news/rbac-support-is-now-generally-available-on-azure-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/03/1614629172_azure_percept_story.jpg",
+          "width": 760,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/rbac-support-is-now-generally-available-on-azure-machine-learning/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/rbac-support-is-now-generally-available-on-azure-machine-learning/",
+      "publishedDateTime": "2021-03-02T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-from-the-data-and-ai-expert-labs-break-open-your-processes.md",
+      "title": "From the Data and AI Expert Labs: Break open your processes",
+      "excerpt": "Today, I want to reinforce that you shouldn’t rely on a compelling incident. You don’t need to wait until a system breaks to make it better. A great example is the Interactive Voice Response systems (IVR) that are pretty standard in customer service. We’ve all interacted with them. They’re slow, they’re",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-break-open-your-processes/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-break-open-your-processes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/DataAI_Expert_Labs_Toby_Cappello_Blog_Leadspace_Small_2-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T06:00:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes.md",
+      "title": "Sonantic uses AI to infuse emotion in automated speech for game prototypes",
+      "excerpt": "Sonantic has figured out how to use AI to turn written words into spoken words in a script, and it can infuse those words with the proper emotion. And it turns out this is a pretty good way to prototype the audio storytelling in triple-A video games.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
+      "originalUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/sonantic-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/sonantic-uses-ai-to-infuse-emotion-in-automated-speech-for-game-prototypes/amp/",
+      "publishedDateTime": "2021-03-02T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-lionbridge-completes-sale-of-artificial-intelligence-ai-division-to-telus-international.md",
       "title": "Lionbridge Completes Sale of Artificial Intelligence (AI) Division to TELUS International",
       "excerpt": "Lionbridge, a global leader in translation and localization solutions, today confirmed the close of the previously announced sale of its artificial intelligence division, Lionbridge AI, to TELUS International,",
@@ -480,8 +636,8 @@
       "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
       "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
+      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -558,6 +714,40 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge.md",
+      "title": "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge",
+      "excerpt": "ARMONK, N.Y., March 1, 2021 /PRNewswire/ -- IBM (NYSE: IBM) today announced that its hybrid cloud services are now generally available in any environment -- on any cloud, on premises or at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment",
+      "originalUrl": "https://www.nasdaq.com/press-release/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T19:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -715,6 +905,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-facebook-open-sources-ai-model-to-predict-covid-19-patient-outcomes.md",
+      "title": "Facebook Open-Sources AI Model to Predict COVID-19 Patient Outcomes",
+      "excerpt": "A team from Facebook AI Research (FAIR) and New York University (NYU) School of Medicine has developed deep-learning models that use chest X-rays to predict COVID-19 patient prognosis. In a comparison study,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2021/03/facebook-covid-prognosis/",
+      "originalUrl": "https://www.infoq.com/news/2021/03/facebook-covid-prognosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2021/03/facebook-covid-prognosis/en/headerimage/facebook-covid-prognosis-header-1613916554467.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
@@ -967,247 +1200,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-this-ai-generated-daft-punk-video-is-the-perfect-tribute-to-the-electro-pioneers.md",
-      "title": "This AI-generated Daft Punk video is the perfect tribute to the electro pioneers",
-      "excerpt": "Computer artist Glenn Marshall paid homage to Daft Punk by using AI to produce a music video for the duo's 2001 track \"Voyager.\"",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-01T195552.789-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/01/daft-punk-ai-music-video-tribute-voyager-discovery/amp/",
-      "publishedDateTime": "2021-03-01T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech.md",
-      "title": "Skydio hits billion-dollar valuation for autonomous drone tech",
-      "excerpt": "Autonomous drone company Skydio has just raised another $170 million in funding, with its “flying robot” tech earning it a $1+ billion valuation as it evolves beyond its initial",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
-      "originalUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/03/skydio-2-11.jpg",
-          "width": 1500,
-          "height": 942,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/skydio-hits-billion-dollar-valuation-for-autonomous-drone-tech-01661723/amp/",
-      "publishedDateTime": "2021-03-01T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-deep-nostalgia-creepy-new-service-uses-ai-to-animate-old-family-photos.md",
-      "title": "Deep Nostalgia: 'creepy' new service uses AI to animate old family photos",
-      "excerpt": "Service from MyHeritage uses deep learning technique to automatically animate faces",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
-      "originalUrl": "https://www.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5b68fefbf761cd4d6735d286b23cee0f5c787bee/2_0_7871_4724/master/7871.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5ac08f57bcc73c425f4f66cfad108e10",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2021/mar/01/deep-nostalgia-creepy-new-service-ai-animate-old-family-photos",
-      "publishedDateTime": "2021-03-01T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
-      "title": "Underwater robot rises from the depths to save drowning swimmers",
-      "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
-      "originalUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/b75d88c/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb7%2F1b%2F3c8d4a5849178bc676e0adc06053%2Fiosb-ast-an-autonomous-underwater-robot-saves-people-from-drowning-pic-1.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
-      "publishedDateTime": "2021-03-01T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision.md",
-      "title": "Amazon (AMZN) Boosts AWS Portfolio With Lookout for Vision",
-      "excerpt": "Using computer vision and Machine Learning (ML) capabilities, including \"few-shot learning\", the service analyzes images to spot manufacturing and production defects such as cracks, irregular shapes, dents and incorrect color. Further, Amazon Lookout for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-aws-portfolio-with-lookout-for-vision-2021-03-01?amp",
-      "publishedDateTime": "2021-03-01T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

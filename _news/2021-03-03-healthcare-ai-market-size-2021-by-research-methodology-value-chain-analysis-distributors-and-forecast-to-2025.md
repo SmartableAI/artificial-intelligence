@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Robot Market Size, Status, Demand, Growth and Overview Outlook 2020 - 2025"
-    excerpt: "The scope of the report includes a detailed study of Smart Speaker Market with the reasons given for variations in the"
-    publishedDateTime: 2021-03-02T09:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-robot-market-size-status-demand-growth-and-overview-outlook-2020---2025-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025"
     excerpt: "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,"
     publishedDateTime: 2021-03-05T00:16:00Z
@@ -128,19 +114,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in the Manufacturing Sector Market 2020: Industry Overview, Growth, Price, Trends and Forecast 2027"
-    excerpt: "Global Drivers, Restraints, Opportunities, Trends, and Forecasts up to 2023 Overview: The manufacturing industry has seen dramatic changes in past decade and continues to undergo radical process changes in the delivery of its products."
-    publishedDateTime: 2021-03-02T10:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-the-manufacturing-sector-market-2020-industry-overview-growth-price-trends-and-forecast-2027-2021-03-02"
+  - title: "Voice and Speech Recognition Market Share, Growth, Challenges, & Global Forecast 2021 to 2026"
+    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market experienced robust growth during 2015-2020."
+    publishedDateTime: 2021-03-02T13:18:00Z
+    webUrl: "https://ipsnews.net/business/2021/03/02/voice-and-speech-recognition-market-share-growth-challenges-global-forecast-2021-to-2026/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 28
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Voice%20and%20Speech%20Recognition%20Market.jpg?1614687366276"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Deep Learning Market Growth, Trends, Size, Key Players, Research Report and Forecast 2020-2025"
     excerpt: "According to the latest report by IMARC Group, titled “Global Deep Learning Market Research: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,” the global deep learning market size is expanding at a robust rate."

@@ -3,10 +3,10 @@ category: news
 title: "Microsoft Power BI Premium: New platform and pricing, what you need to know"
 excerpt: "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance."
 publishedDateTime: 2021-03-04T11:11:00Z
-originalUrl: "https://www.techrepublic.com/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
-webUrl: "https://www.techrepublic.com/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
+originalUrl: "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
+webUrl: "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
+ampWebUrl: "https://www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/"
 type: article
 quality: 87
 heat: -1
@@ -563,6 +563,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "DpXo6lu/JxdhqimW48AXhpwn7TciZG3Ovh4NjByIvJ1ujmr2GtUxMX0vRE+FXQnVbDCCWyPVWfmC6nbjsGkBdJ1CWNzcuFF18U/l6UtawBNkykB2B1/SjYsk1KrgvNQ2uX2tBZMqUhqJChSdy50gNygrRWvUf86ncT5XqbRUt/37vJBS9Ry+SAIAyBXDhvewaZXhGs3hPWV3spnQBUBuI5dcMCj+HHeuh39szos7icYC+0CZG34zVI0F2e26/zA7xGK0yKb6UP+y4JJ7vxQDU3o2KGMKRbVXW2XN4dNmawSm8ZsSDL3YOBAbg2ttPB8+KeGXxj0l20+zSdzdTXscvuHAOq+1laSINxfPzakKtBKIY9luJA8WHXwhFgLoqU34r+9w64VuU+adiuxpwb6KpXFJEy8pFsEE5opfat1H4G6Cl7KkvuPhbwLSC2Q8Ng71UbSTxMiVHN8oEr0MjRrNtYVkoEbZTbocd2tAHJ8GlsVm2vHRqTULoFI2pVhGMG9SXUXISePPyZfDnoRtkcIyWA==;S4QuWbLV4Z+esQ8H/5xygA=="
+secured: "fJtjA8LK1sw/eNPcuLaOJO4rDL63wZdiqqFYN6FAJYsSo9uxOtSqf9M/pT976ijLpD17+rugIBoAtS/2yy7YU7qji9s2/7keRhkwOBgsEJpIW+M0PXkcDi/Qxxf+N34f03WV8oEomnEu/c7RldD0oo1ppluVLD0+YXWNM1L0ygpyGDx52EsYYB5n1f5FCX4FmJB0GHiILgyC3/YJFmSZqop6rQqmvDlaBYUeWlw50LEQ9SU/4srWaZrzuAmHoBU1OEMffhbIyr1d9JuxXwHsY1lAVLeYSiMMElBHU6aD1jpLnbMmj8mK7NinbbZPZfF3wAX2s0l03aCamDUq9OfjDqSftiu28XqszRvHnk2nqfM=;zMaWqwufbwmnZ3jTumxbQg=="
 ---
 

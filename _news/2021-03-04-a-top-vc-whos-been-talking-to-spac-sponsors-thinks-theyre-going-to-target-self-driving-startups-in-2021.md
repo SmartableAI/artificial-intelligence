@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving startups are becoming an endangered species"
+    excerpt: "But such a deal would be consistent with an ongoing trend: it's becoming harder and harder for self-driving startups to remain independent. Voyage was part of a wave of self-driving startups that were founded between 2013 and 2018."
+    publishedDateTime: 2021-03-04T22:28:00Z
+    webUrl: "https://arstechnica.com/cars/2021/03/self-driving-startups-are-becoming-an-endangered-species/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 54
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Voyage-at-The-Villages-1-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "SPAC-mania is coming for self-driving startups in 2021, a top VC predicts"
     excerpt: "VC Reilly Brennan thinks SPAC sponsors are looking to Tesla for ideas, and after a wave of EV-related SPACs, autonomy companies are next."
     publishedDateTime: 2021-03-03T06:59:00Z

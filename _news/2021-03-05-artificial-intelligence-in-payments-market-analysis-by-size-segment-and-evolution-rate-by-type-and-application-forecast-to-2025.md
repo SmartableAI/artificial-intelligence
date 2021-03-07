@@ -28,40 +28,62 @@ images:
     isCached: true
 
 related:
-  - title: "India Artificial Intelligence in Healthcare Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
-    excerpt: "India artificial intelligence in healthcare market likely to growing due to the rising usages of AI for the improving"
-    publishedDateTime: 2021-03-03T05:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
+  - title: "Voice and Speech Recognition Market Size, Share and Forecast 2019-2025"
+    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
+    publishedDateTime: 2021-03-03T13:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Exploring the Intersection of Genomic Data and AI in Healthcare"
-    excerpt: "While artificial intelligence in healthcare has the potential to gain actionable insights from genomic data, longstanding challenges could hamper efforts to achieve precision medicine."
-    publishedDateTime: 2021-03-05T06:01:00Z
-    webUrl: "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
-    ampWebUrl: "https://healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+  - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
+    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2021-03-02T14:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-report-2021-key-trends-and-opportunities-to-2026-kennethresearchcom-2021-03-02"
     type: article
     provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 54
-  - title: "Natural Language Processing Market by Component, Type, Application, Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to 2026"
-    excerpt: "Application (Automatic Summarization, Sentiment Analysis, Risk & Threat Detection), Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to"
-    publishedDateTime: 2021-03-03T21:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19681380.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-03-04T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2027-2021-03-04"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2027"
+    excerpt: "Global Speech and Voice Recognition Market to reach USD 43.8 Billion by 2027. Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17."
+    publishedDateTime: 2021-03-03T10:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-historical-growth-analysis-opportunities-and-forecast-to-2027-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "uIj8QjCHc8cXgmlttDPqN3NKXZtvBSeQX2H1uZbR8byuuJ3rLLMaCOv9tU9Ldfly7+I3iwGuG1koUPOHLS2QaK1ncDzR/sy9vufqewjVQzo2PqOyaDz5qCOB9H2z7I/GM6ICunWMHI7qCelvb6QZ7pCqh4i1PzwvWJ7mncwdLaw0gqvsbzjRGwgOVVzeapOQNFxqsDZW8CY1+1a+YiRTtmA1iGQ357FOuYpTNZxj/1zBAl7xCqv4QhVxNXvK+cQROAVea6R9arhXB2ilUpCP23OH8MatujbS/QdxpPaq40fJ9tG4W2eiF1WXK4HHBmT97NUIrZTV9keG6R1qpGxkwrOPsL+yePF4CHoxdh3fD2c=;5Z96w4fNaPodkMH9yWyGOw=="
 ---

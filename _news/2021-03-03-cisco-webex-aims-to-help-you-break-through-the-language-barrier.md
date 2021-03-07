@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-b
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/cisco-webex-aims-to-help-you-break-through-the-language-barrier"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/03/translation.jpg"
         width: 850
         height: 400
-        isCached: true
-  - title: "Cisco continues to overhaul Webex, now with real-time language transcription"
-    excerpt: "Cisco users will soon be able to have their in-meeting speech translated in real time into over 100 languages, a feature first teased at the copany’s WebexOne event."
-    publishedDateTime: 2021-03-02T10:32:00Z
-    webUrl: "https://www.computerworld.com/article/3600648/cisco-continues-to-overhaul-webex-now-with-real-time-language-transcription.html"
-    ampWebUrl: "https://www.computerworld.com/article/3600648/cisco-continues-to-overhaul-webex-now-with-real-time-language-transcription.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3600648/cisco-continues-to-overhaul-webex-now-with-real-time-language-transcription.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 41
-    images:
-      - url: "https://images.idgesg.net/images/article/2020/12/in-meeting-reaction-hand-gesture-100870294-large.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Polyglot conferencing: Cisco adding real-time translation of 108 languages to Webex"
     excerpt: "Cisco is adding the capability of real-time translation from English to 108 additional languages, including Afrikaans, Armenian, Malay, Vietnamese, Hindi, and Zulu, to its Webex conferencing system."

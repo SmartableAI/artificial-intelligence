@@ -25,10 +25,10 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
-    publishedDateTime: 2021-03-02T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02"
+  - title: "Global Natural Language Processing (NLP) in Healthcare Market 2020 Industry Scenario, Strategies, Growth Factors and Forecast to 2025"
+    excerpt: "Global Natural Language Processing (NLP) in Healthcare Market Growth (Status and Outlook) 2020-2025 aims to fill the need of organizations of settling on the best choices, deal with the marketing of goods or services,"
+    publishedDateTime: 2021-03-03T01:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-in-healthcare-market-2020-industry-scenario-strategies-growth-factors-and-forecast-to-2025-2021-03-02"
     type: article
     provider:
       name: MarketWatch
@@ -39,75 +39,103 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Size, Share and Forecast 2019-2025"
-    excerpt: "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe."
-    publishedDateTime: 2021-03-03T13:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03"
+  - title: "Healthcare AI Market Size 2021 by Research Methodology, Value Chain Analysis, Distributors and Forecast to 2025"
+    excerpt: "Mar 02, 2021 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Healthcare AI Market report elaborates"
+    publishedDateTime: 2021-03-02T16:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-ai-market-size-2021-by-research-methodology-value-chain-analysis-distributors-and-forecast-to-2025-2021-03-02"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Software Market 2021 Trend Analysis, Growth Status, Revenue Expectation to 2031"
-    excerpt: "The worldwide Artificial Intelligence Software market report is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i."
-    publishedDateTime: 2021-03-05T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2021-trend-analysis-growth-status-revenue-expectation-to-2031-2021-03-05"
+  - title: "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025"
+    excerpt: "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,"
+    publishedDateTime: 2021-03-05T00:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
-    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
-    publishedDateTime: 2021-03-02T14:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-report-2021-key-trends-and-opportunities-to-2026-kennethresearchcom-2021-03-02"
+  - title: "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027"
+    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
+    publishedDateTime: 2021-03-04T22:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2021-03-04T09:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2027-2021-03-04"
+  - title: "Global Healthcare Artificial Intelligent Market Outlook, Industry Analysis and Prospect 2018-2025"
+    excerpt: "Global AI in Healthcare Market OverviewArtificial Intelligence is the development of computer systems that are able"
+    publishedDateTime: 2021-03-03T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligent-market-outlook-industry-analysis-and-prospect-2018-2025-2021-03-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2027"
-    excerpt: "Global Speech and Voice Recognition Market to reach USD 43.8 Billion by 2027. Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17."
-    publishedDateTime: 2021-03-03T10:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-share-historical-growth-analysis-opportunities-and-forecast-to-2027-2021-03-03"
+  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
+    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-03-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
+    excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
+    publishedDateTime: 2021-03-03T22:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-report-2021-2026-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-03-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Growth, Trends, Size, Key Players, Research Report and Forecast 2020-2025"
+    excerpt: "According to the latest report by IMARC Group, titled “Global Deep Learning Market Research: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,” the global deep learning market size is expanding at a robust rate."
+    publishedDateTime: 2021-03-04T04:30:00Z
+    webUrl: "https://ipsnews.net/business/2021/03/04/deep-learning-market-growth-trends-size-key-players-research-report-and-forecast-2020-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 27
+    images:
+      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Deep%20Learning%20Market%202021.jpg?1614844768634"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "RcIdenZNoFP31affLdmeQr8DZ+vloIlPk4OZ42Xt1+RE2SwVC4iVViUb3Hgt8wUN7oLvWLJfJdQw1SmAYnHBYnhFp/lpK9sZo6a3QN17kvui7RcVcP/8ehs6eZyppLcqq8UDzbC0WtXgP2yFBDCR6R9GUxT54Q0L05AOoK4Z4G4b4emIvPE0VzgdkSAmCPYlR67QN9sELDyx2n99aZjMoxW5J8PQSIhaB3mDNU6xev4G5FaEQMOlGt3teiesa4XsLNj+rr1beWVsOlwrq+xqD2NqeEmXMCfuNKzgd7jREQ1brfA/+OHUUVQdUxhLU+HlPzALCmwb3B01s3L1islVWeJvUhdLrvrRRN6EuC1Ru0Nrh3YUgkahsGOzaUZtFOPvP5SvTizSlSsGXI8W5tgmu2bSEGKHzEBXRKBMJxdziErMO5UAfvBncR8Z11DpyrZa5r2/2djEHvUzujdcgriEN8n9Oz2fiuYqBwlm9xRnFt7k3euBthCc51lqtEeshpalnTIgyiPpWoIpO1r5wwc/yQ==;S/GIO59YET7M9FbUMAa1Aw=="

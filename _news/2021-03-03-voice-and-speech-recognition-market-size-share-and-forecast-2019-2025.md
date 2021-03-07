@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recogni
 webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: MarketWatch
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu"
-    excerpt: "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch."
-    publishedDateTime: 2021-03-02T09:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Software Market 2021 Trend Analysis, Growth Status, Revenue Expectation to 2031"
-    excerpt: "The worldwide Artificial Intelligence Software market report is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i."
-    publishedDateTime: 2021-03-05T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2021-trend-analysis-growth-status-revenue-expectation-to-2031-2021-03-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Market Report 2021: Key Trends and Opportunities to 2026 – Kennethresearch.com"
     excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2021-03-02T14:24:00Z
@@ -85,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Payments Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025"
+    excerpt: "Artificial Intelligence in Payments market across the globe is forecast to grow at the exponential CAGR during 2020-25. The major contributing factor for the growth of the Global Artificial Intelligence in the Payments market is increasing digitalization in banking and financial instruction."
+    publishedDateTime: 2021-03-05T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025-2021-03-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Market Share, Historical Growth, Analysis, Opportunities and Forecast To 2027"
     excerpt: "Global Speech and Voice Recognition Market to reach USD 43.8 Billion by 2027. Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to grow with a growth rate of more than 17."
     publishedDateTime: 2021-03-03T10:07:00Z
@@ -98,20 +84,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Voice and Speech Recognition Market Share, Growth, Challenges, & Global Forecast 2021 to 2026"
-    excerpt: "As per the latest report by IMARC Group, titled “Voice and Speech Recognition Market size: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026”, the global voice and speech recognition market experienced robust growth during 2015-2020."
-    publishedDateTime: 2021-03-02T13:18:00Z
-    webUrl: "https://ipsnews.net/business/2021/03/02/voice-and-speech-recognition-market-share-growth-challenges-global-forecast-2021-to-2026/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 28
-    images:
-      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Voice%20and%20Speech%20Recognition%20Market.jpg?1614687366276"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "tqL5uDBaXtD3dkl4q6mMl+PRuH2WVch1vMIXO3BoHb0QxEd4Nj+CiblqlQSjflL5MqBrUYrt46mVTAor693NNe/SRvEHW6V9CrxdiTilnkA96q+L4eTNJugSQpXa1zXgr5LSb+vZDFEBMAJdC4ze0z14Fk2A9L20Z2AqpXUklVY+fRgkx7TUd/dcYaDQ1F4Bm0Z3nHQlIHuh1ChGUoGnumy4StRaFMbM/VOyvT8RpZINoe0LuwVKP5euBL3I6qei2TmUHBI7nbkBoPgUomrh1V3WtdyKGN6gqaT9i3JBUMq5MELs/7GuRk482AG6WxQWCUSsw/DI9fw7bZ9edFAxaQogGjeBWmUgvOJWVV64LoY=;ViMW9AniKrKRRO6PVIde3g=="

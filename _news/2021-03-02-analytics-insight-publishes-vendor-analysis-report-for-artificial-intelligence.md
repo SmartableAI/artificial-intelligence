@@ -40,15 +40,6 @@ related:
         width: 900
         height: 400
         isCached: true
-  - title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
-    excerpt: "Global competition calls on aspiring data scientists to innovate for sustainable economic growth- AI models to focus on helping prevent loss of"
-    publishedDateTime: 2021-03-02T10:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
   - title: "The New Era of Deep-Learning Based Video Analytics"
     excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
     publishedDateTime: 2021-03-02T15:52:00Z

@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Worldwide Household Robots Industry to 2026 - Asia-Pacific is Expected to Witness the Fastest Growth - ResearchAndMarkets.com"
-excerpt: "The \"Household Robots Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2021-03-04T15:19:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/b20010456/worldwide-household-robots-industry-to-2026-asia-pacific-is-expected-to-witness-the-fastest-growth"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/b20010456/worldwide-household-robots-industry-to-2026-asia-pacific-is-expected-to-witness-the-fastest-growth"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20010456"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20010456"
+excerpt: "The “Household Robots Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021 - 2026)” report has been added to ResearchAndMarkets.com’s offering. The household robots market is expected to register a CAGR of 20."
+publishedDateTime: 2021-03-04T07:19:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-greater-china-corporate-news-household-product-manufacturing-86fa2144dc6540d78d7cb18b653bda58"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-greater-china-corporate-news-household-product-manufacturing-86fa2144dc6540d78d7cb18b653bda58"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "wl/Xxv1JcDNzJ6cyZx0X4OeyV0H5fxs6Ao4BGIyXQQ7fIvizhWA7pguDEmvk9F0sfkt4TdBA93GSxC4EL1wz9uAeiOKCtYyBoqdoY1Vkv6aVf6/5Ej5eQbnngpT9I2c9lUjSq1n7QpLmwYjME5rsf7vzJnPE7xjFjo8Ne045QSc8iT8Xy0yDYLgcUzqSJxc+PH8LWUPxmCc05/+F+wwRqQ57o477ERnWPiglpUKoehuDzb8XK4x4ZHrLJ8b3G3n0QaIhpcT7VsrF2R+0dsO3y/50eZYj1CVWoMffU/yt+fMyJVmcKF4ArsqTn9j/ICyaLm4GDPTTgt1CHdWavyUrUwS+N3tfdQoQcnHhymUu3nI=;hFes6FmUS0AIX9q9/ASGpw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ipVaIah7Lf+ZoNUIcHvFl/gAwXYhekQu+40AK6Y1fcMvGBgD0gD2P+OU0sKhjMK7/bdg4mKZY0Y7aDCu40KE18uf9Wkm83DNT0PJQQxC7QPW8CACXY0PBQyTa20ofQ5a96x4viUFEuR6hBsJTTdByynr30XNIKwrVzQ+OT/M+zb2sCwTn7ThUCOal/800WaB4vhrCsY8mN3JYlLdYrDrvxtR/EyAGBSP+TmJ1Hcs1WV2l5Cbrw0dXYL+n1zS7YgnzuVFDJZjd3roXuy13iwql7piJAQhMdjzv3GAEMl0iBxbVScNYj01+C7+NorpQXj0KRlOTtUqjSB11Cn364vz+F1wdoOSbDpHlS47dMYJ9ds=;wlz1v5ib/zfdz5yWMp8CRg=="
 ---
 

@@ -57,40 +57,24 @@ related:
         width: 1280
         height: 576
         isCached: true
-  - title: "Top tech trends that will define fintech this year"
-    excerpt: "Technology in the financial sector is evolving rapidly to offer solutions and stay ahead of the curve. A clutch of tech trends will shape the fintech space."
-    publishedDateTime: 2021-03-02T10:08:00Z
-    webUrl: "https://www.dqindia.com/top-tech-trends-will-define-fintech-year/"
-    ampWebUrl: "https://www.dqindia.com/top-tech-trends-will-define-fintech-year/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/top-tech-trends-will-define-fintech-year/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 44
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/Top-tech-trends-that-will-define-fintech-this-year.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "AI in Fintech Market 2021 Growth Analysis, Share, Demand by Regions, Types and Analysis of Key Players- Research Forecasts To 2027"
-    excerpt: "Global “ AI in Fintech Market ” forecast 2027; research report analyzed the existing state of the market by definitions, classifications, applications and industry chain structure. The AI in Fintech Market report also concentrate on the development trends as well as history,"
-    publishedDateTime: 2021-03-02T09:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2021-growth-analysis-share-demand-by-regions-types-and-analysis-of-key-players--research-forecasts-to-2027-2021-03-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
     excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"
     publishedDateTime: 2021-03-05T14:01:00Z
     webUrl: "https://us.acrofan.com/detail.php?number=432885"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 24
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Western Union to Present at the Wolfe Fintech Forum on March 10th"
+    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe Fintech Forum on Wednes 10,"
+    publishedDateTime: 2021-03-05T09:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=432682"
     type: article
     provider:
       name: 아크로팬

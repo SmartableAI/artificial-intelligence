@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/military-robots-market-s
 webUrl: "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Software Market 2021 Trend Analysis, Growth Status, Revenue Expectation to 2031"
+    excerpt: "The worldwide Artificial Intelligence Software market report is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i."
+    publishedDateTime: 2021-03-05T13:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2021-trend-analysis-growth-status-revenue-expectation-to-2031-2021-03-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pharmaceutical Robots Market Size Worth $297.4 Million By 2028: Grand View Research, Inc."
     excerpt: "The global pharmaceutical robots market size is expected to reach USD 297.4 million by 2028, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 9.3% from 2021 to 2028."
     publishedDateTime: 2021-03-04T09:16:00Z

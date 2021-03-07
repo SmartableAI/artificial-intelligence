@@ -1,14 +1,11 @@
 ---
 category: news
 title: "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge"
-excerpt: "IBM is also extending Watson Anywhere with the availability of IBM Cloud Pak for Data as a Service with IBM Cloud Satellite. This gives clients a flexible, secure way to run their AI and analytics workloads as services across any environment – without ..."
+excerpt: "ARMONK, N.Y., March 1, 2021 /PRNewswire/ -- IBM (NYSE: IBM) today announced that its hybrid cloud services are now generally available in any environment -- on any cloud, on premises or at the ..."
 publishedDateTime: 2021-03-02T03:57:00Z
 originalUrl: "https://www.nasdaq.com/press-release/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment"
 webUrl: "https://www.nasdaq.com/press-release/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
   name: Nasdaq
@@ -18,6 +15,6 @@ topics:
   - IBM AI
   - AI
 
-secured: "6LsuUlLLLmYfp7zML/iarMfJgeKGoiIBZckxVTu6km4rEB5dOEZy9sLlsTH5M2xHUDjjZLembtL3SaLztyPKdA1Pj1+gy/wUPAuSNa3lfff6rfNRCAc12aPSuFSzI6BbDws6xahuQHAuLDGfpihvIYGU0Yz77WEdehhCvJ4zLBiJgHBcEvU9vsM50ALopi0qhqJ77Oin8KU0qYIp/IxBfoqQU4g0KlfVo9ZyXXsmj8i2XZKTZm5iI40GiTEx18J2+TddJbmE2hlCJzJ1hCWcvSBq1JeYHByzPQbddxYVRMzuhbpwCuLi1YAum9hlANfKDzq7DuzeTN3zCChvyqZ7ixq9Xs9Nzocj+S+bzQqECOo=;xEPAq9ARS5LeA2ilYnRlmg=="
+secured: "gWUXbmX5K8DFvyR1oHdpGDzYHZ5jIv0wSSY3lYMp9IgzCPF5lWYYQVc39Jxj97aRvaCeNNyIlGTVoFAfLvJPpYueL8mAN08bTPArYe8SG9jr43EWCWwHTwUQQ5keJCtZBKrlsbBdqF27kK1wYc4V5qzt4XzM3YROwKmTL+9TfKd4yHa8q76hTfttvl5bNDNX+/If/8PYtfVEBarC7axmrLPRar8LlXNsV7XxsE7R8+yEszLNvsffM9Tk2fGiJ5BOSGaX9BNBB1FhUz46yQhjTDsNimq7YlDbeswBOvMoVSRzrrF/kqpqFF/JMrrvo6ebWpCVsD1tyN4YMfgaR2eLbV7DpIXj2vh0M9sfRXhEH0A=;xzpqwkFZQm30lkjaLWiG8w=="
 ---
 
