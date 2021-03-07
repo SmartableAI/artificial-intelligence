@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Driverless bus hits streets of Malaga in southern Spain"
-excerpt: "A new driverless electric bus has begun operating ... he told AFP. The bus uses artificial intelligence to improve its \"decisions\" based on data recorded along the route. The 12-metre (39-foot ..."
-publishedDateTime: 2021-02-25T18:20:00Z
-originalUrl: "https://www.rfi.fr/en/business-and-tech/20210225-driverless-bus-hits-streets-of-malaga-in-southern-spain"
-webUrl: "https://www.rfi.fr/en/business-and-tech/20210225-driverless-bus-hits-streets-of-malaga-in-southern-spain"
-ampWebUrl: "https://amp.rfi.fr/en/business-and-tech/20210225-driverless-bus-hits-streets-of-malaga-in-southern-spain"
-cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/business-and-tech/20210225-driverless-bus-hits-streets-of-malaga-in-southern-spain"
+excerpt: "The bus uses artificial intelligence to improve its \"decisions ... 60 passengers and was developed by Spanish firm Irizar. Other driverless pilot projects already exist in Europe, but none ..."
+publishedDateTime: 2021-02-25T17:58:00Z
+originalUrl: "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain"
+webUrl: "https://www.straitstimes.com/world/europe/driverless-bus-hits-streets-of-malaga-in-southern-spain"
 type: article
 
 provider:
-  name: RFI
-  domain: www.rfi.fr
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s.rfi.fr/media/display/29cb3228-778d-11eb-950a-005056bff430/w:1280/p:16x9/7a7d03af164daf8760278f0e293ae1d2dda7e60d.jpg"
-    width: 1280
-    height: 720
+  - url: "https://static.straitstimes.com.sg/s3fs-public/styles/x_large/public/articles/2021/02/26/2021-02-24t162613z_1541090307_rc24zl9hcwl2_rtrmadp_3_spain-bus.jpg?itok=8rQNXPH0"
+    width: 763
+    height: 509
     isCached: true
 
-secured: "zkWKs7qFgX581IBF88nZnpyIAxz2jLxGDVTQG2KTfcDDNzS5+LUi7mj8wVy2vql5bl5A5+ooXt6KW3g8ti8YpqbmkRoHTAhpcE7WY+hKTeAHmJzpJcNw4/AkP2tETCq2rMHN0rQdIQ2dz1enhyUM3SE7gy9cYKOQdzJDuvOhrxajcz+cwBtW/4DDcAP89v+03npC+SYHAYFb/jWvKNAEfBBNvcLyR3AGOruspTcpJHHCPLAuVmrgA9XiQrgZ5CpqS9ozpMI6SARagpkVD3pV/vNaoxdD0WMLs4vSY58+NKP/AMOrIj35dXiv4MCq4S3AjQbQ0vHP6oUOXLnGnPMqLWbhpo612IvrIuH8brMaC1k=;mAArHazHlHwkMdKY5P8+MQ=="
+secured: "tJ5GV6hHLDD4gR0xELsplVmTuC5C+qPTCNXxh0y+RcFL6BHI7VpDoa79g2DBRx/GBOqo03GstUK0Q1cddQS9sJI6u754fhvtOHhVK0DqXO0ut3EPQz5ybLbqZKZ9eJnMHoaAJ7FeFUGuAKTg37l2xP2uAlDoYKpqTMdNrOymWAZDnd0vuMXlnN8LjBrEt/EoZZ3pPSK54dEtaPFOmnJBcP2kNaoRkJSi7NSzD8fPRv10EiGgoPIK4v71M1IPNDn3f/8uekhLZtcp8NyAnLIy2Dq4QHpaM8UVbQTcnctR+U3tCHczpZ4mZGjFGoiKbM4AsCuyWyvdw/Z+dPwDkxA8Q5K6DxK0b5+YzIRBAPe8GR8=;jEZF6ROcNpTJkh0KM3tXSw=="
 ---
 

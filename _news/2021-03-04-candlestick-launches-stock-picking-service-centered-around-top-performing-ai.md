@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/20002121"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20002121"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japan’s Agrist secures series A funding round to expand AI-powered harvesting robot"
-    excerpt: "We learned this round does NOT include debt financing. The title was adjusted while the affected part was deleted. Japanese AgriTecch startup Agrist, based out of"
-    publishedDateTime: 2021-03-02T23:00:00Z
-    webUrl: "https://thebridge.jp/en/2021/03/agrist-series-a-round-funding"
-    type: article
-    provider:
-      name: thebridge.jp
-      domain: thebridge.jp
-    quality: 48
-    images:
-      - url: "https://thebridge.jp/en/wp-content/uploads/2021/03/agrist-robot-camera-green-pepper-detection.jpg"
-        width: 1240
-        height: 780
-        isCached: true
   - title: "Semi-automated tracking of pain in critical care patients using artificial intelligence: a retrospective observational study | Scientific Reports"
     excerpt: "Monitoring the pain intensity in critically ill patients is crucial because intense pain can cause adverse events, including poor survival rates; however, continuous pain evaluation is difficult. Vital signs have traditionally been considered ineffective in pain assessment;"
     publishedDateTime: 2021-03-05T07:38:55Z

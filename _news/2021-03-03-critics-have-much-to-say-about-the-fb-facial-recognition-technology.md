@@ -9,8 +9,8 @@ ampWebUrl: "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-ab
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Al Bawaba News
@@ -42,6 +42,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/stock-artificial-intelligence-biometric-identification-facial-recognition.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Asia Pacific region"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout"
+    publishedDateTime: 2021-03-03T10:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-asia-pacific-region-824292980.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "uyXqCy7YkKRyFY15r+9kiMIR5ULaLO8uvNlUHWA014YwJm95c8DaLtgmXhtMfuIy/H9yaLmRi+Tr/18PScuyDNb2LxZCPb2jSJf9OSzkO7jQriVZPEd3V7i6xLBolGEuEy7DPKXX55N6g6D70YTUmUvSOXNz+n3rATKbxj1EFulhx8yqdMvV6ehJDX0Rn8ISJZVci4txA9cMQ2R15fQgucmuQKilLk7oXKf0/krpbA3iU4CL0ZPDWpi16qTJqvEoR0SVLkypZoAnyo85ZsBnbZ4cyND7VtdrzM0aVLQISMf7KP+0ygEOjU1K5PboRgbFSuctlKqvsLyjvPNP79eBWZfcET/6ojBQH0jTpYjNQsEu6YFty6vZvTgY5ESyDty70SvA5mVjjNxgakzn8h0AsbCKS17TGJXwIlvXT9kvRSHu6BAypkT5XwuCCKXhCrjcmPyp0jRc+wqoVMFEbKlRjXi/5tpxTyqQxfWdpoRxw6OzUJ6T4+GoNdz66nU7c+3TBr+38G540CgHTiqUwzbjLQ==;0PdjxCyA9wKCernHPRrrpQ=="

@@ -40,20 +40,6 @@ related:
         width: 407
         height: 406
         isCached: true
-  - title: "Japan’s Agrist secures series A funding round to expand AI-powered harvesting robot"
-    excerpt: "We learned this round does NOT include debt financing. The title was adjusted while the affected part was deleted. Japanese AgriTecch startup Agrist, based out of"
-    publishedDateTime: 2021-03-02T23:00:00Z
-    webUrl: "https://thebridge.jp/en/2021/03/agrist-series-a-round-funding"
-    type: article
-    provider:
-      name: thebridge.jp
-      domain: thebridge.jp
-    quality: 48
-    images:
-      - url: "https://thebridge.jp/en/wp-content/uploads/2021/03/agrist-robot-camera-green-pepper-detection.jpg"
-        width: 1240
-        height: 780
-        isCached: true
 
 secured: "1dpg1zMeC+tEs2gMuONA4dqrZSz1z0KRgc/spLzMbeB1FkYL2v+ce49kvprBKg2WM7+slLLBJXovPtYUwQI6TEA/umo2kmxNRauYoGc9bu8O80mjTRnKIg06Z6ui0U1NAa/lNLzr164zWZ/Vz58DI0zZRW0wCh3YS98L2XIuTO94YqITNIo9SjEBx4ZdU2Cn5Xvngp35k+Umr6g4bpJ7jLI59xEEcV6wcTKQAEoE9+K4hiIJ3WeWSfo5qkFVo8eP3BjNew8CtcZJFuWmhFMMUlBnBKP5LVfD6sjt0UlydTyaqhYm91pC8L29+adf3+wWapv/6xmwsjjMBWI4/39dTLuWgffNGtsOPeqah1k0PjI=;FaNeB8NR59dUfX+mFVlXOg=="
 ---

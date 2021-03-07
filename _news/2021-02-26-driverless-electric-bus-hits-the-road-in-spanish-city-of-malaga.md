@@ -2,9 +2,9 @@
 category: news
 title: "Driverless electric bus hits the road in Spanish city of Málaga"
 excerpt: "The bus uses artificial intelligence to improve its “decisions ... and was developed by the Spanish company Irizar. Other driverless pilot projects already exist in Europe, but none of ..."
-publishedDateTime: 2021-02-25T18:34:00Z
-originalUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ"
-webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga?_hsenc=p2ANqtz-8cUZWRjEbjSzSUveSNVwTxLgMjroYYf3up5iTzR9tooSWyHoFTyAq63IlzQ4cI82IYmkaJ"
+publishedDateTime: 2021-02-25T19:27:00Z
+originalUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
+webUrl: "https://www.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 ampWebUrl: "https://amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/feb/25/driverless-electric-bus-hits-the-road-in-spanish-city-of-malaga"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "X8skf4qH3es8bdYMhhKWxQLxFq6+vFOU1ShRGVHSQnx1YIhaMP5UnykQ+luksYNjRC/9bkVqQM26bqV5F5013nwKHiP7Wwk3npV2i4O+v3/PUpptkrP3urBRJsg6umafvV7jjZXsssv2mOALVlEmSDV8bUoZhYOFeL+o3wWMPMvf1Kdy2Ler7pv9SoxbSYF8pDJMbnh5qu+Joqlc8JVaXGY0F6f72u61zWbGaA+JXAqD+1Hn/84STMWEC9KyQXgn+alky//XaQ+UJIO+H9pvYMpyXnWfUunGZZ1YU63lCQgAZyVnaJrfBUUcsfjdN3IwhkTNSj1vpzRb2eGS/a2cTrAbgYkUTjkJCnHu2/J2xfs=;xmDXh+9r1DnrC16704ZOPw=="
+secured: "sHvL3ipkvMS+5S2kJikaoe5faSbBH/x3Ioqbkwxr36xclJkdt7pwPtsD8x83dziQ0IIqAIpjtRP2m87N4fEIRkZNg6ix46aTpSxploy19tuNrbgwQhGAHlvqOQg/Gyv6xrvhRMbN8AmgthA6ZopzPVBYfKU2D6iTgkJZFRRQCvcyQpb58zxAfLo2WXsZBsfR435a+wwlH/OfdNsOObuNyRB4oAme7SXqsA35qSypTl9alaLe0qNFyLbvs+3ErO6DFxSzLl6VFlC4nN9U6wE+1Ayqj+qNVs8GigluQaldk/0XnzmDL3AMW05xrMZM2j082twZUX0bt6Uxy0vyRZaFuifLPGy/4iSzzES/kR70tp4=;JQ8ye6yYf1yXTF9E36VilA=="
 ---
 

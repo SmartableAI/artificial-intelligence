@@ -119,7 +119,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
         width: 760

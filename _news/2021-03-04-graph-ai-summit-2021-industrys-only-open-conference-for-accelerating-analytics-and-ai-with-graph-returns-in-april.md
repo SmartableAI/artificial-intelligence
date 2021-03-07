@@ -52,6 +52,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Yum! Brands to Acquire Kvantum’s Leading Artificial Intelligence-Based Consumer Insights and Marketing Performance Analytics Business"
+    excerpt: "Yum! Brands, Inc. (NYSE: YUM) today announced that it has entered into a definitive agreement to acquire the leading artificial intelligence-based consumer insights and marketing performance analytics business of Kvantum,"
+    publishedDateTime: 2021-03-03T05:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-ownership-changes-9510eebb785a44ee99bfa877dd9d319a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
 
 secured: "krJHLoh4tPtXA0sd5hQJnNr3PRbtfjlWltpY+kWP001umw9Tj3TPgQ7VEPVKibZhszXnl/KWcz5dGmzVsUpnzegWZVieJKh3ET6s1WnG46lWbg7ajwkKE9EEJRMaD9tIZj1zrujFFgXzDTod93DpO+jhFzS14npd1CD3uTby8qp+abIRVhMTfRxcISHZ+jKCBEYZLRzGe3OjftUhB7/WHbkYCMUis5XUdi2Q5nW928flkcBd/730ylLRlR+efrbnc1QuLuEuTfZz35de2Wn28HMMZ5QzJIYLbFOuU4gJHsTw5pmvKU2JqeAD4hiT9/hf+9NUC0CIsHP3d4rdd354N3NjGfPUnwrecTqlqWV6reY=;nZkqMrrVuPUBHfmhhfk4ig=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
 type: article
 quality: 80
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2021/03/iStock-sudok1-945x630-1-e1615042402287.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence reveals current drugs may help combat Alzheimer's"
+    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.  The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
+    publishedDateTime: 2021-03-07T13:39:00Z
+    webUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663"
+    ampWebUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 58
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
+        width: 918
+        height: 506
         isCached: true
   - title: "AI-based method for repurposing existing drugs into potential treatments for Alzheimer's"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options."
@@ -113,6 +129,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "AI reveals current drugs that may help combat Alzheimer's"
+    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
+    publishedDateTime: 2021-03-07T14:35:00Z
+    webUrl: "https://menafn.com/1101712021/AI-reveals-current-drugs-that-may-help-combat-Alzheimers"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?870845"
+        width: 552
+        height: 250
+        isCached: true
   - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
     publishedDateTime: 2021-03-04T19:32:00Z
@@ -127,15 +157,6 @@ related:
         width: 775
         height: 812
         isCached: true
-  - title: "AI reveals current drugs that may help combat Alzheimer's"
-    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications"
-    publishedDateTime: 2021-03-07T09:34:00Z
-    webUrl: "https://www.glamsham.com/world/technology/ai-reveals-current-drugs-that-may-help-combat-alzheimers"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 19
 
 secured: "nnydTfBT4bOC+gPO3vX1z2igYVCtuWXYkcYY060kkd5ul36qsR5Mgc6dBU/YaezxbbLTEJKV/1445mWSnyumGR8cj4QOqHne6m9RtvkT3I4DQIn0rWDwRcph8By6u8uv4egFw8kNto9B/jsmsXKT8+DvCa/Ck4V9nK8XNb1mnxQJGpvDQa+Z+ld1KNzWaB4FDa8f3Kdx9TxS8+ttDqLF/53y+xmt9Zzj/vzLVOo4fQRLHZvscsXyrL8Ofu6FAgoWuUPSIx8cV7c+Z6pU+UgCeSqUVd2o87xVbfhdGbN76e56eXUsVGTQIrc/0t3FvArwfPZmO3V2FSR1FU0BJTQnCHAamCKqf0VM09yoX38D38KVx5GRLahvUCWVq7cRN/YVBkoE+dCMcLeUB+ohLiqeTz2OOA8ZmJC+glkFw5IZ7UaL3d1ocMNVZkHsDaOhSk2xUpkV71ulcilWT37J1ZG7j5paNSpuYxwyMlJB/iW6QwaNUZpHOoAv5V54bELemdv5dUkOeCff8IoH5fzS8oGLRQ==;ZWCxdWNkzsR2VK/OCLzhXg=="
 ---

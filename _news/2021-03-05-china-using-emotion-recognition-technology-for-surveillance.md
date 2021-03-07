@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 647
         isCached: true
+  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Asia Pacific region"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout"
+    publishedDateTime: 2021-03-03T10:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-asia-pacific-region-824292980.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 36
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "1/YFGoSua8f9H2xdeFEiGxo+IwJtDLhoG7JZkGYSeCJbvMLG0PO2gNpwlyNc5VeEvSSWWtdt5wCtkOmyRc/NZ2ZIL52SJhR/4OL2FIGWvWylG/cV8e6LOaVkA1pD9vTatxhKi4kBcqZOrybHS8x7gcnj3nrVksS4o5dbsIju2pOFr11fPToBdgcXbL+TE7NvYD640DFKQTovZrUia4PBhjRvxwRqWRrMfwzZLr3HqnocoO8u7KPtbNJAVgcGgYdV9NTgIQuiZixID2MGS2EVFAtgfgZi8SR9JqIR4yONdDhEbRj8BAeUiwrW90OXSmkurrA2XtB45pg906Cxp1/k7HlJEZ8lI+jhjX7tuuAR8lI=;ux0AGrC+pvrh8h8lIK7EJg=="
 ---

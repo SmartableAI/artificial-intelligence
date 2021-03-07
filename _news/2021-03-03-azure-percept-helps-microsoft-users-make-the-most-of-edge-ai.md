@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-ed
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 169
+published: true
 
 provider:
   name: techxplore.com
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Announces Dynamics 365 Capabilities at Ignite Event"
-    excerpt: "This morning at its Microsoft Ignite virtual users conference, Microsoft introduced a number of capabilities for Microsoft Dynamics 365, its CRM platform. Among them is real-time customer journey orchestration capabilities in Dynamics 365 Marketing as part of the April release wave 1 updates."
-    publishedDateTime: 2021-03-02T21:48:00Z
-    webUrl: "https://register.ignite.microsoft.com/auth/login"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 119
   - title: "Microsoft’s Most Impactful Announcements At Ignite 2021"
     excerpt: "Between pre-briefs, executive Q&As and the live event, I attended around twenty hours of Ignite 2021. Typically, Microsoft holds three focused events each year: one for developers ( Build ), channel partners ( Inspire) and end customers ( Ignite )."
     publishedDateTime: 2021-03-04T21:43:00Z
@@ -98,49 +89,21 @@ related:
         width: 702
         height: 478
         isCached: true
-  - title: "Microsoft’s new Garage app can transcribe and translate in-person meetings in real-time"
-    excerpt: "The Group Transcribe app can transcribe and translate languages spoken in over 80 regions, but it is meant for in-person meetings only."
-    publishedDateTime: 2021-03-03T15:50:00Z
-    webUrl: "https://pocketnow.com/microsofts-new-garage-app-can-transcribe-and-translate-in-person-meetings-in-real-time"
+  - title: "Artificial Intelligence in Agriculture Market May See a Big Move | Major Giants: Microsoft, IBM, SAP"
+    excerpt: "Latest launched research document on Global Artificial Intelligence in Agriculture Market study of 128 Pages provides detailed analysis with presentable graphs charts and tables The Research Study presents a complete assessment of the Market and highlights future trend growth factors"
+    publishedDateTime: 2021-03-03T19:34:00Z
+    webUrl: "https://www.openpr.com/news/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2251798/artificial-intelligence-in-agriculture-market-may-see-a-big-move"
     type: article
     provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 63
+      name: openpr.com
+      domain: openpr.com
+    quality: 61
     images:
-      - url: "https://pocketnow.com/wp/../files/2021/03/live-transcribe.jpg"
-        width: 1221
-        height: 696
-        isCached: true
-  - title: "This Microsoft app transcribes, translates group conversations in real-time"
-    excerpt: "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi"
-    publishedDateTime: 2021-03-04T06:00:00Z
-    webUrl: "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 57
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/04/full/1614837760-6327.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
-    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
-    publishedDateTime: 2021-03-03T05:32:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 50
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.openpr.com/U/3/U303350659_g.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
     excerpt: "Microsoft Azure Percept houses camera module and smart mic, forming the foundation for intelligent devices built by partners."
@@ -156,19 +119,19 @@ related:
         width: 800
         height: 500
         isCached: true
-  - title: "Record group meet transcriptions with new Microsoft app"
-    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
-    publishedDateTime: 2021-03-04T06:18:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
+  - title: "Artificial Intelligence and Cognitive Computing Market Next Big Thing | Major Giants Microsoft, Teradata, IBM"
+    excerpt: "Latest released the research study on Global Artificial Intelligence and Cognitive Computing Market, offers a detailed overview of the factors influencing the global business scope. Artificial Intelligence and Cognitive Computing Market research report shows the latest market insights,"
+    publishedDateTime: 2021-03-03T05:28:00Z
+    webUrl: "https://menafn.com/1101689645/Artificial-Intelligence-and-Cognitive-Computing-Market-Next-Big-Thing-Major-Giants-Microsoft-Teradata-IBM"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
     images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
-        width: 1000
-        height: 800
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?443138"
+        width: 444
+        height: 250
         isCached: true
   - title: "Microsoft’s 7 Biggest Product Announcements At Ignite 2021"
     excerpt: "Microsoft unveiled new product announcements at Ignite 2021 including updates for the Azure cloud platform and Microsoft Teams app, as well as the new Microsoft Mesh mixed-reality platform."
@@ -184,15 +147,6 @@ related:
         width: 609
         height: 457
         isCached: true
-  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
-    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
-    publishedDateTime: 2021-03-05T13:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
 
 secured: "/Lfo1LwNPvCF84EhncuRL+xb4YZ4DydMH/IKrk863/E8AROp/RGZjVEunuzLkl0jF+QB2M941olg8O6FlbdlkxtlTbgPlw4aKedPXdaQ0B99jB3rmYZ0VSiJNTLgaX2K3PpgSihndVr+fUC1YBbcr3yZxk2HHvO3hdNYF+sd9NuKA+CRDV2+ThW9l4VzZ8OJb4HvMBJPdk7Ud77xIcZtPyE7cGpLzuFgttd/Z2XOCoDEMPQUJoFzdkcXu28ePsu+jpTupkSAd/DK3P5Wrw8wZH5PSfLvpUjGiAZ3gHRrh/opmpx52CtW9M7MczHw2S6XJl1O6lCYh6HPtmZH8UAast+elvSlyF5yLp7rxmmKGvNDABCLcGaMmxMZDDqlrttYA8k7Jd2AaT7duTNvLA5wDuGMZFVvJEuUutvCZ8yojf/e4ruzsaT/KnhXf5OZTz1j5AsR30HHGGF4iOm67zKl8Ed9/zlHk2XFFEPTqtWLLWScP6ZiUY2OzVBu7rULzRoiJuCT/DpjyT/0FlFId+Rw1Q==;LCkU1LXM3q0fH7U/6cIbUw=="
 ---

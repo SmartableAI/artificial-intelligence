@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
-excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
-publishedDateTime: 2021-03-05T20:19:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+title: "Artificial Intelligence reveals current drugs may help combat Alzheimer's"
+excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.  The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
+publishedDateTime: 2021-03-07T13:39:00Z
+originalUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663"
+webUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663"
+ampWebUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
 type: article
-quality: 41
+quality: 58
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WION
+  domain: wionews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
+    width: 918
+    height: 506
+    isCached: true
 
 related:
   - title: "Researchers developed an AI that scours existing drugs for new Alzheimer’s treatments"
@@ -55,22 +59,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Artificial Intelligence reveals current drugs may help combat Alzheimer's"
-    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.  The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
-    publishedDateTime: 2021-03-07T13:39:00Z
-    webUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663"
-    ampWebUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
-    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
-    type: article
-    provider:
-      name: WION
-      domain: wionews.com
-    quality: 58
-    images:
-      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
-        width: 918
-        height: 506
-        isCached: true
   - title: "AI-based method for repurposing existing drugs into potential treatments for Alzheimer's"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options."
     publishedDateTime: 2021-03-04T16:49:00Z
@@ -87,6 +75,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
+    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
+    publishedDateTime: 2021-03-05T20:19:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 41
   - title: "Engaging AI in the battle against Alzheimer’s"
     excerpt: "A team of researchers has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease. The method could represent a rapid and inexpensive way to repurpose existing therapies."
     publishedDateTime: 2021-03-04T12:23:00Z
@@ -158,6 +155,6 @@ related:
         height: 812
         isCached: true
 
-secured: "krhewmL5KiSfU4BbfxEUUtGo0X2hdcNI8rcoVwgCvCJ72+pmGJMKMYMmgzAzQiP2/yYeg/HgsWMWTKxINgxpaS1mdDTzACeUQzQtegDFnDXu+X73Gg7TgYWdTNh5ZL3pphW/bT04jw79IcCP/U7OGCGOc3YXFtiSACiaf8p7oY9MQ8bSDe22NaaOiHhNo6JRtIsz0U3WM9wbugoGBZEQRvDINEGktxssTOW3VsULXtA4XIwEHktYtCDfPI2bMpTyt/gR1Pk3JkKh1/6LX3XdvBydppPSpbtS8IteagXHRVJBahIm2lbxzOiUMqbDyklB89tRZt9sl1zMPllfzvpBt0WT+DZ7Ds7hy7ckPtUJ3F0=;2qpdARNn8Jo+VarHtpgSCw=="
+secured: "DpHLbhe+UUcQf4NyqiquzndZtFrSwhlhUFdb+XlncHy/D2Mma+5bzbru/4jy1xVODNBAuVUZuMW5dGcXk7jsuIH3vGgyIu71nj0WdpWj9cmxUPKuAyVAU3Ii8B3cdUgEiyAd8jccAcLhc5y4LEdlruBPe5ZG+6dgkgvgdeiN+OlNodsZxRna/JXTZoxbJQ5W6vztFErj8+u5asNMUbNHbu1bRGmhRIgDvnPmb9E1vdeTKs8WxPiPB33738Bc5enyzzoiuGPdP/JZwcKC72i97EamHUE7C6qvZ0k6n+ArW7EenreXFkN7F7NcuIL26gh7ODijf1886hTlH3wq64/BRuuDTRD0RTCqsREEagBdmrk=;c2mQ88Xk7vJ6twkU0zsstA=="
 ---
 

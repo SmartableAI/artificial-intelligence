@@ -58,6 +58,36 @@ related:
         width: 410
         height: 230
         isCached: true
+  - title: "Microsoft’s new Garage app can transcribe and translate in-person meetings in real-time"
+    excerpt: "The Group Transcribe app can transcribe and translate languages spoken in over 80 regions, but it is meant for in-person meetings only."
+    publishedDateTime: 2021-03-03T15:50:00Z
+    webUrl: "https://pocketnow.com/microsofts-new-garage-app-can-transcribe-and-translate-in-person-meetings-in-real-time"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 63
+    images:
+      - url: "https://pocketnow.com/wp/../files/2021/03/live-transcribe.jpg"
+        width: 1221
+        height: 696
+        isCached: true
+  - title: "This Microsoft app transcribes, translates group conversations in real-time"
+    excerpt: "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi"
+    publishedDateTime: 2021-03-04T06:00:00Z
+    webUrl: "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/04/full/1614837760-6327.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "New Garage project Group Transcribe helps you transcribe and translate while advancing inclusive speech AI"
     excerpt: "There is healthy debate about the productivity of multi-tasking. Is it possible to take excellent notes while also being fully present in a meeting? Now, you don’t have to choose between focus and productivity with our latest experiment,"
     publishedDateTime: 2021-03-03T06:56:00Z
@@ -85,6 +115,34 @@ related:
       - url: "https://www.microsoft.com/en-us/garage/wp-content/uploads/sites/5/2021/02/Group-Transcribe-Blog-Image-_-Date-updated.png"
         width: 3144
         height: 1272
+        isCached: true
+  - title: "Aruba Accelerates Digital Transformation from Edge-to-Cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-03T05:32:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-latin-america-and-caribbean-products-and-services-ab2aae982be1404f8948ed485dff4a30"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Record group meet transcriptions with new Microsoft app"
+    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
+    publishedDateTime: 2021-03-04T06:18:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "qXibEnuGSyIQO9ZErc2xdIWx2sCt13Hirj2OnRsBBDSEGQxf8KCNlmZkHfmg4FpHZm+vP6JWZtvG+dMy/+tjkJp50lo9o7Wfrxe6A5drLcWy9UT6UemJkrYUHW/PZO1972l6+MZuT/TvEsebcnkoOnFhchhnmo50VM7HT5GSBpJUt6PUVFFxC2287Nw+GaA+60UZKA9FZfohjhWz6JdbhVOCLTU3yiQum3LMs5nZpitwiGqDrvKqGgMgSkpJnxC0tGqKk33XRdAo+HzYqxElBRpF5/DEx0h63wu4+Kg2vb2qIdW8Txy14RbWGTFWMZyE4cO74CsSvxv1+5t3F3o5ad3UpYLX3dkMDA2QqHayehc0ZiamuPnQ9XkYlkCzQeFf7DXwcgFnIEAAzntM/km/5QGxh1iWdBzVzLEKW3sS3/d9YtA9YV9hXAH+IOJOsIDI1XMnE+Pf988liRrEkO+y7WEaeEE7WCr4eWplgD9MCGRng5dD/wviAx4gb+NlU1rX6ezEKCB9o9YeI+3vSJaFBw==;fSV4D8T1uHn1I+5rJCKl+g=="

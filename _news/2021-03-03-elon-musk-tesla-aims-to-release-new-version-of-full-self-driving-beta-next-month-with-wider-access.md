@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-f
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
 type: article
 quality: 90
-heat: 130
+heat: 120
 published: true
 
 provider:
@@ -73,22 +73,6 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/VAOG9/s1/tesla-full-self-driving-fsd.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Elon Musk Says Tesla Will Launch Subscription for Full Self-Driving Within Months"
-    excerpt: "The advanced driver assistance system will be available as a monthly subscription sometime between April and June."
-    publishedDateTime: 2021-03-02T21:39:00Z
-    webUrl: "https://hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4"
-    ampWebUrl: "https://hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4?amp=1"
-    cdnAmpWebUrl: "https://hypebeast-com.cdn.ampproject.org/c/s/hypebeast.com/2021/3/elon-musk-tesla-autonomous-full-self-driving-subscriptons-q4?amp=1"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 54
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F03%2Ftesla-elon-musk-full-self-driving-confirmed-q4-2021-cars-0-1.jpg?quality=95&w=1170&cbr=1&q=90&fit=max"
-        width: 1170
-        height: 780
         isCached: true
 
 secured: "y3HGNTCCn+Rn7p99SO1U8vJzkI3lJCvUbQ8Sc0rLc6JKyy3emx/uionZqzn/uif21xUuDJ3w4yDTARBs/YU9IYNZG8vgMe2IYzRLMl2d4y5Vi5MyhW7kUvgTECR0TxxKhG9aaqnKX8QAlbSTw6CrJAgdY2/hVNn660chJHiAtvVwsA0OVNcvREZ8+gBD4XnIB5aTDNFBbMwUeuNX/MtgZLG4sgt6v1/Ylr4p+aQaeDwNBBGHuhfFoTET5DLfMjTrSsl0W/Rm0Xwzoan2kertGyJA704tXEb6Y7EWPOYV97QjEbK4jZ63ZWIjw4BOaAUk/YtaxAXgO+KXzPbBHNURNtxZpm/tC0vwmU35PZhx32qbMj1laB4EE4lJbcuRXtxj9AfLvno+eiu7DFn7GKOwrnTi5y6TKwrzDValtE1WtFegADFWc2nsPDaiFqllZV3kPMHAbBrOdQULAqXroMMTMrIN3jshHzolLCLl523pDH26OFYGLXl2QZFuy/je1ZJtGaTL/GCBsZuvx7uJfNr0Bw==;yfUl5xhq0B/jXg/h2TX99w=="

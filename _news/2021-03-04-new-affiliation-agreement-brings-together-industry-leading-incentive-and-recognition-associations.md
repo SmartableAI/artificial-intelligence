@@ -25,52 +25,40 @@ images:
     isCached: true
 
 related:
-  - title: "Hunting Sexual Predators A Political Fight in Facial Recognition Legislation"
-    excerpt: "Political polarization over government use of facial recognition technology continues to mount, as Massachusetts became one of the first states to pass comprehensive regulations curbing law enforcement's use of the software."
-    publishedDateTime: 2021-03-02T22:00:00Z
-    webUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303"
-    ampWebUrl: "https://www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/hunting-sexual-predators-political-fight-facial-recognition-legislation-1573303?amp=1"
+  - title: "India Artificial Intelligence in Healthcare Market By Type, By Application, By Segmentation, By Region, and By Country 2021"
+    excerpt: "India artificial intelligence in healthcare market likely to growing due to the rising usages of AI for the improving"
+    publishedDateTime: 2021-03-03T05:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-artificial-intelligence-in-healthcare-market-by-type-by-application-by-segmentation-by-region-and-by-country-2021-2021-03-03"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 88
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
-      - url: "https://d.newsweek.com/en/full/1715323/china-ai-security-cameras.jpg"
-        width: 2500
-        height: 1569
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "BLEND scores $10M to help global brands from getting lost in translation"
-    excerpt: "The need for fast paced localization tools continues to grow with enterprises accelerating global product expansion. BLEND, an Israeli startup enabling multi-market localization technologies, announced the completion of a $10 million funding round,"
-    publishedDateTime: 2021-03-03T06:13:00Z
-    webUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/"
-    ampWebUrl: "https://www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/blend-raises-10m-to-help-global-brands-localize-content-for-global-markets/amp/"
+  - title: "Exploring the Intersection of Genomic Data and AI in Healthcare"
+    excerpt: "While artificial intelligence in healthcare has the potential to gain actionable insights from genomic data, longstanding challenges could hamper efforts to achieve precision medicine."
+    publishedDateTime: 2021-03-05T06:01:00Z
+    webUrl: "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    ampWebUrl: "https://healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 43
-    images:
-      - url: "https://www.geektime.com/content/images/2021/03/BLEND-Founders---CEO.-Photo---BLEND.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Asia Pacific region"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout"
-    publishedDateTime: 2021-03-03T10:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-asia-pacific-region-824292980.html"
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+  - title: "Natural Language Processing Market by Component, Type, Application, Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to 2026"
+    excerpt: "Application (Automatic Summarization, Sentiment Analysis, Risk & Threat Detection), Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to"
+    publishedDateTime: 2021-03-03T21:08:00Z
+    webUrl: "https://www.lelezard.com/en/news-19681380.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 0
 
 secured: "tRrRHR8htKfi/Fbjoj/egm3G59K6ps/+5GpzELuwkB5MnJNj0WIbcyTCKKcWy+GHUxeAbsyQAGU787zhyT78iYCouluw+UHH/iYW/VZFEsBxxSrJgQGE8C1q0AKZDN9BOi6ZSEmGXuZs/ZqEHCqWHXKm+0aR5d5ifLcK/jANYVnvHCy4nu1w5i0HUKV4zM6kIglLpx181fMrEicydc3mG1IXuTG4Bv1hiMA6y1Hrbi9WNZrrCnOU3vBIaQeU4Ropihqnig+TThdylk8NZ7qoxHh6sDB4J2nFPJRRyA/iGrZpo6jrugvEzXLpTitfVrBj2OQzPi9ldDl2CbpXzb7qE4rnTgIrrbsUzo90t82eCsc=;mHySTU1RQkckCeJKmbmpVQ=="
 ---

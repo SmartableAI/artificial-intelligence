@@ -44,6 +44,20 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
+  - title: "New Affiliation Agreement Brings Together Industry-Leading Incentive and Recognition Associations"
+    excerpt: "The affiliation gives both organizations a larger network and scope of education and combines their reach and resources to build a stronger voice for the incentive, reward and recognition industry. It also offers operational efficiencies and provides a ..."
+    publishedDateTime: 2021-03-03T16:53:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/new-affiliation-agreement-brings-together-industry-leading-incentive-and-recognition-associations/article_3c539b2d-9210-51f8-ba9f-bc893e65876e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 11
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "TKbmjCo4UQOjHg28R516c9Yy/awV4bZDEUzKnOtZ/y8yovRXajMN0/n6mJ5y/YXuRxYegldysVS5AbMVV4XwzKiws82/lt81R2S+cOiahFuhzdFara1jXHvgseoYY+WL6piaClnr0C57EkPzJxRvVkxZyzigHmdGr39g2cA08UDdW8Y8UuXJdcKFd2c1tLR0+gPIU8ygg+kREZdSKi50bq72mqw+XzEOA03s9exTztZv+o5f/lIn17SD0ITT9GsW+diKlGcSU4XLyimzdiYsniNxlT1tNvrbphbKqCJTw5a1FVWmyWj5Gnu3KRGhGwt8E5kuXsXi4uvB5vvNTyx+AL0aQFsAKvGRDynhn3Js9nM=;eONUXd/GrB9QLd+WMuy/Bg=="
 ---

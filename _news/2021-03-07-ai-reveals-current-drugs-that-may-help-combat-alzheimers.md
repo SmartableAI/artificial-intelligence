@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AI reveals current drugs that may help combat Alzheimer's"
-excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications"
-publishedDateTime: 2021-03-07T09:34:00Z
-originalUrl: "https://www.glamsham.com/world/technology/ai-reveals-current-drugs-that-may-help-combat-alzheimers"
-webUrl: "https://www.glamsham.com/world/technology/ai-reveals-current-drugs-that-may-help-combat-alzheimers"
+excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
+publishedDateTime: 2021-03-07T14:35:00Z
+originalUrl: "https://menafn.com/1101712021/AI-reveals-current-drugs-that-may-help-combat-Alzheimers"
+webUrl: "https://menafn.com/1101712021/AI-reveals-current-drugs-that-may-help-combat-Alzheimers"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: glamsham.com
-  domain: glamsham.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?870845"
+    width: 552
+    height: 250
+    isCached: true
 
 related:
   - title: "Researchers developed an AI that scours existing drugs for new Alzheimer’s treatments"
@@ -50,6 +56,22 @@ related:
       - url: "https://scienceblog.com/wp-content/uploads/2021/03/iStock-sudok1-945x630-1-e1615042402287.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "Artificial Intelligence reveals current drugs may help combat Alzheimer's"
+    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.  The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
+    publishedDateTime: 2021-03-07T13:39:00Z
+    webUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663"
+    ampWebUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 58
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
+        width: 918
+        height: 506
         isCached: true
   - title: "AI-based method for repurposing existing drugs into potential treatments for Alzheimer's"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options."
@@ -133,6 +155,6 @@ related:
         height: 812
         isCached: true
 
-secured: "xRb4m+112SE2LwgXSiMTqY97EaOzV0jD7CHXC+iMrO2waHjxaO0ElKpdPJjFa+sNpaQS3+XKegThpDa0RC2qCS7W5ONo6P6Hv0LSvmO7iKfCeGb4wmiBapUWhMTxWLJN7pQMZ1hjAjPd46S8o/02y/YrbaY1M5wQjGyQFt6s2Li+0Y7l9hLEPHdt7PpxC7Oll6L61n10vTMzaqHYwpDBOImCd37o2DOvpxsPCjf6rAUPOHgMyfHUxZDgsRF+WpG23fu9teIzcNbMa4AixPRb57f02sMkbQFhZ11tUveA2K81uhanMAKWIgzq5YCoLhCR8RKbFcJyhl2iXhQ9bI+g7oAMf4k5ATCVb05ZKmWZXQ8nLng2fIVtNw0SECan7oDWiL9OAtBsUagqkkC/BZLrivugRmh/cIviBdS7aQlrBTkuKVMTTqMaCPLSTsujCKzKNtbEm//pLgqadosu++aeB1L4YwxMDk55bkI6nB2ByTzP162Rqnyz8Rzkfd4mkycufsy2wWa8oXXVYf43uRXa/w==;E9Whl5EjXJp4a3dkHuSqyg=="
+secured: "YueZCgNncPa9uwpFAtcSCzw3wTo8Fvf3LSpM2bmO8QBZvPcdZy7FVyDUhkFfu/FLTjIm+oFiITiyg4famGRYWVDgfF3qrf4cyef2moOOsdmrmrHEZm90gGhzHfnvLfL69G+VhhurpnU1CVzr6DRSYWxBZ4DRKz4urCNGloYFvIGweQHWf4d3zQFVx4KEI1HaaJvq4K3HQKogcPgPcJU6FjrYgF+3FaL5kWEZ69/N7HJ0xk1ibgmnfUaYoJy8XGO109F+9489tmkqe0J1F0YFNUQq01Ty5Nnx9uipyN5oaZ3XNfnl7zVCVx1gc9WPgbW2hwIJdqpkB0KqpoGkcS4jswBSBIXpfanM9dTSuWPOdno=;Xddu1gsIrw7+tRVvyoDnLg=="
 ---
 

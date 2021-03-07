@@ -57,6 +57,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Artificial Intelligence reveals current drugs may help combat Alzheimer's"
+    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.  The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
+    publishedDateTime: 2021-03-07T13:39:00Z
+    webUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663"
+    ampWebUrl: "https://www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+    cdnAmpWebUrl: "https://www-wionews-com.cdn.ampproject.org/c/s/www.wionews.com/science-technology/artificial-intelligence-reveals-current-drugs-may-help-combat-alzheimers-368663/amp"
+    type: article
+    provider:
+      name: WION
+      domain: wionews.com
+    quality: 58
+    images:
+      - url: "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2019/02/14/83987-untitled-design.jpg?itok=cVucXcjV"
+        width: 918
+        height: 506
+        isCached: true
   - title: "AI-based method for repurposing existing drugs into potential treatments for Alzheimer's"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options."
     publishedDateTime: 2021-03-04T16:49:00Z
@@ -110,6 +126,20 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "AI reveals current drugs that may help combat Alzheimer's"
+    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
+    publishedDateTime: 2021-03-07T14:35:00Z
+    webUrl: "https://menafn.com/1101712021/AI-reveals-current-drugs-that-may-help-combat-Alzheimers"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?870845"
+        width: 552
+        height: 250
+        isCached: true
   - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
     excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
     publishedDateTime: 2021-03-04T19:32:00Z
@@ -124,15 +154,6 @@ related:
         width: 775
         height: 812
         isCached: true
-  - title: "AI reveals current drugs that may help combat Alzheimer's"
-    excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications"
-    publishedDateTime: 2021-03-07T09:34:00Z
-    webUrl: "https://www.glamsham.com/world/technology/ai-reveals-current-drugs-that-may-help-combat-alzheimers"
-    type: article
-    provider:
-      name: glamsham.com
-      domain: glamsham.com
-    quality: 19
 
 secured: "sxnoTZmkGTOOEttGzbUNpvtttcJrp+LrtH4DCVh+EKhq6L8OmJwlIyIJ3JandzwayKgSDh2b+10HYnrh6m//HZDus79/ooxM+uLcF31I1BoxQ3FW89OTcEjtEc4YUc72+n5xzSpA9+5HjcYCgkbG3a8nol9QcMEjkXqd2Y1vsZtMOl68mSuilwWoBZ+H18J1dUu2Y0AN9NbvJwnO/wgZPkTZsgUzJJkvkPGHq1AlAzZQSzzScNXZL4rf2oXZ1SYbjk5Xkn6LaWMCAxnDAqw7esJpL/fkPOIxEG1CzfluLipnyubFxztpKP0DR5yp5jxn+J0ZzLsCubnCbsLfkSU5PCrGS7rHrP5BREyBQjschVs=;H+4flLqGds9oEKxVEWM+lA=="
 ---
