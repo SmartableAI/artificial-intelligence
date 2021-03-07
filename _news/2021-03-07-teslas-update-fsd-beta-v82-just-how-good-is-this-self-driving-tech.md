@@ -9,7 +9,7 @@ ampWebUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-w
 cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,65 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
+    excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
+    publishedDateTime: 2021-03-05T18:47:00Z
+    webUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/"
+    ampWebUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla Full Self-Driving Subscriptions Launching in Q2, Musk Says"
+    excerpt: "Subscriptions are a popular business model of the early 21st century, and Tesla (NASDAQ: TSLA) is driving headlong into them. In a response to a"
+    publishedDateTime: 2021-03-04T05:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon"
+    excerpt: "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."
+    publishedDateTime: 2021-03-06T00:00:00Z
+    webUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/"
+    ampWebUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 57
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/VAOG9/s1/tesla-full-self-driving-fsd.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Ford: three years of testing self-driving cars in Miami"
+    excerpt: "Automotive manufacturer Ford Motor Company celebrates its three year milestone testing self-driving cars in Miami Marking three years since automotive manufacturer - Ford Motor Company - began its plans to test and commercialise its self-driving services in Miami,"
+    publishedDateTime: 2021-03-03T23:55:00Z
+    webUrl: "https://www.manufacturingglobal.com/ai-and-automation/ford-three-years-testing-self-driving-cars-miami"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 24
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62aklteuuzf030320212304.jpeg"
+        width: 1000
+        height: 387
+        isCached: true
 
 secured: "DckxpZ8cj43sNidfcnDtb+HVPL9WKcpq6IcZ3RIuvE2006fnX+cf3rr0okMQSzMZ9ae7VrORq/t1I1W/miSN4qSFFqvjEPHBjHwNd0jvJqKp50iMZIlM/9PB5nXgJm98PSshdibgnktaNwQ17gOGsbEG2Fc8Dbk0F7f1gbJM+6bxkaH/FJjml9k4jhxkB2jHAOt11k4CbIr1oR8RqAPGs33Ct/LeEJoK6t/BydWbC32p30kVi5C84VzgtfTleOWpYdUymmzH9/jUJPVQcyl+7yZRNmCwvq+Vrh1R1wRJaTwVpPne8WQzPHyZPFw6FzeUgQ2d0PokQqu6XeV+mcGiUzGlaNhqntNjs+qJ7g6KUYWfecUxm3988pFl7+eQy8jdaMT0riZv4IE1n19lboS2ipaXAP2Dt984a/x8OA0VvI64t50THyGQoUsUhHzfOgTLjyzgCads/SSWl8amzqbWFBH/Cl85r5cDxUqiMMWW1v2r8ILv8Oz7NN29H4lni6KZT8GOHyulXjUv57c8AHJjyA==;pZ6dN4tLDeSRJecwKBy8QQ=="
 ---

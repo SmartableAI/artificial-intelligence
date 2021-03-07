@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk: Tesla aims to release new version of Full Self-Driving Beta next month with wider access"
-    excerpt: "Elon Musk says that Tesla aims to release new version of its Full Self-Driving Beta software with “Autosteer on city streets” next month, and it should come with a wider release to more customers. Back in October 2020,"
-    publishedDateTime: 2021-03-03T03:32:00Z
-    webUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/"
-    ampWebUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 90
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
     excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
     publishedDateTime: 2021-03-05T18:47:00Z
@@ -57,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
+    excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
+    publishedDateTime: 2021-03-07T15:05:00Z
+    webUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/"
+    ampWebUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon"
     excerpt: "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."
     publishedDateTime: 2021-03-06T00:00:00Z
@@ -72,6 +72,20 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/VAOG9/s1/tesla-full-self-driving-fsd.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Ford: three years of testing self-driving cars in Miami"
+    excerpt: "Automotive manufacturer Ford Motor Company celebrates its three year milestone testing self-driving cars in Miami Marking three years since automotive manufacturer - Ford Motor Company - began its plans to test and commercialise its self-driving services in Miami,"
+    publishedDateTime: 2021-03-03T23:55:00Z
+    webUrl: "https://www.manufacturingglobal.com/ai-and-automation/ford-three-years-testing-self-driving-cars-miami"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 24
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62aklteuuzf030320212304.jpeg"
+        width: 1000
+        height: 387
         isCached: true
 
 secured: "OpamcfCQoqlBUF8J8sMSvRKAT+snmJwNmN2gV9m8B2D4LXRkthnTfB45nxSnG3LOLYEnS+dny+fBLkH6V0PI8fRs+yPG5OrL6B+DWYAy0U6JlPYbCqYp8+JFcrgMgjTuLlWAP9O/y76Nod2KE13pEjmuoywCA1wEibKBisrgf2xKRQlKb/XAWXq4p7aMeZoR02Aanm20XRboWppqoGDxVlH7uAl29/2L1Aj4444INJ8IA0+FcFHhz5FOh4RLGb5usYuYMr58kFznv+Qn/975LW3zJOTEFlwfc9nRyrH609LAvdTFdna9ADMOWhC2SnUgFQ3LlXy3Wqzns6Or0OltOEXYWCcy4Ix+ysDeTDkeqzI=;8if71MyusXtZOGKC6POgaw=="

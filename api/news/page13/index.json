@@ -2,6 +2,93 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-23-architect-and-build-the-full-machine-learning-lifecycle-with-aws-an-end-to-end-amazon-sagemaker-demo.md",
+      "title": "Architect and build the full machine learning lifecycle with AWS: An end-to-end Amazon SageMaker demo",
+      "excerpt": "In this tutorial, we will walk through the entire machine learning (ML) life-cycle and show you how to architect and build an ML use case end to end using Amazon SageMaker. Amazon SageMaker provides a rich set of capabilities that enable data scientists, machine learning engineers, and developers to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/18/ML-1747-12.jpg",
+          "width": 800,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T07:13:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-5-stocks-to-buy-as-ai-makes-robotics-into-a-reality.md",
+      "title": "5 Stocks to Buy as AI Makes Robotics Into a Reality",
+      "excerpt": "The pandemic has no doubt accelerated the use of robotics beyond imagination, and an increasing number of robots are now being used in industrials settings. The recent rush to reduce carbon footprint has also boosted investment in modern robot technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23",
+      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-to-buy-as-ai-makes-robotics-into-a-reality-2021-02-23?amp",
+      "publishedDateTime": "2021-02-23T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom.md",
       "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com",
       "excerpt": "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,",
@@ -998,6 +1085,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-if-you-have-money-you-could-build-a-car.md",
+      "title": "If you have money, you could build a car.",
+      "excerpt": "New smart driving once wrote \"Xiaomi , perhaps can build a car\", mentioned that if Xiaomi one day announced the next car, it is also expected, reasonable. A week later, Xiaomi's share price soared 12% after the \"Xiaomi OK Car\" news broke the circle of friends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/you-have-money-could-build-car-joachim-nell",
+      "originalUrl": "https://www.linkedin.com/pulse/you-have-money-could-build-car-joachim-nell",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH059oncFO6SA/article-cover_image-shrink_720_1280/0/1614071511418?e=1620864000&v=beta&t=rnx6LyccRHa5Og6v01KqHA_hkrPbTq5fEPEeDmwM_Ks",
+          "width": 1050,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-take-a-look-at-how-artificial-intelligence-can-improve-your-pets-health.md",
       "title": "Take A Look At How Artificial Intelligence Can Improve Your Pet’s Health",
       "excerpt": "Could artificial intelligence give us better insight into our pet's health? How can a data-driven approach help animals live healther, happier lives?",
@@ -1048,142 +1187,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-4-etfs-to-invest-in-robotics-artificial-intelligence.md",
-      "title": "4 ETFs to Invest in Robotics & Artificial Intelligence",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly becoming an integral part of our lives. There are so many AI enabled applications that impact our daily lives. The pandemic further accelerated automation and the trend is likely to continue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
-      "originalUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
-      "publishedDateTime": "2021-02-22T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-use-ai-to-sort-through-market-moving-news.md",
-      "title": "Use AI to sort through market-moving news",
-      "excerpt": "Bloomberg helps you sort through this enormous amount of information in a manageable and comprehensive way with a tool called Key Themes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/use-ai-to-sort-through-market-moving-news/?tactic-page=467165",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2Fusanews.png&width=800",
-          "width": 800,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T13:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-googles-voice-ai-accelerator-launches-12-startups.md",
-      "title": "Google’s Voice AI accelerator launches 12 startups",
-      "excerpt": "Google today announced the first cohort in its Google for Startups Accelerator: Voice AI, a 10-week program designed to pair startups with experts to help tackle product development, machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/",
-      "originalUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/google-assistant-e1576024709186.jpg?w=1200&strip=all",
-          "width": 1197,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/googles-voice-ai-accelerator-launches-12-startups/amp/",
-      "publishedDateTime": "2021-02-22T13:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

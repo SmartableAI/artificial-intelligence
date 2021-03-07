@@ -1,36 +1,46 @@
 ---
 category: news
-title: "Honda is offering cars with Level 3 self-driving capability in Japan"
-excerpt: "Just 100 Legend Hybrid EX sedans will be fitted with the automaker's new Honda Sensing Elite suite of driver aids."
-publishedDateTime: 2021-03-04T17:36:00Z
-originalUrl: "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/"
-webUrl: "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/honda-level-3-self-driving/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-level-3-self-driving/"
+title: "How Honda's Level 3 self-driving technology works"
+excerpt: "Honda unveiled a limited batch of its flagship Legend sedan with Level 3 self-driving capabilities, becoming the world's first automaker to sell a vehicle equipped with the technology. Lease sales of the level 3 Legend would be limited to 100 cars at a retail price of 11 million yen ($102,"
+publishedDateTime: 2021-03-05T13:53:00Z
+originalUrl: "https://europe.autonews.com/automakers/how-hondas-level-3-self-driving-technology-works"
+webUrl: "https://europe.autonews.com/automakers/how-hondas-level-3-self-driving-technology-works"
 type: article
-quality: 74
-heat: 174
-published: true
+quality: 24
+heat: -1
+published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Automotive News
+  domain: autonews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://cnet4.cbsistatic.com/img/D0btXYulbnYdqIouS_lMYmjLPQs=/2021/03/04/655c7e08-f365-4bb4-ba45-d33186fab4f7/honda-sensing-elite-ogi.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Honda%20Legend%202%20web.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
+  - title: "Honda is offering cars with Level 3 self-driving capability in Japan"
+    excerpt: "Just 100 Legend Hybrid EX sedans will be fitted with the automaker's new Honda Sensing Elite suite of driver aids."
+    publishedDateTime: 2021-03-04T17:36:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/honda-level-3-self-driving/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-level-3-self-driving/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/D0btXYulbnYdqIouS_lMYmjLPQs=/2021/03/04/655c7e08-f365-4bb4-ba45-d33186fab4f7/honda-sensing-elite-ogi.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Honda's part self-driving Legend a big step for autonomous tech"
     excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
     publishedDateTime: 2021-03-04T21:04:00Z
@@ -159,21 +169,7 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "How Honda's Level 3 self-driving technology works"
-    excerpt: "Honda unveiled a limited batch of its flagship Legend sedan with Level 3 self-driving capabilities, becoming the world's first automaker to sell a vehicle equipped with the technology. Lease sales of the level 3 Legend would be limited to 100 cars at a retail price of 11 million yen ($102,"
-    publishedDateTime: 2021-03-05T13:53:00Z
-    webUrl: "https://europe.autonews.com/automakers/how-hondas-level-3-self-driving-technology-works"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Honda%20Legend%202%20web.jpg"
-        width: 800
-        height: 600
-        isCached: true
 
-secured: "oO9EBJn04si7ksZqqB7nj+98p/VABsRG2kKvEp8M7QIphNEYkyRYEPIHYy1uYnLT7NzWqwcjDgA9vrmsXLoNH8MIUIfq6+bQfpB7vL06jsvn57LutIlubJmk1KbmXEWQzoV2Lv+l74hB6FIG9nWPtmx/x8VTNw8hHzVmgGR8xRQAGDtIpc9ET1df2L3r98JNJ2QljnvwcHUD7Jb+ZjFbLp/fcwNaLUIY0WX1DcYL7kCG+ettxbY7/hiluzDQuy/hw0TSFIRKTfVtni4QQWL4LoQ9yg/Sq5saF2wcc37/2fp0XJkLBs6IjtKGeI7E6l0uVhsZauiZG+Nstrs+uJmdkRwmYueSYpja29mwMLlfHbAWIv9z+4/xB9tm2VNn3FvKHc3WMlno+A4KCQsLWCNIRwvruMiWR8hNeSf5PFfXAvlvfJE4QuENrPK3kXKiFlLX099xEboviqi3O/Fcn50kEC+c9D1XG3Dd92De5jZH8wI9rYpwsuPNKWwjAX6MUimtki/vdV6SOevTgScBedUr3g==;MJ+AvVR0Lq9coT6AWaKDRA=="
+secured: "Y4mugSKmzzn0OGrZkmBlziIjGozAoc29VcMi00GnsCMYDOGD5xThwvSx+Le6IvfMxUFUHrKxfCo/43aonH5Amx0o2cNEpYxKvBKjLIjB7a2JCzCPOUoDBXf1mMqQZcHTplLpJTJPAmoGrPrSRlT0DiK3M8OerM/OnZ8bykgbDHncgPhc3BiOLbQZ8B4Z6Sc+Ew0UtDAHOYhWGI6dky4sEIMAvKEC2BL9hkr8XmI6ouzM+q+eXu7QDR3eimQwBkCwM8qW3Cjs0AgQT2vtoXnR/YhWiTfXCW300sB12ufW71pnfS0zwXRhs26enDPeZ3XO+ukP55wauQW4gcwcaI9BxhOnzFtNCOtnNESvRcoidtI=;wP+wHDByPF49xqM0Y4TOZQ=="
 ---
 

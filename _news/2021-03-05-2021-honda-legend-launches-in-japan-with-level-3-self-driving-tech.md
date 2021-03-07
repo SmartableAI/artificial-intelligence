@@ -155,6 +155,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "How Honda's Level 3 self-driving technology works"
+    excerpt: "Honda unveiled a limited batch of its flagship Legend sedan with Level 3 self-driving capabilities, becoming the world's first automaker to sell a vehicle equipped with the technology. Lease sales of the level 3 Legend would be limited to 100 cars at a retail price of 11 million yen ($102,"
+    publishedDateTime: 2021-03-05T13:53:00Z
+    webUrl: "https://europe.autonews.com/automakers/how-hondas-level-3-self-driving-technology-works"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Honda%20Legend%202%20web.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "dZxVXF0o0oNBF9PZBzULk95qCM850jiNlz9l/6nsHn8EgOD+OTBnsOcmNy6YD3arWSzvWYMM7tr/CiSPaGC/Fot6lMB+gylqamXmvZfCntTYTgTeniVqqthI1BD7NyPeixg6toZHu4+N0n1yj619pbPArZw+yswmsMgm2DklvHRn/JxgGbsuJlULmu0HJser3LwZuQugX9U0XS7ftPRDTyKBAL53uG/xgc7wFqm2XA5Cmg5lvgR7nY/EdSp66DBckUj4qStxSjQgAlKpDnJDAlBWZDcDAYYGzyIhMInuH/Ms5C4V7GXomd0GdNpXxd7fOdDAhjck3P7qzl/2SYZU8wjLkPiPabsCOWZVWK5O85jGzTuzfeyrfjV2tnYNqvTeuLRVL06P4mp57zw25xhZBW/L584z088HEs0sg7Pt5cXJCvW373/Kx8jTolvw3rH3fGfsy3A8Ls9EalyX+aGs+YbO/7q1Krnk0Xt8Qh8zH/STFk5UmkvicqPe6V97ZqyYqjvfd31PhtzLDiPVvPjscA==;kMj1I3lcR2ABFu6aEV7sCg=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk: Tesla aims to release new version of Full Self-Driving Beta next month with wider access"
-    excerpt: "Elon Musk says that Tesla aims to release new version of its Full Self-Driving Beta software with “Autosteer on city streets” next month, and it should come with a wider release to more customers. Back in October 2020,"
-    publishedDateTime: 2021-03-03T03:32:00Z
-    webUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/"
-    ampWebUrl: "https://electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/03/elon-musk-tesla-release-new-version-full-self-driving-beta-next-month-wider-access/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 90
-    images:
-      - url: "https://i2.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
     excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
     publishedDateTime: 2021-03-05T18:47:00Z
@@ -70,6 +54,36 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
+    excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
+    publishedDateTime: 2021-03-07T15:05:00Z
+    webUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/"
+    ampWebUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Ford: three years of testing self-driving cars in Miami"
+    excerpt: "Automotive manufacturer Ford Motor Company celebrates its three year milestone testing self-driving cars in Miami Marking three years since automotive manufacturer - Ford Motor Company - began its plans to test and commercialise its self-driving services in Miami,"
+    publishedDateTime: 2021-03-03T23:55:00Z
+    webUrl: "https://www.manufacturingglobal.com/ai-and-automation/ford-three-years-testing-self-driving-cars-miami"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 24
+    images:
+      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62aklteuuzf030320212304.jpeg"
+        width: 1000
+        height: 387
+        isCached: true
 
 secured: "SNlWxjD+JZLJKwmAaTNNFNnG/NG2MDLzK1Oc4IeuufTYxXIPQOmEuGqZQfPclqQ7EU9xkCWGpVlxee7Iao3uc2jjkRfYeDNsu0wln2tHa/1Quz3NrvTxzO5rSiU0NH7R9EpwPOrF8ue6E70dSce7AMLHXNm6lDLJHn2QvbhCEjeQEYwReMkLfSVcR12WNOyIiZdYfYsbSnpnmuAG+hhluu60bPGyq8MQZrr2DmLnfu4sP16lpTcOqVNUieejhWxuRXgEYKNmEZFEpQtd1817p9jwkJBVaOBvyGOTTAzwyOFMbZyfy8Cx09fCqKPkVWLBbKxqSOQ8KL4+csfd4oUe4M90yKDo8D+YpIaQ6x7ozxQaGrn/lj9y412inCnCeJt+A2dnnXO7iSiFI3UjDPLKgwF+UjJZKIOoQU1E3A1eLsoEnRprm7fL2hNvwTIe6/bEfBCgk0sTqgmeGPVS5Ns7EG43KizwvFNnyxf4eIArAHpSnIDAz3dcrsiAnbZTez7fIVnYxp2DEaDMsdxvBQt8Sg==;zspedMl2Xp4Jv1xymnwXlg=="
 ---

@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-03-nosy-ai-reads-a-300-year-old-sealed-letter-without-opening-it.md",
+      "title": "Nosy AI reads a 300-year-old sealed letter — without opening it",
+      "excerpt": "Researchers used an algorithm and X-ray imagining to virtually open and read sealed historical letters. The technique could also be applied to old books.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-03T152707.672-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/03/ai-algorithm-virtually-reads-300-year-old-letter-without-opening-it/amp/",
+      "publishedDateTime": "2021-03-02T23:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing.md",
+      "title": "Annual index finds AI is ‘industrializing’ but needs better metrics and testing",
+      "excerpt": "AI Index from Stanford University gathers data about how AI research, startups, and changes to business and government policy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
+      "originalUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/03/AI-policy-global-map.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/03/annual-index-finds-ai-is-industrializing-but-needs-better-metrics-and-testing/amp/",
+      "publishedDateTime": "2021-03-02T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-ai-commission-immigrants-key-to-americas-tech-competitiveness.md",
       "title": "AI Commission: Immigrants Key To America’s Tech Competitiveness",
       "excerpt": "A bipartisan commission on artificial intelligence recommends new immigration laws to allow America to attract and retain talent.",
@@ -1154,112 +1257,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-kaskada-launches-platform-to-prep-data-for-ai-models.md",
-      "title": "Kaskada launches platform to prep data for AI models",
-      "excerpt": "Kaskada, a startup developing a platform for feature engineering, has launched its platform in general availability.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
-      "originalUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/kaskada-card-image.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/02/kaskada-launches-data-science-platform-to-prep-data-for-ai-models/amp/",
-      "publishedDateTime": "2021-03-02T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle.md",
-      "title": "Machine Learning Can Help The Insurance Industry Throughout The Process Lifecycle",
-      "excerpt": "Not all insurance is alike. Life insurance and automobile insurance are not (as far as I know) the same thing. There are many similar processes, but data and numerous flows can be different. Machine learning (ML) is being applied to multiple aspects of insurance practice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D22%26cropY2%3D515",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/03/02/machine-learning-can-help-the-insurance-industry-throughout-the-process-lifecycle/amp/",
-      "publishedDateTime": "2021-03-02T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

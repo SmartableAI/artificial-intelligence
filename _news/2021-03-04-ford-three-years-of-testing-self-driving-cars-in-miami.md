@@ -25,19 +25,64 @@ images:
     isCached: true
 
 related:
-  - title: "Caitlin Martin Helps Miami Instructors Design Assessments for Deep Learning"
-    excerpt: "The 3-part workshop series focused on 'authentic' assessment and how to create it in your classroom and program. Attendees reflected on assessments not as barriers for gatekeeping but as bridges that help us understand if students are learning what we really want them to learn."
-    publishedDateTime: 2021-03-03T05:04:00Z
-    webUrl: "https://www.miamioh.edu/hcwe/about/news/2021/03/designing-assessments-series.html"
+  - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
+    excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
+    publishedDateTime: 2021-03-05T18:47:00Z
+    webUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/"
+    ampWebUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
     type: article
     provider:
-      name: Miami University
-      domain: miamioh.edu
-    quality: 52
+      name: Electrek
+      domain: electrek.co
+    quality: 87
     images:
-      - url: "https://miamioh.edu/_files/images/display/ogSiteLogo.jpg"
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 627
+        height: 628
+        isCached: true
+  - title: "Tesla Full Self-Driving Subscriptions Launching in Q2, Musk Says"
+    excerpt: "Subscriptions are a popular business model of the early 21st century, and Tesla (NASDAQ: TSLA) is driving headlong into them. In a response to a"
+    publishedDateTime: 2021-03-04T05:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
+    excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
+    publishedDateTime: 2021-03-07T15:05:00Z
+    webUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/"
+    ampWebUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon"
+    excerpt: "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."
+    publishedDateTime: 2021-03-06T00:00:00Z
+    webUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/"
+    ampWebUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 57
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/VAOG9/s1/tesla-full-self-driving-fsd.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "09HfXradHMU9nF7/OcCXhT0tiZxUKB181PtaZZX7sAvzSdqXp9kR1BlKTXuyvlq50qtuTTkTsQC4/5M7bw0pYINwhrm9kLXW+c5MrTtgMYMIZT9JKzCrWWrd+N+F7aAr0gcOQjp4XxF3k75lkYHsDml4ApkRaf97GhNGH/uY0QxYeGDYOfIZAFRYL9VhhFsnJizqogC0tzrjOIjb3mli92IZyZ6i1L8xFf+lRb79+Q6r9XnZHdMPv6UJ3we/e45gyxDmmsAuvGX71QXWKDpD2ACfKa0/dCIHQEcLg/m8v+7JNE3Zq3ct1ERKp8R+PHsZYIkDx2lfO6bDSkEOf61Yy9a5l3fLU+zD+EYS8UsHh7k=;P85V5eYKsoPEpZFa4H3z1g=="
