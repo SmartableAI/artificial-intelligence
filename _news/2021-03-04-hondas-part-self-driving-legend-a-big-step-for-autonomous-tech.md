@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Honda's part self-driving Legend a big step for autonomous tech"
-    excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
-    publishedDateTime: 2021-03-04T21:04:00Z
-    webUrl: "https://www.reuters.com/article/us-honda-autonomous-legend-idUSKBN2AW0TZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH230FT"
-        width: 810
-        height: 545
-        isCached: true
   - title: "Vision Chip Drives Rise of Self-Driving Cars"
     excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
     publishedDateTime: 2021-03-05T23:47:00Z
@@ -86,6 +70,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 54
+  - title: "Honda's part self-driving Legend a big step for autonomous tech"
+    excerpt: "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato"
+    publishedDateTime: 2021-03-04T21:04:00Z
+    webUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT"
+        width: 810
+        height: 544
+        isCached: true
   - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
     excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
     publishedDateTime: 2021-03-05T09:12:00Z

@@ -119,20 +119,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
-    excerpt: "Microsoft Azure Percept houses camera module and smart mic, forming the foundation for intelligent devices built by partners."
-    publishedDateTime: 2021-03-03T12:52:00Z
-    webUrl: "https://www.goodgearguide.com.au/article/686649/microsoft-still-loves-smart-devices-rolling-azure-percept-camera-mic-services/"
-    type: article
-    provider:
-      name: Good Gear Guide
-      domain: goodgearguide.com.au
-    quality: 46
-    images:
-      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/microsoft_ai_devkit.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "CNs1Qe2GdpbFrWKmtRzR6+IXgA2rDFY12a7tcVngxqyabOZbT0HG6w3uKye1Had//k43eQwIfMGlpnLtm3rOWlsvOgjc4eMAnW5HB/Hi9F2Z6iEQ40IPjwPOFV/XaNnc1jJsAxtJktvLHbtnz5WSY2IRTo8X6CTi4ZN9nnjnna7AA3Hd91xcKzlGK8PqFZAw65TFmdODqAEmsSjihGxEX4NRGHJeyDMMAdf+4CLlI1c/LFD1tAySCekp+ZW+l/hiSra5aJdG2k2BN0sCyDCP0RS8xogLrxHnRZiJ+s6GtsJ+cH3KndUKuaWlE2CSG/fyjtyHoZBUCxu28M7ga2pTO26oC8Q1S+iEdLRwcZNstME=;S1wAc6QNUHZECvZQDUU6cQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-ed
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://cdn.openpr.com/U/3/U303350659_g.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Microsoft still loves smart devices, rolling out Azure Percept camera, mic and services"
-    excerpt: "Microsoft Azure Percept houses camera module and smart mic, forming the foundation for intelligent devices built by partners."
-    publishedDateTime: 2021-03-03T12:52:00Z
-    webUrl: "https://www.goodgearguide.com.au/article/686649/microsoft-still-loves-smart-devices-rolling-azure-percept-camera-mic-services/"
-    type: article
-    provider:
-      name: Good Gear Guide
-      domain: goodgearguide.com.au
-    quality: 46
-    images:
-      - url: "https://www.idgcdn.com.au/article/images/800x800/dimg/microsoft_ai_devkit.jpg"
-        width: 800
-        height: 500
         isCached: true
   - title: "Microsoft’s 7 Biggest Product Announcements At Ignite 2021"
     excerpt: "Microsoft unveiled new product announcements at Ignite 2021 including updates for the Azure cloud platform and Microsoft Teams app, as well as the new Microsoft Mesh mixed-reality platform."

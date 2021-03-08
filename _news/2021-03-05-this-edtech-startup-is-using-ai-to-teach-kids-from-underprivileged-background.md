@@ -9,7 +9,7 @@ ampWebUrl: "https://thelogicalindian.com/amp/smb-stories/convegenius-using-ai-to
 cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/smb-stories/convegenius-using-ai-to-teach-kids-27213"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "With Drones and AI, This Startup Is Enhancing the Solar Sector"
-    excerpt: "Thriving on the pandemic—as it enabled solar companies to go digital—the startup raised $5.1 million in Series A round led by Alpha Wave Incubation (AWI) and Falcon Edge Capital during the same time"
-    publishedDateTime: 2021-03-03T11:45:00Z
-    webUrl: "https://www.entrepreneur.com/article/366459"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/366459"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/366459"
+  - title: "Top 10 Emerging Artificial Intelligence Startups in Israel"
+    excerpt: "The artificial intelligence market of Israel is booming and driving this growth are several AI companies and startups. Analytics Insight brings a comprehensive list of top 10 emerging artificial intelligence startups in Israel."
+    publishedDateTime: 2021-03-06T00:30:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-emerging-artificial-intelligence-startups-in-israel/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 87
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1614775435-MyPost54.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-3.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "7gOh3qKL7XF6wy67m5+VdRtLiGI1qx4S+I7anA2GqCkJnDjnuBcf6pTVSjR71yTKaw3Iy3ExeKEJ9HBthbGpdug9dr2xqKceE2VenewPfVrr5jYMbKsx9HE1c5jRsfojsE37mEx5i7QKfQnKEcJ9ue/nigjRW0R+oAW1mTukW4DXkHlmmD2Yul11Et5KGZj01l/2cKgd59Dj33HvTQ4MOph2MVyG6DqKPEPBL8LK80Lh8HVPK2fQtxe+RChOA8134tpzmS2OkCYvIlRc/bSY9aXwDLA8cKQtFwsazIU/oa+FOeXqGn4xFli57Nof+CAQQA87gRSVsyCSQ+RocWdmf9IMntyd80wQy5WkzKv+zjQNFveJ3Ne8uOXae8p3/7qp/z4MsNRwJEcUnyCzP0gZs7MScnEylI/QGQrzONZVGlpbSsZqBjDKSMPIQOGTwE3kO12UaVkFwKF1wenDKxLuWEp1mG63Bw9zBYCE5k9Zs+B1YXei94Dj7WXxE2tDMMeDwJQPYpguLBx/qQwAbMbbtQ==;RLRvd+EcoTLMm/2BXoQOtw=="

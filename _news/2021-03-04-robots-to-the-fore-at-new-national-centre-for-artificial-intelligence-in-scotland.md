@@ -3,8 +3,8 @@ category: news
 title: "Robots to the fore at new national centre for artificial intelligence in Scotland"
 excerpt: "Construction has started on a new Scottish research facility to drive early-stage product development in the fields of robotics and artificial intelligence. The National Robotarium on the Edinburgh campus of Heriot-Watt University is scheduled to open in the spring of next year,"
 publishedDateTime: 2021-03-04T05:17:00Z
-originalUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/?ref=rss"
-webUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/?ref=rss"
+originalUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/"
+webUrl: "https://www.heraldscotland.com/business_hq/19132089.robots-fore-new-national-centre-artificial-intelligence-scotland/"
 type: article
 quality: 49
 heat: 49
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kMkSaLn2uFIjjoTJhc8sFhIXBytZEsoQINA7aiZ+yoL6CHR/JQcS08XF6EXdOOauWajkFEUWoIGKWx6MgSV/OynQx/YBmKJgtan6kw5gFkniwU7OraAU/dWHk5NAeLBxap9O28GR+8GnmRb/rrrCmUi9iF3FnmO0jeDvdUBk7VsbNsxzUqjkH4w2kIY6sjQbwmo4UOultvPCUQ6bt3SjoHZLvFPr81u95SsMNhZAouL0C+iF9m8MOqhtK8p519c0Dl0viZRXRNeBB2viburCxJD+ghRvCSMPkSeIW+lggfW79DOL+nmiKj+3MUKx/MukFRoNwDhTiTR5QD/7o3wHpZEWs1uxznOAlozG90Yih7Q=;TXEtx2q8FYQoq0hujsSUoA=="
+secured: "PMEeJH9ELD2mQhZYe+poICbbbfhkcd0ZOgSG0yTv56AZ74RiYMhU0yBRI2TJ11Ra3I8eAufLTEcwjy9tJSOpnDwQ01/S39+s+U6AkqyYlihExzY1i6CiCQKFbNU1dqgUnWA04eQUoTk5y46/a5NJoexwP4dtfITT7p6BWLS0LXssWz24baVzf1xWVJkmd9cIcIjD8RcszqcEvao+DctTaxSLK4B8az1UyaU12svtePhdwY7+lBjWvwVaMmEyqj1VYcDp+32lWPkaGxvra7m4fcRPpGKdbWOhVyWPhCRZGeHhVdD3Gz4MAmipGgVvSWyMyIAMA5OfN6k63TpnDRKavOXFRYSPixvy3dj1tOFvhy4=;GM1IXhhCxoFZ0GSfQN5TsQ=="
 ---
 

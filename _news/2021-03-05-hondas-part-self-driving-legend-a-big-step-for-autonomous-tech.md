@@ -1,14 +1,12 @@
 ---
 category: news
 title: "Honda's part self-driving Legend a big step for autonomous tech"
-excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world's first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
+excerpt: "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato"
 publishedDateTime: 2021-03-04T21:04:00Z
-originalUrl: "https://www.reuters.com/article/us-honda-autonomous-legend-idUSKBN2AW0TZ"
-webUrl: "https://www.reuters.com/article/us-honda-autonomous-legend-idUSKBN2AW0TZ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW0TZ"
+originalUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ"
+webUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH230FT"
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT"
     width: 810
-    height: 545
+    height: 544
     isCached: true
 
 related:
@@ -174,6 +172,6 @@ related:
         height: 600
         isCached: true
 
-secured: "QehnsF6iPpF/ttH+QxSkmbx4L8SX20rRdT1EmwjHZ0jYX7BfckkkqR4aTSSKvWU0uR4Nez/5s/lu5XhtI8cleAxAg+qBpMmvVZNRYuWTmNVseDQTIzc3k3ioeL/VUPFxmC2fdr3EqROG7pO1/dzzV4Ek8ORrm4t61JtHquprfs0nYCkEY7KAqwP9laZSS79NvnvwJD96+UyeHt8vIf93jYboRVU3NSNNW6UlM/kRp+J9XDg8AGHMGJBbEZa6lHkCurMF6n2nASR3VECnUOr55+21iYSFLLsuRql6R2afCH6u4Sso/E66RGNvou6U/+oMvEa9xVdwZDxdQc9/BUpQW6hHDBIvhQsQ+QP0CBw4W1F30gXVx6xvFqrVq0uKZskVXyih9zetpIfLa769LSUYJHeNpDTc6wV6DyiWbeGx5xFxXO5fTj+H/mqPbc1+LJnlx95HRECKI08EIxNOUeaPwHuk5BieNZfWC3CfMLaSL0cCjTw1pPp+zjspRkZtOfX9VQCe1zDxAxRPDowA2buzXA==;Hg1BeRn9lFYET8EUa15NXw=="
+secured: "3Ma+nOWM2X5uoN8QheZS5HssC81yQukHKkYaxVhb7wTQr3ZQrNWSu1d0rNg74bwa92V0w9ngKVDNaZZlYd07TZje52I3HrSBCxaELeJOtCfoxEwjtZk6K6r4W0ugK3nvsUC7vXgMjQiqLL0oJ2XyLdZB3b/enPD5TPkG8ctNRsyip6yjWalohGIdzdE+FqI+ZaidVzvCg09M6MxpLeVAgxyAPD66QOL3Vv7VLrZIyNt4yyMLf1lpLW6MuDs7JPMM/5wQUD3YHRvfbQlnsNN3uUDjuspbfdHg9Y3F4h03tIBtrNfQczchyggWjkz657zKSfywiWVvI2U9ZTjzP1B8KrTAj8RG8AzUHY+o1y1bbkk=;vQnt6NXOvRm9IqbHujC/Ug=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.alleywatch.com/2021/03/global-startup-funding-top-larges
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/global-startup-funding-top-largest-february-2021-vc/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 800
     height: 419
     isCached: true
-
-related:
-  - title: "The 15 Largest US Tech Startup Funding Rounds of February 2021"
-    excerpt: "Everything you need to need to know about the largest US startup funding rounds of February 2021; broken down by industry, stage, investors, and"
-    publishedDateTime: 2021-03-03T12:14:00Z
-    webUrl: "https://www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-funding-rounds-of-february-2021/"
-    ampWebUrl: "https://www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-funding-rounds-of-february-2021/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-funding-rounds-of-february-2021/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 44
-    images:
-      - url: "https://cdn.alleywatch.com/wp-content/uploads/2021/01/2021-NYC-TECH-INFLUENCERS.jpg"
-        width: 800
-        height: 419
-        isCached: true
 
 secured: "bClqRjHVXfkvBAHE4RigSRO2+ne4hcDZamj7yqH2LZV6kG/zAvtw+sWjev4XhLSomz2S8esHoBnr4KrrcF6k3onikElAY5J8ESTitq5DIaV+hExzHCi2JT8iyDq7lZY2L3u4sVAECwUrUuoEQCOzUyHXHpuw1xWZQTa69vbwcj8pAkumx8lc2FG+eIV0X72Ib9v3OwuoI6CalyEQChlW6nhhvPoEZgCZDdgvulSg0ICHH5AMmwTLsPbOMTbIy6GZR0jLhiC4/CIb4Yzo4L5U5K5UCtMW5j+GMshXdRAioEPYyVwMvAJU1TyJsQ0Cy3eQQcjulwKNGKd0rbNccnoGqbMvecC+qvrEHDE+jDe2+iE=;umYrG+r266rtXxfd1HuaTw=="
 ---
