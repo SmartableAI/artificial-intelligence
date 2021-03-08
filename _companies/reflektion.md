@@ -2,7 +2,7 @@
 name: "Reflektion"
 overview: "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time."
 type: "profile"
-heat: 57
+heat: 50
 
 website: https://www.reflektion.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Reflektion"
 
-secured: "52Z5GJfBnJVg35qEDXsP2/XcWD9wfmHdVCfEL/iGw1KuGALvePOOFe9RGavuXVof/wWlQyeNHXxWDux3Oxm/9XhMmvYhJQRAZY3beTRexb/FEKQi/Tz4rf5TFptMGjKCidZbSQ5DVc52SD9522UtL2jxXr9RKR4ElSG0DH0CdwFCuAsPELjX9W98tNkUxdwP+k3MPSkhQNvMZhBaaWuU3lc0gmiV00Yeb428U8Yfxznn88luHCd0voHy+zIjLiB4XZM5jmNifpX+uruo/MPJHjNlXg8j+51u+WBHBdbA9bOJfwesgdyknRIDIxWx5NZWyXdwjjuDeTEkQCoIcDvrkkBGj8l+x9ggqr0jrYSSvAzpNxxOttr+EV9JRDjZlV7RKPhSV576IHcR1h/8IL6ZdSiwQ8PXt6ezq4iMOGm9Whg=;XthkOqE3W1agJqArIt6qcQ=="
+secured: "12XpBqgAjv+EL+yONxvKeO0n43qFPHXjlrNTVCuoY3Vf4uDkBnxwV7jzarHl4IctNXqbJPgzJ9PyP4SCcgkOg8MBW0iiN7hibOqFMlD1jnD/3+Jp482qHFVD3DwMhWWyKqzESQkjebe+2AoTLjfp+rg908DRJ+M0RKhr5Ay44/q2tU4XU/gd79IuSth1yjuT/j9HHLVV/RuW2aZ+wzpOOg8PV1mGzaTlijsMERpVxvsyVbavYQwrCxpT7fuYdtnuh6DlKEGwOQOZgAOvoyOvjOWXaIayGhnw2GxefudQJdiLmziIkXZ71Lpkz/v5zQq+2P3ixNyozSvhHvfZUDHfS5+U1FSz82YVSgW5lqhE2vP/QaqADrr48a21ThLBq/W+63Ta2GAMGOccHFAit+3Aypc+OX7zRmHKuhdFv+Z7F1A=;UFJkpNyzF7BYgukQvIPksQ=="
 ---
 
