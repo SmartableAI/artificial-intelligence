@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://futurism.com/wp-content/uploads/2016/10/ai-600x315.png"

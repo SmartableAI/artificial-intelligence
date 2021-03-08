@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "MediaTek launches MT9638 4K Smart TV chip with AI-enhancements, HDMI 2.1 support and more"
-    excerpt: "MediaTek has unveiled its latest 4K smart TV chip with AI-enhancements that also comes with support for Dolby Atmos, 4K/60fps display resolution, HDMI 2.1 support and more"
-    publishedDateTime: 2021-03-03T10:34:00Z
-    webUrl: "https://www.themobileindian.com/news/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179"
-    ampWebUrl: "https://www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179"
-    cdnAmpWebUrl: "https://www-themobileindian-com.cdn.ampproject.org/c/s/www.themobileindian.com/news/lite/mediatek-launches-mt9638-4k-smart-tv-chip-with-ai-enhancements-hdmi-21-support-and-more-35179"
-    type: article
-    provider:
-      name: Mobile
-      domain: themobileindian.com
-    quality: 65
-    images:
-      - url: "https://dhlm2eb86cbhs.cloudfront.net/public/thumbs/news/2021/03/35179/mediatek-tv-chip_425_735.jpg"
-        width: 735
-        height: 425
-        isCached: true
   - title: "MediaTek Unveils New 4K Smart TV Chip with Integrated AI Processing Unit"
     excerpt: "MediaTek recently announced its new 4K smart TV chip, the MT9638, with an integrated high-performance AI processing unit"
     publishedDateTime: 2021-03-06T00:26:00Z

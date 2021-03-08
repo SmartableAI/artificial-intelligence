@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202103/corsight-ai-addresses-face-
 webUrl: "https://www.biometricupdate.com/202103/corsight-ai-addresses-face-biometrics-ethics-in-asia-pacific-expansion"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Biometric Companies
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Leading facial recognition technology provider Corsight AI announces expansion into the Asia Pacific region"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, today announced that it has expanded its reach and offering throughout"
-    publishedDateTime: 2021-03-03T10:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/leading-facial-recognition-technology-provider-corsight-ai-announces-expansion-into-the-asia-pacific-region-824292980.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 36
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Third-party test shows ID R&D leap forward in voice biometrics accuracy"
     excerpt: "The increased accuracy level now rivals a PIN, according to ID R&D, opening up new practical applications for voice biometrics."
     publishedDateTime: 2021-03-04T07:20:00Z

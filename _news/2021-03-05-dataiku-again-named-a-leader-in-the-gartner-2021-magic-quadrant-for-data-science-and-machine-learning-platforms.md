@@ -76,6 +76,15 @@ related:
       name: Financial Buzz
       domain: financialbuzz.com
     quality: 0
+  - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
+    excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
+    publishedDateTime: 2021-03-08T01:05:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/138320/tibco-software-named-leader-in-2021-gartner-magic/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
 
 secured: "XcBTflLcRuuszWG6luVSCuUJX5NSvM1LvkDi5nY26GgNSXJC1xVtwia5CldZvvD/LythejvgRU1jEsVjDwinbRzy/44pZu4eiPmWjWTs92lCCCr4BYPUExCRTM3e96VIz8r0lXxzZGqgcMwRL08d/EjoIRNZUiZqgTBXMTNggUax73iP9Q5PfjKCwWemCHP9jXzE7VFTbxW76HDEC5LbrFv8rSVIw96NZQA/jLVjXa4HKh/zOhK6JCkBb9IrxTBWXSSfEkwobG3RWAI66Z2GaCEHV/jZAYaboBbjdtOCJs3Qx2oh6ZiqezWFdbih0tHl4lyknXBxLdPOltJ6jk+puwobwftyVgrGCv9kKdmhsd4=;TVQNNER9eUJ8TccGGFbsPg=="
 ---
