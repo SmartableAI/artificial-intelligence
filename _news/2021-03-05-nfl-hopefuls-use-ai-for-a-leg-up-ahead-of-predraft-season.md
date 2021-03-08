@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Intel’s 3D and AI tech now helps train athletes"
-    excerpt: "Intel announced its 3D Athlete Tracking (3DAT) technology is being employed to help train professional athletes."
-    publishedDateTime: 2021-03-04T06:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/04/intels-3d-and-ai-tech-now-helps-train-athletes/"
-    ampWebUrl: "https://venturebeat.com/2021/03/04/intels-3d-and-ai-tech-now-helps-train-athletes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/intels-3d-and-ai-tech-now-helps-train-athletes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/Intel-3DAT-Ashton48.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "8GD9TIm1acam51WrrL7ICVi0KlTsHyvKTny1yla9rlxAGcHlsoWTOXVazUILuLk6ceopRoUoaa3WNQpLco8a1phNhozvkHc60quHRB3RQyTqkZVmOx1aF7Aw2k41y8qiyTFmBaoJGRPE0nIofRLQAtzm440r/sLWLeQdHxEYzpwQNgoiDfgnaaCW3zg46jtwdlPvU5IJEetzwlDhsK5QFixhhUMOIC1L5TcrzPkB320aCnjKI3WvRZpHDZMqaoWuqN6vEQ+4w4T3vAFdBiJprwrPiapN8dSxKOAQieRL7kFb5ucYJJlHlG/YobrgggouT+9YsVvwzsjEtNsegnKVI2kmQn8i+HDRw9xnJL8EOfl6U+0aLUC7yuwt7ldepj9jj5fVWnPdNGL9MGDQtZrC39WZv0XW9z4RFaecmTALin0LZda3SDIoBNuijejWNvXlNRPpbmN+NF8JZe4v9D3GW/xFB+WWIVZrsf5tjwO7t9/MLAcGYDM4amrqaZAPfzuDeOPK+9TXSrgPs4H5ZRIDjg==;VpeWkXSPeiJ791oG3GsQRg=="
 ---

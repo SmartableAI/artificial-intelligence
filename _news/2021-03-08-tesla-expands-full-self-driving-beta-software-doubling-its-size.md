@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon"
+    excerpt: "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,"
+    publishedDateTime: 2021-03-08T21:33:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/08/why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 96
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/Tesla-Autopilot-crash-report--796x408.jpg"
+        width: 796
+        height: 408
+        isCached: true
   - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
     excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
     publishedDateTime: 2021-03-05T18:47:00Z
@@ -68,22 +84,6 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
-    excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
-    publishedDateTime: 2021-03-07T15:05:00Z
-    webUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/"
-    ampWebUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 59
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon"
     excerpt: "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."

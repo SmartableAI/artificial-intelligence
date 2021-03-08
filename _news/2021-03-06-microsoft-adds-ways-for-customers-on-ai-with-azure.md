@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Record group meet transcriptions with new Microsoft app"
-    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
-    publishedDateTime: 2021-03-04T06:18:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
-        width: 1000
-        height: 800
-        isCached: true
   - title: "Microsoft’s 7 Biggest Product Announcements At Ignite 2021"
     excerpt: "Microsoft unveiled new product announcements at Ignite 2021 including updates for the Azure cloud platform and Microsoft Teams app, as well as the new Microsoft Mesh mixed-reality platform."
     publishedDateTime: 2021-03-04T23:56:00Z

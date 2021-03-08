@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-assists-nfl-ho
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel’s 3D and AI tech now helps train athletes"
-    excerpt: "Intel announced its 3D Athlete Tracking (3DAT) technology is being employed to help train professional athletes."
-    publishedDateTime: 2021-03-04T06:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/04/intels-3d-and-ai-tech-now-helps-train-athletes/"
-    ampWebUrl: "https://venturebeat.com/2021/03/04/intels-3d-and-ai-tech-now-helps-train-athletes/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/intels-3d-and-ai-tech-now-helps-train-athletes/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/Intel-3DAT-Ashton48.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "NFL hopefuls use AI for a leg up ahead of predraft season"
     excerpt: "NFL hopefuls are leveraging AI to enhance their performance ahead of the looming 2021 draft. For the past several months, coaches at EXOS training camp in Phoenix have used skeletal tracking software by Intel in a move that gives coaches and players ways to judge an athlete’s performance other than with their naked eyes."
     publishedDateTime: 2021-03-05T06:24:00Z

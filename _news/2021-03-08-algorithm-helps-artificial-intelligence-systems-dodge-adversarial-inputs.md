@@ -38,7 +38,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 47
+    quality: 49
   - title: "Algorithm helps artificial intelligence systems dodge \"adversarial\" inputs"
     excerpt: "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or ''adversarial'' inputs may cause uncertainty."
     publishedDateTime: 2021-03-07T05:00:00Z

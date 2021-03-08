@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-
 webUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-you-buy-right-prescription-glasses-online"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:

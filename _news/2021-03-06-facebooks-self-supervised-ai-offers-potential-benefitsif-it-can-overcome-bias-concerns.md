@@ -73,22 +73,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Facebook’s new computer vision model achieves state-of-the-art performance by learning from random images"
-    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. Facebook today announced that it’s created an AI model trained on a billion images that ostensibly achieves state-of-the-art results in a range of computer vision benchmarks."
-    publishedDateTime: 2021-03-04T07:00:00Z
-    webUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/"
-    ampWebUrl: "https://venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/facebooks-new-computer-vision-model-achieves-state-of-the-art-performance-by-learning-from-random-images/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 76
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/SEER-HEROimage-e1614752416726.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facebook enhances AI computer vision with SEER"
     excerpt: "At a time when many versions of AI rely on pre-established data sets for image recognition, Facebook has developed SEER (Self-supERvised) – a deep learning solution able to register images on the Internet independent of curated and labeled data sets."
     publishedDateTime: 2021-03-06T09:48:00Z
@@ -201,6 +185,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2021/03/fb.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Facebook AI Can Teach Itself Without as Much Human Input"
+    excerpt: "Image recognition and AI may be more easily integrated into commercial settings if it can learn more without expensive human input."
+    publishedDateTime: 2021-03-08T21:38:00Z
+    webUrl: "https://www.commercialintegrator.com/blogs/facebook-ai/"
+    type: article
+    provider:
+      name: Commercial Integrator
+      domain: commercialintegrator.com
+    quality: 39
+    images:
+      - url: "https://www.commercialintegrator.com/wp-content/uploads/2019/12/AdobeStock_211485579.jpeg"
+        width: 500
+        height: 300
         isCached: true
 
 secured: "MlsQIBuQwopvg7kFdNsc6XgzTJjKU9xvZPeCCIyTE3AaaIVPE/nWknLSgRVp4g+Bc4VEnpt/IGzBmBpuD+jc0O1nuMb2MBkkKzpCfEnZIK9x8GdC0pvBhsCbu0mAQcCIS9Cck+PuPwsq5lik7RsY7i4bH7BTdVOtjGExYjYoNe8LnPErNpk9qP4K23BXnpd/xIWVAa6S+ek/lSNBtjCwXX9j1yKp1j7OlYBWvFJXU6+iQIOkRZSQpzMsbqeMo10G6Vkqqq0Amd++P1+AXV0VhP/JKMlfN7UTxu1Ry7/4sHOIoCphOzdLatT1Lc3utGUkOVep1pu91lnQAGQqS1zmNXHQQBNjTMC/l4mVIH6jkr74C2N3IWL6a8KmZZXuRfZQwvTR4PG8e+unm/I+ht4AdF9HzFKKOVSxeKCWo9f8vekqvys3DG+7uo4H1TpiJNnTYuzjX3CqwxoxxRUocWvZYrPWDr8A6Qgg7+qQQgNmwmB93yK5FQMLviHBDaRl6xIPJG9cSO43r+aC7uMxqNGhyQ==;QQsnrW1Pmawn90f/YJICTg=="

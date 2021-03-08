@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-
 ampWebUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/healthcare.jpg"

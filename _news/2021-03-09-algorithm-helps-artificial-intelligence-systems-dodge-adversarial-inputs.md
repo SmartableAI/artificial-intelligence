@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-08T19:22:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2021/03/210308111937.htm"
 webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111937.htm"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 related:
   - title: "Algorithm helps artificial intelligence systems dodge “adversarial” inputs"

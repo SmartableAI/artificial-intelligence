@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/cars/2021/03/self-driving-startups-are-bec
 webUrl: "https://arstechnica.com/cars/2021/03/self-driving-startups-are-becoming-an-endangered-species/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Ars Technica
@@ -40,20 +40,6 @@ related:
     quality: 38
     images:
       - url: "https://i.insider.com/60426ec0d5e6870019a2c159?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "A top VC who's been talking to SPAC sponsors thinks they're going to target self-driving startups in 2021"
-    excerpt: "VC Reilly Brennan thinks SPAC sponsors are looking to Tesla for ideas, and after a wave of EV-related SPACs, autonomy companies are next."
-    publishedDateTime: 2021-03-04T06:58:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-spacs-are-coming-in-2021-top-vc-predicts-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://i.insider.com/603eb3e12dc9010018355059?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true

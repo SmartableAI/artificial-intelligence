@@ -43,20 +43,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "A top VC who's been talking to SPAC sponsors thinks they're going to target self-driving startups in 2021"
-    excerpt: "VC Reilly Brennan thinks SPAC sponsors are looking to Tesla for ideas, and after a wave of EV-related SPACs, autonomy companies are next."
-    publishedDateTime: 2021-03-04T06:58:00Z
-    webUrl: "https://www.businessinsider.com/self-driving-spacs-are-coming-in-2021-top-vc-predicts-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 37
-    images:
-      - url: "https://i.insider.com/603eb3e12dc9010018355059?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "HnDR5fN1TxagBaX/Bh/6FlQbYuSNEK8F4Xm0vUZ5Ki6449IG0KY4PlMrajmOOL5/bJm2WL8THcKV4LPcuPr3AThchvjx5FhVpS6y4ih0534cKRlDSHvm6HNCo0zadvfJg5OstfJl8KhnteWFLynWMiqc3tjmeBT2tqhIGH8DPwt7/lEc7VhVAjhEbl4QjDPHJHCgoVe8nD0dkxzaTVeOepTUulFElNRBVe25Sm4VgbXKuSHr1Xhq27Q2+5RH0TArcHPtAPsmeGgKQZtZ713vdbqF+30EozC+3JFCPMNl7v0ZeJ5hrKufIea9uQ0U0h8HY3tMBX+j7jXdRoC2LELuhIj7M4T/sq5rhcCqcA7ZHNXHw7pn0z1C6P40YO6YxOtw541jx0xdw4/yByO8cL0gja1zTXHIyAk7978bLHrJJjGYE9o8niNg0Y+DD1JMH9U3sdN7BhVMJ65YXKGCB77PHICbasFaJXcg3oZrrUcyZbb+nUdGA07UXmiF9+dfyljeOCKrYVcOjL2HsIZdNJr0Uw==;3oP0usewPoOIo6ScwAV9WA=="
 ---

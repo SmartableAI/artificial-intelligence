@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Share, Size, Growth, Industry Analysis, Trends and Forecast 2026"
-    excerpt: "The global artificial intelligence market reached US$ 40.21 Billion in 2020. Artificial intelligence (AI) is a vast branch of computer science that involves using a computer to perform certain human-like tasks."
-    publishedDateTime: 2021-03-04T05:12:00Z
-    webUrl: "https://menafn.com/1101696205/Artificial-Intelligence-AI-Market-Report-2021-Share-Size-Growth-Industry-Analysis-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "e5P5qGAgx5eznDexn5WXczuoAalHAz77vcYJ0LGiqL/b8B8U7TO8vXEZ27MoGHHfY3gdy/yKVs4jPr893jo8lioFBKEXkt9+cHHtHdARpY50aSbHKoAtZFRd72zpNWe3IYtj6uVeBimsL0bqRokzGTt0ucRb9a33WI3Od2ZTvVbKMDBvNFvONZZFpVvZdJzzXFGPntwq+aDbe+y+nLSPjNZE4Ac+a+P6jNBgWwxVBpJXGcpaDmx9kxIFeYX6l90/B6c5a0lv5Royvx+hCgddli58osJygRQdI/iXCF6i3nojpvO3/RN1YwDWdpxOW6jcE2uGlQOLHtbuDBfFnt58FzNS58dBnrI20ez/i0Ect3s=;L+2Vnr5zAMx94JIEg1JjNQ=="
 ---

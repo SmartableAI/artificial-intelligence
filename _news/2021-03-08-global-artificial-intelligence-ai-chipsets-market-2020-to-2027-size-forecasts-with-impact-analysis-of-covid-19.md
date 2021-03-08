@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Share, Size, Growth, Industry Analysis, Trends and Forecast 2026"
-    excerpt: "The global artificial intelligence market reached US$ 40.21 Billion in 2020. Artificial intelligence (AI) is a vast branch of computer science that involves using a computer to perform certain human-like tasks."
-    publishedDateTime: 2021-03-04T05:12:00Z
-    webUrl: "https://menafn.com/1101696205/Artificial-Intelligence-AI-Market-Report-2021-Share-Size-Growth-Industry-Analysis-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "EBjwrq4h8qCXFh0mAuj8sSFcQh3jssOkw4ruLQzONwOu5oKz6ZcFRvTIyX3yp7iZTOv+m6Jwk2UIRQc2fhGqhkKFEndBmmbDTAMiUCtO/RoNKOap+CpJ13GKQyGXH/E69aJITURn8GkqE9MQmzZHnBlGj7tWJC+ksKOX6Mffvp3x6+OuFwUcBk1K4i8PR0davLaOlEBW8TspfDgbonfxWpI2BnjIB8IBcdnpxEH0AO63G/+TO2ROGbhXOscyjyDrHSPofqeNzcm1OiNVk7fc8f9SEAVGu0pOfti9rL/qzfKszAe618/rEqBMgEIjHT246G9tigZSJYjuP7cuZXPeXjIDL5MPOWFu/2TS46Crcds=;9H99CHFjKaMbdq7tGLFpTQ=="
