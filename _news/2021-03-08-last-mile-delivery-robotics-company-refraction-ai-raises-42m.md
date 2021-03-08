@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-compan
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/"
 type: article
 quality: 119
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "Delivery robot company Refraction AI raises $4.2 million"
+    excerpt: "Refraction AI, the robotics startup and creator of the REV-1 autonomous delivery robot, has raised $4.2 million in new seed funding led by Pillar VC. The company says the capital will be used for"
+    publishedDateTime: 2021-03-08T20:55:00Z
+    webUrl: "https://roboticsandautomationnews.com/2021/03/08/delivery-robot-company-refraction-ai-raises-4-2-million/41250/"
+    type: article
+    provider:
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 54
+    images:
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2021/03/refraction-delivery-robot.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "7VEcamkNyFlFFsgQoWBEdJPXGTH1RQwUeVRONmm8sySgqb0VsmYqsedkQbx/XiKXNaMS5rBPLBa6JaAZbMuoInD31j+KLiDr1xO/lXcmlRXqwie01zOTrRHA4llpCbl/CzNQvP29s+LD6nnxwsAkGyTbeBxlmx3/OjYWEBoSv0x+ZQWg/zfidJzuMdMrOlp0WVtkI33MOoCRyxGE+o5JCeSFSWsXf7bcCjhAbRYV1Zeoj0sw8O79RXR+1nY9fCMvTFM/LHwpMrxTxrHavCH1dpeWbenVsTcCq70zlHYG6BbYJTNm8Vih/xsXm2CUqJR9lafrC6YZFEUZ3OJaHUPXbD0NHUZ4CM3oQ71psjUBMgQmeHUkKGMe8JDU5gt+tvcVdSzrOUhaq7/3ldqhvw7wrkRJNulbrrMg/uSat4QJquLKSqYuSkkHVTJVVLkUQJ6igSCP5RmPs7m/Faq2KH7BQPNljCircO2IltXmqyzaZ1rNUq5qVV1SOtCYSbVcyce44X1my9qgXVebx3sf+A3VhQ==;+HhR3qWW9/rUbZPznxbfvg=="
 ---

@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-06-this-site-spits-out-ai-generated-rejection-emails-so-you-can-copy-and-paste-disappointment.md",
+      "title": "This Site Spits Out AI-Generated Rejection Emails so You Can Copy and Paste Disappointment",
+      "excerpt": "Crushing a starry-eyed startup’s hopes and dreams can be a pain, but now you can outsource that emotional labor to a heartless AI instead. Because rejection doesn’t have to hurt...err, not you at least,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061",
+      "originalUrl": "https://gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/celxuganemt8sdrqfj1g.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061/amp",
+      "publishedDateTime": "2021-03-05T23:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-update-1-online-learning-platform-coursera-files-for-us-ipo.md",
+      "title": "UPDATE 1-Online learning platform Coursera files for U.S. IPO",
+      "excerpt": "Online education provider Coursera Inc on Friday filed for a stock market listing with U.S. regulators, revealing a surge in revenue from a boost to business due to the disruption caused by the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/coursera-ipo-idUSL3N2L34AE",
+      "originalUrl": "https://www.reuters.com/article/coursera-ipo-idUSL3N2L34AE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553919044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH241GM",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2L34AE",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2L34AE",
+      "publishedDateTime": "2021-03-05T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-the-robots-are-coming-for-phil-in-accounting.md",
+      "title": "The Robots Are Coming for Phil in Accounting",
+      "excerpt": "The robots are coming. Not to kill you with lasers, or beat you in chess, or even to ferry you around town in a driverless Uber. These robots are here to merge purchase orders into columns J and K of next quarter’s revenue forecast,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/07/business/06whitecollar-bots-cover/06whitecollar-bots-cover-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
+      "publishedDateTime": "2021-03-05T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency.md",
       "title": "Open machine learning and AI data can increase ship energy efficiency",
       "excerpt": "The Swedish ship operator Ventrafiken and the research project “Data-driven energy efficiency for ships” (D2E2F) have established a collaboration to collect open data for research purposes. One of the double ended ferries (Uraniborg) have been equipped with a Blueflow Energy Management System to collect data on energy consumers and vessel data.",
@@ -243,7 +398,7 @@
       "originalUrl": "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -881,40 +1036,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-05-exploring-the-intersection-of-genomic-data-and-ai-in-healthcare.md",
-      "title": "Exploring the Intersection of Genomic Data and AI in Healthcare",
-      "excerpt": "While artificial intelligence in healthcare has the potential to gain actionable insights from genomic data, longstanding challenges could hamper efforts to achieve precision medicine.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
-      "originalUrl": "https://healthitanalytics.com/features/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare",
-      "publishedDateTime": "2021-03-04T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
       "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
       "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
@@ -977,7 +1098,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1114,109 +1235,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-self-driving-startups-are-becoming-an-endangered-species.md",
-      "title": "Self-driving startups are becoming an endangered species",
-      "excerpt": "But such a deal would be consistent with an ongoing trend: it's becoming harder and harder for self-driving startups to remain independent. Voyage was part of a wave of self-driving startups that were founded between 2013 and 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2021/03/self-driving-startups-are-becoming-an-endangered-species/",
-      "originalUrl": "https://arstechnica.com/cars/2021/03/self-driving-startups-are-becoming-an-endangered-species/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/Voyage-at-The-Villages-1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T14:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-from-new-portuguese-home-ai-weiwei-plans-tribute-to-visionary-gorbachev.md",
-      "title": "From new Portuguese home, Ai Weiwei plans tribute to \"visionary\" Gorbachev",
-      "excerpt": "Ai Weiwei, the Chinese dissident whose activist art has made him Beijing's best-known critic, has swapped life in British exile for Portugal, where, in a countryside estate east of Lisbon, he is working on a monument commemorating Mikhail Gorbachev.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-art-ai-weiwei-idUSKBN2AW2DR",
-      "originalUrl": "https://www.reuters.com/article/us-art-ai-weiwei-idUSKBN2AW2DR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553764157&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH231BI",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AW2DR",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW2DR",
-      "publishedDateTime": "2021-03-04T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

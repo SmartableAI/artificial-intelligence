@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308
 webUrl: "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Algorithm helps artificial intelligence systems dodge 'adversarial' inputs"
+    excerpt: "A deep-learning algorithm developed by researchers is designed to help machines navigate in the real world, where imperfect or 'adversarial' inputs may cause uncertainty."
+    publishedDateTime: 2021-03-08T19:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111937.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Algorithm helps artificial intelligence systems dodge \"adversarial\" inputs"
     excerpt: "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or ''adversarial'' inputs may cause uncertainty."
     publishedDateTime: 2021-03-07T05:00:00Z

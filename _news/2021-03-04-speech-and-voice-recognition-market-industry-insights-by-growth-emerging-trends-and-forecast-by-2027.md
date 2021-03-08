@@ -117,20 +117,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Growth, Trends, Size, Key Players, Research Report and Forecast 2020-2025"
-    excerpt: "According to the latest report by IMARC Group, titled “Global Deep Learning Market Research: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,” the global deep learning market size is expanding at a robust rate."
-    publishedDateTime: 2021-03-04T04:30:00Z
-    webUrl: "https://ipsnews.net/business/2021/03/04/deep-learning-market-growth-trends-size-key-players-research-report-and-forecast-2020-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 27
-    images:
-      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Deep%20Learning%20Market%202021.jpg?1614844768634"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "msMmYk5gBQ8x4NmOCCsxLp3VIyclbBiiMWB2JYfkIH6Hx66pPXQ48szkQcaD8cnRf/YSRf3ru7Dkpw5/OCnYBNy8uKcaV++ZrDmsOkJkR+mgB55jrZcRujdM7/8taotijgcyReJTZX3BpU5w1GPIC0HehSbUxNLLKMEofyT2+IEcFk8Qg8Knq0m1/BoMkxSTT/3sBaGqxo+380XZUR74i7GaIoV/MKvtj2paF8wUjZ+NAelhqCQ5FIKgna2GEx1zVCaQILgYQ3hHSiHX6f7djTzUtOna7RR3Gc7rMzMLCVNvxSXUfxRLWpK/JMxW5jpqAfDiuUWjMYmdDnpYQhHoFFzySe3iP+OUGAx+vb4yZXQ=;L9E+DeYpbAfKtutRk65/lw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brai
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
 type: article
 quality: 72
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "The brain, AI, and human destiny"
+    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
+    publishedDateTime: 2021-03-08T19:54:00Z
+    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
+        width: 770
+        height: 578
+        isCached: true
   - title: "OpenAI reveals human brain-like working of artificial neuron"
     excerpt: "Elon Musk-founded startup OpenAI has discovered multimodal neurons in an Artificial Intelligence system that work just like some neurons work in the human brain."
     publishedDateTime: 2021-03-06T11:53:00Z

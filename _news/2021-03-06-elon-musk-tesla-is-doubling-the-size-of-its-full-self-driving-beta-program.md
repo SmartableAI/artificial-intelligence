@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-se
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla Full Self-Driving Subscriptions Launching in Q2, Musk Says"
-    excerpt: "Subscriptions are a popular business model of the early 21st century, and Tesla (NASDAQ: TSLA) is driving headlong into them. In a response to a"
-    publishedDateTime: 2021-03-04T05:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-full-self-driving-subscriptions-launching-in-q2--musk-says-9876181"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
     excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
     publishedDateTime: 2021-03-07T15:05:00Z

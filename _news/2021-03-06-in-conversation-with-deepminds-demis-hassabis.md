@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.co.uk/article/demis-hassabis-deepmind"
 webUrl: "https://www.wired.co.uk/article/demis-hassabis-deepmind"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 1440
     height: 753
     isCached: true
-
-related:
-  - title: "Inside Google DeepMind's secret talks to launch a futuristic food division with controversial vegan startup Hampton Creek"
-    excerpt: "DeepMind cofounders Demis Hassabis and Mustafa Suleyman are investors in the controversial food startup."
-    publishedDateTime: 2021-03-04T03:58:00Z
-    webUrl: "https://www.businessinsider.com/google-deepmind-ai-food-hampton-creek-eat-just-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
-    images:
-      - url: "https://i.insider.com/603d63aa87d37600190d0854?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Google's AI lab DeepMind held secret discussions to launch a futuristic food division and one idea involved 'nutricube' vitamin supplements"
-    excerpt: "Insider spoke to multiple sources about how DeepMind, the London-based AI company acquired by Google in 2014, considered launching a food division with vegan food startup Hampton Creek ..."
-    publishedDateTime: 2021-03-04T12:47:00Z
-    webUrl: "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3"
-    ampWebUrl: "https://www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/google-food-supplements-ai-deepmind-technology-2021-3/amp"
-    type: article
-    provider:
-      name: Business Insider Australia
-      domain: businessinsider.com.au
-    quality: 40
-    images:
-      - url: "https://i.insider.com/6040ba6a2dc90100183554f6?format=jpeg"
-        width: 926
-        height: 694
-        isCached: true
 
 secured: "Yu+Tcu0uGZeEXyLY5lNc/coqTaMSEqxFIJa8jnhj8jWSQ4RBi3uE4tBUZevStH6TG2txu5UxFb99FFYV/xE+1ErZoG33ToBMdbLO+rXBC4Tb4mAJBWkO5Z572fnfqJ9MHYfTv8KcV/zbRmU16XNW9ML9iDalwNd6eN9TcxQn0Kz9YMOnn76T9GFwIKV25eZ/gXsqTACvua15F/0zQlzZKdQ0m0H9S42+8Ujv93MN6kSLigGUtIhthIiUrjanKuAYqz1sld+qff/AlpW31B+XYjtrzA0/5Ke76xm8owtIIJbGD7JqzurDP3PefMCJyTcFO7EVuv9nohJn15tPRYRxfRXDOnMxeAAGc1TMx7gPTLIg12vw4tIO4FdqMPjxnP4XNPrkMphzOGF7Y9CA1dv8PRAut14ytPDth4vkjezDhPlhbnSiO1JmpJvtiCsS41d+h12Vdh/nTRWnpSPGaba1oFM3tW/SvDxhZdiccAbxOjr6nuz00eDNSG9wCYuOvKwqPxqAWppvbHc2aNVKMUbSsg==;vHpDvMmpGfWYYk2oLLh5eg=="
 ---

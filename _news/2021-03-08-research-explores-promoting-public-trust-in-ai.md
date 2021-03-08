@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2021-03-explores-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-explores-ai.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Someone to watch over AI and keep it honest - and it's not the public!"
+    excerpt: "The public doesn't need to know how Artificial Intelligence works to trust it. They just need to know that someone with the necessary skillset is examining AI and has the authority to mete out sanctions if it causes or is likely to cause harm."
+    publishedDateTime: 2021-03-08T19:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111940.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "New Research Supporting ProFound AI Presented at European Congress of Radiology Online Meeting"
     excerpt: "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced new research supporting ProFound AI® was presented at the European Congress of Radiology ( ECR ) 2021 Online meeting,"
     publishedDateTime: 2021-03-08T17:37:00Z

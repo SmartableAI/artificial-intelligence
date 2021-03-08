@@ -36,20 +36,6 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 54
-  - title: "Genomic Medicine Stands on the Shoulders of Giants"
-    excerpt: "With the benefit of rich, diverse data stores and com-putational power, scientists in precision medicine are ﬁnally realizing ambitions inspired long ago by the Human Genome Project."
-    publishedDateTime: 2021-03-04T03:57:00Z
-    webUrl: "https://www.genengnews.com/topics/omics/genomic-medicine-stands-on-the-shoulders-of-giants/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 24
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2021/03/Shaffer_GettyImages-1214010083-scaled-e1614370036216.jpg"
-        width: 1892
-        height: 1433
-        isCached: true
 
 secured: "61d4xU/wXZTrh4tZnU4OWz00PFPHfY9l4RHLMlL0sqntKIAuyg56Rx2zDE32PC18T/2trA7SSOwN4+/X8K1+WFTxomviR82SPUcrV4i+BNlVGNvqhgdoyY/HT39U6eihGdUJaMFc2megxBHsLdPaSPURvj0s17V/1uRXUhQggMfctgl/2+ENyXCceFXb8w84tpF1+lPOY/nb2NePGvI4hUP41q3h9hTLegdIAXTmuFq25mTQxbaNYdbz5zPQkMmuWvzVYANUh99QKWr6ErzRiq6FQPOkU7Rj0zGKh+92HkB5HbRGybItalYn3dtZGfiWd0r1fcPcy/qvMeLeSbDav+6hXcbnrDggzdCIJdY8GRYct56fdD7fq3iKSajcvZhc/duH8o1NNVlY+yN3k5JcN6kEsdaMobVpPvRnMugndY7ARQ49wNhEXUvqmit+OT5SKsGoSfvMiGAo56k/ECCW0AA2a6p0vPErELGgLVcvCdEC7Msntgc2yne795Le3a6hcp5lheSqoRBcpbb3gFg5tw==;u/xN13C8tiSN8K7P/R0xvw=="
 ---

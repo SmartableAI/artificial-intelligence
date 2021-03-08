@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -118,20 +118,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Deep Learning Market Growth, Trends, Size, Key Players, Research Report and Forecast 2020-2025"
-    excerpt: "According to the latest report by IMARC Group, titled “Global Deep Learning Market Research: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,” the global deep learning market size is expanding at a robust rate."
-    publishedDateTime: 2021-03-04T04:30:00Z
-    webUrl: "https://ipsnews.net/business/2021/03/04/deep-learning-market-growth-trends-size-key-players-research-report-and-forecast-2020-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 27
-    images:
-      - url: "https://pressrelease.icrowdnewswire.com/assets/source/users/3485/Deep%20Learning%20Market%202021.jpg?1614844768634"
-        width: 690
-        height: 400
         isCached: true
 
 secured: "snzU1kLaSjXHzMdSbkcC12sBM52JvREjLEVplutjU0ApdSCKCFFcpzJlrI3uGxWFoG0WaPExTWqnaQCwVT+XEeJuqrV2R0l+++pGPvOpK8w+nB5OVcmuoWoTUGs8Q/WZe4BQi98qTtIPW6/HuZJFFpdp0YMxMu6GBPs//QQDWERMtBzSdU86dl3GyTU+BBU6+efHCxOaHCYlQ8M75YdT3AdBW1XgYvxWKxg/xXtmo9ilUf1Dht8L/2Hw4ndUAUnAUyYMHH9Qr5l9rJx6ewtNDTLBq2w7cAcG62FXi/c5wcdJ2Btxmk3Iym+qGbxgW2JrbX/79K36o0PNfYL9gIZHtKry8mLlvAUS/pvXR1ZB4Zk=;OzPBOPZaSk8sYc22CX5MGg=="

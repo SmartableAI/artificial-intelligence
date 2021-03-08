@@ -41,6 +41,15 @@ related:
         width: 1920
         height: 1920
         isCached: true
+  - title: "Someone to watch over AI and keep it honest - and it's not the public!"
+    excerpt: "The public doesn't need to know how Artificial Intelligence works to trust it. They just need to know that someone with the necessary skillset is examining AI and has the authority to mete out sanctions if it causes or is likely to cause harm."
+    publishedDateTime: 2021-03-08T19:38:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111940.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "qshbb4SiaM+9DDyJFDV5TEjriL5lnVp6eidgaNC9UCNvkQ5zNaD0AKB6bdVdgoDO8sU7YxukbbqgkD9ugnlGXliZxGSk0yzTUlAV1JcnksyjvyH5zpYLqySsApD+rznF7FWSPwgoYjYoOhx1m8aYABcMQovmDxfaWEvv9Zht6EFtlzvgdPgufdAW67+38ZKyb11aio/7TbBEKmy+DmLL4/cIwcp6nMLFhAI+mDTHJPMnYHixDziAU5Yr0u6HvftNMMo/7W6dMAwEA46OkAjLS/1S47MziHTQQMW7gmasgnCpZ3LO/HHNKSJJ5Wh2xxGErw4r9cIvqlQhZ9J92K/M6yIKZDEp5UWUKMSpiRp/JQ4=;YLxssxaNISY1RpMXI8H7BA=="
 ---

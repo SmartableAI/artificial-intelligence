@@ -10,7 +10,7 @@
       "originalUrl": "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -54,7 +54,7 @@
       "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -159,7 +159,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -362,7 +362,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -604,10 +604,10 @@
     {
       "path": "_news/2021-03-04-las-vegas-valley-water-district-selects-vodaais-machine-learning-to-support-decision-making.md",
       "title": "Las Vegas Valley Water District Selects VODA.ai's Machine Learning to Support Decision-Making",
-      "excerpt": "VODA.ai today announced it has signed with the Las Vegas Valley Water District as their exclusive provider of artificial intelligence and machine learning decision",
+      "excerpt": "VODA.ai today announced it has signed with the Las Vegas Valley Water District as their exclusive provider of artificial intelligence and machine learning decision support software. VODA.ai is excited to partner with LVVWD to provide a virtual condition assessment of their entire water main pipe network.",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/las-vegas-valley-water-district-selects-voda-ais-machine-learning-to-support-decision-making/article_c1237cc3-1b55-5bf4-89f5-0c8e9b109ea1.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/las-vegas-valley-water-district-selects-voda-ais-machine-learning-to-support-decision-making/article_c1237cc3-1b55-5bf4-89f5-0c8e9b109ea1.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/las-vegas-valley-water-district-selects-voda-ai-s-machine-learning-to-support-decision-making-1030146873",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/las-vegas-valley-water-district-selects-voda-ai-s-machine-learning-to-support-decision-making-1030146873",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -617,12 +617,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T10:40:00-08:00",
+      "publishedDateTime": "2021-03-03T10:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

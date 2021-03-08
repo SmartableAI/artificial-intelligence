@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/features/amp/exploring-the-intersectio
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/features/amp/exploring-the-intersection-of-genomic-data-and-ai-in-healthcare"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Analytics
@@ -34,20 +34,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/258119_web.jpg"
         width: 327
         height: 481
-        isCached: true
-  - title: "Genomic Medicine Stands on the Shoulders of Giants"
-    excerpt: "With the benefit of rich, diverse data stores and com-putational power, scientists in precision medicine are ﬁnally realizing ambitions inspired long ago by the Human Genome Project."
-    publishedDateTime: 2021-03-04T03:57:00Z
-    webUrl: "https://www.genengnews.com/topics/omics/genomic-medicine-stands-on-the-shoulders-of-giants/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 24
-    images:
-      - url: "https://www.genengnews.com/wp-content/uploads/2021/03/Shaffer_GettyImages-1214010083-scaled-e1614370036216.jpg"
-        width: 1892
-        height: 1433
         isCached: true
 
 secured: "twIGW0LWuXHXtQI1/BFRnRVlcXrVfU0XyHPV3Ub3gqqmsBt7dLmU2LNChpUFQk2rczDoqaRMJICx1haUQmjkxfC1fWa7NdHRZeAnra0+745kQX+cy8Lg4iNp1C5FLp20+faH1WRklqPkeEOMOMjMBcO63QExkEO9yqJGPq/Ef0Y0QLFvQmGFNu15TysOhA94MITpVLF/eNXw5HXK9P4wmyZ5jiLeiAqWM/a9q86Kzu7npxAVWWLSs6H9OuBV+LqebYELJcloDwWdlnXeApy/8tEgoqNgfMgpFtYpKtG0F+OLDb8gpByAiujEC3NqyGlklocST0b2botd+I2yTdD021mCUhyskZLNbej3A5bTShSlShKqxdFo1UZ6qYDYlyaP3rhZZug1ilRd/vQqnh9ZX53eJK7dwtvxFsmz8ec2EI7199ierMdm+3RzRBQxCvsEP+SplVVsPuCVu1crJrarWe2snaX0RlVQ7Eo8jZ2PsNW50xwr0zODS0CYv7GvK+FpXCbZ/36JYoNoA5slTQ2k6w==;mtPlowGfdg1LXKyYQGPXsA=="
