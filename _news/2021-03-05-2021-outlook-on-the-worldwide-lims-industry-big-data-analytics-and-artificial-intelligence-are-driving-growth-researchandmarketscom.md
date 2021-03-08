@@ -36,6 +36,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 38
+  - title: "xyzt.ai, the big location data analytics platform, leverages start.io mobile data to boost retail recovery."
+    excerpt: "Leuven 08 March 2021 – xyzt.ai ( a Leuven-based technology start-up offering an innovative visual analytics SaaS platform for big location data, announces today that it is a data visualization partner of Start."
+    publishedDateTime: 2021-03-08T15:07:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/10583"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 19
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2021/March/8/7/ff03adfd-c24c-4220-8ded-5f82fe02bb5e-sized"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "m7afv2hx2AlGKawPnATxgEcT+pzmZQzRu224N91ExElPsP4L+JqsI4f03FJhqMNKvm5L6IEVHbZOsId4wMOygpacHoFYEv09X4EPGfRUaKNq339S9nGcfhwOE8TpSHxQlwdG1L0Xy+PnJsVjT6VcwxvjA5nxzZBGhTQ4+SJi7ZsRiOIgs6K9ZTnfpYwGZDjAdnHZgxcgTRyby8A9WHa37f43vQAvL1E6S0fFu0uF4wy8k0J7d/97HfEEZy05Oe4PfiP++ow0hFJdKc74B+a9V4Xb9GbZWZFaWyFAypxjzNLPVqHaN/hQ/qvadDckj0z7VZkzoxcc3Qba1c3hdgxbbxo4LP3Oz6+uyU8zjVWNC+M=;TlyGQypjiaJK/PRd8JTHUA=="
 ---

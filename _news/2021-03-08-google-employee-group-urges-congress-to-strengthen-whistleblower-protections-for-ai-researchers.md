@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/08/google-employee-group-urges-congress
 ampWebUrl: "https://venturebeat.com/2021/03/08/google-employee-group-urges-congress-to-strengthen-whistleblower-protections-for-ai-researchers/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/08/google-employee-group-urges-congress-to-strengthen-whistleblower-protections-for-ai-researchers/amp/"
 type: article
-quality: 75
-heat: 75
+quality: 79
+heat: 79
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?w=1200&strip=all"
@@ -29,6 +31,6 @@ images:
     height: 600
     isCached: true
 
-secured: "YCfZgXNcVJc2xgxGrK9qS8zPETxn15LFoC+ujlFsOxy+V+hqaL5HnPVMpdtvxf/+oQnVlr70v3RtmsF3HIkHh/wcA02tx5Jj/cXYRB41Lw9MD03hhMysX3wAtmFNdiD4snr0vJlFJr0cXC5bDk1yqiivfyzlpkDHnlRm8IlQgA9/LDjA4Xbkd2iK0fBh3HRnjONJQ5Gy4viK33mPGHorxXkCViMedbKrm+w7d2nPYxxtLPm3NDFpQZJLPOcjhbtXkGfs0hdwK2GYS/xmtNjs33gpRafSSoaNgRoO0WZvQT5YO49psJiwdYUU8jdlua8GfP1XozLCGRUrCuVfNbPiC7MPxDyBEoO+V7EaPjwOBqY=;SgJBOrCsNz3+zGkQ0WLpfA=="
+secured: "eltLBGoY4X21CU4eQOGRRAgTL4RG7y1DZWYqrXMpR2TVpjP/LOfve0oF2zQEPToJd8GsiCBotX8P1cWCJs8GXRohYu+O0dsxRYyYTWaIsLkU9i9SY8vhe0yCxjM0AmolOsbvnsoxTY0aFBkh/nEQOOh+ogROnRKlohvNPDmnLh9CpDU5P30EmKXd6GF7tsF4v0kkc+ZtmZdYPL+0EYdhIWNlJteWjDW7uMVUO9AR1IxIGZ7IIKdM2ztkaEZFLRbWqhU45owMcz5fYe/QZXw1dy7IQhmAKM8RVTHjoZxbOYlFKSbqfymBo2cXKVPfg8wD2V+HDqoYSByGTmammfplYgYSiX2KInT6YaFHwbOyZv8qoFkvrJFtT32AJ9Dcdh7srwDxmIW9aLR8JiGz7Y7FTDKhryA4gJW9Ene8KN+DFp+Oy5yIegS+Ke7ajcfEQj8E+Y08JhojqX2fjL/9tLHktA1Cx9GZS2Ye5jJxRjohQE5/kxNZvx4ka7t1dGv39EpOW87dRVAbKqpNGJjGj/2rdg==;cnLZoqAWATcdZrpCmTcOwg=="
 ---
 

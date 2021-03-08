@@ -24,6 +24,22 @@ images:
     height: 314
     isCached: true
 
-secured: "aaZHlmC/pVoVA25TRWc3sF/yqx+8hyznkzMyB6RLE/DmHJjkaz2cUR+Gn75mMOTtbNN2/bJothSKQ9sdSoPcQSNeEl4Myygf2uk/QediHOadl0FxIEngQWrMfpbECdT7Jp1j4RLlO6CfBTVlIFsWaOMobcNW/Ww3u8FWxsvyu4Z/d4qwZljWHdcRft+iLH2KIPliqBkTNieSM0qZv7rwkBgsOAD7vQzEySv5Vj1I0hgCHpSTI5zO6WP5m8HAEbjWeSyXESzGKjAo1l3Fxm1A/NG3KSTbbrxEjS7Gg/rfzjrXZm/JD08YyE0VmvpVG+62AoaFeZVkM370IokQ+mpckgUHLycetTmgX90bC76uAMw=;gY5e65C91UTWUCOGgM5cjQ=="
+related:
+  - title: "IWD 2021: No more talking, it's time for action on female representation in fintech"
+    excerpt: "2020 may have been a year of challenge, but it proved that above all else, digital resilience will remain foundational, not only to female financial inclusion, but to female representation across the fintech sector."
+    publishedDateTime: 2021-03-08T14:25:00Z
+    webUrl: "https://www.finextra.com/newsarticle/37624/iwd-2021-no-more-talking-its-time-for-action-on-female-representation-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 18
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fofp81.jpg"
+        width: 480
+        height: 270
+        isCached: true
+
+secured: "Fc3XBambq7ykbNSS63ZAVdA1lGGOVzrB4trdKDAnAXFWX1yjZud4C1tGUk6Mljgey6+LmO8c0YxdLeI0oxIk+xGARHTXIx4ah6ZEfa11ip/GJIlFtRYQF+6XHWWOQ12YKXh5EqtTafMiFaxYuumwAAriZD6Z5xAmKc2fGiN1JrPeb1LvzMAATH7bvEMg/jeaS5SrtZzDb/7btyg3TdqqRRGO7kiCOcCBB/1oq3Ieg5lUTCLapjeE2R6GX3yrrXNHXlYUeYlamWkNVIQGvYEslI3x6dPQUtoBu5+bK45GB0Evd+52NAKsI+0VOkthndmjjeAtGUfVz2MoOm/E0AAYXlyn/6tESxg4fkS3JphpsPEYo4AtcoxvzyrDt5591wn/RXSUCpSCHAK0UaUGlXhve+U9RqDznEKVT64ivWViZhfUqlwdJdlk5RIOVCmoJTS9aOOqOZF4E5U7MwLYjj6LJzBQIXEe0K06mQ80oxgX//f8GalrMx6lNKcJhDvIBqFUzZbtLwPcsr1+99BvChaZjA==;5oxPIsZ8dulsHfd/5PFfhA=="
 ---
 

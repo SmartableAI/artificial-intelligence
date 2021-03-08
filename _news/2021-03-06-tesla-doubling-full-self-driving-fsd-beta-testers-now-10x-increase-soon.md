@@ -127,20 +127,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
-  - title: "Ford: three years of testing self-driving cars in Miami"
-    excerpt: "Automotive manufacturer Ford Motor Company celebrates its three year milestone testing self-driving cars in Miami Marking three years since automotive manufacturer - Ford Motor Company - began its plans to test and commercialise its self-driving services in Miami,"
-    publishedDateTime: 2021-03-03T23:55:00Z
-    webUrl: "https://www.manufacturingglobal.com/ai-and-automation/ford-three-years-testing-self-driving-cars-miami"
-    type: article
-    provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 24
-    images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62aklteuuzf030320212304.jpeg"
-        width: 1000
-        height: 387
-        isCached: true
 
 secured: "SNlWxjD+JZLJKwmAaTNNFNnG/NG2MDLzK1Oc4IeuufTYxXIPQOmEuGqZQfPclqQ7EU9xkCWGpVlxee7Iao3uc2jjkRfYeDNsu0wln2tHa/1Quz3NrvTxzO5rSiU0NH7R9EpwPOrF8ue6E70dSce7AMLHXNm6lDLJHn2QvbhCEjeQEYwReMkLfSVcR12WNOyIiZdYfYsbSnpnmuAG+hhluu60bPGyq8MQZrr2DmLnfu4sP16lpTcOqVNUieejhWxuRXgEYKNmEZFEpQtd1817p9jwkJBVaOBvyGOTTAzwyOFMbZyfy8Cx09fCqKPkVWLBbKxqSOQ8KL4+csfd4oUe4M90yKDo8D+YpIaQ6x7ozxQaGrn/lj9y412inCnCeJt+A2dnnXO7iSiFI3UjDPLKgwF+UjJZKIOoQU1E3A1eLsoEnRprm7fL2hNvwTIe6/bEfBCgk0sTqgmeGPVS5Ns7EG43KizwvFNnyxf4eIArAHpSnIDAz3dcrsiAnbZTez7fIVnYxp2DEaDMsdxvBQt8Sg==;zspedMl2Xp4Jv1xymnwXlg=="
 ---

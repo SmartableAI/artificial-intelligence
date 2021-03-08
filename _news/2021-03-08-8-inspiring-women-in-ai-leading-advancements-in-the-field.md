@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-08T13:35:00Z
 originalUrl: "https://dataconomy.com/2021/03/8-inspiring-women-in-ai/"
 webUrl: "https://dataconomy.com/2021/03/8-inspiring-women-in-ai/"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Facebook AI
 
-secured: "pPV1mvGRtrg8eCt39DXNQv/XIgcib10Pom/KqQDZEd270L3aUBj8jEJBEg8JT+t8k7fGvqZO7ke+61gj6d1FisaLs6rvgPLeUzgwVl48Lda/vS8y6wFeRFWeZ6a/MLImqK2is9tiSMOwHeGfYtfroX9OuyQPO3qv4ZpHJl4rkQr8mCPjgLqW6Yrx7BW1rpLUuESXfsFKyWi5uXe0V2Mtoe+gfXDuhTHNVtr7R/dHkKab1UbsMUtg3EAUY3jSg27Hx5Uh6grj+DqQf27nbBqrWUgS+86hQJEaUo4mVcxYJ3ex+rVXhSzIOCgf6PPi/Vp630ET8BiNcDPDBVylrHRajJkuswlRuX+NvWIbrShSgk+Yxisi5Ig4BVW9IzotPfHQEejd45kxCEkOIM+eBV6qXf2OeTjlmLqiJWA/ckct3vAmQSBMeIwGypgFSFtK1W4HaX79Zkd2/2Vo/QfeZsoaMa1sEaUa5EELoSBF3lTVpJFM9/fjj7DV4jm6HUsCghV/LIYZAdeZ/K5yeKVF9Z+L7g==;VsD0OhcuNKbPnNAg33oRhQ=="
+images:
+  - url: "https://dataconomy.com/wp-content/uploads/2021/03/8-inspiring-women-leading-advancements-in-ai.jpg"
+    width: 1500
+    height: 500
+    isCached: true
+
+secured: "nFuQ9TiEfsWIWddKveV8pnym56PosXT+03aG4rToqNL032K+8VvNHtcnFkB+Rr8sbXcHIO+d0n1G8UpsA8jd2JWVC/Xq7iZlVdvluZF5mHncnNGFPyg8SKKRzlBCCJGzgMRiL0nwXxWGGV0ADw3l37IB2mrRd3aFBYPWyel1iVYKLAg6NEqIZiR6wM3hRHm1ZEaKC6S+oIEJT+R8KXkEWn9U8RYMvEkx6Gpg559Rmi0KWjKPgB0cCjue2bN73pKccwXXNw9KB6WZvOW8mshNbKHWqrcaC7GSYsKiGhMs93NEqE0sSK+srwh/BIXePa+92VcEiivZJCoShBKJgO0OR33CHdN/O41VTOU2TuHpIMY=;KghDiOgXqYyiEYMhEzpu/A=="
 ---
 

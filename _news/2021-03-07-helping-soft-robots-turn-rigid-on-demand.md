@@ -7,7 +7,7 @@ originalUrl: "https://www.controleng.com/articles/helping-soft-robots-turn-rigid
 webUrl: "https://www.controleng.com/articles/helping-soft-robots-turn-rigid-on-demand/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     height: 350
     isCached: true
 
-related:
-  - title: "Helping soft robots turn rigid on demand"
-    excerpt: "Researchers have simulated a soft-bodied robot that turns rigid on demand. The advance may help broaden robots' range of tasks and allow for safe interactions with people, including in patient care settings."
-    publishedDateTime: 2021-03-03T23:07:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210303095229.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-
-secured: "7w8wj/Sd3/YME3dL5j2I/swqXh6B15VVnG95eHPIBT23D7rwcnd3rWui6OJN4/5L0XSNXqluZHHBWuS6nKxJCZlR+ScjZug9ZVZNIVCscZ3PRjtgbN/DaWlknrndZzeRzmeWaOUnVeRUvcqYwzg6beymVlznAYns87yf0Kx16DQ0ZCHctgZOnI0bt6HV1eY2vABk+n7wEXTrNCkD+uc6+1yF3XZG/tg6YSy6hHQejKAGT+oq4e6tW53D9FdniyXZX953sdaPXNwQuR8oGBzygSA+ClM24poa8CwS6tHY5rmKt2x0pBFweCH7pZk25Nq5VUYQA+2sDa9rTK4P4KXrNd5jKZBHpF70dVjIyrY8s1Y=;6A9keDIfqpe835eeDqrypA=="
+secured: "O3SB8BjNv1TiS5MG6jwmglJM7ibpow/RH+sqgiQeyYZ3qJ6NSJwNmLoAOAMpJPGlWnRDzUIvn5FFNHFhslKX495gYnzTa29899o+qVo6OTaL0LWd3vK2lsQuc8cSWHa1SWC+qgRdeIvp+F/fRvO6+V92VKxV5ZYpP2ecIervmE28kOf5Zw19mVEfQq1z8kAUhXmLRCMHzJyDRWo6SBXHXshpsERGYKTL9rI43u23HaXoPvTMATsr9UUWXiXyLnKwObbgNEr3+Jk+wlR27uRg6jkGfAmGXdCcOaPXutrTHgEmWMLrxBc92aUudP4kx0W8UPqVGH1ogjvPUsAgMBjPlmsr0T14P5jT2UEL/+nXWSOVWRLYr2fHUnPqeF614G6nDQ9L2ItJtrjN4FsY9P2pn0EW/hm/9q2rWvLwF3L84XFpmziSJnJEimbQMDjMZVAM4Zh5lWdCOoiTMOaV3qPZzUt20bKghEC0ALxzz5vgE54i+SfVJ7qgNg6r83OY0J30PCR7gK/fKy5fQYOwCRaVvg==;DVgogP+wCPfUXioR87COEg=="
 ---
 

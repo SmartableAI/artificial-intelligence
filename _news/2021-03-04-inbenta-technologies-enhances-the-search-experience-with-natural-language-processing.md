@@ -9,7 +9,7 @@ ampWebUrl: "https://retailtouchpoints.com/features/solution-spotlight/inbenta-te
 cdnAmpWebUrl: "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/solution-spotlight/inbenta-technologies-enhances-the-search-experience-with-natural-language-processing/amp"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1899
     height: 1060
     isCached: true
+
+related:
+  - title: "Rackspace Technology, Sentrics enhance senior digital experience with AI, machine learning"
+    excerpt: "Sentrics provides data-driven products that deliver a complete view of residents in assisted living care facilities. To provide mobility impaired seniors with a voice-controlled, all-in-one digital platform,"
+    publishedDateTime: 2021-03-08T16:00:00Z
+    webUrl: "https://www.telecompaper.com/news/rackspace-technology-sentrics-enhance-senior-digital-experience-with-ai-machine-learning--1375058"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 24
 
 secured: "lXDsaKP3KKmQrfXY2XSnXNAGZri/qlfGZSgTtbmVuECwfk8M8mp7oT2+BFnqZOi/9N0nHdLwQKcp0AIhA446WnxtvD3P3yUvJweuHxShqWB4BPaA/BNLobvQrYL3xllw5fO817oju54ciHShUZ8xPFvCxuaXOicNdEiI2ZzipbOtmLltbQeQX2DBMXyls63T8uP34LBpitiqBdaaVqaAThS2jlUM2WuWeOHCl0WmONImwx80pQMl7lNc9pKiZLe4RWOU323gYiAy321zVR2b4GvB0V5uObAtCXhXeGYNBtJF3HG+tlbv5bStBssk71XZFql/4cNztBiupZClX37D2Mx1oRh6HVrtvmv1U6EOd6C3Ym3u4fgiv6hsUkcwSr5dimNL8h0TO18vGAGNUG72GoEqwdfyp96EqT5CK0Kavs/F+MBKdUNFW1aE3mGJ2ltG/PMMY0lNyT0dy3muvOxJDqBJaG63yLNhklM4kHDx6ibvpiny0MJUI8rT0mZSsH/4nC5OOsaWXCqyzz/fXRZ4JQ==;YDeA6RRZCnF+4Jfa1DYg0w=="
 ---

@@ -59,17 +59,6 @@ related:
         width: 620
         height: 326
         isCached: true
-  - title: "Honda to sell limited batch of level 3 self-driving cars"
-    excerpt: "Honda Motor Co Ltd on Thursday said it will sell a limited batch of its flagship Legend sedan equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways."
-    publishedDateTime: 2021-03-04T00:52:00Z
-    webUrl: "https://www.businessinsider.com/honda-to-sell-limited-batch-of-level-3-self-driving-cars-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/honda-to-sell-limited-batch-of-level-3-self-driving-cars-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/honda-to-sell-limited-batch-of-level-3-self-driving-cars-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Honda's part self-driving Legend a big step for autonomous tech"
     excerpt: "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato"
     publishedDateTime: 2021-03-04T21:04:00Z
@@ -95,6 +84,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
+  - title: "Honda Lengend EX with SENSING Elite Better Self-Driving than Tesla?"
+    excerpt: "Honda Motor Co., Ltd. will begin lease sales in Japan, on March 5, 2021, of the Honda Legend EX equipped with Honda SENSING Elite. In its effort to realise a collision-free society based on its global safety slogan,"
+    publishedDateTime: 2021-03-08T01:35:00Z
+    webUrl: "https://www.autoconnectedcar.com/2021/03/honda-lengend-ex-with-sensing-elite-better-self-driving-than-tesla/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 39
+    images:
+      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/03/hondasensing-1024x518.jpg"
+        width: 1024
+        height: 518
+        isCached: true
   - title: "Honda Launches Safer Self-Driving Cars, But They Will Be Hard To Come By: Here’s Why"
     excerpt: "Honda Motor Co. rolled out a safer version of its self-driving vehicles that it will begin leasing on Friday, March 5, but the limited edition car will not be offered to the masse"
     publishedDateTime: 2021-03-04T14:31:00Z

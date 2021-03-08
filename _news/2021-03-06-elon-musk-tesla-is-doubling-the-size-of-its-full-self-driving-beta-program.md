@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-se
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -131,20 +131,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
-  - title: "Ford: three years of testing self-driving cars in Miami"
-    excerpt: "Automotive manufacturer Ford Motor Company celebrates its three year milestone testing self-driving cars in Miami Marking three years since automotive manufacturer - Ford Motor Company - began its plans to test and commercialise its self-driving services in Miami,"
-    publishedDateTime: 2021-03-03T23:55:00Z
-    webUrl: "https://www.manufacturingglobal.com/ai-and-automation/ford-three-years-testing-self-driving-cars-miami"
-    type: article
-    provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 24
-    images:
-      - url: "https://bizclik-cms-prod.s3.eu-west-2.amazonaws.com/images/405wf62aklteuuzf030320212304.jpeg"
-        width: 1000
-        height: 387
-        isCached: true
 
 secured: "JZ0+bLJU3Ih5QDL8lA2S7IiVslCZEmOGHu8ppfYLRYIqSPjn3RyDZESQS1jRCYblTFJDfFy1qvVlx+hrKLHLH2TFASAp/QK+ppOSZGof0icRMMnPfqynqzO0J1B5uwSGGUgp0JCtDb5Js7rax/g/tocnqdC+W900AY+Dwyc2Ej1RVu018BnRaL9KkHxZzNr+T1Vp/rEvMJLZqgcRNQki4SMvVETOrxDyr95u6I+VU9xP5D1jizbe0fKEo3feizkLPs6fh7s8V0Hqnj5+kEc2WIjv4dv58Zfokym0fN0k5T6/3QwJZInapwJHJR19itSbuC4srIMnUdHtSg9JHfoPmAMbD7IeTbJ9+0uElzx5lBiZNyOw4vpMNlpl+LGb/OdQ4y5rM/1NFz4llCHXc9TQUCwlRby75mHjYGPGAQlKc0NzMnlhPJhJXNLG27AWlgxj30Y7uVxeg20uDGoIPykZkp8LNXQzhjKXegvq/MpJW0AtLFl8AITwsI0GmwrAu2WIho7bxToEyLsxRz4wxwTDZw==;CDKWJMI0ERoLLCpdVC0pIA=="
 ---

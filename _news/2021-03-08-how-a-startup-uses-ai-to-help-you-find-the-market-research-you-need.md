@@ -7,7 +7,7 @@ originalUrl: "https://www.enterpriseirregulars.com/173143/how-a-startup-uses-ai-
 webUrl: "https://www.enterpriseirregulars.com/173143/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 600
     height: 400
     isCached: true
+
+related:
+  - title: "Here's How Befitting Uses AI to Help You Buy the Right Prescription Glasses Online"
+    excerpt: "It's as easy as using a dating app, but instead of matching with a date, you get matched with the perfect pair of frames. Here's how Befitting can help you find your next pair of glasses online."
+    publishedDateTime: 2021-03-08T16:31:00Z
+    webUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-you-buy-right-prescription-glasses-online"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 61
+    images:
+      - url: "https://d.newsweek.com/en/full/1750023/befitting.png"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "5GfUO07f3cjkFPveysm8cPtEZshMNEVkLdNx6zBys46NzIsVZl3E0DdEnWI61YSeRwDFEWMNtIc0IOEko+KjRjgGNpyIcEeJyujm1zmFOwY/RdK/WSJfJbpn8KQGKL+44KqoUvVQdnS69w/UmCodoxyQbKV+Gthcu6WJYA0I0AlLvJVAZcfb9U/8t0Md1XTB9CJerJNwXLtRZchnUkob+6A6wdRBCawraALmTBbXTRGpN0Nanhl7BIpquqfzu7OD3QCmo7B/L2IZEhqAa9dYLIzi2u6+NHrtLbb829bKjbp95qWMOLiafivPB5+jZLonUOkLBZuvCT54yQ9i5ZzbMz42ha3amF/S04toAO+kbZsUz4Xol5QG6kNauoaBBfLZMQAr2W0O7odBx/AXfEjaMrZNuJP8HTKIZQIz98xpRpIjahd8GJ5kiaw+4UOuotyr05SWKkkiKIq9cPNOykweysjtaVimKQGlUxguseIizwVzVQjq8MGxBLlEtXBx6FLsyRb5EV5ptVPH775a3eD2Ug==;pGuMgm+7j+AztQOcg+Diug=="
 ---

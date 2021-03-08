@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/20200424_120944-scaled-e1593206157534.jpg?w=1200&strip=all"
@@ -26,6 +27,6 @@ images:
     height: 600
     isCached: true
 
-secured: "vJ2hgt03PjpR69IXTzXe4EXGxSsZmcpvtMZOsJch5gdLFc2fQon57npFtjWAt9Xs+37aFAX2KRVfW9Q89iCvBjXdAOEzs6BDZDEACf4CXj0s1MluE7lSpQ4wdMx4D5f4Rg6DrmBKN2C0eKS7cajH02al59xuQ49/lhZl3zTraIiE+EDqZFpedlL2HhDCyUQtqowpExmUh+XZNBYzLlPktPpqrhYkqhYHo/u9ES5rk2XTgbH3GYg5vFmuYFoCDfSghpD3j5nPduCk5KI69BPGjsdEdKpcfVWnKaHgSCo2zkxNyyjWQAmJuJcQFw0Cl4kyGuP9w7CtORf0sput7Bsdhr9gxBrBSgzR4ANvwxXmjww=;rJQDoZLsey+bb34tTeboFQ=="
+secured: "JFQAR3I9/QR3hOdybCaipa1YMcPjyta64vGIHjoIYa7P+ztq+jdFql1goE6AOLWCYZk90kzCYJJ7W0dvaWUIEmVZ7XcNpmMsbc0pfzQ8Cu2A60IX9WneLRSDAa/fPvuER+ohLaSWlCgSW98eLKkhT2brD2Jg135+GIX8m5Jxh0IMMBHR7bt9d9t0yKP6QrulZ0S4cApqehLkZSFTXn8qx48fli182NkdPd++b7Zt9qNXt8TgEqSlHlDj+M+zEMUN7sINtenuGOt7ACANxMaTYxshBiJ2ZU4vT4kA7nyOB7frnszKevHJFyXuW6BCh3gT82dQTem8eF7ZjN8VUx8X5+KIH8abWuNyXbtNsrgJBG60pVkF2HVd5atIHWIOOv3OvNu6P6dykSs2xzH4dcdU/Wbibe+YbqDmxHxvq91+DBQSzOs6DqEgg/FqZj28aK2s8DY0An5g4XgiII+Zg76ldK1j1XLPNmDDWQBfA8slVX+m/9pgiRwM09RtZLGuzFQDxrSjxeZmpHWMYovnCiBvaw==;/+RzXNYZm0Kz1UOC771N4g=="
 ---
 

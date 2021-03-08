@@ -24,6 +24,22 @@ images:
     height: 557
     isCached: true
 
-secured: "6fJ2LEQtdoAamraxZxDCE0RqDmxTQSbLgxcRECgf8NK/r10i9iUwWoVt+0H3GbRhQEpI63inE7uNcLtKyJ2T4HGAtovkOXyiSzZ37ssE0baSBM7MTdm6FkJ7x4qm0IS9of73Du/cxsKKebJRrFQ0GOMS1KU7cW8qFvEU2Fhju5Um5BiA4N3K78NbUyuiTw6lXKuQNADVcBS6DTnRAlQt25CYE8BLJJtXtsw2Rkkw9d+beCnks5EUm+Fa/YOuOHibhjc1h/V4iyTaGOHrktq/fYBaxSl3I3lxF1hpbr0VRMN11sZtyOGSytaaHDukTwxJUD2C11PtiVPz33FNa4dzqhtwVSGvlVdQCCzDHkEI1y0=;PXe+qq3wZWPQI/24yb2PyQ=="
+related:
+  - title: "Toyota’s first VC fund investing in AI startups to refine everyday processes"
+    excerpt: "Toyota Motor Corp’s first venture capital fund is investing in startups that help the Japanese automaker refine everyday processes by bringing sharper supply-chain management and robotics to the factory floor,"
+    publishedDateTime: 2021-03-08T15:58:00Z
+    webUrl: "https://www.nyoooz.com/features/technology/toyotas-first-vc-fund-investing-in-ai-startups-to-refine-everyday-processes.html/5614/"
+    type: article
+    provider:
+      name: nyoooz.com
+      domain: nyoooz.com
+    quality: 36
+    images:
+      - url: "https://disruptive.asia/wp-content/uploads/2021/03/2021-03-08T023659Z_1_LYNXMPEH2703S_RTROPTP_4_HEALTH-CORONAVIRUS-USA-TEXAS.jpg"
+        width: 530
+        height: 360
+        isCached: true
+
+secured: "9wmxZ/+j+01OkqtBwzyL13PXHFW21RMwwe4TK0DJbo9SZGXBDKWLGSs8c8mkUVa989DLC/KKCgRot+zoByCrKRL3XoWZib4T8FGBez9aLqhGaGm4ipWu6kW+h8J5p/ms2LMOYhv4vn62yoLOhfjK7HMWdgigiVMQbU6q88bA+fa7DefrFAS8RJAHx4DyOA2yArSwwjRjM0u6+M+C8oNDg8RZwtvSO2amPWmOESPQxI3yQR6IgvG6NtaiATIexg3ZFV35x/p962MT0maqQ9+tNAWNIVsOBZP2jT2yqghWhRWdNyQ0KFsGy489+15aEO9mJ/BbvXz7/bxtavwUtgzXbWuLDXlOh8guY4aSl84xWO+sWVRjcPe9zumjuw5SuwudxNDpOktguPew+o5+OJUUYS/DMK+p4CBdJ2nirsnyYpvYopAN9HiZn70cQV9alv34BZ5Q1dRiB6yKBHuJ1IhHsjxAq/M1MrrZipXYFZmSV/Z1e+3mLsQ1GRY+vTQ1ELbJ/7Htl506xvFtFCzr61uNVw==;Q2PbipD0xHHteYj+sg0biw=="
 ---
 

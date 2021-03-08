@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "xyzt.ai, the big location data analytics platform, leverages start.io mobile data to boost retail recovery."
+    excerpt: "Leuven 08 March 2021 – xyzt.ai ( a Leuven-based technology start-up offering an innovative visual analytics SaaS platform for big location data, announces today that it is a data visualization partner of Start."
+    publishedDateTime: 2021-03-08T15:07:00Z
+    webUrl: "https://www.directionsmag.com/pressrelease/10583"
+    type: article
+    provider:
+      name: Directions Magazine
+      domain: directionsmag.com
+    quality: 19
+    images:
+      - url: "https://dmpublisher.s3.us-west-2.amazonaws.com/2021/March/8/7/ff03adfd-c24c-4220-8ded-5f82fe02bb5e-sized"
+        width: 800
+        height: 450
+        isCached: true
   - title: "2021 Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com"
     excerpt: "Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com DUBLIN-- (BUSINESS WIRE)--Mar 5, 2021-- The “Big Data Analytics and Artificial Intelligence are Driving the Global LIMS Market” report has been added to ResearchAndMarkets."
     publishedDateTime: 2021-03-05T07:59:00Z
