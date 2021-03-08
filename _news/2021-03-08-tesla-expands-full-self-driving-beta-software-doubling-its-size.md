@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta rolls out to more drivers as Musk reports high demand"
+    excerpt: "CEO Elon Musk said the last beta doubles the number of people who have access to FSD, but a future update will open the tech to 10 times as many drivers."
+    publishedDateTime: 2021-03-08T14:07:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-elon-musk-demand/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 82
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla’s communications with DMV over Full Self-Driving are released and they bring some confusion"
     excerpt: "Tesla’s communications with DMV over the release of its Full Self-Driving Beta have been released through a freedom of information request. Some of the comments made by Tesla to the DMV are bringing some confusion to people as they could be interpreted as contradicting what Tesla and Elon Musk are saying publicly."
     publishedDateTime: 2021-03-08T11:42:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.dbltap.com/posts/phasmophobia-s-latest-update-brings-g
 webUrl: "https://www.dbltap.com/posts/phasmophobia-s-latest-update-brings-gameplay-and-ghost-ai-changes-01f072vm428j"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 720
     height: 405
     isCached: true
+
+related:
+  - title: "Latest Phasmophobia patch improves ghost AI again and brings new features"
+    excerpt: "Kinetic Games has dropped its latest patch for Phasmophobia, and the ghosts are smarter thanks to the tweaks and changes made to the game."
+    publishedDateTime: 2021-03-08T13:00:00Z
+    webUrl: "https://www.pcinvasion.com/phasmophobia-patch-ghost-ai-features/"
+    ampWebUrl: "https://www.pcinvasion.com/phasmophobia-patch-ghost-ai-features/amp/"
+    cdnAmpWebUrl: "https://www-pcinvasion-com.cdn.ampproject.org/c/s/www.pcinvasion.com/phasmophobia-patch-ghost-ai-features/amp/"
+    type: article
+    provider:
+      name: pcinvasion.com
+      domain: pcinvasion.com
+    quality: 56
+    images:
+      - url: "https://www.pcinvasion.com/wp-content/uploads/2021/03/Latest-Phasmophobia-patch-improves-ghost-AI-and-brings-new-features-2.jpg"
+        width: 1129
+        height: 559
+        isCached: true
 
 secured: "2hZ4sfsZKFOwrmA8z+jhZ727wjsxPrbMidgnBwzt5upVt1+VI/tqqxc+5hLNt1t9Mz3iM/cRVgIiPrF3LV9bvs/9VMyhLmT4a4ZenXZoQi6iAwn1sqmdwUUqWmDXogO8skK5QMY57/sFNvXKqlsoxdML+b7F92o84yUnRwFao43K5b+1wxezumWRzuScn0wNnArqDa2BDhuoU2MBp+IBqWVUj+a7lL3kvdmrPf/0+F6/V+DTQoQ9m1mGWoLerfGqKt0f5+wCzhfp7DNzT++0Ld8fVwo+7EuDap0N9QwwDALlB9YPLC+laJnPKHmMnfSec+aTYmA+xLsT1QG7cMInX4aovMCyC95UpRP86jzqfJGKEt0nM8w9jPs3eMaz2NPv89T3SkUiwdm2PmrQeweWvH99rZxNFaBIaICptoi6rIKpeBlptwbaSw3r/djTl+rC6nlIaRNy3Sbyh4R7SEiA6RGMOOfgUaw1kzDsvxz2aubtLoiKfmTzozi3HXVzHa3ieZKyPVLRKuqDgi8Xd9lvZg==;dD/R1yRbrPxEQo7MFMTWFA=="
 ---

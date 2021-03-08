@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "A neuron only found in the human brain has appeared in artificial intelligence"
+    excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
+    publishedDateTime: 2021-03-08T14:36:00Z
+    webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
+    ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 70
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
   - title: "OpenAI reveals human brain-like working of artificial neuron"
     excerpt: "Elon Musk-founded startup OpenAI has discovered multimodal neurons in an Artificial Intelligence system that work just like some neurons work in the human brain."
     publishedDateTime: 2021-03-06T11:53:00Z
@@ -36,20 +52,6 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
-  - title: "AI has a specific Spider-Man 'brain cell' just like humans do"
-    excerpt: "Human brains have neurons related to specific people, called grandmother cells, and now these have also been identified in artificial neural networks"
-    publishedDateTime: 2021-03-04T20:14:00Z
-    webUrl: "https://www.newscientist.com/article/2270181-ai-has-a-specific-spider-man-brain-cell-just-like-humans-do/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/03/04194728/04-march_spierman-neuron.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "ySuK10LemV/pNVdCxPprHwWNaGM65wu7Nc0CbSmxBwJAqO6kpC2ytSCGEKs+1nyNHzEQ3l3GlCpucHvyapLW/d7i5ck/YzgAave18POnkbqttsUj/Blzhn02CKtZpSIzxQ1wVSuVW6mIeRSKm2F68q3ie5uaL91XTucY/W+DD2Qpob9t8rMG/8X5DwcEA+wNL8d08A9l3WnyCVSjnXnJpu6ioCEAZJKDq2fLARroyurUnSua30oPv5N5W63metVpihXuZzAVpcPugnW8jR+1RYjQ3fUVPeYR5HSkZaSDpMUTguUrhl+zVLfOnzXBAwc98c6nbfduWQeAiffUkrBkgzKcjbSSnFstVuQJmWYne0NgzX45Ebee6hr/tnEy5tJaBVJqb9O/OggAMDYgT/WBIar8HWHwEHvP5NCZBwakgVhMFXXcC9rU6DZviiMTB4zKGGkep+cSnjeecUrjmHJpqB+0ltgo8y7FU0LPU3f7+c0ZjARsm0w0MZ0CZ2BPhPtg9B7dsAHhtSF39RPwzIwWeQ==;M0nLd99w1+HoasoML+M6aw=="
 ---

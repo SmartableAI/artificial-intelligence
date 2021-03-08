@@ -80,6 +80,17 @@ related:
         width: 1440
         height: 1050
         isCached: true
+  - title: "Time to restyle the fashion industry that is AI in Fashion Market Industry by 2021- 2026| Adobe, Oracle"
+    excerpt: "The AI in the Fashion Industry is expected to grow at a CAGR of 39 17 during the forecast period 2020 2026 The AI in Fashion Market information introduced inside this report is acquired dependent on a few strategies for"
+    publishedDateTime: 2021-03-08T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    ampWebUrl: "https://www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
 
 secured: "SxX7PtNtQd6p4nY8O4AmJDKloY+bw2CkfsoaBcV6cmaNwelYgkXhw2PBRs++lC3s9USrdPs7EC1k3LNegnkCFmqHPT4i7/ZHe03WVDxmOfWp/Mp8uv+W42q1H8ib1yVt7DGLGHxCyIh5n2SJcOwz5NVJ9M6AUdW+CA4Fc9qNHJdyHXLFUdj/uNX29sg4Ywob3MK3WGzV4c+SxX08dQhs3/dDWpru5YMMZvzGwQoLrBn3n1ohNQL6Jw5fFhtFIbubqcHtk1Y+Uqky9GVX+gZO0ylmsrHj5Hb7rGC1YvPXXN2vdcWoVtD5Dkn0ALgu6KdSNwtBvRWoGo0Dmp0mP/tDKJRCe0hytsy0bfHH2NusASE=;9AfHrycZCMMaO0jBIQCfqA=="
 ---

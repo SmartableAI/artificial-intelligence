@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
-    publishedDateTime: 2021-03-03T22:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-report-2021-2026-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US AI in E-commerce Market Trends, Research Report, Growth, Opportunities, Forecast 2019-2025"
     excerpt: "US AI in e commerce market is projected to grow at a CAGR of 26 0 during the forecast period 2019 2025 The US marks a significant position in the venture investment activity of the e commerce industry Some of"
     publishedDateTime: 2021-03-08T11:33:00Z

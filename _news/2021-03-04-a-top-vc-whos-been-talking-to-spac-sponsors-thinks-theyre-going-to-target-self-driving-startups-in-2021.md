@@ -43,6 +43,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "How to land an interview at Amazon's white-hot self-driving start up, according to its hiring director"
+    excerpt: "If you want to work at Zoox, the autonomous-vehicle company owned by Amazon, pay close attention to detail when writing your résumé."
+    publishedDateTime: 2021-03-08T14:32:00Z
+    webUrl: "https://www.businessinsider.com/zoox-amazon-resume-cv-tips-tricks-mistakes-self-driving-jobs-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
+    images:
+      - url: "https://i.insider.com/60426ec0d5e6870019a2c159?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "qJCEPzNfM6DxBFFDc64G67f0d1CAshFsO8adjfH2r3LmH71+v3V16iFDMMm2dq+hzxyujhwQwQvp51ziGV4/RT98mjOgVKDjWZdzbuqSykBfOnnJPfoU6exsYkQ3BxS2oZSP/a3vUqeHbjAyq4Hv/z/8YrtUJFUdbwiZ/JQd/XGnDVGI62VXjEd3QaZUPdO5hDb9hKgl7lndiBlp93incCOGyuehFqQJ6olIQ1tTCcqX22NH9v1d4ZLMAt7WYv5KKeeWji1tEeHa2Exf+ddnq1hNvhgrx0jTBJwkD5BS9GDBAizoWoF2bXbfRZtYOW7narN8u5/fV1eBdOlIoTyRY2ShfLz9HQBEv5wk34j5ELjqjXdRF4syMQOG1EOSqPajknt9e7p36b/IPJV9vkkiXWc5XdVdqufPrXbQlvhNI+ldW8LDz+u/5rm9GLm4m8TLHuef8quA+VOS3qt4NVSqqyNtS+i0v3V+c14bWfYCfJwUDYtLazew5ql8cetcBXBeOIxy6Na83ZQFypf/oDj59Q==;kh+qFU0zdIEAAT7iSzg8Bw=="
 ---

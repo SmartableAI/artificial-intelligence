@@ -170,6 +170,20 @@ related:
         width: 775
         height: 812
         isCached: true
+  - title: "AI uncovers Eli Lilly's rheumatoid arthritis drug Olumiant as potential Alzheimer's treatment"
+    excerpt: "Researchers at Harvard and Massachusetts General Hospital used a type of artificial intelligence called machine learning to identify existing drugs that might be able to prevent neuronal death in Alzheimer’s disease."
+    publishedDateTime: 2021-03-08T13:55:00Z
+    webUrl: "https://www.fiercebiotech.com/research/ai-uncovers-eli-lilly-s-rheumatoid-arthritis-drug-olumiant-as-potential-alzheimer-s"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 26
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1615210840/GettyImages-1196084872.jpg/GettyImages-1196084872.jpg?zlq8To4Z5W2BSDmofukPRuHfZWZUBQ5y"
+        width: 6000
+        height: 3997
+        isCached: true
 
 secured: "sxnoTZmkGTOOEttGzbUNpvtttcJrp+LrtH4DCVh+EKhq6L8OmJwlIyIJ3JandzwayKgSDh2b+10HYnrh6m//HZDus79/ooxM+uLcF31I1BoxQ3FW89OTcEjtEc4YUc72+n5xzSpA9+5HjcYCgkbG3a8nol9QcMEjkXqd2Y1vsZtMOl68mSuilwWoBZ+H18J1dUu2Y0AN9NbvJwnO/wgZPkTZsgUzJJkvkPGHq1AlAzZQSzzScNXZL4rf2oXZ1SYbjk5Xkn6LaWMCAxnDAqw7esJpL/fkPOIxEG1CzfluLipnyubFxztpKP0DR5yp5jxn+J0ZzLsCubnCbsLfkSU5PCrGS7rHrP5BREyBQjschVs=;H+4flLqGds9oEKxVEWM+lA=="
 ---

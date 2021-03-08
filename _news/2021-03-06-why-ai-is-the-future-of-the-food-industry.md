@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-ind
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 1440
         height: 1050
         isCached: true
+  - title: "Time to restyle the fashion industry that is AI in Fashion Market Industry by 2021- 2026| Adobe, Oracle"
+    excerpt: "The AI in the Fashion Industry is expected to grow at a CAGR of 39 17 during the forecast period 2020 2026 The AI in Fashion Market information introduced inside this report is acquired dependent on a few strategies for"
+    publishedDateTime: 2021-03-08T13:53:00Z
+    webUrl: "https://www.openpr.com/news/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    ampWebUrl: "https://www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 23
 
 secured: "Ds9hxWppetQR/L+2Xmj777X2/gdnrjpcg97qOe4omKMWETgRDaUJGntVJW/cd4Ewit7GRCLUC7TznmMgzR+xwuhVR+B6QDiX1XEtzA3O3TIhprgjzcUyoAY7l1alIogJQPmHpTTXJIS7vcmNsDy4hYrIWXvcYnDgnlKgEo1k/lHZp/YPGQZgnZkpr4uOLlQhtmUpdz4/pzcBt64ruOBzhUnw14Nfhz9HYTs19WfUDXtZWAl45RN+7dyXjUhHGkf4jZ3Gc9AVcktNB2uDEgGT9XiO/kge6e79u+reMsdNG0Bhlqi0BOP5eVTvxQbtxJlhTlhOMnbT8A8SRHWmGBFO4YQmqXrMkPKH8Da6g/bU5l0=;42KEQCo369BRFniOYa4wew=="
 ---

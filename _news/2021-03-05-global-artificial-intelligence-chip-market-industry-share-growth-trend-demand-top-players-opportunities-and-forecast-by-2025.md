@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
 type: article
 quality: 59
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
-    publishedDateTime: 2021-03-03T22:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-report-2021-2026-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

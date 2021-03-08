@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
 type: article
 quality: 80
-heat: 182
+heat: 192
 published: true
 
 provider:
@@ -172,6 +172,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/alzheimersdi.jpg"
         width: 775
         height: 812
+        isCached: true
+  - title: "AI uncovers Eli Lilly's rheumatoid arthritis drug Olumiant as potential Alzheimer's treatment"
+    excerpt: "Researchers at Harvard and Massachusetts General Hospital used a type of artificial intelligence called machine learning to identify existing drugs that might be able to prevent neuronal death in Alzheimer’s disease."
+    publishedDateTime: 2021-03-08T13:55:00Z
+    webUrl: "https://www.fiercebiotech.com/research/ai-uncovers-eli-lilly-s-rheumatoid-arthritis-drug-olumiant-as-potential-alzheimer-s"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 26
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1615210840/GettyImages-1196084872.jpg/GettyImages-1196084872.jpg?zlq8To4Z5W2BSDmofukPRuHfZWZUBQ5y"
+        width: 6000
+        height: 3997
         isCached: true
 
 secured: "nnydTfBT4bOC+gPO3vX1z2igYVCtuWXYkcYY060kkd5ul36qsR5Mgc6dBU/YaezxbbLTEJKV/1445mWSnyumGR8cj4QOqHne6m9RtvkT3I4DQIn0rWDwRcph8By6u8uv4egFw8kNto9B/jsmsXKT8+DvCa/Ck4V9nK8XNb1mnxQJGpvDQa+Z+ld1KNzWaB4FDa8f3Kdx9TxS8+ttDqLF/53y+xmt9Zzj/vzLVOo4fQRLHZvscsXyrL8Ofu6FAgoWuUPSIx8cV7c+Z6pU+UgCeSqUVd2o87xVbfhdGbN76e56eXUsVGTQIrc/0t3FvArwfPZmO3V2FSR1FU0BJTQnCHAamCKqf0VM09yoX38D38KVx5GRLahvUCWVq7cRN/YVBkoE+dCMcLeUB+ohLiqeTz2OOA8ZmJC+glkFw5IZ7UaL3d1ocMNVZkHsDaOhSk2xUpkV71ulcilWT37J1ZG7j5paNSpuYxwyMlJB/iW6QwaNUZpHOoAv5V54bELemdv5dUkOeCff8IoH5fzS8oGLRQ==;ZWCxdWNkzsR2VK/OCLzhXg=="

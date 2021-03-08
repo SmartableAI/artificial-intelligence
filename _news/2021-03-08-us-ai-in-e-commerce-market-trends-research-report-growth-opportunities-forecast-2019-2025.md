@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
-    excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
-    publishedDateTime: 2021-03-03T22:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-translation-market-report-2021-2026-global-industry-trends-share-size-growth-opportunity-and-forecast-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Wearable Robots and Exoskeletons Market Overview By Share, Size, Industry Players, Revenue and Product Demand Till 2025"
     excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The wearable robots and exoskeletons are expected to record a CAGR of 22."
     publishedDateTime: 2021-03-08T12:44:00Z
@@ -141,6 +127,6 @@ related:
         height: 400
         isCached: true
 
-secured: "DBZXqHLIw/V+nU+f5wM3bJV1iSAp9WR306FWZT1PF0SjEBYwR49TRIG6SJVTx8A+DCJ/HFc26cOr/PQOWRms5HaLcBxo6PqicmwzDGt42eFStzjLifNA1t/88jkObkGX+/QatToc68p+AnzxUErztf7hNaXWe/6k9ALfoGgmilVE79yhGOGm33OK34RGnugngR1hV2dQHFmc29/HnpEd/oe2grPJNiMP08fCAhcVKMpP/ZIiIaqI8oi9RP75+iHufGrlsCwxKONjrtJsfWzdZ8z+H2oYTMU3LoyaAdhIhpdx4eImdLx0strR/f2RYvWZSvVVs9Sa6nE8mAgMTJUMSV382XGPwPZvidKoUxSWgyE=;rDwxWUJO2lGXd+qPvnm/FQ=="
+secured: "8tKSW/hTj4o9sQUbgom1CguZvN1E25418DDe3B5uyCfh4ino5eAK82aN1D3YEV8VTSKTRFxWAFAwVCFfVDbSnlJy7frYSA67DCaNdme/DLT8U8x5E7TDma2jKYid0thfvQDbacNKjin9e7SgjXuzyEZyLvzgcmyQhJ8SLy8hEslCqskbIq8LFhJZGIjRVeq8Fu4LImyceh2cYKbaAMZ65xF+egwtqr4Fv6nGXFp+CB/yAvEoZ6Vv5OnIpuzNb/vJYp3PviaQw6S+8MW8c5zHkpyCxj6rYE5djyR5YsTsHqk8rb1VucfmA5pwpY5+tckhLr6kNl3DJSrxlpeL+J6bd77kFPsWm2F01FW1GhOO0524OBvIIWUJO39QhiOviIwfdyNieWjCrib5lPZXBkV3FxIVcdryUtF3IbILDSCxbbwzVWpars90OSexOShrECs6VoxN0K7fMP4jZ4pANMX4VHfRBiou6aOM0sGyBsdbNdn6nB3q3wvMuCXjWhFLuKJSy1EBfoeq3aevlue4O33dmg==;AsPb0UFlgPAadLDTbWNRjw=="
 ---
 

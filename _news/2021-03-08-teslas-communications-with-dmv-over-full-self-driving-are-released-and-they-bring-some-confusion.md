@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta rolls out to more drivers as Musk reports high demand"
+    excerpt: "CEO Elon Musk said the last beta doubles the number of people who have access to FSD, but a future update will open the tech to 10 times as many drivers."
+    publishedDateTime: 2021-03-08T14:07:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-elon-musk-demand/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-elon-musk-demand/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 82
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Full Self-Driving Subscriptions Launching in Q2, Musk Says"
     excerpt: "Subscriptions are a popular business model of the early 21st century, and Tesla (NASDAQ: TSLA) is driving headlong into them. In a response to a"
     publishedDateTime: 2021-03-04T05:01:00Z
@@ -130,6 +146,6 @@ related:
         height: 387
         isCached: true
 
-secured: "MEs6gKIfYmesKcuvlo+0ZfvsKNGif1QUWTDO3si/tKmDuUjBD4pS1GUpCvjq0ydpWiPlPhH1wTgVZvOHhpZjvLWr6Pu5U2htmhdXd2S+i6Jb9h8FwiY4GAU0/nOfJLopVAt6CwYCrklV8kUKnBknDH/81UTs7FdnAYxmxaZ9L9zwl1znqynTysU950/nPE60U1/zRjUHeZAgjCsFybyD05QN+MilrWqNIuDkfueaYI25h4OrN/7ac20hVRuxysI2fYGNF8NmdnIh4xlUhpux7+O8SssV6j4gXyR65Ob+a1WsHUAZ4ffhleINfBjj6lJoaQsjHrRuwGb37yL1JiDGkraDlzQbA9KbfbKrFDp5Gkc=;ChAW1YNzls7kcMZfsBjHqw=="
+secured: "7w2/zHmZI2duTKX1h7g9SaINRe6nU6bvwWiQvaJHL6/FwaIhsh2RH5sgLe7nbJD2nUcxgWHx01R/y3ISqRoVtEfEPXgBsNeVih/6JS/vZSr2gAfVFZsv7sH82c/DGPiZ0nz+aYeDB4dwcb+ZPGOS8mnFP2zH+6oFx8DAocnj9OWAuVClTFi2b5X18+TJ3+6vq1DPzgh1ytnacIBJGHibyUdbzPGQQe3I3Y3IyZGLHeQOwKr7q7067tb6Yniny4ueqjoPFVoiiywqXKSCEbQ5S/5dshpAH720xSCsvVxj0NgZMvv2+ROeZ7Q4+cuTOUIFlAxuMe4bP/6srRYshH+G8UQ5bk7OS0GRhBXDSgT9qvgU1vh63KB1LUyETFGw5zGy7WCAT0qhIIhhLJx3z9fHx/uvgXhALVywFeD98S1hB2SAxsPolUCkIB8ySwNi1Y8ABBFI5HrXZ8CjutShPCWYTl+CnOYRsAmdPsDz0Zt4PPm9YVIhnH4WPSpG3w0SR1lMZynPCQQt0dHVDV9nW2P+eg==;X5sCVkIElq6wtilsT8ZPdA=="
 ---
 
