@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Recruiting talent by leveraging AI and computer vision"
+    excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
+    publishedDateTime: 2021-03-08T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/03/000_93R6KY-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
     excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."
     publishedDateTime: 2021-03-03T20:39:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/04/b2bs-evolution-in-2021-how-ai-and-machine-learning-are-forever-changing-b2b-marketing/amp/"
 type: article
 quality: 113
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://lcolumbus.files.wordpress.com/2021/03/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-1-1.jpg?w=400"
         width: 400
         height: 292
+        isCached: true
+  - title: "Recruiting talent by leveraging AI and computer vision"
+    excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
+    publishedDateTime: 2021-03-08T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/03/000_93R6KY-450x300.jpg"
+        width: 450
+        height: 300
         isCached: true
   - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
     excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."

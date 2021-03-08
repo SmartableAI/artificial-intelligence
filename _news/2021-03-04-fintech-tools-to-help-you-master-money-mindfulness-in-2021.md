@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/1280px-Beijing_skyline_from_northeast_4th_ring_road.jpg?fit=1280%2C576&ssl=1"
         width: 1280
         height: 576
+        isCached: true
+  - title: "Fintech MONVA Announces Second Fundraising Campaign"
+    excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
+    publishedDateTime: 2021-03-08T05:40:00Z
+    webUrl: "https://businessnewswales.com/fintech-monva-announces-second-fundraising-campaign/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 39
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/MONVA-1.jpg"
+        width: 580
+        height: 380
         isCached: true
   - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
     excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"

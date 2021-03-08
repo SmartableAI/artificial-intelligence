@@ -28,43 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market | Application, Region, Global Growth, Trends, and Forecast To 2027"
-    excerpt: "Global Machine Learning industry valued approximately USD 1.02 billion in 2016 is anticipated to grow with a healthy"
-    publishedDateTime: 2021-03-04T22:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-application-region-global-growth-trends-and-forecast-to-2027-2021-03-04"
+  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
+    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-03-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Machine Vision Market to Set Phenomenal Growth from 2021 to 2026 | Qualcomm, Intel, Beijing Megvii"
-    excerpt: "Get Access to PDF Sample of Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2026 @:  This study focuses on the Global Deep Learning in Machine Vision Market status, future forecast,"
-    publishedDateTime: 2021-03-06T01:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-to-set-phenomenal-growth-from-2021-to-2026-qualcomm-intel-beijing-megvii-2021-03-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market by Component, Type, Application, Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to 2026"
-    excerpt: "Application (Automatic Summarization, Sentiment Analysis, Risk & Threat Detection), Deployment Mode, Organization Size, Vertical, and Region - Global Forecast to"
-    publishedDateTime: 2021-03-03T21:08:00Z
-    webUrl: "https://www.lelezard.com/en/news-19681380.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 0
 
 secured: "Wpr69xXsFAG/yS3Iw67+IhT3bypDIGzKlwyDQ9GC7+clbp07XN+sZ5pwLtRD+z6yyhStVKxLhNI2/XMh6Zeu9NUMcbvWiFq6b4+D1xQ60e+/ZBYeHszOsxmQ4x0d2VYDbI3kCAzAtNx8Cuz+GvBZhMLhYSHFiaPBRbm14Cw1DagZ4bcrpOLMF5bHvteMKZLKxeVxfSi/eKgWGaoJgM0MxHCfSgJi/Kstl6wvSQ//qZGZDRBk6IUepbhEELet7SuThQMZVicKguB84HOQpSeIu63hREdDhKWp5r4Zdaphlqg0ljpVMFs3OOb7zFdsPEn70N5kQG2eUrS2ehwusNeriC94gF3lkigSBmpQUKt5GtA=;WTTj25eDtFJuj4O11RKGMg=="
 ---

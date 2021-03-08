@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "MediaTek unveils new AI-based 4K smart TV chip"
-    excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
-    publishedDateTime: 2021-03-03T14:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210303/3717296.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "YxE3fhqjkQw7IeNCUsxntojEC5FUaPQCJWpmSh7EF/iicsGN5yjA+0oK8qIwPt2Z/+gUX/ai+HnNzOM3az3pazgXSmc6RJ+SAq4S6eaqPFlqGXw6/VdELapvlkvbNtnB6eikrtOAQPcsd9dN030cptqpsuVcAW8NSUxatJzLXmOemQ2X9KjTPXj67H48b65zOTTAlaTbDla0JQz/OhGlKnKmuEduLsi4dLxmgHfEhKG0ZfxC5hv1WfM2Tih8e6f+IBef54xIpDCcfq2l8MJ+Khx5E1OhsEFBd9/5Vf5RN2F3MO4hqhjsFnB6g/MejJkpXmhl284/Wz0w+76BqdSrgEIpcMTf/38/Q0UYe4ZxuvwKI+1YPiyB3sDFQlXUjk5eWU4Eg85psXxbtwn6jdu5hNvoBjNyYVB/Cxdup8KmMQjQ8ev+JleyZHv7RQsoDq6zkm/DWgJh5DTMauNa28AvfE4P+LLaIO1FEDdQ45SZ5aCGxXzB9AZg7pmaz7TiJjapRMmCph3hN+78TiWzEppr0A==;wXyk5mGo1W4QV0s1WV+5VQ=="
 ---

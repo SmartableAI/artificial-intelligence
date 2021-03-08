@@ -58,6 +58,22 @@ related:
         width: 400
         height: 292
         isCached: true
+  - title: "Recruiting talent by leveraging AI and computer vision"
+    excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
+    publishedDateTime: 2021-03-08T00:50:00Z
+    webUrl: "https://techwireasia.com/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    ampWebUrl: "https://techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 74
+    images:
+      - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/03/000_93R6KY-450x300.jpg"
+        width: 450
+        height: 300
+        isCached: true
 
 secured: "2p0YNb+gKpp0yIjCRhWJ2sAuGsq0f2IBXgf/00VMT5ewwNJKDjHuYqHO+k9pbTKnh9WJjGnKiFyOCuvB+RbJNnKiRsk2WwhmO61/XwCAeCN+aUiKKb2QvQ1/g2+oUfPl/HMaXkaGynrpZ4RDXHObq3R6AUKL2LK834oX/q/w03tY3uCYI9R5Eym27UVpprZCoDlFHgy7psOlI0RsuCepw1aDArCDPk4jU2WDGWggLB1job2x6tTTL1XYeDwE8jERV/JQxN315eLVIdBChUNAcbUVzdY5bwTWZHr9CVwt63twwyWnpb8ywx7vuKTq6h5TImUpCOr99RkUVjFZk00APCvaIjcTbYAlHK/Jg9YjKwy+wOeIgXIe85SWyRY1FTP9V654Ln1YUHZkmxkZoLKIXH+1fHGvbVhkafv4OMArEpRlIkpGtEy9MLvbR7d415t4oqqzUIgaKY1rqM6NoFtyG/Wfh5CT9tRq4SgO/YnwW6d3YaVNOmQnk5Au97mSLZgIjjfyvcnRn5GDIxc0XOKBKw==;GmAZsF7G8hOeftutiVpPRg=="
 ---

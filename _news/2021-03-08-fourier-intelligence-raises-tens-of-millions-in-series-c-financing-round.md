@@ -2,17 +2,17 @@
 category: news
 title: "Fourier Intelligence Raises Tens of Millions in Series C+ Financing Round"
 excerpt: "Tech company Fourier Intelligence receives tens of millions in a new round of financing to accelerate the construction of the rehabilitation industry ecosystem"
-publishedDateTime: 2021-03-08T02:56:00Z
-originalUrl: "https://www.wboc.com/story/43458222/fourier-intelligence-raises-tens-of-millions-in-series-c-financing-round"
-webUrl: "https://www.wboc.com/story/43458222/fourier-intelligence-raises-tens-of-millions-in-series-c-financing-round"
+publishedDateTime: 2021-03-08T06:17:00Z
+originalUrl: "https://www.wicz.com/story/43458222/fourier-intelligence-raises-tens-of-millions-in-series-c-financing-round"
+webUrl: "https://www.wicz.com/story/43458222/fourier-intelligence-raises-tens-of-millions-in-series-c-financing-round"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Robotics
@@ -24,6 +24,6 @@ images:
     height: 416
     isCached: true
 
-secured: "zqZKqMi06GokuXw0Q5NUaTKYBIHlh3+g8SWsdKui83JLsR+wtOj21YfyqRFL6cfr30nStE4NjXLm59EWcek3guC6wCrpHd81tNmTD6wx0irCSzvYOScjbIn0lMUz00+V5XDpG95IKPQOuYGwWJGftMLcDcGGwWJM3JhokPSkDxH+Un+G3EYgWr1QqgSDd/AQBR2iHYruL3miKrysfy3Wg6QBNPzgyQuKzpT8Jh+2KHATvDj+rPHWBp0CWgiwA+hdVyrKkKDLFw3fV/FXgoX8vfbWbVAuNhpYPV96UKNXncN4CE5y14xQWH7jpL/GFZ/FR35dcVqCbDm8d0p1SxGiuGpEm9sCnHYg8UCRhAQt2Bp1tROvNvVkPLG3g1/JSWGvyoXoBJX0cvmVNSVG8O3EZS2XYmxTrwiAU8eAiQmBQIIfuNdHk2tDh1T6Y7dJmdqYAjEmauxYKEKtOCrXVkEzYJJoktWSh/tezuA6yYU2jJdTA+xf9pzhHwH/y6SYtMnhjxkuC6D+muojMyZXdAA9YA==;eK0UXlfQqlDS4DYlZRnQqA=="
+secured: "84/Fzc9hPoPRa381SuQ5AlE44u1y3APpz5c4KbrjKMgSNYLgEwdRGr2of7N2/8SMpVYIvwTYBlBCFOOXf7C5csS3EnJuhHSp2/Pn+j81joefYywqz6FXR9aL3Ab/NgVC7uak9IrqpRgb6XqorXReg38IZ+x5BFWnweBzf0kUIpYFSd/G72KcB5dHfMhyaEMHRLlSFijdt/DYN89jlrBDr5wMJiTCn8PWucr/dOp8EwBODgTB5f6Fz9z5y99BwtVb48DHzux26KyiDtZWVtxuiBmOiPoXyd5MPPdJ2L/3qqSrWj/GG+5v5fCNtzzhgUDfkEoTT5nqoY4CDV7p4NfVfGCFE/d6gXPHxxRiBCPQ3kw=;3GJMSOGXnN8ZVjLwpC6aHg=="
 ---
 

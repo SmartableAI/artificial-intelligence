@@ -53,7 +53,7 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"
         width: 620

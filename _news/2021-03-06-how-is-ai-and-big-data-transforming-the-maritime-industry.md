@@ -50,6 +50,22 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
+    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
+    publishedDateTime: 2021-03-08T06:35:00Z
+    webUrl: "https://www.news-medical.net/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 50
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/3/GettyFuturePathologyWEB.jpg"
+        width: 760
+        height: 507
+        isCached: true
   - title: "The complexity of artificial intelligence"
     excerpt: "SMU Assistant Professor Sun Qianru says highly diverse training data is critical to ensure the machine sees a wide range of examples and counterexamples that cancel out spurious patterns."
     publishedDateTime: 2021-03-05T16:14:00Z

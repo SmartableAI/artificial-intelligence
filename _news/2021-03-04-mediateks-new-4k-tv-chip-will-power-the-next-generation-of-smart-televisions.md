@@ -55,15 +55,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "MediaTek unveils new AI-based 4K smart TV chip"
-    excerpt: "Chipmaker company MediaTek on Wednesday unveiled its new 4K smart TV chip -- MT9638 -- with an integrated high-performance Artificial Intelligence (AI) processing unit (APU). The new chip supports cutting edge AI-enhancement technologies such as AI super resolution,"
-    publishedDateTime: 2021-03-03T14:45:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20210303/3717296.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
 
 secured: "D2ue9fDO71p+RMxC5Hf8ifVJCKHFmOq80wqPitl9ca/zr2sXdhrYj5CuSoyGQPaFFEKfFh0pdEZNKDPXERD9+l4P5eaCYTBGx/9kBvBY1DbloYsP6erCF1A8o6wwvhOtSZ0rc153t6aXEGPM2C5aiNzEj7/QfF6PJ7z6bYT9O3TqsPmrestPA7pbAV5YHwPypQV/07DE7iIi5EfFuRrT8+3QQkNOhqbd81YGyIAPFUlEEUYOPZoplgt/zOF655yaBirqWWqq9rf5Ck065dkInSAItZzwQoYeXUI4/2cEMsLrY/Ka0TMQG78wKewjnUaOXYP4CsJnKNXBZlhVa8lisfS5TM0kLFvot3dGGQkyB28=;5u80MvQI092OZkqtXbU4fA=="
 ---

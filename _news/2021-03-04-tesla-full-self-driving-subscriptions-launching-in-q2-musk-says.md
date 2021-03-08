@@ -73,6 +73,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla expanding full self driving beta to more drivers: Musk"
+    excerpt: "Tesla CEO Elon Musk has said that the company is expanding its Full Self-Driving (FSD) beta to more drivers and will eventually increase the number of participants tenfold. The electric car-maker firs"
+    publishedDateTime: 2021-03-08T06:44:00Z
+    webUrl: "https://www.dailypioneer.com/2021/technology/tesla-expanding-full-self-driving-beta-to-more-drivers--musk.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/tesla-expanding-full-self-driving-beta-to-more-drivers--musk-2021-03-08.jpg"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Ford: three years of testing self-driving cars in Miami"
     excerpt: "Automotive manufacturer Ford Motor Company celebrates its three year milestone testing self-driving cars in Miami Marking three years since automotive manufacturer - Ford Motor Company - began its plans to test and commercialise its self-driving services in Miami,"
     publishedDateTime: 2021-03-03T23:55:00Z

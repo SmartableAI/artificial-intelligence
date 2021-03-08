@@ -22,22 +22,6 @@ topics:
   - AI in Robotics
   - AI
 
-related:
-  - title: "Helping soft robots turn rigid on demand"
-    excerpt: "MIT researchers have simulated a soft-bodied robot that turns rigid on demand. The advance may help broaden robots' range of tasks and allow for safe interactions with people, including in patient care settings."
-    publishedDateTime: 2021-03-03T14:41:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-hsr030221.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/257979_web.jpg"
-        width: 1440
-        height: 959
-        isCached: true
-
 secured: "5JAeJU6bjk4zKVxUKj+oZ2fhLrDZw1tWufyOwZnW8JpMbsKJKSOF9JG9Y05G/mM2nfjnl1cTtSr+UdgV2QOWs5eJyXO+SwDjgsLP8vmabJUYrC05vvA7gB2BuE4TCmov8Ccn533/KtprVXUzweAW30L6FyKFzs+hNBQaBZJLV7d7s+ifq/M6FhUN5LQUeQLWYNUqbKmI3q2FKjj6B56G1T7ieJHfyasdLi6zJaQqpd+hO14qN/wmOMHmYQWHFyWrZg/lM9NOI490x2rse5TvTGHCG+0/rsgVmliizqFhQEwPdzJNoFbRRLGCXTuW6N5fz7pi7CvFOSviE/h1dpm6lOTIn4sXr/Itq0MDmjbcZEs=;UFE/lU1mxkSzt0HYPmwB3g=="
 ---
 

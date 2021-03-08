@@ -43,6 +43,20 @@ related:
         width: 660
         height: 336
         isCached: true
+  - title: "Fintech MONVA Announces Second Fundraising Campaign"
+    excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
+    publishedDateTime: 2021-03-08T05:40:00Z
+    webUrl: "https://businessnewswales.com/fintech-monva-announces-second-fundraising-campaign/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 39
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/MONVA-1.jpg"
+        width: 580
+        height: 380
+        isCached: true
   - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
     excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"
     publishedDateTime: 2021-03-05T14:01:00Z

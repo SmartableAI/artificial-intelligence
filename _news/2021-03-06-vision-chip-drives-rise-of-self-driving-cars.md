@@ -8,7 +8,7 @@ webUrl: "https://www.thestreet.com/tech/news/ambajdm030521"
 ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI Hardware
+  - Computer Vision
 
 images:
   - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"

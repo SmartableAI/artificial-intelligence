@@ -50,6 +50,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
+  - title: "TikTok Owner Stepping into the Car Industry with Self-Driving Startup Investment"
+    excerpt: "ByteDance, the Chinese company behind Internet sensation TikTok, has been in the spotlight lately due to the pressure it had to deal with in the United States where former President Donald Trump threatened with major sanctions unless taken over by an American firm."
+    publishedDateTime: 2021-03-08T06:40:00Z
+    webUrl: "https://www.autoevolution.com/news/tiktok-owner-stepping-into-the-car-industry-with-self-driving-startup-investment-157289.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 19
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tiktok-owner-stepping-into-the-car-industry-with-self-driving-startup-investment-157289-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "R0hew/7ArZCywihjzcNFMSEXzzC6l2bC/2H5Cmjxd5Ly3nJRlSZsMJzviMJwycOooFMhkTe36iSFC5eXKRNq5eaJYOSz/S2xmIB6ejFQWfsYNm4OYD9ouiIOgcGI0/M8meezZk/BTxk44JxcLcuNQK3otMR498zyzrvz6PQJOm3w5ha4psSlODkFJGzueWcG5XYw9Sinb8khdYDipkO6jXOXw8Tzf2BOiRkgm38y/759rPIr0f44VapuYmFVsiOm1FBNXxMdhFdIr436reY95nlNrRsaqdiOWHtSl7aTfT0rALoBMqW8s3wSkAlUWvn7BUxabEwsLaxNIH0KkArgVTRuVXFTgI6APHmTgbhULzA=;kFWeX0eeV3YO6cux5th+Tw=="
 ---

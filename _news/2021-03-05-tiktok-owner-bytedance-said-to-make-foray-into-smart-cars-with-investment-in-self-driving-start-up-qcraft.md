@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3124199/bytedance-said-make-foray-smart-cars-investment-self-driving-start"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 34
+  - title: "TikTok Owner Stepping into the Car Industry with Self-Driving Startup Investment"
+    excerpt: "ByteDance, the Chinese company behind Internet sensation TikTok, has been in the spotlight lately due to the pressure it had to deal with in the United States where former President Donald Trump threatened with major sanctions unless taken over by an American firm."
+    publishedDateTime: 2021-03-08T06:40:00Z
+    webUrl: "https://www.autoevolution.com/news/tiktok-owner-stepping-into-the-car-industry-with-self-driving-startup-investment-157289.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 19
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/tiktok-owner-stepping-into-the-car-industry-with-self-driving-startup-investment-157289-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "FAb1UBlB2VmNx8zxjo1o8Mb7QR42WjlVXzt3plpbOqJ2xgCUkGmAKFFoRca+UOY4bNW+4LebTlMsOlVX/WrZIh9ZoderBephKlf0U9Brf+bov8S7dlAv+UQMiOz8ucYveftMeE/M5QZcMiB+KQSuJ8b6QdYxgUh7lkJdzqXrkCQt9ZdnA7VvOioIDYlbHCvW3YrCbjt6K2q8HYnRUPi15jZL9yIAOwl3qiI0bVdn4Sm2cgZqlT3Sb8sbIdbRon2Hxw+JNN+5tLs0PEwdkhBP92HGiU7bjUaTykNS4KYNmjgv9n9s/hdXS4owF++WWQ3sEn4NLxrTtLy6T+Hc9DkT1lfA5vq2JvUEObnZ5jWqwyXmtMaeDf5PJORV7nZvJ1eugPsNhr2JAbFPQw3eM59tYIaYH7PPorZMisRYIBe68qmd/wHvRxBFj6shK7qXXFnpUxKYRwT5Kc6KAI7ioAybrtK6G//Gng/20msVym36oTbI7ZACu/XpA0nw2OrRzX0UkGyrA+F16Q4MDz4aIgwc3g==;g8UbmLOawWuKWGE2eeb+tw=="
 ---

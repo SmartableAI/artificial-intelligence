@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 576
         isCached: true
+  - title: "Fintech MONVA Announces Second Fundraising Campaign"
+    excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
+    publishedDateTime: 2021-03-08T05:40:00Z
+    webUrl: "https://businessnewswales.com/fintech-monva-announces-second-fundraising-campaign/"
+    type: article
+    provider:
+      name: businessnewswales.com
+      domain: businessnewswales.com
+    quality: 39
+    images:
+      - url: "https://businessnewswales.com/wp-content/uploads/MONVA-1.jpg"
+        width: 580
+        height: 380
+        isCached: true
   - title: "Katapult to Present at the 2021 Wolfe Research Fintech Conference"
     excerpt: "Katapult Holding, Inc. (“Katapult”), an e-commerce focused financial technology company, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Orlando Zayas,"
     publishedDateTime: 2021-03-04T21:05:00Z
