@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "appannie"
   url: "https://twitter.com/appannie"
-  followers: 91373
+  followers: 91377
 
 locations:
   - San Francisco, CA
@@ -22,7 +22,7 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1177115933573177345/SkCJEIH6_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1368729223121231875/vqJ0WtX3_400x400.jpg"
     width: 400
     height: 400
     isCached: true
