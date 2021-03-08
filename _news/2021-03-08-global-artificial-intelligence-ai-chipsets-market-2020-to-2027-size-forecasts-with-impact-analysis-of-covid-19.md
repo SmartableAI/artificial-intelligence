@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-08T07:54:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08"
 type: article
-quality: 62
-heat: 82
+quality: 64
+heat: 84
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

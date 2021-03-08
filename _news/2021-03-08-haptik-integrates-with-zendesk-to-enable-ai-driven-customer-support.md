@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Haptik integrates with Zendesk to enable AI-driven Customer Support"
-excerpt: "Jio Haptik Technologies Limited, one of the world's largest Conversational AI companies and a subsidiary of Reliance Jio Platforms,"
-publishedDateTime: 2021-03-08T04:36:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/haptik-integrates-with-zendesk-to-enable-ai-driven-customer-support-854049343.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/haptik-integrates-with-zendesk-to-enable-ai-driven-customer-support-854049343.html"
+title: "Haptik integrates with Zendesk to enable AI-driven customer support"
+excerpt: "In today technology news, we covered about the Haptik integrates with Zendesk to enable AI-driven customer support"
+publishedDateTime: 2021-03-08T10:15:00Z
+originalUrl: "https://www.compsmag.com/news/technology/haptik-integrates-with-zendesk-to-enable-ai-driven-customer-support/"
+webUrl: "https://www.compsmag.com/news/technology/haptik-integrates-with-zendesk-to-enable-ai-driven-customer-support/"
+ampWebUrl: "https://www.compsmag.com/news/technology/haptik-integrates-with-zendesk-to-enable-ai-driven-customer-support/amp/"
+cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/haptik-integrates-with-zendesk-to-enable-ai-driven-customer-support/amp/"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Windows
+  domain: compsmag.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1451167/Haptik_Zendesk.jpg?p=facebook"
-    width: 770
-    height: 403
+  - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+    width: 960
+    height: 675
     isCached: true
 
-secured: "PNuUjQeNd8lsVi8LxI55tVzWvl3DoAJf3bqb8cx0BfhPNJ+OCcKiDCRMJbcbJoIL36Iccep0mysXWuSeqOZVq+JJNVvM7ysMfPj5dbXh1UAQWzGODjDVBCQD2tQCVsVUDQ/8IRpL6zvKE68CaHAQtupfTX9thA+ZjAfr8C3/O05e15jlPVF6pblOk3UkFGHma8H70RxAFqI3/4g/WPHa9bRUzh0ImEecSTX7b/wlxitPu/PMqAKrK5riWpf5OjQ0Cx7EofbwOjIQIhXsjkmR1GvoLwuV0aPbPNR+kwnEwxa/gU9obyOcFyRKgAUjKflhEtOJrcLnC7Klw8le8xY27bmpvCQpoRU5mZM/VQ8rGpA=;gVyK8CisCyWU4dUlJhAZxg=="
+secured: "APr9kJN4KrB9GvSx73IyWT07nKFEx7bEYBKOVyomQ0X70z8O9kuOY96Z0yUlWZJT9a/XPw48JzSNhgsyrsSCUbCYQadwuCi03ZgstR+xmmw1YG3rEZ1ROxMkgRlpock3J1XpTjCKnWJX38UEUnE3xIoENjWSoj2Ac/tp315H4HQ97DCaRbjs0fqHFDpHJh1tIuQRERjQYF1ttAoECHuxTo4ruvI1bEW9Di1uawHtdqHgXpyt+5MOMEe8eBQ3KUEfT//IKS1MWETP+ecoJw0j2xztmTPT23AG4wlcYSU7HKxsUQRh+xJ7i4OZkWcP9+CQcBPS17NUlshUDtUefmoIWVy4/p0YXPwiBY8TNuqk6cw=;cw5DhY3VBseNPrHTDpc9Hg=="
 ---
 

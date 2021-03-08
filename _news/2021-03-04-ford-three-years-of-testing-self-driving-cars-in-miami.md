@@ -98,6 +98,17 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Tesla Expands Full Self-Driving Beta Software Doubling Its Size"
+    excerpt: "Tesla is expanding its Full Self-Driving beta as it looks to ramp up the development of the advanced driver-assistance system. The electric car manufacturer introduced the Full Self-Driving beta in October to select owners participating in its Early Access Program."
+    publishedDateTime: 2021-03-08T10:55:00Z
+    webUrl: "https://www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
 
 secured: "09HfXradHMU9nF7/OcCXhT0tiZxUKB181PtaZZX7sAvzSdqXp9kR1BlKTXuyvlq50qtuTTkTsQC4/5M7bw0pYINwhrm9kLXW+c5MrTtgMYMIZT9JKzCrWWrd+N+F7aAr0gcOQjp4XxF3k75lkYHsDml4ApkRaf97GhNGH/uY0QxYeGDYOfIZAFRYL9VhhFsnJizqogC0tzrjOIjb3mli92IZyZ6i1L8xFf+lRb79+Q6r9XnZHdMPv6UJ3we/e45gyxDmmsAuvGX71QXWKDpD2ACfKa0/dCIHQEcLg/m8v+7JNE3Zq3ct1ERKp8R+PHsZYIkDx2lfO6bDSkEOf61Yy9a5l3fLU+zD+EYS8UsHh7k=;P85V5eYKsoPEpZFa4H3z1g=="
 ---

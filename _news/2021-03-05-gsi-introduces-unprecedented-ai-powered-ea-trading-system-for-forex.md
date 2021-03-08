@@ -71,6 +71,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Voice-based artificial intelligence for SA"
+    excerpt: "Pangea Communication introduces voicebots, which solve routine issues with clients, saving time and giving operators capacity to deal with more complex requests."
+    publishedDateTime: 2021-03-08T09:02:00Z
+    webUrl: "https://www.itweb.co.za/content/Kjlyrvw1oGOMk6am"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
 
 secured: "FXUNugv+7GxakX62N7oCHHr+JG8HLPXagFFA8Qyq6/uVZ5cgQIuIr7D32XbTCSNJ+HLvt3i+/Ggw9SUeS7IpIEzJaS1/pP9I3Lifyf4woTJqXsCl1rHfkNorGAkskH3SFxoCmGvEf/QvZcBo9erR4zU78vft5uhM4SH6OAc7RUqQVBhF9eiQuf5oZHkMxSFZbRw9oM5mvtnlF6DPG46biSRNVKKECa6x+mKA6QTViYTPzXW1XM1C161XS3cIVAmcXFpCaRyjhLfqjcGKXGAQQMu9WJ+HRUOYFwYUb9tdU+mA8GtfAPzMW2hLuuMcuIwKCVoaqOchUgrFCElacLaspvUSo775shGIojG8o5tK/o4=;PVvkcwx8x79pyBSW5On0Qg=="
 ---

@@ -84,6 +84,17 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Tesla Expands Full Self-Driving Beta Software Doubling Its Size"
+    excerpt: "Tesla is expanding its Full Self-Driving beta as it looks to ramp up the development of the advanced driver-assistance system. The electric car manufacturer introduced the Full Self-Driving beta in October to select owners participating in its Early Access Program."
+    publishedDateTime: 2021-03-08T10:55:00Z
+    webUrl: "https://www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-expands-full-self-driving-beta-software-doubling-its-size/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
   - title: "Ford: three years of testing self-driving cars in Miami"
     excerpt: "Automotive manufacturer Ford Motor Company celebrates its three year milestone testing self-driving cars in Miami Marking three years since automotive manufacturer - Ford Motor Company - began its plans to test and commercialise its self-driving services in Miami,"
     publishedDateTime: 2021-03-03T23:55:00Z

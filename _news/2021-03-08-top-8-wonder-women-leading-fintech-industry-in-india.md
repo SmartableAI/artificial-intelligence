@@ -73,6 +73,20 @@ related:
         width: 580
         height: 380
         isCached: true
+  - title: "Fintech Start-Up Fintern Takes On The Banks With Data-Driven Loans"
+    excerpt: "Fintern promises the combination of the UK's open banking reforms and its data tools enable it to lend to more people at cheaper rates"
+    publishedDateTime: 2021-03-08T09:05:00Z
+    webUrl: "https://www.newsoneplace.com/9485282012/fintech-fintern-takes-banks-loans-data-driven"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/6045e6224897c09d751e204b/0x0.jpg?cropX1=0&cropX2=2415&cropY1=40&cropY2=1399"
+        width: 2415
+        height: 1557
+        isCached: true
   - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
     excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"
     publishedDateTime: 2021-03-05T14:01:00Z
@@ -144,6 +158,6 @@ related:
         height: 589
         isCached: true
 
-secured: "+fPSQWzu2D5YMi1pF9YgM7VMf+qs4jLtjnLM1H3jYJYN6e5sbaH3LYBABeVAOrn7PyNcPi6vsviaOc/8ocrE4akjeU+8jP3Ol9QNYOsziuP/eEElNC+RAMYhjAj0VqGtn6q6O3puhTDXqrBFDpEBwvXnhce2YSYjZ+rgpPxhRVC5pt5KETt4FADZuK4f4O/Pr5u5sGHJdt+AWetmLiP0eDFBH8dW/V32Av9SFKSmf3awvKUjGooXv/Vxoaxmh6lkCo+6+DQc2Zzi0Ks0wG9sCBGLYVEpNgil6hVAOGWeDA7HUZHaqnYMWAp+Muo5HatMR4ZSa8V70wk8/zOn8UXeZNVkcbECIJmEcvfm2T1Q5xo=;lrup8PyeXXNiRTN+dsamhw=="
+secured: "DBZIc0GLtZ6zuzY9B51fUAnvZCQSk12N/CFzmH8qTFuDAsh6joYOHjkd7ENQBhnjRbOQvJvCeC+/+4SWhKa7Ut9q2snnZfvKuo5Rk8njy9lAAMUPmj5bMiJ3WZ4xqOahROw8ZcSmfmBJCNEVI6MjkUlEgvq1cafCpgrHNM6uWcBBjK3EJzieLwOHYC6O773P/g+jKzqsc+tE9dKK43s70WAxmZ86JRkwJEqVsotn0/wJNvvjSjYzknCuA69Y3Z5/Ab3eIOQJI3SJZ7OelioWuJOOqWTOCCbcfcEqjlVfthFnPHpCDrnLraYdHpRkOKAVFdtRlSdIxTLc1ZRuRuQcQIcgjP/6FMjrH3q+v002cLN4kLlKE12vDl7KYKxM5wIcLbQCphjEdQNEOxANV5cIBK28jdtcJGZ5dziJokNfpiYG2n4S2QnKCFZzWrvGZnOKwPqJGZ/+YpKKvxgjBaR/KXnhYaPMt08uZtDXXArdv1ZtB1dC2RPjtviYGPd4X5khkhfE0AjfnZeHbH7Xr52new==;9WwUbxNPMiewkEl469kOFA=="
 ---
 

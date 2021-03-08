@@ -73,6 +73,22 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "10 key Microsoft Ignite takeaways for CIOs"
+    excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
+    publishedDateTime: 2021-03-08T10:02:00Z
+    webUrl: "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html"
+    ampWebUrl: "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg"
+        width: 1200
+        height: 652
+        isCached: true
   - title: "Record group meet transcriptions with new Microsoft app"
     excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
     publishedDateTime: 2021-03-04T06:18:00Z

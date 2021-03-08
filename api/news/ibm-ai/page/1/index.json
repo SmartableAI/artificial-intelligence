@@ -99,10 +99,10 @@
     {
       "path": "_news/2021-03-02-ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge.md",
       "title": "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge",
-      "excerpt": "ARMONK, N.Y., March 1, 2021 /PRNewswire/ -- IBM (NYSE: IBM) today announced that its hybrid cloud services are now generally available in any environment -- on any cloud, on premises or at the ...",
+      "excerpt": "Lumen Technologies is a key edge compute partner to integrate IBM Cloud Satellite for 180,000 enterprise locationsMore than 65 ecosystem",
       "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment",
-      "originalUrl": "https://www.nasdaq.com/press-release/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge-1030136646",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -112,12 +112,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T19:57:00-08:00",
+      "publishedDateTime": "2021-03-01T09:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

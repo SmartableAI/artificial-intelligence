@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://businessnewswales.com/wp-content/uploads/MONVA-1.jpg"
         width: 580
         height: 380
+        isCached: true
+  - title: "Fintech Start-Up Fintern Takes On The Banks With Data-Driven Loans"
+    excerpt: "Fintern promises the combination of the UK's open banking reforms and its data tools enable it to lend to more people at cheaper rates"
+    publishedDateTime: 2021-03-08T09:05:00Z
+    webUrl: "https://www.newsoneplace.com/9485282012/fintech-fintern-takes-banks-loans-data-driven"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 39
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/6045e6224897c09d751e204b/0x0.jpg?cropX1=0&cropX2=2415&cropY1=40&cropY2=1399"
+        width: 2415
+        height: 1557
         isCached: true
   - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
     excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"

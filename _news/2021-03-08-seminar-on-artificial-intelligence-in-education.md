@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 300
     height: 300
     isCached: true
-
-related:
-  - title: "A Framework for Successful AI Adoption"
-    excerpt: "The demands of pandemic response accelerated state and local government interest in data-driven decision-making and implementation of early AI-related projects."
-    publishedDateTime: 2021-03-03T17:11:00Z
-    webUrl: "https://www.govtech.com/sponsored/A-Framework-for-Successful-AI-Adoption-.html"
-    ampWebUrl: "https://www.govtech.com/sponsored/A-Framework-for-Successful-AI-Adoption-.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/A-Framework-for-Successful-AI-Adoption-.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/Shutterstock_Smart+Cities_Header.jpg"
-        width: 770
-        height: 513
-        isCached: true
 
 secured: "S+nAtPSn9preZLJoR2/6tYhVtUNcS4+d08pM+ybr/xeQIJTFedLUnKWB1VFa3qZfiFZ5YX5IOZqf8ZaRZxpLoU4ZA7tunq0dSuxQcXGncpvlLaYsZtScjAzzLMpVwlHsBMSztzCgnUEuZXdgatshyEE5AqqwqU8uBeK17lhDKg1GqckW0LwzQc+MWoS85pxLQ+VY58+AU4LYTcJzxIVrVSjPvtepJC2BTywgrdDYZ9zjG66jr5gVooe7nziUtdqf2JaNs76i+z6SiS0YRvvayRLe+RbFSUsbS8w9QmFW5u8uE4YEMcRy6phwVSs+Kenwnj1DXFJCn1lVyrIdYd3VnnKITj3n17TW5xXutn/yuFw=;51nMCeamdc2s4YGMNlHMZw=="
 ---

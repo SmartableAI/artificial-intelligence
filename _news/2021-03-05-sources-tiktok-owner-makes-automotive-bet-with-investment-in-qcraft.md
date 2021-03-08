@@ -53,6 +53,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Sources: TikTok owner makes automotive bet with investment in QCraft"
+    excerpt: "The development follows other tech giants making their own bets in the self-driving space, such as Baidu and Tencent. China, the world’s biggest vehicle market, is looking to have smart cars ..."
+    publishedDateTime: 2021-03-06T12:46:00Z
+    webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft?_escaped_fragment_=&ref=todayheadlines.live"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 34
   - title: "TikTok Owner Stepping into the Car Industry with Self-Driving Startup Investment"
     excerpt: "ByteDance, the Chinese company behind Internet sensation TikTok, has been in the spotlight lately due to the pressure it had to deal with in the United States where former President Donald Trump threatened with major sanctions unless taken over by an American firm."
     publishedDateTime: 2021-03-08T06:40:00Z

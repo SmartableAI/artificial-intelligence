@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/economy/logistics/nhai-introduc
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Voice-based artificial intelligence for SA"
+    excerpt: "Pangea Communication introduces voicebots, which solve routine issues with clients, saving time and giving operators capacity to deal with more complex requests."
+    publishedDateTime: 2021-03-08T09:02:00Z
+    webUrl: "https://www.itweb.co.za/content/Kjlyrvw1oGOMk6am"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
 
 secured: "9GXyJxBycTu/JND0QUZSgxAlYEQ6tjI2F6JS4SAYr2sYbnZZv2eK6ThOPEqicxgaIVfOk/FbLhJ7jlxL4RXRtZdRrw7cMooXxo3NtmRA9vkXJxx4Ujf5dW1N1Pp34MqF4X9eIYQiDI/iy0FZ7kfDesrWTIr/SpJBJg7tlBxxFQmirAEOTuVgdNqqDHoU3+8KqG48iuD0NRavsvCjGfwLHxvIUR56gRWc6uEmKis+gb7rfZ19zkFVkw/mtaMR+QlzLWUzUGv+SCYqOXNtFOFPZdiIAQIgFL9QQX6rQ5v31R0OAYoJajXUyP7NfDwuBEIRYBm39TofhqQRXPuS0zBMj20Pi5E16BMv4YJc+pv/znA=;JUe19hBrr/CwiJAWy+L4/Q=="
 ---

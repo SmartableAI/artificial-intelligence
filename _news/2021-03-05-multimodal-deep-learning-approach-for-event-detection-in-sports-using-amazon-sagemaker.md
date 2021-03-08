@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-lear
 webUrl: "https://aws.amazon.com/blogs/machine-learning/multimodal-deep-learning-approach-for-event-detection-in-sports-using-amazon-sagemaker/"
 type: article
 quality: 98
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 800
     height: 347
     isCached: true
-
-related:
-  - title: "Introducing Amazon SageMaker Reinforcement Learning Components for open-source Kubeflow pipelines"
-    excerpt: "This blog post was co-authored by AWS and Max Kelsen. Max Kelsen is one of Australia’s leading Artificial Intelligence (AI) and Machine Learning (ML) solutions businesses. The company delivers innovation, directly linked to the generation of business value and competitive advantage to customers in Australia"
-    publishedDateTime: 2021-03-03T17:03:29Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-reinforcement-learning-components-for-open-source-kubeflow-pipelines/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 76
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/01/19/ML-2065-2.jpg"
-        width: 800
-        height: 451
-        isCached: true
 
 secured: "EMu4NIE9AKntp8m+gYIouBhHJ9TDkkHrPWGe23vTqmakquKgww0cE15ovaNgqvzQCI326BsVuC7m4AzphGxUqAlzHW8eAODSoWxKCf4GV5BEpeUR/B9S+znxgYkrLQ/TTfvUGRLZ4qpuUDc9a9/fFXmYVQUYpsyvbIuwMX4EVejpTG5eqwm2tOrd9OBn+bFyjxGsnEtnwFYIjjvFSYBpYdn2RHkow7t3ubOapbykKVWX0bDM1fT/NK1axtCuVCPPdpTyfazOCW7i0eK8slziaf54WIJaOCfDYaiSZToeTpZO/GWT3k1WfhngDh85mIrqK/z75qWvBp5EcIhFG5gW0tktC8JfKSXGax7YYNDWk3E=;C6/sANHkYJjLAE0XFm9nnA=="
 ---
