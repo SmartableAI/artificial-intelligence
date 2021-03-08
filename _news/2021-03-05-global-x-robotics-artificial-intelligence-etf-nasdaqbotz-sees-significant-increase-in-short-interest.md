@@ -9,7 +9,7 @@ ampWebUrl: "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artific
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -75,17 +75,6 @@ related:
         width: 1024
         height: 528
         isCached: true
-  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200 Day Moving Average of $26.66"
-    excerpt: "Shares of Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $26.66 and traded as high as $29."
-    publishedDateTime: 2021-03-03T08:29:00Z
-    webUrl: "https://theenterpriseleader.com/2021/03/03/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-26-66.html"
-    ampWebUrl: "https://theenterpriseleader.com/2021/03/03/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-26-66.html/amp"
-    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/03/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-26-66.html/amp"
-    type: article
-    provider:
-      name: theenterpriseleader.com
-      domain: theenterpriseleader.com
-    quality: 29
 
 secured: "NHTOcfPVLAqJC22HnOYrARRCjvVOmrojQVdOYl6Dsk+gpYtrkHi9EgvcQ9dUg+G/2gkzTxf2cNmKirrVDZW1S09lxDEASbEJ844hkCK7liHetYzpPbIYCWpiZzT786kzTlC/AcHmxRqOV92EMHQcVZNFm49JrISh9XNmtWQYfyvuhjYZx8GcrYiCbfd5WsdwNXmBzAcAROVuVxnPQJFOviSYOunFhpeuwU5bYQuqP/V8N3Pe6+C6C0tu5n0CFnaIIg8LPq7XXQERQX4Bc2R5QTnCXAC2mOy/YfzRPF8lZb/RR3dapna9y/IRFcOGF8jFqWCSNwtHbASiLa8KI37Nl0Fl1RlvNwd1Rn3rCiI6AKY=;AZ6aOaPUzp6yWYjzRiCKxQ=="
 ---

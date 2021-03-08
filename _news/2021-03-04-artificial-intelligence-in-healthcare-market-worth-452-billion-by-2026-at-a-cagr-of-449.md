@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/19998482"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19998482"
 type: article
 quality: 65
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,36 +26,6 @@ images:
     width: 630
     height: 344
     isCached: true
-
-related:
-  - title: "Artificial intelligence (AI) in healthcare market growing at a sound CAGR of over 49.7% during 2019-2026."
-    excerpt: "The global artificial intelligence (AI) in healthcare market size is expected to reach over USD 40.2 billion by 2026 growing at a sound CAGR of over 49.7% during 2019-2026. The Artificial Intelligence (AI) in Healthcare Market is highly competitive,"
-    publishedDateTime: 2021-03-03T08:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-growing-at-a-sound-cagr-of-over-497-during-2019-2026-2021-03-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Share, Size, Growth, Industry Analysis, Trends and Forecast 2026"
-    excerpt: "The global artificial intelligence market reached US$ 40.21 Billion in 2020. Artificial intelligence (AI) is a vast branch of computer science that involves using a computer to perform certain human-like tasks."
-    publishedDateTime: 2021-03-04T05:12:00Z
-    webUrl: "https://menafn.com/1101696205/Artificial-Intelligence-AI-Market-Report-2021-Share-Size-Growth-Industry-Analysis-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "fvlQDyTBzK7XJae+r0wXNTEkZ6J2bli5ykN5G2CUio7lJrJKkaBdvssJh4g8FeRK7RBE5S2oS/laOytm0Uwg1SbNpppCe9p1t/pxJeLDSAeMJe4FY4CD6+ztpWCKnVseD3IBQCyVs389vXExaF+gtIrwVk0H4GCNLGSW7o//0E82kwnrGLM/lstH4+4ncj9Pi0jdA8XbZR1AreCy40Dm6LfUIfnC0t0fKQJtUMn04k5AQTNPN9D64CBC1abOm8359Qwy1uK3HSMuc50teWv3sTFaykTCnhlsUC0+AojtNfxt2XD/flafWXqhYj9le7kRF0F1pmAsN/ktET3AVqAw3ijLSMjFc2Gcwry0Lkzo3JbHqyR+lO+TebT070w1uaAHSktT1NPVoHp1UwvXjmAoY3x5RlSzwo931fpM4LGqWDkBLLSB3OBCf4T5PZlMFFHwbG+bu6izknOKsgznWtjI3pXiaYXhsr0F08P+1WuyAIC7Cnwzk/kUQNwTUQQ5r4Ft65dmF434v70cxMXuRyyR5Q==;oyi6jATC/SAP7LwTv2fAEA=="
 ---

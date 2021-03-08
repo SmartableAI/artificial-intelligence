@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-fo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

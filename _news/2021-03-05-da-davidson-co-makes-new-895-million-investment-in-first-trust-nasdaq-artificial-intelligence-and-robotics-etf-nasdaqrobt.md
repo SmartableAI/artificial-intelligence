@@ -75,17 +75,6 @@ related:
         width: 1024
         height: 663
         isCached: true
-  - title: "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Share Price Passes Above 200 Day Moving Average of $26.66"
-    excerpt: "Shares of Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $26.66 and traded as high as $29."
-    publishedDateTime: 2021-03-03T08:29:00Z
-    webUrl: "https://theenterpriseleader.com/2021/03/03/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-26-66.html"
-    ampWebUrl: "https://theenterpriseleader.com/2021/03/03/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-26-66.html/amp"
-    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/03/global-x-artificial-intelligence-technology-etf-nasdaqaiq-share-price-passes-above-200-day-moving-average-of-26-66.html/amp"
-    type: article
-    provider:
-      name: theenterpriseleader.com
-      domain: theenterpriseleader.com
-    quality: 29
 
 secured: "l5cwCYnemi5WW1gBGgKqOgix2kAsNQJMiN8VvqtUFdk8I+i4sdyYbaPnQympqGwl7YYrjy8DrnnmwFhAhRLtKImHqqqyRa/HPtXgr7+ArLiM3txkTMd+b92+qmocYzI7Wgac1IQCbVLqJMLA4BHMnFlxjor7G+PfB/SisaKOxqk8ziVWhEZ5WqRYdcFfk4QoUhtfQo/cVlKnofd/QSjKWgfsH7VBL5a6s5FdimmuogDl2wBAc9Pba33CwZzYm8fRQk20OfcoXtOU23g+OOt65nnddCZ3nsviFuejF6SJdF6AgnB1PZUPYmNFS9cbCoRWLUNhEulohW+vwWhBM2BH+WhUwEfHCBK5GUmi4eNJiNGI5ySDQ83wRr55Hs61xkT+8c5JwFK2MpwjVrCduVp7SFgkO3E+UQ9j9qjyyQE9lzPCJhy2ClcK6aKKggKctPOU4CKUBwqtxa+4MIupN5pz61Ut8y15E3iGoAEjy4asHcZWkETm9Ls/nmtG/aaYkSl27nGX9qMNvfNQHIzm8fC3/w==;15gOVPEaJQRY++tvjm1+WA=="
 ---

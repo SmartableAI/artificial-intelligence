@@ -25,37 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Critics Have Much to Say About The 'FB' Facial Recognition Technology"
-    excerpt: "Facebook announced that it’s considering including facial recognition technology in its “smart glasses”, and critics have a lot to say."
-    publishedDateTime: 2021-03-03T08:51:00Z
-    webUrl: "https://www.albawaba.com/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
-    ampWebUrl: "https://www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/editors-choice/critics-have-much-say-about-fb-facial-recognition-technology-1414367"
+  - title: "Corsight AI addresses face biometrics ethics in Asia Pacific expansion"
+    excerpt: "Corsight AI has appointed William Tan and Amit Sarkar to lead the company’s efforts in the rapidly expanding Asia Pacific (APAC) market for face biometrics."
+    publishedDateTime: 2021-03-05T13:08:00Z
+    webUrl: "https://www.biometricupdate.com/202103/corsight-ai-addresses-face-biometrics-ethics-in-asia-pacific-expansion"
     type: article
     provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 59
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
     images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-03/shutterstock_731158624.jpg?itok=yYHG1H7c"
-        width: 1000
-        height: 647
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
-  - title: "China using ‘emotion recognition technology’ for surveillance"
-    excerpt: "China has been ramping up surveillance known as “emotion recognition technology” in order to monitor human feelings — and help them with law enforcement, according to reports."
-    publishedDateTime: 2021-03-04T21:09:00Z
-    webUrl: "https://nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/"
-    ampWebUrl: "https://nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/china-using-emotion-recognition-technology-in-surveillance/amp/"
+  - title: "Third-party test shows ID R&D leap forward in voice biometrics accuracy"
+    excerpt: "The increased accuracy level now rivals a PIN, according to ID R&D, opening up new practical applications for voice biometrics."
+    publishedDateTime: 2021-03-04T07:20:00Z
+    webUrl: "https://www.biometricupdate.com/202103/third-party-test-shows-id-rd-leap-forward-in-voice-biometrics-accuracy"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 44
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/stock-artificial-intelligence-biometric-identification-facial-recognition.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/02/01094742/voice-biometrics-small.jpg"
+        width: 768
+        height: 513
         isCached: true
 
 secured: "ThsQ0jCkU4oEpfved0rkQGFfcOTEOAiR8emPL8Y1NoZnq6perBj+uwjhWcCMLvSD0ToVM78Hf01DgLRrDoF7Cyu8I1Hd3hnrCMlVfCR5boK/wiP9fJFqEgSnJAo8/gt1PiWbdZaoSj6COcj5DISbko0iKKRqJuEohK+7j/fU+gwLyaWViIMfshsPO5KOrSu7cohzrk7z8yWKV84A21DDV8xo5ghDWLporN+R3rMNkwR6WwrjlqMuTJCovywk+2D3Qr7B+8oAYm7XsYEX6yLhd6q2qtM+MaJm3sUqUJ8sruZ997UbZhn5WUj4b1niKYYLuZ6mDVL3sTd3pjnej7aBrfRzT4PeKMYyu2HFaFD/ojs=;XZHzLZ61zcr344bNdEj1zA=="

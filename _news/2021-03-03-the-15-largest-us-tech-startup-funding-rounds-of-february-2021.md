@@ -9,7 +9,7 @@ ampWebUrl: "https://www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-fu
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2021/03/the-15-largest-us-tech-startup-funding-rounds-of-february-2021/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A look at top robotics funding companies raised in February/March 2021"
-    excerpt: "Robots play a significant role in today's digital world. As its application is snowballing, it garners huge investors' interests. Here are the top robotics funding in February/March 2021."
-    publishedDateTime: 2021-03-03T08:07:00Z
-    webUrl: "https://www.analyticsinsight.net/top-robotics-funding-and-investments-in-february-march-2021/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 69
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Top-Robotics-Investments-in-March-2021.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "The 11 Largest Global Startup Funding Rounds of February 2021"
     excerpt: "Everything you need to need to know about the largest global startup funding rounds of February 2021; broken down by industry, stage, investors, and"
     publishedDateTime: 2021-03-05T07:27:00Z

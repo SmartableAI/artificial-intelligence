@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-st
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "PGA Tour Chooses AWS as Official Cloud Provider"
-    excerpt: "Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR. Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR."
-    publishedDateTime: 2021-03-03T08:15:00Z
-    webUrl: "https://www.financialbuzz.com/pga-tour-chooses-aws-as-official-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
   - title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
     excerpt: "The TOUR will then use Amazon Rekognition (AWS&CloseCurlyQuote;s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata like player names and sponsor logos. This will ..."
     publishedDateTime: 2021-03-03T10:13:00Z

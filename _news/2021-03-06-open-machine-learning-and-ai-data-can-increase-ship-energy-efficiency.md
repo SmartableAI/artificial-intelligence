@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-da
 cdnAmpWebUrl: "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

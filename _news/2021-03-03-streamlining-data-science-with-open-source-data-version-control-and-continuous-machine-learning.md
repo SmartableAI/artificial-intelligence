@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/streamlining-data-science-w
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 800
     height: 700
     isCached: true
-
-related:
-  - title: "Latest Releases of Open Source Tools from Iterative.ai Extend Traditional Software Tools for Machine Learning Engineers"
-    excerpt: "Iterative.ai, the MLOps company dedicated to streamlining the workflow of data scientists, today announced the latest releases of Data Version Control (DVC) and Continuous Machine Learning (CML) open source projects."
-    publishedDateTime: 2021-03-03T08:00:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8183388/latest-releases-of-open-source-tools-from-iterativeai-extend-traditional-software-tools-for-machine-learning-engineers"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 10
 
 secured: "dpqjlNQomKjDn5tpYnHqsdr5chPP5B5CSMJq9DidnJ8LNWxTKLiAD/w7z4x5oiKBLId9jx+jEk3f14bMiEDsQsr83kiPqqMElMfDcS47UONX8cNZ/MZ0M5FbEi4hMFnlAU6FJAj6pbqzwi3WKKx+F5B2K832xGl1F6UqdoniEYVh+8Gj4U3XaitkNuAA+zDtby1QhZcE/OyePtXX5ulXqzqHYA2PKFC6jObngBH2a21fBaS7svuf6pe5ZwWwCiJ10R2uwpE9I4hpivzrNm3Z/d3uwsgIpFbkPsAaXljVt3cn7qoQ7XBaqJbV5Nf8p3+Gz3QGxPjnW58O8Hc2n9hUpdLQZ7IBbXMf7WPIQz3XWfc=;+9Py08FtPjVGsiURJoPVSw=="
 ---

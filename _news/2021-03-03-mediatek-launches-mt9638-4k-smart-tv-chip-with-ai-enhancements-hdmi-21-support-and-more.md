@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 800
         isCached: true
-  - title: "MediaTek announces MT9638 AI chipset for next-generation 4K Smart TVs"
-    excerpt: "MediaTek, the Taiwan-based chipset maker, has been a market leader when it comes to chips powering the Smart TVs. The company has a wide range of offerings for TV chips — from entry-level to flagship-grade smart TVs."
-    publishedDateTime: 2021-03-03T08:44:00Z
-    webUrl: "https://www.gizmochina.com/2021/03/03/mediatek-mt9638-4k-smart-tv-chipset/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 84
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2020/10/MediaTek-Smart-TV-SoC-Chipset-Featured.jpg"
-        width: 1118
-        height: 629
-        isCached: true
   - title: "MediaTek Unveils New 4K Smart TV Chip with Integrated AI Processing Unit"
     excerpt: "MediaTek recently announced its new 4K smart TV chip, the MT9638, with an integrated high-performance AI processing unit"
     publishedDateTime: 2021-03-06T00:26:00Z

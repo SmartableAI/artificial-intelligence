@@ -30,15 +30,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "PGA Tour Chooses AWS as Official Cloud Provider"
-    excerpt: "Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR. Amazon Web Services, Inc., an Amazon.com, Inc. (NASDAQ: AMZN) company reported that PGA TOUR has chosen AWS as its Official Cloud Provider of the TOUR."
-    publishedDateTime: 2021-03-03T08:15:00Z
-    webUrl: "https://www.financialbuzz.com/pga-tour-chooses-aws-as-official-cloud-provider/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 19
 
 secured: "355/9buQqKNZfNcerwH1937ZqFxBnpRHW/fD7LaN0+1locnqZP00KA6HHKFu3egIB2rEpGB76JUlA49n5jilecan8EvPeOJtROvEUkpknI3KC8HXx6Wpoip69IB45JItGd9rkcYONqmPcNZ4hrGm7N+XOMzpfPrwLDGP+f86KYk5Uc6oNsLVUdRCjjUUvYq5P956l3TdJe7XmY/ZKIaRQmGW6O1OJYQJ1bD1k103owW21RoHieO1UcU22kd5RGjdYSwwYJPlY9yl187qWYwVDE3pdwE74uBIe/k+hN1QgTheI2b1izHizSnQwRkWh2dTSn61SSzKVwfzOhC3x/GZ6P7+5orpMHginBSbxyFnd1o=;nmWT21IaPUdEXJsVmKKHqQ=="
 ---
