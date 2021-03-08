@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Las Vegas Valley Water District Selects VODA.ai's Machine Learning to Support Decision-Making"
-excerpt: "VODA.ai today announced it has signed with the Las Vegas Valley Water District as their exclusive provider of artificial intelligence and machine learning decision support software. VODA.ai is excited to partner with LVVWD to provide a virtual condition assessment of their entire water main pipe network."
-publishedDateTime: 2021-03-03T18:55:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/las-vegas-valley-water-district-selects-voda-ai-s-machine-learning-to-support-decision-making-1030146873"
-webUrl: "https://markets.businessinsider.com/news/stocks/las-vegas-valley-water-district-selects-voda-ai-s-machine-learning-to-support-decision-making-1030146873"
+excerpt: "VODA.ai today announced it has signed with the Las Vegas Valley Water District as their exclusive provider of artificial intelligence and machine learning decision"
+publishedDateTime: 2021-03-03T18:40:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/las-vegas-valley-water-district-selects-voda-ais-machine-learning-to-support-decision-making/article_c1237cc3-1b55-5bf4-89f5-0c8e9b109ea1.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/las-vegas-valley-water-district-selects-voda-ais-machine-learning-to-support-decision-making/article_c1237cc3-1b55-5bf4-89f5-0c8e9b109ea1.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "e2NoUdzmS+Hgs1D54G4vNtn1IuOwG0TLpE42uKg8ZRzfX4HTTt/eUD2aBFu1fvza0Tby3NePr9HYWUWqve7HbF5rjOBZdC2rbeEN3QGumdrti1YJqyx0v2nma6GMwhoZp00wQm1RWJY45QUkwwe4frS/SF14Hxgt24PtaR0W1VFrqB4c73BLfc6mLWlg2s5W2vfRP3Bz1VWyz/3WN2vGWyEkR4A3FD0tSb3cJCNBciXZ5lyXC8/AwNJAhaNjaq029GDc07UKJykFaTx3KYb8p7D0c/kF4u0y4rklqqGmaRLrKvrTnyHAcaySZ/k3op6WO03n5XarscLSdQzFpjekTHFeOMf1Q8xBhhhuKwAID+s=;8aNa4EWBFXnqO8S/mKvIyA=="
+secured: "i6kunRs1Q7ZwsZo8YsoFq1ivv+f64lYqFZ2ZogGr64MrthILKBvJpBHSoM9d2X5PnoFKVWI4uWvJmudmmwDwL0jbsvwi6a4Mn3ezHR8m+GivU9PZIpZSqxWhRE5DPDQUvlS7kaJOstR5SeASaryZr0MNITVDxfdKX4+R4YVSGSS2rrleSGKLwnjgJq66ETppjWGPqV4X7aNoIjBxR44pfsR5bJ17VqUD8Trxk1vzCJArsCnmxMQ9JHF3RE+87NpQCyTLbOgKRrLVvZUOb8TG71ZALx0ZFUwHDlhuMnQ+kW71h6kEx86+mVzWCsbTMsKDFOGlVpXGljT1dGOvXxRxXAyPgmZNfgCO8bGEd5tDRGU=;m0/NjJdYLW2x19mRf8m90A=="
 ---
 

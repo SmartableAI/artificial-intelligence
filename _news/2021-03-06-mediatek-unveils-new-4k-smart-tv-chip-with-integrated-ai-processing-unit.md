@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/19183-mediatek-un
 webUrl: "https://www.thefastmode.com/technology-solutions/19183-mediatek-unveils-new-4k-smart-tv-chip-with-integrated-ai-processing-unit"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 752
     height: 408
     isCached: true
-
-related:
-  - title: "MediaTek MT9638 smart TV chip promises to bring 4K, AI chops"
-    excerpt: "There are dozens of smart or Internet-connected TVs around that bring smartphone-like conveniences to living rooms. Unlike smartphones, most smart TV manufacturers focus on talking about software"
-    publishedDateTime: 2021-03-04T01:47:00Z
-    webUrl: "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/"
-    ampWebUrl: "https://www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mediatek-mt9638-smart-tv-chip-promises-to-bring-4k-ai-chops-03662188/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2021/03/mediatek-tv.jpg"
-        width: 1280
-        height: 800
-        isCached: true
 
 secured: "DX3um47RKvijOiLj+s+No6c5iTb7+Vg/9MaGEWd8285ESlOQm5lXmGFNeJWqop3XRpNYqQcOvMNQVITiSmdfpwcbTYhZWwBd50IH4vVYDBovp/CQ/cL8KNiXW9L2o0h0ocpBPQFHAqTB5fcPfRHPOhKThIP9M4gCHl3X/tWXeLeymGFeYaeh5mExpWc5w8YT6te076ytHFXboAKDAUFt9jowg95eV6FzzBl7LJGdCAiusBzAdNpVZiEdEpkrBPWWKOAlgh+uDizMIlV6fM1Xy4tC6QFH4bRIgsQzW6QX4YF7H2UyDMpOYHn0ToKzoURK45STnwBp7c+21YyzRHKbLmnbdU0fcFPk9zdirHcatmSnD5T3pijrfZYy9U4iYZUKEhabpnVMjXohjMp3eNAJIhz1pbkGp80UwWs7K6O47DQFQfHpiZUu4bAv3QSA8NFKrcp+M4USt7w8SvnSo3YfW3pRS4AZGMlPZ3kyKsA2bbevC19goSirVDevc1RhpCIiJKxT6QREJU0r14wduFzBig==;6Gj23PprT45KPNYR1M+7hg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-ind
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI in Robotics
 
 related:
+  - title: "The amazing promise of artificial intelligence in health care"
+    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and to find evidence of strokes on brain CT scans. But what does the future hold for this emerging technology?"
+    publishedDateTime: 2021-03-08T18:01:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/healthcare.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Artificial Intelligence Moving Towards Brighter Future in Healthcare Industry"
     excerpt: "The artificial intelligence in healthcare market is expected to witness substantial growth post-pandemic. The global healthcare infrastructure has observed that, in order to develop and maintain sustainable healthcare setup,"
     publishedDateTime: 2021-03-04T08:20:00Z

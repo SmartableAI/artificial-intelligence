@@ -24,15 +24,6 @@ topics:
 
 related:
   - title: "I was interviewed for a job by a robot. Here’s how it went"
-    excerpt: "I had to find out for myself. Posing as an Australian permanent resident applying for a graduate associate position at Australia-based venture capital firm ABC Corporation, I took a mock interview with Impress."
-    publishedDateTime: 2021-03-04T01:54:00Z
-    webUrl: "https://www.techinasia.com/interviewed-job-robot-heres?ref=recommender-675959"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
-  - title: "I was interviewed for a job by a robot. Here’s how it went"
     excerpt: "The current job market is a nightmare to get through. Thanks to the pandemic, competition for the few available openings is through the roof, and candidates have to deal with more rejections than ever – or worse,"
     publishedDateTime: 2021-03-04T23:59:00Z
     webUrl: "https://www.techinasia.com/interviewed-job-robot-heres?ref=recommender-676332"

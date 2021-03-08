@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-08T16:16:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-business-europe-corporate-news-products-and-services-1905c93a31f33a6dfc13f3fd0b58db6f"
 webUrl: "https://apnews.com/press-release/accesswire/technology-business-europe-corporate-news-products-and-services-1905c93a31f33a6dfc13f3fd0b58db6f"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

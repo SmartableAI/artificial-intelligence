@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-08T14:00:00Z
 originalUrl: "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308"
 webUrl: "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg"
@@ -44,6 +45,6 @@ related:
         height: 675
         isCached: true
 
-secured: "SA+coFVgRbgBjH6feuXR/Ypnnde378NsnTBxdeAPKJLfsBpmHZUJgbJ81DFND3mmtVH4jguYUUcpSd03LG2ZmUgWYSKEEtXCYu55Qg1XF32R0dK3ZJ4PH/O6uOSrRE/KMLyWyXw6G7AGK2qOb+xoYL6bWROMBcbNi93k1rQlGBuSZdEi+2MRLUr93P78GGM9dsQqPHdJgFpExbuhQXkmoS987U9h1+H+YvCAp94G0ph4cWaR2Jx4v7gxfGykQvoDCo6nrHP/Le9+ZXs7A91vhyQNOEKV3yUMziK0ibQopzKh6UvX3gjQfzQMFbuN8OqRtWbnWjjpOFYBiyBv8OXU7Fum+29q5tW4GDqrFYYBzTA=;SiakvAftWQTg0f8ABTx+ow=="
+secured: "LuCKs+Wg6VxFTz3tDtFr5siU7Ipvff4qtowN2eettjhJydLDmWM4BYx6/pThRyRVZbIHW0i384WnqDGqv14VTBKvCD0ejz0FU2BJYQP28HC5MG1FwslwEhevVyhr79xG+M9VhMK/BNIPz49LGf+FYREUsP62DZCaspxnWG1nyvbyv+oOvOBsli/CvweploSUs4KIG/9SgdfTlLl+2+gDwLzgnA6mvEVn/wvHabhekwfDb8NXivG5eoBjM6wuVXhqthZI/pjalxSDxO9i+OD53pHKbyQVxv8Vx98pqQzFwpa9bbnGGewEMMYsmts7ou3AU5AtSoposbMVQFgsrT0W+TQi6b1wBAZjjlSRgLgryKHdUgDlhjbw7wXwPYnTYCHBIWNuL1f+2JfYcUfJs568agUY9cAv7Ks8DXKeDVVb28+rjOS7E46yanAReDXgVE9ksxNHwWlMfy43MmqmgzXllSho2JoyYxkqvIHOzMc26+bAf9D8tbqjxaYSr9fo22FQIMB5olBhKkxr7aIZjX+8dQ==;snPV9ovUzT3neK0Xg0Wiiw=="
 ---
 

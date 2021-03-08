@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "The amazing promise of artificial intelligence in health care"
+    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and to find evidence of strokes on brain CT scans. But what does the future hold for this emerging technology?"
+    publishedDateTime: 2021-03-08T18:01:00Z
+    webUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/healthcare.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
     excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
     publishedDateTime: 2021-03-08T06:35:00Z

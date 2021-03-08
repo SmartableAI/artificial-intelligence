@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/interviewed-job-robot-heres?ref=recomme
 webUrl: "https://www.techinasia.com/interviewed-job-robot-heres?ref=recommender-676332"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "I was interviewed for a job by a robot. Here’s how it went"
-    excerpt: "I had to find out for myself. Posing as an Australian permanent resident applying for a graduate associate position at Australia-based venture capital firm ABC Corporation, I took a mock interview with Impress."
-    publishedDateTime: 2021-03-04T01:54:00Z
-    webUrl: "https://www.techinasia.com/interviewed-job-robot-heres?ref=recommender-675959"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "I was interviewed for a job by a robot. Here’s how it went"
     excerpt: "“On average, a corporate role receives 250 applications,” says Sudhanshu Ahuja, CEO and co-founder of HR tech firm Impress.ai. “Recruiters spend a lot ... HR personnel can start by picking from question templates that are put together based on ..."
     publishedDateTime: 2021-03-06T10:40:00Z

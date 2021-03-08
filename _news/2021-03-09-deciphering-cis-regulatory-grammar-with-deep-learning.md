@@ -39,7 +39,21 @@ related:
         width: 1500
         height: 750
         isCached: true
+  - title: "Assessing regulatory fairness through machine learning"
+    excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative, Stanford researchers reveal how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
+    publishedDateTime: 2021-03-08T18:20:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/su-arf030821.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258449_web.jpg"
+        width: 1440
+        height: 1152
+        isCached: true
 
-secured: "bAUF+z7Q8ywUe88vUUeQg5OQ3R8+Uu60qQAynKWKRJ5Td2oCnvqmfnibpW8ZYy5k4tUd+k/CVs5g9Ua67UnI2kU3fOOJ3wTQbjhWWkC4s032w5nutHwq+gJ6unY7siB1jUd2kvF/NS07vjv3SU7noS+UERFbXevwlT/i50YHmYe4TuMEBrLb0Blbi0YKccXqiH/arF5vi2OUBXip0CEOfdlWtYoZaZ3S0wKhRbV3LNrKobWoj1boo3ZROuI6LLTv1e8hImiOuQ5GAMTyRE2ScJknbVhvq4d6QClKLWsR8rwXiVbDzxk4LELE84GU4JeFJ5tAOpwLKZWvnnkHUeAU0hyG0uBSE4Kpk7Ed/7ZRaOo=;UjF4flk4R9YR9k7gqyQ/ug=="
+secured: "M7YeyD2DmLRd4EucDMYhLx5E6cAar5l6ikHlx5WfZrv7n4tkA47NADxO8dITNQlch9vS6u261DdIx2w/ZQYLvH7JVAY65HzlWDsWiS2aIlrcPPw95dzzkmIoH3q/Q6zwPdTU4tYQL7CwYsaQwbl1Fa73RGd4AAfDa+kzO/6BsVmAfoKrkjVmM4eNQ9NMZE6a4dnURn2Okkn/x61XPTjdoUGmBD/X4+gEgV6dMWPI/DZ2tb3XGSz+Yd+uKXb5FziFk72rJ8wUPT6O2+y/XmSQ7SWCqRdWCepWME2PUUYZECb8n+9GRc4/cADQ72nBxSvoM4D7vQMY+8/90Z8DRVFknXJVfuzoL/YmBEQxsLyFBjFfZDT2fO4XEoiB2/r9ItcrEchRCl5kSqkj2C/ursWwHujtPSh0r1Z1q5DJZqdOC/x5IGkQeEDDicEwWFbCzivVnXwEfQZ42xXCcXGkSPnM0atU43d7F2+Pl3eau5g3+WIe17Ae3leePV5cYaLGGDZ/ALjwaoGW3jWzz62uuDGNfA==;K71TB5I925zLKf+hMdUpaQ=="
 ---
 
