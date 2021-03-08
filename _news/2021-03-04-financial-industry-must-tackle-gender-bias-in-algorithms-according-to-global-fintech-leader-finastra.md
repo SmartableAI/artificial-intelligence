@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 576
         isCached: true
+  - title: "Top 8 Wonder Women Leading Fintech Industry in India"
+    excerpt: "With the steady growth of the Indian startup ecosystem, an increasing number of women are pursuing the entrepreneurial dream and succeeding in their businesses"
+    publishedDateTime: 2021-03-08T07:36:00Z
+    webUrl: "https://www.goodreturns.in/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 44
+    images:
+      - url: "https://www.goodreturns.in/img/2021/03/upasana-taku-1615188477.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Fintech MONVA Announces Second Fundraising Campaign"
     excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
     publishedDateTime: 2021-03-08T05:40:00Z

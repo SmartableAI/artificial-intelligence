@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Spending Systems Market 2020 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2025"
-    excerpt: "Global Cognitive Spending Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2026 aims"
-    publishedDateTime: 2021-03-08T00:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-spending-systems-market-2020-size-revenue-growth-rate-restraints-forecast-analysis-by-2025-2021-03-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Translation Market Report 2021-2026: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast"
     excerpt: "The latest report by IMARC Group, titled \"Machine Translation Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026,\" The global machine translation market grew at a CAGR of around 14% during 2015-2020."
     publishedDateTime: 2021-03-03T22:06:00Z
@@ -122,20 +108,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market Report 2021 | Share, Size, Growth, Industry Analysis, Trends and Forecast 2026"
-    excerpt: "The global artificial intelligence market reached US$ 40.21 Billion in 2020. Artificial intelligence (AI) is a vast branch of computer science that involves using a computer to perform certain human-like tasks."
-    publishedDateTime: 2021-03-04T05:12:00Z
-    webUrl: "https://menafn.com/1101696205/Artificial-Intelligence-AI-Market-Report-2021-Share-Size-Growth-Industry-Analysis-Trends-and-Forecast-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "tBM3zRm7PlOa9U1oKlnkFr4QcjE8R097CaMQQ/8KL79i9y4OU4DF4yiBl3jTxTCc3LPDWISXN6VfceX8ekHTbnNXtE4OTvmp8QSoarPI6GWnlE33MRSMvmpACu/QHsx4V4EPrs4CC8pzrEmkdB07UKHpZFS+W9l50T7haREM7r/G9+gawvgxPjjtu1a+akywshKhHgq/uoz0SPR/JDgh6wREEROhvdYWeMpLHoxKEb4oZBDO/28yVmRTxtBV182WKlsHQPYxoyBQaaNMsxgp/iXH0oR265XLRM3wyu7LdJoDKrDHFqOvB3mzn1SsYCfrVlmzb9iZV3dEcZG8utYUVPPuzF78J3xVhqdOB1Xa7YM=;fInj6Cqqc5M7Zw4iFw+m4w=="

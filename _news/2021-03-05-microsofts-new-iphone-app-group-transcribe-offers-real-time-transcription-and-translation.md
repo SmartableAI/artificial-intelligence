@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft launches ‘Group Transcribe,’ a transcription and translation app for in-person meetings"
-    excerpt: "A new project from Microsoft’s in-house incubator, Microsoft Garage, introduces a different take on meeting transcriptions. While today there are a number of real-time transcription apps to use on your phone — like Otter."
-    publishedDateTime: 2021-03-03T16:06:00Z
-    webUrl: "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/"
-    ampWebUrl: "https://techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/03/microsoft-launches-group-transcribe-a-transcription-and-translation-app-for-in-person-meetings/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 93
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/03/Group-Transcribe-Blog-Image-_-Date-updated-2.png?w=1024"
-        width: 1024
-        height: 415
-        isCached: true
   - title: "Microsoft Group Transcribe provides real-time transcription and translation"
     excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones."
     publishedDateTime: 2021-03-04T00:13:00Z
@@ -57,20 +41,6 @@ related:
       - url: "https://image-prod.iol.co.za/16x9/410?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/4af662c9-9e9c-523d-a589-77b6bd55c576"
         width: 410
         height: 230
-        isCached: true
-  - title: "Microsoft’s new Garage app can transcribe and translate in-person meetings in real-time"
-    excerpt: "The Group Transcribe app can transcribe and translate languages spoken in over 80 regions, but it is meant for in-person meetings only."
-    publishedDateTime: 2021-03-03T15:50:00Z
-    webUrl: "https://pocketnow.com/microsofts-new-garage-app-can-transcribe-and-translate-in-person-meetings-in-real-time"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 63
-    images:
-      - url: "https://pocketnow.com/wp/../files/2021/03/live-transcribe.jpg"
-        width: 1221
-        height: 696
         isCached: true
   - title: "This Microsoft app transcribes, translates group conversations in real-time"
     excerpt: "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi"
@@ -101,20 +71,6 @@ related:
       - url: "https://www.microsoft.com/en-us/garage/wp-content/uploads/sites/5/2021/02/Group-Transcribe-Blog-Image-_-Date-updated.png"
         width: 3144
         height: 1272
-        isCached: true
-  - title: "Record group meet transcriptions with new Microsoft app"
-    excerpt: "Microsoft has unveiled a unique app called Group Transcribe that lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi. A product of Microsoft's experimental division Garage,"
-    publishedDateTime: 2021-03-04T06:18:00Z
-    webUrl: "https://www.dailypioneer.com/2021/technology/record-group-meet-transcriptions-with-new-microsoft-app.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2021/story/images/big/record-group-meet-transcriptions-with-new-microsoft-app-2021-03-04.jpg"
-        width: 1000
-        height: 800
         isCached: true
 
 secured: "qXibEnuGSyIQO9ZErc2xdIWx2sCt13Hirj2OnRsBBDSEGQxf8KCNlmZkHfmg4FpHZm+vP6JWZtvG+dMy/+tjkJp50lo9o7Wfrxe6A5drLcWy9UT6UemJkrYUHW/PZO1972l6+MZuT/TvEsebcnkoOnFhchhnmo50VM7HT5GSBpJUt6PUVFFxC2287Nw+GaA+60UZKA9FZfohjhWz6JdbhVOCLTU3yiQum3LMs5nZpitwiGqDrvKqGgMgSkpJnxC0tGqKk33XRdAo+HzYqxElBRpF5/DEx0h63wu4+Kg2vb2qIdW8Txy14RbWGTFWMZyE4cO74CsSvxv1+5t3F3o5ad3UpYLX3dkMDA2QqHayehc0ZiamuPnQ9XkYlkCzQeFf7DXwcgFnIEAAzntM/km/5QGxh1iWdBzVzLEKW3sS3/d9YtA9YV9hXAH+IOJOsIDI1XMnE+Pf988liRrEkO+y7WEaeEE7WCr4eWplgD9MCGRng5dD/wviAx4gb+NlU1rX6ezEKCB9o9YeI+3vSJaFBw==;fSV4D8T1uHn1I+5rJCKl+g=="

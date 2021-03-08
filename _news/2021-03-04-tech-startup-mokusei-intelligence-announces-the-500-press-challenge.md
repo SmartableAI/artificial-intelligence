@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tech startup Mokusei Intelligence that Sponsors your Education & Travel, revises guidelines for '$500 Press Challenge'"
+    excerpt: "Rules for the '$500 Press Challenge' have been revised to welcome entries from storytellers, artists & communicators that are made in languages of their choice."
+    publishedDateTime: 2021-03-08T07:57:00Z
+    webUrl: "https://www.wboc.com/story/43459187/tech-startup-mokusei-intelligence-that-sponsors-your-education-travel-revises-guidelines-for-500-press-challenge"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 15
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20461452_G.jpg?lastEditedDate=1615167969000"
+        width: 900
+        height: 334
+        isCached: true
   - title: "First ever 'Press Challenge' announced by Mokusei Intelligence - a Social Impact Tech Startup"
     excerpt: "Mokusei Intelligence is looking for good communicators or storytellers who can articulate its vision and translate its mission to people all around the world."
     publishedDateTime: 2021-03-05T05:08:00Z

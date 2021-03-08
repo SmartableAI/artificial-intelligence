@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 576
         isCached: true
+  - title: "Top 8 Wonder Women Leading Fintech Industry in India"
+    excerpt: "With the steady growth of the Indian startup ecosystem, an increasing number of women are pursuing the entrepreneurial dream and succeeding in their businesses"
+    publishedDateTime: 2021-03-08T07:36:00Z
+    webUrl: "https://www.goodreturns.in/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
+    ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
+    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
+    type: article
+    provider:
+      name: Goodreturns
+      domain: goodreturns.in
+    quality: 44
+    images:
+      - url: "https://www.goodreturns.in/img/2021/03/upasana-taku-1615188477.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
     excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"
     publishedDateTime: 2021-03-05T14:01:00Z
@@ -128,6 +144,6 @@ related:
         height: 589
         isCached: true
 
-secured: "OpJ+C7Td1PrDqXKS1F83u+JRSHnD0AEPqwtXv0FAhV48i5YOWtfrsKJBF0LOIbmOB8o66fxrppDYDvfZ1uco1hE80WNYIrgetlMm4V25yOAnnkBINqHNxoofsUoYHhO5icslxi13ucYcfzo7So33tRbXcX2/K2LNuVwJyR6GDH6BLN8zESCveNLOrJBxj8b25gvJ0Eaj15tDJeyoDVnW7TVyEhA1YHnXtIjCJECbgHzaSQSJvjQCubqTsMVk383JrNuZwaSKxHxZM33/i4yhn1iMFYd3P4djwjl19nn8UcT/an7Ia4p/ID88ICQdWomUe4nRb9ZS7P1cUD5wpwxLXJuvKCeNyQHgf59McrJz/Jo=;a5GLNQ/88PuXCplWUIY/xA=="
+secured: "yfZiNCOpKlzL+Vd/CsDc59FG4p0YbIcd+PTREAM80rznq1/NsE+eeGpiFozkKuGafnDGC9PqTfcj5QYF0IBT3cNocA0XsK+tL9CsATbUOAo7vkjKnyTU4DproH9zOM/reoz1M0AH9KuQ++zHPKlZlBGr0zIZbLSoppXDzGr/oPL+Oh7I+LdbQhv079rDSDcL1zT+IerXib/6fvNzP8e6TpnBkqht1igv0CCMpFHWsm+CAVjj8B+8NXjF3n7RRHZ5Fh2ArYqAfTFHUJJ1jnjDVdiCKQaMQjgTq3JwfJMGfJcd/Wx0P3GqW0t7BvcJnnuhOg4eLZDN5EaxyTK2+rq4I0dcl16qffrKZgExiAqUyV3BKCFlKyoRvaqNNtG4RQsvvy2icgvChpx6dqW9UX8LVXXkAf6PHMk79GPZVFgx3zIoTxwGgG2pzEPbxWkR+UGwUf+ytET937DbjHTjI47ElFyzk2YAr3PDmlf11LnVumVIlrgOpj72NAn8US4hYVMo2tmkHgPLKkjV0hfiSwQUSg==;okatLjo8MGz6ag9pLQUpVw=="
 ---
 
