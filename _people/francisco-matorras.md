@@ -2,7 +2,7 @@
 name: "Francisco Matorras"
 bio: "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …"
 type: "profile"
-heat: 50
+heat: 58
 
 affiliation:
   name: unican.es
@@ -15,7 +15,7 @@ twitter:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=q_wYjF8AAAAJ
-  citations: 241147
+  citations: 241933
 
 topics:
   - AI
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Francisco Matorras"
 
-secured: "R7qjeN1CaK4YOyThL10uO6pfpezDyS7nWQ2oqoxGwWW+wD1HIIFUd3r39/5iEG3nvJGmONCX5dUuPTmuEiSI/lpoERCp9A4LKqq1S2itKWh/HGFM60DSjCtJrL30T/oXy1sEe/TOeL5HKl5cXxyaiRy70+Dd4EKODe90sqP3a+/W/udriNhRmpTX/NpIAipPeuosYKrMvQbtMrhBsKAQd6i560Q1vRggc0hBbMI1AJ0RyWJBbs9DAjBxfqOD6knD2ObOHONQzpFOqHJgmO5/Y3NUMjC50PkDOaIXRfxbrNWa9QYLjAZwPA2qbLC3JmuTnLKwe4w/CzcUmc1A7NfwxF8ovGiKIJ18J+7T0RIBeBEadwuPmeCCqLDYFs7s7L5kJgDgvqjsUA/E4vfHiK5c20H0mu41sZ8mcufAglprAVI=;yYck9t4cCQ1klw9Yg6BKhw=="
+secured: "wA3yRNpOpS82AdA9aJ4/1Qi1GqwV+XQYKpcfCxpjyjJyMJich/gUglkM1me+YG082Eq4sINc0mXVvo8RZe1Da66XFr48VSqctn39UL2+r+xG00ohATtb5HsI/UMXSl9M4f8RBihAjXXpE/o02M0uQNIGKQKqZ2llIsgv1s+N91b9gD1GerYJHPaRZ3fkm3LkBlnFL27jT4kB30QWm81YDNeVUmk7tMZVyXfEe4vj9vAqcrGmzUqvWDxIUEbhbAoHnhs96RXLyfe8WJZVlHDhdIL9mmK6BKfZwYQY+zhCxTA2ZL1pVv5s2vQnQ9XFhnQLKOa2SovP2IKCHvjeXjU/jYL9H23+c7MGIgt58WV/fHXgagGMmDXAShZBQ5z2By2XXeO/iD6HXxw2zZ95J8sODZXspAR1fZ253ZF/gvRvvwE=;pWgOt2ecvR0tL0kDTAWFkA=="
 ---
 
