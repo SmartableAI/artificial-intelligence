@@ -288,15 +288,15 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-swift-for-tensorflow-project-shuts-down.md",
+      "path": "_news/2021-02-18-swift-for-tensorflow-project-shuts-down.md",
       "title": "Swift for TensorFlow project shuts down",
-      "excerpt": "Google pulls the plug on effort to integrate the Swift language and TensorFlow machine learning library, while citing multiple achievements.",
+      "excerpt": "“Swift for TensorFlow was an experiment in the next-generation platform for machine learning, incorporating the latest research across machine learning, compilers, differentiable ...",
       "sourceUrl": null,
       "webUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
       "originalUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -312,7 +312,7 @@
       "type": "article",
       "ampWebUrl": "https://www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
       "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608151/swift-for-tensorflow-project-shuts-down.amp.html",
-      "publishedDateTime": "2021-02-17T03:04:00-08:00",
+      "publishedDateTime": "2021-02-18T03:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoWorld",
@@ -327,6 +327,50 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-swift-for-tensorflow-project-shuts-down.md",
+      "title": "Swift for TensorFlow project shuts down",
+      "excerpt": "Swift for TensorFlow, a Google-led project to integrate the TensorFlow machine learning library and Apple’s Swift language, is no longer in active development. Nevertheless, parts of the effort live on,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techcentral.ie/7FiDN",
+      "originalUrl": "https://www.techcentral.ie/7FiDN",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techcentral.ie/wp-content/uploads/2017/08/TensorFlow_logo_web.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mozilla",
+        "domain": "techcentral.ie",
+        "images": null,
         "publishers": null,
         "authors": null
       },

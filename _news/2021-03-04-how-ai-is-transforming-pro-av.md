@@ -27,8 +27,8 @@ images:
 related:
   - title: "Financial Expert Daniel Calugar Comments on Ways That Artificial Intelligence is Transforming the Global Financial Service Sector"
     excerpt: "Daniel Calugar, an experienced investor says that artificial intelligence will soon be an essential driver of business in the financial services industry. With an academic and professional career in computer science,"
-    publishedDateTime: 2021-03-04T03:16:00Z
-    webUrl: "https://apnews.com/press-release/marketers-media/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
+    publishedDateTime: 2021-03-04T11:16:00Z
+    webUrl: "https://apnews.com/press-release/marketersmedia/technology-business-service-sector-performance-personal-finance-personal-investing-9574c08801d1a5381835c849a63b2eb7"
     type: article
     provider:
       name: Associated Press

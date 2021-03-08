@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
+      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
       "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
       "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
@@ -1447,49 +1499,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-technology-landscape-trends-and-opportunities-in-the-global-natural-language-processing-market-2021-report-researchandmarketscom.md",
-      "title": "Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market, 2021 Report - ResearchAndMarkets.com",
-      "excerpt": "The “Technology Landscape, Trends and Opportunities in the Global Natural Language Processing Market” report has been added to ResearchAndMarkets.com’s offering. This report analyzes technology maturity,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-apple-inc-professional-services-information-technology-a1b5b6f742ed4744a447415cc35a4acf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

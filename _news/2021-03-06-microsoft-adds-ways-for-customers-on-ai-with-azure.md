@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft's IGNITE 2021 Announcements: Mesh, New Teams Features, Azure Percept AI Platform"
-    excerpt: "Software giant Microsoft Corporation (NASDAQ: MSFT) is holding its IGNITE 2021, a gathering of developers and IT professionals, between March 2 and 4. The annual event is"
-    publishedDateTime: 2021-03-03T20:33:00Z
-    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/21/03/19985915/microsofts-ignite-2021-announcements-mesh-new-teams-features-azure-percept-ai-platf"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/19985915"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/19985915"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 79
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/microsoft-mesh-1-v3-2-1536x864.jpg"
-        width: 1536
-        height: 864
-        isCached: true
   - title: "10 key Microsoft Ignite takeaways for CIOs"
     excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
     publishedDateTime: 2021-03-08T10:02:00Z

@@ -60,20 +60,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "10 Ways AI And Machine Learning Are Improving Marketing In 2021"
-    excerpt: "AI and Machine Learning are predicted to generate between $1.4 Trillion to $2.6 Trillion in value by solving Marketing and Sales problems."
-    publishedDateTime: 2021-03-03T20:39:00Z
-    webUrl: "https://www.enterpriseirregulars.com/172990/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 71
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/10-Ways-AI-And-Machine-Learning-Are-Improving-Marketing-In-2021--600x439.jpg"
-        width: 600
-        height: 439
-        isCached: true
 
 secured: "tW5R9brSvu6KKMK7Ua7nAs923epahvGe/2wgHC8p6MxKHQ+nzv/mcB79oPLp6FrwAbCz2QUefASfxgN2yut3YgWvSi7DwXr5wD4nbMs2r4OaLkbAO84HUsyUmbXE2KKs8a6vx9vtoN1FpKIqorVsd4EW/udl1aSIEfDVaXOpMZNiYwyD1KJPUjctrd8J6A82cJk+cBbUhbGWnUb3FmwTm5SNmIw9P6g61eCn6xBB/3wI3vz4AVnD/71MxJ7rcDDWE99oZ1GUsx+LdgcsLIoWIgwm0EYJhTY8dgaPvt0regPUumsbT+m3la2dqlCtoMMsaYsGLyth7RbHEV3JDWLtunVHbVSe9TBaSoyvfnbT97Nl3JOcd9r7HT4CX/+Nvaab06A+N06Hi/HngBSmfvKP1H9Ddv63xQ0IyRgy8dUT15YYBt9tL0qW5nafqvVNjXgT+z2F2MD4voLMc0bLUgUmaEDbrTQV1s7N9NOZb5GJemj6JlF7YToL6AALytk81If0LCnDk6CefTU3G/fcQ7YgGQ==;v17nDTezLygfeyEbxJcl5g=="
 ---

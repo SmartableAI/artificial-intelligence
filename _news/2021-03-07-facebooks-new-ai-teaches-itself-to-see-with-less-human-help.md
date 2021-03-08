@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-07T12:06:00Z
 originalUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
 webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
@@ -207,6 +208,6 @@ related:
         height: 273
         isCached: true
 
-secured: "KQiXhrN09s+MmU471+lgvb6rIG16QkdqaxQTyMZ7e3yL3ShAThtBmCBBwG214WaAPjMZXBp8y5ifm9Ix648u6VT1mFjdq7Z1Thm+SIM6MPSg7ZCp3jElZepPaq03M4u4LIEgPF9xNoaLV4aHaPbbmgFCZ+Z97P1dZMTaZqR4dpMqVggzGIbazXlvLs0uaJIOL76DGNqWTGNsIn8B/WtWfZRw16XeJ0asPJsfCRjzrkbkdRLjeFlJTd8Ugrejd0Y+AeX8+GbAVQ0rXcBNwVKsrc0TWQv+ECkOiAswEim1Wcx1sHgSx7Irx+FNmOst0nOnUvodosVsrsd0uEobTKHVtf0ulGXa06jmQtxyJ7rrw4Y=;JTHeUqPpj/NZM7TymyzxVg=="
+secured: "lcqxG8XQ4TPv/LWW9sONv4567Nxp7jpzgkYmI2ZCCXR8OfrS5JQlcKLO1mTiiN2kksUMCDM/zx1R/qVBOEk9S87Fw0LVaDj9V/rLgDE/380hLItnjQPmXArtwfKxaWgtUab2KjmfiQP9m6C/7G4mDlT3jm6cgYo8/C6eWUfCqCnWfaiWf+v49+mU8FTGnWLKjbbf79PHjr2luNGagOX5rS6cc5nfN0IdvzrX42KiDE9toCrGmkMmfPnOtO92uyomob6BN7XGRHPKsZAtcbazlKdFSZTps5AMtaYD+uh+AWXUnOKKrHGqcuS6w3mu8Oc0QXQwhXObvmy4kX0LuC/oXnnc3Lf2OU+UU/F7jJ+qCTGFBRCVfQmrmmWULtxbdEft8eiG7XRZ0YPDrzsgtIZ3le6V6I7S8XlLYkEX7I3M4LKQOZOvWAAU/DSpHxVRRPeeF6G2thMQj8/9hswV/gYJkNVculMxucBKnGoOIEZhblafJ1a/0ooa1kgl8fL4IMavUDNTDRM4xR2Bf1kCBauAUA==;mNPbOwb4V4EiqOEknO8lcA=="
 ---
 

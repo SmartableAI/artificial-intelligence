@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-sho
 ampWebUrl: "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e407dcd02f3bb0484d74e%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 716
     isCached: true
 
-secured: "lgqUrqrfDtBqvbVxIvvxsfCyYcDfZRCb4pSoc6pXQWmPnGaXGVTkddkfIBeOoV4F7lYoxXcU1+YQpwz/sUwijSLpJZd00NQfrQtepmjQ8NW2gFRNblEaqkKRPS8S92bMHPZGuuESwyQomQhuQAlzBX4VvLCH5VT4X+2LeP+WeHiBS8EXLCBVxBQaSioTgvYqpSwi9Oyimjv+NfDjqkFZI3OAqv7e94KrntESrAJVx2yay4F6yD/tExQsmTc7prS1r/MyphhYmSlvIOYcbs9KCO0GTDNfAMg8b1klvhXwKIIjTIeWJhkWTaaRnR4PjlV3A7QTbTKZvG3uVtr0q2zi/Q52bPK/fnV5Hjyp5VHvzOI=;WbqYxGtxtTkLMuMz/CJVdQ=="
+secured: "3DQaYI7wF4mkEceUUqWcib4vmGV4frMnaLFSLxG2lNhzAbTsWGaOGpLyINaJ75epML7TZaanUQtzN2Uqi21UeRPeJ3OK0c8DvkIapwHMG52k0XmeTHC0NfRNFunhbMrY2bCJWQzPW+B2pzEi3KdKh/GXAMXkgOwR48g+N5vJf7wHYbTprWxX8gvgrAE2gXWoBXl6rYTDJQa/0olxf7Y/0ls+bj/N9rufp9qiC9SpmW/HwCEZvMpUJKwe37T/s5+FHcT6TqaVoBQCqpGCTMcvb+MWlpQ0JRakszLOPWTwmlugwIfgEXzMwL5hVcWctJP2TMAEz/up57k9tmtKCO8jrJ7QSYjIH0loMu8mV0anFj6TahHnpUcbaI8QqFyS5Bh5Ns0UgvPjOzfNc6EKYVkNrJtsuskmkERsR7TSQkoPlAEm/+iDx4WhR95sESq0xF8GiDvBNdF+jptVJumkVS9P7Tdiw4SjdbJj02InDhrQ5zlU1KkWqm0p5tNz0fbC68vx3AYcXf7aiTS0OuCDiYoWjw==;NPh1lOWiIvd3bHqhNi8f/A=="
 ---
 

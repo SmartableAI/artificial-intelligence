@@ -57,24 +57,56 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
-    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
-    publishedDateTime: 2021-03-04T09:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2027-2021-03-04"
+  - title: "US AI in E-commerce Market Trends, Research Report, Growth, Opportunities, Forecast 2019-2025"
+    excerpt: "US AI in e commerce market is projected to grow at a CAGR of 26 0 during the forecast period 2019 2025 The US marks a significant position in the venture investment activity of the e commerce industry Some of"
+    publishedDateTime: 2021-03-08T11:33:00Z
+    webUrl: "https://www.openpr.com/news/2253473/us-ai-in-e-commerce-market-trends-research-report-growth"
+    ampWebUrl: "https://www.openpr.com/amp/2253473/us-ai-in-e-commerce-market-trends-research-report-growth"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253473/us-ai-in-e-commerce-market-trends-research-report-growth"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 46
+    images:
+      - url: "https://cdn.openpr.com/U/3/U308435032_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Wearable Robots and Exoskeletons Market Overview By Share, Size, Industry Players, Revenue and Product Demand Till 2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The wearable robots and exoskeletons are expected to record a CAGR of 22."
+    publishedDateTime: 2021-03-08T12:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/wearable-robots-and-exoskeletons-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2025-2021-03-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Payments Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025"
-    excerpt: "Artificial Intelligence in Payments market across the globe is forecast to grow at the exponential CAGR during 2020-25. The major contributing factor for the growth of the Global Artificial Intelligence in the Payments market is increasing digitalization in banking and financial instruction."
-    publishedDateTime: 2021-03-05T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025-2021-03-04"
+  - title: "North American AI in E-commerce Market Share 2019: Trends, Key Players, Industry Analysis, Report to 2025"
+    excerpt: "North American AI in e commerce market is projected to grow at a CAGR of 26 1 during the forecast period 2019 2025 E commerce players have thousands of parcels to deliver at various locations globally There is a high"
+    publishedDateTime: 2021-03-08T11:42:00Z
+    webUrl: "https://www.openpr.com/news/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
+    ampWebUrl: "https://www.openpr.com/amp/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
+    images:
+      - url: "https://cdn.openpr.com/U/3/U308937681_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Speech and Voice Recognition Market | Industry Insights by Growth, Emerging Trends and Forecast By 2027"
+    excerpt: "Global Speech and Voice Recognition Market is valued approximately at USD 12.3 Billion in 2019 and is anticipated to"
+    publishedDateTime: 2021-03-04T09:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2027-2021-03-04"
     type: article
     provider:
       name: MarketWatch

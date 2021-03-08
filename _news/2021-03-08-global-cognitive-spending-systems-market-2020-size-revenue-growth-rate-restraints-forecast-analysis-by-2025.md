@@ -37,7 +37,21 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Enterprise AI Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
+    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
+    publishedDateTime: 2021-03-08T12:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2021-03-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
