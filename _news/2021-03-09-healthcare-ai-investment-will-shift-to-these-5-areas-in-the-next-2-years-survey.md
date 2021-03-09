@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-09T12:00:00Z
 originalUrl: "https://www.fiercehealthcare.com/tech/healthcare-executives-want-ai-adoption-to-ramp-up-here-s-5-areas-they-plan-to-focus-future"
 webUrl: "https://www.fiercehealthcare.com/tech/healthcare-executives-want-ai-adoption-to-ramp-up-here-s-5-areas-they-plan-to-focus-future"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://qtxasset.com/fiercehealthcare/1615236925/GettyImages-932559358.jpg/GettyImages-932559358.jpg?n1n6dIAOvqQXgbGUYZ9o6FJeNgo6EQsU"

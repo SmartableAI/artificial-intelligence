@@ -3,10 +3,10 @@ category: news
 title: "Facebook’s new AI teaches itself to see with less human help"
 excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
 publishedDateTime: 2021-03-07T12:04:00Z
-originalUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1"
-webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1"
+originalUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
+webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
 type: article
-quality: 71
+quality: 69
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg"
@@ -132,6 +131,6 @@ related:
         height: 273
         isCached: true
 
-secured: "R2o+OEsCnnzGtibBUQByx6efK0BMRvDDOqjNO3EU04w2eS92k7IjfGwbRKPbrhfKNFBLFp4SpXafvopbSyP6i7nlkNXPTajuU850BCkWMpdESayk7M0R0gtnp/+E98E8ozWHnomxCn6uK1WBJGUWrNaozFZIMlliT/P2NGvju6RFwQDv0G49ZBh/YWg1x9TWOw5s7H1tFB7QzyXCsqRdMSFCI7cvQji4zRuF++Px2wUEt1l+7Ac+maBG/uLdIPnsPg9GYBIGo+5h3qa+tT0P4Znom+fVlfHL2TcnYqK7Lrrtzu0RvGUoFSJbRXoAVb2HON/bjNqCustT0evBcYhVK9XU7sNhnLhEkw3ss33ipMI14C22qCNoNy1QGnoDZx+urS3nyqDsAoOXboaZy5gHRUtSeqx3E72e+zWncjZn3VqAjGcyJBv8N1C5KjJCiVUDynp7yYUP2FEbiofj+HKmz78SfHNRvU4jWgOXUeujZhJCbSMw3fpSZ3LijbUpAFIWDbm9QCvcoOeJh8qeVSZOWw==;tS1KTDul25Gzt4/jiPi00w=="
+secured: "Fs+AG21eH6dHQFQF+HwAwf80R8BjJtzrlOpsDqQBxWrL0Fxptt6wLkjnSnU+kGOz5jrRr49pz4WU9UCg9t2pvF0G8DWI8tm7OElsa82qmBQeeMveqhInl85Qzzep8qRv+rpanhHYFHE3OLxkxcX55gQBS+XJ3U5qqlIXD5Cy7uI48N/0QL2T3r7OT68HmRyl7j/N52tW1wmRTRIVMpHbUVsBtlWzpXNr1piW+ZPwWfaSa9oUYXS8ehu0JuHH+w9DO6uFMJoYIv5hXZEgkAEhndzCQFd/c4FZ/prHET1nNyycXGMxqiyDMLyQpXaih4lkhBT4H8rDJBWGDN3biTNjaeZl5HwSKdAt4Ie8mKKNhfw=;ivIEu8NaIQqXO1JT4EQkhg=="
 ---
 

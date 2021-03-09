@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Honda's part self-driving Legend a big step for autonomous tech"
-    excerpt: "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato"
-    publishedDateTime: 2021-03-04T21:04:00Z
-    webUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ"
+  - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
+    excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
+    publishedDateTime: 2021-03-05T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT"
-        width: 810
-        height: 544
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "Honda Lengend EX with SENSING Elite Better Self-Driving than Tesla?"
     excerpt: "Honda Motor Co., Ltd. will begin lease sales in Japan, on March 5, 2021, of the Honda Legend EX equipped with Honda SENSING Elite. In its effort to realise a collision-free society based on its global safety slogan,"
     publishedDateTime: 2021-03-08T01:35:00Z

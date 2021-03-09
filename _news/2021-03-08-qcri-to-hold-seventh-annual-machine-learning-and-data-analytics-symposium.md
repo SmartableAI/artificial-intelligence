@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210308124843/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210308124843/"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform"
+    excerpt: "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North."
+    publishedDateTime: 2021-03-09T13:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/Ibex-Co-Founders-Joseph-Mossel-CEO-L-and-Chaim-Linhart-CTO-R.jpg?w=757"
+        width: 757
+        height: 567
+        isCached: true
   - title: "xyzt.ai, the big location data analytics platform, leverages start.io mobile data to boost retail recovery."
     excerpt: "Leuven 08 March 2021 – xyzt.ai ( a Leuven-based technology start-up offering an innovative visual analytics SaaS platform for big location data, announces today that it is a data visualization partner of Start."
     publishedDateTime: 2021-03-08T15:07:00Z
@@ -35,29 +51,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "2021 Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com"
-    excerpt: "Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com DUBLIN-- (BUSINESS WIRE)--Mar 5, 2021-- The “Big Data Analytics and Artificial Intelligence are Driving the Global LIMS Market” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-03-05T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-pharmaceutical-manufacturing-health-care-industry-artificial-intelligence-7197e209045f476da9720c187175d4ce"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "LabVantage Launches Full-Featured Self-Service Advanced Analytics Solution"
-    excerpt: "LabVantage Solutions, Inc., the leading provider of laboratory informatics solutions and services including purpose-built LIMS solutions that allow labs to go live faster and at a lower total cost, today announced the launch of LabVantage Analytics,"
-    publishedDateTime: 2021-03-09T08:42:00Z
-    webUrl: "https://www.financialbuzz.com/labvantage-launches-full-featured-self-service-advanced-analytics-solution/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 2
 
 secured: "aKEDoLAiR7+xwffMglQf+duNY0m7KU4EOaFst6wHBn+jkeojlDbTd3PhgLVRpR7jAqnyXysKo+G8suHExvHUzMpueSqJtla3BKW+DdBOQ6YjN3LcZwuz2wtNYnY6q/dcGEQ9Pt5kfTq0XX1t5HZ1fJ3NZVQ6jEBCeFmRg2dAVpM9oQcPujfb+4xQ06aqjiGYE3Ib4mOTCOxPI/3giXND88WNiEfwxBIJYkliFJyeKtKmtNGvkOHdZ7mQibR/aFJRCEQw1iLzkttYw3o3TKgm04YWic1LyivVEfDPjaqyhlIrvPpx4VQFCGguonsTXG6N5xF5NELiq/yAADL3dRSiBrAIVw4c6iF/q5NIpaNxs44=;OceaBMrLH360n15CuswV5A=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: This Day
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Most Impactful Announcements At Ignite 2021"
-    excerpt: "Between pre-briefs, executive Q&As and the live event, I attended around twenty hours of Ignite 2021. Typically, Microsoft holds three focused events each year: one for developers ( Build ), channel partners ( Inspire) and end customers ( Ignite )."
-    publishedDateTime: 2021-03-04T21:43:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604153c5909583eb1a3a7db0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2807%26cropY1%3D0%26cropY2%3D1579"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "10 key Microsoft Ignite takeaways for CIOs"
     excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
     publishedDateTime: 2021-03-08T10:02:00Z
@@ -73,6 +57,15 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
+    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
+    publishedDateTime: 2021-03-05T13:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "FwMannpI/C30W15liv02H34jxZM3VY1dPZR8XnuFuVSdtSZnPpQWUj2yHsQHlD1/hyoKdognsCaEI17kopmNgFZsRGJ+RQYD2XQ+zzcnMEkVp109oiWqPfmujttzJnsnEpNi2T5XzT3tm3+KiW/uQSyXKvtlY5DiJ0/UNenpKCgI5q4sDFiSk13ZR1U1X7sYr24XWpRsa6QcEM2KAqmoQaLrv1ylh+cm8bIBfn98+SzCo61HB8fXkUAFA0P4dojB8OUjgvJQ1fmm1uv6x77jrU/h8AFl/Y0DhV0shtZX0Glc61GqUj8ziOOU2Kn+qeG9OnLJZRnhKOZLFMLTKDL6oFjqFuLQJv7Nx1JNX3TzG1CMS6iF1KkpJkFo/1XaxidfuzfDL0IyK2632us6PhEMlfu21R8dkK/EJungD8IkIkdedeYqh0t6IUHSQM5QxpR5AGfBi8F1QwCbSYW+HpZBk//2YIOafiaJoboufqtQynuJRQ76jva8KW/FkWB7CoKSYBwmJKVVfc8XsCKdnP2cng==;bdHbMVpBoZx5vrHMbFn7Jw=="
 ---

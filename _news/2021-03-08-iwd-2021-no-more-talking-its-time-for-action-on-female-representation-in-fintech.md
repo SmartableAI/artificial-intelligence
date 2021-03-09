@@ -39,20 +39,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Katapult to Present at the 2021 Wolfe Research Fintech Conference"
-    excerpt: "Katapult Holding, Inc. (“Katapult”), an e-commerce focused financial technology company, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Orlando Zayas,"
-    publishedDateTime: 2021-03-04T21:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=432474"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Western Union to Present at the Wolfe Fintech Forum on March 10th"
     excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe Fintech Forum on Wednes 10,"
     publishedDateTime: 2021-03-05T09:00:00Z

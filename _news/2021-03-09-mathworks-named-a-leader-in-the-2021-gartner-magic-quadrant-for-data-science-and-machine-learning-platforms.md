@@ -1,0 +1,69 @@
+---
+category: news
+title: "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+excerpt: "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute."
+publishedDateTime: 2021-03-09T13:37:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/science-technology-north-america-engineering-massachusetts-d175b277088b403aa7add2d32b6d91a2"
+webUrl: "https://apnews.com/press-release/business-wire/science-technology-north-america-engineering-massachusetts-d175b277088b403aa7add2d32b6d91a2"
+type: article
+quality: 23
+heat: -1
+published: false
+
+provider:
+  name: Associated Press
+  domain: apnews.com
+
+topics:
+  - AI in Finance
+  - AI
+  - Machine Learning
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+related:
+  - title: "SAS cracks Magic Quadrant for machine learning, data science"
+    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Qua"
+    publishedDateTime: 2021-03-05T04:32:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/05/sas-cracks-magic-quadrant-for-machine-learning-data-science/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 39
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
+        width: 794
+        height: 446
+        isCached: true
+  - title: "Dataiku Again Named a Leader in the Gartner 2021 Magic Quadrant for Data Science and Machine-Learning Platforms"
+    excerpt: "Dataiku, the world's most advanced Enterprise AI platform, was named a Leader in the Gartner 2021 Magic Quadrant for Data Science"
+    publishedDateTime: 2021-03-05T02:30:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-again-named-a-leader-in-the-gartner-2021-magic-quadrant-for-data-science-and-machine-learning-platforms-826549963.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1449384/Image_Gartner.jpg?p=facebook"
+        width: 1198
+        height: 628
+        isCached: true
+  - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
+    excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
+    publishedDateTime: 2021-03-08T01:05:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/138320/tibco-software-named-leader-in-2021-gartner-magic/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 0
+
+secured: "3xl1FOx4KNP7Uf+w1xyc3tUHwVhpZWZbcja7p4DvYiI0HOnelySk6rKKlzqjEWO6PLN3GZjjQzoY67UvWl21ai9rXCS0R8Qogo22+Vtmc4qXbrUqNtKed8H2qto/xBEKEzWfbsPUYKUqTyjIC2TypXnifSRxwhqsvceQPh4tndv0uFFTAw38MLWv+Sxk3jUN+iyk1gmkVEHzlO5Xop7IYig31co5FmSb0wMBJkvQAAanGZ/H8pEyoVOM2h1HTATQNUbGi93uraHOYj7h9VYHLrm+ODziwCgEHT9j7i4M++ediRiZ8vRrTDmPkXNGfUwLZezjxwNQ5z0l3NIjm3SC9PX4G1i+4HqfkKqJUThLVjY=;BqnPBQQfpydvThvms41LWA=="
+---
+

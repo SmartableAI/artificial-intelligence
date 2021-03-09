@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Honda's part self-driving Legend a big step for autonomous tech"
-    excerpt: "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato"
-    publishedDateTime: 2021-03-04T21:04:00Z
-    webUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ"
+  - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
+    excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
+    publishedDateTime: 2021-03-05T09:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT"
-        width: 810
-        height: 544
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
   - title: "2021 Honda Legend launches in Japan with Level 3 self-driving tech"
     excerpt: "Honda on Thursday unveiled an updated Legend for the Japanese market and one of the car's key features is an electronic driver-assist feature rated at Level 3 on the SAE scale of self-driving capability."
     publishedDateTime: 2021-03-05T12:00:00Z

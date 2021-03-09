@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Continental invests in object recognition start-up"
-excerpt: "Logo of German tyre company Continental is seen before the annual news conference in Hanover, Germany March 2, 2017. REUTERS/Fabian Bimmer"
-publishedDateTime: 2021-02-23T07:37:00Z
-originalUrl: "https://www.reuters.com/news/picture/continental-invests-in-object-recognitio-idUSKBN2AN0NJ"
-webUrl: "https://www.reuters.com/news/picture/continental-invests-in-object-recognitio-idUSKBN2AN0NJ"
+excerpt: "Who could say that Azerbaijan was wrong when the war started? - President Aliyev Politics 6 March 14:34 New stage already evident in economic sphere, period of transparency, precision, when ..."
+publishedDateTime: 2021-02-23T12:58:00Z
+originalUrl: "https://en.trend.az/world/europe/3385165.html"
+webUrl: "https://en.trend.az/world/europe/3385165.html"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Trend News Agency
+  domain: trend.az
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552563820&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1M0DO"
-    width: 810
-    height: 478
+  - url: "https://cdn.trend.az/2021/02/23/continental_230221.jpg"
+    width: 1022
+    height: 686
     isCached: true
 
-secured: "8piU9FNb9+WYrDPhI3NexxafcHWTnsd1xjzbfEbCsH6ceLwg3qu/tJKRjQsZ0W60RMpR2RkuXVBYzR2fJpRkFNATX4NG3t0ZvLfUq0MT9bJoIzv3VF4WBsRJBuqGTvBdxahrf0Tz1xq0meCT3Y+r0S+25iX0pK9IozLnvlSjXCmCAzt2y3gpPWxcPqUk/AfFtTfmAJZDSY6x9lF2X1lmzX10QkVBwV+KNEVnGcSXoNHhogIPTh99Ds5KNkkEF6KPEkXnE0HCmT/kazkLC0FgFTwc/g4Hs76mALBQT6xS53LQn55nOpQ55JWEycdfYfX94vdghqD6bJI7hW60vmLL5YxRaEH2VO0b3uEIYWY+jmI=;HWcGbuoVQevt9/BsUOEBtw=="
+secured: "3mdIyop9StYaJLD4QL0H9c5vRljG8jZZJjF1ais04lG6iMRHrDUl7sDgqsEJvy6AcgRuElC86zTJD0VTKlsbWMXoBi1kCpsBwfWz/w5Ruux/O7yC8zjt95GZucXQ5QLpn7dNCLXVWg3IKxIBGCoaLG3RSRjnBa4VC2IHFaR5MXUqavop2q1dQeg3kK6Lu7jYzI322x/dpfMOiuoqIu1hrBpUEYCdFqaChUvczePWkB9BEHCQCk7mYuc/3W5QO7RXahqjzw4A3egNrZL749Y22+Dn68kRpEYfDuHvfK8VfK0GDxzELDZ9n1GNbXjKsnQVPUSK7yAa8OFy+q4aP4cS2qkqfmkqYonQFHLFm7kbMYU=;wUVaqJjkLEaotA460e6r5g=="
 ---
 

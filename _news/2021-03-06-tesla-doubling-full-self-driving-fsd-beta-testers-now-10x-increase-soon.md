@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk says Tesla is expanding its Full Self Driving beta to more drivers"
+    excerpt: "Tesla first introduced the FSD beta in October to vehicle owners in its Early Access Program. At the time, Musk said the company was handling the software update “very cautiousl"
+    publishedDateTime: 2021-03-07T17:10:28Z
+    webUrl: "https://www.theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
+    type: article
+    provider:
+      name: theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta
+      domain: theverge.com/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta
+    quality: 171
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/-WR3wnR8gKXZNakvetGBZC7uzKA=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68925715/acastro_180524_1777_tesla_0001.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon"
     excerpt: "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,"
     publishedDateTime: 2021-03-08T21:33:00Z
@@ -90,6 +106,38 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Vision Chip Drives Rise of Self-Driving Cars"
+    excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
+    publishedDateTime: 2021-03-05T23:47:00Z
+    webUrl: "https://www.thestreet.com/tech/news/ambajdm030521"
+    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 63
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"
+        width: 620
+        height: 326
+        isCached: true
+  - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
+    excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
+    publishedDateTime: 2021-03-07T15:05:00Z
+    webUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/"
+    ampWebUrl: "https://insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492627/tesla-full-self-driving-8-2-real-world-testing/amp/"
+    type: article
+    provider:
+      name: Inside EVs
+      domain: insideevs.com
+    quality: 59
+    images:
+      - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla expanding full self driving beta to more drivers: Musk"
     excerpt: "Tesla CEO Elon Musk has said that the company is expanding its Full Self-Driving (FSD) beta to more drivers and will eventually increase the number of participants tenfold. The electric car-maker firs"

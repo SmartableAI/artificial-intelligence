@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Most Impactful Announcements At Ignite 2021"
-    excerpt: "Between pre-briefs, executive Q&As and the live event, I attended around twenty hours of Ignite 2021. Typically, Microsoft holds three focused events each year: one for developers ( Build ), channel partners ( Inspire) and end customers ( Ignite )."
-    publishedDateTime: 2021-03-04T21:43:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2021/03/04/microsofts-most-impactful-announcements-at-ignite-2021/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604153c5909583eb1a3a7db0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2807%26cropY1%3D0%26cropY2%3D1579"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft Adds Ways for Customers on AI with Azure"
     excerpt: "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space"
     publishedDateTime: 2021-03-06T01:40:00Z
@@ -73,6 +57,15 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
+    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
+    publishedDateTime: 2021-03-05T13:14:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 34
 
 secured: "CNs1Qe2GdpbFrWKmtRzR6+IXgA2rDFY12a7tcVngxqyabOZbT0HG6w3uKye1Had//k43eQwIfMGlpnLtm3rOWlsvOgjc4eMAnW5HB/Hi9F2Z6iEQ40IPjwPOFV/XaNnc1jJsAxtJktvLHbtnz5WSY2IRTo8X6CTi4ZN9nnjnna7AA3Hd91xcKzlGK8PqFZAw65TFmdODqAEmsSjihGxEX4NRGHJeyDMMAdf+4CLlI1c/LFD1tAySCekp+ZW+l/hiSra5aJdG2k2BN0sCyDCP0RS8xogLrxHnRZiJ+s6GtsJ+cH3KndUKuaWlE2CSG/fyjtyHoZBUCxu28M7ga2pTO26oC8Q1S+iEdLRwcZNstME=;S1wAc6QNUHZECvZQDUU6cQ=="
 ---

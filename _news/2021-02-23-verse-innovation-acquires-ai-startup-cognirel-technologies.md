@@ -1,80 +1,27 @@
 ---
 category: news
 title: "VerSe Innovation acquires AI startup Cognirel Technologies"
-excerpt: "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions."
-publishedDateTime: 2021-02-23T11:23:00Z
-originalUrl: "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms"
-webUrl: "https://timesofindia.indiatimes.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/articleshow/81172307.cms"
-ampWebUrl: "https://m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
-cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/business/india-business/verse-innovation-acquires-ai-startup-cognirel-technologies/amp_articleshow/81172307.cms"
+excerpt: "With this acquisition, VerSe brings on board Cognirel Founder Ram Prakash to head its newly instituted AI Lab. Local language tech platform VerSe Innovation, the parent company of news aggregator ..."
+publishedDateTime: 2021-02-23T10:53:00Z
+originalUrl: "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies"
+webUrl: "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies"
+ampWebUrl: "https://yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/02/unicorn-verse-innovation-acquires-cognirel-technologies/amp"
 type: article
-quality: 57
-heat: 97
-published: true
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: Your Story
+  domain: yourstory.com
 
 topics:
   - AI
 
 images:
-  - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-    width: 1200
-    height: 630
+  - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/shutterstock414162808-1587643214924.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+    width: 800
+    height: 400
     isCached: true
 
-related:
-  - title: "DailyHunt Parent Acquires Cognirel Technologies To Develop Computer Vision Models"
-    excerpt: "VerSe Innovation announced the acquision of Bangalore-based AI startup Cognirel Technologies for AI and deep learning-based research."
-    publishedDateTime: 2021-02-23T13:04:00Z
-    webUrl: "https://analyticsindiamag.com/dailyhunt-parent-acquires-cognirel-technologies-to-develop-computer-vision-models/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 49
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/02/aim_dailyhunt.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Autonomous driving: Continental acquires minority stake in AI chip start-up Recogni"
-    excerpt: "Need for high-performance processors is growing, with increasing requirements for networked, automated and autonomous driving Production rollout of new ch"
-    publishedDateTime: 2021-02-23T13:00:00Z
-    webUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/"
-    ampWebUrl: "https://news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
-    cdnAmpWebUrl: "https://news-europawire-eu.cdn.ampproject.org/c/s/news.europawire.eu/autonomous-driving-continental-acquires-minority-stake-in-ai-chip-start-up-recogni/eu-press-release/2021/02/23/13/59/49/86186/?amp"
-    type: article
-    provider:
-      name: EuropaWire
-      domain: europawire.eu
-    quality: 48
-  - title: "VerSe Innovation acquires AI-startup Cognirel Technologies"
-    excerpt: "Local language technology platform VerSe Innovation on Tuesday announced that it has acquired Cognirel Technologies, a Bengaluru-based"
-    publishedDateTime: 2021-02-23T19:13:00Z
-    webUrl: "https://www.dailyexcelsior.com/verse-innovation-acquires-ai-startup-cognirel-technologies/"
-    type: article
-    provider:
-      name: Daily Excelsior
-      domain: dailyexcelsior.com
-    quality: 17
-  - title: "Five Companies Chosen to Participate in Startup Accelerator Focused on Accounting Innovation"
-    excerpt: "Program Developed by Global Accounting Group and CPA.com Fosters Emerging Technologies that Aid the ProfessionNEW YORK--(BUSINESS WIRE)--Five early-stage companies pursuing a variety of solutions in finance,"
-    publishedDateTime: 2021-02-23T14:52:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=426447"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 11
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-
-secured: "HmzGzHhjEX8WrWrggh6skRdHk2KOFRfC9gHzsd86g7ich9MR1s083UMDDXMH7Yr2xuij5ztcop8Nbumksru4yrOGcDEggc8IC9rtOuNhSWibHLDTKDiYPhbx7F3Wlzj3Y2xvQIxwNh1KWbL5kkcK4j9KM20ye5z0u2XCgb1tVFfBzR+WXoxkN8FtTSEqybh0GV0LekWm49HKdCQJcNOE62SpbGDXnX2DFYruQq6sGZEK/QohSY9Fyztbp0riLEel39WnshjyEcnS7lRiIMHBRZO/I7BI2ZfbK+w3fagh+0C32l4MunrfVaXikn2mYeil92BgouqSMyVWVe75BKcZEzzLx1segesRe86broEJxPo=;3dYn3CmOO8qZntFz9bCSAw=="
+secured: "BZO6XvMyQby6dWTdFGcqAzAoNyVg+D/jVP73TrZnI7yZNsyjC+AK0rRweIcObP1MqDN9l+BvR9trPbwf7nV44xV9z41UFzjWz40jpfVJ+lfl8u7NA/0GO/KIBSMzPmiHqw7ALc8bkovblixrha6/i+z8cTmHLJnkkqBH50LWU0GLcyykYeNVnuvYVtp9FocFu9Chyz8ef1RXLvr1b4/n4us9PMpqCqZ9BdFhKd4l861KgKWUjXZMrZZTQ50neBhQxe1+wXc1bEzhkOkarbgxUn7H4p+Q6cM5q2UsPBOuDGLWxDkxR5PG71FrqGowhFbC7zdebrATFtgHKKJUP/4eKkfOEUt2IkvhpptOpq0h2vY=;wIQK31qGEKXTFBVOlzzkow=="
 ---
 

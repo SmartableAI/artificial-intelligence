@@ -33,20 +33,18 @@ images:
 
 related:
   - title: "We need a humanitarian vision for AI and robotics"
-    excerpt: "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given"
-    publishedDateTime: 2021-03-09T09:00:00Z
-    webUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/"
-    ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
-    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
+    excerpt: "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given The post We need a"
+    publishedDateTime: 2021-03-09T09:16:00Z
+    webUrl: "https://www.newsoneplace.com/9608002012/ai-humanitarian-vision-robotics"
     type: article
     provider:
-      name: City A.M.
-      domain: cityam.com
-    quality: 89
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 69
     images:
-      - url: "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg"
-        width: 1600
-        height: 1060
+      - url: "https://images.weserv.nl/?url=https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-360x160.jpg&h=276&fit=inside&cbg=white"
+        width: 621
+        height: 276
         isCached: true
 
 secured: "Ycqu8WpNdYrftIaS1+HIX5OFD82AjDWkMsXwvOShNTH1BtwsghQZSEMxY2NegRTwjbuZ8vWo1RBT5uix+sjsi5HtUUHX5BByiRh8WWD2Zdw5hh1wUIY0soudmWd+wrP6QvXVCdjR9lZMLnT1JINSDZXpte4ACZOvBU4JunbbhhOVqe64hGuW6Vvh1K+zhkqGM9aqi8CNwPmPQ1rDKZV7YYEKRlpR/qi08Ef7lT+qXlAVZC4pRBAFzVfIfLh82TJhonhfrPFca/hzCekW5N36CzXXsjyJPYrrFTPF7iwKAjERnSH0Iz4uom2AJtTq64K59zzXni1SGzh8numB/IkfJIAVc2NZu5msg0yHER27N7JQBXa7OoBlO4x0/cdxCQZMR5I7gAIqnfTahJHiQcfoM0MuSGhyticPiSf1+8ERxHA7WoD/kHYsNS+5oD+N7UrPQWQ9/sVX9f7FTkUnArGLfa7fa5K7oaTblCvMGQZCWt0zk2haaGQqMqAKid4H9GlIAxfZ5BQXVyYoXRaKZth9ig==;udHRYQH7jDNwyOhcFQpvrw=="

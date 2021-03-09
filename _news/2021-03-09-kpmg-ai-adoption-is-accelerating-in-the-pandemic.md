@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/kpmg-ai-adoption-is-accelerating-in-the-pandemic/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "KPMG: AI adoption accelerated too fast during the pandemic"
+    excerpt: "The outlook for artificial intelligence is optimistic under the Biden administration, but executives want industry regulation, a survey finds."
+    publishedDateTime: 2021-03-09T06:17:00Z
+    webUrl: "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI implementations accelerated due to COVID-19 pandemic, says KMPG survey"
     excerpt: "Adoption of artificial intelligence accelerated during the COVID-19 pandemic, but many business leaders are concerned that AI deployments are moving too fast, according to a KPMG"
     publishedDateTime: 2021-03-09T12:00:00Z
@@ -46,23 +62,7 @@ related:
         width: 1351
         height: 673
         isCached: true
-  - title: "Seminar on artificial intelligence in education"
-    excerpt: "A three-day online international seminar on ‘Artificial intelligence in education’ will begin on Monday. Being organised by the State Institute of Educational Technology, in association with the Depar"
-    publishedDateTime: 2021-03-07T19:20:00Z
-    webUrl: "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
-secured: "1HAqJZnftp2M4JxwZxNaf74NMdIX1jzU9z/0XrDm2wXPGltQGs42ijvvw+kujW4qnMhURjDq24bTU4cfNKbceykO2Dslv44qNchMnDN+NkQhuL1Z9Fs/2oMtSF/+5YHieuFD53j+4fPyulX+CB3EtEB4EldRojK6YOpjIEsDOy1rA5ieLYZNpfcqGPmp1v+D9IEnvOfZ2P+AJC3IMgIrxyeoGKJzTpucEpG9Oz3dNPPTBFMrPDGIY8Tp1UNBMUD4LljlAIE1cYVU8Kg8dAwVqEpqFM2NKZaycZMDKwCL5TQEslN97p3K2G01cqR7msMRBmysKYW2NVj3C3FfHcPbQR6vNtoK31eOk+LhpKTBAjw=;cDMd3UtvByk9CbKMw7SnzA=="
+secured: "cQ1ADddPHIA8tTm+0/1/VIyp5XRme5h6CsujqpmMOYpfdevFGKPB1j0ujVIWUnNW+JwD7m9P38lc2ftQfokG9sLJzxAFXAvFs3PW7N0fPx1ri5TwEolaX9B0RyZJFWFrlE2XXh+FwqASea7FfVmzcz1EIz9JaWvwsnwTHJ1pQIROqbArRzg+xi1CQgMtNNcjenjXR90ZZi3Tc1BRInDIz19CPKjQccorUFfR3Szbx40aMWRXLNc+02ltf3I73iStkiyMSwlCL5tlr3hmKIL1pwL8sdob3i+lWEqyx4S6ue1/WoXJM5H/wii8ml9mDPpLZ53ru81DfsicqbEXYyyjWM4F9+AxVgfPgGd33hpCOOpcJytsBbPi1nPWudnuoHgHx+qnRvif1Dh9VIJU7SRvWR4hOHf2vJsewdClcNiXQgSiHVdOn2jxwpc8j5/XCv+uq+ibnsRXDo7A/ExSn2MbGLMrqHxJrFBOeejDEI8BQBjcJVwSU0hpJHCH2t9sm6LbEVqobkHLF43kdja7mytU7g==;+8SIZqC6EwCUda7kmIFyBA=="
 ---
 

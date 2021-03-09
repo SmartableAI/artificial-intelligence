@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform"
+    excerpt: "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North."
+    publishedDateTime: 2021-03-09T13:00:00Z
+    webUrl: "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/"
+    ampWebUrl: "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 82
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/Ibex-Co-Founders-Joseph-Mossel-CEO-L-and-Chaim-Linhart-CTO-R.jpg?w=757"
+        width: 757
+        height: 567
+        isCached: true
   - title: "QCRI to hold seventh annual machine learning and data analytics symposium"
     excerpt: "Doha: The Qatar Center for Artificial Intelligence (QCAI), part of the Qatar Computing Research Institute (QCRI) at Hamad Bin Khalifa University (HBKU), will host the seventh annual Machine Learning and Data Analytics Symposium (MLDAS) in collaboration with The Boeing Company."
     publishedDateTime: 2021-03-08T12:48:00Z
@@ -35,29 +51,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 38
-  - title: "2021 Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com"
-    excerpt: "Outlook on the Worldwide LIMS Industry - Big Data Analytics and Artificial Intelligence are Driving Growth - ResearchAndMarkets.com DUBLIN-- (BUSINESS WIRE)--Mar 5, 2021-- The “Big Data Analytics and Artificial Intelligence are Driving the Global LIMS Market” report has been added to ResearchAndMarkets."
-    publishedDateTime: 2021-03-05T07:59:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-pharmaceutical-manufacturing-health-care-industry-artificial-intelligence-7197e209045f476da9720c187175d4ce"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 6
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "LabVantage Launches Full-Featured Self-Service Advanced Analytics Solution"
-    excerpt: "LabVantage Solutions, Inc., the leading provider of laboratory informatics solutions and services including purpose-built LIMS solutions that allow labs to go live faster and at a lower total cost, today announced the launch of LabVantage Analytics,"
-    publishedDateTime: 2021-03-09T08:42:00Z
-    webUrl: "https://www.financialbuzz.com/labvantage-launches-full-featured-self-service-advanced-analytics-solution/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 2
 
 secured: "ASMkqc4qQ4NT5zfMPDNYaQbb3Wmvrn9dPy4rNvu2OjQPpre0WpQq0mSA+5d/30FeocEJetqaJtY08OmTvhgDNPHfAgTiuW+jb336SzhI/c//00Ql3kwT0UjCIl5IC+7TEqpXr836NSppmFFhyCmXR+djpV9CB2e5yXGnCOPZBdBPkMJ6hcEWbsGrr8BcyOnn/dmRlcveNvhMiCjwpBlrPgTE9u4l44zyOoLmZoYA6gdEVQab21fNdSpTZ2hqYDHfbuU/WVSbK88KE2xysGLk8lN2lLvr/uS2y7YcfqdhWxrJEDrfEINOOQzkwaLamS+gwm3OWlrU2DVl9wwBG0nIxSZZQl8ABw/TkPDpyZh8Rkg=;T9PDdVQWq9bpd5T4nTKJhw=="
 ---

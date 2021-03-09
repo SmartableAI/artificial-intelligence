@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "KPMG: AI adoption accelerated too fast during the pandemic"
+    excerpt: "The outlook for artificial intelligence is optimistic under the Biden administration, but executives want industry regulation, a survey finds."
+    publishedDateTime: 2021-03-09T06:17:00Z
+    webUrl: "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "KPMG: AI adoption is accelerating in the pandemic"
     excerpt: "KPMG survey finds increased reliance on AI across a wide range of sectors in the wake of the COVID-19 pandemic."
     publishedDateTime: 2021-03-09T12:03:00Z
@@ -45,22 +61,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2021/03/KPMG-Thriving_Chart-1564x880_Rate.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Seminar on artificial intelligence in education"
-    excerpt: "A three-day online international seminar on ‘Artificial intelligence in education’ will begin on Monday. Being organised by the State Institute of Educational Technology, in association with the Depar"
-    publishedDateTime: 2021-03-07T19:20:00Z
-    webUrl: "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/kerala/seminar-on-artificial-intelligence-in-education/article34015095.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "R/nAx2x+oZbfrpZOqerGpuqDyuDm6Ova0YX2qSWrQce6YVNxQ2VsXm2LJYi/V+bME/krZY+xoqzpL7G1Ksp3NNTbUlmNOA7kOJkEkUG8wUU2GI+LFLczricMAhHYHaVx+15+NSGYVTNqLaUV7FzM/zEiWj6utcUhx1MedLf4rvx0WXtrWT9DvbqrAmHyuZ9sSx/+ERcvEoniR0ABnx9fgcxk10kRfqerpREY7VNyE5QNZlmxucqpWKfmxpc8vshx13TqJk/WykZQgpgJYRtJlXNnlG+fhiw7+oYWU4TAtH3hB3Bk9cnzhkJVbE7aRwshurfWforG7ZJXQAARq9qDf1+idJMAa9ONOOtMKXxKXh0=;M4ORySoD9dD2dnet2VhMyA=="

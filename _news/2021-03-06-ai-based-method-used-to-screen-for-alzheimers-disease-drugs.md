@@ -98,20 +98,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 41
-  - title: "AI and Alzheimer's Disease"
-    excerpt: "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now, a team at Harvard Medical School and Massachusetts General Hospital has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease."
-    publishedDateTime: 2021-03-04T22:50:00Z
-    webUrl: "https://hms.harvard.edu/news/ai-alzheimers-disease"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://hms.harvard.edu/sites/default/files/teaser-images/GettyImages-1064220756%20750.jpg"
-        width: 2000
-        height: 1160
-        isCached: true
   - title: "AI reveals current drugs that may help combat Alzheimer's"
     excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
     publishedDateTime: 2021-03-07T14:35:00Z

@@ -1,69 +1,30 @@
 ---
 category: news
 title: "SAS named a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms.1 This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic"
-publishedDateTime: 2021-03-04T19:51:00Z
-originalUrl: "https://www.lelezard.com/en/news-19683915.html"
-webUrl: "https://www.lelezard.com/en/news-19683915.html"
+excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. 1 This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Quadrant."
+publishedDateTime: 2021-03-04T19:47:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms-1030152217"
+webUrl: "https://markets.businessinsider.com/news/stocks/sas-named-a-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms-1030152217"
 type: article
-quality: 28
-heat: -1
-published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1450029/SAS_Gartner.jpg"
+    width: 400
+    height: 267
     isCached: true
 
-related:
-  - title: "SAS cracks Magic Quadrant for machine learning, data science"
-    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Qua"
-    publishedDateTime: 2021-03-05T04:32:00Z
-    webUrl: "https://www.wraltechwire.com/2021/03/05/sas-cracks-magic-quadrant-for-machine-learning-data-science/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 39
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
-        width: 794
-        height: 446
-        isCached: true
-  - title: "Dataiku Again Named a Leader in the Gartner 2021 Magic Quadrant for Data Science and Machine-Learning Platforms"
-    excerpt: "Dataiku, the world's most advanced Enterprise AI platform, was named a Leader in the Gartner 2021 Magic Quadrant for Data Science"
-    publishedDateTime: 2021-03-05T02:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-again-named-a-leader-in-the-gartner-2021-magic-quadrant-for-data-science-and-machine-learning-platforms-826549963.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1449384/Image_Gartner.jpg?p=facebook"
-        width: 1198
-        height: 628
-        isCached: true
-  - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
-    excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
-    publishedDateTime: 2021-03-08T01:05:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/138320/tibco-software-named-leader-in-2021-gartner-magic/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 0
-
-secured: "djs3XCxhJqlST6JpZWzWDWJTzeMC7b2V0qW2I3JVM/F6V0sFdOFnoWJ4YLIoZaVGKNp1O9m/RmSMWAJNEi/l/u2H3tZkyzCz/6QLkqHChBoX4Ay0j3dVRVsCePQGnprA7B6re/k4d9cxqavkE6eHPK46f9Ei1YKeoJMGcEZHJKrbnP2Y7ZfzrrIy+UoRtaHHB6lt41NJK95xCcQlhfgP9NNPXtpsg2YX4il+i8hzCOh7V0Yi8xIS6B4rpJgWF0GSUt0bn3GhdXDZS1fNqwjaCQ96118pvZWYSMxAKiEdfOZV/wREI1EzF5UvXZiD7aAAaSwFBNJV9VpIgMTDjWj0loEvcszqcgGmNj7CBqPmKIY=;JT9sK0u/7WTIw0JGbZtHWA=="
+secured: "p9jN5AKlpDnDm6vcz3K/gtviHlQVRb6uKWzMrfbtdoW+K9EEC3POdL2eVO1y/XW6NeFJdUsTSMGO8+qaW1gU4vuWi7bRV2rQOrUaONAA/dd8WQo8zSJH0u/gyKJKwFsHcjKVUcVy7TaoR2d387GQkbXMS2L/+KhNkhbjdaZuC2HhQ+DHS9EopBDX2+jYI5f6zjiktsTpay8ZRuI7s2am5YbhUoSVgkJ3Nsc1UJEUxst+XZklBDfWLzMCAXvWLcgfikOVjf0p64IwoEgcusrYGx9CzC5bIT/XYpAQjWke7JkC2BbAHTleL7rq2cqjRXQY7suaECiD44MsX2EU0MOZqvH32dOpgpVcHgCu4jK1nBw=;NOSTJdlFIiNpji7Po3TDXg=="
 ---
 
