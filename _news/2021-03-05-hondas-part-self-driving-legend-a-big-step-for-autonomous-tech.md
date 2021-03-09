@@ -72,22 +72,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Honda’s part self-driving Legend a big step for autonomous tech"
-    excerpt: "Honda Motor Co Ltd on Thursday unveiled a partially self-driving Legend sedan in Japan, becoming the world’s first carmaker to sell a vehicle equipped with new, certified level 3 automation technology."
-    publishedDateTime: 2021-03-04T12:18:00Z
-    webUrl: "https://www.metro.us/hondas-part-self-driving-legend/"
-    ampWebUrl: "https://www.metro.us/hondas-part-self-driving-legend/amp/"
-    cdnAmpWebUrl: "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/hondas-part-self-driving-legend/amp/"
-    type: article
-    provider:
-      name: Metro US
-      domain: metro.us
-    quality: 44
-    images:
-      - url: "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportBusinessNews/tagreuters.com2021binary_LYNXNPEH230FT-BASEIMAGE.jpg"
-        width: 800
-        height: 538
-        isCached: true
   - title: "Honda Lengend EX with SENSING Elite Better Self-Driving than Tesla?"
     excerpt: "Honda Motor Co., Ltd. will begin lease sales in Japan, on March 5, 2021, of the Honda Legend EX equipped with Honda SENSING Elite. In its effort to realise a collision-free society based on its global safety slogan,"
     publishedDateTime: 2021-03-08T01:35:00Z

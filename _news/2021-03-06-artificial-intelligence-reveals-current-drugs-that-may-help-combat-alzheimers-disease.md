@@ -103,20 +103,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Engaging AI in the battle against Alzheimer’s"
-    excerpt: "A team of researchers has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease. The method could represent a rapid and inexpensive way to repurpose existing therapies."
-    publishedDateTime: 2021-03-04T12:23:00Z
-    webUrl: "https://news.harvard.edu/gazette/story/2021/03/ai-reveals-current-drugs-that-may-help-combat-alzheimers/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://news.harvard.edu/wp-content/uploads/2021/03/iStock-sudok1-945x630.jpg"
-        width: 945
-        height: 630
-        isCached: true
   - title: "AI and Alzheimer's Disease"
     excerpt: "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now, a team at Harvard Medical School and Massachusetts General Hospital has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer’s disease."
     publishedDateTime: 2021-03-04T22:50:00Z

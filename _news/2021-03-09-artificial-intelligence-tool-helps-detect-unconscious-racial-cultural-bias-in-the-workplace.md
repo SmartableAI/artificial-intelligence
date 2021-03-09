@@ -8,8 +8,8 @@ webUrl: "https://abc7news.com/artificial-intelligence-ai-workplace-bias-text-iq/
 ampWebUrl: "https://abc7news.com/amp/artificial-intelligence-ai-workplace-bias-text-iq/10398463/"
 cdnAmpWebUrl: "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/artificial-intelligence-ai-workplace-bias-text-iq/10398463/"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.abcotvs.com/dip/images/10398568_030821-kgo-office-cubicles-img_Image_00-00-57,20.jpg"
@@ -25,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aRo1M1yJo8O1zpQzYfEJzR2cI6qGXM4HRs10wfR5BQ+8EVdACZUldAVt7wn09PfYxHQ9F9IoWQDfVuJFLuBnkJNU/74odsZxrDx9J86kLaorcFEZ9IZ7qsiPrs6Rwu1Y1gXjkM76r4pAASJ3d5ESSjJgOD4HWPQ2pZLTc64nvp3oK2MZaxbxsWVSf7iQDVnDrWy0h0KnaJiq7k7vubx3fNPQHEDbuNa3lV0iidwQ3qVLkd4UmG7oqpccrFdkmigLFwwXJHHGFk1zlkRJ7vfjWCq59E9QPnQ9j7/YAVu4Wrj3Hk265jMSFrzJpd/3VuoUenRYCkiwNK1Blxug+y0xxRXfqVK14wwZMZ5QEGmkA7Y=;WolbAWlKZP4Iep6V+BgFTw=="
+secured: "Rgg7fhz3/4PQ+HNo5q8sZYiz6doLtAzHkUstbuYZgJWy2x20ZpYmhC1wcRNZasaztiHjqMW5fhv6xXtTgZiw/6r4ZWQcth1OkSglUjxrRWk6nozvD4DS6IDHWkSDBAxFQcPOq6eNO/y3J7n5tCQTxulLltRS+kwBCsQStyqp+XtmGjedKWyJJsmwJz3dkiepLgNBnMdu7w1jtI0IeuznHGuB870XjyFz76tAiG6NsCrJERtgtKNeZi7QynxLVgeAEYc/xY6jxJvsI4wDwFptY7fAzz23Z1gKemJyY0AevbCRLpNw9hiiLnYaolNQWoZNO/Cnaq2oNqBx8xlnYaacQuBR+NLJ3aUICmoOhmxTMK60SVAnEhEnYJg8aVi6NkckXxmK41Axht7JExnSXhnQot1M2cPqQVADYBZv+ulF2TrlfuNNLS3n3iIZsC/PAAB/JEQEs85hg8aP2+5BNuOv+zSKJuRfoB/pKv3AW0/qHVr14aoJYctuO6EXnEbzxYB3E1PYdbUVgVANfywZT32dFg==;3EYNM7MDxZ/FXEk5lSFCTQ=="
 ---
 
