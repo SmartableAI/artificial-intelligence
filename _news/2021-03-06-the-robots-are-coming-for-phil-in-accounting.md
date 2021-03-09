@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-fo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Harnessing The Power Of Artificial Intelligence In Accounting"
-    excerpt: "Instead of fearing technological advancements, CPAs should embrace them and find ways to augment their skills rather than replace them."
-    publishedDateTime: 2021-03-05T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f402c3e474a1d4b8fb150c8%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "8YG54GSnxQipb297pfrjIZWYDnKBUdDGo1ZfsML5krZ5sFgz2Q1MaV7i2hWq/gGjqi5x76o06XRtXPCo/ol4cRajobGoc5FEkcMPkOtb/R3I+4uLA+ziHNrMtZ5SHrMShp04a9rFPsaD5CcuMdIot6DcctQjNvhI1Jt1EuinG3b8VyHk0Kr2F77gxPH07IG3qPUbg8a7eyFbEl6z0TYm4GbVqLB8iqrTgBJwokVvCeIKdVNUjz4KHb83roGxyHzm7AmDe+cKwJrh6+JIY35qMhXWP74GqFFFsB/sVHT3lyQzKpBfS0yPAnyPR4g9KOwmSfL8HOg3joNuvgKWjlsKrSQqSt5ul7JC+v/Bf8ivjtM=;wIG+47SW/CLwwZXZbevwlw=="
 ---

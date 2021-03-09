@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "An era of coding, robotics and A.I. for education"
-    excerpt: "Coding, robotics and Artificial Intelligence (A.I.) are important skills of the 21st century to succeed professionally."
-    publishedDateTime: 2021-03-04T13:38:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-an-era-of-coding-robotics-and-a-i-for-education-688817"
+  - title: "Singapore Academy of Law Considers the Impact of Robotics and Artificial Intelligence on the Law"
+    excerpt: "The Law Reform Committee (LRC) of the Singapore Academy of Law (SAL) established a Subcommittee on Robotics and Artificial Intelligence to consider and make recommendations regarding the application o"
+    publishedDateTime: 2021-03-04T18:15:00Z
+    webUrl: "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law"
+    ampWebUrl: "https://www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/singapore-academy-law-considers-impact-robotics-and-artificial-intelligence-law?amp"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 91
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 76
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/03/ai-1614865061.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
 
 secured: "cCjiuPGIKYTSuMOg8OOicQm+O4FuOH4pNPQwBvW9PBRNbmXu65uuLxUC10ri8Z4uEUwtvNvHueBc/zAvGcXu/EHPK+nvPicpeNX4x2AbTcZPvrkyKuKQd1k70QQuZmRQef7Sdf2XM8nHbVYxXFyVVthVoM3koEUlRKSJtwI5uYl5V4OhL+jD45S4KdERMRhv/9kogcxRDCgZQ4qvLujCb4hpm0RjUso/zrMtibsWuHYUcUAaQmtHfvG9RBjhPr/tkrlZkexj/U5lcW0c9wH8j1v7yHRYUf1LqNGXdDVXHnKkhOZ1whUlWb1hK8jmH7urPyI/XPfhPe3boDwpT4OLC69XnqlGXOzlRKh4zNv0O3LXIq9Qipobt9SF8CiJtXec8msab8R8yRONALrf8Me0adZ9cU2gwsh+bFowp8DiCKIlwH/huS1sgtCKn+cM2malebddv3u1wFfBmHwTcc9R3om/EFWKNgvF1KwoSwa0Vmy+yCYh7kz0qiXCZTYZjgRd2AvEE99i80DKt+JUXG17Sg==;36wy7tdAvP+Zd0XNj/8tdw=="

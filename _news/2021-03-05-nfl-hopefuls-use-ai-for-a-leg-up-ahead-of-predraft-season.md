@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/03/04/ai-nfl-draft/?o
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/03/04/ai-nfl-draft/?outputType=amp"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1440
     height: 764
     isCached: true
-
-related:
-  - title: "Intel assists NFL hopefuls with 3D athlete tracking and AI insights"
-    excerpt: "A partnership with the human performance company EXOS aims to help college football stars hone their game ahead of the NFL draft."
-    publishedDateTime: 2021-03-04T14:20:00Z
-    webUrl: "https://www.techrepublic.com/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 87
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2015/09/08/cd03451e-854e-4c47-b1fc-da34eea51941/resize/1200x/0d7805f6515eedcf7ed954e3d8578047/bucs.jpg"
-        width: 1200
-        height: 750
-        isCached: true
 
 secured: "8GD9TIm1acam51WrrL7ICVi0KlTsHyvKTny1yla9rlxAGcHlsoWTOXVazUILuLk6ceopRoUoaa3WNQpLco8a1phNhozvkHc60quHRB3RQyTqkZVmOx1aF7Aw2k41y8qiyTFmBaoJGRPE0nIofRLQAtzm440r/sLWLeQdHxEYzpwQNgoiDfgnaaCW3zg46jtwdlPvU5IJEetzwlDhsK5QFixhhUMOIC1L5TcrzPkB320aCnjKI3WvRZpHDZMqaoWuqN6vEQ+4w4T3vAFdBiJprwrPiapN8dSxKOAQieRL7kFb5ucYJJlHlG/YobrgggouT+9YsVvwzsjEtNsegnKVI2kmQn8i+HDRw9xnJL8EOfl6U+0aLUC7yuwt7ldepj9jj5fVWnPdNGL9MGDQtZrC39WZv0XW9z4RFaecmTALin0LZda3SDIoBNuijejWNvXlNRPpbmN+NF8JZe4v9D3GW/xFB+WWIVZrsf5tjwO7t9/MLAcGYDM4amrqaZAPfzuDeOPK+9TXSrgPs4H5ZRIDjg==;VpeWkXSPeiJ791oG3GsQRg=="
 ---

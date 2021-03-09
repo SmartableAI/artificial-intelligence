@@ -96,22 +96,6 @@ related:
         width: 1024
         height: 518
         isCached: true
-  - title: "Honda Launches Safer Self-Driving Cars, But They Will Be Hard To Come By: Here’s Why"
-    excerpt: "Honda Motor Co. rolled out a safer version of its self-driving vehicles that it will begin leasing on Friday, March 5, but the limited edition car will not be offered to the masse"
-    publishedDateTime: 2021-03-04T14:31:00Z
-    webUrl: "https://www.ibtimes.com/honda-launches-safer-self-driving-cars-they-will-be-hard-come-heres-why-3156386"
-    ampWebUrl: "https://www.ibtimes.com/honda-launches-safer-self-driving-cars-they-will-be-hard-come-heres-why-3156386?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/honda-launches-safer-self-driving-cars-they-will-be-hard-come-heres-why-3156386?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 37
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/jx2103008-1200x899.jpg"
-        width: 1200
-        height: 899
-        isCached: true
   - title: "Honda to sell advanced 'level 3' self-driving car"
     excerpt: "Honda on Thursday said it would sell a limited batch of its flagship Legend sedans equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways. Ciara"
     publishedDateTime: 2021-03-04T20:30:00Z
