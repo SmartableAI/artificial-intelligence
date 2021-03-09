@@ -126,20 +126,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
-    excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
-    publishedDateTime: 2021-03-04T19:32:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/alzheimersdi.jpg"
-        width: 775
-        height: 812
-        isCached: true
   - title: "AI uncovers Eli Lilly's rheumatoid arthritis drug Olumiant as potential Alzheimer's treatment"
     excerpt: "Researchers at Harvard and Massachusetts General Hospital used a type of artificial intelligence called machine learning to identify existing drugs that might be able to prevent neuronal death in Alzheimer’s disease."
     publishedDateTime: 2021-03-08T13:55:00Z

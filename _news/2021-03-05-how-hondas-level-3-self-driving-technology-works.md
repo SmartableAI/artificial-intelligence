@@ -67,20 +67,6 @@ related:
         width: 1920
         height: 1135
         isCached: true
-  - title: "Honda to sell advanced 'level 3' self-driving car"
-    excerpt: "Honda on Thursday said it would sell a limited batch of its flagship Legend sedans equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways. Ciara"
-    publishedDateTime: 2021-03-04T20:30:00Z
-    webUrl: "https://www.timesnews.net/photo-video/video/honda-to-sell-advanced-level-3-self-driving-car/html_04f46180-7d10-11eb-97f2-8b8d75fe19c7.html"
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/0/4f/04f46180-7d10-11eb-97f2-8b8d75fe19c7/60411ae21f79a.preview.png?crop=1815%2C1021%2C40%2C0&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "jE8wRJ4k4HJ9N+U5zdyWzZzxtWeyLWctDE2eoKv3mz5wRkVnt9YtSglr9jWT7r/v+0LrwOzXqqtX1QmeSvTC6ywvJSySVM9Ml2pB6IWPJ3YLL3D0KoXeUDH/7npU8WFUo9ZySW7NUZAOtFbcGhskP9wmVZ0jNkfRYzpz3yada6NQHr2gYGqJelnYz9k/YozwiFCua3J8LcZjS+4aDnEQJKt/De/hu4JC9FQtpPbpOyPy5NoWRkgcK0aR3VSPCU2ITORKA1PnHDNbAfKxrRIvm7LeyzmfK54TPI6UDFwFiMAo1yFx0UcfkrItRkDC6HkV722ITEvNzM57thJfna2TVH73mAgJmLS7d4T9NL1HkXMNRkJ+aAkzcWRtzLwubCY712oF0yxs5l/uCPjtUod4+TFTze/qiyIhPSyEnnK0UUg8G9s04e4J91A3rKylBFF2YuSdUoAuxJLuTPPkep3ECeDGmJZ479KFfansptOTWC1zUCPP+lKRGGttKr4IYjH1k8qyME0dvwfx9VWFh1tEsw==;v5FOtCoFwgnmKSBxQqFQ5A=="
 ---

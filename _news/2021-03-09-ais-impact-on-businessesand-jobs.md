@@ -2,9 +2,9 @@
 category: news
 title: "AI’s Impact on Businesses—and Jobs"
 excerpt: "Venture capitalist Kai-Fu Lee sees a lot of potential for all sorts of industries. But, he says, CIOs need to be sensitive to the impact on jobs."
-publishedDateTime: 2021-03-08T20:09:00Z
-originalUrl: "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143"
-webUrl: "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143"
+publishedDateTime: 2021-03-09T01:09:00Z
+originalUrl: "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143?mod=latest_headlines"
+webUrl: "https://www.wsj.com/articles/ais-impact-on-businessesand-jobs-11615234143?mod=latest_headlines"
 ampWebUrl: "https://www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ais-impact-on-businessesand-jobs-11615234143"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 640
     isCached: true
 
-secured: "tufzr6BgDK5Wz7x7DXQIr44TckPVGQIYOUYyIBykAUJO2N8NRv3DzVcY06yEeZLE+iU1Iw+hA9Xusi7TMPHk2SZ0Mqwr573PpCSkCy63q227uDvpO0eObns8LTMpjQKYKzuZwCs4Ho+jNaakHbcfehUdedTYuU5hGGHsi6HRDgRfz+1einqUyy8LdpsHHaZBD3N9wFLxG2qfY/y++mr6Nqs70uTlsMUNKMJQRX1nfT0ObWGWvQpr0LDwk3aSQGsMTeSrsBENZYVjERk2yz9/wWYLqNcBJrNEPKnqUxiI3/BkiT4dnyOw4UhlWqf3J8GTuZim4qIPmzg1GqiPy6mjDcv+C2AFj6Ay5dDG2bPi5sSVooO+GZ9xnVbGdfUNqa6CRH+sMjQPUrl0yjGWW8DuPYdZyHxGbHHs1scrwGx1khPhg/CXYwZIwHgcRQMHbqOncLv7sgQc7l1TiqW2Rb8N2D51RwA7dfKzSE2OUka966Jg4zXX2d8kjYgEYFJYH8VeNB/PqpFfYWyCZPPceiYdew==;Fc74vgHoISa8L/pBhtRXKA=="
+secured: "4h0tpSdu4hXM6Rj0PxZbkZc0Neq+FUTD6eLo15yIuuo5zGJmWAT13nY4k1UVBBFekFG3pQxnkXbzsw+FTTpAsCN483ZRztrwKw+vHNtgt/NLB4+jR/QWN9MBOFYvdneARSpu6iIpZJpKqp01s+X5IuItqWGEXfNPV4Uwym2YxumwyvKdD6qE4deg/SRALNWXehIi302gqRSDz1OwKZdyflZqDPVCmBpFTZKn+00m2dxCr4+u3RrOGTmB5cWgWGr8hqEMh52UBUGBM+0h54+ca3NRUMlgNhj8udLxlxse0cf13jO1JvdFtGPIa9Jv46f+Xxg3bXMs20nKGQfM+DF1+UGqo7OAZKhSY1z4nXCCnFU=;hVCzZ6KyCkKN/BbySggxSg=="
 ---
 

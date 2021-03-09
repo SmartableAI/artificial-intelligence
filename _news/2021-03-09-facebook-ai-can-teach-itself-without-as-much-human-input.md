@@ -57,20 +57,6 @@ related:
         width: 2048
         height: 1075
         isCached: true
-  - title: "Facebook Researchers Report Advance in Computer Vision"
-    excerpt: "Facebook said it has developed a self-supervised learning AI system that could help companies create highly accurate computer vision software."
-    publishedDateTime: 2021-03-04T20:00:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-researchers-report-advance-in-computer-vision-11614870001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 71
-    images:
-      - url: "https://images.wsj.net/im-307134/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Facebook’s new AI teaches itself to see with less human help"
     excerpt: "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels."
     publishedDateTime: 2021-03-07T12:04:00Z

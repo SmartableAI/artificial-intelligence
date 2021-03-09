@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-lege
 webUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://images.hgmsites.net/hug/2021-honda-legend-japanese-spec_100783864_h.jpg"
         width: 1920
         height: 1135
-        isCached: true
-  - title: "Honda to sell advanced 'level 3' self-driving car"
-    excerpt: "Honda on Thursday said it would sell a limited batch of its flagship Legend sedans equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways. Ciara"
-    publishedDateTime: 2021-03-04T20:30:00Z
-    webUrl: "https://www.timesnews.net/photo-video/video/honda-to-sell-advanced-level-3-self-driving-car/html_04f46180-7d10-11eb-97f2-8b8d75fe19c7.html"
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/0/4f/04f46180-7d10-11eb-97f2-8b8d75fe19c7/60411ae21f79a.preview.png?crop=1815%2C1021%2C40%2C0&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
         isCached: true
   - title: "How Honda's Level 3 self-driving technology works"
     excerpt: "Honda unveiled a limited batch of its flagship Legend sedan with Level 3 self-driving capabilities, becoming the world's first automaker to sell a vehicle equipped with the technology. Lease sales of the level 3 Legend would be limited to 100 cars at a retail price of 11 million yen ($102,"

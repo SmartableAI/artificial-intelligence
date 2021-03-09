@@ -7,7 +7,7 @@ originalUrl: "https://technuter.com/channel-news/edelweiss-selects-aws-as-its-pr
 webUrl: "https://technuter.com/channel-news/edelweiss-selects-aws-as-its-preferred-cloud-provider.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 277
     height: 239
     isCached: true
+
+related:
+  - title: "Amazon Web Services selected as Edelweiss’s preferred cloud provider"
+    excerpt: "Edelweiss, a diversified financial services company in India has selected AWS, an Amazon.com Inc. company as its preferred cloud provider."
+    publishedDateTime: 2021-03-09T11:41:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/amazon-web-services-selected-as-edelweisss-preferred-cloud-provider/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 41
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "Vok0pzb7HpP2uy3Luc+e/M38XNSUkjsMJwAnB6km4shXnrAc0yHHtF2LEQyHOiXZoXIlDFZMZPRExlXEjE6wMG5IDbNeyLKOu76HKi/dagvXl9ABPGfBq1Qld6QzW0oL5y6dC0tfn4Bww5Mlv/GkaCRKP3usLfaR1n0OCAebhaMU0tgENKFGhkoOj9siLwmAzA4ifaYwGrwThQhELb2Yio/6gdomCGJrgsOhpxahpf197W6jDf7RtFlOCbJPYhV4O2VXOcVb8Eb89oWO/GPs1RPUGiCo1oiyI59j0H/vRxR1u0+kuNDdac/K4dq7ngrxNgJYsb6JnrmAT3DbVAjB0H9Oetqnn0+c/WQrpxXHNsTZyyHIx86HeVesI8t4pq07zz0WEauD3fpF8VbMSxyj7rSP8DYsdnCAY9IHCb9hd4reGLJMOfOFlhZPj0aTpXzD+1Mahzqf/OSQd8US8LRSyllwFfjmOxarewsZI20xrONm/G3bcZLLXuAKUXfoQLiCRm7Z6oAOJyOiS9fKv7txNQ==;Bx9CqTqMMtEcZgxOvptgXA=="
 ---

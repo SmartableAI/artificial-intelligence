@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
 type: article
 quality: 59
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -123,6 +123,20 @@ related:
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
     publishedDateTime: 2021-03-09T10:30:00Z
     webUrl: "https://www.marketwatch.com/press-release/digital-signage-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2028-fortune-business-insights-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Far-Field Speech and Voice Recognition Market Size, Share, Future Challenges, Revenue, Demand, Opportunity, Analysis and Industry, Forecast 2025"
+    excerpt: "Far-field speech recognition is a crucial technology for speech communications and intends to allow smart devices to spot distant human speech. This revolution is related to numerous situations like smart home appliances,"
+    publishedDateTime: 2021-03-09T12:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-size-share-future-challenges-revenue-demand-opportunity-analysis-and-industry-forecast-2025-2021-03-09"
     type: article
     provider:
       name: MarketWatch

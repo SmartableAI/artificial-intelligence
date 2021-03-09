@@ -62,20 +62,6 @@ related:
         width: 2048
         height: 1075
         isCached: true
-  - title: "Facebook Researchers Report Advance in Computer Vision"
-    excerpt: "Facebook said it has developed a self-supervised learning AI system that could help companies create highly accurate computer vision software."
-    publishedDateTime: 2021-03-04T20:00:00Z
-    webUrl: "https://www.wsj.com/articles/facebook-researchers-report-advance-in-computer-vision-11614870001"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 71
-    images:
-      - url: "https://images.wsj.net/im-307134/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Can Artificial Intelligence get common sense? Facebook model shows the way"
     excerpt: "This approach is known as self-supervised learning In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
     publishedDateTime: 2021-03-05T12:18:00Z

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-08-china-five-year-plan-aims-for-supremacy-in-ai-quantum-computing.md",
+      "title": "China five-year plan aims for supremacy in AI, quantum computing",
+      "excerpt": "China has unveiled a five-year plan that will boost tech research in hopes of leading the world in fields like AI and quantum computing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
+      "originalUrl": "https://www.engadget.com/china-five-year-plan-for-technology-225618577.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/OPIFTltEG3k7FZh8Xfh0LA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMjY0/https://s.yimg.com/os/creatr-uploaded-images/2021-03/72abf6b0-7f91-11eb-9a27-fd00ec45aa19",
+          "width": 2000,
+          "height": 1263,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/china-five-year-plan-for-technology-225618577.html",
+      "publishedDateTime": "2021-03-07T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech.md",
+      "title": "Google Billionaire Eric Schmidt Warns Of 'National Emergency' If China Overtakes U.S. In AI Tech",
+      "excerpt": "Former Google CEO Eric Schmidt on Sunday urged lawmakers to ramp up funding for research and development in the artificial intelligence space in order to prevent China from becoming the biggest player in the global AI market–a development Schmidt warned would spark national security and privacy concerns that could ultimately constitute a national emergency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "originalUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6045450b8882a468d26dd8cc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3448%26cropY1%3D124%26cropY2%3D2064",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonathanponciano/2021/03/07/google-billionaire-eric-schmidt-warns-of-national-emergency-if-china-overtakes-us-in-ai-tech/amp/",
+      "publishedDateTime": "2021-03-07T13:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
       "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
       "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
@@ -250,6 +354,49 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-658.md",
+      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Rises By 65.8%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a large increase in short interest in February. As of February 12th, there was short interest totalling 25,700 shares,",
+      "sourceUrl": null,
+      "webUrl": "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html",
+      "originalUrl": "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp",
+      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp",
+      "publishedDateTime": "2021-03-06T03:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theenterpriseleader.com",
+        "domain": "theenterpriseleader.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -600,7 +747,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 172,
+      "heat": 162,
       "tags": null,
       "images": [
         {
@@ -1070,155 +1217,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19.md",
-      "title": "Apps, drone deliveries and AI: How technology stepped up its game to fight COVID-19",
-      "excerpt": "A new report highlights the benefits, but also the shortcomings, of data-informed technologies and AI in the response to the COVID-19 crisis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
-      "originalUrl": "https://www.zdnet.com/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/04/10af9e08-4564-4dc6-bd8c-6cd04a69a9d3/cdei-repository-breakdown-by-sector.png",
-          "width": 1032,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apps-drone-deliveries-and-ai-how-technology-stepped-up-its-game-to-fight-covid-19/",
-      "publishedDateTime": "2021-03-05T02:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-meet-the-ai-algorithms-that-judge-how-beautiful-you-are.md",
-      "title": "Meet the AI algorithms that judge how beautiful you are",
-      "excerpt": "Companies working on such technologies are a darling of venture capital, and such algorithms are used in everything from online cosmetic sales to dating apps. These beauty scoring tools, readily available for purchase online,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
-      "originalUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/03/Screen-Shot-2021-03-04-at-7.49.31-PM.png?w=505",
-          "width": 505,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/03/05/1020133/ai-algorithm-rate-beauty-score-attractive-face/amp/",
-      "publishedDateTime": "2021-03-05T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design.md",
-      "title": "How AI trained to beat Atari games could impact robotics and drug design",
-      "excerpt": "Uber and OpenAI researchers say an advance in Go-Explore AI in beating Atari games could have applications for robotics and drug design.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
-      "originalUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/atari.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/",
-      "publishedDateTime": "2021-03-05T00:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

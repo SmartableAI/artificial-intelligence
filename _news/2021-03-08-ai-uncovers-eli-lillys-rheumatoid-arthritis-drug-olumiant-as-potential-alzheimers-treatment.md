@@ -139,20 +139,6 @@ related:
         width: 552
         height: 250
         isCached: true
-  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
-    excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options. Now a team at Massachusetts General Hospital (MGH) and Harvard Medical School (HMS) has developed an artificial intelligence-based method to screen currently available medications as possible treatments for Alzheimer's disease."
-    publishedDateTime: 2021-03-04T19:32:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-artificial-intelligence-reveals-current-drugs.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 31
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/alzheimersdi.jpg"
-        width: 775
-        height: 812
-        isCached: true
 
 secured: "rH+UPBQPYoTGOElY95HXWZTwC3ohVdNX5AEv2TLNNQLg7rcoxBC3uFFlFH9y+vaevRmH1GEb5XhjecjHFARfzn7CWR5D8w6Gd3HEH/jcyxCYb+kABW+SpldyUncMPTBZXNTTyEDHHMQAOQIGBFEUKYQQdgKZETFAhMn3XZ9n6DIj3xOZiWfcSS07IKyzArGkSaBazDYvk0ViKk2Q0l+7j1wycu1Rkz8dXKTpVof3SIYp6YsGHhsOIueYQPN+i2P4aE0gU7f8laD1SsXF32jyV57mq4Cw9VRN4JJytXnukYsuD5NW4qGxZQJlCkRntkknYBXFxMz2zuB2mZTZeRbkVExs9ZRaeEvAyK1hzXD6+Sc=;rjQHMqz5L382dcYHCVCBcw=="
 ---

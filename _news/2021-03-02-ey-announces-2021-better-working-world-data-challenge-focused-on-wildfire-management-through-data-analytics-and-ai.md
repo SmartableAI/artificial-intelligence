@@ -1,68 +1,26 @@
 ---
 category: news
 title: "EY announces 2021 Better Working World Data Challenge focused on wildfire management through data analytics and AI"
-excerpt: "Global competition calls on aspiring data scientists to innovate for sustainable economic growth- AI models to focus on helping prevent loss of"
-publishedDateTime: 2021-03-02T10:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
-webUrl: "https://markets.businessinsider.com/news/stocks/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai-1030139395"
+excerpt: "EY today announces the 2021 Better Working World Data Challenge, a global competition for aspiring data scientists. The Challenge is part of the EY commitment to innovate and use technology to address some of the world's largest environmental and climate change problems."
+publishedDateTime: 2021-03-02T10:22:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20210302cl94502/ey-announces-2021-better-working-world-data-challenge-focused-on-wildfire-management-through-data-analytics-and-ai"
 type: article
-quality: 27
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "Microsoft Ignite Data and Analytics roundup: Platform extensions are the key theme"
-    excerpt: "Microsoft is introducing a new Apache Cassandra Azure service, while adding new onramps to Azure Synapse Analytics. And it’s the first third-party cloud to cleanroom engineer its own MongoDB 4.0 API."
-    publishedDateTime: 2021-03-02T14:02:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 83
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/02/52301473-0c68-49f2-af2f-0da96be3e28e/cosmos.jpg"
-        width: 900
-        height: 400
-        isCached: true
-  - title: "Analytics Insight Publishes Vendor Analysis Report for Artificial Intelligence"
-    excerpt: "Analytics Insight recently published its first AI Review report to offer insights on how artificial intelligence service providers are positioned in the industry. The report named AI Vendor Analysis 2021 analyses artificial intelligence vendors."
-    publishedDateTime: 2021-03-02T11:10:00Z
-    webUrl: "https://www.analyticsinsight.net/analytics-insight-publishes-vendor-analysis-report-for-artificial-intelligence/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 33
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Review.jpg"
-        width: 1500
-        height: 900
-        isCached: true
-  - title: "The New Era of Deep-Learning Based Video Analytics"
-    excerpt: "Deep learning is taking video analytics far beyond what previous analytics could do. It’s not just a case of more accurate analysis or more specific types of object recognition. As a result, preparing to deploy apply video analytics requires preparation far beyond what was needed for previous generations of video analytics."
-    publishedDateTime: 2021-03-02T15:52:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21209783/the-new-era-of-deeplearning-based-video-analytics"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 4
+images:
+  - url: "https://mma.prnewswire.com/media/708904/EY_Logo.jpg"
+    width: 341
+    height: 400
+    isCached: true
 
-secured: "PcEGdKxX20z1gpnSa5GMbrAJvYkEr2j+Vknl1hwx8qWPIJtqz4hBBLN/adzHfR7BNaYlRvNcxbKVKrqaqQ/g0hsuDdyChNVJYD3R9yZliP1OfZECN2B0CwGoWRh6M6y277FE7lnJs4QYF3goD8qMu4xZX8Bn6IwRQ5qERkHcwJpnO4xc7YTT/2/8drGR14WB2MD2WV2mWfcIDKOHfyfb1d4J2OsPZffBhBazNXELcyLWNQv9XioDuTW9vNucLG9+C63gagsILdkV/MQk6Buo25rLGjVGrmpPa5s6bP266oXCNQjQFTY26tN8xqw6mBlSefnQVER4sLKsUK7Wq8tLX0vBB3gEp7U73RNDOX8CaWc=;76mBspRW+O6iHBfLj6Esjg=="
+secured: "M+PFBAKmfez48wkwz5yYj70xTdoB33cT47eT7Fd5F9IXDKhul5SIH3EexLuHRcC5YUaRiTOShr35bmQuZlxC218l1XWGqIMTsaaTz8krKVkAQ0BymcCfZCWV18pmtFSFDNsRxKxk8slLb8zjoLXswEVvXEkGeLNE5uy4NlKtw4kdSy5KVU3u571T/un32+Sb7q81LhONxVDfd8TkCcV1TO5P2GSq/WjIK5DxADrmQZ5KV8zp0BMPVDMSrBx2WBddCtGB4nbISFqz/7pm1Gekuvlopf3E5dDMwFnOtST6m9P5o8XBk7VQh0dXeBuxGLgIJSlNewlgIYHd58lt9VRtSWlkhthCNPkUH+X68X3aTcE=;27A/0RO+WtqtJrsv6wmbRA=="
 ---
 

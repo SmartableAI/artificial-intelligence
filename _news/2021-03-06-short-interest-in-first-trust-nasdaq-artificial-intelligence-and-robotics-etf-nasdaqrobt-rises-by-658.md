@@ -9,8 +9,8 @@ ampWebUrl: "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-t
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: theenterpriseleader.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Increase in Short Interest"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a large growth in short interest during the month of February. As of February 12th, there was short interest totalling 737,"
-    publishedDateTime: 2021-03-04T20:34:00Z
-    webUrl: "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html"
-    ampWebUrl: "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp"
-    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp"
-    type: article
-    provider:
-      name: theenterpriseleader.com
-      domain: theenterpriseleader.com
-    quality: 72
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks11.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "1,341 Shares in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Acquired by ShoreHaven Wealth Partners LLC"
     excerpt: "ShoreHaven Wealth Partners LLC bought a new position in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) in the fourth quarter, according to its most recent filing with the SEC. The firm bought 1,"
     publishedDateTime: 2021-03-05T08:37:00Z

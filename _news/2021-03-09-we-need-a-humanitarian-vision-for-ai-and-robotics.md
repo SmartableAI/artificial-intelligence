@@ -1,27 +1,29 @@
 ---
 category: news
 title: "We need a humanitarian vision for AI and robotics"
-excerpt: "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given The post We need a"
-publishedDateTime: 2021-03-09T09:16:00Z
-originalUrl: "https://www.newsoneplace.com/9608002012/ai-humanitarian-vision-robotics"
-webUrl: "https://www.newsoneplace.com/9608002012/ai-humanitarian-vision-robotics"
+excerpt: "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given"
+publishedDateTime: 2021-03-09T09:00:00Z
+originalUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/"
+webUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/"
+ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
+cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
 type: article
-quality: 69
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: newsoneplace.com
-  domain: newsoneplace.com
+  name: City A.M.
+  domain: cityam.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://images.weserv.nl/?url=https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-360x160.jpg&h=276&fit=inside&cbg=white"
-    width: 621
-    height: 276
+  - url: "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg"
+    width: 1600
+    height: 1060
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 600
         isCached: true
 
-secured: "aT5v8cp7OK7XmeJS5AS0DLU9rVhlDmsRo0S9m3ZebMm1PkRZOBT3P7Mdg39Kix7Ie5xSQeRGNmlwL72n0IKtY+D3aODONDgHXbQ7WC2Vgoxf2ml65gl1BLCuNiy1TVUZrjN6kPxeXDZn0OjEbjziRQ1gaVezYg3Y04lkOmmr1uUu7E118KcNu97PyPSxFNvl2hZrnFB0FJBL8GRe1uH+zslz6PyYYoBmRST607k01MK8CP6bkQ8YW7B5AYtZMaUcFF+csIX8lCxv+zNdwCrhp0m2Zr0iVg6PiICyoal9Wy0l1+Im+au2G0s0RFOmeRz7X6Vxzr/Strt2amu6gDpyiF2hC0ZxF+nmS0aQR6h2r0Y=;SlFRbg44+zhX05eVZUBsEA=="
+secured: "+q7AFuAZi308KmUHU0ZOdewaK6wVWlvsEBIR5yM2SgTtycQdeq2u868917qss4dvy0rOALfq8JjRiGkEO+D0+D1V8KIVm2Hgw1lol2YUpgprQlU0kd0BPwOuwu9CVCqXPwhmGxfG8JeAICRQLY6n6s57FhMy0hypYOTiwinal6MNciO1zjuPLyTV2D9wAJxvLbwfxPNHzAeN44LDba5em2dp9FVMKS0R+KO10BXdMBVds7HF3myN/4M0PrOG38gcwb89kkxvouFuABMB8SRi7/b/+THqA9Odlc6THi5kqUVpfBRXYMBhVU5Jpmy3YY67rv2N619kXOwKAMF/+dTcHNArkI5g0D/9mtA8R9DpWew=;KiqVoEQDxeLG7hBchXlF/A=="
 ---
 

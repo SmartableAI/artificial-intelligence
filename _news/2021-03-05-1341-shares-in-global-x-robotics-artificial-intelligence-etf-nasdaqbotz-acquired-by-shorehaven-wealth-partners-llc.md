@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Increase in Short Interest"
-    excerpt: "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) was the recipient of a large growth in short interest during the month of February. As of February 12th, there was short interest totalling 737,"
-    publishedDateTime: 2021-03-04T20:34:00Z
-    webUrl: "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html"
-    ampWebUrl: "https://theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp"
-    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-increase-in-short-interest.html/amp"
-    type: article
-    provider:
-      name: theenterpriseleader.com
-      domain: theenterpriseleader.com
-    quality: 72
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks11.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Rises By 65.8%"
     excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a large increase in short interest in February. As of February 12th, there was short interest totalling 25,700 shares,"
     publishedDateTime: 2021-03-06T11:42:00Z

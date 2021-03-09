@@ -39,20 +39,6 @@ related:
         width: 794
         height: 446
         isCached: true
-  - title: "SAS named a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
-    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms.1 This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic"
-    publishedDateTime: 2021-03-04T19:51:00Z
-    webUrl: "https://www.lelezard.com/en/news-19683915.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 28
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
     excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
     publishedDateTime: 2021-03-08T01:05:00Z

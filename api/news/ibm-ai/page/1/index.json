@@ -183,6 +183,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-ibm-names-research-veteran-as-cio.md",
+      "title": "IBM Names Research Veteran as CIO",
+      "excerpt": "Helping companies glean value from AI can be a tall order, depending on the industry. The Wall Street Journal reported last month that IBM is exploring the sale of its Watson Health unit ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibm-names-research-veteran-as-cio-11614643140",
+      "originalUrl": "https://www.wsj.com/articles/ibm-names-research-veteran-as-cio-11614643140",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-305839/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibm-names-research-veteran-as-cio-11614643140",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibm-names-research-veteran-as-cio-11614643140",
+      "publishedDateTime": "2021-03-01T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-ibm-cloud-satellite-enables-clients-to-deliver-cloud-securely-in-any-environment-including-at-the-edge.md",
       "title": "IBM Cloud Satellite Enables Clients to Deliver Cloud Securely in Any Environment Including at the Edge",
       "excerpt": "Lumen Technologies is a key edge compute partner to integrate IBM Cloud Satellite for 180,000 enterprise locationsMore than 65 ecosystem",
@@ -1386,58 +1438,6 @@
         "IBM AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-alzheimers-prediction-may-be-found-in-writing-tests.md",
-      "title": "Alzheimer’s Prediction May Be Found in Writing Tests",
-      "excerpt": "IBM researchers trained artificial intelligence to pick up hints of changes ... health care and life sciences research at IBM Thomas J. Watson Research Center in Yorktown Heights, N.Y., where ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/02/science/00SCI-SPEECH1/00SCI-SPEECH1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/01/health/alzheimers-prediction-speech.amp.html",
-      "publishedDateTime": "2021-02-01T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],
