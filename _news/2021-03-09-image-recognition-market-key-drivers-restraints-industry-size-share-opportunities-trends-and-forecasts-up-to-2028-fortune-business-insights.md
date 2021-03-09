@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Report 2020-2025: Global Industry Size, Growth, Share, Trends, Key Players and Forecast"
+    excerpt: "Mar 09, 2021 (SUPER MARKET RESEARCH via COMTEX) -- As per new industry analysis report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global deep learning market size is ..."
+    publishedDateTime: 2021-03-09T21:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-2025-global-industry-size-growth-share-trends-key-players-and-forecast-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US AI in E-commerce Market Trends, Research Report, Growth, Opportunities, Forecast 2019-2025"
     excerpt: "US AI in e commerce market is projected to grow at a CAGR of 26 0 during the forecast period 2019 2025 The US marks a significant position in the venture investment activity of the e commerce industry Some of"
     publishedDateTime: 2021-03-08T11:33:00Z

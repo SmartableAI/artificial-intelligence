@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-
 webUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-you-buy-right-prescription-glasses-online"
 type: article
 quality: 61
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "How a Startup Uses AI to Help You Find the Market Research You Need"
+    excerpt: "IBM’s knowledge management study. Bottom Line: Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports,"
+    publishedDateTime: 2021-03-09T21:55:00Z
+    webUrl: "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291"
+    ampWebUrl: "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp"
+    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 57
+    images:
+      - url: "https://lcolumbus.files.wordpress.com/2021/03/startup-finds-the-market-research-you-need-image.jpg"
+        width: 4500
+        height: 3000
+        isCached: true
   - title: "How A Startup Uses AI To Help You Find The Market Research You Need"
     excerpt: "Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports, competitive,"
     publishedDateTime: 2021-03-07T17:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
 type: article
 quality: 171
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -153,6 +153,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
+    excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
+    publishedDateTime: 2021-03-09T21:19:00Z
+    webUrl: "https://observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/"
+    ampWebUrl: "https://observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 52
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/11/GettyImages-1228323148.jpg?quality=80&strip"
+        width: 1616
+        height: 1260
+        isCached: true
   - title: "Why self-driving cars are designed to look like overgrown toys"
     excerpt: "Electric driverless cars are not just coming, folks. They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets."
     publishedDateTime: 2021-03-09T18:58:00Z
@@ -179,6 +195,17 @@ related:
     provider:
       name: Carscoops
       domain: carscoops.com
+    quality: 39
+  - title: "Tesla Tells Two Stories About Self-Driving Vehicle Timeline"
+    excerpt: "An email exchange reveals that Tesla has been marketing two different stories regarding self-driving vehicles: one that promises the technology’s much-touted autonomy and another that assures the DMV the tech is far off."
+    publishedDateTime: 2021-03-09T22:03:00Z
+    webUrl: "https://www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html"
+    ampWebUrl: "https://www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
     quality: 39
 
 secured: "Iq9R591wppN0ZL1KCenAWP0IALQyD9QVgX0WpQ/D10CEm3EwfgfPdcCWoxeIcX88gCX4ZaAPVKrNebOBFVVlAMB81tELto8AqBTjUVY9ywsCTBJFM+1GVNj36OFlEpVUSOm25C0ZcJAruRz/7vf1Z3qteCCNJNSpHJqb69riff1VVfjmhGogN/UXiA2tUM9Ep7b7SxrydVh96d34fnDeVdeGE99uVeXKeZYnEvKln7ObVuEmWAqR4bOgUZgce63ompRjapzw4buARwMXXCc4SSwboIUrK4jZJwzey657dQt6ced4AsQPILUE5D5VAyJe5JhxSoOQobp2KEZWyC5wHPdr/UxiJBjuBGWSPBc1Y4a2ClHa3ne7O3MXXfU25EVmOSzVWhfux8O2GxL0ugpyAvGODKA3O0S5BDnoqXBwqdRbjCD9ITJMHme7WUNJKW7Fir0fcrr4KsNXoiJMQQdN0s/3wFANKiqCgUgco4GQHW3e6deVCSqRxKXNehI51RIrJxsYZpaf/sDA0SuJLcy6RhpEHrLOj2ENklZMgUopsHg=;UOkTAezg65xNqunYUUsCAQ=="

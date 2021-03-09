@@ -7,7 +7,7 @@ originalUrl: "https://www.controleng.com/articles/harnessing-the-power-of-ai-for
 webUrl: "https://www.controleng.com/articles/harnessing-the-power-of-ai-for-robotics/"
 type: article
 quality: 69
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 645
     height: 350
     isCached: true
+
+related:
+  - title: "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021"
+    excerpt: "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,"
+    publishedDateTime: 2021-03-09T22:17:00Z
+    webUrl: "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
+    ampWebUrl: "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 89
+    images:
+      - url: "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
 
 secured: "cCjiuPGIKYTSuMOg8OOicQm+O4FuOH4pNPQwBvW9PBRNbmXu65uuLxUC10ri8Z4uEUwtvNvHueBc/zAvGcXu/EHPK+nvPicpeNX4x2AbTcZPvrkyKuKQd1k70QQuZmRQef7Sdf2XM8nHbVYxXFyVVthVoM3koEUlRKSJtwI5uYl5V4OhL+jD45S4KdERMRhv/9kogcxRDCgZQ4qvLujCb4hpm0RjUso/zrMtibsWuHYUcUAaQmtHfvG9RBjhPr/tkrlZkexj/U5lcW0c9wH8j1v7yHRYUf1LqNGXdDVXHnKkhOZ1whUlWb1hK8jmH7urPyI/XPfhPe3boDwpT4OLC69XnqlGXOzlRKh4zNv0O3LXIq9Qipobt9SF8CiJtXec8msab8R8yRONALrf8Me0adZ9cU2gwsh+bFowp8DiCKIlwH/huS1sgtCKn+cM2malebddv3u1wFfBmHwTcc9R3om/EFWKNgvF1KwoSwa0Vmy+yCYh7kz0qiXCZTYZjgRd2AvEE99i80DKt+JUXG17Sg==;36wy7tdAvP+Zd0XNj/8tdw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202103/chinese-lawmakers-consider-
 webUrl: "https://www.biometricupdate.com/202103/chinese-lawmakers-consider-more-facial-recognition-restrictions"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Startup automates Chinese restaurants with cooking robots"
-    excerpt: "Cooking robots developed by Yushanfang, founded in 2018, are now in the 10th generation. The robots, which prepare one dish at a time upon order, are used by fast-food restaurants. Cooks' skills are a key factor in the taste of Chinese food,"
-    publishedDateTime: 2021-03-05T05:24:00Z
-    webUrl: "https://asia.nikkei.com/Business/36Kr-KrASIA/Startup-automates-Chinese-restaurants-with-cooking-robots"
+  - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
+    excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
+    publishedDateTime: 2021-03-09T03:55:00Z
+    webUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
     type: article
     provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
     images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F3%252F7%252F9%252F7%252F32737973-3-eng-GB%252FCropped-1614668986%25E5%2590%258C%25E7%25A4%25BE%25E3%2581%258B%25E3%2582%2599%25E5%25B1%2595%25E9%2596%258B%25E3%2581%2599%25E3%2582%258B%25E4%25B8%25AD%25E8%258F%25AF%25E6%2596%2599%25E7%2590%2586%25E3%2581%25AE%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2595%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2599%25E3%2583%2581%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%25B3%25E3%2580%258C%25E6%2598%2593%25E7%259B%2592%25E9%25AE%25AE%25E3%2580%258D.jpeg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/12/JD-shirt-China.jpg"
+        width: 505
+        height: 325
+        isCached: true
+  - title: "Quantifind Introduces Chinese Language Support for Truly Global Financial Crimes Investigations Automation"
+    excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has added support for search and analysis of Chinese-language data sources to its Graphyte™ platform."
+    publishedDateTime: 2021-03-08T16:47:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2845827"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 6
+    images:
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "FGS5hK3boZiR24OJyp/4XpjR4MROFfewfiRVXjjjN18ecA+bVYmpjxRD0zs9Y/76XsTcuQBTEk9MEnncTByM1gSXbysI/Ht4Ih6GcH7cOykHJmFignubFih/xsAVhXqw3KifI56mDSpYl4F2bgHDzHjNurHyF1BcEZusCPv/bLUHIJui/U3YLVO77rp24uol6r86wzOMPKVBjUWXv2a52MII3CP4Ah658BoWVORY80iImA26eDEnJCd55c+tsuTK+K2jD43riRHW+2d8koAO6m7U3+7yAtnlrCCX4vW5SR0pe66uhJrCGpA05Ip8ngj2zyPUhlav2/BXJAd3ofgugRKbQd7qUPwGKFnCYNw0BWM=;U3Fc0/7pODIbhgJYgz1Nqg=="

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Neural network CLIP mirrors human brain neurons in image recognition"
+    excerpt: "Open AI, the research company founded by Elon Musk, has just discovered that their artificial neural network CLIP shows behavior strikingly similar to a human brain. This find has scientists hopeful for the future of AI networks' ability to identify images in a symbolic,"
+    publishedDateTime: 2021-03-09T21:06:00Z
+    webUrl: "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html"
+    ampWebUrl: "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/6047c07b01a40.jpg"
+        width: 846
+        height: 620
+        isCached: true
   - title: "A neuron only found in the human brain has appeared in artificial intelligence"
     excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
     publishedDateTime: 2021-03-08T14:36:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600
         height: 400
-        isCached: true
-  - title: "The brain, AI, and human destiny"
-    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
-    publishedDateTime: 2021-03-08T19:54:00Z
-    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
-        width: 770
-        height: 578
         isCached: true
   - title: "OpenAI reveals human brain-like working of artificial neuron"
     excerpt: "Elon Musk-founded startup OpenAI has discovered multimodal neurons in an Artificial Intelligence system that work just like some neurons work in the human brain."

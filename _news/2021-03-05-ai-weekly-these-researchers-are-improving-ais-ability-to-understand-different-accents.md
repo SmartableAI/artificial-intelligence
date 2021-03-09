@@ -134,6 +134,20 @@ related:
         width: 1500
         height: 500
         isCached: true
+  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
+    excerpt: "Parsons Corporation is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+    publishedDateTime: 2021-03-09T21:49:00Z
+    webUrl: "https://www.lelezard.com/en/news-19690974.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 32
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "KJKjiF/k001sX5Tm8qekAffIKs7pznVFYDJqE2OY3evBbPx1La3HLv/jHGDYLTOwgNh6+vIYgffi9WonOYcCZH0GFqHV4ZgKlgI7uHUSNEcFm+zGsyaC2g1lUtg2IgufVBOb/74qSqzQmrHGToW/flrVWKFDTjlueBM2V6Qb3rNiqil7mQXgmilhCN7GE7kv7Gss2zLsES19OgYM6X52qNhGiv4P0a827eDbgr2A/4XA2QbGlm0pWCD9IK3Kt3OcFML4Lyy0NMANzk9SsKrZBv4pDS+lvD2Dmf27mjSlyQ1QNFaHyeaw9uBF0vLY9mTa4zL2NWM21Ypx0tUVsihCN09j4DLKt5Kedp/2F2UFxpa/Ap9hJYrrFdM8qZvMOd7VCqm8nRUAlsaB8RGr0c9E9GBjQ/bR3oPUeNqko9+rCyJC4wqR5jq7o3X1mR9jwEiWnJNwYdIUMBGA+bv+nDjBtaLckMx3uie0PfstIK4AwbkRMxfSWptiURgH3OVtR5BatNpS46ONO1H/hUwpMvM2BA==;ZOOfKfPVq1cmDq+eMz/t8Q=="
 ---

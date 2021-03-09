@@ -2,9 +2,9 @@
 category: news
 title: "AI translation company Rozetta bars staff from speaking a foreign language at work"
 excerpt: "AI technology has come a long way in the last decade, becoming useful in a wide variety of fields, including cooking, modeling, and even drawing manga. But we haven’t really seen it come to such impressive lengths that it can change the nature of human interaction–at least,"
-publishedDateTime: 2021-03-06T21:20:00Z
-originalUrl: "https://japantoday.com/category/tech/ai-translation-company-rozetta-bars-staff-from-speaking-a-foreign-language-at-work"
-webUrl: "https://japantoday.com/category/tech/ai-translation-company-rozetta-bars-staff-from-speaking-a-foreign-language-at-work"
+publishedDateTime: 2021-03-06T21:00:00Z
+originalUrl: "https://japantoday.com/category/tech/ai-translation-company-rozetta-bars-staff-from-speaking-a-foreign-language-at-work?comment-order=popular"
+webUrl: "https://japantoday.com/category/tech/ai-translation-company-rozetta-bars-staff-from-speaking-a-foreign-language-at-work?comment-order=popular"
 type: article
 quality: 13
 heat: 13
@@ -18,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "bVmh4mPiLw9N6ELUxrTuJ2kLCWXatdrjvzu3hnnMtyaLRAhJUiSYNahRCOMqh6YFlN3/OSZVkugloIix3bUaByCBmC5Gd3apSdPqMrEIkSgpr7b6Xw61stQwnguF5fGXp/tXJq55O4e5qd2maPCl8PLh7ntldyOeGX4wSc59vK0ivHMMF2B7e816b9yKemZiYB36U7GckI98OPv47nookC3GGcPwoYfn/h3CY9pGatqVy4wxsa0dR/3jCdMIyDom87QTCtHietPjKvKn0m2yhH72AyHA8KLRcaX8ecs8jSDf9L+pYJCfSV+AVGTuUjWuyRkB44hS3SZdzJwWnBCJbhnvOhmlOaoe2Uta2n+rsSYf/IRi8DF4wCUCA57cPsRs9ng+gong/u2YLkJ9jurg57xjAgi8syaZAxrjQYPsyIghiHpeffdVTve4iShySHuCMYhQbFOP/yIozwabtw49Yj+DFAgDDWj/85RmPsWK3f50ND1n1HxQAtpTyDMwBX/3c/K9PUfXM1xPP4RRpCqgOg==;65rDii52R8YLIvLOYJttMQ=="
+secured: "u5T82PPh84cFWrkNxaRKYVBUIFMM/wOSPprFdhSwNvK0zOgFoHFZgTcv4zqjLGjMPmdrdv/JUW4LeJPxmXnw1K/H6Lo+11c4HHkM5jpSP22f/VzMCKyCLUadPnjlY5eTisOuE6obwylJGSDRgfo2Aa+AGY057T0PirxHn0e6VMEwcO/069aCaTyMZBvykch7VZFTveq5qokJ6eXbx0p5unERurcgB6xiEpryxSynUqbIsqjSwfOKki29WfL0QGsNNoe7ga8ocyn5BDLlEMps1XU/ndAA/g7Oo8OxfxFHupHIMqtHahNywkgLKl7CSgY8hc+7JqtQ85CUczy1wVlKgGWUogsZKHUu+lp/A4ObiJtvuwcGfOxMeSqW/yGkzzNcfMhaL+vO43CUvArAgCgJfYxhpSYz3cY+/kt0j3r27tEzh7/PN/6RtYOPalbqliF+/v0JdN2yzdfzgxAbrDt0mskjCar2DcwK5YTsgY7JX4ip2ntnuiGZohuG8/xbE4E/9W4DAPKSMocgbM6vy+BBLw==;HffRCDC8esTjs4Z9bUYRew=="
 ---
 

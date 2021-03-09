@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Market Report 2020-2025: Global Industry Size, Growth, Share, Trends, Key Players and Forecast"
+    excerpt: "Mar 09, 2021 (SUPER MARKET RESEARCH via COMTEX) -- As per new industry analysis report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global deep learning market size is ..."
+    publishedDateTime: 2021-03-09T21:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-2025-global-industry-size-growth-share-trends-key-players-and-forecast-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028, Fortune Business Insights"
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
     publishedDateTime: 2021-03-09T10:31:00Z

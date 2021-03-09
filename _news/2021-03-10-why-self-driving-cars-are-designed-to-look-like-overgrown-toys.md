@@ -169,6 +169,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
+    excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
+    publishedDateTime: 2021-03-09T21:19:00Z
+    webUrl: "https://observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/"
+    ampWebUrl: "https://observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/amp/"
+    cdnAmpWebUrl: "https://observer-com.cdn.ampproject.org/c/s/observer.com/2021/03/tesla-full-self-driving-beta-level-2-not-self-driving/amp/"
+    type: article
+    provider:
+      name: Observer
+      domain: observer.com
+    quality: 52
+    images:
+      - url: "https://observer.com/wp-content/uploads/sites/2/2020/11/GettyImages-1228323148.jpg?quality=80&strip"
+        width: 1616
+        height: 1260
+        isCached: true
   - title: "Tesla Expands Full Self-Driving Beta Software Doubling Its Size"
     excerpt: "Tesla is expanding its Full Self-Driving beta as it looks to ramp up the development of the advanced driver-assistance system. The electric car manufacturer introduced the Full Self-Driving beta in October to select owners participating in its Early Access Program."
     publishedDateTime: 2021-03-08T10:55:00Z
@@ -180,7 +196,18 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
+  - title: "Tesla Tells Two Stories About Self-Driving Vehicle Timeline"
+    excerpt: "An email exchange reveals that Tesla has been marketing two different stories regarding self-driving vehicles: one that promises the technology’s much-touted autonomy and another that assures the DMV the tech is far off."
+    publishedDateTime: 2021-03-09T22:03:00Z
+    webUrl: "https://www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html"
+    ampWebUrl: "https://www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Tesla-Tells-Two-Stories-About-Self-Driving-Vehicle-Timeline.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
 
-secured: "ju437v+D/aDz27kZ5yRzZ8LUK0OtKTg7OosIeZlWiaVWITTTaxktnp6eeUDS+4uxrHuEbw5Bdp1EdSbru0c96B1ze6tMI6GPeQi0sBVoltXGnQI9hV5ST42Ru4NqGz5vo76CDqA+6sdxC6yqtC99gYZwaWX24uekAUcSVpAHDFGy9K6J+vWzs1PwhTdR4qliLoeMv4hKclKTm3Z5NrLs7GOcolhl3m9nCFz8ezzGusHBJ4lAeAsD1HGgIq6xRfMT+2+Q+VV582TsE0zAqRAdVb2AeLawP4QA4bqwcOyCo/v4IAXmrXZnYgGwWE+mYs4A6OczNKmUxze+tCe5Z6LV2ZOPV7aBcN6P8nApupUjOQA=;JQCQNawGJ1GWGAIuqAopLA=="
+secured: "8FwfIPV2I8ya19X58pqMoQ901pm/7QBJDyOyZmB6axBK9HjHj8sTTWjx53al5BSdU2byjQ2rQqWpS9xCvlT90BXeDe5hKQ4FncIlHzF7PIRSq1pc+IA7i3gFpVJSbnDd4OdOu0iOVj5uQ3uNDzHZSuwOhpmiSbLsZiZoN6WdD7yLU8RKCPCM34kJPsDCcHxHAcNZJae7891woHznK9YT6r0bJOxqJcquzYaVU/LZvDkaPOnsC0Vi0KWYzknYm5BNeMC8zCExkhjQ/HzpPV0eD4zHl/2brtUW5lNRevYuj/wJzKH4i198Up4b1SJFPqSQt2BHL3SxIjwywNvRsNkoE/WmvUxCiqxiI/f7A8+cp/pcZYuDUtiSdA/MC9oIuIKTQHUshDHdp7AMcNYR8f735IX3K05BLk0lZLRGPNZIQdrMX+7qYgI4eW0gvREBh0k2P361Aq+sLY6HGK0/8I5B9S8vMb7CKxHADEywtnjwQ0FMPIjI7/33SBcCz3g3NRYw1cCEBN3TzWUKPM3WSXQXFg==;Vovz1aEYxACQMeq2oGlx+g=="
 ---
 

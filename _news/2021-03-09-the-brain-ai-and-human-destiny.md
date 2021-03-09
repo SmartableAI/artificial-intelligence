@@ -7,8 +7,8 @@ originalUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
 webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -28,46 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "A neuron only found in the human brain has appeared in artificial intelligence"
-    excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
-    publishedDateTime: 2021-03-08T14:36:00Z
-    webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
-    ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
+  - title: "Is Artificial Intelligence Close Enough In Understanding our Brain?"
+    excerpt: "The role of Artificial Intelligence in business is enhancing since the everyday discoveries of new AI applications. It is now possible to use artificial intelligence technology along with a brain-computer interface to generate facial models according to the brainwaves."
+    publishedDateTime: 2021-03-09T19:30:00Z
+    webUrl: "https://www.analyticsinsight.net/is-artificial-intelligence-close-enough-in-understanding-our-brain/"
     type: article
     provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 72
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 56
     images:
-      - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/AI-Brain.jpg"
+        width: 900
+        height: 500
         isCached: true
-  - title: "OpenAI reveals human brain-like working of artificial neuron"
-    excerpt: "Elon Musk-founded startup OpenAI has discovered multimodal neurons in an Artificial Intelligence system that work just like some neurons work in the human brain."
-    publishedDateTime: 2021-03-06T11:53:00Z
-    webUrl: "https://www.sify.com/news/openai-reveals-human-brain-like-working-of-artificial-neuron-news-education-vdgmlEbcaijgb.html"
-    ampWebUrl: "https://www.sify.com/news/openai-reveals-human-brain-like-working-of-artificial-neuron-news-education-vdgmlEbcaijgb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/openai-reveals-human-brain-like-working-of-artificial-neuron-news-education-vdgmlEbcaijgb.html"
+  - title: "Speech, Voice, Accents and AI"
+    excerpt: "Allison Koenecke works in the Stanford University Computational Policy Lab and the Golub Capital Social Impact Lab You might also be interested in these programmes from the Free Thinking archives - all available to download as BBC Arts & Ideas podcasts What is Speech?"
+    publishedDateTime: 2021-03-06T01:10:00Z
+    webUrl: "https://www.bbc.co.uk/programmes/m000srbn"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-  - title: "Elon Musk-founded Startup Discovers Artificial Neurons Only Been Seen In Human Brain"
-    excerpt: "Researchers at Open AI, a startup founded by Elon Musk, have discovered neurons within an AI system that have only previously been seen in the human brain."
-    publishedDateTime: 2021-03-06T07:39:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/elon-musk-founded-startup-discovers-artificial-neurons-only-been-seen-in-human-brain.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 32
+      name: BBC
+      domain: bbc.co.uk
+    quality: 37
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8qdxohp7yqcyelal_1615010547.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
+      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p097ckq7.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Artificial Intelligence Is Guiding Human Return to the Moon"
+    excerpt: "There is no doubt the only way forward for humanity is to enlist the help of artificial intelligence systems, such as they presently are. They are required, you see, because humans always had a habit of biting off more than they can chew,"
+    publishedDateTime: 2021-03-07T10:52:00Z
+    webUrl: "https://www.autoevolution.com/news/artificial-intelligence-is-guiding-human-return-to-the-moon-157274.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 37
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/artificial-intelligence-is-guiding-human-return-to-the-moon-157274-7.jpg"
+        width: 728
+        height: 300
         isCached: true
 
 secured: "vhGx1IbE9iC89M2HiBSUEjCkVwDUEq3RLlHRvHMGk7xjsRYKFsy8ioT7ynWMbxf2v2G6IhjWHdzPRi5VPn/YUPLnmds/drswHyPjxyxrDIvGAuMtH6uUrPpCr4lRtqC/ioOpZ1kvvQGWQN/D28v/BARiYNUWw7w4ezY2Rku+fUUaOj0TwctC0Dv73rM4Ez19C89GL/Vf/h88Bcaw1jgWyixhcSxIL5G6uGk2WXb0MkmewVvqMC+dhdhv2iNYd8sr3JnPKVKKQxgH2mW0fzXz+/1ZfuqD2AaK32/Y4Fbd+PuLuVPOS3W+q/WA+S/3hNaX1mqp2br5Wl6AVFr+QqADW4YX0KhlN+zVPscwIUDnZyJUiT+1LPGA/2aty4rp/HAYTD5ItY8D39OtehahmkaaRofYhJ2YuNZ678B7/3meXv922kj1KiWrbhqiWn1Twkg3KYN8MXRlT9do2/9R6hf5avNCKmk5WsGjeaFrnpYCj3cY6PQ3DYuKiXnWTR4vKQQ3DzAhtU+nw0Vq030x2p5pzw==;CiW0WJd0JL5A46QgQn97DA=="

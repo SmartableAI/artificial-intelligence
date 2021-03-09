@@ -76,6 +76,20 @@ related:
         width: 997
         height: 499
         isCached: true
+  - title: "Supply Chain AI Adoption May be Hastened Due to Pandemic, says KPMG"
+    excerpt: "The COVID-19 pandemic has accelerated the pace of artificial intelligence (AI) adoption, but many say it’s moving too fast, according to a new KPMG survey."
+    publishedDateTime: 2021-03-09T22:42:00Z
+    webUrl: "https://www.scmr.com/article/supply_chain_ai_adaption_may_be_hastened_due_to_pandemic_says_kpmg"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 39
+    images:
+      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
+        width: 444
+        height: 333
+        isCached: true
 
 secured: "R/nAx2x+oZbfrpZOqerGpuqDyuDm6Ova0YX2qSWrQce6YVNxQ2VsXm2LJYi/V+bME/krZY+xoqzpL7G1Ksp3NNTbUlmNOA7kOJkEkUG8wUU2GI+LFLczricMAhHYHaVx+15+NSGYVTNqLaUV7FzM/zEiWj6utcUhx1MedLf4rvx0WXtrWT9DvbqrAmHyuZ9sSx/+ERcvEoniR0ABnx9fgcxk10kRfqerpREY7VNyE5QNZlmxucqpWKfmxpc8vshx13TqJk/WykZQgpgJYRtJlXNnlG+fhiw7+oYWU4TAtH3hB3Bk9cnzhkJVbE7aRwshurfWforG7ZJXQAARq9qDf1+idJMAa9ONOOtMKXxKXh0=;M4ORySoD9dD2dnet2VhMyA=="
 ---

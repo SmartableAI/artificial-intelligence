@@ -27,8 +27,8 @@ images:
 related:
   - title: "Toyota VC invests in AI start-ups, firms that refine everyday processes"
     excerpt: "TOKYO: Toyota Motor's first venture capital fund is investing in start-ups that help the Japanese automaker refine everyday processes by bringing"
-    publishedDateTime: 2021-03-08T02:40:00Z
-    webUrl: "https://www.channelnewsasia.com/news/business/toyota-vc-invests-in-ai-startups--firms-that-refine-everyday-processes-14359130"
+    publishedDateTime: 2021-03-08T04:02:00Z
+    webUrl: "https://www.channelnewsasia.com/news/business/toyota-vc-invests-in-ai-start-ups-firms-that-refine-everyday-14359130"
     type: article
     provider:
       name: Channel NewsAsia Singapore
