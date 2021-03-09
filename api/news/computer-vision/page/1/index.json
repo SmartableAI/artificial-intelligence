@@ -159,6 +159,51 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-vision-chip-drives-rise-of-self-driving-cars.md",
+      "title": "Vision Chip Drives Rise of Self-Driving Cars",
+      "excerpt": "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "originalUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "publishedDateTime": "2021-03-05T15:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025.md",
       "title": "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025",
       "excerpt": "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report.",
@@ -1325,6 +1370,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-continental-invests-in-object-recognition-startup.md",
+      "title": "Continental invests in object recognition startup",
+      "excerpt": "The startup is working on a new chip architecture for object recognition in real time based on artificial intelligence, Continental said on Tuesday in a statement. The supplier said it expects the ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "originalUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Continental%20grille%20web_2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-continental-invests-in-object-recognition-start-up.md",
       "title": "Continental invests in object recognition start-up",
       "excerpt": "Logo of German tyre company Continental is seen before the annual news conference in Hanover, Germany March 2, 2017. REUTERS/Fabian Bimmer",
@@ -1357,101 +1445,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada.md",
-      "title": "Clearview AI’s facial recognition app has been called illegal in Canada",
-      "excerpt": "Clearview AI's facial recognition app has been called illegal in Canada The Clearview AI facial recognition app is not welcome in Canada",
-      "sourceUrl": null,
-      "webUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
-      "originalUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2021/02/Clearview-AIs-facial-recognition-app-has-been-called-illegal-in.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
-      "cdnAmpWebUrl": "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/clearview-ais-facial-recognition-app-has-been-called-illegal-in-canada/amp/",
-      "publishedDateTime": "2021-02-20T23:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "compsmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-facial-recognition-sexual-predator-caught-on-cctv.md",
-      "title": "Facial recognition: Sexual predator caught on CCTV",
-      "excerpt": "A grainy image captured by CCTV on a bus was key to catching a sexual predator who has been sent back to prison. Along with a 14-year-old police custody picture, facial recognition software helped officers track down Craig Walters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
-      "originalUrl": "https://www.bbc.com/news/av/uk-wales-56130226",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/images/ic/400xn/p097jh5y.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-20T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -101,20 +101,6 @@ related:
         width: 660
         height: 466
         isCached: true
-  - title: "Facebook’s new AI model SEER can teach itself to recognize images"
-    excerpt: "The SEER model, outlined in a paper released March 2, was fed 1 billion publicly available images without annotations or labels from Instagram. It then worked through the dataset, learning as it progressed,"
-    publishedDateTime: 2021-03-04T17:42:00Z
-    webUrl: "https://siliconangle.com/2021/03/04/facebooks-new-ai-model-seer-can-teach-recognize-images/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/03/156601563_444871796757659_6553158605407931420_n.jpg"
-        width: 2048
-        height: 1075
-        isCached: true
   - title: "Can AI get common sense? Facebook model shows the way"
     excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
     publishedDateTime: 2021-03-05T11:49:00Z

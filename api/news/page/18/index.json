@@ -2,6 +2,248 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-20-visible-light-face-recognition-door-access-control-android-system-installed-with-turnstile.md",
+      "title": "Visible Light Face Recognition Door Access Control Android System Installed with Turnstile",
+      "excerpt": "Visible Light Facial Recognition System Facedepot-7A is able to automatically recognize and track faces in videos. After installation,System is enabled to actively collect face images and perform matching and identification upon any human activity in its 3 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
+      "originalUrl": "https://www.globalsources.com/Facial-recognition/face-access-control-system-Android-1179870829p.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://p.globalsources.com/IMAGES/PDT/BIG/829/B1179870829.jpg",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Sources",
+        "domain": "globalsources.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest.md",
+      "title": "Google names exec to oversee responsible AI research after staff unrest",
+      "excerpt": "Alphabet Inc's Google on Thursday named Marian Croak, one of its few Black executives, to oversee research on responsible artificial intelligence (AI) after weeks of internal anger over its firing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.channelnewsasia.com/news/business/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest-14234970",
+      "originalUrl": "https://www.channelnewsasia.com/news/business/google-names-exec-to-oversee-responsible-ai-research-after-staff-unrest-14234970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/14234968/16x9/991/557/ac2f012b947c7ce54796194ecb1686a8/rO/file-photo--logo-of-google-is-seen-in-davos-1.jpg",
+          "width": 991,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T15:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Channel NewsAsia Singapore",
+        "domain": "channelnewsasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets.md",
+      "title": "AI Weekly: The challenges of creating open source AI training datasets",
+      "excerpt": "Creating open source AI training datasets is a process that must be undertaken thoughtfully, according to experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/",
+      "originalUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/deepfake-e1576010828444.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/19/ai-weekly-the-challenges-of-creating-open-source-ai-training-datasets/amp/",
+      "publishedDateTime": "2021-02-19T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-google-is-trying-to-end-the-controversy-over-its-ethical-ai-team-its-not-going-well.md",
+      "title": "Google is trying to end the controversy over its Ethical AI team. It's not going well",
+      "excerpt": "Croak will report to Dean. Ten teams centered around AI ethics, fairness, and accessibility — including the Ethical AI team — will report to her.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html",
+      "originalUrl": "https://www.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210218140829-timnit-gebru-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html",
+      "publishedDateTime": "2021-02-19T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-google-fires-second-ai-ethics-researcher-following-internal-investigation.md",
+      "title": "Google fires second AI ethics researcher following internal investigation",
+      "excerpt": "Margaret Mitchell was using an automated script to look through her emails for evidence of discrimination against Timnit Gebru.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "originalUrl": "https://www.theverge.com/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 345,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/O1BP3JZVk2HBAEmcX_KBvD3zFuQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68845703/acastro_180427_1777_0001.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/2/19/22292011/google-second-ethical-ai-researcher-fired",
+      "publishedDateTime": "2021-02-19T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-02-20-second-google-ai-ethics-leader-fired-she-says-amid-staff-protest.md",
       "title": "Second Google AI ethics leader fired, she says amid staff protest",
       "excerpt": "Alphabet Inc's Google on Friday fired scientist Margaret Mitchell, she said in a Twitter post, after weeks of being under investigation",
@@ -939,256 +1181,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-how-to-watch-nasas-perseverance-rover-land-on-mars-today.md",
-      "title": "How to watch NASA’s Perseverance rover land on Mars today",
-      "excerpt": "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/",
-      "originalUrl": "https://www.digitaltrends.com/news/how-to-watch-perserverance-landing-mars-livestream/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 182,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-operationalizing-enterprise-ai-at-scale.md",
-      "title": "Operationalizing Enterprise AI At Scale",
-      "excerpt": "Especially after your first AI use case has been successfully operationalized and scaled, make sure that others in your company hear about it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
-      "publishedDateTime": "2021-02-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-alexa-what-does-the-smart-home-teach-us-about-ai.md",
-      "title": "Alexa, What Does The Smart Home Teach Us About AI?",
-      "excerpt": "We don’t often get a real glimpse of the future before it happens, but I believe that's what the smart home grants business leaders for the future of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F602ebe9ecc4962fb6150f91a%2F0x0.jpg",
-          "width": 752,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/02/19/alexa-what-does-the-smart-home-teach-us-about-ai/amp/",
-      "publishedDateTime": "2021-02-19T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-the-ai-research-paper-was-real-the-coauthor-wasnt.md",
-      "title": "The AI Research Paper Was Real. The ‘Coauthor’ Wasn't",
-      "excerpt": "An MIT professor found his name on two papers with which he had no connection. A different paper listed a fictitious author by the name of \"Bill Franks.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "originalUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/602f12af44e48281d964ca1e/master/pass/business_ai-paper_1165857881.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-research-paper-real-coauthor-not/amp",
-      "publishedDateTime": "2021-02-19T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deep-learning-with-tensorflow-certification-training-course.md",
-      "title": "Deep Learning with TensorFlow Certification Training Course",
-      "excerpt": "IgmGuru takes great pride in introducing the well-curated Deep Learning with TensorFlow Course in which industry leaders and academia has been consulted while preparing this course. IgmGuru is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254",
-      "originalUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.speakingtree.in/b/777254-1350-420-5-1613712045/deep-learning-with-tensorflow-certification-training-course-777254.img",
-          "width": 560,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254/m-lite",
-      "cdnAmpWebUrl": "https://www-speakingtree-in.cdn.ampproject.org/c/s/www.speakingtree.in/blog/deep-learning-with-tensorflow-certification-training-course-777254/m-lite",
-      "publishedDateTime": "2021-02-19T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Speaking Tree",
-        "domain": "speakingtree.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
       ]
     }
   ],

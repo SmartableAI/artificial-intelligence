@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-04-edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords.md",
+      "title": "Edge AI Chip Company Syntiant Announces Support for ‘Hey Google’ and ‘Ok Google’ Hotwords",
+      "excerpt": "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html",
+      "originalUrl": "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
+      "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
+      "excerpt": "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "originalUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg",
+          "width": 1200,
+          "height": 651,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
+      "publishedDateTime": "2021-03-04T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-dooly-raises-20-million-to-organize-sales-information-with-ai.md",
       "title": "Dooly raises $20 million to organize sales information with AI",
       "excerpt": "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.Read MoreRead",
@@ -1099,101 +1194,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career.md",
-      "title": "Udacity Machine Learning vs. Simplilearn Machine Learning - for your ML Career",
-      "excerpt": "Machine learning technology, a subfield of artificial intelligence, is making tremendous transformations in the way organizations are making use of data to gain insights for their core businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "originalUrl": "https://www.thehansindia.com/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/03/03/1034909-machine-learning.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "publishedDateTime": "2021-03-03T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-voice-and-speech-recognition-market-size-share-and-forecast-2019-2025.md",
-      "title": "Voice and Speech Recognition Market Size, Share and Forecast 2019-2025",
-      "excerpt": "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

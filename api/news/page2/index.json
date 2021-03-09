@@ -408,6 +408,51 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-vision-chip-drives-rise-of-self-driving-cars.md",
+      "title": "Vision Chip Drives Rise of Self-Driving Cars",
+      "excerpt": "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "originalUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "publishedDateTime": "2021-03-05T15:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency.md",
       "title": "Open machine learning and AI data can increase ship energy efficiency",
       "excerpt": "The Swedish ship operator Ventrafiken and the research project “Data-driven energy efficiency for ships” (D2E2F) have established a collaboration to collect open data for research purposes. One of the double ended ferries (Uraniborg) have been equipped with a Blueflow Energy Management System to collect data on energy consumers and vessel data.",
@@ -459,7 +504,7 @@
       "originalUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1132,7 +1177,7 @@
       "originalUrl": "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1219,6 @@
         "AI in Robotics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-pinterest-details-the-ai-that-powers-its-content-moderation.md",
-      "title": "Pinterest details the AI that powers its content moderation",
-      "excerpt": "Pinterest pulled back the curtains on the AI and machine learning technologies powering its content moderation engine.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
-      "originalUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/pinterest-e1575661763261.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
-      "publishedDateTime": "2021-03-05T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

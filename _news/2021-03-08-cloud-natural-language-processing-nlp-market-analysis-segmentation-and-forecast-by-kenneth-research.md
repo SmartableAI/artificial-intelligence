@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08"
 type: article
 quality: 67
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Natural Language Processing Market Leading Growth Drivers, Emerging Audience, Segments, Industry Sales, Profits and Regional Analysis"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10."
+    publishedDateTime: 2021-03-09T08:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-leading-growth-drivers-emerging-audience-segments-industry-sales-profits-and-regional-analysis-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Payments Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025"
     excerpt: "Artificial Intelligence in Payments market across the globe is forecast to grow at the exponential CAGR during 2020-25. The major contributing factor for the growth of the Global Artificial Intelligence in the Payments market is increasing digitalization in banking and financial instruction."
     publishedDateTime: 2021-03-05T12:13:00Z
@@ -38,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast to 2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The Voice Recognition Market was valued at USD 10."
+    publishedDateTime: 2021-03-09T08:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2025-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

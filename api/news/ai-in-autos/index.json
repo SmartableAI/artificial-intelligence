@@ -150,6 +150,51 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-vision-chip-drives-rise-of-self-driving-cars.md",
+      "title": "Vision Chip Drives Rise of Self-Driving Cars",
+      "excerpt": "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "originalUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "publishedDateTime": "2021-03-05T15:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-10-women-changing-the-landscape-of-leadership.md",
       "title": "10 Women Changing the Landscape of Leadership",
       "excerpt": "In critical fields like agriculture, science, finance and technology, they have staked a claim with their pioneering work and are building a path for the next generation.",
@@ -234,6 +279,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-hondas-part-self-driving-legend-a-big-step-for-autonomous-tech.md",
+      "title": "Honda's part self-driving Legend a big step for autonomous tech",
+      "excerpt": "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
+      "originalUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT",
+          "width": 810,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -345,6 +442,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript.md",
+      "title": "Ambarella, Inc. (AMBA) CEO Fermi Wang on Q4 2021 Results - Earnings Call Transcript",
+      "excerpt": "At the beginning of the year, we introduced our CV5 and artificial intelligence ... a global leader in driverless technology, has selected Ambarella’s CVflow family of AI processors.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4410994-ambarella-inc-amba-ceo-fermi-wang-on-q4-2021-results-earnings-call-transcript",
+      "publishedDateTime": "2021-03-03T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1018,8 +1149,8 @@
       "title": "What do AI equity funds actually invest in? Let’s take a closer look",
       "excerpt": "The term has become ubiquitous in recent years, but where is the smart money in Artificial Intelligence funds putting its money?",
       "sourceUrl": null,
-      "webUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=1",
-      "originalUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570?assetClassID=1",
+      "webUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570",
+      "originalUrl": "https://citywireselector.com/news/what-do-ai-equity-funds-actually-invest-in-let-s-take-a-closer-look/a1471570",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1329,156 +1460,6 @@
         "name": "KPCC",
         "domain": "scpr.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars.md",
-      "title": "Automated Machine Learning (AutoML) Is Hot In AI, But Getting A Cooler Reception For Self-Driving Cars",
-      "excerpt": "To some degree that is the goal of Automated Machine Learning, known as AutoML, which consists of an automated means to build on your behalf a Machine Learning application, requiring minimal by-hand effort on your part.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1176838131%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8400%26cropY1%3D642%26cropY2%3D5367",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/23/automated-machine-learning-automl-is-hot-in-ai-but-getting-a-cooler-reception-for-self-driving-cars/amp/",
-      "publishedDateTime": "2021-02-23T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
-      "title": "SAIC taps Chinese chip startup for self-driving cars",
-      "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "originalUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1",
-          "width": 820,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "publishedDateTime": "2021-02-23T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack.md",
-      "title": "EU report warns that AI makes autonomous vehicles ‘highly vulnerable’ to attack",
-      "excerpt": "A European Union Agency for Cybersecurity report says machine learning should be considered part of the autonomous vehicle supply chain.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/",
-      "originalUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-1.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/eu-report-warns-that-ai-makes-autonomous-vehicles-highly-vulnerable-to-attack/amp/",
-      "publishedDateTime": "2021-02-22T17:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

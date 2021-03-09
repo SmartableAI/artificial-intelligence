@@ -98,6 +98,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Image Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028, Fortune Business Insights"
+    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
+    publishedDateTime: 2021-03-09T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2028-fortune-business-insights-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Digital Signage Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2028, Fortune Business Insights"
+    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
+    publishedDateTime: 2021-03-09T10:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/digital-signage-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2028-fortune-business-insights-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yF/e9/0sLJfIhoCGhgAA3KCGAEPgEatNCgd+osQ0l0rhatPUXn5Qz/uDBUTtfWNr2P9QldY65SfiKOGDYOukchipblI1WPm16AFDVpM9TGoM8x/aU2NccKgLjWPeWXdhqt4d7vEfh3ZnQkZJ1X23ys217Re4Gn/xx9pgbyjMi3Knt+rMnfsKs2w9rggNt+2yGG8xYR97rh+qvOpYReRoT68fJiUt9Lz48IpO2TgtyCsrjiPf2hPiiGSOoTpcFlbiQUhsVKdEYaqdaGDp9xdccEcSPTh8UUmSr81l8/LW9QkadxtwwpvtIlj3TlcdHnW1QptGwBEJFdfPpjkNQMvXVVa7gcWd8ahih7oDXrVhgR8=;wFpaJzASNnIy7O4z9Omi8w=="
 ---

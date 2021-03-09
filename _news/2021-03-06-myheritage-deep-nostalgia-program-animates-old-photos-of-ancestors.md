@@ -26,24 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "'Deep Nostalgia' Tool from MyHeritage Brings Motion to Old Family Photos: 'A Wow Moment'"
-    excerpt: "Gilad Japhet, the founder and CEO of MyHeritage, said the new feature \"provides a profound new way of connecting to our family history\""
-    publishedDateTime: 2021-03-04T17:34:00Z
-    webUrl: "https://people.com/human-interest/deep-nostalgia-tool-from-myheritage-brings-motion-to-old-family-photos/"
-    ampWebUrl: "https://people.com/human-interest/deep-nostalgia-tool-from-myheritage-brings-motion-to-old-family-photos/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/human-interest/deep-nostalgia-tool-from-myheritage-brings-motion-to-old-family-photos/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 35
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1500&h=750&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F03%2F02%2Famelia-earhart.jpg"
-        width: 1500
-        height: 750
-        isCached: true
-
 secured: "HEzXxcnj9KprbLXzjCQ5EFYO2yH++uJ8h5mVWujWE5n+GFxje/djUgnBhW4+SYMX7Po6tkd4z6UdWnJ0LEmCBzgXJdTAuLmaXCGRWXpHOyiriXhoeQWrBZXnhdYYzJVJsgXNN3gwcs9WK2P+XAsZFuFSe/sF7s1sKI+YPyuJRZgYKGQVaEH0GCLPruQfdkTK1jg2lTvcBbqaVmoHZHw0EVQt/zwWm4MS55oWgXJnv1tp4G7uISSgXJJvBkHQW/s8yGZbYQ2ssIff59Qhy5q+gNbNTIQbEBckrnmAgDaRoiDPanfTeaM504bkGmDL5t5uaQ6oVg7grBXQH9j7rNZi+Iy2C+jsO2E1Disr6Wo8hLjHnu6N9lIAyseOkc/lW35CwkmEiKzy8KuHAzYoAl+5QrLpY7VDe5nko8Bv9zBC/6nf2fiEO7jPoGWybaUZWigswVO7sKFqMTSZYjsR93KbfjTPGYEoUL+Y+ffUqmPdB24W/Xk/D0scyuFGnF9/IR73PZk88F7BJRK8WOX5356wlg==;sOiv29WefImhKrTI192xFg=="
 ---
 

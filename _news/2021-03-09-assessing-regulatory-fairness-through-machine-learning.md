@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Assessing regulatory fairness through machine learning"
-excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative, Stanford researchers reveal how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
-publishedDateTime: 2021-03-08T18:20:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/su-arf030821.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/su-arf030821.php"
+excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative, researchers reveal how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
+publishedDateTime: 2021-03-08T20:04:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/03/210308134043.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/03/210308134043.htm"
 type: article
-quality: 54
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/258449_web.jpg"
-    width: 1440
-    height: 1152
-    isCached: true
 
 related:
   - title: "Assessing regulatory fairness through machine learning"
@@ -54,6 +52,6 @@ related:
         height: 449
         isCached: true
 
-secured: "QMr5/HQOciW8CfyU4yckUwelcslDYS0R38ZaMc506JFV7NXIXslkbFjDgTtvfTxeCwQf0PuBQdjHmbXIqmpfmTHCxcX69NGZ+v37aa5g9JWd9dzXOOXQzdDwRDyWWGQAXwAw6KHt3WiuRlUHsJpGPQFjgXxN/87WsBs3ROFGWvshm7cr3MYjGPi9NwZOZd3cRnWt0OS6zEaVtrClCQsGbijYb+a2nEeqfjccoR3b3OL1JPpEPt6eL20DKLZpUKb7ZE9CeBEEDXhzp6NGKNFI/8PvOtWymVX/vnSIxahnfI+anci/o2/g0Bp1YqvWiSfLSydoliHddoLysDCOmLDewG500EHuRwHs1vVI5WJcv7M=;LLCzE40fnsaNhnufl73xVA=="
+secured: "FLTfbzlrL6ikg/NeGtUO8jdDzLOpSWIL2nOrCkewRz2cwSf7C92dOt1v0vX83G/Cxq2XWokXxK8VQ5REMOgWiQixETORCTONfGicfY8eCYdDNAaZO+Rx9qgxRmQhDj64gkYmAL5pdUtZyJoLxEW8ImWYIrbwfZnWxnq2EEOsO+AkPN+uH0i4Jw0M3OJ5pXqm+ZbiUhwHTR5zAT4bKQa+ovvyAZkq6QOTl4gSkM+/bg1JNsX4MZntP9MJuZD/ayCVXDSgtnMl54pBCE4zM9DgfpZ0j1cWfMct0xOgm1b+RobyJaG8cGavTURabZRhHvH8n6MaaSbBK/UjcldoVVUxT05atybF3TzcZCeoJohF1pw=;0A8dJxCMk+WPSkAaTAbw1A=="
 ---
 

@@ -54,20 +54,6 @@ related:
         height: 480
         isCached: true
   - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
-    excerpt: "TIBCO Software Inc., a global leader in enterprise data, empowers its customers to connect, unify, and confidently predict business outcomes to solve the world's most complex data-driven challenges. Today,"
-    publishedDateTime: 2021-03-04T17:39:00Z
-    webUrl: "https://www.lelezard.com/en/news-19683557.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 16
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
-  - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
     excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
     publishedDateTime: 2021-03-08T01:05:00Z
     webUrl: "https://www.arnnet.com.au/mediareleases/138320/tibco-software-named-leader-in-2021-gartner-magic/"

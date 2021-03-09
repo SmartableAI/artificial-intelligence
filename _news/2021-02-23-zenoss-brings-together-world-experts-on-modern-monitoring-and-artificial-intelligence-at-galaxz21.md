@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Zenoss Brings Together World Experts on Modern Monitoring and Artificial Intelligence at GalaxZ21"
-excerpt: "Zenoss Inc., the leader in AI-driven full-stack monitoring, today announced that GalaxZ21 will be held virtually on April 22. The"
-publishedDateTime: 2021-02-23T14:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21-301233607.html"
-webUrl: "https://www.prnewswire.com/news-releases/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21-301233607.html"
+excerpt: "Since 2015, the GalaxZ user conference has hosted a rapidly growing audience of IT Ops, DevOps and site reliability engineering (SRE) professionals from some of the world's largest enterprises, including Google, AWS, BBC, United Airlines, PepsiCo ..."
+publishedDateTime: 2021-02-23T15:44:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21/article_426a70ec-21fb-58c1-ab57-04e2a5442db3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/zenoss-brings-together-world-experts-on-modern-monitoring-and-artificial-intelligence-at-galaxz21/article_426a70ec-21fb-58c1-ab57-04e2a5442db3.html"
 type: article
-quality: 26
-heat: 26
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1442662/1200x627_GZ21_Social_lava_bus.jpg?p=facebook"
-    width: 2154
-    height: 1128
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/6/63/663c2f37-21d3-5a12-81dd-93272d4fbe3e/603675b76bcfe.image.jpg?resize=1198%2C630"
+    width: 1198
+    height: 630
     isCached: true
 
-secured: "2MfiCP6Kndds6Ef/AzulP8+7sOPHwb3Y/6OVdjHrW9gnHPsj1N2MytuHGdLI8lDnH0PKU4EfV6GpuiqxPQx4p5vozgeWPDMA6fjaD+SM+1TYmzwSuzLwd9itUAI03hCUX8uD42dA9NMDR1Xw0RrCpduvKwwNsOfPNUX5C8aViMFtWWhwjWCuN4nptrEdp/V6k2AeU4XtiHThWFJjEy5p/MHbvC4UbUyoRM8zM+w1HoL6i/iSv7g1d14XzlAQ8v0xwDSE9Cv5j6/LY8HV2mpV0sLNJ3J7bWT39aGXQILsf/hUI7QvRmejyY7lN4BkW/QDuAOlo9NooCl4HXgbDSJh56UCWxWo9uO65zPeF4809RA=;SkJTNqOLsCsM6zl3jKs9TQ=="
+secured: "hXier1g7HmUVo7f+qJud6xi2agCHuKtZLby9jJsTZcMqneL2ibKpG8UGJTaTDEFlmFzb9+2SK9Hx4XdwuyeomSGm766KWI1m2WZtEj5rKVqIKnUCl5HQaKdIXFSzHU3Tp9pwSfLoQlHRuK/0vlHcrpuz7SDdU3udo2FFfkgZBnrHVJz36R0fXIRZoAJD/0rcoH/xD10TjXOwxG+P3WwcANMfeZ1frsJkRIta8KOkSS8NCMDLK/hSoFSFm0extDADh2G1UfretTUbY7RVbdc2I1UImB3UVZ0YDIgA59bcjj0RQymiBtR5iyvLaJxNh96v+KjDtdJ4HMDhKLp01nSOo860BLUnO71v4I5vRw8oRKA=;Q/E3X2kbn0cW963zBT++Dg=="
 ---
 

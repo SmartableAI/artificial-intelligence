@@ -2,6 +2,206 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-23-this-translation-device-streamlines-international-communication.md",
+      "title": "This Translation Device Streamlines International Communication",
+      "excerpt": "It's powered by 24 world-leading translation engines, providing quick, highly-accurate translations in 104 languages. It even translates against different accents and dialects. This device is equipped with four omnidirectional microphones and an AGC algorithm that can record up to four hours of a single speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/365661",
+      "originalUrl": "https://www.entrepreneur.com/article/365661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1613626452-Ent-Langogo.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/365661",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/365661",
+      "publishedDateTime": "2021-02-23T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "StamfordAdvocate",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-uconn-startup-stemify-improves-math-education-with-ai.md",
+      "title": "UConn Startup Stemify Improves Math Education With AI",
+      "excerpt": "New AI-powered startup Stemify, created by UConn professor, helps make math education less intimidating for students.",
+      "sourceUrl": null,
+      "webUrl": "https://today.uconn.edu/2021/02/uconn-startup-stemify-improves-math-education-with-ai/",
+      "originalUrl": "https://today.uconn.edu/2021/02/uconn-startup-stemify-improves-math-education-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://uconn-today-universityofconn.netdna-ssl.com/wp-content/uploads/2015/10/Savkar150918b042cropped-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T04:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UConn Today",
+        "domain": "uconn.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health.md",
+      "title": "IBM’s Retreat From Watson Highlights Broader AI Struggles in Health",
+      "excerpt": "The decision to put its flagship Watson Health business up for sale underscores the wider challenge tech companies face in healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=business_minor_pos7",
+      "originalUrl": "https://www.wsj.com/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579?mod=business_minor_pos7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-302017/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ibms-retreat-from-watson-highlights-broader-ai-struggles-in-health-11613839579",
+      "publishedDateTime": "2021-02-23T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-a-trusty-robot-to-carry-farms-into-the-future.md",
+      "title": "A trusty robot to carry farms into the future",
+      "excerpt": "To feed 10 billion by 2050, the world’s farmers will need to increase food production by up to 70%. Bring in the robots.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "originalUrl": "https://www.zdnet.com/article/robots-to-carry-farms-into-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/22/af8a66be-a00d-4526-b1cd-b401c71fdada/future-acres.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-to-carry-farms-into-the-future/",
+      "publishedDateTime": "2021-02-23T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-verse-innovation-acquires-ai-startup-cognirel-technologies.md",
       "title": "VerSe Innovation acquires AI startup Cognirel Technologies",
       "excerpt": "VerSe Innovation, the parent company of Dailyhunt, said on Tuesday that it has acquired Cognirel Technologies, a Bengaluru-based AI solutions.",
@@ -229,6 +429,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-continental-invests-in-object-recognition-startup.md",
+      "title": "Continental invests in object recognition startup",
+      "excerpt": "The startup is working on a new chip architecture for object recognition in real time based on artificial intelligence, Continental said on Tuesday in a statement. The supplier said it expects the ...",
+      "sourceUrl": null,
+      "webUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "originalUrl": "https://europe.autonews.com/suppliers/continental-invests-object-recognition-startup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Continental%20grille%20web_2.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -930,249 +1173,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-google-alto-is-a-little-teachable-object-for-machine-learning.md",
-      "title": "Google Alto is “A Little Teachable Object” for machine learning",
-      "excerpt": "Google Creative Lab this week revealed a project called Alto. Alto by Google Creative Lab is a “teachable object using the Coral USB Accelerator.” It’s made to allow users to get",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/google-alto-is-a-little-teachable-object-for-machine-learning-22660513/",
-      "originalUrl": "https://www.slashgear.com/google-alto-is-a-little-teachable-object-for-machine-learning-22660513/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/02/alto123523.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/google-alto-is-a-little-teachable-object-for-machine-learning-22660513/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-alto-is-a-little-teachable-object-for-machine-learning-22660513/amp/",
-      "publishedDateTime": "2021-02-22T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-ibm-may-sell-its-1b-watson-health-business-report.md",
-      "title": "IBM may sell its $1B Watson Health business: Report",
-      "excerpt": "\"Watson was one of IBM's highest-profile initiatives in ... in part because physicians were hesitant to adopt artificial intelligence,\" the report said on Friday. \"IBM is studying alternatives ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "originalUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/rksghucichfic.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/ibm-may-sell-its-1b-watson-health-business-report-news-topnews-vcwmfdceeiehe.html",
-      "publishedDateTime": "2021-02-22T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-nanit-raises-another-25m-for-its-ai-powered-baby-monitor.md",
-      "title": "Nanit raises another $25M for its AI-powered baby monitor",
-      "excerpt": "Nanit’s nursery camera pairs computer vision with specially-patterned clothing to help answer the question that most new parents ask themselves roughly every 90 seconds: “Is my baby still breathing?” This morning the company is announcing that it has raised an additional $25",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/",
-      "originalUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/nanit.jpg?w=1024",
-          "width": 1024,
-          "height": 572,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/22/nanit-raises-another-25m-for-its-ai-powered-baby-monitor/amp/",
-      "publishedDateTime": "2021-02-22T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-disrupting-tech-hiring-how-ai-connects-companies-to-talent.md",
-      "title": "Disrupting tech hiring: How AI connects companies to talent",
-      "excerpt": "AI and big data technology are spearheading the evolution in recruitment technology -- taking hiring far beyond LinkedIn.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
-      "originalUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/hiring.GettyImages-508480019.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/22/disrupting-tech-hiring-how-ai-connects-companies-to-talent/amp/",
-      "publishedDateTime": "2021-02-22T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-democratizing-science-education-starts-with-expanded-accessibility.md",
-      "title": "Democratizing Science Education Starts With Expanded Accessibility",
-      "excerpt": "Higher education institutions had to pivot quickly last March when Covid-19 forced the nation into lockdown. Even eleven months into the pandemic, universities are still trying to figure out how to attract, retain and engage students. A particular ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.elearninginside.com/democratizing-science-education-starts-with-expanded-accessibility/",
-      "originalUrl": "https://news.elearninginside.com/democratizing-science-education-starts-with-expanded-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.elearninginside.com/wp-content/uploads/2021/02/louis-reed-pwcKF7L4-no-unsplash-scaled.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eLearningInside News",
-        "domain": "elearninginside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

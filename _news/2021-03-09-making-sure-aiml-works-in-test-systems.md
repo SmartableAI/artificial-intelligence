@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-09T08:01:00Z
 originalUrl: "https://semiengineering.com/making-sure-ai-ml-works-in-test-systems/"
 webUrl: "https://semiengineering.com/making-sure-ai-ml-works-in-test-systems/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/blue-glowing-iStock-1197472259-07-26-20.jpg?fit=724%2C483&#038;ssl=1"

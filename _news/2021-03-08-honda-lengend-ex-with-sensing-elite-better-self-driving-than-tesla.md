@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda is offering cars with Level 3 self-driving capability in Japan"
-    excerpt: "Just 100 Legend Hybrid EX sedans will be fitted with the automaker's new Honda Sensing Elite suite of driver aids."
-    publishedDateTime: 2021-03-04T17:36:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/honda-level-3-self-driving/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-level-3-self-driving/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/D0btXYulbnYdqIouS_lMYmjLPQs=/2021/03/04/655c7e08-f365-4bb4-ba45-d33186fab4f7/honda-sensing-elite-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Vision Chip Drives Rise of Self-Driving Cars"
-    excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
-    publishedDateTime: 2021-03-05T23:47:00Z
-    webUrl: "https://www.thestreet.com/tech/news/ambajdm030521"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 63
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"
-        width: 620
-        height: 326
-        isCached: true
   - title: "Honda's part self-driving Legend a big step for autonomous tech"
     excerpt: "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato"
     publishedDateTime: 2021-03-04T21:04:00Z
@@ -71,17 +39,6 @@ related:
         width: 810
         height: 544
         isCached: true
-  - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
-    excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
-    publishedDateTime: 2021-03-05T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "2021 Honda Legend launches in Japan with Level 3 self-driving tech"
     excerpt: "Honda on Thursday unveiled an updated Legend for the Japanese market and one of the car's key features is an electronic driver-assist feature rated at Level 3 on the SAE scale of self-driving capability."
     publishedDateTime: 2021-03-05T12:00:00Z

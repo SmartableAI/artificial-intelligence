@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-05-pinterest-details-the-ai-that-powers-its-content-moderation.md",
+      "title": "Pinterest details the AI that powers its content moderation",
+      "excerpt": "Pinterest pulled back the curtains on the AI and machine learning technologies powering its content moderation engine.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
+      "originalUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/pinterest-e1575661763261.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
+      "publishedDateTime": "2021-03-05T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-blockchain-fintech-get-name-checks-in-14th-five-year-plan.md",
       "title": "Blockchain, fintech get name checks in 14th Five-Year Plan",
       "excerpt": "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight.",
@@ -53,7 +104,7 @@
       "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -107,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -399,6 +450,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-hondas-part-self-driving-legend-a-big-step-for-autonomous-tech.md",
+      "title": "Honda's part self-driving Legend a big step for autonomous tech",
+      "excerpt": "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
+      "originalUrl": "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT",
+          "width": 810,
+          "height": 544,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T13:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1139,101 +1242,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords.md",
-      "title": "Edge AI Chip Company Syntiant Announces Support for ‘Hey Google’ and ‘Ok Google’ Hotwords",
-      "excerpt": "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html",
-      "originalUrl": "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T05:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
-      "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
-      "excerpt": "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "originalUrl": "https://www.techrepublic.com/index.php/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "publishedDateTime": "2021-03-04T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

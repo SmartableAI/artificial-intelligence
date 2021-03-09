@@ -90,6 +90,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
+    excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
+    publishedDateTime: 2021-03-09T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-size-share-value-and-competitive-landscape-2021-2026-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Supply Chain Market To Expand Substantially Owing to Technological Innovations during 2021-2025|Says Kenneth Research"
     excerpt: "Kenneth Research has added a report on Artificial Intelligence in Supply Chain Market that involves the analysis of"
     publishedDateTime: 2021-03-05T09:48:00Z

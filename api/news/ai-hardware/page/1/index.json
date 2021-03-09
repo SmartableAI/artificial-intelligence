@@ -161,6 +161,51 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-vision-chip-drives-rise-of-self-driving-cars.md",
+      "title": "Vision Chip Drives Rise of Self-Driving Cars",
+      "excerpt": "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "originalUrl": "https://www.thestreet.com/tech/news/ambajdm030521",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg",
+          "width": 620,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521",
+      "publishedDateTime": "2021-03-05T15:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-ai-powered-chrome-extension-automatically-turns-on-youtube-subtitles-while-you-eat-noisy-snacks.md",
       "title": "AI-Powered Chrome Extension Automatically Turns on YouTube Subtitles While You Eat Noisy Snacks",
       "excerpt": "A year into the pandemic most of us have honed our daily routines into a regular pattern of YouTube bingeing and snacking. But munching on crunchy snacks often makes it impossible to hear a video. The solution isn’t to turn off our computers and attempt to re-enter society,",
@@ -266,7 +311,7 @@
       "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -320,7 +365,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -883,11 +928,11 @@
     },
     {
       "path": "_news/2021-03-02-ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection.md",
-      "title": "AI Chip Firm Wave Computing Emerges From Chapter 11 Bankruptcy Protection",
-      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS. The company traces its origins back to MIPS Computer Systems Inc,",
+      "title": "AI chip firm Wave Computing emerges from Chapter 11 bankruptcy protection",
+      "excerpt": "Artificial intelligence chip designer Wave Computing Inc said on Monday it has emerged from Chapter 11 bankruptcy protection following an auction of the company and will rebrand the firm as MIPS.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-03-01/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection",
+      "webUrl": "https://www.reuters.com/article/us-wavecomputing-mips/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-idUSKCN2AT3T7?edition-redirect=ca",
+      "originalUrl": "https://www.reuters.com/article/us-wavecomputing-mips/ai-chip-firm-wave-computing-emerges-from-chapter-11-bankruptcy-protection-idUSKCN2AT3T7?edition-redirect=ca",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -895,16 +940,16 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T15:27:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN2AT3T7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AT3T7",
+      "publishedDateTime": "2021-03-01T20:03:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1481,50 +1526,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-saic-taps-chinese-chip-startup-for-self-driving-cars.md",
-      "title": "SAIC taps Chinese chip startup for self-driving cars",
-      "excerpt": "SAIC is among a list of state-backed automotive majors shifting towards startup chipmaker Horizon Robotics as a domestic substitute for global suppliers.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "originalUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/technode.com/wp-content/uploads/2021/02/srchttp___n.sinaimg.cn_sinakd20210222ac_481_w820h461_20210222_df59-kkmphps0200711.jpgreferhttp___n.sinaimg.jpg?fit=820%2C461&ssl=1",
-          "width": 820,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/02/23/saic-taps-chinese-chip-startup-for-self-driving-cars/",
-      "publishedDateTime": "2021-02-23T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

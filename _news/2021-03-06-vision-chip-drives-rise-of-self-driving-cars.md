@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: TheStreet.com
@@ -29,36 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda is offering cars with Level 3 self-driving capability in Japan"
-    excerpt: "Just 100 Legend Hybrid EX sedans will be fitted with the automaker's new Honda Sensing Elite suite of driver aids."
-    publishedDateTime: 2021-03-04T17:36:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/honda-level-3-self-driving/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/honda-level-3-self-driving/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/honda-level-3-self-driving/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/D0btXYulbnYdqIouS_lMYmjLPQs=/2021/03/04/655c7e08-f365-4bb4-ba45-d33186fab4f7/honda-sensing-elite-ogi.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Honda's part self-driving Legend a big step for autonomous tech"
-    excerpt: "The Honda Motor Co. Ltd's all-new Legend sedan, equipped with level 3 autonomous driving technology, is displayed during an unveiling in Tokyo, Japan March 4, 2021. REUTERS/Issei Kato"
-    publishedDateTime: 2021-03-04T21:04:00Z
-    webUrl: "https://www.reuters.com/news/picture/hondas-part-self-driving-legend-a-big-st-idUSKBN2AW0TZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553718648&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXNPEH230FT"
-        width: 810
-        height: 544
-        isCached: true
   - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
     excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
     publishedDateTime: 2021-03-05T09:12:00Z
@@ -70,61 +40,49 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 48
-  - title: "Honda Lengend EX with SENSING Elite Better Self-Driving than Tesla?"
-    excerpt: "Honda Motor Co., Ltd. will begin lease sales in Japan, on March 5, 2021, of the Honda Legend EX equipped with Honda SENSING Elite. In its effort to realise a collision-free society based on its global safety slogan,"
-    publishedDateTime: 2021-03-08T01:35:00Z
-    webUrl: "https://www.autoconnectedcar.com/2021/03/honda-lengend-ex-with-sensing-elite-better-self-driving-than-tesla/"
+  - title: "Should Pedestrians Wear Radar Reflectors So Self-Driving Cars Can See Them?"
+    excerpt: "Treehugger emeritus Matthew Sparkes, now writing for New Scientist, points to a study out of Princeton University which proposes REITS (Reflective Surface for Intelligent Transportation Systems) to make pedestrians visible to self-driving cars or autonomous vehicles (AVs)."
+    publishedDateTime: 2021-03-08T15:54:00Z
+    webUrl: "https://www.treehugger.com/pedestrians-radar-reflectors-self-driving-cars-5115464"
+    ampWebUrl: "https://www.treehugger.com/amp/pedestrians-radar-reflectors-self-driving-cars-5115464"
+    cdnAmpWebUrl: "https://www-treehugger-com.cdn.ampproject.org/c/s/www.treehugger.com/amp/pedestrians-radar-reflectors-self-driving-cars-5115464"
     type: article
     provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 39
+      name: TreeHugger
+      domain: treehugger.com
+    quality: 42
     images:
-      - url: "https://cdn.autoconnectedcar.com/wp-content/uploads/2021/03/hondasensing-1024x518.jpg"
-        width: 1024
-        height: 518
+      - url: "https://www.treehugger.com/thmb/teirgdOih_Ay0fE2vlbsimNZiI8=/2971x1901/filters:fill(auto,1)/GettyImages-6871031-bea5f85c02844a99bd6ec4909e83659e.jpg"
+        width: 2971
+        height: 1901
         isCached: true
-  - title: "2021 Honda Legend launches in Japan with Level 3 self-driving tech"
-    excerpt: "Honda on Thursday unveiled an updated Legend for the Japanese market and one of the car's key features is an electronic driver-assist feature rated at Level 3 on the SAE scale of self-driving capability."
-    publishedDateTime: 2021-03-05T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131479_2021-honda-legend-launches-in-japan-with-level-3-self-driving-tech"
+  - title: "This self-driving robot tank can parachute out of a plane"
+    excerpt: "Every tank is a fortress in danger of becoming a coffin. Their heavy armor and ample firepower make them special targets for hostile forces equipped with powerful and portable anti-tank weapons. The Type-X uncrewed vehicle is an Estonian-made answer to future battlefields that want the punch of tanks without the risk to human crew."
+    publishedDateTime: 2021-03-05T21:54:00Z
+    webUrl: "https://www.popsci.com/story/technology/type-x-robot-tank/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
+      name: Popular Science
+      domain: popsci.com
+    quality: 41
+    images:
+      - url: "https://www.popsci.com/resizer/Vto_jadXieG5af2d1u8FZbgradU=/1200x628/smart/cloudfront-us-east-1.images.arcpublishing.com/bonnier/AEJSAQB2IJHIHHMS5J75JDSQIQ.JPG"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Most drivers are just not ready for self-driving vehicles, says AAA"
+    excerpt: "Most drivers like the idea of self-driving cars but don't trust the technology just yet, according to a AAA survey."
+    publishedDateTime: 2021-03-04T23:22:00Z
+    webUrl: "https://nj1015.com/most-drivers-are-just-not-ready-for-self-driving-vehicles-says-aaa/"
+    type: article
+    provider:
+      name: WKXW
+      domain: nj1015.com
     quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/2021-honda-legend-japanese-spec_100783864_h.jpg"
-        width: 1920
-        height: 1135
-        isCached: true
-  - title: "Honda to sell advanced 'level 3' self-driving car"
-    excerpt: "Honda on Thursday said it would sell a limited batch of its flagship Legend sedans equipped with level 3 autonomous driving technology that enables vehicles to navigate congested highways. Ciara"
-    publishedDateTime: 2021-03-04T20:30:00Z
-    webUrl: "https://www.timesnews.net/photo-video/video/honda-to-sell-advanced-level-3-self-driving-car/html_04f46180-7d10-11eb-97f2-8b8d75fe19c7.html"
-    type: article
-    provider:
-      name: Times News
-      domain: timesnews.net
-    quality: 24
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/timesnews.net/content/tncms/assets/v3/editorial/0/4f/04f46180-7d10-11eb-97f2-8b8d75fe19c7/60411ae21f79a.preview.png?crop=1815%2C1021%2C40%2C0&resize=1120%2C630&order=crop%2Cresize"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "How Honda's Level 3 self-driving technology works"
-    excerpt: "Honda unveiled a limited batch of its flagship Legend sedan with Level 3 self-driving capabilities, becoming the world's first automaker to sell a vehicle equipped with the technology. Lease sales of the level 3 Legend would be limited to 100 cars at a retail price of 11 million yen ($102,"
-    publishedDateTime: 2021-03-05T13:53:00Z
-    webUrl: "https://europe.autonews.com/automakers/how-hondas-level-3-self-driving-technology-works"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Honda%20Legend%202%20web.jpg"
-        width: 800
-        height: 600
+      - url: "https://townsquare.media/site/385/files/2021/03/car.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "bJ864rCH/8mM0gsD0GctkaEpScpKaZ0vTKMWBRXaedx7GVV+5bbrL9Mt1M65Gnr7DkBwuSRyBs/OIsOhbdAywsskeg1SZ29cRcDzTeDQpJBZ+E01N+psUS3VcOqEQOJRvCWDkQ/xxv9e8oBpFTkVcjHVC/WCVQd50Km5u/kNF96gTg3+gMEjUNDboxYP3+1vQATFJrNkZTeQPCnPgUA+/SuH2Ez4ADeBrigXQyLhgOzpOTNLyLHe0sr0/HawN+5ZtPKondcfnyM85dG3TuCaWBy6+EhtJJd8SXI+4IF+VY4rXCnmighmqOSoaJbef6hYHB+lyJPOoAEnGacnfWH8LmTl4h/sm5e8dgVPg+3XGN7Cfye/1QgPw7tZxsUV2a2T0r7+XnAMLsJ87XoUcNOU0E3jqssEJHBxTzD8DGRmRa44OBGn7gnJgzAbCQMGDowGGyk3xLGDn6nKLazmQchWIyNzxYmi7FU8Gz1yIeNlXH1DnoUdK/4z3V8zOu8F3zBNE7SOUDtS5tRoNjLtUx5mcQ==;f4Hb21PnZ4FYM5zaJcWivA=="
