@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ps5-and-xbox-series-x-out-of-st
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ps5-and-xbox-series-x-out-of-stock-how-a-global-chip-shortage-is-impacting-everything/"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

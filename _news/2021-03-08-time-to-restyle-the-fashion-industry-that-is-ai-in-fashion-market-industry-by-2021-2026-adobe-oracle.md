@@ -48,20 +48,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Artificial Intelligence Moving Towards Brighter Future in Healthcare Industry"
-    excerpt: "The artificial intelligence in healthcare market is expected to witness substantial growth post-pandemic. The global healthcare infrastructure has observed that, in order to develop and maintain sustainable healthcare setup,"
-    publishedDateTime: 2021-03-04T08:20:00Z
-    webUrl: "https://www.pharmiweb.com/article/artificial-intelligence-moving-towards-brighter-future-in-healthcare-industry-1"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 51
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
     excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
     publishedDateTime: 2021-03-08T06:35:00Z

@@ -54,20 +54,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Artificial Intelligence Moving Towards Brighter Future in Healthcare Industry"
-    excerpt: "The artificial intelligence in healthcare market is expected to witness substantial growth post-pandemic. The global healthcare infrastructure has observed that, in order to develop and maintain sustainable healthcare setup,"
-    publishedDateTime: 2021-03-04T08:20:00Z
-    webUrl: "https://www.pharmiweb.com/article/artificial-intelligence-moving-towards-brighter-future-in-healthcare-industry-1"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 51
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "How is AI and big data transforming the maritime industry?"
     excerpt: "Over the last decade, a myriad of industries and sectors have increasingly utilized data collection and artificial intelligence (AI) to help streamline many aspects of their business. The maritime ind"
     publishedDateTime: 2021-03-05T18:34:00Z

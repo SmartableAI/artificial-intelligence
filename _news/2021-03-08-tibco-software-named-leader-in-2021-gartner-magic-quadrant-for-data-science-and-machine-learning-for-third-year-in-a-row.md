@@ -75,15 +75,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
-    excerpt: "Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
-    publishedDateTime: 2021-03-04T08:30:00Z
-    webUrl: "https://www.financialbuzz.com/tibco-software-named-leader-in-2021-gartner-magic-quadrant-for-data-science-and-machine-learning-for-third-year-in-a-row/"
-    type: article
-    provider:
-      name: Financial Buzz
-      domain: financialbuzz.com
-    quality: 0
 
 secured: "l0p1U2zKREqbFM6u5rc0jA62lnpZf8etiGakvy02IBpwCWWwrBgBaCuNwETJgKuKh3PRVcdjFucnF7aMG2IP23Vy4547SawmwWsHyjsfwxAZ5DWfzG8umIlSGBeW4b5RBQtl+NKvJyBhKEKvUVya+dwaXHLyU2iHufiUO31H5/SgXr9dqyWNzBiBxq04cOapgw+OrJ4kCyrrvgd5byWfN74IfR2OeL8e9InR7JOzsrvo5UUOPOmSjXXsVxZYzKtUsvIzaYONjVOhVjzYoqXm8cgstzafVU4ypoKWD76pRSF+ABNtkEmSAvcabEksCgzHYp3dUeVI1/d/n+KPPwWM9LHEQZQ2SddN7DYGkPhyvjY=;O9GhgvtaeG3La4Dl3XkvaA=="
 ---

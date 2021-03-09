@@ -117,20 +117,6 @@ related:
         width: 1200
         height: 899
         isCached: true
-  - title: "Honda launches world's first level 3 self-driving car"
-    excerpt: "Honda Motor will on Friday launch a new car equipped with the world's first certified level 3 autonomous driving technology, paving the way for the automobile industry to gear up efforts to commercialize such automation for passenger vehicles."
-    publishedDateTime: 2021-03-04T08:29:00Z
-    webUrl: "https://asia.nikkei.com/Business/Automobiles/Honda-launches-world-s-first-level-3-self-driving-car"
-    type: article
-    provider:
-      name: NIKKEI
-      domain: nikkei.com
-    quality: 24
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F5%252F2%252F4%252F7%252F32787425-1-eng-GB%252FJX2103049%2520%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%2592%25E3%2582%259A%25E3%2583%25BC.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "2021 Honda Legend launches in Japan with Level 3 self-driving tech"
     excerpt: "Honda on Thursday unveiled an updated Legend for the Japanese market and one of the car's key features is an electronic driver-assist feature rated at Level 3 on the SAE scale of self-driving capability."
     publishedDateTime: 2021-03-05T12:00:00Z
