@@ -2,6 +2,157 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-05-blockchain-fintech-get-name-checks-in-14th-five-year-plan.md",
+      "title": "Blockchain, fintech get name checks in 14th Five-Year Plan",
+      "excerpt": "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
+      "originalUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/technode.com/wp-content/uploads/2020/07/1280px-Beijing_skyline_from_northeast_4th_ring_road.jpg?fit=1280%2C576&ssl=1",
+          "width": 1280,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/03/05/blockchain-fintech-get-name-checks-in-14th-five-year-plan/",
+      "publishedDateTime": "2021-03-04T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
+      "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
+      "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
+      "publishedDateTime": "2021-03-04T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025.md",
+      "title": "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025",
+      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T16:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-what-the-swarm-of-new-azure-announcements-mean.md",
       "title": "What the swarm of new Azure announcements mean",
       "excerpt": "This week's Azure announcements were about being more hybrid, more multi-cloud, more data-dependent -- at higher speed.",
@@ -991,6 +1142,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-04-edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords.md",
+      "title": "Edge AI Chip Company Syntiant Announces Support for ‘Hey Google’ and ‘Ok Google’ Hotwords",
+      "excerpt": "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and",
+      "sourceUrl": null,
+      "webUrl": "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html",
+      "originalUrl": "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Omaha.com",
+        "domain": "omaha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
       "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
       "excerpt": "It used to cost $5,000 a month and run on dedicated hardware; now it's a $20 per user cloud service, which proves that a multi-tenant architecture delivers better performance.",
@@ -1039,187 +1233,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-dooly-raises-20-million-to-organize-sales-information-with-ai.md",
-      "title": "Dooly raises $20 million to organize sales information with AI",
-      "excerpt": "Dooly, a startup developing an AI-powered sales enablement plugin for customer relationship management software, raised $20 million.Read MoreRead",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dooly-raises-$20-million-to-organize-sales-information-with-ai-9874035",
-      "publishedDateTime": "2021-03-04T02:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting.md",
-      "title": "AMP Robotics looks to push the boundaries of artificial intelligence in sorting",
-      "excerpt": "US recycling technology company AMP Robotics Corp. has launched a second pilot to advance robotic sorting systems. The Denver-based artificial",
-      "sourceUrl": null,
-      "webUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "originalUrl": "https://recyclinginternational.com/virtual-trade-show/amp-robotics-looks-to-push-the-boundaries-of-artificial-intelligence-in-sorting/32984/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://recyclinginternational.com/wp-content/uploads/2021/03/SSR_Facility_FiberLines.jpg",
-          "width": 1460,
-          "height": 821,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Recycling International",
-        "domain": "recyclinginternational.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-conocophillips-sparks-tooling-for-seismic-hpc-cloud-aiml.md",
-      "title": "ConocoPhillips Sparks Tooling For Seismic HPC, Cloud, AI/ML",
-      "excerpt": "Seismic processing and analysis at scale take scalable HPC resources but also need an analytics backend that can scale with massive datasets. And as if",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
-      "originalUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/shutterstock_571864537.jpg",
-          "width": 1300,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/03/04/conocophillips-sparks-tooling-for-seismic-hpc-cloud-ai-ml/amp/",
-      "publishedDateTime": "2021-03-03T23:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging.md",
-      "title": "Snapcommerce raises $85M for AI-powered ecommerce messaging",
-      "excerpt": "Toronto, Canada-based ecommerce startup Snapcommerce today announced that it raised $85 million in a funding round led by Inovia Capital and Lion Capital, bringing its total venture capital raised to over $100 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
-      "originalUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/husshen_SnapTravel.jpg?w=1200&strip=all",
-          "width": 1050,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
-      "publishedDateTime": "2021-03-03T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

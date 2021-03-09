@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Edge AI Chip Company Syntiant Announces Support for ‘Hey Google’ and ‘Ok Google’ Hotwords"
-excerpt: "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and Hey Google hotwords with the Syntiant® NDP120™ Neural Decision Processor™ (NDP)."
-publishedDateTime: 2021-03-04T05:32:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-consumer-electronics-manufacturing-67e2a959c72d87e7e3494c08234eeac1"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-consumer-electronics-manufacturing-67e2a959c72d87e7e3494c08234eeac1"
+excerpt: "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and"
+publishedDateTime: 2021-03-04T13:28:00Z
+originalUrl: "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html"
+webUrl: "https://omaha.com/business/consumer/edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords/article_d458f64b-97b9-586f-83e8-98d504568a63.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/custom/image/9595a7a2-2379-11e7-b3c5-13eacc36a918.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "C50ZPHiqV1/9AgJfjXYCIzRlqVvubidJJ7Ygs2MEmUqVO2bJKNPvvsNyBNM77fYgKBxiU6rrorFOBCPbCv1ipXsixML4MwuKvv/aOf3rDg/j3oR4dCvYcC/8FCgh5tctJwc9AHgsqU0JfhCBAobD1QvKCK47MVILot/OXPfc8fBZAjJ/fM9BVbsusoLx1rZ7/X+VAgjgD+sufwUFOqcBFuKfsXUwWhcfRNdgTTJupoP+w+TgJasT6fre6LcUSZHoSCVC3Y2jjyZRjLDdEtgy7gtfiFdqC2Q7QxtDhfBkkc1Fq5vIbeKAa7HeVppUXKuf0XU+pMXwVX5sNvp1T6AoMCmqcYI7FxTkUTy1m2S2bhk=;hMznkfpjJMx7W4wrfRSSRg=="
+secured: "lSf/4ErrAfuTivMm7pN5LDGJTnvSEmqoF+7pZjgw1inLJtGCuy63MMZ5U4dDCJYjqUmI1K4Tob6twjzb+w6X0tR7vZPWnCJ2xe12GSmp/Clci1xrd9IBv+vSOZxdKYEsUI+JMDGQpSKmmhvzlorIpWfrTir18eWpp8/Yj8FGAe02yX578S308RBFHwYExqJIz4L9oBQ97yCnih0T/8AQojWWU9SrD2sjjQ458AeVx4iSYO7v7MJAFFlLyS8s5cA3W+zsacgfjpenowzVT23wDINwuhbtQR0+wcvK9CEACWZ0DqP2ECxZeV/R5BHycxkMunHStAEPDdqg/BJQUSytLdlwJ5vlbY+08ChcVm27Hl8=;EVbB/CxLotrY2m0a8Mmgsg=="
 ---
 

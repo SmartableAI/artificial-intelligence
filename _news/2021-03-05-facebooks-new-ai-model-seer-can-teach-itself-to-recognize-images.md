@@ -42,38 +42,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "AI: Facebook's new algorithm was trained on one billion Instagram pics"
-    excerpt: "Facebook's researchers have achieved a breakthrough in self-supervised learning, by training an AI system on one billion unlabeled Instagram pictures."
-    publishedDateTime: 2021-03-04T16:27:00Z
-    webUrl: "https://www.zdnet.com/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-facebooks-new-algorithm-was-trained-on-one-billion-instagram-pics/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/04/80f9fa38-8617-4009-80cf-8e93e55ea22e/facebook-ai-seer.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook taught a computer vision system how to supervise its own learning process"
-    excerpt: "We’ve developed SEER (SElf-supERvised), a new billion-parameter self-supervised computer vision model that can learn from any random group of images on the internet, without the need for careful curation and labeling that goes into most computer vision training today,"
-    publishedDateTime: 2021-03-04T15:04:00Z
-    webUrl: "https://www.engadget.com/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html"
-    ampWebUrl: "https://www.engadget.com/amp/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-has-taught-an-computer-vision-system-to-oversee-its-own-education-150008996.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 83
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Fxx6a8B8w.WLpaR72TGyXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTI1/https://s.yimg.com/os/creatr-uploaded-images/2021-03/90eeee00-7c69-11eb-b3bd-389505b94bd2"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Facebook enhances AI computer vision with SEER"
     excerpt: "At a time when many versions of AI rely on pre-established data sets for image recognition, Facebook has developed SEER (Self-supERvised) – a deep learning solution able to register images on the Internet independent of curated and labeled data sets."
     publishedDateTime: 2021-03-06T09:48:00Z
@@ -133,20 +101,6 @@ related:
       - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/3/2021_3$largeimg_384652153.jpg"
         width: 660
         height: 466
-        isCached: true
-  - title: "Facebook AI learned object recognition from 1 billion Instagram pics"
-    excerpt: "Artificial intelligence built by Facebook has learned to classify images from 1 billion Instagram photos. The AI used a different learning technique to many other similar algorithms, relying less on input from humans."
-    publishedDateTime: 2021-03-04T15:26:00Z
-    webUrl: "https://www.newscientist.com/article/2270102-facebook-ai-learned-object-recognition-from-1-billion-instagram-pics/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 56
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2021/03/04125442/adobestock_heroimage_web.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Can AI get common sense? Facebook model shows the way"
     excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."

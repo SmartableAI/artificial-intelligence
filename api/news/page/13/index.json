@@ -2,6 +2,259 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-24-service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026.md",
+      "title": "Service Robotics Market Size & Share, Future Growth, Trends Evaluation, Demands, Regional Analysis and Forecast to 2026",
+      "excerpt": "The global “Service Robotics Market Size” is expected to rise with an impressive CAGR and generate the highest revenue",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/service-robotics-market-size-share-future-growth-trends-evaluation-demands-regional-analysis-and-forecast-to-2026-2021-02-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T04:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-ai-can-write-a-passing-college-paper-in-20-minutes.md",
+      "title": "AI can write a passing college paper in 20 minutes",
+      "excerpt": "AI can do a lot of things extremely well. One thing that it can do just okay -- which, frankly, is still quite extraordinary -- is write college term papers. That's the finding from EduRef, a resource for students and educators,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "originalUrl": "https://www.zdnet.com/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/24/ee4bf386-5431-4696-8897-c9f962b8826d/term-paper.jpg",
+          "width": 1024,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-write-a-passing-college-paper-in-20-minutes/",
+      "publishedDateTime": "2021-02-24T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-how-ucls-groundbreaking-ai-research-became-entangled-in-facebooks-net.md",
+      "title": "How UCL's groundbreaking AI research became entangled in Facebook's net",
+      "excerpt": "Through a series of acquisitions, professorships and industry partnerships, the university's computer science department has been drawn closer to the",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
+      "originalUrl": "https://www.newsoneplace.com/8976762012/ucl-ai-facebook-groundbreaking-entangled",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newstatesman.com/sites/default/files/styles/cropped_article_image/public/blogs_2021/03/gettyimages-512015586.jpg?itok=8De0ffRv",
+          "width": 4500,
+          "height": 3014,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsoneplace.com",
+        "domain": "newsoneplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.md",
+      "title": "3 kinds of bias in AI models — and how we can address them",
+      "excerpt": "When both humans and AI models have basic information like gender ... For instance, ML models trained to perform language translation tasks tended to associate female names with attributes like “parents” and “weddings,” while male names had ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
+      "originalUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/10/artificial_intelligence_brain_circuit_thinkstock-100528006-large.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3607748/3-kinds-of-bias-in-ai-models-and-how-we-can-address-them.amp.html",
+      "publishedDateTime": "2021-02-24T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-review-aws-ai-and-machine-learning-stacks-up.md",
+      "title": "Review: AWS AI and Machine Learning stacks up",
+      "excerpt": "Amazon Web Services provides an impressively broad and deep set of machine learning and AI services, rivaling Google Cloud and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html",
+      "originalUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/artificial_intelligence_ai_blockchain_digital_learning_chip-100745932-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3608413/review-aws-ai-and-machine-learning-stacks-up.amp.html",
+      "publishedDateTime": "2021-02-24T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-ai-the-ai-times-who-should-stop-unethical-ai.md",
       "title": "A|I: The AI Times – Who should stop unethical AI?",
       "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe. If you want to read A|I before anyone else, make sure to subscribe using the form at the bottom of this page. The project ...",
@@ -943,252 +1196,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-facebook-expands-ai-phd-research-program-to-university-college-london.md",
-      "title": "Facebook expands AI PhD research program to University College London",
-      "excerpt": "Facebook is expanding its AI PhD program to the UK as part of a four-year research partnership with University College London, the company announced Tuesday. Students of the program will spend time at both UCL and Facebook as they pursue projects that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "originalUrl": "https://www.cnet.com/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/rIE0fLvhq4w1IEaAl1vDrmoedCI=/1200x630/2021/02/23/8582a1c9-43b3-412b-9cca-588a22ee3675/gettyimages-1194054229.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-expands-ai-phd-research-program-to-university-college-london/",
-      "publishedDateTime": "2021-02-23T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-proposed-framework-could-reduce-energy-consumption-of-federated-learning.md",
-      "title": "Proposed framework could reduce energy consumption of federated learning",
-      "excerpt": "In a new paper, AI and machine learning researchers propose a federated learning framework desgined to minimize environmental impact.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
-      "originalUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/federated_learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/23/proposed-framework-could-reduce-energy-consumption-of-federated-learning/amp/",
-      "publishedDateTime": "2021-02-23T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition.md",
-      "title": "Tech newsletter: Horrifying robot dog’s paintball rampage, Biden + facial recognition",
-      "excerpt": "Welcome to the Tuesday edition of the Internet Insider, where we dissect tech and politics news unfolding online. Today: Pranksters show how horrifying Boston Dynamics’ police robot dog is by strapping a paintball gun to it Civil rights groups want Biden to halt government use of facial recognition No,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
-      "originalUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://uploads.dailydot.com/2021/02/Tech-News-Newsletter-Image-02-23-2021.jpg?fm=pjpg&ixlib=php-3.3.0",
-          "width": 1938,
-          "height": 969,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/tech-newsletter-horrifying-robot-dogs-paintball-rampage-biden-facial-recognition/?amp",
-      "publishedDateTime": "2021-02-23T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency-in-countering-china-on-artificial-intelligence.md",
-      "title": "US-China tech war: Former Google CEO Eric Schmidt stresses ‘urgency’ in countering China on artificial intelligence",
-      "excerpt": "The US is ‘one or two years ahead of China, not five or 10’ and ‘the Chinese are well ahead in areas like face recognition,’ said former Google CEO Eric Schmidt.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "originalUrl": "https://www.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/24/2fff5d14-7601-11eb-8b9d-76c80a88a6d4_image_hires_040002.jpg?itok=uiLCMS6u&v=1614110412",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/article/3122857/us-china-tech-war-former-google-ceo-eric-schmidt-stresses-urgency",
-      "publishedDateTime": "2021-02-23T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre.md",
-      "title": "NAG Delivers Machine Learning Guidance via New Azure HPC + AI Collaboration Centre",
-      "excerpt": "The Numerical Algorithms Group (NAG) will provide machine learning guidance to Microsoft Azure users via the new Azure HPC & AI Collaboration Centre. In partnership with NVIDIA, this new centre will develop best practices for the deployment of scalable machine learning in the Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/",
-      "originalUrl": "https://insidehpc.com/2021/02/nag-delivers-machine-learning-guidance-via-new-azure-hpc-ai-collaboration-centre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg",
-          "width": 325,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T10:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance",
-        "AI Hardware",
-        "Google AI"
       ]
     }
   ],

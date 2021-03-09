@@ -49,6 +49,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "LabVantage Launches Full-Featured Self-Service Advanced Analytics Solution"
+    excerpt: "LabVantage Solutions, Inc., the leading provider of laboratory informatics solutions and services including purpose-built LIMS solutions that allow labs to go live faster and at a lower total cost, today announced the launch of LabVantage Analytics,"
+    publishedDateTime: 2021-03-09T08:42:00Z
+    webUrl: "https://www.financialbuzz.com/labvantage-launches-full-featured-self-service-advanced-analytics-solution/"
+    type: article
+    provider:
+      name: Financial Buzz
+      domain: financialbuzz.com
+    quality: 2
 
 secured: "aKEDoLAiR7+xwffMglQf+duNY0m7KU4EOaFst6wHBn+jkeojlDbTd3PhgLVRpR7jAqnyXysKo+G8suHExvHUzMpueSqJtla3BKW+DdBOQ6YjN3LcZwuz2wtNYnY6q/dcGEQ9Pt5kfTq0XX1t5HZ1fJ3NZVQ6jEBCeFmRg2dAVpM9oQcPujfb+4xQ06aqjiGYE3Ib4mOTCOxPI/3giXND88WNiEfwxBIJYkliFJyeKtKmtNGvkOHdZ7mQibR/aFJRCEQw1iLzkttYw3o3TKgm04YWic1LyivVEfDPjaqyhlIrvPpx4VQFCGguonsTXG6N5xF5NELiq/yAADL3dRSiBrAIVw4c6iF/q5NIpaNxs44=;OceaBMrLH360n15CuswV5A=="
 ---

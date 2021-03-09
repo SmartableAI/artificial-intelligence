@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-09-is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made.md",
+      "title": "Is It Time To Question Our Assumptions About Hand-Made Vs Machine-Made?",
+      "excerpt": "The belief that something made by humans is of better quality crumbles when we confront it with the principles of Industry 4.0, which is seeing new standards of automation: historically this has always meant greater efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
+      "originalUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60473485586d43a09b09e3f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/enriquedans/2021/03/09/is-it-time-to-question-our-assumptions-about-hand-made-vs-machine-made/amp/",
+      "publishedDateTime": "2021-03-09T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-why-you-shouldnt-expect-teslas-full-self-driving-to-come-out-of-beta-any-time-soon.md",
       "title": "Why you shouldn’t expect Tesla’s ‘Full Self Driving’ to come out of beta any time soon",
       "excerpt": "Tesla’s recent decision to open its Full Self Driving (FSD) beta to new owners has created quite a splash in both the automobile and consumer tech markets. This is an exciting time to be a Tesla owner,",
@@ -349,6 +401,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-equity-monday-more-money-for-fintech-deliveroos-ipo-and-ai-startups.md",
+      "title": "Equity Monday: More money for fintech, Deliveroo’s IPO, and AI startups",
+      "excerpt": "Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest private market news,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/08/equity-monday-more-money-for-fintech-deliveroos-ipo-and-ai-startups/",
+      "originalUrl": "https://techcrunch.com/2021/03/08/equity-monday-more-money-for-fintech-deliveroos-ipo-and-ai-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/08/equity-monday-more-money-for-fintech-deliveroos-ipo-and-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/08/equity-monday-more-money-for-fintech-deliveroos-ipo-and-ai-startups/amp/",
+      "publishedDateTime": "2021-03-08T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1160,110 +1255,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
-      "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
-      "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-308486/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
-      "publishedDateTime": "2021-03-07T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-face-time-with-eight-mayoral-candidates.md",
-      "title": "Face Time With Eight Mayoral Candidates",
-      "excerpt": "This year, the candidates have spent a lot of their time on Zoom. It’s been weird. But the internet — in this case, Skype — is how I last talked with Kathryn Garcia, a wry, thoughtful former sanitation commissioner and candidate for mayor who deserves more attention than she has so far received in the race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/07/opinion/07gay-illo/07gay-illo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.amp.html",
-      "publishedDateTime": "2021-03-07T08:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

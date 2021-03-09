@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Tools To Help You Master Money Mindfulness In 2021"
-    excerpt: "Mindfulness” is one of those zeitgeisty words that has invaded everything from beauty routines to breakfast cereal. Myriad brands promise mindful solutions to eating, exercising and using technology."
-    publishedDateTime: 2021-03-04T15:31:00Z
-    webUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/"
-    ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/660x336/https://www.forbes.com/advisor/wp-content/uploads/2021/03/getty_bounced-check_030321-568x322.jpg"
-        width: 660
-        height: 336
-        isCached: true
   - title: "Blockchain, fintech get name checks in 14th Five-Year Plan"
     excerpt: "Blockchain research can look forward to even more state support. Fintech will also have to worry about more aggressive oversight."
     publishedDateTime: 2021-03-05T02:50:00Z
@@ -72,76 +56,6 @@ related:
       - url: "https://www.goodreturns.in/img/2021/03/upasana-taku-1615188477.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Fintech MONVA Announces Second Fundraising Campaign"
-    excerpt: "Deeside smart comparison Fintech MONVA has launched its latest round of fundraising, returning to Crowdcube one year after smashing its last fundraising"
-    publishedDateTime: 2021-03-08T05:40:00Z
-    webUrl: "https://businessnewswales.com/fintech-monva-announces-second-fundraising-campaign/"
-    type: article
-    provider:
-      name: businessnewswales.com
-      domain: businessnewswales.com
-    quality: 39
-    images:
-      - url: "https://businessnewswales.com/wp-content/uploads/MONVA-1.jpg"
-        width: 580
-        height: 380
-        isCached: true
-  - title: "Fiserv to Present at the 2021 Wolfe Virtual FinTech Forum"
-    excerpt: "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology solutions, announced today that Frank Bisignano, President and Chief Executive Officer, will present at the Wolfe Virtual FinTech Forum on March 9,"
-    publishedDateTime: 2021-03-05T14:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=432885"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Katapult to Present at the 2021 Wolfe Research Fintech Conference"
-    excerpt: "Katapult Holding, Inc. (“Katapult”), an e-commerce focused financial technology company, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Orlando Zayas,"
-    publishedDateTime: 2021-03-04T21:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=432474"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-  - title: "Western Union to Present at the Wolfe Fintech Forum on March 10th"
-    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe Fintech Forum on Wednes 10,"
-    publishedDateTime: 2021-03-05T09:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=432682"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "Paysafe to Present at the 2021 Wolfe Research Fintech Conference"
-    excerpt: "Paysafe Group Holdings Limited (“Paysafe”), a leading integrated payments platform, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Philip McHugh,"
-    publishedDateTime: 2021-03-05T21:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=433071"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
         isCached: true
 
 secured: "5hTJALJ3pxtz+4KGJGxciVgTewhvta5sFAM5Bwmjsl0BNeK2eWv4sGY+a5zteJ5vdQyQAIrjIaa+falfClFwuTSIKtisCVz90yLwLklAvQHHox6ABamhpBW1Nuhw2YT14VDJVcYsJZX+efd9tR2wFHGq44lkw+f9gLPJqqXkfCDdwK5qp64R2+NrufXw1E9AcySy9a2nZlzrYiAGbKaoZKOkiJv/cxS1DhrvK82OANORmLhA7KypEqztyVW9vL9+VB/EByQDJ5+Z0pnb3jUIpKimfAWYJNRVv6BinLV7lZim8SzzFasMJbJM/aOhvKtgUj8CMFhtfCxtEvexmcQXLyRi9xHVsqF53IZEEjFDblnh3Z3zL2gr6nPm5GfwceyJKmZzk4VZtsWKVvRgdQwUdmd8/y57ccqICAgYN//+Xw5VueaX7sm7kV0+R4PzIfKDDT9jeM7fgtDuH+PkhZ05iCLegMbtUEbUk5GVGK8caLQBfv7MSbyMENsMbvmyAQe7IW0lJjiD5pujPAvgW5FKGg==;qq0xs2N1bX9wRdo0rZr73g=="

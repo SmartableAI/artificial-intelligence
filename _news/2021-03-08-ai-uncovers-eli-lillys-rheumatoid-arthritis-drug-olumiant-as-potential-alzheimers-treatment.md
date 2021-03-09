@@ -88,22 +88,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "AI-based method for repurposing existing drugs into potential treatments for Alzheimer's"
-    excerpt: "New treatments for Alzheimer's disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising options."
-    publishedDateTime: 2021-03-04T16:49:00Z
-    webUrl: "https://www.news-medical.net/news/20210304/AI-based-method-for-repurposing-existing-drugs-into-potential-treatments-for-Alzheimers.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210304/AI-based-method-for-repurposing-existing-drugs-into-potential-treatments-for-Alzheimers.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210304/AI-based-method-for-repurposing-existing-drugs-into-potential-treatments-for-Alzheimers.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
     excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
     publishedDateTime: 2021-03-05T20:19:00Z

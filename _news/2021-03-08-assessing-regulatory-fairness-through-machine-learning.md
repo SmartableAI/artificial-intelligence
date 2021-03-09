@@ -30,14 +30,19 @@ images:
 
 related:
   - title: "Assessing regulatory fairness through machine learning"
-    excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative, researchers reveal how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
-    publishedDateTime: 2021-03-08T20:04:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210308134043.htm"
+    excerpt: "Applying machine learning to a U.S. Environmental Protection Agency initiative, Stanford researchers reveal how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators."
+    publishedDateTime: 2021-03-08T18:20:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/su-arf030821.php"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/258449_web.jpg"
+        width: 1440
+        height: 1152
+        isCached: true
   - title: "Deciphering cis-regulatory grammar with deep learning"
     excerpt: "A new study builds a novel deep-learning approach to unravel the syntax of transcription-factor binding from high-resolution ChIP–nexus data. In silico simulations lead to experimental validation of complex sequence-based predictions: helical periodicity and directional cooperativity between transcription factors."
     publishedDateTime: 2021-03-08T16:19:00Z

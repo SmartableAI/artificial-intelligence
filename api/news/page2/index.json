@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-08-china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-us.md",
+      "title": "China Targets AI, Chips Among Seven Battlefronts in Tech Race With U.S.",
+      "excerpt": "A five-year economic plan unveiled in Beijing promises more spending, loans to bolster development of advanced technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-308486/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
+      "publishedDateTime": "2021-03-07T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-face-time-with-eight-mayoral-candidates.md",
+      "title": "Face Time With Eight Mayoral Candidates",
+      "excerpt": "This year, the candidates have spent a lot of their time on Zoom. It’s been weird. But the internet — in this case, Skype — is how I last talked with Kathryn Garcia, a wry, thoughtful former sanitation commissioner and candidate for mayor who deserves more attention than she has so far received in the race.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/07/opinion/07gay-illo/07gay-illo-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/07/opinion/nyc-mayoral-candidates.amp.html",
+      "publishedDateTime": "2021-03-07T08:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-uws-os-keyes-takes-on-techs-ethical-challenges-from-gender-bias-in-ai-to-facial-recognition.md",
       "title": "UW’s Os Keyes takes on tech’s ethical challenges, from gender bias in AI to facial recognition",
       "excerpt": "A PhD candidate with the University of Washington's Department of Human Centered Design & Engineering, Os Keyes researches the ethical and political impact that new technologies have on the world.",
@@ -451,7 +555,7 @@
       "originalUrl": "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 182,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -1121,114 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
-      "title": "Facebook’s New AI Teaches Itself to See With Less Human Help",
-      "excerpt": "Most image recognition algorithms require lots of labeled pictures. This new approach eliminates the need for most of the labeling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
-      "originalUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/60400f200fd1912b9163e1bf/master/pass/business_ai-vision_477260782.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-new-ai-teaches-itself-see-less-human-help/amp",
-      "publishedDateTime": "2021-03-04T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025.md",
-      "title": "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025",
-      "excerpt": "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T16:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],
