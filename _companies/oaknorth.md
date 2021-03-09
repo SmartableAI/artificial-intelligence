@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "oaknorth"
   url: "https://twitter.com/oaknorth"
-  followers: 959
+  followers: 960
 
 size: 501-1,000 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "XmbcgKwAmDbDIVlB2XHZRjPvJ8rt905ILXltjF7C4rmKhRUExAqwmc2aeFtfMCKXyNu02GgklYwTS1WLJuJkhQwedka5aqmx57fluX6BLNhfU+nF7c0IwkoSlYfRsR698PNOlPhWiVt8oXgMbOVDe16kHmJXzWu6nKup2d43CU6UhrM6HwVAQPGMqZlI9M9V9Rp/Yori+8zzXB5zpHbjSZmsBVw/PqCv+qQG3avmnBM6ncXZKvhEyTBkVtWty45QO+zSnjvlzbf053v7PVsDaVX/s7/P7AmTPa1y/cw6/2jtCEkj8vg1cR6dVBfJSD/deK+jrV9WTRDGQO2YScPU7FfvAOzirhTt/DT6EGkCxDlY/zWGh+M1KE5WI0sGyYSapuwf936KTyEH2C7nFzYVdg==;6EBmdzvRr1osOoqxCoG8tA=="
+secured: "O6+881+141c+7+yHRNLf2doiDkOEt0zgBJ8zdIk068ghxH/Fs7ljPXgv2tysXDAy9row4/fZ77VjTlkktQBppNO+mfl9DjwmBE5LRVnpugQ76oYZK++4uyKrjVPgfmSGMHypuC/KIeEzNOqi6QT6GDDid/9frKF3Li9fdEfBeHCn2vHfS1zN4GjcR+unJIlCawZSM4BhApOpN02GJvVnp74jUlOs9o6QDTfQy9fUpf/8OF8SeVFOsG3hsXFf3tvTgFqfg1QP9TmNvBWdY+fucpgEQb2P+1prgBJEUJLpRzC45hgZPEBuuT/n5vY8R5Rv2NkrovY/OZJEwbz8mB6Ldfw5c1tu0w8/LEHkN/5d7T5B0rU3aAmUNclRhXkz83PhWxM+PwotPI+XoqBxzpdB4g==;WiqQMdfsJn7ItFgtBBaaHA=="
 ---
 

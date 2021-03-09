@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Tamr_Inc"
   url: "https://twitter.com/Tamr_Inc"
-  followers: 3920
+  followers: 3922
 
 size: 51-200 employees
 yearFounded: 2012
@@ -37,6 +37,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "cSgd57RGbAk0ml0vJrUPOvQUey4F4wDUOHYPdnXG74mu2kTavrOr4FAboGClpFEiu4aymiEALqfTE2SOKmyqaT71yxwSGXfK3rpVaMsgE115Dm8L+ayWGA+saajF/OMyTYZ53ZaGFkwq/AIPd/s2SU3uFFxxI1orBQwr3C4roM4VaShjnkD7BIpZkG/RTAKA3mECC1rngEZnXqKRC8jIvLYqjhA67/PDRwmDVhcuCeQa6pQwwp1SoYFRvJFTYmsSm5iXeIRBImJZnV0pZ0NxBoH/FiZMCmwXvisN6C0mgiLqlmSFZwRCnfqePrXHTVZ7znQy9IMBgWIWv9zufBZevE6kXaArK3uH1By0C2MwKWS5kmqP5Gxt+CmJ2x4EPJs4UzIpl3SMr8X70tWqW7BqY9aCnF3e+DqmX2ghhzScbUo=;Fonhr4ueUO3qUgQmei7kRw=="
+secured: "4XYySm/DvV0oBJk2bkIHzP6W8iDYkiI/aYB42sLjWn0cLM6vPGUTNYTgD2uKXT3VZXH6cjfNlBCzw70CveO4bmXR7oc9ezULtcFZx8+2WiaaxuwOWA1YZB9ltQ3WbxDIQ1BBdNe5GU+uZExY6NJolHa+yBscEeKlzXK6+GllojK35TRZvCXnNQN1ASRXGS/6SfWv2ezGfuO0MCS6FixEXT/rqvMz5l1WpSYVA9Wq7FTiS28JhxFaRrlzDY6GZyzFzlfQFZLk597KDefZmYEV1D+amnE5CRru9sFzr1iSH4zygHZQv356VFdRXbnW+hRKU1qxsdQ6I/z6ycS19Pl38skxdmcUETHZBwVprXbOGMWGxoE5KSgoC/aTi0o2KToSJWtwhy9X2slcYmaaK10oy1J9L6E1S7I1KSC2d4Zym+s=;2Va4dRvJAr3qtkT1TIcTog=="
 ---
 
