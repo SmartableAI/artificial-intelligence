@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-ind
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Making the role of AI in medicine explainable"
+    excerpt: "Researchers have developed a new tissue-section analysis system for diagnosing breast cancer based on artificial intelligence (AI). For the first time, morphological, molecular and histological data are integrated in a single analysis."
+    publishedDateTime: 2021-03-09T17:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210309114256.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "How is AI and big data transforming the maritime industry?"
     excerpt: "Over the last decade, a myriad of industries and sectors have increasingly utilized data collection and artificial intelligence (AI) to help streamline many aspects of their business. The maritime ind"
     publishedDateTime: 2021-03-05T18:34:00Z

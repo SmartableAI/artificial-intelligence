@@ -43,20 +43,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "7 ideas for how artificial intelligence can enhance teaching"
-    excerpt: "Artificial intelligence will power more complex and collaborative learning activities along with deeper assessments of students' knowledge, experts say."
-    publishedDateTime: 2021-03-05T10:26:00Z
-    webUrl: "https://districtadministration.com/ideas-use-artificial-intelligence-machine-learning-teaching-education/"
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 39
-    images:
-      - url: "https://districtadministration.com/wp-content/uploads/2021/03/AdobeStock_224585219.png"
-        width: 648
-        height: 426
-        isCached: true
   - title: "GSI introduces unprecedented AI-powered EA trading system for Forex"
     excerpt: "Due to the Covid-19 pandemic, people worldwide have been using the forex market to make up for lost income, causing a 50% spike in daily participants and 300% daily trading volume in"
     publishedDateTime: 2021-03-06T04:31:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-acc
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://www.zdnet.com/a/hub/i/2021/03/08/b82392e3-a0d3-4346-ba72-916149066bd6/kpmg-ai-report-2021b.png"
         width: 1351
         height: 673
+        isCached: true
+  - title: "AI Adoption Surges During COVID-19, KPMG Finds. So Do Ethical Concerns"
+    excerpt: "Real-world AI deployments surged over the past year as companies sought to remain competitive during the coronavirus pandemic, according to a new study"
+    publishedDateTime: 2021-03-09T17:30:00Z
+    webUrl: "https://www.datanami.com/2021/03/09/ai-adoption-surges-during-covid-19-kpmg-finds-so-do-ethical-concerns/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/covid_biz_shutterstock_wan-wei.jpg"
+        width: 997
+        height: 499
         isCached: true
 
 secured: "eH0xbfRNF+vFehuTITffWBLS6vsAaEM/Y+vASJuC+DVyWlAuI6jOf6i9yDUO+BZjcIakxro5lkD9bMSPk5ryODcqhHYVLbNm6pHkgv5OIc6Buephsx5ne7V5008iGX4drkpbHamqgPAKqecDIMly2N9svrnumZr88sC8WT3yp3vowMbYE99+AcKFlAJ6gzRvGVqfmJZVK4KrAtEYmkJLUROv0vVr4EJt9NYtbkdN7buEfQmhLG5z22ezmbRXUueFmBKpN/HpbQXIFUnXfYBG1XpHo/IZVC4LBAa1LBKUVqNDJKayECuhDVzJtNuVqgej4QVREFlthQMaIM8kEJi45bjrwFaoaRNGPr0gbVS9mw8=;x5ZM5YgOkBMLHnvIFqpC3g=="

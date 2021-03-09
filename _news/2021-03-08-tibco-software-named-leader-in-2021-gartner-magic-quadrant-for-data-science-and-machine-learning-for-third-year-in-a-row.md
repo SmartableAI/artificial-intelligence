@@ -47,20 +47,17 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Dataiku Again Named a Leader in the Gartner 2021 Magic Quadrant for Data Science and Machine-Learning Platforms"
-    excerpt: "Dataiku, the world's most advanced Enterprise AI platform, was named a Leader in the Gartner 2021 Magic Quadrant for Data Science"
-    publishedDateTime: 2021-03-05T02:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-again-named-a-leader-in-the-gartner-2021-magic-quadrant-for-data-science-and-machine-learning-platforms-826549963.html"
+  - title: "RapidMiner Named a Visionary in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "Company evaluated based on its completeness of vision and ability to execute BOSTON (PRWEB) March 09, 2021 RapidMiner, a leading enterprise AI platform for people of all"
+    publishedDateTime: 2021-03-09T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20082699/rapidminer-named-a-visionary-in-gartner-magic-quadrant-for-data-science-and-machine-learning-platf"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20082699"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20082699"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1449384/Image_Gartner.jpg?p=facebook"
-        width: 1198
-        height: 628
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "l0p1U2zKREqbFM6u5rc0jA62lnpZf8etiGakvy02IBpwCWWwrBgBaCuNwETJgKuKh3PRVcdjFucnF7aMG2IP23Vy4547SawmwWsHyjsfwxAZ5DWfzG8umIlSGBeW4b5RBQtl+NKvJyBhKEKvUVya+dwaXHLyU2iHufiUO31H5/SgXr9dqyWNzBiBxq04cOapgw+OrJ4kCyrrvgd5byWfN74IfR2OeL8e9InR7JOzsrvo5UUOPOmSjXXsVxZYzKtUsvIzaYONjVOhVjzYoqXm8cgstzafVU4ypoKWD76pRSF+ABNtkEmSAvcabEksCgzHYp3dUeVI1/d/n+KPPwWM9LHEQZQ2SddN7DYGkPhyvjY=;O9GhgvtaeG3La4Dl3XkvaA=="
 ---

@@ -68,6 +68,15 @@ related:
         width: 760
         height: 507
         isCached: true
+  - title: "Making the role of AI in medicine explainable"
+    excerpt: "Researchers have developed a new tissue-section analysis system for diagnosing breast cancer based on artificial intelligence (AI). For the first time, morphological, molecular and histological data are integrated in a single analysis."
+    publishedDateTime: 2021-03-09T17:29:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2021/03/210309114256.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
   - title: "The complexity of artificial intelligence"
     excerpt: "SMU Assistant Professor Sun Qianru says highly diverse training data is critical to ensure the machine sees a wide range of examples and counterexamples that cancel out spurious patterns."
     publishedDateTime: 2021-03-05T16:14:00Z

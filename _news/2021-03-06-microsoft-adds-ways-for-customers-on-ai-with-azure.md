@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"
+    publishedDateTime: 2021-03-09T15:02:00Z
+    webUrl: "https://www.wboc.com/story/43468926/claim-genius-ai-claims-solutions-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 64
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "10 key Microsoft Ignite takeaways for CIOs"
     excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
     publishedDateTime: 2021-03-08T10:02:00Z

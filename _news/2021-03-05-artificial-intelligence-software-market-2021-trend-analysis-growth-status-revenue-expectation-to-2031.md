@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Emotion Detection and Recognition Market Size to Record 18% CAGR Through 2027"
-    excerpt: "Selbyville, Delaware, Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
-    publishedDateTime: 2021-03-08T13:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-size-to-record-18-cagr-through-2027-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "US AI in E-commerce Market Trends, Research Report, Growth, Opportunities, Forecast 2019-2025"
     excerpt: "US AI in e commerce market is projected to grow at a CAGR of 26 0 during the forecast period 2019 2025 The US marks a significant position in the venture investment activity of the e commerce industry Some of"
     publishedDateTime: 2021-03-08T11:33:00Z
@@ -71,20 +57,6 @@ related:
       - url: "https://cdn.openpr.com/U/3/U308435032_g.jpg"
         width: 800
         height: 800
-        isCached: true
-  - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"
-    publishedDateTime: 2021-03-08T21:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Image Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028, Fortune Business Insights"
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."

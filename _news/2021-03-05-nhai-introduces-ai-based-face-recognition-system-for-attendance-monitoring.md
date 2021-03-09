@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/economy/logistics/nhai-introduc
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/"
 type: article
 quality: 72
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://www.getnews.info/uploads/7b356c4730d0275ecf38517d113b1587.png"
         width: 600
         height: 369
-        isCached: true
-  - title: "7 ideas for how artificial intelligence can enhance teaching"
-    excerpt: "Artificial intelligence will power more complex and collaborative learning activities along with deeper assessments of students' knowledge, experts say."
-    publishedDateTime: 2021-03-05T10:26:00Z
-    webUrl: "https://districtadministration.com/ideas-use-artificial-intelligence-machine-learning-teaching-education/"
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 39
-    images:
-      - url: "https://districtadministration.com/wp-content/uploads/2021/03/AdobeStock_224585219.png"
-        width: 648
-        height: 426
         isCached: true
   - title: "GSI introduces unprecedented AI-powered EA trading system for Forex"
     excerpt: "Due to the Covid-19 pandemic, people worldwide have been using the forex market to make up for lost income, causing a 50% spike in daily participants and 300% daily trading volume in"

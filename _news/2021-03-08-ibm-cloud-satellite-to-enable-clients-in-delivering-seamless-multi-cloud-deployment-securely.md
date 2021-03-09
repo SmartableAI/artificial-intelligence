@@ -7,7 +7,7 @@ originalUrl: "https://mb.com.ph/2021/03/08/ibm-cloud-satellite-to-enable-clients
 webUrl: "https://mb.com.ph/2021/03/08/ibm-cloud-satellite-to-enable-clients-in-delivering-seamless-multi-cloud-deployment-securely/"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 470
     height: 523
     isCached: true
-
-related:
-  - title: "IBM makes Cloud Satellite generally available: Hybrid cloud for all – and an evolution for Watson"
-    excerpt: "IBM has announced the general availability of IBM Cloud Satellite, enabling its hybrid cloud services across any environment."
-    publishedDateTime: 2021-03-05T04:26:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/mar/05/ibm-makes-cloud-satellite-generally-available-hybrid-cloud-for-all-and-an-evolution-for-watson/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 41
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/earth-night-space-picture-id627281636.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
 secured: "LgcbbiWFwG/loe0ai9iBnNBSYlleRnmIqxEPx829ygxmOLCanuZFB8OayD7vp3ZeVfFBpp20Z/ddasYFYnLchzWJ6l5S6Aa3MD8QU3NVdJXkMpkJCvYOSPYWzTf9DWDZIGcLwT0J2D32n9I3b8AzCxuwhImD5NAKqCORBIRLEZuV3AzviGGp0t42uVnjSqt5mvZgTx8+KFYXdE3nJAb4s6F1qg+Zgv00gNM9bzwuUvsW6P716T9NPrk/ZOp0QWmKxKrqpKkXz7nJqa11YRYlQpJW9dOqer1UaiwgEHi0/vnHxa2yrDbPaqynoNKaJt6DSIGm5GojXiYVWCD7kdJmTS5vcq/xbW3cVp3QqjgcDgky+beILCpkXTAWzTiHwjC+VEgRisDSOF/lmJeTzFgBF+DxV0C5mDyQpiGmL0gdpZ/vO+qzNrMy/dRTbK9oCYfDLD1RECYPaj9dhGJtqQQRnute6m6DeKLnmWHHM/syqs/tTmLSe85Y/qZb6Pas1Qz0PSE2mXSnA6zrRao5NztkvA==;69PGrau8js17XeLDiZyCiA=="
 ---

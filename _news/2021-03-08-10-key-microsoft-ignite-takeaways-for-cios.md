@@ -43,6 +43,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"
+    publishedDateTime: 2021-03-09T15:02:00Z
+    webUrl: "https://www.wboc.com/story/43468926/claim-genius-ai-claims-solutions-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 64
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
     excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
     publishedDateTime: 2021-03-05T13:14:00Z

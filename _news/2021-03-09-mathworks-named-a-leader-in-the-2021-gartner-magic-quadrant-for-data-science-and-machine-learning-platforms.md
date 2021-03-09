@@ -40,20 +40,17 @@ related:
         width: 794
         height: 446
         isCached: true
-  - title: "Dataiku Again Named a Leader in the Gartner 2021 Magic Quadrant for Data Science and Machine-Learning Platforms"
-    excerpt: "Dataiku, the world's most advanced Enterprise AI platform, was named a Leader in the Gartner 2021 Magic Quadrant for Data Science"
-    publishedDateTime: 2021-03-05T02:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/dataiku-again-named-a-leader-in-the-gartner-2021-magic-quadrant-for-data-science-and-machine-learning-platforms-826549963.html"
+  - title: "RapidMiner Named a Visionary in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "Company evaluated based on its completeness of vision and ability to execute BOSTON (PRWEB) March 09, 2021 RapidMiner, a leading enterprise AI platform for people of all"
+    publishedDateTime: 2021-03-09T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/p20082699/rapidminer-named-a-visionary-in-gartner-magic-quadrant-for-data-science-and-machine-learning-platf"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20082699"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20082699"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 19
-    images:
-      - url: "https://mma.prnewswire.com/media/1449384/Image_Gartner.jpg?p=facebook"
-        width: 1198
-        height: 628
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
     excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
     publishedDateTime: 2021-03-08T01:05:00Z

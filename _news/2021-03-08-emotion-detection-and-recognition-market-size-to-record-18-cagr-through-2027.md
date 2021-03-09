@@ -30,105 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
-    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
-    publishedDateTime: 2021-03-05T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
+  - title: "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027"
+    excerpt: "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,"
+    publishedDateTime: 2021-03-09T18:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Software Market 2021 Trend Analysis, Growth Status, Revenue Expectation to 2031"
-    excerpt: "The worldwide Artificial Intelligence Software market report is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i."
-    publishedDateTime: 2021-03-05T13:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2021-trend-analysis-growth-status-revenue-expectation-to-2031-2021-03-05"
+  - title: "IBM makes Cloud Satellite generally available: Hybrid cloud for all – and an evolution for Watson"
+    excerpt: "IBM has announced the general availability of IBM Cloud Satellite, enabling its hybrid cloud services across any environment."
+    publishedDateTime: 2021-03-05T04:26:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2021/mar/05/ibm-makes-cloud-satellite-generally-available-hybrid-cloud-for-all-and-an-evolution-for-watson/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/earth-night-space-picture-id627281636.jpg"
+        width: 1024
+        height: 768
         isCached: true
-  - title: "US AI in E-commerce Market Trends, Research Report, Growth, Opportunities, Forecast 2019-2025"
-    excerpt: "US AI in e commerce market is projected to grow at a CAGR of 26 0 during the forecast period 2019 2025 The US marks a significant position in the venture investment activity of the e commerce industry Some of"
-    publishedDateTime: 2021-03-08T11:33:00Z
-    webUrl: "https://www.openpr.com/news/2253473/us-ai-in-e-commerce-market-trends-research-report-growth"
-    ampWebUrl: "https://www.openpr.com/amp/2253473/us-ai-in-e-commerce-market-trends-research-report-growth"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253473/us-ai-in-e-commerce-market-trends-research-report-growth"
+  - title: "IBM Considered Selling Watson Health"
+    excerpt: "What is the Watson Health division of IBM, why is IBM considering its sale, and why is the medical field showing signs of hesitation with medical AI systems?"
+    publishedDateTime: 2021-03-09T16:59:00Z
+    webUrl: "https://www.electropages.com/blog/2021/03/ibm-considered-selling-watson-health"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 46
+      name: Electropages
+      domain: electropages.com
+    quality: 39
     images:
-      - url: "https://cdn.openpr.com/U/3/U308435032_g.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"
-    publishedDateTime: 2021-03-08T21:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Image Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028, Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-03-09T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-market-key-drivers-restraints-industry-size-share-opportunities-trends-and-forecasts-up-to-2028-fortune-business-insights-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Digital Signage Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2028, Fortune Business Insights"
-    excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."
-    publishedDateTime: 2021-03-09T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/digital-signage-market-data-current-and-future-trends-industry-size-share-revenue-business-growth-forecast-to-2028-fortune-business-insights-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Far-Field Speech and Voice Recognition Market Size, Share, Future Challenges, Revenue, Demand, Opportunity, Analysis and Industry, Forecast 2025"
-    excerpt: "Far-field speech recognition is a crucial technology for speech communications and intends to allow smart devices to spot distant human speech. This revolution is related to numerous situations like smart home appliances,"
-    publishedDateTime: 2021-03-09T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-and-voice-recognition-market-size-share-future-challenges-revenue-demand-opportunity-analysis-and-industry-forecast-2025-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.electropages.com/storage/app/media/2021/Mar/medical-science.jpg"
+        width: 360
+        height: 240
         isCached: true
 
 secured: "XI3180zMTHEHy8z+o7FjwGPqOyXWtFPSwxf7nUynU/vUxG/OV0MMSgmntCxyTrYTzauv6yB+gQzh2Jac9T0WH9dGEEDyMysWfP1gueSiu5QuwTsanKyOIGl/2BMEkbd5DjCuifDAhu19ZOAkVo9IYPA0FbUy5aoAhPnU70aE1gvx3TYWj7i+z4NYHvGFZsZc2KvDreaTUKsa3UzH0kBld/RCvc4gGCFvQ4zJFsHIdR6UHd+0obhACurIIgnD+edfZbLNvsO4nt/kKvPnbZoummECF1t/m3feEWU8QQ5mPXQH8kB3A+9z4eQrcTS8wDVhU2f9nJae6bKlXOO9S7pX9DcSN4Rlh+xw+/DZ8DUKSoI=;oj2B3OsGSsXwE73welRIpQ=="

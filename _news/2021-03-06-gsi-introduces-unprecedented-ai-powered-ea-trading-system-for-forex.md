@@ -57,20 +57,6 @@ related:
         width: 600
         height: 369
         isCached: true
-  - title: "7 ideas for how artificial intelligence can enhance teaching"
-    excerpt: "Artificial intelligence will power more complex and collaborative learning activities along with deeper assessments of students' knowledge, experts say."
-    publishedDateTime: 2021-03-05T10:26:00Z
-    webUrl: "https://districtadministration.com/ideas-use-artificial-intelligence-machine-learning-teaching-education/"
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 39
-    images:
-      - url: "https://districtadministration.com/wp-content/uploads/2021/03/AdobeStock_224585219.png"
-        width: 648
-        height: 426
-        isCached: true
   - title: "Voice-based artificial intelligence for SA"
     excerpt: "Pangea Communication introduces voicebots, which solve routine issues with clients, saving time and giving operators capacity to deal with more complex requests."
     publishedDateTime: 2021-03-08T09:02:00Z

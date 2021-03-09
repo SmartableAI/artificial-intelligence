@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Photographer and Understanding the Role of the Creative"
-    excerpt: "The AI Photographer isn't too far off from being a reality in the future. We can spot the fakes now, for the most part. But just wait."
-    publishedDateTime: 2021-03-05T03:00:00Z
-    webUrl: "https://www.thephoblographer.com/2021/03/05/ai-photographer/"
-    ampWebUrl: "https://www.thephoblographer.com/2021/03/05/ai-photographer/amp/"
-    cdnAmpWebUrl: "https://www-thephoblographer-com.cdn.ampproject.org/c/s/www.thephoblographer.com/2021/03/05/ai-photographer/amp/"
+  - title: "Morphological and molecular breast cancer profiling through explainable machine learning"
+    excerpt: "Cancers are complex diseases that are increasingly studied using a diverse set of omics data. At the same time, histological images show the interaction of cells, which is not visible with bulk omics methods."
+    publishedDateTime: 2021-03-08T16:52:00Z
+    webUrl: "https://www.nature.com/articles/s42256-021-00303-4"
     type: article
     provider:
-      name: The Phoblographer
-      domain: thephoblographer.com
-    quality: 59
+      name: Nature
+      domain: nature.com
+    quality: 45
     images:
-      - url: "https://www.thephoblographer.com/wp-content/uploads/2021/02/IMGP1466-770x514.jpg"
-        width: 770
-        height: 514
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42256-021-00303-4/MediaObjects/42256_2021_303_Fig1_HTML.png"
+        width: 685
+        height: 407
+        isCached: true
+  - title: "Deep learning classification of lung cancer histology using CT images"
+    excerpt: "Tumor histology is an important predictor of therapeutic response and outcomes in lung cancer. Tissue sampling for pathologist review is the most reliable method for histology classification, however,"
+    publishedDateTime: 2021-03-09T10:55:00Z
+    webUrl: "https://www.nature.com/articles/s41598-021-84630-x"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-021-84630-x/MediaObjects/41598_2021_84630_Fig1_HTML.png"
+        width: 685
+        height: 308
         isCached: true
 
 secured: "++U7H7iSkh4S1ywvA1RAMzElM73VTAMSakLP3sngxh7syBUwA3Emxi5txUqRy/kUfJSab+gGvhFBhAj0Q1QE/Bz0kZwcsoZdL31ow+jB1H1beccwnlFkzhXvOKYgwmXUEiJZQWr5mHaGUGUDgq9I6hVT9UTvrevm0SLmGJykkUKAdBKK3NmOITP51p1qBtPko2gPwhIm0c34mNvtHYu8RG1Ri/JDn3pcGx08h6oGM9DeA1wASyoochDciQ2lE07fNlSv9Po41rOyFOC/o5IJZ9myIhqS/4sRXu5Bvsz/HUGikOT4o0syPLSAIV4bjJ6K2b94R44t3qpg/IqkFUvb83imKogSwRAW/S97eqNDiHc=;Jt5JNA/EbHQy4pOZ2iq1qQ=="

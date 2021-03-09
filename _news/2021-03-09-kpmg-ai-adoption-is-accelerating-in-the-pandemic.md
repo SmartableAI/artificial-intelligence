@@ -62,6 +62,20 @@ related:
         width: 1351
         height: 673
         isCached: true
+  - title: "AI Adoption Surges During COVID-19, KPMG Finds. So Do Ethical Concerns"
+    excerpt: "Real-world AI deployments surged over the past year as companies sought to remain competitive during the coronavirus pandemic, according to a new study"
+    publishedDateTime: 2021-03-09T17:30:00Z
+    webUrl: "https://www.datanami.com/2021/03/09/ai-adoption-surges-during-covid-19-kpmg-finds-so-do-ethical-concerns/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/covid_biz_shutterstock_wan-wei.jpg"
+        width: 997
+        height: 499
+        isCached: true
 
 secured: "cQ1ADddPHIA8tTm+0/1/VIyp5XRme5h6CsujqpmMOYpfdevFGKPB1j0ujVIWUnNW+JwD7m9P38lc2ftQfokG9sLJzxAFXAvFs3PW7N0fPx1ri5TwEolaX9B0RyZJFWFrlE2XXh+FwqASea7FfVmzcz1EIz9JaWvwsnwTHJ1pQIROqbArRzg+xi1CQgMtNNcjenjXR90ZZi3Tc1BRInDIz19CPKjQccorUFfR3Szbx40aMWRXLNc+02ltf3I73iStkiyMSwlCL5tlr3hmKIL1pwL8sdob3i+lWEqyx4S6ue1/WoXJM5H/wii8ml9mDPpLZ53ru81DfsicqbEXYyyjWM4F9+AxVgfPgGd33hpCOOpcJytsBbPi1nPWudnuoHgHx+qnRvif1Dh9VIJU7SRvWR4hOHf2vJsewdClcNiXQgSiHVdOn2jxwpc8j5/XCv+uq+ibnsRXDo7A/ExSn2MbGLMrqHxJrFBOeejDEI8BQBjcJVwSU0hpJHCH2t9sm6LbEVqobkHLF43kdja7mytU7g==;+8SIZqC6EwCUda7kmIFyBA=="
 ---

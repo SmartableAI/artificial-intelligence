@@ -9,7 +9,7 @@ ampWebUrl: "https://theenterpriseleader.com/2021/03/06/short-interest-in-first-t
 cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/06/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-rises-by-65-8.html/amp"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://www.marketbeat.com/logos/generic-stocks13.jpg"
         width: 1024
         height: 663
-        isCached: true
-  - title: "D.A. Davidson & CO. Makes New $8.95 Million Investment in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
-    excerpt: "D.A. Davidson & CO. purchased a new position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) in the 4th quarter, according to the company in its most recent 13F filing with the SEC."
-    publishedDateTime: 2021-03-05T01:40:00Z
-    webUrl: "https://theenterpriseleader.com/2021/03/05/d-a-davidson-co-makes-new-8-95-million-investment-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
-    ampWebUrl: "https://theenterpriseleader.com/2021/03/05/d-a-davidson-co-makes-new-8-95-million-investment-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp"
-    cdnAmpWebUrl: "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2021/03/05/d-a-davidson-co-makes-new-8-95-million-investment-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp"
-    type: article
-    provider:
-      name: theenterpriseleader.com
-      domain: theenterpriseleader.com
-    quality: 59
-    images:
-      - url: "https://www.marketbeat.com/logos/generic-stocks14.jpg"
-        width: 1024
-        height: 528
         isCached: true
 
 secured: "n0zwMbXN77c+RAPLRjOyccpnT0WC7+cLXo2c0SaFW8JHMQImC9ttJl+NlBBilOG9BTAI2Ouj1/+v1rwP+ytBM7KeYPr8HUgPrxXfwaMfeYHIuZJxOtL6RbY0qsJ10iS0Q+Ki4LMn1MGcFSTbPgKNpHhDaf7CEsmaqEHl2k5s3NR9h9IJ75Yny7lVKQC72ikewMJrD6fL+xTXTku2qx3o+fvcz8uURVtVLmL0XI8iVSgV0VyYWGJqd/H/aRo9OTDS0kgtujmtOUfkaEN1J06af3JoubzhU1ireP/mZ/LEDaqwRYhNZqZz+9uVtOvLyXPvXw1rtTlryeuKEC0XS2Ujt8TiOM8nNuQDzYLNK4P9bFE=;zxw8y2xV8NjGVdujilT9SA=="
