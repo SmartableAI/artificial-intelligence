@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/advisor/banking/fintech-tools-for-money-mindf
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/advisor/banking/fintech-tools-for-money-mindfulness/?amp"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -146,20 +146,6 @@ related:
       - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500
         height: 324
-        isCached: true
-  - title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
-    excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to be impacting"
-    publishedDateTime: 2021-03-04T09:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra/article_8079a433-35c8-59a7-89bb-aa84396a9b5c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/5d/85dad0f5-6e33-5ba3-a10c-4fd203ab7182/60414b43bf162.image.jpg?resize=1200%2C589"
-        width: 1200
-        height: 589
         isCached: true
 
 secured: "9UlJpkjNFRkI4I2ZmFMOeeMxD+UaNUgFRU0DuZVyNsLm0KxDMTYkPUWgFZDwZ1dLlf9d719Kr+AsT/LRFki/ZFiIr8Of8Kvgejq+J99einl5RIgdXxkuP0AU9X70pb0hyknSEosA1Tc9LYuhsni/nNGkmV7Y6BE9Sbr5gkYzfAu71E70+8CsBVJDmx7qWHeFpCy0to7f2N7u+0fbSz0Xa8VgskZdGbHiXBHGivo+z7tJSRTWAqn5tn0FKVV+PVor+F9wFtau3MiHLDYoikwwpABykl/dR0o38cIkmG2SkduLOTrK3UbiS1SY0GRLJ4sFIkaalU9e+WwimemHVs4bXCmi4mncbyxs0pmok2RflNTeD5tBl4XzsmpcIwogBVOXczARAmnkI97Fe2DWN4dOOcM7Bd5WRE9S+gOH5LuXWW4gmhnQTMIKKRJHdHHCbienNtX6MzSetJ1y9XoWbmi4e0sJcMHbdeUnI/OlubBRFltAX9P9BaA5/jCfhJO0kj5KjFG2Rk8Yvf+FnwAhiixuqg==;6UDySXxWXk9D6v8DXRviWA=="

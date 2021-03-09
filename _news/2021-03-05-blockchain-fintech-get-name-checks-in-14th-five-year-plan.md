@@ -143,20 +143,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "Financial industry must tackle gender bias in algorithms, according to global fintech leader, Finastra"
-    excerpt: "Finastra, one of the world's largest fintechs, is calling upon the global finance industry to tackle algorithmic bias which is likely to be impacting"
-    publishedDateTime: 2021-03-04T09:40:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-industry-must-tackle-gender-bias-in-algorithms-according-to-global-fintech-leader-finastra/article_8079a433-35c8-59a7-89bb-aa84396a9b5c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/5d/85dad0f5-6e33-5ba3-a10c-4fd203ab7182/60414b43bf162.image.jpg?resize=1200%2C589"
-        width: 1200
-        height: 589
-        isCached: true
 
 secured: "GXMo4k9yFLaep59PEOdb62/0nVErU/ROadZDFPpGuuXZ9DCU6qFkC/5UDfRowyte4DPnzmucRmbGrn2D+thmmBokiAoNTGoyy1y/9P7vBUyI7cFZBtvMM7aagsGfo6ZFsUjdBqHX4ua/7iM/IjJ+G8wicx6IwhWTkBTbULTZvMSF1IdfdrIWld9D8XEyxm/jjj5Lkp03oOB8+oOZ3+k39KXzpSR4AlzPFrigNLaqw4qbQKW5HeJW8DBib/5LfsHq0ck/SIRVRJ8WLwvgEZESett2Vy/++Y3m6kKAQ/oDy9nd14fnlNL1YipFO7gahUzZ5KXvOUzDINjcB7+AtTym6zoY6H1eBLsCptMPGop2FfbkTcu3cVZor9IEENHhxOWjcSM9RsSxl85FyRmFSvMVLeJ5e8R2SVYiAU1AlbNEPT2UrbEb/epoUL8DdZu9cc+J9VLPXy36jNfukP8xQfVPzVt+BNuHEL0Oxv38rV1iqjDrZRZ9AQlItZjDkU7aIVNv4+IcT93+OvfsEwktH+laRg==;zPhR8NyE05Iexg0ghX6zYg=="
 ---

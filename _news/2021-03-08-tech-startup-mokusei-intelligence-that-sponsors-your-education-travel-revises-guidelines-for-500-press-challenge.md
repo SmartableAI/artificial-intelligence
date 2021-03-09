@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43459187/tech-startup-mokusei-intellige
 webUrl: "https://www.wboc.com/story/43459187/tech-startup-mokusei-intelligence-that-sponsors-your-education-travel-revises-guidelines-for-500-press-challenge"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Startup Mokusei Intelligence Announces the '$500 Press Challenge'"
-    excerpt: "Mokusei Intelligence is on the lookout for artists, talented individuals, and skilled storytellers for explaining the idea, concept, and story of vallued.ai & Mokusei Intelligence to the"
-    publishedDateTime: 2021-03-04T10:37:00Z
-    webUrl: "https://www.wboc.com/story/43443726/tech-startup-mokusei-intelligence-announces-the-500-press-challenge"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 22
-    images:
-      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "First ever 'Press Challenge' announced by Mokusei Intelligence - a Social Impact Tech Startup"
     excerpt: "Mokusei Intelligence is looking for good communicators or storytellers who can articulate its vision and translate its mission to people all around the world."
     publishedDateTime: 2021-03-05T05:08:00Z

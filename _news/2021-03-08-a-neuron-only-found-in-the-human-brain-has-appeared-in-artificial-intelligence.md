@@ -9,7 +9,7 @@ ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brai
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
 type: article
 quality: 72
-heat: 103
+heat: 104
 published: true
 
 provider:

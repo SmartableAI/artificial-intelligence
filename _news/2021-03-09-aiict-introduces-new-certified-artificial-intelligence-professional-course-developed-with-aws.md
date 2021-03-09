@@ -3,21 +3,21 @@ category: news
 title: "AIICT introduces new Certified Artificial Intelligence Professional course developed with AWS"
 excerpt: "The Australian Institute of ICT (AIICT) has introduced a new ‘Certified Artificial Intelligence Professional’ course, jointly developed with Amazon Web Services (AWS) for aspiring Artificial Intelligence (AI) developers and Machine Learning (ML) professionals."
 publishedDateTime: 2021-03-09T00:49:00Z
-originalUrl: "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/"
-webUrl: "https://www.reseller.co.nz/mediareleases/138360/aiict-introduces-new-certified-artificial/"
+originalUrl: "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/"
+webUrl: "https://www.arnnet.com.au/mediareleases/138360/aiict-introduces-new-certified-artificial/"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: Reseller News
-  domain: reseller.co.nz
+  name: ARN
+  domain: arnnet.com.au
 
 topics:
   - AWS AI
   - AI
 
-secured: "uG2WTvAWKgP36CXghW/BpTcYqjnPI/vkp+RgLZ2J1Bdg1mT9ChVBgamC6dFMGnL3OvxSs37b7PMgTrxdGqm8zpaSDpZnRMzIm8/9UC8+EUSPpmQfUr8kCUmQv+tRWZ4uqU5AFbmmHDPNF+l+d5a1fbz0eFoUxv2bwucFeAiy/3KxiY/1CdMCWJbycrVqCOEzRzlkmjrzfnlzWxRCBrRJYhGxgY0uV1sJLE8h3Ue6RopIST5596t7ykdwS6Ljp7Kjf2UDQdb94QuBSbfP34pxCLq9AwCqTgkLEuV1J2mngl4A/mi19g4lIpKnaSQAssdyuaoRF2kRkSbBWB5dIyM2bAUb0wFLsBiR3uKHdevbh/I=;xIkExFZEuTYc/8u6lyJoag=="
+secured: "oywxcWi+euN0csx94Qml1v6/bgJn0vrvRhZgNvCM+1T14e7XQjLqpBg0CRrXqlAsT0dzC4EAy5lqEyD68rXdlht5CU8i0e/SDevXzGQLG4dz4qNGxHP9zwhUnZDuFrgz1E1nMlcM0EtJgu80m9OnxNFG6vgY3drlgdQPhkK3HCNzba6+W1c5ponWVDn+00U2qgloy81ImG8APTdD1LP/TlAC4GdTlVub/EjqAwiR+mXoXXrfS33AbU+IQUGpcCQFp5agXH0WBsbf0yxNIWmc9ZFqeg3u/1BmXSAXr9tjBa61lz05BeIJ74aM7D4VRbG/4kgvdp1OTNqFLbztptH6Ogt1T8NOCisqYX4DjW7Tw60=;cPP3Togn4zVMivEIaVwtNw=="
 ---
 

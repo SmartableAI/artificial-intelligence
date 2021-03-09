@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1101710186/C3ai-Digital-Transformation-Institut
 webUrl: "https://menafn.com/1101710186/C3ai-Digital-Transformation-Institute-Announces-Shell-as-New-Industry-Partner"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai Digital Transformation Institute Announces Shell as New Industry Partner"
-    excerpt: "The C3.ai Digital Transformation Institute (DTI) today announced that global energy company Shell is the newest industry partner to join the consortium of universities, national laboratories, and companies that make up the Institute."
-    publishedDateTime: 2021-03-04T11:00:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-science-north-america-champaign-energy-and-fuel-technology-5ae1fc329a4b4f72b3d7523f9f90682e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "C3.ai Digital Transformation Institute Announces Shell as New Industry Partner"
     excerpt: "The C3.ai Digital Transformation Institute (DTI) today announced that global energy company Shell is the newest industry partner to join the consortium of universities, national laboratories, and companies that make up the Institute."
     publishedDateTime: 2021-03-05T14:26:00Z
