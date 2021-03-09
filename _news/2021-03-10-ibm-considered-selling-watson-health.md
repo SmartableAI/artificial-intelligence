@@ -53,21 +53,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM makes Cloud Satellite generally available: Hybrid cloud for all – and an evolution for Watson"
-    excerpt: "IBM has announced the general availability of IBM Cloud Satellite, enabling its hybrid cloud services across any environment."
-    publishedDateTime: 2021-03-05T04:26:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/mar/05/ibm-makes-cloud-satellite-generally-available-hybrid-cloud-for-all-and-an-evolution-for-watson/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 41
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/earth-night-space-picture-id627281636.jpg"
-        width: 1024
-        height: 768
-        isCached: true
 
-secured: "MINj1H3LAxh9EKFbmkY2wCOua2jcJ5qpCeCiL7MZv2TgKbDJL/hSsieRqeuYd4NZmJmQkyoG4xXv/5ZdNNu4+dinsBauoVS2jTTUqZjIBM8/R+GhH64VUSdBduBbvsqdNArCgLVwyCAfwOZl0jUExOilASvVBgdFl7W2lqxTA/4/SDrsBHTGpiXseGJbQxdpoHMKFwkg1oG02HtCq+1cyJMXac0C6rwjLUiPGEKstKqpQVHAVFrraC4DClcpfpyborT84yONrEefnxJDcjjAu52PpTREUJUmfQPeHMxqQ1ssxNC63U4i40emNzsuTcJfFKixuBYQZGzQbaUi61Ew8DGwx8axekyHAR6QR/RmOKY=;+Z9w91PJIi9gCvmndvApQQ=="
+secured: "7IIy1Vtqqmrr3GLzoHrrt2TCRXCoIPj+gQ5+TqPtylxJm053Ynt1yD4pGOxJ7z+p98aA0HI2gUlUQ+lUhHMhc0rw0I8MHlRxpJdmMMDV25nLDv2G2gdI63y0csAi1CDRqoJr/yEr7kakXF0IDi4g3/VRGSmoHDEM1LXBxPcxOzrII8EWqKPmmjX81rkuI0WaGU5HRT8MuOzf/QKmHiK+Os9wcE0hihVh8bchA3drK2Q0U1kM9TafOFUZm/OxbxNNO0quQPRE3Di5viF2QFMKVAHJSwMQ2a772HIxyqagqzEdcg8eLl5tcs63EHUIkox39t5R9ONqJk42VGVkQffAAFRdqcJYF4eLqTFYZj4np+d/scW5mNmPccoML123AI/5jenQ7Zpac225Unr8sWp/U5yEt8gxibyMfedA5zuLGNbY2IawuOvM6gRAA62hChKaqURcp3Ru85vJtsyfDoV4G85XSjxMG1//BDxaiaz0wI4217Ux69BE0xs7i0bVnc0/Imp6hmZYT6PeHV3jl98RXA==;9bNVEQfAgdMlb9pfhrA/tA=="
 ---
 

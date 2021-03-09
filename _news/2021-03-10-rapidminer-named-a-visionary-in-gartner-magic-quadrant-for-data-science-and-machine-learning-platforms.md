@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "SAS cracks Magic Quadrant for machine learning, data science"
-    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Qua"
-    publishedDateTime: 2021-03-05T04:32:00Z
-    webUrl: "https://www.wraltechwire.com/2021/03/05/sas-cracks-magic-quadrant-for-machine-learning-data-science/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 39
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
-        width: 794
-        height: 446
-        isCached: true
   - title: "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute."
     publishedDateTime: 2021-03-09T13:37:00Z

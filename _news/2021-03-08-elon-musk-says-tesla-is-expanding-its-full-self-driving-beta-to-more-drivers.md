@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
 type: article
 quality: 171
-heat: 261
+heat: 271
 published: true
 
 provider:
@@ -153,6 +153,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Why self-driving cars are designed to look like overgrown toys"
+    excerpt: "Electric driverless cars are not just coming, folks. They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets."
+    publishedDateTime: 2021-03-09T18:58:00Z
+    webUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/"
+    ampWebUrl: "https://www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2021/03/09/why-self-driving-cars-are-designed-to-look-like-overgrown-toys/amp"
+    type: article
+    provider:
+      name: Marketplace
+      domain: marketplace.org
+    quality: 44
+    images:
+      - url: "https://www.marketplace.org/wp-content/uploads/2021/03/nuro-r2-07-original-1-e1614906015779.jpg?fit=740%2C494"
+        width: 740
+        height: 416
+        isCached: true
   - title: "Tesla Expands Full Self-Driving Beta Software Doubling Its Size"
     excerpt: "Tesla is expanding its Full Self-Driving beta as it looks to ramp up the development of the advanced driver-assistance system. The electric car manufacturer introduced the Full Self-Driving beta in October to select owners participating in its Early Access Program."
     publishedDateTime: 2021-03-08T10:55:00Z
@@ -165,6 +181,6 @@ related:
       domain: carscoops.com
     quality: 39
 
-secured: "LF4WCyxbm3KPaD/Uxk7F9bRrSIDkt4RvjCQB4erR8VDljPDNH3PsNTBnAhY3VGkhoNUNJRiG7TBpQkWUYEwjLrisIL13ONHKc8k/OMC0CeQjoOLjks88z/jidVQBNu+sLIzaQGInIVoN9ynrw6KoPmyR7G6MxY5bv4UIvc7i/9XhwDSLA89Fd3ZfP6ul3BG8D2eUED+iC0eqgxW70gWkCswweDTtARc0K261y6zZjsyaRjkg712gz+6Y/Ip+ZZW9awuKXeBs5sMkaquaXogeDXvD7X9q3UtCGh71ZDw8ShJ094qvcywIx9ox1mPoOpybvsslPz+nJBZ33LhW3svpq+Qyr66bDzz5rqIuQwKkng0=;h7G6dNy/PG55fzQaC1PlQw=="
+secured: "Iq9R591wppN0ZL1KCenAWP0IALQyD9QVgX0WpQ/D10CEm3EwfgfPdcCWoxeIcX88gCX4ZaAPVKrNebOBFVVlAMB81tELto8AqBTjUVY9ywsCTBJFM+1GVNj36OFlEpVUSOm25C0ZcJAruRz/7vf1Z3qteCCNJNSpHJqb69riff1VVfjmhGogN/UXiA2tUM9Ep7b7SxrydVh96d34fnDeVdeGE99uVeXKeZYnEvKln7ObVuEmWAqR4bOgUZgce63ompRjapzw4buARwMXXCc4SSwboIUrK4jZJwzey657dQt6ced4AsQPILUE5D5VAyJe5JhxSoOQobp2KEZWyC5wHPdr/UxiJBjuBGWSPBc1Y4a2ClHa3ne7O3MXXfU25EVmOSzVWhfux8O2GxL0ugpyAvGODKA3O0S5BDnoqXBwqdRbjCD9ITJMHme7WUNJKW7Fir0fcrr4KsNXoiJMQQdN0s/3wFANKiqCgUgco4GQHW3e6deVCSqRxKXNehI51RIrJxsYZpaf/sDA0SuJLcy6RhpEHrLOj2ENklZMgUopsHg=;UOkTAezg65xNqunYUUsCAQ=="
 ---
 

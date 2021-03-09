@@ -6,8 +6,8 @@ publishedDateTime: 2021-03-09T14:31:00Z
 originalUrl: "https://www.prnewswire.com/il/news-releases/datos-health-partners-with-medial-earlysign-augments-artificial-intelligence-with-remote-care-automation-to-optimize-patient-care-301243053.html"
 webUrl: "https://www.prnewswire.com/il/news-releases/datos-health-partners-with-medial-earlysign-augments-artificial-intelligence-with-remote-care-automation-to-optimize-patient-care-301243053.html"
 type: article
-quality: 7
-heat: 7
+quality: 9
+heat: 9
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"

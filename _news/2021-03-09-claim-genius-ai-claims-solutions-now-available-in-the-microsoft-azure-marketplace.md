@@ -41,6 +41,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+    excerpt: "CRANBURY, N.J., March 9, 2021 /PRNewswire/ -- Nuvento, a leading provider of digitization services, launched its AI-driven OCR (optical content recognition) digitization platform today in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2021-03-09T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "10 key Microsoft Ignite takeaways for CIOs"
     excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
     publishedDateTime: 2021-03-08T10:02:00Z

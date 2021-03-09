@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/science-technology-
 webUrl: "https://apnews.com/press-release/business-wire/science-technology-north-america-engineering-massachusetts-d175b277088b403aa7add2d32b6d91a2"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SAS cracks Magic Quadrant for machine learning, data science"
-    excerpt: "SAS is recognized as a Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms. This is the eighth consecutive year for SAS to be recognized as a Leader in this Magic Qua"
-    publishedDateTime: 2021-03-05T04:32:00Z
-    webUrl: "https://www.wraltechwire.com/2021/03/05/sas-cracks-magic-quadrant-for-machine-learning-data-science/"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 39
-    images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2021/03/sas-machine-learning-artificial-intelligence-e1614947363206.jpg"
-        width: 794
-        height: 446
-        isCached: true
   - title: "RapidMiner Named a Visionary in Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
     excerpt: "Company evaluated based on its completeness of vision and ability to execute BOSTON (PRWEB) March 09, 2021 RapidMiner, a leading enterprise AI platform for people of all"
     publishedDateTime: 2021-03-09T18:00:00Z

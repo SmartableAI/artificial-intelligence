@@ -97,6 +97,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook's ready to talk about how its AR glasses will work with neural wristbands"
+    excerpt: "Facebook's working on a neural wristband for AR glasses, with haptic gloves in the works Facebook's first pair of smart glasses is arriving this year. But for the next pair down the road, they may be connecting with your wrist."
+    publishedDateTime: 2021-03-09T20:01:00Z
+    webUrl: "https://www.cnet.com/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 48
   - title: "Facebook: New AI Teaches Itself to See with less Help"
     excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."
     publishedDateTime: 2021-03-06T15:58:00Z

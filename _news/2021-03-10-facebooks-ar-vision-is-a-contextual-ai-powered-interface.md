@@ -87,6 +87,17 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Facebook's ready to talk about how its AR glasses will work with neural wristbands"
+    excerpt: "Facebook's working on a neural wristband for AR glasses, with haptic gloves in the works Facebook's first pair of smart glasses is arriving this year. But for the next pair down the road, they may be connecting with your wrist."
+    publishedDateTime: 2021-03-09T20:01:00Z
+    webUrl: "https://www.cnet.com/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 48
   - title: "Can AI get common sense? Facebook model shows the way"
     excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
     publishedDateTime: 2021-03-05T11:49:00Z
@@ -157,6 +168,6 @@ related:
         height: 273
         isCached: true
 
-secured: "CfBF2wYbCuQQfvxex4oKSca1dsFhVN0QUg+Y/LM42O0cY65mV5Q3TZGFRUFZbdxZoDaPevgZ5FZSjfmmMeaX4E0fPSMtsu2wlEsJWO/420brF7D5m00PQFJC7H1YOBI+2mrkgXGo0ysE76rfem526W7kut3SJEOq+QPNNf0Q9zucODxrwCCdW/4QVFAYIPdJGUUgG+RDd3JLlab/owrB0z+85HJEG+9+FmDG6ptHSzKOlltn5HUJHXkofD3B+VmKsSIcFee5Uxm+RrEIPJAkCKcdsAsS5AKgEGtEEJz3Qz5MGECFufmEuEG0nTEmnHFHPYLlROQ45p9s1JY2YVtO49eUj1sAITf3KpVai8dnXh8=;gcMchN5zrp/IjvyObbXB/Q=="
+secured: "f6jtH6BkdppztWNijuxC+Z5YtaawVQbFLwTTWrbG5QaAe1Uv2odwCEjBAKfRgSufvPOoylXGlYK1+9tX2/gDebmv2dmydlPueFSPtdvUAcaIE5l4q4aPfLxmy/zEgE2LfcMMGln0fpgWoXOH0/wevzNrBRHQ8CBGCBCvIXvZQezkg/5w/zgzMV3ok/YB9cLOfonq2XAh0LoDjNjd15fAlfD1p4xuyz3aTteeVrr9bp+Ohm7OX508UjK56cKEsrMW1CyoREMOQ1sQjClW8MWZnAkOAJtHvt3TILtWT9eSFjC203xRsXVDmXDoxl8tLXqPZEZtc2mHapPdbiwpkhy5ISFOVg1H/oXAkenqimZD1qYoolXNRDaFP5P9Tgx4ODaMgTKmNdotOMkFQ8e5yHTA5/VTIAJJ//EYWtd5iSW56aIDXV/EHhDEHBt5FlkjxKhr4VShG8IUI1lPgZe8j1HbLuQEqZK0Zz52kiYWgx1sf4qYueM3uRWOdtIJ1zG+5iboBHjEceN8Ypnc//u7Wma4VA==;UScNkZonbS0+sB9QUPfQcQ=="
 ---
 

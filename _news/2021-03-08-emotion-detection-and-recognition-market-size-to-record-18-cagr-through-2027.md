@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM makes Cloud Satellite generally available: Hybrid cloud for all – and an evolution for Watson"
-    excerpt: "IBM has announced the general availability of IBM Cloud Satellite, enabling its hybrid cloud services across any environment."
-    publishedDateTime: 2021-03-05T04:26:00Z
-    webUrl: "https://cloudcomputing-news.net/news/2021/mar/05/ibm-makes-cloud-satellite-generally-available-hybrid-cloud-for-all-and-an-evolution-for-watson/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 41
-    images:
-      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2021/03/earth-night-space-picture-id627281636.jpg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "IBM Considered Selling Watson Health"
     excerpt: "What is the Watson Health division of IBM, why is IBM considering its sale, and why is the medical field showing signs of hesitation with medical AI systems?"
     publishedDateTime: 2021-03-09T16:59:00Z

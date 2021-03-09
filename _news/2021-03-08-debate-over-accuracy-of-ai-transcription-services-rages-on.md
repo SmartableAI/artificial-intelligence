@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/08/debate-over-accuracy-of-ai-transc
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/08/debate-over-accuracy-of-ai-transcription-services-rages-on/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

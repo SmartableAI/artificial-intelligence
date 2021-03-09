@@ -7,7 +7,7 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/nvidia-ceo-jensen-huang-to-ho
 webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-ceo-jensen-huang-to-host-ai-pioneers-yoshua-bengio-geoffrey-hinton-yann-lecun-at-gtc21/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     height: 228
     isCached: true
 
-secured: "MC5GpxOvDVuKXH3l5A1pceZnFAAABz2yzESzU/BHQufU44Vt+uw88KJVZD1kk2fjF+oR97YcI4BC260Ucy0zJPIQ+PfGVBQy6qh03lVZYYR+6rXhioEqZ4iU9JeeCN+SRkdGva9xnimAzkSd+a5wG+3Ah4VKPb2jFa5Aph0wptMZbcE6JMsU9k0A4l+1ey6fO9wxv+Jbnq9J0XPfSIcnTNUzEe+CJjRPE9u4UYua7M6O0Nfsckn7182LbLbq0/4qHcS0dDmoMCLNJt8840IYNFxZD329WdF10S5I+dRF/iJTuGk25BUg+4aYgbJuIVgfeYiFgLo+9fbHHAlM21ivBTPMB/V9oKyNau6okfJaSW4=;v3PDgWLay+3fsUhrioTsaw=="
+related:
+  - title: "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio"
+    excerpt: "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,"
+    publishedDateTime: 2021-03-09T15:52:00Z
+    webUrl: "https://www.zdnet.com/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+
+secured: "HfnUxBPniHtZlDyEfayEE9TRffdFkxKzur94wwEKrcmimzk+CHIl1U46ro/jpe1UPt2wTKSxqYzkps8uz1u2InaCeMuDifBkqt0iGI+hduKB6I0xKd/JJ4elzRXjB0f6FllvaR0tQXITOUMh7fsQ0XifoJ1QE6RPzA68yOlt6XBWGo60IMgB1Iluymo/WK3Hk8sOUvar0zoe4S0HVk8QlW5k1WlI9eK1uL9fnKQHZQIYMmL7Z6IAVFW9X58RzVKXmqE3mwNzBkY9o//k1xcgdDq8bZVf2db48SuxxNIT06DbceTS8J+j157C5h1d6RgX6Eu7YfnJgoP9H18e0EiuV/paO6BZm3ZdogJ8HqMsGzvw8TX9eqXM0nn4kismnsoHs+BqGLUYFw8tdjZetVCIkENZV2nLSlEjA/nzwIhZbjy6y+EpC67NTU43oStvcNtOQxYJlr0C6L82cyTl1eJo/OvhW7qDKZwsD+NQzjCLOcU9Luix/gLHtHjAvqv4AsaLNNfTCZxh8c+X7N+gT4MyMw==;2Ck+5zD6DhcRotWTJwNuLQ=="
 ---
 

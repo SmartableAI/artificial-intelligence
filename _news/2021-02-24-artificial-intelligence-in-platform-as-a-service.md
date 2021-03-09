@@ -16,6 +16,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.openpr.com/U/2/U223813383_g.jpg"
