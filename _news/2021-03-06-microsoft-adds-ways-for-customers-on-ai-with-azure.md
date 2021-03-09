@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg"
         width: 1200
         height: 652
-        isCached: true
-  - title: "Microsoft’s 7 Biggest Product Announcements At Ignite 2021"
-    excerpt: "Microsoft unveiled new product announcements at Ignite 2021 including updates for the Azure cloud platform and Microsoft Teams app, as well as the new Microsoft Mesh mixed-reality platform."
-    publishedDateTime: 2021-03-04T23:56:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-7-biggest-product-announcements-at-ignite-2021/2"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0267-11b8454f0dd8-b94385869e97-1000/satya-ignite-2_20210304175420.jpg"
-        width: 609
-        height: 457
         isCached: true
   - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
     excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"

@@ -25,6 +25,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Splice Machine Announces New Capabilities to Support Real-Time AI with Version 3.1 of its Scale-Out SQL Database"
+    excerpt: "Splice Machine, provider of the real-time AI platform built on the only scale-out SQL database with built-in machine learning, today announced version 3.1 of its database, which introduces new features and functionality to support enterprises with real-time AI projects."
+    publishedDateTime: 2021-03-09T15:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-computing-and-information-technology-data-management-d2d29a71bcae02ef12326b54153877ef"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 18
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "GfuXDg+pa3LqD927XeONHnrJj6jptz7xY4rqt5Ch9ssa51VHQRNHaXAV50q7IzHSk0dd8ggrSoBQlf3NH96TYgIQvRPcxNQLaDxmURK8tHQHfbhz9fvpEDxPi7qSaxq7G7JGOQBQebIyop/asPJF/LIu7Z4MDwgut66qIslNOkv9/pFFHiDSrBnl03LWqDhfyzjYxKwYV1vG2Ma2tvWKTuREA3YzDjcc3H6oU7ns1bb5kPFP58RcQ93Nt3tEeehSfblFeuMXxAFIAI65xLi2rOKkON6dPz60de5/FM5MdaJlUW8fuOoeCW+kC6RYmrcmY3xQLb5TAUoAxTRmyrkMELykHb0iNmeOvyGNQGTN4IA=;gZqfynip3UwstXqVZU6ZLw=="
 ---
 

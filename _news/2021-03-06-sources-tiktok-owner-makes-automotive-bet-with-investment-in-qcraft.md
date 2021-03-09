@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving
 webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft?_escaped_fragment_=&ref=todayheadlines.live"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Sources: TikTok owner makes automotive bet with investment in QCraft"
-    excerpt: "ByteDance is pouring money into QCraft as part of its latest investment round, which could net the car company least US$25 million."
-    publishedDateTime: 2021-03-04T23:43:00Z
-    webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
   - title: "TikTok Owner Stepping into the Car Industry with Self-Driving Startup Investment"
     excerpt: "ByteDance, the Chinese company behind Internet sensation TikTok, has been in the spotlight lately due to the pressure it had to deal with in the United States where former President Donald Trump threatened with major sanctions unless taken over by an American firm."
     publishedDateTime: 2021-03-08T06:40:00Z

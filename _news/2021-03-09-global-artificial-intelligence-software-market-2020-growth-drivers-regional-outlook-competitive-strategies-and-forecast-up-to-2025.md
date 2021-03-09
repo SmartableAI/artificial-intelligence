@@ -28,15 +28,43 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence Chip Market Industry Share, Growth, Trend, Demand, Top Players, Opportunities and Forecast by 2025"
-    excerpt: "The Global Artificial Intelligence Chip market is anticipated to grow at a CAGR of around 43% during 2021-26F. The growth of the market is attributed to the escalating adoption of AI chips in the developing regions by launch of AI chips by the companies,"
-    publishedDateTime: 2021-03-05T00:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-chip-market-industry-share-growth-trend-demand-top-players-opportunities-and-forecast-by-2025-2021-03-04"
+  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
+    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
+    publishedDateTime: 2021-03-05T16:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Emotion Detection and Recognition Market Size to Record 18% CAGR Through 2027"
+    excerpt: "Selbyville, Delaware, Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
+    publishedDateTime: 2021-03-08T13:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-and-recognition-market-size-to-record-18-cagr-through-2027-2021-03-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Software Market 2021 Trend Analysis, Growth Status, Revenue Expectation to 2031"
+    excerpt: "The worldwide Artificial Intelligence Software market report is growing at a faster pace with substantial growth rates over the last few years and is estimated that the market will grow significantly in the forecasted period i."
+    publishedDateTime: 2021-03-05T13:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2021-trend-analysis-growth-status-revenue-expectation-to-2031-2021-03-05"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,50 +85,6 @@ related:
       - url: "https://cdn.openpr.com/U/3/U308435032_g.jpg"
         width: 800
         height: 800
-        isCached: true
-  - title: "Wearable Robots and Exoskeletons Market Overview By Share, Size, Industry Players, Revenue and Product Demand Till 2025"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The wearable robots and exoskeletons are expected to record a CAGR of 22."
-    publishedDateTime: 2021-03-08T12:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-robots-and-exoskeletons-market-overview-by-share-size-industry-players-revenue-and-product-demand-till-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North American AI in E-commerce Market Share 2019: Trends, Key Players, Industry Analysis, Report to 2025"
-    excerpt: "North American AI in e commerce market is projected to grow at a CAGR of 26 1 during the forecast period 2019 2025 E commerce players have thousands of parcels to deliver at various locations globally There is a high"
-    publishedDateTime: 2021-03-08T11:42:00Z
-    webUrl: "https://www.openpr.com/news/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
-    ampWebUrl: "https://www.openpr.com/amp/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 40
-    images:
-      - url: "https://cdn.openpr.com/U/3/U308937681_g.jpg"
-        width: 800
-        height: 800
-        isCached: true
-  - title: "Global Artificial Intelligence Platform Market 2020 Report Explores Key Regions, Company Profile, Opportunity and Challenge to 2025"
-    excerpt: "The report entitled Global Artificial Intelligence Platform Market 2020 by Company, Regions, Type and Application, Forecast to 2026 eases the process of understanding the essential product segments and their development."
-    publishedDateTime: 2021-03-08T00:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-platform-market-2020-report-explores-key-regions-company-profile-opportunity-and-challenge-to-2025-2021-03-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Image Recognition Market Key Drivers, Restraints, Industry Size & Share, Opportunities, Trends, and Forecasts up to 2028, Fortune Business Insights"
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."

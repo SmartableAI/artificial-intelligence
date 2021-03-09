@@ -26,15 +26,6 @@ images:
 
 related:
   - title: "Sources: TikTok owner makes automotive bet with investment in QCraft"
-    excerpt: "ByteDance is pouring money into QCraft as part of its latest investment round, which could net the car company least US$25 million."
-    publishedDateTime: 2021-03-04T23:43:00Z
-    webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 34
-  - title: "Sources: TikTok owner makes automotive bet with investment in QCraft"
     excerpt: "The development follows other tech giants making their own bets in the self-driving space, such as Baidu and Tencent. China, the world’s biggest vehicle market, is looking to have smart cars ..."
     publishedDateTime: 2021-03-06T12:46:00Z
     webUrl: "https://www.techinasia.com/sources-tiktok-owner-enters-selfdriving-space-investment-qcraft?_escaped_fragment_=&ref=todayheadlines.live"

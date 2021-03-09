@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Microsoft’s 7 Biggest Product Announcements At Ignite 2021"
-    excerpt: "Microsoft unveiled new product announcements at Ignite 2021 including updates for the Azure cloud platform and Microsoft Teams app, as well as the new Microsoft Mesh mixed-reality platform."
-    publishedDateTime: 2021-03-04T23:56:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-7-biggest-product-announcements-at-ignite-2021/2"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/0267-11b8454f0dd8-b94385869e97-1000/satya-ignite-2_20210304175420.jpg"
-        width: 609
-        height: 457
-        isCached: true
 
 secured: "Av6sFqMGahPKnTsIeDqUxKosPyEi1rmAfivsg9N3qWtHN/zlSmhmaeQDGpZRkQJOd44iQyfxSK/eARrWP3SsrPoGXZC7spRoIpNVgnF6XKZPyUc4J0jtcAFoUoC29O+D0d0wuD/usOVQOZMmBF3OJffv/2e2ReyTSii5t5KgrxfLzsK9QCoOfO6D4GtsL6R4fNdMDPeX4P9/qE25qIeEAAPTCceBxm0zOgxytd/YYCqpvoDqmsDxO3TeIB9eSYnok7K4nIrNC7SIm9tDh/RBVS6RceWTVjJaWFpLrtLiXTITjiHVbG8wvmFp4bgJDGsSEIsXIyAiDA26vCDvS51EmV7XLv/7TIWIvXGfPT+DiSs=;MBTX38P3oIgzzrpoLzTOsw=="
 ---
