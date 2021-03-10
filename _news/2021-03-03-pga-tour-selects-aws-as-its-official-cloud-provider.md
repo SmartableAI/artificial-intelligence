@@ -1,36 +1,28 @@
 ---
 category: news
 title: "PGA TOUR Selects AWS as Its Official Cloud Provider"
-excerpt: "The TOUR will then use Amazon Rekognition (AWS&CloseCurlyQuote;s deep learning service that makes it easy to add image and video analysis to applications) to automatically tag content with specific metadata like player names and sponsor logos. This will ..."
-publishedDateTime: 2021-03-03T10:13:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider"
-webUrl: "https://stockhouse.com/news/press-releases/2021/03/02/pga-tour-selects-aws-as-its-official-cloud-provider"
+excerpt: "PGA TOUR uses AWS machine learning and analytics to bring fans closer to the course and transform how they experience the world’s greatest golf tournaments AWS, First Tee, and the TOUR will partner to empower children and teenagers to build inner-strength,"
+publishedDateTime: 2021-03-03T03:05:00Z
+originalUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/"
+webUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/"
+ampWebUrl: "https://digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/"
+cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/pga-tour-selects-aws-as-its-official-cloud-provider/amp/"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: digitalproducer.com
+  domain: digitalproducer.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Amazon's (AMZN) AWS Selected by TOUR, Strengthens Clientele"
-    excerpt: "Amazon's AMZN robust cloud services portfolio is helping it gain customers. PGA TOUR— commonly known as TOUR — recently selected Amazon Web Services (“AWS”) as its official cloud provider. This highlights the efficiency and reliability of AWS’s innovative cloud products and services."
-    publishedDateTime: 2021-03-04T15:05:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazons-amzn-aws-selected-by-tour-strengthens-clientele-2021-03-04?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
+images:
+  - url: "http://ww.w.digitalproducer.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+    width: 735
+    height: 552
+    isCached: true
 
-secured: "355/9buQqKNZfNcerwH1937ZqFxBnpRHW/fD7LaN0+1locnqZP00KA6HHKFu3egIB2rEpGB76JUlA49n5jilecan8EvPeOJtROvEUkpknI3KC8HXx6Wpoip69IB45JItGd9rkcYONqmPcNZ4hrGm7N+XOMzpfPrwLDGP+f86KYk5Uc6oNsLVUdRCjjUUvYq5P956l3TdJe7XmY/ZKIaRQmGW6O1OJYQJ1bD1k103owW21RoHieO1UcU22kd5RGjdYSwwYJPlY9yl187qWYwVDE3pdwE74uBIe/k+hN1QgTheI2b1izHizSnQwRkWh2dTSn61SSzKVwfzOhC3x/GZ6P7+5orpMHginBSbxyFnd1o=;nmWT21IaPUdEXJsVmKKHqQ=="
+secured: "lFYfmwdT4ziWzhth64wG6p/w6lKK5Ev46LWhPu9wfXn24FC90amHr7FakW8/vM4Hh5gav0qF30QYl54clTAMQq3eb8ShjfHAeWOS70giDMOq9cu+vpg/B98zI8BYz8HiY0HXmKXJtBjLcAlUNC1mXOXgfZAyAwt80Oz1adptPvqrWIiiOUZ0YQs1L2/J6SN8GNhSOjIl1iiiuJ10ZEDT/Z5KN1ctyDKmluwD99W0X6RK5KggLQ+77qn7bnRb1PJKFZ7tzcXW6kGz72uIs9DmlqYM1Gfkh6elx/wjHUF+6KRJOjT/mCpvZrrWdvDpQE7/eLifZv6JGqUDHk32nL5AJhKlrvYyYAp8Mp0nY2MKLxA=;FO1tP5/GjXgRm3jxedD82w=="
 ---
 

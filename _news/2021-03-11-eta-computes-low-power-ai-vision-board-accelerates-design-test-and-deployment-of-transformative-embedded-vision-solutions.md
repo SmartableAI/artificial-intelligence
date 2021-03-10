@@ -1,25 +1,29 @@
 ---
 category: news
-title: "Eta Compute's Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions"
-excerpt: "Eta Compute and Edge Impulse will co-host a free webinar on March 31 to demonstrate the powerful advantages of the AI Vision Board and Edge Impulse's embedded machine"
-publishedDateTime: 2021-03-10T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/b20103161/eta-computes-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative-em"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/b20103161/eta-computes-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative-em"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20103161"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20103161"
+title: "Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions"
+excerpt: "Subscribers will get access to all digital content on NorthWestGeorgiaNews.com Eta Compute’s Low Power AI Vision Board Accelerates Design, Test, and Deployment of Transformative Embedded Vision Solutions Eta Compute Inc ."
+publishedDateTime: 2021-03-10T17:01:00Z
+originalUrl: "https://www.northwestgeorgianews.com/associated_press/business/eta-compute-s-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative/article_463e1c8c-75d1-5281-b37f-20520fc32427.html"
+webUrl: "https://www.northwestgeorgianews.com/associated_press/business/eta-compute-s-low-power-ai-vision-board-accelerates-design-test-and-deployment-of-transformative/article_463e1c8c-75d1-5281-b37f-20520fc32427.html"
 type: article
 quality: 12
 heat: 12
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Rome News-Tribune
+  domain: northwestgeorgianews.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "Ggiw/1o7YgwFZqMQMNACcjI89wMg4PQaz9fsDym+wH3ZloCzXOiVx+u7IujWroGNkloOEBzOFMYGLslMWllJx5Nu2tc6T3LHgarqXtQtggIP0jOW2cfCRa6hroAFZH5rX6C1LTV84ZOj1/v4m6sMIthg98PC3fhN9ldxXQnBdS0L/1atl4FpEVVQ3gnVpSNG/MvNXyk0Vh0dGASyNaRFqxKh/+0ICceat/IOw4P3CJqH+FED7/xQC3dL0MCYT+Se1+f562NdIkQC2G5lYmRn4MilC63fVFxBaXa0lyBU+nvi0t96Lcu/GKMCb5zJk6L+7G6sYmz5ZWI2Mun9BhCihrVzizIoRSxpCxUy0OHcbL4=;JXoNOfy/HhJRswSgqMg3Qg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/northwestgeorgianews.com/content/tncms/custom/image/c64789fc-5b19-11e6-80be-3f5962a3a1a4.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "PAmyIPIq+9r/EStFWcWA1nZs+OMO7xo1mQEsKIp5JademZsSjJubQ/2Sjt32MycqcTd5jleaXNY0Nrj9qh6fCATDi3owRc2YNiB6F42yJoLmRl4A9tpZ7Vd/O1dq0Fr3TyPOpa2KzIq1vF5xRtEtEKYldLr3AVzoyuQ72QMWyJS1nPOcm5HtJBRKoKf+CoTf7tN5Yir24cXaIh9OjFci/PX2sBJt9CpFmeaZRKMxuJ07VdfBFFyuyRnjwGDPYplbFi123n/8ZGbbkjn59CjCs1LcQb+9UXrmi6LEodvzguC4BlxsTC9ZGl0ihMOCmG2bqeWeAa5tLxsNUFsbiobDmwd9Jhvt1migG7QLbhQa9ao=;2xuGFWKkblJhf0KY/yCjyQ=="
 ---
 

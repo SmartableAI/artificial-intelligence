@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestatesman.com/lifestyle/health/ai-reveals-current-dru
 cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/lifestyle/health/ai-reveals-current-drugs-may-help-combat-alzheimers-1502956149.html/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Statesman
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI reveals current drugs that may help combat Alzheimer’s"
-    excerpt: "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising"
-    publishedDateTime: 2021-03-06T06:53:00Z
-    webUrl: "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/"
-    ampWebUrl: "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/"
-    cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/"
-    type: article
-    provider:
-      name: ScienceBlog
-      domain: scienceblog.com
-    quality: 59
-    images:
-      - url: "https://scienceblog.com/wp-content/uploads/2021/03/iStock-sudok1-945x630-1-e1615042402287.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Artificial Intelligence reveals current drugs may help combat Alzheimer's"
     excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.  The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
     publishedDateTime: 2021-03-07T13:39:00Z

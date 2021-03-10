@@ -44,6 +44,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Innovative artificial intelligence tool analyses cough sounds to diagnose COVID-19"
+    excerpt: "If you hear AI (artificial intelligence) brought up in conversation ... While AI is already used to assist in a number of healthcare settings, it seems clear that there is still a lot of opportunities to leverage AI to find real-world solutions that ..."
+    publishedDateTime: 2021-03-10T22:34:00Z
+    webUrl: "https://www.thesouthafrican.com/news/artificial-intelligence-analyses-cough-diagnose-covid-19/"
+    ampWebUrl: "https://www.thesouthafrican.com/news/artificial-intelligence-analyses-cough-diagnose-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/news/artificial-intelligence-analyses-cough-diagnose-covid-19/amp/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 53
+    images:
+      - url: "https://www.thesouthafrican.com/wp-content/uploads/2021/03/artificial-intelligence-covid-19-ai-tools-scaled.jpeg.optimal.jpeg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "e5P5qGAgx5eznDexn5WXczuoAalHAz77vcYJ0LGiqL/b8B8U7TO8vXEZ27MoGHHfY3gdy/yKVs4jPr893jo8lioFBKEXkt9+cHHtHdARpY50aSbHKoAtZFRd72zpNWe3IYtj6uVeBimsL0bqRokzGTt0ucRb9a33WI3Od2ZTvVbKMDBvNFvONZZFpVvZdJzzXFGPntwq+aDbe+y+nLSPjNZE4Ac+a+P6jNBgWwxVBpJXGcpaDmx9kxIFeYX6l90/B6c5a0lv5Royvx+hCgddli58osJygRQdI/iXCF6i3nojpvO3/RN1YwDWdpxOW6jcE2uGlQOLHtbuDBfFnt58FzNS58dBnrI20ez/i0Ect3s=;L+2Vnr5zAMx94JIEg1JjNQ=="
 ---

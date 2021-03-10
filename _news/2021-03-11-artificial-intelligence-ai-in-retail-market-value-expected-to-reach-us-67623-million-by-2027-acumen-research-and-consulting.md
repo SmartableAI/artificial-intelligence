@@ -6,7 +6,7 @@ publishedDateTime: 2021-03-10T19:39:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-value-expected-to-reach-us-67623-million-by-2027-acumen-research-and-consulting-2021-03-10"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-value-expected-to-reach-us-67623-million-by-2027-acumen-research-and-consulting-2021-03-10"
 type: article
-quality: 53
+quality: 55
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

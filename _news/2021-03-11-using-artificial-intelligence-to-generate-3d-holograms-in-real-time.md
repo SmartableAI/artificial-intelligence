@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Using artificial intelligence to generate 3D holograms in real-time"
-excerpt: "Other co-authors include Beichen Li of EECS and the Computer Science and Artificial Intelligence Laboratory at MIT, as well as former MIT researchers Changil Kim (now at Facebook) and Petr ..."
-publishedDateTime: 2021-03-10T16:05:00Z
-originalUrl: "https://phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.html"
-webUrl: "https://phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.html"
-ampWebUrl: "https://phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-artificial-intelligence-3d-holograms-real-time.amp"
+excerpt: "Researchers have developed a way to produce holograms almost instantly. The deep learning-based method is so efficient, it could run on a smartphone, they say."
+publishedDateTime: 2021-03-10T21:07:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/03/210310121953.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/03/210310121953.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/usingartific.jpg"
-    width: 1500
-    height: 1000
-    isCached: true
-
-secured: "SnxpZIjK4RoKQISWllwqak8jAsts3eAY1P/WgKbD2m6YwFVmnNOxuWvdqR82HAbbcfC5a9sxVLDzdv5vFbDLrBJG6mN9QN3ojeDqq5ul1LdT/9SnVjj9mpkukF+gJo/RQUcUQ8w6c2Jhp5JGuB8L8Sk1BnNe7SptgFaZ6Z5ywhHBtkEznQvs2KN34P72L84Qh+mf/dr4f2LM2Os1WuKI044nGeSs8CFRysZZ20nU8yGXStXOwSyYQKhxlqnzrDnxUzVI9rwyBaHB0sTt9FnyhrG0fuiBBFUSC90LRqc90K9E12EyytjJ+LszN4tnfcwuJ+WleVuu9pVXaTndLB4dj1DUAdDnW+8wrz2HFT5O0UsLRZqAxQv0T3ozxgXJHv8q4vAYNEmiuLspjCVMx+ZOY8H32i4PFUY6jHq1l7b9xF+rKRsnhLLkRLPb7NeM3pPt7G09iVDllsqELQpGsYhycycIG67YmvEq4rCftPOEvjxCLfbJItQvGyuTZGS3y063qjHNwpsuSxSfxU34cf+Xjw==;OUNWL7+HnQzxSH8XO3FH3Q=="
+secured: "2isJKNb7av+Y0aVS78mVz+ato4VVoR6xD8AAQ097zHvIMy8kll2iGsv7hjD+LpQCNFVM7BlM5tsUKHZQJ5Q7IGBPz9U+txHijzH3UzTNBdxoHUmBcK74VNYNsFrRy6WuAx3oNlwy5OaPPNfo/WDWHPX/3q3NPVAh3rxUdatOdbE1g+ynNpfDOOa47tWWDze5VLMAogyQtl+SnAG31eD43VKrrZtkhxO6sCfsqq48EWe4jJVwWzcyeNcscuaZnmQRkQ3zPUcQoUW9/pKf2EwDATWat3Ep4SwNLXcHqwDG+x0n5Rktr+I7NjUsIt8pxZBFEDZewV64akxecptr98XEXQ9gvBGozVGpGl+9V/Hvccw=;eNy5ZEAXGLn/XZMKJ5v15g=="
 ---
 

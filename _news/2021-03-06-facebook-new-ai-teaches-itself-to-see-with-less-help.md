@@ -115,22 +115,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "U.S. agency probes Facebook for 'systemic' racial bias after black applicants were denied jobs"
-    excerpt: "The Equal Employment Opportunity Commission began the probe after black applicants and a manager filed complaints that Facebook discriminated against them."
-    publishedDateTime: 2021-03-06T05:33:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-9332159/U-S-agency-probes-Facebook-systemic-racial-bias-hiring-promotions-attorneys.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-9332159/amp/U-S-agency-probes-Facebook-systemic-racial-bias-hiring-promotions-attorneys.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9332159/amp/U-S-agency-probes-Facebook-systemic-racial-bias-hiring-promotions-attorneys.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 32
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2021/03/06/05/40108164-0-image-a-54_1615008089981.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "Zngh/XwbMNFkVjvsRAZfiHSg83aIufA9eBg2WBtvyqK60l1rOzYl7ZPJ1YUH3wz67bGrMQuypPJY7sh4/uTfiLM0zFpTGyf4COMgY36dp8egXYUozDWHUrYjf13353kb9xw8wVbQTCkITAhWMYJq6J55kahUS9yV/C0iuu8HDm61t5Hc0NxeeobUM2qoVaXX5GI9IYYyx9ZuVzHZRs+4h1fiHRj09UUu07yvE2CZP3m6rSeVnCASI1XbGYF77hMNQP1Vfl76hHCoV3TEW0UI1hMy2+XHlFspgh/hne9BodSmDv7Ib3LJqHQPAsZ4dNTUgdXjHGBujBC0XJ42uIGSp/hyKpsZEEVix49UzwqQuwQ=;KtuLEyY93wrLacJcS4a5AA=="
 ---

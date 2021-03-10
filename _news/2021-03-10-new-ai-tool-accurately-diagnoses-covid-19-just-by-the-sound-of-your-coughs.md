@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diag
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Innovative artificial intelligence tool analyses cough sounds to diagnose COVID-19"
+    excerpt: "If you hear AI (artificial intelligence) brought up in conversation ... While AI is already used to assist in a number of healthcare settings, it seems clear that there is still a lot of opportunities to leverage AI to find real-world solutions that ..."
+    publishedDateTime: 2021-03-10T22:34:00Z
+    webUrl: "https://www.thesouthafrican.com/news/artificial-intelligence-analyses-cough-diagnose-covid-19/"
+    ampWebUrl: "https://www.thesouthafrican.com/news/artificial-intelligence-analyses-cough-diagnose-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/news/artificial-intelligence-analyses-cough-diagnose-covid-19/amp/"
+    type: article
+    provider:
+      name: richest
+      domain: thesouthafrican.com
+    quality: 53
+    images:
+      - url: "https://www.thesouthafrican.com/wp-content/uploads/2021/03/artificial-intelligence-covid-19-ai-tools-scaled.jpeg.optimal.jpeg"
+        width: 2560
+        height: 1707
         isCached: true
 
 secured: "/CtQjUIbUhEepmuN3UpC5wh7ifOrnPiRgDlzFb6OhtFna37yQqSPHEm63aXGZKbwry6URC9dtJFIzA8lX9uc+pDxDK+NNL+HLT7vdV+cX6JOlLDSlqhi7GDAVjz3s2T40TAD+LeKEQIxKsLIk+2wMTH9rxyHTG3wf33rYqB754wEuCnhl0eQUjRalIZY5cJ7gm3feq0x6CPf+tqsGHiRMjlws355PMQ2aIUQEJX+3VGUn82sqAONCZSa8Kzqehou2SOByX/57fLjpt3H6ttBAV15nbaEgxLmE8CQv4DknzsIslhmUU5HFhSKI0t8kLyh3SqHL9FTx2GRkjvlDLFUQeKPhM9ZO9O3I3pMWHUHyftk6lZ4eVHEM5EYOzPAzox4RF7AhE2vEn1177q6FK/ewmceXzVoBfuv3Tg2vuGm1/2QOfjjxRK5plqIqn378zXKTKLzq+mXtgKUvZGV83HIXssOMvjJauDh/Ft8x2kxO68HhacxavLws2MW1QWHN56GqfX3fH7BZwSs+E1dQ3ZZsA==;WjjUqtMdpjvsxBRRvEtMjA=="
