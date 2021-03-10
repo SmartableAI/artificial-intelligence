@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) In Retail Market Value Expected To Reach US$ 6,762.3 Million By 2027: Acumen Research And Consulting"
+    excerpt: "The Global Artificial Intelligence (AI) In Retail Market is expected to grow at a CAGR of around 34.9% from 2020 to 2027 and reach the market value of over US$ 6,762.3 Mn by 2027. Based on regional landscape,"
+    publishedDateTime: 2021-03-10T19:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-value-expected-to-reach-us-67623-million-by-2027-acumen-research-and-consulting-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GPU Market Size Will Reach USD 200.85 Billion By 2027 at a CAGR of 33.6% - Valuates Reports"
     excerpt: "Graphic Processing Unit Market is Segmented by Type (Dedicated, Integrated, and Hybrid), Device (Computer, Tablet, Smartphone, Gaming"
     publishedDateTime: 2021-03-10T02:00:00Z

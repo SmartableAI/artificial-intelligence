@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-if-you-love-ai-do-not-miss-nvidia-gtc-this-year.md",
+      "title": "If You Love AI, Do Not Miss NVIDIA GTC This Year!",
+      "excerpt": "I just got an email from NVIDIA touting this year’s GTC event (April 12-16) and have to share this with you, in case you haven’t already heard. The virtual graphics, AI, and HPC event will headline AI pioneers Yoshua Bengio (University of Montreal),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/trim/290x0:2204x713/fit-in/711x264/smart/https://specials-images.forbesimg.com/imageserve/604929829ed0424aeb7e9fb6/0x0.jpg",
+          "width": 709,
+          "height": 264,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2021/03/10/if-you-love-ai-do-not-miss-nvidia-gtc-this-year/amp/",
+      "publishedDateTime": "2021-03-10T12:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-translate-video-captions-and-subtitles-using-amazon-translate.md",
+      "title": "Translate video captions and subtitles using Amazon Translate",
+      "excerpt": "Video is a highly effective a highly effective way to educate, entertain, and engage users. Your company might carry a large collection of videos that include captions or subtitles. To make these videos accessible to a larger audience, you can provide translated captions and subtitles in multiple languages.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translate-video-captions-and-subtitles-using-amazon-translate/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/translate-video-captions-and-subtitles-using-amazon-translate/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2200-2.jpg",
+          "width": 800,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T11:57:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-this-ai-robot-will-paint-a-canvas-at-sxsw-2021.md",
+      "title": "This AI Robot Will Paint A Canvas At SXSW 2021",
+      "excerpt": "At the upcoming all digital SXSW March 16-20, 2021 in Austin, Texas, a group from Tokyo, Japan will show an artificial intelligence-based (AI) robot that creates art.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/03/10/this-ai-robot-will-paint-a-canvas-at-sxsw-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F604920bd6de4926cfe37ae0c%2F0x0.png%3FcropX1%3D0%26cropX2%3D800%26cropY1%3D0%26cropY2%3D450",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-why-people-should-get-paid-to-let-ai-do-their-jobs-for-them.md",
+      "title": "Why people should get paid to let AI do their jobs for them",
+      "excerpt": "The idea of a universal minimum/basic income (UBI) isn’t new or nearly as radical as those both in favor and opposed to it would have you believe. Dozens of cities across the globe are either currently running or have run UBI test programs.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/why-people-should-get-paid-to-let-ai-do-their-jobs-for-them/amp/",
+      "publishedDateTime": "2021-03-10T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-employee-engagement-startup-centrical-raises-32m.md",
       "title": "Employee engagement startup Centrical raises $32M",
       "excerpt": "Employee monitoring startup Centrical raised $32 million to expand its geographic reach and acquire new customers.",
@@ -648,6 +855,59 @@
       ]
     },
     {
+      "path": "_news/2021-03-10-startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful.md",
+      "title": "Startup uses NLP and AI to make software security reviews less painful",
+      "excerpt": "Apiiro creates user profiles and analyzes a company's code base to spot high-risk changes and replace manual risk assessments with on-the-fly analysis. Drupal at 20: Creator Dries Buytaert shares lessons from two decades as an open-source leader 40:19 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/videos/startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful/",
+      "originalUrl": "https://www.techrepublic.com/videos/startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/12/18/ba522146-343e-4d46-b506-ffc6033c4b04/thumbnail/770x578/cc2e1f81f53b69a110e1feab2bb6e705/istock-1291376919.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T22:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems.md",
       "title": "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems",
       "excerpt": "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,",
@@ -994,266 +1254,6 @@
         "Natural Language Processing",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-ibm-watson-services-market-size-to-accrue-165-billion-by-2027.md",
-      "title": "IBM Watson Services Market Size to accrue $ 16.5 billion by 2027",
-      "excerpt": "Selbyville, Delaware According to the latest research report titled 'IBM Watson Services Market Share, Size, Trends, Industry Analysis Report, By Service Type; By End Use; By Regions; Segment Forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T10:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-introducing-a-new-api-to-stop-in-progress-workflows-in-amazon-forecast.md",
-      "title": "Introducing a new API to stop in-progress workflows in Amazon Forecast",
-      "excerpt": "Amazon Forecast uses machine learning (ML) to generate more accurate demand forecasts, without requiring any prior ML experience. Forecast brings the same technology used at Amazon.com to developers as a fully managed service, removing the need to manage resources or rebuild your systems. To start generating",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-a-new-api-to-stop-in-progress-workflows-in-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-a-new-api-to-stop-in-progress-workflows-in-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T09:21:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-splice-machine-31-enhances-support-for-real-time-ai-deployments.md",
-      "title": "Splice Machine 3.1 enhances support for real-time AI deployments",
-      "excerpt": "Splice Machine introduced a new version of its platform -- 3.1 -- that introduces tools to support real-time AI system deployment.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/",
-      "publishedDateTime": "2021-03-09T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup.md",
-      "title": "Using The Cloud To Bootstrap Your Autonomous Vehicles Startup",
-      "excerpt": "Cloud computing is a crucial ally when trying to get a startup underway that is focused on Autonomous Vehicles, here's the reasons why.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6046bb448ea9344158a8e912%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1345%26cropY1%3D14%26cropY2%3D771",
-          "width": 1199,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/03/09/using-the-cloud-to-bootstrap-your-autonomous-vehicles-startup/amp/",
-      "publishedDateTime": "2021-03-09T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-meet-seekout-a-profitable-diverse-hiring-startup-that-just-raised-65m.md",
-      "title": "Meet SeekOut, a profitable diverse hiring startup that just raised $65M",
-      "excerpt": "Most companies claim they want a diverse staff but at the same time, complain they don’t know how to go about recruiting more diverse candidates. Enter SeekOut — a startup that is out to give companies no excuses with its AI-powered platform.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
-      "originalUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2014/02/money.jpg?w=1024",
-          "width": 1024,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/seekout-raises-65m/amp/",
-      "publishedDateTime": "2021-03-09T08:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -121,7 +121,7 @@ related:
     provider:
       name: Vallejo Times Herald
       domain: timesheraldonline.com
-    quality: 47
+    quality: 49
   - title: "Activists sue facial recognition company in California"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally"
     publishedDateTime: 2021-03-10T18:15:00Z
@@ -210,6 +210,6 @@ related:
       domain: legal500.com
     quality: 0
 
-secured: "CqdB7sWV4WkFVns0UxUFsr2AHpZEzyaAt+MGBkGIwUc/ERyh8LCXEkiq63hyEt7YmFppO72bvOwgQfjI2ijV3p+JNHItHbIO3MN+D63lmOnTkoYdtstaiTANzRrgaOPCiAj6YXvo1/yEswQGTxx/wuSqs3Wvxm2s6/5XEbqb11FkyXpm9YOeIFC4qeLiOJaJ3WtjBTRSMyng7QouQB2mNBcVbgO+bdJdv8bDSwXVboHt+sFpJFDyv/O8PlH+6H0HU3Ydrb5+9pL1lfXLgO7jDtGccHIV2oZwGKAe05YOk8yKDIIsOOdkTYN3KZYrNRw1BsA1otNhAD6J410WivEhp5bHmOrlUGToTXhGTQcU+Yo=;PixGmCQKBNWzDFKfN5BnfQ=="
+secured: "sEye5L7gM1M8Hbb5LJVqAZ/+LzqFP2HD5qKl44iqhA9EjqC+4AyibRqjaHsNLcSfqG6ORJTaCstfvvFxvLatsFXBrpS0voRwQhJeKBX6nII0DKIDLiGg38B51Cl5AJKEvJ/GYvzLGDePYUE5xQHRJAp/GyrkBZ60b9JRwJv4xLX9sa7MyYIo4eCKfZF6V1j3CMUjgJXGlqyWUgshZvWubla45r9n8iC9wScJskyekk9vivn550ByLwxPkhGV/DxdYvPNKYuvjG3IuJYxbQeygc/B5HsOO3ZYjCaCFeA55brOZSWDaTPENxwVoXtKQZfSTto3+NTphXXBdlbtdshuySQpqR4Liq5Se+jrD6CVVpyVhmc55Dq6WExxJhF2+Nei/kBkjVKwqSzeDxm5LZynCvMcxHN3Q/Uwt6MSswrmRTRFVFkprlofpXGs0fQ1SztyYMO+mdXIaKrxqspFp94baPw4o2vtg8srrQfx4ZCXbaqbFjcop2rC0tFKTlUeceH6qL2KamxFDi+MG5FQ98pSjw==;UEr6pUotn7Ps/taowHxNMw=="
 ---
 

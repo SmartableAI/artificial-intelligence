@@ -2,6 +2,215 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-08-underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk.md",
+      "title": "Underpaid Workers Are Being Forced To Train Biased AI on Mechanical Turk",
+      "excerpt": "Workers who label images on platforms like Mechanical Turk say they are being incentivized to fall in line with their responses—or risk losing work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "originalUrl": "https://www.vice.com/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com/articles/6042724393b426009ca78cfd/lede/1614977313465-cubicles.jpeg?crop=1xw:0.845229151014275xh;center,center",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/88apnv/underpaid-workers-are-being-forced-to-train-biased-ai-on-mechanical-turk",
+      "publishedDateTime": "2021-03-08T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
+      "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
+      "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
+      "originalUrl": "https://news.mit.edu/2021/artificial-intelligence-adversarial-0308",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202103/MIT-Adversarial-Learning-01-press.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-assessing-regulatory-fairness-through-machine-learning.md",
+      "title": "Assessing regulatory fairness through machine learning",
+      "excerpt": "Applying machine learning to a U.S. Environmental Protection Agency initiative reveals how key design elements determine what communities bear the burden of pollution. The approach could help ensure fairness and accountability in machine learning used by government regulators.",
+      "sourceUrl": null,
+      "webUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
+      "originalUrl": "https://news.stanford.edu/2021/03/08/assessing-regulatory-fairness-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news-media.stanford.edu/wp-content/uploads/2021/03/05181621/AI_policymaking.jpg",
+          "width": 1500,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stanford News",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-last-mile-delivery-robotics-company-refraction-ai-raises-42m.md",
+      "title": "Last-mile delivery robotics company Refraction AI raises $4.2M",
+      "excerpt": "Ann Arbor-based Refraction AI announced today that it has raised a $4.2 million seed round. The startup, which debuted on the TechCrunch Sessions: Mobility stage back in 2019, was founded by a pair of University of Michigan professors (Matthew Johnson-Roberson — now CTO — and Ram",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/",
+      "originalUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/154024079_102529051892044_9043079890713007716_o.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/08/last-mile-delivery-robotics-company-refraction-ai-raises-4-2m/amp/",
+      "publishedDateTime": "2021-03-08T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-research-explores-promoting-public-trust-in-ai.md",
       "title": "Research explores promoting public trust in AI",
       "excerpt": "The public doesn't need to know how Artificial Intelligence works to trust it. They just need to know that someone with the necessary skillset is examining AI and has the authority to mete out sanctions if it causes or is likely to cause harm.",
@@ -670,7 +879,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/other/elon-musk-says-tesla-is-expanding-its-full-self-driving-beta-to-more-drivers/ar-BB1ekSRo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 291,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -1040,204 +1249,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-this-site-spits-out-ai-generated-rejection-emails-so-you-can-copy-and-paste-disappointment.md",
-      "title": "This Site Spits Out AI-Generated Rejection Emails so You Can Copy and Paste Disappointment",
-      "excerpt": "Crushing a starry-eyed startup’s hopes and dreams can be a pain, but now you can outsource that emotional labor to a heartless AI instead. Because rejection doesn’t have to hurt...err, not you at least,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061",
-      "originalUrl": "https://gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/celxuganemt8sdrqfj1g.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-site-spits-out-ai-generated-rejection-emails-so-yo-1846421061/amp",
-      "publishedDateTime": "2021-03-05T23:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-ai-reveals-current-drugs-that-may-help-combat-alzheimers.md",
-      "title": "AI reveals current drugs that may help combat Alzheimer’s",
-      "excerpt": "New treatments for Alzheimer’s disease are desperately needed, but numerous clinical trials of investigational drugs have failed to generate promising",
-      "sourceUrl": null,
-      "webUrl": "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/",
-      "originalUrl": "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2021/03/iStock-sudok1-945x630-1-e1615042402287.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/",
-      "publishedDateTime": "2021-03-05T22:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-update-1-online-learning-platform-coursera-files-for-us-ipo.md",
-      "title": "UPDATE 1-Online learning platform Coursera files for U.S. IPO",
-      "excerpt": "Online education provider Coursera Inc on Friday filed for a stock market listing with U.S. regulators, revealing a surge in revenue from a boost to business due to the disruption caused by the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/coursera-ipo-idUSL3N2L34AE",
-      "originalUrl": "https://www.reuters.com/article/coursera-ipo-idUSL3N2L34AE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553919044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH241GM",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL3N2L34AE",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL3N2L34AE",
-      "publishedDateTime": "2021-03-05T18:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-the-robots-are-coming-for-phil-in-accounting.md",
-      "title": "The Robots Are Coming for Phil in Accounting",
-      "excerpt": "The robots are coming. Not to kill you with lasers, or beat you in chess, or even to ferry you around town in a driverless Uber. These robots are here to merge purchase orders into columns J and K of next quarter’s revenue forecast,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/07/business/06whitecollar-bots-cover/06whitecollar-bots-cover-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html",
-      "publishedDateTime": "2021-03-05T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

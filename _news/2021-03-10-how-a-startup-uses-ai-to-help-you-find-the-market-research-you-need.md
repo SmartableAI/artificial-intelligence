@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Here's How Befitting Uses AI to Help You Buy the Right Prescription Glasses Online"
-    excerpt: "It's as easy as using a dating app, but instead of matching with a date, you get matched with the perfect pair of frames. Here's how Befitting can help you find your next pair of glasses online."
-    publishedDateTime: 2021-03-08T16:31:00Z
-    webUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-you-buy-right-prescription-glasses-online"
+  - title: "Startup uses NLP and AI to make software security reviews less painful"
+    excerpt: "Apiiro creates user profiles and analyzes a company's code base to spot high-risk changes and replace manual risk assessments with on-the-fly analysis. Drupal at 20: Creator Dries Buytaert shares lessons from two decades as an open-source leader 40:19 ..."
+    publishedDateTime: 2021-03-10T06:40:00Z
+    webUrl: "https://www.techrepublic.com/videos/startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 61
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
     images:
-      - url: "https://d.newsweek.com/en/full/1750023/befitting.png"
-        width: 2560
-        height: 1440
+      - url: "https://www.techrepublic.com/a/hub/i/r/2020/12/18/ba522146-343e-4d46-b506-ffc6033c4b04/thumbnail/770x578/cc2e1f81f53b69a110e1feab2bb6e705/istock-1291376919.jpg"
+        width: 770
+        height: 578
         isCached: true
   - title: "How A Startup Uses AI To Help You Find The Market Research You Need"
     excerpt: "Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports, competitive,"

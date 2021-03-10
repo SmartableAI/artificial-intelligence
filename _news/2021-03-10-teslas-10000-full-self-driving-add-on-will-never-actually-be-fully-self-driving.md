@@ -167,6 +167,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
+    excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
+    publishedDateTime: 2021-03-10T19:59:00Z
+    webUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/03/model_3_red-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Why self-driving cars are designed to look like overgrown toys"
     excerpt: "Electric driverless cars are not just coming, folks. They’re here. Lyft passengers in Las Vegas can already hail a self-driving taxi. It’s one of the first times vehicles with no human behind the wheel are being tested on city streets."
     publishedDateTime: 2021-03-09T18:58:00Z

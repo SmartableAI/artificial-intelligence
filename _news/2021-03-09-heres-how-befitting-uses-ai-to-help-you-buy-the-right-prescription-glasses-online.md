@@ -7,8 +7,8 @@ originalUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-
 webUrl: "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-you-buy-right-prescription-glasses-online"
 type: article
 quality: 61
-heat: 81
-published: true
+heat: 61
+published: false
 
 provider:
   name: Newsweek
@@ -26,38 +26,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "How a Startup Uses AI to Help You Find the Market Research You Need"
-    excerpt: "IBM’s knowledge management study. Bottom Line: Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports,"
-    publishedDateTime: 2021-03-09T21:55:00Z
-    webUrl: "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291"
-    ampWebUrl: "https://www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp"
-    cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-innovation/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need-02391291/amp"
-    type: article
-    provider:
-      name: Business 2 Community
-      domain: business2community.com
-    quality: 57
-    images:
-      - url: "https://lcolumbus.files.wordpress.com/2021/03/startup-finds-the-market-research-you-need-image.jpg"
-        width: 4500
-        height: 3000
-        isCached: true
-  - title: "How A Startup Uses AI To Help You Find The Market Research You Need"
-    excerpt: "Stravito is an AI startup that’s combining machine learning, Natural Language Processing (NLP) and Search to help organizations find and get more value out of the many market research reports, competitive,"
-    publishedDateTime: 2021-03-07T17:50:00Z
-    webUrl: "https://www.enterpriseirregulars.com/173143/how-a-startup-uses-ai-to-help-you-find-the-market-research-you-need/"
-    type: article
-    provider:
-      name: Enterprise Irregulars
-      domain: enterpriseirregulars.com
-    quality: 37
-    images:
-      - url: "https://mk0enterpriseirdbne0.kinstacdn.com/wp-content/uploads/2021/03/startup-finds-the-market-research-you-need-image-1-600x400.jpg"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "nnw9NOY/0psPaQMhDbE7kVVNIcPWMPtVRxWIK6L3pdcwlxDDsWicAnkucT+sYfTdmzIVLr6R6PSUhxWGaBuk90uETBv6M5/RcdpeJChoCzrAZHwZs1OecYm+oCtjM5yhMyoZTd1Czw4rRQWp70VBjoaor43BkbWAsGmBkLiqQpRVhikVyRaz2UjGoRJzsNj7lHSswfPc3axU+gPyUKGQmMJ4o+a4JkryGxQM5wShFs+mZ66ej+Gu72BM4wgu58ANlwGBvHd0qoq5+9Vr3/vxeVj8CTeIESW2S6aJI+av2Kg7eTn2zHxenViZ5JNwlpW7lnhbkt+dSKetykeHqPhX39Ar4x4GfXr4qlsCRBLJSiAyyuj05jX8Mji1eShzXbVcbgvzP5kL6D8VTbdzZo95P/GGuy2V5BNaRUn0xPfCEVVmLHn5dNFd97cMkIVkxlp29pBOFmvTX9QxjeMnk8SRX7MhH1WlLqK9LRo7tR9ie14HY3hN2OTOj28Bd6plRQqEbQ9IuIddu/qNIqhqG0smjw==;dRh4s7UIdXXSwc1CbkJ1Kw=="
 ---

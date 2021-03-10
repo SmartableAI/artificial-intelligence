@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-av
 webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft Azure MSP Acquires Software Development Company"
+    excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
+    publishedDateTime: 2021-03-10T20:05:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
 
 secured: "UnM+dKLjirJhk7Be7Yf1sok1FhXzObmh+CBit8xCAUxfqoKh/gCahj27bRUlXq6lbzbdcAskKZ2LYAIq4oXWt1WwBXv2v524BwjKHr01z45l58REZ7SNRiWKbJmPsgy4YTon19uLt+3mnA1jGmOgjdtMHqXDSZEXuvm8KAXmJQ7yDEH60u1lOTNlhDgb0x8Jkz0rv+qDsSd77SfGT0/YHF30NbbOkKPYxswesTJ9bnvnTGOhjGMEaqz9mp9zygy8+LkOj6f+CRlYrhxKxloQDF7sXSg5b3hVTYV4kRDXbBIjfBbFgTvEU3/AtSxy1Szlp5EaXSCqtZIJhe4zPMInciTvkNI3SAkQGXTpClqFQYA=;KjVf9T+4DPpAruBJOrgb7A=="
 ---

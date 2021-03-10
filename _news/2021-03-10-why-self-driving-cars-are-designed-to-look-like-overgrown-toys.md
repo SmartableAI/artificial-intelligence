@@ -167,6 +167,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
+    excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
+    publishedDateTime: 2021-03-10T19:59:00Z
+    webUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/03/model_3_red-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
     excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
     publishedDateTime: 2021-03-09T21:19:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-fac
 ampWebUrl: "https://www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/amp/"
 cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/amp/"
 type: article
-quality: 47
+quality: 49
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Facial recognition company Clearview AI sued by California activists"

@@ -82,6 +82,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft Azure MSP Acquires Software Development Company"
+    excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
+    publishedDateTime: 2021-03-10T20:05:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
 
 secured: "5dzdKJsu8ySyEppTHPDYBjNcQG3HiLmojGgtXEmlw8K4+NR8Ag44rFaHySbNd8vFNjrLXhCS86TPzwYIrEZ/nmu6bVjypUnhzlCWIgoYEte46Bw5gWuxZCuCXp2bYuFLB5vIUMx49nWzr7G+vaJcR6vvrqOVT2jbTjZzVHAWqI1c7kq0RZRSdfbpQ3TxB6aF16UJXsU7p89IpId6O4cxeVBk0d54TyUGg9ti+B/WBJxEybqEIAloX89y07oqoke82/R+KDP/BaJQH+S5Wam3mkq/MyPHjkTwYM4szDPKmehmzz1J+srpROTY/fEegq97J2p0d9OxBSTn7pcLWWJnDipFWyIEeoB2gbaMXQGLVAHNVkU+zBrfsI6CQEo5JE30rIGVf7zgvv2z5Ra/FYkSkFXl8VOcVNIFbaqsxXiNS+Ixw87eua8iwS3piv1XnFzDUWJfJCEocSi74wl7/i3DKs9V3APxMohjbtK/Psbguiu8MVpawGTY1KnOS0Z8egEdts8ZICTcwuLn8+EjijHDbg==;2Twa+lOQUW+FHrtZUiHxrw=="
 ---
