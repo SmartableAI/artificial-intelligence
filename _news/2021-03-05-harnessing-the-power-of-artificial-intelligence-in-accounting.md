@@ -92,20 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Supply Chain Market To Expand Substantially Owing to Technological Innovations during 2021-2025|Says Kenneth Research"
-    excerpt: "Kenneth Research has added a report on Artificial Intelligence in Supply Chain Market that involves the analysis of"
-    publishedDateTime: 2021-03-05T09:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-supply-chain-market-to-expand-substantially-owing-to-technological-innovations-during-2021-2025says-kenneth-research-2021-03-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning in Machine Vision Market to Set Phenomenal Growth from 2021 to 2026 | Qualcomm, Intel, Beijing Megvii"
     excerpt: "Get Access to PDF Sample of Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2026 @:  This study focuses on the Global Deep Learning in Machine Vision Market status, future forecast,"
     publishedDateTime: 2021-03-06T01:12:00Z

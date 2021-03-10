@@ -41,6 +41,31 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "VMware's vSphere software now certified to run Nvidia AI workloads"
+    excerpt: "The new Nvidia software suite, officially named Nvidia AI Enterprise, aims to give enterprises the ability to develop AI software for a range of applications."
+    publishedDateTime: 2021-03-10T02:05:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/vmwares-vsphere-software-now-certified-to-run-nvidia-ai-workloads/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "VMware-Nvidia alliance expands with new vSphere GPU support"
+    excerpt: "The virtualisation giant announced the expanded alliance with Nvidia Tuesday, saying that the GPU maker has exclusively certified VMware’s vSphere 7 Update 2 to support the new Nvidia AI Enterprise offering,"
+    publishedDateTime: 2021-03-10T01:18:00Z
+    webUrl: "https://www.crn.com.au/news/vmware-nvidia-alliance-expands-with-new-vsphere-gpu-support-561955"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20210310121806_CRN_690_server_data_centre2.jpg"
+        width: 690
+        height: 428
+        isCached: true
 
 secured: "QA98pDbNG1nnfzyzpAuWwRp87LH0uUzVf6bGtDLLVsJYFSyq4pRfeGTRLfr1znkIFQpJ7saTsOyZghe+MVC39pjzDqBXh2/z9zbQ8/TGFsgPO3b7joIH9cDjhr57Ur/nNgzqc6Eafzl6Pqs1Tz5UtluqPMmrtpzdGssToA/LAa4H2OySGuDN+mQ6sUeBtJJbLMcVZg+pcgVCtSR98loJsN9ILYT7x317shldZVXDQrg4EFIJSV/qakPK5qkvnCbYsbYk0uCKJak6fC0NLkqmFfGebOeGgZ9551/Ll7NWkNy/awOigdV+PA/d/+1I7aqrx+plvfJRNzEYodxKTwWUiSYgkCWfRtuFNuQAIADKVSikozByRojmIBtP+LOqpUnyz1PzsW2u2gzJRb8lhZxlhLh1MXAOlnykV5hYh/UTirmTEnrh4feDLgmXUKJnGhZBjWaELdxdnI3zRwnAWmXoDEAbLicr5+VHzsjyhuFm7spcsRjhNTpg4vlNYT78S/utgSwLe4PhG+iorjmCloKfCg==;7BIvclOBm+uXDOp/OFdV1A=="
 ---

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Honda Is About to Become the First Automaker to Offer a Level 3 Self-Driving System"
-    excerpt: "Honda Motor (NYSE: HMC) says that on Friday, it will launch the first production vehicle with so-called Level 3 semi-autonomous technology,"
-    publishedDateTime: 2021-03-05T09:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/honda-is-about-to-become-the-first-automaker-to-offer-a-level-3-self-driving-system-9881021"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Honda Lengend EX with SENSING Elite Better Self-Driving than Tesla?"
     excerpt: "Honda Motor Co., Ltd. will begin lease sales in Japan, on March 5, 2021, of the Honda Legend EX equipped with Honda SENSING Elite. In its effort to realise a collision-free society based on its global safety slogan,"
     publishedDateTime: 2021-03-08T01:35:00Z

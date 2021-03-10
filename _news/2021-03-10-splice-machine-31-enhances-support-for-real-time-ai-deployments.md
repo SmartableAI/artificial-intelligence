@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-suppo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "7 ideas for how artificial intelligence can enhance teaching"
-    excerpt: "Artificial intelligence will power more complex and collaborative learning activities along with deeper assessments of students' knowledge, experts say."
-    publishedDateTime: 2021-03-05T10:26:00Z
-    webUrl: "https://districtadministration.com/ideas-use-artificial-intelligence-machine-learning-teaching-education/"
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 39
-    images:
-      - url: "https://districtadministration.com/wp-content/uploads/2021/03/AdobeStock_224585219.png"
-        width: 648
-        height: 426
-        isCached: true
   - title: "Splice Machine Releases Real-Time AI Enhancements to its Database Platform"
     excerpt: "Splice Machine, provider of the real-time AI platform built on a scale-out SQL database with built-in machine learning, is releasing version 3.1 of its database, introducing new features and functionality to support enterprises with real-time AI projects."
     publishedDateTime: 2021-03-09T14:51:00Z

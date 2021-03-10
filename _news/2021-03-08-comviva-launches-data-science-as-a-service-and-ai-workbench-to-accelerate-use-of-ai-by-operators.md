@@ -23,17 +23,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "Comviva introduces Data Science-as-a-Service (DSaaS) and AI workbench (MobiLytix AIX) solutions to enhance returns from Customer Value Management"
-    excerpt: "The new solutions drive revenue growth, enhance offer acceptance and increase customer retention by accelerating the application of AI in Customer Value Management Comviva, the global leader in providing mobility solutions today announced the launch of its new Data-Science-as-a-Service (DSaaS) and AI workbench (MobiLytix AIX) solutions that accelerate the use of AI by Communications Service Providers (CSPs) and increase returns from their Customer Value Management programs."
-    publishedDateTime: 2021-03-05T10:00:00Z
-    webUrl: "https://www.newswit.com/en/L43H"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 0
-
 secured: "oCqnMVkCZFt4DczVm7P5ywAbDjLttKuNIXcEzV88wGXY6+w5hrk4fzxQB+8jWAuPjZ3o9tHQz0241jZCDly+YuGed7qKQOdLJnWz5kPxJkO+1QTZeaB/NkSPNVDS9ZYNAzFJnQMJ2bzxS10MJQ0zHFSypcI4Uh8K8IrGOZy0/erlZhVcjWCBYtgDChBf/jUAXd9xG7hEVVQe2ta0jFSkj8WFn+utmp0z5Kw7z2WEItBD0qwfC7uZgxeDkkawjrOesyOCSt/w/C77y5hafjKru3Uo01TaLQiJ9TIVylK1epCbCkjtkNUQQmGAxDKryTEuoqeq0ju3SFvJHTruxXxsThucd8bBh+uKnvRUDzDNJ9hirt9bpEJfegCUQEO7vB/amzhRjXqAYNa7nAF2M60eMPy4jl2t1GT/tc7Vhcm3OqdkR9WvOql/TjfqU9mp3Tshia1KQuHjpySLStLex/l3ChRFyxX7bQ9CYIQKLksCYUV46T+vGzkx1mBFnGQEWyrSvsTxKh5i92Zv6FvwJI1FmQ==;YwzNppazQPDm47al500XEA=="
 ---
 

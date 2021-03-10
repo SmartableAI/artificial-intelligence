@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "7 ideas for how artificial intelligence can enhance teaching"
-    excerpt: "Artificial intelligence will power more complex and collaborative learning activities along with deeper assessments of students' knowledge, experts say."
-    publishedDateTime: 2021-03-05T10:26:00Z
-    webUrl: "https://districtadministration.com/ideas-use-artificial-intelligence-machine-learning-teaching-education/"
-    type: article
-    provider:
-      name: District Administration Magazine
-      domain: districtadministration.com
-    quality: 39
-    images:
-      - url: "https://districtadministration.com/wp-content/uploads/2021/03/AdobeStock_224585219.png"
-        width: 648
-        height: 426
-        isCached: true
   - title: "Splice Machine Announces New Capabilities to Support Real-Time AI with Version 3.1 of its Scale-Out SQL Database"
     excerpt: "Splice Machine, provider of the real-time AI platform built on the only scale-out SQL database with built-in machine learning, today announced version 3.1 of its database, which introduces new features and functionality to support enterprises with real-time AI projects."
     publishedDateTime: 2021-03-09T15:41:00Z

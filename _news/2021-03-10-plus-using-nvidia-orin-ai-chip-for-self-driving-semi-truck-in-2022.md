@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
 type: article
 quality: 91
-heat: 111
+heat: 112
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         height: 630
         isCached: true
 
-secured: "2VFdwJYxRYE8JXO4HCHRWGKV45LwyJzUtHHKFqx6h/CqygGkmW2Sz//pqScX8Zz6TmGk/OxaxJ7c88eKdo5ShMh+64IQRS9gKCjhHTuI8tsYMg4eOIB3AA4WOXC53TANa3SB1mXE94zL8lSCAxCZXz3dtOERYENmPrvAJJMeXCtPCw7NHga46Z9ErEx9iZAiNe6FEMc9e5hzyUpSP5XBwmgplzUZVLG4zm3Dw39P3667+DXQQQXoL//F2Jie/ODNPZ+KCxEv7uIb3HfS1e5+/s7sLInrW+tcLw6CvlrTsmjUdv1IcrAHghDN4HRHnv9qRnOHWryLiq/EMfLcZf6iGY7AoDYi3T8QKyWFZ47Cqk0=;jo+HsxxRouLhAhyunTvf9w=="
+secured: "ALz01eJhDdyGXSi7Wl6oegcRyJDn6+UgPxPIhSUcWv0u7qyP70D3f9vVf4OXLA/hK9ge73aQ4RvGgpNzb2MBtLnqoVwtgfEkq7j3/P6petDoKfekbE4y2wqH9qILji0AyJLWNB9SbZZNJ13t+YDlhnDhTmmXjH/sPQAzc9SFqqKzvHjskvAw8MJXXzubN/5UG2UI/woZIYrPDpgayL1zw5BADuLZEBNr8nW77sVenkzQaRDk/AmbJoxQPMRxf0yDew3tsA3O99gnLwVCA28qmIN2rjHIsbjSKevZ0A5fLuRqIDSTyOLABkYIehAk5EsNAzdZJU3R33Nzj70TezsrrB6K8H0r+fPbmqFoR2fx3If+nRKwcV32DvJExX3TpwwI39p7ZT3CM25Xu0JFcwoigXb+ugR4qZ2FOsUYlUKsh/YPh/wYrrqKuv0copfxQC1MrHUrTmIXhrruMfp9EIp7g1PsEfzfIvZxBTch2X6nC/trkwUdCLC10HggQA5ZLwNjJgosJp8ftLbmq7+iUKGltg==;NGPtbCxkEjNRat8ItxoiWQ=="
 ---
 

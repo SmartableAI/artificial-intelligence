@@ -36,22 +36,6 @@ related:
         height: 384
         isCached: true
   - title: "GSI introduces unprecedented AI-powered EA trading system for Forex"
-    excerpt: "Due to the Covid-19 pandemic, people worldwide have been using the forex market to make up for lost income, causing a 50% spike in daily participants and 300% daily trading"
-    publishedDateTime: 2021-03-05T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/03/ab20026467/gsi-introduces-unprecedented-ai-powered-ea-trading-system-for-forex"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/20026467"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20026467"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.getnews.info/uploads/7b356c4730d0275ecf38517d113b1587.png"
-        width: 600
-        height: 369
-        isCached: true
-  - title: "GSI introduces unprecedented AI-powered EA trading system for Forex"
     excerpt: "Due to the Covid-19 pandemic, people worldwide have been using the forex market to make up for lost income, causing a 50% spike in daily participants and 300% daily trading volume in"
     publishedDateTime: 2021-03-06T04:31:00Z
     webUrl: "https://www.wboc.com/story/43451803/gsi-introduces-unprecedented-ai-powered-ea-trading-system-for-forex"
