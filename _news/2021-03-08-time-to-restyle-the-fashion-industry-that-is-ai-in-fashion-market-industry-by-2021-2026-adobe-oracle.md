@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2253545/time-to-restyle-the-fashion-indus
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253545/time-to-restyle-the-fashion-industry-that-is-ai-in-fashion-market"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -19,36 +19,6 @@ provider:
 topics:
   - Facebook AI
   - AI
-
-related:
-  - title: "How is AI and big data transforming the maritime industry?"
-    excerpt: "Over the last decade, a myriad of industries and sectors have increasingly utilized data collection and artificial intelligence (AI) to help streamline many aspects of their business. The maritime ind"
-    publishedDateTime: 2021-03-05T18:34:00Z
-    webUrl: "https://www.workboat.com/bluewater/how-is-ai-and-big-data-transforming-the-maritime-industry"
-    type: article
-    provider:
-      name: WorkBoat
-      domain: workboat.com
-    quality: 39
-    images:
-      - url: "https://divcomplatform.s3.amazonaws.com/www.workboat.com/images/70ccd7e45a97fdf7d6b70f00d107e636.jpeg"
-        width: 2058
-        height: 1143
-        isCached: true
-  - title: "C3.ai Digital Transformation Institute Announces Shell as New Industry Partner"
-    excerpt: "Saturday 6 [ AETOS Wire ]  (BUSINESS WIRE ) -- The C3.ai Digital Transformation Institute (DTI) today announced that global energy company Shell is the newest industry partner to join the consortium of universities,"
-    publishedDateTime: 2021-03-07T05:32:00Z
-    webUrl: "https://menafn.com/1101710186/C3ai-Digital-Transformation-Institute-Announces-Shell-as-New-Industry-Partner"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 35
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "K8UJY+qDdcLmwvRVi4qF/j/7MSqjteHqv2Y5Xvr/c523tkT+3dh/VeVDKASjOcRzUllt+dKMEpG+Y0LxsuXZAC/tWLcBt8iOO5jrN6/WJuj9eqIxlDHyiVg202lwP9N2XkIhEJFVQpv79X30s/PKblFXGaYr+OTQFBeDKE17tlaurHZYX9Qtet3v+A9SHZ875JeoZ36C4Z6gSLcspXqheO61cmkaUsEzjeRf1hfeVuKAMBL3v8U+57Ti49V4IzMTE3gDaJ/bxtmcqUxxeXTgEx8LKqP2zvddi4tngesA8rrZg6e2YALtIKHwQpNk4gcO3cLwWY8EDjZkwejqUPB+jaUr8/5ZQizheUKkkGQF4Cs=;iXqLCBUkKmTOnxJTR6oXdA=="
 ---

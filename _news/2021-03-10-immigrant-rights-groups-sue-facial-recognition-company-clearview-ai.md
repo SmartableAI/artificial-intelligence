@@ -8,7 +8,7 @@ webUrl: "https://www.cbsnews.com/news/clearview-ai-facial-recognition-sued-mijen
 ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/05/6b363956-423a-4cc9-a04e-47d365d2fb9f/thumbnail/1200x630/4c6d01fc0d9aec5e1a7a02195a916386/clearview-ai-app-tryout-01.jpg"
@@ -44,16 +45,16 @@ related:
         height: 720
         isCached: true
   - title: "Facial recognition company sued by California activists"
-    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
-    publishedDateTime: 2021-03-10T02:57:00Z
-    webUrl: "https://www.wsoctv.com/news/technology/facial-recognition/5TURKHY2HJIBTG5APVO6KMXDKU/"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
+    publishedDateTime: 2021-03-10T01:29:00Z
+    webUrl: "https://www.startribune.com/facial-recognition-company-sued-by-california-activists/600032326/"
     type: article
     provider:
-      name: WSOC-TV
-      domain: wsoctv.com
+      name: StarTribune
+      domain: startribune.com
     quality: 41
     images:
-      - url: "https://www.wsoctv.com/pb/resources/images/share_logos/WSOC_1200x630.png"
+      - url: "https://chorus.stimg.co/22358472/1aclearview.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
         isCached: true

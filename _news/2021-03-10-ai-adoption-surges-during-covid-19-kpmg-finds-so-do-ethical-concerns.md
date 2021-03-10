@@ -73,6 +73,22 @@ related:
         width: 1351
         height: 673
         isCached: true
+  - title: "AI implementations accelerated due to COVID-19 pandemic, says KMPG survey"
+    excerpt: "Adoption of artificial intelligence accelerated during the COVID-19 pandemic, but many business leaders are concerned that AI deployments are moving too fast, according to a KPMG survey. Managing AI and ML in the Enterprise The AI and ML deployments are ..."
+    publishedDateTime: 2021-03-09T19:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/08/b82392e3-a0d3-4346-ba72-916149066bd6/kpmg-ai-report-2021b.png"
+        width: 1351
+        height: 673
+        isCached: true
   - title: "Supply Chain AI Adoption May be Hastened Due to Pandemic, says KPMG"
     excerpt: "The COVID-19 pandemic has accelerated the pace of artificial intelligence (AI) adoption, but many say it’s moving too fast, according to a new KPMG survey."
     publishedDateTime: 2021-03-09T22:42:00Z

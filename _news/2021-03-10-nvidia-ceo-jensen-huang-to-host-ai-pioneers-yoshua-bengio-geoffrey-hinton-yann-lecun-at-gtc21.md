@@ -47,6 +47,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "NVIDIA CEO Jensen Huang will host AI pioneers YoshuaBengio, Geoffrey Hinton and Yann LeCun and others at GTC21"
+    excerpt: "Research Engineer, Facebook • Rene Haas, President, IP Products Group, Arm • Ganesh Harinath, VP Engineering, 5G MEC, AI Platforms, Verizon • Daphne Koller, Founder and CEO, Insitro; Co-Founder, Coursera • Jesse Levinson, Co-Founder and CTO ..."
+    publishedDateTime: 2021-03-10T09:29:00Z
+    webUrl: "https://www.compsmag.com/news/technology/nvidia-ceo-jensen-huang-will-host-ai-pioneers-yoshuabengio-geoffrey-hinton-and-yann-lecun-and-others-at-gtc21/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/nvidia-ceo-jensen-huang-will-host-ai-pioneers-yoshuabengio-geoffrey-hinton-and-yann-lecun-and-others-at-gtc21/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/nvidia-ceo-jensen-huang-will-host-ai-pioneers-yoshuabengio-geoffrey-hinton-and-yann-lecun-and-others-at-gtc21/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 39
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
 
 secured: "HfnUxBPniHtZlDyEfayEE9TRffdFkxKzur94wwEKrcmimzk+CHIl1U46ro/jpe1UPt2wTKSxqYzkps8uz1u2InaCeMuDifBkqt0iGI+hduKB6I0xKd/JJ4elzRXjB0f6FllvaR0tQXITOUMh7fsQ0XifoJ1QE6RPzA68yOlt6XBWGo60IMgB1Iluymo/WK3Hk8sOUvar0zoe4S0HVk8QlW5k1WlI9eK1uL9fnKQHZQIYMmL7Z6IAVFW9X58RzVKXmqE3mwNzBkY9o//k1xcgdDq8bZVf2db48SuxxNIT06DbceTS8J+j157C5h1d6RgX6Eu7YfnJgoP9H18e0EiuV/paO6BZm3ZdogJ8HqMsGzvw8TX9eqXM0nn4kismnsoHs+BqGLUYFw8tdjZetVCIkENZV2nLSlEjA/nzwIhZbjy6y+EpC67NTU43oStvcNtOQxYJlr0C6L82cyTl1eJo/OvhW7qDKZwsD+NQzjCLOcU9Luix/gLHtHjAvqv4AsaLNNfTCZxh8c+X7N+gT4MyMw==;2Ck+5zD6DhcRotWTJwNuLQ=="
 ---

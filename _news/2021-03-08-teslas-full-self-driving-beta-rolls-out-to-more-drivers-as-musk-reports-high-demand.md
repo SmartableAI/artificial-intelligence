@@ -63,22 +63,6 @@ related:
         width: 796
         height: 408
         isCached: true
-  - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
-    excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
-    publishedDateTime: 2021-03-05T18:47:00Z
-    webUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/"
-    ampWebUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla’s communications with DMV over Full Self-Driving are released and they bring some confusion"
     excerpt: "Tesla’s communications with DMV over the release of its Full Self-Driving Beta have been released through a freedom of information request. Some of the comments made by Tesla to the DMV are bringing some confusion to people as they could be interpreted as contradicting what Tesla and Elon Musk are saying publicly."
     publishedDateTime: 2021-03-08T11:42:00Z

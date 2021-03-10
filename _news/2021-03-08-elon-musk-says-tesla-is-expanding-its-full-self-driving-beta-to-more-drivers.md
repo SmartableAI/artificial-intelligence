@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
 type: article
 quality: 171
-heat: 301
+heat: 291
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/01/Tesla-Autopilot-crash-report--796x408.jpg"
         width: 796
         height: 408
-        isCached: true
-  - title: "Elon Musk: Tesla is doubling the size of its Full Self-Driving beta program"
-    excerpt: "Elon Musk says that Tesla is doubling the size of its Full Self-Driving Beta program with an upcoming new update. Another one following it could see the size of the test fleet increase by a factor of 10."
-    publishedDateTime: 2021-03-05T18:47:00Z
-    webUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/"
-    ampWebUrl: "https://electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2021/03/05/elon-musk-tesla-doubling-size-full-self-driving-beta-program/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-full-self-driving-road-debris.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tesla's Full Self-Driving Beta rolls out to more drivers as Musk reports high demand"
     excerpt: "CEO Elon Musk said the last beta doubles the number of people who have access to FSD, but a future update will open the tech to 10 times as many drivers."

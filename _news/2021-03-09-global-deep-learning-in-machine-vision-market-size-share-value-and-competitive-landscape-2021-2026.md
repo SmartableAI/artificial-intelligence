@@ -103,6 +103,20 @@ related:
         width: 1500
         height: 500
         isCached: true
+  - title: "MIM Software Inc. Receives CE Mark Approval for Deep Learning Auto-Contouring Software"
+    excerpt: "MIM Software Inc., a leading global provider of medical imaging software, announced today it has received CE Mark approval for its"
+    publishedDateTime: 2021-03-10T09:14:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/mim-software-inc-receives-ce-mark-approval-for-deep-learning-auto-contouring-software-802501022.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/709760/MIM_Software_Logo.jpg?p=facebook"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "C0zpjRxhqhDi921HI4VTiBLHYYMKTXjlMJvpQwzDvADtovANQgXJS4+j1sgcMLjufEE3cmWER9wIK/yJbEpYZbbffrzr4XN6tsUbZCX82MKjRBcYsph0vwQPS+10S0NZ7BlLJPq9xVPCyYnH0SRrFOkGgqoyaCJGTt0N9OL2a6EabJhUcBUI/jIYNLhvEzNPu2bj9y2x8bbGg2RUPp6cWiGurUWN2ppBh/lkg7CpdravwR2s+atQ9lDdKjHN0qzoxXMsVxMMx9xSYstjnm2kFhNKsF4RtBXXQfL/38z3As3yB1HecvoIfruWANYM9LJua3JGxtigJY2qJynRYxjArBk+okMmt29GahpXmIFkxAs=;aA7XY8Aq7w+Y2OY76b3dpA=="
 ---

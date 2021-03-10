@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Size, Demand, Outlook, Trends, Revenue, Future Growth Opportunities By 2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
+    publishedDateTime: 2021-03-10T10:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-size-demand-outlook-trends-revenue-future-growth-opportunities-by-2025-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Report 2020-2025: Global Industry Size, Growth, Share, Trends, Key Players and Forecast"
     excerpt: "Mar 09, 2021 (SUPER MARKET RESEARCH via COMTEX) -- As per new industry analysis report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global deep learning market size is ..."
     publishedDateTime: 2021-03-09T21:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/ai-powered-chrome-extension-automatically-turns-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652/amp"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Chrome extension turns on YouTube captions when eating noisy chips"
-    excerpt: "A new AI-powered Google Chrome extension will automatically turn on YouTube extensions if it detects you are eating noisy chips."
-    publishedDateTime: 2021-03-05T17:57:00Z
-    webUrl: "https://www.bleepingcomputer.com/news/technology/chrome-extension-turns-on-youtube-captions-when-eating-noisy-chips/"
-    ampWebUrl: "https://www.bleepingcomputer.com/news/technology/chrome-extension-turns-on-youtube-captions-when-eating-noisy-chips/amp/"
-    cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/technology/chrome-extension-turns-on-youtube-captions-when-eating-noisy-chips/amp/"
-    type: article
-    provider:
-      name: Bleeping Computer
-      domain: bleepingcomputer.com
-    quality: 59
-    images:
-      - url: "https://www.bleepstatic.com/content/posts/2021/03/05/crisp-subtitles.jpg"
-        width: 1600
-        height: 800
-        isCached: true
 
 secured: "CAQcRGJCt+2z5gtrZxePYROduAlo9ofe4Nrfm4y2Rp+dwCdKamP0g89auY21B2X2RgMcAC6QEROQU53MMmQh/vqN0xrWRwwNMYuocqqRzjVw6p0jqR8UKC6ZeXXdoN0ztYPxNXkDeO0VVMrfQdwLonHpaOW8Wxcfb9Hg0GWNAzkQ/7TP1Ay/EgQAoLbMKekJpJpnYXidCK+bTKCxidUYybcOsl/GN3zQGkBzhkIZGTafLVtWCHa/uhbDQLDzyhCJ8BnigVYjfZIeMYrqrLIBevJEaYGFVsSb+5eF3V7C8rp95+NonF1VgFU+4KP6+qVsyRnS2LyEF0tV/P69FgQojPoSeEWqiFCtqKi6MNUcQ0Q=;uUNR7v0tZMH6bC7n0CVA4Q=="
 ---

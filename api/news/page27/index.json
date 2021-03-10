@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-02-16-how-can-fintech-offer-our-smes-a-fighting-chance.md",
+      "title": "How can fintech offer our SMEs a fighting chance?",
+      "excerpt": "Current fintech offerings can help SME survive. In normal circumstances, life as a small and medium-sized enterprise (SME) is far from straight forward. Throw in a year-long global pandemic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "originalUrl": "https://www.itproportal.com/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/HeCsiY6yjxpnUybtYHdeu9-480-80.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-can-fintech-offer-our-smes-a-fighting-chance/",
+      "publishedDateTime": "2021-02-16T02:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-most-indian-firms-to-turn-to-ai-for-decision-making-by-2023.md",
       "title": "Most Indian firms to turn to AI for decision-making by 2023",
       "excerpt": "Over 40 per cent of consumer-focused AI systems in finance, healthcare, government and other regulated sectors in India will include provisions to explain their analysis and decisions by 2023, a new IDC report said on Tuesday.",
@@ -1142,50 +1185,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai.md",
-      "title": "Introduction to Tensorflow 3D for 3D Scene Understanding by Google AI",
-      "excerpt": "Google AI has introduced Tensorflow 3D, designed to bring 3D deep learning capabilities into TensorFlow. The library can be used for state-of-the-art 3D semantic segmentation, 3D object detection, and 3D instance segmentation Understanding the 3D sparse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsvidhya.com/blog/2021/02/introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai/",
-      "originalUrl": "https://www.analyticsvidhya.com/blog/2021/02/introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/chi-square-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-15T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Vidhya",
-        "domain": "analyticsvidhya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

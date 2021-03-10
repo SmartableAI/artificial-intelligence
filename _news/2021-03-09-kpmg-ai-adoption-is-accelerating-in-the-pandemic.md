@@ -62,6 +62,22 @@ related:
         width: 1351
         height: 673
         isCached: true
+  - title: "AI implementations accelerated due to COVID-19 pandemic, says KMPG survey"
+    excerpt: "Adoption of artificial intelligence accelerated during the COVID-19 pandemic, but many business leaders are concerned that AI deployments are moving too fast, according to a KPMG survey. Managing AI and ML in the Enterprise The AI and ML deployments are ..."
+    publishedDateTime: 2021-03-09T19:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/ai-implementations-accelerated-due-to-covid-19-pandemic-says-kmpg-survey/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 86
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/2021/03/08/b82392e3-a0d3-4346-ba72-916149066bd6/kpmg-ai-report-2021b.png"
+        width: 1351
+        height: 673
+        isCached: true
   - title: "AI Adoption Surges During COVID-19, KPMG Finds. So Do Ethical Concerns"
     excerpt: "Real-world AI deployments surged over the past year as companies sought to remain competitive during the coronavirus pandemic, according to a new study"
     publishedDateTime: 2021-03-09T17:30:00Z

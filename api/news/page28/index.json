@@ -2,6 +2,50 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-02-15-introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai.md",
+      "title": "Introduction to Tensorflow 3D for 3D Scene Understanding by Google AI",
+      "excerpt": "Google AI has introduced Tensorflow 3D, designed to bring 3D deep learning capabilities into TensorFlow. The library can be used for state-of-the-art 3D semantic segmentation, 3D object detection, and 3D instance segmentation Understanding the 3D sparse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsvidhya.com/blog/2021/02/introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai/",
+      "originalUrl": "https://www.analyticsvidhya.com/blog/2021/02/introduction-to-tensorflow-3d-for-3d-scene-understanding-by-google-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/chi-square-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Vidhya",
+        "domain": "analyticsvidhya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-ibm-openpages-with-watson-wins-best-ui-innovation-at-the-risk-market-technology-awards.md",
       "title": "IBM OpenPages with Watson wins “Best UI Innovation” at the Risk Market Technology Awards",
       "excerpt": "As we move into the new year, it’s clear that the turbulence that defined 2020 is not going away. Even after the COVID-19 pandemic subsides, its resultant economic and social uncertainty will linger. It remains imperative for large enterprises to modernize their governance, risk and compliance (GRC)",
@@ -1125,57 +1169,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-scaling-ai-the-4-challenges-youll-face.md",
-      "title": "Scaling AI: The 4 challenges you’ll face",
-      "excerpt": "I've worked in big data and AI with several organizations. Here's where I've seen them flounder after an enthusiastic start.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
-      "originalUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/scalability.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/14/scaling-ai-the-4-challenges-youll-face/amp/",
-      "publishedDateTime": "2021-02-14T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

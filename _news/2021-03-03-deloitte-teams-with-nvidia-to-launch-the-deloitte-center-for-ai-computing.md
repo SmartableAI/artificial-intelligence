@@ -1,47 +1,26 @@
 ---
 category: news
-title: "Deloitte Teams with NVIDIA to Launch the Deloitte Center for AI Computing"
-excerpt: "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate"
-publishedDateTime: 2021-03-02T20:09:00Z
-originalUrl: "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/"
-webUrl: "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/"
+title: "Deloitte Teams With NVIDIA to Launch the Deloitte Center for AI Computing"
+excerpt: "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate the development of innovative artificial intelligence (AI) solutions for Deloitte clients."
+publishedDateTime: 2021-03-03T05:36:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-f630ff9a57c1ad99da348086a50d0299"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-f630ff9a57c1ad99da348086a50d0299"
 type: article
-quality: 38
-heat: -1
-published: false
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/shutterstock_hpe-405x228.jpg"
-    width: 405
-    height: 228
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "Deloitte partnering with NVIDIA to launch artificial intelligence computing center"
-    excerpt: "The Deloitte Center for AI Computing aims to deliver an accelerated platform to co-innovate with clients and expedite the development of AI applications."
-    publishedDateTime: 2021-03-03T16:17:00Z
-    webUrl: "https://www.techrepublic.com/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deloitte-partnering-with-nvidia-to-launch-artificial-intelligence-computing-center/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 83
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-
-secured: "c3SdXvZiCXNE43h5V1/wP+F+WoiuRL2K8tpVe8fVaD26kjZ4j3vHiuFkqLl2CuBByqJoL0AVP5pEejB6CgUBauw3CqXE0mynNlNnbGtKZfkWHRITR9LO72h6K3AK6iAPiq+f7fCJ9sUDPTgi3lBV7wENBGM77ZC52zCstbWANZNV61Ywl6HnGmsw+4ALdtu5PyLD4b5CG1+E2+Jnp9oEHzPT653boHygAwWr4n2WRxprqnNuw1LRv0Hrrub5eEgnCoFZtULaFUEfNsg7mrrlDoXbxSQJkxqGVaaQSXzaLGJ4UpyUdyKznI7WSWsm0UpGU2LR5eucc2XTUc6RzRKroAP2A6x6CUrE/Z46sAEkLKKj2yY4rWm5WAo9u4kwyq0IAtC80U27oB+64VheFGzxE+ryYoxGkiB76jqSJwA6+Gw87/5Pb69GW/NPOikZfA0lkNSJ3IXlJEYTaB0MQok//QRrHfdX4bh3uvStD2BkXF6AwHr/aflHD/h9NG33ciwbqxdXpciX3XkB2E77nofcmg==;EN2hA8R79sBYbUhTnE3VdA=="
+secured: "7Pp4qyeJR/VOjEjpMOt1Oz3MlGZeZ3f/jVdS9Av9nT6iBRo9CNuVestCU/q2Z1fxv3qXNMFN3i1wCmDGtd95xwLUHgJLPdzhBkeUU97mLkLXvsTOBDUW9ddLbAeBDh6UvQsMtoY2GHntINjdCZWGK7pkiSZNNQUJ+RuFW6iGPVY6hvbnphJEgSY7MsIVwRNcw1YeS/MCeSOXIfq/58MX7ZFz1kDNaV3WQG2DfCRbEC3fN1p6C2Wib4mKHmq5mAYz78f+LHC46a6sQ+UdIjYQH0rlRDDzR96ulwh8koJttM6Ub+YAwYxc1NeIKFSJGnlgYVDrr0PHyRdzbUhtnyXTMAltJfpuAo46p1oXW5NGpEY=;E0ZwfLgblmEWClr0j+RSuQ=="
 ---
 

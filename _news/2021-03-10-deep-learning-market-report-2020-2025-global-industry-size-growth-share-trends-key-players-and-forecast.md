@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Social Media Market Size, Demand, Outlook, Trends, Revenue, Future Growth Opportunities By 2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The dynamic nature of business environment in the current global economy is raising the need amongst business professionals to update themselves with current situations in the market."
+    publishedDateTime: 2021-03-10T10:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-size-demand-outlook-trends-revenue-future-growth-opportunities-by-2025-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US AI in E-commerce Market Trends, Research Report, Growth, Opportunities, Forecast 2019-2025"
     excerpt: "US AI in e commerce market is projected to grow at a CAGR of 26 0 during the forecast period 2019 2025 The US marks a significant position in the venture investment activity of the e commerce industry Some of"
     publishedDateTime: 2021-03-08T11:33:00Z

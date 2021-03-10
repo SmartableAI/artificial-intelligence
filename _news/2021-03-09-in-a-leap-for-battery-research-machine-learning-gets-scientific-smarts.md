@@ -2,28 +2,26 @@
 category: news
 title: "In a leap for battery research, machine learning gets scientific smarts"
 excerpt: "Researchers combined machine learning with knowledge gained from experiments and equations guided by physics to discover and explain a process that shortens the lifetimes of fast-charging lithium-ion batteries."
-publishedDateTime: 2021-03-08T16:04:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/dnal-ial030521.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2021-03/dnal-ial030521.php"
+publishedDateTime: 2021-03-08T17:42:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/03/210308111910.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111910.htm"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/258336_web.jpg"
-    width: 640
-    height: 360
-    isCached: true
-
-secured: "EFI5hdv6TJNi69N3iuIlhKLNUj0uSj0FqgfJ0c2liEZaN3AuCfi92upocv9urZ0Tfl2qrJoaavjzmS3OQaltxNvke76KUx/lpab9BVvcg7R7IG5asP2E/+GiURz023BkCdrLK/h4pTp/qkbnId/Mh4F174QBJ6fl5wy+gMYJjJPOpirU2gh6s4fu1gxPH2hEAYcFusBT9xOmgddbOWsn/rO7DOXhO75fZbkEwUdCF8WsPCdjtIaMU3pJDaPu0eBZpmnJVsKiehNKSqhZ3agQ3JFp3jdbZAshjpUN5q657OTErvZb00BMNQWsn359nBngo6WRFkGkeTBSnYsjWiiNc+O5qerFhv79quSpEos1Fiw=;PDB+5GIpPIwfZziP7vrrmQ=="
+secured: "muwV4yyGT4qOFdNPRQfWCmjO7td/5OsytgzfvEnC+TvchuO9we3DGdUUrwoFJKQqvs4yEj5RkH8tXvG8X466FeqChLzOu6KoN/WsTI1F7S7B/QBIjJZATaFgk+xIwYpAqXRxdNI3mozaOSdxUYdmwug5ajAlPqPnMzN1vq7c5UKZBSMJSgYxP78TQOL/iTU/fiuUWA/wE1AVZE36qJCElm8oiDEUnz/0v3ULkHU/h8+frJNR2+wAJCTaBMWjRv548sGrSYh3eWWzqoxq/XYnUBgz2UiLNhMFSBUOrevaZqmTQnCxPbnmQ10+f5SoTVV3+tEmmwtPcSkOYsEu10jI+0f4cGI3oJ2mXKimozP1QgA=;M0YwDdZqg9CKzsDTyD6uzg=="
 ---
 

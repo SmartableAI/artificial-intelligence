@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Facial recognition company sued by California activists"
-excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
-publishedDateTime: 2021-03-10T02:57:00Z
-originalUrl: "https://www.wsoctv.com/news/technology/facial-recognition/5TURKHY2HJIBTG5APVO6KMXDKU/"
-webUrl: "https://www.wsoctv.com/news/technology/facial-recognition/5TURKHY2HJIBTG5APVO6KMXDKU/"
+excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
+publishedDateTime: 2021-03-10T01:29:00Z
+originalUrl: "https://www.startribune.com/facial-recognition-company-sued-by-california-activists/600032326/"
+webUrl: "https://www.startribune.com/facial-recognition-company-sued-by-california-activists/600032326/"
 type: article
 quality: 41
 heat: -1
 published: false
 
 provider:
-  name: WSOC-TV
-  domain: wsoctv.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - Natural Language Processing
@@ -20,7 +20,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://www.wsoctv.com/pb/resources/images/share_logos/WSOC_1200x630.png"
+  - url: "https://chorus.stimg.co/22358472/1aclearview.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
     width: 1200
     height: 630
     isCached: true
@@ -52,7 +52,7 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/05/6b363956-423a-4cc9-a04e-47d365d2fb9f/thumbnail/1200x630/4c6d01fc0d9aec5e1a7a02195a916386/clearview-ai-app-tryout-01.jpg"
         width: 1200
@@ -79,6 +79,6 @@ related:
       domain: bizjournals.com
     quality: 6
 
-secured: "Y0cdCr+hUOT9bfGVyrwUxbreaIsnVEm0vIY1y8qEHNB3CqXI7g+qTtzHaQy6fxYyqTrag94yPswuR/xP0ih++/+2AhSx3FlXYTSoCBGwxYOeRk9Ml7tuDwAKUZ66kOXYKJQxBM0Rv6EygUVJpJ+nqVJj2pAcrnrhyld2T8h5z01Mt4FkTUOE4MpQ6bKTnBmZxvl11UAeGiSyRoJQz+vMTZlF16iAriFHxsej4h3Cd2d2jXmDwJAUoqPxRYPTw05HxeNMPNKpLQPSfxhrmJ5zxgDFt8XYGvdPjr6qdt9dQZ50f/iNIlWTdXe8euBFhrnNuhOwSJqbe5SdccWl9RHa8gzqY1y8BPMmDTqhSu0c5nM=;M89j2u9NxwZQd9TYg9dM4Q=="
+secured: "SF5KT5aY+OSppka4Z0LzAPvGRjo27VjzkyZB8YxlkIKmA6+eiMtcgM75n3vyz2lw4hJRKJhfqxn+yZ/Phh6lay9a0RbLQyeAQz0JYIcAx0+rHqcVHPIWRfg0tpEdYlr3NXTJJ4uy2l+EtODJwXOoIX9Wt7l25VUIXncit0aSZ7oG7zNJxHx4ORDJrQGh5CXmD2/8pzV3RH2w6rM4ogO4lxuaMgUHWoZHGI5Wv+gKMCVZdkS7jdXuA4+NamkQLJAvU765RVGVqNIXDlEaSKdbOoOSd/u7MGHBv4xJ38chTjmSCcWVYdkD0C/P6yD9eMccFrfa3NDIPFi3DV4QwpyVeX+uqoWgvWVA35zl9o6cvYM=;5pdTYmKJtpdpntptDW3hXw=="
 ---
 
