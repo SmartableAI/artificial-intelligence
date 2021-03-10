@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "insightengines"
   url: "https://twitter.com/insightengines"
-  followers: 234
+  followers: 233
 
 locations:
   - Norway
