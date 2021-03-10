@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Tool Used by Police Faces Civil Lawsuit in California"
+    excerpt: "A group of immigrant-rights organizations and activists on Tuesday filed a civil lawsuit in California against Clearview AI Inc., alleging the facial-recognition software provider violated their privacy rights and those of California citizens. Mijente ..."
+    publishedDateTime: 2021-03-10T16:54:00Z
+    webUrl: "https://www.wsj.com/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facial-recognition-tool-used-by-police-faces-civil-lawsuit-in-california-11615395179"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 88
+    images:
+      - url: "https://images.wsj.net/im-309733/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Lawsuit claims facial recognition company stockpiled personal data"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world."
     publishedDateTime: 2021-03-10T05:09:00Z
@@ -92,6 +108,31 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities"
+    excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
+    publishedDateTime: 2021-03-10T17:16:00Z
+    webUrl: "https://www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/"
+    ampWebUrl: "https://www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/amp/"
+    cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2021/03/10/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours-2/amp/"
+    type: article
+    provider:
+      name: Vallejo Times Herald
+      domain: timesheraldonline.com
+    quality: 47
+  - title: "Activists sue facial recognition company in California"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally"
+    publishedDateTime: 2021-03-10T18:15:00Z
+    webUrl: "https://journalrecord.com/2021/03/10/activists-sue-facial-recognition-company-in-california/"
+    type: article
+    provider:
+      name: Journal Record
+      domain: journalrecord.com
+    quality: 39
+    images:
+      - url: "https://journalrecord.com/files/2020/06/OKJR-Lettings_300x250-V3.png"
+        width: 300
+        height: 250
+        isCached: true
   - title: "California Activists Sue Facial Recognition Company"
     excerpt: "Civil liberties advocates are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally ..."
     publishedDateTime: 2021-03-10T16:03:00Z
@@ -106,6 +147,17 @@ related:
         width: 343
         height: 510
         isCached: true
+  - title: "Facial recognition company sued by California activists | Charlotte Observer"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
+    publishedDateTime: 2021-03-10T18:26:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249820553.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249820553.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249820553.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 38
   - title: "Facial recognition company sued by California activists | Raleigh News & Observer"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-10T01:31:00Z
@@ -155,6 +207,6 @@ related:
       domain: legal500.com
     quality: 0
 
-secured: "M0wRZvwXJnAcJmmrXyTVwzM/Bq0KaFQNwRxXMy0hAfDC/6B/ntSMcY0SIyGt3GZrDuyJ1owtKtWo5QcRyzqaASbUJmmO4XzveB5gWF7kTqYBm1Oaw0tDIctP2ouScW/F/deSYguII+pQZ/2voUn084so/5BNtrPWrAfhDDOpK5NRD6ffy4bfgoYqB1CP+abvZN8WO1aiNfwoOa2RatbQ/1sPX1oDH5njQBK+ATH2aFyYOAbu8JogWwSdbBMmMylCAP0SWeWNz6ydOiFPqjZhIK5vfTXtnE8+DzcQfE0pNRaYTPrRNU2sSHTJWXwSphcbzQDUSA0BZkaxp9l08RS5DeekUDShinlx9TAikjg4TR0=;1KobJ5i3wHpMumVaNEZBsA=="
+secured: "lK8k8UD9lhF3n2s8dbzER0jd9T8oiDjVRGfEQfl385H+pOdpFVq2vGjT/hT6K9ZURCswl0Q+PvkBZvQ+1KiqgGPzYqY+ZeiD3o9In2TZh79gCB7buZaOPvZZBGeQ7TRow4/JNLy1tKl3GKoaqplyUpYoGDPO54mJkqaQD6/HKaPVE3t2BstYefGdGbKVlbr4nKNjVVt2cjqgIhbobdaEvFGtOtddlhOChcjZE6cnK4/Xh9C0BQF5dygg9DLFELQ7sb8/Z0XFyNU7kelZVqoVO+UoCFd5fo+NuuQyMlzMnhTkdNaJmqn+3KmlpHGMztYfDOpKvuEeK9RKcflwCPUz08QXsSBNzX4MLm8N+hcHqPVYzoopMVxvtpLQHa7OvF74EBey01ED3xAxRztgNgEm4O/wdTXhd+G4Idt2UtgH1RgYZdRM1uZwnhBJ3lHYo/Q1RAiHHgbFamuiXNUf6RE/DHs/5w7JTogOyeuOGJHV9J+uG1V6tH0hi7lilag2z3YyOMo4CpGlWoh51E6foHSapg==;+hYa2gi2KOjrUfAuNbyMjA=="
 ---
 

@@ -125,6 +125,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla Admits Full Self-Driving is Just Level-2 Autonomy"
+    excerpt: "Tesla has often been criticized for misleading customers with its so-called Autopilot system, but now with the “Full-Self Driving Capability” option, things are even worse. In a letter sent to California's Department Of Motor Vehicles (DMV) and later published on Twitter,"
+    publishedDateTime: 2021-03-10T18:45:00Z
+    webUrl: "https://www.guideautoweb.com/en/articles/59057/"
+    ampWebUrl: "https://amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
+    cdnAmpWebUrl: "https://amp-guideautoweb-com.cdn.ampproject.org/c/s/amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
+    type: article
+    provider:
+      name: Guideautoweb.com
+      domain: guideautoweb.com
+    quality: 59
+    images:
+      - url: "https://i.gaw.to/content/photos/46/40/464053-tesla-admet-que-sa-conduite-entierement-automatique-n-est-rien-de-tel.jpg"
+        width: 1627
+        height: 1017
+        isCached: true
   - title: "Tesla expanding full self driving beta to more drivers: Musk"
     excerpt: "Tesla CEO Elon Musk has said that the company is expanding its Full Self-Driving (FSD) beta to more drivers and will eventually increase the number of participants tenfold. The electric car-maker firs"
     publishedDateTime: 2021-03-08T06:44:00Z
@@ -194,6 +210,6 @@ related:
       domain: governing.com
     quality: 39
 
-secured: "SaKfcTujfYl7lkWif24aRAaNMiUUGZ3y+o9EbmMqNwEviHTuzdrzQVIqiO+4TZLLREmCRrOniX5x5BnlHkuLmhCu/PyCWMMixFnALJM2pzKTjRQpCt07VjYBOcJ11PEgloPGmNSUjEQqtNh3dflB4Ys+4VsyHGTR3fA8VNbaJyDnRICrmJZCH9YigcJoHrnokQWb3US8d8XNYUHomQ1b/3fm08OMFMr0IzaSuoPuRHvgfup1/lByMIw1QyV/rpqTHhZU75q8Rm/njvgNkrSkubLguxTnFwaGROfpS097lMANEyTVfyA/tB+83xcgQp9Auvt4iGHY5NQBLy9rskJbv7SXnJbHr4vObNeafLVKIIc=;/84Sj+D9kH9M5KWA0Aws3g=="
+secured: "kdWw06J8mxyAqIHP/UuBE9JTXUffFT0TjJaOldfg18rfIxilc2ydHhGHXYummQE0vjc2aLA0VUw3/2XKwpVb8hcfhQVCveR2IVzQCjrdoh7ALMXAOPx+SiY9RHv1GlcjXj73z7fiWqtnKr/nr6nQFXE+ULseCtLa0W0z29rXUDFKkl86u16UQ9QuxrjtNZ71a4oF7JghB34JplY+puNuAE3XQHZG+KvmlX6+GeAl/warZHBzq1P4eFfJT4bKMbLEZLQGDRbpM2yWTDbYI5YawZp0DCXcJX4tfTOXgXonrWdBkirz8xU/QnXnbD2wnyc5toQAZ4At0F1jMXcMsha54XUk5KktLrjV2NWpRNYAZcltGZVpzN6NAsXfZ6rocdi6W5GUFAL7ink0hQFYmIEQren2OvE+nL2zldZq8TH5mhJUNFPpnJWsuHVvCd/+cTXoMRXpRseslsxue9laqQHCdaSpEOyFqlw1cgkGeewkImA3F0PxMjhpHcaUhu2LqHn3jYC1uEtiXHYe++Z0WPl6SQ==;ZYdiuZ/ZggUWZ8hCYOw1Cw=="
 ---
 

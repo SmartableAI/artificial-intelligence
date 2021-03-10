@@ -52,9 +52,23 @@ related:
     provider:
       name: STAT
       domain: statnews.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.statnews.com/wp-content/uploads/2017/12/AP_664600330976-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Watson Health Autopsied; Big Ten Secrecy; Kaiser Vaccination Stumble"
+    excerpt: "Hey Watson: How Do We Save a Floundering AI Program? STAT dissected the disintegration of IBM's Watson Health, which was recently put up for sale after a few years of hype and promises to transform artificial intelligence (AI) within healthcare."
+    publishedDateTime: 2021-03-10T18:01:00Z
+    webUrl: "https://www.medpagetoday.com/special-reports/exclusives/91568"
+    type: article
+    provider:
+      name: MedPage Today
+      domain: medpagetoday.com
+    quality: 54
+    images:
+      - url: "https://clf1.medpagetoday.net/media/images/91xxx/91568.jpg"
         width: 1024
         height: 576
         isCached: true

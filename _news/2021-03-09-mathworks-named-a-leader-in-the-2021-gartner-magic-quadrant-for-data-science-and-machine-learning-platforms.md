@@ -37,6 +37,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "MathWorks Named a Leader in the 2021 Gartner Magic Quadrant for Data Science and Machine Learning Platforms"
+    excerpt: "MathWorks today announced it has been recognized for the second consecutive year as a Leader in the Gartner Magic Quadrant for Data Science and Machine Learning Platforms. MathWorks was positioned as a 2021 Leader based on the Gartner evaluation of the company’s completeness of vision and ability to execute."
+    publishedDateTime: 2021-03-09T18:37:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210309005641/en/MathWorks-Named-a-Leader-in-the-2021-Gartner-Magic-Quadrant-for-Data-Science-and-Machine-Learning-Platforms"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 3
   - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
     excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
     publishedDateTime: 2021-03-08T01:05:00Z

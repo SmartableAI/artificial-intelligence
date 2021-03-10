@@ -9,8 +9,8 @@ ampWebUrl: "https://techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/03/recruiting-talent-by-leveraging-ai-and-computer-vision/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: techwireasia.com
@@ -27,33 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fintern taps AI and Open Banking to enter consumer loans market"
-    excerpt: "Fintern, a UK-based fintech startup, is aiming to shake up the market for low-value consumers loans with the launch of credit technology that bypasses credit scores in making lending decisions, focusing instead on affordability."
-    publishedDateTime: 2021-03-08T00:01:00Z
-    webUrl: "https://www.finextra.com/newsarticle/37616/fintern-taps-ai-and-open-banking-to-enter-consumer-loans-market"
+  - title: "Reimagining Digital Governance With Artificial Intelligence And IoT"
+    excerpt: "When choosing workers, look for those who possess the ability to perform critical cross-platform developments and manage multiple release cycles."
+    publishedDateTime: 2021-03-09T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/fintern.png"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Making artificial intelligence understandable -- Constructing explanation processes"
-    excerpt: "Sifting through job applications, analysing x-ray images, suggesting a new track list - interaction between humans and machines has become an integral part of modern life. The basis for these artificial intelligence (AI) processes is algorithmic decision-making."
-    publishedDateTime: 2021-03-08T15:09:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2021-03/up-mai030821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd921f231029bc6eaa81aa1%2F0x0.jpg%3FcropX1%3D1017%26cropX2%3D9853%26cropY1%3D0%26cropY2%3D4968"
         width: 1200
-        height: 675
+        height: 649
         isCached: true
 
 secured: "Ugan4nPTxoX9TORi9x6MsvOrcn79+QNshrBLgyn07dGUpm3msmsh00Chys61YG8DWOXSUI88qiR3lqub3x73RY2vrFgQzmceYT97SGe4uKN9pDeS0JsrSbPX3IN4LuklQ9LWcGDPHMa1Z73mE69xVVZj6UX1QaOtFzOPxfKXuw3wG3fmUcdI5ssiIssSvdZiJBOnbgoWCt3TEeY0+uPnqsTF3zyefSplZ+j8mIyQyGnvo4UH/R71ojsJs0yND08roI4GFvtCP3Npa+FJN3gM7YPMx6r+mGHIcroWWUvpd0g5TMm+qpALth7CpJu8AyiX2zxqfYmv6+02/h2u7RiT8+GsTeQwK84THVCr+gf8zeM0dCCsU2NRaeIvNO/y0lGV93l/ZYn8wp6sziPGbI70W6SNZygiO7gBWkBcyk+TeRI6bvzlDpvmGxMZ2IT2evxK2uxeYipdu/gOeIAzs6Oc4BnF3ScqQl1BitTXcbotN/yyxO1S/0O9Re01PIbG7XWg2qITs637FUzF/bVP97dAoA==;3padomHN049+2ruiT++I/g=="

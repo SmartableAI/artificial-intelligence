@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
 type: article
 quality: 171
-heat: 281
+heat: 291
 published: true
 
 provider:
@@ -120,6 +120,22 @@ related:
       - url: "https://cdn.motor1.com/images/mgl/Xx2gE/s1/tesla-fsd-beta-night.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tesla Admits Full Self-Driving is Just Level-2 Autonomy"
+    excerpt: "Tesla has often been criticized for misleading customers with its so-called Autopilot system, but now with the “Full-Self Driving Capability” option, things are even worse. In a letter sent to California's Department Of Motor Vehicles (DMV) and later published on Twitter,"
+    publishedDateTime: 2021-03-10T18:45:00Z
+    webUrl: "https://www.guideautoweb.com/en/articles/59057/"
+    ampWebUrl: "https://amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
+    cdnAmpWebUrl: "https://amp-guideautoweb-com.cdn.ampproject.org/c/s/amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
+    type: article
+    provider:
+      name: Guideautoweb.com
+      domain: guideautoweb.com
+    quality: 59
+    images:
+      - url: "https://i.gaw.to/content/photos/46/40/464053-tesla-admet-que-sa-conduite-entierement-automatique-n-est-rien-de-tel.jpg"
+        width: 1627
+        height: 1017
         isCached: true
   - title: "Tesla expanding full self driving beta to more drivers: Musk"
     excerpt: "Tesla CEO Elon Musk has said that the company is expanding its Full Self-Driving (FSD) beta to more drivers and will eventually increase the number of participants tenfold. The electric car-maker firs"

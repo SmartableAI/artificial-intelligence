@@ -1391,21 +1391,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-18-curating-a-list-of-automl-related-research-tools-projects-and-other-resources.md",
-      "title": "Curating a list of AutoML-related research, tools, projects and other resources",
-      "excerpt": "AutoML is the tools and technology to use machine learning methods and processes to automate machine learning systems and make them more accessible. It existed for several decades so it's not a completely new idea. Recent work by Google Brain and many ...",
+      "path": "_news/2021-02-18-stm32-solutions-for-artificial-neural-networks.md",
+      "title": "STM32 solutions for Artificial Neural Networks",
+      "excerpt": "The SensorTile is equipped with motion and environmental sensors, a microcontroller, SD Card connector and Bluetooth connectivity Creating an Artificial Neural Network requires labeled data that has been acquired from sensors and pre-processing.",
       "sourceUrl": null,
-      "webUrl": "https://github.com/windmaple/awesome-AutoML",
-      "originalUrl": "https://github.com/windmaple/awesome-AutoML",
+      "webUrl": "https://www.st.com/content/st_com/en/stm32-ann.html",
+      "originalUrl": "https://www.st.com/content/st_com/en/stm32-ann.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://avatars.githubusercontent.com/u/5577741?s=400&v=4",
-          "width": 420,
-          "height": 420,
+          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
+          "width": 750,
+          "height": 560,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1415,11 +1415,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T16:00:00-08:00",
+      "publishedDateTime": "2021-02-17T16:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
+        "name": "ST",
+        "domain": "st.com",
         "images": null,
         "publishers": null,
         "authors": null

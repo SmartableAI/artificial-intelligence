@@ -135,6 +135,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla Admits Full Self-Driving is Just Level-2 Autonomy"
+    excerpt: "Tesla has often been criticized for misleading customers with its so-called Autopilot system, but now with the “Full-Self Driving Capability” option, things are even worse. In a letter sent to California's Department Of Motor Vehicles (DMV) and later published on Twitter,"
+    publishedDateTime: 2021-03-10T18:45:00Z
+    webUrl: "https://www.guideautoweb.com/en/articles/59057/"
+    ampWebUrl: "https://amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
+    cdnAmpWebUrl: "https://amp-guideautoweb-com.cdn.ampproject.org/c/s/amp.guideautoweb.com/en/articles/59057/tesla-admits-full-self-driving-is-just-level-2-autonomy/"
+    type: article
+    provider:
+      name: Guideautoweb.com
+      domain: guideautoweb.com
+    quality: 59
+    images:
+      - url: "https://i.gaw.to/content/photos/46/40/464053-tesla-admet-que-sa-conduite-entierement-automatique-n-est-rien-de-tel.jpg"
+        width: 1627
+        height: 1017
+        isCached: true
   - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
     excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
     publishedDateTime: 2021-03-09T21:19:00Z
