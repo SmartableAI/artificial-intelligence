@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-mark
 webUrl: "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "4 lessons from IBM’s failure to transform medicine with Watson Health"
+    excerpt: "The demise of IBM’s Watson Health would be easy to file away as another ill-fated attempt to tackle health care without understanding its complexities. But its downfall offers specific lessons on the implementation of artificial intelligence in an ..."
+    publishedDateTime: 2021-03-10T15:55:00Z
+    webUrl: "https://www.statnews.com/2021/03/10/ibm-watson-health-sale-lessons/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 54
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2017/12/AP_664600330976-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Emotion Detection and Recognition Market Size to Record 18% CAGR Through 2027"
     excerpt: "Selbyville, Delaware, Global Emotion Detection and Recognition Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2027. Emotion Detection and Recognition Market Report also covers top key players,"
     publishedDateTime: 2021-03-08T13:35:00Z

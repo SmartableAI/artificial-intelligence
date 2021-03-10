@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-employee-engagement-startup-centrical-raises-32m.md",
+      "title": "Employee engagement startup Centrical raises $32M",
+      "excerpt": "Employee monitoring startup Centrical raised $32 million to expand its geographic reach and acquire new customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/",
+      "originalUrl": "https://venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/shutterstock_291603116.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/10/employee-engagement-startup-centrical-raises-32m/amp/",
+      "publishedDateTime": "2021-03-10T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.md",
+      "title": "Suit: Company built 'most dangerous' facial recognition AI database in nation",
+      "excerpt": "The lawsuit said Clearview AI scrapes dozens of internet sites, such as Facebook, Twitter, Google and Venmo, to gather facial photos. Scraping involves the use of computer programs to automatically scan and copy data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
+      "originalUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2021/03/932/470/GettyImages-1229973204.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
+      "publishedDateTime": "2021-03-10T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-virginia-beach-police-department-says-detectives-used-facial-recognition-program.md",
+      "title": "Virginia Beach police department says detectives used facial recognition program",
+      "excerpt": "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html",
+      "originalUrl": "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422",
+          "width": 1024,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html",
+      "cdnAmpWebUrl": "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html",
+      "publishedDateTime": "2021-03-10T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Richmond",
+        "domain": "richmond.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-how-ai-will-impact-the-future-of-work-and-life.md",
       "title": "How AI Will Impact The Future Of Work And Life",
       "excerpt": "How will AI change the future of work? Here's a look at what the future might hold as AI evolves and humans adapt.",
@@ -113,7 +251,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -518,7 +656,7 @@
       "originalUrl": "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -816,7 +954,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-to-accrue-165-billion-by-2027-2021-03-09",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1107,161 +1245,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-from-the-data-and-ai-expert-labs-invest-in-teams-not-just-technology.md",
-      "title": "From the Data and AI Expert Labs: Invest in teams, not just technology",
-      "excerpt": "Understand that when you transform your day-to-day operations, breaking systems so you can put them back together again better, there will be disruption. You need to invest in your team’s skills and abilities, because they will be the ones working collectively to make the transformation happen. Build",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-invest-in-teams/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2021/03/data-and-ai-expert-labs-invest-in-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2021/02/DataAI_Expert_Labs_Toby_Cappello_Blog_Leadspace_Small_3.jpg",
-          "width": 2000,
-          "height": 1006,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T06:00:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-zeni-raises-135m-to-automate-bookkeeping-with-ai.md",
-      "title": "Zeni raises $13.5M to automate bookkeeping with AI",
-      "excerpt": "Zeni, a startup providing AI-powered financial services management to startups, has raised $13.5 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/amp/",
-      "publishedDateTime": "2021-03-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises.md",
-      "title": "VMware and Nvidia launch GPU virtualization platform for enterprises",
-      "excerpt": "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NVIDIA-VMwareAI-ReadyPlatform.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "publishedDateTime": "2021-03-09T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

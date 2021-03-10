@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-facebook-ai-vision-seer.amp"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -131,20 +131,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2021/03/06/05/40108164-0-image-a-54_1615008089981.jpg"
         width: 636
         height: 382
-        isCached: true
-  - title: "Facebook’s self-supervised AI offers potential benefits—if it can overcome bias concerns"
-    excerpt: "Facebook revealed a self-supervised artificial intelligence model it claims can accurately learn to categorize Instagram images with less human assistance than before. Here’s how it works: Researchers at Facebook fed the AI,"
-    publishedDateTime: 2021-03-05T23:43:00Z
-    webUrl: "https://www.emarketer.com/content/facebook-s-self-supervised-ai-offers-potential-benefits-if-overcome-bias-concerns"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 30
-    images:
-      - url: "https://contentstorage-nax2.emarketer.com/8202c040d3d2a0ccf318ee4e160ba658/257111"
-        width: 470
-        height: 273
         isCached: true
 
 secured: "wHp1FxAo/je60dG7/6zW0KQVr90TjgvrLcB4PH4sb9R0VKQ2U8SS5xyfiKdzeafunbDWDpwk8CrHMB59jQ/ApeEDavvpyWExnjlPVEm+6yuwWIazq/I4N4uxIZHmbUwv4GEIoEAZBOgRZvirAu4V1U6eGluJcfbsgIKrTasYL+wu9ZjHhSvCujfBtn8jpRuTbuiGRAgm4a0NkPi6EP6d0Yowg8yvkAOpHyUhPV5RWMziUNrfuDwX4QNzS9xSobqR1eYpRL2+hwX2D41DYKbgk6NG50adePKALz2ljx7usk6h78BqbGiRqF7JXD7QVALiFm2aEL+K5zpX4FJo/11wZykg+IwSfjAQ7Poq1eOdsZv4I2SZiKtTlsfQ/b/UjPpSVTBLQRed+cQuVHrzPym6XgxEh1PklrFo3uYFmRtaY/sQcto5IO9J9Lx6pjm+kp1dYYVAPSJduf7j8MkFlEj6xTr9FHReQkIcgKXMxt9O9nsbzRtUUtGRU/uXjzNHZG3PzfHetBsUAXD5xlDK8gXDJw==;OgjPqhMhJYajgHAfmzR8Cg=="

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Facial recognition company sued by California activists"
-excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
-publishedDateTime: 2021-03-10T01:29:00Z
-originalUrl: "https://www.startribune.com/facial-recognition-company-sued-by-california-activists/600032326/"
-webUrl: "https://www.startribune.com/facial-recognition-company-sued-by-california-activists/600032326/"
+excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that"
+publishedDateTime: 2021-03-10T15:35:00Z
+originalUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
+webUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/"
+ampWebUrl: "https://nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/facial-recognition-company-sued-by-california-activists/amp/"
 type: article
-quality: 41
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Natural Language Processing
@@ -20,9 +22,9 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://chorus.stimg.co/22358472/1aclearview.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/facial-recognition-technology-sued-1.jpg?quality=90&strip=all&w=1200"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -90,6 +92,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "California Activists Sue Facial Recognition Company"
+    excerpt: "Civil liberties advocates are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally ..."
+    publishedDateTime: 2021-03-10T16:03:00Z
+    webUrl: "https://thecrimereport.org/2021/03/10/california-activists-sue-facial-recognition-company/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 39
+    images:
+      - url: "https://thecrimereport.org/wp-content/uploads/2020/02/book3-1.jpg"
+        width: 343
+        height: 510
+        isCached: true
   - title: "Facial recognition company sued by California activists | Raleigh News & Observer"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
     publishedDateTime: 2021-03-10T01:31:00Z
@@ -115,6 +131,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "Activists sue facial recognition company for stockpiling data on billions of people using Facebook"
+    excerpt: "The company Clearview AI is accused of illegally harvesting photos and info on people around the world using social media — a claim they deny"
+    publishedDateTime: 2021-03-10T14:58:00Z
+    webUrl: "https://www.khou.com/video/news/nation-world/activists-sue-facial-recognition-company-for-stockpiling-data-on-billions-of-people-using-facebook/285-802e8d12-2f5d-4ebb-bd9d-f415db768204"
+    type: article
+    provider:
+      name: KHOU 11
+      domain: khou.com
+    quality: 25
+    images:
+      - url: "https://media.khou.com/assets/KHOU/images/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e/b20f6b38-2e3d-4e78-9a3c-ceaa3f85ad5e_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Russian Case Law in 2020 on Recognition and Enforcement of Foreign Judgments Made by Courts of Count"
     excerpt: "Recognition and enforcement of foreign judgments (‘R&E’) is a persistent problem of Russian case law. Different obstacles still arise even when judgments, filed for R&E in the Russian Federation, are made by courts of countries which are contracting parties to multilateral conventions (e."
     publishedDateTime: 2021-03-09T18:04:00Z
@@ -125,6 +155,6 @@ related:
       domain: legal500.com
     quality: 0
 
-secured: "Rj1Wjqsyb2lYssd1rANdygCvvNICK3S2NwL6owbUztzXf5q1Ni4GIi52YKQ/HF+7LhCOWNv8ZHK9nZCea+r7mgZ4RPrjJQdXTF8iOOfcwJm6reZCtfVb41bQND/xcuLRQ8DtTbbC3wfRRw1gFpHcjIgier88UoLSKxB02X3vRTPk94cfhY6TQTXNLUUqchGcpMZ9F9iAqNdVlGsF0wGxfFSpcY1m2xcXr++QL4lJn2Psd+sEQ02fkkTigI1L6Ld9AmbTlX6X66U/8Ab1QmlrYb6Gbm8kI6sZybwT734snjpVbfTut4JwygH2a5PyGD+fJx+WNP60i+LUPNE+7ZcTKQx6I7S7DQiGuoYdR6wa/FwJ1S7yBd3Pdb6T6p9iduQc1LAf1sl+0lm3KtW7pF6SCSfZpgxS4f9hJqpVPsuG8DgUlkmWyz7GbpxPKsFGol9F1giTBMlhUoXR9QnMUf5NfDlH5YtjhC0ndjEuqq3+r2f5RV8Xevq+BNRczSPKAa956cGPwcvPVShi6XfNl21M1g==;tlBADYnpmWAEMUk/x52MXg=="
+secured: "M0wRZvwXJnAcJmmrXyTVwzM/Bq0KaFQNwRxXMy0hAfDC/6B/ntSMcY0SIyGt3GZrDuyJ1owtKtWo5QcRyzqaASbUJmmO4XzveB5gWF7kTqYBm1Oaw0tDIctP2ouScW/F/deSYguII+pQZ/2voUn084so/5BNtrPWrAfhDDOpK5NRD6ffy4bfgoYqB1CP+abvZN8WO1aiNfwoOa2RatbQ/1sPX1oDH5njQBK+ATH2aFyYOAbu8JogWwSdbBMmMylCAP0SWeWNz6ydOiFPqjZhIK5vfTXtnE8+DzcQfE0pNRaYTPrRNU2sSHTJWXwSphcbzQDUSA0BZkaxp9l08RS5DeekUDShinlx9TAikjg4TR0=;1KobJ5i3wHpMumVaNEZBsA=="
 ---
 

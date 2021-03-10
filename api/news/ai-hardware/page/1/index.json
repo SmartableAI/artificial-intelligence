@@ -981,20 +981,20 @@
     },
     {
       "path": "_news/2021-03-03-deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing.md",
-      "title": "Deloitte Teams With NVIDIA to Launch the Deloitte Center for AI Computing",
-      "excerpt": "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate the development of innovative artificial intelligence (AI) solutions for Deloitte clients.",
+      "title": "Deloitte Teams with NVIDIA to Launch the Deloitte Center for AI Computing",
+      "excerpt": "Deloitte today announced the launch of the Deloitte Center for AI Computing, a first-of-its-kind center designed to accelerate",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-f630ff9a57c1ad99da348086a50d0299",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-f630ff9a57c1ad99da348086a50d0299",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/deloitte-teams-with-nvidia-to-launch-the-deloitte-center-for-ai-computing/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/covid-coronavirus-mosaic-405x228.jpg",
+          "width": 405,
+          "height": 228,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1004,11 +1004,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T21:36:00-08:00",
+      "publishedDateTime": "2021-03-02T12:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
         "images": null,
         "publishers": null,
         "authors": null

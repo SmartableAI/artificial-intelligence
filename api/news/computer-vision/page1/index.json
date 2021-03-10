@@ -2,6 +2,93 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.md",
+      "title": "Suit: Company built 'most dangerous' facial recognition AI database in nation",
+      "excerpt": "The lawsuit said Clearview AI scrapes dozens of internet sites, such as Facebook, Twitter, Google and Venmo, to gather facial photos. Scraping involves the use of computer programs to automatically scan and copy data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
+      "originalUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2021/03/932/470/GettyImages-1229973204.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/suit-company-built-most-dangerous-facial-recognition-ai-database-in-nation.amp",
+      "publishedDateTime": "2021-03-10T07:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-virginia-beach-police-department-says-detectives-used-facial-recognition-program.md",
+      "title": "Virginia Beach police department says detectives used facial recognition program",
+      "excerpt": "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html",
+      "originalUrl": "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422",
+          "width": 1024,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html",
+      "cdnAmpWebUrl": "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html",
+      "publishedDateTime": "2021-03-10T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Richmond",
+        "domain": "richmond.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-facial-recognition-company-clearview-ai-sued-by-california-activists.md",
       "title": "Facial recognition company Clearview AI sued by California activists",
       "excerpt": "ALAMEDA, Calif. — Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people ...",
@@ -10,7 +97,7 @@
       "originalUrl": "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -262,7 +349,7 @@
       "originalUrl": "https://techxplore.com/news/2021-03-facebook-ai-vision-seer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1346,103 +1433,6 @@
         "Computer Vision",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-amazon-rekognition-custom-labels-community-showcase.md",
-      "title": "Amazon Rekognition Custom Labels Community Showcase",
-      "excerpt": "In our Community Showcase, Amazon Web Services (AWS) highlights projects created by AWS Heroes and AWS Community Builders.&nbsp; We worked with AWS Machine Learning (ML) Heroes and AWS ML Community Builders to bring to life projects and use cases that detect custom objects with Amazon Rekognition Custom",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-rekognition-custom-labels-community-showcase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/25/Banana-and-Apples.jpg",
-          "width": 600,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk.md",
-      "title": "CyberLink Partners With Vypin to Integrate Facial Recognition Into Security and Health Kiosk",
-      "excerpt": "Vypin launched the Vypin eScreener™ kiosk with the latest in automated screening technology to promote health and safety without sacrificing the employee or customer experience. CyberLink’s FaceMe® SDK powers the eScreener™ kiosk’s ability to detect whether a face mask is present or not,",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
-      "originalUrl": "https://www.oaoa.com/news/business/cyberlink-partners-with-vypin-to-integrate-facial-recognition-into-security-and-health-kiosk/article_e5dce1ef-86e0-5626-95b4-740685e7591b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/oaoa.com/content/tncms/assets/v3/editorial/d/6d/d6d14fc6-56e3-5d3b-81a1-92f51b1689aa/6037b55fdb736.image.jpg?resize=1200%2C628",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

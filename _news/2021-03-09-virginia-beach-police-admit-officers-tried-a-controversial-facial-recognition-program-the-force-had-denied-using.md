@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pilotonline.com/government/local/vp-nw-virginia-beach-po
 cdnAmpWebUrl: "https://www-pilotonline-com.cdn.ampproject.org/c/s/www.pilotonline.com/government/local/vp-nw-virginia-beach-police-clearview-20210309-7lps2uk3ovgexlaxim7zik6lw4-story.html?outputType=amp"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Virginia Beach police department says detectives used facial recognition program"
+    excerpt: "VIRGINIA BEACH — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a report."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.html"
+    ampWebUrl: "https://richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    cdnAmpWebUrl: "https://richmond-com.cdn.ampproject.org/c/s/richmond.com/news/state-and-regional/virginia-beach-police-department-says-detectives-used-facial-recognition-program/article_463ce00c-0b16-5510-b9c3-579fe56aad66.amp.html"
+    type: article
+    provider:
+      name: Richmond
+      domain: richmond.com
+    quality: 54
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/9/f4/9f436ad0-5dab-5c5c-a1a4-904d60fa0b88/6048daf645b0e.image.jpg?resize=1024%2C422"
+        width: 1024
+        height: 422
+        isCached: true
+  - title: "After denials, Va. police department admits detectives used controversial facial recognition tech"
+    excerpt: "VIRGINIA BEACH, Va. (AP) — Virginia Beach police admitted last week that some of their detectives used a controversial facial recognition program during criminal investigations, according to a ..."
+    publishedDateTime: 2021-03-10T15:40:00Z
+    webUrl: "https://dailyprogress.com/news/state-and-regional/after-denials-va-police-department-admits-detectives-used-controversial-facial-recognition-tech/article_d1abb15d-a6e4-548a-aa89-88807846b418.html"
+    type: article
+    provider:
+      name: The Daily Progress
+      domain: dailyprogress.com
+    quality: 26
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dailyprogress.com/content/tncms/assets/v3/editorial/d/1a/d1abb15d-a6e4-548a-aa89-88807846b418/6048e716a679c.preview.jpg?crop=898%2C505%2C11%2C0&resize=898%2C505&order=crop%2Cresize"
+        width: 898
+        height: 505
+        isCached: true
 
 secured: "DtbActlu10v3LTEJJ8mFC3AxPcDZVbRrSbsiB8gXDEEija5xt2qV5xKG5eDiD5dodg6S4z6RKXdORGbYjIza1Ac0upmbmdoDcqO/OZ2+gbSeboh+6eC1qUL0yYZszi7FWpZeGXrBDV2OJGfBVTTbHMrclrFKx3E6P5exqufXWiOgz8FoTLoEQ/UU2gjJL7hITBiuCPBr8+Qz407/9kMiHApOCSa9ky9ctGi2Xt6OJMJvTuWt0/alZfEwoRStPp33iRG98hE30rtVLYRiPo6pakpdryWs6aQzJRJv8DBPdpa0YkhR1ZacB74+sduoNxMFvrteukif2ujohHzs84Ly/xwrsBEnY183mel0GDMa9MqkS2MR3Kq5Sr4nXTg0u9Syke4Q+YQiKlxGK8oHeFrtSJjvpX9qp3k8LPZM9r3aHW5cbbXQxij1bM6nJymKmB5UNWJW/SC4JDETTWJkkV0U+qx32Nbteu4hN10sbOjNtZv3QtAkPTFMCCQYwuSQ3GQ5SdNkVj4TY0IdOC20HmdfnA==;b/oZnGzfEiDWBaTQ7MZKoA=="
 ---

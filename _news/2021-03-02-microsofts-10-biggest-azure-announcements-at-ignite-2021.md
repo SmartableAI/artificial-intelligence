@@ -2,9 +2,9 @@
 category: news
 title: "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021"
 excerpt: "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations."
-publishedDateTime: 2021-03-02T14:10:00Z
-originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/3"
-webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/3"
+publishedDateTime: 2021-03-02T06:00:00Z
+originalUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
+webUrl: "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/2"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 375
     isCached: true
 
-secured: "47Bik0/2SLpiMDdbPs5NkKXW5Qj6zstIVxye9GeIyWaG9VPs3lWL+zA2DXgGqpc5TEpdSBbuWo/SjYf6SMT8P18mdzLyVwzr8RXBrG5FCrmVwsun9q+u3JQJBGwqdFX//Qv08nbnYMuz0oRO3QT4D0XN1KFHQlX0D01cFnvrEvlpRqIpA0C48zSkO4uP7JxuENg5A4L2P1kYX9yKVyrw5JjDJWhE0+QCs1JVDxJJ0QIiJipsNx+W7grfHGrBpO9GQDabrDXZ3YdV+8iYVfrROUBoRQOTbAzyTIaHYqUZtHJ7rXjEv7qXgO9ZhVw6I2xPPrgNLbUQoFO0SmZDZ0+6Kjj8KF/QqZQ82eFASn+7Z0w=;zv/EhJnsjxR7MBpusoK3+w=="
+secured: "AobfGJTTG/CFe2vz1jAwIHjK74+/KZxHEE+EZj8cqEEssig5TD8RUfjxKtNSlI3WiYfv7zBjxa5/dMbhfcTnbXV9IqB2UjYedtRiXvZZXjnKskuM73n8Dt1kSPGkDjBt7LXfJOhoZ0n4mDNwRA9rfYu7eHSbKh5gqPQIDzbRkN0BJbA5q7twZcTK17PyyrKiJyrCitY3GTk0k77u6uObKnTem09FH/8dD3z1BDZXOWbBAmUULCCrnCt1ZHY2ZpjEOnHQ6UWRJgFrQEJNXs+xkPnOUVeqH3/l9Hr6m2DicgI1EVu2DScjNNU5KNG4nJAxUob7c8iKUa0IxAbX9qRlOin1pxQK5cohnzo2HdzIOpg=;pE3xfi5mYbNcJhPQa9hO8w=="
 ---
 

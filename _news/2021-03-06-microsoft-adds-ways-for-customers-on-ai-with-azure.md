@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Guardian Zone Now Available in the Microsoft Azure Marketplace"
+    excerpt: "The Azure Marketplace is an online market for buying and selling ... WekaIOtm (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance ..."
+    publishedDateTime: 2021-03-10T13:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19692002.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 69
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"

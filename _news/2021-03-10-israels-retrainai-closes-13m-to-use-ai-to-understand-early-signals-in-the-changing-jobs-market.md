@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-u
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     height: 299
     isCached: true
 
-related:
-  - title: "Top 10 Emerging Artificial Intelligence Startups in Israel"
-    excerpt: "The artificial intelligence market of Israel is booming and driving this growth are several AI companies and startups. Analytics Insight brings a comprehensive list of top 10 emerging artificial intelligence startups in Israel."
-    publishedDateTime: 2021-03-06T00:30:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-emerging-artificial-intelligence-startups-in-israel/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/03/Artificial-Intelligence-3.jpg"
-        width: 900
-        height: 500
-        isCached: true
-
-secured: "tkQ4hSrcyHF493AWcyudSLB6+RkE4l7/WBUdivhW9+Sx5OqI463pVE3QrB7y7qxuLphHHnNSIg4xrHwP0xHCkKCkfsxYteLhTKN210F8dhwL77jkL9blhuCFPiiI/DNRJVgo+1rixT5HjwI+bujPebJLO2ITfiADDwzRmiQ7VhNOaEsaehH13qxOQl/UVslJpADxreuSnRX9hox603J2rhF2TSQxB02lqIbdO1tXrQfv8W3a4Zc61qHZ37ZRvy62GZH0uJdvnc10g40J78JnOgIx7VAeZ1tRM98P3wmNetQMFBKDjhb/vg0pzf+biFvT81iWcjp1QLPBrt/jYs8cpYpJhs75uWyxy/fUl7rix9c=;t7WmEdeBcmiJ5l6v2Taklg=="
+secured: "fAhE9ugsABM7uKGFvAJZKs/Ouk8UzULAarcrb8VRByCbHUlJoTvkXTJr5i52g9ZMN4zI0G9SgmtesoPO7Clb6L0ibtaP+zGgyUvQVctJWendwXXrGY9cUPPPAXcZWt0ALiAxWqaKQcp9nD0arNoS3JP8Frl1kecZOP+g5GOa66ELw6tzEFqq9iRPq2yl/ipPhzM5HmuPFtAbXL14TDouCjcRRwEf70TrlO92hsKEX4ZhEnnp5HRgSlIninSw+DZJ4yxYGQ+7+RPnn/BLn0HVr0yVCGKe9h8tiGWQx0+F2/ySt9ygqVXFOQUFwLbrURVRDwngKPIY9qCQ600385lQTkRM6bu9oF0kwr2dRg2YAjvi2NCm7gfet3BilCUOk6Xwx+qpgay7D8z7BVaKtIAGsng4CxjOvL8hno0MWKy58SFiGNnEMtJLuh9xZgNvU9wtpZ81fRgq+z1mRdBiOmgTyqnfxd+oNJey+/Lb1Ds2maCVVGcPr0IIqQw9nZIPkpdVU5MB3v4keYSWQuhADa+2TA==;fw++LkmaPPtnMhDQk6ognA=="
 ---
 

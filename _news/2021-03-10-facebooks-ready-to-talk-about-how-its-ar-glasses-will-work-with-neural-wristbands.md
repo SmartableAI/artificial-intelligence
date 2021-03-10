@@ -135,21 +135,7 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Facebook’s self-supervised AI offers potential benefits—if it can overcome bias concerns"
-    excerpt: "Facebook revealed a self-supervised artificial intelligence model it claims can accurately learn to categorize Instagram images with less human assistance than before. Here’s how it works: Researchers at Facebook fed the AI,"
-    publishedDateTime: 2021-03-05T23:43:00Z
-    webUrl: "https://www.emarketer.com/content/facebook-s-self-supervised-ai-offers-potential-benefits-if-overcome-bias-concerns"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 30
-    images:
-      - url: "https://contentstorage-nax2.emarketer.com/8202c040d3d2a0ccf318ee4e160ba658/257111"
-        width: 470
-        height: 273
-        isCached: true
 
-secured: "4xUFPiEyhRnXPjnOSSn4Awckfu9Xee+Wqt5tyTkASKMkATG0PN9fl5UDVj0RIAeT3kIRQTBJFTztDjk9saKQ5pPTq4NRF7QHgPdJ3V+++fUhP0MngaGt9k7q0WJ/4y7y916w0ieDksgPg2j7AxNUoh0Z0Pk4rRoV9JRM3fqGFoExGBWRowssV2fvKxt2CJvi9h5MGH24FoW2jXRgnvOKBAnc342MAC4UYMmDU8ekpL+tKzgOKwHOCNXTxH+5tsidJbgK8s3iLsiYpOZLvao7NdfwucOpU5rDJopQTK5CkB+CU6Tzh1iSt0F98ilkqnvXp2iHHUb7qjz0G9L6kvdZG6d9W/l3U2XSZcFFybQCqIo=;Q8k7VM7Ph4mOsuuv+SQLDQ=="
+secured: "NFiuvj8eX52DveLE3igFnATDi8nv6aKrh456YYUaLDMPQmwauKP7Jtbhq4uiVIFpy0/r5hEIaq5DUJmBYpspJNLy+mAiMcc/J0PHjW0NuIy0bYJtHP4CktNJ/ZesMM2ilZ4qeiFljZf5KLkGJ89SLSS5/3t6hIrGwfbKrcEp6c72+aWjFKKGVAU0X5C2ysrBE4JLd3/7hUXrkND6Rh6mVPUWl9TNnUSBj8krt5EWn6pOgFPWKRKDKjLeip56SAkcO+Vs8KlYo+xFHsUnqzmE2Do9nuQXdt3/MBQF113QOxSyz0GmzbHAS9/ScGBsJGMDhD5E+cDg1hx+H5Bo9T3fjCMIP35cMF+qRaEUfoU2RE2uSJzd0TwZ4TVuLasj04UJs233ryrA8I2FfNCYPdQKNaotH0sD062uihr3wAok+eRz3LX8LG2HrNwX8hVmUw3rpBWdN0NoV+O8gjzu7BZvpfk5WKVUHkxsRNOUTovgUESl9Yksdsnmm5whRx+fQf5uq8au8suj4pNqZKhGKoHc+g==;5YBgl4HWvPqQVbWNoaRJ0g=="
 ---
 

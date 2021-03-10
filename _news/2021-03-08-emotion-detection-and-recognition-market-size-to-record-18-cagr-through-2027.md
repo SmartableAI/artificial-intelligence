@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "4 lessons from IBM’s failure to transform medicine with Watson Health"
+    excerpt: "The demise of IBM’s Watson Health would be easy to file away as another ill-fated attempt to tackle health care without understanding its complexities. But its downfall offers specific lessons on the implementation of artificial intelligence in an ..."
+    publishedDateTime: 2021-03-10T15:55:00Z
+    webUrl: "https://www.statnews.com/2021/03/10/ibm-watson-health-sale-lessons/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 54
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2017/12/AP_664600330976-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "IBM Considered Selling Watson Health"
     excerpt: "What is the Watson Health division of IBM, why is IBM considering its sale, and why is the medical field showing signs of hesitation with medical AI systems?"
     publishedDateTime: 2021-03-09T16:59:00Z

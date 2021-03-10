@@ -2,6 +2,135 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-02-15-call-for-papers-deep-learning-algorithms-and-techniques-to-identify-deepfakes.md",
+      "title": "Call for Papers: Deep Learning Algorithms and Techniques to Identify Deepfakes",
+      "excerpt": "Recent years have witnessed the rise and widespread use of deep learning techniques in a variety of areas, ranging from simple data analysis to complex image classification tasks. Lately, deep learning techniques have also been employed to produce ...",
+      "sourceUrl": null,
+      "webUrl": "https://peerj.com/blog/post/115284883642/cfp-identifying-deepfakes/",
+      "originalUrl": "https://peerj.com/blog/post/115284883642/cfp-identifying-deepfakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d6vn5uj5sr4f6.cloudfront.net/wp-content/uploads/2021/01/PeerJ-CS-300x280.jpg",
+          "width": 300,
+          "height": 280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-15T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PeerJ",
+        "domain": "peerj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-a-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-covid-19.md",
+      "title": "A machine learning approach to identify drugs that could be repurposed to fight COVID-19",
+      "excerpt": "When the Covid-19 pandemic struck in early 2020, doctors and researchers rushed to find effective treatments. There was little time to spare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Pandemic-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210215/A-machine-learning-approach-to-identify-drugs-that-could-be-repurposed-to-fight-COVID-19.aspx",
+      "publishedDateTime": "2021-02-15T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-15-voice-recognition-for-smartphones-market-2019-in-depth-analysis-of-industry-share-size-growth-outlook-up-to-2026.md",
+      "title": "Voice Recognition for Smartphones Market 2019 In-Depth Analysis of Industry Share, Size, Growth Outlook up to 2026",
+      "excerpt": "The global Voice Recognition for Smartphones market 2020 mainly focuses on the market trend, market share, size and forecast. It is a brief and professional analysis on the current scenario of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2242460/voice-recognition-for-smartphones-market-2019-in-depth",
+      "originalUrl": "https://www.openpr.com/news/2242460/voice-recognition-for-smartphones-market-2019-in-depth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/2/U215552125_g.jpg",
+          "width": 800,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2242460/voice-recognition-for-smartphones-market-2019-in-depth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2242460/voice-recognition-for-smartphones-market-2019-in-depth",
+      "publishedDateTime": "2021-02-15T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-15-the-self-driving-car-companies-going-the-distance-infographic.md",
       "title": "The Self-Driving Car Companies Going The Distance [Infographic]",
       "excerpt": "The California DMV has released its latest autonomous vehicle disengagement report which provides an objective look at the state of the technology's development across several dozen manufacturers",
@@ -1005,155 +1134,6 @@
         "name": "newsoneplace.com",
         "domain": "newsoneplace.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-how-a-chinese-scientist-in-the-us-is-helping-defend-ai-systems-from-cyberattacks.md",
-      "title": "How a Chinese scientist in the US is helping defend AI systems from cyberattacks",
-      "excerpt": "Li Bo, an award-winning scientist, helps major tech firms like IBM and various financial institutions defend themselves against cyber threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/02/14/e03680e0-69b8-11eb-8f06-a7293cc48ccd_image_hires_104100.png?itok=64dr_O8A&v=1613270469",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3121327/how-chinese-scientist-us-helping-defend-ai-systems-cyberattacks",
-      "publishedDateTime": "2021-02-13T19:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-real-or-fake-robot-uses-ai-to-find-waldo.md",
-      "title": "Real Or Fake? Robot Uses AI To Find Waldo",
-      "excerpt": "A Logitech c525 webcam captures images, which are processed by the Pi with OpenCV, then sent to Google’s cloud-based AutoML Vision service. AutoML is trained with numerous images of Waldo ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "originalUrl": "https://hackaday.com/2018/08/30/real-or-fake-robot-uses-ai-to-find-waldo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/08/waldo-bot.png",
-          "width": 1691,
-          "height": 871,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-the-wealthiest-self-driving-car-add-on-options.md",
-      "title": "The Wealthiest Self-Driving Car Add-On Options",
-      "excerpt": "Shifting gears, consider that the future of cars involves the emergence of self-driving cars. We are gradually going to witness the advent of AI-based true self-driving cars, whereby the vehicle ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F601dc225367d07fd58a05945%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4595%26cropY1%3D266%26cropY2%3D3328",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/02/13/the-wealthiest-self-driving-car-add-on-options/amp/",
-      "publishedDateTime": "2021-02-13T13:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

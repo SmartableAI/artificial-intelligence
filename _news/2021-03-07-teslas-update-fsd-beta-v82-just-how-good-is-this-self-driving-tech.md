@@ -91,6 +91,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk Disappointed With Cyberpunk 2077’s Lack Of Self-Driving Cars"
+    excerpt: "If I were a multi-billionaire I too would like to think I wouldn’t give up my current hobby of complaining about missing features in video games, so in that sense, Elon Musk is a real role model to me."
+    publishedDateTime: 2021-03-10T15:08:00Z
+    webUrl: "https://www.forbes.com/sites/paultassi/2021/03/10/elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/paultassi/2021/03/10/elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2021/03/10/elon-musk-disappointed-with-cyberpunk-2077s-lack-of-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048cbcc06dbe7c57fe7f05a%2F0x0.jpg"
+        width: 1200
+        height: 742
+        isCached: true
   - title: "Tesla: “Full self-driving beta” isn’t designed for full self-driving"
     excerpt: "In October, Tesla released what it called its \"full self-driving beta\" software to a few dozen Tesla owners. A few days ago, Musk announced plans to expand the program to more customers. Given that the product is called \"full self-driving,"
     publishedDateTime: 2021-03-09T23:15:00Z
@@ -104,38 +120,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Vision Chip Drives Rise of Self-Driving Cars"
-    excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
-    publishedDateTime: 2021-03-05T23:47:00Z
-    webUrl: "https://www.thestreet.com/tech/news/ambajdm030521"
-    ampWebUrl: "https://www.thestreet.com/tech/.amp/news/ambajdm030521"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/tech/.amp/news/ambajdm030521"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 63
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTc5MzkxNDQ5MTEwOTQ3MTQ5/media_post_gs45hp5_ambarella.jpg"
-        width: 620
-        height: 326
-        isCached: true
-  - title: "Tesla Doubling Full Self-Driving (FSD) Beta Testers Now, 10x Increase Soon"
-    excerpt: "Tesla's Elon Musk announced that the Full Self-Driving (FSD) beta program size is doubling now with the new 8.2 software update."
-    publishedDateTime: 2021-03-06T00:00:00Z
-    webUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/"
-    ampWebUrl: "https://insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
-    cdnAmpWebUrl: "https://insideevs-com.cdn.ampproject.org/c/s/insideevs.com/news/492646/tesla-doubling-self-driving-fsd-beta-now/amp/"
-    type: article
-    provider:
-      name: Inside EVs
-      domain: insideevs.com
-    quality: 57
-    images:
-      - url: "https://cdn.motor1.com/images/mgl/VAOG9/s1/tesla-full-self-driving-fsd.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Tesla expanding full self driving beta to more drivers: Musk"
     excerpt: "Tesla CEO Elon Musk has said that the company is expanding its Full Self-Driving (FSD) beta to more drivers and will eventually increase the number of participants tenfold. The electric car-maker firs"
