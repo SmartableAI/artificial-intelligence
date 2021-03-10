@@ -9,7 +9,7 @@ ampWebUrl: "https://www.business2community.com/marketing/10-ways-ai-and-machine-
 cdnAmpWebUrl: "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666/amp"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Weekly: These researchers are improving AI’s ability to understand different accents"
-    excerpt: "Researchers at MLCommons are developing a tool that would allow speech recognition developers to better support different accents."
-    publishedDateTime: 2021-03-05T12:30:00Z
-    webUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/"
-    ampWebUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Recruiting talent by leveraging AI and computer vision"
     excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
     publishedDateTime: 2021-03-08T00:50:00Z
@@ -75,6 +59,20 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/03/000_93R6KY-450x300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
+    excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+    publishedDateTime: 2021-03-10T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
     excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
@@ -117,20 +115,6 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/03/8-inspiring-women-leading-advancements-in-ai.jpg"
         width: 1500
         height: 500
-        isCached: true
-  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-    excerpt: "Parsons Corporation is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-    publishedDateTime: 2021-03-09T21:49:00Z
-    webUrl: "https://www.lelezard.com/en/news-19690974.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "tW5R9brSvu6KKMK7Ua7nAs923epahvGe/2wgHC8p6MxKHQ+nzv/mcB79oPLp6FrwAbCz2QUefASfxgN2yut3YgWvSi7DwXr5wD4nbMs2r4OaLkbAO84HUsyUmbXE2KKs8a6vx9vtoN1FpKIqorVsd4EW/udl1aSIEfDVaXOpMZNiYwyD1KJPUjctrd8J6A82cJk+cBbUhbGWnUb3FmwTm5SNmIw9P6g61eCn6xBB/3wI3vz4AVnD/71MxJ7rcDDWE99oZ1GUsx+LdgcsLIoWIgwm0EYJhTY8dgaPvt0regPUumsbT+m3la2dqlCtoMMsaYsGLyth7RbHEV3JDWLtunVHbVSe9TBaSoyvfnbT97Nl3JOcd9r7HT4CX/+Nvaab06A+N06Hi/HngBSmfvKP1H9Ddv63xQ0IyRgy8dUT15YYBt9tL0qW5nafqvVNjXgT+z2F2MD4voLMc0bLUgUmaEDbrTQV1s7N9NOZb5GJemj6JlF7YToL6AALytk81If0LCnDk6CefTU3G/fcQ7YgGQ==;v17nDTezLygfeyEbxJcl5g=="

@@ -59,21 +59,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Weekly: These researchers are improving AI’s ability to understand different accents"
-    excerpt: "Researchers at MLCommons are developing a tool that would allow speech recognition developers to better support different accents."
-    publishedDateTime: 2021-03-05T12:30:00Z
-    webUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/"
-    ampWebUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
+  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
+    excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+    publishedDateTime: 2021-03-10T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&strip=all"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
   - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
     excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
@@ -116,20 +114,6 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/03/8-inspiring-women-leading-advancements-in-ai.jpg"
         width: 1500
         height: 500
-        isCached: true
-  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-    excerpt: "Parsons Corporation is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-    publishedDateTime: 2021-03-09T21:49:00Z
-    webUrl: "https://www.lelezard.com/en/news-19690974.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "Ugan4nPTxoX9TORi9x6MsvOrcn79+QNshrBLgyn07dGUpm3msmsh00Chys61YG8DWOXSUI88qiR3lqub3x73RY2vrFgQzmceYT97SGe4uKN9pDeS0JsrSbPX3IN4LuklQ9LWcGDPHMa1Z73mE69xVVZj6UX1QaOtFzOPxfKXuw3wG3fmUcdI5ssiIssSvdZiJBOnbgoWCt3TEeY0+uPnqsTF3zyefSplZ+j8mIyQyGnvo4UH/R71ojsJs0yND08roI4GFvtCP3Npa+FJN3gM7YPMx6r+mGHIcroWWUvpd0g5TMm+qpALth7CpJu8AyiX2zxqfYmv6+02/h2u7RiT8+GsTeQwK84THVCr+gf8zeM0dCCsU2NRaeIvNO/y0lGV93l/ZYn8wp6sziPGbI70W6SNZygiO7gBWkBcyk+TeRI6bvzlDpvmGxMZ2IT2evxK2uxeYipdu/gOeIAzs6Oc4BnF3ScqQl1BitTXcbotN/yyxO1S/0O9Re01PIbG7XWg2qITs637FUzF/bVP97dAoA==;3padomHN049+2ruiT++I/g=="

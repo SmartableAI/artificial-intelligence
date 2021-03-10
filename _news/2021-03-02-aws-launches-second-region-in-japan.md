@@ -3,24 +3,24 @@ category: news
 title: "AWS Launches Second Region in Japan"
 excerpt: "(AWS), an Amazon.com company (NASDAQ:AMZN), today announced the launch of a second full region in Japan, the AWS Asia Pacific (Osaka) Region. The region is an expansion of the existing AWS Osaka Local Region,"
 publishedDateTime: 2021-03-02T03:37:00Z
-originalUrl: "https://www.thedailytimes.com/business/aws-launches-second-region-in-japan/article_92d59a63-fa88-57a5-bd40-5ea8590506c2.html"
-webUrl: "https://www.thedailytimes.com/business/aws-launches-second-region-in-japan/article_92d59a63-fa88-57a5-bd40-5ea8590506c2.html"
+originalUrl: "https://www.valdostadailytimes.com/news/business/aws-launches-second-region-in-japan/article_ec4969af-0c68-5430-8a82-20770229a5a5.html"
+webUrl: "https://www.valdostadailytimes.com/news/business/aws-launches-second-region-in-japan/article_ec4969af-0c68-5430-8a82-20770229a5a5.html"
 type: article
 
 provider:
-  name: thedailytimes.com
-  domain: thedailytimes.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/thedailytimes.com/content/tncms/custom/image/4c01e2ce-7067-11e6-87cd-0725ce0cc960.jpg?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     isCached: true
 
-secured: "g9Er/uak5nrP7j/JDFBf9yR6Y0vXN5gwF5VoFzDIBDNpoMlxl3NmYCo9MHaUPCJKbAA6HUKEzMag3h20PXDYqg0FWdp/rehhxwwUArLgFok1FSjRyxqF8DrVzAg0D972RAdYu/36qCY8uGIHALlIsXagrTexkYusQnzb6AYzPIKYOhWHvfPqY1sScpiwTujh0P1Xeqz5vhlRyNqm/bxyz6pcKvWyiYOWMEV8rnOLa/yTgicrnhoeNYxtsquN9jsM7s4XoG9526YhPUpZky106qpNH4nrrjyz2vQ/LX3OTyvocT9RvbU289rS16aL5wlbWr/D0bWpaJ1ZTlA40N/xLzuycdcRIs8YuRbUsiDWGd8=;Xf6FvH+qMpIPsYY9+L20Ow=="
+secured: "LFWkc61y5+9lrZl3JkpXuwVSj5Z9M9m8lKA2Unnl3O6GY88ysMKZsvefQSIhMQsSW8iIuNnmcx/iz0adorG3C8ZR0an1uBmtIA4tqhn++GpJkbzyZ8vcCCXiSW9jIjpH4uMdC/mTj9jv59F8EBsf95NEDWwoieoTe36bf4AmcT67Jvd18sv7/wFkT0MStGcyl3XTCiXa4XDwaRQ3F1rkmakPGkslyoe2i811izVV/rHQlOgB5p+VaQPLlyS1Ta89ZYX3UzdExx229CK6iNHCcgN/L0ELpxCE+Fq1kv47xZysZAytPRPgfrIbKvAMMNaiin/0oPCXCamUbBgqrkbzBf4nK7pbR/1/nV3fylKkFtM=;xlPK+cHFCR2UTKWcrhtxNw=="
 ---
 

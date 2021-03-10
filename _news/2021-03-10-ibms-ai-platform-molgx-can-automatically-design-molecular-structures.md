@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizchina.com/2021/03/09/ibms-ai-%e2%80%8b%e2%80%8bplatfo
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/03/09/ibms-ai-%e2%80%8b%e2%80%8bplatform-molgx-can-automatically-design-molecular-structures/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "IBM launches AI platform to discover new materials"
-    excerpt: "IBM has launched a platform, MolGX, that leverages AI to discovery new materials with particular characteristics."
-    publishedDateTime: 2021-03-05T12:45:00Z
-    webUrl: "https://venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/"
-    ampWebUrl: "https://venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ibm-launches-ai-platform-to-discover-new-materials/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all"
-        width: 1024
-        height: 663
-        isCached: true
 
 secured: "SEyV4cbuDzVPxFBid0bwDKD8KZqAOCIEHLTsSbIsK5P/qVST/XgcuR3uc9uv/F8LqkIbq0hh/63KNPYgtWGvN99nuiSeKsPKikDmylEzVx9gd1HT2x0CV3md6Af1YximsCK3ENHm3QAMZlCyuDpbb1p+03FBIA+Ht1QqcLjbIBB6UCg3gw1j6luZDYRph/9fwpS1SLMAyleCsJODJ0KM73W47o0ld72M/C9duEndJprQkT5j+cR1A+CU1705fRd2m83Mpa53j2Euaj/CmxFltMJXeQ4R2h3Z96OCoN05zso4+/aHo/6cH2TEq5n17zvkMTJk2HFle76yBkh49lXTe9D4RoiIZ97aibiszN5tV/K9mFZKmF1TtbcpU95q9IAbHC3cy+kREkawnSPcOiUhErCD55Ymhz7j/xvT5mWZ8H1xCmiLWhkTVzEpkvRdYAmFEKDclxGW3w0+cxMihvpfldEekVrAgv8Otxy1fILbbWOUDOnCZa1sc4uW7qnbgvwLaT8PnFGBiRzrVE6AJyRMPQ==;2NhBc4Tq/P1//Y7lTl7xsQ=="
 ---

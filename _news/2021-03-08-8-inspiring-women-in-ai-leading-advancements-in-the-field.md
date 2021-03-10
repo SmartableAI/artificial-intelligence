@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI Weekly: These researchers are improving AI’s ability to understand different accents"
-    excerpt: "Researchers at MLCommons are developing a tool that would allow speech recognition developers to better support different accents."
-    publishedDateTime: 2021-03-05T12:30:00Z
-    webUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/"
-    ampWebUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Recruiting talent by leveraging AI and computer vision"
     excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
     publishedDateTime: 2021-03-08T00:50:00Z
@@ -89,6 +73,20 @@ related:
       - url: "https://cdn.techwireasia.com/wp-content/uploads/2021/03/000_93R6KY-450x300.jpg"
         width: 450
         height: 300
+        isCached: true
+  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
+    excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+    publishedDateTime: 2021-03-10T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
     excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
@@ -117,20 +115,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-    excerpt: "Parsons Corporation is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-    publishedDateTime: 2021-03-09T21:49:00Z
-    webUrl: "https://www.lelezard.com/en/news-19690974.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 32
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
 
 secured: "UE+M29BBtUb9lFYUEcHLOz6poNdt8bFFUifzCYG15rpRmzC5vwQp5WYzJMdlvjYW6fncvGwPE8/TeZdAFf25BWHx2eBtvS5vtUU1HTRzY6wgV/hMaQZ3uPzQwSQn5ehwXswFoRmYWSLDJh0QadGUY/6f01BUpUAqQwsl8pH/gVImBKZRZl+5/cLREHb2j+bd8llHX/RpVNNKyFQHhX5QlG1XtaPNgg+f2LneEepfSWfIHFKz4mTrUSH0XDW3kPWL1ubUIlNUMnf0IDkVFYKjXMvs4gJOlwVrWevzlzt4jJQlpOjdDgsV1570yBZBkRWvGOUNXMdEoHWyc0Bj5MUSPh03f7t1wfYH6hKwkiND3nWZtk2nvUHckr0YFyHHs8/3MU9psZUu1KzhGmGRE7pzKOTv8ozJ/QcGH+EAas9QCgmJxZ8eRw7viTtBqP+YuYactO8yrhTbyzU8Egjt29psbzYduRzriwBKLfpumLiYTFcDgt0Yc3Zzpzz9JQBkrQpeUA5L0dH9YLTnx24fyfqBdg==;gfEWFpBqvJ6qC7pz1nKCSw=="

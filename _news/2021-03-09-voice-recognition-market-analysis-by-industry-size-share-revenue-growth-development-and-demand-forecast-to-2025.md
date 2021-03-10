@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Payments Market Analysis by Size, Segment and Evolution Rate by Type and Application Forecast to 2025"
-    excerpt: "Artificial Intelligence in Payments market across the globe is forecast to grow at the exponential CAGR during 2020-25. The major contributing factor for the growth of the Global Artificial Intelligence in the Payments market is increasing digitalization in banking and financial instruction."
-    publishedDateTime: 2021-03-05T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-payments-market-analysis-by-size-segment-and-evolution-rate-by-type-and-application-forecast-to-2025-2021-03-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ufclXpDePlxgqBFFXIgZIsl38iOgA4QaQuKS7ruv+9jTARDlkc8O4gyYyq6AHeSf0olVjw2R9Qj3zy4QSpN2FNbGbloNuAGVplPcgISseCqSsDkRDd+HAMEhw6eKaMx3Riae47kqIE1NK5C4Rf0Bfc6eAOKEDg4JSwPu546bmH5pzjjvLvg6iE1fFCRRUrCp7rp9OoKFq5FSnLO4oAEgIc5/oyeEPqRvKKpwo0UQdWilK3cYvTXChzfNcf9bm9edDLhOYPS9J476uwXoDqMEdkGdcw/HIHGXS+2pXMSIzUWamvEYsyCW6lkLh/v5IY6fhUu+JV+QHSMtdfPHHb30EA3mDvWKtc+3/QWzM4dlTYA=;5kBK1BaihJWuDS/alEt5Ag=="
 ---

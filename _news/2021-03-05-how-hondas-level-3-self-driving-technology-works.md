@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 518
         isCached: true
-  - title: "2021 Honda Legend launches in Japan with Level 3 self-driving tech"
-    excerpt: "Honda on Thursday unveiled an updated Legend for the Japanese market and one of the car's key features is an electronic driver-assist feature rated at Level 3 on the SAE scale of self-driving capability."
-    publishedDateTime: 2021-03-05T12:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1131479_2021-honda-legend-launches-in-japan-with-level-3-self-driving-tech"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/2021-honda-legend-japanese-spec_100783864_h.jpg"
-        width: 1920
-        height: 1135
-        isCached: true
 
 secured: "jE8wRJ4k4HJ9N+U5zdyWzZzxtWeyLWctDE2eoKv3mz5wRkVnt9YtSglr9jWT7r/v+0LrwOzXqqtX1QmeSvTC6ywvJSySVM9Ml2pB6IWPJ3YLL3D0KoXeUDH/7npU8WFUo9ZySW7NUZAOtFbcGhskP9wmVZ0jNkfRYzpz3yada6NQHr2gYGqJelnYz9k/YozwiFCua3J8LcZjS+4aDnEQJKt/De/hu4JC9FQtpPbpOyPy5NoWRkgcK0aR3VSPCU2ITORKA1PnHDNbAfKxrRIvm7LeyzmfK54TPI6UDFwFiMAo1yFx0UcfkrItRkDC6HkV722ITEvNzM57thJfna2TVH73mAgJmLS7d4T9NL1HkXMNRkJ+aAkzcWRtzLwubCY712oF0yxs5l/uCPjtUod4+TFTze/qiyIhPSyEnnK0UUg8G9s04e4J91A3rKylBFF2YuSdUoAuxJLuTPPkep3ECeDGmJZ479KFfansptOTWC1zUCPP+lKRGGttKr4IYjH1k8qyME0dvwfx9VWFh1tEsw==;v5FOtCoFwgnmKSBxQqFQ5A=="
 ---

@@ -1,27 +1,30 @@
 ---
 category: news
 title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-excerpt: "Parsons Corporation is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-publishedDateTime: 2021-03-09T21:49:00Z
-originalUrl: "https://www.lelezard.com/en/news-19690974.html"
-webUrl: "https://www.lelezard.com/en/news-19690974.html"
+excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+publishedDateTime: 2021-03-10T04:36:00Z
+originalUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
+webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
 type: article
-quality: 32
+quality: 60
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,22 +59,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f402c3e474a1d4b8fb150c8%2F0x0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI Weekly: These researchers are improving AI’s ability to understand different accents"
-    excerpt: "Researchers at MLCommons are developing a tool that would allow speech recognition developers to better support different accents."
-    publishedDateTime: 2021-03-05T12:30:00Z
-    webUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/"
-    ampWebUrl: "https://venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/ai-weekly-these-researchers-are-improving-ais-ability-to-understand-different-accents/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Recruiting talent by leveraging AI and computer vision"
     excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
@@ -132,6 +119,6 @@ related:
         height: 500
         isCached: true
 
-secured: "3yQr0xpgZS/a7+koJxriNmEQeMFqT6sdsvgk650fTuMKYAfVWcmwqly19W0MlWAW8jwbAbrIcqPW8R5XN6k1s8mH43puGkDLW1SNmGCJS5vcCSXWyIDY7wi9acxei0hhR2hrgH3FcQJH88KToar5t7mJp0FqUqJ05YjSNodtS03HzkoPefAQeWtTK6TLUosf94FpT+9w9amMudAz4LMIznng2/UUXxyiEcO0JWkj5znRAfJzy9bde9OLdrCpMY/pCeBq8GkEfNp3+ZpANzVFBS4z3N614knOUIWOXIT6quEqITjxG7okEqlHlC9ru4GlQtAqKH0YoN4D7VndPuTreW35FNyZOFj1V+UMo3jteTk=;22IzZuiV/nebOR/gR1WwKw=="
+secured: "G8aEh1sFQObn57Q4322l4AIEjONTk8KM+psomjjUgn+9REBPL7uAFS3uVOEU+C/l1qoLWTE06b5Mji2G2bJbVpX3KQ6gEqHFLwVyQGvwxbqmSn6yWCR8whG3KW4J/GzjYroA629bxRk9ODpqLH5NjZqUuxKP5d7SMBuvmO0yv+ZEJ+Q0oA1WE7xbkGd+cfYby27YK8QXJCZMJd5T1OFt7Y8Zw5mUuooU41OmwEcw61OwW/imeoHhGahn8poosU2Ax6BKAFXDfXQQFk2EyavAoWCe06+vrNj0rEhFq4jZ9u/9vsR+V9ptL/T8fVVvk5fFMmNHrU0IkfB5OsVaqpfWUsQzeuijHwm6sxWEmqNhPbo=;mZkwieq0hP4chpvsGbX4NQ=="
 ---
 

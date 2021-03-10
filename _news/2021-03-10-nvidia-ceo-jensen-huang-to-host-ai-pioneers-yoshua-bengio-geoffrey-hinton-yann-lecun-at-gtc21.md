@@ -36,6 +36,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Nvidia’s GTC will feature deep learning cabal of LeCun, Hinton, and Bengio"
+    excerpt: "The deep learning trio helped to popularize the use of Nvidia’s graphics chips for machine learning. Eleven years after Geoffrey Hinton couldn't get a free sample from Nvidia, the Touring Award winner will join his comrades Yoshua Bengio and Yann LeCun at the 2021 GTC conference hosted by Nvidia as a headline speaker,"
+    publishedDateTime: 2021-03-09T22:52:00Z
+    webUrl: "https://www.zdnet.com/index.php/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
+    ampWebUrl: "https://www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/google-amp/article/nvidias-gtc-will-feature-deep-learning-cabal-of-lecun-hinton-bengio/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
 
 secured: "HfnUxBPniHtZlDyEfayEE9TRffdFkxKzur94wwEKrcmimzk+CHIl1U46ro/jpe1UPt2wTKSxqYzkps8uz1u2InaCeMuDifBkqt0iGI+hduKB6I0xKd/JJ4elzRXjB0f6FllvaR0tQXITOUMh7fsQ0XifoJ1QE6RPzA68yOlt6XBWGo60IMgB1Iluymo/WK3Hk8sOUvar0zoe4S0HVk8QlW5k1WlI9eK1uL9fnKQHZQIYMmL7Z6IAVFW9X58RzVKXmqE3mwNzBkY9o//k1xcgdDq8bZVf2db48SuxxNIT06DbceTS8J+j157C5h1d6RgX6Eu7YfnJgoP9H18e0EiuV/paO6BZm3ZdogJ8HqMsGzvw8TX9eqXM0nn4kismnsoHs+BqGLUYFw8tdjZetVCIkENZV2nLSlEjA/nzwIhZbjy6y+EpC67NTU43oStvcNtOQxYJlr0C6L82cyTl1eJo/OvhW7qDKZwsD+NQzjCLOcU9Luix/gLHtHjAvqv4AsaLNNfTCZxh8c+X7N+gT4MyMw==;2Ck+5zD6DhcRotWTJwNuLQ=="
 ---

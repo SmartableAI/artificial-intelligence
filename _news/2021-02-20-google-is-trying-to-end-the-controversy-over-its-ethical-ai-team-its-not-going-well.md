@@ -2,9 +2,9 @@
 category: news
 title: "Google is trying to end the controversy over its Ethical AI team. It's not going well"
 excerpt: "Croak will report to Dean. Ten teams centered around AI ethics, fairness, and accessibility — including the Ethical AI team — will report to her."
-publishedDateTime: 2021-02-19T23:07:00Z
-originalUrl: "https://www.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html"
-webUrl: "https://www.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html"
+publishedDateTime: 2021-02-20T00:35:00Z
+originalUrl: "https://edition.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html"
+webUrl: "https://edition.cnn.com/2021/02/19/tech/google-ai-ethics-investigation/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/tech/google-ai-ethics-investigation/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "HrCkzN4GzhPwWZokljIe7KLw6gO+NsyMb0wsJGfcxDB1M9zP5rTsz6KYoVA9PTh2Ay/rQxZWRk7mHAn1mp07Aylea3EPnB+YcLmqOF6cTHJDSdnB7mo2oDxLSDU03weD3RCqI8gXI8xbjtrVJU78BFev1DvtezQ1DnhnOIYqVPQ4BDn6PEVC2VNrnQEtFyZ9zjkgoiXB5CYL3Mztve/7FPi8hL8Yp1s+nevDYXbhpyebGSwC055VfUzQhmpbWdvRRV+gr3F6BnT3bdWrc539fgJom3uGBvOgk9Bt9NWSNHCPERbcwyo+vzMHf8pNYMahNddrJZcAyn1CdiBpE3bq5wSLtJr2wyxNnmsPjEIBHbY=;jdrRhAwGoER6Q2IRzYu6CA=="
+secured: "Jmcd1RYL8Xoi1j9LPCGbDkumvuz8PCLk0fxCF9B+c7UOdO3q7U9jgBhaFPqHPKoK8NOK/Xj4AnCkNG8Hmn1/OKfF6unHZEdLWfjrn2kQz/JhasbNnYOSQMSmWznd6F4DH0gZDEbOXUSXCdjG57QuUcRzy9bMQonB8tGk7NFMs8JbOP6kPCdrjIxSX/RDHfhDLjK2QGcLvWCHIEFnsTIHOAL5aLnVYYkcnmvcpQNXb2htHfA9UzS0SMHdU/xRNX4eLQFMcglynhbQVS/+RdQ3eHiEtruwMQpc6RvZviyCKXp82leYajAEk0LUpJ+PsB4DenOB0RTOVjILWHdXuT9x3Kwtd1Oyjqg2V78rPlXhkLk=;Y8il3g8hQa5lCs7FFSFNBg=="
 ---
 

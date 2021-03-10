@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/scientists-made-an-ai-that-reads-your-mind-so-it-can-generate-portraits-youll-find-attractive/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Can Read Brain Data and Generate Personally Attractive Images"
-    excerpt: "Researchers interpreted brain signals using artificial intelligence. They then combined the obtained brain-computer interface with a generative model of artificial faces, which allowed the computer to create facial images based on individual preferences."
-    publishedDateTime: 2021-03-05T12:03:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-can-read-brain-data-and-generate-personally-attractive-images-200217-1.htm"
-    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-can-read-brain-data-and-generate-personally-attractive-images-200217-1.htm"
-    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-can-read-brain-data-and-generate-personally-attractive-images-200217-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 67
-    images:
-      - url: "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "VJ0uVqeRGhVRcjpqhHiGjz3OeL5H4kU/XRCZfaeUombOyLjMSKS2A4T7SKSn+rgN5F0aSDRhOqpElSWIW6gDhKQlMRH9cTNDCUBZRACRy63vHOfSRcvMYXqcS4q0psl8sjIrgfOoKys0Pkm1CYkRYU2pErwE33ecStuXvH1uWgiky9TGoxxuOGN+u9CKvc0byOsPD0O6wZ4xtsJqr95lnxnITDeaaZjP1WJQT0KStJ7lUFKx3LIRT2G0yy44iq++6JDfpRkRoviR+2LN0Sw6xiq/VfzRGAKjyf6mX5Vt1Lp6EGcADHGwZAwHMrUGYBaZ5xZ1Jrefz8SdtI39+VyEMLBXcoujlXZLxWRTj7+k5EDnkrTjHUhD084INBRkel9gUTNCzsV618dqHk4MGivH0c3OJSm9gCD15SMIolvR6GyFc56nuCMcXJSYFrWeB2DWWME66X1zBHod/0OT4rCHuAgbyU1x1owgqkVkgz3z7Flnar3NJrqb2mfuGT+daCpUSoye5nyVsxaCYmEfLxg98g==;vgn/SUu3VcdPyHvzTH0iFg=="
 ---

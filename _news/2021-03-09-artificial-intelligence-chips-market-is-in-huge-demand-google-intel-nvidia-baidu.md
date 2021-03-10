@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Truck Company Plus to Use NVIDIA DRIVE Orin in Next-Generation Autonomous Driving System for Heavy Trucks"
+    excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that it will equip the next generation of its autonomous truck driving system with the NVIDIA DRIVE Orin™ system-on-a-chip (SoC)."
+    publishedDateTime: 2021-03-09T14:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-transportation-equipment-manufacturing-commercial-vehicle-manufacturing-driverless-cars-94cb491f6a724832b4035c9e73307245/gallery/7527a609981d83b948368ab9c9cfd2e3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "GPhY0uzjebXRvafVYgW7rtEFVREIgcJ1u0DjxfWhpMvMn0+dRZNFUFbY6E1Et8DO7rzt9kyM3z5YTHpPuth5c6jd4h1lcf+OevwKMrZ0YTtNyI0Z46ln81ZPQZMI4kO8SkFyL7M3rEAmA66x3hZuLocxb2TEbZAlh+MNJlaADoFy458vjaXJjO0BxFs1LkGxnQ8GgUJwR2iv50gO6WM6Y1/BqMIX7XviPFZPfJMvBPM2ssvRR+/Bw3zLAFaKSkOc9u5thXrr2GHc2zf44X8OljQFqoMJR42PZ+YX6uA3UOSIzfycvX/6svcwI4KlBLUAOc1psRNHWFLwcK5VwiGua9m8t7EuoMbC8xbdVFbnWLc=;gOKjSHf1BX/ie4dYi/PQzQ=="
 ---

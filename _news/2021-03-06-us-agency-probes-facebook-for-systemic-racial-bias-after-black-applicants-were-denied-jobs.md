@@ -73,22 +73,6 @@ related:
         width: 711
         height: 400
         isCached: true
-  - title: "Can Artificial Intelligence get common sense? Facebook model shows the way"
-    excerpt: "This approach is known as self-supervised learning In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
-    publishedDateTime: 2021-03-05T12:18:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/can-artificial-intelligence-get-common-sense-facebook-model-shows-the-way-220992"
-    ampWebUrl: "https://www.tribuneindia.com/news/science-technology/can-artificial-intelligence-get-common-sense-facebook-model-shows-the-way-220992"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/science-technology/can-artificial-intelligence-get-common-sense-facebook-model-shows-the-way-220992"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 57
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2021/3/2021_3$largeimg_384652153.jpg"
-        width: 660
-        height: 466
-        isCached: true
   - title: "Facebook self-supervised computer vision model promises object recognition breakthrough"
     excerpt: "A range of issues related to dataset collection and annotation have also plagued biometrics development, particularly in facial recognition."
     publishedDateTime: 2021-03-08T16:51:00Z
@@ -114,17 +98,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 48
-  - title: "Can AI get common sense? Facebook model shows the way"
-    excerpt: "In an advance to building machines with common sense, Facebook researchers have developed a new Artificial Intelligence (AI) model that can learn from any random group of images on the Internet without the need for careful curation and labelling that goes into most computer vision training today."
-    publishedDateTime: 2021-03-05T11:49:00Z
-    webUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
-    ampWebUrl: "https://www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/can-ai-get-common-sense-facebook-model-shows-the-way-news-education-vdfmlDhifcidh.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
   - title: "Facebook: New AI Teaches Itself to See with less Help"
     excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."
     publishedDateTime: 2021-03-06T15:58:00Z
