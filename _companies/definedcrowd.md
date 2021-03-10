@@ -2,7 +2,7 @@
 name: "DefinedCrowd"
 overview: "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one."
 type: "profile"
-heat: 57
+heat: 65
 
 website: https://www.definedcrowd.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "definedcrowd"
   url: "https://www.twitter.com/definedcrowd"
-  followers: 1713
+  followers: 1714
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Kd1lelbSKYmekxY2xxf9qgjlzhsiOGoIIdIzFiQ7MhILQN8SBp/apfxvHSmt431LQnzM6Fg3kHedKMIPE/7AadXctgdU5oMs5XvS6DXjRWKUuKLkbCgNlaiLozZtdDHqIc3OKzHylDAdq0LKaSielEhPhd1C6Pv1FcY925xeaVe2OiJ5ovvvj3yk0yustDdOJ0vpcVvsYN0X92fE0aQPB3QKM2fl7WUy9ujTEKWexPm/hxZMDMQCuQ/8I8UQVpIAr/CGXYNiULUcvJYRHDwLSR+mDGmMm5U78xlIEX8OgBSpbBmc8dPPml0cdiClp5GIbCbIzTkjxgUaGTn7QJIsbIIAmjcDQVYE43q5/3nIMumPUPNtQEdVl8Cns05sTuSnV2Eod9Z26kqX647a+Pq4Yw==;kBr/gp+aoble5w4iPguGmw=="
+secured: "kz0PWrWu9gSPIvFb0zAoASkIWKaNW/U7pXv/A990gb7eVFQvU8yzjTaCjjXu+dqsvmFWiRqeZKa4c33ooNnxVrayncuRjx7HktHS7W/3gmZ5qmHBr2toe8T5HhNFMv+WeTO/F0/q+4TJ1IgwY0YfVynlWGr/EmVL819va33nCkp/yRBsH8JI9KpBdigpZSMDP8t68VeZqLJpwMfovt+o8RCJqzAe4HrjRQ6NRL2n78WWTTI7xYTd0BzM98etYVjO+XD2RB7oIAN6N84pdFvFtemiYeEgUkM38pfRbXyV2sVYcBJRTT52gDw0fteMSvPHV0cqGSqQ0as8nhbusv19iHPjjgI6ld8fwqnPZg532DH2kRWEfpajBDygXxZzhbxHNLpvP5YI1Zt3JKAvD8zjR6daUOi9FTQ5m8WPSAhmD4o=;FoFgztA2c2eUst5xMJ8IYA=="
 ---
 
