@@ -37,6 +37,20 @@ related:
         width: 757
         height: 567
         isCached: true
+  - title: "AI Diagnostics Firm Ibex Medical Closes $38M Funding Round"
+    excerpt: "Ibex Medical develops clinical-grade, AI-based solutions that help pathologists detect and grade cancer in biopsies."
+    publishedDateTime: 2021-03-10T08:12:00Z
+    webUrl: "https://nocamels.com/2021/03/ai-diagnostics-ibex-medical-38m-funding/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/06/Ibex-Medical-Analytics.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Strategy Analytics: 71% of Smartphones Sold Globally in 2021 will be AI Powered"
     excerpt: "Global Smartphone Virtual Assistant Penetration in 2021 (Graphic: Business Wire) “Strategy Analytics estimates that 71% of all smartphones sold worldwide in 2021 will have on-device AI,” says Associate Director Ville-Petteri Ukonaho."
     publishedDateTime: 2021-03-10T05:51:00Z

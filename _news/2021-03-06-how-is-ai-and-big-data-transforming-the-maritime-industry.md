@@ -7,7 +7,7 @@ originalUrl: "https://www.workboat.com/bluewater/how-is-ai-and-big-data-transfor
 webUrl: "https://www.workboat.com/bluewater/how-is-ai-and-big-data-transforming-the-maritime-industry"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,71 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI is the Future of the Food Industry"
-    excerpt: "Knowledge and attitudes around global food production are undergoing a transformation. The sheer scale of the food industry and rapid shifts in culture make it difficult to assess this transformation succinctly."
-    publishedDateTime: 2021-03-05T19:17:00Z
-    webUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05"
-    ampWebUrl: "https://www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/why-ai-is-the-future-of-the-food-industry-2021-03-05?amp"
+  - title: "C3.ai Digital Transformation Institute Announces Shell as New Industry Partner"
+    excerpt: "Saturday 6 [ AETOS Wire ]  (BUSINESS WIRE ) -- The C3.ai Digital Transformation Institute (DTI) today announced that global energy company Shell is the newest industry partner to join the consortium of universities,"
+    publishedDateTime: 2021-03-07T05:32:00Z
+    webUrl: "https://menafn.com/1101710186/C3ai-Digital-Transformation-Institute-Announces-Shell-as-New-Industry-Partner"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "The amazing promise of artificial intelligence in health care"
-    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and to find evidence of strokes on brain CT scans. But what does the future hold for this emerging technology?"
-    publishedDateTime: 2021-03-08T18:01:00Z
-    webUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/healthcare.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "A sneak peek of the current state and future use of artificial intelligence in pathology"
-    excerpt: "Artificial intelligence can already scan images of the eye to assess patients for diabetic retinopathy, a leading cause of vision loss, and find evidence of strokes on brain CT scans."
-    publishedDateTime: 2021-03-08T06:35:00Z
-    webUrl: "https://www.news-medical.net/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20210308/A-sneak-peek-of-the-current-state-and-future-use-of-artificial-intelligence-in-pathology.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 50
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/3/GettyFuturePathologyWEB.jpg"
-        width: 760
-        height: 507
-        isCached: true
-  - title: "Making the role of AI in medicine explainable"
-    excerpt: "Researchers have developed a new tissue-section analysis system for diagnosing breast cancer based on artificial intelligence (AI). For the first time, morphological, molecular and histological data are integrated in a single analysis."
-    publishedDateTime: 2021-03-09T17:29:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210309114256.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
-  - title: "The complexity of artificial intelligence"
-    excerpt: "SMU Assistant Professor Sun Qianru says highly diverse training data is critical to ensure the machine sees a wide range of examples and counterexamples that cancel out spurious patterns."
-    publishedDateTime: 2021-03-05T16:14:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/smu-tco030521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/258266_web.jpg"
-        width: 1440
-        height: 1050
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Time to restyle the fashion industry that is AI in Fashion Market Industry by 2021- 2026| Adobe, Oracle"
     excerpt: "The AI in the Fashion Industry is expected to grow at a CAGR of 39 17 during the forecast period 2020 2026 The AI in Fashion Market information introduced inside this report is acquired dependent on a few strategies for"

@@ -1,32 +1,28 @@
 ---
 category: news
 title: "The former Uber exec who was pardoned by Trump has closed his church that worshipped AI, donating its funds to the NAACP"
-excerpt: "Now, according to TechCrunch, Levandowski has closed his Way of the the Future church, which worshiped artificial intelligence ... Levandowski left Waymo in January 2016 to set up a trucking ..."
-publishedDateTime: 2021-02-19T16:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2-1030102527"
-webUrl: "https://markets.businessinsider.com/news/stocks/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2-1030102527"
-ampWebUrl: "https://www.businessinsider.com/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-google-ai-anthony-levandowski-trump-pardon-church-naacp-2021-2?amp"
+excerpt: "Anthony Levandowski, a former Google engineer and founder of the tech company's self-driving car project Waymo ... which worshiped artificial intelligence, and donated the entirety of its funds ..."
+publishedDateTime: 2021-02-20T15:08:00Z
+originalUrl: "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms"
+webUrl: "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/articleshow/81114831.cms"
+ampWebUrl: "https://www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/the-former-uber-exec-who-was-pardoned-by-trump-has-closed-his-church-that-worshipped-ai-donating-its-funds-to-the-naacp/amp_articleshow/81114831.cms"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://i.insider.com/602fd9ec7b571500189f643b?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.businessinsider.in/thumb/81114790.cms?height=275&width=412"
+    width: 412
+    height: 275
     isCached: true
 
-secured: "kJ+jrAVKu2rpREfgJcGbeRzR8lP+GLNZcILQRWD4+KD8D6FxWl01ETrhNK0oisa63bXcuh0mgidZe52nm6nWOhILmtS9bMU5PjDjRAznCGHQ0TmRkyxhD7UAt1UB8eKYOKgSp7OoeRFaLg0Q32F6xn3E+AELyUtSE0hGI5VzeBIOJeZhV586tPQheUchxzE51bGmP4EczLM9eCUsBUojyJASXtjl0/uyC6kdCZAiX8yzOP5JhBJeKyM35zZB3qiTYoi2ZyaceUxh1Owa8YAPpa0KdZmOBwXxxJctuosQiSICjI0MPSE8QgzGyAhrD1cGX1itzx92xnU3BZIb3E1vCbN/K0ue7DxE5flOUKzogM4=;vBOPsBb4CTFx/+fbtylktQ=="
+secured: "mgRB6nRdvIY+nMNmHOtkRUOfBfJ6u31TsK3Om2b6KMumVtUyhr1rF+KPCuWcPTKcyroHxiAfFD69P9N1qSCda0PBlGj4PLaOnrn8Jwe4ojYAX46JoLW5FE/VT6wUkLGO6QcSrPQLrsqso68sEnqrJ/ESMAXjpg2tz4lqLT54NboaBeZSBtR40CI3sCJD8xY8mIw/+O4RN20P6YjwlutdQ7XWD1mqt6RtneZm3KLC0tTG7y9NJUd5VMMrnM/jqANEKjsgrcu3ZbW+zg302f5Q8sf3NyQVnL6dMG9zuHeKJ03Z58G3iY75iKIxgLIcl0qrfcFlexMg/yIdcKoAnmmYJePexw1sr2rq21zuNr54cCI=;50Qkp3WkxFURXHEu36YSMQ=="
 ---
 

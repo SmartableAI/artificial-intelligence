@@ -25,22 +25,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Researchers find AI can predict new atrial fibrillation, stroke risk"
-    excerpt: "A team of scientists from Geisinger and Tempus have found that artificial intelligence can predict risk of new atrial fibrillation (AF) and AF-related stroke."
-    publishedDateTime: 2021-03-05T16:36:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/ghs-rfa030521.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "7XHRPukNUX6N/SOfF7Rbg3Ql5DSO8MExiCNlwvaHIsjwsGxlt9I8+JEuBqUhIaf7j8x7RqbulUl0TJpBdBwi4FAklEqyeaF2oi4Y39TPUUooac53K5zGNMt3WTq+AH5ovSC9NCCT2O2BX/MfuS9iuoXuLvHmXmUeL4fh7OMFeRU/Vw1UZ2BD/BWVGX8Sm1RHagYprynslfAXP9BsL/gGjwOd/AAfKIRTE3k/QLr66M7+Gxkr2vK+AXuc4ytp5UawZJm6ke72XsLcZ+2Rzd4Fu8hch1fuSE4YwlqvdezJGk6RW5ztjVHaWnNjUIjQRRjTZsmNLQu5lSoxCUQfA4MFJlEWFQNbGdz2iKPrwFsT42N1jF9Xe+xvN1WZHedsS+Hzk66rmoTV1ScnAWGQDlWj+xcAi62L0tHnzvJ9OUO3xBaecTXfKfnhH4SYJxvYVt7X46/7uQ1QWPvU+UrKkUICvFqJWHCKENzQwKVcMwWYo5iIQyA04uZlaXIhFg6Dm9YEH7ECCpNfjY7w96/dwOzbew==;8wWpWplL74ysPvOIUZHEpw=="
 ---
 

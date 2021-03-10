@@ -58,6 +58,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
+    excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+    publishedDateTime: 2021-03-10T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
     excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
     publishedDateTime: 2021-03-09T10:23:00Z
@@ -85,20 +99,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-    excerpt: "Parsons Corporation (NYSE: PSN ) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-    publishedDateTime: 2021-03-10T06:38:00Z
-    webUrl: "https://menafn.com/1101727177/Parsons-Unleashing-Artificial-Intelligence-to-Enhance-Decision-Making-Solve-Problems"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "UE+M29BBtUb9lFYUEcHLOz6poNdt8bFFUifzCYG15rpRmzC5vwQp5WYzJMdlvjYW6fncvGwPE8/TeZdAFf25BWHx2eBtvS5vtUU1HTRzY6wgV/hMaQZ3uPzQwSQn5ehwXswFoRmYWSLDJh0QadGUY/6f01BUpUAqQwsl8pH/gVImBKZRZl+5/cLREHb2j+bd8llHX/RpVNNKyFQHhX5QlG1XtaPNgg+f2LneEepfSWfIHFKz4mTrUSH0XDW3kPWL1ubUIlNUMnf0IDkVFYKjXMvs4gJOlwVrWevzlzt4jJQlpOjdDgsV1570yBZBkRWvGOUNXMdEoHWyc0Bj5MUSPh03f7t1wfYH6hKwkiND3nWZtk2nvUHckr0YFyHHs8/3MU9psZUu1KzhGmGRE7pzKOTv8ozJ/QcGH+EAas9QCgmJxZ8eRw7viTtBqP+YuYactO8yrhTbyzU8Egjt29psbzYduRzriwBKLfpumLiYTFcDgt0Yc3Zzpzz9JQBkrQpeUA5L0dH9YLTnx24fyfqBdg==;gfEWFpBqvJ6qC7pz1nKCSw=="

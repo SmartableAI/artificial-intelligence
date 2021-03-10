@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market Growth Prospects, Key Vendors, future to Scenario Forecast to 2025"
-    excerpt: "This study elucidates how the Facial Recognition market will perform over the forecast timeline. Growth indicators as well as the growth rate of the industry during the study period has been expounded in the report."
-    publishedDateTime: 2021-03-05T16:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05"
+  - title: "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
+    excerpt: "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026."
+    publishedDateTime: 2021-03-10T07:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 79
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -72,6 +72,50 @@ related:
       - url: "https://cdn.openpr.com/U/3/U308435032_g.jpg"
         width: 800
         height: 800
+        isCached: true
+  - title: "North American AI in E-commerce Market Share 2019: Trends, Key Players, Industry Analysis, Report to 2025"
+    excerpt: "North American AI in e commerce market is projected to grow at a CAGR of 26 1 during the forecast period 2019 2025 E commerce players have thousands of parcels to deliver at various locations globally There is a high"
+    publishedDateTime: 2021-03-08T11:42:00Z
+    webUrl: "https://www.openpr.com/news/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
+    ampWebUrl: "https://www.openpr.com/amp/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253460/north-american-ai-in-e-commerce-market-share-2019-trends-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 40
+    images:
+      - url: "https://cdn.openpr.com/U/3/U308937681_g.jpg"
+        width: 800
+        height: 800
+        isCached: true
+  - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
+    excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"
+    publishedDateTime: 2021-03-08T21:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2025-2021-03-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast to 2025"
+    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The Voice Recognition Market was valued at USD 10."
+    publishedDateTime: 2021-03-09T08:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2025-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Digital Signage Market Data Current and Future Trends, Industry Size, Share, Revenue, Business Growth Forecast to 2028, Fortune Business Insights"
     excerpt: "According to the report, the global image recognition market size is projected to reach USD 81.88 billion by 2026."

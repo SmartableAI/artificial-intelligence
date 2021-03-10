@@ -44,6 +44,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
+    excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+    publishedDateTime: 2021-03-10T04:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
     excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
     publishedDateTime: 2021-03-09T10:23:00Z
@@ -85,20 +99,6 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/03/8-inspiring-women-leading-advancements-in-ai.jpg"
         width: 1500
         height: 500
-        isCached: true
-  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-    excerpt: "Parsons Corporation (NYSE: PSN ) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-    publishedDateTime: 2021-03-10T06:38:00Z
-    webUrl: "https://menafn.com/1101727177/Parsons-Unleashing-Artificial-Intelligence-to-Enhance-Decision-Making-Solve-Problems"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
-        width: 300
-        height: 250
         isCached: true
 
 secured: "tW5R9brSvu6KKMK7Ua7nAs923epahvGe/2wgHC8p6MxKHQ+nzv/mcB79oPLp6FrwAbCz2QUefASfxgN2yut3YgWvSi7DwXr5wD4nbMs2r4OaLkbAO84HUsyUmbXE2KKs8a6vx9vtoN1FpKIqorVsd4EW/udl1aSIEfDVaXOpMZNiYwyD1KJPUjctrd8J6A82cJk+cBbUhbGWnUb3FmwTm5SNmIw9P6g61eCn6xBB/3wI3vz4AVnD/71MxJ7rcDDWE99oZ1GUsx+LdgcsLIoWIgwm0EYJhTY8dgaPvt0regPUumsbT+m3la2dqlCtoMMsaYsGLyth7RbHEV3JDWLtunVHbVSe9TBaSoyvfnbT97Nl3JOcd9r7HT4CX/+Nvaab06A+N06Hi/HngBSmfvKP1H9Ddv63xQ0IyRgy8dUT15YYBt9tL0qW5nafqvVNjXgT+z2F2MD4voLMc0bLUgUmaEDbrTQV1s7N9NOZb5GJemj6JlF7YToL6AALytk81If0LCnDk6CefTU3G/fcQ7YgGQ==;v17nDTezLygfeyEbxJcl5g=="

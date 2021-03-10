@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Analysis By Industry Size, Share, Revenue Growth, Development and Demand Forecast to 2025"
-    excerpt: "The report analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. The Voice Recognition Market was valued at USD 10."
-    publishedDateTime: 2021-03-09T08:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2025-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HOukY4KsHwXQi+nSCqVEqEjEQSS4RRX2trzriNRuH2KAqXXd/WAukhWT6mUjSHDG8P6BcB8FVtqwhh72MhOg3LZIELA0Fs9EbOCeDqSVn8AeOzEO+4wbPu8msJjHqG5ouYh1ZinL1WE4YsdBNq0O21huZAVFQl0H7HXOklNGGaccKvaYTcxJMiAy7Lx7YJvIBS2GwMBgCQ+9UFIMwej94j1Pel1W5Eiubg5XYEThFFBRrFK3fjn2Va3QTGiIYF1KfjCW7kqTn4s64v9wEM3LACCxNuUpA+BjcQQZEmRFCN5DeUZb8AAQ42rVxlQVIEYYp45QUVuyJRUB42WK/92F0cqAqdO9yxVG3hXcz0CjX0I=;+o2nDqpo0q6MNP8qU7mGFQ=="
 ---

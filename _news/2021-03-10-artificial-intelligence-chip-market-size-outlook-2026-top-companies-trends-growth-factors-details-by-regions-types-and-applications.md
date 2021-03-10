@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2021-03-09"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MarketWatch
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
-    excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"
-    publishedDateTime: 2021-03-08T21:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-software-market-2020-growth-drivers-regional-outlook-competitive-strategies-and-forecast-up-to-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "D8j/M56l3hmjW/53f8DOiCHFksqc0lZe4S3NJPxfTZRfAcPjoQho2ZAVvx7NIjHofBNDIkHX246wPZRK/Qr74NZ3A8oTKqjXYWObNeuDhDA0apZabfRDCMmEweTuW6wLmXFkD8XsvAoufWWITTte9JPdi1BOinAYOJ5dZQ4xR8ItN8dCi3kKtsigtUbWqGVdAere3XDhUatF0F9GwWyBViZbpGRvctObzRGMpDBi5aIT8FNCGZDrTjgnwfu4jAjSB3BpzVYkXK36soKSXNuDontnk6vywM5UepnCLeVVR+AFeCzTBdBZZiAi/5sceo7YAh8anPku5Gb18UpFrvnvVvmuZGU4IGYKSihjTPGhDEo=;SikylyG1BaK66z73NeCiCQ=="
 ---
