@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla: “Full self-driving beta” isn’t designed for full self-driving"
+    excerpt: "In October, Tesla released what it called its \"full self-driving beta\" software to a few dozen Tesla owners. A few days ago, Musk announced plans to expand the program to more customers. Given that the product is called \"full self-driving,"
+    publishedDateTime: 2021-03-09T23:15:00Z
+    webUrl: "https://arstechnica.com/cars/2021/03/tesla-full-self-driving-beta-isnt-designed-for-full-self-driving/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Vision Chip Drives Rise of Self-Driving Cars"
     excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"
     publishedDateTime: 2021-03-05T23:47:00Z
@@ -208,6 +222,6 @@ related:
       domain: governing.com
     quality: 39
 
-secured: "znGjcKmb1K4SSv0VVUMytRQZwsi2Au2NP04+oLim7mxqZRB1sWPuwQ8wUqe6EHB4n3k91tPiQtE8aAregbh1gnapRxJHd7gjRZtLmkCmuge0xyU407sURQ9jAJJM8w8OhEmi99RLPxPr1+gSlHOXzqsmOzxYolt+8t463X/2BzoCG/4Vw6dqtXVtP63XfrPC0iw9NqnxsV5gfEMwK+ChQhodtlj+VLnqAX500WPRH2VTG5Pgp+yg1393Hbso6Gxi9ZZSiUPno/fwO8S18kBiNhA6Z4cEDS29mjGSJAQURqgdcESdZfZyFBqy4b12nmOhaUVorRnc0JeFDVwIlTJgNFKaY6LAxCLFZd2GBl3UwuE=;b5XlcpDdHJNwrp/kcMj5Fg=="
+secured: "aDtI7zAcffvwDaqr/DKT0OolCBbz6fKHwxjC7YJoDsjR6isZcn99xpd7oCrPdy8SSHThfMDUlHDqbyR527ErIkAQxFp7vdqEgvtEvSwqONxJ7x2CbKiqHDhavhnM5iguZkmT1Kltj5hS5knZijJnox8kmuuy9AncMDCpcfeoahdGkC2T/NPg68fnzy9kbIXN261wRYrAKHZMFnNEE+t3KYrmz4e4dr5PhRSUXOvgw0rAuz9Q/zzmwnOh7Z5LRtNV4HrVvFO3u1x6wKR69VzL2YNPwTzErNNBBIOhiePdXE66m1k3TPTqoOXT76uZpMyTfBbLHk7YkkYj40hD0K6JUdqTmNol9Lwnu+rmHYLRb4IUqp7Thzwgdv6dtBqCcpeq5SzF1gSD+/Wl6+3Wt7Nl1ufZ4b+I+TL9ZsaPHCYwrSJQWYfRP34kBjy0+h8mWd9jGqf1Xy4o7BxaMzDQ3Hzbg+JbL7pc0YCUHRJIOYbrgdYXSmrXMXXGWWlQGXvTGIhqbIFeIExy+Tm6y5DDc114Hw==;xgySe2OoaJvdRJ2dmTj9RA=="
 ---
 

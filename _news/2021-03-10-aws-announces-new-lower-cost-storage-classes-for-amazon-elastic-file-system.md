@@ -1,25 +1,33 @@
 ---
 category: news
 title: "AWS Announces New Lower Cost Storage Classes for Amazon Elastic File System"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-publishedDateTime: 2021-03-09T22:37:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/03/b20087359/aws-announces-new-lower-cost-storage-classes-for-amazon-elastic-file-system"
-webUrl: "https://www.benzinga.com/pressreleases/21/03/b20087359/aws-announces-new-lower-cost-storage-classes-for-amazon-elastic-file-system"
-ampWebUrl: "https://amp.benzinga.com/amp/content/20087359"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20087359"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Amazon Elastic File System (Amazon EFS) One Zone storage"
+publishedDateTime: 2021-03-09T23:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-new-lower-cost-storage-classes-for-amazon-elastic-file-system-2021-03-09"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-new-lower-cost-storage-classes-for-amazon-elastic-file-system-2021-03-09"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "iYJ2v/oBgxxvLQGtOZbwUNdWpgLB+MIgmbNXMZViqfIadQ/q6ovoI88vzb/jxD+1VgfyLjq+YyDtK0G6ALYlepYW1om5Z3CIfklqBDZR6NrCChOhDZmorTv2MQRLnNOF0+9qxRrStObJ27cpZqEGYzYh6WVQlh4KGIXUuh8MZDcKMk7ZnWeO15c+98HKNI353qfEm8cZkWVNtfs0tsid6lZkNxZg131EVKcPNqbsF4F7TsErf8b3T7A3Honzyj4jUv0tnhyDoPQ2FEzkKUKQ93jQi5j/MeOOTpW1+XvtMQInoO1xEMsdwVcsItXSqoT5pP30OaJnQMwmNbxbqN5HyrIasex53AQmIXu+Yu7lagM=;SEAZUT1cGsbsPvgaitMCwg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "7Gpdw8utyHv5DnPRyocVpsBklgb+oy6lO5L9RbITzjpJhLzyQtU4HqPZtxpvmhVZM4cjUReseK8+/8CYHJ6tdO6FlQG7OHL6G4BlzvWcfWXdrI815FOppSEJBIRm/zWhAQp/VD+fgVHqxzHiJTk+upI6zZPXtDvAy3pqJZTFSkDkm5QI9vHzuWhlCuk+0t/j0LDEPRFRpEaWUu1+JDOMkFexIFpWQCoBOqGwaTmHIgIn3vpsplGBSt2RDd/xJg3w5rAkr6VulD8xkLkMRkazHXHc8z/PSzfppEylFRMelkromRHr/n0zBtPgvn8svUm3xWexIf0d1D76xSMciAMvjp8/IHOvajG0ELYzJ37MmcI=;a24P+kADjTllM6P3vlLjIQ=="
 ---
 

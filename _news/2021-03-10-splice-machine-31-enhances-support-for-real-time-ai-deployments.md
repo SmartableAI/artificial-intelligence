@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-
 ampWebUrl: "https://venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/splice-machine-3-1-enhances-support-for-real-time-ai-deployments/amp/"
 type: article
-quality: 91
-heat: 121
+quality: 93
+heat: 123
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - AI Hardware
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"

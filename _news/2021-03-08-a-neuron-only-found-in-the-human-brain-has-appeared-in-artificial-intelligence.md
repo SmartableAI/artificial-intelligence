@@ -28,46 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "Neural network CLIP mirrors human brain neurons in image recognition"
-    excerpt: "Open AI, the research company founded by Elon Musk, has just discovered that their artificial neural network CLIP shows behavior strikingly similar to a human brain. This find has scientists hopeful for the future of AI networks' ability to identify images in a symbolic,"
-    publishedDateTime: 2021-03-09T21:06:00Z
-    webUrl: "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html"
-    ampWebUrl: "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp"
+  - title: "We need a humanitarian vision for AI and robotics"
+    excerpt: "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given"
+    publishedDateTime: 2021-03-09T09:00:00Z
+    webUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/"
+    ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 74
+      name: City A.M.
+      domain: cityam.com
+    quality: 89
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2021/6047c07b01a40.jpg"
-        width: 846
-        height: 620
+      - url: "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg"
+        width: 1600
+        height: 1060
         isCached: true
-  - title: "OpenAI reveals human brain-like working of artificial neuron"
-    excerpt: "Elon Musk-founded startup OpenAI has discovered multimodal neurons in an Artificial Intelligence system that work just like some neurons work in the human brain."
-    publishedDateTime: 2021-03-06T11:53:00Z
-    webUrl: "https://www.sify.com/news/openai-reveals-human-brain-like-working-of-artificial-neuron-news-education-vdgmlEbcaijgb.html"
-    ampWebUrl: "https://www.sify.com/news/openai-reveals-human-brain-like-working-of-artificial-neuron-news-education-vdgmlEbcaijgb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/openai-reveals-human-brain-like-working-of-artificial-neuron-news-education-vdgmlEbcaijgb.html"
+  - title: "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021"
+    excerpt: "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,"
+    publishedDateTime: 2021-03-09T22:17:00Z
+    webUrl: "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
+    ampWebUrl: "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-  - title: "Elon Musk-founded Startup Discovers Artificial Neurons Only Been Seen In Human Brain"
-    excerpt: "Researchers at Open AI, a startup founded by Elon Musk, have discovered neurons within an AI system that have only previously been seen in the human brain."
-    publishedDateTime: 2021-03-06T07:39:00Z
-    webUrl: "https://www.republicworld.com/world-news/us-news/elon-musk-founded-startup-discovers-artificial-neurons-only-been-seen-in-human-brain.html"
-    type: article
-    provider:
-      name: RepublicWorld
-      domain: republicworld.com
-    quality: 32
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 89
     images:
-      - url: "https://img.republicworld.com/republic-prod/stories/promolarge/xxhdpi/8qdxohp7yqcyelal_1615010547.jpeg?tr=f-jpeg"
-        width: 1242
-        height: 709
+      - url: "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "Harnessing the power of AI for robotics"
+    excerpt: "Control Engineering - The Stuttgart-based Fraunhofer Institute for Industrial Engineering IAO and Fraunhofer Institute for Manufacturing Engineering and Automation IPA have"
+    publishedDateTime: 2021-03-07T06:03:00Z
+    webUrl: "https://www.controleng.com/articles/harnessing-the-power-of-ai-for-robotics/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 69
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/03/CTL2103_WEB_IMG_Fraunhofer_Robots_AI.jpg"
+        width: 645
+        height: 350
+        isCached: true
+  - title: "The brain, AI, and human destiny"
+    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
+    publishedDateTime: 2021-03-08T19:54:00Z
+    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "QhlKhPe1tblUTmWrwtEjE6I/7RJnvWTySeIUTbRx+rJCIjRI1T/KwmRMdad4BpnZ7XxeHunoSuPxL3q82fH+k/OSf5FyhgeS8174WSflajw8kD7z5hNeuT+54LxQ0vmcOjb1MRNwS8XJpRcwnDfE9guv6c4y4NeXEr3v7DbHQWaoHz0j/i6EBF0WJJOXSWLL2/QKq8nikjTsJgM1X/RrfIe8LOzaqUgy8+D+r2j3eQeHD7KxkeAshYLQi1tE2TVZiWLttIX+SbKc70C8YQVnKV7PP2FImtAR21qYb0jLX3HIIOdhAvC3/AHzlzs0vuvbZP3KQP7d9a0GED1rygAivpDexgNnbVq7pV4+2VTxDqn16DaqaMhRYZ/Zls8SBjgULlZZHkbbNFgxVeGm95puem7cFWXlPz+v1Qg9QGQdZdLVjiDDg+TiNln7U/PAlonZSuX2yHk6kkzYyYXAE9YlylsJNjjzBpCMYlSfAJ4DiBLDqNfpnkp1f58qRsE3oDF10tDFw7kR0nSMPw816LCbZA==;ekwf7cY3A2yIvikZgG4UuQ=="

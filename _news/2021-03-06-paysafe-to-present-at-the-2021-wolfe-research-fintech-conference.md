@@ -39,20 +39,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Western Union to Present at the Wolfe Fintech Forum on March 10th"
-    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe Fintech Forum on Wednes 10,"
-    publishedDateTime: 2021-03-05T09:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=432682"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "IWD 2021: No more talking, it's time for action on female representation in fintech"
     excerpt: "2020 may have been a year of challenge, but it proved that above all else, digital resilience will remain foundational, not only to female financial inclusion, but to female representation across the fintech sector."
     publishedDateTime: 2021-03-08T14:25:00Z

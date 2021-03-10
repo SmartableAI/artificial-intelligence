@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-neural-network-mirrors-human-bra
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "A neuron only found in the human brain has appeared in artificial intelligence"
-    excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
-    publishedDateTime: 2021-03-08T14:36:00Z
-    webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
-    ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 72
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "OpenAI reveals human brain-like working of artificial neuron"
     excerpt: "Elon Musk-founded startup OpenAI has discovered multimodal neurons in an Artificial Intelligence system that work just like some neurons work in the human brain."
     publishedDateTime: 2021-03-06T11:53:00Z
@@ -69,6 +53,6 @@ related:
         height: 709
         isCached: true
 
-secured: "yY03n4h2VybcaPNtBOkklrh6NJqmwnMX6ZN3It7cM8De2tgkhVhXjiJmTU44sU4S1bbOeN/5Z1HRAcsUMZoUMKdr/pD5tD67RyCsExsMoepLXERn+Cy5jyzwCCEY8Ze+98U9WI+OZt/rjTUk3FdErRu6IQxPfFK/ASwDLS/QxQ5pF5eY5U2AUYuW8O/4mi0IddrMd5tyvvPu3KHCmnMdnFHnROPBGvu6S7R+4ZmGuE6KLUKIm+sFtuULHO9333CD1LtxW5mF72dqECmszn9RZf639D/3dnMaXvrrUaZGT1jUBddWiQaS/u8wI4PM0UfiCrBoQISVBVH10yWemNmpG78+u8z9ASJFDU6uNBsD7Z4=;QojSyqmRvUxheeRBvNPlKQ=="
+secured: "wZzq5LlY9ffsWervtpHvgsBOihaI+XUVDt5pIrZAY29klDqtrPwbR4zVx0RdQ2rPtq88RdfoqWfT4t2uHU0+4r5uuCKH0i8tQEdRuGnx/X5mCTjCxd8zXawfJoE3WSMJt1MQbndoczH4wJET/uzyzjK4JlLR59oCpm3YldxRuqMNSxGpeOICe/LxTXrIOY81lOyFXhpCi4kRkCsZyn5q4PV9IAeq16zZ0LT+I0hH/U3o2sF+pUDIhjoXRwVTgJrvZuIucYUfHIPZk2yWOzPfBVS+7rhMNjHaKS+5GfTu6ZMjLi/H3zAwArF/OhXaXsVefwDiRR5oMVN/Uvju+zYnrrwonFuTNhj55gKLJ5I1eoJPBELl7rP32AKkD13EGM/GhBUfjToBfUj37xuUeAmooNF+AYeg33vPqLCap1hmPvnt+MPuRQA4FcYNZIJfMjLdnEZtaLFBrsm2EZrHG3u2AcQUNiemaMqsVart1Wsy5iLC4X0sP7OXziYJuWOiDhvcn1zZ3MP7klSeTOOcPDokng==;jIHtIJs5jnlH99OHfB+wJA=="
 ---
 

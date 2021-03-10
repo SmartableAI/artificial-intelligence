@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla: “Full self-driving beta” isn’t designed for full self-driving"
+    excerpt: "In October, Tesla released what it called its \"full self-driving beta\" software to a few dozen Tesla owners. A few days ago, Musk announced plans to expand the program to more customers. Given that the product is called \"full self-driving,"
+    publishedDateTime: 2021-03-09T23:15:00Z
+    webUrl: "https://arstechnica.com/cars/2021/03/tesla-full-self-driving-beta-isnt-designed-for-full-self-driving/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Tesla's Update FSD Beta V8.2: Just How Good Is This Self-Driving Tech?"
     excerpt: "Tesla launched its FSD Beta system a few months ago. Since then, it has been updating it regularly. Let's take a look at the latest update."
     publishedDateTime: 2021-03-07T15:05:00Z

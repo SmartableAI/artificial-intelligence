@@ -41,22 +41,6 @@ related:
         width: 846
         height: 620
         isCached: true
-  - title: "A neuron only found in the human brain has appeared in artificial intelligence"
-    excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
-    publishedDateTime: 2021-03-08T14:36:00Z
-    webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
-    ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 72
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
-        isCached: true
   - title: "OpenAI reveals human brain-like working of artificial neuron"
     excerpt: "Elon Musk-founded startup OpenAI has discovered multimodal neurons in an Artificial Intelligence system that work just like some neurons work in the human brain."
     publishedDateTime: 2021-03-06T11:53:00Z

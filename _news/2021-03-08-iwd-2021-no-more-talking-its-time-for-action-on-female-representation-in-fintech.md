@@ -39,20 +39,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Western Union to Present at the Wolfe Fintech Forum on March 10th"
-    excerpt: "The Western Union Company (NYSE: WU), a global leader in cross-border, cross-currency money movement and payments, today announced that the Company will present at the Wolfe Fintech Forum on Wednes 10,"
-    publishedDateTime: 2021-03-05T09:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=432682"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "Paysafe to Present at the 2021 Wolfe Research Fintech Conference"
     excerpt: "Paysafe Group Holdings Limited (“Paysafe”), a leading integrated payments platform, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Philip McHugh,"
     publishedDateTime: 2021-03-05T21:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways
 cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg"
         width: 1200
         height: 652
+        isCached: true
+  - title: "All The Machine Learning Features Announced At Microsoft Ignite 2021"
+    excerpt: "Microsoft held its annual global IT conference, Microsoft Ignite 2021, virtually. The event announced a number of AI-based features and updates across the cloud platform Azure and other business applications."
+    publishedDateTime: 2021-03-09T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-machine-learning-features-announced-at-microsoft-ignite-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/pasted-image-0-13.png"
+        width: 800
+        height: 533
         isCached: true
   - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
     excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"

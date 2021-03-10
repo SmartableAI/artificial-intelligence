@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/is-artificial-intelligence-close-
 webUrl: "https://www.analyticsinsight.net/is-artificial-intelligence-close-enough-in-understanding-our-brain/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,50 +24,6 @@ images:
     width: 900
     height: 500
     isCached: true
-
-related:
-  - title: "The brain, AI, and human destiny"
-    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
-    publishedDateTime: 2021-03-08T19:54:00Z
-    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "Speech, Voice, Accents and AI"
-    excerpt: "Allison Koenecke works in the Stanford University Computational Policy Lab and the Golub Capital Social Impact Lab You might also be interested in these programmes from the Free Thinking archives - all available to download as BBC Arts & Ideas podcasts What is Speech?"
-    publishedDateTime: 2021-03-06T01:10:00Z
-    webUrl: "https://www.bbc.co.uk/programmes/m000srbn"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 37
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/1200x675/p097ckq7.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Artificial Intelligence Is Guiding Human Return to the Moon"
-    excerpt: "There is no doubt the only way forward for humanity is to enlist the help of artificial intelligence systems, such as they presently are. They are required, you see, because humans always had a habit of biting off more than they can chew,"
-    publishedDateTime: 2021-03-07T10:52:00Z
-    webUrl: "https://www.autoevolution.com/news/artificial-intelligence-is-guiding-human-return-to-the-moon-157274.html"
-    type: article
-    provider:
-      name: autoevolution.com
-      domain: autoevolution.com
-    quality: 37
-    images:
-      - url: "https://s1.cdn.autoevolution.com/images/news/artificial-intelligence-is-guiding-human-return-to-the-moon-157274-7.jpg"
-        width: 728
-        height: 300
-        isCached: true
 
 secured: "28QmQqqGk7raNDMfNTrWqFAcVxsQFZnRMYWA5OcIM1j+XPALfZxZnptkWCHwe7rhrSFmT+eXAm2LLFjsKFOrxNkKNWBNuyPD+7swMsSQMuTEZ62FKQrOTW4uZogStdrTulrjWEgHGaTXrhchHMqQ7Lucj67jYqx32LcxgytN+BWlmX/MUIZSX+x35OZsne/X5llxlLB0BEI7CAHLhdsuancjsBrkxICYVw0jHPlqz2V4kwvJjb/13g192ldAHoTWW4/7LkliV7r8vVv3EgmpL5CjrUEnkxXwDolZVL4vMXgiD21CLO5oYEHLfZrbLfyXWGkYqfoyekkmuJ0RXM7hpqmjHyqVIW4UTxJKIbLO5SIgZYj7BDPDVYni6oynu6wGr9Yl/eSLor1TMwba5kbhUQzOGgadOaqKbLYgN+EZf6ksBaX3Gck0j6f/FyLqWG7av3x6mXpmgu6vGEIISSxyqO8tdz3KoBahS+F/PBmpUAqrQ5vG6hDJ1kDHs7mttn/+bpdOTGmHTzXKhiFnNDnmyw==;kjjyoSavZkBR7xg5Xop3Ng=="
 ---

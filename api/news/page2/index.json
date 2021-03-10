@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-09-roborock-s7-review-setting-the-bar-again-on-robot-mopping.md",
+      "title": "Roborock S7 Review: Setting The Bar Again, On Robot Mopping!",
+      "excerpt": "The S7 is the latest line of robot vacuums from Roborock, after having the S6 series the last couple of years. The main upgrade with the Roborock S7 this",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
+      "originalUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2021/03/Roborock-S7-Review-Featured-AM-AH.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/roborock-s7-robot-vacuum-review/amp",
+      "publishedDateTime": "2021-03-08T10:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-heres-how-befitting-uses-ai-to-help-you-buy-the-right-prescription-glasses-online.md",
       "title": "Here's How Befitting Uses AI to Help You Buy the Right Prescription Glasses Online",
       "excerpt": "It's as easy as using a dating app, but instead of matching with a date, you get matched with the perfect pair of frames. Here's how Befitting can help you find your next pair of glasses online.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.newsweek.com/amplify/heres-how-befitting-uses-ai-help-you-buy-right-prescription-glasses-online",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -512,7 +555,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -972,7 +1015,7 @@
       "originalUrl": "https://www.msn.com/en-us/finance/other/elon-musk-says-tesla-is-expanding-its-full-self-driving-beta-to-more-drivers/ar-BB1ekSRo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 291,
+      "heat": 301,
       "tags": null,
       "images": [
         {
@@ -1212,49 +1255,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market.md",
-      "title": "Artificial Intelligence (AI) is Changing the Present and Future of Digital Finance Market",
-      "excerpt": "In recent years, with the continuous development of the financial market and the rapid growth of society, the capital market is now in the golden period. As the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/03/ab20044319/artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/03/ab20044319/artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/821ae57a8a1177930d41ba2fdfeeae2d.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/20044319",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20044319",
-      "publishedDateTime": "2021-03-06T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

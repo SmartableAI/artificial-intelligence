@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-09-fintech-startup-intellect-launches-ai-powered-aadhaar-processing-solution.md",
+      "title": "Fintech startup Intellect launches AI-powered Aadhaar processing solution",
+      "excerpt": "Intellect Design Arena says the AI solution used to identify, extract, validate, and mask Aadhaar details hyper-digitises the end-to-end processes using Aadhaar-based processing.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution",
+      "originalUrl": "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/aadhaar15627408699411575965021660png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp",
+      "publishedDateTime": "2021-03-08T23:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-equity-monday-more-money-for-fintech-deliveroos-ipo-and-ai-startups.md",
       "title": "Equity Monday: More money for fintech, Deliveroo’s IPO, and AI startups",
       "excerpt": "Hello and welcome back to Equity, TechCrunch’s venture capital-focused podcast where we unpack the numbers behind the headlines. This is Equity Monday, our weekly kickoff that tracks the latest private market news,",
@@ -170,6 +213,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-nice-actimize-xceed-financial-crime-platform-gets-finastra-push.md",
+      "title": "Nice Actimize Xceed financial crime platform gets Finastra push",
+      "excerpt": "NICE Actimize, a NICE (Nasdaq: NICE) business, and the industry leader in financial crime and compliance solutions, today announced a partnership with Finastra, one of the world’s largest providers of financial technology solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
+      "originalUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1253,83 +1339,6 @@
       "provider": {
         "name": "Al Bawaba News",
         "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-fieldfisher-launches-new-financial-services-advisory-firm.md",
-      "title": "Fieldfisher launches new financial services advisory firm",
-      "excerpt": "European law firm, Fieldfisher LLP, has announced the launch of its new financial services advisory firm, Fieldfisher Capital LLP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
-      "originalUrl": "https://www.fieldfisher.com/en/insights/fieldfisher-launches-new-financial-services-advisory-firm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fieldfisher",
-        "domain": "fieldfisher.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe.md",
-      "title": "Finch Capital’s New Fund to Target Fintech, AI Startups in Europe",
-      "excerpt": "Finch Capital, a UK and Netherlands based VC firm, has closed on a new fund - Europe III - raising €150 million to invest in Fintechs and artificial intelligence (AI) startups in the financial services sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
-      "originalUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2021/07/FIntech-UK-Cambridge-University-scaled-600x498.jpg",
-          "width": 600,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/02/172065-finch-capitals-new-fund-to-target-fintech-ai-startups-in-europe/amp/",
-      "publishedDateTime": "2021-02-09T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
         "images": null,
         "publishers": null,
         "authors": null

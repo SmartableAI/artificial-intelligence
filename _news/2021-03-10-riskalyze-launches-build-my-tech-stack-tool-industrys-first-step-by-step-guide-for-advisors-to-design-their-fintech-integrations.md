@@ -25,33 +25,59 @@ images:
     isCached: true
 
 related:
-  - title: "Top 8 Wonder Women Leading Fintech Industry in India"
-    excerpt: "With the steady growth of the Indian startup ecosystem, an increasing number of women are pursuing the entrepreneurial dream and succeeding in their businesses"
-    publishedDateTime: 2021-03-08T07:36:00Z
-    webUrl: "https://www.goodreturns.in/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
-    ampWebUrl: "https://www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
-    cdnAmpWebUrl: "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/classroom/top-wonder-women-leading-fintech-industry-in-india-1208228.html"
+  - title: "Fintech startup Intellect launches AI-powered Aadhaar processing solution"
+    excerpt: "Intellect Design Arena says the AI solution used to identify, extract, validate, and mask Aadhaar details hyper-digitises the end-to-end processes using Aadhaar-based processing."
+    publishedDateTime: 2021-03-09T07:42:00Z
+    webUrl: "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution"
+    ampWebUrl: "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp"
     type: article
     provider:
-      name: Goodreturns
-      domain: goodreturns.in
-    quality: 44
+      name: Your Story
+      domain: yourstory.com
+    quality: 58
     images:
-      - url: "https://www.goodreturns.in/img/2021/03/upasana-taku-1615188477.jpg"
-        width: 600
-        height: 450
+      - url: "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/aadhaar15627408699411575965021660png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
-  - title: "'Deep learning among top in-demand skills of 2020 in India'"
-    excerpt: "Deep learning and data engineering are top nanodegree programmes showing the countrys growing interest towards artificial intelligence (AI) and data, says a new report."
-    publishedDateTime: 2021-03-07T12:57:00Z
-    webUrl: "https://www.sify.com/news/deep-learning-among-top-in-demand-skills-of-2020-in-india-news-education-vdhnPEfjeaabb.html"
-    ampWebUrl: "https://www.sify.com/news/deep-learning-among-top-in-demand-skills-of-2020-in-india-news-education-vdhnPEfjeaabb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/deep-learning-among-top-in-demand-skills-of-2020-in-india-news-education-vdhnPEfjeaabb.html"
+  - title: "Fintech Start-Up Fintern Takes On The Banks With Data-Driven Loans"
+    excerpt: "Fintern promises the combination of the UK's open banking reforms and its data tools enable it to lend to more people at cheaper rates"
+    publishedDateTime: 2021-03-08T09:05:00Z
+    webUrl: "https://www.newsoneplace.com/9485282012/fintech-fintern-takes-banks-loans-data-driven"
     type: article
     provider:
-      name: Sify.com
-      domain: sify.com
+      name: newsoneplace.com
+      domain: newsoneplace.com
     quality: 39
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/6045e6224897c09d751e204b/0x0.jpg?cropX1=0&cropX2=2415&cropY1=40&cropY2=1399"
+        width: 2415
+        height: 1557
+        isCached: true
+  - title: "Tony Pizi Joins FinTech Studios as Chief Information Officer"
+    excerpt: "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,"
+    publishedDateTime: 2021-03-08T13:06:00Z
+    webUrl: "https://www.wboc.com/story/43460577/tony-pizi-joins-fintech-studios-as-chief-information-officer"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 24
+    images:
+      - url: "https://EINPRESSWIRE.images.worldnow.com/images/20462887_G.jpg?lastEditedDate=1615183267000"
+        width: 314
+        height: 314
+        isCached: true
+  - title: "Intellect launches Magic Aadhaar, an AI powered comprehensive Aadhaar processing solution to identify, extract, validate and mask Aadhaar details"
+    excerpt: "Intellect Design Arena Ltd, a cloud-native, future-ready multi-product FinTech company for the world's leading financial and insurance clients, announced the launch of Magic Aadhaar, an Al-powered com"
+    publishedDateTime: 2021-03-08T11:45:00Z
+    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=285212"
+    type: article
+    provider:
+      name: Equity Bulls
+      domain: equitybulls.com
+    quality: 0
 
 secured: "yk0OMKkRSrbjbLEUS6zP271xmLxlSaSB9o85/N5JA4YjQRsWnuhPIjICWt9gjUGllwbcQTwrW02m91xnf9hPW3jD8R80KDiKI5485sFr85rF/mxEba6iJUTHVxvzRv7zwLsCOrJ6A/c6qbZgI2LDn1xjgIoW3fIy4SYt+8RGduSaJkxElq04SJDTqtG+uXonfuTeqQJT6IPtly5Gvc+IiwBj6QWSZDZqjhXNi/vwE6B3na+yYJHmZMgFeMzDMMMvGpNeDYgyjptDBb5uL9GWL8aumfFbO/J5d0IkZAy6pAOuKkLdgw+VxZVkY8jjdRxiVHlBQPYfp1NGha/ry/beaXbb982Hcua98gRr3y8z4H4=;FhaPV5oj5fC6kkbzO7tPeA=="
 ---

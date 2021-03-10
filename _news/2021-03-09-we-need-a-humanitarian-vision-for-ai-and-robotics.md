@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robo
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: City A.M.
@@ -27,21 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "How AI trained to beat Atari games could impact robotics and drug design"
-    excerpt: "Uber and OpenAI researchers say an advance in Go-Explore AI in beating Atari games could have applications for robotics and drug design."
-    publishedDateTime: 2021-03-05T08:24:00Z
-    webUrl: "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/"
-    ampWebUrl: "https://venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design/amp/"
+  - title: "BOTZ vs. ROBO: The Best Robotics & Artificial Intelligence ETF For 2021"
+    excerpt: "Robotics and artificial intelligence ETFs, however, have received only modest interest from investors. This group has delivered fantastic returns over the past year, but their performance during that time has trailed hotter and more attention-grabbing sectors,"
+    publishedDateTime: 2021-03-09T22:17:00Z
+    webUrl: "https://www.thestreet.com/etffocus/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
+    ampWebUrl: "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 120
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/03/atari.png?w=1200&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://content.jwplatform.com/thumbs/uQuPaZSc-720.jpg"
+        width: 720
+        height: 406
+        isCached: true
+  - title: "A neuron only found in the human brain has appeared in artificial intelligence"
+    excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
+    publishedDateTime: 2021-03-08T14:36:00Z
+    webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
+    ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 72
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "Harnessing the power of AI for robotics"
+    excerpt: "Control Engineering - The Stuttgart-based Fraunhofer Institute for Industrial Engineering IAO and Fraunhofer Institute for Manufacturing Engineering and Automation IPA have"
+    publishedDateTime: 2021-03-07T06:03:00Z
+    webUrl: "https://www.controleng.com/articles/harnessing-the-power-of-ai-for-robotics/"
+    type: article
+    provider:
+      name: Control Engineering
+      domain: controleng.com
+    quality: 69
+    images:
+      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/03/CTL2103_WEB_IMG_Fraunhofer_Robots_AI.jpg"
+        width: 645
+        height: 350
+        isCached: true
+  - title: "The brain, AI, and human destiny"
+    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
+    publishedDateTime: 2021-03-08T19:54:00Z
+    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
+        width: 770
+        height: 578
         isCached: true
 
 secured: "59nRdagjJN9NAy5LAs9Jt+ZJZXGRey2Ih3DR75JmW+E9ohj+nTLOU9JzdyRvonWVq2/M6/XP2XwJbiEFWSoC2rdJEPIr88rT98vLhl696gFU/kmUEESKvcBKIIqnGWDDHd4JFeT+KwiCfxEbO/2Ivjq13ynottCIb10qEqf3zgqdsGh5owHr/M2kooJ/auKRk5xgMRd79Sq30qxKFD0t6UE44HJt4A7WiYPdMTKtiYKMGepplG3m15GEuDaF1g4TcXwKF0ahXN3z2RPiCmU3de43Y1AOx8CjcfFw6SWZgVgjoR+43NztTthWYdnBX82b5qblW5J/X7t0FwYWZM3Et8sDCeuqgZtuUksvGOFK2oY=;ZC5jQkR0X5ercIV/jRF4qA=="

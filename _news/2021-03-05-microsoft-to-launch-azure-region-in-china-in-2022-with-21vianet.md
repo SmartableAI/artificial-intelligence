@@ -79,6 +79,20 @@ related:
         width: 1200
         height: 652
         isCached: true
+  - title: "All The Machine Learning Features Announced At Microsoft Ignite 2021"
+    excerpt: "Microsoft held its annual global IT conference, Microsoft Ignite 2021, virtually. The event announced a number of AI-based features and updates across the cloud platform Azure and other business applications."
+    publishedDateTime: 2021-03-09T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-machine-learning-features-announced-at-microsoft-ignite-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/pasted-image-0-13.png"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "Av6sFqMGahPKnTsIeDqUxKosPyEi1rmAfivsg9N3qWtHN/zlSmhmaeQDGpZRkQJOd44iQyfxSK/eARrWP3SsrPoGXZC7spRoIpNVgnF6XKZPyUc4J0jtcAFoUoC29O+D0d0wuD/usOVQOZMmBF3OJffv/2e2ReyTSii5t5KgrxfLzsK9QCoOfO6D4GtsL6R4fNdMDPeX4P9/qE25qIeEAAPTCceBxm0zOgxytd/YYCqpvoDqmsDxO3TeIB9eSYnok7K4nIrNC7SIm9tDh/RBVS6RceWTVjJaWFpLrtLiXTITjiHVbG8wvmFp4bgJDGsSEIsXIyAiDA26vCDvS51EmV7XLv/7TIWIvXGfPT+DiSs=;MBTX38P3oIgzzrpoLzTOsw=="
 ---

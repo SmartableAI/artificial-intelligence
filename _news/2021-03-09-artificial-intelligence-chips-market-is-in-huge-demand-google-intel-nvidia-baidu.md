@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-is-in-huge-demand-google-intel-nvidia-baidu-2021-03-09"
 type: article
 quality: 75
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Plus Using Nvidia Orin AI Chip for Self Driving Semi Truck in 2022"
+    excerpt: "Intelligent Holographic Nanostructures Can Reach 400 EXAFlops and Beyond Human Brain Neural Density Tesla China Car Sales Strong in February Space Tourism and Industry to Get to Colonization Critical Mass Space Tourism and Industry to Get to Colonization ..."
+    publishedDateTime: 2021-03-10T00:33:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 91
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/03/plusnvidiaselfdriving.jpg"
+        width: 903
+        height: 564
+        isCached: true
   - title: "Artificial Intelligence In Small And Medium Business Market is Booming Worldwide | Google, Nvidia, Tesla"
     excerpt: "The Global Artificial Intelligence In Small And Medium Business Market to witnessed good recovery in growth post first half of 2020 and is projected coverup market sizing during the forecast period (2021-2026)."
     publishedDateTime: 2021-03-08T20:00:00Z

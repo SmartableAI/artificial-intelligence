@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
 type: article
 quality: 171
-heat: 291
+heat: 301
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla: “Full self-driving beta” isn’t designed for full self-driving"
+    excerpt: "In October, Tesla released what it called its \"full self-driving beta\" software to a few dozen Tesla owners. A few days ago, Musk announced plans to expand the program to more customers. Given that the product is called \"full self-driving,"
+    publishedDateTime: 2021-03-09T23:15:00Z
+    webUrl: "https://arstechnica.com/cars/2021/03/tesla-full-self-driving-beta-isnt-designed-for-full-self-driving/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/10/tesla_jeeesus-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Vision Chip Drives Rise of Self-Driving Cars"
     excerpt: "Ambarella supplies the semiconductors that provide eyesight to vehicles at the center of the autonomous vehicle revolution -- and it's on sale now"

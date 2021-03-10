@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-r
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/etffocus/.amp/trade-ideas/botz-robo-best-robotics-artificial-intelligence-etf-2021"
 type: article
 quality: 89
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: TheStreet.com
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "We need a humanitarian vision for AI and robotics"
+    excerpt: "Robotics and artificial intelligence are beginning to transform a broad spectrum of industries, and I believe that in time, given"
+    publishedDateTime: 2021-03-09T09:00:00Z
+    webUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/"
+    ampWebUrl: "https://www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
+    cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/we-need-a-humanitarian-vision-for-ai-and-robotics/amp/"
+    type: article
+    provider:
+      name: City A.M.
+      domain: cityam.com
+    quality: 89
+    images:
+      - url: "https://www.cityam.com/wp-content/uploads/2021/03/GettyImages-1183002137-scaled.jpg"
+        width: 1600
+        height: 1060
+        isCached: true
+  - title: "A neuron only found in the human brain has appeared in artificial intelligence"
+    excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
+    publishedDateTime: 2021-03-08T14:36:00Z
+    webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
+    ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 72
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Harnessing the power of AI for robotics"
     excerpt: "Control Engineering - The Stuttgart-based Fraunhofer Institute for Industrial Engineering IAO and Fraunhofer Institute for Manufacturing Engineering and Automation IPA have"
     publishedDateTime: 2021-03-07T06:03:00Z
@@ -41,7 +73,21 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "The brain, AI, and human destiny"
+    excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
+    publishedDateTime: 2021-03-08T19:54:00Z
+    webUrl: "https://www.zdnet.com/video/the-brain-ai-and-human-destiny/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://www.zdnet.com/a/hub/i/r/2021/03/08/1e080d33-ac3e-4540-8ae8-45d85f849167/thumbnail/770x578/ecff9a4ea23c74e3a62f269a0c725155/20210308-tiernan-karen-interview.jpg"
+        width: 770
+        height: 578
+        isCached: true
 
-secured: "FwQuhL6sj1BKWsL7owRCurUoDO/i7IaU4uU6TBs0dj5Jwql0yzIFRqN9H4zPn9nJDCgboTkqQzUH5WIW9ms/FjuKnXjGl/euNd0CL0IaFZKf5XESXSK06eaUKhEBJOtZ7xCxNQoofdcc6DA67rYEN0UMz6wq2mmw7gCGcH/umzCmzkmTHfGZgSuvYIYVypeLEqm4rhN58YzS/9Fb7fVt7YOqxJGNZfCthFAgWreEAUegu/hQbVIt4fK/pD4sWltwTPxSGqZ61H17uLISssKGIz4Fkk4YxJIj8P9XubsWpltUnlVnAsPbdLfsKhqKQqX8lAJSnjRRwW3Qi7L1vw9cqOb2TPeyLJzlKKuqvPAkZm4=;kDHh/Q09VJ+/s/z3CULTSg=="
+secured: "pQ0oDS/IgAoKM5t2tOMx8Wi6Y+eUiY0vGHgkJdx8zvxyiLjvw1g5e/EFKxS3WFZ/qMwtgsw1Nr6ox3CEWbSirYZtjFjOvHodN5qctNxrIIxRp+h+6yrz5ASEagiqk2X7ngrBLqdYYOar+HGfAtiYjCiA5U/AaAEWxpWa9zEFEDNfFZ8at8EFrK6SbXk6bEgkAjyi11BMuNAR6adv03TEzABZhZuSmT4wF0/9DkjJ6WZs+TZCROuv0CRDaoQPbDxTz/O3qpeB9r4iwec10YonhAsZcQhwfb5006GDE+nXF7g1C8VPKaoPDQz8WCKkzOxyGhkwqn9FZqzzFVklWTtEeoYMvVTWxJ6JmPgfJigA49DdZNn/S6gMMFn1HbdeD+flGRZuyP9C9o8dAa10zWAUmGEc8AbBNpGhzKvYOzekLoATds4O+wKFuwewR/xAZf+b4l0X4AG2sefgvRrAnRfsru90aijr285JySH330WV+AyVDj3syz31Xb9ZxxEVYB7I7RtiNTD3bGuMKt8rWwOWKA==;kphMiBFmowuFu9lGS0QhDw=="
 ---
 

@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Plus Using Nvidia Orin AI Chip for Self Driving Semi Truck in 2022"
+    excerpt: "Intelligent Holographic Nanostructures Can Reach 400 EXAFlops and Beyond Human Brain Neural Density Tesla China Car Sales Strong in February Space Tourism and Industry to Get to Colonization Critical Mass Space Tourism and Industry to Get to Colonization ..."
+    publishedDateTime: 2021-03-10T00:33:00Z
+    webUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 91
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2021/03/plusnvidiaselfdriving.jpg"
+        width: 903
+        height: 564
+        isCached: true
   - title: "Artificial Intelligence Chips Market is in huge demand | Google, Intel, NVIDIA, Baidu"
     excerpt: "The Global Artificial Intelligence Chips Market to witnessed good recovery in growth post first half of 2020 and"
     publishedDateTime: 2021-03-09T12:16:00Z
