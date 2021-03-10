@@ -1,0 +1,47 @@
+---
+category: news
+title: "A|I: The AI Times – The robots are coming for Phil in accounting"
+excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+publishedDateTime: 2021-03-10T11:00:00Z
+originalUrl: "https://betakit.com/ai-the-ai-times-the-robots-are-coming-for-phil-in-accounting/"
+webUrl: "https://betakit.com/ai-the-ai-times-the-robots-are-coming-for-phil-in-accounting/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: BetaKit
+  domain: betakit.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://cdn.betakit.com/wp-content/uploads/2021/03/alex-knight-2EJCSULRwC8-unsplash-1024x683.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+related:
+  - title: "The Robots Are Coming for Phil in Accounting"
+    excerpt: "The robots are coming. Not to kill you with lasers, or beat you in chess, or even to ferry you around town in a driverless Uber. These robots are here to merge purchase orders into columns J and K of next quarter’s revenue forecast,"
+    publishedDateTime: 2021-03-06T02:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 89
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/07/business/06whitecollar-bots-cover/06whitecollar-bots-cover-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "GEpxyapiUvJ0TS/Yi4I4OdZN7IMdVaYNnEwsTRRL+lSWYc4boxNbhZavehAwzAt/2mT5l5gkdUXnZ4k5d4x4jLzqSdnnidVgkEr3ReMlkXYwpIxUGdnAVo9WoVmXzkUWKAHLN0HlXbE8r5e7SNyThQpm7Q0lRAzbwKWtwdgCiZBMO6l2XMDRUCDBisrYTtqac+Bz5DEFP+ceWQDUJxyp6vNBIiA0OKxOaoTEkiWuhySneKTgmE6Tt+YcX0AH4t6B7UGtAOybh0kX0g9cEkRn1cB4ctP48mGIMow0+24q/Z8E6FlrU3zxFQIkQIw9Xf6CCPEf5M34Z4zPPVO9VF5B0W4vgBPgs/WSF03heNboRnU=;zIzRec357CENCcARI0pPag=="
+---
+

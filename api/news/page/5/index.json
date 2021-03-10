@@ -2,6 +2,59 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-04-what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter.md",
+      "title": "What If Media Group introduces AI tool to make marketing campaigns smarter",
+      "excerpt": "What If Media Group's new tool promises to improve marketing campaign performance through the use of machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Marketing-tech.shutterstock_311883674.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/what-if-media-group-introduces-ai-tool-to-make-marketing-campaigns-smarter/amp/",
+      "publishedDateTime": "2021-03-04T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-intel-assists-nfl-hopefuls-with-3d-athlete-tracking-and-ai-insights.md",
       "title": "Intel assists NFL hopefuls with 3D athlete tracking and AI insights",
       "excerpt": "A partnership with the human performance company EXOS aims to help college football stars hone their game ahead of the NFL draft.",
@@ -1123,58 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-at-a-cagr-of-449.md",
-      "title": "Artificial Intelligence in Healthcare Market worth $45.2 billion by 2026, at a CAGR of 44.9%",
-      "excerpt": "According to the new market research report on the \"Artificial Intelligence in Healthcare Market with Covid-19",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-at-a-cagr-of-449-2021-03-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-worth-452-billion-by-2026-at-a-cagr-of-449-2021-03-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

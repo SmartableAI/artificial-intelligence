@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition company Clearview AI sued by California activists"
+    excerpt: "ALAMEDA, Calif. — Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people ..."
+    publishedDateTime: 2021-03-10T02:52:00Z
+    webUrl: "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lawsuit claims facial recognition company stockpiled personal data"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world."
     publishedDateTime: 2021-03-10T05:09:00Z
@@ -52,11 +68,27 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/05/6b363956-423a-4cc9-a04e-47d365d2fb9f/thumbnail/1200x630/4c6d01fc0d9aec5e1a7a02195a916386/clearview-ai-app-tryout-01.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
+    excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
+    publishedDateTime: 2021-03-10T12:03:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Facial recognition company sued by California activists | Raleigh News & Observer"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
@@ -69,16 +101,30 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 36
-  - title: "Employee recognition is essential to company success"
-    excerpt: "For more than a quarter of a century, I have espoused our motto: “The secret to our success is in our people.” This is not the result of an individual epiphany more than it is a workable acknowledgment of a constant truth that all of us in the business world should come to realize if we are to approach even a modicum of success."
-    publishedDateTime: 2021-03-08T16:35:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2021/03/08/employee-recognition-is-essential-to-company-success.html"
+  - title: "Have you been ‘scraped’? Facial recognition company sued over data base of 3B people"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
+    publishedDateTime: 2021-03-10T11:19:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/10/have-you-been-scraped-facial-recognition-company-sued-over-data-base-of-3b-people/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 6
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 34
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Russian Case Law in 2020 on Recognition and Enforcement of Foreign Judgments Made by Courts of Count"
+    excerpt: "Recognition and enforcement of foreign judgments (‘R&E’) is a persistent problem of Russian case law. Different obstacles still arise even when judgments, filed for R&E in the Russian Federation, are made by courts of countries which are contracting parties to multilateral conventions (e."
+    publishedDateTime: 2021-03-09T18:04:00Z
+    webUrl: "https://www.legal500.com/developments/thought-leadership/russian-case-law-in-2020-on-recognition-and-enforcement-of-foreign-judgments-made-by-courts-of-count/"
+    type: article
+    provider:
+      name: Legal 500
+      domain: legal500.com
+    quality: 0
 
-secured: "SF5KT5aY+OSppka4Z0LzAPvGRjo27VjzkyZB8YxlkIKmA6+eiMtcgM75n3vyz2lw4hJRKJhfqxn+yZ/Phh6lay9a0RbLQyeAQz0JYIcAx0+rHqcVHPIWRfg0tpEdYlr3NXTJJ4uy2l+EtODJwXOoIX9Wt7l25VUIXncit0aSZ7oG7zNJxHx4ORDJrQGh5CXmD2/8pzV3RH2w6rM4ogO4lxuaMgUHWoZHGI5Wv+gKMCVZdkS7jdXuA4+NamkQLJAvU765RVGVqNIXDlEaSKdbOoOSd/u7MGHBv4xJ38chTjmSCcWVYdkD0C/P6yD9eMccFrfa3NDIPFi3DV4QwpyVeX+uqoWgvWVA35zl9o6cvYM=;5pdTYmKJtpdpntptDW3hXw=="
+secured: "Rj1Wjqsyb2lYssd1rANdygCvvNICK3S2NwL6owbUztzXf5q1Ni4GIi52YKQ/HF+7LhCOWNv8ZHK9nZCea+r7mgZ4RPrjJQdXTF8iOOfcwJm6reZCtfVb41bQND/xcuLRQ8DtTbbC3wfRRw1gFpHcjIgier88UoLSKxB02X3vRTPk94cfhY6TQTXNLUUqchGcpMZ9F9iAqNdVlGsF0wGxfFSpcY1m2xcXr++QL4lJn2Psd+sEQ02fkkTigI1L6Ld9AmbTlX6X66U/8Ab1QmlrYb6Gbm8kI6sZybwT734snjpVbfTut4JwygH2a5PyGD+fJx+WNP60i+LUPNE+7ZcTKQx6I7S7DQiGuoYdR6wa/FwJ1S7yBd3Pdb6T6p9iduQc1LAf1sl+0lm3KtW7pF6SCSfZpgxS4f9hJqpVPsuG8DgUlkmWyz7GbpxPKsFGol9F1giTBMlhUoXR9QnMUf5NfDlH5YtjhC0ndjEuqq3+r2f5RV8Xevq+BNRczSPKAa956cGPwcvPVShi6XfNl21M1g==;tlBADYnpmWAEMUk/x52MXg=="
 ---
 

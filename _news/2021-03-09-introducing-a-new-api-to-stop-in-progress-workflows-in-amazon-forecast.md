@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-a-new-ap
 webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-a-new-api-to-stop-in-progress-workflows-in-amazon-forecast/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

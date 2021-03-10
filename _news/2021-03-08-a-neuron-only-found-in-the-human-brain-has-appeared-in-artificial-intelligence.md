@@ -3,12 +3,12 @@ category: news
 title: "A neuron only found in the human brain has appeared in artificial intelligence"
 excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
 publishedDateTime: 2021-03-08T14:36:00Z
-originalUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
-webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/"
+originalUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/?ico=related-posts"
+webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/?ico=related-posts"
 ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
 type: article
-quality: 72
+quality: 70
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: metro.co.uk
 
 topics:
-  - AI in Autos
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
@@ -89,6 +88,6 @@ related:
         height: 578
         isCached: true
 
-secured: "QhlKhPe1tblUTmWrwtEjE6I/7RJnvWTySeIUTbRx+rJCIjRI1T/KwmRMdad4BpnZ7XxeHunoSuPxL3q82fH+k/OSf5FyhgeS8174WSflajw8kD7z5hNeuT+54LxQ0vmcOjb1MRNwS8XJpRcwnDfE9guv6c4y4NeXEr3v7DbHQWaoHz0j/i6EBF0WJJOXSWLL2/QKq8nikjTsJgM1X/RrfIe8LOzaqUgy8+D+r2j3eQeHD7KxkeAshYLQi1tE2TVZiWLttIX+SbKc70C8YQVnKV7PP2FImtAR21qYb0jLX3HIIOdhAvC3/AHzlzs0vuvbZP3KQP7d9a0GED1rygAivpDexgNnbVq7pV4+2VTxDqn16DaqaMhRYZ/Zls8SBjgULlZZHkbbNFgxVeGm95puem7cFWXlPz+v1Qg9QGQdZdLVjiDDg+TiNln7U/PAlonZSuX2yHk6kkzYyYXAE9YlylsJNjjzBpCMYlSfAJ4DiBLDqNfpnkp1f58qRsE3oDF10tDFw7kR0nSMPw816LCbZA==;ekwf7cY3A2yIvikZgG4UuQ=="
+secured: "kfQ64iJJIIfb+FTxSX4EANGrDVjThbrpdETW4dMIpXG/ZyeBdDSasYVPusBr0l4Y/g/6bz4I0P6F90xciR8sNwFCsXpRzsmd5/I7RWDHKkJuZceBTbiH9ztZMM9A009XS3vZAoWBaCo4NGcxRLiRtMvPahKgfWM9bQlmdZzckL5Ff9Y5dwlXLtmdPJ+NMutbnp9pirIIbnfT/4lxdudPxjuGidxfzDxk0EctTL8E/EEYnUt7NxI/fdGl2kzo/gDybjqXKym/QvqShX/yDJG3zW6zVLh1iVEtPP9xG0JoGDpP6lmwugKhqgW0p8BJVNP6ZHpkYIN3mb4fs3ue8PbUsMDFXZ3S4QnNxDtqhPoyaVg=;n5za5mZl4XjnNJM15IQJBQ=="
 ---
 

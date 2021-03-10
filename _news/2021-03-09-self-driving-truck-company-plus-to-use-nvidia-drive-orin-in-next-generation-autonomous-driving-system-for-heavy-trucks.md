@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Self-Driving Truck Company Plus to Use NVIDIA DRIVE Orin in Next-Generation Autonomous Driving System for Heavy Trucks"
-excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that it will equip the next generation of its autonomous truck driving system with the NVIDIA DRIVE Orin™ system-on-a-chip (SoC)."
+excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that it will equip the next generation of its autonomous truck driving system with the NVIDIA DRIVE Orin™ system-on-a-chip (SoC). The company plans to roll out ..."
 publishedDateTime: 2021-03-09T14:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-transportation-equipment-manufacturing-commercial-vehicle-manufacturing-driverless-cars-94cb491f6a724832b4035c9e73307245/gallery/7527a609981d83b948368ab9c9cfd2e3"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-transportation-equipment-manufacturing-commercial-vehicle-manufacturing-driverless-cars-94cb491f6a724832b4035c9e73307245/gallery/7527a609981d83b948368ab9c9cfd2e3"
+originalUrl: "https://apnews.com/article/technology-business-transportation-equipment-manufacturing-commercial-vehicle-manufacturing-driverless-cars-94cb491f6a724832b4035c9e73307245"
+webUrl: "https://apnews.com/article/technology-business-transportation-equipment-manufacturing-commercial-vehicle-manufacturing-driverless-cars-94cb491f6a724832b4035c9e73307245"
 type: article
 quality: 0
 heat: -1
@@ -70,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "b88tB4Ty14sTuOZjw/QtEc+hXoH+zS6El96AMU3vLoQr5Ls53JylrhDh7hncAeFgK4/g+uKpZTBLffF7aKy1x9ZqF2pY4doaKQm9vbX8aLNCGx3Kmzx8wd6OpgbGuDdzXv5irP3SXQTqZN60oFlAY76p3IgFvhpiV0FYRG0wCs+9SM8inrvjepuOVUaN5Kooxy4X+Xa/WsTZrd7uTg6Vu0vVioggh4V3QrrRk/LSES2JL+NcZpQWKmvLPoHlu7yxi+mJhz3c3skpHthLDR0wSXzmCC8UF3jX/eOak8ANCzaOuY/8LeIqeKKrYj0rTumNhBjN3NLJjllFlpq6fwmr1/0nxMbQuwU8sI8xUkQ8XMc=;OImqmXYUFKN1ri9DOsqJiQ=="
+secured: "zZneyTkLeLBwBTrydiToxWeLJsbabA2jkMSbNMx2DYseWctUkMV0yKXx3z1nw0y8kbFj8EUV8qVCW2f3PlSFo2+Mr4bUaMpYxJLshdUJ+7CQRuoKbfkl9IEUrYak0HHduFMKJpBZeeCeAOZpjMNcnJ46GYAepRlTsgTBuN8ADz6rGhr5eXVqHlmEuDmd0xEcYxf1DBJpQhg/EqoNfwex+LbnJtSy8WirrTgiG6a7vbC/j2NqAnp71F9Irsg5rgk/HwpOcXtvpxZcoHGnNDcN40CO8b/hyjD0q0paKLz3VIvC6rGah8OCF/IRr/YKmvq8dUPTmjWfPXGpZLp/Q/IHRWLWm4l72XARmLoH9D+G97U=;2mPdqcRHnnG3yspSBgYjgg=="
 ---
 

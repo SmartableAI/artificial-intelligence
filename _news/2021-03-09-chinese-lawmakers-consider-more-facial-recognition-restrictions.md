@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
-    excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
-    publishedDateTime: 2021-03-09T03:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/12/JD-shirt-China.jpg"
-        width: 505
-        height: 325
-        isCached: true
   - title: "Quantifind Introduces Chinese Language Support for Truly Global Financial Crimes Investigations Automation"
     excerpt: "Quantifind, a provider of a SaaS solution used by banks to automate name screening and financial crimes investigations, announced that it has added support for search and analysis of Chinese-language data sources to its Graphyte™ platform."
     publishedDateTime: 2021-03-08T16:47:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-c
 cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/"
 type: article
 quality: 74
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: WLNS.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition company Clearview AI sued by California activists"
+    excerpt: "ALAMEDA, Calif. — Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people ..."
+    publishedDateTime: 2021-03-10T02:52:00Z
+    webUrl: "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 104
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Immigrant rights groups sue facial-recognition company Clearview AI"
     excerpt: "Two immigrant-rights groups in California are suing Clearview AI, claiming the face-recognition company violates privacy laws by building the largest database of human faces in the nation and providing law enforcement with the database even in cities that have banned facial recognition."
     publishedDateTime: 2021-03-09T22:47:00Z
@@ -37,11 +53,27 @@ related:
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/05/6b363956-423a-4cc9-a04e-47d365d2fb9f/thumbnail/1200x630/4c6d01fc0d9aec5e1a7a02195a916386/clearview-ai-app-tryout-01.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities (and probably yours)"
+    excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."
+    publishedDateTime: 2021-03-10T12:03:00Z
+    webUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/"
+    ampWebUrl: "https://www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/03/09/bay-area-activists-sue-facial-recognition-firm-claiming-it-snatched-their-identities-and-probably-yours/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 59
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Facial recognition company sued by California activists"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
@@ -68,15 +100,29 @@ related:
       name: Raleigh News & Observer
       domain: newsobserver.com
     quality: 36
-  - title: "Employee recognition is essential to company success"
-    excerpt: "For more than a quarter of a century, I have espoused our motto: “The secret to our success is in our people.” This is not the result of an individual epiphany more than it is a workable acknowledgment of a constant truth that all of us in the business world should come to realize if we are to approach even a modicum of success."
-    publishedDateTime: 2021-03-08T16:35:00Z
-    webUrl: "https://www.bizjournals.com/phoenix/news/2021/03/08/employee-recognition-is-essential-to-company-success.html"
+  - title: "Have you been ‘scraped’? Facial recognition company sued over data base of 3B people"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
+    publishedDateTime: 2021-03-10T11:19:00Z
+    webUrl: "https://www.wraltechwire.com/2021/03/10/have-you-been-scraped-facial-recognition-company-sued-over-data-base-of-3b-people/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 6
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 34
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2020/09/man-1253004_1280-e1599837448363-1024x575.jpg"
+        width: 1024
+        height: 575
+        isCached: true
+  - title: "Russian Case Law in 2020 on Recognition and Enforcement of Foreign Judgments Made by Courts of Count"
+    excerpt: "Recognition and enforcement of foreign judgments (‘R&E’) is a persistent problem of Russian case law. Different obstacles still arise even when judgments, filed for R&E in the Russian Federation, are made by courts of countries which are contracting parties to multilateral conventions (e."
+    publishedDateTime: 2021-03-09T18:04:00Z
+    webUrl: "https://www.legal500.com/developments/thought-leadership/russian-case-law-in-2020-on-recognition-and-enforcement-of-foreign-judgments-made-by-courts-of-count/"
+    type: article
+    provider:
+      name: Legal 500
+      domain: legal500.com
+    quality: 0
 
 secured: "ZSUfLD8qllmQ+XYwvnK14Ieut5M+6SvADKpciEeh7+R2ebrfpQmoE5Tz+EaYDrgr0yhgqwLZPbN2WDsHYBwxe79o0ZEfdckGDpb1pL9dbdkZXxmdU9dsRoCZ2i/2kimw11pAYR10TpUWDiJTYDoulEtSLv7vr9k4winuRLSCPo4afCza49LUrJT0uEttpprXSWc3CeU99r9jZxuj4CIpK4+MX2qZNsorSq7EJHi9bVFcftuhKbZhBi2LhEri1Isc0A7wCatl25gYYvkdiCq9rylmsK8Hd8R7Y0pLZv9jxMNlxUBV+qGeOukcQxJ5+WqLVnIlqq5o7JAhrD698NTrekz/zKfq1rDGtlLdePvjuAAaGiBExfm+hExBBq+KNur3brgxRMmQiwL9DjFUILPmWlWkwnemCaMVDLSgTfiCx4pVgKY2U9yxf+BtJhSG5lD7HRRCpltN3vmtqMQnS/0UqBFpePVR3VR9nCcFyqTSy1QdsOrFaT7eq0jlGlduemFISkXT5QRm9asahXEyzTSMPA==;o6XHHiTVvVru1LFQAmYGAw=="
 ---

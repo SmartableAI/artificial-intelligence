@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2021/03/04194728/04-march_spierman-neuron.jpg"

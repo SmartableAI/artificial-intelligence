@@ -39,22 +39,6 @@ related:
         width: 1600
         height: 1035
         isCached: true
-  - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
-    excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
-    publishedDateTime: 2021-03-09T03:55:00Z
-    webUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2021/03/172940-chinese-fintech-giant-jd-technology-is-reconsidering-potential-3b-ipo-due-to-nationwide-regulatory-crackdown/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2014/12/JD-shirt-China.jpg"
-        width: 505
-        height: 325
-        isCached: true
 
 secured: "u1vsMyVip71e6iNYIZIZfpSzvH+E+DqMlISKA+ZwPIa3JV9JhRPrSzjraV9Dr0Kxy3cVEXn+EKz7+axVyZOJ9kzQt32iyPux7n+ueEgGE1fxE8sUvpP2NzBQrJ//4kDi0LQfd5+ptw/FBLfqhHFZ408kE2dq9SXQeiSNeYyQ/UxOs45LwSP9fpMJP4M9oR0LdV04J4EV1e5kwx7IXMAEqRBNu6IbozME+txFXcLvD9k6BhrhNJbsmBg0tbVWK1XZXs/Va7K8Rol/V6x3OFBe47la7iKpXJEYcqgi3dgJS4TA9BmKB/b8Xx4KgCZYXM/h3L1f8wfrqbeqFzyeCpJ/kOldvFF1wUdql0pYm3T9s3o=;mDbmN18lbLtAtcd3EpT15g=="
 ---

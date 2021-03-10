@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-acc
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
 type: article
 quality: 87
-heat: 138
+heat: 137
 published: true
 
 provider:

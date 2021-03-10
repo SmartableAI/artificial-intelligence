@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-27-commentary-how-robotics-are-changing-jobs-in-canada.md",
+      "title": "COMMENTARY: How robotics are changing jobs in Canada",
+      "excerpt": "One widely cited study estimates that 47 per cent of jobs in the United States are at risk of being replaced by robots and artificial intelligence. Read more: The 5-minute shopping spree.",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/",
+      "originalUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/385346/original/file-20210219-13-hcqsmp.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/7661927/jobs-canada-robitics-artificial-intelligence/amp/",
+      "publishedDateTime": "2021-02-27T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-researchers-are-developing-3d-structural-sensing-robots-to-handle-healthcare-tasks.md",
       "title": "Researchers are developing 3D structural-sensing robots to handle healthcare tasks",
       "excerpt": "Robots that could take on basic healthcare tasks to support the work of doctors and nurses may be the way of the future. Who knows, maybe a medical robot can prescribe your medicine someday? That's the idea behind 3D structural-sensing robots being developed and tested at Simon Fraser University by Woo Soo Kim,",
@@ -1337,50 +1381,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-will-robots-rule-the-world-new-haven-author-has-the-answers-to-artificial-intelligence-questions.md",
-      "title": "Will robots rule the world? New Haven author has the answers to artificial intelligence questions",
-      "excerpt": "Steve Shwartz isn’t particularly worried about artificial intelligence, and if anyone should know whether or not to panic, it’s him. He’s been working in artificial intelligence since 1979, when he enrolled in a post-doctorate program at Yale.",
-      "sourceUrl": null,
-      "webUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
-      "originalUrl": "https://www.middletownpress.com/entertainment/article/Will-robots-rule-the-world-New-Haven-author-has-15960667.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/16/54/00/20627507/3/rawImage.jpg",
-          "width": 1900,
-          "height": 1267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Middletown Press",
-        "domain": "middletownpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI",
         "AI in Robotics"
       ]

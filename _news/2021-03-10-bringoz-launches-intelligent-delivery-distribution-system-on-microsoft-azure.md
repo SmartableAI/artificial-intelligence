@@ -99,6 +99,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
+    publishedDateTime: 2021-03-10T12:46:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "5/A/rJGuvt9gzn2k6UAmbilI67sihWnUtGdNs95E03Il/7xEwuZ2FEcXWIDQsWFiDb9ZfQr0G9La/F1lSRrKgB8jOHseIP0Fft7zC9I93tm05kyDde6qd2b7atfOXSU/HjMmYjqiMT8H2MT12IkLCRLSU0ONQf0b2qxUCj3aOrX9rhJoT924Y8UWSJ/VRHvFUEe+5GlCEfBJ1t6DmQFUUfbW+T7rePQjG0M7kasiSjJxMIC368NfzPm3e4Kj815JtNz2JMp6d8YyP2h6bLEamhuzS0wrGY819ERtXwBsoH2060B8onacwhq4zW7W6oQpZ1HsF1T4e4T1bOd6v7y6xRJhk3uB9hgP6AjCNvNF95o=;223mro4fJi2XnQdnhLYYhQ=="
 ---

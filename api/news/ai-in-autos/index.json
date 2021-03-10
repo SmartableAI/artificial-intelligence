@@ -1324,6 +1324,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-why-driverless-cars-are-paradise-on-wheels-for-some.md",
+      "title": "Why driverless cars are paradise on wheels for some",
+      "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=retirement",
+      "originalUrl": "https://www.marketwatch.com/story/why-driverless-cars-are-paradise-on-wheels-for-some-11613762415?mod=retirement",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-301724/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-why-driverless-cars-are-paradise-on-wheels-for-some.md",
       "title": "Why driverless cars are paradise on wheels for some",
       "excerpt": "Like objects in your side-view mirror, driverless cars or autonomous ... spectrum generally favorable toward using forms of artificial intelligence like AVs, but with more enthusiasm among ...",
@@ -1405,49 +1457,6 @@
       "provider": {
         "name": "SmartData Collective",
         "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-lets-all-vote-should-we-crowdsource-the-morality-of-driverless-cars.md",
-      "title": "Let’s all vote: should we crowdsource the morality of driverless cars?",
-      "excerpt": "If a driverless car is hurtling towards a pedestrian ... those MIT researchers took the subsequent data and created an artificial intelligence that could learn from these results and make similar ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scpr.org/programs/airtalk/2017/10/19/59749/let-s-all-vote-should-we-crowdsource-the-morality/",
-      "originalUrl": "https://www.scpr.org/programs/airtalk/2017/10/19/59749/let-s-all-vote-should-we-crowdsource-the-morality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a.scpr.org/i/f95e247b712a2d44b88eab362266ac4e/174547-full.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPCC",
-        "domain": "scpr.org",
         "images": null,
         "publishers": null,
         "authors": null

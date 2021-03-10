@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-10-lawsuit-claims-facial-recognition-company-stockpiled-personal-data.md",
-      "title": "Lawsuit claims facial recognition company stockpiled personal data",
-      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world.",
+      "path": "_news/2021-03-10-facial-recognition-company-clearview-ai-sued-by-california-activists.md",
+      "title": "Facial recognition company Clearview AI sued by California activists",
+      "excerpt": "ALAMEDA, Calif. — Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/",
-      "originalUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/",
+      "webUrl": "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
+      "originalUrl": "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wlns.com/wp-content/uploads/sites/50/2021/03/KEYBOARD-COMPUTER-INTERNET-HACKING-CYBERSECURITY-ONLINE-ELECTRONICS-FULL.png?w=1280",
-          "width": 1280,
-          "height": 720,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/",
-      "cdnAmpWebUrl": "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/",
-      "publishedDateTime": "2021-03-09T21:09:00-08:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
+      "publishedDateTime": "2021-03-09T18:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WLNS.com",
-        "domain": "wlns.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

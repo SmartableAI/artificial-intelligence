@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/03/06/business/the-robots-are-coming-fo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/06/business/the-robots-are-coming-for-phil-in-accounting.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "A|I: The AI Times – The robots are coming for Phil in accounting"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2021-03-10T11:00:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-the-robots-are-coming-for-phil-in-accounting/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 54
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/03/alex-knight-2EJCSULRwC8-unsplash-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "8YG54GSnxQipb297pfrjIZWYDnKBUdDGo1ZfsML5krZ5sFgz2Q1MaV7i2hWq/gGjqi5x76o06XRtXPCo/ol4cRajobGoc5FEkcMPkOtb/R3I+4uLA+ziHNrMtZ5SHrMShp04a9rFPsaD5CcuMdIot6DcctQjNvhI1Jt1EuinG3b8VyHk0Kr2F77gxPH07IG3qPUbg8a7eyFbEl6z0TYm4GbVqLB8iqrTgBJwokVvCeIKdVNUjz4KHb83roGxyHzm7AmDe+cKwJrh6+JIY35qMhXWP74GqFFFsB/sVHT3lyQzKpBfS0yPAnyPR4g9KOwmSfL8HOg3joNuvgKWjlsKrSQqSt5ul7JC+v/Bf8ivjtM=;wIG+47SW/CLwwZXZbevwlw=="
 ---

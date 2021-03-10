@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-how-fintech-is-evolving-in-2021.md",
+      "title": "How Fintech Is Evolving In 2021",
+      "excerpt": "This year is paving the way to a brighter future, and fintech is at the forefront. Here are some of the key areas in which fintech is evolving right now. For 14.2 million U.S. citizens, digital banking is their only form of money management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f52482e3813fbe2dd6ff492%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/",
+      "publishedDateTime": "2021-03-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-cloud-cybersecurity-startup-lumu-raises-a-75-million-series-a.md",
+      "title": "Cloud cybersecurity startup Lumu raises a $7.5 million Series A",
+      "excerpt": "Miami-based cybersecurity startup Lumu today announced the closing ... firewalls and spam box filters, then applies AI to correlate threat intelligence from these disparate data sources to isolate ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1179506263.jpg?w=1024",
+          "width": 1024,
+          "height": 557,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/amp/",
+      "publishedDateTime": "2021-03-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-africa-the-ethics-of-ai-to-ensure-food-security-and-development.md",
       "title": "Africa: The Ethics of AI to Ensure Food Security and Development",
       "excerpt": "Opinion - One year after the call for a group of international and religious organizations and important multinational companies to incorporate ethics into the design of artificial intelligence (AI),",
@@ -10,7 +113,7 @@
       "originalUrl": "https://allafrica.com/stories/202103100180.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -99,21 +202,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-10-lawsuit-claims-facial-recognition-company-stockpiled-personal-data.md",
-      "title": "Lawsuit claims facial recognition company stockpiled personal data",
-      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world.",
+      "path": "_news/2021-03-10-facial-recognition-company-clearview-ai-sued-by-california-activists.md",
+      "title": "Facial recognition company Clearview AI sued by California activists",
+      "excerpt": "ALAMEDA, Calif. — Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/",
-      "originalUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/",
+      "webUrl": "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
+      "originalUrl": "https://www.marketwatch.com/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 174,
       "tags": null,
       "images": [
         {
-          "url": "https://www.wlns.com/wp-content/uploads/sites/50/2021/03/KEYBOARD-COMPUTER-INTERNET-HACKING-CYBERSECURITY-ONLINE-ELECTRONICS-FULL.png?w=1280",
-          "width": 1280,
-          "height": 720,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,14 +224,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/",
-      "cdnAmpWebUrl": "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/",
-      "publishedDateTime": "2021-03-09T21:09:00-08:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/facial-recognition-company-clearview-ai-sued-by-california-activists-01615344732",
+      "publishedDateTime": "2021-03-09T18:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WLNS.com",
-        "domain": "wlns.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -247,7 +359,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/active-learning-workflow-for-amazon-comprehend-custom-classification-part-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -300,7 +412,7 @@
       "originalUrl": "https://techxplore.com/news/2021-03-neural-network-mirrors-human-brain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -448,7 +560,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-a-new-api-to-stop-in-progress-workflows-in-amazon-forecast/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -1145,100 +1257,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-fintech-startup-intellect-launches-ai-powered-aadhaar-processing-solution.md",
-      "title": "Fintech startup Intellect launches AI-powered Aadhaar processing solution",
-      "excerpt": "Intellect Design Arena says the AI solution used to identify, extract, validate, and mask Aadhaar details hyper-digitises the end-to-end processes using Aadhaar-based processing.",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution",
-      "originalUrl": "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/e641e900925711e9926177f451727da9/aadhaar15627408699411575965021660png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/03/fintech-startup-intellect-launches-aadhaar-processing-solution/amp",
-      "publishedDateTime": "2021-03-08T23:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic.md",
-      "title": "KPMG: AI adoption accelerated too fast during the pandemic",
-      "excerpt": "The outlook for artificial intelligence is optimistic under the Biden administration, but executives want industry regulation, a survey finds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "originalUrl": "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/",
-      "publishedDateTime": "2021-03-08T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

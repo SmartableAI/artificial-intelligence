@@ -2,26 +2,28 @@
 category: news
 title: "In a leap for battery research, machine learning gets scientific smarts"
 excerpt: "Researchers combined machine learning with knowledge gained from experiments and equations guided by physics to discover and explain a process that shortens the lifetimes of fast-charging lithium-ion batteries."
-publishedDateTime: 2021-03-08T17:42:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/03/210308111910.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111910.htm"
+publishedDateTime: 2021-03-08T16:04:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/dnal-ial030521.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-03/dnal-ial030521.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "muwV4yyGT4qOFdNPRQfWCmjO7td/5OsytgzfvEnC+TvchuO9we3DGdUUrwoFJKQqvs4yEj5RkH8tXvG8X466FeqChLzOu6KoN/WsTI1F7S7B/QBIjJZATaFgk+xIwYpAqXRxdNI3mozaOSdxUYdmwug5ajAlPqPnMzN1vq7c5UKZBSMJSgYxP78TQOL/iTU/fiuUWA/wE1AVZE36qJCElm8oiDEUnz/0v3ULkHU/h8+frJNR2+wAJCTaBMWjRv548sGrSYh3eWWzqoxq/XYnUBgz2UiLNhMFSBUOrevaZqmTQnCxPbnmQ10+f5SoTVV3+tEmmwtPcSkOYsEu10jI+0f4cGI3oJ2mXKimozP1QgA=;M0YwDdZqg9CKzsDTyD6uzg=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/258336_web.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "17b8UAH8RJ7z+VcD53XXvle20MOpsQ8Zdvq2z7/kGAGJu7wXIuyk+mO20TLvZtfdLyF4k1OsQ7qtaf/EXGPbxAqVGTtoJruhA0KBlvQ3RaKeBA7Efirmq4a1BPGfVpJYpNJi+q329+a1LhxHS9l38WpaA3v2WX2vFwBPQCIYlQaZL1w/jqDBf7fuJ1whTb43XnMo7M6swyCtJv5mDYmHAnxHag7nH3vpoODAkA2SaCnb/+i7fh8iwQUovpfQAOA8m7TugPKw8/MASF18IPnmhVOiEyp+znEkMgZGBIwG0iiCSiDoaVj+ikSsEOm074QZMq/byPs70qKqLLerPf4IpS6fCZQQv2bGzMiwBnyRY9I=;jgbD4U1yoqVDtSMDfdPQSA=="
 ---
 

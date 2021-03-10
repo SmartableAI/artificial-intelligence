@@ -9,8 +9,8 @@ ampWebUrl: "https://scienceblog.com/521487/ai-reveals-current-drugs-that-may-hel
 cdnAmpWebUrl: "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/521487/ai-reveals-current-drugs-that-may-help-combat-alzheimers/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: ScienceBlog
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers developed an AI that scours existing drugs for new Alzheimer’s treatments"
-    excerpt: "Scientists used a machine-learning framework called DRIAD to identify a range of medications that could be repurposed to treat Alzheimer's disease."
-    publishedDateTime: 2021-03-05T20:00:00Z
-    webUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/"
-    ampWebUrl: "https://thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/05/ai-repurposing-drugs-treat-alzheimers-disease-machine-learning-dementia/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 80
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-05T193302.899-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
   - title: "AI reveals current drugs that may help combat Alzheimer’s"
     excerpt: "The drugs work by blocking the action of inflammation-fueling Janus kinase proteins, suspected to play a role in Alzheimer's disease and known for their role in autoimmune conditions."
     publishedDateTime: 2021-03-08T08:08:00Z
@@ -75,15 +59,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "Artificial intelligence reveals current drugs that may help combat Alzheimer's disease"
-    excerpt: "Researchers have developed a method based on artificial intelligence that rapidly identifies currently available medications that may treat Alzheimer's disease. The method also reveals potential new treatment targets for the disease."
-    publishedDateTime: 2021-03-05T20:19:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2021/03/210304133509.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 41
   - title: "AI-based method used to screen for Alzheimer’s disease drugs"
     excerpt: "Researchers have used artificial intelligence to screen 80 FDA-approved drugs and reveal which could be used as Alzheimer's treatments."
     publishedDateTime: 2021-03-05T22:16:00Z
