@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-publishedDateTime: 2021-03-10T04:36:00Z
-originalUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
-webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
+excerpt: "Parsons Corporation (NYSE: PSN ) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+publishedDateTime: 2021-03-10T06:38:00Z
+originalUrl: "https://menafn.com/1101727177/Parsons-Unleashing-Artificial-Intelligence-to-Enhance-Decision-Making-Solve-Problems"
+webUrl: "https://menafn.com/1101727177/Parsons-Unleashing-Artificial-Intelligence-to-Enhance-Decision-Making-Solve-Problems"
 type: article
-quality: 60
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -43,22 +39,6 @@ related:
       - url: "https://lcolumbus.files.wordpress.com/2021/03/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-1-1.jpg?w=400"
         width: 400
         height: 292
-        isCached: true
-  - title: "Harnessing The Power Of Artificial Intelligence In Accounting"
-    excerpt: "Instead of fearing technological advancements, CPAs should embrace them and find ways to augment their skills rather than replace them."
-    publishedDateTime: 2021-03-05T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f402c3e474a1d4b8fb150c8%2F0x0.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Recruiting talent by leveraging AI and computer vision"
     excerpt: "AI and computer vision technology are being harnessed to automate time-consuming tasks like candidate screening and interview scheduling."
@@ -119,6 +99,6 @@ related:
         height: 500
         isCached: true
 
-secured: "G8aEh1sFQObn57Q4322l4AIEjONTk8KM+psomjjUgn+9REBPL7uAFS3uVOEU+C/l1qoLWTE06b5Mji2G2bJbVpX3KQ6gEqHFLwVyQGvwxbqmSn6yWCR8whG3KW4J/GzjYroA629bxRk9ODpqLH5NjZqUuxKP5d7SMBuvmO0yv+ZEJ+Q0oA1WE7xbkGd+cfYby27YK8QXJCZMJd5T1OFt7Y8Zw5mUuooU41OmwEcw61OwW/imeoHhGahn8poosU2Ax6BKAFXDfXQQFk2EyavAoWCe06+vrNj0rEhFq4jZ9u/9vsR+V9ptL/T8fVVvk5fFMmNHrU0IkfB5OsVaqpfWUsQzeuijHwm6sxWEmqNhPbo=;mZkwieq0hP4chpvsGbX4NQ=="
+secured: "jFvrKwPKMKjSAjB3e+PaqZpg23VkTWB+8LSThWCnPZzM1VM7u8j8a7QVh0iW3UcGzb4dUp4Vkk4HegB0qCqI/0Mr9CHTyPQ+xVGpn1NFZs/Y0qD3dZmltyQ1DakgXcl5IwxkAlFRVwttaUwVzS5HaG3SxXRBjw9w9z9KbUS9XFDo+qHTiGyhGAJ/zFf4zQ80zu30zk8qNFJufnK87UkQ7aZLXjzw+qHlGyoawiDr9DSaC5EYXVUpE48dvjoK123N4KsgXY627KbklO31Cdgxrbjui8NSxrBaJaAG0db61/hVOS4nuWHNdEQ9Q0jSxR09nXzwzcqpoEz6GTSS1ssj874zzOnhI03gS5Jm+7b5CYI=;h9oms19ZhwxySZF6nPYyiA=="
 ---
 

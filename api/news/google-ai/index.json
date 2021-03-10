@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-researchers-accelerate-sparse-inference-on-xnnpack-and-tensorflow-lite-for-realtime-apps.md",
+      "title": "Researchers accelerate sparse inference on XNNPack and TensorFlow Lite for realtime apps",
+      "excerpt": "XNNPack and TensorFlow Lite now support efficient inference of sparse networks. Researchers demonstrated substantial speedups in inference times on realtime gesture detection and background blur apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/researchers-accelerate-sparse-inference-on-xnnpack-and-tensorflow-lite-for-realtime-apps/",
+      "originalUrl": "https://www.neowin.net/news/researchers-accelerate-sparse-inference-on-xnnpack-and-tensorflow-lite-for-realtime-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/03/1615353472_google_ai_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T17:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-how-ai-trained-to-beat-atari-games-could-impact-robotics-and-drug-design.md",
       "title": "How AI trained to beat Atari games could impact robotics and drug design",
       "excerpt": "Uber and OpenAI researchers say an advance in Go-Explore AI in beating Atari games could have applications for robotics and drug design.",
@@ -1436,58 +1489,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-what-does-it-take-to-operationalize-ai.md",
-      "title": "What Does It Take To Operationalize AI?",
-      "excerpt": "Software development processes and team structures have evolved a lot over the years, from waterfall and agile to DevOps and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee3c90cac807a0006b5add4%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/17/what-does-it-take-to-operationalize-ai/amp/",
-      "publishedDateTime": "2021-02-17T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

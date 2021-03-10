@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-09-artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027.md",
+      "title": "Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027",
+      "excerpt": "Global Artificial Intelligence (AI) in Retail Market Size to reach USD 24 billion by 2027. Global Artificial Intelligence (AI) in Retail Market is valued at approximately USD 3 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 29.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-size-to-reach-usd-24-billion-by-2027-2021-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T12:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-why-baidu-stock-jumped-206-in-february.md",
+      "title": "Why Baidu Stock Jumped 20.6% in February",
+      "excerpt": "Shares of Baidu (NASDAQ:BIDU) jumped 20.6% in February, according to data from S&P Global Market Intelligence. Excitement about the company's entry into the electri",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616679%2Fgettyimages-1178244881.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/08/why-baidu-stock-jumped-206-in-february/",
+      "publishedDateTime": "2021-03-08T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-roborock-s7-review-setting-the-bar-again-on-robot-mopping.md",
       "title": "Roborock S7 Review: Setting The Bar Again, On Robot Mopping!",
       "excerpt": "The S7 is the latest line of robot vacuums from Roborock, after having the S6 series the last couple of years. The main upgrade with the Roborock S7 this",
@@ -761,7 +864,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -1058,7 +1161,7 @@
       "originalUrl": "https://www.wsj.com/articles/china-targets-ai-chips-among-seven-battlefronts-in-tech-race-with-u-s-11615135881",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1150,110 +1253,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-uws-os-keyes-takes-on-techs-ethical-challenges-from-gender-bias-in-ai-to-facial-recognition.md",
-      "title": "UW’s Os Keyes takes on tech’s ethical challenges, from gender bias in AI to facial recognition",
-      "excerpt": "A PhD candidate with the University of Washington's Department of Human Centered Design & Engineering, Os Keyes researches the ethical and political impact that new technologies have on the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/os-keyes/",
-      "originalUrl": "https://www.geekwire.com/2021/os-keyes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/Edwards_STEMos_HERO-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/os-keyes/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/os-keyes/amp/",
-      "publishedDateTime": "2021-03-07T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
-      "excerpt": "The technology sector has been hit hard as of late, as the impending economic reopening has gotten more attention, and rising long-term bond rates have hit growth stocks particularly hard. As rates go up,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "originalUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616516%2Fgettyimages-1163715561.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
-      "publishedDateTime": "2021-03-07T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

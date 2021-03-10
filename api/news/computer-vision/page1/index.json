@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-lawsuit-claims-facial-recognition-company-stockpiled-personal-data.md",
+      "title": "Lawsuit claims facial recognition company stockpiled personal data",
+      "excerpt": "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/",
+      "originalUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wlns.com/wp-content/uploads/sites/50/2021/03/KEYBOARD-COMPUTER-INTERNET-HACKING-CYBERSECURITY-ONLINE-ELECTRONICS-FULL.png?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/",
+      "cdnAmpWebUrl": "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/",
+      "publishedDateTime": "2021-03-09T21:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLNS.com",
+        "domain": "wlns.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-ultra-sophisticated-computer-vision-defeated-by-pen-and-paper.md",
       "title": "Ultra Sophisticated Computer Vision Defeated By Pen and Paper",
       "excerpt": "By exploiting the model’s ability to read text robustly, we find that even photographs of hand-written text can often fool the model...this attack works in the wild; but...it requires no more technology than pen and paper.",
@@ -211,7 +254,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1400,49 +1443,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-continental-invests-in-object-recognition-start-up.md",
-      "title": "Continental invests in object recognition start-up",
-      "excerpt": "Who could say that Azerbaijan was wrong when the war started? - President Aliyev Politics 6 March 14:34 New stage already evident in economic sphere, period of transparency, precision, when ...",
-      "sourceUrl": null,
-      "webUrl": "https://en.trend.az/world/europe/3385165.html",
-      "originalUrl": "https://en.trend.az/world/europe/3385165.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.trend.az/2021/02/23/continental_230221.jpg",
-          "width": 1022,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T04:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trend News Agency",
-        "domain": "trend.az",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

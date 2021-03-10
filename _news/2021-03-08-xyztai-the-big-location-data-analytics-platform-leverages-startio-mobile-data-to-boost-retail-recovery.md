@@ -51,6 +51,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 38
+  - title: "Strategy Analytics: 71% of Smartphones Sold Globally in 2021 will be AI Powered"
+    excerpt: "Global Smartphone Virtual Assistant Penetration in 2021 (Graphic: Business Wire) “Strategy Analytics estimates that 71% of all smartphones sold worldwide in 2021 will have on-device AI,” says Associate Director Ville-Petteri Ukonaho."
+    publishedDateTime: 2021-03-10T05:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-smartphones-integrated-circuits-consumer-electronics-manufacturing-d74497c6dd0d4cd5a4347ba97b92278a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "ASMkqc4qQ4NT5zfMPDNYaQbb3Wmvrn9dPy4rNvu2OjQPpre0WpQq0mSA+5d/30FeocEJetqaJtY08OmTvhgDNPHfAgTiuW+jb336SzhI/c//00Ql3kwT0UjCIl5IC+7TEqpXr836NSppmFFhyCmXR+djpV9CB2e5yXGnCOPZBdBPkMJ6hcEWbsGrr8BcyOnn/dmRlcveNvhMiCjwpBlrPgTE9u4l44zyOoLmZoYA6gdEVQab21fNdSpTZ2hqYDHfbuU/WVSbK88KE2xysGLk8lN2lLvr/uS2y7YcfqdhWxrJEDrfEINOOQzkwaLamS+gwm3OWlrU2DVl9wwBG0nIxSZZQl8ABw/TkPDpyZh8Rkg=;T9PDdVQWq9bpd5T4nTKJhw=="
 ---

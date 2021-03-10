@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Drug Discovery Market Size, which is a detailed analysis of this business space inclusive of the trends,"
+    publishedDateTime: 2021-03-10T06:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Cognitive Spending Systems Market 2020 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2025"
     excerpt: "Global Cognitive Spending Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2026 aims"
     publishedDateTime: 2021-03-08T00:35:00Z

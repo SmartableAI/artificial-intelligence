@@ -26,17 +26,6 @@ images:
     height: 713
     isCached: true
 
-related:
-  - title: "Holographic nanostructures on CMOS sensors for energy-efficient AI security schemes"
-    excerpt: "Researchers have realized an AI optical circuit, with a neural density equal to 1/400 of human brain. The circuit is trained to process information through unpowered all-optical inference at the speed of light with a computational power more than ten orders of magnitude larger than electronic processors."
-    publishedDateTime: 2021-03-05T14:43:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=57455.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 30
-
 secured: "CQmQSeO3YUfHX+14dXXxQluWjwZ1VGarWy+W/2s/rxlpiqouoZyIqePc5epDbBybLbzVSpgtSH+6XvibUWHTGgxuXMdx8uqSjoLuhtfWBnJvCb76sXZcSf1oEeHhyIAGvfXDYTRYqf2I7V1T78RXsEVKgPgzpdYf1FmMsPzOjNXS4dG9DZduRjVsF6XTn7P7+HezpfBqnu7Xgx3oMdJQ5iLnrDdBGsdMPPvFfn+uvUbpnOFLRzfvzljFez5C7UHSIg04siCy75jJRuYo3YBwoPnxuloxfb4EwPJoXDQDLhHirjX2MaD0M5pYSfqNHhy6PkfcVCfzRKzxIff3nw/b/f0UQMJS2vxC0ighQ8xOurlTtnAAOnwf/BEwbofsXRR1HRNfH80aUiS/SivqUXUsLVSpL6Ss3sr9alK6u82gN545XSWfMHPyUoRawuwJr/jjwiVsONwSwA2f+E58mRJbi94DbHzzdSh2XRyv3l5X0TyoK3xN7vnflDblcRbB7BERdVDmOZnssjffE1JC3UoNCA==;e92M/uFjAddnL8KtAsK7Qw=="
 ---
 

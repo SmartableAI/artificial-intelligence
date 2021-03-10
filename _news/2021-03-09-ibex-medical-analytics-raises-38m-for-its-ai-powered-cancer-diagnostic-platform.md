@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 38
+  - title: "Strategy Analytics: 71% of Smartphones Sold Globally in 2021 will be AI Powered"
+    excerpt: "Global Smartphone Virtual Assistant Penetration in 2021 (Graphic: Business Wire) “Strategy Analytics estimates that 71% of all smartphones sold worldwide in 2021 will have on-device AI,” says Associate Director Ville-Petteri Ukonaho."
+    publishedDateTime: 2021-03-10T05:51:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-smartphones-integrated-circuits-consumer-electronics-manufacturing-d74497c6dd0d4cd5a4347ba97b92278a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "xyzt.ai, the big location data analytics platform, leverages start.io mobile data to boost retail recovery."
     excerpt: "Leuven 08 March 2021 – xyzt.ai ( a Leuven-based technology start-up offering an innovative visual analytics SaaS platform for big location data, announces today that it is a data visualization partner of Start."
     publishedDateTime: 2021-03-08T15:07:00Z

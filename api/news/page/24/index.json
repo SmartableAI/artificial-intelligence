@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-18-locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform.md",
+      "title": "Locus Robotics raises $150 million to scale its warehouse robotics platform",
+      "excerpt": "Locus Robotics, a startup developing warehouse automation technologies, has raised $150 million at a $1 billion post-money valuation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
+      "originalUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/robotline-e1591072433620.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/17/locus-robotics-raises-150-million-to-scale-its-warehouse-robotics-platform/amp/",
+      "publishedDateTime": "2021-02-17T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-ftc-settles-facial-recognition-data-misuse-allegations-with-app-developer.md",
       "title": "FTC Settles Facial Recognition Data Misuse Allegations with App Developer",
       "excerpt": "The proliferation of mobile devices and digital media allows consumers to take, post, and store more photos and videos than ever before. Since 2015, app developer Everalbum has operated the mobile app",
@@ -1153,57 +1205,6 @@
         "Machine Learning",
         "Google AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry.md",
-      "title": "Bearing Brings AI-Powered Operational Efficiencies to the Maritime Shipping Industry",
-      "excerpt": "Highly accurate ship performance models built off real-world data Business Wire PALO ALTO, Cal",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2021-02-16/bearing-brings-ai-powered-operational-efficiencies-to-the-maritime-shipping-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T01:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

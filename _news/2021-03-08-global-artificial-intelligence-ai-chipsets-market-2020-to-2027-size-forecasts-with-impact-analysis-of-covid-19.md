@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08"
 type: article
 quality: 81
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Drug Discovery Market Size, which is a detailed analysis of this business space inclusive of the trends,"
+    publishedDateTime: 2021-03-10T06:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "US AI in E-commerce Market to 2025, Future Outlook, COVID-19 Impact Analysis, Forecast 2019-2025"
     excerpt: "US AI in e-commerce market is projected to grow at a CAGR of 26.0% during the forecast period (2019-2025). The"
     publishedDateTime: 2021-03-08T19:57:00Z

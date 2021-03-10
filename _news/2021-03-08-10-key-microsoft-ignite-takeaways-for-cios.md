@@ -85,15 +85,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
-    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
-    publishedDateTime: 2021-03-05T13:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
+  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
+    excerpt: "said Sahir Anand, Principal, Industry Lead – Microsoft Azure Cloud+AI for Retail & CPG at Microsoft. Bringoz is a SaaS-based delivery logistics platform that provides shippers & carriers an end-to-end, scalable delivery infrastructure. Bringoz is a ..."
+    publishedDateTime: 2021-03-09T16:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "fcRglKUgoJECdt0bTxkXln97fAalKJHpgrI+c5oZ9aU//o2rNWKtnPOBwfG7O57m7u6M6wTAaB9t/ouXIGRX/UASnkHX7iGmWsGB7Y0xUz25+FKSH54DrVFPhEf6GCvjuC/zW/uhlKhRzeilmON43/R1GcsKj2OSJzRDE7KGMetYkKL+eTqaVCAy8KKQ9GGr7eYTvXlPOmK2w6KjsH1KQNjERyZqYhHpW12KaiEX76a52T27e4T9n7zFiZcbk28VRRXZJl3bbpNDUO8Y6Fvi/a0ylSecHQ6glYxvBiQGGHgscQPHRM17EHdB/rV7FqJf/qg5C4lXJx/GM8IAhm73l439vH+DUG1pbZrExfP6NzU=;sNI00f5VpzNJfGcALHZD4Q=="
 ---

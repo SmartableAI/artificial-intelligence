@@ -22,21 +22,37 @@ topics:
   - Computer Vision
 
 related:
-  - title: "California bill would require all self-driving vehicles to be zero emission by 2025"
-    excerpt: "California might be the first state to give self-driving cars a deadline to electrify. In mid-February, a bill was quietly introduced into the California State Legislature that would require all autonomous vehicles to also be zero emission by 2025."
-    publishedDateTime: 2021-03-05T20:57:00Z
-    webUrl: "https://techcrunch.com/2021/03/05/california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025/"
-    ampWebUrl: "https://techcrunch.com/2021/03/05/california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/05/california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025/amp/"
+  - title: "Lawsuit claims facial recognition company stockpiled personal data"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world."
+    publishedDateTime: 2021-03-10T05:09:00Z
+    webUrl: "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/"
+    ampWebUrl: "https://www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/"
+    cdnAmpWebUrl: "https://www-wlns-com.cdn.ampproject.org/c/s/www.wlns.com/top-stories/lawsuit-claims-facial-recognition-company-stockpiled-personal-data/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 68
+      name: WLNS.com
+      domain: wlns.com
+    quality: 74
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024"
-        width: 1024
-        height: 576
+      - url: "https://www.wlns.com/wp-content/uploads/sites/50/2021/03/KEYBOARD-COMPUTER-INTERNET-HACKING-CYBERSECURITY-ONLINE-ELECTRONICS-FULL.png?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Immigrant rights groups sue facial-recognition company Clearview AI"
+    excerpt: "Two immigrant-rights groups in California are suing Clearview AI, claiming the face-recognition company violates privacy laws by building the largest database of human faces in the nation and providing law enforcement with the database even in cities that have banned facial recognition."
+    publishedDateTime: 2021-03-09T22:47:00Z
+    webUrl: "https://www.cbsnews.com/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/clearview-ai-facial-recognition-sued-mijente-norcal-resist/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/02/05/6b363956-423a-4cc9-a04e-47d365d2fb9f/thumbnail/1200x630/4c6d01fc0d9aec5e1a7a02195a916386/clearview-ai-app-tryout-01.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Facial recognition company sued by California activists"
     excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stock"
@@ -52,6 +68,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Employee recognition is essential to company success"
+    excerpt: "For more than a quarter of a century, I have espoused our motto: “The secret to our success is in our people.” This is not the result of an individual epiphany more than it is a workable acknowledgment of a constant truth that all of us in the business world should come to realize if we are to approach even a modicum of success."
+    publishedDateTime: 2021-03-08T16:35:00Z
+    webUrl: "https://www.bizjournals.com/phoenix/news/2021/03/08/employee-recognition-is-essential-to-company-success.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "+ydtItgp1rwyb+oq59UYuBnVGfN1CCDbiDs8x2RsLO5eAHVxwKRcHmTWV7zD6wzlWhVH2ksjWbOA1NJAPZMr9yLpcKOEZM2mDLpZfDV5fd6VPRf4QiK7SdZurpRU5QopP5BYGv2ZUNKiY58MLfnP0ziraTZl4/t3OW62y1/PvKRogeJeXcFzP8yFluGekUTLGjdL0/apsEefa1srEoJkpcRYARipzr1w0Z/HURG0XVb1yoUO3sQFdS7JXqgRdjF4/548+EQNRtKiMfKSt6YMCULx2MM8Phh8kiUOyAbLXZWajBTJ6QiA1vSvgzaZamiQmUwmfJjsI+qLeZoTtUfJYuAIlbdwsMJXHqv38vPDfqYtlMygEBuyXsXKjEtT9b/9lN+R896bruggOcdz4vcee/XfGVSbd7F/OF77YwVLU3U/r0EshEZr5tJfWWDFfh8ZcCZCKkmRdug+GkiAjo+iqCAOrtBGdieaA1lF7giMDXIdvHN4RvkpIXJT/lymZQsXWR5z2W1mYYQTdvuHur+kUg==;5RbBgPNHL/hYoS7Anihwqw=="
 ---

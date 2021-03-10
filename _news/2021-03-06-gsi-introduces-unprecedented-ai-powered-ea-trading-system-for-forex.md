@@ -7,7 +7,7 @@ originalUrl: "https://www.wboc.com/story/43451803/gsi-introduces-unprecedented-a
 webUrl: "https://www.wboc.com/story/43451803/gsi-introduces-unprecedented-ai-powered-ea-trading-system-for-forex"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "NHAI introduces AI-based face recognition system for attendance monitoring"
-    excerpt: "In line with its commitment to adopt technology to enhance transparency and accountability, the National Highways Authority of India (NHAI) has deployed artificial intelligence (AI)-based face recogni"
-    publishedDateTime: 2021-03-05T14:49:00Z
-    webUrl: "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/logistics/nhai-introduces-ai-based-face-recognition-system-for-attendance-monitoring/article33997681.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 72
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/dd046b/article33220251.ece/ALTERNATES/LANDSCAPE_615/BL02AI"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Voice-based artificial intelligence for SA"
-    excerpt: "Pangea Communication introduces voicebots, which solve routine issues with clients, saving time and giving operators capacity to deal with more complex requests."
-    publishedDateTime: 2021-03-08T09:02:00Z
-    webUrl: "https://www.itweb.co.za/content/Kjlyrvw1oGOMk6am"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
 
 secured: "kDgAas2ySSJlgm6d2qjWGBIIJbXcYGk4kFM9+ji+rd8+kseuNShQuWs0PLpeS5FaN8uah4oLLWBfNSoLRdYg4YEtPGBJV3pqz4SS4/5qlctMXAQr31M+kfIlFSAgA1h/dA3XtFGedtWhiQQymvL34B/Lr9wWTF4DeF+Eb/ZTcYb9J4rmDicNw2FGQ9tcxxbSx26I2v4Eyln0jUB/Qu493s+jeE+SVpdIcWh2rvYvASXB3gtuIqi72T35n4l4uLy9g1G7NJ6UMSmTOafEoNMeBU/c/bK7M5tKrkvMOLC5mn6QnVf+E2cVdbnfKEUK8ZqcrWpDr3+G1cBTxWILtml+POl3n4cD6mDRQk9IUtjM+SM=;4i3Q4VUng69IVVKVbPbG6w=="
 ---

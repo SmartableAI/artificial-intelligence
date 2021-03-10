@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-08-uws-os-keyes-takes-on-techs-ethical-challenges-from-gender-bias-in-ai-to-facial-recognition.md",
+      "title": "UW’s Os Keyes takes on tech’s ethical challenges, from gender bias in AI to facial recognition",
+      "excerpt": "A PhD candidate with the University of Washington's Department of Human Centered Design & Engineering, Os Keyes researches the ethical and political impact that new technologies have on the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2021/os-keyes/",
+      "originalUrl": "https://www.geekwire.com/2021/os-keyes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/02/Edwards_STEMos_HERO-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2021/os-keyes/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/os-keyes/amp/",
+      "publishedDateTime": "2021-03-07T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-03-07-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
+      "excerpt": "The technology sector has been hit hard as of late, as the impending economic reopening has gotten more attention, and rising long-term bond rates have hit growth stocks particularly hard. As rates go up,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
+      "originalUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F616516%2Fgettyimages-1163715561.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
+      "publishedDateTime": "2021-03-07T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-artificial-intelligence-ai-is-changing-the-present-and-future-of-digital-finance-market.md",
       "title": "Artificial Intelligence (AI) is Changing the Present and Future of Digital Finance Market",
       "excerpt": "In recent years, with the continuous development of the financial market and the rapid growth of society, the capital market is now in the golden period. As the",
@@ -381,7 +485,7 @@
       "originalUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -414,58 +518,6 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025.md",
-      "title": "California bill would require all self-driving vehicles to be zero emission by 2025",
-      "excerpt": "California might be the first state to give self-driving cars a deadline to electrify. In mid-February, a bill was quietly introduced into the California State Legislature that would require all autonomous vehicles to also be zero emission by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/05/california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025/",
-      "originalUrl": "https://techcrunch.com/2021/03/05/california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Cruise-car-in-Hayes-Valley-San-Francisco.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/05/california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/05/california-bill-would-require-all-self-driving-vehicles-to-be-zero-emission-by-2025/amp/",
-      "publishedDateTime": "2021-03-05T12:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -667,7 +719,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-growth-prospects-key-vendors-future-to-scenario-forecast-to-2025-2021-03-05",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1148,57 +1200,6 @@
         "AI in Robotics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-pinterest-details-the-ai-that-powers-its-content-moderation.md",
-      "title": "Pinterest details the AI that powers its content moderation",
-      "excerpt": "Pinterest pulled back the curtains on the AI and machine learning technologies powering its content moderation engine.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
-      "originalUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/pinterest-e1575661763261.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/05/pinterest-details-the-ai-that-powers-its-content-moderation/amp/",
-      "publishedDateTime": "2021-03-05T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -86,15 +86,20 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
-    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
-    publishedDateTime: 2021-03-05T13:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
+  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
+    excerpt: "said Sahir Anand, Principal, Industry Lead – Microsoft Azure Cloud+AI for Retail & CPG at Microsoft. Bringoz is a SaaS-based delivery logistics platform that provides shippers & carriers an end-to-end, scalable delivery infrastructure. Bringoz is a ..."
+    publishedDateTime: 2021-03-09T16:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "5dzdKJsu8ySyEppTHPDYBjNcQG3HiLmojGgtXEmlw8K4+NR8Ag44rFaHySbNd8vFNjrLXhCS86TPzwYIrEZ/nmu6bVjypUnhzlCWIgoYEte46Bw5gWuxZCuCXp2bYuFLB5vIUMx49nWzr7G+vaJcR6vvrqOVT2jbTjZzVHAWqI1c7kq0RZRSdfbpQ3TxB6aF16UJXsU7p89IpId6O4cxeVBk0d54TyUGg9ti+B/WBJxEybqEIAloX89y07oqoke82/R+KDP/BaJQH+S5Wam3mkq/MyPHjkTwYM4szDPKmehmzz1J+srpROTY/fEegq97J2p0d9OxBSTn7pcLWWJnDipFWyIEeoB2gbaMXQGLVAHNVkU+zBrfsI6CQEo5JE30rIGVf7zgvv2z5Ra/FYkSkFXl8VOcVNIFbaqsxXiNS+Ixw87eua8iwS3piv1XnFzDUWJfJCEocSi74wl7/i3DKs9V3APxMohjbtK/Psbguiu8MVpawGTY1KnOS0Z8egEdts8ZICTcwuLn8+EjijHDbg==;2Twa+lOQUW+FHrtZUiHxrw=="
 ---

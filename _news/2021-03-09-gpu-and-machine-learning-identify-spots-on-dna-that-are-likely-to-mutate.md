@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/7k9y7a/gpu-and-machine-learning-identify-spots-on-dna-that-are-likely-to-mutate"
 type: article
 quality: 105
-heat: 105
+heat: 106
 published: true
 
 provider:

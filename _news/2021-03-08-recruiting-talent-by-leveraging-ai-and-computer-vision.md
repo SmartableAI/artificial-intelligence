@@ -43,36 +43,6 @@ related:
         width: 400
         height: 292
         isCached: true
-  - title: "Harnessing The Power Of Artificial Intelligence In Accounting"
-    excerpt: "Instead of fearing technological advancements, CPAs should embrace them and find ways to augment their skills rather than replace them."
-    publishedDateTime: 2021-03-05T13:10:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/05/harnessing-the-power-of-artificial-intelligence-in-accounting/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f402c3e474a1d4b8fb150c8%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
-    excerpt: "Parsons Corporation (NYSE: PSN) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
-    publishedDateTime: 2021-03-10T04:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/parsons-unleashing-artificial-intelligence-to-enhance-decision-making-solve-problems-2021-03-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
     excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
     publishedDateTime: 2021-03-09T10:23:00Z
@@ -114,6 +84,20 @@ related:
       - url: "https://dataconomy.com/wp-content/uploads/2021/03/8-inspiring-women-leading-advancements-in-ai.jpg"
         width: 1500
         height: 500
+        isCached: true
+  - title: "Parsons Unleashing Artificial Intelligence to Enhance Decision Making, Solve Problems"
+    excerpt: "Parsons Corporation (NYSE: PSN ) is developing and deploying artificial intelligence (AI) across a wide array of federal solutions and critical infrastructure projects to solve our customer's most challenging problems,"
+    publishedDateTime: 2021-03-10T06:38:00Z
+    webUrl: "https://menafn.com/1101727177/Parsons-Unleashing-Artificial-Intelligence-to-Enhance-Decision-Making-Solve-Problems"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 30
+    images:
+      - url: "https://menafn.com/updates/banners/ebdc13ce-4.jpg"
+        width: 300
+        height: 250
         isCached: true
 
 secured: "Ugan4nPTxoX9TORi9x6MsvOrcn79+QNshrBLgyn07dGUpm3msmsh00Chys61YG8DWOXSUI88qiR3lqub3x73RY2vrFgQzmceYT97SGe4uKN9pDeS0JsrSbPX3IN4LuklQ9LWcGDPHMa1Z73mE69xVVZj6UX1QaOtFzOPxfKXuw3wG3fmUcdI5ssiIssSvdZiJBOnbgoWCt3TEeY0+uPnqsTF3zyefSplZ+j8mIyQyGnvo4UH/R71ojsJs0yND08roI4GFvtCP3Npa+FJN3gM7YPMx6r+mGHIcroWWUvpd0g5TMm+qpALth7CpJu8AyiX2zxqfYmv6+02/h2u7RiT8+GsTeQwK84THVCr+gf8zeM0dCCsU2NRaeIvNO/y0lGV93l/ZYn8wp6sziPGbI70W6SNZygiO7gBWkBcyk+TeRI6bvzlDpvmGxMZ2IT2evxK2uxeYipdu/gOeIAzs6Oc4BnF3ScqQl1BitTXcbotN/yyxO1S/0O9Re01PIbG7XWg2qITs637FUzF/bVP97dAoA==;3padomHN049+2ruiT++I/g=="

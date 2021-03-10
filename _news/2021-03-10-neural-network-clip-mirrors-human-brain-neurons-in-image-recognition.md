@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2021-03-neural-network-mirrors-human-bra
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-neural-network-mirrors-human-brain.amp"
 type: article
 quality: 74
-heat: 94
+heat: 95
 published: true
 
 provider:

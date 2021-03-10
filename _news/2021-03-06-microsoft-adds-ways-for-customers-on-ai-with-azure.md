@@ -85,15 +85,20 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Microsoft to launch Azure Region in China in 2022 with 21Vianet"
-    excerpt: "Microsoft has announced plans to bring a new Azure Region to North China in 2022 through its local partner 21Vianet. This expansion is expected to double the capacity of Microsoft's intelligent cloud portfolio in China in the coming years,"
-    publishedDateTime: 2021-03-05T13:14:00Z
-    webUrl: "https://www.telecompaper.com/news/microsoft-to-launch-azure-region-in-china-in-2022-with-21vianet--1374851"
+  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
+    excerpt: "said Sahir Anand, Principal, Industry Lead – Microsoft Azure Cloud+AI for Retail & CPG at Microsoft. Bringoz is a SaaS-based delivery logistics platform that provides shippers & carriers an end-to-end, scalable delivery infrastructure. Bringoz is a ..."
+    publishedDateTime: 2021-03-09T16:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
     type: article
     provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 34
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "FwMannpI/C30W15liv02H34jxZM3VY1dPZR8XnuFuVSdtSZnPpQWUj2yHsQHlD1/hyoKdognsCaEI17kopmNgFZsRGJ+RQYD2XQ+zzcnMEkVp109oiWqPfmujttzJnsnEpNi2T5XzT3tm3+KiW/uQSyXKvtlY5DiJ0/UNenpKCgI5q4sDFiSk13ZR1U1X7sYr24XWpRsa6QcEM2KAqmoQaLrv1ylh+cm8bIBfn98+SzCo61HB8fXkUAFA0P4dojB8OUjgvJQ1fmm1uv6x77jrU/h8AFl/Y0DhV0shtZX0Glc61GqUj8ziOOU2Kn+qeG9OnLJZRnhKOZLFMLTKDL6oFjqFuLQJv7Nx1JNX3TzG1CMS6iF1KkpJkFo/1XaxidfuzfDL0IyK2632us6PhEMlfu21R8dkK/EJungD8IkIkdedeYqh0t6IUHSQM5QxpR5AGfBi8F1QwCbSYW+HpZBk//2YIOafiaJoboufqtQynuJRQ76jva8KW/FkWB7CoKSYBwmJKVVfc8XsCKdnP2cng==;bdHbMVpBoZx5vrHMbFn7Jw=="
 ---
