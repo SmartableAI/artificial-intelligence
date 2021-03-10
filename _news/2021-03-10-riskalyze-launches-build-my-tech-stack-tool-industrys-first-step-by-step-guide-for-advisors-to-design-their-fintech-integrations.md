@@ -117,20 +117,6 @@ related:
         width: 505
         height: 325
         isCached: true
-  - title: "Paysafe to Present at the 2021 Wolfe Research Fintech Conference"
-    excerpt: "Paysafe Group Holdings Limited (“Paysafe”), a leading integrated payments platform, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Philip McHugh,"
-    publishedDateTime: 2021-03-05T21:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=433071"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Tony Pizi Joins FinTech Studios as Chief Information Officer"
     excerpt: "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,"
     publishedDateTime: 2021-03-08T13:06:00Z

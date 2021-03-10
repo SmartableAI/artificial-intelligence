@@ -3,12 +3,9 @@ category: news
 title: "Companion Raises $8M Seed Round to Use Machine Learning and Computer Vision to Talk to Dogs"
 excerpt: "Today, Companion announces $8M in Seed funding to transform how we train, engage and communicate with our dogs. The funding comes from leading"
 publishedDateTime: 2021-03-03T14:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/companion-raises-8m-seed-round-to-use-machine-learning-and-computer-vision-to-talk-to/article_5922988f-5446-503d-bc31-084c8180e21a.html"
 type: article
-quality: 61
-heat: 61
-published: false
 
 provider:
   name: WFMZ-TV
@@ -25,6 +22,6 @@ images:
     height: 630
     isCached: true
 
-secured: "MMoE4awUV0JLjXc4VR8b5JSZT66Yy1BvTSY7YXepJFDjlYFv6oT8XMbpTYUivni1BAbmO5C/1O29RjOcDla9/RwizEgTq18Zii4u7F6BCD2Y6JcjdTpd9ML2XueoDV1UzNgZrA3FzbjUScKg3AlKD1bnUlYb5ox2NQ9+1pbq1hwdaXPaQrznOxeh+bw/vOwGlVpslWiw7NlmyyMUWmIbajvFmpFn/p2J3TY8O9x/dKeBb/WGqTxlf16mjsyXPyYaSSuTc541sJWWjpY7S9MIjgybNLKpPtDvGGaF9BBED83XXNQDCuST0dGopRIY0BNJhef9RYL+Cn3xjRF7B0xR8lKYb7Ou8ibUTTjNhLL603/+5PamAyA0KNTLnhliZ63MPsJ+9I8WGLHzCyVxa732n00VU+E1gA992o6C8t9m45mrO/5GyDGejXOGeLPserSFOLV1PlbSpGvJ9fxoX49mTTXf2L6deSxJYZog6Jyazgjpx2XAYsBqedns+eCvflLmpc8lxl3WvU1TxS55HCoGjA==;P+PN5dmBQz8JkR3OQP+Pvw=="
+secured: "PZmCGiKTWlA44ERyuNH7rm0k/SBUH89cD2d8KeOUjQ+UWn3sJMgj8dyBcuM/DlTUz8yTTYOcy+reqAGSFIvWH1/1NsihF5eXMiRxgP7aHLJGabnIX/T6U6QuSBsly3GxwDKNls+nxEUeExJ1cMWhwAaMY4H4J2NylISVGqKc1ViHtEN13zJbzhyDBBGKKjLyIwJ0GqgxXo+vVHAcf8dAJJ3qyy9te8bdES/keZ2iJxjNAiZ4zwrhxKsoZRTE1TwQoQoFryLamuySE0XIvH0G4DfJNw2NrBWFBOoPdv1pD/F0kGD90D3lsQ8B0MhNlLhV200+YPpPe4H1+6M0V9JOdFnOcivAmpAnrjIIMIe7USY=;YSGOaIJ6jhykSrk+OekDrQ=="
 ---
 

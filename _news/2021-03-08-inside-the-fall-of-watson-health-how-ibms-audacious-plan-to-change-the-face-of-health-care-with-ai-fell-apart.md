@@ -107,6 +107,20 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Why biased AI can be damaging to your health"
+    excerpt: "Also, AI discrimination can be rooted in erroneous assumptions, as in the case of the high-risk care program algorithm. In another instance, electronic health records software company Epic built an AI-based tool to help medical offices identify patients ..."
+    publishedDateTime: 2021-03-10T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90613404/ai-bias-healthcare"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/03/p-1-ai-bias-healthcare.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "kNb+yCV7pPNHme/o605D1XvPTBnhk10upNwjIdd1WurMD0OKQIB3Qhl+LS3sEHXITPpBaCCivN6FaThEe/NEorcwL3WwH9i2U/wBOIPvuN9IqbSAl7F5CzcDP1lAY/mMsEiAsQ8zcVMD9Q8XzuHJ6g+JEiaozjlWRuzkoeddwXTl0SC0cpfHLcKahwaociDH+Muk3ByIj9gQt2H1+mSmEXZdMVYnyFpfPpdfh1sekxdxRRvJIsEzXYf3AJRSYT+kJliFflBVg52JQTXgAAVjA6eJOeI2+nBS10/mAxJgAdZAurn+klwEhGOFHdYj8fIIoG5ntJi+xO/A3CZqIbGh8X8AuTNPJsKpyM4CfNCEmvqF694TE16jfXgmOhKANsRv2HVFG0x0cnzBAXruN4sZ9UAv9OLPOEy/g3/yRzQqV3LwnFwDx1YisziX8de33YL30Ad8s2a1i2sLJPIW48DQL2eJmR4NRhPwGq4AYagxJbhRC3HBvSDt8atk19fDDx0qAMaKtqOE3w24dsASLd16DQ==;Pwyfo1QOmKNpVJjYqzpTVg=="
 ---

@@ -59,20 +59,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "AI-based method used to screen for Alzheimer’s disease drugs"
-    excerpt: "Researchers have used artificial intelligence to screen 80 FDA-approved drugs and reveal which could be used as Alzheimer's treatments."
-    publishedDateTime: 2021-03-05T22:16:00Z
-    webUrl: "https://www.drugtargetreview.com/news/84915/ai-based-method-used-to-screen-for-alzheimers-disease-drugs/"
-    type: article
-    provider:
-      name: drugtargetreview.com
-      domain: drugtargetreview.com
-    quality: 39
-    images:
-      - url: "https://www.drugtargetreview.com/wp-content/uploads/Alzheimers-4.jpg"
-        width: 750
-        height: 450
-        isCached: true
   - title: "AI reveals current drugs that may help combat Alzheimer's"
     excerpt: "Researchers have developed a method based on Artificial Intelligence (AI) that rapidly identifies currently available medications that may treat Alzheimer's disease.The method could represent a rapid and inexpensive way to repurpose existing therapies into new treatments for this progressive,"
     publishedDateTime: 2021-03-07T14:35:00Z

@@ -1,20 +1,24 @@
 ---
 category: news
 title: "GlobalFoundries, Bosch to develop radar chips for self-driving car features"
-excerpt: "Chipmaker GlobalFoundries said on Tuesday it has partnered with German automotive supplier Bosch to develop radar chips for self-driving features. March 9 (Reuters) - Chipmaker GlobalFoundries said on Tuesday it has partnered with German automotive supplier Bosch to develop radar chips for self-driving features."
-publishedDateTime: 2021-03-09T14:54:00Z
-originalUrl: "https://www.nasdaq.com/articles/globalfoundries-bosch-to-develop-radar-chips-for-self-driving-car-features-2021-03-09"
-webUrl: "https://www.nasdaq.com/articles/globalfoundries-bosch-to-develop-radar-chips-for-self-driving-car-features-2021-03-09"
-ampWebUrl: "https://www.nasdaq.com/articles/globalfoundries-bosch-to-develop-radar-chips-for-self-driving-car-features-2021-03-09?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/globalfoundries-bosch-to-develop-radar-chips-for-self-driving-car-features-2021-03-09?amp"
+excerpt: "Chipmaker GlobalFoundries said on Tuesday it has partnered with German automotive supplier Bosch to develop radar chips for self-driving features."
+publishedDateTime: 2021-03-09T13:54:00Z
+originalUrl: "https://www.reuters.com/article/globalfoundries-bosch-idUSL1N2L703Q"
+webUrl: "https://www.reuters.com/article/globalfoundries-bosch-idUSL1N2L703Q"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L703Q"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L703Q"
 type: article
 quality: 52
 heat: 62
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -36,6 +40,6 @@ related:
         height: 600
         isCached: true
 
-secured: "8+Nz49S2xAZy0B80O6+cDSjwXwDG4OgAAhHz9CIFBvOZKllcXv50H1XPhk0GtmYk8ND2f4DenGhdUzJ7BpQXhTGtkCuGuMuVM6HDs9L1iVZTj7UD3+Ich2FIUg3B3d7AZ9gbFwpmLtBDzv+vyDHmW3bWdsPBL8USQr9j3WvsvozUmPoK6wYx9DKoltCe25lvwcdU8d2qHmUbLrLnLRMxl9GildeY48iMUGXiivM8FwXdTkV7VB/oRs0QcDp8KA8U+dn1evNvgtPL87wnK7PhNoh3XPfqZmLpxJqvzitx2dUY2wxSLCiPUKLz3r8F+4uqGv/Ou2GoZNPT99fvHOVQI6X+d2pH+Stl1hT3gZD0XXuH720TruJiyiyUUIhp/hZS0V/PszihteIGc8bLMztheGQwa+NYyNmMR2BHIbw7xoTaVrClQ8ZhaNbzFyTZvrWTLXIvnwFl6uVV6flPKGGe081jBvDTqBwIfBxk1wCh+7lr1hPbqccX7gcGmkrkQDSbcGa7XcsxcMRvQ35o8JFmHQ==;y8+QJLd9gufK7bj/Yc7wwg=="
+secured: "vnuGwmJMWyJat6argQpO4ZcLYbOQYqiOe5K0MpQtahANiMapyVJBWeMMr+9ZaXCBvL3Of/jyK8LBljoVC+aBYN096eIDXjmCuKyUqMAxh14MoKBMAF+VRw8MFx5yVqRP59ftLbKGu6QS1dPNfFjUWFv25mRaIgx/vbt5DJTAcQ1mPhKKdgbA/YcDwUXru5l6elWIgsnr6ZA3SApUAX5ZhEAcCzTWL47TjakL9EaI6k1QCxMkohWJxt0lBqlBv4+6UNR1HazXflaunSIzykRbVzryLrIj9dHlciDtYLULcCqLZBuMUZFjGPf9AIJpegA822+vM/6fr6XZ6mLcwpYH+xngcOkFGUOjIfoci/ZtlUY=;lTlEkre45ResWEy37NTJ+Q=="
 ---
 

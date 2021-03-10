@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How to ace the 2 most important interview questions at Amazon's white-hot self-driving startup, according to its hiring director"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
+    publishedDateTime: 2021-03-10T13:30:00Z
+    webUrl: "https://www.businessinsider.com/how-to-answer-interview-questions-amazon-zoox-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 25
+    images:
+      - url: "https://i.insider.com/6047c1b22db4af00117e459c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "HnDR5fN1TxagBaX/Bh/6FlQbYuSNEK8F4Xm0vUZ5Ki6449IG0KY4PlMrajmOOL5/bJm2WL8THcKV4LPcuPr3AThchvjx5FhVpS6y4ih0534cKRlDSHvm6HNCo0zadvfJg5OstfJl8KhnteWFLynWMiqc3tjmeBT2tqhIGH8DPwt7/lEc7VhVAjhEbl4QjDPHJHCgoVe8nD0dkxzaTVeOepTUulFElNRBVe25Sm4VgbXKuSHr1Xhq27Q2+5RH0TArcHPtAPsmeGgKQZtZ713vdbqF+30EozC+3JFCPMNl7v0ZeJ5hrKufIea9uQ0U0h8HY3tMBX+j7jXdRoC2LELuhIj7M4T/sq5rhcCqcA7ZHNXHw7pn0z1C6P40YO6YxOtw541jx0xdw4/yByO8cL0gja1zTXHIyAk7978bLHrJJjGYE9o8niNg0Y+DD1JMH9U3sdN7BhVMJ65YXKGCB77PHICbasFaJXcg3oZrrUcyZbb+nUdGA07UXmiF9+dfyljeOCKrYVcOjL2HsIZdNJr0Uw==;3oP0usewPoOIo6ScwAV9WA=="
 ---

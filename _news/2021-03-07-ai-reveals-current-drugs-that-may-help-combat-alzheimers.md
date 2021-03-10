@@ -73,20 +73,6 @@ related:
         width: 918
         height: 506
         isCached: true
-  - title: "AI-based method used to screen for Alzheimer’s disease drugs"
-    excerpt: "Researchers have used artificial intelligence to screen 80 FDA-approved drugs and reveal which could be used as Alzheimer's treatments."
-    publishedDateTime: 2021-03-05T22:16:00Z
-    webUrl: "https://www.drugtargetreview.com/news/84915/ai-based-method-used-to-screen-for-alzheimers-disease-drugs/"
-    type: article
-    provider:
-      name: drugtargetreview.com
-      domain: drugtargetreview.com
-    quality: 39
-    images:
-      - url: "https://www.drugtargetreview.com/wp-content/uploads/Alzheimers-4.jpg"
-        width: 750
-        height: 450
-        isCached: true
   - title: "AI uncovers Eli Lilly's rheumatoid arthritis drug Olumiant as potential Alzheimer's treatment"
     excerpt: "Researchers at Harvard and Massachusetts General Hospital used a type of artificial intelligence called machine learning to identify existing drugs that might be able to prevent neuronal death in Alzheimer’s disease."
     publishedDateTime: 2021-03-08T13:55:00Z

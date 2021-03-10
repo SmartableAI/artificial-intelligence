@@ -28,75 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Chipsets Market (2020 to 2027) - Size & Forecasts with Impact Analysis of COVID-19"
-    excerpt: "The global artificial intelligence (AI) chipsets market size is expected to reach USD 108.85 billion by 2027, exhibiting"
-    publishedDateTime: 2021-03-08T07:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chipsets-market-2020-to-2027---size-forecasts-with-impact-analysis-of-covid-19-2021-03-08"
+  - title: "New AI tool accurately diagnoses COVID-19 just by the sound of your coughs"
+    excerpt: "Scientists from Essex University have created a COVID-19 screening tool that can accurately diagnose the virus by analyzing audio samples of coughs."
+    publishedDateTime: 2021-03-10T13:53:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 85
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market Analysis with Key Players, Applications, Trends and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware Market Study Report LLC adds new research on Artificial Intelligence (AI) in Drug Discovery Market Size, which is a detailed analysis of this business space inclusive of the trends,"
-    publishedDateTime: 2021-03-10T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-analysis-with-key-players-applications-trends-and-forecasts-to-2026-2021-03-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Cognitive Spending Systems Market 2020 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2025"
-    excerpt: "Global Cognitive Spending Systems Market 2020 by Company, Regions, Type and Application, Forecast to 2026 aims"
-    publishedDateTime: 2021-03-08T00:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-spending-systems-market-2020-size-revenue-growth-rate-restraints-forecast-analysis-by-2025-2021-03-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Enterprise AI Market Growth Analysis By Revenue, Size, Share, Scenario on Latest Trends & Types, Applications to 2025 Forecast"
-    excerpt: "Enterprise AI Market was valued at USD 1843.69 million in 2018 and is expected to reach a value of USD 22889.32 million by 2024, at a CAGR of 52.17 %, during the forecast period (2020 - 2025). Enterprises are increasingly recognizing the value associated with the incorporation of artificial intelligence (AI) into their business processes,"
-    publishedDateTime: 2021-03-08T12:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/enterprise-ai-market-growth-analysis-by-revenue-size-share-scenario-on-latest-trends-types-applications-to-2025-forecast-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Deep Learning Chipset Market 2020 Future Trend, Business Strategies, Revenue Value, Comprehensive Analysis and Forecast by 2025"
-    excerpt: "This study document namely Global Deep Learning Chipset Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 begins with an overview of the market and presents it throughout its development."
-    publishedDateTime: 2021-03-09T00:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2020-future-trend-business-strategies-revenue-value-comprehensive-analysis-and-forecast-by-2025-2021-03-08"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-10T134550.529-796x417.png"
+        width: 796
+        height: 417
         isCached: true
 
 secured: "e5P5qGAgx5eznDexn5WXczuoAalHAz77vcYJ0LGiqL/b8B8U7TO8vXEZ27MoGHHfY3gdy/yKVs4jPr893jo8lioFBKEXkt9+cHHtHdARpY50aSbHKoAtZFRd72zpNWe3IYtj6uVeBimsL0bqRokzGTt0ucRb9a33WI3Od2ZTvVbKMDBvNFvONZZFpVvZdJzzXFGPntwq+aDbe+y+nLSPjNZE4Ac+a+P6jNBgWwxVBpJXGcpaDmx9kxIFeYX6l90/B6c5a0lv5Royvx+hCgddli58osJygRQdI/iXCF6i3nojpvO3/RN1YwDWdpxOW6jcE2uGlQOLHtbuDBfFnt58FzNS58dBnrI20ez/i0Ect3s=;L+2Vnr5zAMx94JIEg1JjNQ=="

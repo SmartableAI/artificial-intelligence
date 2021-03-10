@@ -39,20 +39,6 @@ related:
         width: 685
         height: 407
         isCached: true
-  - title: "Making artificial intelligence understandable -- Constructing explanation processes"
-    excerpt: "Sifting through job applications, analysing x-ray images, suggesting a new track list - interaction between humans and machines has become an integral part of modern life. The basis for these artificial intelligence (AI) processes is algorithmic decision-making."
-    publishedDateTime: 2021-03-08T15:09:00Z
-    webUrl: "https://eurekalert.org/pub_releases/2021-03/up-mai030821.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "QQ1wMiwbtafnyLfBRTQsb5tWsV28vBDus1s56rcuLJZrnoLlqEx+0bxOBE13swPAcn0pMRpe/eEGL2Ky6uFDHv8+zK+nJ6h0blaAEsXqheSv+yMHVE7by1JyzYiTibthwruMhWttIXwa10fYEm4zEgKG73jtkjRavCvSxtX+e4BVEEz1HCcMOVbTbKGoBQoGU2KZMeQlZNvDZZI46Vzp3casFVjdaQhaFC8x7Jp4MRrlltzMouM7GEelIRf8g1/pdaoXaE1ax4lrVaOFpc93yVHOGVeYkpx2iQQ0YnQ/Xx87I4zaf0qNnWAof5/fKYOi2T1A/M2VEZMBESlss9ZncKZ0U1gQGf5dHdEtqub7RlU=;01K+dKLRusrQY9yWVP+e6Q=="
 ---

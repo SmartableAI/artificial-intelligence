@@ -26,15 +26,15 @@ images:
 
 related:
   - title: "GlobalFoundries, Bosch to develop radar chips for self-driving car features"
-    excerpt: "Chipmaker GlobalFoundries said on Tuesday it has partnered with German automotive supplier Bosch to develop radar chips for self-driving features. March 9 (Reuters) - Chipmaker GlobalFoundries said on Tuesday it has partnered with German automotive supplier Bosch to develop radar chips for self-driving features."
-    publishedDateTime: 2021-03-09T14:54:00Z
-    webUrl: "https://www.nasdaq.com/articles/globalfoundries-bosch-to-develop-radar-chips-for-self-driving-car-features-2021-03-09"
-    ampWebUrl: "https://www.nasdaq.com/articles/globalfoundries-bosch-to-develop-radar-chips-for-self-driving-car-features-2021-03-09?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/globalfoundries-bosch-to-develop-radar-chips-for-self-driving-car-features-2021-03-09?amp"
+    excerpt: "Chipmaker GlobalFoundries said on Tuesday it has partnered with German automotive supplier Bosch to develop radar chips for self-driving features."
+    publishedDateTime: 2021-03-09T13:54:00Z
+    webUrl: "https://www.reuters.com/article/globalfoundries-bosch-idUSL1N2L703Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L703Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L703Q"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Reuters
+      domain: reuters.com
     quality: 52
 
 secured: "GK2gvRVoAuOpRW5iVIfX5UHK9KlIwsxv1phsyt3gqfiBt/I+ot2q5cRM1NryCtYboQ9tUIilr74Mk2ZtcahScBjy96JtmRW29e7+HHOPGKVEuZqhyUGB6RwZ6BcwYRQM80oe4VBLT3oaFA39NpcxRRyFe8LMAmCHttl8OoIFFV0ntB/JAudlPPwArGxtGC9po4w+jaxJrekc72TU4fRFkGvzd992BoFsEC9UHHvkswdQByscw1062i4GcNYXMQjnw7tnvgJ8dOafC1YVcLZlJIEaclCRJ9580LmjRe42S3i8nvBOH6qIl8i/JVsiJX6cdrJku12oBVQ8anXhgcKqjrVHwgbTBnj5ARKQWUdh/+S8waDKq5lZ0WmirRUCkSfRCzIuVFiOG1HHUy+Dq2+dz36JFloZLZUl+V9jf2d8S3ceYHcY6NQR6RdLux1dcnn7cK2Csr+9DrcmXJL/ZAl4GziEiUC8JQTNjJizFHtb4m/6/UwzeO4PQMq+Av4uwCqpedCga5llnTlLZphmefXEdQ==;AFaUeXtoA7hV2uksOs1pqA=="

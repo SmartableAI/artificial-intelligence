@@ -70,7 +70,7 @@ related:
     provider:
       name: Metro
       domain: metro.co.uk
-    quality: 70
+    quality: 72
     images:
       - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600

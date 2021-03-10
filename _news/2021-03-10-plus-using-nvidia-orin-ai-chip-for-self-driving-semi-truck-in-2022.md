@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip
 cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2021/03/plus-using-nvidia-orin-ai-chip-for-self-driving-semi-truck-in-2022.html?amp"
 type: article
 quality: 91
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "NVIDIA AI Enterprise Software Suite introduced"
+    excerpt: "NVIDIA has introduced a new software suite of enterprise-grade AI tools and frameworks in the form of the AI Enterprise Software Suite. NVIDIA"
+    publishedDateTime: 2021-03-10T14:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-ai-enterprise-software-suite-10-03-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/03/NVIDIA-AI-Enterprise-Software-Suite.jpg"
+        width: 700
+        height: 500
         isCached: true
   - title: "Self-Driving Truck Company Plus to Use NVIDIA DRIVE Orin in Next-Generation Autonomous Driving System for Heavy Trucks"
     excerpt: "Plus (formerly Plus.ai), a leading company in self-driving truck technology, announced today that it will equip the next generation of its autonomous truck driving system with the NVIDIA DRIVE Orin™ system-on-a-chip (SoC). The company plans to roll out ..."

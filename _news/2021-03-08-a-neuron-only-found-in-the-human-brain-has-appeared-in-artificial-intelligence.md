@@ -8,7 +8,7 @@ webUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-h
 ampWebUrl: "https://metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
 cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2021/03/08/a-neuron-only-found-in-the-human-brain-has-appeared-in-an-ai-system-14207464/amp/"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://metro.co.uk/wp-content/uploads/2019/08/PRI_80313160.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
@@ -88,6 +89,6 @@ related:
         height: 578
         isCached: true
 
-secured: "kfQ64iJJIIfb+FTxSX4EANGrDVjThbrpdETW4dMIpXG/ZyeBdDSasYVPusBr0l4Y/g/6bz4I0P6F90xciR8sNwFCsXpRzsmd5/I7RWDHKkJuZceBTbiH9ztZMM9A009XS3vZAoWBaCo4NGcxRLiRtMvPahKgfWM9bQlmdZzckL5Ff9Y5dwlXLtmdPJ+NMutbnp9pirIIbnfT/4lxdudPxjuGidxfzDxk0EctTL8E/EEYnUt7NxI/fdGl2kzo/gDybjqXKym/QvqShX/yDJG3zW6zVLh1iVEtPP9xG0JoGDpP6lmwugKhqgW0p8BJVNP6ZHpkYIN3mb4fs3ue8PbUsMDFXZ3S4QnNxDtqhPoyaVg=;n5za5mZl4XjnNJM15IQJBQ=="
+secured: "iHp5a72T/5+1W7QgizF+wdMseB5CleVp7dr41+pnBZV6ZQi9ESjCHLx9IsLqkmjP3Xb3bdIh11d+Oc/xAlRMjhVAZWyyTXqFd0WVumIHM/hJk8iM63Y4Bs2KTLt+hNgC1aIG+tI6a51UGJ8ZjtpzjwhRAM8A1mvgBdCArVT7seEl+cCXnOTH3qaaVBE+Y3YfBGhzGvRH3jSKSVGabaJHTCL280V3d1cJMW4T5XSlOzXZoIhz5FV4jpj2PL7FvN+T/SvZh7/XAABULezRSIclXmdWXcbc0XEq38mDEknQ601LOujoCoLO2Gn5b9GwgLyzcwk09kxhr7guE5ABr2j5c4InsUvdlD1Qh6ZZh/sRKavc+y4BPKmg4x9BHI3b/9Ja2Zq1RDRe7S4lXDThflRmucj3BevNo/+V4EQRgaJ2ItF8xXkAuuMWcbtnI0wVxKCzlbjmZjlFyU8FPAQFvECL77SqIpF6XHZOwM5F5xsW3bc7XBr8kAwNg+iLgSgSP2PdHN2waa8n3CSpWeQK4JK5ig==;QCKQXWXqPMwHIuBVKNuY/A=="
 ---
 

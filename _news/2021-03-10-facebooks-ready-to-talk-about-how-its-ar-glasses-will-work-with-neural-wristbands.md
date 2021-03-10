@@ -8,7 +8,7 @@ webUrl: "https://www.cnet.com/news/facebooks-ready-to-talk-about-how-its-ar-glas
 ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ready-to-talk-about-how-its-ar-glasses-will-work-with-neural-wristbands/"
 type: article
-quality: 48
+quality: 68
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Facebook AI
   - AI
+
+images:
+  - url: "https://cnet4.cbsistatic.com/img/yrmrIfBBJEo6XgjeaaRekm3SXtE=/1200x630/2020/09/15/89843464-5197-4112-b39e-4e505930eb72/frl-research-project-aria-research-participant.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Facebook enhances AI computer vision with SEER"
@@ -144,6 +150,6 @@ related:
         height: 273
         isCached: true
 
-secured: "4CXnETGRJkoeOkVoR+cyLGOYiCL11A+5b1ARPui+4wd1BtLs0mPfVBADEuao8f4rWUDCmZSWM/SAK4L3tJ7L9Zu4bUEy+pUDsWmvoW5em6B5QynUsx/wnm46JjIMGn2VdBSsjP+JA0J1Fhi09v+o9C6aJF1ENko4/6a7W/5hPZG4dqaxJUvmKC9Yp/DirOQzWJ/NSG8xc2kGvShXWHR/Wtj2FifPByF5n/AUH23qpXQ5f+8pThd+JkJyrk6/HFzBqaSZr7y4ZevMaEesdeA48SWGDx5kUJudlVWorC8VV7RAzR5Sb9pYrty5Kl79C+JrlNj2RQtUj0Ur7q1VPVEOs+0nkCe1wRBGlwOeP4YDPgs=;jLV69EZaa7s4HvXMivkEjA=="
+secured: "4xUFPiEyhRnXPjnOSSn4Awckfu9Xee+Wqt5tyTkASKMkATG0PN9fl5UDVj0RIAeT3kIRQTBJFTztDjk9saKQ5pPTq4NRF7QHgPdJ3V+++fUhP0MngaGt9k7q0WJ/4y7y916w0ieDksgPg2j7AxNUoh0Z0Pk4rRoV9JRM3fqGFoExGBWRowssV2fvKxt2CJvi9h5MGH24FoW2jXRgnvOKBAnc342MAC4UYMmDU8ekpL+tKzgOKwHOCNXTxH+5tsidJbgK8s3iLsiYpOZLvao7NdfwucOpU5rDJopQTK5CkB+CU6Tzh1iSt0F98ilkqnvXp2iHHUb7qjz0G9L6kvdZG6d9W/l3U2XSZcFFybQCqIo=;Q8k7VM7Ph4mOsuuv+SQLDQ=="
 ---
 

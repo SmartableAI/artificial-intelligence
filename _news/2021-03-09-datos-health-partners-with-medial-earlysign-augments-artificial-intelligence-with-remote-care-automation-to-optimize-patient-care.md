@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Datos Health Partners With Medial EarlySign, Augments Artificial Intelligence With Remote Care Automation To Optimize Patient Care"
-excerpt: "Datos Health, a leader in remote care automation, and Medial EarlySign, an innovator in AI-based actionable clinical insights, today"
-publishedDateTime: 2021-03-09T14:31:00Z
-originalUrl: "https://www.prnewswire.com/il/news-releases/datos-health-partners-with-medial-earlysign-augments-artificial-intelligence-with-remote-care-automation-to-optimize-patient-care-301243053.html"
-webUrl: "https://www.prnewswire.com/il/news-releases/datos-health-partners-with-medial-earlysign-augments-artificial-intelligence-with-remote-care-automation-to-optimize-patient-care-301243053.html"
+excerpt: "The introduction of this solution is particularly crucial as high-risk population management becomes a must-have competency for healthcare providers of all denominations, with organizations striving to deliver better preventive services across the care ..."
+publishedDateTime: 2021-03-09T15:14:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-health-corporate-news-israel-1532de79f7166d31ede7572f9f43be45"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-public-health-corporate-news-israel-1532de79f7166d31ede7572f9f43be45"
 type: article
 quality: 9
 heat: 9
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "o4UA5JdFXIhb/Mqy3RXJ/UIgtUk4owhC1f40IPOzEVZnLqWpKN5TjF2PwL3ZFfmbWUisX6VJldYYC+zFEEuE18ZJLp7icCiiAxkXlQdehtdBih+5mVRcauXdmxIibdpGKHS0oNVRDT5tTcTMTS8/ZR14YM0BFWUz4Oc1KKvSn6gz9f+INoZaTZEpyYZ42VmmcG31XJZoD0PXNNZr/p3RW2kg0FyyiwQgYmcJHW/BaY3QcmFnq8xVoVisxWxwhGMAXwdf6UPrbKE7JovcKr/ZmgpRXe7UwodaftePN0nXXqlmHqRBnqFqV4zkDMompPnqVrjbv3A7lyh3jrHQZRpw0dbzLUaBxbZGMKFxmcnRlt8=;e4jSqdJrxkEBvAyFwQOxYw=="
+secured: "kTQzmB2GxDUt3TFSYMfcKVNR1WuccxGPCP6MaxBk7VYMj95C2+qc1NSznGmyTEA2FRnC/ngS4kxkIwIrSn7kvPdICJUEVxiZPS09/nBct/flkMnA8V5pu/vKvKBBcl4Ijpm6uxcIw2MNjmBNsLQvO831gqb82m5Vggt9e++3QyKZM7z0bKMyi0WzwaMsfIQXjpNiT2oieWTKyeIw6NXJWUC9NP/MSluJVbsRaPYviyK/dC7gwnCrXd/xudIRhlN7mbDnckaos5RyRn/MdILSEKAQgDpd184uWv65iDrd+k/+onjmhLxcWVDsU3x8Jl3Goph9OCkpJCsAq7gH2fBrcisNX1mzLRD0mPVQpugXXG4=;eyLgg8o/s5oI2AoumTvxCA=="
 ---
 

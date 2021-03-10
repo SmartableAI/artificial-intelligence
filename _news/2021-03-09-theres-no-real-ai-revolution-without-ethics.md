@@ -7,7 +7,7 @@ originalUrl: "https://www.zdnet.com/video/theres-no-real-ai-revolution-without-e
 webUrl: "https://www.zdnet.com/video/theres-no-real-ai-revolution-without-ethics/"
 type: article
 quality: 84
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 770
     height: 578
     isCached: true
-
-related:
-  - title: "The Sad Implosion of Google’s Ethical AI"
-    excerpt: "The surveillance-capitalist giant fired some of its most popular researchers—and revealed its true colors in the process."
-    publishedDateTime: 2021-03-08T19:19:00Z
-    webUrl: "https://newrepublic.com/article/161629/sad-implosion-googles-ethical-ai"
-    type: article
-    provider:
-      name: New Republic
-      domain: newrepublic.com
-    quality: 54
-    images:
-      - url: "https://images.newrepublic.com/eeac19d69bfec73c59dc19c96b0579b40641a657.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg"
-        width: 1109
-        height: 577
-        isCached: true
 
 secured: "HFM9eADiN59yEv109nZuva4wiYCi3T6BO40ALHeIO1HEt2i+jmGAsAn86c+icqZKHCjosEXP2NJPlEkDrNP/JZHIE9duTwkpwUGyX9Ue65olNksGUjv5wTlVYNdIImovW6nxT5DO60NlEjCkWZqcNdY0R+lJxrivQaGHks4HwK+5i/kJTEz8q889bHtl/E/DsjUYuPPww4yxuQda5y85bQV2h/0zqto3fsdAMOXdP4H3KUTdInpXabXi6fJ4bLL5gWmfFn3loJ64v07FKIEiqP8qM6qVU8baNLeqxC1DTLczuQszXcVvJXfrceGoJJ8prbX0K+tLfuekIt+p016fch0oli21vo/JL4akubPSiaz2mQUtp0iRNJxsXsi6zXxcVRa8eX28Zlh+cgtWuhuVJbNd9R0gU3pP2fVGv+DyChVzazj97sKvSOoTHMmZowxcyuE5RZkUkg1oQXR3qFQMRMIRwe5qYHELBpnhgu8QC1YSJmXTe4v8TVjmIBhNXgJP16FouSHZM9t08hmSAXxyPA==;7IaZbpnqPFx86oirJVUkXA=="
 ---

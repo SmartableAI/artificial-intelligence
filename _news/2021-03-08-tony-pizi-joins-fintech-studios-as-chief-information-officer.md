@@ -117,20 +117,6 @@ related:
         width: 505
         height: 325
         isCached: true
-  - title: "Paysafe to Present at the 2021 Wolfe Research Fintech Conference"
-    excerpt: "Paysafe Group Holdings Limited (“Paysafe”), a leading integrated payments platform, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Philip McHugh,"
-    publishedDateTime: 2021-03-05T21:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=433071"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "IWD 2021: No more talking, it's time for action on female representation in fintech"
     excerpt: "2020 may have been a year of challenge, but it proved that above all else, digital resilience will remain foundational, not only to female financial inclusion, but to female representation across the fintech sector."
     publishedDateTime: 2021-03-08T14:25:00Z

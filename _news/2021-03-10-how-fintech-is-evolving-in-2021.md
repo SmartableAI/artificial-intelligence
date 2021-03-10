@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -107,20 +107,6 @@ related:
         width: 505
         height: 325
         isCached: true
-  - title: "Paysafe to Present at the 2021 Wolfe Research Fintech Conference"
-    excerpt: "Paysafe Group Holdings Limited (“Paysafe”), a leading integrated payments platform, today announced it will present at the 2021 Wolfe Research Fintech Conference.Chief Executive Officer, Philip McHugh,"
-    publishedDateTime: 2021-03-05T21:05:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=433071"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 24
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Tony Pizi Joins FinTech Studios as Chief Information Officer"
     excerpt: "Tony is a superb addition to FinTech Studios and brings a depth of talent and experience to FinTech Studios and proven track record of developing and deploying new innovative technologies at scale.” — Andy Brown,"
     publishedDateTime: 2021-03-08T13:06:00Z
@@ -164,6 +150,6 @@ related:
         height: 339
         isCached: true
 
-secured: "BTZOzlCVAS0xZ6HQhzPNFXGEkEUrUo/3LpQMa1FE/Nm3mGPG4Si6YrySixQYOrWbOpmHKysqko6Aj0TcBYHYj7khyOVQt41mzCVgpubWWLLeqsIjMvFHL97rVHbBIwzXECG1w6oYL+I1TTd4jPHZ99NjR6PCEBHDLYNd3GZj3LzszxKMZFd/WS8MN0+xX5E7YykPgoVKwW0yicdzS3YYKRo8uMIeIyCleexSYcvUGoTLa2QSATtS5oUxfKzL14e0CTb9FUSuq1K7jINHwEa9EScsscEg0v1NartrWNPetMtrmjuapvDcbKnHtJRsG6goApQqXbIF22mN7GN6osjUj2AE/cM7DFyREeMw42h6Gyk=;P3pKt5yQHGirqtYGpMFQJw=="
+secured: "AZWIaXDYOEBbFADgoGnUZ2SDU75YsGV2d1+0mGNB7uEvSIdLmgoz1MWrXrXwy7VVvL34mstdeoMvPvqeOpkfQQxx5VJzRs9DbuzxNBvNZ3OtJeujUvVbqGO/Nhiy+7F694vZzrXW++sUZKhjekJFqeym/NJFJecNKwzsvAkLZMa2QCWQW/JSLwGwJBEiTic/gcTpKk/t0yTr5xNOj1QvDsHGP49BfoSN75hfQWvPXmo1FPH9fgMFT+nHiFnnNVraFtBp/78Cet1PhZVK1haGPybum8B38CW6oTWqsInuHq1dnDrYYFUEdTfsqDaoSg0+fu92++pssfBCpegv46UcR1yC5/XEWXxdAHIQIRy5CII/9Xn6BWWpJI3EaHiYjd+qz7YN4rO7u+/rkfM6I71FQNp0VJzzgbSqbyrPHykVhTnEbYydBAHH+uKk+FE/847M4o43KUkGmQQ3os6A9xBCgxa2hRdy+LZbKu860ZRwvalAE6n7OnNNUEeHaYOUVsPLkk8059xxwiWkp+hyYiGipQ==;2X0f5wdtmegHtaSBrDN3Ng=="
 ---
 

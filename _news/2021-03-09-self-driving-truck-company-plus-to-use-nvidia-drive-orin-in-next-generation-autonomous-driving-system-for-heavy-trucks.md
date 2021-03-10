@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA AI Enterprise Software Suite introduced"
+    excerpt: "NVIDIA has introduced a new software suite of enterprise-grade AI tools and frameworks in the form of the AI Enterprise Software Suite. NVIDIA"
+    publishedDateTime: 2021-03-10T14:15:00Z
+    webUrl: "https://www.geeky-gadgets.com/nvidia-ai-enterprise-software-suite-10-03-2021/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2021/03/NVIDIA-AI-Enterprise-Software-Suite.jpg"
+        width: 700
+        height: 500
+        isCached: true
 
 secured: "zZneyTkLeLBwBTrydiToxWeLJsbabA2jkMSbNMx2DYseWctUkMV0yKXx3z1nw0y8kbFj8EUV8qVCW2f3PlSFo2+Mr4bUaMpYxJLshdUJ+7CQRuoKbfkl9IEUrYak0HHduFMKJpBZeeCeAOZpjMNcnJ46GYAepRlTsgTBuN8ADz6rGhr5eXVqHlmEuDmd0xEcYxf1DBJpQhg/EqoNfwex+LbnJtSy8WirrTgiG6a7vbC/j2NqAnp71F9Irsg5rgk/HwpOcXtvpxZcoHGnNDcN40CO8b/hyjD0q0paKLz3VIvC6rGah8OCF/IRr/YKmvq8dUPTmjWfPXGpZLp/Q/IHRWLWm4l72XARmLoH9D+G97U=;2mPdqcRHnnG3yspSBgYjgg=="
 ---

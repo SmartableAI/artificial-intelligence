@@ -92,6 +92,20 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Why biased AI can be damaging to your health"
+    excerpt: "Also, AI discrimination can be rooted in erroneous assumptions, as in the case of the high-risk care program algorithm. In another instance, electronic health records software company Epic built an AI-based tool to help medical offices identify patients ..."
+    publishedDateTime: 2021-03-10T09:00:00Z
+    webUrl: "https://www.fastcompany.com/90613404/ai-bias-healthcare"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 37
+    images:
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2021/03/p-1-ai-bias-healthcare.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Inside the fall of Watson Health: How IBM’s audacious plan to ‘change the face of health care’ with AI fell apart"
     excerpt: "Internal documents and interviews with former IBM Watson Health employees point to a leadership team that prioritized publicity over science."
     publishedDateTime: 2021-03-08T14:59:00Z
