@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
+      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
+      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
+      "publishedDateTime": "2021-03-02T13:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-stop-experimenting-with-ai-and-machine-learning.md",
       "title": "Stop Experimenting with AI and Machine Learning",
       "excerpt": "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning (ML) so they can replace guesswork with data-powered certainty to reorient strategy and optimize operations for success in an uncertain future.",
@@ -1411,49 +1454,6 @@
       "provider": {
         "name": "Hindustan Times",
         "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-machine-learning-aids-in-simulating-dynamics-of-interacting-atoms.md",
-      "title": "Machine learning aids in simulating dynamics of interacting atoms",
-      "excerpt": "A revolutionary machine-learning (ML) approach to simulate the motions of atoms in materials such as aluminum is described in this week's Nature Communications journal. This automated approach to \"interatomic potential development\" could transform the field of computational materials discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
-      "originalUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/1-19-machinelearn.jpg",
-          "width": 1027,
-          "height": 1147,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-02-machine-aids-simulating-dynamics-interacting.amp",
-      "publishedDateTime": "2021-02-24T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null

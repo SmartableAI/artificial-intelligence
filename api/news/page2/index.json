@@ -2,6 +2,211 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-10-populus-ai-plots-expansion-with-5m-in-new-funding.md",
+      "title": "Populus AI plots expansion with $5M in new funding",
+      "excerpt": "The wave of shared electric scooters that swept through cities several years ago helped Populus AI get its start. Now, surging demand for delivery — and the pressure it places on curb space ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/populus-PlatformView_LiveMap.png?w=1024",
+          "width": 1024,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
+      "publishedDateTime": "2021-03-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-israels-retrainai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market.md",
+      "title": "Israel’s Retrain.ai closes $13M to use AI to understand early signals in the changing jobs market",
+      "excerpt": "Israel’s retrain.ai, which uses AI and Machine Learning to read job boards at scale and to gain insight into where the job market is going, has closed $9M Series A led by Square Peg. Since retrain.ai’s $4M seed round last year was unannounced (led by Hetz Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
+      "originalUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/03/retrain.ai-founders-picture-1.jpg?w=535",
+          "width": 535,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
+      "publishedDateTime": "2021-03-10T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs.md",
+      "title": "New AI tool accurately diagnoses COVID-19 just by the sound of your coughs",
+      "excerpt": "Scientists from Essex University have created a COVID-19 screening tool that can accurately diagnose the virus by analyzing audio samples of coughs.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
+      "originalUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-10T134550.529-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
+      "publishedDateTime": "2021-03-10T05:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-how-the-ai-sector-can-use-nonprofits-as-an-ethical-example.md",
+      "title": "How The AI Sector Can Use Nonprofits As An Ethical Example",
+      "excerpt": "A future in which the nonprofit sector is the driving force of our society, where our incentives to succeed aren't guided mainly by greed and self-sustenance but rather by our ability to do good. It's a future where we are measured and rewarded by our mastery of several key balances: profit and ethics;",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603668987d7c12c2d697b410%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/amp/",
+      "publishedDateTime": "2021-03-10T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-2021-emerging-trends-how-artificial-intelligence-will-affect-creative-decisions.md",
       "title": "2021 Emerging Trends: How Artificial Intelligence Will Affect Creative Decisions",
       "excerpt": "Data is quickly turning the entire creative decision-making process into a cold, hard science. As artificial intelligence (AI) continues to transform more and more industries, this is an especially interesting area of innovation. Here are four ways data ...",
@@ -113,7 +318,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/10/cloud-cybersecurity-startup-lumu-raises-a-7-5-million-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1058,211 +1263,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-zeni-raises-135m-to-automate-bookkeeping-with-ai.md",
-      "title": "Zeni raises $13.5M to automate bookkeeping with AI",
-      "excerpt": "Zeni, a startup providing AI-powered financial services management to startups, has raised $13.5 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/11/big-fat-document.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/zeni-raises-13-5m-to-automate-bookkeeping-with-ai/amp/",
-      "publishedDateTime": "2021-03-09T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises.md",
-      "title": "VMware and Nvidia launch GPU virtualization platform for enterprises",
-      "excerpt": "VMware and Nvidia deliver on promise to enable GPUs to run multiple workloads using VMware vSphere virtual machine software.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "originalUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/03/NVIDIA-VMwareAI-ReadyPlatform.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/09/vmware-and-nvidia-launch-gpu-virtualization-platform-for-enterprises/amp/",
-      "publishedDateTime": "2021-03-09T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform.md",
-      "title": "Ibex Medical Analytics raises $38M for its AI-powered cancer diagnostic platform",
-      "excerpt": "Israel-based Ibex Medical Analytics, which has an AI-driven imaging technology to detect cancer cells in biopsies more efficiently, has raised a $38 million Series B financing round led by Octopus Ventures and 83North.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "originalUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/Ibex-Co-Founders-Joseph-Mossel-CEO-L-and-Chaim-Linhart-CTO-R.jpg?w=757",
-          "width": 757,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/09/ibex-medical-analytics-raises-38m-for-its-ai-powered-cancer-diagnostic-platform/amp/",
-      "publishedDateTime": "2021-03-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-reimagining-digital-governance-with-artificial-intelligence-and-iot.md",
-      "title": "Reimagining Digital Governance With Artificial Intelligence And IoT",
-      "excerpt": "When choosing workers, look for those who possess the ability to perform critical cross-platform developments and manage multiple release cycles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fd921f231029bc6eaa81aa1%2F0x0.jpg%3FcropX1%3D1017%26cropX2%3D9853%26cropY1%3D0%26cropY2%3D4968",
-          "width": 1200,
-          "height": 649,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/09/reimagining-digital-governance-with-artificial-intelligence-and-iot/amp/",
-      "publishedDateTime": "2021-03-09T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

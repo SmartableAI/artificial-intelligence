@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Rising at 20.2% CAGR, Edge AI Hardware Market Size to Exceed 2160 Million Units by 2026: Facts & Factors"
-excerpt: "New York, NY, March 11, 2021 (GLOBE NEWSWIRE) -- Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras, Robots, Automobile, Smart Speakers,"
-publishedDateTime: 2021-03-11T13:49:00Z
-originalUrl: "https://www.marketwatch.com/press-release/rising-at-202-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factors-2021-03-11"
-webUrl: "https://www.marketwatch.com/press-release/rising-at-202-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factors-2021-03-11"
+excerpt: "Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras,"
+publishedDateTime: 2021-03-11T12:43:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/03/g20117987/rising-at-20-2-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factor"
+webUrl: "https://www.benzinga.com/pressreleases/21/03/g20117987/rising-at-20-2-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factor"
+ampWebUrl: "https://amp.benzinga.com/amp/content/20117987"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20117987"
 type: article
-quality: 52
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Artificial Intelligence Chip Market Size Outlook 2026: Top Companies, Trends, Growth Factors Details by Regions, Types and Applications"
@@ -44,6 +36,6 @@ related:
         height: 630
         isCached: true
 
-secured: "R35cs6PFR66CJgQWVi7IGbYhzNZv5KipWgk1Zj1D+LrvDPeWps/seToWm1O8+uiMjL/kJfoon8GBkVOwbzsqj0WA8/P5+7gQwqQC3pBzVDxxExowVDqi58jRTcpE6L6fVI1Yn2+IxNbU+9DzGnmcXZb6kBc8W/rZoZW2qTmKzcuiY60a03x+NFvhzpJSKzNtSuFOTa41/PjojS6p/eLeAi14ic4saIdxVjHMcPaZjxxmGmfbPRZeR3Rxe/4cG7cZO13crmtsGyQEzaIxcCxKo+yHN+MBdMBCCP+3GfkzlL7OEaX1/yGmxluyGfwY10h7j1wmvTIcp7AXbT6J0v5SmBPp8cfIaS9cjEkeDMyxlH4=;whhYCxhOd7VaQu2mcGROSw=="
+secured: "4doyq5r4KO8lL0GKMjgRXH3ThzzbJD9+twrracAvBPwoEfPWxK93uRiCidgLD851qVJPf7/PWJvOipTmyRPPd+pKDN9zamiUI1BUMtAfuy5RFeyNSOkFXt/xaJrRehoEwFmYvB2rPqD8r2AsNlG08Foh1Mw8FAqcRRrEhnN9skVXf1u1ai4GZnqA6M1IdG6F+Bny4FlccqudKBH6w3m5C9jM+jyqNq9HZdXeIIMI8hGMr0MdS1YBCDr+USEZfaY5pyNNZAXBL7O4Ak3KbzBX84GQS0u8XZd0FI4+3pWJnMayIpBIQ1PctQ5DzxgycGSxXa3HE6l6MhemrhwJfwOXIU4246rW14Eyn3ZXVykcso4=;YzS7vbr2Yn1zl247rdB9CQ=="
 ---
 

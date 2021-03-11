@@ -71,6 +71,20 @@ related:
         width: 3551
         height: 2279
         isCached: true
+  - title: "Luminar strikes deal with Volvo to offer self-driving system to automakers"
+    excerpt: "Luminar Technologies Inc. said on Thursday it had struck a deal with the self-driving software subsidiary of Volvo Cars to offer a combination hardware-software system to other automakers. Palo Alto,"
+    publishedDateTime: 2021-03-11T14:55:00Z
+    webUrl: "https://www.autonews.com/technology/luminar-strikes-deal-volvo-offer-self-driving-system-automakers"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 22
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Luminar_Nasdaq_0.png?h=2475ff28"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "QA8k4LzAzpEGcL5zWuBCQ/j+7vvtHhXZswMALEYl1IQDd2FvBIBFyGaNWjfdT+bmIlzsROEMBJGYPzxDIDxU1LzbFbIEbTvnoDLYnakVIjniYSGVdA004bWjqCHV+WD5Y3qhw1PkKcsJ1xriviyLOGDKG0w+cmF2wU8NB2oT4XORWKJPO+wnDkt70QrOjeRMkhKTKNbToPhATzx/rXhJY/KPrMSESQ8Pc6OgFRUAOaSwPHgJES4e3DB/XkfEw9KhzGjk7KyIvf9Ej2H9k7koeUETyovSaqw5UglmnUaaS+F8IO2v0D+Esc0cFioQieqq8wWnbfLJ5uRPWg4TuZ5TxoR94jVc24xcb9FEpVCCY1mzxTNGgOEoCDbRNQEVu3aOnW8tLFkR3rc9CSHEPSpwhfmq2D7CduC93UCiOTqisqqNJ/5efG0BGSERmhw5BFInb/ALLQyhIJOZVQVlEJ3qy4rXdtEETp/7hyJP520Vn9AH2eowZOaNd+JOmFXEXfM30B/WF+SOnRh+xL0DlNcxPQ==;fXwL24QReTMruBWoGEsQ2Q=="
 ---

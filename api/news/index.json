@@ -2,6 +2,212 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials.md",
+      "title": "IBM’s AI may lead to new antimicrobials, drugs, and materials",
+      "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a new study published in the journal Nature Biomedical Engineering, researchers at IBM say they’ve ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/",
+      "originalUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/",
+      "publishedDateTime": "2021-03-11T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
+      "title": "DeepMind is building a team of A.I. researchers in New York",
+      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind declined to say how many people it has in New York but ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "publishedDateTime": "2021-03-11T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-go-big-or-go-home-asset-wealth-managers-need-to-seize-the-day-on-ai.md",
+      "title": "Go Big Or Go Home: Asset & Wealth Managers Need To Seize The Day On AI",
+      "excerpt": "Everyone in asset and wealth management is using AI, but there are significant differences between the leaders and the laggards in how they are applying it within their organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6048d0304680ea5d0de7f05a%2F0x0.jpg",
+          "width": 513,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelspellacy/2021/03/11/go-big-or-go-home-asset--wealth-managers-need-to-seize-the-day-on-ai/amp/",
+      "publishedDateTime": "2021-03-11T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-hugging-face-triples-investment-in-open-source-machine-learning-models.md",
+      "title": "Hugging Face triples investment in open source machine learning models",
+      "excerpt": "Developers have used a hub on Hugging Face to share thousands of models, and CEO and cofounder Clement Delangue told VentureBeat Hugging Face wants to become to machine learning what GitHub is to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/",
+      "originalUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/hugging-face-triples-investment-in-open-source-machine-learning-models/amp/",
+      "publishedDateTime": "2021-03-11T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-your-computer-is-on-fire-draws-on-tech-history-to-critique-ai-and-the-cloud.md",
       "title": "‘Your Computer Is On Fire’ draws on tech history to critique AI and the cloud",
       "excerpt": "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a story last year about nine books I read about AI in 2020, I called Your Computer Is On Fire a book worth ...",
@@ -302,7 +508,7 @@
       "originalUrl": "https://www.zdnet.com/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -552,7 +758,7 @@
       "originalUrl": "https://www.lelezard.com/en/news-19693395.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -804,7 +1010,7 @@
       "originalUrl": "https://www.bloomberg.com/news/videos/2021-03-09/zoox-ceo-on-deal-with-amazon-to-make-self-driving-electric-cars-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1035,211 +1241,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-populus-ai-plots-expansion-with-5m-in-new-funding.md",
-      "title": "Populus AI plots expansion with $5M in new funding",
-      "excerpt": "The wave of shared electric scooters that swept through cities several years ago helped Populus AI get its start. Now, surging demand for delivery — and the pressure it places on curb space ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
-      "originalUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/populus-PlatformView_LiveMap.png?w=1024",
-          "width": 1024,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/",
-      "publishedDateTime": "2021-03-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-israels-retrainai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market.md",
-      "title": "Israel’s Retrain.ai closes $13M to use AI to understand early signals in the changing jobs market",
-      "excerpt": "Israel’s retrain.ai, which uses AI and Machine Learning to read job boards at scale and to gain insight into where the job market is going, has closed $9M Series A led by Square Peg. Since retrain.ai’s $4M seed round last year was unannounced (led by Hetz Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
-      "originalUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/03/retrain.ai-founders-picture-1.jpg?w=535",
-          "width": 535,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/israels-retrain-ai-closes-13m-to-use-ai-to-understand-early-signals-in-the-changing-jobs-market/amp/",
-      "publishedDateTime": "2021-03-10T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs.md",
-      "title": "New AI tool accurately diagnoses COVID-19 just by the sound of your coughs",
-      "excerpt": "Scientists from Essex University have created a COVID-19 screening tool that can accurately diagnose the virus by analyzing audio samples of coughs.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
-      "originalUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/Untitled-design-2021-03-10T134550.529-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/10/new-ai-tool-accurately-diagnoses-covid-19-just-by-the-sound-of-your-coughs/amp/",
-      "publishedDateTime": "2021-03-10T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-how-the-ai-sector-can-use-nonprofits-as-an-ethical-example.md",
-      "title": "How The AI Sector Can Use Nonprofits As An Ethical Example",
-      "excerpt": "A future in which the nonprofit sector is the driving force of our society, where our incentives to succeed aren't guided mainly by greed and self-sustenance but rather by our ability to do good. It's a future where we are measured and rewarded by our mastery of several key balances: profit and ethics;",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603668987d7c12c2d697b410%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/03/10/how-the-ai-sector-can-use-nonprofits-as-an-ethical-example/amp/",
-      "publishedDateTime": "2021-03-10T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,186 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-04-nice-actimize-xceed-financial-crime-platform-gets-finastra-push.md",
+      "title": "Nice Actimize Xceed financial crime platform gets Finastra push",
+      "excerpt": "NICE Actimize, a NICE (Nasdaq: NICE) business, and the industry leader in financial crime and compliance solutions, today announced a partnership with Finastra, one of the world’s largest providers of financial technology solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
+      "originalUrl": "https://www.finextra.com/pressarticle/86469/nice-actimize-xceed-financial-crime-platform-gets-finastra-push",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T22:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging.md",
+      "title": "Snapcommerce raises $85M for AI-powered ecommerce messaging",
+      "excerpt": "Toronto, Canada-based ecommerce startup Snapcommerce today announced that it raised $85 million in a funding round led by Inovia Capital and Lion Capital, bringing its total venture capital raised to over $100 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
+      "originalUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/husshen_SnapTravel.jpg?w=1200&strip=all",
+          "width": 1050,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/04/snapcommerce-raises-85m-for-ai-powered-ecommerce-messaging/amp/",
+      "publishedDateTime": "2021-03-03T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-this-microsoft-app-transcribes-translates-group-conversations-in-real-time.md",
+      "title": "This Microsoft app transcribes, translates group conversations in real-time",
+      "excerpt": "Named the Group Transcribe, the app lets people capture real-time collective meeting transcriptions using their smartphones, including in Hindi",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/04/full/1614837760-6327.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/this-microsoft-app-transcribes-translates-group-conversations-in-real-time-121030400300_1.html",
+      "publishedDateTime": "2021-03-03T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-edge-ai-chip-company-syntiant-announces-support-for-hey-google-and-ok-google-hotwords.md",
+      "title": "Edge AI Chip Company Syntiant Announces Support for ‘Hey Google’ and ‘Ok Google’ Hotwords",
+      "excerpt": "Syntiant Corp., a deep learning chip technology company advancing AI pervasiveness in edge devices, today announced that it supports Ok Google and Hey Google hotwords with the Syntiant® NDP120™ Neural Decision Processor™ (NDP).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-consumer-electronics-manufacturing-67e2a959c72d87e7e3494c08234eeac1",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-consumer-electronics-manufacturing-67e2a959c72d87e7e3494c08234eeac1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-robots-to-the-fore-at-new-national-centre-for-artificial-intelligence-in-scotland.md",
       "title": "Robots to the fore at new national centre for artificial intelligence in Scotland",
       "excerpt": "Construction has started on a new Scottish research facility to drive early-stage product development in the fields of robotics and artificial intelligence. The National Robotarium on the Edinburgh campus of Heriot-Watt University is scheduled to open in the spring of next year,",
@@ -1015,196 +1195,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-azure-percept-helps-microsoft-users-make-the-most-of-edge-ai.md",
-      "title": "Azure Percept helps Microsoft users make the most of edge AI",
-      "excerpt": "Edge computing allows an increasing number of standalone mobile devices to perform tasks such as image recognition, response to voice commands and textual translation, without access to the cloud. During its 2021 Ignite digital conference,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.html",
-      "originalUrl": "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/sarahkatzazu.jpg",
-          "width": 730,
-          "height": 410,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-03-azure-percept-microsoft-users-edge.amp",
-      "publishedDateTime": "2021-03-03T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning.md",
-      "title": "Streamlining data science with open source: Data version control and continuous machine learning",
-      "excerpt": "Can an open source-based workflow leveraging version control and continuous integration and deployment help streamline machine learning, like it did for software development?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "originalUrl": "https://www.zdnet.com/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/03/03/2266fd80-0a28-4f17-8528-cedc55aea178/iterative-ai.png",
-          "width": 800,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/streamlining-data-science-with-open-source-data-version-control-and-continuous-machine-learning/",
-      "publishedDateTime": "2021-03-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career.md",
-      "title": "Udacity Machine Learning vs. Simplilearn Machine Learning - for your ML Career",
-      "excerpt": "Machine learning technology, a subfield of artificial intelligence, is making tremendous transformations in the way organizations are making use of data to gain insights for their core businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "originalUrl": "https://www.thehansindia.com/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/03/03/1034909-machine-learning.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/udacity-machine-learning-vs-simplilearn-machine-learning-for-your-ml-career-675034",
-      "publishedDateTime": "2021-03-03T05:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-voice-and-speech-recognition-market-size-share-and-forecast-2019-2025.md",
-      "title": "Voice and Speech Recognition Market Size, Share and Forecast 2019-2025",
-      "excerpt": "Global voice and speech recognition market is growing at a significant CAGR during the forecast period. The market is driven by increasing demand for voice-enabled devices and voice-enabled virtual assistant systems across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-size-share-and-forecast-2019-2025-2021-03-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

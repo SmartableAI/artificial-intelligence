@@ -30,19 +30,16 @@ images:
 
 related:
   - title: "Rising at 20.2% CAGR, Edge AI Hardware Market Size to Exceed 2160 Million Units by 2026: Facts & Factors"
-    excerpt: "New York, NY, March 11, 2021 (GLOBE NEWSWIRE) -- Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras, Robots, Automobile, Smart Speakers,"
-    publishedDateTime: 2021-03-11T13:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rising-at-202-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factors-2021-03-11"
+    excerpt: "Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras,"
+    publishedDateTime: 2021-03-11T12:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/03/g20117987/rising-at-20-2-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factor"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/20117987"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/20117987"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "D8j/M56l3hmjW/53f8DOiCHFksqc0lZe4S3NJPxfTZRfAcPjoQho2ZAVvx7NIjHofBNDIkHX246wPZRK/Qr74NZ3A8oTKqjXYWObNeuDhDA0apZabfRDCMmEweTuW6wLmXFkD8XsvAoufWWITTte9JPdi1BOinAYOJ5dZQ4xR8ItN8dCi3kKtsigtUbWqGVdAere3XDhUatF0F9GwWyBViZbpGRvctObzRGMpDBi5aIT8FNCGZDrTjgnwfu4jAjSB3BpzVYkXK36soKSXNuDontnk6vywM5UepnCLeVVR+AFeCzTBdBZZiAi/5sceo7YAh8anPku5Gb18UpFrvnvVvmuZGU4IGYKSihjTPGhDEo=;SikylyG1BaK66z73NeCiCQ=="
 ---

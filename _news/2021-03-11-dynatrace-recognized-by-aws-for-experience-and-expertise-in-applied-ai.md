@@ -67,6 +67,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "ClearScale Achieves AWS Machine Learning Competency Status"
+    excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
+    publishedDateTime: 2021-03-11T14:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/clearscale-achieves-aws-machine-learning-competency-status-301244635.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/233324/clearscale_logo.jpg?p=facebook"
+        width: 1847
+        height: 967
+        isCached: true
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
     publishedDateTime: 2021-03-10T22:02:00Z

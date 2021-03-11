@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-19693395.html"
 webUrl: "https://www.lelezard.com/en/news-19693395.html"
 type: article
 quality: 73
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "ClearScale Achieves AWS Machine Learning Competency Status"
+    excerpt: "ClearScale, a leading cloud systems integrator and Amazon Web Services (AWS) Premier Consulting Partner, announced today that it has"
+    publishedDateTime: 2021-03-11T14:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/clearscale-achieves-aws-machine-learning-competency-status-301244635.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/233324/clearscale_logo.jpg?p=facebook"
+        width: 1847
+        height: 967
         isCached: true
   - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
     excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."

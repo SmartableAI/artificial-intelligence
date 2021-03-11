@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-develops-facial-det
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 444
     height: 318
     isCached: true
-
-related:
-  - title: "AI Models Used to Find Deposits of Battery Materials and Identify Replacements"
-    excerpt: "AI researchers are in the process of developing AI models to reduce the environmental impacts associated with the extraction of materials used in batteries. The mining exploration startup Kobold is developing an AI model capable of detecting materials used in the creation of batteries in the ground."
-    publishedDateTime: 2021-03-07T06:40:00Z
-    webUrl: "https://www.unite.ai/ai-models-used-to-find-deposits-of-battery-materials-and-identify-replacements/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 35
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.eTEe~1cccd/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2021/03/open-pit-mining-2464761_1280.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "uylIGO1+63LoN+sY6vOHWP37f2WCLaOnrXpoknDTM+K4sq9zsUQATXtzitCDJXUaaGlGYF2FqVIpzfaSJCxOlNtO4RwpMUwY4qgzBez2tVtNEv+gof3Yhp6ZgR/CmEV0eveFM6/q4OVSK6jml+jKCqFoMv8CORuhsvfqXUXSQHRRYCseAC21wwsA5gBQxh5tKQFnwooURmLlsBhlRKFwGyw9GBb/9i+piPY8dXuSicQOIOzETd2EKRDDGqoQRdfc3VHgBUcp8eXIlWxqHsVrKBQfr9+n3viywS9rKwwoMmRQnJo9delxs/47kB23CHQspXtlsZYKOsxi5cbnCFfmYIpegpLUVvDT6gexj7XiY7k=;3Mgw0lkg9+0rHWDxcwU+0Q=="
 ---

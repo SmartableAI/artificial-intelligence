@@ -2,6 +2,202 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-19-owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.md",
+      "title": "Owlcam 5.0 is a premium dash cam with AI, voice control and more",
+      "excerpt": "Owlcam 5.0 is a premium dash cam that offers voice control, AI, and an LTE connection for uploading videos to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
+      "originalUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/02/owlcam-5-front-and-back-cropped3-100877901-large.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3608613/owlcam-50-is-a-premium-dash-cam-with-ai-voice-control-and-more.amp.html",
+      "publishedDateTime": "2021-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief.md",
+      "title": "DNA fingerprints, facial recognition used to probe riots cases, says Delhi Police chief",
+      "excerpt": "Commissioner S N Shrivastava said 231 accused were arrested on the basis of CCTV footage, 137 identified through Facial Recognition System & 94 through driving license photographs.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
+      "originalUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2020/03/cars.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/india/dna-fingerprints-facial-recognition-used-to-probe-riots-cases-says-delhi-police-chief/608235/?amp",
+      "publishedDateTime": "2021-02-19T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-how-to-watch-nasas-perseverance-rover-land-on-mars-today.md",
+      "title": "How to watch NASA’s Perseverance rover land on Mars today",
+      "excerpt": "Engineers at NASA's Jet Propulsion Laboratory will attempt a feat that is terrifying and impressive in equal measures: Landing a rover on Mars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.enterpriseai.news/2021/02/19/perseverance-rover-lands-on-mars-heres-how-it-will-use-ai/",
+      "originalUrl": "https://www.digitaltrends.com/news/how-to-watch-perserverance-landing-mars-livestream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.enterpriseai.news/wp-content/uploads/2021/02/Perseverance-landing-illutration-mars2020-sky-crane.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-operationalizing-enterprise-ai-at-scale.md",
+      "title": "Operationalizing Enterprise AI At Scale",
+      "excerpt": "Especially after your first AI use case has been successfully operationalized and scaled, make sure that others in your company hear about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fe1fdf2ad456654f0f801e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/02/19/operationalizing-enterprise-ai-at-scale/amp/",
+      "publishedDateTime": "2021-02-19T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-alexa-what-does-the-smart-home-teach-us-about-ai.md",
       "title": "Alexa, What Does The Smart Home Teach Us About AI?",
       "excerpt": "We don’t often get a real glimpse of the future before it happens, but I believe that's what the smart home grants business leaders for the future of AI.",
@@ -965,196 +1161,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer.md",
-      "title": "DeepMind researchers say AI poses a threat to people who identify as queer",
-      "excerpt": "That’s according to a recent study from Google’s DeepMind that looked at the positive and negative effects of AI on people who identify as lesbian, gay, bisexual, transgender, or asexual.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
-      "originalUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/GettyImages-1148800397.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/02/18/deepmind-researchers-say-ai-poses-a-threat-to-people-who-identify-as-queer/amp/",
-      "publishedDateTime": "2021-02-18T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-privacy-tip-272-to-get-up-to-speed-on-facial-recognition-technology-read-this.md",
-      "title": "Privacy Tip #272 – To Get Up to Speed on Facial Recognition Technology Read This",
-      "excerpt": "It’s called This is how we lost control of our faces in the February 5, 2021 edition of MIT Technology Review, written by Karen Hao.  The article outlines a study rec",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read",
-      "originalUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/privacy-tip-272-to-get-to-speed-facial-recognition-technology-read?amp",
-      "publishedDateTime": "2021-02-18T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-new-obstacles-for-robotics-in-2021.md",
-      "title": "New Obstacles for Robotics in 2021",
-      "excerpt": "With better functionality, mapping, sustainability, ethics, and privacy, robotics as a whole can solidify itself as a game-changer in every facet of life.",
-      "sourceUrl": null,
-      "webUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/",
-      "originalUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thebossmagazine.com/wp-content/uploads/2021/02/thisisengineering-raeng-H4ClLKv3pqw-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thebossmagazine.com/new-obstacles-for-robotics/amp/",
-      "cdnAmpWebUrl": "https://thebossmagazine-com.cdn.ampproject.org/c/s/thebossmagazine.com/new-obstacles-for-robotics/amp/",
-      "publishedDateTime": "2021-02-18T14:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BOSS Magazine",
-        "domain": "thebossmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-anthony-levandowski-closes-his-church-of-ai.md",
-      "title": "Anthony Levandowski closes his Church of AI",
-      "excerpt": "The first church of artificial intelligence has shut its conceptual doors. Anthony Levandowski, the former Google engineer who avoided an 18-month prison sentence after receiving a presidential pardon last month,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
-      "originalUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/levandowski-church-AI-1-1.gif?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/18/anthony-levandowski-closes-his-church-of-ai/amp/",
-      "publishedDateTime": "2021-02-18T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

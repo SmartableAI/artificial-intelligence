@@ -2,9 +2,9 @@
 category: news
 title: "Which AI stocks are set to emerge from the sector’s downturn?"
 excerpt: "The artificial intelligence sector has taken a knock recently, with stocks falling after strong gains over the last year. So, what’s next for Nvidia, Intuitive Surgical and ServiceNow’s share prices?"
-publishedDateTime: 2021-03-11T14:00:00Z
-originalUrl: "https://www.cmcmarkets.com/en-gb/opto/which-ai-stocks-are-set-to-emerge-from-the-sectors-downturn"
-webUrl: "https://www.cmcmarkets.com/en-gb/opto/which-ai-stocks-are-set-to-emerge-from-the-sectors-downturn"
+publishedDateTime: 2021-03-11T14:43:00Z
+originalUrl: "https://www.cmcmarkets.com/en/opto/which-ai-stocks-are-set-to-emerge-from-the-sectors-downturn"
+webUrl: "https://www.cmcmarkets.com/en/opto/which-ai-stocks-are-set-to-emerge-from-the-sectors-downturn"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 576
     isCached: true
 
-secured: "gU4fMNuveP2aFfZDFAJf1QaUySSQf3lWXCYig1Yvh1Ma/twAfE8nxs3kRIU5tipApnN3tDLjhfxFhZuSCGQuNiFtCmSOQ+hOapvprnp80zL0bShVsiZWbluQfLb3PdU4VCj2CXqIXOiSLWIBsoTbJ2NLl5r7HhBTI7Fs/CXNPhjSwVJLbYosJ0CQ46vI4L+jAD0f2LYgoqTtyg4o6Zp+IbvIx9Y+TYE0wViD9OI7CUJMe67OtY+vqLbZAwWEt0GdWdjyNsU4eX4hapHt3FyL6/yAL6BUWms0pn+ZCIgg16B9gA5vtmjatVuUz7ugVy2NZBCceRr2IbfClaKOsOEFFaKk1uDSJXNUyxrIgmlyg7s=;inNfoerjnbOMm8cmflRZEg=="
+secured: "pgSaHXrjfN9rp9Ma7XzXL3gkIzMrG0UVyERd1RNaNQMogXyBx5CWJeVH1u4MnL8D73amRGsyCkHutsRUgvpraoffggV07q0LSIQ/ZdlsMUi65O4ULkVPINwMF0pw4P4NIgEV2+KJmoXhgI4fxLxIAGddyeK8SQlBF/iXsNjc+FFDEmWjJYRx46jaG60zqN7MPuopRfNpY/GWhf/WAAUsbcUVUAcBQV8MjLnYJ5AArbA6VKLbpY0aAw6PXffKZSlGuB/cMC7COeqJjHy7NqR3BnV19dAkpLffIMFd/1uQfo+piKQy/7C7cd9XIqNjW6F8nnRbQRtw9/tLwzBndDbTNbleLB9IWnMz2wCpwYay/Zg=;a+70L99/FLxZZsK2yPwFIA=="
 ---
 

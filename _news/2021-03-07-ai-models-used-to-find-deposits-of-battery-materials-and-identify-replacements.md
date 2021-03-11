@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Fujitsu develops facial detection AI to quantify concentration levels of people"
-    excerpt: "Fujitsu has developed a new AI model that it claims can capture and quantify how much a person is concentrating when performing tasks. Conventionally, AI models that are designed to quantify concentration have been created by training algorithms to recognise the expressions and behaviours of people performing specific tasks,"
-    publishedDateTime: 2021-03-11T04:51:00Z
-    webUrl: "https://www.zdnet.com/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people/"
+  - title: "IBM’s AI may lead to new antimicrobials, drugs, and materials"
+    excerpt: "Join Transform 2021 for the most important themes in enterprise AI & Data. Learn more. In a new study published in the journal Nature Biomedical Engineering, researchers at IBM say they’ve ..."
+    publishedDateTime: 2021-03-11T16:00:00Z
+    webUrl: "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/"
+    ampWebUrl: "https://venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/03/11/ibms-ai-may-lead-to-new-antimicrobials-drugs-and-materials/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/hub/i/2021/03/11/b337ae1c-ce88-445d-bf1d-968f76b35dfd/fujtisu.jpg"
-        width: 444
-        height: 318
+      - url: "https://venturebeat.com/wp-content/uploads/2021/02/IBM-logo.jpg?w=1200&strip=all"
+        width: 1024
+        height: 663
         isCached: true
 
 secured: "HBb3Jh4DW6Y+1HEEVXSHovQEwES7OlQ7FYtYDHmFKUdPXOuQ9vI6LhowyesipwYhOCGmZYGqOOwSas9VYJbE2Wx4Qf1KY+Fge2AOBx/jxzp784khczA/2jhCCQ9DzBH09RcI0RPBjkj128jTAIu3DVzCxq13ktLk0iIXzeeJbBTQjUFnHD/15cbZufMa6UPxBHGG9op234HtV6nBle0Sg+xHKgwFo9gmOAcCPxhgWsUppab1wEC1jZRuYHq515tlOtGr5p1VGbaZctpxqHCX8aPusAyPbfJdaLqnOkh6+spCOE3r/iF6Du+TfzEufPf4mciKbXH8Z8Py/yQZ+lGiqaG1HhDlU0nxgAOyMmbyuHem1wbIr3gq4wvZZTSTNudngrIqbRQXIm5J0+cI5c6nVE8W0rRJG/OD3E+9QrV47SqwjEM95oc5kMb7NoqeN/A3FGm+929CKyfPbxpkN5FSbCey+srxGRfG7/LmO+LSllXERDxcrF40FHg2Y2dr1VwUN/efxYfMr1w5HEeXNhWTjA==;xY9iqnxusci5qR2vw65b4A=="

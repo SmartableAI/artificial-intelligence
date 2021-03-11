@@ -352,59 +352,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-07-facebooks-new-ai-teaches-itself-to-see-with-less-human-help.md",
-      "title": "Facebook’s new AI teaches itself to see with less human help",
-      "excerpt": "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
-      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/brainzzz-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-07T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-03-06-facebook-enhances-ai-computer-vision-with-seer.md",
       "title": "Facebook enhances AI computer vision with SEER",
       "excerpt": "At a time when many versions of AI rely on pre-established data sets for image recognition, Facebook has developed SEER (Self-supERvised) – a deep learning solution able to register images on the Internet independent of curated and labeled data sets.",
@@ -1079,49 +1026,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-02-cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer.md",
-      "title": "Cambridge Quantum Announce Largest Ever Natural Language Processing Implementation on a Quantum Computer",
-      "excerpt": "Cambridge Quantum Computing (CQC) announces the publication of a research paper on the online pre-print repository arxiv (available here)",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/in/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-878170425.html",
-      "originalUrl": "https://www.prnewswire.com/in/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-878170425.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-03-02-automatic-speech-recognition-software-market-revenue-growth-predicted-by-2021-2030-google-baidu.md",
       "title": "Automatic Speech Recognition Software Market Revenue Growth Predicted by 2021-2030 | Google, Baidu",
       "excerpt": "A consciously conceived and designed business intelligence report titled Global Automatic Speech Recognition Software market 2021 by Manufacturers, Type, and Application, Forecast to 2030 by MarketResearch.",
@@ -1161,6 +1065,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer.md",
+      "title": "Cambridge Quantum Announce Largest Ever Natural Language Processing Implementation on a Quantum Computer",
+      "excerpt": "Cambridge Quantum Computing (CQC) announces the publication of a research paper on the online pre-print repository arxiv (available here)",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-301237921.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/cambridge-quantum-announce-largest-ever-natural-language-processing-implementation-on-a-quantum-computer-301237921.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1479,6 +1426,49 @@
         "Natural Language Processing",
         "Facebook AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-apple-training-siri-to-better-understand-people-with-atypical-speech.md",
+      "title": "Apple Training Siri to Better Understand People With Atypical Speech",
+      "excerpt": "Apple is researching how to improve Siri to better understand people who talk with a stutter, according to new details shared by The Wall",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "originalUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/mivQrgPpAEzYsUPg1wq5M8-c2-E=/1920x/https://images.macrumors.com/article-new/2020/06/ios14siriinterface.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2021/02/25/apple-siri-atypical-speech-improvements/amp/",
+      "publishedDateTime": "2021-02-25T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

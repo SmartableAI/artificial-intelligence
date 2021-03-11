@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "AI Moves to the Edge"
+    excerpt: "While human intelligence continues to lead, Edge AI presents a variety of benefits for security integrators and end-users"
+    publishedDateTime: 2021-03-11T15:04:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/article/21211053/ai-moves-to-the-edge"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/03/GettyImages_1170174496.603d38e9b9b20.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "zEhl8tDjgA98A3aPOLiwQ5B9CIXZMxTK5mPeCiALafuYhlXjLqsQezxVZih67K9J03d9ZWDEXQfYS9Z7IE62HIE043/AGBXVouC0R0e6arjrBMioT9HXw/a5QmkQXULi2d2n64ALgd2T2E4XKExqSoAG2UGRzh/6gJU3PsJlCT0MryYm9fOmap1mvqeWU+Y6mdvV/6HKDS7aOoXrpK2MXxma8wNKHWCSSt8Lf/0yITGo0tQ1YzglVZDX/DbZBw4uB4G17vf+b+pN7D2gJ6bjWtataxcHom3qunsLOli61vLgRJF1hLfjLvCxvfC3qCDmUIDCd71n/G13xLYQ39MiqxV8ZRBmicmtlv7Txv1oRWE=;Wqn3ZHjCxhvZAtugGXqhvQ=="
 ---

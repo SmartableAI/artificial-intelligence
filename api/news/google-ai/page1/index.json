@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-deepmind-is-building-a-team-of-ai-researchers-in-new-york.md",
+      "title": "DeepMind is building a team of A.I. researchers in New York",
+      "excerpt": "DeepMind has already hired several intellectual heavyweights in New York. Rob Fergus, the co-founder of Facebook AI Research, is now helping rival DeepMind to build a team in New York. DeepMind declined to say how many people it has in New York but ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "originalUrl": "https://www.cnbc.com/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035",
+          "width": 1024,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/03/11/google-deepmind-selects-new-york-for-new-ai-research-hub.html",
+      "publishedDateTime": "2021-03-11T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-researchers-accelerate-sparse-inference-on-xnnpack-and-tensorflow-lite-for-realtime-apps.md",
       "title": "Researchers accelerate sparse inference on XNNPack and TensorFlow Lite for realtime apps",
       "excerpt": "XNNPack and TensorFlow Lite now support efficient inference of sparse networks. Researchers demonstrated substantial speedups in inference times on realtime gesture detection and background blur apps.",
@@ -1400,49 +1452,6 @@
       "provider": {
         "name": "InfoQ",
         "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-optax-is-a-gradient-processing-and-optimization-library-for-jax.md",
-      "title": "Optax is a gradient processing and optimization library for JAX.",
-      "excerpt": "If nothing happens, download GitHub Desktop and try again. mihaelacr-google and OptaxDev optax-dev@google.com Ensure the number of update functions and states is the same in chain.",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/deepmind/optax",
-      "originalUrl": "https://github.com/deepmind/optax",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://avatars.githubusercontent.com/u/8596759?s=400&v=4",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,212 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-08-cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research.md",
+      "title": "Cloud Natural Language Processing (NLP) Market Analysis, Segmentation And Forecast | By Kenneth Research",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-synthetic-data-could-be-the-key-to-unlocking-ai-what-is-it.md",
+      "title": "Synthetic Data Could Be The Key To Unlocking AI — What Is It?",
+      "excerpt": "The truth is that despite the big data boom, most businesses still lack the quantity of high-quality data they need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6042363121cbb7d95b1f446f%2F0x0.jpg",
+          "width": 820,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/03/08/synthetic-data-could-be-the-key-to-unlocking-ai---what-is-it/amp/",
+      "publishedDateTime": "2021-03-08T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna.md",
+      "title": "Nvidia, Harvard researchers use AI to find active areas in cell DNA",
+      "excerpt": "Using a new deep learning toolkit called AtacWorks, researchers are studying how diseases and genomic variation influence specific types of cells in the human body.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/03/08/0e0d1f1c-d00c-4ad2-a2d0-7dd775d328e3/embargo-atacworks-image.png",
+          "width": 1190,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-harvard-researchers-use-ai-to-find-active-areas-in-cell-dna/",
+      "publishedDateTime": "2021-03-08T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-08-as-ai-tech-speeds-up-so-should-designed-in-gender-diversity.md",
+      "title": "As AI Tech Speeds Up, So Should Designed-In Gender Diversity",
+      "excerpt": "These are the steps we need to take right now to make sure bias-free AI is developed by people representative of the whole of society and any given company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F603e407dcd02f3bb0484d74e%2F0x0.jpg",
+          "width": 1075,
+          "height": 716,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/03/08/as-ai-tech-speeds-up-so-should-designed-in-gender-diversity/amp/",
+      "publishedDateTime": "2021-03-08T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-ultra-sophisticated-computer-vision-defeated-by-pen-and-paper.md",
       "title": "Ultra Sophisticated Computer Vision Defeated By Pen and Paper",
       "excerpt": "By exploiting the model’s ability to read text robustly, we find that even photographs of hand-written text can often fool the model...this attack works in the wild; but...it requires no more technology than pen and paper.",
@@ -607,11 +813,11 @@
       "title": "Facebook’s new AI teaches itself to see with less human help",
       "excerpt": "Now, Facebook has shown how some AI algorithms can learn to do useful work with far less human help. The company built an algorithm that learned to recognize objects in images with little help from labels.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
-      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/",
+      "webUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
+      "originalUrl": "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/?comments=1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -651,8 +857,7 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI",
-        "Natural Language Processing"
+        "AI"
       ]
     },
     {
@@ -664,7 +869,7 @@
       "originalUrl": "https://www.fool.com/investing/2021/03/07/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1031,188 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-microsoft-adds-ways-for-customers-on-ai-with-azure.md",
-      "title": "Microsoft Adds Ways for Customers on AI with Azure",
-      "excerpt": "Elevators that respond to voice commands, cameras that notify store managers when to restock shelves and video streams that keep tabs on everything from cash register lines to parking space",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/09/f73fc3da-microsoft.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2021/03/06/microsoft-adds-ways-for-customers-on-ai-with-azure/amp/",
-      "publishedDateTime": "2021-03-05T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency.md",
-      "title": "Open machine learning and AI data can increase ship energy efficiency",
-      "excerpt": "The Swedish ship operator Ventrafiken and the research project “Data-driven energy efficiency for ships” (D2E2F) have established a collaboration to collect open data for research purposes. One of the double ended ferries (Uraniborg) have been equipped with a Blueflow Energy Management System to collect data on energy consumers and vessel data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
-      "originalUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hellenicshippingnews.com/wp-content/uploads/2021/03/MS_Uraniborg.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/open-machine-learning-and-ai-data-can-increase-ship-energy-efficiency/amp/",
-      "publishedDateTime": "2021-03-05T15:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-10-ways-ai-and-machine-learning-are-improving-marketing-in-2021.md",
-      "title": "10 Ways AI and Machine Learning Are Improving Marketing In 2021",
-      "excerpt": "Marketers’ use of AI soared between 2018 and 2020, jumping from 29% in 2018 to 84% in 2020, according to Salesforce Research’s most recent State of Marketing Study. AI, Machine Learning, marketing & advertising technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
-      "originalUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lcolumbus.files.wordpress.com/2021/03/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-1-1.jpg?w=400",
-          "width": 400,
-          "height": 292,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/marketing/10-ways-ai-and-machine-learning-are-improving-marketing-in-2021-02390666/amp",
-      "publishedDateTime": "2021-03-05T13:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-ai-powered-chrome-extension-automatically-turns-on-youtube-subtitles-while-you-eat-noisy-snacks.md",
-      "title": "AI-Powered Chrome Extension Automatically Turns on YouTube Subtitles While You Eat Noisy Snacks",
-      "excerpt": "A year into the pandemic most of us have honed our daily routines into a regular pattern of YouTube bingeing and snacking. But munching on crunchy snacks often makes it impossible to hear a video. The solution isn’t to turn off our computers and attempt to re-enter society,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652",
-      "originalUrl": "https://gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/s8cythjbs1f9l4fad9xb.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-powered-chrome-extension-automatically-turns-on-yout-1846414652/amp",
-      "publishedDateTime": "2021-03-05T12:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -46,6 +46,22 @@ related:
         width: 757
         height: 567
         isCached: true
+  - title: "Hi Marley raises $25M to fund its AI-powered communication platform for the insurance industry"
+    excerpt: "If you’ve ever had to file a claim with your insurance company, you know that it’s not exactly fun. Often, you’re on hold indefinitely waiting to speak to a live person. And if you’ve ever had to file an auto or home insurance claim,"
+    publishedDateTime: 2021-03-11T16:09:00Z
+    webUrl: "https://techcrunch.com/2021/03/11/hi-marley-raises-25m-to-fund-its-ai-powered-communication-platform-for-the-insurance-industry/"
+    ampWebUrl: "https://techcrunch.com/2021/03/11/hi-marley-raises-25m-to-fund-its-ai-powered-communication-platform-for-the-insurance-industry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/11/hi-marley-raises-25m-to-fund-its-ai-powered-communication-platform-for-the-insurance-industry/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 75
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-591404061.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "QCRI to hold seventh annual machine learning and data analytics symposium"
     excerpt: "Doha: The Qatar Center for Artificial Intelligence (QCAI), part of the Qatar Computing Research Institute (QCRI) at Hamad Bin Khalifa University (HBKU), will host the seventh annual Machine Learning and Data Analytics Symposium (MLDAS) in collaboration with The Boeing Company."
     publishedDateTime: 2021-03-08T12:48:00Z

@@ -2,30 +2,26 @@
 category: news
 title: "New method could democratize deep learning-enhanced microscopy"
 excerpt: "Deep learning is a potential tool for scientists to glean more detail from low-resolution images in microscopy, but it's often difficult to gather enough baseline data to train computers in the process."
-publishedDateTime: 2021-03-08T16:03:00Z
-originalUrl: "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.html"
-webUrl: "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.html"
-ampWebUrl: "https://phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-03-method-democratize-deep-learning-enhanced-microscopy.amp"
+publishedDateTime: 2021-03-08T17:42:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2021/03/210308111913.htm"
+webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111913.htm"
 type: article
-quality: 59
-heat: 59
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/newmethodcou.jpg"
-    width: 2880
-    height: 1620
-    isCached: true
-
-secured: "XqWSktQgRjmWiC16R12+nXiYdK2Mi/x2St1yl05SUsguEZJt69Ej0pe0N66E17hyniCgP87daMBPt2FacDW7Xfz25P93nqYTkkxKQqWyQErkueadxKQA9YMbAnJYlMzlqcQAkNrqF97NA8xMhHHqCp6HZzKfG1BrO5KGTr83A5tuJXVkMFKhgIBCgNxP2QeolO68f48ZMivfr+Y3uDd//J1r52at+FZzylaV+UJnPyrs+Rs15g9FSeC9QIDgFrON4V6Q4oIzg8RyrS8c9iAr3tOhc6B7HxL7d86qcdLQt03u9o2UhGNYFMh3WNsKx4bJDqqk/YfqJ7VApDaRgN72sJHCp49DE7s4CdnaI6dld0E=;fyvR2wPVkLVz1T0K58JZlw=="
+secured: "kd3Z0WZg5x+S7CHgNcQvFVi8yIawULFtSynL6C0xcB+f+fg+70iAGgBIPl9v9WBaEhKJiAF6/Nc2vBu5K5kmSJtUoD0PF7TaTyfnqENq+BUkaBNlwrVRwpdgLd4TY3jKtlzSMtfn1EZk5k9soR2NHf19ZpaqVLvBGwsASUcwzlfNDaXv7faSw3xiH4xx1QaB0KbZTwpXkZRQmNX4WUIPE/p1kcbbTDWP0cJ/dxJ7NL4QwVwZVioz9eYdjRGi4nk4v2WhU0yDHeCJrenj4tWusJ4azmOQQ01gzSJas9A2TGxZTxjPlfbYf9KECOwlwq8YA9AyEO1U/AubXdil7LaOVL/vsPy/QsRQ3Yaj/VWs6ic=;8bxhtlW+LylcawyjcSTCSQ=="
 ---
 
