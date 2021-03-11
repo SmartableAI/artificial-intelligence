@@ -1,0 +1,142 @@
+---
+category: news
+title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+publishedDateTime: 2021-03-11T08:22:00Z
+originalUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+type: article
+quality: 70
+heat: 150
+published: true
+
+provider:
+  name: Zawya
+  domain: zawya.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+    width: 450
+    height: 601
+    isCached: true
+
+related:
+  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+    excerpt: "CRANBURY, N.J., March 9, 2021 /PRNewswire/ -- Nuvento, a leading provider of digitization services, launched its AI-driven OCR (optical content recognition) digitization platform today in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2021-03-09T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Guardian Zone Now Available in the Microsoft Azure Marketplace"
+    excerpt: "The Azure Marketplace is an online market for buying and selling ... WekaIOtm (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance ..."
+    publishedDateTime: 2021-03-10T13:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19692002.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 69
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"
+    publishedDateTime: 2021-03-09T15:02:00Z
+    webUrl: "https://www.wboc.com/story/43468926/claim-genius-ai-claims-solutions-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 64
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "10 key Microsoft Ignite takeaways for CIOs"
+    excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
+    publishedDateTime: 2021-03-08T10:02:00Z
+    webUrl: "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.html"
+    ampWebUrl: "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/03/satya-nadella-2-100879791-large.jpg"
+        width: 1200
+        height: 652
+        isCached: true
+  - title: "All The Machine Learning Features Announced At Microsoft Ignite 2021"
+    excerpt: "Microsoft held its annual global IT conference, Microsoft Ignite 2021, virtually. The event announced a number of AI-based features and updates across the cloud platform Azure and other business applications."
+    publishedDateTime: 2021-03-09T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-machine-learning-features-announced-at-microsoft-ignite-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/pasted-image-0-13.png"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
+    publishedDateTime: 2021-03-10T12:46:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
+    excerpt: "said Sahir Anand, Principal, Industry Lead – Microsoft Azure Cloud+AI for Retail & CPG at Microsoft. Bringoz is a SaaS-based delivery logistics platform that provides shippers & carriers an end-to-end, scalable delivery infrastructure. Bringoz is a ..."
+    publishedDateTime: 2021-03-09T16:06:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-internet-technology-computing-and-information-technology-web-services-d25419b304c84a0fa67e9bfd82708dfe"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 50
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Microsoft Azure MSP Acquires Software Development Company"
+    excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
+    publishedDateTime: 2021-03-10T20:05:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
+
+secured: "4kQrvGcg+h03Wz622cmQ1OvaOsVjoKb0chZmDYxcz+K40xaABMh0u3wk99pS8mk/MzhyVc6RwVmeVRDgbq5DfhRDR5dg6sXLLt9GQFmoowE6TXxf8XPkF1YcWZkWeRGTsZ7QvicbG2zG/nFilY1uAB9d9gnjH7WPndf6M66kMvtPDlEdqUrxuBsz1meA0nM/u/OXV8BFufEaaFLZqEsoPBzfLSh5CTkza8EwIs5fp9xo4zgBDB3ukgaceuuzGFeaSkxnG36oka+13WeYG/hy8oOFuBsxBDRxKL5DyAIXZ1Y4lyXuvBbzm2y6IpJsc8+nzoUl2jJv+1uw09V5VFs3zxlQHGPjpgvB9NFKRBnNs8k=;LmtfqMk8+yrGnrgXugTdOw=="
+---
+

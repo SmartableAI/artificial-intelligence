@@ -71,20 +71,6 @@ related:
         width: 711
         height: 400
         isCached: true
-  - title: "Facebook: New AI Teaches Itself to See with less Help"
-    excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."
-    publishedDateTime: 2021-03-06T15:58:00Z
-    webUrl: "https://techstory.in/facebook-new-ai-teaches-itself-to-see-with-less-help/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/03/fb.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "/DFjRiQ4VyZ0moDn+Kk9mTLJjR0bi3TmhKKv3lpH0ZWgG7KmxhRlgTd6qMmRtoaHH7YtztYHdo1NyoPhnLMNI7QlZIT4p0kby2Kyp6QSljlQfaqiGCOXnX9fara3EUKuXaJOpJ1mxMx8pTHBDJ1heDn7v5WwHIC6+1WbII292cHBzc7k2gn2OsxA0+RTfWhLIz/PHFOyoH4q1eoP2UsG1XtdRIfRvWdjynkn724oK7c1C7BTy9s5aIc9SMQQ5wKNiQloYEeTKs7PNQGgvwDwE/BCfM4cHtDkFJN7ufgZmN2KEKKX3qbXM2ncwWLs6uItzRO2mEDbbmtn63KewyJie0H+YmGY08iiopP9VaOSgao=;f7rsIooYYfc2dXXadP+ZXQ=="
 ---

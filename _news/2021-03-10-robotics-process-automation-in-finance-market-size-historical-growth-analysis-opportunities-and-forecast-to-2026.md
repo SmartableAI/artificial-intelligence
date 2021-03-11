@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robotics-process-automat
 webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
 type: article
 quality: 79
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive Analytics Market Share to Reap Over USD 129.99 Billion in Revenues by End of 2026"
+    excerpt: "Get a sample of the report @  The report offers a comprehensive analysis of the global Cognitive Analytics market on a global and regional scale. The forecast estimation have been done value chain analysis and provides an in-depth assessment of the market drivers and restraining factors along with their impact on the global market."
+    publishedDateTime: 2021-03-11T08:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-to-reap-over-usd-12999-billion-in-revenues-by-end-of-2026-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

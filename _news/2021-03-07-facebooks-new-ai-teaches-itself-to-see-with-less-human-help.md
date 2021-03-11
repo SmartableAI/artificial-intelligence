@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-i
 webUrl: "https://arstechnica.com/science/2021/03/facebooks-new-ai-teaches-itself-to-see-with-less-human-help/"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://www.vrfocus.com/wp-content/uploads/2021/03/Facebook_AR-Glasses.jpg"
         width: 711
         height: 400
-        isCached: true
-  - title: "Facebook: New AI Teaches Itself to See with less Help"
-    excerpt: "Seer (for SElf-supERvised), a Facebook algorithm, choosing for itself which items resemble the other the most from a bunch of Instagram photos."
-    publishedDateTime: 2021-03-06T15:58:00Z
-    webUrl: "https://techstory.in/facebook-new-ai-teaches-itself-to-see-with-less-help/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 39
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2021/03/fb.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "Facebook AI Can Teach Itself Without as Much Human Input"
     excerpt: "Image recognition and AI may be more easily integrated into commercial settings if it can learn more without expensive human input."

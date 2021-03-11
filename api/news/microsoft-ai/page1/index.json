@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure.md",
+      "title": "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure",
+      "excerpt": "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg",
+          "width": 450,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/",
+      "publishedDateTime": "2021-03-11T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-splice-machine-31-enhances-support-for-real-time-ai-deployments.md",
       "title": "Splice Machine 3.1 enhances support for real-time AI deployments",
       "excerpt": "Splice Machine introduced a new version of its platform -- 3.1 -- that introduces tools to support real-time AI system deployment.",
@@ -53,49 +96,6 @@
         "AI Hardware",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "CRANBURY, N.J., March 9, 2021 /PRNewswire/ -- Nuvento, a leading provider of digitization services, launched its AI-driven OCR (optical content recognition) digitization platform today in the Microsoft Azure Marketplace, an online store providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -805,6 +805,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
+      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
+      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/3",
+      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
+          "width": 501,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-microsoft-ignite-data-and-analytics-roundup-platform-extensions-are-the-key-theme.md",
       "title": "Microsoft Ignite Data and Analytics roundup: Platform extensions are the key theme",
       "excerpt": "Microsoft is introducing a new Apache Cassandra Azure service, while adding new onramps to Azure Synapse Analytics. And it’s the first third-party cloud to cleanroom engineer its own MongoDB 4.0 API.",
@@ -1107,49 +1150,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-microsofts-10-biggest-azure-announcements-at-ignite-2021.md",
-      "title": "Microsoft’s 10 Biggest Azure Announcements At Ignite 2021",
-      "excerpt": "The Microsoft Ignite 2021 conference includes Microsoft Azure announcements such as the Azure Percept platform and tools for Azure migrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "originalUrl": "https://www.crn.com/slide-shows/cloud/microsoft-s-10-biggest-azure-announcements-at-ignite-2021/8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0267-11b36cb76fd9-20817e9cfc17-1000/microsoft-azure-sign-2.jpg",
-          "width": 501,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-01T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {

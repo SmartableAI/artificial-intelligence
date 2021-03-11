@@ -3,8 +3,8 @@ category: news
 title: "XAPP AI Achieves AWS Machine Learning Competency Status in Applied AI"
 excerpt: "XAPP AI announced today that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied"
 publishedDateTime: 2021-03-10T21:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/xapp-ai-achieves-aws-machine-learning-competency-status-in-applied-ai/article_463bd8f0-4c2e-5742-aa28-78d6daa3c973.html"
 type: article
 quality: 71
 heat: -1
@@ -15,9 +15,9 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
@@ -41,18 +41,18 @@ related:
         height: 480
         isCached: true
   - title: "ElectrifAi Achieves AWS Machine Learning Competency Status in Applied AI"
-    excerpt: "ElectrifAi, one of the world’s leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
-    publishedDateTime: 2021-03-11T06:43:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-north-america-new-jersey-artificial-intelligence-783447a5b19481a0aa30bcdc459a4336"
+    excerpt: "ElectrifAi, one of the world's leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+    publishedDateTime: 2021-03-11T07:35:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/electrifai-achieves-aws-machine-learning-competency-status-in-applied-ai-886661103.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 70
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1321884/ElectrifAi_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
   - title: "Dynatrace Recognized by AWS for Experience and Expertise in Applied AI"
     excerpt: "Software intelligence company Dynatrace (NYSE: DT) announced today it has achieved Amazon Web Services (AWS) Machine Learning Competency status in the new Applied Artificial Intelligence (Applied AI) category."
@@ -70,14 +70,14 @@ related:
         isCached: true
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-    publishedDateTime: 2021-03-11T00:09:00Z
-    webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+    publishedDateTime: 2021-03-10T22:02:00Z
+    webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
     type: article
     provider:
-      name: WBOC
-      domain: wboc.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 36
 
-secured: "UTo7Xn7mW12bi5qdAZxu6agrt7Vh1qCUR9DXGGm+1e32kt1EM1i8TbFDKiPno6FUEEdT0jdbWV331Dnqwpa/4NCib1o6XaflhVM2ArDliqB+ZhfITV6YjiNXeqowRNol9amldFowdShdViZT0JVRYGIIkJm5qMLF62c9tZzKQQcdAFRSlURsc6KcbF/MDORbmop/a203pb5zs4OmPyfPQukWRYRIkTEEiRWiArTBfyh//subPobn0ujfrO84MiMxoRUhNnACL9pUZrn0RXo3P58P8IqZZuxfXnziK1t4S4oAzzb99pe2ymVEUAyaMDQ5MiRKcCjmq2LLbNU8VDQevpUHCiaz6WYbkI4t0QOYOlc=;5tnWjYBLXOxfySEZq5/UyA=="
+secured: "GOBFABEQsD/vxaEEPnxf4usiUsdc72xkFWsuIBGrFOeo/AlCzYUIupgXNfvT5ywIyJsGAyODO4Kl4n2FsRrEoMloz+ajdMWZyaHK6nyG5BBidw46iuRkFs1FQwKPjiwVtvIGuZbHGWd4XXtRD2lVkkQAaJ8H1EVSFkxATSYFYQa5zotmQvZo5I71HDlZweWY/EkWogSo1fqGzonsqRFepAZtb6Fap15EU/I7lh5NFMCCmPLkbgJ6XW98gQ5uowAnEip8oDKHdCiGcm7J6ZVhraP2kBB/Lrm1HcdQW3Jzgyqn/WvUVFevGspUdicD8JqwNvjqxYxNT2cKPIanz7WAHBgVuHieL60JlwtCvZ3cT4Q=;0YFC7GKMVtssRx66uKUIyw=="
 ---
 

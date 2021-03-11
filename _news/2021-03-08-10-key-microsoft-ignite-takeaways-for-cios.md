@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cio.com/article/3610733/10-key-microsoft-ignite-takeaway
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3610733/10-key-microsoft-ignite-takeaways-for-cios.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,92 @@ images:
     isCached: true
 
 related:
+  - title: "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure"
+    excerpt: "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure."
+    publishedDateTime: 2021-03-11T08:22:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 70
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg"
+        width: 450
+        height: 601
+        isCached: true
+  - title: "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace"
+    excerpt: "CRANBURY, N.J., March 9, 2021 /PRNewswire/ -- Nuvento, a leading provider of digitization services, launched its AI-driven OCR (optical content recognition) digitization platform today in the Microsoft Azure Marketplace, an online store providing ..."
+    publishedDateTime: 2021-03-09T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 69
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Guardian Zone Now Available in the Microsoft Azure Marketplace"
+    excerpt: "The Azure Marketplace is an online market for buying and selling ... WekaIOtm (Weka), the fastest-growing data platform for artificial intelligence/machine learning (AI/ML), life sciences research, enterprise technical computing, and high-performance ..."
+    publishedDateTime: 2021-03-10T13:50:00Z
+    webUrl: "https://www.lelezard.com/en/news-19692002.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 69
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"
+    publishedDateTime: 2021-03-09T15:02:00Z
+    webUrl: "https://www.wboc.com/story/43468926/claim-genius-ai-claims-solutions-now-available-in-the-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 64
+    images:
+      - url: "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "All The Machine Learning Features Announced At Microsoft Ignite 2021"
+    excerpt: "Microsoft held its annual global IT conference, Microsoft Ignite 2021, virtually. The event announced a number of AI-based features and updates across the cloud platform Azure and other business applications."
+    publishedDateTime: 2021-03-09T13:30:00Z
+    webUrl: "https://analyticsindiamag.com/all-the-machine-learning-features-announced-at-microsoft-ignite-2021/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2021/03/pasted-image-0-13.png"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "RADCOM announces automated 5G assurance integration with Microsoft Azure"
+    excerpt: "RADCOM Ltd (Nasdaq: RDCM) today announced the integration of its automated 5G assurance solution, RADCOM ACE, with Microsoft Azure."
+    publishedDateTime: 2021-03-10T12:46:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/radcom-announces-automated-5g-assurance-integration-with-microsoft-azure-301244383.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 53
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Bringoz Launches Intelligent Delivery & Distribution System on Microsoft Azure"
     excerpt: "said Sahir Anand, Principal, Industry Lead – Microsoft Azure Cloud+AI for Retail & CPG at Microsoft. Bringoz is a SaaS-based delivery logistics platform that provides shippers & carriers an end-to-end, scalable delivery infrastructure. Bringoz is a ..."
     publishedDateTime: 2021-03-09T16:06:00Z
@@ -41,6 +127,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft Azure MSP Acquires Software Development Company"
+    excerpt: "Microsoft partner Atmosera has acquired Wintellect, an Atlanta, Georgia-based software development, Azure and IT training company."
+    publishedDateTime: 2021-03-10T20:05:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/microsoft-development-company/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 34
 
 secured: "fcRglKUgoJECdt0bTxkXln97fAalKJHpgrI+c5oZ9aU//o2rNWKtnPOBwfG7O57m7u6M6wTAaB9t/ouXIGRX/UASnkHX7iGmWsGB7Y0xUz25+FKSH54DrVFPhEf6GCvjuC/zW/uhlKhRzeilmON43/R1GcsKj2OSJzRDE7KGMetYkKL+eTqaVCAy8KKQ9GGr7eYTvXlPOmK2w6KjsH1KQNjERyZqYhHpW12KaiEX76a52T27e4T9n7zFiZcbk28VRRXZJl3bbpNDUO8Y6Fvi/a0ylSecHQ6glYxvBiQGGHgscQPHRM17EHdB/rV7FqJf/qg5C4lXJx/GM8IAhm73l439vH+DUG1pbZrExfP6NzU=;sNI00f5VpzNJfGcALHZD4Q=="
 ---

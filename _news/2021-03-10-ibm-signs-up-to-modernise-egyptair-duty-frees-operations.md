@@ -20,6 +20,22 @@ topics:
   - IBM AI
   - AI
 
+related:
+  - title: "Egyptair Tourism and Duty Free Co strikes Cloud contract with IBM"
+    excerpt: "Egyptair is determined to transform the inflight shopping experience as part of a wider digital transformation roadmap."
+    publishedDateTime: 2021-03-11T07:17:00Z
+    webUrl: "https://www.moodiedavittreport.com/egyptair-tourism-and-duty-free-co-strikes-cloud-contract-with-ibm/"
+    type: article
+    provider:
+      name: Herve Bouillonnec
+      domain: moodiedavittreport.com
+    quality: 39
+    images:
+      - url: "https://www.moodiedavittreport.com/wp-content/themes/moodie/assets/images/wechat.png"
+        width: 280
+        height: 280
+        isCached: true
+
 secured: "CsGnYl3wHPZGzbHd598/dV/k4dUbdWiqxLBwu7AawoKKxLXW80469HqipYM7CWBESJ6DUfQnxGCcOs8odGZzo+JFZKSRfyFKmN4GJtc8CN2anqOB5VX46cYqeH457PkHJTYH7fUXrrLDcJ4ob9mGkwQNGM3iNuYHdmJ7GU3Hqj3oWWng7d0zoFhkRcUlWByzMowryiEy/dwb02N+ZBbjhB6SWqvy2DMGS6D7VqYny/TYcLpsk/Hx4k8mBgKKMgKzoZK6GiYXR8eTbwDSVbYZmm2EqHQOMEoJkI3pBg+aZXjr0VxC6FVKaiSxERs3uGUWG6GQcI1Syp0rZFFyo3XsizJnRiSM8Kc8L8nfgm5j5DQ=;JNAnTjPhbFJTBcK7JEIPdg=="
 ---
 

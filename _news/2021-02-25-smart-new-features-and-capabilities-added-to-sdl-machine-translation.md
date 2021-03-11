@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Smart New Features and Capabilities Added to SDL Machine Translation"
-excerpt: "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, including content insight, expanded options for adaptation,"
-publishedDateTime: 2021-02-25T07:58:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869"
-webUrl: "https://apnews.com/press-release/business-wire/technology-europe-england-united-kingdom-western-europe-76ab868db4ed496493bd61d878f26869"
+excerpt: "SDL, part of RWS Holdings plc, today announced that new smart features and capabilities have been added to its machine translation technology, includi"
+publishedDateTime: 2021-02-25T12:58:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation"
+webUrl: "https://www.businesswire.com/news/home/20210224005746/en/Smart-New-Features-and-Capabilities-Added-to-SDL-Machine-Translation"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "VN/zC+GiAtqYMgm5gjec2T2mCu9/K6/hrG1NQHyWgPGXbgOU/5qtbLrpBbrnj2wBlKhV2KZ8z1bs7lkLeXmxQUGH+ccuPzqGGF5iFgATIcj/iCcDvYaDnBlPiK76ZC84FgvnhYhuumAuONKflZtfs/on7fWUdxlCvOou3rcJJ16DjGT2iy9gRMAyjwe2yiyFMMviIm6gSea6ITwz7KAbxJBRTN7Am1Fx/hDUeS8Lt2obXl9NplaJcNYBJTTsIPT6BcWaD4Z+rG80td7Arbmx8Q2rb8ZZ+xvJzMGvCnGjJ0hXgm9y3UBPDt+tD8lla3rwI7LoXW93+VXk3H6AgQ3nE9Lx6rq6yY7K8F//DGAHh00=;BTQ0q3Xa5Gv+yee9dP+EOw=="
+secured: "0GvWmeGZ/vrr+hJaHgGLRalIIr5z7fnnmtUvSy8FGvQJzYXAyhohvZCYXEW1m9ynjyi28zM+o9wIXKjEMujnFDoXQ9YtveQt02yHB6HVCn2XdRfodJsNiHBcOAd3BTNWVNd8L/fgYWWONgt42BP6MtY9vjs8hq/C1Gyty874l3k5xen88OAMPzvIN9/9RpEtiP2JJdkXiPzHvCSc7Bi+K1vBjGmaM/kSre0QSLxT4unw/5ogknj5UJB3VFQFCelftBOdq/Mjxo2RZotHxH+HdueOnKQv28a3TKxywthGosBUmEkf2OsVgQ8CK6iDgM0UFy28hr+M5B16Sqq+oOOdmWOc55xufmxmgOpxsYHGgNQ=;IYUBxwhYjusBNddQrJR4hQ=="
 ---
 

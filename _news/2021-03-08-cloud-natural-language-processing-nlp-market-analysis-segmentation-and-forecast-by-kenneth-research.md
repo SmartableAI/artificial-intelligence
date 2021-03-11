@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-analysis-segmentation-and-forecast-by-kenneth-research-2021-03-08"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-Driving Car Market Revenue Growth Predicted by 2021 – 2024 | By Kenneth Research"
+    excerpt: "Self-driving cars have pre-installed control systems in them which ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others. Kenneth Research is a reselling agency ..."
+    publishedDateTime: 2021-03-11T07:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-growth-predicted-by-2021-2024-by-kenneth-research-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

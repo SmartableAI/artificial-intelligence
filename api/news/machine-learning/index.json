@@ -344,6 +344,49 @@
       ]
     },
     {
+      "path": "_news/2021-03-09-army-collaborates-with-spelman-college-on-ai-machine-learning.md",
+      "title": "Army collaborates with Spelman College on AI, machine learning",
+      "excerpt": "An Army researcher recently briefed students and faculty at Spelman College on artificial reasoning as a part of an Office of the Secretary of Defense artificial intelligence and machine learning initiative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.army.mil/article/244024/army_collaborates_with_spelman_college_on_ai_machine_learning",
+      "originalUrl": "https://www.army.mil/article/244024/army_collaborates_with_spelman_college_on_ai_machine_learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.army.mil/e2/c/images/2021/03/08/2c1d0c78/max1200.jpg",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-08T14:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "United States Army",
+        "domain": "army.mil",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-algorithm-helps-artificial-intelligence-systems-dodge-adversarial-inputs.md",
       "title": "Algorithm helps artificial intelligence systems dodge “adversarial” inputs",
       "excerpt": "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or “adversarial” inputs may cause uncertainty.",
@@ -832,6 +875,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-aible-positioned-furthest-in-the-visionary-quadrant-in-the-2021-gartner-magic-quadrant-for-cloud-ai-developer-services-report.md",
+      "title": "Aible Positioned Furthest in the Visionary Quadrant in the 2021 Gartner Magic Quadrant for Cloud AI Developer Services Report",
+      "excerpt": "Visionaries are most commonly, but not exclusively, focused on autoML, as this segment is viewed as the most important for application leaders and development organizations. Their autoML services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20210304005195/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20210304005195/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T06:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1361,93 +1438,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-qsrs-optimize-with-machine-learning-as-yum-brands-acquires-ai-company.md",
-      "title": "QSRs Optimize With Machine Learning As Yum! Brands Acquires AI Company",
-      "excerpt": "Yum! Brands, which owns KFC, Taco Bell, Pizza Hut and other multinational restaurant chains, will acquire AI analytics company Kvantum, Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/03/yum-brands-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/qsrs-machine-learning-yum-brands-acquires-ai-company/amp/",
-      "publishedDateTime": "2021-03-02T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-stop-experimenting-with-ai-and-machine-learning.md",
-      "title": "Stop Experimenting with AI and Machine Learning",
-      "excerpt": "The pandemic has accelerated the imperative for businesses to invest in Artificial Intelligence (AI) and Machine Learning (ML) so they can replace guesswork with data-powered certainty to reorient strategy and optimize operations for success in an uncertain future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html",
-      "originalUrl": "https://www.cio.com/article/3609525/stop-experimenting-with-ai-and-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/03/istock-844535726-100879325-large.jpg",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T12:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

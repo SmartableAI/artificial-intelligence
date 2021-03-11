@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-aruba-accelerates-digital-transformation-from-edge-to-cloud-on-microsoft-azure.md",
+      "title": "Aruba accelerates digital transformation from edge-to-cloud on Microsoft Azure",
+      "excerpt": "Aruba, a Hewlett Packard Enterprise company (NYSE: HPE), in collaboration with Microsoft, announced two new solutions that enable organizations to accelerate their digital transformation from edge-to-cloud by delivering deeper integration between Aruba ESP (Edge Services Platform) and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/",
+      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/Aruba_accelerates_digital_transformation_from_edgetocloud_on_Microsoft_Azure-ZAWYA20210311073459/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2021/MichaelTennefoss_2021_03_11.jpg",
+          "width": 450,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/",
+      "publishedDateTime": "2021-03-11T00:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-fujitsu-develops-facial-detection-ai-to-quantify-concentration-levels-of-people.md",
       "title": "Fujitsu develops facial detection AI to quantify concentration levels of people",
       "excerpt": "Fujitsu has developed a new AI model that it claims can capture and quantify how much a person is concentrating when performing tasks. Conventionally, AI models that are designed to quantify concentration have been created by training algorithms to recognise the expressions and behaviours of people performing specific tasks,",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.eweek.com/big-data-and-analytics/lenovo-puts-ai-to-work-on-production-planning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -754,7 +797,7 @@
       "originalUrl": "https://techcrunch.com/2021/03/10/populus-ai-plots-expansion-with-5m-in-new-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1197,59 +1240,6 @@
         "AI Ethics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
-      "title": "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
-      "excerpt": "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T23:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

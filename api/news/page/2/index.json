@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-10-robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
+      "title": "Robotics Process Automation in Finance Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
+      "excerpt": "Global Robotics Process Automation in Finance Market is valued approximately USD 1.10 Billion in 2019 and is anticipated to grow with a healthy growth rate of more than 33.60% over the forecast period 2019-2026.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-09T23:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-startup-uses-nlp-and-ai-to-make-software-security-reviews-less-painful.md",
       "title": "Startup uses NLP and AI to make software security reviews less painful",
       "excerpt": "Apiiro creates user profiles and analyzes a company's code base to spot high-risk changes and replace manual risk assessments with on-the-fly analysis. Drupal at 20: Creator Dries Buytaert shares lessons from two decades as an open-source leader 40:19 ...",
@@ -652,49 +705,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "NuOCR from Nuvento Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "CRANBURY, N.J., March 9, 2021 /PRNewswire/ -- Nuvento, a leading provider of digitization services, launched its AI-driven OCR (optical content recognition) digitization platform today in the Microsoft Azure Marketplace, an online store providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/nuocr-from-nuvento-now-available-in-the-microsoft-azure-marketplace-301241308.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-09T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
