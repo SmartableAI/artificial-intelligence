@@ -69,6 +69,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
+    excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
+    publishedDateTime: 2021-03-10T15:09:00Z
+    webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 65
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
+        width: 521
+        height: 313
+        isCached: true
   - title: "10 key Microsoft Ignite takeaways for CIOs"
     excerpt: "It’s barely five months since the last Ignite conference, but Microsoft still had a lot to share about innovations in AI, IoT, and communication."
     publishedDateTime: 2021-03-08T10:02:00Z

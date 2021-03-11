@@ -84,14 +84,14 @@ related:
         isCached: true
   - title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
     excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-    publishedDateTime: 2021-03-10T22:02:00Z
-    webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+    publishedDateTime: 2021-03-11T00:09:00Z
+    webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
+      name: WBOC
+      domain: wboc.com
     quality: 36
 
-secured: "wJRVuv6kLTvZoIHxqCwhTLq+t51MJVP8ooiExs2ecPVhpbPr1YyXfHNpVLCBBrsjdnxK0OWA2mrVQnJmRskj6sf4YU7vzJBmEPhUIat8lU4W5RCe89xvuAbgriYWmntuv18SQnWUSOKwqu/L1qxkYsrOadgI3KkPMRdUWcThLqjqWtV/PhC4KkbprQMtyhZgoDEd0CcRTpS12ka+xKkrZJRybPavq750IHnOiMUtUVbf4vN7t4VQ62DUSu6NZstK5+4JHngidfnaGE7Ky7TvMJzIz6Aq9F5e9q49POAVVJi1sD0IydwuZrKqb6TyyhKyqOKIGBxuRCxY9SaA6u0BaDpV3wL7zryMQEaGJV35+pQ=;kJz2TPshwBekcIlj+35jKg=="
+secured: "4LJt3s2zBSA/y+XisKpn3sLWMJYGRkicR0XelPJ/caGIySzH/4mDFFu5DbR1FXelJ+A1KGMWkBZclNt82JGRzhLMdBCUq/jPJU7kor+HQ0G/qSI0F+Drk0rvzamPjfe0AeaW2oIOpELZ27nZJiR6Z0KCfe4aDsgi/93g7hnZyS5M0HaC7R9Aq7h2rOZZlMqLvS2KzrxC0TpZ31vvrO9SCqFM/oomrBa/QouQhUVR1xrIjbzNKfi7U3iSt+2yizPfuzDwlj0Um9yctqzyj3cAmS+h4LRhbqVFUIWI2LpmFQo56OtYp3rUiNIf64JZ2tiSbqq5eZ/eeOAGeH3c1fmoZBdZ8GBOfbGTCb1jp0kZLVo=;0si3mmMjiyxN7TQGAG9BTQ=="
 ---
 

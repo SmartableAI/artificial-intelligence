@@ -48,7 +48,7 @@ related:
     provider:
       name: Security
       domain: securityinfowatch.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/03/GettyImages_1170174496.603d38e9b9b20.png?auto=format&fit=max&w=1200"
         width: 1200

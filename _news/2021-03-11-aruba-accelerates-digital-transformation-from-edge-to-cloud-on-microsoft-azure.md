@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210311073459/"
 type: article
 quality: 70
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Microsoft incorporates machine learning into Azure to support multi-cloud adoption"
+    excerpt: "Microsoft updated its Azure Arc platform by adding machine learning capabilities to support data services that are enabled by Arc, reports TechRadar. The platform enables users to manage servers and Kubernetes clusters across edge, on-premises and multi ..."
+    publishedDateTime: 2021-03-10T15:09:00Z
+    webUrl: "https://www.scmagazine.com/briefs/microsoft-azure-updates-allow-businesses-to-maximize-the-potential-of-hybrid-cloud/"
+    type: article
+    provider:
+      name: SC Media
+      domain: scmagazine.com
+    quality: 65
+    images:
+      - url: "https://www.scmagazine.com/wp-content/uploads/sites/2/2020/10/WIS_Category.jpg"
+        width: 521
+        height: 313
         isCached: true
   - title: "Claim Genius AI Claims Solutions Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Claim Genius AI Claims technology to automate and accelerate the processing of auto claims"

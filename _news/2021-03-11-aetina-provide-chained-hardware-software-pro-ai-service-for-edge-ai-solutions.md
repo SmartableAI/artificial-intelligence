@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
-excerpt: "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions"
-publishedDateTime: 2021-03-11T13:51:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
-webUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
+excerpt: "Aetina Corporation dedicated to AI solutions with the ambition to deliver a professional AI service. Today Aetina proudly introduces their"
+publishedDateTime: 2021-03-11T13:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/aetina-provide-chained-hardware--software-pro-ai-service-for-edge-ai-solutions-301245268.html"
+webUrl: "https://www.prnewswire.com/news-releases/aetina-provide-chained-hardware--software-pro-ai-service-for-edge-ai-solutions-301245268.html"
 type: article
-quality: 45
-heat: 45
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1454391/Pro_AI.jpg?p=facebook"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Arizona schools using artificial intelligence software to track student progress, emotions"
@@ -38,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WBaQAt8yey2HmKB6EDN2pXlIyMglPQLzLsqiHlLlwbfgelxAoq14i8DFaFKGlHgSYUfue5Jt6vusiyvXKgwG9lrIYU9wyeHsdWn3y3/K0hg5/s4EvnL67tRdlUOGo5BqvzaYJxU8hfTkYdIbOgSc8zCyWInBouxqo078Br4Ze7wqIqrPMbn1EG23XpTZcQIxok6br/DkeXcE2TxeM8rmo2SQXAzAMQwswB3EiD1Zo86f5mW6caR5mlFyRGNvo19+rAZ2oMhgmhj4Rg6wxNDJtIIBAMwOKE6zCru4xq3xK3uBon27xoSiZEphByUQvjm0qiePBqonWwMzCP5JtZE138tbVwU23m4tkomHIC7xqaE=;SuYWOR6lFE+5P6WUQf5noA=="
+secured: "DlYF5Kj2iSP/gWifvONaftmoGmCjhaVWMrIHrOPEXXUO33snz+lWQyh1bZZgvC+H12PDseoHAtdobRZe0Oj8Ok4QCLSmTYMdobZDXVl8iWM0D9NB0qHOup/RL3WoGprbllh95eZoDUEuVQzD+vqKqER33hvH4/7fvj6VXUaVbtdnTrJX29edLwRUO1hNKElpYL3dCWrt+RSWeDKo+sN0t7z3pWK8xbIRFc6wn4OXnJ/Hxvsv7d71+hVlZAEEIFZKNbjXgE5gXsNIYehXoA0U6cKcg1vQOtS9N4bKiQlE06f2G84eGMo+gng5jpPpLmFma0BBtTedjyvBXCUm829uaYGw3j5UpWFDRWuhFqysjjQ=;kpHxDe4KCT5odbtNzlsMsA=="
 ---
 

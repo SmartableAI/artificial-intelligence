@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-acc
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://www.meritalk.com/wp-content/uploads/2021/01/Grace-Dille.jpg"
         width: 486
         height: 486
+        isCached: true
+  - title: "AI Adoption Accelerated During the Pandemic, but Many Say it's Moving too Fast"
+    excerpt: "But many say it’s moving too fast. That’s probably because of current debate surrounding the ethics, governance and regulation of AI. Many business leaders do not have a view into what their organizations are doing to control and govern AI and may fear ..."
+    publishedDateTime: 2021-03-11T17:20:00Z
+    webUrl: "https://www.automation.com/en-us/articles/march-2021/ai-adoption-accelerated-pandemic-moving-fast"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 35
+    images:
+      - url: "https://www.automation.com/getmedia/abca79b1-df3f-4167-b6db-b8550c5bcd28/AI-news-March-11-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "hmRNRYJfIG9C9GIXzaRBAyqJGijNgMpnsXyn0ZdbHuvxcYYZgp6vaD4pO7rINgfO7xOxD4YgiZQmq79UZAwYjt5m1uaAPLEOn9vndJbJU6nUMV24ccQxAIiYtOgUO/YD1CMovrltFC1xslxiD8h4xeXgL2ijla9ZpqA/q0aXO9qg48Nrfdt0kIC3/OiDrCP9vkUdUyTLx03u07nM8YJvCsWPaay5xH50yBgwmRoTLITGUMOUN8N/l9L5thIXCGYOeJq9fIWuiNpDFBvwatJD8rTB7YtUH4HBAap6c1smOKqUbHZYZtPK8HSEs9ACr/tEZ/YrWeKRhPIF++6lO4n4iNjxz1cT8vQ3XjRZTW8T/31/EQ/d07en0BMy9RBD4U4bdXqcoJA/EeCvP1gIyPy5upADzM/BYXfG/7jinE8LCLLoQikJ/BQs7Z/+GeJIPu5q/Itugt74E92uUd/pv6rJwgj4ppSMvURcbLZ+0K94xpXi/8gu6QJDTuURtNUo1F4xCHqBzFz3MA+zdOvKAMaq3Q==;tzhKCCWFdVohAZZPFMjJgQ=="

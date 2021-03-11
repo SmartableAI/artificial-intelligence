@@ -161,6 +161,20 @@ related:
         width: 314
         height: 314
         isCached: true
+  - title: "Compliance Fintech Smarsh Adds To Execs To Support Growth"
+    excerpt: "Portland, Ore.-based compliance fintech Smarsh has announced the addition of two new executives to support its accelerating growth. Goutam Nadella has been named chief product officer, according to a company announcement."
+    publishedDateTime: 2021-03-11T18:13:00Z
+    webUrl: "https://www.fa-mag.com/news/compliance-fintech-smarsh-adds-to-execs-to-support-growth-60843.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 24
+    images:
+      - url: "https://www.fa-mag.com/images/logo_opengraph.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Launch: Financial Technology Association to Advocate for Consumer-Centric Fintech Development"
     excerpt: "The Financial Technology Association (FTA), a new trade group formed by leaders of the technology-centered financial services industry, today announced the launch of its organization and the publication of its introductory paper,"
     publishedDateTime: 2021-03-10T19:01:00Z

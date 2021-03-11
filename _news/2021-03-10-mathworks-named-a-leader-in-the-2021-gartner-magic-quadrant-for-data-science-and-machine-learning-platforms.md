@@ -45,6 +45,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "IBM Positioned as a Leader in Two Newly Released Gartner Magic Quadrant Reports"
+    excerpt: "IBM (NYSE: IBM) today announced that global research firm Gartner has positioned IBM as a Leader in two newly published Gartner Magic"
+    publishedDateTime: 2021-03-11T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-positioned-as-a-leader-in-two-newly-released-gartner-magic-quadrant-reports-301245197.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 20
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
   - title: "TIBCO Software Named Leader in 2021 Gartner Magic Quadrant for Data Science and Machine Learning for Third Year in a Row"
     excerpt: "\"Data science and machine learning are at the core of the flourishing data-first movement. TIBCO makes data management, visual analytics, feature engineering, and modeling simple. Along with real-time,"
     publishedDateTime: 2021-03-08T01:05:00Z

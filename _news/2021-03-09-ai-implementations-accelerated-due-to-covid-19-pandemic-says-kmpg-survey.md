@@ -120,6 +120,20 @@ related:
         width: 486
         height: 486
         isCached: true
+  - title: "AI Adoption Accelerated During the Pandemic, but Many Say it's Moving too Fast"
+    excerpt: "But many say it’s moving too fast. That’s probably because of current debate surrounding the ethics, governance and regulation of AI. Many business leaders do not have a view into what their organizations are doing to control and govern AI and may fear ..."
+    publishedDateTime: 2021-03-11T17:20:00Z
+    webUrl: "https://www.automation.com/en-us/articles/march-2021/ai-adoption-accelerated-pandemic-moving-fast"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 35
+    images:
+      - url: "https://www.automation.com/getmedia/abca79b1-df3f-4167-b6db-b8550c5bcd28/AI-news-March-11-2021-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "R/nAx2x+oZbfrpZOqerGpuqDyuDm6Ova0YX2qSWrQce6YVNxQ2VsXm2LJYi/V+bME/krZY+xoqzpL7G1Ksp3NNTbUlmNOA7kOJkEkUG8wUU2GI+LFLczricMAhHYHaVx+15+NSGYVTNqLaUV7FzM/zEiWj6utcUhx1MedLf4rvx0WXtrWT9DvbqrAmHyuZ9sSx/+ERcvEoniR0ABnx9fgcxk10kRfqerpREY7VNyE5QNZlmxucqpWKfmxpc8vshx13TqJk/WykZQgpgJYRtJlXNnlG+fhiw7+oYWU4TAtH3hB3Bk9cnzhkJVbE7aRwshurfWforG7ZJXQAARq9qDf1+idJMAa9ONOOtMKXxKXh0=;M4ORySoD9dD2dnet2VhMyA=="
 ---

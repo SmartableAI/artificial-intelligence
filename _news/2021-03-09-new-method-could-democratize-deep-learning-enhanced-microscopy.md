@@ -2,26 +2,28 @@
 category: news
 title: "New method could democratize deep learning-enhanced microscopy"
 excerpt: "Deep learning is a potential tool for scientists to glean more detail from low-resolution images in microscopy, but it's often difficult to gather enough baseline data to train computers in the process."
-publishedDateTime: 2021-03-08T17:42:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2021/03/210308111913.htm"
-webUrl: "https://www.sciencedaily.com/releases/2021/03/210308111913.htm"
+publishedDateTime: 2021-03-08T16:05:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2021-03/si-nm030521.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2021-03/si-nm030521.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "kd3Z0WZg5x+S7CHgNcQvFVi8yIawULFtSynL6C0xcB+f+fg+70iAGgBIPl9v9WBaEhKJiAF6/Nc2vBu5K5kmSJtUoD0PF7TaTyfnqENq+BUkaBNlwrVRwpdgLd4TY3jKtlzSMtfn1EZk5k9soR2NHf19ZpaqVLvBGwsASUcwzlfNDaXv7faSw3xiH4xx1QaB0KbZTwpXkZRQmNX4WUIPE/p1kcbbTDWP0cJ/dxJ7NL4QwVwZVioz9eYdjRGi4nk4v2WhU0yDHeCJrenj4tWusJ4azmOQQ01gzSJas9A2TGxZTxjPlfbYf9KECOwlwq8YA9AyEO1U/AubXdil7LaOVL/vsPy/QsRQ3Yaj/VWs6ic=;8bxhtlW+LylcawyjcSTCSQ=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/258312_web.jpg"
+    width: 640
+    height: 360
+    isCached: true
+
+secured: "8Cn1IyV+kKiDzmDv/7OkyTIiEVKw3FsqjwYSablC1M42YUIyKhalVTJM0eVe5C6aZdU1NNhXijk8hnizNv3oEVe/kMy7hmxk9iXLt2SOMs56YonRwYvoi7LZJOD7VaHtOijSs+qFIYlGQ8MazPjwVyrdR0UeLSpeorBL76CoAn8HjlujbX101UvwiZhaLynmz0GulaNUOq9y7y5EBl0UJfVttnFIVbCKToxxSd5tV3Wvp4HO8LyHJeRdlUlj+UjKHO6gvqWlMNFpoguBKtPq2LHU+AYk0Rs2VOYlGTYgHJjTAykYPzg009rwskQW2LnWhFUVLbsjSrjjA7dOl5Qga86FlunXqAlHQc3n2i8ZAsg=;NOS9UvOZoUliN4DxXeTDnw=="
 ---
 

@@ -83,6 +83,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Clearview AI sued in California over ‘most dangerous’ facial recognition database"
+    excerpt: "Separately, the Chicago Police Department stopped using the New York company’s software last year after Clearview AI was sued in Cook County by the ACLU."
+    publishedDateTime: 2021-03-11T18:20:00Z
+    webUrl: "https://chicago.suntimes.com/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties"
+    ampWebUrl: "https://chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties"
+    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/2021/3/11/22325325/clearview-ai-facial-recognition-california-lawsuit-civil-liberties"
+    type: article
+    provider:
+      name: Chicago Sun-Times
+      domain: suntimes.com
+    quality: 71
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/92JhUnKXq9qB0Ohx-q6NMtIoH8c=/0x0:768x465/1400x1050/filters:focal(323x172:445x294):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68949763/large.0.jpg"
+        width: 768
+        height: 465
+        isCached: true
   - title: "Immigrant rights groups sue facial-recognition company Clearview AI"
     excerpt: "Two immigrant-rights groups in California are suing Clearview AI, claiming the face-recognition company violates privacy laws by building the largest database of human faces in the nation and providing law enforcement with the database even in cities that have banned facial recognition."
     publishedDateTime: 2021-03-09T22:47:00Z
@@ -130,6 +146,20 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/03/ice_agent_generic-1.jpg?w=1024&h=682"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Legal fight against Clearview AI’s facial recognition service grows"
+    excerpt: "Demographic groups are joining states and nations in demanding that Clearview AI end its massive face-scraping biometric service."
+    publishedDateTime: 2021-03-11T17:13:00Z
+    webUrl: "https://www.biometricupdate.com/202103/legal-fight-against-clearview-ais-facial-recognition-service-grows"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 54
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/04/13160552/facial-recognition-database.jpg"
+        width: 640
+        height: 260
         isCached: true
   - title: "Bay Area activists sue facial recognition firm claiming it snatched their identities"
     excerpt: "Facial recognition software company Clearview AI has appropriated the identities of billions of “unsuspecting” people from websites including social media platforms to sell to police, chilling the right to free speech and endangering immigrants and ..."

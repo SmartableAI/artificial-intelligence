@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027.md",
+      "title": "Military Robots Market Size, Explosive Growth Opportunity, Regional Analysis Forecast to 2027",
+      "excerpt": "The globalmilitary robots marketsize is expected to reach USD 25.66 billion by 2027, exhibiting a CAGR of 10.15% during",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/military-robots-market-size-explosive-growth-opportunity-regional-analysis-forecast-to-2027-2021-03-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-fuji-and-motus-ventures-collaborating-on-robotics-and-ai.md",
+      "title": "FUJI and Motus Ventures Collaborating on Robotics and AI",
+      "excerpt": "Motus Ventures, an early stage venture capital firm and business accelerator investing in deep technology businesses, announced today that FUJI Corporation (headquarters Chiryu, Japan), through its US subsidiary FUJI America Corporation,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-north-america-products-and-services-2b9d9d4f56ff42e9b73834938fe02ae5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california.md",
+      "title": "Kravt Robotics Partners with Allset to Create a Robotic Food Delivery Service in California",
+      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / March 1, 2021 / The IT development company Kravt Robotics has entered into a strategic partnership with Allset",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/632539/image-20210301005808-1.jpeg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/kravt-robotics-partners-with-allset-to-create-a-robotic-food-delivery-service-in-california-1030136701",
+      "publishedDateTime": "2021-03-01T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
       "title": "Underwater robot rises from the depths to save drowning swimmers",
       "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
@@ -636,6 +783,92 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-nano-coatings-robots-need-protection-too.md",
+      "title": "Nano Coatings: Robots Need Protection, Too",
+      "excerpt": "Robots rely on electrical circuits of varying complexity to control their parts ... The engineering team at Sarcos kept that requirement in mind when considering printed circuit board assemblies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.machinedesign.com/markets/robotics/article/21156269/nano-coatings-robots-need-protection-too",
+      "originalUrl": "https://www.machinedesign.com/markets/robotics/article/21156269/nano-coatings-robots-need-protection-too",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/machinedesign/image/2021/02/Promoo_nake_stairs.6037d647b1818.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-robot-vacuums-the-5-best-robot-vacuums-in-the-uk-2021-from-irobot-eufy-and-robotrock.md",
+      "title": "Robot vacuums: the 5 best robot vacuums in the UK 2021, from iRobot, Eufy, and Robotrock",
+      "excerpt": "If you don’t fancy the thought of having to use an app to control some facets of operation then this is the robot vac to go for ... be able to use the app. Mind, that’s not necessarily ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sunderlandecho.com/local-buys/robot-vacuums-the-5-best-robot-vacuums-in-the-uk-2021-from-irobot-eufy-and-robotrock-3094991",
+      "originalUrl": "https://www.sunderlandecho.com/local-buys/robot-vacuums-the-5-best-robot-vacuums-in-the-uk-2021-from-irobot-eufy-and-robotrock-3094991",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sunderlandecho.com/jpim-static/image/2021/02/16/21/shutterstock_250773361.jpg?width=2048&enable=upscale",
+          "width": 2048,
+          "height": 1366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T01:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sunderland Echo",
+        "domain": "sunderlandecho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-ishares-robotics-and-artificial-intelligence-multisector-etf-nysearcairbo-trading-09-higher.md",
       "title": "iShares Robotics and Artificial Intelligence Multisector ETF (NYSEARCA:IRBO) Trading 0.9% Higher",
       "excerpt": "Shares Robotics and Artificial Intelligence Multisector ETF (NYSEARCA:IRBO)’s stock price traded up 0.9% during trading on Wednesday . The company traded as high as $48.11 and last traded at $48.03. 118,",
@@ -1033,6 +1266,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-23-autel-robotics-evo-drone-review_.md",
+      "title": "Autel Robotics EVO Drone Review_",
+      "excerpt": "The Autel Robotics EVO Drone gives you a high quality ... Like the DJI Mavic Pro Quadcopter, you’re getting a pretty impressive range of control distance with this “follow me” drone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
+      "originalUrl": "https://www.gadgetreview.com/autel-robotics-evo-drone-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gadgetreview.com/wp-content/uploads/2021/02/Autel-Robotics-EVO-Drone-Review.jpg",
+          "width": 2112,
+          "height": 1188,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-23T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gadget Review",
+        "domain": "gadgetreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-a-trusty-robot-to-carry-farms-into-the-future.md",
       "title": "A trusty robot to carry farms into the future",
       "excerpt": "To feed 10 billion by 2050, the world’s farmers will need to increase food production by up to 70%. Bring in the robots.",
@@ -1085,246 +1361,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-23-future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry.md",
-      "title": "Future Acres launches with the arrival of crop-transporting robot, Carry",
-      "excerpt": "When people ask me which robotics categories are poised for the biggest growth, I often point to agriculture. The technology already has a strong foothold in places like warehouse and logistics, but it’s impossible to look at the American – and global – farming community and not see a lot of",
+      "path": "_news/2021-02-23-robot-making-a-mechanical-mind.md",
+      "title": "Robot: Making A Mechanical Mind",
+      "excerpt": "Robot came from an old Czech word for drudgery and servitude. Though in his play – like so very many robo-dystopias to come – the writer showed that a mind we create to serve us isn’t necessarily a mind we can control. Read a transcript of this ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
-      "originalUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/02/02-Carry-front-view.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/02/23/future-acres-launches-with-the-arrival-of-crop-transporting-robot-carry/amp/",
-      "publishedDateTime": "2021-02-23T02:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-4-etfs-to-invest-in-robotics-artificial-intelligence.md",
-      "title": "4 ETFs to Invest in Robotics & Artificial Intelligence",
-      "excerpt": "Robots and artificial intelligence (AI) are increasingly becoming an integral part of our lives. There are so many AI enabled applications that impact our daily lives. The pandemic further accelerated automation and the trend is likely to continue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
-      "originalUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-etfs-to-invest-in-robotics-artificial-intelligence-2021-02-22?amp",
-      "publishedDateTime": "2021-02-22T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-wall-streets-robots-are-taking-on-the-confusing-world-of-reddit.md",
-      "title": "Wall Street’s Robots Are Taking on the Confusing World of Reddit",
-      "excerpt": "Reddit forum WallStreetBets is hard for humans to follow at the best of times. But spare a thought for the machines. After the retail stock frenzy last month caused unprecedented havoc, hedge funds trawling the platform with algorithms have a renewed sense of purpose in their mission to figure out the next market craze.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-02-22/wall-street-s-robots-are-taking-on-the-confusing-world-of-reddit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iP05Z8gOcuVo/v0/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process.md",
-      "title": "This flying AI robot can pick fruit – preventing waste in the process",
-      "excerpt": "This article is brought to you thanks to the collaboration of The European Sting with the World Economic Forum. Author: Douglas Broom, Senior Writer, Formative Content There’s a",
-      "sourceUrl": null,
-      "webUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
-      "originalUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://europeansting.files.wordpress.com/2021/02/robots-flying-1.jpeg?w=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
-      "cdnAmpWebUrl": "https://europeansting-com.cdn.ampproject.org/c/s/europeansting.com/2021/02/22/this-flying-ai-robot-can-pick-fruit-preventing-waste-in-the-process/amp/",
-      "publishedDateTime": "2021-02-22T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "europeansting.com",
-        "domain": "europeansting.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal.md",
-      "title": "SAIC Motor Boosts Presence in Auto Chip Sector With New Horizon Robotics Deal",
-      "excerpt": "A unit of SAIC Motor has signed a cooperation deal with vehicle chip unicorn Horizon Robotics to address the scarcity of semiconductors the Chinese carmaker has been facing amid a global shortage of the key component,",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "originalUrl": "https://www.yicaiglobal.com/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/saic-motor-boosts-presence-in-auto-chip-sector-with-new-horizon-robotics-deal/11561475324248064.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T02:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-mind-written-couplets-add-technology-to-greetings.md",
-      "title": "'Mind-written' couplets add technology to greetings",
-      "excerpt": "\"The mind-written couplets were well-received by students as graduation gifts,\" Xu said. Luo Ruixin, a student on the team, says BCI is integrated into her daily life. She sent special couplets to her parents to show them how meaningful her research work is.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202102/22/WS60330e18a31024ad0baaa227.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202102/22/WS60330e18a31024ad0baaa227.html",
+      "webUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
+      "originalUrl": "https://www.sciencefriday.com/articles/robot-making-a-mechanical-mind/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://img2.chinadaily.com.cn/images/202102/22/60330e18a31024adbdb593dc.jpeg",
-          "width": 533,
-          "height": 355,
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2021/02/ScienceDiction_Horiz_robot-min.png",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1334,11 +1385,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T01:51:00-08:00",
+      "publishedDateTime": "2021-02-23T03:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "China Daily",
-        "domain": "chinadaily.com.cn",
+        "name": "Science Friday",
+        "domain": "sciencefriday.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1350,50 +1401,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-heres-what-artificial-intelligence-will-look-like-in-2030.md",
-      "title": "Here’s What Artificial Intelligence Will Look Like in 2030",
-      "excerpt": "Artificial intelligence and robotics are coming into ... There is a lot of argument right now concerning driverless cars, about how Google has programmed an algorithm to hit a building before ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030",
-      "originalUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://futurism.com/wp-content/uploads/2016/10/ai-600x315.png",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/heres-what-artificial-intelligence-will-look-like-in-2030/amp",
-      "publishedDateTime": "2021-02-21T17:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

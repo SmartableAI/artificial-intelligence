@@ -25,14 +25,19 @@ images:
 
 related:
   - title: "Aetina Provide Chained Hardware & Software Pro-AI Service for Edge AI Solutions"
-    excerpt: "Extraordinary Coordination for your AI Project DevelopmentTAIPEI, March 11, 2021 /PRNewswire/ -- Aetina Corporation dedicated to AI solutions"
-    publishedDateTime: 2021-03-11T13:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/aetina-provide-chained-hardware-software-pro-ai-service-for-edge-ai-solutions-1030173497"
+    excerpt: "Aetina Corporation dedicated to AI solutions with the ambition to deliver a professional AI service. Today Aetina proudly introduces their"
+    publishedDateTime: 2021-03-11T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aetina-provide-chained-hardware--software-pro-ai-service-for-edge-ai-solutions-301245268.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1454391/Pro_AI.jpg?p=facebook"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "n/nNm7DyySpvMQ7PixQpCDyFXOCBik56SCHxt5Zt3goB1M0nvB4ub9zWcSoxKz5NbkEaLu9ZE0Nf+FFzL1SWr66q7fg6pDJCpBaeqL2vqHkJh6/cAEuXrm7H1RcMwOToaf1j6k41EcaPwvljtt+WLPWngMp8cGlMHnc7jVs0gu/Xn+VG8oaxSHkd7P8+/vE80LeBBcJw8VGppZCG4JXZJ62/W9qp6K7nJbAtJf2jRBbPlez92Pl4WenjJ1rkEx+iu/I69ai+bvC9z/kIKvWY5q30+OBBKCLr1ZxtRYuAHDWw2JPS60pTSI0DXCCityu8Ez71csNIVQMLk/bErzKHfFbRcoiysLwf/99eGK3FrgIATZB5fvx5wbeq6ehEJwuWHoznPsYq2ZHKpIbhnNumWKv9kFhCDXGcp/BVdeb9LrqffVEMMQfU6X7/ag4+wjsSOWewTKTDPjFTEHlrxpE2H8pUtptCWvJNUEldcZbMQmb9PkkvCwQDqP30GilwYUzpLUOZELhrAWQqFri+6QWScA==;3DIJm0nep4+QV53Li1Q/Eg=="
 ---
