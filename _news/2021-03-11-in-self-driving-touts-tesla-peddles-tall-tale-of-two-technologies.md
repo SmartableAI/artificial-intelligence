@@ -207,6 +207,22 @@ related:
         width: 740
         height: 416
         isCached: true
+  - title: "Elon Musk Criticizes Cyberpunk 2077's Lack Of Self-Driving Cars"
+    excerpt: "While self-driving cars exist within the lore of CD Projekt Red's Cyberpunk 2077, they're functionally absent from the player's experience. Elon Musk tweeted his criticism of the game's vehicles, responding to an older tweet about the delayed Patch 1.2 ..."
+    publishedDateTime: 2021-03-11T12:06:00Z
+    webUrl: "https://www.gamespot.com/articles/elon-musk-criticizes-cyberpunk-2077s-lack-of-self-driving-cars/1100-6488677/"
+    ampWebUrl: "https://www.gamespot.com/amp-articles/elon-musk-criticizes-cyberpunk-2077s-lack-of-self-driving-cars/1100-6488677/"
+    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/elon-musk-criticizes-cyberpunk-2077s-lack-of-self-driving-cars/1100-6488677/"
+    type: article
+    provider:
+      name: GameSpot
+      domain: gamespot.com
+    quality: 44
+    images:
+      - url: "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3773875-main.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Tesla Expands Full Self-Driving Beta Software Doubling Its Size"
     excerpt: "Tesla is expanding its Full Self-Driving beta as it looks to ramp up the development of the advanced driver-assistance system. The electric car manufacturer introduced the Full Self-Driving beta in October to select owners participating in its Early Access Program."
     publishedDateTime: 2021-03-08T10:55:00Z

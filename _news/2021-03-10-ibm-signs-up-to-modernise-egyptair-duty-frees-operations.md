@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itp.net/infrastructure/cloud/96461-ibm-signs-up-to-moder
 cdnAmpWebUrl: "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/infrastructure/cloud/96461-ibm-signs-up-to-modernise-egyptair-tourisms-operations?amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "EGYPTAIR Tourism and Duty Free Co. lands cloud contract with IBM"
+    excerpt: "The pioneer flagship airline will migrate its Duty-Free operations to IBM Cloud and leverage IBM Watson Assistant to transform travelers' experience"
+    publishedDateTime: 2021-03-11T12:06:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/EGYPTAIR_Tourism_and_Duty_Free_Co_lands_cloud_contract_with_IBM-ZAWYA20210310143934/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/ENG_PR286_2021_03_10.jpg"
+        width: 450
+        height: 674
+        isCached: true
   - title: "Egyptair Tourism and Duty Free Co strikes Cloud contract with IBM"
     excerpt: "Egyptair is determined to transform the inflight shopping experience as part of a wider digital transformation roadmap."
     publishedDateTime: 2021-03-11T07:17:00Z

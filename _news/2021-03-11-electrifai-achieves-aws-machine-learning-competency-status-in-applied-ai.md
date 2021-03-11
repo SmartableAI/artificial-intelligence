@@ -15,9 +15,9 @@ provider:
   domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -78,6 +78,6 @@ related:
       domain: wboc.com
     quality: 36
 
-secured: "T9LfUHDh8Qr+La7Uy2SrvuMXPNIa4XFNiK5GoJqX32YIxkCjGh/x2xdWb021f2rGK6c6DaDbyDpSoEQmt9IEk9LCUf47j8A/1ICcEgn5Kty/ZuLuBvM2RdGIQHwmUBpVotB/ncJFiOrxbHMNVhXyxgLkskK0djwbCt2XkLlHc4EYOCGp9ZD/0PIBC3dOjf7gcjNvLmKZwRkBmZF67thfqobRb097RZUIYzYtUTD83oVIJjVecyWzGQ891kz2lKgCeQlU8ow9dAcLjwVodhVVSYzPvqVd0qAjcBs7GHVipVUwb5bxbWfptrLzABkoTB+Veo+OT7XwyH3wKd97gVOZxKX5TvCxxPnHAMaEPFB364c=;BSl/IId2X2gCDvryrK3tBg=="
+secured: "k3ffdCeYpV9eFFZgDydWwbOSnOvaOmCJlB97TqYiYhHGSxawzBxqYaX5LmkiMFWOYoVU1pR+ryBAU6eFZ1rN4nYsJOYGS40IVYbuhb4TYrlxAaGN3pmhDmaIMVThD1+X+CkT3KpUNNK01YKbu16lq2g0CXvZMFxcYmzV/5GKRvKQ44hasDPFqGRE+KouOaGdSvOYMFHYEavykoNPMky+va/Fcw7X3hp4ewTywREVlGTH4zXpN8W/l+ufb09G6zYY8bmnEezlnQFCdwS144QmighHDMTowDDGW8FOMrL9tnTyjgcU3wQ0Lba2Z2n21YOEosWOo3nK0psRx1xdTEnViH7uED2ePNv5OEd7+a7Uj1A=;2MIDsEk0uPJOvQ+2Clrmhw=="
 ---
 

@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market 2021 (COVID-19 UPDATE) Future Challenges, Growth Statistics and Forecast to 2027"
+    excerpt: "According to the report, The globalmachine learning marketsize is anticipated to rise remarkably on account of"
+    publishedDateTime: 2021-03-11T11:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2021-covid-19-update-future-challenges-growth-statistics-and-forecast-to-2027-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Report 2020-2025: Global Industry Size, Growth, Share, Trends, Key Players and Forecast"
     excerpt: "Mar 09, 2021 (SUPER MARKET RESEARCH via COMTEX) -- As per new industry analysis report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global deep learning market size is ..."
     publishedDateTime: 2021-03-09T21:25:00Z
@@ -111,6 +125,20 @@ related:
       - url: "https://cdn.openpr.com/U/3/U308937681_g.jpg"
         width: 800
         height: 800
+        isCached: true
+  - title: "Artificial Intelligence in Diagnostics Market Size by Manufacturers, Share, Growth, Trends, Types and Applications, Forecast to 2027"
+    excerpt: "Selbyville Delaware, The Artificial Intelligence in Diagnostics market research added to Market Study Report, LLC, is an exhaustive study of the current trends driving this vertical across assorted geographies."
+    publishedDateTime: 2021-03-09T16:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-size-by-manufacturers-share-growth-trends-types-and-applications-forecast-to-2027-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Artificial Intelligence Software Market 2020 Growth Drivers, Regional Outlook, Competitive Strategies and Forecast up to 2025"
     excerpt: "Global Artificial Intelligence Software Market 2020 by Company, Regions, Type and Application, Forecast to 2026"

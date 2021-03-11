@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "EGYPTAIR Tourism and Duty Free Co. lands cloud contract with IBM"
+    excerpt: "The pioneer flagship airline will migrate its Duty-Free operations to IBM Cloud and leverage IBM Watson Assistant to transform travelers' experience"
+    publishedDateTime: 2021-03-11T12:06:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/EGYPTAIR_Tourism_and_Duty_Free_Co_lands_cloud_contract_with_IBM-ZAWYA20210310143934/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://images.zawya.com/pr/images/2021/ENG_PR286_2021_03_10.jpg"
+        width: 450
+        height: 674
+        isCached: true
   - title: "IBM signs up to modernise EgyptAir Duty Free's operations"
     excerpt: "US-based tech giant IBM has been selected by EgyptAir Tourism and Duty Free Co. to leverage IBM Cloud to scale and modernise the organisations’ operations. As part of the deal, IBM will streamline EgyptAir Duty Free’s back-end operations and host its SAP Travel Retail System."
     publishedDateTime: 2021-03-10T10:54:00Z

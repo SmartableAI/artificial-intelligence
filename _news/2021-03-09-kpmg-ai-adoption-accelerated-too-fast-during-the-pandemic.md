@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/kpmg-ai-adoption-accelerated-too-f
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/kpmg-ai-adoption-accelerated-too-fast-during-the-pandemic/"
 type: article
-quality: 87
-heat: 147
+quality: 89
+heat: 149
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.techrepublic.com/a/hub/i/r/2021/02/24/951225f4-be73-4c8b-a3dd-1fe6f0a9e22f/resize/1200x/46c1ab0996cef072591377a8ed1c2708/elen11.jpg"
@@ -121,6 +122,6 @@ related:
         height: 486
         isCached: true
 
-secured: "eH0xbfRNF+vFehuTITffWBLS6vsAaEM/Y+vASJuC+DVyWlAuI6jOf6i9yDUO+BZjcIakxro5lkD9bMSPk5ryODcqhHYVLbNm6pHkgv5OIc6Buephsx5ne7V5008iGX4drkpbHamqgPAKqecDIMly2N9svrnumZr88sC8WT3yp3vowMbYE99+AcKFlAJ6gzRvGVqfmJZVK4KrAtEYmkJLUROv0vVr4EJt9NYtbkdN7buEfQmhLG5z22ezmbRXUueFmBKpN/HpbQXIFUnXfYBG1XpHo/IZVC4LBAa1LBKUVqNDJKayECuhDVzJtNuVqgej4QVREFlthQMaIM8kEJi45bjrwFaoaRNGPr0gbVS9mw8=;x5ZM5YgOkBMLHnvIFqpC3g=="
+secured: "hmRNRYJfIG9C9GIXzaRBAyqJGijNgMpnsXyn0ZdbHuvxcYYZgp6vaD4pO7rINgfO7xOxD4YgiZQmq79UZAwYjt5m1uaAPLEOn9vndJbJU6nUMV24ccQxAIiYtOgUO/YD1CMovrltFC1xslxiD8h4xeXgL2ijla9ZpqA/q0aXO9qg48Nrfdt0kIC3/OiDrCP9vkUdUyTLx03u07nM8YJvCsWPaay5xH50yBgwmRoTLITGUMOUN8N/l9L5thIXCGYOeJq9fIWuiNpDFBvwatJD8rTB7YtUH4HBAap6c1smOKqUbHZYZtPK8HSEs9ACr/tEZ/YrWeKRhPIF++6lO4n4iNjxz1cT8vQ3XjRZTW8T/31/EQ/d07en0BMy9RBD4U4bdXqcoJA/EeCvP1gIyPy5upADzM/BYXfG/7jinE8LCLLoQikJ/BQs7Z/+GeJIPu5q/Itugt74E92uUd/pv6rJwgj4ppSMvURcbLZ+0K94xpXi/8gu6QJDTuURtNUo1F4xCHqBzFz3MA+zdOvKAMaq3Q==;tzhKCCWFdVohAZZPFMjJgQ=="
 ---
 

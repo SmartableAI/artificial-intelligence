@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-02-underwater-robot-rises-from-the-depths-to-save-drowning-swimmers.md",
+      "title": "Underwater robot rises from the depths to save drowning swimmers",
+      "excerpt": "Even though lifeguards are essential to maintaining safety at swimming pools, they can't always see everything that's happening, nor can all pool operators afford to pay their salaries. That's where a new swimmer-saving underwater robot is designed to come in.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "originalUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/b75d88c/2147483647/strip/true/crop/1600x1067+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fb7%2F1b%2F3c8d4a5849178bc676e0adc06053%2Fiosb-ast-an-autonomous-underwater-robot-saves-people-from-drowning-pic-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/underwater-lifeguard-robot/?amp=true",
+      "publishedDateTime": "2021-03-01T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-this-story-was-not-written-by-a-robot.md",
       "title": "This story was not written by a robot",
       "excerpt": "BERLIN — Robot reporters have arrived in the newsroom ... was launched in September 2017 as a joint venture of the U.K.'s Press Association and startup Urbs Media, with more than €700,000 of funding from Google’s News Initiative.",
@@ -1342,49 +1394,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-artificial-intelligence-technology-solutions-is-an-overvalued-ai-company.md",
-      "title": "Artificial Intelligence Technology Solutions Is An Overvalued AI Company",
-      "excerpt": "The company has developed a security robot named ROAMEO and is valued at more than $700 million as of time of writing.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
-      "originalUrl": "https://seekingalpha.com/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/uploads/2021/2/18/36303466-1613665289226179_origin.png",
-          "width": 687,
-          "height": 244,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4407726-artificial-intelligence-technology-solutions-overvalued-ai-company",
-      "publishedDateTime": "2021-02-21T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
