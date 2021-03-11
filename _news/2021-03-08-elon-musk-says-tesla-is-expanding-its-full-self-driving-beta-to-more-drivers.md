@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-te
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/3/7/22318155/elon-musk-tesla-expanding-full-self-driving-beta"
 type: article
 quality: 171
-heat: 311
+heat: 321
 published: true
 
 provider:
@@ -232,6 +232,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
+    excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
+    publishedDateTime: 2021-03-11T03:20:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "Iq9R591wppN0ZL1KCenAWP0IALQyD9QVgX0WpQ/D10CEm3EwfgfPdcCWoxeIcX88gCX4ZaAPVKrNebOBFVVlAMB81tELto8AqBTjUVY9ywsCTBJFM+1GVNj36OFlEpVUSOm25C0ZcJAruRz/7vf1Z3qteCCNJNSpHJqb69riff1VVfjmhGogN/UXiA2tUM9Ep7b7SxrydVh96d34fnDeVdeGE99uVeXKeZYnEvKln7ObVuEmWAqR4bOgUZgce63ompRjapzw4buARwMXXCc4SSwboIUrK4jZJwzey657dQt6ced4AsQPILUE5D5VAyJe5JhxSoOQobp2KEZWyC5wHPdr/UxiJBjuBGWSPBc1Y4a2ClHa3ne7O3MXXfU25EVmOSzVWhfux8O2GxL0ugpyAvGODKA3O0S5BDnoqXBwqdRbjCD9ITJMHme7WUNJKW7Fir0fcrr4KsNXoiJMQQdN0s/3wFANKiqCgUgco4GQHW3e6deVCSqRxKXNehI51RIrJxsYZpaf/sDA0SuJLcy6RhpEHrLOj2ENklZMgUopsHg=;UOkTAezg65xNqunYUUsCAQ=="
 ---

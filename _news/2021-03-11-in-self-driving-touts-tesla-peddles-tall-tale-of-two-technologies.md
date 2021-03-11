@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
-excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
-publishedDateTime: 2021-03-10T19:59:00Z
-originalUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/"
-webUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/"
-ampWebUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
+title: "In self-driving touts, Tesla peddles tall tale of two technologies"
+excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
+publishedDateTime: 2021-03-11T03:20:00Z
+originalUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
+webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
 type: article
-quality: 53
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.carscoops.com/wp-content/uploads/2021/03/model_3_red-1024x555.jpg"
-    width: 1024
-    height: 555
-    isCached: true
 
 related:
   - title: "Elon Musk says Tesla is expanding its Full Self Driving beta to more drivers"
@@ -167,6 +159,22 @@ related:
         width: 1000
         height: 800
         isCached: true
+  - title: "Tesla Tells California DMV That Full Self-Driving Beta Is Not An Autonomous System"
+    excerpt: "Tesla introduced its Full Self-Driving beta last October to around 1,000 vehicles. An unearthed letter sent from Tesla’s general counsel and the head of California’s autonomous vehicle branch claims that the system is more limited than its name might ..."
+    publishedDateTime: 2021-03-10T19:59:00Z
+    webUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/"
+    ampWebUrl: "https://www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/03/tesla-tells-california-dmv-that-full-self-driving-beta-is-not-an-autonomous-system/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2021/03/model_3_red-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla’s $10,000 ‘Full Self-Driving’ Add-On Will Never Actually Be Fully Self-Driving"
     excerpt: "Tesla rolled out a beta version of its new Autopilot Full Self-Driving (FSD) software (version 8.2) to a small group of Tesla owners in the United States. Driven by high-than-expected demand, this past weekend Elon Musk said his company would make the driver-assistance system available to more customers."
     publishedDateTime: 2021-03-09T21:19:00Z
@@ -232,16 +240,7 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
-  - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
-    excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
-    publishedDateTime: 2021-03-11T03:20:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
-secured: "qPC76vDzRTgfGf83/jBlN5UN5x49QpwFWe/k11EZPncA5E7FRZXn63HK1ZgxxWrQI29Dg1Hka229X8qtUvLjPf8jroD4N/yWfD7t5CTRrXstozhBM7zct1HUCI8Gwv7cWlmXqtqmlNhULv3NA9B1dnCUWoSVOQ5OWSJK/NU9ypsjzL/NvmNkmDCbITT8NZPZiKdA1k3hWF8+xDLk09QhQcqUCK1fOMo9IujpBqeQTq13Px2HUAeKBmrp2YyNxXS2tyY3H2cK8RUzm2hIIohskkZa7hrCZRKcNbyPLegBRyommggQU+IrM6LyByRlxNPmzDQT+7qcEyVTNT2eXTTXt1/1awwyfL60NWbd34INF1v1ZOHyHDicgA/m2AiYESBX6mqkYbUJ+s+nWAxt3mh80Bb0+jeV3xa2/nGnpUAHpoIyOFhLrdEK0HDaHqABKPFaBDK/dmGUso9QdZAdx0mFDdj889oU1VTZyDKW9mKPtspl2zxtexCt7W17DLnX4SOH0CannWgk6HhPfLqLGKRu9g==;848l55sYzVHHoiqvR7TXxQ=="
+secured: "rgibbQgO8St7JrC90HVj9nbvzl4DFGqXf7diLqMd0Aswg0+Lv6Sj2fEuwasNx640WSF8y+ZHfVefj6ZcsnTDByT9PmEM/cEgyLARaPOX1B1BX7zYkjIm0m8PYevAfnhuQD5AUN8fU2Qwexkb7yHpHBVCJM8rJXSHyT6XBlhT1WDEftLpYBE97VZtQtjXGOXdF25dQYsMRVGRQU99rC0iAX5hBnQBpU3r1HTAzAOXWGiIJsz+X5pv13YgJwbxPay5e7H5MbDOJlSzbd/7h3wxbVEMeBcBn/QFd2q3nnijK+lNHZxmyK017664QlWr3+cETMCY5KrJTlXu69iZ5UCBMLIwey1R4XMHPE0LTqLZcpY=;WS71GGGQcK+3OmQEo1lTVQ=="
 ---
 

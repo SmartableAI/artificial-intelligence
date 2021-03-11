@@ -236,6 +236,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 36
+  - title: "In self-driving touts, Tesla peddles tall tale of two technologies"
+    excerpt: "In official correspondence with California's Department of Motor Vehicles, Tesla lawyers recently admitted full self-driving mode is no such thing."
+    publishedDateTime: 2021-03-11T03:20:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2021/03/10/self-driving-touts-tesla-peddles-tall-tale-two-technologies/6937545002/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "7w2/zHmZI2duTKX1h7g9SaINRe6nU6bvwWiQvaJHL6/FwaIhsh2RH5sgLe7nbJD2nUcxgWHx01R/y3ISqRoVtEfEPXgBsNeVih/6JS/vZSr2gAfVFZsv7sH82c/DGPiZ0nz+aYeDB4dwcb+ZPGOS8mnFP2zH+6oFx8DAocnj9OWAuVClTFi2b5X18+TJ3+6vq1DPzgh1ytnacIBJGHibyUdbzPGQQe3I3Y3IyZGLHeQOwKr7q7067tb6Yniny4ueqjoPFVoiiywqXKSCEbQ5S/5dshpAH720xSCsvVxj0NgZMvv2+ROeZ7Q4+cuTOUIFlAxuMe4bP/6srRYshH+G8UQ5bk7OS0GRhBXDSgT9qvgU1vh63KB1LUyETFGw5zGy7WCAT0qhIIhhLJx3z9fHx/uvgXhALVywFeD98S1hB2SAxsPolUCkIB8ySwNi1Y8ABBFI5HrXZ8CjutShPCWYTl+CnOYRsAmdPsDz0Zt4PPm9YVIhnH4WPSpG3w0SR1lMZynPCQQt0dHVDV9nW2P+eg==;X5sCVkIElq6wtilsT8ZPdA=="
 ---
