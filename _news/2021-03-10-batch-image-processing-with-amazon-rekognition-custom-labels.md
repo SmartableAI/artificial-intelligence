@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/batch-image-processi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/batch-image-processing-with-amazon-rekognition-custom-labels/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/02/26/ML-2200-2.jpg"
         width: 800
         height: 368
+        isCached: true
+  - title: "PDF document pre-processing with Amazon Textract: Visuals detection and removal"
+    excerpt: "Amazon Textract is a fully managed machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. Amazon Textract can"
+    publishedDateTime: 2021-03-11T21:30:53Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/10/4-Grayscale.jpg"
+        width: 800
+        height: 457
         isCached: true
 
 secured: "Zt6tJn9NFpuzcnxp4CnOPI5D2WYz9BIF1yjLFpVdmzc1bwrT2a8qeIlwWabZ30he+yZc5mkkAEES9G6mTGrCVwMq3kfNwetN/PcBjpUBY2xzr3GzrKKXlq3oZ1Uc9CrlADYBqZ38pOZNVnQjKZCwmJdHGgs+TuU/Aqd25FAyiHrDmrywbjlSD2Y1otfD5pDo4Rp5d2+/PmnLjILZTW8lnZAzDcl9TfQYkDHEP2Wt9JZsDDpecP5p24UdqbWSC87sxiU144rSleI7v7wvhe3adUWRM69GdbOSsorAHRE1M9/V1IIcbA3MK/9u/z7qDEGowEx9i359wdNMbxHwS1rPDb+9cvHYPN0KpDo4uvtcdxw=;r+m9Xf+lYz+oIi0tXZo/7w=="

@@ -44,6 +44,20 @@ related:
         width: 800
         height: 383
         isCached: true
+  - title: "PDF document pre-processing with Amazon Textract: Visuals detection and removal"
+    excerpt: "Amazon Textract is a fully managed machine learning (ML) service that automatically extracts printed text, handwriting, and other data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. Amazon Textract can"
+    publishedDateTime: 2021-03-11T21:30:53Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/process-text-and-images-in-pdf-documents-with-amazon-textract/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 102
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/03/10/4-Grayscale.jpg"
+        width: 800
+        height: 457
+        isCached: true
 
 secured: "9JoVtULfpA9JsLptY+97Rh2kSo4N2iasizkYDfs9ew+MWH/vUDaqCAfQIJVk/f7pNbKGYQdiuu18QaIssDwVTnem/UvACV5AUM0+QF6FSN/dkDGupYugj7Wtjcro0LhK3vOozK+ZuXY4wUqdlyoiaZKkTip9NF5VIVmruNKpcGRsYgSefw52kCHZSYL35grK/0Rw7TCkmpayiQOAxnYjsam3yhOqxWZEeoAdebsiP04PJZAdCtVrS/6DIzl+oRPQIfdJRTts1II2GtQns7YFsDo8BPdmXX8tCPKZyNAuhfJBzc4pwVrtReyelZCTnCB+ukXoeStEpKvUhnONCGJxAAArvPa+jz5OyYvo50jKRYc=;iaHq2JRgOhZUwMql6JHvMQ=="
 ---

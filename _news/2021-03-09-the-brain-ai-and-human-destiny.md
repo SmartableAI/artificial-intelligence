@@ -92,20 +92,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Harnessing the power of AI for robotics"
-    excerpt: "Control Engineering - The Stuttgart-based Fraunhofer Institute for Industrial Engineering IAO and Fraunhofer Institute for Manufacturing Engineering and Automation IPA have"
-    publishedDateTime: 2021-03-07T06:03:00Z
-    webUrl: "https://www.controleng.com/articles/harnessing-the-power-of-ai-for-robotics/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 69
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/03/CTL2103_WEB_IMG_Fraunhofer_Robots_AI.jpg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "vhGx1IbE9iC89M2HiBSUEjCkVwDUEq3RLlHRvHMGk7xjsRYKFsy8ioT7ynWMbxf2v2G6IhjWHdzPRi5VPn/YUPLnmds/drswHyPjxyxrDIvGAuMtH6uUrPpCr4lRtqC/ioOpZ1kvvQGWQN/D28v/BARiYNUWw7w4ezY2Rku+fUUaOj0TwctC0Dv73rM4Ez19C89GL/Vf/h88Bcaw1jgWyixhcSxIL5G6uGk2WXb0MkmewVvqMC+dhdhv2iNYd8sr3JnPKVKKQxgH2mW0fzXz+/1ZfuqD2AaK32/Y4Fbd+PuLuVPOS3W+q/WA+S/3hNaX1mqp2br5Wl6AVFr+QqADW4YX0KhlN+zVPscwIUDnZyJUiT+1LPGA/2aty4rp/HAYTD5ItY8D39OtehahmkaaRofYhJ2YuNZ678B7/3meXv922kj1KiWrbhqiWn1Twkg3KYN8MXRlT9do2/9R6hf5avNCKmk5WsGjeaFrnpYCj3cY6PQ3DYuKiXnWTR4vKQQ3DzAhtU+nw0Vq030x2p5pzw==;CiW0WJd0JL5A46QgQn97DA=="
 ---

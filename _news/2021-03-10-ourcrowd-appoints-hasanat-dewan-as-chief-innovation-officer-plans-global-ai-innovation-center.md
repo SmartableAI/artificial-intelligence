@@ -1,33 +1,23 @@
 ---
 category: news
 title: "OurCrowd Appoints Hasanat Dewan as Chief Innovation Officer, Plans Global AI Innovation Center"
-excerpt: "OurCrowd, the leading venture investing platform and Israel’s most active venture investor, today announced the appointment of Dr. Hasanat Dewan as"
-publishedDateTime: 2021-03-10T07:55:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ourcrowd-appoints-hasanat-dewan-as-chief-innovation-officer-plans-global-ai-innovation-center-2021-03-10"
-webUrl: "https://www.marketwatch.com/press-release/ourcrowd-appoints-hasanat-dewan-as-chief-innovation-officer-plans-global-ai-innovation-center-2021-03-10"
+excerpt: "OurCrowd, the leading venture investing platform and Israel’s most active venture investor, today announced the appointment of Dr. Hasanat Dewan as Ch"
+publishedDateTime: 2021-03-10T11:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210309005870/en/OurCrowd-Appoints-Hasanat-Dewan-as-Chief-Innovation-Officer-Plans-Global-AI-Innovation-Center"
+webUrl: "https://www.businesswire.com/news/home/20210309005870/en/OurCrowd-Appoints-Hasanat-Dewan-as-Chief-Innovation-Officer-Plans-Global-AI-Innovation-Center"
 type: article
-quality: 57
-heat: 57
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "HYQpaFUG26MsZJ6DzAJGfqLCYHlojq3SGfrgrf6IJKRrGW7AwKEnDUj46l7DbSSMvkQm7PCyqc+TWkbllFWIdmgasaD/UUyrWEu3x4e+8Dpn0O10MtwQyk6Xf7FZsqJl0Jzs80uhBPuw6qxoeKzvNt03cNWk9HfuwR7DIX6VruT+6XV8W4CB1TqEYPVXcXwywsmuqrb3CjK9cl0jFI8MwkigWQq3r9sApcKKOye5MYMGsnJf9vLGMTLnmN5IwkMsH1qgQbzxMxOyldYp8HtU0HUdKoy4AfsE398yjsIGzsTv10/ZTydqZlrwHcdq5zaHZE5A34nXFr5dB6xfG1Z31WF/BCdL+K9bpYArn7VQDh8=;7Q5tY9EBsp//XzVswpHWPw=="
+secured: "w+ctF7FTopNBq+/ctBiKo85CeiA9zvSzJcMLGsxMp+650eay+3ZG0lYEJYsQZOJgn6uHAEUgxJB8dqOQVsfs2YgA4fDQOzUQ4ofqyt/2WIRWZaLd8sHF9l0oxdEqWZSfm/ytvccHTEU7s5wQktzhJiB5kMFQ4RD77fd868rnBH4FTFgbeIJ8mIUE6S9A25jfrYQStO9g9I3WTMdSBaVqZATdvHn+onwHBGQhggO4dLVbh//5u6q/dNpWRo26I+BI5txfB7RvheW1ptecfG7iLTA4iXXS+B/XJEhZ0tflz62ihdQMizyRFjnn1su7MoSqp86fMVF7fpeN+YXx7ZogMz/WmIb22ETAZHVWvvzSUVA=;3s8BOWGGbYe1dKWqT1Tbrw=="
 ---
 

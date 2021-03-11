@@ -43,6 +43,20 @@ related:
         width: 1084
         height: 666
         isCached: true
+  - title: "Dissecting the Startup Buzz"
+    excerpt: "Investors place big bets on young startups offering tech like robotics for DCs. For investors, it’s attractive because of e-commerce growth and the efficiency gains that can be realized by flexibly automating labor-thirsty tasks."
+    publishedDateTime: 2021-03-11T21:17:00Z
+    webUrl: "https://www.scmr.com/article/dissecting_the_startup_buzz"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 22
+    images:
+      - url: "https://www.mmh.com/images/2021_article/MMH2103_BP_KencoPicMain800.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "UIbp5ZFRAE0yMKnBxSa9Xg/gqHkIr1C8xTixZaVCfO1R83EIqzlFKDpTGMue7hhq9FhC/WCvyc8B4Lt+U/XWY1S+RF4xWWo3WVTXn2sq0rz/LRoziEVj4/Qpv2+7FY8g323uBPna7k5Uvv6l52NtH5VGv98+bthULwVL41gHiUFPdQIaC0pnjuzi5BVnJeusDbZGXjsNXFF2eo/LXeFYuw4QKVxOGzRxzg+5KT59ajaNyGeGy1k8hS6n6py3oUjGgi6G+NrzydBd6w02GDhlkVRr/TkPfZAgm2ylEzadL6DBODUgv0ZrFXf+fu6tMa2XCIA+aEBROr3hyJffl8nGi1FlDyLcY/JxsZWbLpWgz/j49tWPSy+2ZL9FDC2S435urjL/+lZz7a7+/TubkDdWdTk6iSKJeEGDVZ1c0aeuUcjAboMfOKydVUNT3t3GPdvrP3lQ4sLA6bFPjq58YreaNrZBX2Tjoo63OxqiCi+KwUMPIzlm/PVUEptmcJfTGAd5mGfEwfjnfwdoC6nJO5IECA==;AZtD+xOYSCEN9ZChk1TAxA=="
 ---

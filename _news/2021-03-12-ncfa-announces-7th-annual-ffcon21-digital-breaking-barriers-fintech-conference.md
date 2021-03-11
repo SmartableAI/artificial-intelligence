@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NCFA Announces 7th Annual FFCON21 Digital ‘Breaking Barriers’ FinTech Conference"
-excerpt: "FFCON21 to connect HR talent and explore accelerated Fintech trends and innovations paving the way to mass adoption and scaleTORONTO, ON / ACCESSWIRE / March 11, 2021 / The National Crowdfunding & Fintech Association (NCFA),"
-publishedDateTime: 2021-03-11T19:01:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb"
+excerpt: "Building on the success of previous conferences, this year’s event -- titled ‘Breaking Barriers’ -- will bring together an international community of leading voices in fintech, digital banking, tokenization, blockchain, CBDCs, digital identity ..."
+publishedDateTime: 2021-03-11T19:56:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb/gallery/16e1d015aa3af983542d4c299037f88d"
+webUrl: "https://apnews.com/press-release/accesswire/technology-business-toronto-environment-environment-and-nature-c3a3b38dbd3aadeeb7fd459534038abb/gallery/16e1d015aa3af983542d4c299037f88d"
 type: article
 quality: 19
 heat: 19
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "PIppyXcXP3lqdrZjkNG9PdgSjLlzOnCojkBXD12At10PQ95KDzduGWzmRV5WAA/Y4VnsUL3QTv4TNyPg74NvCqNU4hmF/V9WsGlsa47fDbobfenlWX/l1i9espijwWWA81339l1zaSUtFqdXrb/OI9AD5mSG5fFUdyI6YNKjVGSd1sl/yoE8taN5MOHGRZD/7m0dG6IvRzAs6LzeYXVmrPSHB3aTFv1JZ1+T7rQkS3HF4UDnSSkC3GqIUqwcjlSnw3r5QxGQ+AGfH5GO7MCZYe19SSS/OLW5FxvzeIN5zHD+FpDga2wkNj8LbfHerisRG2KSNOM9U3yVse8WKff2wjMh1UYMtseaJNmtKTycbLY=;6UAs91hgBqOmLhX98E1xeA=="
+secured: "Cki5iCnggXx+strtrFRv41YJYZjN12gcW0wWsfYp5l3u2utWDoNDM6p2IaXGRiETUcY+sicJzCIg8tyWXsL0bzettMSiEk6NloSm//Za9UNDTQ0abHAD1gLT8d18wBAX0tFvZRXgnMxzGBCG+zUgVtak9mXtoCdu06TzyZksQdHq8h31ut+Offoh4JXxrbOvY1zJSOjMvbmE+PT+dsY1CRrWkkkSjdw3F1ytHAaCmtQRIbw8aeY5l100bKwdjud9BdbXSqRA+oTReIFnxZXrNG39pT4MG+FKfeVJfvXBLrP3yrcqsH7fP9LH3h8tgQeccsXyr5rgTN5XwJWS6XeHTYwFG91MaxeSkSBVNfJdbHo=;8jvtyI47s99P0rYiP9/rjg=="
 ---
 

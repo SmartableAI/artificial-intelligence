@@ -41,7 +41,7 @@ related:
     provider:
       name: MLive
       domain: mlive.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZNWLS3BI7ZEDVFLTNKGYKWCJLQ.JPG"
         width: 6192

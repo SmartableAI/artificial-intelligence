@@ -76,20 +76,6 @@ related:
         width: 796
         height: 448
         isCached: true
-  - title: "Harnessing the power of AI for robotics"
-    excerpt: "Control Engineering - The Stuttgart-based Fraunhofer Institute for Industrial Engineering IAO and Fraunhofer Institute for Manufacturing Engineering and Automation IPA have"
-    publishedDateTime: 2021-03-07T06:03:00Z
-    webUrl: "https://www.controleng.com/articles/harnessing-the-power-of-ai-for-robotics/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 69
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2021/03/CTL2103_WEB_IMG_Fraunhofer_Robots_AI.jpg"
-        width: 645
-        height: 350
-        isCached: true
   - title: "The brain, AI, and human destiny"
     excerpt: "Regarding his book that chronicles 34 years of studying the brain, inventor Jeff Hawkins talks to Tiernan Ray and Karen Roby about how the newest part of the brain, the neocortex, is escaping from millions of years of enslavement to genetics and biological drives,"
     publishedDateTime: 2021-03-08T19:54:00Z

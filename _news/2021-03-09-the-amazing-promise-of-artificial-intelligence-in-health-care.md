@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2021-03-amazing-artificial-intelligen
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-03-amazing-artificial-intelligence-health.amp"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/2020/05/Green-gold-iStock-1204753280-05-28-20.jpg?fit=788%2C443&#038;ssl=1"
         width: 788
         height: 443
+        isCached: true
+  - title: "Health care AI company bringing U.S. HQ to Loudoun"
+    excerpt: "Zasti Inc., a health care-related artificial intelligence technology company, is investing $5.9 million to establish its U.S. headquarters in Loudoun County, creating 60 jobs, Virginia Gov. Ralph Northam announced Thursday."
+    publishedDateTime: 2021-03-11T22:14:00Z
+    webUrl: "https://www.virginiabusiness.com/article/health-care-ai-company-bringing-u-s-hq-to-loudoun/"
+    type: article
+    provider:
+      name: Virginia Business
+      domain: virginiabusiness.com
+    quality: 39
+    images:
+      - url: "https://www.virginiabusiness.com/wp-content/uploads/2019/10/share.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Why biased AI can be damaging to your health"
     excerpt: "Also, AI discrimination can be rooted in erroneous assumptions, as in the case of the high-risk care program algorithm. In another instance, electronic health records software company Epic built an AI-based tool to help medical offices identify patients ..."
