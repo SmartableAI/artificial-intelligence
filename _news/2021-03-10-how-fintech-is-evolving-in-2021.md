@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/03/10/how-fintech-is-evolving-in-2021/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/0x0/filters%3Aformat%28jpg%29/https://specials-images.forbesimg.com/imageserve/6045e6224897c09d751e204b/0x0.jpg?cropX1=0&cropX2=2415&cropY1=40&cropY2=1399"
         width: 2415
         height: 1557
+        isCached: true
+  - title: "Fintech Acorns just nabbed Harvest, a startup helping customers reduce debt, as consolidation among personal finance apps heats up"
+    excerpt: "As fintech booms, Acorns took the opportunity to buy debt-reduction startup Harvest to add to its existing micro-investing and savings offerings."
+    publishedDateTime: 2021-03-11T14:29:00Z
+    webUrl: "https://www.businessinsider.com/acorns-acquires-startup-harvest-personal-finance-fintech-dealmaking-increases-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/6049358bf196be0018beeb4c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Financial Technology Association Launches Backed By Big Names, Seeks to Advocate on Behalf of Fintech"
     excerpt: "A new trade group has been launched to advocate on behalf of the Fintech industry. Today, the Financial Technology Association (FTA), is hoping to educate stakeholders and support the modernization of financial regulation."

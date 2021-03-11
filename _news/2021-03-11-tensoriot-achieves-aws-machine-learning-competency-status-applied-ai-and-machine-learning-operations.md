@@ -2,17 +2,17 @@
 category: news
 title: "TensorIoT Achieves AWS Machine Learning Competency Status Applied AI and Machine Learning Operations"
 excerpt: "We are delighted to include TensorIoT in the launch of the new AWS Machine Learning Competency Categories.”— Julien Simon, Global AI & ML Evangelist, AWS"
-publishedDateTime: 2021-03-11T00:09:00Z
-originalUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
-webUrl: "https://www.wboc.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+publishedDateTime: 2021-03-10T22:02:00Z
+originalUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
+webUrl: "https://www.wicz.com/story/43478344/tensoriot-achieves-aws-machine-learning-competency-status-applied-ai-and-machine-learning-operations"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WBOC
-  domain: wboc.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - Machine Learning
@@ -77,6 +77,6 @@ related:
         height: 450
         isCached: true
 
-secured: "PXxEI6tVFYDikt5X7ucpgTMA9R9K2R2WoLO0rKZsxU2yD9QFOF6o7ApATAIc7MbaeOrEUy+imp1AU4Y81OgiZchSkzqLYnTEg9MqCAcU2SbvTYj5Ff8L+uvvV0zGrjCeYGMIMTw1zm2IB22WMsw4PHEq2QFi/79bczcDkTaAgf5tulvQvpd3nMVwWIDhhS1iLd1OKwDoIl1htXkx14SwIRlVmE5z0NAxuvRH8iNRUEvXUHvCgb7qv12IWIy7OftnnzIogktlgFCsmn0zCHxZN+RFO2r5BW6RoCYkrH/dAcnxkQBqsE181CgyZLOI4fNE2R5BF38LoufkXFP2MD4Ai/BeMT3LJqs6rna+rvKBR8Y=;Q2GBJ2g2wD/ZBzdk01RPMw=="
+secured: "rVlC7KdDDKkDCo0mZ3FTQ5M8qZCPI0mstubR0vgNihL/VAVuY0HKPMKV7qejN8sh0uS1iVO6OHy5Ld4su2hQGWZzc7JmiGluUoEO1xh6eZh7QsBjzLhZlW61QyrSwn4HGHrAi14tIKyZ99L8DrrEuvC/Y+TRPU53EV4Atr8f/fUY9W+9DTfloJzw03dewW3EWJQv+MHRoGYWL+lsJ+btcPKICNX+hDf1UgfkhqkkKoBG7T+o1/dccNVMiiA3tcEM2BgI4I83Qo0gdy5JjKGb9FDrMutCEqVR3kK7w6gISBhrD9OH14Wjwm9xI+JC4LCUYhxnGYbBH4jjtK87YVlzoNv96yBtygsDBncEtas2/wk=;tAHJQpFLa8rlmhX+hEozYQ=="
 ---
 

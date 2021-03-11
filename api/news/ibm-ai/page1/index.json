@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-11-egyptair-tourism-and-duty-free-co-lands-cloud-contract-with-ibm.md",
-      "title": "EGYPTAIR Tourism and Duty Free Co. lands cloud contract with IBM",
-      "excerpt": "The pioneer flagship airline will migrate its Duty-Free operations to IBM Cloud and leverage IBM Watson Assistant to transform travelers' experience",
+      "path": "_news/2021-03-11-egyptair-to-benefit-from-ibm-cloud-capabilities.md",
+      "title": "EgyptAir to benefit from IBM Cloud capabilities",
+      "excerpt": "ArabFinance: EgyptAir Tourism and Duty Free signed an agreement with IBM to leverage the capabilities of IBM Cloud as well as other services, according to a March 10 th emailed press release. This will help in modernizing EgyptAir Duty Free back-end operations while hosting its SAP Travel Retail System.",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/EGYPTAIR_Tourism_and_Duty_Free_Co_lands_cloud_contract_with_IBM-ZAWYA20210310143934/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/EGYPTAIR_Tourism_and_Duty_Free_Co_lands_cloud_contract_with_IBM-ZAWYA20210310143934/",
+      "webUrl": "https://www.zawya.com/mena/en/life/story/EgyptAir_to_benefit_from_IBM_Cloud_capabilities-SNG_203792534/",
+      "originalUrl": "https://www.zawya.com/mena/en/life/story/EgyptAir_to_benefit_from_IBM_Cloud_capabilities-SNG_203792534/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://images.zawya.com/pr/images/2021/ENG_PR286_2021_03_10.jpg",
-          "width": 450,
-          "height": 674,
+          "url": "https://images.zawya.com/images/cia/zAmp/201025122704QZLC.jpeg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/",
-      "publishedDateTime": "2021-03-11T04:06:00-08:00",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_203792534/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_203792534/",
+      "publishedDateTime": "2021-03-11T05:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Zawya",

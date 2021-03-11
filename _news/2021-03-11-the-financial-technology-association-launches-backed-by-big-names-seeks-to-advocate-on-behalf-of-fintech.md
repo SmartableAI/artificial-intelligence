@@ -103,6 +103,20 @@ related:
         width: 2415
         height: 1557
         isCached: true
+  - title: "Fintech Acorns just nabbed Harvest, a startup helping customers reduce debt, as consolidation among personal finance apps heats up"
+    excerpt: "As fintech booms, Acorns took the opportunity to buy debt-reduction startup Harvest to add to its existing micro-investing and savings offerings."
+    publishedDateTime: 2021-03-11T14:29:00Z
+    webUrl: "https://www.businessinsider.com/acorns-acquires-startup-harvest-personal-finance-fintech-dealmaking-increases-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/6049358bf196be0018beeb4c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Chinese Fintech Giant JD Technology Is Reconsidering Potential $3B IPO due to Nationwide Regulatory Crackdown"
     excerpt: "Chinese Fintech giant JD Technology is reconsidering potential $3B IPO due to nationwide regulatory crackdown."
     publishedDateTime: 2021-03-09T03:55:00Z

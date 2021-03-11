@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026"
+    excerpt: "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ..."
+    publishedDateTime: 2021-03-11T13:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
     excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
     publishedDateTime: 2021-03-09T10:23:00Z
@@ -41,22 +55,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Machine Learning as a Service Market 2019 Impressive Industry Growth Report 2025"
-    excerpt: "The global machine learning as a service market is expected to witness a significant growth rate with the CAGR of 35 during the forecast period Machine Learning is an application of computer science that offers computers an ability to learn"
-    publishedDateTime: 2021-03-08T12:17:00Z
-    webUrl: "https://www.openpr.com/news/2253493/global-machine-learning-as-a-service-market-2019-impressive"
-    ampWebUrl: "https://www.openpr.com/amp/2253493/global-machine-learning-as-a-service-market-2019-impressive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2253493/global-machine-learning-as-a-service-market-2019-impressive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
-    images:
-      - url: "https://cdn.openpr.com/U/3/U308572441_g.jpg"
-        width: 800
-        height: 640
         isCached: true
 
 secured: "8gS949t6QqsNN+PaihU6xbTUvy8fTCPe9auW2B8VY3W85/aq/tsdKmikOiLTbdz8/4h9NNDzQby10pHTzL2tzvZuL1HEMRUxpBRUJ1vN6CnuGYvCQW756WEgsoycULB5HFum4VseWfqTKA8iFoSYNjkXWwAlog/HyS9NEhWyyOHobzkSX3twOaiYape2/BlvNdadW70GML2NTifRSug0kdqJcFxt7M0abMuJHK5WNNC1AOp7+d7uN0z8U88cj0/2SLE2w6mI6zlpo9x0hG/KP1r8Y+BUf6PHj9CvVse2WJ58LYR4xljDzzKDbW59Z9YaU/V9a+OP7KMnV3onYxixRqp3VHY3o0jafOTUObk9ZKw=;at4heIm0SdxHeLxCHLtteg=="

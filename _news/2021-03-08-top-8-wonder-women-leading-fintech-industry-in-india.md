@@ -87,6 +87,20 @@ related:
         width: 2415
         height: 1557
         isCached: true
+  - title: "Fintech Acorns just nabbed Harvest, a startup helping customers reduce debt, as consolidation among personal finance apps heats up"
+    excerpt: "As fintech booms, Acorns took the opportunity to buy debt-reduction startup Harvest to add to its existing micro-investing and savings offerings."
+    publishedDateTime: 2021-03-11T14:29:00Z
+    webUrl: "https://www.businessinsider.com/acorns-acquires-startup-harvest-personal-finance-fintech-dealmaking-increases-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
+    images:
+      - url: "https://i.insider.com/6049358bf196be0018beeb4c?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "The Financial Technology Association Launches Backed By Big Names, Seeks to Advocate on Behalf of Fintech"
     excerpt: "A new trade group has been launched to advocate on behalf of the Fintech industry. Today, the Financial Technology Association (FTA), is hoping to educate stakeholders and support the modernization of financial regulation."
     publishedDateTime: 2021-03-11T03:14:00Z

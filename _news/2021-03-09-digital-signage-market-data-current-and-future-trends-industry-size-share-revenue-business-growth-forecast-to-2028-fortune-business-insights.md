@@ -201,6 +201,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech-to-Text API Market Size & Share, Growth, Scope, Challenges, Key Players, Overview and Forecast to 2028, Fortune Business Insights"
+    excerpt: "According to the report, The globalspeech-to-text API marketis set to gain traction from the rapid development"
+    publishedDateTime: 2021-03-11T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-size-share-growth-scope-challenges-key-players-overview-and-forecast-to-2028-fortune-business-insights-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Far-Field Speech and Voice Recognition Market Size, Share, Future Challenges, Revenue, Demand, Opportunity, Analysis and Industry, Forecast 2025"
     excerpt: "Far-field speech recognition is a crucial technology for speech communications and intends to allow smart devices to spot distant human speech. This revolution is related to numerous situations like smart home appliances,"
     publishedDateTime: 2021-03-09T12:49:00Z

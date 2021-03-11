@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robotics-process-automat
 webUrl: "https://www.marketwatch.com/press-release/robotics-process-automation-in-finance-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2021-03-10"
 type: article
 quality: 79
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -183,6 +183,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech-to-Text API Market Size & Share, Growth, Scope, Challenges, Key Players, Overview and Forecast to 2028, Fortune Business Insights"
+    excerpt: "According to the report, The globalspeech-to-text API marketis set to gain traction from the rapid development"
+    publishedDateTime: 2021-03-11T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-size-share-growth-scope-challenges-key-players-overview-and-forecast-to-2028-fortune-business-insights-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

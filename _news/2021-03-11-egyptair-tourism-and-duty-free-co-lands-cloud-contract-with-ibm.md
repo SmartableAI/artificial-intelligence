@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20210310143934/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Zawya
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "EgyptAir to benefit from IBM Cloud capabilities"
+    excerpt: "ArabFinance: EgyptAir Tourism and Duty Free signed an agreement with IBM to leverage the capabilities of IBM Cloud as well as other services, according to a March 10 th emailed press release. This will help in modernizing EgyptAir Duty Free back-end operations while hosting its SAP Travel Retail System."
+    publishedDateTime: 2021-03-11T13:14:00Z
+    webUrl: "https://www.zawya.com/mena/en/life/story/EgyptAir_to_benefit_from_IBM_Cloud_capabilities-SNG_203792534/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_203792534/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_203792534/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 59
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/201025122704QZLC.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "IBM signs up to modernise EgyptAir Duty Free's operations"
     excerpt: "US-based tech giant IBM has been selected by EgyptAir Tourism and Duty Free Co. to leverage IBM Cloud to scale and modernise the organisations’ operations. As part of the deal, IBM will streamline EgyptAir Duty Free’s back-end operations and host its SAP Travel Retail System."
     publishedDateTime: 2021-03-10T10:54:00Z

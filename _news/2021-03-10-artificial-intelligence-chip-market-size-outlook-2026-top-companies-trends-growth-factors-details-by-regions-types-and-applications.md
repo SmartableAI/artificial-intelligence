@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-outlook-2026-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2021-03-09"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MarketWatch
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Rising at 20.2% CAGR, Edge AI Hardware Market Size to Exceed 2160 Million Units by 2026: Facts & Factors"
+    excerpt: "New York, NY, March 11, 2021 (GLOBE NEWSWIRE) -- Facts and Factors have published a new research report titled \"Edge AI Hardware Market by Device (Smartphones, Cameras, Robots, Automobile, Smart Speakers,"
+    publishedDateTime: 2021-03-11T13:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/rising-at-202-cagr-edge-ai-hardware-market-size-to-exceed-2160-million-units-by-2026-facts-factors-2021-03-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "D8j/M56l3hmjW/53f8DOiCHFksqc0lZe4S3NJPxfTZRfAcPjoQho2ZAVvx7NIjHofBNDIkHX246wPZRK/Qr74NZ3A8oTKqjXYWObNeuDhDA0apZabfRDCMmEweTuW6wLmXFkD8XsvAoufWWITTte9JPdi1BOinAYOJ5dZQ4xR8ItN8dCi3kKtsigtUbWqGVdAere3XDhUatF0F9GwWyBViZbpGRvctObzRGMpDBi5aIT8FNCGZDrTjgnwfu4jAjSB3BpzVYkXK36soKSXNuDontnk6vywM5UepnCLeVVR+AFeCzTBdBZZiAi/5sceo7YAh8anPku5Gb18UpFrvnvVvmuZGU4IGYKSihjTPGhDEo=;SikylyG1BaK66z73NeCiCQ=="
 ---

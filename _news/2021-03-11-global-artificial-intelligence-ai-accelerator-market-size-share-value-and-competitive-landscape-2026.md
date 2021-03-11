@@ -1,0 +1,62 @@
+---
+category: news
+title: "Global Artificial Intelligence (AI) Accelerator market Size, Share, Value, and Competitive Landscape 2026"
+excerpt: "Mar 11, 2021 (Heraldkeepers) -- According to this study, over the next five years the Artificial Intelligence (AI) Accelerator market will register a xx% CAGR in terms of revenue, the global market size will reach $ xx million by 2026, from $ xx million in ..."
+publishedDateTime: 2021-03-11T13:48:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11"
+webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-accelerator-market-size-share-value-and-competitive-landscape-2026-2021-03-11"
+type: article
+quality: 65
+heat: 85
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Global Deep Learning in Machine Vision Market Size, Share, Value, And Competitive Landscape 2021-2026"
+    excerpt: "According to this latest study, the 2020 growth of Deep Learning in Machine Vision will have significant change from"
+    publishedDateTime: 2021-03-09T10:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-size-share-value-and-competitive-landscape-2021-2026-2021-03-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in energy Market Trend, Growth, Size, Forecast, Key Players and Competitive Landscape Research Report"
+    excerpt: "Increasing need to obtain operational efficiency to meet energy requirements are key factors driving global Artificial Intelligence in energy market growth. Artificial Intelligence in energy market is expected to reach a market size of USD 20."
+    publishedDateTime: 2021-03-10T21:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-trend-growth-size-forecast-key-players-and-competitive-landscape-research-report-2021-03-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "CcVsq6ptzvOoWWGE8XPNTvN0D5OzoqbgkRjIMqdb+jabIlQArpZ2uPKnT+WmJpElyUkrewbGMgPtSCa6qDNA5ZhyBvry39rbkNml6WzdZQLG7P+9KOdsQe4CVmKUUK36yZUtRzN5daH/nZIZDFz51e8zylrNb6JMKtRsdYxTCT/FbtPi6bmaQvyuDQtqdSNT6jTbTFfTKTfcYzvdmAtpkjIeg/lPhPXB34Cd5OOTOA6+KzxDL7Dhl5Yl0AP1tPehtGDAgGAyOqPHAR0bZhPv+Wqakt3U2LA4un5CzDgTKviJMAsTklMTsBcWMi+u3w9dB1Ag0QZ2nKJ4N8x/K7Npjfb6LS+K2Sif28MJLsVqIBw=;LhuHJgRsg1TRx7D/XmtMnw=="
+---
+

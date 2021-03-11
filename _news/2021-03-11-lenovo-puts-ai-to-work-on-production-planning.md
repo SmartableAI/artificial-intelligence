@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/lenovo-puts-ai-to-wor
 webUrl: "https://www.eweek.com/big-data-and-analytics/lenovo-puts-ai-to-work-on-production-planning/"
 type: article
 quality: 67
-heat: 78
+heat: 79
 published: true
 
 provider:
