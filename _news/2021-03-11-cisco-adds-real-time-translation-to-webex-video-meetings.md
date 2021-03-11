@@ -3,8 +3,8 @@ category: news
 title: "Cisco Adds Real-Time Translation to Webex Video Meetings"
 excerpt: "Audio is automatically translated into text for each participant using a choice of over 100 different languages."
 publishedDateTime: 2021-03-11T12:00:00Z
-originalUrl: "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings"
-webUrl: "https://uk.pcmag.com/video-conferencing-software/132192/cisco-adds-real-time-translation-to-webex-video-meetings"
+originalUrl: "https://in.pcmag.com/video-conferencing-software/141423/cisco-adds-real-time-translation-to-webex-video-meetings"
+webUrl: "https://in.pcmag.com/video-conferencing-software/141423/cisco-adds-real-time-translation-to-webex-video-meetings"
 type: article
 quality: 54
 heat: 54
@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_b818.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_in/news/c/cisco-adds/cisco-adds-real-time-translation-to-webex-video-meetings_ddzn.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "j3VpyEo6IeVjBymBuc7QAtf5HmL7DS2GxIfij+xwOXWD2aQOKhHEV8N8dzIRg4iovgRaaDhSplP73CnZTNEIhKhmrdKW894lrEVeprHqjjbOeL1Guv2Ro3+fpJZmMS+4otxZqiPJ+Ju87e65SjRenSqZio9P/3phe9SNJ+QETzM0sQS2h0ome7CNdXlgIoUZiRYLkY9lKAoDQq4IDmCIdXn20QeWP1Nx5dxfXyZu7VCNJKDARoMz8WeNtU5UM5CcRKIdY0yV7JGU6fkXThEYLvTUus0PqslhsI2GEusnUI5dyQfvOUvQFAOH47/8/FfQjf3lQeJWKKyAhcUXYfmLJ96KFozqEnn1epibNnF0Bs4=;VZ1QDlso5Tf2MFL48pljnw=="
+secured: "uVS3NTymTCah4DOT3/LBAQuU1n+sUtzdTrfB5aZNsjTuRRd+rAKsJ+0ZhHTsPsgK4LJ1kNKKTGoEhLWjyMRtATeaPZqqSpnDF/d1ysoCJ0Yir1ta9ORJr40HmHyf+kX4bar3giDexfuFEGpadwFloUVN4yRoLgh0yWUdv7Mess0Am2t69j6AOOVRw9Tgx4nFw0ozqGc17acAtMSND5jVSbVuXG5WR79U58C8NzTpyxV8oeWQZN67OWWN8BMR3u+G2/UyQJ8xDRhyku/FFdLR6e/OPdkJvCGyO9OHZxmmCDGrTjpuQKX6njJfAisdzo2maaJvZZDc3Jznv6rabVj2ovTUAMk8mdRCZlYTV6A0+G4=;V69BSTgVfhOMHYsi2ZeGiQ=="
 ---
 

@@ -82,6 +82,20 @@ related:
         width: 768
         height: 426
         isCached: true
+  - title: "Nvidia Launches AI Enterprise Suite for VMware vSphere"
+    excerpt: "Nvidia and VMware are bringing together the new Nvidia AI Enterprise software tool suite with VMware’s latest vSphere 7 Update 2 virtualization platform"
+    publishedDateTime: 2021-03-11T18:10:00Z
+    webUrl: "https://www.hpcwire.com/2021/03/09/nvidia-launches-ai-enterprise-suite-for-vmware-vsphere/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2021/03/blue-green-abstract-tech_shutterstock-1471991357_700x.jpg"
+        width: 700
+        height: 414
+        isCached: true
 
 secured: "lsZvt2y2qJQyxIGsG9+FQRgO4IAFUF6aM5dMlEkADLDFNrK/lHt5p1oLTYX3tCm0r3I8z58hqS6wF68cZfWW82I5sHxOO1CIy7dPoHivDeomDKaBM5YuSCYmcga3rWDzCtYJ3FnwRjIuysa0d0bkk2uxonEOX5Q5gdpjzOd1aVIGoGT1BvvC1HIF5TVTt7Gh9iebM1tBaHAM6oez4W2JriPuKF+e5ZX7TftNuHSYNkXKgmMnSS66awavRp9yweSd8a0+0SE9+BEJBueCclwveOFfJqMhhqQ2Z9pCaG2ZyScSqg4yiyK3vb/WMjuyI3ooQuquMvu10nOEI8dYFnNCAzD0PZm4dW34LU5OLwe/n8sFtzL/bSV+x/U3u4ueWyWNtilWXEq+2w0NMAYUPy7DmeWEbfmvyYaL7bbgu4raf5/6olSaYdAQPJmNNXmI2Ephu+YA/RVl3kmmrlNWmnvaDqL6PL08dElgs8oj66lL9J0rR/t6JTUnyACRN0X5I/rBK+N5+2G+HJ0zu54clB3zNw==;BrvWh0rg4Tfy1TUJaCizaQ=="
 ---

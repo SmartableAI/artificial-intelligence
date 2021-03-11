@@ -46,22 +46,6 @@ related:
         width: 757
         height: 567
         isCached: true
-  - title: "Esme Learning Raises $7.5 Million In Series A Funding For Its AI-Enabled Digital Learning Platform"
-    excerpt: "Founded by edX and Pearson alum Beth Porter, and AI futurist David Shrier, Esme Learning is creating online learning experiences that are truly transformational in educating people, in industries such as cybersecurity,"
-    publishedDateTime: 2021-03-11T09:47:00Z
-    webUrl: "https://www.forbes.com/sites/marijabutkovic/2021/03/11/esme-learning-raises-75-million-in-series-a-funding-for-its-ai-enabled-digital-learning-platform/"
-    ampWebUrl: "https://www.forbes.com/sites/marijabutkovic/2021/03/11/esme-learning-raises-75-million-in-series-a-funding-for-its-ai-enabled-digital-learning-platform/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2021/03/11/esme-learning-raises-75-million-in-series-a-funding-for-its-ai-enabled-digital-learning-platform/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 73
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6049e525ec56cece6b1b8680%2F0x0.jpg"
-        width: 604
-        height: 402
-        isCached: true
   - title: "QCRI to hold seventh annual machine learning and data analytics symposium"
     excerpt: "Doha: The Qatar Center for Artificial Intelligence (QCAI), part of the Qatar Computing Research Institute (QCRI) at Hamad Bin Khalifa University (HBKU), will host the seventh annual Machine Learning and Data Analytics Symposium (MLDAS) in collaboration with The Boeing Company."
     publishedDateTime: 2021-03-08T12:48:00Z

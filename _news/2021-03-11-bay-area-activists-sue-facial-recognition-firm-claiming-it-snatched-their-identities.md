@@ -256,6 +256,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Facial recognition company sued by California activists"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
+    publishedDateTime: 2021-03-11T15:38:00Z
+    webUrl: "https://www.fresnobee.com/news/business/article249820553.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 19
   - title: "Russian Case Law in 2020 on Recognition and Enforcement of Foreign Judgments Made by Courts of Count"
     excerpt: "Recognition and enforcement of foreign judgments (‘R&E’) is a persistent problem of Russian case law. Different obstacles still arise even when judgments, filed for R&E in the Russian Federation, are made by courts of countries which are contracting parties to multilateral conventions (e."
     publishedDateTime: 2021-03-09T18:04:00Z

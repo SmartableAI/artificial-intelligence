@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Tele2 and foodora in a new collaboration on self-driving home deliveries"
-excerpt: "By connecting to Tele2's 5G network, the Doora droid can perceive its surroundings, communicate, and thus create a situation-adapted service - self-driving home deliveries. Doora has a camera that ..."
-publishedDateTime: 2021-03-11T09:32:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/tele2-and-foodora-in-a-new-collaboration-on-self-driving-home-deliveries-1030172146"
-webUrl: "https://markets.businessinsider.com/news/stocks/tele2-and-foodora-in-a-new-collaboration-on-self-driving-home-deliveries-1030172146"
+title: "Tele2 and foodora in a New Collaboration on Self-driving Home Deliveries"
+excerpt: "IoT news - All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
+publishedDateTime: 2021-03-11T12:23:00Z
+originalUrl: "https://iotbusinessnews.com/2021/03/11/49874-tele2-and-foodora-in-a-new-collaboration-on-self-driving-home-deliveries/"
+webUrl: "https://iotbusinessnews.com/2021/03/11/49874-tele2-and-foodora-in-a-new-collaboration-on-self-driving-home-deliveries/"
+ampWebUrl: "https://iotbusinessnews.com/2021/03/11/49874-tele2-and-foodora-in-a-new-collaboration-on-self-driving-home-deliveries/amp/"
+cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2021/03/11/49874-tele2-and-foodora-in-a-new-collaboration-on-self-driving-home-deliveries/amp/"
 type: article
-quality: 33
-heat: 33
+quality: 43
+heat: 43
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: IOT Business News
+  domain: iotbusinessnews.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "4wuU3nlMSfWhu1zmDviwnmE++D1Z8Ui6ig00xkRekVxk1XMnjJ2vXFiFV38I3KZWdZeFBBSpqsegZnok2az2rMDChZ8MfsK/tqYfQNft626RsM8rOl0r2j107okGLwoqeIO9WDKUcg/QcDZCOSn5EUdaI+0y7HVLIaetEojqStkG92RGMbQqQzxu2ayxmxoZRSGt2dH4FjTW9VxerDGW+9h1DKz3Kg+Xo2wvnP5H85SXy9CRzSuYV4Je189zjDUnE1nFQDOmP53iyEKBRNoJ38fDa1tLUwKqnV4dLTZNdY98FJ2gjuz75F94EZJu7d9EcaLXF3YLU8dlqutsv0hk1Irp6t3KMzzT37Bf/C52pjI=;na0Ts1FLZYglKaXUGicAbw=="
+images:
+  - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/doora-droid-sweden.jpg"
+    width: 360
+    height: 230
+    isCached: true
+
+secured: "K8qHCwH0qyQBiXw1DQBglDzmHwx0xNrzWS2FLtnojh22Z41i+DRCJodGwsbAr5qn47ftwOeZ+M93ldxhcflY5+BclrthUsH9LzNfHccTnXTn9UOVfuYlQkXBGHWSzgp5aFPgilA82i0o8DRPIR1ZjCELukF1LUXm7y7l/fPE15qP7/ZdjoNFalY84VhwcQWgfg1qLlwr/epZmnDUgo45vNszSyJnt5CnDmpWL0nvEebJWKoS9kVBozG9NvzyF8D7spvdMdVGvqNkq0XVav5Kloo+DBru6Wa36+rlr7HqgnSRiMXvlekqF3AJoxZq5PJZLWytLmYzZCIn6WbZ02nA/eUsTdEhy5mWUigT9ERJG/Y=;mVY8Y2ajSlwHQTn/mtg52A=="
 ---
 

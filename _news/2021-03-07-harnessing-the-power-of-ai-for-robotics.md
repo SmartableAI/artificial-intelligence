@@ -57,6 +57,22 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Announcing Neural’s weekly AI newsletter for cyborgs and humans"
+    excerpt: "Greetings humanoids! I could not be more excited to introduce Neural’s new weekly newsletter. Every seventh day, the cyborgs who write for Neural will send you an email full of news, analysis, opinion,"
+    publishedDateTime: 2021-03-11T20:42:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/neural-796x448.png"
+        width: 796
+        height: 448
+        isCached: true
   - title: "A neuron only found in the human brain has appeared in artificial intelligence"
     excerpt: "The multinodal neuron, which is able to recognise a consistent theme through abstract concepts, has (to date) only been found in the human brain. It was discovered by engineers at the startup, which was founded by billionaire Elon Musk,"
     publishedDateTime: 2021-03-08T14:36:00Z

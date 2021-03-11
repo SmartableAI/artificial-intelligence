@@ -60,6 +60,22 @@ related:
         width: 720
         height: 406
         isCached: true
+  - title: "Announcing Neural’s weekly AI newsletter for cyborgs and humans"
+    excerpt: "Greetings humanoids! I could not be more excited to introduce Neural’s new weekly newsletter. Every seventh day, the cyborgs who write for Neural will send you an email full of news, analysis, opinion,"
+    publishedDateTime: 2021-03-11T20:42:00Z
+    webUrl: "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/"
+    ampWebUrl: "https://thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2021/03/11/announcing-neurals-weekly-ai-newsletter-for-cyborgs-and-humans/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/03/neural-796x448.png"
+        width: 796
+        height: 448
+        isCached: true
   - title: "Harnessing the power of AI for robotics"
     excerpt: "Control Engineering - The Stuttgart-based Fraunhofer Institute for Industrial Engineering IAO and Fraunhofer Institute for Manufacturing Engineering and Automation IPA have"
     publishedDateTime: 2021-03-07T06:03:00Z

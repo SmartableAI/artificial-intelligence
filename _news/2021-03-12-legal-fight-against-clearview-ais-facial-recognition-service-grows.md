@@ -256,6 +256,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Facial recognition company sued by California activists"
+    excerpt: "Civil liberties activists are suing a company that provides facial recognition services to law enforcement agencies and private companies around the world, contending that Clearview AI illegally stockpiled data on 3 billion people without their knowledge or permission."
+    publishedDateTime: 2021-03-11T15:38:00Z
+    webUrl: "https://www.fresnobee.com/news/business/article249820553.html"
+    type: article
+    provider:
+      name: The Fresno Bee
+      domain: fresnobee.com
+    quality: 19
   - title: "Russian Case Law in 2020 on Recognition and Enforcement of Foreign Judgments Made by Courts of Count"
     excerpt: "Recognition and enforcement of foreign judgments (‘R&E’) is a persistent problem of Russian case law. Different obstacles still arise even when judgments, filed for R&E in the Russian Federation, are made by courts of countries which are contracting parties to multilateral conventions (e."
     publishedDateTime: 2021-03-09T18:04:00Z
@@ -266,6 +275,6 @@ related:
       domain: legal500.com
     quality: 0
 
-secured: "CyVjUpSBq5Aujh9HVmosExdUTygDgBkoTY2eoNqPEY6oRRmj7iVSTZygqPm9M3FP9BDvNv0LZ/8p706HHiQOBQbdso5haJBlUt5MCqNvqHSBdOnGFMCihyPhiyowvC8dW3r1ElnIXD51RC+wOwtTLHDIiK6sjI9qXBTjaInmFRJFfxw+1SfFWaFXqh/YiZIBYlrCqEbaSEy40nfbF7LFv25f8uANM7Tz8/zt0iyeOa/FUpPL230sao0VOw2uoxTcGfjOIb3cnsTT15oEc49eexnm+n9FiPC08dsjdPvO0epMvLzpV2XnE1hMB+O9r/EuMLSZ7LLA6z/LccZpA5TNFcx991W8Psg9F7NMMiS+1cA=;+uJ5puzH5Bi+TLPDKQXfJQ=="
+secured: "K9cWvubaQydSlMUL8K0AA+PP0Zqy1OZHWpHFG+DWnShKrrOusfhjFUPL61YtZvamTDlF38L3IBwEtSZOFpEQN8kWGu2jMKNXY7O2abeqTpAVrtpBEhO2uv1h1FMGS63DRy7/soBGiyfjdgYgJ+YewIRIHSGPGcCcLaPT6nX87xEOu5dHLQmHqhVR32Tn1oZwZma2nv3UbhG/cJsUplMg48NVHlH3AytPxjGbadlbDVN3QIjYTwCPUTeX+z0qGjd7YMD8owkwXAtB+i9NauM7qy7jtIfhQykQ6H6Yov6pp7hUzLgPWZsYlIwlq1n4MThGC4AE5vixlXQ9kgSmRRhqLuIRnLFfaMoJ+EpwO5ZLKGXpmygjztHOOa0wLQy26EI65X6YXNIQGYJM81dQAolv9n8vl7dYBF4lmuSvfGwZAv/D6fdFCsvgMQX0+Dfz+sT8l11biopBZPBLJ/Ha9V2K4y+jgWw7zQ5b2nC7cRrmIRzuurnEuuH0h2qWtPgZZc6dO5qwxsOVYOJE47FHe8BrZw==;mdDL5MmJtWIsRYf3ESiqNQ=="
 ---
 

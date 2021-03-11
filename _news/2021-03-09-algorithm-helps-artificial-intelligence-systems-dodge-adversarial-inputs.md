@@ -38,20 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Algorithm helps artificial intelligence systems dodge \"adversarial\" inputs"
-    excerpt: "A deep-learning algorithm developed by MIT researchers is designed to help machines navigate in the real world, where imperfect or ''adversarial'' inputs may cause uncertainty."
-    publishedDateTime: 2021-03-07T05:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2021-03/miot-aha030721.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Owlu1zxyD7Q4lxgAjb62M2UOQiDedd/ohjx+AmV/fEAiydOxY0oKQi198QXT53MTgcfpOdiH84dykjY0I1JCmXh7iEZS4TCuHbVjUuMy3dQXDDOsKzF8yCc2LzkWxWs+qW5ftqhrOhb7FnEJIOz7Dcuj5EeOmaQm+6fkiaBJQPXTrhAnzu+PvRWuh5tL8XCBrwjG0gNjFDV65PpNI/yZj1jtyVj7sVTYaaotNLH4kTjg/08DzhaPGcuv3yuf8dETZMeOiYGkjKQfg7/8OtqLBwYAYaz97oVJfUE+YtYQmZPaezLJvgBu+M8Ls3eRnsTLFLDLb/uTwPNm1SxwgBjFfAiU0lL94ho57UuBttefFpA=;qNanP9a8g4dEWztuhgfA9g=="
 ---

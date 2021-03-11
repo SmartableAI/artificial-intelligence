@@ -67,6 +67,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 6
+  - title: "Cybersecurity Industry’s Most Comprehensive Guarantee and Warranty Announced by Deep Instinct and Backed by the Munich Re Group"
+    excerpt: "The first cybersecurity company to back its product with a performance guarantee, plus a ransomware warranty – up to $3 million per company."
+    publishedDateTime: 2021-03-11T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20210311005335/en/Cybersecurity-Industry’s-Most-Comprehensive-Guarantee-and-Warranty-Announced-by-Deep-Instinct-and-Backed-by-the-Munich-Re-Group"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "KBuXR2FE+GVnUqfG6RVJcfF+FLU4DvKrGDHxr0OVxgg8Z+AzjCi4XCmsE363lfj5t8Z++qCjRAYgiOUq69pY7y/Ac3JfMADK1HYrPKOsqrdBGxEpWCM0A6aYVqK1UmVPqIntZwLmAEEPp9/65Pjq9E302n4U+PPdDts5PYPZcz8UiK9TqwaYvz+7HpLs0ydWyC4eMCTiTnan7zUhWZydJkKHfQS+REFOcpgqwtuMKkfWBTpJE0yHZrjEoK5cBDAh8vOEqDWkBlN8x+U0dwifsY5RaF3CxlnCVvgi5cZP62XPiwRxwNmLOJHoVExwV7DK/+YUd1C+pICTyidsbEBYaFvfZaDAnCcXD11YX/sQRMM=;1ZN0P5hTxDkDLfKhtmXYXA=="
 ---
